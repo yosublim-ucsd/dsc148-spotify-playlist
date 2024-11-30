@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Saddlepin Artwork: Isu Kim
 
-2,928 songs - 7 day 3 hr 43 min
+2,930 songs - 7 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Ayaw Mo Sa Matino](https://open.spotify.com/track/0zphT0nQdPJ6gHcw0T01lV) | [BLuNaYr](https://open.spotify.com/artist/4kWMODPErY3MCRSrTT3Q9n) | [Ayaw Mo Sa Matino](https://open.spotify.com/album/6dtubkggtCCUKYlggXoLB8) | 2:53 | 2023-08-17 | 2023-09-08 |
 | [Ayaw Nang Umuwi](https://open.spotify.com/track/32ctkfQfbhGTJDmUaCPP0U) | [Brxdvcl](https://open.spotify.com/artist/6cAz2eSvy5z4SFDCwxZKgv), [Naczyyy](https://open.spotify.com/artist/00VsYYzuRfymYXwYMH9g4Y) | [Ayaw Nang Umuwi](https://open.spotify.com/album/5LrI7Z0WYlRUy1dfWaFmFH) | 2:37 | 2023-03-02 | 2023-03-18 |
 | [Ayaw Pagdali](https://open.spotify.com/track/2Uzw73jkn1XMUBa3CP7bu5) | [Rippin P](https://open.spotify.com/artist/3nEiImKH9Fakc0NNLRZFO7) | [Ayaw Pagdali](https://open.spotify.com/album/0Z4Gom7XqiMlLTK4Ce7X1Y) | 2:23 | 2024-03-07 | 2024-04-12 |
+| [Ayaw'g Palayo](https://open.spotify.com/track/114XwGUAloS3MwgmKPXOSD) | [Garvie](https://open.spotify.com/artist/53mnA1nPUvbYo8FN0eUk0I) | [Ayaw'g Palayo](https://open.spotify.com/album/1jdb0BObbaJrkXzmcTzZ3p) | 4:06 | 2024-11-29 |  |
 | [Ayaw'g Undang](https://open.spotify.com/track/5XDLXaBJvTVqpUrCmU6si1) | [Xaje](https://open.spotify.com/artist/1FMDR9a058wt2TtbQH9NNN) | [Ayaw'g Undang](https://open.spotify.com/album/2fSOPFXih7EDT5fUTtPT4A) | 1:55 | 2023-02-23 | 2023-03-03 |
 | [Ayoko Na](https://open.spotify.com/track/2J8rCkPKqxbzwXV3ZLorgd) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Ayoko Na](https://open.spotify.com/album/7ray2qTLEfcj9nFEv5RhsO) | 2:53 | 2023-11-29 | 2024-01-12 |
 | [Ayoko Na](https://open.spotify.com/track/3VEfrWoKPXmFZBhr22jd9V) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Ayoko Na](https://open.spotify.com/album/1ys9OnR7NP9E17fLk5cdrT) | 2:53 | 2023-01-19 | 2023-12-17 |
@@ -1049,6 +1050,7 @@
 | [Hibang](https://open.spotify.com/track/4UWUXd1Wl2OOkb0Ywp9bAt) | [Adryle](https://open.spotify.com/artist/2NQ4Jo6M8qxHwsuctOVW17) | [Hibang](https://open.spotify.com/album/6Kw94afd88CmYlwven3PRb) | 3:53 | 2023-02-09 | 2023-02-24 |
 | [HIGH](https://open.spotify.com/track/4eqTWC7u1Lo7xyIBx7hOCk) | [Terrence Léon](https://open.spotify.com/artist/1faJFMrWV8RaqP9E9kmXHI), [DJ Nicar](https://open.spotify.com/artist/55UMFd9r0qGYgueJPE93tW) | [HIGH](https://open.spotify.com/album/0Uesor45Wv0dci693n6WlI) | 2:36 | 2023-03-02 | 2023-03-25 |
 | [High End](https://open.spotify.com/track/4Zhnj105BtPEYvtutbtWZm) | [Eroru](https://open.spotify.com/artist/4ZsyytxwVfuq9aB0QFU0jH) | [High End](https://open.spotify.com/album/1ZgXKUl6XEn07MZaroz1CX) | 3:04 | 2024-06-20 | 2024-07-27 |
+| [High na High](https://open.spotify.com/track/4PyNsBgJBLNVCH5UyIvkmS) | [Ratschild](https://open.spotify.com/artist/0ViLIKDpPd7LyOV55DC5oN), [Gerald Bato](https://open.spotify.com/artist/0uv1lbPGWuwq1sgRbyYBcY) | [High na High](https://open.spotify.com/album/1rUkPYTmyG1dkZuE418Vlp) | 4:08 | 2024-11-29 |  |
 | [high tops](https://open.spotify.com/track/4Wwxvr3YFqpss8552HZakW) | [buko boys](https://open.spotify.com/artist/3PTYbD85yltYmaEDe45nSa) | [high tops](https://open.spotify.com/album/0j7FEHisKDy8h4SQ4hsxHp) | 2:52 | 2024-02-29 | 2024-03-29 |
 | [Higher Dosage](https://open.spotify.com/track/6XeiCZQV1IP5Yg7yyH2aO0) | [Tera](https://open.spotify.com/artist/3k6meIaVtCMgLgTV0wlpQr) | [Higher Dosage](https://open.spotify.com/album/1o8KLHfUoZuh2brpIAEAsw) | 3:38 | 2022-11-24 | 2023-02-03 |
 | [Hikaw](https://open.spotify.com/track/6UgOAfap9yQArwfalAxFVH) | [Lawlaw Family](https://open.spotify.com/artist/1WIPM0MFwB62BEQxJDruCL), [DoubleZero](https://open.spotify.com/artist/1nFOs53aj9YcogbvGBDZZa) | [Hikaw](https://open.spotify.com/album/2SqEuF53DppRGDV7gYoTGC) | 4:51 | 2024-04-11 | 2024-06-01 |

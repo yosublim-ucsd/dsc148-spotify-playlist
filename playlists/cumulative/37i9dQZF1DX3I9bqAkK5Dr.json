@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Eeroje",
+        "url": "https://open.spotify.com/album/1wfq34tbWY4qN4ojUJJ81F"
+      },
+      "artists": [
+        {
+          "name": "Fleep & Arin",
+          "url": "https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188053,
+      "name": "Eeroje",
+      "url": "https://open.spotify.com/track/3bVDOouNAzL5tHsISeCbgw"
+    },
+    {
+      "album": {
         "name": "Em Mantramo",
         "url": "https://open.spotify.com/album/4TcOrl0eAyJTtCMqHIcxFh"
       },

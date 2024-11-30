@@ -1192,7 +1192,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 178062,
       "name": "CALCINHA COR DE ROSA",
       "url": "https://open.spotify.com/track/4QbXJLdiECLdJkyqQdH9QW"
@@ -3054,7 +3054,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 178370,
       "name": "Levada",
       "url": "https://open.spotify.com/track/05z6zNBFg6dDk9Fc4V04OP"
@@ -5610,7 +5610,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 151103,
       "name": "Sintomas de Prazer - Live",
       "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"
@@ -5843,6 +5843,32 @@
     },
     {
       "album": {
+        "name": "Primeiros Momentos",
+        "url": "https://open.spotify.com/album/57iCMZb367VYoVeg7p6udu"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/3uGQ8A5THLv7vsay3G5iWy"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Lovro",
+          "url": "https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189913,
+      "name": "Ta\u00e7a de Vinho",
+      "url": "https://open.spotify.com/track/2g0YDkH63PqiPYVeadqXbg"
+    },
+    {
+      "album": {
         "name": "Es\u00fa",
         "url": "https://open.spotify.com/album/11KgjDEaT1YjNUphDDTOzc"
       },
@@ -5984,7 +6010,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 169411,
       "name": "Topless",
       "url": "https://open.spotify.com/track/5wJcBm3R1DgaU42b7EpcJd"
@@ -6006,7 +6032,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 134531,
       "name": "TOXICODE",
       "url": "https://open.spotify.com/track/6kZl2M7dL1QcGzASoutZul"
@@ -6154,6 +6180,28 @@
       "duration_ms": 168176,
       "name": "VAMPIRA",
       "url": "https://open.spotify.com/track/1vUf2pQNYT0EEEU5RLxO4h"
+    },
+    {
+      "album": {
+        "name": "Vampira",
+        "url": "https://open.spotify.com/album/4RMjLatcJPqTKdDebCn3Pm"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "DONATTO",
+          "url": "https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202411,
+      "name": "Vampira",
+      "url": "https://open.spotify.com/track/08AB9WZU9UVBvTn4z6pHSP"
     },
     {
       "album": {

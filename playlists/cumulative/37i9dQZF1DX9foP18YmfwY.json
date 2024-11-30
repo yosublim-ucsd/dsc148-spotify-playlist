@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 199344,
       "name": "Pelas M\u00e3os de Maria",
       "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
@@ -3840,6 +3840,24 @@
       "duration_ms": 159155,
       "name": "\u00c9 Lindo Ser Cat\u00f3lico",
       "url": "https://open.spotify.com/track/3SfjEP1A8HF7oXpH61K6Re"
+    },
+    {
+      "album": {
+        "name": "\u00d3 Maria Concebida",
+        "url": "https://open.spotify.com/album/5Mn9pjNvcGtEHxCmPCOKIJ"
+      },
+      "artists": [
+        {
+          "name": "Eliana Ribeiro",
+          "url": "https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183461,
+      "name": "\u00d3 Maria Concebida",
+      "url": "https://open.spotify.com/track/6dc4GllypJnA2sZy4aZXCo"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY"

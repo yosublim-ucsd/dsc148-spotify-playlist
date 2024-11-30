@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-287 songs - 15 hr 26 min
+288 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [robusta](https://open.spotify.com/track/22B3ckVP0ELBQUdAhHySEe) | [iced latte](https://open.spotify.com/artist/5WT2j29ajCAxsK10dqksg2) | [robusta](https://open.spotify.com/album/04UNh2Lb7c5RYDcQMEe7dP) | 2:18 | 2024-04-19 |  |
 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 | 2024-05-10 |  |
 | [see me now](https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [See Me Now](https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi) | 3:29 | 2023-04-28 | 2023-07-16 |
-| [Siempre Tendré Mi Voz](https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 2:45 | 2024-05-10 |  |
+| [Siempre Tendré Mi Voz](https://open.spotify.com/track/43N6tDRX6XBjP7OeEFc7NC) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 2:45 | 2024-05-10 | 2024-11-30 |
 | [Siempre tengo sueño](https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Siempre tengo sueño](https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3) | 2:45 | 2023-04-07 |  |
 | [Siento](https://open.spotify.com/track/00VFW0mnvoFYLVhrhFsk7y) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Singles 2019\-2021](https://open.spotify.com/album/7gJxGk4pjvEgs9BzLeaRIY) | 3:30 | 2022-07-11 | 2023-01-07 |
 | [Siento](https://open.spotify.com/track/0WFqLLU1eofNctXNVjzuIX) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Siento](https://open.spotify.com/album/08dn0Fi95hgdzUJmFgzRat) | 3:30 | 2022-05-20 | 2022-07-29 |
@@ -280,6 +280,7 @@
 | [UNA LUZ](https://open.spotify.com/track/1c3qAaZrwvcTHHOL8XrHLJ) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [UNA LUZ](https://open.spotify.com/album/6JXgkVDyf9IFhyfn1TGNSY) | 2:07 | 2022-05-20 | 2024-05-11 |
 | [Una Noche \- Unplugged](https://open.spotify.com/track/5PzwXQyY8B64TH5G71da4R) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Una Noche \(Unplugged\)](https://open.spotify.com/album/4mXPyq4Rgu2gTv2oIsliLu) | 3:58 | 2022-05-20 | 2024-05-11 |
 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 | 2022-05-20 | 2022-10-28 |
+| [uwu ^^](https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [uwu ^^](https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB) | 2:42 | 2024-11-29 |  |
 | [VELOZzzz](https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [VELOZzzz](https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN) | 3:04 | 2022-10-27 | 2023-07-13 |
 | [Vibe](https://open.spotify.com/track/1xDq5VlR1LDjNAgZBwFLc7) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vibe](https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan) | 3:10 | 2022-05-20 |  |
 | [Vida](https://open.spotify.com/track/38uY6EFyAAKeBLw23s4r9j) | [Pranz](https://open.spotify.com/artist/5FO1DobN0uCO7hznPii2Av), [Maul On The Mix](https://open.spotify.com/artist/0SiGpCFq4K4uQXoNr69aUn) | [Vida](https://open.spotify.com/album/2aWANtSLYshGYqbXndAIFZ) | 3:03 | 2022-05-20 |  |

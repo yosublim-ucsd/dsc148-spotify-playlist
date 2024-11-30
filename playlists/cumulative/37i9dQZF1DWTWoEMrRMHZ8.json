@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Leoni, Z\u00e9lia Duncan",
+  "description": "As belas novidades da MPB. Foto: 5 a seco",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -254,6 +254,24 @@
       "duration_ms": 201486,
       "name": "A fila",
       "url": "https://open.spotify.com/track/7AWjDlpdAML5IQxXY3dHpa"
+    },
+    {
+      "album": {
+        "name": "Curyman II",
+        "url": "https://open.spotify.com/album/4m9abw8xMatwHVgN1sXKVV"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "A For\u00e7a",
+      "url": "https://open.spotify.com/track/3aKm1sKmqCcfrl6gCihFhG"
     },
     {
       "album": {
@@ -2289,6 +2307,32 @@
     },
     {
       "album": {
+        "name": "Bem Humorado",
+        "url": "https://open.spotify.com/album/7pF4CFDO4VDXA6ynioCRml"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9carlos Ribeiro",
+          "url": "https://open.spotify.com/artist/3K2J18fCBtWbGlWPDRhdjs"
+        },
+        {
+          "name": "N\u00e1 Ozzetti",
+          "url": "https://open.spotify.com/artist/0uhzGb9luJW0RlaYgFg4Ic"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193034,
+      "name": "Bem Humorado",
+      "url": "https://open.spotify.com/track/4R1ER60t5dJKc3l1PAuXuS"
+    },
+    {
+      "album": {
         "name": "Bem Perto",
         "url": "https://open.spotify.com/album/5eCegiIOKs5WcJ77rqCRoS"
       },
@@ -3730,6 +3774,28 @@
       "duration_ms": 246396,
       "name": "Como?",
       "url": "https://open.spotify.com/track/1mFmqjdb88botJAWytf5FN"
+    },
+    {
+      "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0"
+      },
+      "artists": [
+        {
+          "name": "5 a Seco",
+          "url": "https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f"
+        },
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232989,
+      "name": "Com\u00e9dia de Enganos",
+      "url": "https://open.spotify.com/track/455OUSuLbjIzUbBVfBs7bu"
     },
     {
       "album": {
@@ -6950,7 +7016,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 136630,
       "name": "Jaqueta",
       "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
@@ -8496,7 +8562,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 155291,
       "name": "Meu Carnaval",
       "url": "https://open.spotify.com/track/21af4sSf0V6JHgnBHTNgOT"
@@ -15430,7 +15496,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 252074,
       "name": "Topo da Minha Cabe\u00e7a",
       "url": "https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL"

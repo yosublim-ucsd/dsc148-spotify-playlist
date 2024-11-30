@@ -1781,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "The Millia Pink And Green",
+        "url": "https://open.spotify.com/album/7EHablbY72TGgPQb3FGN9h"
+      },
+      "artists": [
+        {
+          "name": "Sway",
+          "url": "https://open.spotify.com/artist/1bElSTQqO1Vd1pia2t7JeS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395389,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/0vrCyUnCmMcUNGIA5GKgZD"
+    },
+    {
+      "album": {
         "name": "Garage Sale EP + Remixes",
         "url": "https://open.spotify.com/album/1pcaVlKBjlBWSUqfcELSzO"
       },
@@ -1850,6 +1868,24 @@
       "duration_ms": 277285,
       "name": "Fishbrain",
       "url": "https://open.spotify.com/track/0xEHXAoanem0YrAZ2HMFRY"
+    },
+    {
+      "album": {
+        "name": "Flash in the Pan",
+        "url": "https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223365,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ"
     },
     {
       "album": {

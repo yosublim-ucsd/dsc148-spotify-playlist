@@ -2,13 +2,14 @@
 
 ### [Salsa Colombiana](https://open.spotify.com/playlist/37i9dQZF1DX18u16ebmQgx)
 
-> ¡Brillando baldosa! Foto: Grupo Niche
+> ¡Brillando baldosa! Foto: Mike Bahía
 
-135 songs - 10 hr 8 min
+137 songs - 10 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amantes \- Versión Salsa](https://open.spotify.com/track/30UA08ePK3varU1cNX2Owt) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Amantes \(Versión Salsa\)](https://open.spotify.com/album/1H1HjzU8EqJNAdSJgAVAmN) | 4:04 | 2022-06-24 | 2022-11-29 |
+| [Amor A Mitad](https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ) | 3:11 | 2024-11-29 |  |
 | [Antioqueña](https://open.spotify.com/track/0q9gWhv4K5GKzkJW80PYgS) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [Antioqueña](https://open.spotify.com/album/6XC3sy2ZJvlDj6ezJLx8eb) | 4:29 | 2023-08-04 |  |
 | [Ayúdame Inspiración](https://open.spotify.com/track/4t3ZKcUdZkASycS1nixIgL) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Cuba Linda](https://open.spotify.com/album/5XhWe2O6ZHYu33IE67buw7) | 4:07 | 2022-06-24 | 2024-07-13 |
 | [Barranquillero Arrebatao](https://open.spotify.com/track/78ntwzvjylG0NiEaoe6cKl) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Intimamente, Lo Mejor De...](https://open.spotify.com/album/7yddc8i6I8nFoDs8lDCHnk) | 4:20 | 2023-08-04 |  |
@@ -49,7 +50,7 @@
 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/6iXhpv1V5Ve5FSlJ4fpRsg) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Dos Decadas de Oro](https://open.spotify.com/album/5USvOUEgQWWhZ7CTEpfWsA) | 4:39 | 2022-06-24 | 2022-11-13 |
 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/4ee1fUrPVok1bEyj1cm4Rv) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/7C0OfgbApcvYfMJEgfUxyE) | 4:39 | 2023-08-04 |  |
 | [El Coco](https://open.spotify.com/track/0rwX9dB6ih5rxfifb8DZ8G) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tierra de Mis Amores](https://open.spotify.com/album/5QvA8zidWQiuyKwN0TljFR) | 4:01 | 2022-06-24 | 2023-03-25 |
-| [El Diablo](https://open.spotify.com/track/24rWaJaf238EktE0rQrtyj) | [La Radio Bembé Orquesta](https://open.spotify.com/artist/6cajshs06v9KvBLZuJZhfW) | [El Diablo](https://open.spotify.com/album/29NP640fImq9OjFZRrYmFx) | 4:04 | 2022-11-29 |  |
+| [El Diablo](https://open.spotify.com/track/24rWaJaf238EktE0rQrtyj) | [La Radio Bembé Orquesta](https://open.spotify.com/artist/6cajshs06v9KvBLZuJZhfW) | [El Diablo](https://open.spotify.com/album/29NP640fImq9OjFZRrYmFx) | 4:04 | 2022-11-29 | 2024-11-30 |
 | [El Preso](https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Narcos, Vol\. 2 \(More Music from the Netflix Original Series\)](https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB) | 4:53 | 2022-06-24 |  |
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2022-12-02 | 2023-03-02 |
 | [En Barranquilla Me Quedo](https://open.spotify.com/track/4Agimk8dKdPJD7M6HBCK42) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 5:11 | 2023-03-24 | 2023-07-29 |
@@ -60,7 +61,7 @@
 | [Eso Duele](https://open.spotify.com/track/05C4Elh9fGSakdUp8tlka4) | [Aguanile](https://open.spotify.com/artist/1hdKuH2r5ZyarRGZC6vsdA) | [Eso Duele](https://open.spotify.com/album/7EmxgueinqFEh16gXDlOyV) | 3:35 | 2024-07-12 |  |
 | [Gotas De Lluvia](https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 | 2022-06-24 |  |
 | [Hagamos Lo Que Diga el Corazón \- Versión Sinfónica](https://open.spotify.com/track/4hylk17Bo5u7qK7FfjNz7v) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Hagamos Lo Que Diga el Corazón \(Versión Sinfónica\)](https://open.spotify.com/album/4oQHXfUffQUYqRgb6zc4A2) | 5:38 | 2023-03-10 |  |
-| [Herencia Taína](https://open.spotify.com/track/629c9wMP8VDhq3VhUeaIiD) | [Marea Brava Orquesta](https://open.spotify.com/artist/6CnhNwAiuTppiZo7xLRqzG) | [Pa' Ti y Pa' Mi](https://open.spotify.com/album/23xGV7gv77nP015aIbmvEk) | 4:36 | 2022-06-24 |  |
+| [Herencia Taína](https://open.spotify.com/track/629c9wMP8VDhq3VhUeaIiD) | [Marea Brava Orquesta](https://open.spotify.com/artist/6CnhNwAiuTppiZo7xLRqzG) | [Pa' Ti y Pa' Mi](https://open.spotify.com/album/23xGV7gv77nP015aIbmvEk) | 4:36 | 2022-06-24 | 2024-11-30 |
 | [Juan](https://open.spotify.com/track/4cou0fuQJ6O64pgPp5liuR) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 3:51 | 2022-06-24 | 2023-08-05 |
 | [La Flor de los Lindos Campos](https://open.spotify.com/track/5jrB7AWwtAdW1mGae1mFNN) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [La Flor de los Lindos Campos](https://open.spotify.com/album/2BUtJVFArByIESwG092wHR) | 3:53 | 2022-06-24 |  |
 | [La Gente Pide](https://open.spotify.com/track/7npSNwapk5Nh95T4y9V3ez) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [La Gente Pide](https://open.spotify.com/album/7fEGyyt4qPXd7XKusUrvL5) | 4:13 | 2023-08-04 |  |
@@ -126,6 +127,7 @@
 | [Salsa](https://open.spotify.com/track/0pFLD8oIWPHDBgkPzINYcG) | [Yuri Buenaventura](https://open.spotify.com/artist/7FIeKWN0FTtzvQ1i7Z1aTx) | [Yo Soy](https://open.spotify.com/album/3PB2RhTronK7QGdyOdDaBs) | 4:28 | 2023-08-04 |  |
 | [Salsa](https://open.spotify.com/track/7ElA9eXX6zKtexObEeexHf) | [Yuri Buenaventura](https://open.spotify.com/artist/7FIeKWN0FTtzvQ1i7Z1aTx) | [Salsita Pal Corazón](https://open.spotify.com/album/5Sec49juKX7hXBWI6tz7j0) | 4:28 | 2022-06-24 | 2022-11-13 |
 | [Sentimiento Caleño](https://open.spotify.com/track/0Sv9GZus14o4AwvXb8CeYs) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Salsa Pa Rato](https://open.spotify.com/album/6PiAJKP3eTFzCa0Bni784i) | 5:32 | 2022-06-24 |  |
+| [Señor Marido](https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [Señor Marido](https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe) | 3:27 | 2024-11-29 |  |
 | [Si Yo Te Dije](https://open.spotify.com/track/3VpMDXyvUuBvlK49u2sKeE) | [Aguanile](https://open.spotify.com/artist/1hdKuH2r5ZyarRGZC6vsdA), [David Zahan](https://open.spotify.com/artist/6GNOUK9TS7x72jEjDsdwHn) | [Si Yo Te Dije](https://open.spotify.com/album/1UhSwKJnp9xYkdCvsBa7cU) | 4:07 | 2023-09-15 | 2024-07-13 |
 | [Sobre las Olas](https://open.spotify.com/track/6jly2CevRmnMbmU2R1cm1e) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [Grandes Hits \- Latin Brothers](https://open.spotify.com/album/16Crjgmzz0nueE1mu3TXUq) | 3:24 | 2023-08-04 |  |
 | [Sobre las Olas](https://open.spotify.com/track/0fSBpCMkoTvMFH41UlX1T5) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [Colección Oro de la Salsa, Vol\. 1](https://open.spotify.com/album/68vd86slpVQ4vk2Uzr3Fut) | 3:24 | 2022-06-24 | 2022-11-13 |

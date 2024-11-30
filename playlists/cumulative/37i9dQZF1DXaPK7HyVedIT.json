@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Malive",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Mu540",
   "name": "Dance Paradise",
   "tracks": [
+    {
+      "album": {
+        "name": "4x4",
+        "url": "https://open.spotify.com/album/4ZSKnDI8ZcTIpdfkbdPQrp"
+      },
+      "artists": [
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "06:40 AM",
+      "url": "https://open.spotify.com/track/7ikwjOjucTfXiqY8CAEywQ"
+    },
     {
       "album": {
         "name": "1 2 3 (Empezamos Otra Vez)",
@@ -296,7 +322,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 159375,
       "name": "Allein Allein",
       "url": "https://open.spotify.com/track/0FlTOYJxfZvYsXf8Cyahyt"
@@ -922,7 +948,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 177000,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/1JRtd5QFk0oqicrpCzGFhM"
@@ -3112,12 +3138,12 @@
       },
       "artists": [
         {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
           "name": "Rain Radio",
           "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
         }
       ],
       "date_added": "2024-09-20",
@@ -3624,7 +3650,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 157235,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc"
@@ -5192,7 +5218,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 169523,
       "name": "Kench",
       "url": "https://open.spotify.com/track/5sOdcxMAWtSU0KgWtKkSjY"
@@ -5378,7 +5404,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 249573,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
@@ -5710,7 +5736,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 152375,
       "name": "LoCo LoCo",
       "url": "https://open.spotify.com/track/5zkSOGQBgjOPc3JXa8Hiwx"
@@ -5732,7 +5758,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 399360,
       "name": "Locomotiva Ibiza 2099 feat. VTSS",
       "url": "https://open.spotify.com/track/3VuPtliMz0oXO9bDnA1CHq"
@@ -6582,7 +6608,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 142080,
       "name": "N'Body Problem (feat. Brave Culture)",
       "url": "https://open.spotify.com/track/0rIxrPwnnsCiX41CisWQ6w"
@@ -7786,7 +7812,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 138951,
       "name": "Raving",
       "url": "https://open.spotify.com/track/1U6hOheaJGUCWzn3ot1cbm"
@@ -8320,7 +8346,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 192187,
       "name": "Scarlett",
       "url": "https://open.spotify.com/track/2bT1KqGLDhPsS7uEPE4RMP"
@@ -9699,6 +9725,36 @@
     },
     {
       "album": {
+        "name": "Toda Vez",
+        "url": "https://open.spotify.com/album/3tHCfv2q3l464gS1ylbCKR"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Volkoder",
+          "url": "https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU"
+        },
+        {
+          "name": "DANNE",
+          "url": "https://open.spotify.com/artist/6Zwiy4J7B6JIcVSeB87riG"
+        },
+        {
+          "name": "Cantini",
+          "url": "https://open.spotify.com/artist/0eG7BXt40ztpJQ7nUOYvg3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98267,
+      "name": "Toda Vez",
+      "url": "https://open.spotify.com/track/0mph6rN43tWqDslh0Z73xM"
+    },
+    {
+      "album": {
         "name": "Together We Rise",
         "url": "https://open.spotify.com/album/45xyLrJQw1QgYatzFDStxP"
       },
@@ -10357,6 +10413,24 @@
     },
     {
       "album": {
+        "name": "Walking On The Moon",
+        "url": "https://open.spotify.com/album/3mEpC6hLeY51lGS5de1CBa"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Walking On The Moon",
+      "url": "https://open.spotify.com/track/4XMjItYA79Z5DWa6QV8ugP"
+    },
+    {
+      "album": {
         "name": "Wasted Love",
         "url": "https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80"
       },
@@ -10590,7 +10664,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 181440,
       "name": "Who's She?",
       "url": "https://open.spotify.com/track/1geZPNP04L1bHDD4SlPX1I"
@@ -10616,7 +10690,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 173996,
       "name": "Why I Love You So",
       "url": "https://open.spotify.com/track/7dnBSJEnqpf8dK5fKQevqi"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: 200(Eback)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Kim Mi Jeong(\uae40\ubbf8\uc815)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -6410,7 +6410,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 173386,
       "name": "I Wish (Feat. Leellamarz, B.I)",
       "url": "https://open.spotify.com/track/3nh8M3jWQr1DHfZ5RhTlic"
@@ -7457,6 +7457,24 @@
     },
     {
       "album": {
+        "name": "Late Night Flaneur",
+        "url": "https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx"
+      },
+      "artists": [
+        {
+          "name": "Haru Kid",
+          "url": "https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147596,
+      "name": "Late Night Flaneur",
+      "url": "https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul"
+    },
+    {
+      "album": {
         "name": "LATELY",
         "url": "https://open.spotify.com/album/5TWPlHZkZ55l3zBaSrtSRk"
       },
@@ -7798,12 +7816,12 @@
       },
       "artists": [
         {
-          "name": "O\u2019Domar",
-          "url": "https://open.spotify.com/artist/6BQDqgvj7U08coJTW72T68"
+          "name": "O'Domar",
+          "url": "https://open.spotify.com/artist/2tVfmWc35v5ALhML9zgSyw"
         },
         {
           "name": "JOONIE",
-          "url": "https://open.spotify.com/artist/4sX22X56Udyfw5vOewwKfP"
+          "url": "https://open.spotify.com/artist/3eXkt1nVfgCsKiMIupInVZ"
         },
         {
           "name": "oceanfromtheblue",

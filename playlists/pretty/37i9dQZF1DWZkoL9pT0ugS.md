@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkoL9pT0ugS.md) - [plain]
 
 > Our editor’s picks for the biggest songs from The Rock List in 2023\. Cover: Nothing But Thieves
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,455 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,454 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

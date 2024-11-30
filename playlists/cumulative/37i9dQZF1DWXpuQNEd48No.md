@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: DG Immortals & Parmish Verma
 
-313 songs - 16 hr 12 min
+314 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Albadi Hood](https://open.spotify.com/track/1pGcsZRZHbGodigDtfTgM1) | [Billa Sonipat Ala](https://open.spotify.com/artist/2meesqiC5l9NfNShrgP8Hf), [Prince Jamba](https://open.spotify.com/artist/6RDhaAavmBlrZKUqJ8YvJy), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Albadi Hood](https://open.spotify.com/album/287jjIzNyGO25bcSTYJBYx) | 3:21 | 2023-07-24 |  |
 | [Albedi](https://open.spotify.com/track/0qFp9OBd6h4l6XelnBNzlZ) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Albedi](https://open.spotify.com/album/4wgSAxKaTsBRsQClR0kR1H) | 3:00 | 2024-01-05 |  |
 | [Alcoholic](https://open.spotify.com/track/3AAHmSw32Q8HJ9ySLDkA3e) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:23 | 2024-10-18 |  |
+| [Andhadhundh](https://open.spotify.com/track/2r41UPprKTdzCHunyb9ITs) | [RC Magnum](https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT), [Mani Rana](https://open.spotify.com/artist/3BRj60pF5wpSEF0Y5nbX9H), [Manish Gaat](https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L) | [Andhadhundh](https://open.spotify.com/album/2Hi46SNyAZfVyKOWJQ9YTs) | 2:49 | 2024-11-29 |  |
 | [Ankhon Ka Kasoor](https://open.spotify.com/track/2Qil9eFB9arcc6DxCCdvX0) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7) | [Ankhon Ka Kasoor](https://open.spotify.com/album/0Tkivn2mOHK6sUPfhgtIpq) | 2:22 | 2023-05-09 | 2024-09-18 |
 | [Antidote](https://open.spotify.com/track/6VJIHzVA2VwW33fgTD0VXe) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [Antidote](https://open.spotify.com/album/2X9avJaTZEJ5uz8AKTubYp) | 3:01 | 2023-09-13 | 2023-10-07 |
 | [Aukaat](https://open.spotify.com/track/72pIrr3yu9g19s7gXZKYE6) | [Saksham Sharma](https://open.spotify.com/artist/2SjpavcMXJENAUDUrC5o43), [Apoorav](https://open.spotify.com/artist/2K2ToeghcuRJIA51gwegDT), [Mt 35](https://open.spotify.com/artist/09Sl1J8H0dBQVeUxUCHHP6) | [Aukaat](https://open.spotify.com/album/16kXtvyn9yBOxFxn2M1SFO) | 3:45 | 2023-06-12 | 2023-07-12 |
@@ -319,7 +320,7 @@
 | [Western Up](https://open.spotify.com/track/0tUTTFuPwxeA3FJzNwxEO5) | [Eshan Bhati](https://open.spotify.com/artist/2wjfEAuQR3ymFMZhyo7aBf), [Ajitesh](https://open.spotify.com/artist/2QflLKBdw8HuzSNVCuIFE3) | [Western Up](https://open.spotify.com/album/59eweM489JYi1Lseo4Wx8k) | 3:01 | 2024-07-31 | 2024-11-08 |
 | [World War](https://open.spotify.com/track/54z8rvv4UU2O4UmBbdDn0D) | [Saaaj Tomar](https://open.spotify.com/artist/3Y7nPioCRQYii5bAFVbOMl), [Chaahat](https://open.spotify.com/artist/0Rmepg7H9PGYIDlR6wG1Iy), [VJ Paul](https://open.spotify.com/artist/7znLEJV5gqErkQT4xd8yOn) | [Tem Aan Do](https://open.spotify.com/album/22JcwfsstI5WV57OI1duDw) | 2:56 | 2023-12-22 |  |
 | [Yaar Haryane Te](https://open.spotify.com/track/7M5rtXfBW7FZ9gEWkw2uDR) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Yaar Haryane Te](https://open.spotify.com/album/2T5gjowpYgITFECRvQcFOE) | 4:03 | 2023-03-28 | 2024-08-13 |
-| [Yadav Brand 4 \(feat\. Aniket Yadav\)](https://open.spotify.com/track/7219K3Erao3elqwkDox2vf) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ), [Aniket Yadav](https://open.spotify.com/artist/0g6pAi5XRxoT9tjygNLbW6) | [Yadav Brand 4 \(feat\. Aniket Yadav\)](https://open.spotify.com/album/57HlcoG829tHIUPFIudfrL) | 3:03 | 2024-09-30 |  |
+| [Yadav Brand 4 \(feat\. Aniket Yadav\)](https://open.spotify.com/track/7219K3Erao3elqwkDox2vf) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ), [Aniket Yadav](https://open.spotify.com/artist/0g6pAi5XRxoT9tjygNLbW6) | [Yadav Brand 4 \(feat\. Aniket Yadav\)](https://open.spotify.com/album/57HlcoG829tHIUPFIudfrL) | 3:03 | 2024-09-30 | 2024-11-30 |
 | [Yamraaj](https://open.spotify.com/track/3YaeW3xxbjiLITtHQIK3y0) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Yamraaj](https://open.spotify.com/album/6yXzEfYAv5KsrReCdVWgJw) | 3:29 | 2023-03-28 |  |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

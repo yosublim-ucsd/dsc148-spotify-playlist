@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Elder Dayán Díaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,764 likes - 60 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,810 likes - 60 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [El Picantico](https://open.spotify.com/track/0N3AaRr6eQ0vBoepAN1Yzy) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [EL CANTOR](https://open.spotify.com/album/7BaZ0Qg89LRnOwSqLIylNp) | 3:43 |
-| 2 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 |
-| 3 | [La Juma](https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [La Juma](https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE) | 4:38 |
-| 4 | [El Que No Bebe Se Muere](https://open.spotify.com/track/7ws2k8irXAxlItFvTj9ZCg) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Luis Jose Villa](https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8) | [El Que No Bebe Se Muere](https://open.spotify.com/album/5OPA2GrcXBKGG0xvWZIM2k) | 4:08 |
-| 5 | [INALCANZABLE](https://open.spotify.com/track/4KhcXECF8GBXNlEHmkRWZJ) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [INALCANZABLE](https://open.spotify.com/album/4U2AEMR451ZacmMXYAovpl) | 3:38 |
-| 6 | [Amor Incomparable](https://open.spotify.com/track/3UTUu8Y3bx7wYygEw29MTn) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Amor Incomparable](https://open.spotify.com/album/3hHJc7PAbBMhgkuCHpW2Ly) | 4:07 |
+| 2 | [2025](https://open.spotify.com/track/2ozIUT44pxAwAlDR6zlMUJ) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [2025](https://open.spotify.com/album/4Arbmco8dBzKZ0MwQAMnIk) | 3:34 |
+| 3 | [El Que No Bebe Se Muere](https://open.spotify.com/track/7ws2k8irXAxlItFvTj9ZCg) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Luis Jose Villa](https://open.spotify.com/artist/4xpYKPMslguBXzCM5LAuB8) | [El Que No Bebe Se Muere](https://open.spotify.com/album/5OPA2GrcXBKGG0xvWZIM2k) | 4:08 |
+| 4 | [INALCANZABLE](https://open.spotify.com/track/4KhcXECF8GBXNlEHmkRWZJ) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [INALCANZABLE](https://open.spotify.com/album/4U2AEMR451ZacmMXYAovpl) | 3:38 |
+| 5 | [Amor Incomparable](https://open.spotify.com/track/3UTUu8Y3bx7wYygEw29MTn) | [Sergio Luis Rodríguez](https://open.spotify.com/artist/6IA0c7ljnyM14XsePnrFpw), [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7) | [Amor Incomparable](https://open.spotify.com/album/3hHJc7PAbBMhgkuCHpW2Ly) | 4:07 |
+| 6 | [La Juma](https://open.spotify.com/track/0GHpkjLnZpTcZ7ltzmYy7c) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [La Juma](https://open.spotify.com/album/13hIUugv4LXUG6PITBdZiE) | 4:38 |
 | 7 | [Cupido](https://open.spotify.com/track/26PCa9oiL7a8frOxeo4G52) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [A To' Timbal](https://open.spotify.com/album/62XE6gFwbqHghQwsifIVyO) | 3:26 |
 | 8 | [Si No Me Falla el Corazón](https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Juank Padilla](https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4) | [Canta Vallenato Homenaje a los Compositores, Vol\. 3](https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw) | 6:02 |
-| 9 | [La Guajirita](https://open.spotify.com/track/0eqBbsmdm321vZF4KxErZR) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Ovidio Granados](https://open.spotify.com/artist/7291PPngS2iCpyTpC6Kw5C) | [La Guajirita](https://open.spotify.com/album/35Xb2b2EAeZX7U3nSo5Atr) | 3:29 |
+| 9 | [BACANO](https://open.spotify.com/track/4lHjc7jgioQhACpJADMsED) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | ['TA MALO](https://open.spotify.com/album/75BaMB8qvdrjZrIYwRBNOZ) | 3:10 |
 | 10 | [Modo Avión](https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Lucas Dangond](https://open.spotify.com/artist/3ozq7y6TMdWzUMc27vzFMX) | [Para Ustedes](https://open.spotify.com/album/1JfE5rJHaf1orCmnwtEDHd) | 3:42 |
 | 11 | [Sin Medir Distancia](https://open.spotify.com/track/7yx473uSOxKxtrtarfAVde) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Diomedes Vive](https://open.spotify.com/album/19vByA1IlHGAogr4eeqier) | 5:01 |
 | 12 | [El Amor Más Grande Del Planeta](https://open.spotify.com/track/7oDjteyywrS6miaOWdAsyp) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Un Sueño Llamado Sinfónico](https://open.spotify.com/album/63ehDXG0BtCb6WIjhl3ESB) | 4:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 59 | [Difícil de Igualar](https://open.spotify.com/track/3vD0lvTizLj1jr8QE75Y9x) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 5:03 |
 | 60 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
 
-Snapshot ID: `ZyRB0wAAAACDbDum5XdYJP4tKbYAQpGo`
+Snapshot ID: `Z0lVjgAAAAATgvO2V9HNOfWV6zT2Yp0n`

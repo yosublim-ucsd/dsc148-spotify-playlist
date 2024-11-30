@@ -5574,7 +5574,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 120973,
       "name": "Jus' Know",
       "url": "https://open.spotify.com/track/3PbutKhWZwCvV36TMJiNl3"
@@ -9784,6 +9784,28 @@
       "duration_ms": 178964,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/6jlBIo4lam4ZFso2PciGwU"
+    },
+    {
+      "album": {
+        "name": "I Control My Destiny",
+        "url": "https://open.spotify.com/album/6fWjCSSbTChMFfqrWSkpun"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172633,
+      "name": "She Different (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/0e2ZX4GqBX7dqU4pyYrraq"
     },
     {
       "album": {

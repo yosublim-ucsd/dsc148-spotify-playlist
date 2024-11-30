@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 171692,
       "name": "BRAVO",
       "url": "https://open.spotify.com/track/5Ttc5VGRDdmdiUAaN075IT"
@@ -5709,6 +5709,32 @@
     },
     {
       "album": {
+        "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
+        "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
+      },
+      "artists": [
+        {
+          "name": "Damien Sargue",
+          "url": "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+        },
+        {
+          "name": "Cyril Niccola\u00ef",
+          "url": "https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm"
+        },
+        {
+          "name": "John Eyzen",
+          "url": "https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Les rois du monde - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
+      "url": "https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb"
+    },
+    {
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -9529,6 +9555,28 @@
     },
     {
       "album": {
+        "name": "Big Daddy Jok",
+        "url": "https://open.spotify.com/album/3wZd1qJ3yWNVDUiDPOgrMG"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Chich",
+          "url": "https://open.spotify.com/artist/66t9jFMMHlihDiM2urzKHs"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234373,
+      "name": "Squale (feat. Chich)",
+      "url": "https://open.spotify.com/track/7DdyIz0ujbWhkCHtgvCiBh"
+    },
+    {
+      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/4vtDzCPmcZMDJ1VgkUzzcx"
       },
@@ -9930,7 +9978,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 224186,
       "name": "Tha\u00eflande",
       "url": "https://open.spotify.com/track/1FkKaz2v65DsN4WlGsgoqu"

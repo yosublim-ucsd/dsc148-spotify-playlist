@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-225 songs - 13 hr 15 min
+226 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Firework](https://open.spotify.com/track/6Pk7XpaiMsXAM6dXN3kQEo) | [Jeremy Green](https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42) | [Firework](https://open.spotify.com/album/7wBmPhdZlYiDa4h6rGDSbG) | 3:54 | 2022-01-21 |  |
 | [Fix You](https://open.spotify.com/track/0gFYjXozTU5fhTUZtMiDR1) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R), [Dover Quartet](https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU) | [Fix You](https://open.spotify.com/album/279wRgctzr3Es4uh7SKA8F) | 5:04 | 2021-11-19 | 2024-03-30 |
 | [Flowers](https://open.spotify.com/track/5tyoGp4suJjn9HAbLAKkdx) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Flowers](https://open.spotify.com/album/3mSjIIHyriD6HOCqNOKzTQ) | 3:55 | 2023-03-17 |  |
+| [For Good \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/04AfCHCBBLuD2YuIUEcWLa) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [For Good \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/6Ezlz82NOJ0il1XOiqg7CL) | 3:24 | 2024-11-29 |  |
 | [Give Me Everything \(Arr\. Piano\) \- Inspired by ‘Bridgerton’](https://open.spotify.com/track/2rDmCIiu0GjN6NB6JkKbJL) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [My Little Lullabies](https://open.spotify.com/artist/1T7on2viSsmYu1BJh9nsQC) | [Give Me Everything \(Arr\. Piano\) \[Inspired by ‘Bridgerton’\]](https://open.spotify.com/album/2IpV7sJRwfIcZpJkS7K939) | 3:33 | 2024-09-27 |  |
 | [Give Me Everything \- Stripped](https://open.spotify.com/track/5OSCWSmHCaVD8KpMDRsMzX) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:12 | 2024-05-23 |  |
 | [Glimpse of Us \(arr\. string quartet\)](https://open.spotify.com/track/4u91K1WDKhzLLg8QJsQlor) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Glimpse of Us \(arr\. string quartet\)](https://open.spotify.com/album/5eoLxn3SoMfPex3N23hPRq) | 3:58 | 2023-08-11 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south: Young Nudy",
+  "description": "The hottest out the south: Rod Wave",
   "name": "No Cap",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 85170,
       "name": "20 Min",
       "url": "https://open.spotify.com/track/19AhClvBOL7mzjTlYsfbfw"
@@ -2471,6 +2471,24 @@
     },
     {
       "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180238,
+      "name": "Back to the Topic",
+      "url": "https://open.spotify.com/track/0HwVkiEvW3yTFbUQ45RXPB"
+    },
+    {
+      "album": {
         "name": "BACKROOM",
         "url": "https://open.spotify.com/album/3Z96YG0kqDD0hFc3ZD68NW"
       },
@@ -2562,6 +2580,24 @@
       "duration_ms": 112746,
       "name": "BAD WEATHER",
       "url": "https://open.spotify.com/track/354wJDm1E0pRjsHNIVOgvk"
+    },
+    {
+      "album": {
+        "name": "BAK & Better (D Riding)",
+        "url": "https://open.spotify.com/album/3BRalfrDtWnvbm4tVtjYPX"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129619,
+      "name": "BAK & Better (D Riding)",
+      "url": "https://open.spotify.com/track/7poTJkGeojhjiggIsD8VJb"
     },
     {
       "album": {
@@ -2888,7 +2924,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 157935,
       "name": "Bend It Over",
       "url": "https://open.spotify.com/track/4KNVEty6F6j6X7gI20iPGu"
@@ -7715,6 +7751,24 @@
     },
     {
       "album": {
+        "name": "Trill Bill",
+        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123941,
+      "name": "Dirty Revolver",
+      "url": "https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO"
+    },
+    {
+      "album": {
         "name": "Dirty Soda Junkie (feat. Veeze)",
         "url": "https://open.spotify.com/album/2Jyh9axIIg4iwYV4H4YAeZ"
       },
@@ -8072,7 +8126,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-16",
+      "date_removed": null,
       "duration_ms": 138495,
       "name": "Don Who Leo",
       "url": "https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw"
@@ -8094,7 +8148,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 150408,
       "name": "Don Who Leo - A\u00f1ejo Remix",
       "url": "https://open.spotify.com/track/5AoeI3GRZVwWOwLUgwwDbi"
@@ -16228,7 +16282,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 90005,
       "name": "Laced max",
       "url": "https://open.spotify.com/track/2zZYe0VgBUAamZ9zTxzE4l"
@@ -16780,7 +16834,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 149767,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/1ATlm8zB502HcXQtKydRBz"
@@ -17715,6 +17769,24 @@
     },
     {
       "album": {
+        "name": "LUIGI",
+        "url": "https://open.spotify.com/album/3rV7e5IhmMidAon0rsvXks"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97354,
+      "name": "LUIGI",
+      "url": "https://open.spotify.com/track/3slG0jtlLfJYMBgWHSUghI"
+    },
+    {
+      "album": {
         "name": "LUKAKU",
         "url": "https://open.spotify.com/album/7lpuhgbGLM74uXB0Wt1tUg"
       },
@@ -18386,7 +18458,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 137896,
       "name": "Meet The 6ixers",
       "url": "https://open.spotify.com/track/0uXW44uIa0ODz7ut3HT7f6"
@@ -20083,6 +20155,24 @@
     },
     {
       "album": {
+        "name": "Trill Bill",
+        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169324,
+      "name": "News Matt",
+      "url": "https://open.spotify.com/track/2Cg37BOBhTuJLaSX2HhhJx"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -20320,6 +20410,24 @@
       "duration_ms": 146976,
       "name": "No Fake Love",
       "url": "https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg"
+    },
+    {
+      "album": {
+        "name": "No Feelings",
+        "url": "https://open.spotify.com/album/63Wr5Tu5xUBDgQiS9Moyki"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162575,
+      "name": "No Feelings",
+      "url": "https://open.spotify.com/track/56AI2cEQ0COOE52gmWiBfk"
     },
     {
       "album": {
@@ -23152,7 +23260,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 179022,
       "name": "PLUTOSKI",
       "url": "https://open.spotify.com/track/2t4H61OtTYgmDe61KxkjKH"
@@ -25990,7 +26098,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 131213,
       "name": "Shampoo",
       "url": "https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU"
@@ -26038,6 +26146,28 @@
       "duration_ms": 178964,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/6jlBIo4lam4ZFso2PciGwU"
+    },
+    {
+      "album": {
+        "name": "I Control My Destiny",
+        "url": "https://open.spotify.com/album/6fWjCSSbTChMFfqrWSkpun"
+      },
+      "artists": [
+        {
+          "name": "Yungeen Ace",
+          "url": "https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI"
+        },
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172633,
+      "name": "She Different (feat. Hunxho)",
+      "url": "https://open.spotify.com/track/0e2ZX4GqBX7dqU4pyYrraq"
     },
     {
       "album": {
@@ -26806,7 +26936,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 619095,
       "name": "SLUMMER 4 JUNKIES",
       "url": "https://open.spotify.com/track/3smgrinhPqMqu4xnSnSnA9"
@@ -27638,7 +27768,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 121923,
       "name": "Start A Debate",
       "url": "https://open.spotify.com/track/2gAOBaknC5Cjood7Yqt4hp"

@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 137000,
       "name": "Don't Tease",
       "url": "https://open.spotify.com/track/5DVYsFMppPw5P4zUNTrgES"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 127833,
       "name": "Gym Flow",
       "url": "https://open.spotify.com/track/7qPXqScbYBBD2n64p1IkDK"
@@ -1232,6 +1232,28 @@
       "duration_ms": 198846,
       "name": "Hasrat",
       "url": "https://open.spotify.com/track/1fpooY2ysygMUZSeK8rxSB"
+    },
+    {
+      "album": {
+        "name": "Haye Ni",
+        "url": "https://open.spotify.com/album/004JTMpeY1FBUe13U2g7Dn"
+      },
+      "artists": [
+        {
+          "name": "Mananveer Singh",
+          "url": "https://open.spotify.com/artist/3C0VF9Zgo9UMMF6CFTL9qG"
+        },
+        {
+          "name": "DPON DASH",
+          "url": "https://open.spotify.com/artist/4bY5J8e8VjNcVUqz6hEyst"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "Haye Ni",
+      "url": "https://open.spotify.com/track/2Zq74k3aYAw3UjBZOtCfTP"
     },
     {
       "album": {
@@ -2243,6 +2265,28 @@
     },
     {
       "album": {
+        "name": "Pittne",
+        "url": "https://open.spotify.com/album/37j3wDY5ZutZvyfXW2sZmp"
+      },
+      "artists": [
+        {
+          "name": "Arshdeep Maan",
+          "url": "https://open.spotify.com/artist/1KxFYbhrNmX17GG1u5Fzqy"
+        },
+        {
+          "name": "Hakeem",
+          "url": "https://open.spotify.com/artist/5DEHzdtoptgfgV6iri6zgl"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "Pittne",
+      "url": "https://open.spotify.com/track/1Rweh1z3pBIpgv575FAFt5"
+    },
+    {
+      "album": {
         "name": "Pyaar Jeha",
         "url": "https://open.spotify.com/album/0I3SOKo41LBRK0HCyUUDRB"
       },
@@ -2889,7 +2933,7 @@
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 167903,
+      "duration_ms": 163902,
       "name": "Triumph",
       "url": "https://open.spotify.com/track/09snTJwHtRdobMISDauS3a"
     },

@@ -23381,6 +23381,24 @@
     },
     {
       "album": {
+        "name": "Je suis l\u00e0",
+        "url": "https://open.spotify.com/album/0sRO2vkKqdixkNxIHgf190"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "Je suis de toi",
+      "url": "https://open.spotify.com/track/6ufDjxcJR0Ki3dMbmVLx9v"
+    },
+    {
+      "album": {
         "name": "Je t'ai cherch\u00e9",
         "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
       },
@@ -30412,6 +30430,10 @@
         {
           "name": "Dinos",
           "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
       "date_added": "2024-11-28",
@@ -36414,6 +36436,24 @@
       "duration_ms": 160075,
       "name": "PHOBOS",
       "url": "https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv"
+    },
+    {
+      "album": {
+        "name": "Tranki, Todo Pasa",
+        "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185700,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx"
     },
     {
       "album": {

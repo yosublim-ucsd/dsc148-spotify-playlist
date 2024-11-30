@@ -17625,6 +17625,24 @@
     },
     {
       "album": {
+        "name": "Love Can Make You Smile",
+        "url": "https://open.spotify.com/album/5say2RQGQv9BGAuEArFnAx"
+      },
+      "artists": [
+        {
+          "name": "T00n",
+          "url": "https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217435,
+      "name": "Love Can Make You Smile",
+      "url": "https://open.spotify.com/track/3pwMDE605cktU1J3vt6up9"
+    },
+    {
+      "album": {
         "name": "Love is",
         "url": "https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m"
       },

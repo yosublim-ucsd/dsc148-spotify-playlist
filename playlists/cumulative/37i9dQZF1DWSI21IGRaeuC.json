@@ -3790,7 +3790,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 303149,
       "name": "Lezzgo",
       "url": "https://open.spotify.com/track/1NwKx6qj7QbWjFmQ7QlpkE"
@@ -6882,6 +6882,24 @@
       "duration_ms": 195348,
       "name": "take notes.",
       "url": "https://open.spotify.com/track/58J7fIZAgLrCwqpucV2JKG"
+    },
+    {
+      "album": {
+        "name": "Take You On A Ride",
+        "url": "https://open.spotify.com/album/5toTQhxSjfy0rMaqbOBajk"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Take You On A Ride",
+      "url": "https://open.spotify.com/track/0EHYJC5x9CNKumQe8WJA6k"
     },
     {
       "album": {

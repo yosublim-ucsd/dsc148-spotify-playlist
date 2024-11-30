@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from your fav I-Pop artists. Cover- Jubin Nautiyal",
+  "description": "Latest music from your fav I-Pop artists. Cover- Jonita Gandhi",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -1292,6 +1292,24 @@
       "duration_ms": 258000,
       "name": "Ae Ri Sakhi",
       "url": "https://open.spotify.com/track/0vWHsHZAWTZquLkTfOM2Gd"
+    },
+    {
+      "album": {
+        "name": "Afghaani Afeem Hai",
+        "url": "https://open.spotify.com/album/5vXSOWaQIFaEqmJ9IHi8Mg"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161170,
+      "name": "Afghaani Afeem Hai",
+      "url": "https://open.spotify.com/track/1yIcqvOuIPik618W3keOhi"
     },
     {
       "album": {
@@ -3294,7 +3312,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 180782,
       "name": "Bawla (feat. Khan Brothers) [Maati S1]",
       "url": "https://open.spotify.com/track/7BDc3JaNDJ1thbk6n9Yiht"
@@ -7050,7 +7068,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 143111,
       "name": "Doob Rahe",
       "url": "https://open.spotify.com/track/1WRDp1AySdILhmOmMNx20r"
@@ -8728,7 +8746,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 164705,
       "name": "Gypsy 2",
       "url": "https://open.spotify.com/track/1FV3PDNMhj7xxYjfye1a5B"
@@ -9664,6 +9682,32 @@
       "duration_ms": 248500,
       "name": "Ho Tum Yahan",
       "url": "https://open.spotify.com/track/2CbnIxbC0lh3nuZQf5bzfH"
+    },
+    {
+      "album": {
+        "name": "Homa Dol",
+        "url": "https://open.spotify.com/album/4ALhNQBe5d7ldWlmzyxAQ1"
+      },
+      "artists": [
+        {
+          "name": "Saad Lamjarred",
+          "url": "https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY"
+        },
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245624,
+      "name": "Homa Dol",
+      "url": "https://open.spotify.com/track/5zESOpfyevtuiHio0fKQLI"
     },
     {
       "album": {
@@ -10704,7 +10748,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 226000,
       "name": "Ishqa Ve",
       "url": "https://open.spotify.com/track/4i94Yt2WZmAIEqHe3jNF6H"
@@ -11468,6 +11512,32 @@
       "duration_ms": 209000,
       "name": "Jaanu Na",
       "url": "https://open.spotify.com/track/2jTCSkWe0JDsvUTX3Q3nw8"
+    },
+    {
+      "album": {
+        "name": "Jaao",
+        "url": "https://open.spotify.com/album/2IRlustOHixlUHg3pIm9Ji"
+      },
+      "artists": [
+        {
+          "name": "Ipsitaa",
+          "url": "https://open.spotify.com/artist/0LqSWTlLvalcwFJjdj4fil"
+        },
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Kaushal Kishore",
+          "url": "https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142806,
+      "name": "Jaao",
+      "url": "https://open.spotify.com/track/6zldeEdCSbYJLmI9bQEaRd"
     },
     {
       "album": {
@@ -18258,7 +18328,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 195696,
       "name": "Nai Jaana",
       "url": "https://open.spotify.com/track/0qf5fsoKmlYMJ3Lz9VdC4M"
@@ -18944,6 +19014,40 @@
       "duration_ms": 173999,
       "name": "Noor",
       "url": "https://open.spotify.com/track/5rvRDpNEHEeWWS7CScX6oo"
+    },
+    {
+      "album": {
+        "name": "Noorie (Two Sides)",
+        "url": "https://open.spotify.com/album/7Hfnkeqs2bRNUWchMhlyq7"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        },
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "Khayyam",
+          "url": "https://open.spotify.com/artist/4T2mXoFdZeElsR7yoeKUbi"
+        },
+        {
+          "name": "Jan Nisar Akhtar",
+          "url": "https://open.spotify.com/artist/6caDRdsPQP2fU1tpgrsQfi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212330,
+      "name": "Noorie (Two Sides)",
+      "url": "https://open.spotify.com/track/6anbGnPg1pnNRMlnNPMRa7"
     },
     {
       "album": {
@@ -20328,7 +20432,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 219068,
       "name": "Pyaar Kartey Hain",
       "url": "https://open.spotify.com/track/1vzsRk86dsbMHgj68GqDC2"
@@ -21236,6 +21340,28 @@
       "duration_ms": 181232,
       "name": "Rozaana",
       "url": "https://open.spotify.com/track/4f4NfGpOmmz1vIYDE6Poer"
+    },
+    {
+      "album": {
+        "name": "Rozaana",
+        "url": "https://open.spotify.com/album/0LZ0J0uxtSPbBbW05n42gZ"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200204,
+      "name": "Rozaana",
+      "url": "https://open.spotify.com/track/1oGSv6ohmyxzoLkS65Heic"
     },
     {
       "album": {
@@ -25140,7 +25266,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 200597,
       "name": "The Way You Look",
       "url": "https://open.spotify.com/track/4k5byIdn5kNQBpkRQNCPrl"
@@ -25846,6 +25972,24 @@
       "duration_ms": 253973,
       "name": "Tu hi Manzil",
       "url": "https://open.spotify.com/track/0ixXycJADwhKdiuSrjlLpC"
+    },
+    {
+      "album": {
+        "name": "Tu Hi Meri Manzil",
+        "url": "https://open.spotify.com/album/0QjT7tujN5VlzjK85QlUPi"
+      },
+      "artists": [
+        {
+          "name": "Anupam Roy",
+          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192669,
+      "name": "Tu Hi Meri Manzil",
+      "url": "https://open.spotify.com/track/6uANApp4MD0VtM6Cdy27Ct"
     },
     {
       "album": {
@@ -26741,6 +26885,28 @@
     },
     {
       "album": {
+        "name": "Tum Ho Toh",
+        "url": "https://open.spotify.com/album/5TUa65Q467b458wmCXw1wb"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171219,
+      "name": "Tum Ho Toh",
+      "url": "https://open.spotify.com/track/2LUY01YYiSU1LxoyX1ERwQ"
+    },
+    {
+      "album": {
         "name": "Tum Jaise Ho",
         "url": "https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0"
       },
@@ -27276,6 +27442,28 @@
       "duration_ms": 234666,
       "name": "Umeed",
       "url": "https://open.spotify.com/track/7bB5bp6jqWUNgaOEMCvIMa"
+    },
+    {
+      "album": {
+        "name": "Word.",
+        "url": "https://open.spotify.com/album/5W8gl5QggdTn2jgiFghZTI"
+      },
+      "artists": [
+        {
+          "name": "Sachin Warrier",
+          "url": "https://open.spotify.com/artist/7wkeZcQtvDAeGvrTQO2hfK"
+        },
+        {
+          "name": "Megha Rao",
+          "url": "https://open.spotify.com/artist/4klv2mw7sOj98pBI6TM0tz"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "Un Aankhon",
+      "url": "https://open.spotify.com/track/0Gsc7rxXfSmyOKuSln1tPt"
     },
     {
       "album": {
@@ -27978,7 +28166,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 209064,
       "name": "Yeh Dil Deewana",
       "url": "https://open.spotify.com/track/6eR7b8DDNSVsG8UyDdzXQf"

@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Naomi Lareine",
-  "num_followers": 35521,
+  "num_followers": 35520,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Ich Kann's Nicht Glauben",
-        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
-      },
-      "artists": [
-        {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
-        }
-      ],
-      "duration_ms": 202363,
-      "name": "Nenn Es Liebe",
-      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw"
       },
@@ -535,18 +519,18 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "Not Crazy",
-        "url": "https://open.spotify.com/album/1FxRjP3ie1tcEo2Y14Wu9I"
+        "name": "Ich Kann's Nicht Glauben",
+        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
       },
       "artists": [
         {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
         }
       ],
-      "duration_ms": 190120,
-      "name": "Not Crazy",
-      "url": "https://open.spotify.com/track/1kGfr3GtO2ly4kAUVNLzRY"
+      "duration_ms": 202363,
+      "name": "Nenn Es Liebe",
+      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -563,6 +547,22 @@
       "duration_ms": 382460,
       "name": "Multiplying My Absurdities",
       "url": "https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "Not Crazy",
+        "url": "https://open.spotify.com/album/1FxRjP3ie1tcEo2Y14Wu9I"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 190120,
+      "name": "Not Crazy",
+      "url": "https://open.spotify.com/track/1kGfr3GtO2ly4kAUVNLzRY"
     },
     {
       "added_at": "2024-11-05 23:00:00",

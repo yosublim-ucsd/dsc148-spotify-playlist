@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Jesse Baez",
+  "description": "Fresh Latin Indie you should know. Cover: Silvestre y La Naranja",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -42,6 +42,24 @@
       "duration_ms": 208351,
       "name": "11:11",
       "url": "https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq"
+    },
+    {
+      "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370700,
+      "name": "1960",
+      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
     },
     {
       "album": {
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 166042,
       "name": "apareces de la nada",
       "url": "https://open.spotify.com/track/1V8IBppKWZU6aNIzCgXLKa"
@@ -1474,6 +1492,28 @@
       "duration_ms": 152467,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/4RfbO5R23JI33EEyjWqHHU"
+    },
+    {
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/7fcef1UGUdMQiPDSJHoP4k"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/1eeAMDgqCkFYDYr0RBFPgr"
     },
     {
       "album": {
@@ -6649,6 +6689,32 @@
     },
     {
       "album": {
+        "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
+        "url": "https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182948,
+      "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
+      "url": "https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B"
+    },
+    {
+      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/7j0kfKJFYdDoK5NbQ1Ikv6"
       },
@@ -10147,6 +10213,28 @@
     },
     {
       "album": {
+        "name": "que no te falte de na",
+        "url": "https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202546,
+      "name": "par d ni\u00f1os",
+      "url": "https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28"
+    },
+    {
+      "album": {
         "name": "Para cenar",
         "url": "https://open.spotify.com/album/7ygO1HGSFyUiRzbefypRAh"
       },
@@ -10956,6 +11044,24 @@
       "duration_ms": 235682,
       "name": "Primer Recreo",
       "url": "https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS"
+    },
+    {
+      "album": {
+        "name": "PRISIONERO PERFECTO",
+        "url": "https://open.spotify.com/album/1iZUvTbyBqeHSX1L7X2rBf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204976,
+      "name": "PRISIONERO PERFECTO",
+      "url": "https://open.spotify.com/track/6zqbssgW1Sz2eHwYN258DE"
     },
     {
       "album": {
@@ -14368,6 +14474,28 @@
       "duration_ms": 107520,
       "name": "Use Me Too",
       "url": "https://open.spotify.com/track/0Pa6YGPTs86gFrEkxAOthL"
+    },
+    {
+      "album": {
+        "name": "uwu ^^",
+        "url": "https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        },
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162077,
+      "name": "uwu ^^",
+      "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
     },
     {
       "album": {

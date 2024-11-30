@@ -6595,6 +6595,24 @@
     },
     {
       "album": {
+        "name": "Schnupfennase",
+        "url": "https://open.spotify.com/album/4ZM9rOwNk2fwO7pY3OHqU5"
+      },
+      "artists": [
+        {
+          "name": "Lichterkinder",
+          "url": "https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99200,
+      "name": "Schnupfennase",
+      "url": "https://open.spotify.com/track/1XdPvu4zQI5oVm8aN1TWKn"
+    },
+    {
+      "album": {
         "name": "Tanzfieber!",
         "url": "https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2"
       },

@@ -4,7 +4,7 @@
 
 > Electronic + Dance making waves, every month\. Cover: Jazzy & KILIMANJARO
 
-415 songs - 1 day 0 hr 47 min
+416 songs - 1 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Dance](https://open.spotify.com/track/7AYYU5KQb4yjWyLEemiDc9) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/4HnqIIxtcFAuUqFX4soPVM) | 2:45 | 2022-07-22 | 2022-10-13 |
 | [Dancin In The D](https://open.spotify.com/track/4IakwcfKlaDeSqeZB4xko7) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g) | [Truth](https://open.spotify.com/album/75FlIJdCotTnyEOZRew18J) | 5:10 | 2022-02-01 | 2022-11-19 |
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2022-09-09 | 2022-10-22 |
-| [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-01-19 |  |
+| [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-01-19 | 2024-11-30 |
 | [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 | 2023-05-19 | 2023-11-18 |
 | [Death Proof \- Amapiano Remix](https://open.spotify.com/track/3tfmAOJf7iR7VZt5Y63UCO) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Death Proof \(Amapiano Remix\)](https://open.spotify.com/album/1HUkVCdAC6k5ZgtLcD0UWz) | 5:34 | 2023-06-16 | 2024-05-03 |
 | [Deep Love](https://open.spotify.com/track/6nV2F340l20xyzxhoyWKx8) | [Ash Lauryn](https://open.spotify.com/artist/1DAJGebgIA7OjVy2umBB8g), [Stefan Ringer](https://open.spotify.com/artist/1qJyku2FyCAAahyeoXs9qV) | [Deep Love](https://open.spotify.com/album/3UX31DU0KJ1nrCOnmuEDzs) | 5:14 | 2023-06-09 | 2024-01-05 |
@@ -356,6 +356,7 @@
 | [These Days](https://open.spotify.com/track/20vHCWboPFuhfLVYWyL27T) | [Setou & Senyo](https://open.spotify.com/artist/6IeBUOW8MyihZUBtYRdKYv), [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [These Days](https://open.spotify.com/album/6guB22g2F0QDgRuQCT57DK) | 3:03 | 2022-02-01 | 2023-01-28 |
 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 | 2023-11-17 | 2024-01-20 |
 | [This Is My Life](https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [This Is My Life](https://open.spotify.com/album/65r6PbiURn3vzNaKkfgxF2) | 3:01 | 2024-01-19 | 2024-03-30 |
+| [This Is My Life \- Bontan Remix](https://open.spotify.com/track/6CqPGAoMqPoOGCfxSKuKtC) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [Bontan](https://open.spotify.com/artist/1tZgoMqNTa7lII4w9pV3ud) | [This Is My Life \(Bontan Remix\)](https://open.spotify.com/album/280MVEV8ylL30zAvcIbegG) | 3:22 | 2024-11-29 |  |
 | [This Is The Sound](https://open.spotify.com/track/5JsIQ66sNFViii1ECZvtUp) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is the Sound](https://open.spotify.com/album/4O30VW31P6zUNxdrTKog4H) | 3:12 | 2023-09-22 | 2024-03-02 |
 | [This Is The Sound](https://open.spotify.com/track/7L6ZDYK13nVfc6j3QlKNJj) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is The Sound](https://open.spotify.com/album/5UrapwkD5cCjELtr6hcr3u) | 3:12 | 2023-01-27 | 2023-11-05 |
 | [Thoughts \- Rebūke Remix](https://open.spotify.com/track/1g8ZYuTgbNJBvycYFyep0b) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Thoughts \(Rebūke Remix\)](https://open.spotify.com/album/53Lw6bLxSXxo36KsWQZJfq) | 3:29 | 2022-04-01 | 2023-07-08 |

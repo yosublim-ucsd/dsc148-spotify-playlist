@@ -6062,7 +6062,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 174990,
       "name": "my life",
       "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
@@ -10692,6 +10692,24 @@
       "duration_ms": 219106,
       "name": "\uc78a\uc5b4\ubc84\ub9ac\uc9c0\ub9c8 Don't Forget (feat. \ud0dc\uc5f0 Taeyeon)",
       "url": "https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB"
+    },
+    {
+      "album": {
+        "name": "\uc81c\ubc1c \ub0b4\uac8c \ub9d0\ud574\uc8fc\ub77c (Please tell me)",
+        "url": "https://open.spotify.com/album/5ijS3IJtIUrqhioDNEJmu6"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "\uc81c\ubc1c \ub0b4\uac8c \ub9d0\ud574\uc8fc\ub77c (Please tell me)",
+      "url": "https://open.spotify.com/track/0BeyMR83qdrHlIM52jprNC"
     },
     {
       "album": {

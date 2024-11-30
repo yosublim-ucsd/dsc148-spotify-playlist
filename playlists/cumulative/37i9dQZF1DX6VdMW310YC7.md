@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,701 songs - 4 day 20 hr 27 min
+1,702 songs - 4 day 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Come with Me \- Radio Mix](https://open.spotify.com/track/2FxwTax2LGVybNIrreiwXv) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Come With Me \(Remixes\)](https://open.spotify.com/album/249IdvGn1QvK64D3VPVzdS) | 2:53 | 2020-05-18 | 2020-07-18 |
 | [Comfort](https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Going Home, Vol\. 1](https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz) | 3:37 | 2021-04-10 | 2022-12-29 |
 | [Como Me Siento Por Ti \(Instrumental Version\)](https://open.spotify.com/track/3JowZv6PNFF7MEv3bqBOzf) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Como Me Siento Por Ti \(Instrumental Version\)](https://open.spotify.com/album/3ihdsm5NCjZKBaAxzYeXcv) | 5:33 | 2021-04-03 | 2022-06-13 |
-| [Company](https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Company](https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP) | 2:42 | 2023-11-24 |  |
+| [Company](https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Company](https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP) | 2:42 | 2023-11-24 | 2024-11-30 |
 | [Complicated](https://open.spotify.com/track/3BiAhaKy9jmQ6yhW5TGCgF) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Jeiang](https://open.spotify.com/artist/0trSpa9GRQN4ruMiPXxCK8) | [Complicated](https://open.spotify.com/album/4oHRaHbNqpJqDbjYxg1SsI) | 2:54 | 2020-05-19 | 2020-10-09 |
 | [Complicated \- Aérotique & Glaceo Remix](https://open.spotify.com/track/47w11QEAirqz5ViDsEAF8h) | [Nick Mellow](https://open.spotify.com/artist/2Ltz77e0WzkbszFytIy6SY), [Aérotique](https://open.spotify.com/artist/6qOzyug9zoGuMHTmErJ6zo), [Glaceo](https://open.spotify.com/artist/2FnjEL8SlmLe3YBFmPkV9N) | [Complicated \(Remixes\)](https://open.spotify.com/album/0Gvx3CeCRSCN588sEa3vCE) | 3:25 | 2020-05-09 | 2020-07-03 |
 | [Connected \- Original Mix](https://open.spotify.com/track/0moaUKScPf9pFxgd3ThIKK) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Connected](https://open.spotify.com/album/4kYYZMZ3ytcqSVLq4ZN40A) | 5:25 | 2020-05-18 | 2021-12-21 |
@@ -748,6 +748,7 @@
 | [In Bloom](https://open.spotify.com/track/4e4sTRiHGEj7LgFhXn0quG) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [In Bloom](https://open.spotify.com/album/4vLvJf1lvLmvJ8mXFG9jV6) | 3:48 | 2021-01-08 | 2021-03-10 |
 | [In Control \- Innellea Remix](https://open.spotify.com/track/35fdRgZrz5ujDGBaqhoPE8) | [Forma](https://open.spotify.com/artist/1lmP325N7mFdhDOl7tMfpL), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [In Control \(Innellea Remix\)](https://open.spotify.com/album/2ldvU2vukDp8TyH9qDie2G) | 5:45 | 2022-09-23 | 2023-08-05 |
 | [In the Morning](https://open.spotify.com/track/01wpPOPqQ3XyS6hBN00HfK) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 4:06 | 2020-05-18 | 2020-07-03 |
+| [In Your Eyes](https://open.spotify.com/track/2m8wQDC4VXAFJ5XkV7ktSB) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [RYTERBAND](https://open.spotify.com/artist/61Mh2TdtNylCeUzkVNjbuP) | [In Your Eyes](https://open.spotify.com/album/3THzL4WD6gDchf2jAwpXNj) | 3:38 | 2024-11-29 |  |
 | [Inbox Riddim](https://open.spotify.com/track/3jIR5X0bLmBVYjelItipJb) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/1K59wmdQhuMiDmgx3y25Yl) | 4:16 | 2020-05-18 | 2020-10-09 |
 | [Indefinitely](https://open.spotify.com/track/2p1tBwD03k1omVL3QufODn) | [HNE](https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP) | [Indefinitely](https://open.spotify.com/album/7wV5gISx5CR1CRO9Cqncj0) | 2:09 | 2024-08-02 | 2024-08-31 |
 | [Indian Summer \- Kasbo Remix](https://open.spotify.com/track/2hFD70XI1S5HeGxasMvgbY) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [Kindred Spirits \(Remixes\)](https://open.spotify.com/album/6dJAqemnQqc33N9uEzV9vX) | 4:16 | 2020-03-23 | 2020-10-09 |

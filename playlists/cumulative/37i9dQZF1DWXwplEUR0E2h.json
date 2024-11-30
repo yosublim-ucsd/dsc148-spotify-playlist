@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Blessd, Anuel AA",
+  "description": "\u00a1Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Juan Duque",
   "name": "Reggaet\u00f3n Colombia",
   "tracks": [
     {
@@ -674,7 +674,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 193961,
       "name": "DISPO",
       "url": "https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL"
@@ -1396,6 +1396,24 @@
       "duration_ms": 148695,
       "name": "Hagale Pues",
       "url": "https://open.spotify.com/track/6Tah0tpInGpXOnYvPcwrCc"
+    },
+    {
+      "album": {
+        "name": "HOMBRE NO ES GENTE",
+        "url": "https://open.spotify.com/album/3TNpcgRiVpw1XwskH8PnI8"
+      },
+      "artists": [
+        {
+          "name": "West Blanco",
+          "url": "https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200454,
+      "name": "HOMBRE NO ES GENTE",
+      "url": "https://open.spotify.com/track/5cWmrLZtrT9bx6hNJTqeRF"
     },
     {
       "album": {
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 201596,
       "name": "Poblado",
       "url": "https://open.spotify.com/track/7xT1n5JKpB0bMPh6FL589e"
@@ -3452,6 +3470,24 @@
       "duration_ms": 195300,
       "name": "Verano",
       "url": "https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd"
+    },
+    {
+      "album": {
+        "name": "Mis Traumas, Mis Chistes",
+        "url": "https://open.spotify.com/album/25Gsw8B8ZpFFhOlx9fF1LR"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Verano 23",
+      "url": "https://open.spotify.com/track/33D8RI7wFKjzh8zvbSE1mN"
     },
     {
       "album": {

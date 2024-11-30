@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Yang Da\-il\(양다일\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-577 songs - 1 day 13 hr 44 min
+578 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,7 @@
 | [My Dream](https://open.spotify.com/track/5XKo813PRaLwH1yHWP674c) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung 신입사관 구해령 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3IIHBgXFIt3yvPYDqsl8qp) | 3:54 | 2022-04-01 | 2022-04-19 |
 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 | 2022-09-06 | 2024-04-16 |
 | [My Favorite Winter](https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:49 | 2022-12-14 | 2023-01-13 |
-| [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-21 |  |
+| [my life](https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [my life](https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS) | 2:54 | 2022-01-21 | 2024-11-30 |
 | [MY OCEAN](https://open.spotify.com/track/7hRHXvvVKgPHIml5Semtor) | [Jeong Young Eun](https://open.spotify.com/artist/2XX6AOq6HuYXNj4l9FQTJ1) | [MY OCEAN](https://open.spotify.com/album/5YhzIq7UftXN1fwluhNgXV) | 3:49 | 2022-03-31 | 2022-04-17 |
 | [My Only One](https://open.spotify.com/track/3wbPvkTGox700oY5oDJPzY) | [2BiC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [Calendar Of 2BIC \(August\)](https://open.spotify.com/album/3c8FoccgwEnlIVbF2fSItA) | 4:36 | 2022-02-10 | 2022-04-21 |
 | [My Only One](https://open.spotify.com/track/6JX4Pt45ZBFwrWkHkb3ty0) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Tomorrow OST Part.5](https://open.spotify.com/album/56Yr8Mpxlo419j32FhcPKg) | 4:22 | 2022-05-11 | 2022-10-25 |
@@ -579,6 +579,7 @@
 | [우주의 전설](https://open.spotify.com/track/6ABWK6E3RDzCJS7X8wdvIP) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven,\(세븐 콤마\) <빛을 따라서...>](https://open.spotify.com/album/7lqABGolJepJu86N1WRo9T) | 3:58 | 2022-08-12 | 2022-10-06 |
 | [이 또한 지나가리라](https://open.spotify.com/track/5xpJOKLD5Zsm8ihVxpeK1N) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [TO...](https://open.spotify.com/album/2kpy6VCOSDfuus42rg7Ic6) | 3:45 | 2022-10-24 | 2022-11-24 |
 | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\)](https://open.spotify.com/track/2HC6c1d7SiznMV4rkmmxBB) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [잊어버리지마 Don't Forget \(feat\. 태연 Taeyeon\) \- Single](https://open.spotify.com/album/4laMaViU0DAsIz0iNdXxcI) | 3:39 | 2021-12-20 | 2022-07-24 |
+| [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/track/0BeyMR83qdrHlIM52jprNC) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [제발 내게 말해주라 \(Please tell me\)](https://open.spotify.com/album/5ijS3IJtIUrqhioDNEJmu6) | 3:33 | 2024-11-29 |  |
 | [중독된 사랑](https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [Love](https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf) | 4:26 | 2023-12-01 |  |
 | [친구라도 될 걸 그랬어](https://open.spotify.com/track/7zc83ZD1QNkFMwj7sLpK8v) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Gummy Unplugged](https://open.spotify.com/album/1kSeUKxPi2vcrvKbwdh6z5) | 5:15 | 2023-12-01 | 2023-12-14 |
 | [파란 봄](https://open.spotify.com/track/0KpXBGMi5TPHu8cJGWvNBb) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Dunia \- Into A New World, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5zfvPWlLE1LpYewbAejTgX) | 4:11 | 2021-12-20 | 2023-07-09 |

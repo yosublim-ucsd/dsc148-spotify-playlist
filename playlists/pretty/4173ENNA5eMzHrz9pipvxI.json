@@ -1,12 +1,12 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Thierry von der Warth &amp; Kassidy",
-  "num_followers": 120372,
+  "num_followers": 120377,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAedyO010eDaeTPV+ql4xENdpKebbIi",
+  "snapshot_id": "AAAeeJJWGeRKbVMGb84nICR7Y/LTuf9r",
   "tracks": [
     {
       "added_at": "2024-11-28 14:07:49",
@@ -67,6 +67,26 @@
       "duration_ms": 187659,
       "name": "Heart First (feat. Jordan Shaw)",
       "url": "https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv"
+    },
+    {
+      "added_at": "2024-11-22 08:26:05",
+      "album": {
+        "name": "Along The Way",
+        "url": "https://open.spotify.com/album/5jtUjXznfG1TWnKyDM8I4n"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Kassidy",
+          "url": "https://open.spotify.com/artist/1CZqhemGUtd5MhPj3Zc2iu"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Along The Way",
+      "url": "https://open.spotify.com/track/7q2DfBueHlC5uK3gdkjlx6"
     },
     {
       "added_at": "2024-11-28 14:07:49",
@@ -131,26 +151,6 @@
       "duration_ms": 115324,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/1EAEof1p3jF92zG7jHFWbf"
-    },
-    {
-      "added_at": "2024-11-22 08:26:05",
-      "album": {
-        "name": "Along The Way",
-        "url": "https://open.spotify.com/album/5jtUjXznfG1TWnKyDM8I4n"
-      },
-      "artists": [
-        {
-          "name": "Thierry Von Der Warth",
-          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
-        },
-        {
-          "name": "Kassidy",
-          "url": "https://open.spotify.com/artist/1CZqhemGUtd5MhPj3Zc2iu"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Along The Way",
-      "url": "https://open.spotify.com/track/7q2DfBueHlC5uK3gdkjlx6"
     },
     {
       "added_at": "2024-11-22 08:26:05",

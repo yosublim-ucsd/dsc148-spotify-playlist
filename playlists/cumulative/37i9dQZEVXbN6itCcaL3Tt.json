@@ -7090,7 +7090,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 164571,
       "name": "Cho\u0107 nie wida\u0107 na zewn\u0105trz",
       "url": "https://open.spotify.com/track/7ku8Eh5guoneeMmuuzzWmN"
@@ -15520,7 +15520,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -21794,7 +21794,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 202054,
       "name": "MAMA POWTARZA\u0141A",
       "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
@@ -29962,7 +29962,7 @@
       ],
       "date_added": "2024-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 155056,
       "name": "Plaster",
       "url": "https://open.spotify.com/track/6epWbDEEEOakzBeyNr69MO"
@@ -30982,7 +30982,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 144472,
       "name": "Prawie straci\u0142em g\u0142os",
       "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
@@ -32388,7 +32388,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 122053,
       "name": "Remember Me (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET"
@@ -35216,7 +35216,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
@@ -36072,7 +36072,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -38096,7 +38096,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 245626,
       "name": "To Ashes and Blood (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk"
@@ -38563,6 +38563,28 @@
     },
     {
       "album": {
+        "name": "Touch Some Grass",
+        "url": "https://open.spotify.com/album/5OAxcXl2679ruZlVNN8UXI"
+      },
+      "artists": [
+        {
+          "name": "Daddy Sas",
+          "url": "https://open.spotify.com/artist/3vbGBNqh6gEF12hc7MJNZN"
+        },
+        {
+          "name": "SolJakey",
+          "url": "https://open.spotify.com/artist/61g62q0VVjvh0Innctu4xq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183455,
+      "name": "Touch Some Grass",
+      "url": "https://open.spotify.com/track/5bcfb6rhZD1aUzOzNJaeof"
+    },
+    {
+      "album": {
         "name": "Tough",
         "url": "https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd"
       },
@@ -38824,7 +38846,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 149323,
       "name": "Troch\u0119 Za Blisko",
       "url": "https://open.spotify.com/track/6SpeBDnkgYdkFYy5AEW2Oz"
@@ -40718,7 +40740,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"

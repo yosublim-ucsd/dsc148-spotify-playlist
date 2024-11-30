@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 195573,
       "name": "Autiomaa",
       "url": "https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL"
@@ -2654,6 +2654,24 @@
       "duration_ms": 202480,
       "name": "Encore",
       "url": "https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo"
+    },
+    {
+      "album": {
+        "name": "Enkeli",
+        "url": "https://open.spotify.com/album/1Z6jBVwTDywNHHjgKtbMmr"
+      },
+      "artists": [
+        {
+          "name": "BLONDI",
+          "url": "https://open.spotify.com/artist/3AgPsEdoGeiqUBdEEwry1b"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195572,
+      "name": "Enkeli",
+      "url": "https://open.spotify.com/track/1YmzphHCxxpdY7uDlYbIVh"
     },
     {
       "album": {
@@ -6818,6 +6836,24 @@
       "duration_ms": 168355,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf"
+    },
+    {
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "album": {

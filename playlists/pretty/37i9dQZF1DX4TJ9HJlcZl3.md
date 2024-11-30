@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,992 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,995 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Walk Out The Door](https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Walk Out The Door](https://open.spotify.com/album/6yCwZ3QdLkY71MyzTsuEAE) | 3:48 |
-| 2 | [Make You Miss Me](https://open.spotify.com/track/61Jrb9FdLpobG6DFc8qC5D) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Escape Artist \(Disc 1\)](https://open.spotify.com/album/5FCeJuDM50xcMMot22SsTO) | 4:15 |
+| 1 | [Four In The Morning](https://open.spotify.com/track/5LnDdFPjJkrUDt9BOoJMfS) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Escape Artist](https://open.spotify.com/album/7IfMDEwQODVi1NBKFJlcNp) | 4:40 |
+| 2 | [Walk Out The Door](https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR) | [James Alyn](https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5) | [Walk Out The Door](https://open.spotify.com/album/6yCwZ3QdLkY71MyzTsuEAE) | 3:48 |
 | 3 | [Diamond Eyes](https://open.spotify.com/track/69LWzGUpt3oe1URUCvjVbt) | [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [Diamond Eyes](https://open.spotify.com/album/1TJiqXwjAVzyGtTjxXq6WM) | 6:42 |
 | 4 | [Like No Tomorrow](https://open.spotify.com/track/2ErFtY4W7nLrg3iInKUGhK) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Sam Padrul](https://open.spotify.com/artist/6G6wGudDVkxMg6SaCF0bdF) | [Like No Tomorrow](https://open.spotify.com/album/1y6gGiq5QNDj1r8fPPVAnA) | 2:50 |
 | 5 | [Way Back](https://open.spotify.com/track/4uSf06Z9BYP2v85OcCaGho) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Way Back](https://open.spotify.com/album/7BEQqff2dgbMVD9eIiLBJu) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
 | 50 | [15th Floor](https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [15th Floor](https://open.spotify.com/album/3jOCHftuZiA1w54yvVHP8h) | 4:30 |
 
-Snapshot ID: `Zy2a0AAAAAAR9P9i06vV1my+A0vOGPgu`
+Snapshot ID: `Z0lKUAAAAACPlMXcn4PAS5qdU3VKHkkc`

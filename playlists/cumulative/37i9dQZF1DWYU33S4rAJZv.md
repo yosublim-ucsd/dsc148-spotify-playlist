@@ -4,7 +4,7 @@
 
 > Warm and cozy Christmas Jazz to your hot cup of coffee.
 
-128 songs - 6 hr 38 min
+130 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73) | 3:45 | 2023-11-28 |  |
 | [Here Comes Santa Claus \(Down Santa Claus Lane\)](https://open.spotify.com/track/70OUj8g2IUjubbLcW1vynZ) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [Personal Christmas Collection](https://open.spotify.com/album/5gvprHdipdaEWUU7JH1qYc) | 2:36 | 2023-11-28 |  |
 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 | 2023-11-28 |  |
+| [Holiday Plans](https://open.spotify.com/track/3scP71lzyrGFu98Qi1tPwD) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Holiday Plans](https://open.spotify.com/album/7kqkOOHq4IlZ5x1htvx8fL) | 2:47 | 2024-11-29 |  |
 | [Home For The Holidays](https://open.spotify.com/track/4uAifCqvOrogZIho3gCUBB) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Blake](https://open.spotify.com/artist/0NlX1W0yjS9FWyDBbHcGuY), [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/42LDbwS16YVmhtt87vgAAc) | 4:30 | 2023-11-28 | 2024-04-19 |
 | [Home For The Holidays](https://open.spotify.com/track/0o0utCHi11d5uKCx792Gol) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4), [Ron Blake](https://open.spotify.com/artist/0NlX1W0yjS9FWyDBbHcGuY), [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Jazz For Joy: A Verve Christmas Album](https://open.spotify.com/album/65lJFZYy5coCXi9aXSRiSg) | 4:31 | 2023-12-19 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/0Q4h2V6SquHXTHg2q8vRyC) | [Sydney Taylor Band](https://open.spotify.com/artist/2M3GH9JFk7Z62j2XarUJ1g) | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/album/5P0WsqOfG5viZpxVpqIuaI) | 3:19 | 2023-11-28 |  |
@@ -59,6 +60,7 @@
 | [I'll Be Home For Christmas](https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 2:49 | 2023-12-19 |  |
 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:11 | 2023-11-28 |  |
 | [It Came Upon the Midnight Clear](https://open.spotify.com/track/1b0sLpypj4cYBMdifQhSvL) | [Christmas Star Piano](https://open.spotify.com/artist/20Tktkw4fRcBIETTravNaq) | [Silent Night](https://open.spotify.com/album/6bp0dyW90lOyBCWjA3l1LC) | 2:48 | 2023-11-28 |  |
+| [It Can't Be Christmas](https://open.spotify.com/track/1tBGJmmXCjcH50LXrEKSGf) | [Hayley Sales](https://open.spotify.com/artist/5aWJMTxBqrjjDPryNDNfMb) | [Christmastime](https://open.spotify.com/album/3TGIUfMvWVUK8J5lN4AF5o) | 3:53 | 2024-11-29 |  |
 | [It Is Well With My Soul](https://open.spotify.com/track/0qcckgiXgPlmE2DtJFRWAk) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [It Came Upon the Midnight Clear](https://open.spotify.com/album/55akvbir79e3aLW1XBS0pz) | 2:05 | 2023-11-28 |  |
 | [It's a Marshmallow World](https://open.spotify.com/track/07IAc4rBedblbuD0eXNLUY) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [Presenting Jo Stafford](https://open.spotify.com/album/7dySyiaqWeRsXCHWQMhStJ) | 2:10 | 2023-11-28 | 2024-04-19 |
 | [It's a Marshmallow World](https://open.spotify.com/track/2kSoq79VBHXG46PfHMpErb) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [It Had to Be You: Lost Radio Recordings](https://open.spotify.com/album/5WksWns07oPp5qwA9MCGGB) | 2:10 | 2023-12-19 |  |

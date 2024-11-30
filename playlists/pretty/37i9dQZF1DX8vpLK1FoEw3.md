@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vpLK1FoEw3.md) - [plain]
 
 > \#MeuSpotify com canções curadas a dedo pelo nosso gigante da música brasileira, o premiado <a href="spotify:artist:0kc1BjcLHaXhZVzCp0HeAl">Xande de Pilares</a> \- Gratidão, Xande!
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,221 likes - 55 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 631,802 likes - 55 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

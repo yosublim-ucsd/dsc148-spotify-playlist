@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Sai Abhyankkar
 
-594 songs - 1 day 11 hr 0 min
+595 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [Rani](https://open.spotify.com/track/7lo9dhL7wstxxHh1PVa5mz) | [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY), [Anu Shasti](https://open.spotify.com/artist/6DL1Cn0wQfPkVAdYNJiTYK), [Pujalakshmi MP](https://open.spotify.com/artist/3RCStFNMFLjEbO74lM4Ubt), [Sivathmikha R](https://open.spotify.com/artist/6fbai4ydYZ4nTsAypxFxFt) | [Rani](https://open.spotify.com/album/3209TfKuIpETw5Z5kwVRL5) | 5:11 | 2024-11-05 | 2024-11-12 |
 | [Rasathi](https://open.spotify.com/track/0CIPyhEbq7QKzOfDw6tQaQ) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [K.J Iyenar](https://open.spotify.com/artist/48x2n0fDajDy8dejSS83TN) | [Rasathi](https://open.spotify.com/album/6KMJDalW6JJfQjLTUbRbQT) | 4:45 | 2023-01-19 | 2023-02-22 |
 | [Ratha Kothippu](https://open.spotify.com/track/0HFPg4ofuzKy4qjH7rFLbD) | [Gana Mani](https://open.spotify.com/artist/4qzPzxh5OORai1gdxT3D69), [Vangal Pulla Vicky](https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu) | [Ratha Kothippu](https://open.spotify.com/album/2Fd2YCT3s2TJc7eK9UeQAz) | 3:43 | 2024-10-03 |  |
+| [Rathiye](https://open.spotify.com/track/1GsXtSpfdgzobBpkacXRk2) | [Adarsh Krishnan N](https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG), [Rithwik](https://open.spotify.com/artist/37DL49l1iS2lwGf386tFaW) | [Rathiye](https://open.spotify.com/album/2uSP9uTakwOXUrokSYkT0B) | 3:36 | 2024-11-29 |  |
 | [Rayil Pogum Idam](https://open.spotify.com/track/2pWUNHtUmNNKfvLGIsSKLN) | [Vijaynarain](https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi) | [Rayil Pogum Idam](https://open.spotify.com/album/3DgXRTUhQVT4mk7xSKwU3i) | 3:07 | 2023-11-23 | 2024-06-14 |
 | [Rekka](https://open.spotify.com/track/5fvjGfHr43rs3UW4ebBw6i) | [Vathshan](https://open.spotify.com/artist/6ri9k2w6ZVXHghuukFQjcz), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [MJ Melodies](https://open.spotify.com/artist/3lKheshxHCfbOVM21KcnZI) | [Rekka](https://open.spotify.com/album/4hEAUQ42uB9QYWFfbn83dx) | 2:55 | 2024-08-14 |  |
 | [Rendu Bottle Vodka \- From "Cosmo Kadhal"](https://open.spotify.com/track/54cWlnscttOqFY0tsNLNLW) | [Josh Vivian](https://open.spotify.com/artist/0C48t0nOfxy7ZymGQVpEP8), [Roe Vincent](https://open.spotify.com/artist/5FP2oei0td30JwMSj5jm2f), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rendu Bottle Vodka \(From "Cosmo Kadhal"\)](https://open.spotify.com/album/5rXK24JqIrZzCRZZhgpDpQ) | 3:40 | 2022-04-07 | 2022-08-12 |

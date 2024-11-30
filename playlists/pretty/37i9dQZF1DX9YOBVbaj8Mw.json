@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14743,
+  "num_followers": 14744,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Big Band Live",
-        "url": "https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy"
-      },
-      "artists": [
-        {
-          "name": "Skalpel",
-          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
-        }
-      ],
-      "duration_ms": 214226,
-      "name": "Wonderland In Alice - Big Band Live",
-      "url": "https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Mikromusic z G\u00f3rnej P\u00f3\u0142ki",
         "url": "https://open.spotify.com/album/7J9AK9SvsstfJVAobYWKvN"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 341589,
       "name": "\u015awiat Oddala Si\u0119 Ode Mnie",
       "url": "https://open.spotify.com/track/0fmQu281ph7yp5zU8ocHur"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Big Band Live",
+        "url": "https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy"
+      },
+      "artists": [
+        {
+          "name": "Skalpel",
+          "url": "https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q"
+        }
+      ],
+      "duration_ms": 214226,
+      "name": "Wonderland In Alice - Big Band Live",
+      "url": "https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "AFR AI D",
-        "url": "https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb"
-      },
-      "artists": [
-        {
-          "name": "Mariusz Duda",
-          "url": "https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "I Love To Chat With You",
-      "url": "https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
         "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 99000,
       "name": "Pie\u015b\u0144 baby",
       "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "AFR AI D",
+        "url": "https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb"
+      },
+      "artists": [
+        {
+          "name": "Mariusz Duda",
+          "url": "https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "I Love To Chat With You",
+      "url": "https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN"
     },
     {
       "added_at": "2024-03-25 08:52:09",

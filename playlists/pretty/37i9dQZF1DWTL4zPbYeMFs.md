@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > A perfect mix for your Mehendi ceremony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,796 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,850 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 7 | [Dil Jhoom](https://open.spotify.com/track/11qnwt18ZckPqchzK2I3U7) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Gadar 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Oxg8wfDhPIrEBM9Yz7ilI) | 5:04 |
 | 8 | [Raanjhan Aaya](https://open.spotify.com/track/0vqtlDkv6BamM6PIKM9ptz) | [Masaba](https://open.spotify.com/artist/5wqQrS5pyg3kv4FRI6I45P), [Akshay & IP](https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf) | [Raanjhan Aaya](https://open.spotify.com/album/1D42KMvs4ntxc04oXyY7cJ) | 2:43 |
 | 9 | [Dil Se Dil Tak \(From "Bawaal"\)](https://open.spotify.com/track/1kTEGyqUJFgstwdgJFLqz1) | [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Laqshay Kapoor](https://open.spotify.com/artist/5M4WmRBIQBWlBflNZj7BTG), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Suvarna Tiwari](https://open.spotify.com/artist/1Uy4rDTdXHBBSAjDTOKoRC) | [Dil Se Dil Tak \(From "Bawaal"\)](https://open.spotify.com/album/1vaX8lnpErNywb6HwJBOsw) | 5:01 |
-| 10 | [Haldi](https://open.spotify.com/track/604BYAzpOtMMG5oNfsnceE) | [Aishwarya Bhandari](https://open.spotify.com/artist/1eymZReguIMWssA0Skxa68), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d) | [Haldi](https://open.spotify.com/album/2m3ERCZLPWJ46E5fdqOGbz) | 3:04 |
+| 10 | [Haldi](https://open.spotify.com/track/604BYAzpOtMMG5oNfsnceE) | [Aishwarya Bhandari](https://open.spotify.com/artist/1eymZReguIMWssA0Skxa68), [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Saaveri Verma](https://open.spotify.com/artist/4upwKgffqvWxkmv52QoT54) | [Haldi](https://open.spotify.com/album/2m3ERCZLPWJ46E5fdqOGbz) | 3:04 |
 | 11 | [Radha \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/track/7ztCi9k76A4QmSqWEutFyV) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shahid Mallya](https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Radha \(From "Jab Harry Met Sejal"\)](https://open.spotify.com/album/6twPZvB9fr9uBQUzPeQfbQ) | 5:01 |
 | 12 | [Bin Tere](https://open.spotify.com/track/7wGt4pTcnmFE0SpMCz77ZX) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Bin Tere](https://open.spotify.com/album/4ag4pAtP4mYVQilhOKEoAR) | 3:14 |
 | 13 | [Hadh Se](https://open.spotify.com/track/65TcKwxfrWZuKZs1W5OfQj) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Hadh Se](https://open.spotify.com/album/4wa3zwD2WpY9ArvSoeM66f) | 4:08 |

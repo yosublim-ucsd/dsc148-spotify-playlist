@@ -4,7 +4,7 @@
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-97 songs - 5 hr 29 min
+98 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Elegy of the Dynast](https://open.spotify.com/track/5M6ilhuxUWT0MVLWjucgGy) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER×HUNTER セレクト×ベスト×α](https://open.spotify.com/album/2a9NHZwSyE5SAt6Z0V0zHF) | 2:27 | 2022-03-25 |  |
 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 | 2022-03-25 |  |
 | [Free The Wind](https://open.spotify.com/track/0r3cg5Co9bAsNgLqcKVMlr) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N) | [The Boy and The Beast \(Original Soundtrack Album\)](https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue) | 2:53 | 2022-04-19 | 2024-04-19 |
+| [Fullmetal Alchemist Brotherhood: Again \- Piano Version](https://open.spotify.com/track/4pWak7Q7iol2ahGJfj4BMJ) | [GabAnime](https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW) | [Fullmetal Alchemist Brotherhood: Again \(Piano Version\)](https://open.spotify.com/album/2UPND0Ms2UCFV7n569lCtv) | 2:21 | 2024-11-29 |  |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/4FddKCeFq1J6ALw9ZZ2P8U) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Goldberg Variations \- The Goldberg Variations, BWV 988](https://open.spotify.com/album/2qLOFrKy9CJjjQHfaDgw1R) | 4:24 | 2022-03-25 |  |
 | [Heiwa no Inori](https://open.spotify.com/track/7Gq8UpApEwJdOIf5K6XCJO) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 2](https://open.spotify.com/album/4wNiXmTGxZ4RcWKesDupIy) | 1:37 | 2022-03-25 |  |
 | [Hiiro no Hitomi no Aika](https://open.spotify.com/track/4k8qWLE0P9L9y6ZTDeQk0k) | [Yoshihisa Hirano](https://open.spotify.com/artist/496DwthDgbHUwWycngajrJ) | [HUNTER x HUNTER Original Soundtrack](https://open.spotify.com/album/134vt3RPUDyjufgeUQyNPq) | 1:29 | 2023-10-17 | 2024-04-19 |

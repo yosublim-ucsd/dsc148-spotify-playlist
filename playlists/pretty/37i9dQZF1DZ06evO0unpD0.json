@@ -1,6 +1,6 @@
 {
   "description": "This is Salif Keita. The essential tracks, all in one playlist.",
-  "num_followers": 12192,
+  "num_followers": 12197,
   "original_name": "This Is Salif Keita",
   "owner": {
     "name": "Spotify",
@@ -8,46 +8,6 @@
   },
   "snapshot_id": "Z0ZhAAAAAAAIlPdx0RrbueYikXrSRUor",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yamore (Remix II)",
-        "url": "https://open.spotify.com/album/5XkuVY4hW5SZO32LSdVUiB"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "MRAK",
-          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
-        },
-        {
-          "name": "Armonica",
-          "url": "https://open.spotify.com/artist/6EnmXQhQQvFYrWorH0Duoy"
-        },
-        {
-          "name": "MoBlack",
-          "url": "https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs"
-        },
-        {
-          "name": "Benja (NL)",
-          "url": "https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI"
-        },
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        },
-        {
-          "name": "Ces\u00e1ria Evora",
-          "url": "https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Yamore - Mrak & Armonica Remix",
-      "url": "https://open.spotify.com/track/28KWF5pRAqsptzJeGZGUYg"
-    },
     {
       "added_at": null,
       "album": {
@@ -704,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 235160,
-      "name": "Ekolo D'Amour",
-      "url": "https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp"
+      "duration_ms": 419186,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
     },
     {
       "added_at": null,
@@ -772,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 419186,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
+      "duration_ms": 235160,
+      "name": "Ekolo D'Amour",
+      "url": "https://open.spotify.com/track/51PaIl9erUqMhbgsTrlYnp"
     },
     {
       "added_at": null,

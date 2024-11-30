@@ -129,24 +129,6 @@
     },
     {
       "album": {
-        "name": "Tezeta Band (ep)",
-        "url": "https://open.spotify.com/album/5YhlIgKnabjhQhcprpNWwX"
-      },
-      "artists": [
-        {
-          "name": "Tezeta Band",
-          "url": "https://open.spotify.com/artist/1Gxato9YW4LkiMcgimkKo1"
-        }
-      ],
-      "date_added": "2018-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 320993,
-      "name": "Ale\u0300gntaye\u0300",
-      "url": "https://open.spotify.com/track/4MMW3lNGfaGMC2Kz6du59E"
-    },
-    {
-      "album": {
         "name": "Ethiopiques, Vol. 14: Negus of Ethiopian Sax",
         "url": "https://open.spotify.com/album/2cqmpOhJfwWvTAJzpbdgnl"
       },
@@ -198,6 +180,24 @@
       "duration_ms": 297973,
       "name": "Alteleyeshegnem",
       "url": "https://open.spotify.com/track/4h3M34tZp05SMq0yZEATMg"
+    },
+    {
+      "album": {
+        "name": "Tezeta Band (ep)",
+        "url": "https://open.spotify.com/album/5YhlIgKnabjhQhcprpNWwX"
+      },
+      "artists": [
+        {
+          "name": "Tezeta Band",
+          "url": "https://open.spotify.com/artist/1Gxato9YW4LkiMcgimkKo1"
+        }
+      ],
+      "date_added": "2018-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320993,
+      "name": "Al\u00e8gntay\u00e8",
+      "url": "https://open.spotify.com/track/4MMW3lNGfaGMC2Kz6du59E"
     },
     {
       "album": {

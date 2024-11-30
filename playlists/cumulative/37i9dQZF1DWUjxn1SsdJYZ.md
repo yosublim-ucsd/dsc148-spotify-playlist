@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: The 046
 
-1,006 songs - 1 day 22 hr 47 min
+1,007 songs - 1 day 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -925,6 +925,7 @@
 | [UH UH](https://open.spotify.com/track/6CoSZHbo5BMNY7NKtBvHYX) | [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [UH UH](https://open.spotify.com/album/6Dcnj6vb8Mdbf7bDT1VY2Q) | 2:05 | 2023-11-23 | 2024-01-12 |
 | [Umva](https://open.spotify.com/track/1xDQyK9rVrlPDdiwtZaIGN) | [Elsy Wameyo](https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T) | [Umva](https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S) | 3:23 | 2024-05-23 | 2024-07-05 |
 | [Un Besito](https://open.spotify.com/track/3YpmW8NtS7jZvOc4eJR914) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [Un Besito](https://open.spotify.com/album/3hGkWw9sXHLijpoLFG5G5E) | 2:26 | 2024-01-19 | 2024-04-26 |
+| [Unchain](https://open.spotify.com/track/7dXLfi1417kkNDHgWUi32T) | [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [Unchain](https://open.spotify.com/album/1tglSiunKB7YE93KuQJdFl) | 2:23 | 2024-11-28 |  |
 | [Under Pressure](https://open.spotify.com/track/6kFZ1RVm0rDLCmfRRlyfq3) | [SHARKY43](https://open.spotify.com/artist/2hBDoKWNRWRW8Eq4vOi0do) | [Under Pressure](https://open.spotify.com/album/7l6jZUVZtc20SP07o56TUy) | 3:24 | 2024-09-26 |  |
 | [Underdog](https://open.spotify.com/track/0HHNGLZAJej2RQalyvBZ8M) | [Say True God?](https://open.spotify.com/artist/47gUwvUoNtEAUhUyGMBSjr) | [Underdog](https://open.spotify.com/album/3fOVdOefDN43WjiLi2m7ZF) | 3:39 | 2022-08-04 | 2022-11-18 |
 | [Universal Alignment](https://open.spotify.com/track/6qXfR8naskiZV1ydZHdJK3) | [Name UL](https://open.spotify.com/artist/4FJ0TYqGMHOXE9nIcZLAHv) | [Universal Alignment](https://open.spotify.com/album/6feN2hKIXLsOWBWqA3diMT) | 2:10 | 2024-07-12 | 2024-11-22 |

@@ -4,7 +4,7 @@
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹 Emma Nolde in cover ✨
 
-366 songs - 21 hr 29 min
+367 songs - 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Tanti auguri](https://open.spotify.com/track/2LUmJjjBNx3LumAV3m19Je) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Raffaella Carrà](https://open.spotify.com/album/6E7WXLdeWOGUqSZzntA7FC) | 3:46 | 2023-01-24 | 2023-06-06 |
 | [Tanti auguri](https://open.spotify.com/track/46vuDoOH9wmr0CDpomHdR4) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Raffaella \(1978\)](https://open.spotify.com/album/5LHjd1x4xdCt1SO5rJeypj) | 3:47 | 2023-06-05 | 2023-06-09 |
 | [TAPINDERQ \(FACCIO CORNA\)](https://open.spotify.com/track/2VjH2Bck5o4fO39OJunEyt) | [Vergo](https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y) | [TAPINDERQ \(FACCIO CORNA\)](https://open.spotify.com/album/4nJXwof60PD6iaVpnQRqxR) | 2:59 | 2024-09-26 |  |
+| [TBLISI](https://open.spotify.com/track/61hELzzxwIpPRe7Em76Ga6) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [TBLISI](https://open.spotify.com/album/1LuS7MOIiPK3KogzJro8eC) | 2:02 | 2024-11-29 |  |
 | [Te e Me](https://open.spotify.com/track/6koVfWb4Vl7FxQY3SLEPlA) | [Osvaldo Supino](https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj) | [Te e Me](https://open.spotify.com/album/5E4afLGhqs9xcuhYyjxFuZ) | 2:40 | 2024-02-12 |  |
 | [Tell Me What You See](https://open.spotify.com/track/7He1AYDz7BSwkA0OJ4g7QK) | [Matilde Davoli](https://open.spotify.com/artist/4Q34gFbI9ZFg9T3WZgq0Rh) | [I’m Calling You From My Dreams](https://open.spotify.com/album/2hmcsgrHSJ5An68KwK5ISQ) | 4:05 | 2022-06-26 | 2023-06-09 |
 | [Tentami & Rubami](https://open.spotify.com/track/1e22pleH4nPfOZwZMl2xFy) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Discodelic Edits Vol.1](https://open.spotify.com/album/0KSk4F1DUoj7u6I3lhoG9e) | 6:11 | 2021-11-19 | 2023-06-06 |

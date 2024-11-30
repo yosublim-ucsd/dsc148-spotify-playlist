@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con La Valenti en portada.",
-  "num_followers": 40541,
+  "num_followers": 40545,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "Caminar en Cristal",
+        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "duration_ms": 144071,
+      "name": "Caminar en Cristal",
+      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Sean Felices",
         "url": "https://open.spotify.com/album/0D9mV5BEMT3UfDy1jottO6"
       },
@@ -287,18 +303,18 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Caminar en Cristal",
-        "url": "https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S"
+        "name": "Buena Moza",
+        "url": "https://open.spotify.com/album/21rx7vRolwU9mNDPC1KRdH"
       },
       "artists": [
         {
-          "name": "Catalina Ammaturo",
-          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+          "name": "J\u00fapiter en Casa",
+          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
         }
       ],
-      "duration_ms": 144071,
-      "name": "Caminar en Cristal",
-      "url": "https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb"
+      "duration_ms": 130909,
+      "name": "Buena Moza",
+      "url": "https://open.spotify.com/track/5V6GFrJ7hKEyxik8yJgH6P"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -331,22 +347,6 @@
       "duration_ms": 145089,
       "name": "Nadena",
       "url": "https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "Buena Moza",
-        "url": "https://open.spotify.com/album/21rx7vRolwU9mNDPC1KRdH"
-      },
-      "artists": [
-        {
-          "name": "J\u00fapiter en Casa",
-          "url": "https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "Buena Moza",
-      "url": "https://open.spotify.com/track/5V6GFrJ7hKEyxik8yJgH6P"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Vladi",
         "url": "https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 133194,
       "name": "Hola Mami",
       "url": "https://open.spotify.com/track/1IqA39UMIRcP7iwHRijjrU"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Los Inviernos",
-        "url": "https://open.spotify.com/album/3K8Yy900INpISxrEGQP1uB"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Los Inviernos",
-      "url": "https://open.spotify.com/track/6cWrd3lPNcieTKWw1Fj0Ls"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "INFLEXI\u00d3N",
         "url": "https://open.spotify.com/album/4q3w1YExFuQ0uXEWd9wFMo"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 217386,
       "name": "INFLEXI\u00d3N",
       "url": "https://open.spotify.com/track/0QTklhlD3bQz6vq1QcPKjc"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Los Inviernos",
+        "url": "https://open.spotify.com/album/3K8Yy900INpISxrEGQP1uB"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Los Inviernos",
+      "url": "https://open.spotify.com/track/6cWrd3lPNcieTKWw1Fj0Ls"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "A veces est\u00e1 bien",
-        "url": "https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR"
-      },
-      "artists": [
-        {
-          "name": "Catalina Bay\u00e1",
-          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Conocerte m\u00e1s",
-      "url": "https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Puente",
         "url": "https://open.spotify.com/album/4pZuETz9Bpb1C6UIDmG4H2"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 186991,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/2LrslpUNiCTiY0fQNN2XLz"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "A veces est\u00e1 bien",
+        "url": "https://open.spotify.com/album/4MleecvCYX58tOnuIb0nAR"
+      },
+      "artists": [
+        {
+          "name": "Catalina Bay\u00e1",
+          "url": "https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Conocerte m\u00e1s",
+      "url": "https://open.spotify.com/track/7eVXHsa36NHl28QSDgmYWP"
     },
     {
       "added_at": "2024-11-07 03:00:00",

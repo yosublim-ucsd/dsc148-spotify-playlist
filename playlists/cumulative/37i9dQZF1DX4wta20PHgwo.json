@@ -3285,7 +3285,7 @@
         },
         {
           "name": "Fredrik Lindborg",
-          "url": "https://open.spotify.com/artist/24j6pokEgGNNoSAgic8E40"
+          "url": "https://open.spotify.com/artist/605apsXBdPW9fkFxJpPtDL"
         },
         {
           "name": "Kjell \u00d6hman",
@@ -5708,7 +5708,7 @@
       ],
       "date_added": "2021-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 311400,
       "name": "My One And Only Love",
       "url": "https://open.spotify.com/track/34RyZXVz5kuOcywbFIPosB"
@@ -8654,6 +8654,24 @@
       "duration_ms": 322440,
       "name": "The Old Church",
       "url": "https://open.spotify.com/track/5bhl94lZGXsb3uwErNxqNv"
+    },
+    {
+      "album": {
+        "name": "The Past Is What Changes The Most",
+        "url": "https://open.spotify.com/album/45BE8DHFlNKhNborMY1080"
+      },
+      "artists": [
+        {
+          "name": "Peace Flag Ensemble",
+          "url": "https://open.spotify.com/artist/3osiBkb0uSyLyMuWkWxjlU"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225206,
+      "name": "The Past Is What Changes The Most",
+      "url": "https://open.spotify.com/track/6wJpJyoDAPr5wQ7w0hapGx"
     },
     {
       "album": {

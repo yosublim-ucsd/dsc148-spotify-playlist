@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 20300,
+  "num_followers": 20310,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,30 @@
     {
       "added_at": "2024-11-27 02:40:48",
       "album": {
+        "name": "DEATH NOTE",
+        "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
+      },
+      "artists": [
+        {
+          "name": "OVER KILL",
+          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
+        },
+        {
+          "name": "Pxrge Trxxxper",
+          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
+        },
+        {
+          "name": "NEMLAND",
+          "url": "https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j"
+        }
+      ],
+      "duration_ms": 174081,
+      "name": "DEATH NOTE",
+      "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
+    },
+    {
+      "added_at": "2024-11-27 02:40:48",
+      "album": {
         "name": "Psycho",
         "url": "https://open.spotify.com/album/5lnX2L4TLYkW4e57oGOdI1"
       },
@@ -811,30 +835,6 @@
       "duration_ms": 205628,
       "name": "Go (feat. Benjazzy)",
       "url": "https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2"
-    },
-    {
-      "added_at": "2024-11-27 02:40:48",
-      "album": {
-        "name": "DEATH NOTE",
-        "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
-      },
-      "artists": [
-        {
-          "name": "OVER KILL",
-          "url": "https://open.spotify.com/artist/6h526FaFVlJhX9hdK3iyl3"
-        },
-        {
-          "name": "Pxrge Trxxxper",
-          "url": "https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie"
-        },
-        {
-          "name": "NEMLAND",
-          "url": "https://open.spotify.com/artist/2Sim83TyMbBiQ9m9uh7V6j"
-        }
-      ],
-      "duration_ms": 174081,
-      "name": "DEATH NOTE",
-      "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
     },
     {
       "added_at": "2024-11-27 02:40:48",
@@ -1027,18 +1027,22 @@
     {
       "added_at": "2024-11-27 02:40:48",
       "album": {
-        "name": "Chawalit",
-        "url": "https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH"
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/0HTNHb1uSnTA8h4c1WQcPm"
       },
       "artists": [
         {
-          "name": "Tokyo Young Vision",
-          "url": "https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH"
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "WATAPACHI",
+          "url": "https://open.spotify.com/artist/3jn7wt2ywocl6A8LOS2YyH"
         }
       ],
-      "duration_ms": 180493,
-      "name": "EDO",
-      "url": "https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ"
+      "duration_ms": 143448,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/2RuDratTmJvZIKCsi4gWWB"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

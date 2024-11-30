@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: 2Frères
 
-119 songs - 6 hr 21 min
+120 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Comme Avant](https://open.spotify.com/track/0u8VoI8F0JIL2Oq240vWuV) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Comme Avant](https://open.spotify.com/album/102GkrErk0tQ4aqUOayWtg) | 2:26 | 2024-06-28 | 2024-08-17 |
 | [Comme les pigeons d'argile](https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Comme les pigeons d'argile](https://open.spotify.com/album/6uZEfZaWRYOZxHMwkNnOdE) | 4:13 | 2024-10-18 | 2024-11-23 |
 | [Coup de poing](https://open.spotify.com/track/1LaRRI4KI5mp68FvI2OBMv) | [Guillaume Lafond](https://open.spotify.com/artist/0EgXmvNo92tl6qSXPehQWG) | [Coup de poing](https://open.spotify.com/album/0xc3PJIrmlTk8WHEkM7Agf) | 2:53 | 2024-09-27 | 2024-11-09 |
+| [Cours, Cora, cours](https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 4:05 | 2024-11-29 |  |
 | [Croire en nous](https://open.spotify.com/track/6s133BFFGjnGJHQRiUzPob) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Science humaine](https://open.spotify.com/album/0chebHv4zEUnUwycIJEfgD) | 3:30 | 2024-11-15 |  |
 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 | 2024-06-28 | 2024-08-31 |
 | [Dans les marguerites](https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Dans les marguerites](https://open.spotify.com/album/4poKkmkR3L3GuZ6eGGislu) | 3:40 | 2024-06-28 | 2024-07-19 |
@@ -58,7 +59,7 @@
 | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [La liberté \(c'est de suivre le plan\)](https://open.spotify.com/album/6RHi78N5mfS1tnCzZmCnCQ) | 3:56 | 2024-06-28 | 2024-10-05 |
 | [La plus belle fille du moshpit](https://open.spotify.com/track/3Lsgo4IPjVYp6jh93y473Y) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La plus belle fille du moshpit](https://open.spotify.com/album/0prLo3kYXuKpH1JavYa0Vz) | 4:24 | 2024-08-23 |  |
 | [La protagoniste](https://open.spotify.com/track/3WClLiQH8U19rNzxTPIAnA) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Traits d'union](https://open.spotify.com/album/1T4kcoQnEoGL75Nii6bI4g) | 2:15 | 2024-06-28 | 2024-07-13 |
-| [La tête ailleurs](https://open.spotify.com/track/2YvxF2qQruCoBtWcOfzwZP) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [Testament](https://open.spotify.com/album/0zRtuGqoJR41mwDLRBOMk0) | 3:38 | 2024-11-08 |  |
+| [La tête ailleurs](https://open.spotify.com/track/2YvxF2qQruCoBtWcOfzwZP) | [Rick et les Bons Moments](https://open.spotify.com/artist/3ZTHWlS8bpAA446rY8ntVQ) | [Testament](https://open.spotify.com/album/0zRtuGqoJR41mwDLRBOMk0) | 3:38 | 2024-11-08 | 2024-11-30 |
 | [LAISSE LES BONS TEMPS ROULER](https://open.spotify.com/track/21lHmyEpEhciv3hvqRLLY3) | [Kaïn](https://open.spotify.com/artist/1KMHmX2PgvEl1nFzFmEdcZ) | [El GRANDE TORPEDO](https://open.spotify.com/album/0GPARm2KCkGhIhNPQFnKeQ) | 3:45 | 2024-06-28 | 2024-08-10 |
 | [Lala](https://open.spotify.com/track/1FCva9S8VQYi6DWZxeDU7A) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Lala](https://open.spotify.com/album/6nkfWpygPTF1j2OgSBf9Ca) | 3:10 | 2024-06-28 |  |
 | [Last in Line \- 2024 Edit](https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV) | [Josiane](https://open.spotify.com/artist/20D5XV4MYVeOl23idQan4B) | [Last in Line \(2024 Edit\)](https://open.spotify.com/album/0B4LvuTigDiwzuWRnuQNIb) | 3:03 | 2024-09-27 |  |

@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's Country crop\. Cover: Lane Pittman
+> The cream of today's Country crop\. Cover: Max McNown
 
-837 songs - 1 day 21 hr 49 min
+838 songs - 1 day 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Change My Mind](https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Change My Mind](https://open.spotify.com/album/5ndkH4RnE1m6TcBhyKpWB8) | 3:19 | 2024-10-03 |  |
 | [Changing Tunes](https://open.spotify.com/track/3YtsnLnLa42IZYXb2r1mCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Changing Tunes](https://open.spotify.com/album/7FxR6plvB489tqhcyRIS2a) | 3:10 | 2022-08-05 | 2023-01-13 |
 | [Charlottes Web](https://open.spotify.com/track/6MiBPOlpt3rkzMHtR9IeqW) | [Benny Morrell](https://open.spotify.com/artist/1s4B6fb9iNflnlOFKIn5q9) | [Charlottes Web](https://open.spotify.com/album/3QYPsxiHs5zz8r8Nj0qpmF) | 3:15 | 2024-06-21 | 2024-09-20 |
+| [Chase You Down](https://open.spotify.com/track/65Q73c4fCMrrGgjap0iYJs) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Chase You Down](https://open.spotify.com/album/5bRkx5LhFdYq3eYSa8TXly) | 3:39 | 2024-11-29 |  |
 | [Cheap Liquor](https://open.spotify.com/track/5twCxGXVBfZ6gNtGLfJhNu) | [Andrew Swift](https://open.spotify.com/artist/428gAQRnMEaxHVT0VoUNCd) | [Lightning Strikes and Neon Nights](https://open.spotify.com/album/55HTZMTZo36Yg7C3O8EamR) | 4:13 | 2023-04-27 | 2023-06-30 |
 | [Cheap Moscato](https://open.spotify.com/track/0Sz3WfyjvMvAqjdZ8URlXH) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Cheap Moscato](https://open.spotify.com/album/1YVHfRtUC9nmqUTJlk2zEy) | 2:45 | 2022-02-06 | 2022-07-08 |
 | [Cheating On Me](https://open.spotify.com/track/42JCfqD9343rCiDTVwX30J) | [Melanie Dyer](https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL) | [Cheating On Me](https://open.spotify.com/album/3bQeWBXnHReJxagC67rkYJ) | 3:28 | 2022-08-05 | 2022-10-21 |
@@ -560,7 +561,7 @@
 | [Queen of Daytona Beach](https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Queen of Daytona Beach](https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6) | 3:34 | 2022-06-16 | 2022-12-05 |
 | [Raise Me](https://open.spotify.com/track/4TazvOlJBRopmxCN0aTiEA) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m) | [Raise Me](https://open.spotify.com/album/70bvuJAIvacEXoOVcZSvmQ) | 3:51 | 2023-05-18 | 2023-07-21 |
 | [RAISED LIKE THAT](https://open.spotify.com/track/15NeNzRcjfuXTnOFHpnmzs) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [RAISED LIKE THAT](https://open.spotify.com/album/6dKTwyfwAejwySdL7dEcZZ) | 3:25 | 2021-12-30 | 2022-07-22 |
-| [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 | 2024-07-25 |  |
+| [Rather Be](https://open.spotify.com/track/0gLFZFnaOy3Fa2uBApznuW) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Rather Be](https://open.spotify.com/album/0lxxno3J2bozJPkMYLD2X4) | 2:51 | 2024-07-25 | 2024-11-30 |
 | [Real Good Cookin'](https://open.spotify.com/track/0Cm54OFxMpEjPCV8JoEGwZ) | [Sweet Talk](https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi) | [Real Good Cookin'](https://open.spotify.com/album/4nCAdiW5a0XBGWRIpT0YEb) | 3:31 | 2024-05-23 | 2024-06-28 |
 | [Real Man](https://open.spotify.com/track/0sEdnshFRFL1sEC9EC074a) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Real Man](https://open.spotify.com/album/1SXuOk9M9j4nDlPwS0fdyw) | 3:28 | 2023-08-03 | 2023-11-10 |
 | [Real Real](https://open.spotify.com/track/7E6VIMHlOBokbisOThuQ7J) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [On The Back Of My Dreams](https://open.spotify.com/album/58OONWKDrW7oJHfWUy68Vc) | 3:34 | 2024-09-05 |  |

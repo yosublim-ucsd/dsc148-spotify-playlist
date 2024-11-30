@@ -1,6 +1,6 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 234333,
+  "num_followers": 234404,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI"
-      },
-      "artists": [
-        {
-          "name": "Zamilska",
-          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
-        },
-        {
-          "name": "huskie",
-          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
-        }
-      ],
-      "duration_ms": 213351,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Dr\u00efpsody",
         "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 212949,
       "name": "Drip Coda",
       "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        },
+        {
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+        }
+      ],
+      "duration_ms": 213351,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "True Luck",
-        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "True Luck",
-      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Unknown Tokyo",
         "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 320547,
       "name": "Close",
       "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "True Luck",
+        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "True Luck",
+      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "thieves",
-        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 178616,
-      "name": "thieves",
-      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Spinning",
         "url": "https://open.spotify.com/album/5WcVopSnLSUMTFUuoeE1jA"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 233610,
       "name": "Archeological Longing",
       "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Tunnel Lights",
+        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wolfe",
+          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+        }
+      ],
+      "duration_ms": 247664,
+      "name": "Tunnel Lights",
+      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Shade Under Your Hands",
         "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Tunnel Lights",
-        "url": "https://open.spotify.com/album/6YDDMqrGMpgtOE8fJQV8jt"
+        "name": "Wee Rosebud",
+        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
       },
       "artists": [
         {
-          "name": "Chelsea Wolfe",
-          "url": "https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10"
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
         }
       ],
-      "duration_ms": 247664,
-      "name": "Tunnel Lights",
-      "url": "https://open.spotify.com/track/1PGLefFN78JJDg8bVM6Snv"
+      "duration_ms": 261959,
+      "name": "Wee Rosebud",
+      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -839,22 +855,6 @@
       "duration_ms": 314933,
       "name": "A Soul With No King - Remix (feat. NATURE)",
       "url": "https://open.spotify.com/track/24OMVt6uyLUl7Dv4JYp4yH"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Wee Rosebud",
-        "url": "https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
-        }
-      ],
-      "duration_ms": 261959,
-      "name": "Wee Rosebud",
-      "url": "https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "I'm A Man",
+        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Carmina XVII",
         "url": "https://open.spotify.com/album/0rnYVawsuOnaXb90trd2WP"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "I'm A Man",
-        "url": "https://open.spotify.com/album/1GDSTZ2T6bOGQdFtjXTZn4"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/4RdqVrjTnuEms5pgKNG95q"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "The Best Sea",
         "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Pt. I",
-        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 241009,
-      "name": "ANNA",
-      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "The King",
         "url": "https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 224524,
       "name": "The King",
       "url": "https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Pt. I",
+        "url": "https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 241009,
+      "name": "ANNA",
+      "url": "https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Al\u00e9m do tempo",
-        "url": "https://open.spotify.com/album/318gPAeSQOuTa2OLeTevaj"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
       },
       "artists": [
         {
-          "name": "s\u00fas",
-          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
+          "name": "Perera Elsewhere",
+          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
         }
       ],
-      "duration_ms": 239786,
-      "name": "Al\u00e9m do tempo",
-      "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
+      "duration_ms": 237999,
+      "name": "Travel Lite",
+      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 55860,
+      "name": "Deep Sea",
+      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "CLOUD 9",
         "url": "https://open.spotify.com/album/36Tr8wmY3Xs9XKEluvYoG9"
       },
@@ -1079,34 +1095,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1lkzte1CunMUPAewKAdgDN"
+        "name": "Al\u00e9m do tempo",
+        "url": "https://open.spotify.com/album/318gPAeSQOuTa2OLeTevaj"
       },
       "artists": [
         {
-          "name": "Perera Elsewhere",
-          "url": "https://open.spotify.com/artist/5RwI5ghnexeunsvJsZ1rDQ"
+          "name": "s\u00fas",
+          "url": "https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc"
         }
       ],
-      "duration_ms": 237999,
-      "name": "Travel Lite",
-      "url": "https://open.spotify.com/track/7rHkavSboE391rhwnWoaR7"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 55860,
-      "name": "Deep Sea",
-      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
+      "duration_ms": 239786,
+      "name": "Al\u00e9m do tempo",
+      "url": "https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Iddu - Sicilian Letters (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0E8U5NMPQnpHDazyTH7M9f"
-      },
-      "artists": [
-        {
-          "name": "Colapesce",
-          "url": "https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf"
-        }
-      ],
-      "duration_ms": 430325,
-      "name": "Omini e armali - Ouverture",
-      "url": "https://open.spotify.com/track/5k2Bl35y57gSdb3YOMQuGF"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Hiding In My Room",
         "url": "https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 256915,
       "name": "Hiding In My Room",
       "url": "https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Iddu - Sicilian Letters (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0E8U5NMPQnpHDazyTH7M9f"
+      },
+      "artists": [
+        {
+          "name": "Colapesce",
+          "url": "https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf"
+        }
+      ],
+      "duration_ms": 430325,
+      "name": "Omini e armali - Ouverture",
+      "url": "https://open.spotify.com/track/5k2Bl35y57gSdb3YOMQuGF"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Get Still",
-        "url": "https://open.spotify.com/album/3UrtXMTUMXR2B5CP6IOuta"
-      },
-      "artists": [
-        {
-          "name": "Alan Sparhawk",
-          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
-        }
-      ],
-      "duration_ms": 222561,
-      "name": "Get Still",
-      "url": "https://open.spotify.com/track/0lsGoFkRfl7gQm892Za3cq"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Wanci",
         "url": "https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 344074,
       "name": "Selalu",
       "url": "https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Get Still",
+        "url": "https://open.spotify.com/album/3UrtXMTUMXR2B5CP6IOuta"
+      },
+      "artists": [
+        {
+          "name": "Alan Sparhawk",
+          "url": "https://open.spotify.com/artist/7ljTofQBh5fR5SYfGHRYs8"
+        }
+      ],
+      "duration_ms": 222561,
+      "name": "Get Still",
+      "url": "https://open.spotify.com/track/0lsGoFkRfl7gQm892Za3cq"
     },
     {
       "added_at": "2024-11-22 00:01:00",

@@ -6,259 +6,319 @@
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAD6mWbHrwcEOZrbaD4pX2xIs9PSzKh",
+  "snapshot_id": "AAAD7NGyHAhHuUnkKHeyyz7Ye+EcO2xG",
   "tracks": [
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "reflect.",
-        "url": "https://open.spotify.com/album/0lIFKPJLuPeWDmIJoLWVbk"
+        "name": "A Lifetime in Pain",
+        "url": "https://open.spotify.com/album/4Ygkqq6yVjeA7Jpmj1NwqM"
       },
       "artists": [
         {
-          "name": "Guru Griff",
-          "url": "https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8"
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
         }
       ],
-      "duration_ms": 162857,
-      "name": "reflect.",
-      "url": "https://open.spotify.com/track/0es8u2wfsXxZXoknhjGEFE"
+      "duration_ms": 188335,
+      "name": "A Lifetime in Pain",
+      "url": "https://open.spotify.com/track/688wANrgJUQihI33I12pmU"
     },
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "We Go Off Tonight",
-        "url": "https://open.spotify.com/album/62K2mhiICmLUuoF7NeVc8M"
+        "name": "No Shelter (From The Rain)",
+        "url": "https://open.spotify.com/album/2LLZ6Oik0tCrnjZ2Q22vyH"
       },
       "artists": [
         {
-          "name": "Symphony Of Sweden",
-          "url": "https://open.spotify.com/artist/6AvBsDOrRn8rAdJdj3srdJ"
+          "name": "Trainman Blues",
+          "url": "https://open.spotify.com/artist/4EtygfoYbLDpe9eKy25sUH"
         }
       ],
-      "duration_ms": 172199,
-      "name": "We Go Off Tonight",
-      "url": "https://open.spotify.com/track/1xp3Imb1JEDFvWJXnl0B52"
+      "duration_ms": 158000,
+      "name": "No Shelter (From The Rain)",
+      "url": "https://open.spotify.com/track/23unfXqWKBLYU5dNyZAAMD"
     },
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "Raise The Glass",
-        "url": "https://open.spotify.com/album/2MeVzR7jpWzHmaUpBwsxyF"
+        "name": "Lot Hjerte Ditt dra",
+        "url": "https://open.spotify.com/album/1HMZCJdQC7Ctxf9VLH8z2k"
       },
       "artists": [
         {
-          "name": "Sebastian Ekstrand",
-          "url": "https://open.spotify.com/artist/7jEg1yVBiGbdDeiuwXIAAm"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "Raise The Glass",
-      "url": "https://open.spotify.com/track/7u9SmaG1AuaYI0JZoOPchm"
-    },
-    {
-      "added_at": "2024-11-22 13:56:50",
-      "album": {
-        "name": "BLINDED",
-        "url": "https://open.spotify.com/album/5CgV5HnHNIQFA06FiHzvZP"
-      },
-      "artists": [
-        {
-          "name": "SUNS3T",
-          "url": "https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt"
+          "name": "Thosebricks",
+          "url": "https://open.spotify.com/artist/2KYlV0PM7k2AJdA6hVMoqj"
         },
         {
-          "name": "Geejo Hero",
-          "url": "https://open.spotify.com/artist/3WMccd0KGHrT5pInPbaVK5"
+          "name": "Skjevik",
+          "url": "https://open.spotify.com/artist/62MIIbNPmuJGIOWR4XQ7em"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Lot Hjerte Ditt dra",
+      "url": "https://open.spotify.com/track/2zQIukVEKopPXDt4Iddxea"
+    },
+    {
+      "added_at": "2024-11-29 15:11:09",
+      "album": {
+        "name": "N\u00e4ralivetupplevelsen/Varf\u00f6r",
+        "url": "https://open.spotify.com/album/2e7KPP2Sh4BqmmlBjEnhbF"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rnarna",
+          "url": "https://open.spotify.com/artist/06ZDy2XhBL6QUegO9n2Y4Y"
+        }
+      ],
+      "duration_ms": 180331,
+      "name": "N\u00e4ralivetupplevelsen",
+      "url": "https://open.spotify.com/track/7HZTE9iWLtZ7zLwkdiErnG"
+    },
+    {
+      "added_at": "2024-11-29 15:11:09",
+      "album": {
+        "name": "Menade f\u00f6r alltid",
+        "url": "https://open.spotify.com/album/3XUogjd33m92RKAEpiAAS4"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rns Band",
+          "url": "https://open.spotify.com/artist/5vshbshO7DybuIWIq86rUG"
+        }
+      ],
+      "duration_ms": 217173,
+      "name": "Menade f\u00f6r alltid",
+      "url": "https://open.spotify.com/track/3m6bG9kpVLZTlcVYajgrdK"
+    },
+    {
+      "added_at": "2024-11-29 15:11:09",
+      "album": {
+        "name": "Mitt Liv",
+        "url": "https://open.spotify.com/album/1VkVir842K6hcQCFjJdq3q"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hemlin",
+          "url": "https://open.spotify.com/artist/0saFQxCdkPcbgbAf01nvvt"
+        }
+      ],
+      "duration_ms": 198623,
+      "name": "Mitt liv",
+      "url": "https://open.spotify.com/track/2OQim8eOoNFt2V6vflz1Iy"
+    },
+    {
+      "added_at": "2024-11-29 15:11:09",
+      "album": {
+        "name": "Passa",
+        "url": "https://open.spotify.com/album/0LsWiOoGROXvzFS3RilhLF"
+      },
+      "artists": [
+        {
+          "name": "Mazar",
+          "url": "https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF"
+        }
+      ],
+      "duration_ms": 145573,
+      "name": "Passa",
+      "url": "https://open.spotify.com/track/2XEiJiYKYo4Qa3BoahFLbB"
+    },
+    {
+      "added_at": "2024-11-29 15:11:09",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/1qdXqSEcDhJK0QPcwUBBkT"
+      },
+      "artists": [
+        {
+          "name": "Maklo & Peter",
+          "url": "https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7"
+        }
+      ],
+      "duration_ms": 181035,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0UXY7P2ThkbB4nLDB9YDLV"
+    },
+    {
+      "added_at": "2024-11-29 15:11:09",
+      "album": {
+        "name": "A.K.W",
+        "url": "https://open.spotify.com/album/3tLqMjKJsekO0rhrKRw876"
+      },
+      "artists": [
+        {
+          "name": "Landsv\u00e4g 76",
+          "url": "https://open.spotify.com/artist/26Cv4eMR5XUQWY1xZVjMd1"
+        }
+      ],
+      "duration_ms": 216443,
+      "name": "A.K.W",
+      "url": "https://open.spotify.com/track/3dEi6TiJoZQehVyZFrrTqR"
+    },
+    {
+      "added_at": "2024-11-29 15:11:09",
+      "album": {
+        "name": "real love",
+        "url": "https://open.spotify.com/album/5Y13BqoCyXGolNwNi5oHpN"
+      },
+      "artists": [
+        {
+          "name": "BRAVO",
+          "url": "https://open.spotify.com/artist/4frFc8oT9qzlTtoHiACIwy"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "real love",
+      "url": "https://open.spotify.com/track/1GEY022Fl3SMLXEvwZ1v2K"
+    },
+    {
+      "added_at": "2024-11-29 15:11:09",
+      "album": {
+        "name": "There Will Be Oceans",
+        "url": "https://open.spotify.com/album/4hGhAc31KMPfBJOHe9v8vz"
+      },
+      "artists": [
+        {
+          "name": "Drever",
+          "url": "https://open.spotify.com/artist/5dwBfmm7dTk3NiEBLZ3vaJ"
+        }
+      ],
+      "duration_ms": 266598,
+      "name": "There Will Be Oceans",
+      "url": "https://open.spotify.com/track/6oSzzOGhTwVIBJQRgZobJv"
+    },
+    {
+      "added_at": "2024-11-29 15:11:09",
+      "album": {
+        "name": "tenukepit (Live at Rytmikorjaamo, 24/5/2024)",
+        "url": "https://open.spotify.com/album/2AmXEXgmGBbjhmU8poPigW"
+      },
+      "artists": [
+        {
+          "name": "1Tipe",
+          "url": "https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7"
         },
         {
-          "name": "AUGUST IV",
-          "url": "https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T"
+          "name": "Kvartetti",
+          "url": "https://open.spotify.com/artist/5NwUWGaVxBmQPvQrVu7zwi"
         }
       ],
-      "duration_ms": 185684,
-      "name": "BLINDED",
-      "url": "https://open.spotify.com/track/4x4CAq67HsMLRa0lEZXWhg"
+      "duration_ms": 158417,
+      "name": "tenukepit - Live at Rytmikorjaamo, 24/5/2024",
+      "url": "https://open.spotify.com/track/4IsUkvAkbMD1s5duvxE1It"
     },
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "Empty Palaces",
-        "url": "https://open.spotify.com/album/60Vsnd9WXg6sxkTOhUqy5v"
+        "name": "baby blue",
+        "url": "https://open.spotify.com/album/6Atyfmfis9Lphy3RW39FzI"
       },
       "artists": [
         {
-          "name": "Craneium",
-          "url": "https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK"
+          "name": "the diamondbacks",
+          "url": "https://open.spotify.com/artist/6SPdbDQWjOtcFMmTh9sQkN"
         }
       ],
-      "duration_ms": 241400,
-      "name": "Empty Palaces",
-      "url": "https://open.spotify.com/track/703q0ToA5bChtkFhcu6x7h"
+      "duration_ms": 192367,
+      "name": "baby blue",
+      "url": "https://open.spotify.com/track/75lWNZgm1yRmLY4hvHYeuW"
     },
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "Ollaan Liian Pitk\u00e4ll\u00e4",
-        "url": "https://open.spotify.com/album/71pOlGTd3dGTtlNGdhN5zM"
+        "name": "Luciavisa / Den signade dag",
+        "url": "https://open.spotify.com/album/0RRp1xw4XlRHHf3bP51HDR"
       },
       "artists": [
         {
-          "name": "Nen\u00e4 Inc.",
-          "url": "https://open.spotify.com/artist/6Lhk2MZE8niAICw9SGiG9I"
+          "name": "TON\u00c5",
+          "url": "https://open.spotify.com/artist/02phQfSig5Csyp242kM3RI"
         }
       ],
-      "duration_ms": 139148,
-      "name": "Ollaan Liian Pitk\u00e4ll\u00e4",
-      "url": "https://open.spotify.com/track/3umCTI8ManzeS2ir8akGQQ"
+      "duration_ms": 230808,
+      "name": "Luciavisa",
+      "url": "https://open.spotify.com/track/7ES0WiM2jSbstCFa1SvGpi"
     },
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "Course We're Goin' Out",
-        "url": "https://open.spotify.com/album/0YmOSuW9kOseJ4IqKpAAmf"
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/3zIGPXKoVkntflYcl5IzTP"
       },
       "artists": [
         {
-          "name": "Papa Jupe's T.C.",
-          "url": "https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh"
+          "name": "Pretty Smile",
+          "url": "https://open.spotify.com/artist/6rhtmUtQrmLCTbJQt6nK7C"
         }
       ],
-      "duration_ms": 231124,
-      "name": "Course We're Goin' Out",
-      "url": "https://open.spotify.com/track/3WlaetvjzrBPGweDQGdL7r"
+      "duration_ms": 180924,
+      "name": "Never Enough",
+      "url": "https://open.spotify.com/track/2jo3QJDR7CBTzsvZGSgRW8"
     },
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "Heartbreak BLVD",
-        "url": "https://open.spotify.com/album/5i4M8v4uvo4Y4rBw3HVxGT"
+        "name": "Perfect display of love",
+        "url": "https://open.spotify.com/album/6vdLOxlkzttoh5iYslxy83"
       },
       "artists": [
         {
-          "name": "MELIJAH",
-          "url": "https://open.spotify.com/artist/1u6nljIBn7s6BtqQPCBeTP"
-        },
-        {
-          "name": "Ratchet Project",
-          "url": "https://open.spotify.com/artist/13PvV47jOZKRQL7oUsK8uV"
+          "name": "Portraits & Tales",
+          "url": "https://open.spotify.com/artist/7se2ygBpDjPSbQ0plY9mI1"
         }
       ],
-      "duration_ms": 166894,
-      "name": "Heartbreak BLVD",
-      "url": "https://open.spotify.com/track/5UiEx1nFO3TVIeJlYH9PNd"
+      "duration_ms": 229180,
+      "name": "Perfect display of love",
+      "url": "https://open.spotify.com/track/3OaT6MApTDWCIj2e2M8dcZ"
     },
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "303",
-        "url": "https://open.spotify.com/album/4TDD3r8FV020VIr2QJGwXX"
+        "name": "Closer To The Edge",
+        "url": "https://open.spotify.com/album/1LuXxIRUQbCSA31KHQPpPC"
       },
       "artists": [
         {
-          "name": "Gero Camp",
-          "url": "https://open.spotify.com/artist/0hRT14ejP5gmhfwExXjZAj"
+          "name": "Hadidi Nouri",
+          "url": "https://open.spotify.com/artist/1dEWwolQzveMvU8kQ9MWnd"
         }
       ],
-      "duration_ms": 231165,
-      "name": "303",
-      "url": "https://open.spotify.com/track/39yExSaCqSmWBDClGAr8Tt"
+      "duration_ms": 178581,
+      "name": "Respond Time",
+      "url": "https://open.spotify.com/track/4gH3M88N2y7N1TEcKkXjd4"
     },
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "Ei aikaa",
-        "url": "https://open.spotify.com/album/5uNiSQeftpgY26MMXF8xdT"
+        "name": "Like A Stone",
+        "url": "https://open.spotify.com/album/0Lzcie1A7gGdIX8BeE6cwi"
       },
       "artists": [
         {
-          "name": "Tams",
-          "url": "https://open.spotify.com/artist/4dViQ7ArMCqM7xZx9TddSs"
+          "name": "Alf Hill",
+          "url": "https://open.spotify.com/artist/1rV7jt56jKFcW76hvEuPlH"
         }
       ],
-      "duration_ms": 201607,
-      "name": "Ei aikaa",
-      "url": "https://open.spotify.com/track/5jn2mlHNTa44FMxeEtzYEQ"
+      "duration_ms": 218969,
+      "name": "Like A Stone",
+      "url": "https://open.spotify.com/track/1P4c9CnFBbiuw0oWFdRond"
     },
     {
-      "added_at": "2024-11-22 13:56:50",
+      "added_at": "2024-11-29 15:11:09",
       "album": {
-        "name": "Sk\u00e4rselden",
-        "url": "https://open.spotify.com/album/2cGdt1NnpMAF4J6HuUSxC6"
+        "name": "Desert - upgraded",
+        "url": "https://open.spotify.com/album/29trPtjgm7PDrHOpdcZzGf"
       },
       "artists": [
         {
-          "name": "Peter Bogsveen",
-          "url": "https://open.spotify.com/artist/7GQpRvulURGTjInnVmelN5"
+          "name": "Doktor Stent",
+          "url": "https://open.spotify.com/artist/1JDVkP9NmrGJm0OgQtNxGF"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Sk\u00e4rselden",
-      "url": "https://open.spotify.com/track/3TBTZORvUgynCQyieWdM08"
-    },
-    {
-      "added_at": "2024-11-22 13:56:50",
-      "album": {
-        "name": "Marathon III",
-        "url": "https://open.spotify.com/album/1Z0pOeyS7wdhlzowC1qI5X"
-      },
-      "artists": [
-        {
-          "name": "Marathon",
-          "url": "https://open.spotify.com/artist/6y5bQ9eDf4anvk7NN55h38"
-        }
-      ],
-      "duration_ms": 309333,
-      "name": "All Rise",
-      "url": "https://open.spotify.com/track/709PsqoAjAN20uX4mseyO1"
-    },
-    {
-      "added_at": "2024-11-22 13:56:50",
-      "album": {
-        "name": "Like Us In Time",
-        "url": "https://open.spotify.com/album/56lLVQgjVNNF0bVXwgLEeU"
-      },
-      "artists": [
-        {
-          "name": "Transhuman Nature",
-          "url": "https://open.spotify.com/artist/4WfyCF2hX7DCr6OGq9VqOq"
-        }
-      ],
-      "duration_ms": 298041,
-      "name": "Saint De L'Or II & III",
-      "url": "https://open.spotify.com/track/1I6G7tWwMX0YMPX4ThP8z6"
-    },
-    {
-      "added_at": "2024-11-22 13:56:50",
-      "album": {
-        "name": "Define Your Time",
-        "url": "https://open.spotify.com/album/7JyFw2uHJgya0VK4DfJBco"
-      },
-      "artists": [
-        {
-          "name": "Quin Galavis",
-          "url": "https://open.spotify.com/artist/4S6m2BFrvm8poXujJYK9Cz"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Lazy",
-      "url": "https://open.spotify.com/track/6yFwbtK8EwmwMcNU0o38SO"
-    },
-    {
-      "added_at": "2024-11-22 13:56:50",
-      "album": {
-        "name": "The Day By The Trains",
-        "url": "https://open.spotify.com/album/19KvlC7Nm0iz6uX6lzMxFJ"
-      },
-      "artists": [
-        {
-          "name": "Linnea Lindberg",
-          "url": "https://open.spotify.com/artist/4gVlchtF0pX9qwrV9qAJUI"
-        }
-      ],
-      "duration_ms": 267618,
-      "name": "The Day By The Trains",
-      "url": "https://open.spotify.com/track/6aMbpEC7Lc2Xl51BBzJskV"
+      "duration_ms": 232228,
+      "name": "Love me",
+      "url": "https://open.spotify.com/track/4Gpm8Ri68AW1nimzYlGaWj"
     }
   ],
   "unique_name": "Independent Music Friday",

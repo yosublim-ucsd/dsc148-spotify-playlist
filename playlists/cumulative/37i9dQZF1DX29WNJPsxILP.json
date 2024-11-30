@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 141473,
       "name": "Mi Casa",
       "url": "https://open.spotify.com/track/0yiXFE9ezKajK4RFQdDpvz"
@@ -3786,6 +3786,28 @@
       "duration_ms": 159360,
       "name": "Yaari Hai Imaan x Yaaron Wali Baat",
       "url": "https://open.spotify.com/track/5QngU7tqU1TuJkPF0GN4kx"
+    },
+    {
+      "album": {
+        "name": "YAHI PE",
+        "url": "https://open.spotify.com/album/4BoEBHH5s262lCzkIAosQI"
+      },
+      "artists": [
+        {
+          "name": "Tushar Nagar",
+          "url": "https://open.spotify.com/artist/7h6YMcFApPh0ritIF87ygS"
+        },
+        {
+          "name": "UZIII",
+          "url": "https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "YAHI PE",
+      "url": "https://open.spotify.com/track/4172mPCPwqzA2qZggHeyG6"
     },
     {
       "album": {

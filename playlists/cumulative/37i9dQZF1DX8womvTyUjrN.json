@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Fresh Latin pop on the rise. Cover: Samura\u00ef",
+  "description": "Fresh Latin pop on the rise. Cover: Marc Segu\u00ed & Alvaro Diaz",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -1334,6 +1334,24 @@
       "duration_ms": 229013,
       "name": "awitado :(",
       "url": "https://open.spotify.com/track/2Bqs1VyrVezmDp9pBUr1GL"
+    },
+    {
+      "album": {
+        "name": "Ayer",
+        "url": "https://open.spotify.com/album/0ZzhqBRCjl0GyQR9ZoAXpn"
+      },
+      "artists": [
+        {
+          "name": "LUAS\u00d3",
+          "url": "https://open.spotify.com/artist/1KzX3Ca3tJTAcaj7bbWqM7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213085,
+      "name": "Ayer",
+      "url": "https://open.spotify.com/track/3xhPGomtecEzMqEnHSA5qz"
     },
     {
       "album": {
@@ -5494,7 +5512,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 143840,
       "name": "Francotirador",
       "url": "https://open.spotify.com/track/6HB9W0nlPELfOC6212oOhN"
@@ -5791,6 +5809,24 @@
     },
     {
       "album": {
+        "name": "ME LA ESTOY PASANDO BIEN RARO",
+        "url": "https://open.spotify.com/album/0mdo6OLU83oPvKvmqm6kMf"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130679,
+      "name": "GRACIAS X QUERERME ASI",
+      "url": "https://open.spotify.com/track/51UHNeGukEZASmvSxbu0G1"
+    },
+    {
+      "album": {
         "name": "Gran D\u00eda",
         "url": "https://open.spotify.com/album/7zDXEU4nyXHA193wcfXjfZ"
       },
@@ -5976,7 +6012,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 208603,
       "name": "haz lo que quieras conmigo",
       "url": "https://open.spotify.com/track/635oxQ6Vn3ynUUg6EfQKw9"
@@ -7036,7 +7072,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 179396,
       "name": "LA NOSTALGIA",
       "url": "https://open.spotify.com/track/3kezPeLt6ePJAj9Q7ZfqRO"
@@ -10407,6 +10443,28 @@
     },
     {
       "album": {
+        "name": "PA K",
+        "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221856,
+      "name": "PA K",
+      "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
+    },
+    {
+      "album": {
         "name": "Pa Que Te Digo Que No",
         "url": "https://open.spotify.com/album/3qtC5ySwx05J9unmNaXsTQ"
       },
@@ -10622,6 +10680,28 @@
       "duration_ms": 179949,
       "name": "Papelito",
       "url": "https://open.spotify.com/track/6nsabHmWfNYiks0UndWZw2"
+    },
+    {
+      "album": {
+        "name": "que no te falte de na",
+        "url": "https://open.spotify.com/album/0JlagcHfGGF7aPGyftxDbU"
+      },
+      "artists": [
+        {
+          "name": "Andry Kiddos",
+          "url": "https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202546,
+      "name": "par d ni\u00f1os",
+      "url": "https://open.spotify.com/track/6xJcRWYU1dwOCcN8p4uC28"
     },
     {
       "album": {
@@ -14668,7 +14748,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 159712,
       "name": "Ur Gangsta",
       "url": "https://open.spotify.com/track/0LQCeCxHd5iPLEmntDdAlk"

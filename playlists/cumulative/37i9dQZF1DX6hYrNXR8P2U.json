@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Dillom & Santiago Motorizado.",
+  "description": "M\u00e1s m\u00fasica, menos etiquetas. \u00a0\n\ud83d\udcf7 Lali.",
   "name": "piola",
   "tracks": [
     {
@@ -144,6 +144,24 @@
       "duration_ms": 159298,
       "name": "5 minutos +",
       "url": "https://open.spotify.com/track/2krHtqq5meoiFnZEbBy8h2"
+    },
+    {
+      "album": {
+        "name": "LUNA 18 (Deluxe)",
+        "url": "https://open.spotify.com/album/4reJOCjzw6ifHh6sXBRgc8"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159152,
+      "name": "9472",
+      "url": "https://open.spotify.com/track/2daFEwbB9winHzL9t5Ub7R"
     },
     {
       "album": {
@@ -421,6 +439,28 @@
     },
     {
       "album": {
+        "name": "amor, perd\u00f3n.",
+        "url": "https://open.spotify.com/album/5ZEgIbGoOkYIvlYEwyCasB"
+      },
+      "artists": [
+        {
+          "name": "Rocio Igarzabal",
+          "url": "https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ"
+        },
+        {
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193321,
+      "name": "amor, perd\u00f3n.",
+      "url": "https://open.spotify.com/track/0Y6o4cTly9sNigViZFlWrj"
+    },
+    {
+      "album": {
         "name": "NEO",
         "url": "https://open.spotify.com/album/3sfLvbXtGlQl9wVafzi55i"
       },
@@ -450,7 +490,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 178454,
       "name": "Andate",
       "url": "https://open.spotify.com/track/4c58twuNTtI4VBzH28I3EV"
@@ -516,6 +556,24 @@
       "duration_ms": 183194,
       "name": "Animales",
       "url": "https://open.spotify.com/track/46qmXhh1swc3Nu2t03xaGf"
+    },
+    {
+      "album": {
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/6cz3WTr4CYyQ7Y4yos5DmT"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237959,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/4p1jsL9Cx44gpmk6MvXog5"
     },
     {
       "album": {
@@ -1598,7 +1656,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 217100,
       "name": "Croch\u00ea",
       "url": "https://open.spotify.com/track/4dXZ9dtav1eZSRPpqU1Z7F"
@@ -2042,7 +2100,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 178064,
       "name": "el quejas",
       "url": "https://open.spotify.com/track/3hYN3o6x97MES6Ww9sB37w"
@@ -4311,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "No hay m\u00e1s tiempo",
+        "url": "https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187786,
+      "name": "No hay m\u00e1s tiempo",
+      "url": "https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf"
+    },
+    {
+      "album": {
         "name": "No hay nadie como t\u00fa",
         "url": "https://open.spotify.com/album/2fr7dB5wAGPorXcFWEfEiF"
       },
@@ -4366,6 +4442,24 @@
       "duration_ms": 246233,
       "name": "no llamaste - Remix",
       "url": "https://open.spotify.com/track/3o4if7llOb7PZCz5ZIGCGI"
+    },
+    {
+      "album": {
+        "name": "NO ME IMPORTA",
+        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153815,
+      "name": "NO ME IMPORTA",
+      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
     },
     {
       "album": {
@@ -5146,7 +5240,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 267848,
       "name": "Pesar",
       "url": "https://open.spotify.com/track/0kVPTk7BfLGDTqYPdOrysr"
@@ -6202,7 +6296,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 141000,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/6iCFPzvvt0AcpmvnWbrGfg"
@@ -6482,6 +6576,32 @@
       "duration_ms": 158325,
       "name": "TRANKY FUNKY",
       "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
+    },
+    {
+      "album": {
+        "name": "Tristeza de la Ciudad",
+        "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
+      },
+      "artists": [
+        {
+          "name": "Cachorro Lopez",
+          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164925,
+      "name": "Tristeza de la Ciudad",
+      "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
     },
     {
       "album": {

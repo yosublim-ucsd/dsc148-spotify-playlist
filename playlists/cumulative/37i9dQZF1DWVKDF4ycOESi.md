@@ -4,7 +4,7 @@
 
 > Cesare Cremonini in cover + le migliori uscite di questa settimana!
 
-2,758 songs - 5 day 19 hr 36 min
+2,759 songs - 5 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1533,6 +1533,7 @@
 | [Mind Control](https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Mind Control](https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX) | 2:35 | 2024-10-31 | 2024-11-08 |
 | [Mine](https://open.spotify.com/track/2hPA6eCXmilws9KXeKwOGN) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Mine](https://open.spotify.com/album/0ugHcuARkUFmlZTRIpN00U) | 3:41 | 2024-06-27 | 2024-07-05 |
 | [Miseria](https://open.spotify.com/track/2uF2KpdGpADRQB67h3AcfM) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ) | [Miseria](https://open.spotify.com/album/50EyRibmSJIoaKkjZqouXp) | 2:50 | 2024-10-31 | 2024-11-08 |
+| [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-11-28 |  |
 | [Miss Me Like](https://open.spotify.com/track/5c7PnccuRgqXO1bdfI4hJI) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [Miss Me Like](https://open.spotify.com/album/7bLGdTahSdiTWLlsRMCsvx) | 2:06 | 2024-10-24 | 2024-11-01 |
 | [Missili](https://open.spotify.com/track/6GNG9SGlZFGNfMLNV9pts5) | [Oliver Green](https://open.spotify.com/artist/7gW7vauTRIrz3rRV2UFzyK), [Raiworld](https://open.spotify.com/artist/6srBIS4AndIMpkpo8QQJrQ) | [Missili](https://open.spotify.com/album/22rw08d3h189qM1d0RpOeE) | 2:10 | 2024-07-18 | 2024-07-27 |
 | [Missing](https://open.spotify.com/track/44Bvzz00hT0D61XJKlEVcA) | [Danti](https://open.spotify.com/artist/4zAJfp9POACU7sGK8EoMrl), [Vacca](https://open.spotify.com/artist/4lXqyfnO42fw7mPGF5ZXjR) | [Missing](https://open.spotify.com/album/2WPhBHBfa8kbTWo8AnqyOW) | 2:26 | 2024-07-25 | 2024-08-02 |

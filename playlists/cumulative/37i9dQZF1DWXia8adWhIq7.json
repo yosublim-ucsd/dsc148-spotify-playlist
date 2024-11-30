@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "A Gente Aprende a Ser",
+        "url": "https://open.spotify.com/album/6itU1pUMHCd6d98B9AOjdz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Versos",
+          "url": "https://open.spotify.com/artist/3R4RUXjmQuMktdO8CHCCPk"
+        },
+        {
+          "name": "Julia Costa",
+          "url": "https://open.spotify.com/artist/5aLsHlPCjfRhvBlCTLBe24"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248601,
+      "name": "A Gente Aprende a Ser",
+      "url": "https://open.spotify.com/track/3Icpn3LFDFf2jKYZujlntR"
+    },
+    {
+      "album": {
         "name": "A Melhor Hist\u00f3ria",
         "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
       },
@@ -222,7 +244,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 234600,
       "name": "Al\u00e9m do Que Se V\u00ea",
       "url": "https://open.spotify.com/track/4XzEfk8FB5T2D0qEXHhaGW"
@@ -450,6 +472,28 @@
       "duration_ms": 222403,
       "name": "Aprendiz",
       "url": "https://open.spotify.com/track/4RDgS8EhKnfbI1d4LQQT1q"
+    },
+    {
+      "album": {
+        "name": "Aqui Vou Eu",
+        "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
+      },
+      "artists": [
+        {
+          "name": "Ipalpha Nova",
+          "url": "https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM"
+        },
+        {
+          "name": "Ipalpha",
+          "url": "https://open.spotify.com/artist/4L2uFeD7eBwcr6HVanlvNg"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260400,
+      "name": "Aqui Vou Eu",
+      "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
     },
     {
       "album": {
@@ -2644,7 +2688,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 159119,
       "name": "Pequenas Coisas",
       "url": "https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe"

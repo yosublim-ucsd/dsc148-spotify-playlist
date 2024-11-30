@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain](/playlists/plain/3H1QVmsldwybLKBNwpa8IA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3H1QVmsldwybLKBNwpa8IA)
 
-### [christmas songs 2023 🎄holiday music](https://open.spotify.com/playlist/3H1QVmsldwybLKBNwpa8IA)
+### [christmas songs 2024 🎄holiday music](https://open.spotify.com/playlist/3H1QVmsldwybLKBNwpa8IA)
 
 > All I Want For Christmas Is...this playlist! Listen to your fav holiday classics here.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,095 likes - 130 songs - 7 hr 1 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 36,096 likes - 130 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/3H1QVmsldwybLKBNwpa8IA.md) - [plain]
 | 129 | [Auld Lang Syne](https://open.spotify.com/track/73Qw33wmrc3r4kSRBXHGSX) | [Susan Boyle](https://open.spotify.com/artist/1qAuetfG6mhtDgsVIffWQc) | [The Gift](https://open.spotify.com/album/2SHlXY3Z9gKK2MPExaWR8M) | 2:44 |
 | 130 | [O Holy Night](https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:26 |
 
-Snapshot ID: `AAAE8o2pJQKfH4azDcB2/cXgiYcUhMub`
+Snapshot ID: `AAAE8zbND8qqyAa9I9B3MvJ6lMsvGDjE`

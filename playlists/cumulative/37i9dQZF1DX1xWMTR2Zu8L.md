@@ -4,7 +4,7 @@
 
 > Magical film scores and instrumental soundtracks for the festive season🎄
 
-139 songs - 6 hr 33 min
+140 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Three Musketeers](https://open.spotify.com/track/5J03NxgINpWSMW9gimJxuv) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 2:44 | 2024-10-11 |  |
 | [Time of Enchantment](https://open.spotify.com/track/12zO7QnpWn23Q9krHPr3zu) | [Ruth Barrett](https://open.spotify.com/artist/48ZoDch2iKE7FZEYY67DPB), [David Schweitzer](https://open.spotify.com/artist/1DUWnPlE7T4m8zBUYK6GIc) | [Victoria \(Music from the Original TV Series\) Vol\. 2 & 3](https://open.spotify.com/album/3l2JByF8bQn9Lczh7hMX9m) | 2:49 | 2024-10-11 |  |
 | [Time to Go Home](https://open.spotify.com/track/0B89GDjVRIIj0DGWw8CUXG) | [David Arnold](https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE) | [The Chronicles of Narnia: The Voyage of the Dawn Treader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0L2WN9LAyXX4ESG8BcDmPc) | 2:46 | 2024-10-11 |  |
+| [To Santa](https://open.spotify.com/track/4PydCZcrYDS66GuCl2Yfqc) | [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG) | [Dear Santa \(Music from the Paramount+ Original Movie\)](https://open.spotify.com/album/2koKM0TAKy4Skvsvy6NZg6) | 1:14 | 2024-11-29 |  |
 | [Touch My Robe](https://open.spotify.com/track/7pyQgB4eq5yq9mDDeTWfvY) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [A Christmas Carol](https://open.spotify.com/album/35N2paA3Tb44f0a3beEU3V) | 3:41 | 2024-10-11 |  |
 | [Trelew, Cornwall, England](https://open.spotify.com/track/5lfnVdkjUpDFzHfRh3PYom) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Arthur Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DvHEGkcpipC5zvDCnRvpc) | 1:49 | 2024-10-11 |  |
 | [We Wish You A...](https://open.spotify.com/track/3EOAnwv5J3XqDQ7ozWgJSg) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Arthur Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DvHEGkcpipC5zvDCnRvpc) | 0:49 | 2024-10-11 |  |

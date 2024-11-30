@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUMIjnZuaulx.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUMIjnZuaulx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUMIjnZuaulx)
 
-### [Fresh Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
+### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> New songs from some of the latest and greatest Gospel music artists\. Cover: Jordin Sparks and Maverick City Music
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Jordin Sparks and Maverick City Music
 
-608 songs - 2 day 4 hr 12 min
+609 songs - 2 day 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Gotta Believe](https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Gotta Believe](https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv) | 2:50 | 2022-02-18 | 2022-08-13 |
 | [GRACE](https://open.spotify.com/track/01ioXCMkGpxuKrdEO3TSob) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [GRACE](https://open.spotify.com/album/6JzWGtTmJ29ZlAA87eW6Ct) | 4:15 | 2022-02-25 | 2022-04-09 |
 | [Grace \(feat\. Kierra Sheard\-Kelly\)](https://open.spotify.com/track/0tXgfxKBnI3iDI6GaDRrIk) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Kierra Sheard\-Kelly](https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po) | [Affirmations](https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv) | 5:37 | 2023-11-03 | 2024-03-23 |
+| [Grateful](https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Grateful](https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob) | 3:35 | 2024-11-29 |  |
 | [Grateful](https://open.spotify.com/track/0RamNJ3yMsYouJLTFBCgX5) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Grateful](https://open.spotify.com/album/5R7bp4VDiSkXWd7BfW1BiW) | 4:13 | 2024-07-05 |  |
 | [Great](https://open.spotify.com/track/2gw6zEyAERoM05s8oHJyLm) | [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D) | [Great](https://open.spotify.com/album/0Bqdy5R3spCEiCDrptDziq) | 4:29 | 2022-02-18 | 2022-03-05 |
 | [Great I Am](https://open.spotify.com/track/6e7SyYl1MTlhnWImNEOgSH) | [Volney Morgan & New\-Ye](https://open.spotify.com/artist/3coOgLHM4gjcmsMGh7qUJN) | [Great I Am](https://open.spotify.com/album/6WDkkF1SPRoDnMLxA7vFJ0) | 5:45 | 2023-08-18 | 2024-02-10 |
@@ -318,7 +319,7 @@
 | [Lord I Love You \- Live](https://open.spotify.com/track/6DO834OLITajOfoPJ27ckA) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Journey \(Live\)](https://open.spotify.com/album/55qkczyxlKcvYDDX5vpgFj) | 8:36 | 2023-10-27 | 2023-12-24 |
 | [Lord You Are Welcome](https://open.spotify.com/track/37GZjlzbSGy7WXi1EZmICz) | [Gia Wyre](https://open.spotify.com/artist/7FmDSNZC7LqUFprT5hCuTt) | [Lord You Are Welcome](https://open.spotify.com/album/2YRwE1Hbr1tcXgHi60eKJB) | 3:32 | 2022-07-22 | 2023-02-11 |
 | [Lord, I Hear You](https://open.spotify.com/track/1ny8vWhcpg32DPjcR5vyHo) | [Lucinda Moore](https://open.spotify.com/artist/36NpWbQn9NARm2hy9oP58x) | [Lord, I Hear You](https://open.spotify.com/album/2UiElgZOrB6TCh5lTuA41G) | 4:17 | 2022-02-18 | 2022-07-09 |
-| [Love \- Remix](https://open.spotify.com/track/1e9c4u7CBk2TXyJsTaFjkg) | [JOKIA](https://open.spotify.com/artist/0ookqFkmQpJCmnG9lzI45E) | [Love Gospel](https://open.spotify.com/album/3i4Xye87pIozs5U1bmHoQe) | 2:57 | 2024-11-01 |  |
+| [Love \- Remix](https://open.spotify.com/track/1e9c4u7CBk2TXyJsTaFjkg) | [JOKIA](https://open.spotify.com/artist/0ookqFkmQpJCmnG9lzI45E) | [Love Gospel](https://open.spotify.com/album/3i4Xye87pIozs5U1bmHoQe) | 2:57 | 2024-11-01 | 2024-11-30 |
 | [Love Is U](https://open.spotify.com/track/5uYQczKz44pYSF30aoIcbu) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [On God](https://open.spotify.com/album/5KxhSruFQfuYTdlInBAlbd) | 3:28 | 2024-02-09 | 2024-04-19 |
 | [Love it All](https://open.spotify.com/track/6o31q8H6s4AnIGqw88kQ7N) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Dia Day](https://open.spotify.com/artist/1VlVqLddJC57GJqavMynQ6), [Dedani](https://open.spotify.com/artist/0nWi63z95UXZNmC3wurMfP) | [Love it All](https://open.spotify.com/album/46sVbAB7JHfIMLgAxu2eZs) | 3:17 | 2024-04-19 |  |
 | [Love Me to Death](https://open.spotify.com/track/2F23ScUfmepIITJDZf3FgL) | [Thomas Ware](https://open.spotify.com/artist/5czwQsY7himQixSYkBvJ8Y) | [Love Me to Death](https://open.spotify.com/album/2vJv8qf2pB3qyVXCriwkkM) | 3:37 | 2022-02-25 | 2022-03-26 |

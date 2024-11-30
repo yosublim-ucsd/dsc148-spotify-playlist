@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe?si=F\-Y4\-qc5QiiG2aMKGJDs2g">Ugaboys</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp?si=Le\-zQG16SjmjH2Jud3e8rQ">Serøtonin</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,719 likes - 57 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,755 likes - 57 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cheater](https://open.spotify.com/track/5Uz6IhIwlMpv2Yn9VHV5Gv) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Cheater](https://open.spotify.com/album/3Q63qgrYowidGkcG5XJ5Vx) | 2:55 |
-| 2 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |
-| 3 | [Your Eyes](https://open.spotify.com/track/6Kq8CVqQbccS3rPVXhBMMp) | [WATERS](https://open.spotify.com/artist/131TscYap0HoOu1UIUsg2b) | [Your Eyes](https://open.spotify.com/album/578pNlsAdRnAko1XXmwTg0) | 3:48 |
+| 1 | [May 10th](https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN) | [Serøtonin](https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp) | [May 10th](https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0) | 2:46 |
+| 2 | [Cheater](https://open.spotify.com/track/5Uz6IhIwlMpv2Yn9VHV5Gv) | [Ugaboys](https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe) | [Cheater](https://open.spotify.com/album/3Q63qgrYowidGkcG5XJ5Vx) | 2:55 |
+| 3 | [Ekhoneni](https://open.spotify.com/track/1kaz9V1xMm7TB4LtOTxmIq) | [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [So Much Love](https://open.spotify.com/album/7u102rYCYvzq06KbWGF2oh) | 4:41 |
 | 4 | [Boyfriend In Paris](https://open.spotify.com/track/5NArp8DOWDrK4iP8Jyh40H) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [girl](https://open.spotify.com/album/3LkN5uWcg8RbjFT1UbBTAG) | 2:55 |
-| 5 | [INSIDE YOUR HEAD](https://open.spotify.com/track/3D9MGLPOC3PnfoXBM5OLrQ) | [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [WAVES: Vol\. 1](https://open.spotify.com/album/408oJGEwEhyIXOInWdRTcn) | 3:45 |
-| 6 | [African Juice](https://open.spotify.com/track/6zuKLWdpdXX4RBcnLhtP5j) | [Mo Eazy](https://open.spotify.com/artist/3fwkIEC1iR2Zdc4EQCPz7d) | [African Juice](https://open.spotify.com/album/4XTiFcSU9qgfcRjBhBZpMq) | 2:43 |
-| 7 | [Yawa](https://open.spotify.com/track/09Uvq8WFNANz4JaOfttkhA) | [Perfext](https://open.spotify.com/artist/2JzhuiwyOZOjzcPylIGOtg) | [Yawa](https://open.spotify.com/album/0wn8qd6AYf1K29aEhQbEvo) | 2:32 |
-| 8 | [Ekhoneni](https://open.spotify.com/track/1kaz9V1xMm7TB4LtOTxmIq) | [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [So Much Love](https://open.spotify.com/album/7u102rYCYvzq06KbWGF2oh) | 4:41 |
+| 5 | [Your Eyes](https://open.spotify.com/track/6Kq8CVqQbccS3rPVXhBMMp) | [WATERS](https://open.spotify.com/artist/131TscYap0HoOu1UIUsg2b) | [Your Eyes](https://open.spotify.com/album/578pNlsAdRnAko1XXmwTg0) | 3:48 |
+| 6 | [INSIDE YOUR HEAD](https://open.spotify.com/track/3D9MGLPOC3PnfoXBM5OLrQ) | [Ben September](https://open.spotify.com/artist/1wAVD7w8mfrKNxpfe8dGEq) | [WAVES: Vol\. 1](https://open.spotify.com/album/408oJGEwEhyIXOInWdRTcn) | 3:45 |
+| 7 | [African Juice](https://open.spotify.com/track/6zuKLWdpdXX4RBcnLhtP5j) | [Mo Eazy](https://open.spotify.com/artist/3fwkIEC1iR2Zdc4EQCPz7d) | [African Juice](https://open.spotify.com/album/4XTiFcSU9qgfcRjBhBZpMq) | 2:43 |
+| 8 | [Yawa](https://open.spotify.com/track/09Uvq8WFNANz4JaOfttkhA) | [Perfext](https://open.spotify.com/artist/2JzhuiwyOZOjzcPylIGOtg) | [Yawa](https://open.spotify.com/album/0wn8qd6AYf1K29aEhQbEvo) | 2:32 |
 | 9 | [Reason](https://open.spotify.com/track/38saQwfh1lvAvmSNgBogyG) | [Ossi Grace](https://open.spotify.com/artist/6fEdaMsmpGlBN8z0WvEWSr) | [Reason](https://open.spotify.com/album/31BixmA8kWOTWx5JYfoLAr) | 2:42 |
 | 10 | [Zaza](https://open.spotify.com/track/6BKbeO03DSPOvgLQxuWXzo) | [KOHDEE](https://open.spotify.com/artist/4VAE2wGIfC4WMTh6N3mm7M) | [SWEET KARMA](https://open.spotify.com/album/3jsbk7ZZsdKzcGQXKca2PX) | 2:07 |
 | 11 | [Capable](https://open.spotify.com/track/3PvqecGPN6xnzit8FNUUgK) | [AirBoy](https://open.spotify.com/artist/0efSx9rISj4edOHEe2eBDI) | [CAPABLE](https://open.spotify.com/album/0PRFr38wP5gepQE8LpAFvw) | 2:19 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 56 | [Wàsérè](https://open.spotify.com/track/6QeLXEmMJsuu3r9RtKncCT) | [Shakez Baba](https://open.spotify.com/artist/00PhKPpeUoTjBkHBhqA4Ky), [Jamz FR](https://open.spotify.com/artist/0ogU1vFCg3izozUsK7ij5q) | [Wàsérè](https://open.spotify.com/album/5v8BKpKUZEfIJ91uB7AjYE) | 2:36 |
 | 57 | [Talk About Us](https://open.spotify.com/track/5EWWL5T40EHpeJIwgFSLS5) | [Kipsang](https://open.spotify.com/artist/4cI5lpdbDYDbsEMMU7kAK3) | [You](https://open.spotify.com/album/1oFkiGFMyPQxD6Huv7EMB3) | 3:50 |
 
-Snapshot ID: `Zz121QAAAAB4v2YjyS1YOxkoCzToNIQM`
+Snapshot ID: `Z0lyhAAAAAAtzGeBRlaWtR5FTEJkwi0B`

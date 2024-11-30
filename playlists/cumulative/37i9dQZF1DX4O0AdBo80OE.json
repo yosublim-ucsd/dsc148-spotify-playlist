@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. Sabino en portada.",
+  "description": "Rimas cremosas, tan necesarias como tu caf\u00e9. La Adictiva, Justin Quiles y Calle 24 en portada.",
   "name": "Rap Latte",
   "tracks": [
     {
@@ -94,7 +94,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 157241,
       "name": "1000 KM",
       "url": "https://open.spotify.com/track/5VlVGHwqLnT6JbYbayUdE3"
@@ -134,6 +134,32 @@
       "duration_ms": 224000,
       "name": "15 Segundos",
       "url": "https://open.spotify.com/track/7duzx5AkBs15CcKPAV1Loq"
+    },
+    {
+      "album": {
+        "name": "2022",
+        "url": "https://open.spotify.com/album/77fkFCGSZ5NLEXOhR9m5jH"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162525,
+      "name": "2022",
+      "url": "https://open.spotify.com/track/2QFyOnB7styOE8IZSXCweB"
     },
     {
       "album": {
@@ -1151,6 +1177,28 @@
     },
     {
       "album": {
+        "name": "CUBANA",
+        "url": "https://open.spotify.com/album/2RQU4STVTerEgIQraMskMh"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        },
+        {
+          "name": "DJ Maff",
+          "url": "https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172650,
+      "name": "CUBANA",
+      "url": "https://open.spotify.com/track/5nVcpRZdrRwKosTlBZl7aX"
+    },
+    {
+      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/7zuDQkt1hiK1zWOqdZR3yN"
       },
@@ -1206,6 +1254,28 @@
       "duration_ms": 207371,
       "name": "Date Cuenta",
       "url": "https://open.spotify.com/track/2yqS0beUfd1aVUG41edyQd"
+    },
+    {
+      "album": {
+        "name": "DAYDMRN / MOTION",
+        "url": "https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9"
+      },
+      "artists": [
+        {
+          "name": "day2k",
+          "url": "https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "DAYDRMN",
+      "url": "https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP"
     },
     {
       "album": {
@@ -1294,6 +1364,24 @@
       "duration_ms": 216000,
       "name": "Ef\u00edmero",
       "url": "https://open.spotify.com/track/7t407aCWIaRzkOu6YnaNkg"
+    },
+    {
+      "album": {
+        "name": "El M\u00e1s Travieso",
+        "url": "https://open.spotify.com/album/2K0iuMY13fXHxmwqJoxijO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162197,
+      "name": "El M\u00e1s Travieso",
+      "url": "https://open.spotify.com/track/0VFG5Ts3TgWl6qPOlG48Cs"
     },
     {
       "album": {
@@ -1436,7 +1524,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 186495,
       "name": "Enrolemos uno",
       "url": "https://open.spotify.com/track/51SfvQm8QcPAyW4yBfPv1L"
@@ -1754,7 +1842,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 164666,
       "name": "Hey Bro!",
       "url": "https://open.spotify.com/track/64cT22q9OVDfE66S8qHmXQ"
@@ -2364,7 +2452,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 207499,
       "name": "Me Haces Bien",
       "url": "https://open.spotify.com/track/4atv9K7c3t74jl9H7ZSdcu"
@@ -2524,6 +2612,24 @@
       "duration_ms": 188855,
       "name": "Mijo\u2026 \u00bfy la novia?",
       "url": "https://open.spotify.com/track/27Qf1TpvAk59kURJkoOuJB"
+    },
+    {
+      "album": {
+        "name": "GRAN",
+        "url": "https://open.spotify.com/album/0KcMVlp0ZXCfSkKJrsrwLn"
+      },
+      "artists": [
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "Milhouse",
+      "url": "https://open.spotify.com/track/63B36PpbcCIxBjLOiObX3p"
     },
     {
       "album": {
@@ -3652,7 +3758,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 190253,
       "name": "Scream 8",
       "url": "https://open.spotify.com/track/6xnNeEmCVbrxaNxwZHWMyv"

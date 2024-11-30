@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "ALL MY LOVE (PNAU x Coldplay)",
+        "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194560,
+      "name": "ALL MY LOVE - PNAU x Coldplay",
+      "url": "https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN"
+    },
+    {
+      "album": {
         "name": "All My Loving (Madism Remix)",
         "url": "https://open.spotify.com/album/2rG9uRu9tDlroe32vss7oM"
       },
@@ -1048,7 +1070,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 182506,
       "name": "Better Place - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
@@ -3298,7 +3320,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 179529,
       "name": "Eyes Closed - Lost Frequencies Remix",
       "url": "https://open.spotify.com/track/5xJrqHHLIqJlaK6c05pwYB"
@@ -3350,6 +3372,28 @@
       "duration_ms": 259108,
       "name": "Fall Apart - MELVV Remix",
       "url": "https://open.spotify.com/track/3kevd7Jy3VWaymXjwdNLiw"
+    },
+    {
+      "album": {
+        "name": "Fantasy (Alex Chapman Remix)",
+        "url": "https://open.spotify.com/album/52fvlHzhcJbWzVKdcdD2HK"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        },
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174908,
+      "name": "Fantasy - Alex Chapman Remix",
+      "url": "https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT"
     },
     {
       "album": {

@@ -2,13 +2,13 @@
 
 ### [Rap francophone](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: Damso
+> Le rap francophone est en forme\. Photo: Gazo
 
-212 songs - 10 hr 57 min
+213 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 | 2024-01-05 |  |
+| [1 2 3 4](https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88) | [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [1 2 3 4](https://open.spotify.com/album/3KnZAkAduQuv5KhcjjxuDJ) | 3:00 | 2024-01-05 | 2024-11-30 |
 | [100K](https://open.spotify.com/track/0RXp3LrNZo89KjmfUJS0UO) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 1:56 | 2023-12-08 | 2024-09-14 |
 | [1942](https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [1942](https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm) | 3:39 | 2023-03-03 | 2024-03-02 |
 | [20 Benz](https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY) | [20 Benz](https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE) | 3:22 | 2024-08-27 | 2024-09-14 |
@@ -122,6 +122,7 @@
 | [Leansy](https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Le calme avant la tempête](https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp) | 3:53 | 2023-03-03 | 2023-03-25 |
 | [Leave Me Alone](https://open.spotify.com/track/6m9iOAk3qIfvpem4MQBOH8) | [Dj Weedim](https://open.spotify.com/artist/1k0mwo8CyFp0ZlAGcu4LA7), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Leave Me Alone](https://open.spotify.com/album/0R3iuvokmmnxNOFExxl9us) | 3:00 | 2023-03-03 | 2023-04-29 |
 | [Les Flammes](https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:13 | 2023-11-10 | 2024-09-14 |
+| [Locked Up](https://open.spotify.com/track/3ftGuXapLDXSxQvf3o6751) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Locked Up](https://open.spotify.com/album/5Q57aL7ma8akgKMCbBjkzD) | 2:35 | 2024-11-29 |  |
 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 | 2023-11-24 | 2024-09-28 |
 | [Malsain et sauf](https://open.spotify.com/track/7j3la4hrPWrfAfnbPitoGI) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Malsain et sauf](https://open.spotify.com/album/32GEpdgSryJ1QSRsvN4EiN) | 3:14 | 2023-03-03 | 2023-04-29 |
 | [MANON B](https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Ryflo](https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U), [Oskoow](https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE) | [MANON B](https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf) | 2:49 | 2024-09-13 |  |
@@ -137,7 +138,7 @@
 | [Metaverse](https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Metaverse](https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7) | 3:13 | 2023-03-03 | 2024-01-06 |
 | [Meuda](https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:32 | 2023-03-03 | 2023-07-29 |
 | [MIKE TANGO LIMA](https://open.spotify.com/track/38bvFbzotkGZLkBNi5LYD0) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [HÉRITAGE](https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K) | 2:24 | 2023-08-11 | 2023-12-16 |
-| [Monde à l'envers](https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Monde à l'envers](https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP) | 2:32 | 2024-10-18 |  |
+| [Monde à l'envers](https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Monde à l'envers](https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP) | 2:32 | 2024-10-18 | 2024-11-30 |
 | [MONNAIE](https://open.spotify.com/track/51pddJ1sTmqHgSV8Wh4MCg) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [Cinco](https://open.spotify.com/artist/3S8r9fkqybCCXJLhZGA3r1) | [MONNAIE](https://open.spotify.com/album/6ARWG8BntraLXVsELp9JkI) | 2:32 | 2023-08-18 | 2024-07-13 |
 | [Mr\. Ocho](https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 3:46 | 2023-03-03 | 2023-07-01 |
 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 | 2024-05-24 |  |

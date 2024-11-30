@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "ARMAGED\u00d3N",
+        "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370700,
+      "name": "1960",
+      "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
+    },
+    {
+      "album": {
         "name": "1986",
         "url": "https://open.spotify.com/album/6NepzCX9aHaL7GHrSCyj6p"
       },
@@ -17737,6 +17755,24 @@
     },
     {
       "album": {
+        "name": "Expiration Date",
+        "url": "https://open.spotify.com/album/6bZUiMauhzHD1VdlUPqfbK"
+      },
+      "artists": [
+        {
+          "name": "Laura Nahr",
+          "url": "https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145524,
+      "name": "Expiration Date",
+      "url": "https://open.spotify.com/track/1NVBtxinJHsbKSV2XN5S0X"
+    },
+    {
+      "album": {
         "name": "Expired",
         "url": "https://open.spotify.com/album/3GPXrI6jUD2ttVDBtoT0pN"
       },
@@ -26282,6 +26318,24 @@
       "duration_ms": 176077,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u"
+    },
+    {
+      "album": {
+        "name": "This is how I remember it.",
+        "url": "https://open.spotify.com/album/7E4vbLNA0l8RTXjVXkycuR"
+      },
+      "artists": [
+        {
+          "name": "Beckah Amani",
+          "url": "https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206021,
+      "name": "High On Loving You (Talk)",
+      "url": "https://open.spotify.com/track/2e9iFRN92N8t9FGBj0dhV8"
     },
     {
       "album": {
@@ -39624,6 +39678,24 @@
       "duration_ms": 137979,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL"
+    },
+    {
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "album": {

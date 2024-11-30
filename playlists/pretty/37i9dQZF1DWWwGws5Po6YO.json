@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Hollie Kenniff",
-  "num_followers": 44644,
+  "num_followers": 44700,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "New Dawn",
-      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Holotropica",
         "url": "https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 229000,
       "name": "Ubiquitous",
       "url": "https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "New Dawn",
+      "url": "https://open.spotify.com/track/3LzIY1aukFa2CAV2wBN7Bz"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
+        "name": "World Breathes",
+        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "The Centre of Everything",
+      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
         "name": "Car Alarm, Turn Signal",
         "url": "https://open.spotify.com/album/5CaNDqcdbSedlvPcCbZ67Z"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 287030,
       "name": "Car Alarm, Turn Signal",
       "url": "https://open.spotify.com/track/5b9RnePfuBFVrNeoxjvkwD"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
-        "name": "World Breathes",
-        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "The Centre of Everything",
-      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Rincones Seguros",
-        "url": "https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5"
-      },
-      "artists": [
-        {
-          "name": "RRUCCULLA",
-          "url": "https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Ciclo del agua",
-      "url": "https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Becoming Ferromagnetic",
         "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 328275,
       "name": "Becoming Ferromagnetic",
       "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Rincones Seguros",
+        "url": "https://open.spotify.com/album/0TAQ3WfNTsDLEnkZQG1bS5"
+      },
+      "artists": [
+        {
+          "name": "RRUCCULLA",
+          "url": "https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Ciclo del agua",
+      "url": "https://open.spotify.com/track/1EOTAXuiXoMqeTXOsKWqyU"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Keep the Ocean Inside",
-        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
-      },
-      "artists": [
-        {
-          "name": "The Seven Fields Of Aphelion",
-          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
-        }
-      ],
-      "duration_ms": 291026,
-      "name": "Divining (naming of the Lost)",
-      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Lovegaze",
         "url": "https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 187861,
       "name": "Cloudbreath",
       "url": "https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Keep the Ocean Inside",
+        "url": "https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2"
+      },
+      "artists": [
+        {
+          "name": "The Seven Fields Of Aphelion",
+          "url": "https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ"
+        }
+      ],
+      "duration_ms": 291026,
+      "name": "Divining (naming of the Lost)",
+      "url": "https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1355,38 +1355,6 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
-      },
-      "artists": [
-        {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Night Changes Many Thoughts",
-      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
-        "name": "Les Chemins De L'inconnu",
-        "url": "https://open.spotify.com/album/28KgvYdtsvymP5ZrmisOWp"
-      },
-      "artists": [
-        {
-          "name": "Katatonic Silentio",
-          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "Les Chemins De L'Inconnu",
-      "url": "https://open.spotify.com/track/7wos99ooWSkBQgttbzugp9"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
         "name": "Fur & Feather",
         "url": "https://open.spotify.com/album/3W3F4kQNM2E2bUeN7JJIJr"
       },
@@ -1403,34 +1371,18 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
-        "name": "The Harmonic Series Volume 2",
-        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
       },
       "artists": [
         {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
         }
       ],
-      "duration_ms": 868000,
-      "name": "Pipe Inversions",
-      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
-        "name": "The Light That's Left",
-        "url": "https://open.spotify.com/album/3NtOQRJTmdeYpehXVp6IfB"
-      },
-      "artists": [
-        {
-          "name": "Cheryl B. Engelhardt",
-          "url": "https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "The Light That's Left",
-      "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
+      "duration_ms": 231618,
+      "name": "Night Changes Many Thoughts",
+      "url": "https://open.spotify.com/track/5k3pwKGz08bwbxy3VwvWEU"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1459,6 +1411,54 @@
       "duration_ms": 465107,
       "name": "Snow Ritual (feat. Ghost Marrow & Suzanne Ciani)",
       "url": "https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "The Harmonic Series Volume 2",
+        "url": "https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "duration_ms": 868000,
+      "name": "Pipe Inversions",
+      "url": "https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "Les Chemins De L'inconnu",
+        "url": "https://open.spotify.com/album/28KgvYdtsvymP5ZrmisOWp"
+      },
+      "artists": [
+        {
+          "name": "Katatonic Silentio",
+          "url": "https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "Les Chemins De L'Inconnu",
+      "url": "https://open.spotify.com/track/7wos99ooWSkBQgttbzugp9"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
+        "name": "The Light That's Left",
+        "url": "https://open.spotify.com/album/3NtOQRJTmdeYpehXVp6IfB"
+      },
+      "artists": [
+        {
+          "name": "Cheryl B. Engelhardt",
+          "url": "https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "The Light That's Left",
+      "url": "https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
+        "name": "Arboretum",
+        "url": "https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 218505,
+      "name": "Winter into Spring",
+      "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
         "name": "The Fifth Season (Versions)",
         "url": "https://open.spotify.com/album/36b1h6b8WHww6yHJpemPSs"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 236286,
       "name": "Cross-Contamination",
       "url": "https://open.spotify.com/track/2bLJmoKr9vMFvFRRpXSWvm"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
-        "name": "Arboretum",
-        "url": "https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 218505,
-      "name": "Winter into Spring",
-      "url": "https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE"
     },
     {
       "added_at": "2024-10-22 11:05:55",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-10-22 11:05:55",
       "album": {
+        "name": "Desert Ballads",
+        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 174758,
+      "name": "As We Record the Disappearing Ice",
+      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
+    },
+    {
+      "added_at": "2024-10-22 11:05:55",
+      "album": {
         "name": "The Sacrificial Code",
         "url": "https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 570000,
       "name": "SOTRS",
       "url": "https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7"
-    },
-    {
-      "added_at": "2024-10-22 11:05:55",
-      "album": {
-        "name": "Desert Ballads",
-        "url": "https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 174758,
-      "name": "As We Record the Disappearing Ice",
-      "url": "https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl"
     },
     {
       "added_at": "2024-10-22 11:05:55",

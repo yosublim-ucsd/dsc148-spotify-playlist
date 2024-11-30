@@ -1,6 +1,6 @@
 {
   "description": "S\u00e4m Wilder op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1842,
+  "num_followers": 1840,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Lost In Love",
+        "url": "https://open.spotify.com/album/6fXQ2QVG2l5IyM1UsvjGul"
+      },
+      "artists": [
+        {
+          "name": "Tres Navy",
+          "url": "https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Lost In Love",
+      "url": "https://open.spotify.com/track/27Lqyi4t3aslIiJWFJ5WzU"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "iK",
         "url": "https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp"
       },
@@ -395,38 +411,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Lost In Love",
-        "url": "https://open.spotify.com/album/6fXQ2QVG2l5IyM1UsvjGul"
-      },
-      "artists": [
-        {
-          "name": "Tres Navy",
-          "url": "https://open.spotify.com/artist/1Ds6xyj1eLdmGB9mG1CT1o"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "Lost In Love",
-      "url": "https://open.spotify.com/track/27Lqyi4t3aslIiJWFJ5WzU"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "A Cure for My Feels",
-        "url": "https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg"
-      },
-      "artists": [
-        {
-          "name": "Simpleton",
-          "url": "https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z"
-        }
-      ],
-      "duration_ms": 197917,
-      "name": "A Cure for My Feels",
-      "url": "https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Endless Sunsets",
         "url": "https://open.spotify.com/album/3WtQZdMCYqKBpzMRj7SDy0"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "A Cure for My Feels",
+        "url": "https://open.spotify.com/album/1TM9Q3z1AUgxJH8BALQzHg"
+      },
+      "artists": [
+        {
+          "name": "Simpleton",
+          "url": "https://open.spotify.com/artist/0VIAQ58CoZMyakFwkC7w6Z"
+        }
+      ],
+      "duration_ms": 197917,
+      "name": "A Cure for My Feels",
+      "url": "https://open.spotify.com/track/6ZlJabigzSaJz2iMMta2QF"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/5w0aKShwOj6hWC1w7I0z6O"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 196159,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/3pqPxWrCyUNb2wNhjF7qD8"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/5Kiks4Noq6GA4sbCfzn2W8"
+      },
+      "artists": [
+        {
+          "name": "Robyn Florence",
+          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
+        }
+      ],
+      "duration_ms": 75000,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/09AsbZCJfiybFmWIfki6xL"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -491,22 +507,6 @@
       "duration_ms": 248344,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/5Kiks4Noq6GA4sbCfzn2W8"
-      },
-      "artists": [
-        {
-          "name": "Robyn Florence",
-          "url": "https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa"
-        }
-      ],
-      "duration_ms": 75000,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/09AsbZCJfiybFmWIfki6xL"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/3VVP1JgwaMQibLw1ui6CIi"
-      },
-      "artists": [
-        {
-          "name": "Outahead",
-          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
-        }
-      ],
-      "duration_ms": 202445,
-      "name": "Visitor",
-      "url": "https://open.spotify.com/track/1loqKyqVPrXyoU9qEt9UZZ"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Everything I Need Is Here",
         "url": "https://open.spotify.com/album/7twIkHqsj1l15RLves3bls"
       },
@@ -751,18 +735,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Melanotan - Detonate",
-        "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/3VVP1JgwaMQibLw1ui6CIi"
       },
       "artists": [
         {
-          "name": "Cardigan Inn",
-          "url": "https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2"
+          "name": "Outahead",
+          "url": "https://open.spotify.com/artist/2EcQr9GFJPn3vQNvWf23jJ"
         }
       ],
-      "duration_ms": 142734,
-      "name": "Melanotan",
-      "url": "https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L"
+      "duration_ms": 202445,
+      "name": "Visitor",
+      "url": "https://open.spotify.com/track/1loqKyqVPrXyoU9qEt9UZZ"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -779,6 +763,22 @@
       "duration_ms": 194370,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Melanotan - Detonate",
+        "url": "https://open.spotify.com/album/3UP1BYVn91UiOg7ISywkg7"
+      },
+      "artists": [
+        {
+          "name": "Cardigan Inn",
+          "url": "https://open.spotify.com/artist/0ejgubWGr4S1CiUnLVTuL2"
+        }
+      ],
+      "duration_ms": 142734,
+      "name": "Melanotan",
+      "url": "https://open.spotify.com/track/5xfBI89BbIwHcwJ8SSiL2L"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -831,6 +831,26 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "English Silence",
+        "url": "https://open.spotify.com/album/2qdOTZUPt0akgV5cW1iwqL"
+      },
+      "artists": [
+        {
+          "name": "Will Knox",
+          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
+        },
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/2vd9Gcl2VTqA0pmhkLCHwd"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "High Wire",
         "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
       },
@@ -863,22 +883,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "English Silence",
-        "url": "https://open.spotify.com/album/2qdOTZUPt0akgV5cW1iwqL"
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
       },
       "artists": [
         {
-          "name": "Will Knox",
-          "url": "https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS"
-        },
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
         }
       ],
-      "duration_ms": 176093,
-      "name": "Christmas Song",
-      "url": "https://open.spotify.com/track/2vd9Gcl2VTqA0pmhkLCHwd"
+      "duration_ms": 118500,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -895,22 +911,6 @@
       "duration_ms": 192572,
       "name": "My Old Friend",
       "url": "https://open.spotify.com/track/1yI9R2L2y1AsuxfRNGqfpy"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
-      },
-      "artists": [
-        {
-          "name": "ISA\u00cf",
-          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Maar Verder Gaat Het Goed",
-        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
-      },
-      "artists": [
-        {
-          "name": "So-Fi",
-          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "In M'n Hoofd",
-      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "23 going on 18",
         "url": "https://open.spotify.com/album/1EYU7mpC2qzxDqg37sOF0V"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 227369,
       "name": "23 going on 18",
       "url": "https://open.spotify.com/track/3vn3Wzc3juvKqy4SZqTSZe"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Maar Verder Gaat Het Goed",
+        "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
+      },
+      "artists": [
+        {
+          "name": "So-Fi",
+          "url": "https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs"
+        }
+      ],
+      "duration_ms": 173506,
+      "name": "In M'n Hoofd",
+      "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "What's The Rush",
-        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
-      },
-      "artists": [
-        {
-          "name": "MEERKAT",
-          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Jerome",
-      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Comfortabel",
         "url": "https://open.spotify.com/album/6R6YXBbHIqWKLZEobaDNmc"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 229919,
       "name": "Comfortabel",
       "url": "https://open.spotify.com/track/0tJaLyuvRnQeoeeAHqrkvT"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "What's The Rush",
+        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
+      },
+      "artists": [
+        {
+          "name": "MEERKAT",
+          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Jerome",
+      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Black Beach",
+        "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
+      },
+      "artists": [
+        {
+          "name": "BlackBeach",
+          "url": "https://open.spotify.com/artist/46zJHbi4bdHcKnL9pln23P"
+        }
+      ],
+      "duration_ms": 371520,
+      "name": "8888",
+      "url": "https://open.spotify.com/track/7AnbsWeUbz0cKGlye9wcKG"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Sin Pausa",
         "url": "https://open.spotify.com/album/4jG9K3AOYsGTk9uKDYpHwV"
       },
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Black Beach",
-        "url": "https://open.spotify.com/album/2beZWwj39t1TxNo76LzwUS"
+        "name": "I Can't Lie",
+        "url": "https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN"
       },
       "artists": [
         {
-          "name": "BlackBeach",
-          "url": "https://open.spotify.com/artist/46zJHbi4bdHcKnL9pln23P"
+          "name": "SAMS",
+          "url": "https://open.spotify.com/artist/2xGOxcVaKQ9hXVdLAbywGT"
         }
       ],
-      "duration_ms": 371520,
-      "name": "8888",
-      "url": "https://open.spotify.com/track/7AnbsWeUbz0cKGlye9wcKG"
+      "duration_ms": 164750,
+      "name": "I Can't Lie",
+      "url": "https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "I Can't Lie",
-        "url": "https://open.spotify.com/album/1pDKBwfHmfCr5ycL7qnoGN"
-      },
-      "artists": [
-        {
-          "name": "SAMS",
-          "url": "https://open.spotify.com/artist/2xGOxcVaKQ9hXVdLAbywGT"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "I Can't Lie",
-      "url": "https://open.spotify.com/track/0CLUGkolqLXfB2jtLYU4co"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Spronk / De Slag om Vinkhuizen",
         "url": "https://open.spotify.com/album/7APExoMdmQATvX9rcDe2WT"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Isaak's Marble",
-        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
-      },
-      "artists": [
-        {
-          "name": "Heath",
-          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
-        }
-      ],
-      "duration_ms": 601682,
-      "name": "Isaak's Marble",
-      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Shit / Verliefd",
         "url": "https://open.spotify.com/album/0HnKzrvnp1QVtD0YzvhCe5"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 165490,
       "name": "Shit / Verliefd",
       "url": "https://open.spotify.com/track/1M9FawBXdGyOwLZw2RHLVE"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Isaak's Marble",
+        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
+      },
+      "artists": [
+        {
+          "name": "Heath",
+          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
+        }
+      ],
+      "duration_ms": 601682,
+      "name": "Isaak's Marble",
+      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Whirligig",
-        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
-      },
-      "artists": [
-        {
-          "name": "Mo Bedick",
-          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
-        }
-      ],
-      "duration_ms": 227354,
-      "name": "Cemetery Caretaker",
-      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "IK WIL EEN PORSCHE",
         "url": "https://open.spotify.com/album/2t3zTQB3anbtFj9dTiAwPr"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 126816,
       "name": "IK WIL EEN PORSCHE",
       "url": "https://open.spotify.com/track/7kE1folhSAAu0RWjCQPqzh"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Whirligig",
+        "url": "https://open.spotify.com/album/3hE04LDpNwaG2u29p15JbK"
+      },
+      "artists": [
+        {
+          "name": "Mo Bedick",
+          "url": "https://open.spotify.com/artist/5I603otxzNxlCw0YbgcqYE"
+        }
+      ],
+      "duration_ms": 227354,
+      "name": "Cemetery Caretaker",
+      "url": "https://open.spotify.com/track/5ddkfCxbjYNQptFpq7v5JV"
     },
     {
       "added_at": "2024-10-21 10:10:26",

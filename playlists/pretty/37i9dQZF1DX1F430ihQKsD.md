@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: Skiifall
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,567 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,574 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 8 | [Yeah](https://open.spotify.com/track/5jfmtxwUUWi4nlmnWis5sK) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Yeah](https://open.spotify.com/album/1QAemtWzccuM7pEWn1fd04) | 1:58 |
 | 9 | [Hearts Working Overtime](https://open.spotify.com/track/6UxS0LH8kL3UQ91QTQjw01) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Hearts Working Overtime](https://open.spotify.com/album/5eA3zrRbb9OiyQc9YValBm) | 3:00 |
 | 10 | [Juste amis](https://open.spotify.com/track/2SidL8c6kAfNJCSmSoTlvD) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C), [Simon Proulx](https://open.spotify.com/artist/6bvvFMUBVyfipeElZuVysQ) | [Juste amis](https://open.spotify.com/album/1Gg71kuPnvS7BuFvfaTb2U) | 3:05 |
-| 11 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 |
-| 12 | [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 |
-| 13 | [Sauf](https://open.spotify.com/track/0kAJkqOGL8bYGXFHu5G1s9) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Déjà](https://open.spotify.com/album/0ImCalqqaJI0rh6XiAfDOf) | 4:26 |
-| 14 | [L'ordre naturel des choses](https://open.spotify.com/track/0ZZKJhvDHSHawdSKJkxPpC) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Tout va bien](https://open.spotify.com/album/6E9sPaFsaf2Fv7UI8M6jn2) | 3:18 |
-| 15 | [djurdjura \(جبال جرجرة\)](https://open.spotify.com/track/0Y4JJwScd8AMPlmFuwsppx) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [UFO RELIGION](https://open.spotify.com/album/0qAOo3mr8RBN7ZNRf5TiAI) | 3:08 |
+| 11 | [djurdjura \(جبال جرجرة\)](https://open.spotify.com/track/0Y4JJwScd8AMPlmFuwsppx) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [UFO RELIGION](https://open.spotify.com/album/0qAOo3mr8RBN7ZNRf5TiAI) | 3:08 |
+| 12 | [Silencio](https://open.spotify.com/track/7oVr43P8O8ksvEX7TFMD6k) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [Silencio](https://open.spotify.com/album/4s8FVmmxk68BPzV0l6OIpg) | 4:21 |
+| 13 | [BITE THE APPLE](https://open.spotify.com/track/523ZL0kSLxkqPycG7lkTTC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DIARY FOR THE LONELY HEARTS](https://open.spotify.com/album/15Hcu8TpsQaXn6VcI7axfb) | 3:50 |
+| 14 | [Sauf](https://open.spotify.com/track/0kAJkqOGL8bYGXFHu5G1s9) | [Reno McCarthy](https://open.spotify.com/artist/1JdFzT3HVVdNNvpdIyfOPS) | [Déjà](https://open.spotify.com/album/0ImCalqqaJI0rh6XiAfDOf) | 4:26 |
+| 15 | [L'ordre naturel des choses](https://open.spotify.com/track/0ZZKJhvDHSHawdSKJkxPpC) | [Minou](https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM) | [Tout va bien](https://open.spotify.com/album/6E9sPaFsaf2Fv7UI8M6jn2) | 3:18 |
 | 16 | [Gazon mouillé](https://open.spotify.com/track/1jNwKEYRmB2mAKwe4bVhPw) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Gazon mouillé](https://open.spotify.com/album/327lifZqWkPWWyljcw7Gwj) | 3:05 |
 | 17 | [Chagrin](https://open.spotify.com/track/0DbIkZdysB4bShdvkTgnl3) | [Lia Kuri](https://open.spotify.com/artist/7MkglOKmkE2iIJOZngg3Kj) | [Motherland](https://open.spotify.com/album/2OytyuooCewNSqWSGfgydy) | 3:39 |
 | 18 | [AT MINES](https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 1](https://open.spotify.com/album/1dsPdpA7z3yi6po3NVLqNu) | 3:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Comedy](https://open.spotify.com/track/0GcV1G5sLpOUkOIfPvOo45) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [Comedy](https://open.spotify.com/album/0cy67dLDF9i8DGjAEUS1Zj) | 4:04 |
 | 100 | [You can have it all](https://open.spotify.com/track/62ciFxmwDZB4O3ZHu9rTrq) | [Or Bleu](https://open.spotify.com/artist/1UZOfkZHdPNjus7591XY2G), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Mike Clay](https://open.spotify.com/artist/0XkKzWXudWJloK6SWsH8B8) | [Beaucoup](https://open.spotify.com/album/5Lpgfnms4qU0uwtTDGBetH) | 2:37 |
 
-Snapshot ID: `Z0AP0AAAAAAQaEmCv1Ndz5fNCEk4LFl1`
+Snapshot ID: `Z0lKUAAAAAD4F9audt28ZcGgqnkCHCw8`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with RedHook & Vana.",
+  "description": "n\u00fc-metal revival is happening here and now with Bloodywood.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 199334,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr"
@@ -1671,6 +1671,28 @@
     },
     {
       "album": {
+        "name": "Cypress Hill Mixtape",
+        "url": "https://open.spotify.com/album/6vViDUE5CWCL88MMVR8sSj"
+      },
+      "artists": [
+        {
+          "name": "BLACKGOLD",
+          "url": "https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa"
+        },
+        {
+          "name": "Nathan James",
+          "url": "https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201428,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/5Lbu0d5dXJfwUbf9BTVkdm"
+    },
+    {
+      "album": {
         "name": "Insane in the Brain",
         "url": "https://open.spotify.com/album/1uJMxs3BkgxuFeeM7BcHCp"
       },
@@ -2195,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "MOTION",
+        "url": "https://open.spotify.com/album/2uG19GTf3emUepH0nfW8nI"
+      },
+      "artists": [
+        {
+          "name": "Black Coast",
+          "url": "https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183423,
+      "name": "MOTION",
+      "url": "https://open.spotify.com/track/4zYeji5OBFpZexwyaCqNk3"
+    },
+    {
+      "album": {
         "name": "MY DISASTER",
         "url": "https://open.spotify.com/album/5Svl2xU7AQPzMiU2xFLd9w"
       },
@@ -2638,7 +2678,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 216505,
       "name": "Permanence in Sleep",
       "url": "https://open.spotify.com/track/1i62a1XfdSOPCsLsw72EVf"
@@ -3899,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "VANDALISM",
+        "url": "https://open.spotify.com/album/5A2TMeemL5VEmN7lp8MvtX"
+      },
+      "artists": [
+        {
+          "name": "ASH DA HERO",
+          "url": "https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173265,
+      "name": "VANDALISM",
+      "url": "https://open.spotify.com/track/6uZ8FTXfW15gerPPmaRZ9J"
+    },
+    {
+      "album": {
         "name": "Veins",
         "url": "https://open.spotify.com/album/6j3kvraFynifFVVNwiDvs1"
       },
@@ -3982,7 +4040,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 237653,
       "name": "War Machine",
       "url": "https://open.spotify.com/track/1C3TukDxObxxR4dhi0u2x7"

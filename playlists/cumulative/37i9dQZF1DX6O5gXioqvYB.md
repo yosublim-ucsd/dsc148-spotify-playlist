@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Angelica Bove
 
-230 songs - 11 hr 17 min
+231 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Garageband](https://open.spotify.com/track/76PmFAwIiElCH5iaMrczvg) | [Tutto Piange](https://open.spotify.com/artist/6DT43WnFjH7srsE8BplDcP) | [Garageband](https://open.spotify.com/album/6VKg3uA2hB6HS8aO3xIDyJ) | 3:17 | 2024-06-27 | 2024-07-19 |
 | [Giornata vuota](https://open.spotify.com/track/21mU3hgMOlsBY51Ns7tO19) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82) | [Giornata vuota](https://open.spotify.com/album/5O4q3gA9yOLHZbB2nINGz3) | 2:54 | 2024-06-27 | 2024-07-12 |
 | [Godspeed / Fili d'Erba](https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Ora](https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn) | 1:50 | 2024-11-21 |  |
-| [GRANDINE](https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB) | [Solisumarte](https://open.spotify.com/artist/09dA9aVkD0LYj4B7PqVbkP) | [GRANDINE](https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ) | 2:42 | 2024-09-26 |  |
+| [GRANDINE](https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB) | [Solisumarte](https://open.spotify.com/artist/09dA9aVkD0LYj4B7PqVbkP) | [GRANDINE](https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ) | 2:42 | 2024-09-26 | 2024-11-30 |
 | [GRIGIO PANTONE](https://open.spotify.com/track/6YvQIcxCVDItc6zsiBfe6y) | [SESTO](https://open.spotify.com/artist/2kjGCtYf3V4FXS97OiQhTp) | [GRIGIO PANTONE](https://open.spotify.com/album/0T3x3tsIiRirjAicMB3L0d) | 2:21 | 2024-09-05 | 2024-09-27 |
 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 | 2024-09-19 |  |
 | [I mostri sotto al letto](https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SCUSA X IL DISORDINE](https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX) | 2:32 | 2024-06-27 | 2024-10-21 |
@@ -224,6 +224,7 @@
 | [Un cane](https://open.spotify.com/track/6AebymbfPmy8oKu77ZFIlN) | [SPINABELLA](https://open.spotify.com/artist/2V6hgWccRYE8HM1CbNgobr), [elia](https://open.spotify.com/artist/4AtwkLcoCPKhSVsXB8U8mJ), [Heavyangel](https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr), [Lincxn](https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq) | [Un cane](https://open.spotify.com/album/5oSZwFm2gzzcUJNBDDQ7Vd) | 3:27 | 2024-11-14 |  |
 | [Un giorno in più](https://open.spotify.com/track/5N7RhiNe0ieZb7WB40jFWP) | [Hanami](https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe), [Vincenzo Cairo](https://open.spotify.com/artist/7m8h6rBSH8EjDRXvb6fhjh), [kOkeshi](https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj) | [Un giorno in più](https://open.spotify.com/album/5naocJae1Ge8LQNWVXt98T) | 2:18 | 2024-10-17 |  |
 | [Un Po' Mi Pento](https://open.spotify.com/track/4YlZwnSFO7m3xqIsybfYwR) | [Aria](https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD) | [Un Po' Mi Pento](https://open.spotify.com/album/0OQ3aWMS4UEnBVPcvYhzM2) | 3:10 | 2024-07-04 | 2024-09-27 |
+| [Un Titolo Migliore](https://open.spotify.com/track/6tYFsZaLQBRvbPuHd9spqR) | [Caponetti](https://open.spotify.com/artist/4rrZztEQWguhJ2iNePZfl9) | [Un Titolo Migliore](https://open.spotify.com/album/6jeA4JnfuCThnw6N4OpzLa) | 2:59 | 2024-11-28 |  |
 | [Un'ora di sole](https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy) | [Alek](https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY) | [Un'ora di sole](https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol) | 2:36 | 2024-10-24 |  |
 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 | 2024-06-27 | 2024-07-12 |
 | [Una Serie Di Sfortunati Eventi](https://open.spotify.com/track/6nIIjHbqvj2JKIU91DxaZG) | [Claudym](https://open.spotify.com/artist/7pNCSsicJGpwrn2wwGD91g) | [Incidenti Di Percorso](https://open.spotify.com/album/78xWPZAesT1JqSDV88Beml) | 2:46 | 2024-07-18 | 2024-11-15 |

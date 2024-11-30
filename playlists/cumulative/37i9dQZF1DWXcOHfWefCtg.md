@@ -4,7 +4,7 @@
 
 > Soulful takes on all your Holiday favorites\. Cover: Devon Gilfillian
 
-80 songs - 4 hr 31 min
+82 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Go Tell It On The Mountain](https://open.spotify.com/track/2KcdIIkNsOWAP7XhLqfJqK) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [20th Century Masters \- The Best of Smokey Robinson & The Miracles: The Christmas Collection](https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ) | 3:47 | 2021-11-12 |  |
 | [Hangin' On To Christmas](https://open.spotify.com/track/1DgsLlwMxd4uywMIYfL1k6) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Hangin' On To Christmas](https://open.spotify.com/album/60cXavBNBPKPGwGS9YNaRk) | 3:39 | 2021-11-12 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/2dDmrUXtPSDKfp9LlDhVPM) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/4qNDpOGdEumXESG1pdh38A) | 3:04 | 2021-11-19 |  |
+| [I Heard The Bells on Christmas Day](https://open.spotify.com/track/3Oi83xSgtotKahPSTUFdH3) | [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Jay Buchanan](https://open.spotify.com/artist/4yxxlbLkkrnChV7826Cxv7) | [I Heard The Bells on Christmas Day](https://open.spotify.com/album/4o5J8wjJkPOhvDQoVLBGVe) | 3:09 | 2024-11-29 |  |
 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5IJtebzTIHk9h3xW3Z2ENd) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [Christmas Time](https://open.spotify.com/album/037BEuITII5Gx7IVQh1ssU) | 4:43 | 2022-12-06 |  |
 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/79XX797KcCCXMQFvgWkU6h) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man](https://open.spotify.com/album/7aX5aMq94oHw4eQdQBo854) | 4:46 | 2022-12-06 |  |
 | [I Want To Come Home For Christmas \- Long Version](https://open.spotify.com/track/7m260tPgfY0GCbUBnJrz3S) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [You're The Man \(Expanded Edition\)](https://open.spotify.com/album/3pEHtJqDihr3HjZCLMJ0Vp) | 4:46 | 2021-11-12 | 2024-04-19 |
@@ -54,6 +55,7 @@
 | [Merry Christmas Baby](https://open.spotify.com/track/4STCTQ1h0VuWfvDyhGOxkv) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Merry Christmas Baby / White Christmas](https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp) | 2:35 | 2021-11-12 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/00Rlpe9Mh9jxaKf8wIBeHX) | [The Philly Specials](https://open.spotify.com/artist/4JPJvxDtfBlQAiNm8dd7vX), [Lady Alma](https://open.spotify.com/artist/61DvlgEM6AtszTLLPP4diu), [Jordan Mailata](https://open.spotify.com/artist/5HuUp43KWjjxtmQXB0OlUf) | [Merry Christmas Baby](https://open.spotify.com/album/1QrvcSGTYq213gxbABZRPA) | 4:18 | 2022-12-09 |  |
 | [Merry Christmas Baby](https://open.spotify.com/track/7ooQiumdRcTkymVcekm4U1) | [Vernon Garrett](https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu) | [Merry Christmas Baby](https://open.spotify.com/album/6cVHfWKMVcKKc3VChVI9C6) | 2:48 | 2022-12-06 | 2023-12-02 |
+| [Merry Christmas Party!](https://open.spotify.com/track/5do0h1Hl6hEFbLWPAyU9QS) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Merry Christmas Party!](https://open.spotify.com/album/28sSX60pvJSDe0GGIStjTJ) | 2:23 | 2024-11-29 |  |
 | [Merry Christmas, I Love You](https://open.spotify.com/track/05Nt0XCxYOCyr01G56AWVq) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Merry Christmas, I Love You](https://open.spotify.com/album/0i4r4sJaZCyvgndUdMEXWI) | 2:57 | 2023-12-01 |  |
 | [My Christmas Tree](https://open.spotify.com/track/1x6KtTuPUDLHEpmQHjzzwh) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations' Christmas Card](https://open.spotify.com/album/6I2JnGSREqEgFPnSXkFxlW) | 3:18 | 2021-11-12 |  |
 | [My Favorite Things](https://open.spotify.com/track/6Bbak9Sp1vo0l8kptfv3Xd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Merry Christmas](https://open.spotify.com/album/6wP6F93vo81jsyGMnHvFGP) | 2:48 | 2021-11-12 |  |

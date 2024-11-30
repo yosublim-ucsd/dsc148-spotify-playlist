@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184462,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
+    },
+    {
+      "album": {
         "name": "Cosas Que Nunca Pens\u00e9 Que Har\u00eda",
         "url": "https://open.spotify.com/album/3aOtAZxlMi57gvAuINKL09"
       },
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 162000,
       "name": "Demasiado Pa' M\u00ed",
       "url": "https://open.spotify.com/track/3YpyGbVyMcxti6N5FR1z48"
@@ -3522,7 +3540,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 186186,
       "name": "Luz",
       "url": "https://open.spotify.com/track/6v5J4UE21xOjnQ4N9H5jur"
@@ -3928,6 +3946,28 @@
       "duration_ms": 202876,
       "name": "Mocca - Remix",
       "url": "https://open.spotify.com/track/1usoXi4f0BnMART4uActEA"
+    },
+    {
+      "album": {
+        "name": "Mochilera",
+        "url": "https://open.spotify.com/album/29VDqesyiDj71uuXp6liz0"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228573,
+      "name": "Mochilera",
+      "url": "https://open.spotify.com/track/3hZwZDBGZChsE3VI91KRUv"
     },
     {
       "album": {

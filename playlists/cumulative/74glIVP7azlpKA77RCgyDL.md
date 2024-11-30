@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Killswitch Engage.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Jinjer.
 
-851 songs - 2 day 5 hr 37 min
+857 songs - 2 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 | 2024-02-03 |
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-22 | 2024-02-03 |
 | [Dust](https://open.spotify.com/track/3U8ZeW7SCWMEJ5OCJ1Pp6c) | [Brutus](https://open.spotify.com/artist/7m63GptZSke3jGqCxR4rom) | [Dust](https://open.spotify.com/album/34YoSbT5nxTAFBMcc6rlHZ) | 5:39 | 2022-07-01 | 2023-07-15 |
+| [Dweller on the Threshold](https://open.spotify.com/track/49jeawXlF7NSHT6D6yc2EY) | [Haunted Horses](https://open.spotify.com/artist/6snN2rjeQQ7pG8SMJ5w2Gm) | [Dweller on the Threshold](https://open.spotify.com/album/52cpNQKGIvFtUsDYqnqPq2) | 4:16 | 2024-11-29 |  |
 | [Dying of Everything](https://open.spotify.com/track/7GgPZBrYvDLWUZV0ePStAE) | [Obituary](https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz) | [Dying of Everything](https://open.spotify.com/album/3oNJTBva2E8MhEPz4NHTPC) | 4:43 | 2022-12-02 | 2023-07-15 |
 | [DYWTYLM](https://open.spotify.com/track/4hjJtKO5SdpfVRwP4FZeKI) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [DYWTYLM](https://open.spotify.com/album/0xLXYxkjjIPfVFhbPWvCwy) | 4:00 | 2023-04-21 | 2024-02-03 |
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 | 2023-07-15 |
@@ -308,6 +309,7 @@
 | [Gorgeous](https://open.spotify.com/track/02i9hlZQCCb6vYxpBm6r5h) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Gorgeous](https://open.spotify.com/album/3brN47YTTKHWEpB8hsOEa2) | 5:31 | 2024-07-19 |  |
 | [Granite](https://open.spotify.com/track/0pQCKSmcU1eMidix34ue3w) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/3aTHaMQjrjx1SYd33qWToC) | 3:45 | 2023-01-20 | 2024-02-03 |
 | [Grayscale](https://open.spotify.com/track/2e9mDdiPdwkyyTceSiNHbQ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Grayscale](https://open.spotify.com/album/4ujTrzNAnVZid6lnVUULvu) | 3:59 | 2022-09-09 | 2023-07-15 |
+| [Green Serpent](https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Green Serpent](https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9) | 4:01 | 2024-11-29 |  |
 | [Grooming My Replacement](https://open.spotify.com/track/0FMJNZDjRFPEBvI86u8NAZ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Grooming My Replacement / The Game](https://open.spotify.com/album/7IRDBqkMaGhw0HxItP6zHL) | 2:54 | 2023-06-02 | 2024-02-03 |
 | [Gross Abuse](https://open.spotify.com/track/6fL0AtGIH9hWi8zc6m7XOK) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Manual Manic Procedures](https://open.spotify.com/album/2p4qPInJmmYl8QZ3uhIbDb) | 1:49 | 2024-06-28 |  |
 | [Guided Meditation](https://open.spotify.com/track/0Dq4oDfcDFsOJ5jVhZ07Up) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Shock Therapy](https://open.spotify.com/album/6Ju7Ef2xrpkAq9Rqhpf2xV) | 1:35 | 2022-08-12 | 2023-07-15 |
@@ -519,6 +521,7 @@
 | [Paralyzed](https://open.spotify.com/track/0Ve1dre3NWquRzDge8hyyD) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Paralyzed](https://open.spotify.com/album/2Bm13FR7F0QrvQEqeg2nEb) | 3:26 | 2024-10-25 |  |
 | [Paranoia](https://open.spotify.com/track/5WQOU9N0eVbFP448Mw7fhn) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Paranoia](https://open.spotify.com/album/7be4xm8QKyrU69PnkD3XTF) | 1:30 | 2024-01-05 |  |
 | [Pass The Nirvana](https://open.spotify.com/track/5SDhI2jKg0S5fzEEqPCHiV) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Pass The Nirvana](https://open.spotify.com/album/50eq5hUKnqB9e51D9GSmKs) | 3:17 | 2022-09-02 | 2023-07-15 |
+| [Path Of Our Disease](https://open.spotify.com/track/4ix9IZPjKQYpf3Sn98zppz) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Path Of Our Disease](https://open.spotify.com/album/3UD2b4iAIh1x10JLy9utAD) | 3:19 | 2024-11-29 |  |
 | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/track/6kAOsnRUgp21bPiUoVZeuJ) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Patient Number 9 \(feat\. Jeff Beck\)](https://open.spotify.com/album/6ofIoMgNMIM7cvlxjWNcpN) | 7:21 | 2022-06-24 | 2023-07-15 |
 | [Pearl](https://open.spotify.com/track/1Ki7u6kfylNZlKVHNsZ54U) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Pearl](https://open.spotify.com/album/2pdE3vNWf94N1aXijKwL3G) | 1:22 | 2023-04-28 | 2024-02-03 |
 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 | 2024-11-22 |  |
@@ -564,6 +567,7 @@
 | [Rebirth](https://open.spotify.com/track/0COwjZLTyVMSW1nxMUq2l4) | [Statement of Pride](https://open.spotify.com/artist/62gQHnyYZuu5pegFAkKEXq) | [Rebirth](https://open.spotify.com/album/4uFIQ2nxfL9tAPQBwJwLhB) | 2:08 | 2024-04-19 |  |
 | [Reckoning](https://open.spotify.com/track/4xcfmHe5mRVzPA0tdKJltA) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Spencer Chamberlain](https://open.spotify.com/artist/2cbaTTGFK4bWdglvhLQRFi) | [Reckoning](https://open.spotify.com/album/5SfCfODkHePAgQaLMgnmWs) | 7:52 | 2023-02-24 | 2024-02-03 |
 | [Rectify](https://open.spotify.com/track/7p8H7I0yG05MWgtgHFSzpa) | [Magnitude](https://open.spotify.com/artist/2NwDYPbgMbSAXLbTL0VaUQ) | [Rectify](https://open.spotify.com/album/2zRWYRjljmAV7OAUoaWhZs) | 2:24 | 2023-06-30 | 2024-02-03 |
+| [Recursion](https://open.spotify.com/track/7IQXJXGNuzpMi0tDQYTpMB) | [Grief Ritual](https://open.spotify.com/artist/7hM17EMsGXmMzxfKJVPUwK), [Cage Fight](https://open.spotify.com/artist/35GpJabAKuETXnWsWQbTjr) | [Recursion](https://open.spotify.com/album/6DWgesAhx6Vfz6D8Fk9cdi) | 2:40 | 2024-11-29 |  |
 | [Red Alert \(Boss Metal Zone\) \- Radio Edit](https://open.spotify.com/track/6FXYoyFDm9zyQgB9joMKzo) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Red Alert \(Boss Metal Zone\) \[Radio Edit\]](https://open.spotify.com/album/3GwYm0B8pulL0laUMZftc9) | 2:25 | 2022-04-08 | 2023-07-15 |
 | [Red Feasts Condensed into One](https://open.spotify.com/track/3XHKnuoLH9NbfeWzxxnuc0) | [Spectral Voice](https://open.spotify.com/artist/5I4bpzP0gZSVwceopnaoVb) | [Red Feasts Condensed Into One](https://open.spotify.com/album/5JrzE46rZ1ERhRdrQm2Ia2) | 12:51 | 2023-12-08 | 2024-02-03 |
 | [Reek of Burning Freedom](https://open.spotify.com/track/6i6eisMKB7qL9RdveoJTlu) | [Ripped to Shreds](https://open.spotify.com/artist/4A5KPL22zRCWO0ysGjYbD7) | [Reek of Burning Freedom](https://open.spotify.com/album/56CIHVqbyY0CX1GHyD0Mp1) | 4:14 | 2022-08-19 | 2023-07-15 |
@@ -798,6 +802,7 @@
 | [Violence Surrounds](https://open.spotify.com/track/6iYGv3IMC0nj6wZVNGnOi9) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Violence Surrounds](https://open.spotify.com/album/4vvVRgEHMvbaZnJSHcoNkl) | 5:00 | 2023-11-03 | 2024-02-03 |
 | [Violent Compulsion for Conquest](https://open.spotify.com/track/1OB49XpJ0oTfGqTJFEBzjo) | [Ripped to Shreds](https://open.spotify.com/artist/4A5KPL22zRCWO0ysGjYbD7) | [Violent Compulsion for Conquest](https://open.spotify.com/album/4NpkaZpM336JMTwG8rNDI5) | 4:32 | 2022-10-07 | 2023-07-15 |
 | [Visions In The Mist](https://open.spotify.com/track/4cPJ4tDwsjUOfBaLgiRftu) | [Skourge](https://open.spotify.com/artist/7yGhQjRH18GymiJDttaULS) | [Torrential Torment](https://open.spotify.com/album/15oMALMnWU9JcWxrEmCn8s) | 3:00 | 2023-03-10 | 2024-02-03 |
+| [Vital Signs](https://open.spotify.com/track/1cIZ4cjqppvYgedZQEZQgP) | [OVERSIZE](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T) | [Vital Signs](https://open.spotify.com/album/2ReyuI7yGDSP85dziq5UMM) | 4:02 | 2024-11-29 |  |
 | [Vivien](https://open.spotify.com/track/4GPYVJUBEXr0WfhozDhvfr) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Vivien](https://open.spotify.com/album/0gaTBHvBZXbQvhDzMjDnlh) | 3:53 | 2022-10-28 | 2023-07-15 |
 | [Void of Light](https://open.spotify.com/track/5Q4d2drbLswy6d35s9a0Mn) | [Holy Fawn](https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI) | [Void of Light](https://open.spotify.com/album/45lXSwxmeq0AHX5NL9pevv) | 4:44 | 2022-08-19 | 2023-07-15 |
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 | 2023-07-15 |
@@ -835,6 +840,7 @@
 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 | 2024-10-25 |  |
 | [Wings of Mariposa](https://open.spotify.com/track/32UZPkMZrB0ZAyzLaVrMbY) | [Will Haven](https://open.spotify.com/artist/6oHhpIAHJlyqi70DdfWeJX) | [Wings of Mariposa](https://open.spotify.com/album/4xSONNw1z07iJq9P2IoB2G) | 2:46 | 2022-05-27 | 2023-07-15 |
 | [Wired For Destruction](https://open.spotify.com/track/4UeTms4wgdOHut4jLtzi2p) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Wired For Destruction](https://open.spotify.com/album/7DLD3wgKis2uwClmtZI9V9) | 3:07 | 2022-03-25 | 2023-07-15 |
+| [Wisenheimer \(You Were Never One Of Us\)](https://open.spotify.com/track/7eCRxbItIOiXHYk1JnIVMU) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R), [Demonstration Of Power](https://open.spotify.com/artist/3BHc8N6IN6zuspqwFV17Rs) | [Wisenheimer \(You Were Never One Of Us\)](https://open.spotify.com/album/0krsNMzUZCgT1tCRi9IKPT) | 3:41 | 2024-11-29 |  |
 | [Witch](https://open.spotify.com/track/5MSdmihYEiWhtegR9Ji6mA) | [Islander](https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w) | [Witch](https://open.spotify.com/album/7jtLgmvH6nnulQ3mPZKzq6) | 3:39 | 2023-10-27 | 2024-02-03 |
 | [Words Fail](https://open.spotify.com/track/4eB3zRK5tIQj8obRT2ux2c) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [Words Fail](https://open.spotify.com/album/5vKiKQXUrAudV0tY61l8G7) | 1:36 | 2022-08-26 | 2023-07-15 |
 | [Working the Ditch](https://open.spotify.com/track/1BwLqfBVpAFExwqs2rXeGO) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Working the Ditch](https://open.spotify.com/album/6ifJtVcD6x6s906DZzW9cB) | 6:32 | 2024-02-09 |  |

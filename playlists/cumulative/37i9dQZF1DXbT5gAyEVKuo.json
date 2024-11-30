@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances. Cover: <a href=\"spotify:artist:4rc8nzClXj7sUjvsHVg6AD\">Naomi Raine</a>",
-  "name": "Gospel Live",
+  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Victor Thompson",
+  "name": "Gospel Worship",
   "tracks": [
     {
       "album": {
@@ -42,6 +42,24 @@
       "duration_ms": 249943,
       "name": "Able - Live",
       "url": "https://open.spotify.com/track/3LfwdEQKaMxo6q6tL45Dwa"
+    },
+    {
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "album": {
@@ -110,10 +128,32 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 255047,
       "name": "Always (Father I Trust You) - Live",
       "url": "https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut"
+    },
+    {
+      "album": {
+        "name": "Amaram Onyewem (Live)",
+        "url": "https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Pastor Jerry Eze",
+          "url": "https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642124,
+      "name": "Amaram Onyewem - Live",
+      "url": "https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v"
     },
     {
       "album": {
@@ -182,10 +222,28 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 318560,
       "name": "Because Of Who You Are",
       "url": "https://open.spotify.com/track/25rVj3vBLwE6Fo8C8NFSwb"
+    },
+    {
+      "album": {
+        "name": "Better (Live)",
+        "url": "https://open.spotify.com/album/2VaYgbdDdID9R5rmgvXzNF"
+      },
+      "artists": [
+        {
+          "name": "Yemohni Jones",
+          "url": "https://open.spotify.com/artist/2CJ0ek3LrVe8hyh0w1Zblg"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313283,
+      "name": "Better - Live",
+      "url": "https://open.spotify.com/track/5Y8xU9hSO7loZYaP9UqSWe"
     },
     {
       "album": {
@@ -247,6 +305,60 @@
     },
     {
       "album": {
+        "name": "Broken (Live)",
+        "url": "https://open.spotify.com/album/2KEY3q6BpkOtm8Aa3r5w5T"
+      },
+      "artists": [
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571328,
+      "name": "Broken (Live)",
+      "url": "https://open.spotify.com/track/5iISN230UakPWUWgZSPkVH"
+    },
+    {
+      "album": {
+        "name": "Hymns: The Brooklyn Sessions (Live)",
+        "url": "https://open.spotify.com/album/7c2v5UZkdt3t4VdNq6GKiL"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257465,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/1fLgFGtbv5wyvcnPze7KV3"
+    },
+    {
+      "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195124,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
+    },
+    {
+      "album": {
         "name": "Gospel's Best Live",
         "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
       },
@@ -280,6 +392,24 @@
       "duration_ms": 445360,
       "name": "Center Of My Joy - Live",
       "url": "https://open.spotify.com/track/2oKFjzpOQrj2t0lwXlSrjV"
+    },
+    {
+      "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/0xGMk2e8zkY7zmUJGo0t9g"
+      },
+      "artists": [
+        {
+          "name": "Victory House Worship",
+          "url": "https://open.spotify.com/artist/6kzOnutG18rqaBCLzY0gwI"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398117,
+      "name": "Chosen",
+      "url": "https://open.spotify.com/track/3PI1XMiWCW2FlQiD5diVW7"
     },
     {
       "album": {
@@ -337,6 +467,98 @@
     },
     {
       "album": {
+        "name": "Dance Anyhow",
+        "url": "https://open.spotify.com/album/3daXjHEwk4AtkIMDyhFL6d"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504889,
+      "name": "Dance Anyhow",
+      "url": "https://open.spotify.com/track/3TLl80bJcNDDgay3jMclgp"
+    },
+    {
+      "album": {
+        "name": "Darling Jesus (Special Version)",
+        "url": "https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206164,
+      "name": "Darling Jesus - Special Version",
+      "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
+    },
+    {
+      "album": {
+        "name": "Everywhere I Go",
+        "url": "https://open.spotify.com/album/04G4OkDXXBnCm4M1zmonQJ"
+      },
+      "artists": [
+        {
+          "name": "Campus Rush Music",
+          "url": "https://open.spotify.com/artist/4v3pVN73q2WOhM5Ne9hOSP"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Kofi Dartey",
+          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472715,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/6xDgwhg96xuu2Df1o3o4Nc"
+    },
+    {
+      "album": {
+        "name": "EXALTED",
+        "url": "https://open.spotify.com/album/4YqBeLVMJGXeX7zi9YVUAu"
+      },
+      "artists": [
+        {
+          "name": "Deborah Billyben",
+          "url": "https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj"
+        },
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311420,
+      "name": "EXALTED",
+      "url": "https://open.spotify.com/track/0OITraCTzwam7XhYaehSMy"
+    },
+    {
+      "album": {
         "name": "The Faith Journey (Live)",
         "url": "https://open.spotify.com/album/50IACast23ezf8MlYV2ayt"
       },
@@ -370,10 +592,32 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 384013,
       "name": "Father Jesus Spirit (Live)",
       "url": "https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U"
+    },
+    {
+      "album": {
+        "name": "Fight for Me",
+        "url": "https://open.spotify.com/album/6hlqP3xQeFij6DjCjIr6ju"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        },
+        {
+          "name": "Angie G",
+          "url": "https://open.spotify.com/artist/16Z1JikPr1r9VmwcreM2ZV"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234581,
+      "name": "Fight for Me",
+      "url": "https://open.spotify.com/track/228dt2ZLsJPuYJhl5gL0xJ"
     },
     {
       "album": {
@@ -392,6 +636,32 @@
       "duration_ms": 406440,
       "name": "For Your Glory - Live",
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "album": {
+        "name": "Forgive and Forget (feat. Lizzie Morgan & Roosevelt Stewart)",
+        "url": "https://open.spotify.com/album/0P3yfM1OVAsKuqY8x3kNgT"
+      },
+      "artists": [
+        {
+          "name": "Red Worship",
+          "url": "https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w"
+        },
+        {
+          "name": "Lizzie Morgan",
+          "url": "https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion"
+        },
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432531,
+      "name": "Forgive and Forget (feat. Lizzie Morgan & Roosevelt Stewart)",
+      "url": "https://open.spotify.com/track/71mEgaAwJUponoW5zeiyAi"
     },
     {
       "album": {
@@ -432,7 +702,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 291453,
       "name": "God Alone (NYE Live)",
       "url": "https://open.spotify.com/track/1aohEgupGtgViBxFeo4xxF"
@@ -457,6 +727,28 @@
     },
     {
       "album": {
+        "name": "God Of War (feat. ELEVATION RHYTHM)",
+        "url": "https://open.spotify.com/album/38Vp9teo1FLqOReM9NcdNf"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        },
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361821,
+      "name": "God Of War (feat. ELEVATION RHYTHM)",
+      "url": "https://open.spotify.com/track/5bHwjz8ENwXYFSmvsj9yzN"
+    },
+    {
+      "album": {
         "name": "Believe For It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
       },
@@ -468,7 +760,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 297693,
       "name": "Goodness of God - Live",
       "url": "https://open.spotify.com/track/4XO09BDp8QZFjRxZciYLd6"
@@ -511,6 +803,28 @@
     },
     {
       "album": {
+        "name": "Hallelujah (feat. Dunsin Oyekan) [Live]",
+        "url": "https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV"
+      },
+      "artists": [
+        {
+          "name": "Joe Mettle",
+          "url": "https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320902,
+      "name": "Hallelujah (feat. Dunsin Oyekan) - Live",
+      "url": "https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu"
+    },
+    {
+      "album": {
         "name": "He Always Wins (feat. Erica Campbell & 1K Phew) [Live]",
         "url": "https://open.spotify.com/album/3FrRXhBBSF97k0leyU4fGO"
       },
@@ -530,7 +844,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 422861,
       "name": "He Always Wins (feat. Erica Campbell & 1K Phew) - Live",
       "url": "https://open.spotify.com/track/6qU9oq8DIy11V5ILcAkii2"
@@ -620,10 +934,32 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 518906,
       "name": "He'll Take The Pain Away - Live",
       "url": "https://open.spotify.com/track/5pAx3uIKg4Mf6KUEOevB45"
+    },
+    {
+      "album": {
+        "name": "Highest Are You",
+        "url": "https://open.spotify.com/album/5x183jEoCnA6538OMGEUvh"
+      },
+      "artists": [
+        {
+          "name": "Chevelle Franklyn",
+          "url": "https://open.spotify.com/artist/7mJ39b6DNnEJ263UqTvKmc"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330346,
+      "name": "Highest Are You",
+      "url": "https://open.spotify.com/track/5WSWiZmyYaxCgj7LacvhNg"
     },
     {
       "album": {
@@ -664,7 +1000,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 326493,
       "name": "I Do Worship (feat. John P. Kee) - Live",
       "url": "https://open.spotify.com/track/7ek6p3oOf0B4HM1A0fiVJO"
@@ -686,6 +1022,28 @@
       "duration_ms": 246173,
       "name": "I Don't Wanna Leave - Live From Chattanooga, TN",
       "url": "https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC"
+    },
+    {
+      "album": {
+        "name": "I Love You Lord",
+        "url": "https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555771,
+      "name": "I Love You Lord",
+      "url": "https://open.spotify.com/track/6vppF3PlYeIh2eWxee7Z18"
     },
     {
       "album": {
@@ -722,7 +1080,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 317880,
       "name": "I Will Bless the Lord - Live",
       "url": "https://open.spotify.com/track/2wRfftZSv3H1s1qE6o4l9Y"
@@ -740,10 +1098,32 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 292466,
       "name": "I Won't Let Go - Live",
       "url": "https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2"
+    },
+    {
+      "album": {
+        "name": "i WoRsHiP (Live)",
+        "url": "https://open.spotify.com/album/25cB3qZIRT5KtC9Uu7xGDV"
+      },
+      "artists": [
+        {
+          "name": "Promise Benson",
+          "url": "https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28"
+        },
+        {
+          "name": "David Dam",
+          "url": "https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428760,
+      "name": "i WoRsHiP - Live",
+      "url": "https://open.spotify.com/track/09miLEKvkU62Apb6HdRxRf"
     },
     {
       "album": {
@@ -780,7 +1160,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 428181,
       "name": "I've Been Waiting - Live",
       "url": "https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv"
@@ -904,7 +1284,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 549106,
       "name": "Indescribable - Live",
       "url": "https://open.spotify.com/track/2LidjA0hYpXu0T7XlKChpg"
@@ -940,7 +1320,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 379533,
       "name": "It's Not Over",
       "url": "https://open.spotify.com/track/4HY5Tyq3E7c7LlfSPUItRf"
@@ -958,10 +1338,32 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 418261,
       "name": "It's Yours",
       "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
+    },
+    {
+      "album": {
+        "name": "Take It All (Live in Abuja)",
+        "url": "https://open.spotify.com/album/70mWW2AS00l9ML2YeXoVio"
+      },
+      "artists": [
+        {
+          "name": "Phil Thompson",
+          "url": "https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522346,
+      "name": "Jesus, Lamb Of God - Live",
+      "url": "https://open.spotify.com/track/54sFhxHdydRluC4AFPSNyR"
     },
     {
       "album": {
@@ -988,6 +1390,24 @@
       "duration_ms": 272800,
       "name": "Let Go (feat. PJ Morton & DeWayne Woods) - Live Version",
       "url": "https://open.spotify.com/track/50wH2g17mKfEeVXakbhIyw"
+    },
+    {
+      "album": {
+        "name": "The Journey (Live)",
+        "url": "https://open.spotify.com/album/55qkczyxlKcvYDDX5vpgFj"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516000,
+      "name": "Lord I Love You - Live",
+      "url": "https://open.spotify.com/track/6DO834OLITajOfoPJ27ckA"
     },
     {
       "album": {
@@ -1050,7 +1470,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 249176,
       "name": "Maintain (feat. Chantae Cann) (Live)",
       "url": "https://open.spotify.com/track/7oPr7tHtMifbFJrkoXe8aO"
@@ -1128,7 +1548,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 402935,
       "name": "Miracle Worker - Live",
       "url": "https://open.spotify.com/track/5OsbxrGblsMoytfevbmwyK"
@@ -1179,6 +1599,28 @@
     },
     {
       "album": {
+        "name": "My Worship (Live)",
+        "url": "https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb"
+      },
+      "artists": [
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        },
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 637823,
+      "name": "My Worship - Live",
+      "url": "https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK"
+    },
+    {
+      "album": {
         "name": "Gospel's Best Live",
         "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
       },
@@ -1194,10 +1636,28 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 281973,
       "name": "Never Seen The Righteous - Live At The Tabernacle",
       "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
+    },
+    {
+      "album": {
+        "name": "No Way / You Are My God",
+        "url": "https://open.spotify.com/album/636MwS4fbP670i5Rq1Ct6p"
+      },
+      "artists": [
+        {
+          "name": "Freke Umoh",
+          "url": "https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 683415,
+      "name": "No Way / You Are My God",
+      "url": "https://open.spotify.com/track/1RclxQF44buhRJOacvlw2Y"
     },
     {
       "album": {
@@ -1212,7 +1672,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 220952,
       "name": "No Weapon - Radio Edit",
       "url": "https://open.spotify.com/track/1BpdiLpLSoszquPuwrL2gq"
@@ -1256,7 +1716,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 244736,
       "name": "Nobody Like You Lord - Radio Edit - Live",
       "url": "https://open.spotify.com/track/4SFD5o0lu61Y2uAdGHqwyv"
@@ -1282,6 +1742,28 @@
       "duration_ms": 321790,
       "name": "Nothing / Something - Live",
       "url": "https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb"
+    },
+    {
+      "album": {
+        "name": "Nothing Without You (Live)",
+        "url": "https://open.spotify.com/album/1jQQP8xN0197YhIRumYCia"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        },
+        {
+          "name": "Revival Today Worship",
+          "url": "https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395481,
+      "name": "Nothing Without You - Live",
+      "url": "https://open.spotify.com/track/3c14NjEO3dR6bGZpCl7VBp"
     },
     {
       "album": {
@@ -1332,7 +1814,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 253293,
       "name": "Ooh Wee Another Blessing",
       "url": "https://open.spotify.com/track/4qO2k0Q82nLpluVLwGJJNc"
@@ -1354,6 +1836,28 @@
       "duration_ms": 465933,
       "name": "Open My Heart - Live",
       "url": "https://open.spotify.com/track/2oujPaH4PjjRFSFUpnjg90"
+    },
+    {
+      "album": {
+        "name": "Prayer (Live)",
+        "url": "https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4"
+      },
+      "artists": [
+        {
+          "name": "Minstrel K.I",
+          "url": "https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559994,
+      "name": "Prayer - Live",
+      "url": "https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY"
     },
     {
       "album": {
@@ -1379,6 +1883,50 @@
     },
     {
       "album": {
+        "name": "Redeemer (Live)",
+        "url": "https://open.spotify.com/album/7msY76l3ziqjT1poQScvy8"
+      },
+      "artists": [
+        {
+          "name": "ONE HOUSE",
+          "url": "https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Rose Meregini",
+          "url": "https://open.spotify.com/artist/4Jl4Ek6XpMDBGkZHb2idl6"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435000,
+      "name": "Redeemer - Live",
+      "url": "https://open.spotify.com/track/6w28OVArdZUvPqwmzrNZOq"
+    },
+    {
+      "album": {
+        "name": "Release Control (Radio)",
+        "url": "https://open.spotify.com/album/1B1QidNr812ZThlu69dmr2"
+      },
+      "artists": [
+        {
+          "name": "Shekinah Glory Ministry",
+          "url": "https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239616,
+      "name": "Release Control (Radio)",
+      "url": "https://open.spotify.com/track/3oofzigkObAVBc56KcTGkW"
+    },
+    {
+      "album": {
         "name": "Rest On Us (Live)",
         "url": "https://open.spotify.com/album/5Y1ng8Gt4DrhfQUc4iv4pR"
       },
@@ -1394,6 +1942,24 @@
       "duration_ms": 444562,
       "name": "Rest On Us - Live",
       "url": "https://open.spotify.com/track/3Qo0Fi5Ugn0j5PjSzcREsz"
+    },
+    {
+      "album": {
+        "name": "Revival Medley",
+        "url": "https://open.spotify.com/album/5RJ8JGMlLr5JSbO35MKXpt"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453689,
+      "name": "Revival Medley - Live",
+      "url": "https://open.spotify.com/track/08lKcZZyLlSNIofe7EITcO"
     },
     {
       "album": {
@@ -1419,6 +1985,76 @@
     },
     {
       "album": {
+        "name": "Set The Record Straight (Live)",
+        "url": "https://open.spotify.com/album/2Bdejv7g42TIULe8JpmC2S"
+      },
+      "artists": [
+        {
+          "name": "Warehouse Worship",
+          "url": "https://open.spotify.com/artist/1u5xwOxetEbwUOsx5YRwXB"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Turah Sadiq",
+          "url": "https://open.spotify.com/artist/0fe3ecTqrET1fDIciR4xnX"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506666,
+      "name": "Set The Record Straight - Live",
+      "url": "https://open.spotify.com/track/4IXzjWLRDdxLlhiudTBNi2"
+    },
+    {
+      "album": {
+        "name": "Shekinah",
+        "url": "https://open.spotify.com/album/3aNh72cvCcIn7Zt0mFJLPj"
+      },
+      "artists": [
+        {
+          "name": "Pastor Emmanuel Iren",
+          "url": "https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw"
+        },
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420025,
+      "name": "Shekinah",
+      "url": "https://open.spotify.com/track/00xzGkIAOpYsv7eCZP2QZO"
+    },
+    {
+      "album": {
+        "name": "Strike The Ground",
+        "url": "https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Forward City",
+          "url": "https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317146,
+      "name": "Simple Matter",
+      "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
+    },
+    {
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -1434,6 +2070,32 @@
       "duration_ms": 347746,
       "name": "Smile - Live",
       "url": "https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9"
+    },
+    {
+      "album": {
+        "name": "Sustain (Live)",
+        "url": "https://open.spotify.com/album/5TwOCjWrjcu0q3PF5w1exA"
+      },
+      "artists": [
+        {
+          "name": "Transformation Worship",
+          "url": "https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726296,
+      "name": "Sustain - Live",
+      "url": "https://open.spotify.com/track/0hZsa8BIVtLAzlMVZ2Hv6f"
     },
     {
       "album": {
@@ -1503,6 +2165,46 @@
     },
     {
       "album": {
+        "name": "Thank You (Live)",
+        "url": "https://open.spotify.com/album/2GzLAxaOOy79sp66M3vFBs"
+      },
+      "artists": [
+        {
+          "name": "LF Worship",
+          "url": "https://open.spotify.com/artist/12xvjYA78YmrY3s7BuTat1"
+        },
+        {
+          "name": "Nathan Pickens",
+          "url": "https://open.spotify.com/artist/5VBoT4FrcqOKVLitL8TqOo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511900,
+      "name": "Thank You - Live",
+      "url": "https://open.spotify.com/track/0LAqiyd9TaU0mpTH7VMvYl"
+    },
+    {
+      "album": {
+        "name": "That's My King",
+        "url": "https://open.spotify.com/album/2hNiu7tTe7qv2PrB97Umvi"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250477,
+      "name": "That's My King",
+      "url": "https://open.spotify.com/track/6YoCr1PHjCNCniM5iJivoh"
+    },
+    {
+      "album": {
         "name": "Live in London and More ..",
         "url": "https://open.spotify.com/album/6A55aHMWgoZgzjLfsTJU6v"
       },
@@ -1532,7 +2234,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 388626,
       "name": "The Battle Is the Lord's",
       "url": "https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S"
@@ -1612,7 +2314,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 453439,
       "name": "Tired - Live in Richmond, VA",
       "url": "https://open.spotify.com/track/2GSQLnTvR19qrC19ntpFRh"
@@ -1652,10 +2354,32 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 299600,
       "name": "Total Praise (with Vision) - Live",
       "url": "https://open.spotify.com/track/3eGrTHQnpSE0LRrNrMxMRr"
+    },
+    {
+      "album": {
+        "name": "Upperroom (Live)",
+        "url": "https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg"
+      },
+      "artists": [
+        {
+          "name": "3C Live",
+          "url": "https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT"
+        },
+        {
+          "name": "Khaya Mthethwa",
+          "url": "https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438857,
+      "name": "Upperroom (Live)",
+      "url": "https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8"
     },
     {
       "album": {
@@ -1692,10 +2416,36 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 293560,
       "name": "We Fall Down - Live",
       "url": "https://open.spotify.com/track/1HXzXYbhLDdpFkJyBxEjIF"
+    },
+    {
+      "album": {
+        "name": "What A Friend (feat. Anthony Stallion & Jaylan Robinson)",
+        "url": "https://open.spotify.com/album/4QSCvMEW7GpVmdGHVfXhc6"
+      },
+      "artists": [
+        {
+          "name": "Detroit Collective",
+          "url": "https://open.spotify.com/artist/18QTuucMsM5vDO9fThoov0"
+        },
+        {
+          "name": "Anthony Stallion",
+          "url": "https://open.spotify.com/artist/0itRB2H80G6Hq3mIjLE5mE"
+        },
+        {
+          "name": "Jaylan Robinson",
+          "url": "https://open.spotify.com/artist/4qULz5l7hiZmRDzgrWtfBq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566904,
+      "name": "What A Friend (feat. Anthony Stallion & Jaylan Robinson)",
+      "url": "https://open.spotify.com/track/3KMlqYPjCbH2NdwbRo8Yrn"
     },
     {
       "album": {
@@ -1710,7 +2460,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 347106,
       "name": "Why We Sing - Live",
       "url": "https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp"
@@ -1728,7 +2478,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 478198,
       "name": "Wide as the Sky",
       "url": "https://open.spotify.com/track/2efVdOaY8t4wqaIfMH2jik"
@@ -1764,7 +2514,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 406480,
       "name": "Worth Fighting For - Live",
       "url": "https://open.spotify.com/track/51fegUPIH02heRh9fkkLwE"
@@ -1794,6 +2544,42 @@
       "duration_ms": 345005,
       "name": "Yahweh / Yeshua Hamashiach",
       "url": "https://open.spotify.com/track/25IqbNWO1NaLuhSgRUeOQB"
+    },
+    {
+      "album": {
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/0gBQNaBYQSm8Uok70NTLhJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313815,
+      "name": "Yes",
+      "url": "https://open.spotify.com/track/5ZH379DG7dAUp60YbtPm6z"
+    },
+    {
+      "album": {
+        "name": "You Are Good (Live)",
+        "url": "https://open.spotify.com/album/0eOUqWmOTdPZ8fxnhedGhP"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274573,
+      "name": "You Are Good (Live)",
+      "url": "https://open.spotify.com/track/0QxBzysFWqcmyIZtJM2B3s"
     },
     {
       "album": {
@@ -1862,7 +2648,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 292906,
       "name": "You Won't Ever Let Me Down - Live",
       "url": "https://open.spotify.com/track/36b88T7XpccbUp6Qj78cOC"
@@ -1986,6 +2772,24 @@
       "duration_ms": 265573,
       "name": "Your Great Name (Live)",
       "url": "https://open.spotify.com/track/4pTI61NxIuonwEsovOsDoc"
+    },
+    {
+      "album": {
+        "name": "Your Name",
+        "url": "https://open.spotify.com/album/1e2c2giTtpKsjwxq3T5Y7N"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236095,
+      "name": "Your Name",
+      "url": "https://open.spotify.com/track/6Y1gaH2z0FQwOgfVCt88PV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbT5gAyEVKuo"

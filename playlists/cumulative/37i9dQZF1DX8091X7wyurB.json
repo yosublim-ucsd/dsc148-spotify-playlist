@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 395555,
       "name": "Aileyipada",
       "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
@@ -3545,6 +3545,24 @@
     },
     {
       "album": {
+        "name": "I PREVAIL (Live)",
+        "url": "https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "date_added": "2024-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 778285,
+      "name": "I PREVAIL - Live",
+      "url": "https://open.spotify.com/track/05e71J5stPJGlANXswQDDu"
+    },
+    {
+      "album": {
         "name": "Cornerstone (Live)",
         "url": "https://open.spotify.com/album/6dG4VcAdbKyhBmfunMitx8"
       },
@@ -3924,6 +3942,36 @@
       "duration_ms": 184891,
       "name": "In Jesus Name (God Of Possible)",
       "url": "https://open.spotify.com/track/7w7q9tajAO0CiPw1Fx7vOG"
+    },
+    {
+      "album": {
+        "name": "In My Boat",
+        "url": "https://open.spotify.com/album/1gNeR5MQYfh2GhdCawVS3H"
+      },
+      "artists": [
+        {
+          "name": "EJ Newton",
+          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        },
+        {
+          "name": "Fredline Tranchant",
+          "url": "https://open.spotify.com/artist/6WC1N4VunFwMPSvu6Av7F2"
+        },
+        {
+          "name": "Great Grace Music",
+          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257683,
+      "name": "In My Boat",
+      "url": "https://open.spotify.com/track/1KfbRIYua7t2d7340wL3Pq"
     },
     {
       "album": {
@@ -5808,7 +5856,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 378795,
       "name": "Ogo",
       "url": "https://open.spotify.com/track/48cvOppznTu76T12L5RCF9"
@@ -6428,6 +6476,32 @@
       "duration_ms": 1036982,
       "name": "Praise Break Episode 2",
       "url": "https://open.spotify.com/track/7knZZf7OPjJUf9nfprWLFi"
+    },
+    {
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+        },
+        {
+          "name": "Anderson Qozan",
+          "url": "https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176037,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
     },
     {
       "album": {
@@ -8984,7 +9058,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 537866,
       "name": "Your Glory / Nothing But The Blood - Live",
       "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"

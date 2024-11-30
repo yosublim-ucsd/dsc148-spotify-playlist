@@ -1089,6 +1089,28 @@
     },
     {
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215384,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm"
+    },
+    {
+      "album": {
         "name": "There Is a Cloud",
         "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
@@ -2734,7 +2756,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 642560,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p"
@@ -3134,7 +3156,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 194500,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/69q1KdBZVBregb4xdX8XmL"
@@ -3196,6 +3218,28 @@
       "duration_ms": 419000,
       "name": "Thankful - Live",
       "url": "https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0"
+    },
+    {
+      "album": {
+        "name": "THANKFULLY!",
+        "url": "https://open.spotify.com/album/5Uhh5aYtde3GAEAe7XnHcY"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Woodley",
+          "url": "https://open.spotify.com/artist/7AYwAKqUzY0YHW8WHXafdE"
+        },
+        {
+          "name": "callmestevieray",
+          "url": "https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109530,
+      "name": "THANKFULLY!",
+      "url": "https://open.spotify.com/track/2Sm92rOFOf5TbEtZQOKcQE"
     },
     {
       "album": {

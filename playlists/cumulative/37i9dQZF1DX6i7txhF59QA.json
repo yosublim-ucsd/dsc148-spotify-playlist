@@ -7270,7 +7270,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 225880,
       "name": "Last night's story",
       "url": "https://open.spotify.com/track/1XJ6zkQPsyAu1EQ4Uktgu9"
@@ -13092,6 +13092,24 @@
       "duration_ms": 212211,
       "name": "Thumb Up",
       "url": "https://open.spotify.com/track/3UpDEwkdjWdNb2gKchoNsy"
+    },
+    {
+      "album": {
+        "name": "Essay ep.3",
+        "url": "https://open.spotify.com/album/0KvGBQFgvRdN6l6i3XWs7W"
+      },
+      "artists": [
+        {
+          "name": "Jang Minho",
+          "url": "https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204184,
+      "name": "Tiki-taka of Love",
+      "url": "https://open.spotify.com/track/26klCY10W3wlfDFbQpCLkN"
     },
     {
       "album": {

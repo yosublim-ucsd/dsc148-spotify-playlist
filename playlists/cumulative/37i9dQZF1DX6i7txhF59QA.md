@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Jang Minho\(장민호\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-925 songs - 2 day 4 hr 47 min
+926 songs - 2 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,7 +383,7 @@
 | [Lalala](https://open.spotify.com/track/4cQwFAPCTfANutB5cweoi5) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Jeong Myeong Kyu](https://open.spotify.com/artist/4MT304jerDdVCtOutaqajA) | [Love call center PART23](https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1) | 4:33 | 2022-04-07 | 2022-07-23 |
 | [Lalala](https://open.spotify.com/track/4m2qlTaymDcRmxsSMRSjdO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART8](https://open.spotify.com/album/69qkW8reqrUoLlLmvKX7oY) | 4:08 | 2022-04-07 | 2022-07-27 |
 | [Last leaf](https://open.spotify.com/track/0a6V8AaN1WyXaAj1tMNrdb) | [Ryu Jigwang](https://open.spotify.com/artist/47lSYaysaine14EAFDHHXO) | [Love call center PART6](https://open.spotify.com/album/13HpqMqyjzlWI8lfNWxHUh) | 3:01 | 2022-04-22 | 2022-07-15 |
-| [Last night's story](https://open.spotify.com/track/1XJ6zkQPsyAu1EQ4Uktgu9) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART4](https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx) | 3:45 | 2022-04-07 |  |
+| [Last night's story](https://open.spotify.com/track/1XJ6zkQPsyAu1EQ4Uktgu9) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART4](https://open.spotify.com/album/4IT3qJP9Yqhyy3itCSmpUx) | 3:45 | 2022-04-07 | 2024-11-30 |
 | [Later, later again](https://open.spotify.com/track/5TkvV7NqCMyOFGuOECPqCL) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART1](https://open.spotify.com/album/37u0R2yo6C6LkVnaLsQ3Bh) | 3:25 | 2022-04-07 | 2022-07-22 |
 | [Leaving](https://open.spotify.com/track/5Sga2OdLJduLqE2IgeubCf) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART10](https://open.spotify.com/album/38YiZVacI8Yyu2PcauaRgT) | 2:39 | 2022-04-22 | 2022-07-24 |
 | [Leaving](https://open.spotify.com/track/4bZ7pP23cSSCcQCrXGwGGA) | [Tae Yeon Kim](https://open.spotify.com/artist/1fj59ljd3doYrhH7iCaEVd) | [MISS TROT2 Death match PART1](https://open.spotify.com/album/6YCn2HNNSVLOnG31b0BTaT) | 3:29 | 2022-04-07 |  |
@@ -679,6 +679,7 @@
 | [Threerang](https://open.spotify.com/track/3XOL23Ukj2vMz79U0D6xpe) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART13](https://open.spotify.com/album/4yKuRJirB0B52jwjVYoJ17) | 3:24 | 2022-05-03 | 2022-07-05 |
 | [Throwing stones](https://open.spotify.com/track/4i9Dif7jb0TNU1mGjCa4aq) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Love call center PART18](https://open.spotify.com/album/4keQfQWkLot2MU9LuEho7I) | 2:15 | 2022-04-22 | 2022-07-24 |
 | [Thumb Up](https://open.spotify.com/track/3UpDEwkdjWdNb2gKchoNsy) | [HONG JIN YOUNG](https://open.spotify.com/artist/5LwiBgLTllBUiqQGNiQ7jY) | [Lots of Love](https://open.spotify.com/album/3RvBl6rKAc0y0SsRjR4MqE) | 3:32 | 2022-04-22 | 2024-02-29 |
+| [Tiki\-taka of Love](https://open.spotify.com/track/26klCY10W3wlfDFbQpCLkN) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Essay ep.3](https://open.spotify.com/album/0KvGBQFgvRdN6l6i3XWs7W) | 3:24 | 2024-11-29 |  |
 | [Time](https://open.spotify.com/track/2nGUjltPoLkPKKpPdtMPzQ) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART6](https://open.spotify.com/album/13HpqMqyjzlWI8lfNWxHUh) | 3:46 | 2022-04-21 | 2022-05-28 |
 | [Time Flies](https://open.spotify.com/track/64Wohh1gIkCshTaFWUMY12) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [A LIFE](https://open.spotify.com/album/0VVM2LFray2iicaesPhM7W) | 3:27 | 2024-08-13 |  |
 | [Time river](https://open.spotify.com/track/769IZ8iJh311ncHdw1Dz4i) | [Minji Sung](https://open.spotify.com/artist/0om5NmqZPKIca8GedsHJrC) | [MISS TROT2 PRELIMINARY BEST PART2](https://open.spotify.com/album/2GXTij5DayYJdpScEjYUSx) | 2:24 | 2022-04-22 | 2022-07-03 |

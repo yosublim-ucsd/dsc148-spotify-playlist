@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Keskiy\u00f6n valssi",
+        "url": "https://open.spotify.com/album/4kXNxXOCAghpYjEzeLF5zh"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272504,
+      "name": "Keskiy\u00f6n valssi",
+      "url": "https://open.spotify.com/track/3UioF9dmfda0JSkjgdIh3v"
+    },
+    {
+      "album": {
         "name": "Kiss the Rain",
         "url": "https://open.spotify.com/album/4BjtKMRsRy69raeSHuhb8X"
       },
@@ -960,6 +978,24 @@
       "duration_ms": 279546,
       "name": "Opening",
       "url": "https://open.spotify.com/track/0x1rnXl24iJl8xZFMkoyNv"
+    },
+    {
+      "album": {
+        "name": "Pathos",
+        "url": "https://open.spotify.com/album/4DmcATr0IItDrDAbccsrvZ"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426520,
+      "name": "Pathos",
+      "url": "https://open.spotify.com/track/3xtZEGTqd4vlcVZn9XP7uI"
     },
     {
       "album": {
@@ -1371,7 +1407,7 @@
     },
     {
       "album": {
-        "name": "Dvor\u030c\u00e1k: American String Quartet & Quintet, Op. 96-97",
+        "name": "Dvo\u0159\u00e1k: American String Quartet & Quintet, Op. 96-97",
         "url": "https://open.spotify.com/album/48x6JqIrcPPzbN8AydS2dQ"
       },
       "artists": [

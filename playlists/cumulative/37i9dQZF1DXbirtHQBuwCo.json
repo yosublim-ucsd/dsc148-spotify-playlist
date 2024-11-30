@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: WONHO(\uc6d0\ud638))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: DEAN, FKJ)",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -3373,6 +3373,28 @@
     },
     {
       "album": {
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142614,
+      "name": "Ctrl",
+      "url": "https://open.spotify.com/track/3BxWRi8BjQquBqW6zbpQxJ"
+    },
+    {
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -4880,6 +4902,28 @@
       "duration_ms": 170120,
       "name": "Feel this breeze (with JoeSwan)",
       "url": "https://open.spotify.com/track/0gKLv0j8udm3xIRDNrkLF8"
+    },
+    {
+      "album": {
+        "name": "FETISH (feat. Jimmy Brown)",
+        "url": "https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "FETISH (feat. Jimmy Brown)",
+      "url": "https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo"
     },
     {
       "album": {
@@ -9086,7 +9130,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 183146,
       "name": "MOVIE",
       "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
@@ -9276,6 +9320,28 @@
       "duration_ms": 172040,
       "name": "NAKED",
       "url": "https://open.spotify.com/track/32iWCUWIOhFM2rV5Uqdsry"
+    },
+    {
+      "album": {
+        "name": "3:33",
+        "url": "https://open.spotify.com/album/1AzP7NB0qSSJJSLX9ZQe98"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161766,
+      "name": "NASA",
+      "url": "https://open.spotify.com/track/2y3opu08ybnMRziQFdvcZv"
     },
     {
       "album": {
@@ -9490,7 +9556,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 183226,
       "name": "New Reels (Feat. pH-1)",
       "url": "https://open.spotify.com/track/3EA9QZbFscCuOByqSKOhCG"
@@ -12920,7 +12986,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 183064,
       "name": "STUTTER (feat. Stella Jang)",
       "url": "https://open.spotify.com/track/2r1HcLvdui5t1ZFMY7O0AV"
@@ -13706,7 +13772,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 159193,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/2kjAFB7VptwuosL0WSmPV2"
@@ -14658,6 +14724,24 @@
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
+    },
+    {
+      "album": {
+        "name": "What did you do?",
+        "url": "https://open.spotify.com/album/5M7idBc6etKGNJAYUBbOl8"
+      },
+      "artists": [
+        {
+          "name": "Eric Minz",
+          "url": "https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134640,
+      "name": "What did you do?",
+      "url": "https://open.spotify.com/track/3571OzuyKTDcGfYyaxWzmP"
     },
     {
       "album": {

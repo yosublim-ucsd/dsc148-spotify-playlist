@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-589 songs - 1 day 15 hr 46 min
+590 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [December / Willow in the Sun](https://open.spotify.com/track/6gD9LqSOcDRuajgVEjihad) | [The Duke of Norfolk](https://open.spotify.com/artist/0olTIRvohvBuwQlFT7lVrQ) | [December / Willow in the Sun](https://open.spotify.com/album/0kx6GRLwJdtl4BpUaHXg5s) | 4:16 | 2023-01-17 |  |
 | [Delicadeza](https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Sentimiento Mundial](https://open.spotify.com/album/5l42UGler5fwv207TkXYtI) | 2:58 | 2023-01-17 | 2024-04-19 |
 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 | 2023-01-17 | 2024-04-19 |
+| [Desire Lines](https://open.spotify.com/track/63JP68VirmCXtWRoMTX8Xi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/5TdnjKBwbAYMZ3ZF3cGMgL) | 7:39 | 2023-01-17 |  |
 | [Diary of a Rose](https://open.spotify.com/track/610xMaOMK9GylOrNXNY86R) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Dolphine](https://open.spotify.com/album/24kBQl1dUCiUu5PQgpKhJi) | 4:39 | 2023-01-17 | 2024-04-19 |
 | [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 | 2023-01-17 | 2024-04-19 |
 | [DIVER](https://open.spotify.com/track/0ZFl3lTd1hPcmC3ibzsNEr) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [I Want The Door To Open](https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl) | 3:01 | 2023-01-17 |  |
@@ -294,7 +295,7 @@
 | [Late](https://open.spotify.com/track/0o6dHLopdXxFKtPusAh2IJ) | [Ostel](https://open.spotify.com/artist/2jPXYtYbPX8qgScKiPJJI2), [Marcelan](https://open.spotify.com/artist/0eotK24x1tJQHZQwF0hJ61) | [Late](https://open.spotify.com/album/1HkjmL2E17igsNHkrLjFq6) | 5:03 | 2023-01-17 |  |
 | [Let It Out](https://open.spotify.com/track/72rHjyz3i7K90Hk1eF1f0c) | [Jehnny Beth](https://open.spotify.com/artist/2WOMBqEsllg2ICn7D2L8ta), [Johnny Hostile](https://open.spotify.com/artist/4I5W2DiifLDIdUI0FJajuU) | [Xy Chelsea \(Original Soundtrack\)](https://open.spotify.com/album/4uhdLK482PDT0ThDtg8iy4) | 3:33 | 2023-01-17 |  |
 | [Life and Death](https://open.spotify.com/track/5lE4QCcdMDB6zw7BdjTN4W) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:00 | 2023-01-17 |  |
-| [Light Years](https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Light Years](https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ) | 3:33 | 2023-01-17 |  |
+| [Light Years](https://open.spotify.com/track/0dcKsPZVWa64MvnoCes49q) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Light Years](https://open.spotify.com/album/2PhtZZE1Re3j09XzBxz7jQ) | 3:33 | 2023-01-17 | 2024-11-30 |
 | [Light Years](https://open.spotify.com/track/2GNj9KRwpxBWgEiPQc3jEj) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:33 | 2023-01-17 | 2024-04-19 |
 | [Like It Was Yesterday](https://open.spotify.com/track/6bHBIj9bWWbGA18uwInOVf) | [TONE](https://open.spotify.com/artist/1jXcm44WywntufGUiGvYei) | [So I Can See You](https://open.spotify.com/album/6MRiDgydJF9mk2NjDyXTyo) | 3:27 | 2023-01-17 |  |
 | [Linger](https://open.spotify.com/track/2TaBkGBK3NSGcaHBuvToVe) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Linger](https://open.spotify.com/album/5RPrdb4VjSduFPAyAr4FC6) | 4:22 | 2023-01-17 | 2024-04-19 |
@@ -371,7 +372,7 @@
 | [Only Love Can](https://open.spotify.com/track/3UnJeER1Ls8XYzTN9atcPc) | [Ailie Ormston](https://open.spotify.com/artist/4PaNF1hJdZop3hqlEHj67Y), [Tim Fraser](https://open.spotify.com/artist/3wVcwsDuXAz8tpAsvmHsmE) | [It Changes](https://open.spotify.com/album/6kJxv0g8zTCXqtNb0d8LMk) | 3:52 | 2023-01-17 | 2024-10-11 |
 | [Only One](https://open.spotify.com/track/6FFs23jJhushOE2kdE0HKC) | [The Belle Game](https://open.spotify.com/artist/7jODCOa0FcBJyrcUocGq0p) | [Only One](https://open.spotify.com/album/4DSoSxygd8bbQ9afXvkCQc) | 4:36 | 2023-01-17 |  |
 | [Orange Blossoms](https://open.spotify.com/track/2G592yetfLvLCY6N5m9WF6) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Mythopoetics](https://open.spotify.com/album/4FdIfIKSgiDBEG6Er5ANj4) | 3:44 | 2023-01-17 |  |
-| [Outside](https://open.spotify.com/track/7Cx3kiPstZOSKAqTe3LtEi) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Outside](https://open.spotify.com/album/7Dedy1SsrEQ2ofQUw7eGNC) | 3:58 | 2023-01-17 |  |
+| [Outside](https://open.spotify.com/track/7Cx3kiPstZOSKAqTe3LtEi) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Outside](https://open.spotify.com/album/7Dedy1SsrEQ2ofQUw7eGNC) | 3:58 | 2023-01-17 | 2024-11-30 |
 | [Outside](https://open.spotify.com/track/7aehX1MYSOcZJ90BkzEzHb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Outside](https://open.spotify.com/album/3xATsZ74UHQU7eTZawuHTf) | 3:58 | 2023-01-17 | 2024-04-19 |
 | [Over and Over](https://open.spotify.com/track/3GFwhQ4YTnt6WYDP4snbd9) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/79NySyjxJ8xric31mXKMAo) | 7:11 | 2023-01-17 | 2024-04-19 |
 | [Padam Padam](https://open.spotify.com/track/4qAIlXdkdXvQIOpkF9dC2f) | [Route 500](https://open.spotify.com/artist/7KdLalL74q6v7fQA60osrz) | [Padam Padam](https://open.spotify.com/album/0U0UC9FkMUy8aA3xCFY5dV) | 3:16 | 2023-07-31 |  |
@@ -486,7 +487,7 @@
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2023-01-17 |  |
 | [Sugar](https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:56 | 2023-01-17 | 2024-04-19 |
 | [Sugar](https://open.spotify.com/track/366BzkiO6uiLgTYCLPddkJ) | [Ora the Molecule](https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m) | [Human Safari](https://open.spotify.com/album/1XvJINGjwPys8xSK1ThiDJ) | 3:59 | 2023-01-17 | 2023-12-12 |
-| [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2023-01-17 | 2024-11-23 |
+| [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2023-01-17 |  |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 | 2023-01-17 | 2024-04-19 |
 | [Summer night \(Bat song\)](https://open.spotify.com/track/5u3MTIrAo8cUZ1nP22ahcB) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 | 2023-01-17 |  |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-11 |  |

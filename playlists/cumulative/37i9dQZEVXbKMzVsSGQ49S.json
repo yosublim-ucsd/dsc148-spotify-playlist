@@ -10422,7 +10422,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 122601,
       "name": "Eitt l\u00edti\u00f0 j\u00f3lalag",
       "url": "https://open.spotify.com/track/675lRaSVfxNG6Iyo3YNE2c"
@@ -20056,7 +20056,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -20342,7 +20342,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -20737,7 +20737,7 @@
     },
     {
       "album": {
-        "name": "J\u00f3laH\u00fabbaBubba",
+        "name": "J\u00f3laH\u00fabbaB\u00fabba",
         "url": "https://open.spotify.com/album/5Fdpff3h19KJe3aJIYr3Zb"
       },
       "artists": [
@@ -22696,7 +22696,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -25660,7 +25660,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -28238,7 +28238,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 182090,
       "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
       "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
@@ -35648,7 +35648,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 193282,
       "name": "Sof\u00f0u",
       "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
@@ -37264,7 +37264,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 195894,
       "name": "St\u00fafur",
       "url": "https://open.spotify.com/track/64yVFDc2n1cc7A9dSac0DE"
@@ -38390,7 +38390,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -40734,6 +40734,28 @@
       "duration_ms": 244394,
       "name": "TOSSI",
       "url": "https://open.spotify.com/track/75rG7BAiD0HZowt4q5Sw2N"
+    },
+    {
+      "album": {
+        "name": "Touch Some Grass",
+        "url": "https://open.spotify.com/album/5OAxcXl2679ruZlVNN8UXI"
+      },
+      "artists": [
+        {
+          "name": "Daddy Sas",
+          "url": "https://open.spotify.com/artist/3vbGBNqh6gEF12hc7MJNZN"
+        },
+        {
+          "name": "SolJakey",
+          "url": "https://open.spotify.com/artist/61g62q0VVjvh0Innctu4xq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183455,
+      "name": "Touch Some Grass",
+      "url": "https://open.spotify.com/track/5bcfb6rhZD1aUzOzNJaeof"
     },
     {
       "album": {
@@ -46906,7 +46928,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
@@ -47104,7 +47126,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 219657,
       "name": "\u00de\u00fa og \u00e9g og j\u00f3l",
       "url": "https://open.spotify.com/track/61v6yFohOVt4M1O3yVmPJy"

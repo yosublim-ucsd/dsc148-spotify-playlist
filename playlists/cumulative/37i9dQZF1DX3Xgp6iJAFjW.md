@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-184 songs - 12 hr 31 min
+185 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [MI REGALO](https://open.spotify.com/track/6ADhPmQEjVr7vdwbfFBaV7) | [Cáthia](https://open.spotify.com/artist/0McFsmqPN058Obu0yHoKX3), [ADRIAN](https://open.spotify.com/artist/5zP9mHqWYk4J27YjLWymPO) | [MI REGALO](https://open.spotify.com/album/1bvC8ES0BRTxc00gxwfOZO) | 2:13 | 2022-11-25 | 2024-11-17 |
 | [Mi Regalo Favorito](https://open.spotify.com/track/0bAnP1tEMw1zETlRJXnnqv) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Parranda All\-Stars: Navidad \- Edición Especial](https://open.spotify.com/album/4WW0UpmKHjrjzC6nklfUM9) | 3:56 | 2022-11-25 |  |
 | [Micaela](https://open.spotify.com/track/1m3paVx65imhvCjPx505Oy) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Luis Florez](https://open.spotify.com/artist/125qXSgsP3irn2SEE6rpor) | [The Best](https://open.spotify.com/album/6HTMGKWidJzcm9IHP4iolu) | 4:44 | 2022-11-25 | 2024-04-19 |
-| [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 | 2022-12-18 |  |
+| [Mistletoe](https://open.spotify.com/track/54OZxg4bsXWTfIZED7Xz3r) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Mistletoe](https://open.spotify.com/album/6Zhb3JG1qGQzxTG4lt38zv) | 3:18 | 2022-12-18 | 2024-11-30 |
 | [Montados en Bicicleta](https://open.spotify.com/track/7vK2y43KQm04iH0C3DHI2T) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Montados en Bicicleta](https://open.spotify.com/album/2Zih48eHIEcLOgJdZopLkS) | 4:00 | 2023-08-16 |  |
 | [Navidad](https://open.spotify.com/track/3JH8P81S1bWU4CDsIBDzYl) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Bachatero En Navidad](https://open.spotify.com/album/700I6ALf2ZqgfZvquxrjFM) | 4:39 | 2023-08-16 |  |
 | [Navidad](https://open.spotify.com/track/5nMYeNiglE4xYo8se1HejN) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [25 Aniversario, Vol\. 2](https://open.spotify.com/album/3dfbVFrxtpZyz4KNmOq7oe) | 5:05 | 2023-08-16 | 2024-08-05 |
@@ -172,6 +172,7 @@
 | [Rebelión](https://open.spotify.com/track/4sm3mdqmSqhG8KU79rVOY8) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 6:18 | 2022-11-25 |  |
 | [Salsa Pa' Tu Lechon](https://open.spotify.com/track/3yOPYZEE6xvCu8U7jtiPPN) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Fiesta en Navidad 35 Exitos](https://open.spotify.com/album/4czT2iX93Cox7I0HdEYzUU) | 4:08 | 2023-12-19 | 2024-10-10 |
 | [Salsa Pa'tu Lechón](https://open.spotify.com/track/1KuOA8toJAGV712kyDoqsW) | [Jhonny Ventura](https://open.spotify.com/artist/0tm86IfBQ2AiJu4tyfgSSz) | [Merengues Navideños Bailables](https://open.spotify.com/album/5CtGEgu6G27rXuXYetWkmO) | 3:30 | 2022-11-25 | 2023-08-17 |
+| [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/6xus3uyJwiaGDTnAjU10oa) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc) | [Holy Moly Christmas](https://open.spotify.com/album/67mt3JPGbDT4J2tptkiIIk) | 3:02 | 2024-11-29 |  |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/2MSDziLwLLzdFQVAPnoQqi) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx) | [Somos Navidad](https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea) | 2:08 | 2022-12-13 | 2023-12-03 |
 | [Santa Claus Llegó a La Ciudad](https://open.spotify.com/track/0IrKbfhVKW0xpPEzRDeSUb) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 1:55 | 2022-11-25 | 2023-11-18 |
 | [Si No Me Dan de Beber Lloro](https://open.spotify.com/track/5MCGrDquPJ8vV9dGJiIWNq) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [It's Christmas Time! \(Original Recordings\)](https://open.spotify.com/album/5WlU0sbzRWMlYWwSJobc7I) | 3:48 | 2022-12-18 |  |

@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 82654,
+  "num_followers": 82729,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Esse \u00c9 O Rem\u00e9dio",
-        "url": "https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Com Certeza",
-      "url": "https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 266173,
       "name": "Palco",
       "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Esse \u00c9 O Rem\u00e9dio",
+        "url": "https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Com Certeza",
+      "url": "https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q"
     },
     {
       "added_at": "2022-09-22 18:13:04",

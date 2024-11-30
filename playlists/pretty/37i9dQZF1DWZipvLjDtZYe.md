@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 
 > Features greatest hits from the world\-famous virtual singer "HATSUNE MIKU"! /世界を舞台に活躍するバーチャル・シンガー、初音ミクの楽曲を網羅した公式プレイリスト！©Pokémon/Nintendo/CR/GF<br/>©CFM <a href="https://piapro.net/">www.piapro.net</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,719 likes - 73 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,683 likes - 73 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZipvLjDtZYe.md) - [plain]
 | 54 | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/track/0s8RXkQW9lwGEV6WlG8KDq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Daisy 2.0 \(feat\. Hatsune Miku\)](https://open.spotify.com/album/6JZYS7UElSfjyTgFgE1ApG) | 2:47 |
 | 55 | [Bad ∞ End ∞ Night](https://open.spotify.com/track/6NOVN6EGoqaKqqa3EwHa09) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [After the partY](https://open.spotify.com/album/0b6bP73xLMUe33k8xkPzRw) | 4:08 |
 | 56 | [こちら、幸福安心委員会です。](https://open.spotify.com/track/3yphjYSP0G3gvCPQnuEDXu) | [UtataP](https://open.spotify.com/artist/4nJ7Ep2mxcpCNqeZB253py) | [こちら、幸福安心委員会です。](https://open.spotify.com/album/56sWRIN1gf2RHXrUUFocZ7) | 4:31 |
-| 57 | [ハロ/ハワユ](https://open.spotify.com/track/1CEC3JNSQy8OQXmnuLcA1D) | [ナノウ](https://open.spotify.com/artist/0jyBcr7uru5IocRAewL5c1) | [ハロ/ハワユ](https://open.spotify.com/album/5AXf1QYXxZhVZCAisdRnNj) | 4:45 |
+| 57 | [ハロ／ハワユ](https://open.spotify.com/track/1CEC3JNSQy8OQXmnuLcA1D) | [ナノウ](https://open.spotify.com/artist/0jyBcr7uru5IocRAewL5c1) | [ハロ／ハワユ](https://open.spotify.com/album/5AXf1QYXxZhVZCAisdRnNj) | 4:45 |
 | 58 | [Decade \(feat\. 初音ミク\)](https://open.spotify.com/track/0rh5OTy00ngziGgEgZQweu) | [Dixie Flatline](https://open.spotify.com/artist/4MHlylTNjedvcP4Hyroy80), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Decade](https://open.spotify.com/album/1MaTgBzwVwbfMJ7VSir6Zb) | 3:38 |
 | 59 | [メルト \-MIKU EXPO 2014 in INDONESIA Live\-](https://open.spotify.com/track/6nWONiqCJwFxKKfAJSKaev) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [HATSUNE MIKU EXPO 2014 IN INDONESIA \[Live\]](https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4) | 4:44 |
 | 60 | [水色侵略 \(feat\. 初音ミク\)](https://open.spotify.com/track/7mzT4nSOs335TWzIVrRarX) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [水色侵略 \(feat\. 初音ミク\)](https://open.spotify.com/album/669k9UED6tumRgLBqWzZ1T) | 4:09 |

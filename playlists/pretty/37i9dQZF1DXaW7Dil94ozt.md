@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,230 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,235 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 19 | [MANDRAKE](https://open.spotify.com/track/65WGn1Wrk9NiBLk0io6mjJ) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [Guckkasten](https://open.spotify.com/album/6AELS1uWsZwVN7g6TIxb98) | 6:11 |
 | 20 | [말달리자 Speed Up Losers](https://open.spotify.com/track/42OTaKIDWseqiU8qflqjap) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [말달리자 Speed Up Losers](https://open.spotify.com/album/2qGZXupHBC6oJQawNh13Pc) | 3:06 |
 | 21 | [룩셈부르크 Luxembourg](https://open.spotify.com/track/0JvKtUqGrzI0XZQzrMdxe2) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [OK 목장의 젖소 Milk Cattle at the OK Corral](https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf) | 2:25 |
-| 22 | [좋지 아니한가 Isn't That Good?](https://open.spotify.com/track/7L13P7XjzgJyENZZjITPcV) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Crying Nut 3 Singles](https://open.spotify.com/album/22GNw0B9gLX7wLKt1hgiSe) | 4:24 |
+| 22 | [좋지 아니한가 Isn't That Good?](https://open.spotify.com/track/7L13P7XjzgJyENZZjITPcV) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Crying Nut 3 Singles](https://open.spotify.com/album/22GNw0B9gLX7wLKt1hgiSe) | 4:24 |
 | 23 | [서커스 매직 유랑단 Circus Magic Clowns](https://open.spotify.com/track/4kFHd8N3mzYUNS0WFG4HmO) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [서커스 매직 유랑단 Circus Magic Clowns](https://open.spotify.com/album/3IcCMyt1uE97C130L1vPc3) | 4:03 |
-| 24 | [밤이 깊었네 Oh! What a Shiny Night](https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 4:08 |
-| 25 | [지독한 노래 Vicious Song](https://open.spotify.com/track/6q0Wir7kusr8hhKZFO5U6j) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 3:11 |
+| 24 | [밤이 깊었네 Oh! What a Shiny Night](https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 4:08 |
+| 25 | [지독한 노래 Vicious Song](https://open.spotify.com/track/6q0Wir7kusr8hhKZFO5U6j) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 3:11 |
 | 26 | [명동콜링 Myeong\-dong Calling](https://open.spotify.com/track/0AcSCfVYcXgNgcrZdyZXOh) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [OK 목장의 젖소 Milk Cattle at the OK Corral](https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf) | 3:48 |
 | 27 | [Night overtime](https://open.spotify.com/track/7qjcLLTsztqrHnArCqJeO1) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Night overtime](https://open.spotify.com/album/4RPdJpWelwy3Cup5IUZVCW) | 3:44 |
 | 28 | [Your Crush On Me](https://open.spotify.com/track/2sDQ1EB8BvyL6YFxzXymoy) | [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [SUPER HIGH TENSION](https://open.spotify.com/album/0d8U98AMajWvDxgLHNeGAt) | 3:43 |

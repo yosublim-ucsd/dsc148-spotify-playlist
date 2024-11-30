@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Tiny Habits, Lizzy McAlpine",
+  "description": "A laid-back trip in the folk scene. Cover: Half Moon Run",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 130600,
       "name": "1999",
       "url": "https://open.spotify.com/track/16N4Uin8Z7dr3wLq87EA6S"
@@ -6830,7 +6830,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 220955,
       "name": "Heaven in the Right Light",
       "url": "https://open.spotify.com/track/6HEpTm4JrCTKKEXMnoYc0e"
@@ -7014,7 +7014,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 154480,
       "name": "High Summer",
       "url": "https://open.spotify.com/track/3MPQ9rjFM76gZotTNNuf2M"
@@ -8556,7 +8556,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 278862,
       "name": "It\u2019s All In Your Mind",
       "url": "https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ"
@@ -9780,7 +9780,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 291447,
       "name": "Look up!!",
       "url": "https://open.spotify.com/track/09ShrRv6mFFvxfU0wey2X4"
@@ -9874,6 +9874,24 @@
       "duration_ms": 233500,
       "name": "Looking For Love - Spotify Singles",
       "url": "https://open.spotify.com/track/24ax5IBodgAH8IEnPKLixP"
+    },
+    {
+      "album": {
+        "name": "Loose Ends",
+        "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181448,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
     },
     {
       "album": {
@@ -11691,6 +11709,24 @@
     },
     {
       "album": {
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/3YoKNEBFmFbirIYtdKeUCw"
+      },
+      "artists": [
+        {
+          "name": "Kieran Campbell",
+          "url": "https://open.spotify.com/artist/0x1TEBrFldjKRcch1M7mjK"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161098,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1OtDzhNCSiQsbihPA1SOni"
+    },
+    {
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/1PoyKNQHrb5P4kLYJP2w3e"
       },
@@ -13221,6 +13257,24 @@
     },
     {
       "album": {
+        "name": "Rent California",
+        "url": "https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243595,
+      "name": "Rent California",
+      "url": "https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8"
+    },
+    {
+      "album": {
         "name": "there's_plenty_of_music_to_go_around.zip",
         "url": "https://open.spotify.com/album/0SJOVHz3PGbzZoYAHsVmKA"
       },
@@ -13532,6 +13586,24 @@
       "duration_ms": 212191,
       "name": "Running Out of Time",
       "url": "https://open.spotify.com/track/6LYWoOmdoxbLcqTWA0uBMP"
+    },
+    {
+      "album": {
+        "name": "Rust.",
+        "url": "https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215652,
+      "name": "Rust.",
+      "url": "https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N"
     },
     {
       "album": {
@@ -14112,6 +14184,24 @@
       "duration_ms": 250106,
       "name": "Sick",
       "url": "https://open.spotify.com/track/3Q892H3lMgoxbrlovHmTsV"
+    },
+    {
+      "album": {
+        "name": "Sick Dogs",
+        "url": "https://open.spotify.com/album/1TRnUbi4ZhpAhEdmfMWjow"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209567,
+      "name": "Sick Dogs",
+      "url": "https://open.spotify.com/track/4zSJjTUpERCuyfsTNJGyve"
     },
     {
       "album": {

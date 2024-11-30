@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Bhairathi Ranagal
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,962 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,006 likes - 74 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 68 | [Jeevakkintha](https://open.spotify.com/track/6gnmSnNX4ycJbqy39wC52F) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY), [Sandilya Pisapati](https://open.spotify.com/artist/6Dvs7Ln15awHQFR3W6Rrh8) | [Love Reddy \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6Xl8ElNtjwYoUGcf9xLyox) | 4:22 |
 | 69 | [Sommasilli Pothunnave \- A Muddu Bangari](https://open.spotify.com/track/1jsn10YL6ZqoA2Tj08X7dq) | [Ravi Billur](https://open.spotify.com/artist/48nqifmZuibF0kQMLpOCW1) | [Sommasilli Pothunnave \(A Muddu Bangari\)](https://open.spotify.com/album/2BiickJykWulEmnJbctchA) | 3:50 |
 | 70 | [Jaanamari \(From "Yello Jogappa Ninnaramane"\)](https://open.spotify.com/track/3pztj7QvhWaPzpqz7gPzsC) | [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [Vishak Nagalapura](https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr), [SHIOM](https://open.spotify.com/artist/6Z2XqTxPGLohTAK1rLCYZC) | [Jaanamari \(From "Yello Jogappa Ninnaramane"\)](https://open.spotify.com/album/3OPo5aGHbNttsYA8HYc0Np) | 3:47 |
-| 71 | [Munde Hego Yeno \(From "Aaram Aravinda Swamy"\)](https://open.spotify.com/track/2Uh5GD7dKuH4X3bHHOizx9) | [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr), [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF) | [Munde Hego Yeno \(From "Aaram Aravinda Swamy"\)](https://open.spotify.com/album/2mtf75IpD4AYYOYLXtUE0g) | 3:13 |
-| 72 | [Samarame \- From "Sandhya Uppalapati"](https://open.spotify.com/track/5w6kQtbmPtqO556Va57yJH) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Vishnu Yerravula](https://open.spotify.com/artist/2WKD4GEQYKqJrqKYdtB1ei) | [Samarame \(From "Sandhya Uppalapati"\)](https://open.spotify.com/album/39z5zEt5ZdHoltn82bT2Dw) | 3:44 |
-| 73 | [Mareyalare](https://open.spotify.com/track/03FkK0XAbTHwvlTxBUnEeo) | [S\. P\. Sailaja](https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31) | [Prapthi](https://open.spotify.com/album/171fRxiR66j7UrUg8HcdhZ) | 4:42 |
-| 74 | [Call Of Rudra \(From "Gharga"\)](https://open.spotify.com/track/6vHO2EVUJ2dRI4gFy3r8Hm) | [Deepak](https://open.spotify.com/artist/68HcwsusEEqx5ZMW9ADC3j), [C Girinandh](https://open.spotify.com/artist/6CfIPVSMmiQNBt5yLt2t2I) | [Call Of Rudra \(From "Gharga"\)](https://open.spotify.com/album/5aF8trn59GsJPK39kp8ds3) | 2:24 |
-| 75 | [Fun N Bun](https://open.spotify.com/track/24BZv7tWDEEWWoHCv5TU3V) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl) | [\#ParuParvathy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22STqh4nyxDDLaOKUtgQsw) | 3:58 |
+| 71 | [Samarame \- From "Sandhya Uppalapati"](https://open.spotify.com/track/5w6kQtbmPtqO556Va57yJH) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [Vishnu Yerravula](https://open.spotify.com/artist/2WKD4GEQYKqJrqKYdtB1ei) | [Samarame \(From "Sandhya Uppalapati"\)](https://open.spotify.com/album/39z5zEt5ZdHoltn82bT2Dw) | 3:44 |
+| 72 | [Mareyalare](https://open.spotify.com/track/03FkK0XAbTHwvlTxBUnEeo) | [S\. P\. Sailaja](https://open.spotify.com/artist/0w1zspBrCXnMx8CcB1WR31) | [Prapthi](https://open.spotify.com/album/171fRxiR66j7UrUg8HcdhZ) | 4:42 |
+| 73 | [Call Of Rudra \(From "Gharga"\)](https://open.spotify.com/track/6vHO2EVUJ2dRI4gFy3r8Hm) | [Deepak](https://open.spotify.com/artist/68HcwsusEEqx5ZMW9ADC3j), [C Girinandh](https://open.spotify.com/artist/6CfIPVSMmiQNBt5yLt2t2I) | [Call Of Rudra \(From "Gharga"\)](https://open.spotify.com/album/5aF8trn59GsJPK39kp8ds3) | 2:24 |
+| 74 | [Fun N Bun](https://open.spotify.com/track/24BZv7tWDEEWWoHCv5TU3V) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl) | [\#ParuParvathy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/22STqh4nyxDDLaOKUtgQsw) | 3:58 |
 
-Snapshot ID: `Z0hJ2QAAAABkFagds60etmfIZ+3lUTlg`
+Snapshot ID: `Z0mcnwAAAADBpojEiUVopkcdGZhtYhWl`

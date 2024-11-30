@@ -1,6 +1,6 @@
 {
   "description": "No need for a gadget, just play these rock songs to set your pace!",
-  "num_followers": 1064107,
+  "num_followers": 1064102,
   "original_name": "Running to Rock 170-190 BPM",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-28 11:13:09",
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 228720,
-      "name": "The Violence",
-      "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
-    },
-    {
-      "added_at": "2024-11-28 11:13:09",
-      "album": {
         "name": "For Those That Wish To Exist",
         "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 231161,
       "name": "Black Lungs",
       "url": "https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK"
+    },
+    {
+      "added_at": "2024-11-28 11:13:09",
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "The Violence",
+      "url": "https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM"
     },
     {
       "added_at": "2024-11-28 11:13:09",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-11-28 11:13:09",
       "album": {
-        "name": "Top Contenders: The Best of Strung Out",
-        "url": "https://open.spotify.com/album/3Lm6hA1iqn2jEilCFJOVYV"
-      },
-      "artists": [
-        {
-          "name": "Strung Out",
-          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/13xXQeT3nVgdf8k2y9lCNa"
-    },
-    {
-      "added_at": "2024-11-28 11:13:09",
-      "album": {
         "name": "Faster Than God",
         "url": "https://open.spotify.com/album/63prBELvWhQTomik1YTaUv"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 211280,
       "name": "Faster Than God",
       "url": "https://open.spotify.com/track/6JrYwuGZMWACjBMoERSwBH"
+    },
+    {
+      "added_at": "2024-11-28 11:13:09",
+      "album": {
+        "name": "Top Contenders: The Best of Strung Out",
+        "url": "https://open.spotify.com/album/3Lm6hA1iqn2jEilCFJOVYV"
+      },
+      "artists": [
+        {
+          "name": "Strung Out",
+          "url": "https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/13xXQeT3nVgdf8k2y9lCNa"
     }
   ],
   "unique_name": "Running to Rock 170-190 BPM",

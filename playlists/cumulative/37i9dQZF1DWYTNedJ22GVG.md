@@ -4,7 +4,7 @@
 
 > Tinsel! Lights! Yelling! These family\-friendly Christmas songs will get the party started.
 
-192 songs - 9 hr 29 min
+193 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Christmas in New York](https://open.spotify.com/track/2nEiP6hKoutwknyFDgFwl8) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Christmas in The City](https://open.spotify.com/album/3zATB2luwEOpEkLBG97Q9m) | 3:15 | 2021-12-07 | 2022-07-29 |
 | [Christmas in New York](https://open.spotify.com/track/6ojf8Uq0jgu9zJggnifDHg) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [Christmas in The City](https://open.spotify.com/album/2Fj2qfm8s99jksE5aTuyaC) | 3:15 | 2021-12-07 | 2023-11-07 |
 | [Christmas Is Here](https://open.spotify.com/track/4yAEAiud4ZJ9fgBsx5yGzT) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [Elf Pets: A Fox Cub's Christmas Tale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59acbHHOQxoMVo31NZbIju) | 2:03 | 2023-11-06 |  |
+| [Christmas on Island Time](https://open.spotify.com/track/7qJxMXGtCowTWt8d4H2kEz) | [Teacher Peter](https://open.spotify.com/artist/4qK4Sehk0WdkDGP80zo4xY), [Everett Green](https://open.spotify.com/artist/32xhUgpc5QkovWlpyY6pP6) | [Christmas on Island Time](https://open.spotify.com/album/61BsgzXuPsu39JCYj36XJO) | 2:50 | 2024-11-29 |  |
 | [Christmas Tree Farm](https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Christmas Tree Farm](https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF) | 3:48 | 2021-12-07 |  |
 | [Christmas Wrapping](https://open.spotify.com/track/25vlyDxSf8SsjPRr5CieWF) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Christmas Wish List](https://open.spotify.com/album/4PprECLcYiT8IGZjgivKTJ) | 4:15 | 2021-12-07 |  |
 | [Christmas Wrapping](https://open.spotify.com/track/50NkxhlikfEt1LsLNOblbc) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Christmas Wish List](https://open.spotify.com/album/0LunqhlyZksTB2Vcg9MeWf) | 4:15 | 2021-12-07 | 2022-11-13 |
@@ -177,7 +178,7 @@
 | [The Chipmunk Song \(Christmas Don't Be Late\)](https://open.spotify.com/track/3GCJUgTGtWMHdefIEyN3iD) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP All I Want For Christmas Is You](https://open.spotify.com/album/4UIjCbV9zBubJIlblCdG2F) | 2:06 | 2021-12-07 | 2023-11-07 |
 | [The Chipmunk Song \(Christmas Don't Be Late\) \- Remastered 1999](https://open.spotify.com/track/43Ny7pWynD5nncoDHpbUPh) | [Alvin & The Chipmunks](https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW), [David Seville](https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l) | [Chipmunks Christmas](https://open.spotify.com/album/2Gf2s2XavIPCpOacM0BSXU) | 2:21 | 2023-11-06 |  |
 | [The Christmas Song \(Shawn Mendes & Camila Cabello\)](https://open.spotify.com/track/0fwxmtpxpMmEMphmJbCAEx) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:16 | 2021-12-07 | 2023-11-07 |
-| [The Magic Of Christmas](https://open.spotify.com/track/6rkkl3MkLjTODElUll6Y84) | [Willow City](https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV) | [The Magic Of Christmas](https://open.spotify.com/album/5t3fyEkZRQRszVQj6MOpRg) | 3:05 | 2022-11-14 |  |
+| [The Magic Of Christmas](https://open.spotify.com/track/6rkkl3MkLjTODElUll6Y84) | [Willow City](https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV) | [The Magic Of Christmas](https://open.spotify.com/album/5t3fyEkZRQRszVQj6MOpRg) | 3:05 | 2022-11-14 | 2024-11-30 |
 | [The Man with the Bag](https://open.spotify.com/track/3Ca9kAAlWyIyCQaSJhRXyD) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Christmas Party](https://open.spotify.com/album/4s3vR4B3qPc9U5Gs1NPxLR) | 2:06 | 2021-12-07 | 2023-11-07 |
 | [This Christmas \(Hang All the Mistletoe\)](https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG) | [Sofia Wylie](https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN) | [High School Musical: The Musical: The Holiday Special \(Original Soundtrack\)](https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj) | 2:40 | 2021-12-07 |  |
 | [This Christmas \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/2qyscWonOE3DcCWSxCQMHO) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 3:01 | 2021-12-07 |  |

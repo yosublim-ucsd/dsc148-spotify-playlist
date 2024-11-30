@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 Winona Riders
 
-242 songs - 13 hr 48 min
+243 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Sigo](https://open.spotify.com/track/43qRoM6LtbunIxERM8lYh9) | [Chicos de la Oculta](https://open.spotify.com/artist/3EBOQWfu9RhChMqzxRAk34) | [Sigo](https://open.spotify.com/album/1fVYb5l484ECmQYrnIyakT) | 2:55 | 2024-04-19 |  |
 | [Silent Affection](https://open.spotify.com/track/1UgBuBe9A85PYYjiJ8sTIY) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Freak Scene](https://open.spotify.com/album/6348kjHJNNwPqxaVeZKTAH) | 4:04 | 2023-10-06 | 2024-02-03 |
 | [Simulando Esperar](https://open.spotify.com/track/29NlMSR1PJstmIksMhLMKt) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Simulando Esperar](https://open.spotify.com/album/2nxDLdVzUcWSQQG7Qi0pme) | 3:59 | 2023-10-06 |  |
+| [Somos Diferentes](https://open.spotify.com/track/2s8vUergwWmNyEcoau4O5O) | [Saturno y la Melancolía](https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT) | [El Discreto Encanto de la Melodía](https://open.spotify.com/album/4hKhsNXuzsrNNwep7s3dqH) | 3:45 | 2024-11-29 |  |
 | [Soy del Río](https://open.spotify.com/track/7AiqcYIPa3avpgW26fNFdA) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld), [Transeúntes](https://open.spotify.com/artist/5c7ZnZV7FK9QnX18a3JMfU) | [Soy del Río](https://open.spotify.com/album/330kotZDGpRWJMZSw20DWc) | 5:02 | 2022-03-25 | 2023-03-25 |
 | [Soñé](https://open.spotify.com/track/2d6R7kgl5nhJLn71ErZAtv) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Soñé](https://open.spotify.com/album/5Fq4RZOFCKPFWBete3tCJM) | 2:50 | 2022-03-25 | 2023-03-25 |
 | [SSS](https://open.spotify.com/track/65oZKir6ny5i3WSfvb0sYu) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [SSS](https://open.spotify.com/album/37jCf1bbH4ObPuODgrgrSI) | 2:55 | 2022-03-25 | 2023-03-25 |
@@ -232,7 +233,7 @@
 | [Tu Amigo para Siempre](https://open.spotify.com/track/3WPQSk5fuwv3G6JH2IhjJu) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Tu Amigo para Siempre](https://open.spotify.com/album/4c9sXd1jiHln5Kw8NO1z28) | 3:31 | 2022-03-25 | 2022-07-29 |
 | [Un Cactus](https://open.spotify.com/track/04N3z5dU6x4eITjDuvlENM) | [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [SUPERSAD](https://open.spotify.com/album/0yRGn3oGpSAi41lV9RVBnP) | 2:16 | 2022-03-25 | 2023-03-25 |
 | [Un Documental Sobre Mí](https://open.spotify.com/track/1zaSe09Z9HQQBSj3SjzSZj) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 4:40 | 2022-03-25 | 2023-03-25 |
-| [Un Rayo de Sol](https://open.spotify.com/track/0oAJBvPkXfLcA1Gh01jcdi) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [29:09:00](https://open.spotify.com/album/0jS4ed8WizhMKAqpafgrJf) | 4:54 | 2023-03-23 |  |
+| [Un Rayo de Sol](https://open.spotify.com/track/0oAJBvPkXfLcA1Gh01jcdi) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [29:09:00](https://open.spotify.com/album/0jS4ed8WizhMKAqpafgrJf) | 4:54 | 2023-03-23 | 2024-11-30 |
 | [Una Canción](https://open.spotify.com/track/6uEZio7p3zHhIPSUiTFnLC) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Una Canción](https://open.spotify.com/album/4AR7pIVOrcS7KYeVJF9BpG) | 2:42 | 2023-03-23 | 2023-07-29 |
 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 | 2024-08-12 |  |
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-03-25 | 2023-03-25 |

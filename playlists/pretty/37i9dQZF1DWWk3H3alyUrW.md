@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,379 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,378 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 9 | [Fikrimin İnce Gülü](https://open.spotify.com/track/22BI3CICtIL7SuVEvx3Jqo) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 3:11 |
 | 10 | [Marche Ottomane \(Manuscrit Cantemir 209\)](https://open.spotify.com/track/1wXOi2qUArR725Uus18T7O) | [Derya Türkan](https://open.spotify.com/artist/04e8hX9MAJUSVQNEyBdth0), [Yurdal Tokcan](https://open.spotify.com/artist/0Vvmhc3Nuu2DawzJH0f7Nv), [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV), [Hakan Gungor](https://open.spotify.com/artist/3ScxPTyycMLMXvTe2JzhEV), [Fahrettin Yarkın](https://open.spotify.com/artist/58YpcqLI09AJc9AJBJvy0N), [Nedyalko Nedyalkov](https://open.spotify.com/artist/3I0TotMwCGXtosKrxX9fKq), [Dimitri Psonis](https://open.spotify.com/artist/7Jdmn8Ovjqu1GUh8ks7O1l), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB), [Pedro Estevan](https://open.spotify.com/artist/6ugueoNf9gzuJfiTu8zaxm), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL) | [Balkan \- Honey and Blood](https://open.spotify.com/album/7611agcoUANM4XKhxnvgJg) | 4:02 |
 | 11 | [Bêyhude](https://open.spotify.com/track/7L6tBeNGziFlFTRrMUs6ZR) | [Yansımalar](https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD) | [Pervane](https://open.spotify.com/album/4TYxBvC1kIzNt96Aj9nZQF) | 5:11 |
-| 12 | [Kürdîlihicazkâr Saz Semaisi](https://open.spotify.com/track/1FxCKdNDYX5WxbE4cqo9fc) | [Reşat Aysu](https://open.spotify.com/artist/0DpgdBhGZkgwUjVb8jMPtT) | [Saz Semâileri](https://open.spotify.com/album/0csKseIHu3FOs874GziEUJ) | 5:03 |
+| 12 | [Kürdîlihicazkâr Saz Semaisi](https://open.spotify.com/track/1FxCKdNDYX5WxbE4cqo9fc) | [Osman Nuri Özpekel](https://open.spotify.com/artist/36I388VGjjxW8N3wnkk5hJ), [Taner Sayacıoğlu](https://open.spotify.com/artist/4TXaR1eL0pdHwrkjrw3KEl) | [Reşat Aysu Saz Semâileri](https://open.spotify.com/album/0csKseIHu3FOs874GziEUJ) | 5:03 |
 | 13 | [Nihavend Saz Semaisi](https://open.spotify.com/track/3s5MUsla602JbLy9TFLUl4) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:47 |
 | 14 | [Acemişiran Saz Semaisi](https://open.spotify.com/track/50f3GD1oGC4FdrlRsT9lta) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 4:59 |
 | 15 | [Küçük Hanımın Öyküsü](https://open.spotify.com/track/5TY78HrCLxdMsgIjFm5Alz) | [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp) | [Okyanustaki Sesler, Vol.2 / Cananım](https://open.spotify.com/album/3KbAvYAjZrwFJ5MSVlMVNc) | 2:48 |

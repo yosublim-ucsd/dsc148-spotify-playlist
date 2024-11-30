@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,054 likes - 230 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,145 likes - 230 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 170 | [JazzClub](https://open.spotify.com/track/665ucvhzTLPcPL6DK7cdGs) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [JazzClub](https://open.spotify.com/album/50KxZIJaZJfM7VKxuiSk75) | 1:57 |
 | 171 | [always by your side](https://open.spotify.com/track/79q1pBgBHbtakGcIaoGLJs) | [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [always by your side](https://open.spotify.com/album/7zdxISh4gzSHasN6xBDyG2) | 1:48 |
 | 172 | [last call](https://open.spotify.com/track/2UUkTapp0rwuWeYAoLykRY) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [last call](https://open.spotify.com/album/0OjezN2RfR36Jq73RjEMfD) | 2:17 |
-| 173 | [Stardrunk](https://open.spotify.com/track/0zaoy5NsKYGKbBfTzLObxB) | [Illuzionary](https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Stardrunk \| Mystery Man](https://open.spotify.com/album/3hWAx0xCWmoAVrZeTJ0MuL) | 1:46 |
+| 173 | [Stardrunk](https://open.spotify.com/track/0zaoy5NsKYGKbBfTzLObxB) | [Illuzionary](https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx) | [Stardrunk \| Mystery Man](https://open.spotify.com/album/3hWAx0xCWmoAVrZeTJ0MuL) | 1:46 |
 | 174 | [Far East](https://open.spotify.com/track/6PQdebTH2xQn4mURkNP4IU) | [Darren Spice](https://open.spotify.com/artist/6DR7b1QU9VjGiJlBEAtkvT) | [Far East](https://open.spotify.com/album/0FTsRS7Jn5xpr3evrJpPsV) | 2:04 |
 | 175 | [Too Big Without You](https://open.spotify.com/track/1T1O2TmIjhPGGSd5QV279I) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Futon Feels](https://open.spotify.com/album/6pJmJAz4vTD40Oaw7SzTRP) | 2:20 |
 | 176 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 |
@@ -229,7 +229,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 219 | [Moving on](https://open.spotify.com/track/3AQ8Dl7oJjO9kyX7jPRy5E) | [Nymano](https://open.spotify.com/artist/3BoSEarTgKiw8sHE0ixJNK), [Suuna](https://open.spotify.com/artist/6oRyIjMVFpqq6iGpHEKvVd) | [Moving On](https://open.spotify.com/album/207yAnLznfQciZTxIioet8) | 3:11 |
 | 220 | [Landing](https://open.spotify.com/track/6PvjEMUp5hfunQCAmakT6v) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx) | [Landing](https://open.spotify.com/album/0e6UefvoUcVPvyhbD5TWOd) | 2:36 |
 | 221 | [Long Time](https://open.spotify.com/track/0LV7tvc3Y45H7w8Pf9VtVR) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Long Time](https://open.spotify.com/album/4sWW2iBS1PUFuQGiKmJdUc) | 2:00 |
-| 222 | [Who Is She](https://open.spotify.com/track/5daStHNxXOd3E1SGHQl3wj) | [Sazetrax](https://open.spotify.com/artist/21WKBlcJhr3WDC8NPw7YxF), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Who Is She](https://open.spotify.com/album/1abNGnCmIGDI8JU0irdH9n) | 2:33 |
+| 222 | [Who Is She](https://open.spotify.com/track/5daStHNxXOd3E1SGHQl3wj) | [Sazetrax](https://open.spotify.com/artist/21WKBlcJhr3WDC8NPw7YxF) | [Who Is She](https://open.spotify.com/album/1abNGnCmIGDI8JU0irdH9n) | 2:33 |
 | 223 | [Frosty](https://open.spotify.com/track/6BhsiKmMLJilfQSAcKznwl) | [Noji](https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg) | [Frosty](https://open.spotify.com/album/6qsw40XfXbslCXlfGRFiPI) | 1:51 |
 | 224 | [Adrift](https://open.spotify.com/track/6DNBYueQko754zJ14Dyms3) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Adrift](https://open.spotify.com/album/5SXNN8UR5pttew7qJlcKf7) | 2:00 |
 | 225 | [Soaring Skies](https://open.spotify.com/track/6BYqDQYn9ZkXsEior0XqzL) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Soaring Skies & Chatty Mountains](https://open.spotify.com/album/0dqIbxk81W1siCTh1eBP8a) | 2:48 |

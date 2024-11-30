@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Anchietx",
+  "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
   "name": "R&B Brasil",
   "tracks": [
     {
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 199533,
       "name": "Deixa Molhar",
       "url": "https://open.spotify.com/track/2doHxKqmm95nItp9NG9Prw"
@@ -1715,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201559,
+      "name": "FAMOSA",
+      "url": "https://open.spotify.com/track/1VGsxchOpxgC1n2O8HY4lZ"
+    },
+    {
+      "album": {
         "name": "Farei",
         "url": "https://open.spotify.com/album/2RTRWw4hiYWbnz0ww1Gumu"
       },
@@ -1832,6 +1854,28 @@
       "duration_ms": 180000,
       "name": "Fuder e Dormir Juntin",
       "url": "https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE"
+    },
+    {
+      "album": {
+        "name": "Under 2",
+        "url": "https://open.spotify.com/album/2o5lZ4WC24aMJy33yQ7iSy"
+      },
+      "artists": [
+        {
+          "name": "Aura Soul",
+          "url": "https://open.spotify.com/artist/3r7dBPAQZxuvf1RftzPIOT"
+        },
+        {
+          "name": "Karmo",
+          "url": "https://open.spotify.com/artist/55mPoy8tE3rJ6kkigqWqYI"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117346,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/2sVpWKSFapyikQZVe2WiPf"
     },
     {
       "album": {
@@ -4363,6 +4407,28 @@
     },
     {
       "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182850,
+      "name": "SEM PRESSA 2",
+      "url": "https://open.spotify.com/track/6s1A4z5THfAaXvTI9iV0e8"
+    },
+    {
+      "album": {
         "name": "Sem T\u00e9dio",
         "url": "https://open.spotify.com/album/1yAh1B0ycaq34ezgRWPIUc"
       },
@@ -4470,7 +4536,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 154285,
       "name": "Seu Jogo",
       "url": "https://open.spotify.com/track/4e5bZHMpSrEJDovEdER2DK"
@@ -4616,7 +4682,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 151103,
       "name": "Sintomas de Prazer - Live",
       "url": "https://open.spotify.com/track/32RZ9zfGC4gvkkIm307Fpb"

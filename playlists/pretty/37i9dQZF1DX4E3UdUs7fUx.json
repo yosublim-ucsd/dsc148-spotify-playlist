@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2172909,
+  "num_followers": 2172837,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "The Stray Birds",
-        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
-      },
-      "artists": [
-        {
-          "name": "The Stray Birds",
-          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Dream in Blue",
-      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Colony of Bees",
         "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 249066,
       "name": "Sitting Room",
       "url": "https://open.spotify.com/track/61RrNbOovzQBB8lomPR4Qb"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Man Overboard",
-        "url": "https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z"
-      },
-      "artists": [
-        {
-          "name": "Ed Prosek",
-          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
-        }
-      ],
-      "duration_ms": 176628,
-      "name": "Man Overboard",
-      "url": "https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Saint Monica (Undone)",
         "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 146884,
       "name": "Saint Monica - Undone",
       "url": "https://open.spotify.com/track/3vfYJg7cPqQgAFh1KtJMRT"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Man Overboard",
+        "url": "https://open.spotify.com/album/6oW5g8LHKVdMowC6Gh565z"
+      },
+      "artists": [
+        {
+          "name": "Ed Prosek",
+          "url": "https://open.spotify.com/artist/6DchmKCVOKK707FCrLFFDW"
+        }
+      ],
+      "duration_ms": 176628,
+      "name": "Man Overboard",
+      "url": "https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -967,6 +967,26 @@
       "duration_ms": 275506,
       "name": "Its A Winding Road",
       "url": "https://open.spotify.com/track/0NWBuu29pR2wjTOKT23auy"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Seeds (Acoustic Version)",
+        "url": "https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        },
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "duration_ms": 274808,
+      "name": "Seeds (feat. Carsen Gray) - Acoustic Version",
+      "url": "https://open.spotify.com/track/3PT90fscllcTN8qiY2gsO0"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1007,26 +1027,6 @@
       "duration_ms": 278848,
       "name": "Whippoorwill",
       "url": "https://open.spotify.com/track/1n0UUVUi4OzfjJEtuBKWfL"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Seeds (Acoustic Version)",
-        "url": "https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy"
-      },
-      "artists": [
-        {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
-        },
-        {
-          "name": "Carsen Gray",
-          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
-        }
-      ],
-      "duration_ms": 274808,
-      "name": "Seeds (feat. Carsen Gray) - Acoustic Version",
-      "url": "https://open.spotify.com/track/3PT90fscllcTN8qiY2gsO0"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "A Long And Happy Life EP",
-        "url": "https://open.spotify.com/album/5XBDh8rCOnUNb1G4pTaLPQ"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "No Peace In Quiet",
-      "url": "https://open.spotify.com/track/1T83u9c36BtqxGjY1XGXBS"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "If I Could Only Fly / True Love's Flame",
         "url": "https://open.spotify.com/album/2sEZEjF8TlYtIc9JM0j5Di"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 269500,
       "name": "If I Could Only Fly",
       "url": "https://open.spotify.com/track/2kIvpCKWEWJnIi5oyU6gXK"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "A Long And Happy Life EP",
+        "url": "https://open.spotify.com/album/5XBDh8rCOnUNb1G4pTaLPQ"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "No Peace In Quiet",
+      "url": "https://open.spotify.com/track/1T83u9c36BtqxGjY1XGXBS"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1527,6 +1527,38 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Snow",
+        "url": "https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Imperial Recordings Best Of",
+        "url": "https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 160240,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "After Rain",
         "url": "https://open.spotify.com/album/1NtdVz5tQtiql7SmN1SKEL"
       },
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Snow",
-        "url": "https://open.spotify.com/album/19KbCZVQpfC3eyD4Db3Vrq"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/33ZjZqqFuGRTPjNVqO0h8o"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Tourism",
         "url": "https://open.spotify.com/album/7G07UTNS6qqiu7c5cz7jcj"
       },
@@ -1591,6 +1607,22 @@
       "duration_ms": 212146,
       "name": "I Forget Myself",
       "url": "https://open.spotify.com/track/75zcToiQTLgeIr0dGiRJXE"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Colder Heavens",
+        "url": "https://open.spotify.com/album/1NZp71mLzKkFFDj5RpK9Oi"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/15qtOgzv7mW3CQWQVgWIM6"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1623,38 +1655,6 @@
       "duration_ms": 246453,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/567EmmCbOtpEuaVC2zznU6"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Where's My Love (Acoustic)",
-        "url": "https://open.spotify.com/album/2u0MG5q7xctOMwx2q9Tm4o"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 239880,
-      "name": "Where's My Love - Acoustic",
-      "url": "https://open.spotify.com/track/6lvGthAouA0KfQ29tz4XAt"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Imperial Recordings Best Of",
-        "url": "https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 160240,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/7BzhqmRj3iOZXqMHqiifHr"
     }
   ],
   "unique_name": "Afternoon Acoustic",

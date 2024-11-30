@@ -2,9 +2,9 @@
 
 ### [North Country](https://open.spotify.com/playlist/37i9dQZF1DWYV2Gh2QglGo)
 
-> The home of Canadian country music\. Cover: Trudy
+> The home of Canadian country music\. Cover: Brett Kissel
 
-174 songs - 9 hr 30 min
+175 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Quits](https://open.spotify.com/track/6tW3zBBqRXuM3hDvzRXsa8) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Quits](https://open.spotify.com/album/2NXMaPZwgGAzx8IKumHbwt) | 3:07 | 2024-11-15 |  |
 | [Quitter](https://open.spotify.com/track/7EkB5YHjZaOL9f3Wk3kiRw) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/6qOS75v0sTFE3K1VrIM4mz) | 2:41 | 2024-07-26 |  |
 | [Race To The Bottom](https://open.spotify.com/track/0H5DWpSg5JKBGCClsUpbeH) | [Nate Haller](https://open.spotify.com/artist/5nAWMdNNuSpUNxzwqaBQQr) | [Race To The Bottom](https://open.spotify.com/album/1Mkg0nlrfMXlApH5vlO7Up) | 2:30 | 2024-08-02 | 2024-09-21 |
-| [Ready To Roll](https://open.spotify.com/track/6AepOgQoCRCenmlSii4H59) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [Ready To Roll](https://open.spotify.com/album/4KgXYr3pUz7H0PMLLk3IrA) | 3:17 | 2024-11-01 |  |
+| [Ready To Roll](https://open.spotify.com/track/6AepOgQoCRCenmlSii4H59) | [The Redhill Valleys](https://open.spotify.com/artist/3i4XwLHDJjWWPCHcPj0pAJ) | [Ready To Roll](https://open.spotify.com/album/4KgXYr3pUz7H0PMLLk3IrA) | 3:17 | 2024-11-01 | 2024-11-30 |
 | [Redneck Rehab](https://open.spotify.com/track/1ioW2pEBF2XlfF9GGLYJ4N) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Redneck Rehab](https://open.spotify.com/album/6uZt8YaxQqUOtHIVJjhU9D) | 3:09 | 2024-06-28 | 2024-08-03 |
 | [Right Around Sundown](https://open.spotify.com/track/4QZFOx7kXWnD8IClPfaEp6) | [Reed Salmon](https://open.spotify.com/artist/4opAiuSMSLK0b5bg6UGQFD) | [Right Around Sundown](https://open.spotify.com/album/1BpS3RM0BsRwlIcBsKbFiV) | 2:41 | 2024-06-28 | 2024-09-28 |
 | [River Runnin' Wide](https://open.spotify.com/track/0SbrzOOLejgBYDqg9CFw6m) | [Brenton David](https://open.spotify.com/artist/4d3XPB2meP3mifOV6RuvrG) | [River Runnin' Wide](https://open.spotify.com/album/01lfgGvbQL3ZfT7CbaD3zs) | 3:48 | 2024-06-28 | 2024-08-24 |
@@ -158,6 +158,7 @@
 | [TICKET TO RIDE](https://open.spotify.com/track/2lbIfAfYcUqvHqujrqNCjf) | [Myles Erlick](https://open.spotify.com/artist/66j659Hro81qoa1vgG75Ae) | [TICKET TO RIDE](https://open.spotify.com/album/5mQ7VgSUf5rfGeQAOl5bE0) | 2:15 | 2024-06-28 | 2024-09-14 |
 | [To Be Honest](https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:25 | 2024-06-28 | 2024-07-13 |
 | [today](https://open.spotify.com/track/2f53Ycvv8VrgGOa5VcMnMk) | [Adrian Mitchell](https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y) | [today](https://open.spotify.com/album/51NB0c3HmIOHwF5XAX5Hmr) | 2:33 | 2024-09-27 | 2024-10-26 |
+| [Tomorrow](https://open.spotify.com/track/46LccjwmRg9n1Mg54gaA83) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Tomorrow](https://open.spotify.com/album/44n5odWgMktFglqvRAC1ex) | 4:27 | 2024-11-29 |  |
 | [too hot to be sad](https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es) | [Lydia Sutherland](https://open.spotify.com/artist/7DgQFc0bdKC4LcyAPy6gyW) | [pretty girls don’t cry](https://open.spotify.com/album/4soi8ZgqNC0NxPdtbfn3T7) | 2:44 | 2024-06-28 | 2024-09-07 |
 | [Train \- Station Edition](https://open.spotify.com/track/2acYhYSssljNJW5Ud90Pyt) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [Train \(Station Edition\)](https://open.spotify.com/album/6qmiXJbehiIQZYQfu4qYit) | 3:21 | 2024-06-28 | 2024-07-27 |
 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 | 2024-07-19 |  |

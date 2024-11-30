@@ -4,7 +4,7 @@
 
 > Gazo au top des nouveautés de la semaine !
 
-2,650 songs - 5 day 19 hr 17 min
+2,652 songs - 5 day 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1192,6 +1192,7 @@
 | [Je parle de toi](https://open.spotify.com/track/2VzCoD6UsQBAIHkvLCQisr) | [Kemmler](https://open.spotify.com/artist/7hChnO6TKesBmtbTFFjYbP) | [Alain](https://open.spotify.com/album/3FxPq5IOpgx8sCc5D1VZQY) | 3:14 | 2024-05-30 | 2024-06-07 |
 | [JE QUITTE LA ZONE](https://open.spotify.com/track/3w1sN5ljJX31r34ZLY2Dpi) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [JE QUITTE LA ZONE](https://open.spotify.com/album/5tEEJbWKBVn3Y2152KEXbi) | 3:27 | 2024-04-25 | 2024-05-03 |
 | [Je reste là](https://open.spotify.com/track/1JtoFwAUnbUTD2fAtQUPOc) | [Chimène Badi](https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z) | [Je reste là](https://open.spotify.com/album/3cUnphm9v2nnJFftovW5wB) | 2:36 | 2024-08-29 | 2024-09-06 |
+| [Je suis de toi](https://open.spotify.com/track/6ufDjxcJR0Ki3dMbmVLx9v) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je suis là](https://open.spotify.com/album/0sRO2vkKqdixkNxIHgf190) | 3:47 | 2024-11-29 |  |
 | [Je t'ai cherché](https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Je t'ai cherché](https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O) | 3:36 | 2024-10-03 | 2024-10-11 |
 | [Je t'ai dit non](https://open.spotify.com/track/3hA78BzovZdpdl2ZQw9KzI) | [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Je t'ai dit non](https://open.spotify.com/album/1QgvJtMaR04Cy2VySFNBA6) | 2:28 | 2024-08-01 | 2024-08-09 |
 | [je vais bien.](https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [je vais bien.](https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7) | 2:58 | 2024-11-28 |  |
@@ -1548,7 +1549,7 @@
 | [Mirages](https://open.spotify.com/track/39GSGgJ2HJ2SOV6TPvoCRN) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Mirages](https://open.spotify.com/album/40AfbK7kPIClq6ixLA3Zpe) | 2:34 | 2024-10-10 | 2024-10-18 |
 | [Miss France](https://open.spotify.com/track/015YmEj4dMrDwUga7QEN46) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Miss France](https://open.spotify.com/album/1buUBxn64TLTYXxTAZGhzy) | 2:46 | 2024-06-20 | 2024-06-28 |
 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 | 2024-06-27 | 2024-07-19 |
-| [MISS LILY'S](https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 3:19 | 2024-11-28 |  |
+| [MISS LILY'S](https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 3:19 | 2024-11-28 |  |
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/4YunNS0WnIipSlLfPG2f5Y) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-12 | 2024-09-20 |
 | [Mocking Bird](https://open.spotify.com/track/65TzigOFouzV9nI45QOhj3) | [Blanka](https://open.spotify.com/artist/5ApOEJzMyQ05McnLtwoTRi), [La Fine Equipe](https://open.spotify.com/artist/2EMmqQQmszsCXfVfMRibOQ) | [Birds](https://open.spotify.com/album/5gR2w7J43MUIgFXh7CAF6f) | 2:40 | 2024-07-04 | 2024-07-12 |
 | [Mockingbird](https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mockingbird](https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg) | 2:34 | 2024-05-02 | 2024-05-10 |
@@ -1852,6 +1853,7 @@
 | [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 | 2024-06-20 | 2024-06-28 |
 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 | 2024-08-15 | 2024-08-23 |
 | [PHOBOS](https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv) | [Jeune Mort](https://open.spotify.com/artist/7u8gvNEGeiNVartjPGoTtU) | [DEMAIN EST ANNULÉ](https://open.spotify.com/album/4wO5AjxTQfuyVr0H0e6coR) | 2:40 | 2024-10-24 | 2024-11-01 |
+| [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-11-29 |  |
 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 | 2024-10-17 | 2024-10-25 |
 | [Pieces](https://open.spotify.com/track/03GwGxzLsZoMDPodpFGWDf) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Pieces](https://open.spotify.com/album/3VWyg2FxDIhfwBgRzDxw6I) | 3:12 | 2024-09-19 | 2024-09-27 |
 | [Pile ou face](https://open.spotify.com/track/502IBgYxjzKCVe7RNKlQQl) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [Pile ou face](https://open.spotify.com/album/1MpkEpTd3tjfcKaKitZI26) | 2:29 | 2024-11-14 | 2024-11-22 |

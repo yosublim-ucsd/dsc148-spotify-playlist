@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125708,
+  "num_followers": 125704,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATYen+1aVHD8Aq1uZDdShxjXTdLkP+",
+  "snapshot_id": "AAATYhNPjJBsggxdfgXvqf2lD4rTH4GK",
   "tracks": [
+    {
+      "added_at": "2024-11-29 17:08:05",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/6WPrb9Tj8DszFIUhnzjg2Y"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        },
+        {
+          "name": "UnityTX",
+          "url": "https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/6FVi8am0wUrPVKte7uOhaj"
+    },
     {
       "added_at": "2024-11-28 15:31:27",
       "album": {

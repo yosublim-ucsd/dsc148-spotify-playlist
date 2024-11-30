@@ -4,24 +4,28 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,422 likes - 15 songs - 55 min 24 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,422 likes - 19 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [reflect.](https://open.spotify.com/track/0es8u2wfsXxZXoknhjGEFE) | [Guru Griff](https://open.spotify.com/artist/5Z5xacWm71NpXvZwLJf2B8) | [reflect.](https://open.spotify.com/album/0lIFKPJLuPeWDmIJoLWVbk) | 2:42 |
-| 2 | [We Go Off Tonight](https://open.spotify.com/track/1xp3Imb1JEDFvWJXnl0B52) | [Symphony Of Sweden](https://open.spotify.com/artist/6AvBsDOrRn8rAdJdj3srdJ) | [We Go Off Tonight](https://open.spotify.com/album/62K2mhiICmLUuoF7NeVc8M) | 2:52 |
-| 3 | [Raise The Glass](https://open.spotify.com/track/7u9SmaG1AuaYI0JZoOPchm) | [Sebastian Ekstrand](https://open.spotify.com/artist/7jEg1yVBiGbdDeiuwXIAAm) | [Raise The Glass](https://open.spotify.com/album/2MeVzR7jpWzHmaUpBwsxyF) | 3:04 |
-| 4 | [BLINDED](https://open.spotify.com/track/4x4CAq67HsMLRa0lEZXWhg) | [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt), [Geejo Hero](https://open.spotify.com/artist/3WMccd0KGHrT5pInPbaVK5), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [BLINDED](https://open.spotify.com/album/5CgV5HnHNIQFA06FiHzvZP) | 3:05 |
-| 5 | [Empty Palaces](https://open.spotify.com/track/703q0ToA5bChtkFhcu6x7h) | [Craneium](https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK) | [Empty Palaces](https://open.spotify.com/album/60Vsnd9WXg6sxkTOhUqy5v) | 4:01 |
-| 6 | [Ollaan Liian Pitkällä](https://open.spotify.com/track/3umCTI8ManzeS2ir8akGQQ) | [Nenä Inc.](https://open.spotify.com/artist/6Lhk2MZE8niAICw9SGiG9I) | [Ollaan Liian Pitkällä](https://open.spotify.com/album/71pOlGTd3dGTtlNGdhN5zM) | 2:19 |
-| 7 | [Course We're Goin' Out](https://open.spotify.com/track/3WlaetvjzrBPGweDQGdL7r) | [Papa Jupe's T.C.](https://open.spotify.com/artist/4cTTWSl72fBBZZSSosrXkh) | [Course We're Goin' Out](https://open.spotify.com/album/0YmOSuW9kOseJ4IqKpAAmf) | 3:51 |
-| 8 | [Heartbreak BLVD](https://open.spotify.com/track/5UiEx1nFO3TVIeJlYH9PNd) | [MELIJAH](https://open.spotify.com/artist/1u6nljIBn7s6BtqQPCBeTP), [Ratchet Project](https://open.spotify.com/artist/13PvV47jOZKRQL7oUsK8uV) | [Heartbreak BLVD](https://open.spotify.com/album/5i4M8v4uvo4Y4rBw3HVxGT) | 2:46 |
-| 9 | [303](https://open.spotify.com/track/39yExSaCqSmWBDClGAr8Tt) | [Gero Camp](https://open.spotify.com/artist/0hRT14ejP5gmhfwExXjZAj) | [303](https://open.spotify.com/album/4TDD3r8FV020VIr2QJGwXX) | 3:51 |
-| 10 | [Ei aikaa](https://open.spotify.com/track/5jn2mlHNTa44FMxeEtzYEQ) | [Tams](https://open.spotify.com/artist/4dViQ7ArMCqM7xZx9TddSs) | [Ei aikaa](https://open.spotify.com/album/5uNiSQeftpgY26MMXF8xdT) | 3:21 |
-| 11 | [Skärselden](https://open.spotify.com/track/3TBTZORvUgynCQyieWdM08) | [Peter Bogsveen](https://open.spotify.com/artist/7GQpRvulURGTjInnVmelN5) | [Skärselden](https://open.spotify.com/album/2cGdt1NnpMAF4J6HuUSxC6) | 4:00 |
-| 12 | [All Rise](https://open.spotify.com/track/709PsqoAjAN20uX4mseyO1) | [Marathon](https://open.spotify.com/artist/6y5bQ9eDf4anvk7NN55h38) | [Marathon III](https://open.spotify.com/album/1Z0pOeyS7wdhlzowC1qI5X) | 5:09 |
-| 13 | [Saint De L'Or II & III](https://open.spotify.com/track/1I6G7tWwMX0YMPX4ThP8z6) | [Transhuman Nature](https://open.spotify.com/artist/4WfyCF2hX7DCr6OGq9VqOq) | [Like Us In Time](https://open.spotify.com/album/56lLVQgjVNNF0bVXwgLEeU) | 4:58 |
-| 14 | [Lazy](https://open.spotify.com/track/6yFwbtK8EwmwMcNU0o38SO) | [Quin Galavis](https://open.spotify.com/artist/4S6m2BFrvm8poXujJYK9Cz) | [Define Your Time](https://open.spotify.com/album/7JyFw2uHJgya0VK4DfJBco) | 4:53 |
-| 15 | [The Day By The Trains](https://open.spotify.com/track/6aMbpEC7Lc2Xl51BBzJskV) | [Linnea Lindberg](https://open.spotify.com/artist/4gVlchtF0pX9qwrV9qAJUI) | [The Day By The Trains](https://open.spotify.com/album/19KvlC7Nm0iz6uX6lzMxFJ) | 4:27 |
+| 1 | [A Lifetime in Pain](https://open.spotify.com/track/688wANrgJUQihI33I12pmU) | [Nomy](https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e) | [A Lifetime in Pain](https://open.spotify.com/album/4Ygkqq6yVjeA7Jpmj1NwqM) | 3:08 |
+| 2 | [No Shelter \(From The Rain\)](https://open.spotify.com/track/23unfXqWKBLYU5dNyZAAMD) | [Trainman Blues](https://open.spotify.com/artist/4EtygfoYbLDpe9eKy25sUH) | [No Shelter \(From The Rain\)](https://open.spotify.com/album/2LLZ6Oik0tCrnjZ2Q22vyH) | 2:38 |
+| 3 | [Lot Hjerte Ditt dra](https://open.spotify.com/track/2zQIukVEKopPXDt4Iddxea) | [Thosebricks](https://open.spotify.com/artist/2KYlV0PM7k2AJdA6hVMoqj), [Skjevik](https://open.spotify.com/artist/62MIIbNPmuJGIOWR4XQ7em) | [Lot Hjerte Ditt dra](https://open.spotify.com/album/1HMZCJdQC7Ctxf9VLH8z2k) | 3:00 |
+| 4 | [Näralivetupplevelsen](https://open.spotify.com/track/7HZTE9iWLtZ7zLwkdiErnG) | [Björnarna](https://open.spotify.com/artist/06ZDy2XhBL6QUegO9n2Y4Y) | [Näralivetupplevelsen/Varför](https://open.spotify.com/album/2e7KPP2Sh4BqmmlBjEnhbF) | 3:00 |
+| 5 | [Menade för alltid](https://open.spotify.com/track/3m6bG9kpVLZTlcVYajgrdK) | [Björns Band](https://open.spotify.com/artist/5vshbshO7DybuIWIq86rUG) | [Menade för alltid](https://open.spotify.com/album/3XUogjd33m92RKAEpiAAS4) | 3:37 |
+| 6 | [Mitt liv](https://open.spotify.com/track/2OQim8eOoNFt2V6vflz1Iy) | [Håkan Hemlin](https://open.spotify.com/artist/0saFQxCdkPcbgbAf01nvvt) | [Mitt Liv](https://open.spotify.com/album/1VkVir842K6hcQCFjJdq3q) | 3:18 |
+| 7 | [Passa](https://open.spotify.com/track/2XEiJiYKYo4Qa3BoahFLbB) | [Mazar](https://open.spotify.com/artist/0I1soE5VwmMMq6OfIi5VIF) | [Passa](https://open.spotify.com/album/0LsWiOoGROXvzFS3RilhLF) | 2:25 |
+| 8 | [Better](https://open.spotify.com/track/0UXY7P2ThkbB4nLDB9YDLV) | [Maklo & Peter](https://open.spotify.com/artist/5FEnST2oN7iRafwwHdWUX7) | [Better](https://open.spotify.com/album/1qdXqSEcDhJK0QPcwUBBkT) | 3:01 |
+| 9 | [A.K.W](https://open.spotify.com/track/3dEi6TiJoZQehVyZFrrTqR) | [Landsväg 76](https://open.spotify.com/artist/26Cv4eMR5XUQWY1xZVjMd1) | [A.K.W](https://open.spotify.com/album/3tLqMjKJsekO0rhrKRw876) | 3:36 |
+| 10 | [real love](https://open.spotify.com/track/1GEY022Fl3SMLXEvwZ1v2K) | [BRAVO](https://open.spotify.com/artist/4frFc8oT9qzlTtoHiACIwy) | [real love](https://open.spotify.com/album/5Y13BqoCyXGolNwNi5oHpN) | 2:45 |
+| 11 | [There Will Be Oceans](https://open.spotify.com/track/6oSzzOGhTwVIBJQRgZobJv) | [Drever](https://open.spotify.com/artist/5dwBfmm7dTk3NiEBLZ3vaJ) | [There Will Be Oceans](https://open.spotify.com/album/4hGhAc31KMPfBJOHe9v8vz) | 4:26 |
+| 12 | [tenukepit \- Live at Rytmikorjaamo, 24/5/2024](https://open.spotify.com/track/4IsUkvAkbMD1s5duvxE1It) | [1Tipe](https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7), [Kvartetti](https://open.spotify.com/artist/5NwUWGaVxBmQPvQrVu7zwi) | [tenukepit \(Live at Rytmikorjaamo, 24/5/2024\)](https://open.spotify.com/album/2AmXEXgmGBbjhmU8poPigW) | 2:38 |
+| 13 | [baby blue](https://open.spotify.com/track/75lWNZgm1yRmLY4hvHYeuW) | [the diamondbacks](https://open.spotify.com/artist/6SPdbDQWjOtcFMmTh9sQkN) | [baby blue](https://open.spotify.com/album/6Atyfmfis9Lphy3RW39FzI) | 3:12 |
+| 14 | [Luciavisa](https://open.spotify.com/track/7ES0WiM2jSbstCFa1SvGpi) | [TONÅ](https://open.spotify.com/artist/02phQfSig5Csyp242kM3RI) | [Luciavisa / Den signade dag](https://open.spotify.com/album/0RRp1xw4XlRHHf3bP51HDR) | 3:50 |
+| 15 | [Never Enough](https://open.spotify.com/track/2jo3QJDR7CBTzsvZGSgRW8) | [Pretty Smile](https://open.spotify.com/artist/6rhtmUtQrmLCTbJQt6nK7C) | [Never Enough](https://open.spotify.com/album/3zIGPXKoVkntflYcl5IzTP) | 3:00 |
+| 16 | [Perfect display of love](https://open.spotify.com/track/3OaT6MApTDWCIj2e2M8dcZ) | [Portraits & Tales](https://open.spotify.com/artist/7se2ygBpDjPSbQ0plY9mI1) | [Perfect display of love](https://open.spotify.com/album/6vdLOxlkzttoh5iYslxy83) | 3:49 |
+| 17 | [Respond Time](https://open.spotify.com/track/4gH3M88N2y7N1TEcKkXjd4) | [Hadidi Nouri](https://open.spotify.com/artist/1dEWwolQzveMvU8kQ9MWnd) | [Closer To The Edge](https://open.spotify.com/album/1LuXxIRUQbCSA31KHQPpPC) | 2:58 |
+| 18 | [Like A Stone](https://open.spotify.com/track/1P4c9CnFBbiuw0oWFdRond) | [Alf Hill](https://open.spotify.com/artist/1rV7jt56jKFcW76hvEuPlH) | [Like A Stone](https://open.spotify.com/album/0Lzcie1A7gGdIX8BeE6cwi) | 3:38 |
+| 19 | [Love me](https://open.spotify.com/track/4Gpm8Ri68AW1nimzYlGaWj) | [Doktor Stent](https://open.spotify.com/artist/1JDVkP9NmrGJm0OgQtNxGF) | [Desert \- upgraded](https://open.spotify.com/album/29trPtjgm7PDrHOpdcZzGf) | 3:52 |
 
-Snapshot ID: `AAAD6mWbHrwcEOZrbaD4pX2xIs9PSzKh`
+Snapshot ID: `AAAD7NGyHAhHuUnkKHeyyz7Ye+EcO2xG`

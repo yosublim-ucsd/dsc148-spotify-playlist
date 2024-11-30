@@ -719,6 +719,32 @@
     },
     {
       "album": {
+        "name": "The Empress: II (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4OhUUntW1tbvsnUHEZsnU2"
+      },
+      "artists": [
+        {
+          "name": "Johannes Lehniger",
+          "url": "https://open.spotify.com/artist/1lUNTqzrRE6zlTWs4QIqa8"
+        },
+        {
+          "name": "Sebastian Damerius",
+          "url": "https://open.spotify.com/artist/4V5OLdgJBNzmJn9kAHjelZ"
+        },
+        {
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182545,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/6VFvYTcaZtdVAycxoaZ21Z"
+    },
+    {
+      "album": {
         "name": "The Hobbit: The Desolation of Smaug (Original Motion Picture Soundtrack) [Special Edition]",
         "url": "https://open.spotify.com/album/3MCUHjDo3wSm2QuLh1Fyrf"
       },

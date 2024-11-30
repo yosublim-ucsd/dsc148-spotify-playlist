@@ -1,6 +1,6 @@
 {
   "description": "Knees go down and the prayers go up",
-  "num_followers": 36895,
+  "num_followers": 36922,
   "original_name": "On Bended Knees",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-10-18 06:15:20",
       "album": {
+        "name": "Lara George",
+        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
+      },
+      "artists": [
+        {
+          "name": "Lara George",
+          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
+        }
+      ],
+      "duration_ms": 269113,
+      "name": "Ko Ma Si/ Nobody Like You",
+      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
+    },
+    {
+      "added_at": "2024-10-18 06:15:20",
+      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 507376,
       "name": "Excess Love (feat. JJ Hairston & Youthful Praise) - Remix",
       "url": "https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer"
-    },
-    {
-      "added_at": "2024-10-18 06:15:20",
-      "album": {
-        "name": "Lara George",
-        "url": "https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8"
-      },
-      "artists": [
-        {
-          "name": "Lara George",
-          "url": "https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ"
-        }
-      ],
-      "duration_ms": 269113,
-      "name": "Ko Ma Si/ Nobody Like You",
-      "url": "https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib"
     },
     {
       "added_at": "2024-10-18 06:15:20",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-10-18 06:15:20",
       "album": {
-        "name": "tethered",
-        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
+        "name": "He Is Here (Live)",
+        "url": "https://open.spotify.com/album/4yC2SG1jlzE9HumSAGdMx1"
       },
       "artists": [
         {
-          "name": "Sinmidele",
-          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
         }
       ],
-      "duration_ms": 225009,
-      "name": "tethered",
-      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
+      "duration_ms": 701345,
+      "name": "He Is Here (Live)",
+      "url": "https://open.spotify.com/track/5xTyw6RcRUIPbDPSXgl9h1"
     },
     {
       "added_at": "2024-10-18 06:15:20",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-10-18 06:15:20",
       "album": {
-        "name": "He Is Here (Live)",
-        "url": "https://open.spotify.com/album/4yC2SG1jlzE9HumSAGdMx1"
+        "name": "tethered",
+        "url": "https://open.spotify.com/album/27LjFky5f562Kp8nMPvlWA"
       },
       "artists": [
         {
-          "name": "kaestrings",
-          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
         }
       ],
-      "duration_ms": 701345,
-      "name": "He Is Here (Live)",
-      "url": "https://open.spotify.com/track/5xTyw6RcRUIPbDPSXgl9h1"
+      "duration_ms": 225009,
+      "name": "tethered",
+      "url": "https://open.spotify.com/track/60WK2pLEcXCv2dD1VJqHOu"
     },
     {
       "added_at": "2024-10-18 06:15:20",

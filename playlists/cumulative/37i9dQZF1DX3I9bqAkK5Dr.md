@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-309 songs - 18 hr 41 min
+310 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Ee Maaye Prema](https://open.spotify.com/track/76GLjMzjpF1H1eEXCCa5qf) | [Suman Vankara](https://open.spotify.com/artist/2eOybWItY2efNjJWY7QQjS), [Riya Birra](https://open.spotify.com/artist/06zzSAM2zmpuOeLPANUrGu) | [Ee Maaye Prema](https://open.spotify.com/album/7z6UZcpBFZvpEiJqHfUQAH) | 3:20 | 2024-01-03 | 2024-05-26 |
 | [Ee Parichayam](https://open.spotify.com/track/4kiMKHxNaw8oiH1vJSFXZT) | [Praneeth Muzic](https://open.spotify.com/artist/4fJQkBLnzJM725l64C07Bh), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Pavani Vasa](https://open.spotify.com/artist/1D0MDMO4NBt3Fk2T3tCzbS), [Purnachary](https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j), [Prem](https://open.spotify.com/artist/0rW6jVAVhjFADg75BYfI1l), [Lakshmi Durga](https://open.spotify.com/artist/4LUU58BaoLm4snXuQDE1g1) | [Ee Parichayam](https://open.spotify.com/album/4BEJzmCEMiuazcDu2TFiSK) | 3:40 | 2024-02-14 |  |
 | [Ee Reyi Paadindi](https://open.spotify.com/track/53draxwLuyB3NzfCDmIRBv) | [Tarun Donipati](https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI) | [Ee Reyi Paadindi](https://open.spotify.com/album/5z0MyArgL7EF3WgGr9JAKf) | 5:46 | 2024-01-02 | 2024-02-15 |
+| [Eeroje](https://open.spotify.com/track/3bVDOouNAzL5tHsISeCbgw) | [Fleep & Arin](https://open.spotify.com/artist/2zRyvhoEFi8FPPf32qOVSl) | [Eeroje](https://open.spotify.com/album/1wfq34tbWY4qN4ojUJJ81F) | 3:08 | 2024-11-29 |  |
 | [Em Mantramo](https://open.spotify.com/track/5bPh0qRKt19LMSz3YN6G1V) | [Arviz](https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf), [Sherni](https://open.spotify.com/artist/4Zw7oOYwz6P9NHJP5NGnWS) | [Em Mantramo](https://open.spotify.com/album/4TcOrl0eAyJTtCMqHIcxFh) | 2:53 | 2023-12-19 | 2024-05-11 |
 | [Emone](https://open.spotify.com/track/1AKX0Ru582qT5rUG2FYCUh) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Emone](https://open.spotify.com/album/2WcXXGGJiY1ID6JsVx2c1f) | 5:28 | 2023-02-02 |  |
 | [Endukala \(Lovers No More\)](https://open.spotify.com/track/6WavcWZXgeh0cvGvkh5tS6) | [Alluri](https://open.spotify.com/artist/1MJd59IWbIWtj6CdlJhWG8) | [O Katha](https://open.spotify.com/album/4mj1O1w8H5TjhoYWzyKxYC) | 3:25 | 2024-02-02 | 2024-04-06 |

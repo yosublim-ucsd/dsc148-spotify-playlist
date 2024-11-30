@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18373,
+  "num_followers": 18377,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Wish You Hell - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+        "name": "Kitsch",
+        "url": "https://open.spotify.com/album/12p68ehzb26xvidlV2ypur"
       },
       "artists": [
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 170360,
-      "name": "Wish You Hell",
-      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -711,18 +711,18 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Kitsch",
-        "url": "https://open.spotify.com/album/12p68ehzb26xvidlV2ypur"
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
       },
       "artists": [
         {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 195440,
-      "name": "Kitsch",
-      "url": "https://open.spotify.com/track/0zWuvPDqBa0WM9Ffwl0rgb"
+      "duration_ms": 170360,
+      "name": "Wish You Hell",
+      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Seoul Check-in OST Part 6",
-        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 191208,
-      "name": "Check-In",
-      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "Freaky",
         "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 173960,
       "name": "Freaky (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "Seoul Check-in OST Part 6",
+        "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 191208,
+      "name": "Check-In",
+      "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

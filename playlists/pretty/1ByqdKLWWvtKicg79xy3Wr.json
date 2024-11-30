@@ -6,8 +6,60 @@
     "name": "RDGO",
     "url": "https://open.spotify.com/user/rgonzalez196"
   },
-  "snapshot_id": "AAAGOLA59DsJFuTWBFTaYbaJL/e33kgM",
+  "snapshot_id": "AAAGOhaXzBPd16A7yd9lBeVoeTUgnWi9",
   "tracks": [
+    {
+      "added_at": "2024-11-29 17:43:01",
+      "album": {
+        "name": "UNTITLED SINES",
+        "url": "https://open.spotify.com/album/5jtPHjJVML1jP5WgiGK9zn"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 198908,
+      "name": "UNTITLED SINES",
+      "url": "https://open.spotify.com/track/616fgoQPjrNSdLp5KB4vG0"
+    },
+    {
+      "added_at": "2024-11-29 17:43:01",
+      "album": {
+        "name": "King Steps",
+        "url": "https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 181141,
+      "name": "King Steps",
+      "url": "https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj"
+    },
+    {
+      "added_at": "2024-11-29 17:43:01",
+      "album": {
+        "name": "Watch",
+        "url": "https://open.spotify.com/album/3VqzDW0Nv1jbJ2sYsl9qNy"
+      },
+      "artists": [
+        {
+          "name": "Reece Ros\u00e9",
+          "url": "https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5"
+        }
+      ],
+      "duration_ms": 183072,
+      "name": "Watch",
+      "url": "https://open.spotify.com/track/5swHYxOiKRqbNCOGb1TsBh"
+    },
     {
       "added_at": "2024-11-23 06:29:48",
       "album": {

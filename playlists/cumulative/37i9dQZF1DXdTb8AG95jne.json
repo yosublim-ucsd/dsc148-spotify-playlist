@@ -244,7 +244,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 120453,
       "name": "2 Minutes",
       "url": "https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo"
@@ -1655,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Our Own Oranges",
+        "url": "https://open.spotify.com/album/7gxNgiBU5SKpVx8C77Irkm"
+      },
+      "artists": [
+        {
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146146,
+      "name": "Born as love",
+      "url": "https://open.spotify.com/track/1gEMEItPa7BYMsdG40uMoe"
+    },
+    {
+      "album": {
         "name": "Break Me.",
         "url": "https://open.spotify.com/album/7uuSPVQe5FKPQruNG9sClB"
       },
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 246750,
       "name": "Dancing In the Rain - Wendy Wander Remake",
       "url": "https://open.spotify.com/track/0I7cu4uLecf71IpM8Wn10T"
@@ -3358,7 +3376,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 192586,
       "name": "Echo (feat. JUKJAE)",
       "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
@@ -3939,6 +3957,28 @@
     },
     {
       "album": {
+        "name": "FETISH (feat. Jimmy Brown)",
+        "url": "https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4"
+      },
+      "artists": [
+        {
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "FETISH (feat. Jimmy Brown)",
+      "url": "https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo"
+    },
+    {
+      "album": {
         "name": "Fighting! \uc751\uc6d0\ud574",
         "url": "https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80"
       },
@@ -4134,7 +4174,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 201853,
       "name": "Flowering Plant",
       "url": "https://open.spotify.com/track/3tczgQIb4AoaxandxcWvv5"
@@ -6755,6 +6795,24 @@
     },
     {
       "album": {
+        "name": "J RABBIT CHRISTMAS ALBUM",
+        "url": "https://open.spotify.com/album/5aPmwzMnG6IlVRaJfd0DF5"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185653,
+      "name": "It\u2019s Beginning To Look A Lot Like Christmas - 2024 Remaster Version",
+      "url": "https://open.spotify.com/track/27HgKA1CTopHjzLThnWl6S"
+    },
+    {
+      "album": {
         "name": "It\u2019s Not Easy",
         "url": "https://open.spotify.com/album/0DlghI0qWip2mrcNzamdQP"
       },
@@ -6997,6 +7055,24 @@
     },
     {
       "album": {
+        "name": "KEEP",
+        "url": "https://open.spotify.com/album/2vjV8Tbn6ozGFX7q9Gx7w7"
+      },
+      "artists": [
+        {
+          "name": "NUITNUIT",
+          "url": "https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Keep",
+      "url": "https://open.spotify.com/track/6KipJW2V9Jqc45DhUTJoUF"
+    },
+    {
+      "album": {
         "name": "In the box",
         "url": "https://open.spotify.com/album/1RslYBo6MjYMu5LPcrOZLb"
       },
@@ -7012,6 +7088,24 @@
       "duration_ms": 147584,
       "name": "Keep you there",
       "url": "https://open.spotify.com/track/0OU5FvDjS9tavAUK63xwcz"
+    },
+    {
+      "album": {
+        "name": "Tales From A Wanderer",
+        "url": "https://open.spotify.com/album/6x3E3sRHWPXwoWPXZExKqU"
+      },
+      "artists": [
+        {
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "King Carp",
+      "url": "https://open.spotify.com/track/6Vy5hcBcUylOESHdetifDh"
     },
     {
       "album": {
@@ -7102,6 +7196,24 @@
       "duration_ms": 221130,
       "name": "Koriga",
       "url": "https://open.spotify.com/track/0So5dXB9M3InMMGmxslL4L"
+    },
+    {
+      "album": {
+        "name": "Late Night Flaneur",
+        "url": "https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx"
+      },
+      "artists": [
+        {
+          "name": "Haru Kid",
+          "url": "https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147596,
+      "name": "Late Night Flaneur",
+      "url": "https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul"
     },
     {
       "album": {
@@ -7413,6 +7525,24 @@
     },
     {
       "album": {
+        "name": "Bonfire",
+        "url": "https://open.spotify.com/album/4kjZBvgZ6jJXX0wMn9VhP5"
+      },
+      "artists": [
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209200,
+      "name": "Little Drama",
+      "url": "https://open.spotify.com/track/18WKej3uAeGSFjelzj8q2m"
+    },
+    {
+      "album": {
         "name": "Lock me up",
         "url": "https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn"
       },
@@ -7608,7 +7738,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 250400,
       "name": "Love letter",
       "url": "https://open.spotify.com/track/6ilYsOd0s4HLgUWmByEb8b"
@@ -8454,6 +8584,24 @@
       "duration_ms": 229054,
       "name": "movie",
       "url": "https://open.spotify.com/track/0gNQjJJgXvAG9ZgNaQdNCN"
+    },
+    {
+      "album": {
+        "name": "Mulli Mulli",
+        "url": "https://open.spotify.com/album/3p2auYiBhiRRhqExjz6xvR"
+      },
+      "artists": [
+        {
+          "name": "juun",
+          "url": "https://open.spotify.com/artist/7GlkJWepxWqGNkDyuG2oCY"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187093,
+      "name": "Mulli Mulli",
+      "url": "https://open.spotify.com/track/2y0ozrZZP0unL0rCV5J9np"
     },
     {
       "album": {
@@ -9753,6 +9901,24 @@
     },
     {
       "album": {
+        "name": "The Oddscape",
+        "url": "https://open.spotify.com/album/7wfohCLnRXfhaZUXIOstum"
+      },
+      "artists": [
+        {
+          "name": "Shin Hae Gyeong",
+          "url": "https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245813,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/3Mp0lsOnz9Srf6zW3EntnF"
+    },
+    {
+      "album": {
         "name": "Play With Me!",
         "url": "https://open.spotify.com/album/1LAmZS4Qhapw80O54zH8Ib"
       },
@@ -10158,7 +10324,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 263851,
       "name": "Queen of My Heart",
       "url": "https://open.spotify.com/track/3T0kl3KYmOxKtTWvFpYZ7Q"
@@ -10534,7 +10700,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 227000,
       "name": "ringringring",
       "url": "https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac"
@@ -10628,7 +10794,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 210405,
       "name": "RUNAWAY (feat. Ha Hyun Sang)",
       "url": "https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI"
@@ -12992,7 +13158,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 156680,
       "name": "Three Leaf Clover",
       "url": "https://open.spotify.com/track/5uyE5JL33bWztMK04TgQUI"

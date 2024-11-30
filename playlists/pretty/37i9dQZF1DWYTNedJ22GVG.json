@@ -1,12 +1,12 @@
 {
   "description": "Tinsel! Lights! Yelling! These family-friendly Christmas songs will get the party started.",
-  "num_followers": 121735,
+  "num_followers": 122229,
   "original_name": "Family Christmas Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0VVoAAAAABtZ0pJR7V6BELAm+yLM8O2",
+  "snapshot_id": "Z0lKUAAAAADXw4hXN2CS+CVXhx6dBnbN",
   "tracks": [
     {
       "added_at": "2024-11-25 17:11:08",
@@ -397,20 +397,24 @@
       "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv"
     },
     {
-      "added_at": "2024-11-25 17:11:08",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Let's Jump In! The Album (Deluxe)",
-        "url": "https://open.spotify.com/album/2ane689azA1Q2g1RE8IEMo"
+        "name": "Christmas on Island Time",
+        "url": "https://open.spotify.com/album/61BsgzXuPsu39JCYj36XJO"
       },
       "artists": [
         {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+          "name": "Teacher Peter",
+          "url": "https://open.spotify.com/artist/4qK4Sehk0WdkDGP80zo4xY"
+        },
+        {
+          "name": "Everett Green",
+          "url": "https://open.spotify.com/artist/32xhUgpc5QkovWlpyY6pP6"
         }
       ],
-      "duration_ms": 216942,
-      "name": "Family Christmas Fun",
-      "url": "https://open.spotify.com/track/7MPNywwPYKvGxIYTs2Y1tx"
+      "duration_ms": 170909,
+      "name": "Christmas on Island Time",
+      "url": "https://open.spotify.com/track/7qJxMXGtCowTWt8d4H2kEz"
     },
     {
       "added_at": "2024-11-25 17:11:08",
@@ -427,6 +431,22 @@
       "duration_ms": 177773,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/0Ar318cfljZEyc6nLN8CxG"
+    },
+    {
+      "added_at": "2024-11-25 17:11:08",
+      "album": {
+        "name": "Let's Jump In! The Album (Deluxe)",
+        "url": "https://open.spotify.com/album/2ane689azA1Q2g1RE8IEMo"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig",
+          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
+        }
+      ],
+      "duration_ms": 216942,
+      "name": "Family Christmas Fun",
+      "url": "https://open.spotify.com/track/7MPNywwPYKvGxIYTs2Y1tx"
     },
     {
       "added_at": "2024-11-25 17:11:08",
@@ -699,22 +719,6 @@
       "duration_ms": 156080,
       "name": "Christmas (Baby Please Come Home) (feat. Scarlett Johansson, Taron Egerton, Reese Witherspoon & Tori Kelly)",
       "url": "https://open.spotify.com/track/6wUYUvIqn9swoQSaeW9ZVp"
-    },
-    {
-      "added_at": "2024-11-25 17:11:08",
-      "album": {
-        "name": "The Magic Of Christmas",
-        "url": "https://open.spotify.com/album/5t3fyEkZRQRszVQj6MOpRg"
-      },
-      "artists": [
-        {
-          "name": "Willow City",
-          "url": "https://open.spotify.com/artist/6uD8hO8znBlZOnmSLpMadV"
-        }
-      ],
-      "duration_ms": 185994,
-      "name": "The Magic Of Christmas",
-      "url": "https://open.spotify.com/track/6rkkl3MkLjTODElUll6Y84"
     },
     {
       "added_at": "2024-11-25 17:11:08",

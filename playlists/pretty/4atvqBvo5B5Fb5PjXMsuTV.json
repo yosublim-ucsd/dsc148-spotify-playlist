@@ -1,28 +1,588 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 25 Nov 17:16 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 30 Nov 23:04 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAANW/L0HjxQrdOoTZL+VfRVNJxKPT6q",
+  "snapshot_id": "AAANZU7ncduhI2iL4DLmy3Fh9GD/xZNv",
   "tracks": [
     {
-      "added_at": "2024-11-25 16:45:02",
+      "added_at": "2024-11-29 18:36:07",
       "album": {
-        "name": "Young-Girl Forever",
-        "url": "https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF"
+        "name": "Moonlit Floor (Kiss Me) (Santa Baby Remix)",
+        "url": "https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl"
       },
       "artists": [
         {
-          "name": "Sofie Royer",
-          "url": "https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 251768,
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/0nOcVU90N2FpL81eW9FU3W"
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me) - Santa Baby Remix",
+      "url": "https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "DELUSIONAL",
+        "url": "https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 195859,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Wanna Fxck (Lost Tapes 2022)",
+        "url": "https://open.spotify.com/album/1M0LH6TE618SQMU62yoCC8"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Wanna Fxck - Lost Tapes 2022",
+      "url": "https://open.spotify.com/track/42cO8qdboMxJPtgOSNtygx"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "ManDarE TuTto All'aRIA",
+        "url": "https://open.spotify.com/album/0RMBiVhtPQRSvyVTEPKDzv"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "duration_ms": 169738,
+      "name": "ManDarE TuTto All'aRIA",
+      "url": "https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "hood grammy",
+        "url": "https://open.spotify.com/album/1yqZxLe6t3ITTm5wwkdN1h"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        }
+      ],
+      "duration_ms": 143685,
+      "name": "hood grammy",
+      "url": "https://open.spotify.com/track/0jh4rH6foYD9HIUgWIax5W"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Shiver (Wilkinson Remix)",
+        "url": "https://open.spotify.com/album/0Awsw8Thtn0PkC3OieQ8vM"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        }
+      ],
+      "duration_ms": 222068,
+      "name": "Shiver - Wilkinson Remix",
+      "url": "https://open.spotify.com/track/0agheCESujTTCavYzsRco0"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "BIG STEPPER",
+        "url": "https://open.spotify.com/album/50xSIqjAkOZnbBkiABvmbo"
+      },
+      "artists": [
+        {
+          "name": "KALIM",
+          "url": "https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "duration_ms": 168009,
+      "name": "BIG STEPPER",
+      "url": "https://open.spotify.com/track/3DUVAw6nLbe5WYaD5CaXOf"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "C-Zone",
+        "url": "https://open.spotify.com/album/5rXaaiXxddjwDVls1y4reF"
+      },
+      "artists": [
+        {
+          "name": "Mnogoznaal",
+          "url": "https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH"
+        }
+      ],
+      "duration_ms": 124137,
+      "name": "C-Zone",
+      "url": "https://open.spotify.com/track/0e8J8pmIGKSGhtySxkSzJe"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Pouring Wok",
+        "url": "https://open.spotify.com/album/4KIdi7Rt9WZXIerAOPQFsC"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "duration_ms": 155999,
+      "name": "Pouring Wok",
+      "url": "https://open.spotify.com/track/3fTlzKjRSxF1p6eUwHiZur"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "You're the Only One Watching (Showbiz)",
+        "url": "https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "You're the Only One Watching (Showbiz)",
+      "url": "https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "S&S",
+        "url": "https://open.spotify.com/album/49jrlmAqaz0lHnsfgz2fcg"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "S&S",
+      "url": "https://open.spotify.com/track/1GgETB3Ixe8suRgOG5BmFT"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Tal Vez (Maybe en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4oXWnT7y3rMoWWMIVcrmzs"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "duration_ms": 194215,
+      "name": "Tal Vez (Maybe en Espa\u00f1ol)",
+      "url": "https://open.spotify.com/track/32Fnl1o1QcY9BIYweBgkT9"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Fantasy (Alex Chapman Remix)",
+        "url": "https://open.spotify.com/album/52fvlHzhcJbWzVKdcdD2HK"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        },
+        {
+          "name": "Alex Chapman",
+          "url": "https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh"
+        }
+      ],
+      "duration_ms": 174908,
+      "name": "Fantasy - Alex Chapman Remix",
+      "url": "https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "\u0411\u0443\u0434\u0443 \u0431\u044b\u0442\u044c v2",
+        "url": "https://open.spotify.com/album/1OMN0Va1dHjycCw2ffxYYR"
+      },
+      "artists": [
+        {
+          "name": "Loqiemean",
+          "url": "https://open.spotify.com/artist/2Nl6vz4KNIHQjyoOLTadCn"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "\u0411\u0443\u0434\u0443 \u0431\u044b\u0442\u044c v2",
+      "url": "https://open.spotify.com/track/3tEOkPC4APYy0YcGerNxzx"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Lo sai solo tu",
+        "url": "https://open.spotify.com/album/2Tm1vK1bcf92x9sAv6phqX"
+      },
+      "artists": [
+        {
+          "name": "L'Elfo",
+          "url": "https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ"
+        }
+      ],
+      "duration_ms": 161123,
+      "name": "Lo sai solo tu",
+      "url": "https://open.spotify.com/track/5dA4w92G7FYSemcsXc7Idr"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Don't make love vow",
+        "url": "https://open.spotify.com/album/7f8pXcJau1rJur5app8nTW"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        }
+      ],
+      "duration_ms": 189566,
+      "name": "Don't make love vow",
+      "url": "https://open.spotify.com/track/58IJSMPsjN4CWrXUOMd969"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "promises",
+        "url": "https://open.spotify.com/album/1m7138O2yJiku77vNLBcJD"
+      },
+      "artists": [
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "duration_ms": 148134,
+      "name": "promises",
+      "url": "https://open.spotify.com/track/4eZZwf34YtM0QxkGljAhdj"
+    },
+    {
+      "added_at": "2024-11-29 19:18:35",
+      "album": {
+        "name": "BOMBAY",
+        "url": "https://open.spotify.com/album/5hADwq3k0Uz3ss55RTgabE"
+      },
+      "artists": [
+        {
+          "name": "I61",
+          "url": "https://open.spotify.com/artist/0BLwluvlJt4aAE95gomnbe"
+        },
+        {
+          "name": "Thomas Mraz",
+          "url": "https://open.spotify.com/artist/7HeYTVt0Fg6lYEpmoeP67s"
+        },
+        {
+          "name": "Basic Boy",
+          "url": "https://open.spotify.com/artist/6f0OsZOsyTW71NZYkRbWKl"
+        },
+        {
+          "name": "\u0433\u043b\u0435\u0431\u0430\u0441\u0442\u0430",
+          "url": "https://open.spotify.com/artist/1a82PLc597zXveWWulVk7O"
+        }
+      ],
+      "duration_ms": 174935,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/7nO8HerWHFoiUxusxTlHzt"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Icey Soles",
+        "url": "https://open.spotify.com/album/3FSgCX5sW5wyCNLorNSsxK"
+      },
+      "artists": [
+        {
+          "name": "smokedope2016",
+          "url": "https://open.spotify.com/artist/3hGJ4nHdF99Vs0gQdXz5Nw"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Icey Soles",
+      "url": "https://open.spotify.com/track/3FRbT1r5Sbk0EGHpJq3hDv"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Blossom",
+        "url": "https://open.spotify.com/album/7ByZ7nFM5uVBpDF22tbupV"
+      },
+      "artists": [
+        {
+          "name": "PIKASONIC",
+          "url": "https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/2OgQsOSI0UJKhAktzQ95MP"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Inside",
+        "url": "https://open.spotify.com/album/7BcRTefPbw55v2rfOjEio0"
+      },
+      "artists": [
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        },
+        {
+          "name": "Eklipse",
+          "url": "https://open.spotify.com/artist/2ycTuWzeewjBC6SHxF1gID"
+        },
+        {
+          "name": "Niceboy",
+          "url": "https://open.spotify.com/artist/6ITQCtp87jIWIrHDBdkJm6"
+        }
+      ],
+      "duration_ms": 148148,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/1WkMsQWSAmljoLv381oL6m"
+    },
+    {
+      "added_at": "2024-11-29 19:18:35",
+      "album": {
+        "name": "Zaspy",
+        "url": "https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl"
+      },
+      "artists": [
+        {
+          "name": "Sonbird",
+          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
+        }
+      ],
+      "duration_ms": 190633,
+      "name": "Zaspy",
+      "url": "https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Por Ti Por Mi",
+        "url": "https://open.spotify.com/album/7CS99n3NOYshqMOheiw7b2"
+      },
+      "artists": [
+        {
+          "name": "Nebulossa",
+          "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
+        }
+      ],
+      "duration_ms": 180660,
+      "name": "Por Ti Por Mi",
+      "url": "https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v"
+    },
+    {
+      "added_at": "2024-11-29 19:18:35",
+      "album": {
+        "name": "Ein echtes Lachen",
+        "url": "https://open.spotify.com/album/5pdLzUOwcjhEwKJaOEkqTu"
+      },
+      "artists": [
+        {
+          "name": "Oehl",
+          "url": "https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp"
+        }
+      ],
+      "duration_ms": 161924,
+      "name": "Ein echtes Lachen",
+      "url": "https://open.spotify.com/track/4F9trSkuCXAQ4v0D43YCmr"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "desktop",
+        "url": "https://open.spotify.com/album/28FpZjvoF05dlWmOFiGTAY"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "duration_ms": 212605,
+      "name": "desktop",
+      "url": "https://open.spotify.com/track/5l0mHXJ153f8Lo6TPOsQFM"
+    },
+    {
+      "added_at": "2024-11-29 19:18:35",
+      "album": {
+        "name": "BREAKTHESOUND",
+        "url": "https://open.spotify.com/album/1VnLVU1rNDGGLCjd0Sfe3T"
+      },
+      "artists": [
+        {
+          "name": "TURQUOISEDEATH",
+          "url": "https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B"
+        }
+      ],
+      "duration_ms": 117791,
+      "name": "BREAKTHESOUND",
+      "url": "https://open.spotify.com/track/0XgKaZxMHBnNNGkz7n7Pz8"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Mieszane Uczucia",
+        "url": "https://open.spotify.com/album/3ibZA1MhUoV4YNX5N0hYor"
+      },
+      "artists": [
+        {
+          "name": "Bluszcz",
+          "url": "https://open.spotify.com/artist/4QUfzPnzzNf93Y6VKxZVlD"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Mieszane Uczucia",
+      "url": "https://open.spotify.com/track/2zw8q69N81ZiK0BG7EIQU5"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Abril",
+        "url": "https://open.spotify.com/album/7cdklPYtqUEdnOen3rZTfG"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Abril",
+      "url": "https://open.spotify.com/track/68wjsGsoZp2okiqMqgj8jT"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "Losing Daylight",
+        "url": "https://open.spotify.com/album/0Vwkni2UzObnj2cQiUBBNU"
+      },
+      "artists": [
+        {
+          "name": "Alice Shone",
+          "url": "https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ"
+        }
+      ],
+      "duration_ms": 175556,
+      "name": "Losing Daylight",
+      "url": "https://open.spotify.com/track/2PhjeIbklHKDrlSNREDFnQ"
+    },
+    {
+      "added_at": "2024-11-29 18:36:07",
+      "album": {
+        "name": "ALL MY LOVE",
+        "url": "https://open.spotify.com/album/3lTIRKV7awuSSd53FrFWwH"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 222647,
+      "name": "ALL MY LOVE",
+      "url": "https://open.spotify.com/track/3PpIWOUaPwDxu0ysEaFfAr"
+    },
+    {
+      "added_at": "2024-11-29 23:04:24",
+      "album": {
+        "name": "Sick Dogs",
+        "url": "https://open.spotify.com/album/1TRnUbi4ZhpAhEdmfMWjow"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 209567,
+      "name": "Sick Dogs",
+      "url": "https://open.spotify.com/track/4zSJjTUpERCuyfsTNJGyve"
+    },
+    {
+      "added_at": "2024-11-29 23:04:24",
+      "album": {
+        "name": "404_soulnotfound",
+        "url": "https://open.spotify.com/album/3OQveQ2Yg0rDUmn8vvoMJs"
+      },
+      "artists": [
+        {
+          "name": "Darknet",
+          "url": "https://open.spotify.com/artist/4q0wfu3kKAydX7PSA4H502"
+        },
+        {
+          "name": "Calle Thomer",
+          "url": "https://open.spotify.com/artist/1ZY3kUct2r4k3TgKRsgCLw"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "404_soulnotfound",
+      "url": "https://open.spotify.com/track/2nQvTvNv4tWiDxqGtlx72I"
     }
   ],
   "unique_name": "New Singles Now",

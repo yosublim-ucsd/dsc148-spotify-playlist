@@ -954,7 +954,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 183547,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/0yHmaiDRUkiQcl0heatewy"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 212400,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/5umJVEAPT2SocCoB99ZoaH"
@@ -3089,6 +3089,24 @@
     },
     {
       "album": {
+        "name": "Moonlit Floor (Kiss Me) (Santa Baby Remix)",
+        "url": "https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me) - Santa Baby Remix",
+      "url": "https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8"
+    },
+    {
+      "album": {
         "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
       },
@@ -3216,6 +3234,24 @@
       "duration_ms": 320760,
       "name": "O Holy Night",
       "url": "https://open.spotify.com/track/5547x0ZawobhfSeh2QKAca"
+    },
+    {
+      "album": {
+        "name": "It's Officially Christmas: The Double Album",
+        "url": "https://open.spotify.com/album/4uE6bh9kacmGEWRgpd7GPf"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178146,
+      "name": "Officially Christmas",
+      "url": "https://open.spotify.com/track/7Kr4PZ2XFbaQ28sA1ZeIKa"
     },
     {
       "album": {

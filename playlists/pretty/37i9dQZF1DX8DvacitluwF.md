@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW?si=O1q5UOPpQZqX6mZJtreZdw">Tellaman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,318 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,340 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 18 | [Always Time](https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Always Time](https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX) | 3:25 |
 | 19 | [You're Stuck \(feat\. Summer Walker\)](https://open.spotify.com/track/4kCfyoPOYHqev60dmNPXzF) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 4:04 |
 | 20 | [Residuals](https://open.spotify.com/track/4t4rGgiVX7woTmlnW9SHJ7) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11 \(Deluxe\)](https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz) | 3:35 |
-| 21 | [Shake it](https://open.spotify.com/track/7tL3t5TaSOuXQrAjzu1KZM) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:46 |
+| 21 | [Shake it](https://open.spotify.com/track/7tL3t5TaSOuXQrAjzu1KZM) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:46 |
 | 22 | [Your Eyes](https://open.spotify.com/track/6Kq8CVqQbccS3rPVXhBMMp) | [WATERS](https://open.spotify.com/artist/131TscYap0HoOu1UIUsg2b) | [Your Eyes](https://open.spotify.com/album/578pNlsAdRnAko1XXmwTg0) | 3:48 |
 | 23 | [Mirror Mirror](https://open.spotify.com/track/0xGeYAUMOeqPrOCK7RKrQH) | [YoursTruly](https://open.spotify.com/artist/3OpHB8JIbNLEXdVxAuluew), [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [For My One](https://open.spotify.com/album/4qPSP697RfT3mL8K5fizfE) | 4:08 |
 | 24 | [When You're Around](https://open.spotify.com/track/32RZgcuKaGBZeSZFCjqekc) | [Lusanda](https://open.spotify.com/artist/3WcXJ1FwSFJU88zc7vV9rz), [Noxz](https://open.spotify.com/artist/4gQHI7uYzGmbD7BRBtFLO2) | [When You're Around](https://open.spotify.com/album/3RIGb42y1erPlKLH1qcSec) | 3:17 |

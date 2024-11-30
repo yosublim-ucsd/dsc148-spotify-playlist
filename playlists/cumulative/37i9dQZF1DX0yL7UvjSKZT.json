@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "Pilgrim of the Foreign Grey",
+        "url": "https://open.spotify.com/album/4wKDBMCCmcaEl3Bm3JLUhg"
+      },
+      "artists": [
+        {
+          "name": "The Riverside",
+          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322678,
+      "name": "Cloak of the Sun",
+      "url": "https://open.spotify.com/track/5tXUkKd1P1tIfwdsAE4tx2"
+    },
+    {
+      "album": {
         "name": "Close Enough to Hear",
         "url": "https://open.spotify.com/album/7hpvneVKrCatRLTTC63NwT"
       },
@@ -2881,6 +2899,24 @@
     },
     {
       "album": {
+        "name": "The Set",
+        "url": "https://open.spotify.com/album/0dYP4Q4gWwDilyvhAqu4iS"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395034,
+      "name": "Gone to Fortingall/Wired to the Moon",
+      "url": "https://open.spotify.com/track/4RgwuZq1PpUD43X84TAbaC"
+    },
+    {
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/39To6wr7OM6vpS3HfvD8Kb"
       },
@@ -3246,7 +3282,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 180240,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1"
@@ -5942,7 +5978,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 186000,
       "name": "Red Rocking Chair",
       "url": "https://open.spotify.com/track/50KR2ahTgBpg5JjsTuz0ZC"
@@ -6354,7 +6390,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 258730,
       "name": "Shield of Ages",
       "url": "https://open.spotify.com/track/66INvc6jfELPow7I41l06P"
@@ -8514,7 +8550,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 216900,
       "name": "Where Berries Grow",
       "url": "https://open.spotify.com/track/0ideOQQL73HMu4KS99cL99"

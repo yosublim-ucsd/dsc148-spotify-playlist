@@ -1,12 +1,12 @@
 {
   "description": "'Tis the season to enjoy these classic Christmas songs for the whole family.",
-  "num_followers": 293968,
+  "num_followers": 294615,
   "original_name": "Holiday Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxHdQAAAAACxmdJgw0m69oA56meDhyVo",
+  "snapshot_id": "Z0lKUAAAAAC/AhwAUn0UP/R6/mi2DHIX",
   "tracks": [
     {
       "added_at": "2024-08-30 15:12:26",
@@ -43,18 +43,18 @@
     {
       "added_at": "2024-08-30 15:12:26",
       "album": {
-        "name": "Caribou (Remastered 1995)",
-        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+        "name": "Twenty Five",
+        "url": "https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 272333,
-      "name": "Step Into Christmas - Remastered 1995",
-      "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
+      "duration_ms": 267160,
+      "name": "Last Christmas - Remastered",
+      "url": "https://open.spotify.com/track/6wn2nmFn3wDuiMldRiuRuL"
     },
     {
       "added_at": "2024-08-30 15:12:26",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-08-30 15:12:26",
       "album": {
+        "name": "Caribou (Remastered 1995)",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 272333,
+      "name": "Step Into Christmas - Remastered 1995",
+      "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
+    },
+    {
+      "added_at": "2024-08-30 15:12:26",
+      "album": {
         "name": "A Christmas Gift For You From Phil Spector",
         "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
       },
@@ -87,6 +103,22 @@
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "The Gift Of Love",
+        "url": "https://open.spotify.com/album/4RpetlbDDEMU1nFLSdG9m5"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 154032,
+      "name": "Let There Be Joy - Bonus Track",
+      "url": "https://open.spotify.com/track/76Fz89H0J6Q3nNaQ4EnfqP"
     },
     {
       "added_at": "2024-08-30 15:12:26",
@@ -121,20 +153,20 @@
       "url": "https://open.spotify.com/track/36NhKGzYlB5kWuZ87WdOBV"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
+      "added_at": "2024-08-30 15:12:26",
       "album": {
-        "name": "The Gift Of Love",
-        "url": "https://open.spotify.com/album/45O6APAhmBxi7A60Df0h9W"
+        "name": "A Christmas Gift For You From Phil Spector",
+        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
       },
       "artists": [
         {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
         }
       ],
-      "duration_ms": 203097,
-      "name": "Santa For Someone",
-      "url": "https://open.spotify.com/track/41131KEQzYOtJiYxOcXyxp"
+      "duration_ms": 166453,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
     },
     {
       "added_at": "2024-08-30 15:12:26",
@@ -201,6 +233,22 @@
       "url": "https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl"
     },
     {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Snow Globe",
+        "url": "https://open.spotify.com/album/2srA0CCelnTz8DtZBOKJqj"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 201768,
+      "name": "Snow Globe",
+      "url": "https://open.spotify.com/track/1sTeVgEZQlEGx6ipR9sw2M"
+    },
+    {
       "added_at": "2024-08-30 15:12:26",
       "album": {
         "name": "Home Alone - Soundtrack",
@@ -219,38 +267,6 @@
     {
       "added_at": "2024-08-30 15:12:26",
       "album": {
-        "name": "A Christmas Gift For You From Phil Spector",
-        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
-      },
-      "artists": [
-        {
-          "name": "Darlene Love",
-          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Christmas (Baby Please Come Home)",
-      "url": "https://open.spotify.com/track/46pF1zFimM582ss1PrMy68"
-    },
-    {
-      "added_at": "2024-08-30 15:12:26",
-      "album": {
-        "name": "Twenty Five",
-        "url": "https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 267160,
-      "name": "Last Christmas - Remastered",
-      "url": "https://open.spotify.com/track/6wn2nmFn3wDuiMldRiuRuL"
-    },
-    {
-      "added_at": "2024-08-30 15:12:26",
-      "album": {
         "name": "Tougher Than Leather (Expanded Edition)",
         "url": "https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv"
       },
@@ -263,6 +279,22 @@
       "duration_ms": 178613,
       "name": "Christmas In Hollis",
       "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "The Gift Of Love",
+        "url": "https://open.spotify.com/album/45O6APAhmBxi7A60Df0h9W"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
+        }
+      ],
+      "duration_ms": 203097,
+      "name": "Santa For Someone",
+      "url": "https://open.spotify.com/track/41131KEQzYOtJiYxOcXyxp"
     },
     {
       "added_at": "2024-08-30 15:12:26",
@@ -361,6 +393,22 @@
       "url": "https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON"
     },
     {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "You For Christmas",
+        "url": "https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 174004,
+      "name": "You For Christmas",
+      "url": "https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN"
+    },
+    {
       "added_at": "2024-08-30 15:12:26",
       "album": {
         "name": "The Best Of The Waitresses",
@@ -375,6 +423,26 @@
       "duration_ms": 320800,
       "name": "Christmas Wrapping",
       "url": "https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "SLEIGH",
+        "url": "https://open.spotify.com/album/6hy6zpx7aPAYxpe5YrUths"
+      },
+      "artists": [
+        {
+          "name": "Jessica Vosk",
+          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        }
+      ],
+      "duration_ms": 215082,
+      "name": "Christmas Is Only Moments Away [Feat. Scott Hoying]",
+      "url": "https://open.spotify.com/track/2lgaG2ZgueuO3IVwJAG7yd"
     },
     {
       "added_at": "2024-08-30 15:12:26",
@@ -515,6 +583,22 @@
       "duration_ms": 267600,
       "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
       "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "A Drummer Boy Christmas",
+        "url": "https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 288045,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH"
     },
     {
       "added_at": "2024-08-30 15:12:26",

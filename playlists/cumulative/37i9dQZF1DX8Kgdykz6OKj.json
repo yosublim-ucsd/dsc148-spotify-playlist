@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 120029,
       "name": "BREAK BREAD",
       "url": "https://open.spotify.com/track/1BEMiV33Zy3htKqppm6pKU"
@@ -2310,6 +2310,24 @@
       "duration_ms": 113747,
       "name": "Donny In Valdez - PJ's Flip",
       "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
+    },
+    {
+      "album": {
+        "name": "Dont Wanna C Me Rich",
+        "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141172,
+      "name": "Dont Wanna C Me Rich",
+      "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
     },
     {
       "album": {
@@ -4898,7 +4916,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 141131,
       "name": "KNOCK YA SONIC RINGS",
       "url": "https://open.spotify.com/track/4sTEZtYcTYGsVgie9Qatkh"
@@ -5806,10 +5824,6 @@
         {
           "name": "Shin-Ski",
           "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        },
-        {
-          "name": "Chill Select",
-          "url": "https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul"
         }
       ],
       "date_added": "2021-12-16",
@@ -7938,7 +7952,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 176149,
       "name": "Still Not In Space",
       "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
@@ -8740,7 +8754,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 413560,
       "name": "The Sophisticated Hippie - Easy Mo Bee Remix",
       "url": "https://open.spotify.com/track/4a4tlk5e9ktzcbdxqbEoxi"
@@ -9618,6 +9632,24 @@
       "duration_ms": 223960,
       "name": "You Know Now - Remix",
       "url": "https://open.spotify.com/track/1sttCoY0ge1wtnMOsu0r6b"
+    },
+    {
+      "album": {
+        "name": "You're the Only One Watching (Showbiz)",
+        "url": "https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "You're the Only One Watching (Showbiz)",
+      "url": "https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq"
     },
     {
       "album": {

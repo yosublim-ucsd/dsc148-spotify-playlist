@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "\"In case I make it,\"",
+        "url": "https://open.spotify.com/album/0O6onBuhBVzHtJb9bk4rOV"
+      },
+      "artists": [
+        {
+          "name": "Will Wood",
+          "url": "https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278481,
+      "name": "Vampire Reference in a Minor Key",
+      "url": "https://open.spotify.com/track/6yF5PIbuoQFBn5On5Fual4"
+    },
+    {
+      "album": {
         "name": "I Brought You My Bullets, You Brought Me Your Love",
         "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },

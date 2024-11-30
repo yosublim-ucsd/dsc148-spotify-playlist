@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 36051,
+  "num_followers": 36053,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
         }
       ],
-      "duration_ms": 277867,
-      "name": "M\u01b0a N\u1eeda \u0110\u00eam",
-      "url": "https://open.spotify.com/track/0vnjhjBYb4N5xAKgqpnKjW"
+      "duration_ms": 291040,
+      "name": "T\u00ecnh \u0110\u1eddi",
+      "url": "https://open.spotify.com/track/3AapzAOz30pa0xmE9ojPh1"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF"
         }
       ],
-      "duration_ms": 291040,
-      "name": "T\u00ecnh \u0110\u1eddi",
-      "url": "https://open.spotify.com/track/3AapzAOz30pa0xmE9ojPh1"
+      "duration_ms": 277867,
+      "name": "M\u01b0a N\u1eeda \u0110\u00eam",
+      "url": "https://open.spotify.com/track/0vnjhjBYb4N5xAKgqpnKjW"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-05-27 07:52:43",
       "album": {
-        "name": "M\u01b0a R\u1eebng",
-        "url": "https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq"
-      },
-      "artists": [
-        {
-          "name": "L\u01b0u H\u1ed3ng",
-          "url": "https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "L\u1ea1nh tr\u1ecdn \u0111\u00eam m\u01b0a",
-      "url": "https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk"
-    },
-    {
-      "added_at": "2024-05-27 07:52:43",
-      "album": {
         "name": "Nhac Tuyen 2",
         "url": "https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 292091,
       "name": "Ai Kho Vi Ai",
       "url": "https://open.spotify.com/track/5T106xgu6e1CovG6dGLpTD"
+    },
+    {
+      "added_at": "2024-05-27 07:52:43",
+      "album": {
+        "name": "M\u01b0a R\u1eebng",
+        "url": "https://open.spotify.com/album/1SyuuH6GragftZfYVuLqUq"
+      },
+      "artists": [
+        {
+          "name": "L\u01b0u H\u1ed3ng",
+          "url": "https://open.spotify.com/artist/2wJg82ZntgAYwgFq0TfmkB"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "L\u1ea1nh tr\u1ecdn \u0111\u00eam m\u01b0a",
+      "url": "https://open.spotify.com/track/3rp4ByvMSs64N1BYxuijLk"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -651,22 +651,22 @@
     {
       "added_at": "2024-05-27 07:52:43",
       "album": {
-        "name": "Kh\u00f4ng Ph\u1ea3i T\u1ea1i Ch\u00fang M\u00ecnh",
-        "url": "https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh"
+        "name": "\u00c1o M\u1edbi C\u00e0 Mau",
+        "url": "https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9"
       },
       "artists": [
         {
-          "name": "Quang L\u00ea",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
         },
         {
-          "name": "Nguy\u00ean L\u00ea",
-          "url": "https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U"
+          "name": "Kh\u01b0u Huy V\u0169",
+          "url": "https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP"
         }
       ],
-      "duration_ms": 335266,
-      "name": "Li\u00ean Kh\u00fac M\u01b0a N\u1eeda \u0110\u00eam - Ai Cho T\u00f4i T\u00ecnh Y\u00eau",
-      "url": "https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel"
+      "duration_ms": 358321,
+      "name": "Hoa M\u01b0\u1eddi Gi\u1edd",
+      "url": "https://open.spotify.com/track/5kV1lCH5ehwnA9KUH8HXc4"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -687,22 +687,22 @@
     {
       "added_at": "2024-05-27 07:52:43",
       "album": {
-        "name": "\u00c1o M\u1edbi C\u00e0 Mau",
-        "url": "https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9"
+        "name": "Kh\u00f4ng Ph\u1ea3i T\u1ea1i Ch\u00fang M\u00ecnh",
+        "url": "https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh"
       },
       "artists": [
         {
-          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
-          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+          "name": "Quang L\u00ea",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
         },
         {
-          "name": "Kh\u01b0u Huy V\u0169",
-          "url": "https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP"
+          "name": "Nguy\u00ean L\u00ea",
+          "url": "https://open.spotify.com/artist/44tv8Ok9mYOhirL1RyTn2U"
         }
       ],
-      "duration_ms": 358321,
-      "name": "Hoa M\u01b0\u1eddi Gi\u1edd",
-      "url": "https://open.spotify.com/track/5kV1lCH5ehwnA9KUH8HXc4"
+      "duration_ms": 335266,
+      "name": "Li\u00ean Kh\u00fac M\u01b0a N\u1eeda \u0110\u00eam - Ai Cho T\u00f4i T\u00ecnh Y\u00eau",
+      "url": "https://open.spotify.com/track/0X2YIrnOLoYDfkPtdCkTel"
     },
     {
       "added_at": "2024-05-27 07:52:43",

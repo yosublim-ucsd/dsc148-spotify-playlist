@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Henri PFR
 
-2,802 songs - 6 day 4 hr 57 min
+2,804 songs - 6 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -738,7 +738,7 @@
 | [Electric High](https://open.spotify.com/track/1MEiXJK91I7by4os5CxKpH) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Electric High](https://open.spotify.com/album/676PjzaourdD3l6Nb3HpwO) | 2:24 | 2024-07-26 | 2024-08-02 |
 | [ELISA](https://open.spotify.com/track/0pwDMVFGtlwSAP7SUw0yPW) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [ELISA](https://open.spotify.com/album/4t5cJtdXcgHQ5HlOd5anzr) | 2:44 | 2024-09-19 | 2024-09-27 |
 | [Elle veut jouer](https://open.spotify.com/track/5SgWtxeEdURryOPLk5fdfk) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Singuila](https://open.spotify.com/artist/7uN1aqKCrD6Ju1sn74MPgf) | [Elle veut jouer](https://open.spotify.com/album/4c6nG8eIqzLAh3SH7QDh2n) | 2:48 | 2024-06-13 | 2024-06-21 |
-| [Elusive \- Live with the New Choir](https://open.spotify.com/track/2Jn1phO38Lst3kkuaSGAza) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [The New Choir](https://open.spotify.com/artist/11cNrk7Gk0G5mxUs3CIUZa) | [Elusive \(Live with the New Choir\)](https://open.spotify.com/album/27uQvTVwPdFNuRDpSass2Y) | 4:21 | 2024-11-28 |  |
+| [Elusive \- Live with The New Choir](https://open.spotify.com/track/2Jn1phO38Lst3kkuaSGAza) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [The New Choir](https://open.spotify.com/artist/11cNrk7Gk0G5mxUs3CIUZa) | [Elusive \(Live with The New Choir\)](https://open.spotify.com/album/27uQvTVwPdFNuRDpSass2Y) | 4:21 | 2024-11-28 |  |
 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 | 2024-10-17 | 2024-10-25 |
 | [Enchanté](https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA) | [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Enchanté](https://open.spotify.com/album/65GWrU6ZK6CqWzGrDETzbV) | 2:53 | 2024-09-26 | 2024-10-04 |
 | [end game](https://open.spotify.com/track/3YyyTcNUwJU4fS01fppkkZ) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [end game](https://open.spotify.com/album/28Al1lPpcToVKiM8EnNuXz) | 2:26 | 2024-04-26 | 2024-05-03 |
@@ -1582,7 +1582,8 @@
 | [miroir](https://open.spotify.com/track/07j07OoInpz9YGQ3bbKPlR) | [CHARLES](https://open.spotify.com/artist/3BAyGVtoPcmQbeb58hlIZs) | [miroir / Red Light](https://open.spotify.com/album/6k86lCqjXPJfucjK3FVbzO) | 2:37 | 2024-10-24 | 2024-11-01 |
 | [Mirror Mirror](https://open.spotify.com/track/0cnSoVmeUWyNwUzbbYjbeI) | [D\-Devils](https://open.spotify.com/artist/00Q38FFuCE7XCDMhuYYTao) | [Mirror Mirror](https://open.spotify.com/album/1ChOyl3SuWRyWPQsqvEQJj) | 2:12 | 2024-09-19 | 2024-09-27 |
 | [Mirror On The Wall](https://open.spotify.com/track/3HLnLQ7PyUrsGzKukpC25L) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt) | [Mirror On The Wall](https://open.spotify.com/album/554DtrbEIjxvwOk1GDBP5N) | 3:15 | 2024-10-17 | 2024-10-25 |
-| [MISS LILY'S](https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 3:19 | 2024-11-28 |  |
+| [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-11-28 |  |
+| [MISS LILY'S](https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 3:19 | 2024-11-28 |  |
 | [Miss Me \(Bad Vibes\)](https://open.spotify.com/track/15e0X7dZpR6r4bE6lpmNGW) | [Bex](https://open.spotify.com/artist/2PLgHkAWIico5HHJIq5Trl) | [Miss Me \(Bad Vibes\)](https://open.spotify.com/album/3TIpMfHHSHcxAK21dznS1k) | 2:33 | 2024-07-12 | 2024-07-19 |
 | [miss u](https://open.spotify.com/track/4BQFr6YeljwNfs9g3DL6Nc) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [miss u](https://open.spotify.com/album/0NRm4VWhqazZsWtXu4LAIl) | 3:22 | 2024-10-10 | 2024-10-18 |
 | [Missing](https://open.spotify.com/track/3xFwcah1a6BIVR7xPIZuYh) | [The Feather](https://open.spotify.com/artist/6ZhYrSh1U6FaRYefNSLwCc) | [Missing](https://open.spotify.com/album/0ikzTLzjdsvnGk4ojxpcX5) | 2:58 | 2024-07-04 | 2024-07-12 |
@@ -1911,6 +1912,7 @@
 | [Phantom Island](https://open.spotify.com/track/4nLZhCmYLNN4rAHdXomhjp) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Phantom Island](https://open.spotify.com/album/0PFSE0ufsMJPTM7bDTv5Rc) | 5:16 | 2024-10-31 | 2024-11-08 |
 | [Phat Butt](https://open.spotify.com/track/2b7aNhysTRNWSiNM47UeWG) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Phat Butt](https://open.spotify.com/album/13lNTRScGj4CVAYszzxioi) | 2:09 | 2024-06-20 | 2024-06-28 |
 | [Picasso](https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Picasso](https://open.spotify.com/album/7aeEAI1j1z0yDnBVaaN967) | 3:16 | 2024-05-09 | 2024-05-17 |
+| [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-11-28 |  |
 | [Pick Up The Pace \(feat\. Bayka\)](https://open.spotify.com/track/2VLLXmcR2ahOi8hLS6qUxQ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Pick Up The Pace \(feat\. Bayka\)](https://open.spotify.com/album/6xKgXvMCjS2li7upWSw2KJ) | 2:34 | 2024-11-15 | 2024-11-22 |
 | [Picture for Your Memory](https://open.spotify.com/track/3hsy9bemKtnQlQvbEdESLR) | [Alex Lucas](https://open.spotify.com/artist/5gBMpIeE2zqYUoBOYD9lKB) | [Picture for Your Memory](https://open.spotify.com/album/02bkHnfc06WDXsC2auI3F2) | 3:39 | 2024-07-26 | 2024-08-02 |
 | [Piece By Piece](https://open.spotify.com/track/34Eq9XKbBktHSP17Yft9Xf) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Princess Anne High School Fabulous Marching Cavaliers](https://open.spotify.com/artist/5gFwLXV3kxr7yckCFOCzLP) | [Piece By Piece](https://open.spotify.com/album/3RNrlAvXWiF75OZgBqpbQc) | 2:53 | 2024-10-10 | 2024-10-18 |

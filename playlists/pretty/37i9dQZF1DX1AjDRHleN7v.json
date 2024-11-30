@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 336919,
+  "num_followers": 337178,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Me Leva",
-        "url": "https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 148445,
-      "name": "Me Leva",
-      "url": "https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Refletir (Resista)",
         "url": "https://open.spotify.com/album/4q8jyiEtpecQblVyRUASht"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 240000,
       "name": "Refletir (Resista)",
       "url": "https://open.spotify.com/track/0MI5P7TQYEjyTnQVQisbZB"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Me Leva",
+        "url": "https://open.spotify.com/album/2l1uiUn0H6RV7ULkzj5jPv"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 148445,
+      "name": "Me Leva",
+      "url": "https://open.spotify.com/track/5NeGYCOfojjoFdgYf3zupx"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -579,22 +579,18 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "TEM CORAGEM",
-        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
+        "name": "Uma Noite E 1/2",
+        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
       },
       "artists": [
         {
-          "name": "Bells",
-          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
-        },
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+          "name": "Rodrigo Costa",
+          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
         }
       ],
-      "duration_ms": 244487,
-      "name": "TEM CORAGEM",
-      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
+      "duration_ms": 170608,
+      "name": "Uma Noite E 1/2",
+      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -615,18 +611,22 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Uma Noite E 1/2",
-        "url": "https://open.spotify.com/album/3CJRazEYFedeCnvMtHvtua"
+        "name": "TEM CORAGEM",
+        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
       },
       "artists": [
         {
-          "name": "Rodrigo Costa",
-          "url": "https://open.spotify.com/artist/2HKe0e9UKKX1aBRvY0nmL7"
+          "name": "Bells",
+          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
         }
       ],
-      "duration_ms": 170608,
-      "name": "Uma Noite E 1/2",
-      "url": "https://open.spotify.com/track/5GlfIGn9OlBlo9YVMENbzS"
+      "duration_ms": 244487,
+      "name": "TEM CORAGEM",
+      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
-      },
-      "artists": [
-        {
-          "name": "Patr\u00edcia Ahmaral",
-          "url": "https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 209971,
       "name": "Sol da Meia-Noite",
       "url": "https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
+      },
+      "artists": [
+        {
+          "name": "Patr\u00edcia Ahmaral",
+          "url": "https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx"
+        },
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Filho do Mar",
-        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
-      },
-      "artists": [
-        {
-          "name": "Banda Nossa Praia",
-          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Filho do Mar",
-      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
-    },
-    {
-      "added_at": "2024-09-30 15:39:02",
-      "album": {
         "name": "Meu Destino \u00e9 o Litoral",
         "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-09-30 15:39:02",
       "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+        "name": "Filho do Mar",
+        "url": "https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO"
       },
       "artists": [
         {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+          "name": "Banda Nossa Praia",
+          "url": "https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv"
         }
       ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
+      "duration_ms": 215172,
+      "name": "Filho do Mar",
+      "url": "https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9"
     },
     {
       "added_at": "2024-09-30 15:39:02",
@@ -863,6 +847,22 @@
       "duration_ms": 153253,
       "name": "Terra do Sol",
       "url": "https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf"
+    },
+    {
+      "added_at": "2024-09-30 15:39:02",
+      "album": {
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+      },
+      "artists": [
+        {
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+        }
+      ],
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2024-09-30 15:39:02",

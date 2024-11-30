@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-09-29",
-  "description": "Music for your soul. Cover: Planet Giza",
+  "description": "Music for your soul. Cover: Moses Yoofee Trio",
   "name": "BUTTER",
   "tracks": [
     {
@@ -6090,7 +6090,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 292786,
       "name": "Dawn [ft. esperanza spalding]",
       "url": "https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A"
@@ -20614,6 +20614,24 @@
       "duration_ms": 202033,
       "name": "Revolutionize",
       "url": "https://open.spotify.com/track/6wv28CIvLTxHiDYLMJI16L"
+    },
+    {
+      "album": {
+        "name": "RIDGEWALK",
+        "url": "https://open.spotify.com/album/5dQpb7jmEkKXioLIyVzzkK"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "RIDGEWALK",
+      "url": "https://open.spotify.com/track/5ZUoIhG0oxDT50Hb6xmYd3"
     },
     {
       "album": {

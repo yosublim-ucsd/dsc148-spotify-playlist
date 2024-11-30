@@ -2119,6 +2119,24 @@
     },
     {
       "album": {
+        "name": "Nobody Owns You",
+        "url": "https://open.spotify.com/album/2WPwjBRADu4edc5Xw4B6Vd"
+      },
+      "artists": [
+        {
+          "name": "Joan Osborne",
+          "url": "https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236040,
+      "name": "I Should've Danced More",
+      "url": "https://open.spotify.com/track/64ATnWMoANGIML1HeNWhMO"
+    },
+    {
+      "album": {
         "name": "To the North",
         "url": "https://open.spotify.com/album/4Xuo3WeGm636KmRGZjsYwC"
       },
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 256629,
       "name": "Sunday Funday",
       "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"

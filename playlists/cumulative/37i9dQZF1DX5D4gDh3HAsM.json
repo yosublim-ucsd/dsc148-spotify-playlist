@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "'Zat You, Santa Claus?",
+        "url": "https://open.spotify.com/album/5opq1tjThR338KgZXiJNLd"
+      },
+      "artists": [
+        {
+          "name": "Emmaline",
+          "url": "https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174929,
+      "name": "'Zat You, Santa Claus?",
+      "url": "https://open.spotify.com/track/69EPeS7zEauEkpeGxldINC"
+    },
+    {
+      "album": {
         "name": "A Child Is Born",
         "url": "https://open.spotify.com/album/0qHFbks8ePNTKHEev7RtAj"
       },
@@ -348,7 +366,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 160290,
       "name": "Christmas Don't Be Late",
       "url": "https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y"
@@ -420,7 +438,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 153226,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS"
@@ -756,6 +774,24 @@
       "duration_ms": 222000,
       "name": "Dech The Hall Boughs Of Holly",
       "url": "https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh"
+    },
+    {
+      "album": {
+        "name": "Christmas On Cherry Lane",
+        "url": "https://open.spotify.com/album/0my6MPC1BotPyPAMADhKQs"
+      },
+      "artists": [
+        {
+          "name": "Matt Dusk",
+          "url": "https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100889,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/1YNzRvd17xWVdD0iQjxVaD"
     },
     {
       "album": {
@@ -1142,6 +1178,24 @@
       "duration_ms": 182666,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - Single Version",
       "url": "https://open.spotify.com/track/5lBGSaM1xmAMxP4cpuL0mX"
+    },
+    {
+      "album": {
+        "name": "Holiday Plans",
+        "url": "https://open.spotify.com/album/7kqkOOHq4IlZ5x1htvx8fL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167546,
+      "name": "Holiday Plans",
+      "url": "https://open.spotify.com/track/3scP71lzyrGFu98Qi1tPwD"
     },
     {
       "album": {
@@ -2750,7 +2804,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 278947,
       "name": "What Are You Doing New Year's Eve?",
       "url": "https://open.spotify.com/track/7j1XQuI82j3ui6ERkKgwdI"

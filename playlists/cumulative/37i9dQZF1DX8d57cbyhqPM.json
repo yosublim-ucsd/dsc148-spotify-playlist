@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tontons KeBlack et SDM",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tontons LEVELSANTANA et Gaz Mawete",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -575,6 +575,32 @@
     },
     {
       "album": {
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/1iRNt5807C5qnxCFTo4JIg"
+      },
+      "artists": [
+        {
+          "name": "Gino J",
+          "url": "https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED"
+        },
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        },
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/5qoIidnWnD9y8kvBSu15Rb"
+    },
+    {
+      "album": {
         "name": "Baby mama",
         "url": "https://open.spotify.com/album/5X4KsFChVF9Xwn7URUP5iQ"
       },
@@ -882,6 +908,28 @@
       "duration_ms": 189291,
       "name": "Beaut\u00e9 Africaine",
       "url": "https://open.spotify.com/track/6JDpHqnwC9gn2HV88m2q4z"
+    },
+    {
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/0acRmuhqQyaIqrF27CpawP"
+      },
+      "artists": [
+        {
+          "name": "ND",
+          "url": "https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ"
+        },
+        {
+          "name": "Afriki",
+          "url": "https://open.spotify.com/artist/7wplUIsQsBY2x6E6XSZDAB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/0qx78Gvw4GSjp3664A8ari"
     },
     {
       "album": {
@@ -1627,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "SK",
+        "url": "https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kalume",
+          "url": "https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184378,
+      "name": "CHERIE NA NGA",
+      "url": "https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ"
+    },
+    {
+      "album": {
         "name": "Chocomix",
         "url": "https://open.spotify.com/album/0aeGlsQjatfwXPZwA2VOxh"
       },
@@ -2234,6 +2300,28 @@
       "duration_ms": 140064,
       "name": "Djigili",
       "url": "https://open.spotify.com/track/0zAGFIM9C5BfqPB9vD57ex"
+    },
+    {
+      "album": {
+        "name": "Djossa",
+        "url": "https://open.spotify.com/album/4bCVmbvrXuhjGe7uHE6B8F"
+      },
+      "artists": [
+        {
+          "name": "LUVANGA",
+          "url": "https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy"
+        },
+        {
+          "name": "Sekzy",
+          "url": "https://open.spotify.com/artist/3JfKYqGySja1gL67kxe99V"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142031,
+      "name": "Djossa",
+      "url": "https://open.spotify.com/track/7rD1LKZ7AKHMZHRbkqZVJT"
     },
     {
       "album": {
@@ -3730,7 +3818,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 185266,
       "name": "J'ai plus le temps",
       "url": "https://open.spotify.com/track/146yTsdRcluEujxr6dh4Xm"
@@ -3770,7 +3858,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 134237,
       "name": "J'tavais dit",
       "url": "https://open.spotify.com/track/6ea29bTvxUo7ZLnI8CbjLD"
@@ -3948,7 +4036,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 303647,
       "name": "Joyau",
       "url": "https://open.spotify.com/track/6ctCi1JCg5WNiskgMCszWj"
@@ -4958,7 +5046,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 226019,
       "name": "LONDON 2 PANAME (feat. Liim's)",
       "url": "https://open.spotify.com/track/27R8gQAfvh2fpd5Tx9HND9"
@@ -6348,7 +6436,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 197462,
       "name": "NAKUPENDA",
       "url": "https://open.spotify.com/track/1g5RbYsR7u6JfjlHOy7Mus"
@@ -6650,7 +6738,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 155368,
       "name": "No stress",
       "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
@@ -7617,6 +7705,28 @@
     },
     {
       "album": {
+        "name": "PONA MOMY",
+        "url": "https://open.spotify.com/album/53csiPd1deFTRnepRbiiP8"
+      },
+      "artists": [
+        {
+          "name": "LEVELSANTANA",
+          "url": "https://open.spotify.com/artist/4KwWARbWitQT4aqpS23w9O"
+        },
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171581,
+      "name": "PONA MOMY",
+      "url": "https://open.spotify.com/track/2H7qjwMpfBuDf0NX7dBilc"
+    },
+    {
+      "album": {
         "name": "BDLM VOL.1",
         "url": "https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa"
       },
@@ -8060,6 +8170,32 @@
       "duration_ms": 206786,
       "name": "Sap\u00e9s comme jamais (feat. Niska) - Pilule bleue",
       "url": "https://open.spotify.com/track/0CJ31BEjjl1tPIj0CKi9kH"
+    },
+    {
+      "album": {
+        "name": "Sarah Solo",
+        "url": "https://open.spotify.com/album/0xhkdXFnqDRNjmEPduWcla"
+      },
+      "artists": [
+        {
+          "name": "DjeuhDjoah",
+          "url": "https://open.spotify.com/artist/6oay09Jpzlp3TKFbx7GBMY"
+        },
+        {
+          "name": "Lieutenant Nicholson",
+          "url": "https://open.spotify.com/artist/7veGa0wVnoD20wadhEUMq5"
+        },
+        {
+          "name": "Sarah Solo",
+          "url": "https://open.spotify.com/artist/6ezpeVsmCk7rlu0VvxSRyp"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221379,
+      "name": "Sarah Solo",
+      "url": "https://open.spotify.com/track/54rPlGXJmKrzy0DmypjKGa"
     },
     {
       "album": {

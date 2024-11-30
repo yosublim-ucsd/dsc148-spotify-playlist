@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 345704,
+  "num_followers": 345796,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -579,42 +579,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "More and More Beautiful",
-        "url": "https://open.spotify.com/album/4OsTxMJ03VjSq0X7OC8DAA"
-      },
-      "artists": [
-        {
-          "name": "Skye Peterson",
-          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
-        },
-        {
-          "name": "Thomas Austin",
-          "url": "https://open.spotify.com/artist/4S0F3JSBqpwPP9jxSdcCJo"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "More and More Beautiful",
-      "url": "https://open.spotify.com/track/71YaMrCwbb7DFjrKxF7hAj"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/7bXz8wbmO4gyygphTEppzz"
-      },
-      "artists": [
-        {
-          "name": "Ivan Theva",
-          "url": "https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/4qYBn5stKMdNS14SZfgRL1"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] (feat. Leslie Jordan] [Thomas Merton Mix)",
         "url": "https://open.spotify.com/album/0pNvG1RHm2oONef2kFbGkw"
       },
@@ -635,6 +599,42 @@
       "duration_ms": 300746,
       "name": "Psalm 136 [Your Mercy Endures] [Thomas Merton Mix] - feat. Leslie Jordan] [Thomas Merton Mix",
       "url": "https://open.spotify.com/track/685qjYgfMFp0UKvPbDNYoz"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/7bXz8wbmO4gyygphTEppzz"
+      },
+      "artists": [
+        {
+          "name": "Ivan Theva",
+          "url": "https://open.spotify.com/artist/5DXiy58vu9lP6cW5eKDeBg"
+        }
+      ],
+      "duration_ms": 257519,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/4qYBn5stKMdNS14SZfgRL1"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "More and More Beautiful",
+        "url": "https://open.spotify.com/album/4OsTxMJ03VjSq0X7OC8DAA"
+      },
+      "artists": [
+        {
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
+        },
+        {
+          "name": "Thomas Austin",
+          "url": "https://open.spotify.com/artist/4S0F3JSBqpwPP9jxSdcCJo"
+        }
+      ],
+      "duration_ms": 228200,
+      "name": "More and More Beautiful",
+      "url": "https://open.spotify.com/track/71YaMrCwbb7DFjrKxF7hAj"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "25th floor of a reservation casino",
-        "url": "https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF"
-      },
-      "artists": [
-        {
-          "name": "Andrew Osenga",
-          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "how great thou art",
-      "url": "https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "In Every Way",
         "url": "https://open.spotify.com/album/79XjwIUuzdsB6zEyugFEUv"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 263213,
       "name": "In Every Way",
       "url": "https://open.spotify.com/track/0ILZCXYCSq6AnBvBSOnmeB"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "25th floor of a reservation casino",
+        "url": "https://open.spotify.com/album/2Tqb3XASaRS2WSxjzDrYQF"
+      },
+      "artists": [
+        {
+          "name": "Andrew Osenga",
+          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "how great thou art",
+      "url": "https://open.spotify.com/track/7utnfGm43yniXcoW9Btz5R"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
+        }
+      ],
+      "duration_ms": 274373,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Taste And See",
         "url": "https://open.spotify.com/album/7tAfgGPhPmkuyS859BMsHg"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "How Can I",
-        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
       },
       "artists": [
         {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
         }
       ],
-      "duration_ms": 274373,
-      "name": "How Can I",
-      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1135,22 +1151,6 @@
       "duration_ms": 254488,
       "name": "I Will Sing",
       "url": "https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
-      },
-      "artists": [
-        {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
-        }
-      ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Who May Ascend",
-        "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
-      },
-      "artists": [
-        {
-          "name": "Cross Church Worship",
-          "url": "https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Who May Ascend",
-      "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "That's What I Call Free",
         "url": "https://open.spotify.com/album/7q04MbeIiDZ6ij6EWqmqAb"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 231438,
       "name": "That's What I Call Free",
       "url": "https://open.spotify.com/track/45mQtcoDydArdV3L7Fa7Dl"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Who May Ascend",
+        "url": "https://open.spotify.com/album/5tlyBPuMZQeuXT0SzsitGG"
+      },
+      "artists": [
+        {
+          "name": "Cross Church Worship",
+          "url": "https://open.spotify.com/artist/0IFpK3lWIPdykCw3qQpjNO"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Who May Ascend",
+      "url": "https://open.spotify.com/track/4hD29U9zLHZrVOCcaBPeoo"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "You Never Break a Promise",
         "url": "https://open.spotify.com/album/2hmFbkOIyuU2tInHCMWCzA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 337760,
       "name": "You Never Break a Promise",
       "url": "https://open.spotify.com/track/6T9fv9tlmxc0RyaHp8HsR8"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
-      },
-      "artists": [
-        {
-          "name": "Faith Rose",
-          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
-        }
-      ],
-      "duration_ms": 229617,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Conquering Eden",
         "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 240337,
       "name": "One Too Many Reasons",
       "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
+      },
+      "artists": [
+        {
+          "name": "Faith Rose",
+          "url": "https://open.spotify.com/artist/364y53omHupjImsnsOJkpp"
+        }
+      ],
+      "duration_ms": 229617,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Go With Me",
-        "url": "https://open.spotify.com/album/4At1FoRpKILlQScRac9B65"
-      },
-      "artists": [
-        {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
-        }
-      ],
-      "duration_ms": 265566,
-      "name": "Go With Me",
-      "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Teach Us That One Song",
         "url": "https://open.spotify.com/album/6LcfPho01IaVl7LO6k39fb"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/5CEAfa46IDXBTnggrK2oAN"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Go With Me",
+        "url": "https://open.spotify.com/album/4At1FoRpKILlQScRac9B65"
+      },
+      "artists": [
+        {
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+        }
+      ],
+      "duration_ms": 265566,
+      "name": "Go With Me",
+      "url": "https://open.spotify.com/track/33kmueuQIaTvpYfhqsxhZw"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1583,6 +1583,22 @@
       "duration_ms": 297005,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/3ttUhmMipgjIBjfp0TatCm"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Goodness",
+        "url": "https://open.spotify.com/album/16a0mCgRA5HPmk86U4UJ3I"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "duration_ms": 334340,
+      "name": "Goodness",
+      "url": "https://open.spotify.com/track/2l3jQnu4yQHwojxoEHlzcn"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1723,22 +1739,6 @@
       "duration_ms": 344206,
       "name": "We Rise",
       "url": "https://open.spotify.com/track/1XA0wKDdMwgbdb7Snxwlnc"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "Goodness",
-        "url": "https://open.spotify.com/album/16a0mCgRA5HPmk86U4UJ3I"
-      },
-      "artists": [
-        {
-          "name": "RNW Music",
-          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
-        }
-      ],
-      "duration_ms": 334340,
-      "name": "Goodness",
-      "url": "https://open.spotify.com/track/2l3jQnu4yQHwojxoEHlzcn"
     }
   ],
   "unique_name": "Christian Coffeehouse",

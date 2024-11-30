@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: AP Dhillon
 
-286 songs - 15 hr 27 min
+287 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Stormrider](https://open.spotify.com/track/2GLdmRFgdGWQLThP5feQji) | [Jacqueline Fernandez](https://open.spotify.com/artist/3HrBxG64scPxP1mrTmZxM6) | [Stormrider](https://open.spotify.com/album/1lc7jvS3bJOwsNdJEtHFva) | 2:17 | 2024-09-20 |  |
 | [Summer Luv](https://open.spotify.com/track/1vwHEMn3RJBteolX643U9a) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t) | [Summer Luv](https://open.spotify.com/album/2weXKmabg9k3ejyWBxaNWb) | 3:01 | 2021-11-11 | 2022-07-19 |
 | [Suniyan Suniyan](https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu) | [Juss](https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Suniyan Suniyan](https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR) | 3:17 | 2024-07-15 |  |
+| [Tadha Tadha](https://open.spotify.com/track/3gZ0eP6lDidIcNqLmgoBTc) | [Wangden Sherpa](https://open.spotify.com/artist/5sml6juxnDkUFi3K3bRAuq), [Prajina](https://open.spotify.com/artist/5hcYAkz7DuyMy1JDinat5a) | [Tadha Tadha](https://open.spotify.com/album/4au4xmmZH1Ls0x3ujkSnSZ) | 2:39 | 2024-11-29 |  |
 | [Teju](https://open.spotify.com/track/0H8sDfz5yN30bvta2t67cX) | [Twinjabi](https://open.spotify.com/artist/3nU1DJyXFkJps0WK4mDniK) | [Teju](https://open.spotify.com/album/62mkIyXnLf1U4mrD7pjxCK) | 2:33 | 2021-11-11 | 2022-07-19 |
 | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv) | [Ahmed Jahanzeb](https://open.spotify.com/artist/2mwbuz349OET9y5xYFUnrR) | [Tera Mera Hai Pyar \(From "Ishq Murshid"\)](https://open.spotify.com/album/2R6fwaRteK3HgyufFhcdDm) | 3:28 | 2024-02-22 |  |
 | [Tere Bina Na Guzara E](https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN) | [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a) | [Tere Bina Na Guzara E](https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV) | 3:40 | 2024-11-26 |  |

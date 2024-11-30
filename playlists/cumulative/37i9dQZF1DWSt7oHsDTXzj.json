@@ -508,7 +508,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 192440,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
@@ -1871,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "Happy Xmas (War Is Over)",
+        "url": "https://open.spotify.com/album/0q9qPcq5tk3GQx1r4U65SZ"
+      },
+      "artists": [
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        },
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206994,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/6M3psbHFfLJbYNK0n2Mw1B"
+    },
+    {
+      "album": {
         "name": "Have Yourself A Merry Little Christmas",
         "url": "https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX"
       },
@@ -2570,7 +2592,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 161811,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5"
@@ -2722,6 +2744,32 @@
       "duration_ms": 135506,
       "name": "Little Saint Nick",
       "url": "https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i"
+    },
+    {
+      "album": {
+        "name": "Little Saint Nick (feat. Chris Leonard)",
+        "url": "https://open.spotify.com/album/6jtc0gyGiNGAs7WguSuorW"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        },
+        {
+          "name": "Andy Burrows",
+          "url": "https://open.spotify.com/artist/1gYp1OMI5TA9gdiwfdC57M"
+        },
+        {
+          "name": "Chris Leonard",
+          "url": "https://open.spotify.com/artist/1yJ0BlRqTPJIPt5faUpmvS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157069,
+      "name": "Little Saint Nick - feat. Chris Leonard",
+      "url": "https://open.spotify.com/track/1gX2YOv6VG3fpfBvM3lJZK"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [RAP 91](https://open.spotify.com/playlist/37i9dQZF1DX1ct2TQrAvRf)
 
-> India's Rap Scene\. Cover\- Raftaar
+> India's Rap Scene\. Cover\- Loka & Sambata
 
-224 songs - 12 hr 21 min
+225 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Beta Karta Rap](https://open.spotify.com/track/5yVIHCJRdQNyIQa4sOrsW5) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [King Of The Streets](https://open.spotify.com/album/2hPOXAgxqTZvkg8qNKO88e) | 3:20 | 2023-06-09 | 2023-08-04 |
 | [Bhai Hai](https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Bhai Hai](https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap) | 2:24 | 2024-06-14 | 2024-09-06 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-07-26 |  |
+| [BLACK MONEY](https://open.spotify.com/track/41seYWMdVrlD6crsKjITa3) | [Loka](https://open.spotify.com/artist/0AK5uxL2fY52xEoj1bBySu), [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [BLACK MONEY](https://open.spotify.com/album/2Vgj5bKE2x6v5qYShCmaQZ) | 3:48 | 2024-11-29 |  |
 | [Bread And Butter](https://open.spotify.com/track/3DobnqNHraZV31RycNkFBF) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Street Knowledge](https://open.spotify.com/album/4atfMjGwk0GMXIvGvqyNqC) | 2:39 | 2023-09-04 | 2023-12-09 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1guV4vXt4fnnwALAdxy5hq) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:36 | 2023-07-17 | 2024-04-19 |
 | [Bt Ho Gayi](https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 2:40 | 2023-03-27 | 2024-08-27 |
@@ -169,7 +170,7 @@
 | [Pablo](https://open.spotify.com/track/4ggG5qVYvi1tzluIU0MXoo) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Champagne Talk](https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG) | 4:39 | 2023-03-27 | 2023-08-18 |
 | [Panthalchant](https://open.spotify.com/track/3pdqA52jfLMiIGx6Xma0OT) | [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [Wraith V](https://open.spotify.com/artist/4BOMjhDXc0Aet35ZlLZNgZ) | [Panthalchant](https://open.spotify.com/album/33dJvXVV2C0DcnVVBdYNz3) | 3:49 | 2024-10-09 |  |
 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 | 2024-08-26 |  |
-| [PHEK PAISA](https://open.spotify.com/track/33k8CHdnsbvKITAmiUAdAm) | [Raaj Babu](https://open.spotify.com/artist/0upP3hJOHMqdxmK74O225f), [Ricky On The Beat](https://open.spotify.com/artist/0wbqzXArv1toPkbnqV1wsx) | [RAAJWADI](https://open.spotify.com/album/7gGJoEMtEEYycf94V5UX9i) | 2:38 | 2024-09-25 |  |
+| [PHEK PAISA](https://open.spotify.com/track/33k8CHdnsbvKITAmiUAdAm) | [Raaj Babu](https://open.spotify.com/artist/0upP3hJOHMqdxmK74O225f), [Ricky On The Beat](https://open.spotify.com/artist/0wbqzXArv1toPkbnqV1wsx) | [RAAJWADI](https://open.spotify.com/album/7gGJoEMtEEYycf94V5UX9i) | 2:38 | 2024-09-25 | 2024-11-30 |
 | [Pinnak](https://open.spotify.com/track/3xL4EpclRaWvXhxCRpppaj) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2hcpAGNIH7eVABgcSWc0Lw) | 6:30 | 2023-03-27 | 2024-04-19 |
 | [Pinnak](https://open.spotify.com/track/4kw1Tl4ryNxjTtAdFJkD19) | [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO) | [Pinnak](https://open.spotify.com/album/2tmCxw86Ns8FiYzR8NYPSx) | 6:30 | 2023-03-27 | 2024-07-06 |
 | [Pitbull](https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [thekidd.wav](https://open.spotify.com/artist/5LxqBfBqjhbVLjEL32oMj0) | [Pitbull](https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs) | 2:50 | 2024-07-19 | 2024-08-03 |

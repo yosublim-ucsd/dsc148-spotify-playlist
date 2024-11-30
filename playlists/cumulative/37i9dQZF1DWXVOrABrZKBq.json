@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Le rap francophone est en forme. Photo: Damso",
+  "description": "Le rap francophone est en forme. Photo: Gazo",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 180793,
       "name": "1 2 3 4",
       "url": "https://open.spotify.com/track/6feTvFEMNj1ytgfNe6kA88"
@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "Locked Up",
+        "url": "https://open.spotify.com/album/5Q57aL7ma8akgKMCbBjkzD"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155592,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/3ftGuXapLDXSxQvf3o6751"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 152079,
       "name": "Monde \u00e0 l'envers",
       "url": "https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp"

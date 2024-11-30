@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Gilberto Santa Rosa",
+  "description": "Lo nuevo del mundo tropical. Cover: Maisak",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 148818,
       "name": "Bailando As\u00ed - Remix",
       "url": "https://open.spotify.com/track/14K9CZLBACYUtZt1CvyI5M"
@@ -1404,7 +1404,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 211551,
       "name": "Buenas Noches Mi Amor",
       "url": "https://open.spotify.com/track/2R1ibHiJD4dDbzzVBWdIu1"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 181472,
       "name": "Cala En El Alma",
       "url": "https://open.spotify.com/track/4BNkSJRQqvD7TsTkyufMvD"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 204303,
       "name": "Duro De Verdad pt.2",
       "url": "https://open.spotify.com/track/0glj70T9fN3kyJzYmTKzy1"
@@ -3882,7 +3882,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 197653,
       "name": "FANTASIAS Y POES\u00cdAS",
       "url": "https://open.spotify.com/track/13plSK0N5bLqZY3soAPMhE"
@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 218710,
       "name": "INSOMNIO",
       "url": "https://open.spotify.com/track/2LnUHC7HB5n5e5LzHxQuJi"
@@ -6058,7 +6058,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 208214,
       "name": "Me Gusta Pegao'",
       "url": "https://open.spotify.com/track/07f6LergoCMXOqlcfZizq6"
@@ -6506,6 +6506,28 @@
       "duration_ms": 160773,
       "name": "Monedita",
       "url": "https://open.spotify.com/track/19OGn2xyLjXy0bS2YHX5vr"
+    },
+    {
+      "album": {
+        "name": "MONTECARLO",
+        "url": "https://open.spotify.com/album/2iPfnIv70XYMxlJdZr8mpZ"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171847,
+      "name": "MONTECARLO",
+      "url": "https://open.spotify.com/track/0I0EAJKaGTSxdfMJhZqus7"
     },
     {
       "album": {
@@ -8922,6 +8944,24 @@
       "duration_ms": 264757,
       "name": "Se\u00f1or Juez",
       "url": "https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1or Marido",
+        "url": "https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe"
+      },
+      "artists": [
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207602,
+      "name": "Se\u00f1or Marido",
+      "url": "https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi"
     },
     {
       "album": {

@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Chase You Down",
+        "url": "https://open.spotify.com/album/5bRkx5LhFdYq3eYSa8TXly"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "Chase You Down",
+      "url": "https://open.spotify.com/track/65Q73c4fCMrrGgjap0iYJs"
+    },
+    {
+      "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
@@ -688,7 +706,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 227400,
       "name": "GO HOME W U (WITH LAINEY WILSON)",
       "url": "https://open.spotify.com/track/1xPOjTk4A06ncKKiQ6hUOQ"
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 223528,
       "name": "Only One",
       "url": "https://open.spotify.com/track/0zuHx7BApuI7dCMaHjhWiF"
@@ -1872,7 +1890,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 168261,
       "name": "You Do You",
       "url": "https://open.spotify.com/track/74jY5B5WMUemuNPolWOKTq"

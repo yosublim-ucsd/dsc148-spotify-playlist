@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Thierry von der Warth &amp; Kassidy
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,372 likes - 20 songs - 56 min 36 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,377 likes - 20 songs - 56 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Interstellar](https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Interstellar](https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A) | 3:51 |
 | 2 | [Home](https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Home](https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp) | 2:47 |
 | 3 | [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/track/0BAdhKzdPXUt1dVMTuICcv) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Heart First \(feat\. Jordan Shaw\)](https://open.spotify.com/album/7BBaOBYQ3f1VORhJi8bH1c) | 3:07 |
-| 4 | [Looking At You](https://open.spotify.com/track/1BAlIo2capg9xNxlNlwEHN) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Esox](https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Looking At You](https://open.spotify.com/album/0997uyDvSQwcJWwcENwPM7) | 2:27 |
-| 5 | [Master P](https://open.spotify.com/track/20xMYx228flEmECumwOB3f) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Master P](https://open.spotify.com/album/3Gm31BJJXCVMiUG70ebDwp) | 3:22 |
-| 6 | [Lose My Mind](https://open.spotify.com/track/1EAEof1p3jF92zG7jHFWbf) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Lose My Mind](https://open.spotify.com/album/3YJwdIGgHMjvN3cEptAbGF) | 1:55 |
-| 7 | [Along The Way](https://open.spotify.com/track/7q2DfBueHlC5uK3gdkjlx6) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Kassidy](https://open.spotify.com/artist/1CZqhemGUtd5MhPj3Zc2iu) | [Along The Way](https://open.spotify.com/album/5jtUjXznfG1TWnKyDM8I4n) | 2:41 |
+| 4 | [Along The Way](https://open.spotify.com/track/7q2DfBueHlC5uK3gdkjlx6) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Kassidy](https://open.spotify.com/artist/1CZqhemGUtd5MhPj3Zc2iu) | [Along The Way](https://open.spotify.com/album/5jtUjXznfG1TWnKyDM8I4n) | 2:41 |
+| 5 | [Looking At You](https://open.spotify.com/track/1BAlIo2capg9xNxlNlwEHN) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Esox](https://open.spotify.com/artist/4urU5aY5xxsDkg1eCplTZ7), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Looking At You](https://open.spotify.com/album/0997uyDvSQwcJWwcENwPM7) | 2:27 |
+| 6 | [Master P](https://open.spotify.com/track/20xMYx228flEmECumwOB3f) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [Master P](https://open.spotify.com/album/3Gm31BJJXCVMiUG70ebDwp) | 3:22 |
+| 7 | [Lose My Mind](https://open.spotify.com/track/1EAEof1p3jF92zG7jHFWbf) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [MSPUIYI](https://open.spotify.com/artist/1kcyeJ6CdwVqRsKEmkb9Ul), [Kevu](https://open.spotify.com/artist/1hSKIb96KuZ2SScNbnHCqU) | [Lose My Mind](https://open.spotify.com/album/3YJwdIGgHMjvN3cEptAbGF) | 1:55 |
 | 8 | [Stick Season](https://open.spotify.com/track/5D9hrfUtgFetORbaIKhFRy) | [Sara Phillips](https://open.spotify.com/artist/0IYTdG3kSqaozW2xSPA6GL) | [Stick Season](https://open.spotify.com/album/6LqbfWlQIHjNNOV59qTGfA) | 3:50 |
 | 9 | [Boadicea](https://open.spotify.com/track/1lszxhcrquGtnledjcRHwb) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Boadicea](https://open.spotify.com/album/1IXrITahfXmq47OvyQcDiV) | 2:27 |
 | 10 | [Imagine \(feat\. Carbonne\) \[Timmy Trumpet Remix\]](https://open.spotify.com/track/7fR9XIbcS2WGb7DbPwRPI3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine \(feat\. Carbonne\) \[Timmy Trumpet Remix\]](https://open.spotify.com/album/0phsWfE0jsPYtAkQHp6eAE) | 2:59 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 19 | [Famous](https://open.spotify.com/track/5YeGkY9mBzAjoueyTRoYnf) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Thando](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX), [JusSke](https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu) | [Famous](https://open.spotify.com/album/2I0uwgE0jhsxSO5PBlxFrW) | 2:51 |
 | 20 | [Kench](https://open.spotify.com/track/5sOdcxMAWtSU0KgWtKkSjY) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Kench](https://open.spotify.com/album/1ROQb64ctG2N45KG3W6StH) | 2:49 |
 
-Snapshot ID: `AAAedyO010eDaeTPV+ql4xENdpKebbIi`
+Snapshot ID: `AAAeeJJWGeRKbVMGb84nICR7Y/LTuf9r`

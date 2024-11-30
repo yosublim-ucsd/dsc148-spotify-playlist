@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi Hits with Karan Aujla",
+  "description": "Ultimate 101 Punjabi Hits with Arjan Dhillon",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -874,6 +874,24 @@
       "duration_ms": 183536,
       "name": "Assi Sajna",
       "url": "https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd"
+    },
+    {
+      "album": {
+        "name": "4 Da Gang",
+        "url": "https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "ASTARR",
+      "url": "https://open.spotify.com/track/1jFtGMCWES8Z9UfivWVhuy"
     },
     {
       "album": {
@@ -4474,7 +4492,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 160500,
       "name": "Lalkara",
       "url": "https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5"
@@ -4540,7 +4558,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 166666,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/3ZGJhN4unVspOqpwGvUL2W"
@@ -7568,6 +7586,24 @@
       "duration_ms": 197538,
       "name": "Suniyan Suniyan",
       "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
+    },
+    {
+      "album": {
+        "name": "Sunke",
+        "url": "https://open.spotify.com/album/29tL8p9u0WlMEFaaArdBq4"
+      },
+      "artists": [
+        {
+          "name": "Khan Bhaini",
+          "url": "https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159011,
+      "name": "Sunke",
+      "url": "https://open.spotify.com/track/5G0seszeGo0yaWF4UlnVTq"
     },
     {
       "album": {

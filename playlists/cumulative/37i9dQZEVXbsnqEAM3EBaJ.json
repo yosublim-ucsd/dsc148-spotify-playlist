@@ -359,6 +359,28 @@
     },
     {
       "album": {
+        "name": "2 Pieces, Op. 10",
+        "url": "https://open.spotify.com/album/2NRtY6y9Gy40I3XSHl7XCe"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Luis Kolodin",
+          "url": "https://open.spotify.com/artist/3fvAFprt7ANdy6Yc6UR7LQ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247147,
+      "name": "2 Pieces, Op. 10: No. 1 in F Major 'Nocturne'. Andante cantabile",
+      "url": "https://open.spotify.com/track/1itF7ljGKwrumTGBvoILuG"
+    },
+    {
+      "album": {
         "name": "200 Years",
         "url": "https://open.spotify.com/album/710ZHlyDKvPm19EDJDLMTK"
       },
@@ -374,7 +396,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 281880,
       "name": "200 Years",
       "url": "https://open.spotify.com/track/3rdzlbN9DLQEzoEIViHsm3"
@@ -396,7 +418,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 281880,
       "name": "200 Years",
       "url": "https://open.spotify.com/track/6gZxuOd4Hp0p02hQaJ28de"
@@ -458,7 +480,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 465180,
       "name": "3 Pieces, Op. 9: No. 1 in D Major 'R\u00eaverie'. Andante capriccioso",
       "url": "https://open.spotify.com/track/5Gb2y7Mm1YZyGtWKA1C9Os"
@@ -724,6 +746,24 @@
       "duration_ms": 222128,
       "name": "A Fool's Parade",
       "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
+    },
+    {
+      "album": {
+        "name": "A Fragile Thing",
+        "url": "https://open.spotify.com/album/5zl6WesD4GOqrzakDCEGg8"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284173,
+      "name": "A Fragile Thing - RS24 Remix",
+      "url": "https://open.spotify.com/track/6oWGNY3Vkj25u2UZ1aLNKW"
     },
     {
       "album": {
@@ -2649,6 +2689,32 @@
     },
     {
       "album": {
+        "name": "Another Part Of Me (feat. Sting)",
+        "url": "https://open.spotify.com/album/0LDHZuFv4QNHSQwWUo4vqw"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Another Part Of Me (feat. Sting)",
+      "url": "https://open.spotify.com/track/50u1vw4DS6QQxJNXiMuWed"
+    },
+    {
+      "album": {
         "name": "Ansiedad por escribir",
         "url": "https://open.spotify.com/album/1bV4eY646dU8P7FerspjRR"
       },
@@ -4216,7 +4282,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 365217,
       "name": "Biko",
       "url": "https://open.spotify.com/track/13s4gI9ikHbtRKXkYU4idI"
@@ -4250,7 +4316,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 365217,
       "name": "Biko",
       "url": "https://open.spotify.com/track/3KytBdTzzHACINFAqQXS0b"
@@ -8598,6 +8664,28 @@
     {
       "album": {
         "name": "DJ Play A Christmas Song",
+        "url": "https://open.spotify.com/album/05o6hLVChyuwSBYK6ycBYs"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209822,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/275YsWYtZsBGXLuv0icD5r"
+    },
+    {
+      "album": {
+        "name": "DJ Play A Christmas Song",
         "url": "https://open.spotify.com/album/55H5TnewojA4l3y6X2koDG"
       },
       "artists": [
@@ -8612,7 +8700,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 208693,
       "name": "DJ Play A Christmas Song",
       "url": "https://open.spotify.com/track/5MmrFtqvDvpRvx0aFdpEIF"
@@ -9046,6 +9134,24 @@
       "duration_ms": 197996,
       "name": "Don't Tell Me (feat. Ann Wilson) - PLZ Tethered Version",
       "url": "https://open.spotify.com/track/4JMiWfmZVNXTu9yQQHsFqI"
+    },
+    {
+      "album": {
+        "name": "Music Legends Stevie Wonder : The Heart of Soul Music",
+        "url": "https://open.spotify.com/album/3mFYTDMs4x8X1UKcRzqNvF"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180575,
+      "name": "Don't You Know",
+      "url": "https://open.spotify.com/track/1ZaXkh5G4C2BXhvzianYr4"
     },
     {
       "album": {
@@ -9498,7 +9604,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 484067,
       "name": "Eagle Fly Free - Live",
       "url": "https://open.spotify.com/track/71jWYgJpfjE9RrEQC0EbeU"
@@ -13835,6 +13941,24 @@
     },
     {
       "album": {
+        "name": "Hamburguesas",
+        "url": "https://open.spotify.com/album/5aHvX2gcRwMpbZgtcevB2O"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185478,
+      "name": "Hamburguesas",
+      "url": "https://open.spotify.com/track/51KulzftSYkLyNopm4CX8B"
+    },
+    {
+      "album": {
         "name": "Myths of Fate",
         "url": "https://open.spotify.com/album/7BJ121ekSfZ0vPECFGPV7G"
       },
@@ -14329,6 +14453,28 @@
     },
     {
       "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101533,
+      "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4TGZTPJ50VXfqCIEwf6Bmm"
+    },
+    {
+      "album": {
         "name": "The Line (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
       },
@@ -14344,7 +14490,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 101533,
       "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4kp8oOW5Ts2qvx0BjNZhFS"
@@ -14810,6 +14956,24 @@
       "duration_ms": 289290,
       "name": "Hijos de la Tierra - En Vivo",
       "url": "https://open.spotify.com/track/5UkY5OcXJEBmxtwgIbtwgO"
+    },
+    {
+      "album": {
+        "name": "Him",
+        "url": "https://open.spotify.com/album/4dPhotqG0QBFBlaZE6CpiJ"
+      },
+      "artists": [
+        {
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208624,
+      "name": "Him - Video Version",
+      "url": "https://open.spotify.com/track/0cMezV0lo4tprym5cHpuiW"
     },
     {
       "album": {
@@ -24818,7 +24982,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 328332,
       "name": "One Assassination Under God",
       "url": "https://open.spotify.com/track/7ve3QsU7QcPdl8DnsyywGv"
@@ -29307,6 +29471,24 @@
     },
     {
       "album": {
+        "name": "Save Us (Live)",
+        "url": "https://open.spotify.com/album/2Nm0JaBMcF4wKhZVplIUSI"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316813,
+      "name": "Save Us - Live",
+      "url": "https://open.spotify.com/track/2PkSJ6bd6lM3JTT12PWmtH"
+    },
+    {
+      "album": {
         "name": "The Pronoia Sessions",
         "url": "https://open.spotify.com/album/0s6KhXlfy0PtPrMbrs8DZK"
       },
@@ -29518,6 +29700,24 @@
       "duration_ms": 188017,
       "name": "Se Esfuma",
       "url": "https://open.spotify.com/track/1CgR3X8aWUgsUI2cRQIef6"
+    },
+    {
+      "album": {
+        "name": "Los Angeles, 1990 (HQ Remastered)",
+        "url": "https://open.spotify.com/album/2kuvopKYGlt4H1KfADr6OH"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323640,
+      "name": "Sea Of Sorrow",
+      "url": "https://open.spotify.com/track/6gEeOJFC6vUpSr7G7WLim9"
     },
     {
       "album": {
@@ -30042,7 +30242,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 257760,
       "name": "Shape Of My Heart",
       "url": "https://open.spotify.com/track/3NPIKVySb6S4vkNDcvpmKw"
@@ -31967,6 +32167,24 @@
     },
     {
       "album": {
+        "name": "Show 'Em How (2024 Remastered)",
+        "url": "https://open.spotify.com/album/3F0YRk6W7AbbyTHGHHbkk6"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323906,
+      "name": "Starlady",
+      "url": "https://open.spotify.com/track/0io1g2tklQxAoXfRUMWm6H"
+    },
+    {
+      "album": {
         "name": "State of the Nation (Japan Demo)",
         "url": "https://open.spotify.com/album/3pZxMfpPFEkbRdwhb44qPK"
       },
@@ -32279,6 +32497,24 @@
     },
     {
       "album": {
+        "name": "The Poison (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7ktT6Pab27CBgbpFBZ4lCy"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Suffocating Under Words Of Sorrow (What Can I Do) - Live at Brixton",
+      "url": "https://open.spotify.com/track/0d0KyfUvWgI8outqDZ3zyj"
+    },
+    {
+      "album": {
         "name": "Sugar Mami",
         "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
       },
@@ -32400,6 +32636,32 @@
       "duration_ms": 185286,
       "name": "Surf Wax America - Spotify Anniversaries Version - Live",
       "url": "https://open.spotify.com/track/6HHVEg2gVXgqPpDaE5sLVr"
+    },
+    {
+      "album": {
+        "name": "50 Calm & Soft Sounds for Sleep and Relaxation",
+        "url": "https://open.spotify.com/album/77QWwKnteewHRdoTlB8OIY"
+      },
+      "artists": [
+        {
+          "name": "ASMR HD",
+          "url": "https://open.spotify.com/artist/1YlO6kjH7pQwIiBh9xs2Vp"
+        },
+        {
+          "name": "Meditation Awareness",
+          "url": "https://open.spotify.com/artist/6U2e6YkrN3hbyXS4lCgAHU"
+        },
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Surreal Prairie Dream",
+      "url": "https://open.spotify.com/track/07580vaLBaUvoSvy2oxtvb"
     },
     {
       "album": {
@@ -36715,6 +36977,24 @@
     },
     {
       "album": {
+        "name": "Saint Valentine Day, Boston 1984 (HQ Remastered)",
+        "url": "https://open.spotify.com/album/32pOgdsILMcaZ6NvXYA2af"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331047,
+      "name": "Train Kept A Rollin'",
+      "url": "https://open.spotify.com/track/395f0eXQmEOWbtihnDkOP3"
+    },
+    {
+      "album": {
         "name": "Pure Piano Compilation - 50 Tracks for Melodies for Your Soul",
         "url": "https://open.spotify.com/album/6205SankuVPMzm7wMF9VqJ"
       },
@@ -37840,6 +38120,32 @@
       "duration_ms": 272955,
       "name": "Up On The Cross",
       "url": "https://open.spotify.com/track/3UUR6DaW68sxZ5aUaCoY9Z"
+    },
+    {
+      "album": {
+        "name": "Relaxed Rhythms: Hip Hop Flow",
+        "url": "https://open.spotify.com/album/6Jsls15BkAy6q6jlzM1zZQ"
+      },
+      "artists": [
+        {
+          "name": "Lofi Dream",
+          "url": "https://open.spotify.com/artist/1d6zP2zW301j5gnbeI5ksp"
+        },
+        {
+          "name": "Relax & Music Orchestra",
+          "url": "https://open.spotify.com/artist/0V304Lj7ghI82pYQa50CHP"
+        },
+        {
+          "name": "Relax Mood",
+          "url": "https://open.spotify.com/artist/3VyVYfzBLfYXHxAnHcUsFj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181628,
+      "name": "Urban Calm Beat",
+      "url": "https://open.spotify.com/track/52yn9LkYqPCP9ff2L99R8Y"
     },
     {
       "album": {
@@ -39534,7 +39840,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 196519,
       "name": "Whispers of Restful Green",
       "url": "https://open.spotify.com/track/7vLGm0KSyT3jQYC1cVgJtF"
@@ -39636,6 +39942,24 @@
       "duration_ms": 321293,
       "name": "Who's Crying Now - Live",
       "url": "https://open.spotify.com/track/0cf8fMOaztoCCN46hf5yLY"
+    },
+    {
+      "album": {
+        "name": "The Old Waldorf, San Francisco, 1977 (HQ Remastered)",
+        "url": "https://open.spotify.com/album/5CmiFKQ5XsKUeS6JgmhfpR"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305285,
+      "name": "Whole Lotta Rosie",
+      "url": "https://open.spotify.com/track/1A4c09jJjkdQ0bK1pq08u5"
     },
     {
       "album": {

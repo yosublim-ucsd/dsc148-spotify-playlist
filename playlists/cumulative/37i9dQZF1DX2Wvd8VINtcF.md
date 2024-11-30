@@ -4,7 +4,7 @@
 
 > pearl of the week: Boko Yout
 
-1,597 songs - 3 day 14 hr 51 min
+1,598 songs - 3 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 | 2023-05-04 | 2023-07-14 |
 | [Enthralled](https://open.spotify.com/track/6wbHUO9AWmrKmp4YLx5DCg) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:45 | 2023-06-01 | 2023-06-09 |
 | [Episode](https://open.spotify.com/track/2T5oLz35uN5v2S6fUJTb2o) | [Nate Brazier](https://open.spotify.com/artist/4cavlP5GhgtNXiWSS3wIO7) | [Episode](https://open.spotify.com/album/62rohGvfBZbS8IFGAhCSMW) | 2:41 | 2023-07-06 | 2023-10-06 |
+| [Ethereal Gaze](https://open.spotify.com/track/58sqqkeGE0mxB41XbsjoAy) | [The Most Wanted](https://open.spotify.com/artist/2FvjP4xMXLotgRAztLbLX0) | [Ethereal Gaze](https://open.spotify.com/album/5hGbpuXuIrBYThbXUu0qkI) | 2:13 | 2024-11-29 |  |
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-12 | 2024-10-04 |
 | [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 | 2023-03-09 | 2023-03-11 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-03-18 |

@@ -4,7 +4,7 @@
 
 > Evadez\-vous tout en douceur...
 
-183 songs - 9 hr 36 min
+184 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 | 2024-10-25 |  |
 | [Here Comes The Sun](https://open.spotify.com/track/7L3AkxTIVosuV9q251kjfC) | [TEEMID](https://open.spotify.com/artist/6zGCrS2y63IEUJfyn9Bpuc) | [Here Comes The Sun](https://open.spotify.com/album/5jJnOGvtWwesdgCChnE5Go) | 2:25 | 2023-10-05 | 2024-02-03 |
 | [Hey Maria \- Elderbrook Remix](https://open.spotify.com/track/7v7teR4FtyiZzkc1tX2a4V) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Hey Maria \- EP](https://open.spotify.com/album/4zb7p3vznnnhJaihdKtxR6) | 3:33 | 2022-12-20 | 2023-05-13 |
+| [Hey Ya!](https://open.spotify.com/track/23KYNQyJ0nW1kdIwbVT2qI) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Hey Ya!](https://open.spotify.com/album/7kDk1mP1PJJHzvs9tIEvdu) | 2:49 | 2024-11-29 |  |
 | [Highs & Lows](https://open.spotify.com/track/2oakI4aTZTOXPjL2jy4b94) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Highs & Lows](https://open.spotify.com/album/2WltsSNLIaFLNkXwM8M2XR) | 3:04 | 2022-12-20 | 2023-05-13 |
 | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-07-31 |  |
 | [I Ain't Worried](https://open.spotify.com/track/5DW429FdhtHPIXor8Lg8lC) | [Offmind](https://open.spotify.com/artist/085SqcJuCauCoaZ9ZXGAzb), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [I Ain't Worried](https://open.spotify.com/album/1kdQQDfdxzSyWrq9BuGWYn) | 2:21 | 2023-06-02 | 2023-12-23 |
@@ -145,7 +146,7 @@
 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 | 2022-12-20 | 2023-05-13 |
 | [She Said \(Big Jet Plane\)](https://open.spotify.com/track/3HeZam86SuxGp1wZ3XMIjE) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [She Said \(Big Jet Plane\)](https://open.spotify.com/album/06glmgu7XVm60LyphpYQxc) | 2:53 | 2022-12-20 |  |
 | [Shooting Star](https://open.spotify.com/track/1iD1Apn0i05NWYwOaSaRcb) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Constellations \(Expanded\)](https://open.spotify.com/album/6lIisbumiVx5fHO6e8ybLb) | 2:25 | 2024-02-02 | 2024-06-20 |
-| [Show Me](https://open.spotify.com/track/1esdfUNTx48Knns9wG9aDl) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [KOSE](https://open.spotify.com/artist/1HSGRJxw8jvT82cfO1ye0q) | [Show Me](https://open.spotify.com/album/7EhmVD2B6kOvTQ2xOl7SJP) | 2:54 | 2024-01-11 |  |
+| [Show Me](https://open.spotify.com/track/1esdfUNTx48Knns9wG9aDl) | [PLÜM](https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL), [KOSE](https://open.spotify.com/artist/1HSGRJxw8jvT82cfO1ye0q) | [Show Me](https://open.spotify.com/album/7EhmVD2B6kOvTQ2xOl7SJP) | 2:54 | 2024-01-11 | 2024-11-30 |
 | [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-07-31 |  |
 | [Silhouette](https://open.spotify.com/track/5XflWKyyLrg3HlvjlDn6Rk) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Sansa](https://open.spotify.com/artist/5ghRItoYhcGjBtH8xSGCC9) | [Silhouette](https://open.spotify.com/album/6G0qk1KLeqf5L9deBa6uo8) | 3:33 | 2022-12-20 | 2023-05-13 |
 | [Smoke & Ash](https://open.spotify.com/track/7jUBj3nZfs0dRqr68b4yxy) | [Weisser Quiff](https://open.spotify.com/artist/5sWo77aB32PpzTAhZfQBQy) | [Smoke & Ash](https://open.spotify.com/album/6Z41aZilSCkdW8IK75Y1wp) | 2:44 | 2022-12-20 | 2023-05-13 |

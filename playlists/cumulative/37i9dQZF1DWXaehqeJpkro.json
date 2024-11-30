@@ -265,6 +265,28 @@
     },
     {
       "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "album": {
         "name": "As If It's Your Last",
         "url": "https://open.spotify.com/album/6IzQb2kLydYNfzmKXvmndX"
       },
@@ -320,7 +342,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 206400,
       "name": "Back In Time",
       "url": "https://open.spotify.com/track/1Cmz1xRY4t4HLSwBdKTQgV"
@@ -993,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "OO-LI",
+        "url": "https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244986,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/4xeugB5MqWh0jwvXZPxahq"
+    },
+    {
+      "album": {
         "name": "Drunk on You",
         "url": "https://open.spotify.com/album/466brQri28NI7I2wOi9E8r"
       },
@@ -1400,7 +1440,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 256626,
       "name": "For each other's sake",
       "url": "https://open.spotify.com/track/0Br1zQ0fUgzeYcQqrvBOqO"
@@ -2389,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "If You Ask Me What Love Is",
+        "url": "https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe"
+      },
+      "artists": [
+        {
+          "name": "Roy Kim",
+          "url": "https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223040,
+      "name": "If You Ask Me What Love Is",
+      "url": "https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH"
+    },
+    {
+      "album": {
         "name": "If you lovingly call my name",
         "url": "https://open.spotify.com/album/3I70HPLl7jI4VufLUlUgfa"
       },
@@ -3133,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "2nd Mini Album 'Algorithm's Blossom'",
+        "url": "https://open.spotify.com/album/4i0rZXe1lgKDzJ8LkueifT"
+      },
+      "artists": [
+        {
+          "name": "QWER",
+          "url": "https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188320,
+      "name": "My Name is Malguem",
+      "url": "https://open.spotify.com/track/1lTBkwEm0wim9RsMXqtqWy"
+    },
+    {
+      "album": {
         "name": "My regards",
         "url": "https://open.spotify.com/album/6cHha0CTnBym1jW7xhcRJl"
       },
@@ -3732,7 +3808,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 145071,
       "name": "Slow Heartbeat (feat. Ja Mezz)",
       "url": "https://open.spotify.com/track/3dDSzDCa39eiDRLMyl3xoE"
@@ -4960,6 +5036,24 @@
       "duration_ms": 251538,
       "name": "\uafc8\uc18d\uc5d0 \ub108",
       "url": "https://open.spotify.com/track/79w8z28yTXmAvC7L7grLux"
+    },
+    {
+      "album": {
+        "name": "\ub098\ub294 \ubc18\ub527\ubd88",
+        "url": "https://open.spotify.com/album/00qFKsCQT71hh2uBmcm4eO"
+      },
+      "artists": [
+        {
+          "name": "LUNCH",
+          "url": "https://open.spotify.com/artist/65YBBPdR47xfH0Nc0Lc5tF"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214531,
+      "name": "\ub098\ub294 \ubc18\ub527\ubd88",
+      "url": "https://open.spotify.com/track/51uwANsSlT9zJ60WhbFc3X"
     },
     {
       "album": {

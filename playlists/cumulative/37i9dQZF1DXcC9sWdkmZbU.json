@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Worship songs for the whole family.",
-  "name": "Christian Kids Worship",
+  "description": "Christian & Gospel songs for the whole family.",
+  "name": "Christian & Gospel Kids",
   "tracks": [
     {
       "album": {
@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Better Song (Inspired by the book, \u201cThe Heart Who Wanted to Sing\u201d by Beth Guckenberger)",
+        "url": "https://open.spotify.com/album/5aByZBN1zW6INKgllKgd4z"
+      },
+      "artists": [
+        {
+          "name": "Yancy",
+          "url": "https://open.spotify.com/artist/3hm9cA8c92CwJnCIaGqaEu"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201160,
+      "name": "A Better Song (Inspired by the book, \u201cThe Heart Who Wanted to Sing\u201d by Beth Guckenberger)",
+      "url": "https://open.spotify.com/track/6Bzg7W7srn2n91cazUIcHR"
+    },
+    {
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/3Wsumr9ldquwry68IUVECf"
       },
@@ -113,6 +131,24 @@
     },
     {
       "album": {
+        "name": "You Amaze Me",
+        "url": "https://open.spotify.com/album/6DiGaD1TK60EsCQjgGVHCY"
+      },
+      "artists": [
+        {
+          "name": "KidSpring",
+          "url": "https://open.spotify.com/artist/1Aq18oenssiyNyaK5erdoc"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152554,
+      "name": "Be Completely Changed",
+      "url": "https://open.spotify.com/track/0C9hrk2mw80CQoUg3zVaPi"
+    },
+    {
+      "album": {
         "name": "When You Lie Down: Lullabies & Scripture Songs, Vol. 10",
         "url": "https://open.spotify.com/album/1nmoMC8L1uRXQIlD3k5q4k"
       },
@@ -149,6 +185,28 @@
     },
     {
       "album": {
+        "name": "Bible Verses",
+        "url": "https://open.spotify.com/album/5MaTb83UTPVSSD1KYqBVIL"
+      },
+      "artists": [
+        {
+          "name": "Jesus Loves Me This I Know",
+          "url": "https://open.spotify.com/artist/1UZbrri7CXJ15wMZbLczgU"
+        },
+        {
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131633,
+      "name": "Bible Verses",
+      "url": "https://open.spotify.com/track/4vGcw8KkaT7Kku6XiQkJPG"
+    },
+    {
+      "album": {
         "name": "Top 25 Kids' Praise Songs 2012",
         "url": "https://open.spotify.com/album/4LQGT35YB9CxVcSSp5NnbJ"
       },
@@ -182,6 +240,24 @@
       "duration_ms": 222320,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/3yJIV1U93Bpgw2cRZ6VUiw"
+    },
+    {
+      "album": {
+        "name": "3 Little Words, Vol. 7",
+        "url": "https://open.spotify.com/album/1KgPjPGJIMARbxRtNlwKyD"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115522,
+      "name": "Books Of The Bible",
+      "url": "https://open.spotify.com/track/6s9sOW9Qc5aqL7S34LWBNY"
     },
     {
       "album": {
@@ -519,6 +595,42 @@
     },
     {
       "album": {
+        "name": "Give Me Oil In My Lamp",
+        "url": "https://open.spotify.com/album/5710M92hn0jDFel2kencbw"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168140,
+      "name": "Give Me Oil In My Lamp",
+      "url": "https://open.spotify.com/track/0yzwHHM7jOWmC9fBUxWePf"
+    },
+    {
+      "album": {
+        "name": "God Be With You Til We Meet Again",
+        "url": "https://open.spotify.com/album/4lUY2FB6ypdlFrxzC5Z4Yg"
+      },
+      "artists": [
+        {
+          "name": "Sing Hosanna",
+          "url": "https://open.spotify.com/artist/0DAvDMISBhtMkP4XIMMCs4"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192880,
+      "name": "God Be With You Til We Meet Again",
+      "url": "https://open.spotify.com/track/1z7pM2McaOzIhwbac3NqM0"
+    },
+    {
+      "album": {
         "name": "Know God, No Fear: Bible Songs for Such a Time as This",
         "url": "https://open.spotify.com/album/2ELlJVipEutJxawdwh64ih"
       },
@@ -570,10 +682,28 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 221160,
       "name": "God Is Great",
       "url": "https://open.spotify.com/track/3Nbp3XDq252OHKpXmA7N3B"
+    },
+    {
+      "album": {
+        "name": "Thank You Jesus",
+        "url": "https://open.spotify.com/album/1JB2VmkBVE3SQOKPj6Z4uh"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161466,
+      "name": "God Is So Good",
+      "url": "https://open.spotify.com/track/75Bunn94DbQP7xgwdfXzu8"
     },
     {
       "album": {
@@ -672,6 +802,24 @@
       "duration_ms": 171773,
       "name": "Great Big God",
       "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+    },
+    {
+      "album": {
+        "name": "Great Friend",
+        "url": "https://open.spotify.com/album/0DCZaJXr3Y5pHFM4dLcAVG"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163911,
+      "name": "Great Friend",
+      "url": "https://open.spotify.com/track/0X6blOgOOxkQKOSt4jCsLz"
     },
     {
       "album": {
@@ -802,6 +950,42 @@
       "duration_ms": 246320,
       "name": "I Could Sing Of Your Love Forever",
       "url": "https://open.spotify.com/track/5DitwE7RJ4424F09PUe2xq"
+    },
+    {
+      "album": {
+        "name": "I Will Worship The Lord",
+        "url": "https://open.spotify.com/album/0D6VPX4ae3Pzk0guruvSCa"
+      },
+      "artists": [
+        {
+          "name": "3 Little Words",
+          "url": "https://open.spotify.com/artist/23K2JBtvsNQYioId55a62H"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123243,
+      "name": "I Will Worship The Lord",
+      "url": "https://open.spotify.com/track/5qkAd5c8LJ54kmi3ihvm2B"
+    },
+    {
+      "album": {
+        "name": "I'm So Blessed (Kids Version)",
+        "url": "https://open.spotify.com/album/6u8pIu6yjPPcKGKCS1Q3wQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228484,
+      "name": "I'm So Blessed (Kids Version)",
+      "url": "https://open.spotify.com/track/68hSNh609axwveqPvsPgGQ"
     },
     {
       "album": {
@@ -972,7 +1156,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 283185,
       "name": "Joy (What The World Calls Foolish)",
       "url": "https://open.spotify.com/track/7q2ep30quuMk65efgKraiC"
@@ -1244,7 +1428,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 121693,
       "name": "Peace Like a River (feat. Harvest)",
       "url": "https://open.spotify.com/track/5nyUAOepP8TSnLKTEDu3nq"
@@ -1403,6 +1587,28 @@
     },
     {
       "album": {
+        "name": "Sing God's Word",
+        "url": "https://open.spotify.com/album/7hLg8lAeq2wmmeH7ExPMQ1"
+      },
+      "artists": [
+        {
+          "name": "Seeds Kids Worship",
+          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
+        },
+        {
+          "name": "Answers in Genesis",
+          "url": "https://open.spotify.com/artist/1eJMROkiBH2zE1E0Kjnk6r"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183151,
+      "name": "So Much More (John 21:25 ESV)",
+      "url": "https://open.spotify.com/track/2pPsfoIBlqSI0sRJVWQbhZ"
+    },
+    {
+      "album": {
         "name": "Sing the Bible, Vol. 2",
         "url": "https://open.spotify.com/album/52c135YsCutZVTLPf8i1s9"
       },
@@ -1436,6 +1642,24 @@
       "duration_ms": 187506,
       "name": "Super Wonderful",
       "url": "https://open.spotify.com/track/2v2IinUxWv9YVXPOJjrQ0b"
+    },
+    {
+      "album": {
+        "name": "Jesus Is My Superhero",
+        "url": "https://open.spotify.com/album/0j0VyoOTsSC3bklFDRrgCT"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Kids",
+          "url": "https://open.spotify.com/artist/6B9zcemB6pCVlbLac9pwWF"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164569,
+      "name": "Superhero - Reimagined",
+      "url": "https://open.spotify.com/track/4YuRIjer2Tgc7cZ3kUf3s1"
     },
     {
       "album": {
@@ -1706,6 +1930,24 @@
       "duration_ms": 239040,
       "name": "Who You Say I Am",
       "url": "https://open.spotify.com/track/3jrixwz5amaMkV4CXDmxpV"
+    },
+    {
+      "album": {
+        "name": "Wisdom, Stature and Favor (Luke 2:52 ESV)",
+        "url": "https://open.spotify.com/album/3YEC8Ah8C2F4KHI9k3A2Qn"
+      },
+      "artists": [
+        {
+          "name": "Seeds Kids Worship",
+          "url": "https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "Wisdom, Stature and Favor (Luke 2:52 ESV)",
+      "url": "https://open.spotify.com/track/2yyIZE3H7hWSvcGkHaWnhJ"
     },
     {
       "album": {

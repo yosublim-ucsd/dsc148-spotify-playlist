@@ -4,7 +4,7 @@
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-434 songs - 1 day 10 hr 47 min
+435 songs - 1 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Legacy](https://open.spotify.com/track/36r4YOFjSaFyilVdu8kqg3) | [Andy Martinez](https://open.spotify.com/artist/0Ilm7SwRAuUOywN2ZZYxuu), [Damelo](https://open.spotify.com/artist/5CnLwWTK3iavHh2JZ2KEx5) | [Legacy EP](https://open.spotify.com/album/6gtkVSlAVrQx6ycwP1Vp53) | 6:27 | 2024-10-04 | 2024-10-23 |
 | [Lemme Talk To Ya](https://open.spotify.com/track/2xr0yLfUFBxoTWAQpMkcbf) | [Ben Rau](https://open.spotify.com/artist/1TnMHkjDz4jm8H8QxnyAAC) | [Lemme Talk To Ya](https://open.spotify.com/album/7paGDyrAtcTe2IXoodc2M2) | 3:31 | 2024-05-31 | 2024-07-27 |
 | [Lemonade](https://open.spotify.com/track/6Jxua6Khy8ULDUl1kk6g4o) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Lemonade](https://open.spotify.com/album/31f0UtcyDi6Q0oJRzQNeKC) | 3:04 | 2024-05-24 | 2024-06-01 |
-| [Lezzgo](https://open.spotify.com/track/1NwKx6qj7QbWjFmQ7QlpkE) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [One Hundred](https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ) | 5:03 | 2024-04-12 |  |
+| [Lezzgo](https://open.spotify.com/track/1NwKx6qj7QbWjFmQ7QlpkE) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [One Hundred](https://open.spotify.com/album/5VTEH3n6YgqcFL5EyxxHRQ) | 5:03 | 2024-04-12 | 2024-11-30 |
 | [Lick It](https://open.spotify.com/track/7F2eNxJ5ZrGAwd83sIhBud) | [J.K\. Rollin](https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ) | [Put Your Hands Up For Cologne](https://open.spotify.com/album/3M6t0CRcKMGlGVHYDoEKQT) | 6:48 | 2024-11-13 |  |
 | [Lightspeed](https://open.spotify.com/track/36PkmbHlfH1JYwoFJS1S0q) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Lightspeed](https://open.spotify.com/album/4NnuKQveWvoRFjl3A0IZqe) | 6:22 | 2022-06-24 | 2022-07-21 |
 | [Like Dat](https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Like Dat](https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf) | 3:44 | 2024-02-02 | 2024-06-21 |
@@ -362,6 +362,7 @@
 | [TAKE ME HIGH](https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS) | [TAKE ME HIGH](https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT) | 3:40 | 2023-03-17 | 2024-03-09 |
 | [Take My Hand](https://open.spotify.com/track/6kLVupUwnoBLmy0sNyVaBQ) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Take My Hand](https://open.spotify.com/album/7iWe0c1Aw9a7MRix93uJwj) | 5:17 | 2022-08-19 | 2022-09-19 |
 | [take notes.](https://open.spotify.com/track/58J7fIZAgLrCwqpucV2JKG) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [take notes\. EP](https://open.spotify.com/album/4d1zqT0iOuJUG5ZLDGRvJN) | 3:15 | 2023-10-06 | 2024-02-25 |
+| [Take You On A Ride](https://open.spotify.com/track/0EHYJC5x9CNKumQe8WJA6k) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Take You On A Ride](https://open.spotify.com/album/5toTQhxSjfy0rMaqbOBajk) | 3:50 | 2024-11-30 |  |
 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 | 2023-08-11 | 2024-06-01 |
 | [Te Voy A Dar](https://open.spotify.com/track/4eIsRh7sfRf94s4TtE4UWx) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc) | [Te Voy A Dar](https://open.spotify.com/album/0PQX0fBA76hR7jcrvzpRZX) | 3:05 | 2023-03-17 | 2023-04-03 |
 | [Tears In Berghain](https://open.spotify.com/track/0DJQZ0od70Z6SkuoEeOYAa) | [Bjarki](https://open.spotify.com/artist/6FtSCON62H1CEJtN39y9yI), [Kuldaboli](https://open.spotify.com/artist/3iqkQOfaf7oQtPfmGaMl4W) | [Tears In Berghain EP](https://open.spotify.com/album/7ez8S0rG2f4hec5NIJOaWY) | 4:27 | 2023-09-22 | 2023-11-13 |

@@ -1,12 +1,12 @@
 {
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
-  "num_followers": 73331,
+  "num_followers": 73356,
   "original_name": "Tamil Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0Qa1wAAAAAu6V5DQzzMPuIqQ+r3k6rX",
+  "snapshot_id": "Z0m7dAAAAAA1y5XjRII7o7d0jT4bTZsr",
   "tracks": [
     {
       "added_at": "2024-06-13 06:24:42",
@@ -119,6 +119,26 @@
       "duration_ms": 163397,
       "name": "Pogadha Nee",
       "url": "https://open.spotify.com/track/3YWdkf3GyOrM8rXGA5T1Dk"
+    },
+    {
+      "added_at": "2024-11-29 13:02:44",
+      "album": {
+        "name": "Rathiye",
+        "url": "https://open.spotify.com/album/2uSP9uTakwOXUrokSYkT0B"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Krishnan N",
+          "url": "https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG"
+        },
+        {
+          "name": "Rithwik",
+          "url": "https://open.spotify.com/artist/37DL49l1iS2lwGf386tFaW"
+        }
+      ],
+      "duration_ms": 216028,
+      "name": "Rathiye",
+      "url": "https://open.spotify.com/track/1GsXtSpfdgzobBpkacXRk2"
     },
     {
       "added_at": "2024-07-27 01:05:19",

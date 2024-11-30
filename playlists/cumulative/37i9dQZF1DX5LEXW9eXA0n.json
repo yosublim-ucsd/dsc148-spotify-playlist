@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 227680,
       "name": "Blue crystal",
       "url": "https://open.spotify.com/track/4kOakG2UbtKwq3xI5FN9RH"
@@ -13549,6 +13549,24 @@
     },
     {
       "album": {
+        "name": "UP SIDE DOWN",
+        "url": "https://open.spotify.com/album/4JvsPWUWXDJDAgmwpW8IpB"
+      },
+      "artists": [
+        {
+          "name": "ko kyung pyo",
+          "url": "https://open.spotify.com/artist/3gv00oCmmZNyBtagPXUvch"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243080,
+      "name": "MISSING YOU",
+      "url": "https://open.spotify.com/track/5d0ypa7yumwBTJDz57moHy"
+    },
+    {
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/1wr58bJGrqTDI8iQTqHXaE"
       },
@@ -15632,7 +15650,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 186186,
       "name": "Orange Flower",
       "url": "https://open.spotify.com/track/4wV0IQK4NgoIkfvwbJ5gBM"
@@ -17024,7 +17042,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 183370,
       "name": "Sea",
       "url": "https://open.spotify.com/track/0xeNmiveKevnVK7RvDTb2Z"
@@ -23373,6 +23391,24 @@
     },
     {
       "album": {
+        "name": "You can't force love",
+        "url": "https://open.spotify.com/album/5NVAmednsg2c356cEldPWK"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237240,
+      "name": "You can\u2032t force love",
+      "url": "https://open.spotify.com/track/3VpcM1Bj7utrEjwCSfgpui"
+    },
+    {
+      "album": {
         "name": "Someone's playlist #8",
         "url": "https://open.spotify.com/album/7tNp4kGCYT55TKWDdciZ94"
       },
@@ -24772,6 +24808,24 @@
       "duration_ms": 245353,
       "name": "\uc815\uae00\ud53c\uc26c \uc2dc\uc98c2 (Original Television Soundtrack) Pt.5 - \uc2ac\ud508 \uc608\uac10",
       "url": "https://open.spotify.com/track/1ZlUjS9wtDXIx6tfy6LLkt"
+    },
+    {
+      "album": {
+        "name": "\uc81c\ubc1c \ub0b4\uac8c \ub9d0\ud574\uc8fc\ub77c (Please tell me)",
+        "url": "https://open.spotify.com/album/5ijS3IJtIUrqhioDNEJmu6"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213653,
+      "name": "\uc81c\ubc1c \ub0b4\uac8c \ub9d0\ud574\uc8fc\ub77c (Please tell me)",
+      "url": "https://open.spotify.com/track/0BeyMR83qdrHlIM52jprNC"
     },
     {
       "album": {

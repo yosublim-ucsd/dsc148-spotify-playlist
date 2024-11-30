@@ -4,7 +4,7 @@
 
 > Where your new favourite bands are discovered\. Cover: Getdown Services
 
-117 songs - 6 hr 58 min
+119 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dog Dribble](https://open.spotify.com/track/6skfouZ5bFFU3vxWaBla3B) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Dog Dribble](https://open.spotify.com/album/4V4EexnVzsOU4nPFvfst23) | 4:15 | 2024-11-22 |  |
 | [Driftin](https://open.spotify.com/track/7n6yD2gOCqlxawjUBaGcGD) | [Hermitage Green](https://open.spotify.com/artist/4ffShaM6djxpd5LiJX2MW4) | [Driftin'](https://open.spotify.com/album/4YTgy42U0Jnw7VtEuha3ch) | 4:16 | 2024-06-14 | 2024-10-07 |
 | [DYLM](https://open.spotify.com/track/6sINksp0eE9N704kiauZJs) | [Hank](https://open.spotify.com/artist/0yRKzgUID7XrB6LoWCstJK) | [DYLM](https://open.spotify.com/album/2THuRoV8RDoYb7mnYGZCqZ) | 3:54 | 2024-08-16 |  |
+| [Every Stage of a Genuine Heartbreak](https://open.spotify.com/track/2tdR8hTbDEcOdPy0rYa34F) | [Big Society](https://open.spotify.com/artist/6YjRZJjNGLk7XwVyfWPaEF) | [Every Stage of a Genuine Heartbreak](https://open.spotify.com/album/0HZmLuYkSXHcKioC93534e) | 3:15 | 2024-11-29 |  |
 | [Exactly As It Seems](https://open.spotify.com/track/0vtFVr0ZtMdzG7DI8jzQxn) | [Home Counties](https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n) | [Exactly As It Seems](https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4) | 2:57 | 2024-06-14 | 2024-08-17 |
 | [Falling Behind](https://open.spotify.com/track/1AyUGXtjYH8MBvMsEE86Bs) | [Lazy Day](https://open.spotify.com/artist/0F9wD0Nf2Hm0iiFJUqsHLy) | [Falling Behind](https://open.spotify.com/album/7dWVkkH0NcD2gE3qNSAPhY) | 2:44 | 2024-08-16 | 2024-11-09 |
 | [Feels Like a Man](https://open.spotify.com/track/5ERafLj5JlAOIIKhPJaLEI) | [The Cliffords](https://open.spotify.com/artist/2JIXE3g9E0kfeFWhpKPIja) | [Feels Like a Man](https://open.spotify.com/album/40vbSlfKQuirQV4eSsXwCa) | 2:57 | 2024-06-14 | 2024-07-13 |
@@ -85,6 +86,7 @@
 | [One More Day](https://open.spotify.com/track/544xcMdny7JqmMbkVxHoiX) | [Umarells](https://open.spotify.com/artist/3xrZ3BiHelQXsoQJoP90Yh) | [One More Day](https://open.spotify.com/album/1MKpe4kToXSOWcgdCnnDCE) | 5:40 | 2024-09-13 |  |
 | [Paith Own](https://open.spotify.com/track/59BSXqdDDiNnt79NuG5mIM) | [a Lesser Version](https://open.spotify.com/artist/7gJ9ES0nqI44kB8b0S8mQC) | [Paith Own](https://open.spotify.com/album/3yOyHF7k7gt1n6vMs77Swu) | 3:44 | 2024-10-06 |  |
 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 | 2024-06-14 | 2024-09-14 |
+| [Polaroid](https://open.spotify.com/track/2mawheCRpyRa0fSg5EgFde) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Polaroid](https://open.spotify.com/album/0TZ0Ly4YFePYFwso7dhmID) | 3:47 | 2024-11-29 |  |
 | [Pop Star](https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Pop Star](https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84) | 2:54 | 2024-06-14 | 2024-07-27 |
 | [Promised Land](https://open.spotify.com/track/1xQTzvTyMCURn6q8sMSGHY) | [Melin Melyn](https://open.spotify.com/artist/0wTfMphWYgAHdaXricLywe) | [Promised Land](https://open.spotify.com/album/0hkvGrNxsav5II7SOs3RHh) | 4:30 | 2024-11-22 |  |
 | [Puppet Show](https://open.spotify.com/track/5VvEVG2Ym38UWQEDEFHE3I) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Puppet Show](https://open.spotify.com/album/6MxS4cvWu4MD9v9nLORaKv) | 2:55 | 2024-06-14 | 2024-09-14 |

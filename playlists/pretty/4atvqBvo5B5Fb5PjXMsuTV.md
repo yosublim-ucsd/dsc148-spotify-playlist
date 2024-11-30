@@ -2,12 +2,44 @@ pretty - [cumulative](/playlists/cumulative/4atvqBvo5B5Fb5PjXMsuTV.md) - [plain]
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 25 Nov 17:16 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 30 Nov 23:04 UTC.
 
-[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 85 likes - 1 song - 4 min 11 sec
+[Listige](https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis) - 85 likes - 33 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Babydoll](https://open.spotify.com/track/0nOcVU90N2FpL81eW9FU3W) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Young\-Girl Forever](https://open.spotify.com/album/0F0HgZamTfp1G8dj4X9SwF) | 4:11 |
+| 1 | [Moonlit Floor \(Kiss Me\) \- Santa Baby Remix](https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\) \(Santa Baby Remix\)](https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl) | 2:35 |
+| 2 | [DELUSIONAL](https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [DELUSIONAL](https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe) | 3:15 |
+| 3 | [Wanna Fxck \- Lost Tapes 2022](https://open.spotify.com/track/42cO8qdboMxJPtgOSNtygx) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Wanna Fxck \(Lost Tapes 2022\)](https://open.spotify.com/album/1M0LH6TE618SQMU62yoCC8) | 2:40 |
+| 4 | [ManDarE TuTto All'aRIA](https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [ManDarE TuTto All'aRIA](https://open.spotify.com/album/0RMBiVhtPQRSvyVTEPKDzv) | 2:49 |
+| 5 | [hood grammy](https://open.spotify.com/track/0jh4rH6foYD9HIUgWIax5W) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [hood grammy](https://open.spotify.com/album/1yqZxLe6t3ITTm5wwkdN1h) | 2:23 |
+| 6 | [Shiver \- Wilkinson Remix](https://open.spotify.com/track/0agheCESujTTCavYzsRco0) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Shiver \(Wilkinson Remix\)](https://open.spotify.com/album/0Awsw8Thtn0PkC3OieQ8vM) | 3:42 |
+| 7 | [BIG STEPPER](https://open.spotify.com/track/3DUVAw6nLbe5WYaD5CaXOf) | [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [BIG STEPPER](https://open.spotify.com/album/50xSIqjAkOZnbBkiABvmbo) | 2:48 |
+| 8 | [C\-Zone](https://open.spotify.com/track/0e8J8pmIGKSGhtySxkSzJe) | [Mnogoznaal](https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH) | [C\-Zone](https://open.spotify.com/album/5rXaaiXxddjwDVls1y4reF) | 2:04 |
+| 9 | [Pouring Wok](https://open.spotify.com/track/3fTlzKjRSxF1p6eUwHiZur) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Pouring Wok](https://open.spotify.com/album/4KIdi7Rt9WZXIerAOPQFsC) | 2:35 |
+| 10 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 |
+| 11 | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9) | 2:07 |
+| 12 | [S&S](https://open.spotify.com/track/1GgETB3Ixe8suRgOG5BmFT) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [S&S](https://open.spotify.com/album/49jrlmAqaz0lHnsfgz2fcg) | 2:36 |
+| 13 | [Tal Vez \(Maybe en Español\)](https://open.spotify.com/track/32Fnl1o1QcY9BIYweBgkT9) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [Tal Vez \(Maybe en Español\)](https://open.spotify.com/album/4oXWnT7y3rMoWWMIVcrmzs) | 3:14 |
+| 14 | [Fantasy \- Alex Chapman Remix](https://open.spotify.com/track/6zapP5r5Kcm9kvPLyJdhNT) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3), [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh) | [Fantasy \(Alex Chapman Remix\)](https://open.spotify.com/album/52fvlHzhcJbWzVKdcdD2HK) | 2:54 |
+| 15 | [Буду быть v2](https://open.spotify.com/track/3tEOkPC4APYy0YcGerNxzx) | [Loqiemean](https://open.spotify.com/artist/2Nl6vz4KNIHQjyoOLTadCn) | [Буду быть v2](https://open.spotify.com/album/1OMN0Va1dHjycCw2ffxYYR) | 4:24 |
+| 16 | [Lo sai solo tu](https://open.spotify.com/track/5dA4w92G7FYSemcsXc7Idr) | [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ) | [Lo sai solo tu](https://open.spotify.com/album/2Tm1vK1bcf92x9sAv6phqX) | 2:41 |
+| 17 | [Don't make love vow](https://open.spotify.com/track/58IJSMPsjN4CWrXUOMd969) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [Don't make love vow](https://open.spotify.com/album/7f8pXcJau1rJur5app8nTW) | 3:09 |
+| 18 | [promises](https://open.spotify.com/track/4eZZwf34YtM0QxkGljAhdj) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [promises](https://open.spotify.com/album/1m7138O2yJiku77vNLBcJD) | 2:28 |
+| 19 | [BOMBAY](https://open.spotify.com/track/7nO8HerWHFoiUxusxTlHzt) | [I61](https://open.spotify.com/artist/0BLwluvlJt4aAE95gomnbe), [Thomas Mraz](https://open.spotify.com/artist/7HeYTVt0Fg6lYEpmoeP67s), [Basic Boy](https://open.spotify.com/artist/6f0OsZOsyTW71NZYkRbWKl), [глебаста](https://open.spotify.com/artist/1a82PLc597zXveWWulVk7O) | [BOMBAY](https://open.spotify.com/album/5hADwq3k0Uz3ss55RTgabE) | 2:54 |
+| 20 | [Icey Soles](https://open.spotify.com/track/3FRbT1r5Sbk0EGHpJq3hDv) | [smokedope2016](https://open.spotify.com/artist/3hGJ4nHdF99Vs0gQdXz5Nw) | [Icey Soles](https://open.spotify.com/album/3FSgCX5sW5wyCNLorNSsxK) | 3:18 |
+| 21 | [Blossom](https://open.spotify.com/track/2OgQsOSI0UJKhAktzQ95MP) | [PIKASONIC](https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e) | [Blossom](https://open.spotify.com/album/7ByZ7nFM5uVBpDF22tbupV) | 3:00 |
+| 22 | [Inside](https://open.spotify.com/track/1WkMsQWSAmljoLv381oL6m) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Eklipse](https://open.spotify.com/artist/2ycTuWzeewjBC6SHxF1gID), [Niceboy](https://open.spotify.com/artist/6ITQCtp87jIWIrHDBdkJm6) | [Inside](https://open.spotify.com/album/7BcRTefPbw55v2rfOjEio0) | 2:28 |
+| 23 | [Zaspy](https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Zaspy](https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl) | 3:10 |
+| 24 | [Por Ti Por Mi](https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [Por Ti Por Mi](https://open.spotify.com/album/7CS99n3NOYshqMOheiw7b2) | 3:00 |
+| 25 | [Ein echtes Lachen](https://open.spotify.com/track/4F9trSkuCXAQ4v0D43YCmr) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp) | [Ein echtes Lachen](https://open.spotify.com/album/5pdLzUOwcjhEwKJaOEkqTu) | 2:41 |
+| 26 | [desktop](https://open.spotify.com/track/5l0mHXJ153f8Lo6TPOsQFM) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [desktop](https://open.spotify.com/album/28FpZjvoF05dlWmOFiGTAY) | 3:32 |
+| 27 | [BREAKTHESOUND](https://open.spotify.com/track/0XgKaZxMHBnNNGkz7n7Pz8) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B) | [BREAKTHESOUND](https://open.spotify.com/album/1VnLVU1rNDGGLCjd0Sfe3T) | 1:57 |
+| 28 | [Mieszane Uczucia](https://open.spotify.com/track/2zw8q69N81ZiK0BG7EIQU5) | [Bluszcz](https://open.spotify.com/artist/4QUfzPnzzNf93Y6VKxZVlD) | [Mieszane Uczucia](https://open.spotify.com/album/3ibZA1MhUoV4YNX5N0hYor) | 3:40 |
+| 29 | [Abril](https://open.spotify.com/track/68wjsGsoZp2okiqMqgj8jT) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Abril](https://open.spotify.com/album/7cdklPYtqUEdnOen3rZTfG) | 3:27 |
+| 30 | [Losing Daylight](https://open.spotify.com/track/2PhjeIbklHKDrlSNREDFnQ) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Losing Daylight](https://open.spotify.com/album/0Vwkni2UzObnj2cQiUBBNU) | 2:55 |
+| 31 | [ALL MY LOVE](https://open.spotify.com/track/3PpIWOUaPwDxu0ysEaFfAr) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [ALL MY LOVE](https://open.spotify.com/album/3lTIRKV7awuSSd53FrFWwH) | 3:42 |
+| 32 | [Sick Dogs](https://open.spotify.com/track/4zSJjTUpERCuyfsTNJGyve) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Sick Dogs](https://open.spotify.com/album/1TRnUbi4ZhpAhEdmfMWjow) | 3:29 |
+| 33 | [404\_soulnotfound](https://open.spotify.com/track/2nQvTvNv4tWiDxqGtlx72I) | [Darknet](https://open.spotify.com/artist/4q0wfu3kKAydX7PSA4H502), [Calle Thomer](https://open.spotify.com/artist/1ZY3kUct2r4k3TgKRsgCLw) | [404\_soulnotfound](https://open.spotify.com/album/3OQveQ2Yg0rDUmn8vvoMJs) | 2:58 |
 
-Snapshot ID: `AAANW/L0HjxQrdOoTZL+VfRVNJxKPT6q`
+Snapshot ID: `AAANZU7ncduhI2iL4DLmy3Fh9GD/xZNv`

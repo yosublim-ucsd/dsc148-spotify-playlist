@@ -214,7 +214,7 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 204 | [Embracing](https://open.spotify.com/track/3DJ7mPNvn7wc6mcqZobTzu) | [Maël](https://open.spotify.com/artist/4Y6Hebz4z9WvqYIFMW58Cx) | [Embracing](https://open.spotify.com/album/2RTWbL7Wucx6tLJxzOYr0F) | 2:15 |
 | 205 | [A Practical Matter](https://open.spotify.com/track/6diJq4Hz5Z8SMP87VhQR82) | [Tanner Christian Gesek](https://open.spotify.com/artist/6X6UFv4MBpNgNmgzl7LggC) | [Charisma](https://open.spotify.com/album/6yBFuzwNeEEIJIYbLjbUc9) | 2:15 |
 | 206 | [The Lighthouse](https://open.spotify.com/track/2ZbRULAOxZGSxj76v6wTGj) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Lighthouse](https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e) | 2:38 |
-| 207 | [Idea 7](https://open.spotify.com/track/3ko0xsWaiY5JrngiPUo2Wo) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 7 \(Remixes\)](https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU) | 2:30 |
+| 207 | [Idea 7](https://open.spotify.com/track/2n1U0UuPUHISJhvrFyHxy1) | [Gibran Alcocer](https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr) | [Idea 7](https://open.spotify.com/album/4JoJlACiUIqIwQf0FGasDX) | 2:30 |
 | 208 | [Echoes](https://open.spotify.com/track/0WbjP8lYfrOU8pQsICxhkS) | [William Thomson](https://open.spotify.com/artist/0LX3VkUVbKepVNL5zLL4qa) | [Lighthouse](https://open.spotify.com/album/5TizsiZuelc7C9ibL5Mi1e) | 1:52 |
 | 209 | [downward](https://open.spotify.com/track/3JO4cpgjp2bCNQbOYdhQqD) | [laurel green](https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk) | [downward](https://open.spotify.com/album/4jl4XTi0LQKVjerRrClIl4) | 2:23 |
 | 210 | [i feel so weightless](https://open.spotify.com/track/44pWbLpSDBJ4fXE7TzX0EE) | [pxlse.](https://open.spotify.com/artist/1cGyguqPQY22oUd4fKglFS) | [carefree](https://open.spotify.com/album/3LKdM3fd63lFeLmZCnycsF) | 2:51 |
@@ -333,4 +333,4 @@ pretty - [cumulative](/playlists/cumulative/360efsjHeGOQCxim8gFlBc.md) - [plain]
 | 323 | [Merry\-Go\-Round of Life \(From "Howl´s Moving Castle"\)](https://open.spotify.com/track/2uGzwciZEchVvt2glv4Fpj) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Merry\-Go\-Round of Life \(From "Howl´s Moving Castle"\)](https://open.spotify.com/album/34FXmDV4FBd12htsvMBNB3) | 2:45 |
 | 324 | [Our Different Path](https://open.spotify.com/track/19jfHCIIpr896sGZUQ8e4e) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh), [Jordy Chandra Orchestra](https://open.spotify.com/artist/6GIie3fBA4zReOkm3gMwiQ) | [Our Different Path](https://open.spotify.com/album/6izjKc0CD37mPGAUt6t6Ws) | 3:29 |
 
-Snapshot ID: `AAAF0WVZNAMh9tRCN8Qy53DcaC5Mn4Pb`
+Snapshot ID: `AAAF2GO1Ie2Aavk3SrucgGei2HbrRIU+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: 95ANTNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,210 likes - 80 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,239 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 8 | [weight](https://open.spotify.com/track/6Xs0BBQGIRCQxQwL0zt7lD) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Ashref](https://open.spotify.com/artist/5VlCWMebGynSUIx6dRxaPe) | [Dear Z](https://open.spotify.com/album/5yYCqkCxYnXFLqApA98Ltv) | 2:54 |
 | 9 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 |
 | 10 | [Take Control](https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Frescool](https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb) | [Take Control](https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo) | 3:15 |
-| 11 | [drama](https://open.spotify.com/track/4TcqRshB65xpl9Ip9cTzsb) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:13 |
+| 11 | [drama](https://open.spotify.com/track/4TcqRshB65xpl9Ip9cTzsb) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 3:13 |
 | 12 | [CURIOUS CAESAR](https://open.spotify.com/track/5tLgV8r3KBnB31C8r2M73M) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [CURIOUS CAESAR](https://open.spotify.com/album/2MfM7YpoqsitNi9PAT3cCt) | 3:06 |
 | 13 | [Pick a Date \(J33J3\)](https://open.spotify.com/track/57gTa3UzvqgK4B3swoVyrd) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Pick a Date \(J33J3\)](https://open.spotify.com/album/3n0V8MzBccV6epodNBh3zq) | 2:12 |
 | 14 | [NYKES](https://open.spotify.com/track/6M9YoFbBe7xDKOSWByjHrh) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw), [Bigg Bobbyy](https://open.spotify.com/artist/26kmsdjrNWCC8srvp8NHVp) | [NYKES](https://open.spotify.com/album/3YkbRT6RI7ZQBT9qS8NAI8) | 2:13 |
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 67 | [Say Please](https://open.spotify.com/track/5IRnCF3PPKFmIK641N6y40) | [Tomi Agape](https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd) | [Say Please](https://open.spotify.com/album/5lQZd1mzyPBqpgEG8O789l) | 2:47 |
 | 68 | [BAD GYAL](https://open.spotify.com/track/5eigaq3fAuCD9kcZ8YpARI) | [Yvng Chriis](https://open.spotify.com/artist/74iYrR0Iz2dNVutdfqxVJE), [Prod\. Valdo](https://open.spotify.com/artist/7uvMMgqX4EcKTxywEGhOWj) | [VALID \(THE EP\)](https://open.spotify.com/album/4PlBChW1ul3QEDnpCexa0V) | 2:49 |
 | 69 | [CRUISE](https://open.spotify.com/track/1oCMYZ9k98wgiqTw5hdMwq) | [Joeyturks](https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL) | [CRUISE](https://open.spotify.com/album/2u7YBP6ssXmsdolIzGLo56) | 1:39 |
-| 70 | [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 |
+| 70 | [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 |
 | 71 | [Tiny Apartment \(with SAINt JHN\)](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 |
 | 72 | [Angie Riddim](https://open.spotify.com/track/7vK6MUFKqhzVdEMPANzHWE) | [Ayüü](https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7), [svndaypack](https://open.spotify.com/artist/2MhOafEXdLSXZ9aV07o4lh) | [Angie Riddim](https://open.spotify.com/album/7AZXhVJHF6ooCIG6sJbH1T) | 2:00 |
 | 73 | [Replica \(The Greatest\)](https://open.spotify.com/track/14ptimZIzywSLwUrM178ls) | [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Replica \(The Greatest\)](https://open.spotify.com/album/2LyRbu8qkgdOnBJByouEil) | 2:23 |

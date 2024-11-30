@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-456 songs - 1 day 1 hr 41 min
+457 songs - 1 day 1 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Ek Roz](https://open.spotify.com/track/0MX03YXxjKkgjBjWQkKVSc) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg), [Avanti Singh](https://open.spotify.com/artist/6k5LuiRji2bQeSy3M73j4v) | [Ek Roz](https://open.spotify.com/album/7FPc1Lg56oeqbxd2BxPrPT) | 3:32 | 2024-01-19 | 2024-03-22 |
 | [Ek Samay](https://open.spotify.com/track/0mo7QWcntm7G2syqkf0cNP) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG), [Rajarshi Sanyal](https://open.spotify.com/artist/4vCAvVluSrIr5WeqYwLs4O) | [Ibtida](https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW) | 4:32 | 2024-04-19 | 2024-07-04 |
 | [Ek Sheher](https://open.spotify.com/track/4IRryIKKfcEFvKgfcCTSGc) | [Alok](https://open.spotify.com/artist/3y7LfP3vkL9HrOItlNblh9), [Zion Mathew](https://open.spotify.com/artist/5f47cgKSrce8l22c8bZQ8X) | [Ek Sheher](https://open.spotify.com/album/7aX7q7EJb4cko8NLfzhMne) | 3:52 | 2023-09-08 | 2024-02-10 |
-| [Ek Sheher](https://open.spotify.com/track/6u5YoYzSZNXLmmm1ioeUGF) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Ek Sheher](https://open.spotify.com/album/6SeoTDuP6PEqifNIFoDujy) | 3:53 | 2024-10-04 |  |
+| [Ek Sheher](https://open.spotify.com/track/6u5YoYzSZNXLmmm1ioeUGF) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Ek Sheher](https://open.spotify.com/album/6SeoTDuP6PEqifNIFoDujy) | 3:53 | 2024-10-04 | 2024-11-30 |
 | [Faasle](https://open.spotify.com/track/26tmWlMjd3Li1WDJSm9IuJ) | [Peferd Da Costa](https://open.spotify.com/artist/00ubzRw4KemETUjdvwKqJp) | [Faasle](https://open.spotify.com/album/0dWoK0z5NaabRTzQK6KzZ8) | 3:50 | 2024-09-06 | 2024-09-18 |
 | [Faisle \(Acoustic\)](https://open.spotify.com/track/34pOdFzVl5ey5ssMWd9dwX) | [Murtuza Gadiwala](https://open.spotify.com/artist/625HWjXc0PbsRSE0WC8HRW), [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Faisle \(Acoustic\)](https://open.spotify.com/album/0Gs4hEWrjOPRvaIpvbR4Wa) | 2:41 | 2023-05-17 | 2023-07-08 |
 | [Farq hai](https://open.spotify.com/track/6MZyrnqwsLnrWY5Gk0AyXg) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Farq hai](https://open.spotify.com/album/55ZzRnrvRvc54SfrETBFcp) | 3:04 | 2023-09-12 | 2024-06-12 |
@@ -369,6 +369,7 @@
 | [Shamiyana](https://open.spotify.com/track/3QC6onisBo4QROKE7Wr6W9) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk) | [Shamiyana](https://open.spotify.com/album/7IzYRwQO5uLovjokWp81C2) | 5:24 | 2024-02-14 | 2024-04-10 |
 | [Sheher](https://open.spotify.com/track/16ipZHJpbcELsK0B1SXhSV) | [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Khaak](https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ) | 3:05 | 2023-06-12 | 2024-03-01 |
 | [Shikayatein](https://open.spotify.com/track/0Gf0s7zHB6mC72fSnUEVKr) | [Abhimanyu Sharma](https://open.spotify.com/artist/1023HBlUsOPyfK5et4fspo) | [Shikayatein](https://open.spotify.com/album/1unKBXd0KUTMzsybQHFBBg) | 4:43 | 2024-05-13 | 2024-09-04 |
+| [Shikwe Gile \- Live](https://open.spotify.com/track/1iJz2tL0JkK7Q2HjJKUzli) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shikwe Gile \(Live\)](https://open.spotify.com/album/0q1R5J48FwvvLT2HW3RW0a) | 2:32 | 2024-11-29 |  |
 | [Sochu](https://open.spotify.com/track/651OglmdGFaRT2W47hx696) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Sochu](https://open.spotify.com/album/4fhXeH4ZHxUrOsndsziT1f) | 3:22 | 2024-02-20 | 2024-07-16 |
 | [Sorry](https://open.spotify.com/track/6S7bu8sgZUFpUwLYWOSKzj) | [Savneet Singh](https://open.spotify.com/artist/3y7E2LWleEorGmUfFQ5qfY) | [Sorry](https://open.spotify.com/album/1Ng2fXRfEI6IerCgiF5KNs) | 3:26 | 2024-11-27 |  |
 | [Subah Ho Tumse](https://open.spotify.com/track/1jNa2Lt10Wbk7UrIL8NX4Q) | [Arjama B](https://open.spotify.com/artist/6Acn0Zzbjp4vmtxZgqetpy), [Shubham S](https://open.spotify.com/artist/3X279yEg4gaZ7DHunJZp5R) | [Subah Ho Tumse](https://open.spotify.com/album/5ULEZrp97201TZQVUajtoj) | 3:01 | 2024-11-22 |  |

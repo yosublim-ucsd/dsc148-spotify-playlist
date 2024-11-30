@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-623 songs - 1 day 19 hr 7 min
+625 songs - 1 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,7 +329,8 @@
 | [Love Me For Me](https://open.spotify.com/track/5uOQhnhCDxGb9QlSmCcXRO) | [Jamali](https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0) | [Jamali](https://open.spotify.com/album/5Qe0Khsxx4fLlzk7cdATN7) | 4:02 | 2023-12-30 |  |
 | [Love Me Like That \(Champion Love\)](https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Creed II: The Album](https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP) | 3:30 | 2023-12-30 |  |
 | [Love On A Rooftop](https://open.spotify.com/track/391b0hw6MBlVreaHd1wTyU) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:25 | 2023-12-30 |  |
-| [Love Will Lead You Back](https://open.spotify.com/track/6YVJn3D9rw2h6KyJjIY54e) | [Dominique Karan](https://open.spotify.com/artist/2WBHpkqFLXc6bgQZAi6cQZ) | [Dominique Karan Greatest Hits](https://open.spotify.com/album/2PF5U3Lc8L8x5j8nNb621z) | 4:36 | 2024-07-10 |  |
+| [Love Will Lead You Back](https://open.spotify.com/track/7g0HwJR6bTDafnWGYcTnmY) | [Dominique](https://open.spotify.com/artist/0sNNIBEGza7dI940L14LDj) | [Love Will Lead You Back](https://open.spotify.com/album/2dfgc5hkjQzRI5dpB2QLoM) | 4:36 | 2024-11-29 |  |
+| [Love Will Lead You Back](https://open.spotify.com/track/6YVJn3D9rw2h6KyJjIY54e) | [Dominique Karan](https://open.spotify.com/artist/2WBHpkqFLXc6bgQZAi6cQZ) | [Dominique Karan Greatest Hits](https://open.spotify.com/album/2PF5U3Lc8L8x5j8nNb621z) | 4:36 | 2024-07-10 | 2024-11-30 |
 | [Love Will Lead You Back](https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:37 | 2023-12-30 |  |
 | [Love Will Lead You Back](https://open.spotify.com/track/0m8PenXC6y9fo0LaSd4vPw) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Arista Heritage Series: Taylor Dayne](https://open.spotify.com/album/08nkVfPFOyoL5vH3B0ehSn) | 4:38 | 2024-07-22 | 2024-11-07 |
 | [Lovin' Proof](https://open.spotify.com/track/2wjCT6QwVk0nvkeqdgevbx) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:11 | 2023-12-30 |  |
@@ -573,7 +574,8 @@
 | [When A Woman Loves](https://open.spotify.com/track/46AvHcDi2KMqHseC0EHqNg) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [When A Woman Loves](https://open.spotify.com/album/7xBo1VHvAdhjlUNm8lGvTn) | 4:47 | 2023-12-30 |  |
 | [When I Die](https://open.spotify.com/track/4z1IYRhVpbLCBaqZXYIl66) | [No Mercy](https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3) | [My Promise](https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ) | 4:29 | 2023-12-30 |  |
 | [When I See You Smile](https://open.spotify.com/track/0tKjVEJlX3IZ5L1rEJc5hh) | [Bad English](https://open.spotify.com/artist/5fhMbh4PVSLSODF2fhWwqt) | [Bad English](https://open.spotify.com/album/0oNZnqsNbKKMKedFNNRs69) | 4:17 | 2023-12-30 |  |
-| [When I'm Back On My Feet Again](https://open.spotify.com/track/34vXa9Op7Rqxq7csiMZ66u) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [Best of the Essential Years: David Garrick](https://open.spotify.com/album/00dt9K2OkC0UtDDjaYhnh4) | 3:52 | 2024-09-26 |  |
+| [When I'm Back On My Feet Again](https://open.spotify.com/track/34vXa9Op7Rqxq7csiMZ66u) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [Best of the Essential Years: David Garrick](https://open.spotify.com/album/00dt9K2OkC0UtDDjaYhnh4) | 3:52 | 2024-09-26 | 2024-11-30 |
+| [When I'm Back On My Feet Again](https://open.spotify.com/track/3GvdGso8ZdbPZzbHIzD95Q) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [All The Hits Plus More](https://open.spotify.com/album/3Hv6VQrsjzCGOUV9Fqqq00) | 3:52 | 2024-11-29 |  |
 | [When I'm Back On My Feet Again](https://open.spotify.com/track/47SOobTLWvyZpUfpmuUARJ) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 | 2023-12-30 |  |
 | [When Lovers Become Strangers](https://open.spotify.com/track/1CL3jh4Effnc19ZhQ5x8HL) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Love Hurts](https://open.spotify.com/album/23ZynaAt0r7guEQef3baHW) | 4:46 | 2023-12-30 |  |
 | [When the Night Comes](https://open.spotify.com/track/1akny2bg3n4bvx9B5YLcFo) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [One Night of Sin](https://open.spotify.com/album/0a4PqyHhQ9abMAx2RP2VT3) | 4:48 | 2023-12-30 |  |

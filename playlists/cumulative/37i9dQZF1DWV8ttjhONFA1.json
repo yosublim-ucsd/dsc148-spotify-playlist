@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: lisandro skar & \u00bfJuan Julian?",
+  "description": "El nuevo sonido argentino lo encontr\u00e1s ac\u00e1. Foto: Mar\u00eda Morgade",
   "name": "Indie Argentina",
   "tracks": [
     {
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 192520,
       "name": "Cada Vez",
       "url": "https://open.spotify.com/track/1UjqPxX0ctIYOX5tlKSKGa"
@@ -1618,10 +1618,28 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 206117,
       "name": "Desilusion",
       "url": "https://open.spotify.com/track/6keiESvqfHyAjVqpCkJ68J"
+    },
+    {
+      "album": {
+        "name": "Desacelerando",
+        "url": "https://open.spotify.com/album/40AcLHOL2z5SQz6EV0sHyB"
+      },
+      "artists": [
+        {
+          "name": "BADS",
+          "url": "https://open.spotify.com/artist/5a6DWvQsxBbTyRVom1TGb3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/1sY9fv75xuIMdK9jinCpPh"
     },
     {
       "album": {
@@ -2016,7 +2034,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 216770,
       "name": "El Dato - Vivo La Plata",
       "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
@@ -3083,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "la \u00faltima vez",
+        "url": "https://open.spotify.com/album/2ljajcxbklVtTXXQXwZKjS"
+      },
+      "artists": [
+        {
+          "name": "Polska",
+          "url": "https://open.spotify.com/artist/5RpQqJ8QJKu4vIzAJZQxwk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174722,
+      "name": "la \u00faltima vez",
+      "url": "https://open.spotify.com/track/0KnDmf4D0GhbrO4V2VNh2j"
+    },
+    {
+      "album": {
         "name": "Lago Eterno",
         "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
       },
@@ -3858,7 +3894,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 208695,
       "name": "Nada Que Decir",
       "url": "https://open.spotify.com/track/7n6Judorbmi3LyykG9AcYP"
@@ -3919,6 +3955,24 @@
     },
     {
       "album": {
+        "name": "Ni\u00f1o Bosque",
+        "url": "https://open.spotify.com/album/0X7lBPRO37oNovgx6tdPN5"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Morgade",
+          "url": "https://open.spotify.com/artist/5916I1sGtfQ3ugjsbS3NjF"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176916,
+      "name": "Ni\u00f1o Bosque",
+      "url": "https://open.spotify.com/track/3NgFZGH2w9BqkNVyxsBP1X"
+    },
+    {
+      "album": {
         "name": "No Atino",
         "url": "https://open.spotify.com/album/3Z9kcMdQsIRQstiVVoJoQt"
       },
@@ -3941,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "No hay m\u00e1s tiempo",
+        "url": "https://open.spotify.com/album/5YYfTwT5Sap3rylvAXVedC"
+      },
+      "artists": [
+        {
+          "name": "INE",
+          "url": "https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187786,
+      "name": "No hay m\u00e1s tiempo",
+      "url": "https://open.spotify.com/track/0PWr5qLY1jBYrD9oERVLwf"
+    },
+    {
+      "album": {
         "name": "no hay porqu\u00e9",
         "url": "https://open.spotify.com/album/0k6CNiHqCfZd42VOp8WhZt"
       },
@@ -3952,7 +4024,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 141963,
       "name": "no hay porqu\u00e9",
       "url": "https://open.spotify.com/track/4z8v6dinom02IRU69Mp5XN"
@@ -4539,6 +4611,24 @@
     },
     {
       "album": {
+        "name": "VAC\u00cdA CIUDAD",
+        "url": "https://open.spotify.com/album/7ktaT0jJjSKHZoEesXcbrH"
+      },
+      "artists": [
+        {
+          "name": "T. Maffia",
+          "url": "https://open.spotify.com/artist/50Jkcp4FiBsxmH3P0qThfC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125391,
+      "name": "pienso todo el d\u00eda en vos",
+      "url": "https://open.spotify.com/track/4eYmv4PUR80zVIYIywHt5O"
+    },
+    {
+      "album": {
         "name": "Sue\u00f1o C\u00edtrico (El D\u00eda Despu\u00e9s)",
         "url": "https://open.spotify.com/album/1c92815dElLk9cEKctEvEv"
       },
@@ -5096,7 +5186,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 210853,
       "name": "Sin Mirar Atr\u00e1s",
       "url": "https://open.spotify.com/track/0mkQpK6C6j5xSxhX0s3YXY"

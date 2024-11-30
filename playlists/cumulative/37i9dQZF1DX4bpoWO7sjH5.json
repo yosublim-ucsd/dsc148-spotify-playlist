@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Camino a Bel\u00e9n",
+        "url": "https://open.spotify.com/album/4SbygYpD25r52NhjYjXKax"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198562,
+      "name": "Camino a Bel\u00e9n",
+      "url": "https://open.spotify.com/track/7vucj0QX5L16VP98S20afD"
+    },
+    {
+      "album": {
         "name": "En Navidad",
         "url": "https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI"
       },
@@ -1026,6 +1044,24 @@
       "duration_ms": 242666,
       "name": "Emanuel - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
+    },
+    {
+      "album": {
+        "name": "Emmanuel (Dios con nosotros)",
+        "url": "https://open.spotify.com/album/0pm4B5KuJ4T2Ja3NUG30fi"
+      },
+      "artists": [
+        {
+          "name": "Nani Nicole",
+          "url": "https://open.spotify.com/artist/1yPD1ZxaG4d59A91xFFaua"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253475,
+      "name": "Emmanuel (Dios con nosotros)",
+      "url": "https://open.spotify.com/track/72eIjPl2InU2XOg8J5HELL"
     },
     {
       "album": {
@@ -1873,6 +1909,24 @@
     },
     {
       "album": {
+        "name": "Jes\u00fas Es Navidad",
+        "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
+      },
+      "artists": [
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157833,
+      "name": "Jes\u00fas Es Navidad",
+      "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
+    },
+    {
+      "album": {
         "name": "Lleg\u00f3 La Navidad",
         "url": "https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya"
       },
@@ -2033,6 +2087,24 @@
     },
     {
       "album": {
+        "name": "Lleg\u00f3 La Navidad",
+        "url": "https://open.spotify.com/album/4LXwKVxOHR0uccOT25B2Hj"
+      },
+      "artists": [
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157701,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/4npX3uUcUrafH6E7djKCD4"
+    },
+    {
+      "album": {
         "name": "Navidad Con V\u00e1stago Vol. 2",
         "url": "https://open.spotify.com/album/7DAgxWMVqeDj8HDo8mH3M0"
       },
@@ -2190,7 +2262,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 214229,
       "name": "Luces de Colores",
       "url": "https://open.spotify.com/track/5M9VNH2AYuGXlQuTYOwEVH"
@@ -3378,7 +3450,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 236128,
       "name": "Santa la Noche",
       "url": "https://open.spotify.com/track/6OkKwYcHGFWIbpDXF0lhV8"
@@ -4010,7 +4082,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 227671,
       "name": "Venid y Adoremos",
       "url": "https://open.spotify.com/track/7fyS0Ortd2zhkf6uHjkZI5"
@@ -4028,7 +4100,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 236146,
       "name": "Venid Y Adoremos",
       "url": "https://open.spotify.com/track/3R1T2aPiYBK6rfCY5dUVAH"

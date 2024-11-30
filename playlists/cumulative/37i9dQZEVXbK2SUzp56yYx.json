@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 116470,
       "name": "78 flow",
       "url": "https://open.spotify.com/track/4Hp1floq6WB8SLg8OIoa6T"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 174791,
       "name": "A Little Bit Harder Now",
       "url": "https://open.spotify.com/track/5td7LYTivVH0MXXwin8QvE"
@@ -5256,7 +5256,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 70400,
       "name": "JOGO DE TOLOS",
       "url": "https://open.spotify.com/track/5Vuq8CP31cpEEq5zNJCjUN"
@@ -9376,7 +9376,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 224666,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/2gkzJU3hVJn9UziHtNYsZd"
@@ -9540,6 +9540,24 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "album": {
+        "name": "OXIDE",
+        "url": "https://open.spotify.com/album/3og5OnsYgdN9cJMxMJFaKm"
+      },
+      "artists": [
+        {
+          "name": "dabbackwood",
+          "url": "https://open.spotify.com/artist/197D0NwoUgPyjzksisOqcy"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94022,
+      "name": "SPLASH",
+      "url": "https://open.spotify.com/track/01kdjwyHpp1Bc6NvKt45Gq"
     },
     {
       "album": {
@@ -13186,7 +13204,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 239820,
       "name": "\u0412\u043e\u0440 \u0437\u0430\u043c\u043e\u0447\u0435\u043a \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u0435\u0442",
       "url": "https://open.spotify.com/track/4Hl7P42RGwkjVpsbRvYmrZ"
@@ -13536,7 +13554,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 152523,
       "name": "\u0413\u043e\u0440\u043e\u0434 \u0434\u043e\u0440\u043e\u0433",
       "url": "https://open.spotify.com/track/2akPxuWRZlrwapcnTgc3xv"
@@ -19752,6 +19770,24 @@
       "duration_ms": 153000,
       "name": "\u042f \u043d\u043e\u0447\u044c\u044e \u043f\u043b\u0430\u0447\u0443",
       "url": "https://open.spotify.com/track/5NlGn8RdcH8eeFjg6jy71I"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0440\u043e\u0442\u0435\u0441\u0442",
+        "url": "https://open.spotify.com/album/7biBTdFQKUs5h2G8bOLXew"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u0430\u0442\u043e\u043b\u043e\u0433\u0438\u044f",
+          "url": "https://open.spotify.com/artist/3nicyAinnul5e1qTyB7xK2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118322,
+      "name": "\u042f \u043f\u0441\u0438\u0445",
+      "url": "https://open.spotify.com/track/7j5sEqjLTcLQl9mUDaFPFo"
     },
     {
       "album": {

@@ -1605,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/5hSpdlcUZirKJj74PhXoNd"
+      },
+      "artists": [
+        {
+          "name": "Moleno",
+          "url": "https://open.spotify.com/artist/2uei4xlyU9Zv1sCLQvDmOt"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149231,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/7Fowr5g7NFSNRnBzRmsyD2"
+    },
+    {
+      "album": {
         "name": "Ing\u00e9nue",
         "url": "https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b"
       },
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 179250,
       "name": "Seceda",
       "url": "https://open.spotify.com/track/0bhgyVhN8V0GH26HgQisqE"

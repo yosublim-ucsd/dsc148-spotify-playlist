@@ -4,7 +4,7 @@
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-206 songs - 14 hr 10 min
+208 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Grace](https://open.spotify.com/track/2TESHzTfZn6rl9988rnTG7) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [O Come All Ye Faithful](https://open.spotify.com/album/6TdRrPQiLtwEokNNHxiviI) | 3:41 | 2021-11-10 | 2022-11-24 |
 | [Grace](https://open.spotify.com/track/66TtleTngTaYv5eflIgKnT) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Grace](https://open.spotify.com/album/1xpgV5bIsIopSvvEe6MvUt) | 3:41 | 2021-11-10 | 2022-07-29 |
 | [gracias a la vida](https://open.spotify.com/track/0ROvxmZFJNRm0PyYcFKHbm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 4:32 | 2021-11-10 | 2022-11-24 |
+| [Grateful](https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Grateful](https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob) | 3:35 | 2024-11-29 |  |
 | [Grateful](https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 4:07 | 2022-11-23 |  |
 | [Grateful](https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 6:55 | 2022-11-23 |  |
 | [Grateful](https://open.spotify.com/track/1zm7N5ffTPjHQzNIQAdGq1) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Songs 4 Worship Gospel \- God Is In the House](https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ) | 6:29 | 2022-11-23 |  |
@@ -151,7 +152,7 @@
 | [Thank You](https://open.spotify.com/track/17oErUcbbCpKgjZDCHZyNH) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [On The Rural Route 7609](https://open.spotify.com/album/3LMAJh6Q4zOpPBslPvI54j) | 3:40 | 2021-11-10 | 2022-11-13 |
 | [Thank You](https://open.spotify.com/track/5fj35Am6o5htd4HlOZEymW) | [Kirk Franklin & Mary Mary](https://open.spotify.com/artist/6bUP8NEnriCT6Uyqo5gOct) | [Kingdom Come \- The Soundtrack](https://open.spotify.com/album/5HTBR75IKGcmwkgT1XXXmG) | 4:40 | 2022-11-23 |  |
 | [Thank You](https://open.spotify.com/track/1jSHuG8UuSHITdKR8EqtrE) | [Tondi Rams](https://open.spotify.com/artist/7yauy0FdzPmCzc6rbSN0W1), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Thank You](https://open.spotify.com/album/1ZjYyqnWU5CV1buejFZFk1) | 3:15 | 2024-07-29 |  |
-| [Thank You](https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Love Alive IV](https://open.spotify.com/album/54D2RsYSwVIS6QIpKclaOd) | 10:42 | 2022-11-23 |  |
+| [Thank You](https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Love Alive IV](https://open.spotify.com/album/54D2RsYSwVIS6QIpKclaOd) | 10:42 | 2022-11-23 | 2024-11-30 |
 | [Thank You \(Famine Or Feast\)](https://open.spotify.com/track/0f2TO0w2isBZfU1Ae3ugFK) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Thank You \(Famine Or Feast\)](https://open.spotify.com/album/3uLzFCH6KFFnHwT07NUo7Q) | 3:23 | 2022-11-23 |  |
 | [Thank You \(feat\. MARTY\)](https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Thank You \(feat\. MARTY\)](https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T) | 3:22 | 2024-07-29 |  |
 | [Thank You \- 2008 Remaster](https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 2:50 | 2021-11-10 | 2022-11-24 |
@@ -171,10 +172,11 @@
 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 | 2022-11-23 |  |
 | [Thankful](https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 3:23 | 2022-11-23 |  |
 | [Thankful](https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Thankful](https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh) | 2:44 | 2024-11-17 |  |
-| [Thankful](https://open.spotify.com/track/69q1KdBZVBregb4xdX8XmL) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Thankful](https://open.spotify.com/album/0wGBYAIS4m9j1wDX4RCbyG) | 3:14 | 2024-07-29 |  |
+| [Thankful](https://open.spotify.com/track/69q1KdBZVBregb4xdX8XmL) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v), [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Thankful](https://open.spotify.com/album/0wGBYAIS4m9j1wDX4RCbyG) | 3:14 | 2024-07-29 | 2024-11-30 |
 | [Thankful](https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU) | [Verses](https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb) | [Thankful](https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt) | 3:12 | 2022-11-23 |  |
 | [Thankful \(7.6.19\)](https://open.spotify.com/track/6HBHeStTx6pT5rMuu3O1T1) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Thankful \(7.6.19\)](https://open.spotify.com/album/18yQ0hBBSbzbX6sDwYt5yX) | 2:32 | 2024-07-29 |  |
 | [Thankful \- Live](https://open.spotify.com/track/62xo55xXPDuNekVHmERjc0) | [Cross Worship](https://open.spotify.com/artist/09uw68tTAf3gYSPAktJa7f), [Lilly Powers](https://open.spotify.com/artist/0dkmEy84PNteOhnxSZyJkt) | [Thankful \(Live\)](https://open.spotify.com/album/2rywYmIP5UX9JbaQx2H5x8) | 6:59 | 2022-11-23 |  |
+| [THANKFULLY!](https://open.spotify.com/track/2Sm92rOFOf5TbEtZQOKcQE) | [Wyatt Woodley](https://open.spotify.com/artist/7AYwAKqUzY0YHW8WHXafdE), [callmestevieray](https://open.spotify.com/artist/2rwCl3cifvJKvL61qdXjML) | [THANKFULLY!](https://open.spotify.com/album/5Uhh5aYtde3GAEAe7XnHcY) | 1:49 | 2024-11-29 |  |
 | [Thanks Giver](https://open.spotify.com/track/4q5xRx9qXkGK95OgtRZHcC) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 3:28 | 2022-11-23 |  |
 | [Thanks In Advance](https://open.spotify.com/track/3VMuOKRB6IuXCFAmNrFktz) | [Evan Ford](https://open.spotify.com/artist/4eoZNWAcavDmUTQIoiPpyk), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Thanks In Advance](https://open.spotify.com/album/58aalgCpjYVAqruiYV9sFH) | 2:21 | 2022-11-23 |  |
 | [Thanksgiving Song](https://open.spotify.com/track/7kxLfD1JWkmvhM2qZAZyx6) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Thanksgiving Song](https://open.spotify.com/album/6MbYtL3jRs69YuzxmLriXQ) | 3:28 | 2024-07-29 |  |

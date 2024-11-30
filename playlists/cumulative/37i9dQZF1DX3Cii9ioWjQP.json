@@ -1089,6 +1089,24 @@
     },
     {
       "album": {
+        "name": "Embrace Your Emotions",
+        "url": "https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG"
+      },
+      "artists": [
+        {
+          "name": "A.Rion",
+          "url": "https://open.spotify.com/artist/0VHEXCiwvN64fSXIOhpdqS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Embrace Your Emotions",
+      "url": "https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W"
+    },
+    {
+      "album": {
         "name": "END AND (Feat. Nicola Sergio)",
         "url": "https://open.spotify.com/album/1Aur1rcwdfRJXyG8VtRFRr"
       },
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 188040,
       "name": "\uc624\ub298\uc740 \ub9d1\uc74c (Sunny Side Up)",
       "url": "https://open.spotify.com/track/3oA2whD4CPexa0Klod6msm"

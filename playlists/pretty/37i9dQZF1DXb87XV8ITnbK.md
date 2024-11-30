@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,177 likes - 64 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,198 likes - 64 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 17 | [Happy Death Day](https://open.spotify.com/track/6IU2u7AKUffdmcbYPK9YR1) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Happy Death Day](https://open.spotify.com/album/3sQhbas4eoH7l38Uy0ZJ3z) | 3:40 |
 | 18 | [Whatever It Takes](https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:21 |
 | 19 | [넌 내게 반했어](https://open.spotify.com/track/1Bjds5pJTvgzlheWp1oHGo) | [No Brain](https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7) | [Stand Up Again!](https://open.spotify.com/album/2qO7VvHG10c8nBPsiH1Va3) | 3:43 |
-| 20 | [밤이 깊었네 Oh! What a Shiny Night](https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 4:08 |
+| 20 | [밤이 깊었네 Oh! What a Shiny Night](https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 4:08 |
 | 21 | [Love Of My Life](https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:11 |
 | 22 | [02 Curated by Ryeoun](https://open.spotify.com/track/67H3Ir9Pw6KvAD7ElpYJnJ) | [Twinkling Watermelon](https://open.spotify.com/artist/5Vn9LZQHgwunoJ7p9j0gIV) | [Twinkling Watermelon audio liners](https://open.spotify.com/album/3Rhj36RvT5vqeMN3gqDDcf) | 0:26 |
 | 23 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 |

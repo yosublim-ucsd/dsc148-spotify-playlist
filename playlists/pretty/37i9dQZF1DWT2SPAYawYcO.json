@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the week! Cover: FISHER",
-  "num_followers": 384925,
+  "num_followers": 385488,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
       "duration_ms": 238220,
       "name": "Bodys Chorus",
       "url": "https://open.spotify.com/track/3v53dEJ3q3eYjAsJZmODMY"
+    },
+    {
+      "added_at": "2024-11-28 22:23:14",
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "added_at": "2024-11-28 22:23:14",
@@ -651,6 +667,22 @@
     {
       "added_at": "2024-11-28 22:23:14",
       "album": {
+        "name": "Trill Bill",
+        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 123941,
+      "name": "Dirty Revolver",
+      "url": "https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO"
+    },
+    {
+      "added_at": "2024-11-28 22:23:14",
+      "album": {
         "name": "Pull Up (feat. Akz)",
         "url": "https://open.spotify.com/album/1FnVmOTUExrgOF2GKT2oXZ"
       },
@@ -1155,6 +1187,22 @@
       "duration_ms": 263986,
       "name": "The New Alphabet",
       "url": "https://open.spotify.com/track/1yrN1FcgIRhDNqdL8n1FIy"
+    },
+    {
+      "added_at": "2024-11-28 22:23:14",
+      "album": {
+        "name": "Unchain",
+        "url": "https://open.spotify.com/album/1tglSiunKB7YE93KuQJdFl"
+      },
+      "artists": [
+        {
+          "name": "Dozy Doe",
+          "url": "https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf"
+        }
+      ],
+      "duration_ms": 143013,
+      "name": "Unchain",
+      "url": "https://open.spotify.com/track/7dXLfi1417kkNDHgWUi32T"
     },
     {
       "added_at": "2024-11-28 22:23:14",

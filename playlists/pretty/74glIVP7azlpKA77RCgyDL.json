@@ -1,13 +1,117 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Killswitch Engage.",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Jinjer.",
   "num_followers": 8803,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAM+0oDUpsXTfDjjnjsRJCWUxv3yat4",
+  "snapshot_id": "AAANA1f3bXRJ30WROzkOvajpOIBfn9S+",
   "tracks": [
+    {
+      "added_at": "2024-11-29 18:52:02",
+      "album": {
+        "name": "Green Serpent",
+        "url": "https://open.spotify.com/album/5Xxp22rj2Q0AMLyzk4VHh9"
+      },
+      "artists": [
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Green Serpent",
+      "url": "https://open.spotify.com/track/5qZNn0eOGIMATKu6iDpXHg"
+    },
+    {
+      "added_at": "2024-11-29 18:52:16",
+      "album": {
+        "name": "Dweller on the Threshold",
+        "url": "https://open.spotify.com/album/52cpNQKGIvFtUsDYqnqPq2"
+      },
+      "artists": [
+        {
+          "name": "Haunted Horses",
+          "url": "https://open.spotify.com/artist/6snN2rjeQQ7pG8SMJ5w2Gm"
+        }
+      ],
+      "duration_ms": 256812,
+      "name": "Dweller on the Threshold",
+      "url": "https://open.spotify.com/track/49jeawXlF7NSHT6D6yc2EY"
+    },
+    {
+      "added_at": "2024-11-29 18:52:27",
+      "album": {
+        "name": "Vital Signs",
+        "url": "https://open.spotify.com/album/2ReyuI7yGDSP85dziq5UMM"
+      },
+      "artists": [
+        {
+          "name": "OVERSIZE",
+          "url": "https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T"
+        }
+      ],
+      "duration_ms": 242526,
+      "name": "Vital Signs",
+      "url": "https://open.spotify.com/track/1cIZ4cjqppvYgedZQEZQgP"
+    },
+    {
+      "added_at": "2024-11-29 18:52:42",
+      "album": {
+        "name": "Path Of Our Disease",
+        "url": "https://open.spotify.com/album/3UD2b4iAIh1x10JLy9utAD"
+      },
+      "artists": [
+        {
+          "name": "Bleeding Through",
+          "url": "https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi"
+        }
+      ],
+      "duration_ms": 199057,
+      "name": "Path Of Our Disease",
+      "url": "https://open.spotify.com/track/4ix9IZPjKQYpf3Sn98zppz"
+    },
+    {
+      "added_at": "2024-11-29 18:52:53",
+      "album": {
+        "name": "Recursion",
+        "url": "https://open.spotify.com/album/6DWgesAhx6Vfz6D8Fk9cdi"
+      },
+      "artists": [
+        {
+          "name": "Grief Ritual",
+          "url": "https://open.spotify.com/artist/7hM17EMsGXmMzxfKJVPUwK"
+        },
+        {
+          "name": "Cage Fight",
+          "url": "https://open.spotify.com/artist/35GpJabAKuETXnWsWQbTjr"
+        }
+      ],
+      "duration_ms": 160346,
+      "name": "Recursion",
+      "url": "https://open.spotify.com/track/7IQXJXGNuzpMi0tDQYTpMB"
+    },
+    {
+      "added_at": "2024-11-29 18:53:05",
+      "album": {
+        "name": "Wisenheimer (You Were Never One Of Us)",
+        "url": "https://open.spotify.com/album/0krsNMzUZCgT1tCRi9IKPT"
+      },
+      "artists": [
+        {
+          "name": "Whispers",
+          "url": "https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R"
+        },
+        {
+          "name": "Demonstration Of Power",
+          "url": "https://open.spotify.com/artist/3BHc8N6IN6zuspqwFV17Rs"
+        }
+      ],
+      "duration_ms": 221008,
+      "name": "Wisenheimer (You Were Never One Of Us)",
+      "url": "https://open.spotify.com/track/7eCRxbItIOiXHYk1JnIVMU"
+    },
     {
       "added_at": "2024-11-22 19:59:14",
       "album": {

@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: FISHER
 
-6,633 songs - 14 day 23 hr 29 min
+6,636 songs - 14 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1490,6 +1490,7 @@
 | [Dirty Laundry](https://open.spotify.com/track/3O0VDbjTaFDKQlSyE54xxf) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Dirty Laundry](https://open.spotify.com/album/1toxicdmCTYNhoghfU51lT) | 2:21 | 2024-10-17 | 2024-10-25 |
 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 | 2024-07-11 | 2024-07-19 |
 | [DIRTY NACHOS](https://open.spotify.com/track/5CU0ZVQKGyOeOIbuXDo6gr) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [DIRTY NACHOS](https://open.spotify.com/album/0kim8RqcfUvU9CodYZLp9d) | 1:59 | 2024-02-08 | 2024-02-16 |
+| [Dirty Revolver](https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:03 | 2024-11-28 |  |
 | [Dirty River \- Live at Chapel Off Chapel](https://open.spotify.com/track/2S1XWgmmU2gCE3JMv6sX70) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Live at Chapel Off Chapel](https://open.spotify.com/album/5inJ8bC4C5yDtpcJIuxkBp) | 4:31 | 2023-12-14 | 2023-12-22 |
 | [DISAPPEAR](https://open.spotify.com/track/4nEXjVr2y4XTjV3mtRBxH6) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DISAPPEAR](https://open.spotify.com/album/6dpHwZukx4LPFryQQ5XJTx) | 3:15 | 2023-11-30 | 2023-12-08 |
 | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/track/1AJoCRk4TO9fMu4P045uLC) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [DISCO \(FT\. TOMMY GENESIS\)](https://open.spotify.com/album/0yEtoAdaaX7mZOhjgr7IBH) | 3:17 | 2024-10-17 | 2024-10-25 |
@@ -3807,6 +3808,7 @@
 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 | 2023-09-21 | 2023-09-29 |
 | [Mirror](https://open.spotify.com/track/3vwbwAySDNj9bv2udUBZf0) | [HALES](https://open.spotify.com/artist/0SgD0ob1dliSxZWHc4Dp1K) | [Mirror](https://open.spotify.com/album/1G6TpD7WiyKNUSCE7GKRPT) | 2:59 | 2023-08-03 | 2023-08-11 |
 | [Mirrors](https://open.spotify.com/track/7Jzyzf5gvoZ5RbFzIL7nQ6) | [Tia Gostelow](https://open.spotify.com/artist/4blt4zG5qMjWCPymNjDNP5) | [Mirrors](https://open.spotify.com/album/2yhyGos2sBxftVw79T7CNU) | 3:32 | 2024-06-20 | 2024-06-28 |
+| [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-11-28 |  |
 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 | 2024-06-27 | 2024-07-05 |
 | [MISS INDEPENDENT \(feat\. Chikoruss\)](https://open.spotify.com/track/1gON0XMBtaNn7H3Wwyc9jC) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h), [Chikoruss](https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx) | [MISS INDEPENDENT](https://open.spotify.com/album/6qmjgdgyFKmZvfxCBqrmS7) | 2:48 | 2024-08-29 | 2024-09-06 |
 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-02-29 | 2024-03-08 |
@@ -6116,6 +6118,7 @@
 | [Un Besito](https://open.spotify.com/track/3YpmW8NtS7jZvOc4eJR914) | [Jalmar](https://open.spotify.com/artist/48cWJwip5jzPIDK9kL2KYb) | [Un Besito](https://open.spotify.com/album/3hGkWw9sXHLijpoLFG5G5E) | 2:26 | 2024-01-18 | 2024-01-26 |
 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 | 2023-09-28 | 2023-10-06 |
 | [Una Velita](https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Una Velita](https://open.spotify.com/album/2HQzboxa5GyWpk2aiPP5i6) | 3:59 | 2024-09-19 | 2024-09-27 |
+| [Unchain](https://open.spotify.com/track/7dXLfi1417kkNDHgWUi32T) | [Dozy Doe](https://open.spotify.com/artist/3M5TXkT9LxgZPcLSKBr4Pf) | [Unchain](https://open.spotify.com/album/1tglSiunKB7YE93KuQJdFl) | 2:23 | 2024-11-28 |  |
 | [Uncomfortably Happy](https://open.spotify.com/track/4Z5h093clhE2IRkgdVKORP) | [Jess Locke](https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf) | [Uncomfortably Happy](https://open.spotify.com/album/7f9tvrO4mNUEszslDTdKH9) | 3:13 | 2024-01-11 | 2024-01-19 |
 | [Unconditional](https://open.spotify.com/track/3s2MpAsYP7td9alGNB6Fk1) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA), [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg) | [Unconditional](https://open.spotify.com/album/4utMvi2ApprCzAJoj317um) | 3:28 | 2023-12-21 | 2024-01-12 |
 | [UNDEFEATED](https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [UNDEFEATED](https://open.spotify.com/album/7kHjcTey5ZAewZLWtuCqzK) | 2:53 | 2024-04-11 | 2024-04-19 |

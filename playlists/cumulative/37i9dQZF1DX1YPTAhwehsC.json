@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Up and down I-95. Cover: Lil Uzi Vert",
+  "description": "Up and down I-95. Cover: Sheff G",
   "name": "State of Mind",
   "tracks": [
     {
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 230526,
       "name": "Bad Guy (feat. Dave East & Klass Murda)",
       "url": "https://open.spotify.com/track/5DOGrRzvlXXAWtIWOMYwox"
@@ -2756,6 +2756,24 @@
       "duration_ms": 149589,
       "name": "Big Dawg",
       "url": "https://open.spotify.com/track/7KSw1EdJfvaBIvq2byLUQu"
+    },
+    {
+      "album": {
+        "name": "Big Dog",
+        "url": "https://open.spotify.com/album/1N9k3SYJcmzarGYohamLiD"
+      },
+      "artists": [
+        {
+          "name": "Maino",
+          "url": "https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121150,
+      "name": "Big Dog",
+      "url": "https://open.spotify.com/track/5MjSfB61yXqBMz2yRrY9vR"
     },
     {
       "album": {
@@ -3836,7 +3854,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 186313,
       "name": "Bring Your Lungs - feat. Smoke DZA",
       "url": "https://open.spotify.com/track/7DWxJBtfOCs5WORaya45MV"
@@ -6966,6 +6984,24 @@
       "duration_ms": 146610,
       "name": "Don't Vibe And Tell",
       "url": "https://open.spotify.com/track/0FUyWvKSofJRmkTWvwzf5b"
+    },
+    {
+      "album": {
+        "name": "Dont Wanna C Me Rich",
+        "url": "https://open.spotify.com/album/6kgS333fe7aqrClZAZmCfu"
+      },
+      "artists": [
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141172,
+      "name": "Dont Wanna C Me Rich",
+      "url": "https://open.spotify.com/track/3D1fiZW2BZf7QpbqhgFtwb"
     },
     {
       "album": {
@@ -10914,7 +10950,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 207501,
       "name": "Hide It (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS"
@@ -11713,6 +11749,28 @@
     },
     {
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN"
+    },
+    {
+      "album": {
         "name": "I know",
         "url": "https://open.spotify.com/album/6eZ9QEFdKR68BWNqkDGwqr"
       },
@@ -12091,6 +12149,36 @@
     },
     {
       "album": {
+        "name": "In & Out",
+        "url": "https://open.spotify.com/album/1V7e5uXAuGlPVelGxGVfvu"
+      },
+      "artists": [
+        {
+          "name": "Baby Osamaa",
+          "url": "https://open.spotify.com/artist/3HzHfusJQBmpNKkTzqqC2N"
+        },
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Nino Paid",
+          "url": "https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H"
+        },
+        {
+          "name": "LilSccrt",
+          "url": "https://open.spotify.com/artist/48hL35FnwaSzrOwxeAXHhZ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "In & Out",
+      "url": "https://open.spotify.com/track/4VIO9SBRJe3iEL5nfvb0D8"
+    },
+    {
+      "album": {
         "name": "Yard Work Volume.2",
         "url": "https://open.spotify.com/album/2qHbhcVWG14e4k6FfFEKEA"
       },
@@ -12280,6 +12368,24 @@
       "duration_ms": 97866,
       "name": "Isabel Marant",
       "url": "https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj"
+    },
+    {
+      "album": {
+        "name": "Isley Money",
+        "url": "https://open.spotify.com/album/70eFEmX0qHE1fMcxdAvghS"
+      },
+      "artists": [
+        {
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "Isley Money",
+      "url": "https://open.spotify.com/track/52IhqMGqUaGxsiRYfLFbU2"
     },
     {
       "album": {
@@ -12698,7 +12804,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 113110,
       "name": "JULIO",
       "url": "https://open.spotify.com/track/50wITgAlmXZC9FwdIo2GRO"
@@ -18238,7 +18344,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 81072,
       "name": "Pacer Test",
       "url": "https://open.spotify.com/track/2wtMbKuJ3tPqSu7DWHpxRV"
@@ -22871,6 +22977,28 @@
     },
     {
       "album": {
+        "name": "SS2 Freestyle",
+        "url": "https://open.spotify.com/album/21jFKB3oTYa8IsJ9oRSsFT"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "SS2 Freestyle",
+      "url": "https://open.spotify.com/track/3WJfh8zPcjOLj0SNJTWy1u"
+    },
+    {
+      "album": {
         "name": "Stadiums",
         "url": "https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo"
       },
@@ -23353,6 +23481,24 @@
     },
     {
       "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA"
+      },
+      "artists": [
+        {
+          "name": "B Jack$",
+          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113736,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B"
+    },
+    {
+      "album": {
         "name": "Super Freaky Girl",
         "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
       },
@@ -23671,6 +23817,24 @@
     },
     {
       "album": {
+        "name": "Take It Outside",
+        "url": "https://open.spotify.com/album/6aHIcn0EwTlBbJqf4F6Nk5"
+      },
+      "artists": [
+        {
+          "name": "Don Q",
+          "url": "https://open.spotify.com/artist/5TM9R6dNoJSMq23yZQD6Ee"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133350,
+      "name": "Take It Outside",
+      "url": "https://open.spotify.com/track/2TmVEuvTQDnxeX6mBSoEa0"
+    },
+    {
+      "album": {
         "name": "Take No Loss",
         "url": "https://open.spotify.com/album/7wJozRE4PEbtkaunQkdGLn"
       },
@@ -23980,7 +24144,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 150857,
       "name": "That's Hurt",
       "url": "https://open.spotify.com/track/6zVDYuDG3W8uLnBArVihJB"
@@ -25588,6 +25752,32 @@
       "duration_ms": 333671,
       "name": "Vertino",
       "url": "https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo"
+    },
+    {
+      "album": {
+        "name": "Vibes",
+        "url": "https://open.spotify.com/album/5sEE0c7IkiLvOCYIfxDici"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Jenn Carter",
+          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154240,
+      "name": "Vibes",
+      "url": "https://open.spotify.com/track/3WLR35YgOztXURTTfzgSQL"
     },
     {
       "album": {

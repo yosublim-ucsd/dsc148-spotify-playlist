@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Disclosure ft. Pa Salieu (pictured), Ed Sheeran, Kesha and more!",
-  "num_followers": 865981,
+  "num_followers": 866812,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAACM8S4x6KoMlmHmU8oOlUJa",
+  "snapshot_id": "Z0mXowAAAABhr+nHVCnkZZnLEH4GCeW0",
   "tracks": [
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1127,6 +1127,22 @@
       "duration_ms": 195555,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/6orE9YumgK6ew6qYnUnotH"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "added_at": "2024-11-29 00:00:00",

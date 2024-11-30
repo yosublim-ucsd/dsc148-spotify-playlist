@@ -1170,7 +1170,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 119817,
       "name": "air balloon",
       "url": "https://open.spotify.com/track/5c9q5CvAtO4xDTnyQuGKuO"
@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 153879,
       "name": "Aurora Village",
       "url": "https://open.spotify.com/track/5uMKK3FM8xuOtBQ4r5kHsV"
@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 163320,
       "name": "Beyond the garden",
       "url": "https://open.spotify.com/track/2qpqbfuEx0umWCplWvt8Ym"
@@ -10814,6 +10814,24 @@
       "duration_ms": 130750,
       "name": "Everitt Hill",
       "url": "https://open.spotify.com/track/02ymGD3CqlWedeWWiZOU2x"
+    },
+    {
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/1erD8eaOmcmXFXwXLeDGpJ"
+      },
+      "artists": [
+        {
+          "name": "frad",
+          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "evermore",
+      "url": "https://open.spotify.com/track/1K11v6qH5yxkLHKNK5T2HD"
     },
     {
       "album": {
@@ -18048,7 +18066,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 128409,
       "name": "keeping up appearances",
       "url": "https://open.spotify.com/track/0NLSPdAfVk8ArLAH0XqTWJ"
@@ -21978,7 +21996,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 155076,
       "name": "memory",
       "url": "https://open.spotify.com/track/3ebhxXMw4iM3wbyX9jGX7b"
@@ -25776,7 +25794,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Orb",
       "url": "https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1"
@@ -30302,7 +30320,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 133500,
       "name": "Sayuri",
       "url": "https://open.spotify.com/track/2RluOZNvc49Ddj3cqLUUSR"
@@ -34675,6 +34693,24 @@
     },
     {
       "album": {
+        "name": "Super sunny",
+        "url": "https://open.spotify.com/album/0VAY3DJRxcu0DFJrCLoIll"
+      },
+      "artists": [
+        {
+          "name": "Slowday",
+          "url": "https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Super sunny",
+      "url": "https://open.spotify.com/track/23IBfCX8uQCCAVZMZHZF3w"
+    },
+    {
+      "album": {
         "name": "Supercolor",
         "url": "https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu"
       },
@@ -35706,7 +35742,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-02",
+      "date_removed": null,
       "duration_ms": 131611,
       "name": "the deep sea",
       "url": "https://open.spotify.com/track/1wGGlZgpgyXK3f3VvC4pmY"

@@ -4,7 +4,7 @@
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: Josiah Queen
 
-958 songs - 2 day 17 hr 45 min
+959 songs - 2 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Grace \(feat\. Kierra Sheard\-Kelly\)](https://open.spotify.com/track/0tXgfxKBnI3iDI6GaDRrIk) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Kierra Sheard\-Kelly](https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po) | [Affirmations](https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv) | 5:37 | 2023-11-10 | 2024-04-19 |
 | [Grace Flows Down](https://open.spotify.com/track/2Stkuv3LO3UYhQTsIcEzYq) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage, Vol\. 2](https://open.spotify.com/album/25aDYnEtVSRnxFEghUmGGy) | 4:16 | 2024-07-12 | 2024-10-05 |
 | [Grace To Grace \(Staring Out Into The Old City\) \- Live](https://open.spotify.com/track/7FqbZmbhvGeKu0E0V5cumF) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Joel Houston](https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64) | [Of Dirt And Grace: Live From The Land \(Expanded Edition\)](https://open.spotify.com/album/1GUEempDMheicK14bjCtv0) | 6:05 | 2023-03-31 | 2023-12-09 |
+| [Grateful](https://open.spotify.com/track/2SSWjbTBtXnXJO39Ii0Tmm) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Grateful](https://open.spotify.com/album/2zznlGM6OjviHAvriRoSob) | 3:35 | 2024-11-29 |  |
 | [Grateful](https://open.spotify.com/track/7ICNXE7zp182uWnUE0wZr7) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Grateful](https://open.spotify.com/album/4GT48NVYrNcbtX7f6ce2P4) | 3:12 | 2022-02-11 | 2022-02-26 |
 | [Gratitude \- Radio Version](https://open.spotify.com/track/6ujcANrreKP6PMXE9vGalA) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Gratitude \(Radio Version\)](https://open.spotify.com/album/0wiU7QehvsvZye4j644YX3) | 3:55 | 2023-03-03 | 2023-06-10 |
 | [Grave Robber](https://open.spotify.com/track/1AuNDsNLc7b3tApnlyaGdy) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Grave Robber](https://open.spotify.com/album/0wB9OS3MOqEHXAfxEbk5Px) | 2:50 | 2023-11-10 | 2024-04-06 |
@@ -718,7 +719,7 @@
 | [Seventh Of June](https://open.spotify.com/track/1Rd5AMfjl25DHBODI12WD1) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Seventh Of June](https://open.spotify.com/album/6bgmSXKh5OuNUix5ATrIuu) | 3:57 | 2023-06-23 | 2023-10-01 |
 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 | 2023-10-20 | 2024-03-23 |
 | [Show Up Choose Love \(feat\. Jon Reddick\)](https://open.spotify.com/track/2BeVJvlGsUHZED6BF2Z6Jh) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Show Up Choose Love](https://open.spotify.com/album/79noweOIo3I0Y0UIYY30DC) | 3:32 | 2022-08-05 | 2022-08-20 |
-| [Show Us What's Real](https://open.spotify.com/track/1UKQhxhBZc91kNYPCnoN6o) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Show Us What's Real](https://open.spotify.com/album/1djOEDuXrJcJZFcaiwKkuU) | 3:16 | 2024-10-04 |  |
+| [Show Us What's Real](https://open.spotify.com/track/1UKQhxhBZc91kNYPCnoN6o) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW) | [Show Us What's Real](https://open.spotify.com/album/1djOEDuXrJcJZFcaiwKkuU) | 3:16 | 2024-10-04 | 2024-11-30 |
 | [Simple](https://open.spotify.com/track/6H4BKWmXtWExZLx37l65bg) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Simple](https://open.spotify.com/album/5up6tQqEB8gydXvpxy2Rcx) | 3:44 | 2022-11-04 | 2023-02-18 |
 | [Simple Kingdom \- Live](https://open.spotify.com/track/17wVzKqkXrOhExL7VZdJkH) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Simple Kingdom \(Live\)](https://open.spotify.com/album/22q5gOdmHb6pnG38sTcqZk) | 6:24 | 2022-05-06 | 2022-05-20 |
 | [Simple Matter](https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Strike The Ground](https://open.spotify.com/album/2EZnBhenVIfsfTjhhrbWjs) | 5:17 | 2023-10-20 | 2024-02-10 |

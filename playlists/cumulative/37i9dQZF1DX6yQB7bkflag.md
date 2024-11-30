@@ -4,7 +4,7 @@
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Nidji
 
-1,100 songs - 2 day 16 hr 5 min
+1,101 songs - 2 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1083,6 +1083,7 @@
 | [Will](https://open.spotify.com/track/27ld38UdmopEXofm96uAqt) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Will](https://open.spotify.com/album/5hr8FCRbxJYqhFVFP0I1wU) | 3:11 | 2024-04-12 | 2024-05-10 |
 | [Will I Ever Love Again?](https://open.spotify.com/track/64bczVWu6Y5ZHiNPxJaXaO) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI) | [Jordan](https://open.spotify.com/album/2GzoMwLkAXmod1QjiCD4bu) | 3:33 | 2024-08-16 | 2024-10-04 |
 | [Wings](https://open.spotify.com/track/1fq3bgqIetBC9V6EaIENST) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Anna Leeworthy](https://open.spotify.com/artist/262vJxKmW2Xlpl93qaln8W) | [Wings](https://open.spotify.com/album/3l0kuT9Ny5DUhFMyKkdY9N) | 3:35 | 2024-10-11 | 2024-11-22 |
+| [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK), [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Winter Ahead \(with PARK HYO SHIN\)](https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy) | 3:54 | 2024-11-28 |  |
 | [Wish I Was Her \(feat\. Kara Chenoa\)](https://open.spotify.com/track/0msnhb9KKzAnrEknlrb5Az) | [Caccia](https://open.spotify.com/artist/26HmsOEfo4q8DJvNw3jo1a), [Kara Chenoa](https://open.spotify.com/artist/04V7QZJcbAQtBdSUgT6hPO) | [Wish I Was Her \(feat\. Kara Chenoa\)](https://open.spotify.com/album/6LqnwQFOfMMUw6iTgBtAF1) | 3:09 | 2024-02-23 | 2024-04-09 |
 | [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/track/6ceBB340aX6EUqLZpelyk2) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh), [Aswad Anuar](https://open.spotify.com/artist/1B1M93wNXmybMqjQCcjgIR) | [With You \(feat\. Aswad Anuar\)](https://open.spotify.com/album/50WMtF6oBYcbja0JawYF2T) | 3:32 | 2024-07-25 | 2024-09-14 |
 | [without you](https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [without you](https://open.spotify.com/album/0Z4zqTEb5LG1fzEGRI7HMS) | 3:26 | 2024-08-01 | 2024-09-06 |

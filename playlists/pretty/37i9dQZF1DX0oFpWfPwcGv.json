@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 66097,
+  "num_followers": 66120,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Step II",
-        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
-      },
-      "artists": [
-        {
-          "name": "Sylvester",
-          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
-        }
-      ],
-      "duration_ms": 355263,
-      "name": "Dance (Disco Heat)",
-      "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "Ready To Roll",
         "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 235293,
       "name": "Saturday Night, Sunday Morning",
       "url": "https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Step II",
+        "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
+      },
+      "artists": [
+        {
+          "name": "Sylvester",
+          "url": "https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y"
+        }
+      ],
+      "duration_ms": 355263,
+      "name": "Dance (Disco Heat)",
+      "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Magical Night (Greatest Hits Special Price)",
-        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 429813,
-      "name": "Angel in My Pocket - Extended Version",
-      "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
         "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
         "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 346600,
       "name": "It's a Better Than Good Time",
       "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Magical Night (Greatest Hits Special Price)",
+        "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 429813,
+      "name": "Angel in My Pocket - Extended Version",
+      "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
     },
     {
       "added_at": "2024-09-07 16:02:33",

@@ -4,7 +4,7 @@
 
 > Check out the Latest Romance Tracks.<br/>Cover : Amaran
 
-256 songs - 16 hr 46 min
+257 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Kutty Pisasey \- From "PT Sir"](https://open.spotify.com/track/52gkEmkDAp0YoioUKGkAGt) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Kutty Pisasey \(From "PT Sir"\)](https://open.spotify.com/album/3NcPjv5rRyssfdfmz1MnYf) | 2:50 | 2024-05-08 |  |
 | [Kylaa \- From "Captain"](https://open.spotify.com/track/6QCx1Fq1kwpLQZaHySfVEH) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Kylaa \(From "Captain"\)](https://open.spotify.com/album/1t1JfkhPB3F0ulqq1MYmNg) | 4:26 | 2022-08-12 | 2022-10-19 |
 | [Little Little](https://open.spotify.com/track/6Crs0KY6mHL9e1YEKNYUAl) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Sharanya Srinivas](https://open.spotify.com/artist/26tzHBE89rz5MSLeSi3qsB) | [Galatta Kalyaanam](https://open.spotify.com/album/4gAUrEjPH7kC6Hwtnx5uhj) | 4:17 | 2021-12-13 | 2023-02-22 |
+| [Lyraanaa \(From "Game Changer"\) \(Tamil\)](https://open.spotify.com/track/1z2yoQvc1hWETznlIGq3LE) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Lyraanaa \(From "Game Changer"\) \(Tamil\)](https://open.spotify.com/album/7p1iNIqQv7LvQCksVfzd81) | 4:32 | 2024-11-29 |  |
 | [Maaradhey \(From "Athomugam"\)](https://open.spotify.com/track/631Xua8vxDzSMGTVy8Wi16) | [Manikandan murali](https://open.spotify.com/artist/0VUmwMAVcspZlS7a0ELgLg), [Sunil Dev](https://open.spotify.com/artist/4Jg5BRyXAHfekxtNKuahsl), [Abhijith Rao](https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp), [Balaji Sri](https://open.spotify.com/artist/2KWjaqJEQSeDUVHzG5gm90) | [Maaradhey \(From "Athomugam"\)](https://open.spotify.com/album/14fNHe2EeBX8hJiLR3GRa2) | 4:39 | 2024-02-20 |  |
 | [Maayakari](https://open.spotify.com/track/7sKeH5mCZs8JhHA22PHqfD) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Unni Menon](https://open.spotify.com/artist/1EYD74wB45dOQXt27hh144), [Bombay Jayashri](https://open.spotify.com/artist/5OTt6O4Q22YsqZDaWV6FqC) | [The Legend \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xndkcSdl91YAkkA1BK80N) | 4:42 | 2022-05-31 | 2022-06-29 |
 | [Maayoney \(From "Inga Naan Thaan Kingu"\)](https://open.spotify.com/track/4lIOKV52mXIsm8P6jjo1Ja) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU) | [Maayoney \(From "Inga Naan Thaan Kingu"\)](https://open.spotify.com/album/6mJOQzbv1201kFhxXFFSVJ) | 3:56 | 2024-03-26 |  |

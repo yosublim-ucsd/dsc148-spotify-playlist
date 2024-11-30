@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 209500,
       "name": "4 by 4",
       "url": "https://open.spotify.com/track/4tMcxhn8EBjDTzHJjUomhG"
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 175000,
       "name": "Career",
       "url": "https://open.spotify.com/track/530WwA5hy7go2LYDeK1FIF"
@@ -1573,6 +1573,24 @@
     },
     {
       "album": {
+        "name": "Desi Jatt",
+        "url": "https://open.spotify.com/album/4BjxiS88Mhi8Ts0ScjJk0r"
+      },
+      "artists": [
+        {
+          "name": "UPPAL",
+          "url": "https://open.spotify.com/artist/1oPAPxl8tllygRBMZO8jkQ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146187,
+      "name": "Desi Jatt",
+      "url": "https://open.spotify.com/track/0NrEFzswvLKRRzTKgJ8DFu"
+    },
+    {
+      "album": {
         "name": "Hustle N Flow",
         "url": "https://open.spotify.com/album/1Dfofzn6G1OLp3ZKjz0oEr"
       },
@@ -1942,6 +1960,24 @@
       "duration_ms": 155454,
       "name": "Finance",
       "url": "https://open.spotify.com/track/1RtliNYEdMDorh3XTvnsYU"
+    },
+    {
+      "album": {
+        "name": "Five - O",
+        "url": "https://open.spotify.com/album/0dxGtJMmOFBSZCMcu8TTwn"
+      },
+      "artists": [
+        {
+          "name": "PB5 Bawa",
+          "url": "https://open.spotify.com/artist/0JUoKtGanhfpyPNEwaTVDa"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192995,
+      "name": "Five - O",
+      "url": "https://open.spotify.com/track/467Y30r6HtSYuLrF4LwYIm"
     },
     {
       "album": {
@@ -3066,7 +3102,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 129791,
       "name": "Kasoor",
       "url": "https://open.spotify.com/track/7J4Rgx4pHVuJWF9NGmBu2r"
@@ -4665,6 +4701,24 @@
     },
     {
       "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/2EEYAXkCwSYxvj29KVaq5E"
+      },
+      "artists": [
+        {
+          "name": "Gur Aulakh",
+          "url": "https://open.spotify.com/artist/4VmyHpdcbMcIM7DwuiTA5R"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/0XVzJfjKAZMAab3YRroPSI"
+    },
+    {
+      "album": {
         "name": "Rishta",
         "url": "https://open.spotify.com/album/1VSNr8QMD2FQpsl2NMYxuI"
       },
@@ -4870,6 +4924,10 @@
         {
           "name": "Varinder Brar",
           "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+        },
+        {
+          "name": "Rav Dhaliwal",
+          "url": "https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P"
         }
       ],
       "date_added": "2024-11-28",
@@ -5063,6 +5121,28 @@
     },
     {
       "album": {
+        "name": "Stay Away",
+        "url": "https://open.spotify.com/album/6wVQcw9qizS6jR7NJQHEO2"
+      },
+      "artists": [
+        {
+          "name": "Gur Aulakh",
+          "url": "https://open.spotify.com/artist/4VmyHpdcbMcIM7DwuiTA5R"
+        },
+        {
+          "name": "Guneezy",
+          "url": "https://open.spotify.com/artist/3X4R8OsNVk0dAkLcX9VIeB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282857,
+      "name": "Stay Away",
+      "url": "https://open.spotify.com/track/35QpjbpHbU9Y4smYdZDPSJ"
+    },
+    {
+      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/3hlD7lg7YauBdLuLMSlFHc"
       },
@@ -5074,7 +5154,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 174374,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/4J51iI3X0qhc4wnfJE5B15"

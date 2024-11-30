@@ -2,7 +2,7 @@
 
 ### [RNB X](https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd)
 
-> Where R&B lives\. Cover: FLO
+> Where R&B lives\. Cover: Summer Walker
 
 552 songs - 1 day 7 hr 0 min
 

@@ -4,7 +4,7 @@
 
 > De beste nieuwe releases van de week! Cover: Douwe Bob & SERA
 
-8,887 songs - 19 day 9 hr 29 min
+8,889 songs - 19 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5017,6 +5017,7 @@
 | [Mirrors](https://open.spotify.com/track/1pg5PiMPffZsqnWc1ZPaXz) | [Amy Root](https://open.spotify.com/artist/25BkQ40MvbdCyNbX8DJd73) | [Mirrors](https://open.spotify.com/album/4PwWb9YJYbchO4g10yRtCx) | 5:10 | 2023-03-02 | 2023-03-10 |
 | [Mis](https://open.spotify.com/track/404H9QuRwVi2akcBl5wMDj) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Mis](https://open.spotify.com/album/3aX2Dh2515ZJb9Thtp6g42) | 3:10 | 2023-11-24 | 2023-12-02 |
 | [miserable](https://open.spotify.com/track/4SELWh2pmsHcYhyyKw9Dqk) | [Julia Tan](https://open.spotify.com/artist/374YxFhhT3jJ5Z61DzUphc) | [miserable](https://open.spotify.com/album/1q8vjG6f2Teec2FmjHb9w7) | 2:35 | 2024-07-19 | 2024-07-27 |
+| [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-11-28 |  |
 | [Miss Me The Same \(with Anson Seabra\)](https://open.spotify.com/track/5pSueoHUFxwBiLebqpcGUU) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Miss Me The Same \(with Anson Seabra\)](https://open.spotify.com/album/6trwAd4aAcGduTeXvuVwN3) | 3:36 | 2023-04-27 | 2023-05-05 |
 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-02-29 | 2024-03-08 |
 | [Miss My Body](https://open.spotify.com/track/0Z8MyBIWfCpEPnappcXaQT) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Miss My Body](https://open.spotify.com/album/1V91zZHBKZgLXCDdBfV9Ro) | 2:48 | 2024-09-05 | 2024-09-13 |
@@ -5976,6 +5977,7 @@
 | [Physical Touch](https://open.spotify.com/track/0tnpWXevslZO3FkxSu4VVC) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ) | 3:03 | 2023-10-26 | 2023-11-03 |
 | [Physique \(feat\. RBZ\)](https://open.spotify.com/track/0Tr1fMsT0SkAogFV343Bvy) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MEARSY](https://open.spotify.com/artist/4XU5z6Bk3DqlfqeyI1gcy1), [RBZ](https://open.spotify.com/artist/0N8FWEeRuJWy44GpQREmdL) | [Physique \(feat\. RBZ\)](https://open.spotify.com/album/3HfqZWOX6nEQruLMy7eKuQ) | 2:58 | 2024-02-15 | 2024-02-23 |
 | [Picasso](https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Picasso](https://open.spotify.com/album/7aeEAI1j1z0yDnBVaaN967) | 3:16 | 2024-05-09 | 2024-05-17 |
+| [Picasso](https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Tranki, Todo Pasa](https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1) | 3:05 | 2024-11-28 |  |
 | [Pick Me](https://open.spotify.com/track/02Vncg7BGazGARW9CMVstt) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Pick Me](https://open.spotify.com/album/04wIPzs14Kuqk3OBbhcB3U) | 2:58 | 2024-01-25 | 2024-02-02 |
 | [Pick Up](https://open.spotify.com/track/1deimiQlzca70jziGDtTsm) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Pick Up](https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU) | 2:36 | 2023-06-08 | 2023-06-16 |
 | [Pick Up The Pace \(feat\. Bayka\)](https://open.spotify.com/track/2VLLXmcR2ahOi8hLS6qUxQ) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Pick Up The Pace \(feat\. Bayka\)](https://open.spotify.com/album/6xKgXvMCjS2li7upWSw2KJ) | 2:34 | 2024-11-14 | 2024-11-22 |

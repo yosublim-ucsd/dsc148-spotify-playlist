@@ -1,15 +1,15 @@
 {
   "description": "Lola Indigo con Paulo Londra y el resto de novedades m\u00e1s importantes de la semana.",
-  "num_followers": 334297,
+  "num_followers": 335072,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0j2LAAAAACArHg9rDXuT03hST6WnD8U",
+  "snapshot_id": "Z0lpVgAAAABxp0pspLCJsXsLjpTQbwEQ",
   "tracks": [
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "PERREITO PA LLORAR",
         "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
@@ -29,7 +29,31 @@
       "url": "https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
+      "album": {
+        "name": "LOS 9 DE FERXXO Y SKY ROMPIENDO",
+        "url": "https://open.spotify.com/album/5L3PAo50R75rOZLlEvokZZ"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 223039,
+      "name": "ESTOY PUTIAO",
+      "url": "https://open.spotify.com/track/0lhcaiGyAkmZg5RaC99ZbH"
+    },
+    {
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "GUERRA CIVIL (feat. Full Harmony)",
         "url": "https://open.spotify.com/album/6ebkDlEmRKVirwcK8ArosF"
@@ -57,7 +81,7 @@
       "url": "https://open.spotify.com/track/2kX4W44mOsPp2XBKEyusFP"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Me Vuelves Puto Loco",
         "url": "https://open.spotify.com/album/65fYJ12gYDLZOHUvnT81PO"
@@ -73,7 +97,7 @@
       "url": "https://open.spotify.com/track/4tzxgcaoO6D4zn0AEYiXSt"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "La Polic\u00eda",
         "url": "https://open.spotify.com/album/4AKbSeK2V2dS3pPf3inLog"
@@ -89,7 +113,7 @@
       "url": "https://open.spotify.com/track/0ZhdPl4IGi5OhxoCF59CBh"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "El Hombre del Tiempo",
         "url": "https://open.spotify.com/album/5K7cNTBeEpGu2Cmrn3vE5u"
@@ -109,7 +133,7 @@
       "url": "https://open.spotify.com/track/7H48pPpge66b3t83Iq1zzs"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Hm Hm Hm (Remix)",
         "url": "https://open.spotify.com/album/58YECjRGpoSEDxc3hexWwJ"
@@ -133,7 +157,43 @@
       "url": "https://open.spotify.com/track/53OKRnaKKAT3bCkF8WIY8C"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
+      "album": {
+        "name": "Tranki, Todo Pasa",
+        "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 185700,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx"
+    },
+    {
+      "added_at": "2024-11-29 07:12:22",
+      "album": {
+        "name": "LOS 9 DE FERXXO Y SKY ROMPIENDO",
+        "url": "https://open.spotify.com/album/5L3PAo50R75rOZLlEvokZZ"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "MONI",
+      "url": "https://open.spotify.com/track/2kQovjtNZF1oSARczvmhaV"
+    },
+    {
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "PA K",
         "url": "https://open.spotify.com/album/1tBbZo85SaUh3jMkoKjOnv"
@@ -153,7 +213,7 @@
       "url": "https://open.spotify.com/track/3YOKeu2skm73rfn4bGPQHz"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "uwu ^^",
         "url": "https://open.spotify.com/album/456sHRfRmScVZJlobwx3gB"
@@ -173,7 +233,7 @@
       "url": "https://open.spotify.com/track/1Sr6b1IF9HWhWIwJRp86z7"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "No Vale La Pena",
         "url": "https://open.spotify.com/album/1iukDxWCzQ3klfQi8WFky7"
@@ -189,7 +249,7 @@
       "url": "https://open.spotify.com/track/2DlYizfdyD0Spp2AbSCFO3"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "AUDEMARS",
         "url": "https://open.spotify.com/album/51yGrxjUrdk3FDcRsOsroq"
@@ -209,7 +269,7 @@
       "url": "https://open.spotify.com/track/6HfrRalQNlkEdrYLLonODq"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Rockport Espacial 3",
         "url": "https://open.spotify.com/album/3posVHxLgenqbAtJb4q5QI"
@@ -233,7 +293,7 @@
       "url": "https://open.spotify.com/track/0HgMqezIRiBgfZRyqnWEpV"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "LUNA 18 (Deluxe)",
         "url": "https://open.spotify.com/album/4reJOCjzw6ifHh6sXBRgc8"
@@ -249,7 +309,7 @@
       "url": "https://open.spotify.com/track/2daFEwbB9winHzL9t5Ub7R"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "El \u00daltimo D\u00eda de Nuestras Vidas",
         "url": "https://open.spotify.com/album/4z0e3892fwI3YfdHL2k5BQ"
@@ -265,7 +325,7 @@
       "url": "https://open.spotify.com/track/6RbMRMNVsdhzdKLHgGXJxQ"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Si tu Quisieras",
         "url": "https://open.spotify.com/album/1oIyVVEDxnIQ0Dcbtkd56D"
@@ -281,7 +341,7 @@
       "url": "https://open.spotify.com/track/5c5oNBpNZniCqUsIdiOD8Z"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Tus michis",
         "url": "https://open.spotify.com/album/6NRVlA7Sd7r1wRjYG3vWwV"
@@ -297,7 +357,7 @@
       "url": "https://open.spotify.com/track/5iJamZubWUx3T9HD85vc1w"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Te Juro Que No Hay Un Segundo Que No Piense En Ti",
         "url": "https://open.spotify.com/album/2US86eCMdM8ZCn2cjDxmfm"
@@ -313,7 +373,7 @@
       "url": "https://open.spotify.com/track/2tXudUoYOqfgG171iDJDEr"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Pu\u00f1ales",
         "url": "https://open.spotify.com/album/4w2IyjSsUqxLooaKskn1hE"
@@ -329,7 +389,7 @@
       "url": "https://open.spotify.com/track/40qU9grweqDIGWNLDIjFT4"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "PAM PAM",
         "url": "https://open.spotify.com/album/4sPA3a0QKZ1uvEFcfBxjDR"
@@ -357,7 +417,7 @@
       "url": "https://open.spotify.com/track/69KCFLBwnD8flPp3n9LQsr"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Mi propio peor enemigo",
         "url": "https://open.spotify.com/album/1rdiQu3AiYJAGI1VlYtTXB"
@@ -377,7 +437,7 @@
       "url": "https://open.spotify.com/track/51tXdLA296fXk8bBx7coim"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "EstapasandoBB",
         "url": "https://open.spotify.com/album/6tx27XShG9BVF86uDpglZK"
@@ -401,7 +461,7 @@
       "url": "https://open.spotify.com/track/5M1Fyj2vTvbeV0RQys44up"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "PACTO",
         "url": "https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj"
@@ -421,7 +481,7 @@
       "url": "https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "MONTECARLO",
         "url": "https://open.spotify.com/album/2iPfnIv70XYMxlJdZr8mpZ"
@@ -441,7 +501,7 @@
       "url": "https://open.spotify.com/track/0I0EAJKaGTSxdfMJhZqus7"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Hasta que haga falta",
         "url": "https://open.spotify.com/album/1fF52NAF1XbUuM3ApjErqI"
@@ -457,7 +517,7 @@
       "url": "https://open.spotify.com/track/7K2BQdeIEdiAREO6JCKJF8"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -477,7 +537,7 @@
       "url": "https://open.spotify.com/track/4YQUZ08BI3sb4VdWj09Jc2"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "SQ (W Sound 04)",
         "url": "https://open.spotify.com/album/3jmnltwKEDgQ05N5KWyMJV"
@@ -501,7 +561,7 @@
       "url": "https://open.spotify.com/track/7zYAuEf69m4bQmJvw0MTka"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Prefiero no pensarlo",
         "url": "https://open.spotify.com/album/6NB1SrHfFnValcfXnFjhVU"
@@ -521,7 +581,7 @@
       "url": "https://open.spotify.com/track/2B1NHncfObu77oLouGac1P"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Under the Tree (from \u201cThat Christmas\u201d)",
         "url": "https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg"
@@ -537,7 +597,7 @@
       "url": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Maldita inocencia",
         "url": "https://open.spotify.com/album/4r2IZiKJZ10O7zezqQ8hzq"
@@ -553,7 +613,7 @@
       "url": "https://open.spotify.com/track/1Q9sUfMy4J3bnttkpxkP1l"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Verano del 19",
         "url": "https://open.spotify.com/album/5oBH96N6wCW1gzlrAoqDa9"
@@ -573,7 +633,7 @@
       "url": "https://open.spotify.com/track/3r9LlFpYclEiGBqRH63bOG"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "La Misma Sed",
         "url": "https://open.spotify.com/album/62nlLDC1GAO4ZXpqXUxai5"
@@ -589,7 +649,7 @@
       "url": "https://open.spotify.com/track/6bHDweMsGz5mxhcVjhscyh"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "a nuevos lugares",
         "url": "https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4"
@@ -605,7 +665,7 @@
       "url": "https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "la soledad",
         "url": "https://open.spotify.com/album/0KTVuOKvUVG3J83PWmRCM8"
@@ -621,7 +681,7 @@
       "url": "https://open.spotify.com/track/3RsCYC4k3HlyQulMTFwtaW"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "me gustaria volver",
         "url": "https://open.spotify.com/album/0rk3iCAQh9xUhSUmjn0PAl"
@@ -641,7 +701,7 @@
       "url": "https://open.spotify.com/track/6IWrPiDxeCgqRATGWnbmUf"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Estrella de luz",
         "url": "https://open.spotify.com/album/7KbFTQP5wpqn0tvldniqT4"
@@ -657,7 +717,7 @@
       "url": "https://open.spotify.com/track/3pW6zoPxwU9S1a5gXYJfaw"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Cuento de hadas en Madrid",
         "url": "https://open.spotify.com/album/01TjoRbaKkTRqettAMMyH3"
@@ -677,7 +737,7 @@
       "url": "https://open.spotify.com/track/1UskAjoxVHWJ8gCmaKxRuO"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "No Quiere Contigo",
         "url": "https://open.spotify.com/album/3TW4iqMfgu2Dzvg7tlOZVk"
@@ -693,7 +753,7 @@
       "url": "https://open.spotify.com/track/2BN4t7IuOv3u1bXoFyQMIR"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Fronteras Cruzar. Cap 7",
         "url": "https://open.spotify.com/album/3Pa7iuN4Kofc8fCDDH8vP6"
@@ -713,7 +773,7 @@
       "url": "https://open.spotify.com/track/1axfldkC5iOv97syMGLExX"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "AZALEA",
         "url": "https://open.spotify.com/album/6O4JYkI9I3D00AaqO5Rq8K"
@@ -733,7 +793,7 @@
       "url": "https://open.spotify.com/track/5MfbKVJ7iyH8dbid2WiQHo"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "MUJERIEGO",
         "url": "https://open.spotify.com/album/34draIbULO76n2Qor9cFoj"
@@ -753,7 +813,7 @@
       "url": "https://open.spotify.com/track/3ze8aTlNHzz4BBPLSvZK3f"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "SUPER SAIYAN",
         "url": "https://open.spotify.com/album/4ANsJ3xZPErfsWtyKUoaCz"
@@ -769,7 +829,7 @@
       "url": "https://open.spotify.com/track/6uqdHGzu5QRzybEoPXEvz9"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Y aun as\u00ed nos queramos igual",
         "url": "https://open.spotify.com/album/2rc7jFEdreujo3HhVFabqS"
@@ -789,7 +849,7 @@
       "url": "https://open.spotify.com/track/5j7pKIqHWErw1KV80Kemfn"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "9mg",
         "url": "https://open.spotify.com/album/17kVIxcgc756Wan3cnP4Sb"
@@ -805,7 +865,7 @@
       "url": "https://open.spotify.com/track/7FH2FNAWzD2RKprTNeTbLV"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Ya Lo Dec\u00eda la Mama",
         "url": "https://open.spotify.com/album/3i6gfg4j6nUeGcpsU7Qebw"
@@ -821,7 +881,7 @@
       "url": "https://open.spotify.com/track/5jRC8QbhxWHTLQbiPp5d5t"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Las Peque\u00f1as Cosas",
         "url": "https://open.spotify.com/album/5DmH6wZctJOlwW85ZbEkr2"
@@ -837,7 +897,7 @@
       "url": "https://open.spotify.com/track/1UbOuPI3TKzPVERiIcPUJR"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Perder los modales",
         "url": "https://open.spotify.com/album/407DXGW8UkRnSV8XAsWLQq"
@@ -853,7 +913,7 @@
       "url": "https://open.spotify.com/track/5mdiQ6aab8QRb6wanjZdhq"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Una Estrella",
         "url": "https://open.spotify.com/album/0wCun4Oj6OJOvCAacGQMFo"
@@ -869,7 +929,7 @@
       "url": "https://open.spotify.com/track/4wvZvyfGCUtFnzsupmwWwE"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Por Ti Por Mi",
         "url": "https://open.spotify.com/album/7CS99n3NOYshqMOheiw7b2"
@@ -885,7 +945,7 @@
       "url": "https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Nadie",
         "url": "https://open.spotify.com/album/3CzLJD3wjUiWsXRMikjom4"
@@ -901,7 +961,7 @@
       "url": "https://open.spotify.com/track/6iB4Dn2EjzOrrUy5XmkEzT"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Que Le Den Por Culo A Tus Amigos",
         "url": "https://open.spotify.com/album/2smW4STRQ9RGyrzuuHSwq5"
@@ -921,7 +981,7 @@
       "url": "https://open.spotify.com/track/1tkPqW5ap4ANhGQyfW5w9g"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
@@ -941,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "X SI TODAV\u00cdA NO LO SABES",
         "url": "https://open.spotify.com/album/5IHxk5FFUaNz7v76yPGXIP"
@@ -957,7 +1017,7 @@
       "url": "https://open.spotify.com/track/1mOzhLinEIYfIPjeWYPm1m"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Brillo M\u00e1s",
         "url": "https://open.spotify.com/album/72uvQUXbegtjacjWvsl0LW"
@@ -977,7 +1037,7 @@
       "url": "https://open.spotify.com/track/1E7aRBQUPQWxcL73ehdk27"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "La Favorita",
         "url": "https://open.spotify.com/album/6RwMXDrKhM7C9ggCSclAr9"
@@ -993,7 +1053,7 @@
       "url": "https://open.spotify.com/track/1dnU9HNGFPZ1AxzinXAY7u"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "DELUSIONAL",
         "url": "https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe"
@@ -1009,7 +1069,7 @@
       "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Spawnpoint",
         "url": "https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit"
@@ -1025,7 +1085,7 @@
       "url": "https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Moncayo",
         "url": "https://open.spotify.com/album/70laXbKWQ8GnXIJ84Vo4p4"
@@ -1041,7 +1101,7 @@
       "url": "https://open.spotify.com/track/0wxOv1YxMqZXvT1xexK6z9"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Qu\u00e9 L\u00e1stima",
         "url": "https://open.spotify.com/album/1eE90cOLAz09F4U22q6YG3"
@@ -1057,7 +1117,7 @@
       "url": "https://open.spotify.com/track/15Q2Sagth24Q16TEV00Jgh"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "ARMAGED\u00d3N",
         "url": "https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk"
@@ -1073,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6HX3r25xhpmvAhfJWifKIX"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Burbuja",
         "url": "https://open.spotify.com/album/4kNY8DaHdccLJt0cdM7Tp6"
@@ -1097,7 +1157,7 @@
       "url": "https://open.spotify.com/track/0SciwqJwfys3RwyNrjjula"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Chico del mont\u00f3n",
         "url": "https://open.spotify.com/album/2U9KQ5jjLDOM8BRgFIWTRQ"
@@ -1113,7 +1173,7 @@
       "url": "https://open.spotify.com/track/661JMZW19USgqwNeQlmHhu"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "l\u00e1grimas de un gangster",
         "url": "https://open.spotify.com/album/0W1YP07FiQg36pSo407XV2"
@@ -1129,7 +1189,7 @@
       "url": "https://open.spotify.com/track/0PHcfYoUnQZIeSuppfeBmI"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Tripitir",
         "url": "https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz"
@@ -1145,7 +1205,7 @@
       "url": "https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "m\u00e1s que eso",
         "url": "https://open.spotify.com/album/03yM5Am9k6INvtdhh76CtJ"
@@ -1161,7 +1221,7 @@
       "url": "https://open.spotify.com/track/0M0q7YYdSsaZH4DzUWqLxs"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "AL\u00b7LARMA",
         "url": "https://open.spotify.com/album/4v4ax8Xg7RwEmCmbp4IK6R"
@@ -1181,7 +1241,7 @@
       "url": "https://open.spotify.com/track/3vwf3emNmH1loFdl7lY8o1"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Pink Lies",
         "url": "https://open.spotify.com/album/45S8Y7ECm3gWpMxLWpyYX4"
@@ -1197,7 +1257,7 @@
       "url": "https://open.spotify.com/track/2gy4tmF1TOlyoMUuoYut5G"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "La Bruja",
         "url": "https://open.spotify.com/album/718GIRQ8GQzrNhgBY4LJvt"
@@ -1213,7 +1273,7 @@
       "url": "https://open.spotify.com/track/6ufzMfhC2pI6Bu1Z7O9ntP"
     },
     {
-      "added_at": "2024-11-28 23:01:00",
+      "added_at": "2024-11-29 07:12:22",
       "album": {
         "name": "Caramelito Freestyle",
         "url": "https://open.spotify.com/album/2KJ2kGq5KiJqNx6sUMyevh"

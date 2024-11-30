@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,754 likes - 225 songs - 12 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,751 likes - 225 songs - 12 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DiKbtMp8w3.md) - [plain]
 | 162 | [Heart Strings](https://open.spotify.com/track/0cqiehfcVFq3ISC3pO9zLE) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Ultralife](https://open.spotify.com/album/2P63KJNeC3DwaLpw8KHYqE) | 3:24 |
 | 163 | [Happy](https://open.spotify.com/track/64oxZ8Ma5HAWV04LAI2KwT) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [No One Else Can Wear Your Crown \(Deluxe\)](https://open.spotify.com/album/2PERPMWWY1pchfPKeNUJx8) | 2:52 |
 | 164 | [사랑할수록](https://open.spotify.com/track/5R7CMPvfSM0RdBYTFuKlDt) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [기억상실](https://open.spotify.com/album/6fQp1ErGeFDBpDXJjkWgsF) | 4:39 |
-| 165 | [밤이 깊었네 Oh! What a Shiny Night](https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 4:08 |
-| 166 | [좋지 아니한가 Isn't That Good?](https://open.spotify.com/track/7L13P7XjzgJyENZZjITPcV) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Crying Nut 3 Singles](https://open.spotify.com/album/22GNw0B9gLX7wLKt1hgiSe) | 4:24 |
+| 165 | [밤이 깊었네 Oh! What a Shiny Night](https://open.spotify.com/track/71yXrG7UY3myMhpn2QiMh4) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [하수연가 Poor Hand Love Song](https://open.spotify.com/album/6PGzupR5yrD7zTw4FgDA5M) | 4:08 |
+| 166 | [좋지 아니한가 Isn't That Good?](https://open.spotify.com/track/7L13P7XjzgJyENZZjITPcV) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [Crying Nut 3 Singles](https://open.spotify.com/album/22GNw0B9gLX7wLKt1hgiSe) | 4:24 |
 | 167 | [명동콜링 Myeong\-dong Calling](https://open.spotify.com/track/0AcSCfVYcXgNgcrZdyZXOh) | [CRYING NUT](https://open.spotify.com/artist/0jg8QQ5BExafoPBy7ZyA5t) | [OK 목장의 젖소 Milk Cattle at the OK Corral](https://open.spotify.com/album/2ohRyGLhnzSVe1ajSigoWf) | 3:48 |
 | 168 | [Akarui Mirai](https://open.spotify.com/track/0Sigob3quryvB4L59nga0j) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [fam fam](https://open.spotify.com/album/1SBCieSwAZCs2d2ryUXlmQ) | 3:53 |
 | 169 | [サイダーのように言葉が湧き上がる](https://open.spotify.com/track/70rIBnhQtO2ON2RX9GGd6H) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [サイダーのように言葉が湧き上がる](https://open.spotify.com/album/6Hjzg5YyqGatZ3M4sCWKRx) | 3:26 |

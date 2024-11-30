@@ -2,7 +2,7 @@
 
 ### [RADAR Creators Sweden](https://open.spotify.com/playlist/37i9dQZF1DX0PYCFw2RcTh)
 
-> Poddar att ha på din RADAR\. Omslag: Säg Nåt Vettigt
+> Poddar att ha på din RADAR\. Omslag: Fri Roll \- Studion
 
 11 songs - 9 hr 26 min
 

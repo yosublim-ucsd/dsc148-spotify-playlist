@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "Son Jeong-hwa's Gayageum Songguyeojigok - Songguyeojigok",
+        "url": "https://open.spotify.com/album/1u8P7lwEmYhZk5hgrG408c"
+      },
+      "artists": [
+        {
+          "name": "Son Jeong Hwa",
+          "url": "https://open.spotify.com/artist/0mSHaTk0RR0F1Pnw9qh3UT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485485,
+      "name": "Son Jeong-hwa's Gayageum Songguyeojigok - Songguyeojigok",
+      "url": "https://open.spotify.com/track/27xAlWfCoMGgLwVImpBu2w"
+    },
+    {
+      "album": {
         "name": "The Glory of GEU:MI",
         "url": "https://open.spotify.com/album/4lMvj3aGnf1eIWEEheBf04"
       },

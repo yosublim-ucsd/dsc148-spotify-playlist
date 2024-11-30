@@ -4,7 +4,7 @@
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-254 songs - 13 hr 49 min
+255 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Choppy](https://open.spotify.com/track/6aCZBRe2y8fdKGehzthtzj) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Herr Nayne](https://open.spotify.com/artist/3ymSmqDdFN1kfZyVJ4HWse) | [TRAPART](https://open.spotify.com/album/54FB3qsEqNk3aI7HCHHtN4) | 3:51 | 2022-05-03 | 2022-06-12 |
 | [Chrome Hearts](https://open.spotify.com/track/6HhLzoBF9T9Umq1PSn808Z) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [MaRz&B](https://open.spotify.com/album/1j0f8acKHeC5DXhr7XSn93) | 3:05 | 2022-11-03 | 2023-01-15 |
 | [city orgasm](https://open.spotify.com/track/03XFURik8cjLvlvc2W0gVP) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:44 | 2022-05-03 | 2022-06-27 |
-| [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 | 2023-03-31 |  |
+| [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 | 2023-03-31 | 2024-11-30 |
 | [COLD VIEW](https://open.spotify.com/track/0czXUP9ndZayiozj8jH0X1) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [COLD VIEW](https://open.spotify.com/album/0yOD2vxIRCtL83xjS9bUZT) | 3:50 | 2022-05-03 | 2022-07-26 |
 | [Come \(feat\. Dbo\)](https://open.spotify.com/track/6FKIVwqfkELrhOtFh2ozVt) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4), [Dbo](https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst) | [Fake Red](https://open.spotify.com/album/5Jm3aKAPJFPOeVyDSbhajf) | 3:56 | 2022-06-18 | 2022-06-20 |
 | [Come In](https://open.spotify.com/track/5EwgzaaMsfgV21TAGeVUmF) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Peaches \- The 2nd Mini Album](https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0) | 3:02 | 2022-05-03 |  |
@@ -83,6 +83,7 @@
 | [FALL IN LUST](https://open.spotify.com/track/39n2lVU0FcdJV3vMEQJpAE) | [EDEN](https://open.spotify.com/artist/1NKjYoo9hYXCKSlxecTY49), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [FALL IN LUST](https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8) | 3:19 | 2022-05-03 |  |
 | [Fantasy](https://open.spotify.com/track/1FUPXTw0698wKHMBElun5B) | [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [Fantasy](https://open.spotify.com/album/6QlBmmJZzTUhfTFmRQ8bUS) | 2:48 | 2023-02-14 | 2023-03-16 |
 | [Feature \(feat\. Cha Cha Malone\)](https://open.spotify.com/track/5m86qdISRdAeksZ1pSzI5h) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Cha Cha Malone](https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF) | [Everything You Wanted](https://open.spotify.com/album/1sFTg2NpMmaevHohz4gPCE) | 3:50 | 2022-05-03 | 2022-07-19 |
+| [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 | 2024-11-29 |  |
 | [Fire](https://open.spotify.com/track/3ZqO9gU0aFrkawmoT3nc9i) | [OWLER](https://open.spotify.com/artist/0xiNRwIQfriE5jZN3LDaLr) | [Fire](https://open.spotify.com/album/3NAD08mjlDk0vW0CHHDzyL) | 2:21 | 2022-08-19 | 2022-09-26 |
 | [First Time \(Feat\. BAYLEE\)](https://open.spotify.com/track/0nSTyJgjxiHSYwH0G4y0E9) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS), [BAYLEE](https://open.spotify.com/artist/5VloOcSvEYe32tZhAZkgfc) | [First Time](https://open.spotify.com/album/1w5EGv4ZgwhqGX0cTBdoOC) | 3:04 | 2022-05-03 | 2022-07-24 |
 | [Flake!](https://open.spotify.com/track/22kGyhABhjvPWUW7ekoDgF) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [i ex you](https://open.spotify.com/album/5Om0xEIVmWFirP4WLSTykj) | 3:37 | 2024-03-08 |  |

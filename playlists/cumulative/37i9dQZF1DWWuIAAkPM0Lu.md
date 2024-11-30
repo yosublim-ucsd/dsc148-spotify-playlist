@@ -4,7 +4,7 @@
 
 > ❤️‍🔥<a href="spotify:artist:1GKN1Js8fa19K23eIhOMhg">Annika</a>❤️‍🔥
 
-3,169 songs - 6 day 20 hr 21 min
+3,171 songs - 6 day 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Berghain \(feat\. Barney Bones\)](https://open.spotify.com/track/3uqjvrA1xkjshN7HfKHkX6) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Berghain \(feat\. Barney Bones\)](https://open.spotify.com/album/5uKHNEyh0EeOYsEjK3ZkBG) | 3:09 | 2024-05-02 | 2024-05-10 |
 | [Berlin](https://open.spotify.com/track/5kLJXrh3JISuYxAdeUe0wp) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Berlin](https://open.spotify.com/album/0LcsjflfoYtr5eqAKE1ReW) | 2:43 | 2024-07-04 | 2024-07-12 |
 | [BeskidtSex:RenLove](https://open.spotify.com/track/7dKPeMm0tpK7y7qFKO806v) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [BeskidtSex:RenLove](https://open.spotify.com/album/0OHLCenPpS6dRHu03J4YkA) | 2:04 | 2024-11-14 | 2024-11-22 |
+| [Best Friend \(with Fall Out Boy\)](https://open.spotify.com/track/6YIUVlNppbizkWnme87kAY) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:36 | 2024-11-28 |  |
 | [Best Time](https://open.spotify.com/track/1VV6FPTNAj2G8c60lpOCcP) | [AV AV AV](https://open.spotify.com/artist/0ElSSC4jDQ7mGvDZoAIafM) | [Best Time](https://open.spotify.com/album/5RGfCAYmNeON0h8B2lXNPB) | 3:15 | 2024-09-19 | 2024-09-27 |
 | [Besvær](https://open.spotify.com/track/59PtyxdoglEa6w4uo7S2qC) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Glimt](https://open.spotify.com/album/5ZuKKq9DOO0BPCpUZM0TnA) | 3:23 | 2024-10-31 | 2024-11-08 |
 | [BET](https://open.spotify.com/track/5ufJFtHp4xmJKytbhexXSy) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [BET](https://open.spotify.com/album/4uXodrOmAokrLDas53zJOJ) | 3:18 | 2024-05-02 | 2024-05-10 |
@@ -1895,6 +1896,7 @@
 | [MINUTTER, TIMER](https://open.spotify.com/track/7G8pVonwyErF4HRkSdG16I) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [MINUTTER, TIMER](https://open.spotify.com/album/7sZH0d6hb3Q0s7CXuW2l7w) | 2:42 | 2024-06-13 | 2024-06-21 |
 | [Mirage](https://open.spotify.com/track/41QAq1hgmrSG7ekhCxCUDL) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Mirage](https://open.spotify.com/album/3pP6jwlUwRKnwZmk6er3KT) | 2:17 | 2024-07-11 | 2024-07-19 |
 | [Mirror](https://open.spotify.com/track/4AEY3p55ip6lueImSGsUol) | [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp) | [Mirror](https://open.spotify.com/album/5OyFOhjMfPnaXCNp0x6IgG) | 2:04 | 2024-08-09 | 2024-08-16 |
+| [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-11-28 |  |
 | [Misfit Kid](https://open.spotify.com/track/4GZ4lBme61ZEMn0IzQZ2iE) | [Thomas Meilstrup](https://open.spotify.com/artist/4CyyiV7VCIqZ2e0vAm51tP) | [Misfit Kid](https://open.spotify.com/album/2x21SUnWA0wvbqCErxwRXA) | 2:33 | 2024-09-12 | 2024-09-20 |
 | [Miss Independent](https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z) | 3:05 | 2024-06-27 | 2024-07-05 |
 | [Miss Nordjylland](https://open.spotify.com/track/1JhJ8wSdv1oZUIpm0gXFaU) | [Stella Darla](https://open.spotify.com/artist/6s2ILiKtxyuyGnS5SdUgSX) | [Miss Nordjylland](https://open.spotify.com/album/2guQ9C5obTxVpWMvBQvAzO) | 4:39 | 2024-10-31 | 2024-11-08 |
@@ -2923,7 +2925,7 @@
 | [UMTI UMTI \(feat\. Speedy\)](https://open.spotify.com/track/6viFkB6m4NEyJg45qnH6QD) | [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug), [Speedy](https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB) | [UMTI UMTI \(feat\. Speedy\)](https://open.spotify.com/album/3aTkEqwilWU2SColp81wYP) | 2:38 | 2024-11-21 | 2024-11-29 |
 | [Una Velita](https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Una Velita](https://open.spotify.com/album/2HQzboxa5GyWpk2aiPP5i6) | 3:59 | 2024-09-20 | 2024-09-27 |
 | [Unconditional](https://open.spotify.com/track/3zasq0wnqND2TcUPd88oiK) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Unconditional](https://open.spotify.com/album/6ROgHV7Q9LQrtpYAtCjPfq) | 2:51 | 2024-08-09 | 2024-08-16 |
-| [Under Din Sne \(Feat\. MØ\) \- Fra koncertfilmen "3 døgn i Parken"](https://open.spotify.com/track/2HOeXLg6RDlGawWGX7WFCT) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Under Din Sne \(Feat\. MØ\) \- Fra koncertfilmen "3 døgn i Parken"](https://open.spotify.com/album/3Ot6dkpfSysCzGcnBhf0aX) | 4:53 | 2024-11-28 |  |
+| [Under Din Sne \(Feat\. MØ\) \- Fra koncertfilmen "3 døgn i Parken"](https://open.spotify.com/track/2HOeXLg6RDlGawWGX7WFCT) | [The Minds Of 99](https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Under Din Sne \(Feat\. MØ\) \- Fra koncertfilmen "3 døgn i Parken"](https://open.spotify.com/album/3Ot6dkpfSysCzGcnBhf0aX) | 4:59 | 2024-11-28 |  |
 | [UNDER JORDEN](https://open.spotify.com/track/29yGDmD2fQD9jgb9lMdLdk) | [Isaac Kasule](https://open.spotify.com/artist/05H8WnuJP9pO3p7VSV0cZh) | [UNDER JORDEN](https://open.spotify.com/album/1HZhoDmktDNwYJGPC1JZ1I) | 2:41 | 2024-05-23 | 2024-06-01 |
 | [Under Kalenderlågen](https://open.spotify.com/track/5InFsCGlJoeuKTZNEd1OIn) | [Sofie Trolle](https://open.spotify.com/artist/7frpmzovlqTazz8CaG6Gch) | [Under Kalenderlågen](https://open.spotify.com/album/7tPYfmelFdLLc28rckZUE9) | 3:42 | 2024-11-07 | 2024-11-15 |
 | [Under Samme Himmel Over Samme Jord](https://open.spotify.com/track/0tEHlmhykfj40wEwzeeoea) | [Juncker](https://open.spotify.com/artist/6UiybWUSi4hZ8AZcqMJVL1) | [Under Samme Himmel Over Samme Jord](https://open.spotify.com/album/6ZTBsLqU0Zprhz5z2RTsRv) | 3:32 | 2024-05-02 | 2024-05-10 |

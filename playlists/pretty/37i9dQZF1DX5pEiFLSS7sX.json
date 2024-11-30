@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 213543,
+  "num_followers": 213605,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-08-03 08:12:04",
       "album": {
+        "name": "The Things We Did at First",
+        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
+      },
+      "artists": [
+        {
+          "name": "Sean Feucht",
+          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
+        }
+      ],
+      "duration_ms": 238478,
+      "name": "When My Heart Became Aware",
+      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
+    },
+    {
+      "added_at": "2024-08-03 08:12:04",
+      "album": {
         "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
         "url": "https://open.spotify.com/album/0bQNI1uTT20rFfRCscEOQE"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 315946,
       "name": "God That Saves (feat. Stephen McWhirter) (feat. Stephen McWhirter)",
       "url": "https://open.spotify.com/track/7Mz7SHTiO35YhJCixHoIqN"
-    },
-    {
-      "added_at": "2024-08-03 08:12:04",
-      "album": {
-        "name": "The Things We Did at First",
-        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
-      },
-      "artists": [
-        {
-          "name": "Sean Feucht",
-          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
-        }
-      ],
-      "duration_ms": 238478,
-      "name": "When My Heart Became Aware",
-      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
     },
     {
       "added_at": "2024-08-03 08:12:04",

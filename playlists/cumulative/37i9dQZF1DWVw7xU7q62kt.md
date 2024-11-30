@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-335 songs - 16 hr 33 min
+336 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Blue Diver](https://open.spotify.com/track/5QMFT282KkBw65Jn7AJj3G) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Blue Diver](https://open.spotify.com/album/7p7tqXzlwOwusB0FfUvxZ0) | 2:49 | 2024-08-23 |  |
 | [Blue Heart](https://open.spotify.com/track/2sCmLqb2PhUeL4sHw6mp8l) | [Eric Diamond](https://open.spotify.com/artist/7uLxDJELvSU1oFe1V7jLhW), [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd) | [Blue Heart](https://open.spotify.com/album/2HtQz0eVFEMY8iZjK4NxOF) | 2:28 | 2023-12-01 |  |
 | [Blue Notes](https://open.spotify.com/track/7Gfidoax4lBjPGHkE4kCBK) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R) | [Still Love](https://open.spotify.com/album/0p4sD08fHj8S8ZdFyXaVzn) | 2:05 | 2023-08-22 |  |
+| [blues clues](https://open.spotify.com/track/6dE8byiQs38hPetenI2Zuh) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [J Fletch](https://open.spotify.com/artist/3AGMp5Z0f67HeJMI9yl7b8) | [blues clues](https://open.spotify.com/album/1W6RhFLzgRCMbVOVhwI08P) | 2:24 | 2024-11-29 |  |
 | [Brasília](https://open.spotify.com/track/5RBWTP54Eu5K5EwpwarymG) | [Snack Villain](https://open.spotify.com/artist/1pJ29M4gnoC6aR8Woi10O2) | [Brasília](https://open.spotify.com/album/2bD9vff8Vo78VlzyNu4Luj) | 1:46 | 2024-09-13 | 2024-11-11 |
 | [Byzantine](https://open.spotify.com/track/71zcfefEk6z9LwMczxpp56) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [Protonebula](https://open.spotify.com/artist/79QsjitGhOGT7ixKYuWJun), [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [Heem](https://open.spotify.com/artist/6P7RzcULDXBd32AI4Haw1m) | [Byzantine](https://open.spotify.com/album/6asKTaEIC7zt9Nb32ZaGV4) | 2:56 | 2023-08-22 | 2024-08-24 |
 | [C.F.D.](https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:17 | 2023-08-22 | 2024-09-15 |
@@ -205,7 +206,7 @@
 | [Mosaic](https://open.spotify.com/track/595AJZjDvLkExd9AtjN0QL) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Mosaic](https://open.spotify.com/album/6TtN2j15lxJMTv9xmmnd61) | 2:13 | 2024-09-27 |  |
 | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [N29 to Berlin \- A COLORS SHOW](https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6) | 4:57 | 2024-10-18 |  |
 | [Nardis](https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9) | [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Nardis](https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2) | 2:18 | 2023-08-22 |  |
-| [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 | 2023-08-22 |  |
+| [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 | 2023-08-22 |  |
 | [Nest Egg](https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Nest Egg](https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ) | 2:25 | 2023-08-22 | 2023-08-26 |
 | [Never Doubt](https://open.spotify.com/track/2n3IsOUF3qp6tHHozmEKGy) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Never Doubt](https://open.spotify.com/album/7JBHfFH8n8HNHvwZTgMmr3) | 4:10 | 2023-11-24 |  |
 | [New Day](https://open.spotify.com/track/1BdwQ5nuLln2JAY6Jfm8EN) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Night Light, Morning Light](https://open.spotify.com/album/4KitFaXDFZ9xOt2hOwKtyn) | 2:08 | 2024-09-27 |  |
@@ -331,7 +332,7 @@
 | [Watten Koma](https://open.spotify.com/track/7mBrEy4wcd9qgeRxFbeM0l) | [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Watten Koma](https://open.spotify.com/album/27iTKwjCTjPHgWEqBUMGxM) | 2:15 | 2023-10-13 | 2024-08-27 |
 | [wellsee](https://open.spotify.com/track/6voTXsVbqTzczo7amKRsFN) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [wellsee](https://open.spotify.com/album/5xaIEnxiUIi4LNO3HS24o4) | 2:08 | 2024-11-15 |  |
 | [What If](https://open.spotify.com/track/4nF4pM4QjUdggBFVf2h67C) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [What If](https://open.spotify.com/album/4aV3NfEVtqfX7FFb03Z4Zl) | 2:20 | 2024-08-23 | 2024-10-05 |
-| [What's Good](https://open.spotify.com/track/3VDfWzstfrPQSnDirjhBsk) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN), [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu) | [What's Good](https://open.spotify.com/album/4ka8eTxkKj8fZs36oYdw9j) | 2:14 | 2024-10-25 |  |
+| [What's Good](https://open.spotify.com/track/3VDfWzstfrPQSnDirjhBsk) | [Pleij](https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN), [aronsmith](https://open.spotify.com/artist/009g6snuAvcjh2QJHcmQCu) | [What's Good](https://open.spotify.com/album/4ka8eTxkKj8fZs36oYdw9j) | 2:14 | 2024-10-25 | 2024-11-30 |
 | [When Your Lover Has Gone](https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 2:11 | 2023-08-22 |  |
 | [While She Waits](https://open.spotify.com/track/7BAYKZau47DGuwZNvM1cwv) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/0ens67bGm8KPOXbMRSL86G) | 2:16 | 2023-08-22 | 2024-04-19 |
 | [While She Waits](https://open.spotify.com/track/7hrEY12YhKpa6wPruwHrag) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/1C8EQLLSiDZoXRiwgaUPB7) | 2:16 | 2024-03-20 | 2024-08-24 |

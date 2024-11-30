@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 343570,
+  "num_followers": 343519,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
+        "name": "The Drug In Me Is You",
+        "url": "https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 231840,
+      "name": "I'm Not A Vampire",
+      "url": "https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
         "name": "Wake Up, Sunshine",
         "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 174067,
       "name": "Monsters (feat. blackbear)",
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
-        "name": "The Drug In Me Is You",
-        "url": "https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 231840,
-      "name": "I'm Not A Vampire",
-      "url": "https://open.spotify.com/track/7l0Lr7Tl4Gt8hQj4v3rwtf"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -979,6 +979,22 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 140816,
+      "name": "superdeadfriends",
+      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
         "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
         "url": "https://open.spotify.com/album/5C6iWCCQRzsofOnqMsVpGo"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 199946,
       "name": "This is Halloween (From \"The Nightmare Before Christmas\")",
       "url": "https://open.spotify.com/track/2R6BwqVhAZOdz0NzUQAEh5"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 140816,
-      "name": "superdeadfriends",
-      "url": "https://open.spotify.com/track/1mgvj05QVQdO7dPgHTooXF"
     },
     {
       "added_at": "2024-10-11 19:37:59",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-10-11 19:37:59",
       "album": {
-        "name": "Happy Happy Halloween",
-        "url": "https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm"
-      },
-      "artists": [
-        {
-          "name": "Surfbort",
-          "url": "https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx"
-        }
-      ],
-      "duration_ms": 137770,
-      "name": "Happy Happy Halloween",
-      "url": "https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2"
-    },
-    {
-      "added_at": "2024-10-11 19:37:59",
-      "album": {
         "name": "Skeleton",
         "url": "https://open.spotify.com/album/3YODOrEL7gnPJd5LXssvCw"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 215320,
       "name": "Burn The Witch",
       "url": "https://open.spotify.com/track/5mDA2REjyAxzEJZAFtiBSI"
+    },
+    {
+      "added_at": "2024-10-11 19:37:59",
+      "album": {
+        "name": "Happy Happy Halloween",
+        "url": "https://open.spotify.com/album/70oPIBqlMhYZVXRskLTCtm"
+      },
+      "artists": [
+        {
+          "name": "Surfbort",
+          "url": "https://open.spotify.com/artist/2kRFetyCeU3r24DVyTZVFx"
+        }
+      ],
+      "duration_ms": 137770,
+      "name": "Happy Happy Halloween",
+      "url": "https://open.spotify.com/track/3lKLiyHquyGjkCjT2BhQo2"
     },
     {
       "added_at": "2024-10-11 19:37:59",

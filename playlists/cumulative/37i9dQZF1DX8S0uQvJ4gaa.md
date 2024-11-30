@@ -2,9 +2,9 @@
 
 ### [New Boots](https://open.spotify.com/playlist/37i9dQZF1DX8S0uQvJ4gaa)
 
-> New music discovery is what we're about\. Try it on for size\. Cover: Jameson Rodgers
+> New music discovery is what we're about\. Try it on for size\. Cover: Cameron Whitcomb
 
-2,316 songs - 5 day 5 hr 17 min
+2,317 songs - 5 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1905,7 +1905,7 @@
 | [Tequila Does](https://open.spotify.com/track/3eZW5k1AbVCslNvI92Fhgz) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Tequila Does](https://open.spotify.com/album/1wBvS32iNfIbks1o4vlDyZ) | 4:01 | 2019-10-12 | 2019-10-21 |
 | [Tequila Little Time](https://open.spotify.com/track/1MGBsprDexJRUpKAVgzJqv) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Heartache Medication \(Deluxe Version\)](https://open.spotify.com/album/79374TlgGM42y0R0z5LDxv) | 3:27 | 2021-01-09 | 2021-03-06 |
 | [Tequila Talkin'](https://open.spotify.com/track/2aQp76uccAVLEM9jUlvPap) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Tequila Talkin'](https://open.spotify.com/album/3mFgRtQQYZ4lTVayUqHgqs) | 3:21 | 2021-05-15 | 2021-10-09 |
-| [Texas](https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texas](https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz) | 2:50 | 2024-11-15 |  |
+| [Texas](https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texas](https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz) | 2:50 | 2024-11-15 | 2024-11-30 |
 | [Thank God For You](https://open.spotify.com/track/2ao6FpQOr2pdDZmGWssXE3) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [Caught Up In The Country](https://open.spotify.com/album/00nsOLoJt01bwmsJzBFX11) | 3:35 | 2019-11-26 | 2020-01-27 |
 | [Thank God She's a Country Girl](https://open.spotify.com/track/5rKW8ILxOxr8fjEFxpiC6g) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Thank God She's A Country Girl](https://open.spotify.com/album/0B2BpeQPuGLSjx3RJGIVaa) | 2:08 | 2023-10-06 | 2023-12-23 |
 | [Thank Me for That](https://open.spotify.com/track/5s8wmYKFbYfHO0W49vKuv4) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Thank Me for That](https://open.spotify.com/album/6kjMKcFd0lF2kMUgTxXaT9) | 3:41 | 2019-05-26\* | 2019-08-13 |
@@ -2040,6 +2040,7 @@
 | [truck on fire](https://open.spotify.com/track/6KYBVkFGf21hPd01gVkJ5T) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR) | 3:08 | 2024-06-07 | 2024-09-07 |
 | [Truck Still Works](https://open.spotify.com/track/07EpoAJrwp3GuJBCkRNVxN) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Truck Still Works](https://open.spotify.com/album/7nlO9Em1FkP8c5IHynQafE) | 3:32 | 2024-09-27 |  |
 | [Trucks, Ducks, Bucks & Beer](https://open.spotify.com/track/57cI63EBY6FqAhgzQxMSCT) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Trucks, Ducks, Bucks & Beer](https://open.spotify.com/album/0ZUnvfZAa49HJeEZOX58vw) | 3:13 | 2024-01-12 | 2024-03-09 |
+| [True South](https://open.spotify.com/track/3a6aKepwy5TFF74ENib8SI) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [True South](https://open.spotify.com/album/2w9KfN9d1mPSzaH2x7WmEe) | 3:20 | 2024-11-29 |  |
 | [Trust You](https://open.spotify.com/track/0Ddrbmhs2jMlVM4sv6GtzU) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Trust You](https://open.spotify.com/album/4YSX4PzLdYlIBoAmKgpiJ3) | 2:55 | 2019-05-26\* | 2019-06-15 |
 | [Truth About You](https://open.spotify.com/track/4Qum1kECNQrpREev5fvAQ4) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Truth About You](https://open.spotify.com/album/3XoK5Dz1cSeeRi5bbO2Gbt) | 3:23 | 2021-07-10 | 2021-08-28 |
 | [Truth Is](https://open.spotify.com/track/02G3c8DxZgp6dLbDqd7aw3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Truth Is](https://open.spotify.com/album/6yYPEmDiTpTMzZdsD3NqGT) | 2:44 | 2022-12-09 | 2023-07-01 |

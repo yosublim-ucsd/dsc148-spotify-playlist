@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "lonely is the muse! Foto: Halsey",
+  "description": "\ud83e\udd18 Foto: MC Taya",
   "name": "do rockeeee",
   "tracks": [
     {
@@ -1847,6 +1847,32 @@
     },
     {
       "album": {
+        "name": "HISTERIA AGRESSIVA 100% NEUR\u00d3TICA",
+        "url": "https://open.spotify.com/album/3RJMSYftZBlhhC9zUnIT7H"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        },
+        {
+          "name": "$alva",
+          "url": "https://open.spotify.com/artist/6DkfXR3wXuvXGCRy4a8yvM"
+        },
+        {
+          "name": "spxxkxr",
+          "url": "https://open.spotify.com/artist/4uCsjuwGiLslAIKsR0L1ze"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "SEXO TODO DIA",
+      "url": "https://open.spotify.com/track/3wCK3cN0Ixha2Pw1RQuH3Y"
+    },
+    {
+      "album": {
         "name": "Shadow (I'm Breaking Down)",
         "url": "https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93"
       },
@@ -2270,7 +2296,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 300213,
       "name": "When We Die (Can We Still Get High?) (feat. Lil Yachty)",
       "url": "https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH"

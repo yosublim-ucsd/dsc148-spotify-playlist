@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Your music. Your faith. Your life. This is Pop for life!  Cover: <a href=\"spotify:artist:692n9oP6XtKux7LbSOnkSC\">bodie</a>",
-  "name": "Pop for Life",
+  "description": "Pop bops for the saints!  Cover: Forrest Frank",
+  "name": "Christian Pop",
   "tracks": [
     {
       "album": {
@@ -56,6 +56,24 @@
       "duration_ms": 168600,
       "name": "[close to me]",
       "url": "https://open.spotify.com/track/74ZyA0thjNZ5CMHaT2qLyI"
+    },
+    {
+      "album": {
+        "name": "A Million Chances",
+        "url": "https://open.spotify.com/album/24JZao6BL4cMvLwgCX9eLn"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201433,
+      "name": "A Million Chances",
+      "url": "https://open.spotify.com/track/0sfd53iGsKTy4lo6NGwbYg"
     },
     {
       "album": {
@@ -212,6 +230,24 @@
       "duration_ms": 208204,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/5TG7qr0Fia6dVyfdDlaUFo"
+    },
+    {
+      "album": {
+        "name": "All Over The World",
+        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "All Over The World",
+      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
     },
     {
       "album": {
@@ -462,7 +498,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 167454,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/3KM5pyCFDqsfFSTogskg7q"
@@ -1018,7 +1054,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 175624,
       "name": "Ceiling Fan",
       "url": "https://open.spotify.com/track/2pzpeYkTHTEdsQGIjvr8Tx"
@@ -1396,6 +1432,28 @@
       "duration_ms": 174758,
       "name": "Day After Forever",
       "url": "https://open.spotify.com/track/2r5DJVOgpLn1mE8ELuCUny"
+    },
+    {
+      "album": {
+        "name": "Legend of Max",
+        "url": "https://open.spotify.com/album/0h5gHfU9wFmCQsInF65mJu"
+      },
+      "artists": [
+        {
+          "name": "Sam Bowman",
+          "url": "https://open.spotify.com/artist/4cRZTgXsG1S8tR5vtkUqxP"
+        },
+        {
+          "name": "Xander Sallows",
+          "url": "https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156995,
+      "name": "Daybreaker",
+      "url": "https://open.spotify.com/track/42YNrJC3Tkcs1vnjqsShHC"
     },
     {
       "album": {
@@ -5062,7 +5120,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 197500,
       "name": "more like you",
       "url": "https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT"
@@ -5192,7 +5250,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 200931,
       "name": "Need You",
       "url": "https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq"
@@ -5254,7 +5312,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 145034,
       "name": "NEVER GET USED TO THIS",
       "url": "https://open.spotify.com/track/1VFxnzJWG7LWYTrHNwGt9P"
@@ -5507,6 +5565,24 @@
     },
     {
       "album": {
+        "name": "Now What?",
+        "url": "https://open.spotify.com/album/1PEerDmlWl4BzfV9S9qt0p"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167510,
+      "name": "Now What?",
+      "url": "https://open.spotify.com/track/2xSEenWCEvsDRMxzux9A7u"
+    },
+    {
+      "album": {
         "name": "Oh Wonder",
         "url": "https://open.spotify.com/album/2emBxnHGh1ulybA3e3UCQY"
       },
@@ -5518,7 +5594,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 203290,
       "name": "Oh Wonder",
       "url": "https://open.spotify.com/track/2NIfMpoUEvyiag6xt4bhL3"
@@ -6962,6 +7038,24 @@
       "duration_ms": 208000,
       "name": "Stay (feat. Eris Ford) - Remix",
       "url": "https://open.spotify.com/track/6jxmiJbjn6pH8nxEKCFw72"
+    },
+    {
+      "album": {
+        "name": "Stay (Gonna Be Okay)",
+        "url": "https://open.spotify.com/album/3S8ENSSxaobl7GuaZA39hd"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205213,
+      "name": "Stay (Gonna Be Okay)",
+      "url": "https://open.spotify.com/track/3jAlLFdrqwuiyzmKuNm5GQ"
     },
     {
       "album": {
@@ -8568,6 +8662,24 @@
       "duration_ms": 149276,
       "name": "Your Turn",
       "url": "https://open.spotify.com/track/6Kdgmp79LyuDlRwF2Sp9uL"
+    },
+    {
+      "album": {
+        "name": "YOUR WAY'S BETTER",
+        "url": "https://open.spotify.com/album/3GWSSGew5y2GTzcno0wEcX"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198082,
+      "name": "YOUR WAY'S BETTER",
+      "url": "https://open.spotify.com/track/4T7Ag41Hw7s2ynsfYEHneW"
     },
     {
       "album": {

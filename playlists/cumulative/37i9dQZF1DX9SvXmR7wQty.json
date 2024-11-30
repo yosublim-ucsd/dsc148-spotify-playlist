@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clodelle",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "52 hertz",
+        "url": "https://open.spotify.com/album/1EPlvAdUDrBShGPjoR5jgY"
+      },
+      "artists": [
+        {
+          "name": "tha\u00efs",
+          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148067,
+      "name": "52 hertz",
+      "url": "https://open.spotify.com/track/6pMpUyh5nHu5TvVAXS9Zqr"
+    },
+    {
+      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/6eiNBOmU5Kpr5X81cELx7I"
       },
@@ -1882,7 +1900,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 165386,
       "name": "Ah les crocodiles",
       "url": "https://open.spotify.com/track/0KQFtDbj2NfrQRrZMgSKwY"
@@ -5438,7 +5456,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 165230,
       "name": "Big Bang",
       "url": "https://open.spotify.com/track/5zyBcDmNjybiqWFyzCJXkZ"
@@ -7552,7 +7570,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 227020,
       "name": "Ca Va Aller",
       "url": "https://open.spotify.com/track/5mwgVC4dkhvVBO46to8w0w"
@@ -10944,7 +10962,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 133894,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg"
@@ -10992,6 +11010,24 @@
       "duration_ms": 202000,
       "name": "COUP D'\u00c9TAT",
       "url": "https://open.spotify.com/track/0zd9tdyvDaU5YjEjJ47ij8"
+    },
+    {
+      "album": {
+        "name": "Coup de foudre",
+        "url": "https://open.spotify.com/album/6s6S7IQhiX9DIB7inp9NQR"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "Coup de foudre",
+      "url": "https://open.spotify.com/track/4kcbhPSHm99ZH4AcUrQk9s"
     },
     {
       "album": {
@@ -13662,7 +13698,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 213525,
       "name": "Discoth\u00e8que Dans Ma T\u00eate",
       "url": "https://open.spotify.com/track/5Jdaw7Q0McUIvjJ4vPdBrw"
@@ -16828,6 +16864,24 @@
       "duration_ms": 187880,
       "name": "F.I.N.I",
       "url": "https://open.spotify.com/track/2iSviSdZmZGXDS3SND8Sbf"
+    },
+    {
+      "album": {
+        "name": "F.I.U.W",
+        "url": "https://open.spotify.com/album/3vQJ1CRTqw0NVeRTdzHuZL"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148778,
+      "name": "F.I.U.W",
+      "url": "https://open.spotify.com/track/4w2I8pWh8YAB0nZ9D9QYgg"
     },
     {
       "album": {
@@ -20433,6 +20487,24 @@
     },
     {
       "album": {
+        "name": "Vivre \u00e0 mourir",
+        "url": "https://open.spotify.com/album/6RHVUxOQa9vIfHmrRWpQrV"
+      },
+      "artists": [
+        {
+          "name": "Rymz",
+          "url": "https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140996,
+      "name": "High On Life",
+      "url": "https://open.spotify.com/track/1DcvHIiIHJcWK3kPfFwkrX"
+    },
+    {
+      "album": {
         "name": "Banlieue",
         "url": "https://open.spotify.com/album/55jx7wdVwNSGViAbdl2G1d"
       },
@@ -23989,6 +24061,24 @@
     },
     {
       "album": {
+        "name": "Je suis l\u00e0",
+        "url": "https://open.spotify.com/album/0sRO2vkKqdixkNxIHgf190"
+      },
+      "artists": [
+        {
+          "name": "Lara Fabian",
+          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "Je suis de toi",
+      "url": "https://open.spotify.com/track/6ufDjxcJR0Ki3dMbmVLx9v"
+    },
+    {
+      "album": {
         "name": "Je suis entr\u00e9",
         "url": "https://open.spotify.com/album/4aYwIxO2q1kubup7rs3hlX"
       },
@@ -25342,6 +25432,24 @@
       "duration_ms": 229226,
       "name": "Kongolais mauvais (feat. Ninho)",
       "url": "https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs"
+    },
+    {
+      "album": {
+        "name": "KONGOLESE SOUS BBL",
+        "url": "https://open.spotify.com/album/1rUXpres7UXqmCB1SBL65p"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "KONGOLESE SOUS BBL",
+      "url": "https://open.spotify.com/track/5dBRz6giSIBDkXOhOD80KF"
     },
     {
       "album": {
@@ -31139,6 +31247,24 @@
     },
     {
       "album": {
+        "name": "Locked Up",
+        "url": "https://open.spotify.com/album/5Q57aL7ma8akgKMCbBjkzD"
+      },
+      "artists": [
+        {
+          "name": "White-B",
+          "url": "https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155592,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/3ftGuXapLDXSxQvf3o6751"
+    },
+    {
+      "album": {
         "name": "Loin",
         "url": "https://open.spotify.com/album/602HrkUZTIwwSdzDLraN0r"
       },
@@ -36776,7 +36902,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 155368,
       "name": "No stress",
       "url": "https://open.spotify.com/track/47JDtFh6KSYKEJ7CJ0XI8z"
@@ -38847,6 +38973,24 @@
     },
     {
       "album": {
+        "name": "Pygmalion",
+        "url": "https://open.spotify.com/album/7IBIYHkyHgpQ8xXxx9sUiA"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171038,
+      "name": "Paparigo",
+      "url": "https://open.spotify.com/track/1FHE8HWaTOW9vMXBuJOsS6"
+    },
+    {
+      "album": {
         "name": "Papercuts",
         "url": "https://open.spotify.com/album/39sAxVFPkuC7hBGUZYfFrx"
       },
@@ -39406,6 +39550,24 @@
       "duration_ms": 187452,
       "name": "Partir",
       "url": "https://open.spotify.com/track/2Zh7vAK7mqSVOrFTwKerbc"
+    },
+    {
+      "album": {
+        "name": "Partir",
+        "url": "https://open.spotify.com/album/3mC7ToEzuT6wIkzMopZM97"
+      },
+      "artists": [
+        {
+          "name": "Jay Trepanier",
+          "url": "https://open.spotify.com/artist/5GAcHj0ZkPL07NNkfgW7do"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196963,
+      "name": "Partir",
+      "url": "https://open.spotify.com/track/30aD43Mx2fcGrej0NzhFhi"
     },
     {
       "album": {
@@ -40343,6 +40505,24 @@
     },
     {
       "album": {
+        "name": "Petite Dose",
+        "url": "https://open.spotify.com/album/4GZOqf9NfaYlwZxA9viP33"
+      },
+      "artists": [
+        {
+          "name": "HALO",
+          "url": "https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130979,
+      "name": "Petite Dose",
+      "url": "https://open.spotify.com/track/5sJYv4k2LCN2JFytafATyv"
+    },
+    {
+      "album": {
         "name": "CRASH C\u0152UR+",
         "url": "https://open.spotify.com/album/4E3heRLsWhWQwDDMwoo617"
       },
@@ -40354,7 +40534,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 179080,
       "name": "petite musique",
       "url": "https://open.spotify.com/track/4qVY03Ook13G2yisPjYawd"
@@ -42280,7 +42460,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 203522,
       "name": "Pretty Baby (French Version) [feat. John Nathaniel]",
       "url": "https://open.spotify.com/track/6w7unaa0LqBsx5mRpe5YyY"
@@ -43094,6 +43274,24 @@
       "duration_ms": 211239,
       "name": "P\u00e9tunias",
       "url": "https://open.spotify.com/track/4csiR0voWHzg46BFnQZ0kp"
+    },
+    {
+      "album": {
+        "name": "P\u014dse\u00efd\u00f8n",
+        "url": "https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248544,
+      "name": "P\u014dse\u00efd\u00f8n",
+      "url": "https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk"
     },
     {
       "album": {
@@ -46904,7 +47102,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 167832,
       "name": "Ses dents",
       "url": "https://open.spotify.com/track/0sevoRzwPVjToxUBWxDjgI"
@@ -47958,7 +48156,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 159377,
       "name": "soleil",
       "url": "https://open.spotify.com/track/0rhW4zd0Be2ZkqxGbXJtVK"
@@ -52368,7 +52566,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 233920,
       "name": "Toutes tes idoles",
       "url": "https://open.spotify.com/track/7LUjWB8H1Zy7rVyd5G4N8L"

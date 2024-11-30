@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 
 > Los muertos al cajón y los vivos al fiestón con Beetlejuice.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,186 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,250 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3z5yKRkYm4P.md) - [plain]
 | 50 | [Raska Yu](https://open.spotify.com/track/3bYH2PgsgrueYBR8QfZDG5) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS), [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc) | [Electric Sunset](https://open.spotify.com/album/424vDJAprPQClfrHzL0zwx) | 3:33 |
 | 51 | [El Muerto Vivo](https://open.spotify.com/track/13xUIHPhcJDT6n5byeyNTS) | [Los João](https://open.spotify.com/artist/7u23Qh2OuzqBbQEuzHh7X9) | [El Muerto Vivo](https://open.spotify.com/album/0IkaUOrF11X6cB5HvMxMBO) | 2:50 |
 | 52 | [Papá Soy una Zombie](https://open.spotify.com/track/4pAk5rjfyA4BkUKysqNk5U) | [Los Tiki Phantoms](https://open.spotify.com/artist/4h2hLlCk6gQXMcrw4Z6ZYt) | [Papá Soy una Zombie](https://open.spotify.com/album/1zfreS1Ke3BkR6ty0RHvIX) | 2:32 |
-| 53 | [Tu Perro Se Murió](https://open.spotify.com/track/0pcXNtAlhrdMsanmkwwJsM) | [Los Pinches Fresitas](https://open.spotify.com/artist/6o3IbCE7dIZsiVGpSqdkt0) | [Tengo Un Amigo Que Me Ama](https://open.spotify.com/album/6G72PHsArHnX6xhxtGIQUz) | 3:48 |
+| 53 | [Tu Perro Se Murió](https://open.spotify.com/track/0pcXNtAlhrdMsanmkwwJsM) | [Los Pinches Fresitas](https://open.spotify.com/artist/6o3IbCE7dIZsiVGpSqdkt0) | [Tengo Un Amigo Que Me Ama](https://open.spotify.com/album/6G72PHsArHnX6xhxtGIQUz) | 3:48 |
 | 54 | [Pasa la Vida](https://open.spotify.com/track/4DP3Pl4f2QysGpBvBakrIE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Páginas en Blanco](https://open.spotify.com/album/5UUTz6uw8xlU6V56pBXW8G) | 4:33 |
 | 55 | [Satan Swing](https://open.spotify.com/track/2yPDTHmS3FEAcDb5S0TVYD) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 3:31 |
 | 56 | [Las Momias](https://open.spotify.com/track/2LFAqVHgU1tShWETIYHcKa) | [Los Golden Calavera](https://open.spotify.com/artist/4UW7bHZdY0XURnDVPWGOZi) | [Música para Locos \(Vol\. 1\)](https://open.spotify.com/album/0sWQzugWG2XYRWkzpBiEdT) | 4:32 |

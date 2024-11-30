@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,644 likes - 41 songs - 2 hr 8 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,647 likes - 42 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,5 +49,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 39 | [Big Wreckage](https://open.spotify.com/track/2PnsfwKSXB0p6VoxbmbdGt) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [1 Thing EP](https://open.spotify.com/album/1tyZKrFehE3amygs5IdRdx) | 6:10 |
 | 40 | [Lose My Number](https://open.spotify.com/track/4kWh63xFgWo4cO00TG9cYR) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Lose My Number](https://open.spotify.com/album/2WmgxXjKbVoClEPibQ8nC6) | 3:04 |
 | 41 | [Jump N Twist](https://open.spotify.com/track/2LMIrw0FUxVAuh1DH9pEsO) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Jump N Twist](https://open.spotify.com/album/60khhaK9jNfEcIPnzZB8oI) | 2:58 |
+| 42 | [Out Of My Head](https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Grant Nelson](https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi) | [Out Of My Head](https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz) | 3:24 |
 
-Snapshot ID: `AAAkJe6K7O/BMlApPUFkWd37o/ySjbA6`
+Snapshot ID: `AAAkJiOJUVo2r0UTWUT7dVS/E3X2C5Tm`

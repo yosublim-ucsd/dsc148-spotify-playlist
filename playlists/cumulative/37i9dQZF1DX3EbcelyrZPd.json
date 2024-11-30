@@ -9315,6 +9315,28 @@
     },
     {
       "album": {
+        "name": "Wale Wale (feat. Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/47dA6MzeREthztzSXZB1TU"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "Wale Wale (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/0XFBfGFjH7oG2fs1LUMUwI"
+    },
+    {
+      "album": {
         "name": "Wali Nazi",
         "url": "https://open.spotify.com/album/3mGrGJh0EJGk0B3USlL8lR"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Malaika
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,557 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 | 20 | [Work](https://open.spotify.com/track/3c0apNttNexOLb7QIliIdq) | [B4bonah](https://open.spotify.com/artist/533nTGirqEiUKwUcVxYWv8) | [Work](https://open.spotify.com/album/1nWVhBEmIBJiNN5vyuDmow) | 2:45 |
 | 21 | [Lie Me](https://open.spotify.com/track/0B1mjyJLEfM9dONF0i3gJz) | [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV) | [Lie Me](https://open.spotify.com/album/48AJnztPfgA5yXMvuskrQU) | 4:08 |
 | 22 | [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 |
-| 23 | [CALENDAR \(with Moliy\)](https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CALENDAR \(with Moliy\)](https://open.spotify.com/album/7ELfPgkHFSWuyLCjxlaWCc) | 3:02 |
+| 23 | [CALENDAR \(with Moliy\)](https://open.spotify.com/track/604gUD6KPH4SuIPREK1RZD) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [CALENDAR \(with Moliy\)](https://open.spotify.com/album/7ELfPgkHFSWuyLCjxlaWCc) | 3:02 |
 | 24 | [Do Not Disturb](https://open.spotify.com/track/0yiBLJp8JFeJU8DcJeuwjU) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Do Not Disturb](https://open.spotify.com/album/4sSm5RNKqNxeJEO6f5M7M9) | 2:22 |
 | 25 | [WICKED](https://open.spotify.com/track/33ngGj804cbv6bLV3r8ljR) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [ACT 2](https://open.spotify.com/album/6MudGkfVHCyDuy56SU8CYC) | 2:48 |
 | 26 | [Childish Things](https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Childish Things](https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK) | 3:01 |

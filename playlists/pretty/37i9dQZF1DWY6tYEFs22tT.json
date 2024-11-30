@@ -1,15 +1,15 @@
 {
-  "description": "Today's Hip-Hop with Jack Harlow, Kendrick Lamar, Nicki Minaj and more.",
-  "num_followers": 814446,
+  "description": "Today's Hip-Hop with Kendrick Lamar, Kodak Black, Jack Harlow and more.",
+  "num_followers": 814464,
   "original_name": "Hip-Hop Central",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0DNkQAAAAAxPKNrUNSM3kiK+XaeVOkx",
+  "snapshot_id": "Z0lKUAAAAACJGkPY3s11m5778VLW4X2t",
   "tracks": [
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
@@ -18,14 +18,34 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
         }
       ],
-      "duration_ms": 157992,
-      "name": "squabble up",
-      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Trill Bill",
+        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 123941,
+      "name": "Dirty Revolver",
+      "url": "https://open.spotify.com/track/4BQand4u69B5TWI4GOMhfO"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Hello Miss Johnson",
         "url": "https://open.spotify.com/album/3MJGcgbroIjiO90yi7RMhy"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/6gH1UKDAhWS6qXzKXB4wuY"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Eternal Atake 2",
         "url": "https://open.spotify.com/album/7awBKnBq0qRLNyD5lI47R0"
@@ -57,7 +77,23 @@
       "url": "https://open.spotify.com/track/4ppKM7xnkSAwSyKqD4QTY4"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Insecurities",
         "url": "https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "MIXTAPE PLUTO",
         "url": "https://open.spotify.com/album/5IcsHifVLGG0emBPlMZacj"
@@ -93,7 +129,55 @@
       "url": "https://open.spotify.com/track/5BjYmIIW8NIwItLPGjqKqP"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 126356,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "SLUT SZN",
+        "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 138180,
+      "name": "Gang Baby",
+      "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "The Crossroads",
         "url": "https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR"
@@ -113,7 +197,7 @@
       "url": "https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "The Pinkprint (Tenth Anniversary Edition)",
         "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
@@ -133,23 +217,7 @@
       "url": "https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
-      "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
-    },
-    {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
@@ -177,7 +245,27 @@
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Options (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4KKJBvUhEHZpW6vJPp3aKR"
@@ -197,7 +285,7 @@
       "url": "https://open.spotify.com/track/4oQ49ddwS8JEatZvzObZIy"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Wavy",
         "url": "https://open.spotify.com/album/5H5qWXVkPtu1TXb7sLfckt"
@@ -213,7 +301,7 @@
       "url": "https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -233,7 +321,7 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -253,7 +341,7 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "HIM ALL ALONG",
         "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
@@ -269,7 +357,7 @@
       "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "HARDSTONE PSYCHO",
         "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
@@ -285,7 +373,7 @@
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Allure (feat. Future & Mike WiLL Made-It)",
         "url": "https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ"
@@ -309,7 +397,7 @@
       "url": "https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "War Ready",
         "url": "https://open.spotify.com/album/78gkUlbvvPIlWZmeazEr7P"
@@ -329,7 +417,7 @@
       "url": "https://open.spotify.com/track/6Ngjnxwv3ZLYtp1YuSazr3"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Blow for Blow (feat. J. Cole)",
         "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
@@ -349,7 +437,7 @@
       "url": "https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Embrace It",
         "url": "https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P"
@@ -365,23 +453,7 @@
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
-      "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Bigger In Texas",
-      "url": "https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs"
-    },
-    {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Understand",
         "url": "https://open.spotify.com/album/2tihzsOg9XnrmkCQ5LLDnY"
@@ -397,43 +469,47 @@
       "url": "https://open.spotify.com/track/5L32IjZD1VIyuF7Rw9Xmio"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "100 GIGS",
-        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+        "name": "Strictly For My Fans 2.0",
+        "url": "https://open.spotify.com/album/4frcIfQQ6ojSPN1oZMcmtd"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 126356,
-      "name": "Circadian Rhythm",
-      "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
-    },
-    {
-      "added_at": "2024-11-22 18:29:37",
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         },
         {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+          "name": "Taurus",
+          "url": "https://open.spotify.com/artist/31yqUKDLuRIRp6WrGHijf9"
+        },
+        {
+          "name": "Wheezy",
+          "url": "https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL"
         }
       ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
+      "duration_ms": 177976,
+      "name": "Teflon",
+      "url": "https://open.spotify.com/track/4e7MKSoUZSHG3r1kZe4psM"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/1HOMjYmPvDpCNbb44JnFaa"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Bigger In Texas",
+      "url": "https://open.spotify.com/track/0XW9AyYhwwUyBYFvRfrfIs"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Piece By Piece - Music from the Motion Picture",
         "url": "https://open.spotify.com/album/210rAUA5H4xH6S9J0aHRLE"
@@ -453,7 +529,7 @@
       "url": "https://open.spotify.com/track/1ewLDmADNjHl1rzF5Ink3s"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Opportunist",
         "url": "https://open.spotify.com/album/6DfPfun9gjXfKQfPTe6i5P"
@@ -469,7 +545,7 @@
       "url": "https://open.spotify.com/track/7ESmcSz98ZGni2Wm8Zucog"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Pursuit Freestyle",
         "url": "https://open.spotify.com/album/3MKfcWdsJDX09s36eVyqCM"
@@ -485,7 +561,7 @@
       "url": "https://open.spotify.com/track/2B73UoSzm1mABGzzMzLO2o"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Cracc Era",
         "url": "https://open.spotify.com/album/5Xl1nussmpooifiSxmxUXC"
@@ -505,7 +581,7 @@
       "url": "https://open.spotify.com/track/4cncOEt5C81tmBSHF3kX66"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "TAKE CARE",
         "url": "https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc"
@@ -521,7 +597,7 @@
       "url": "https://open.spotify.com/track/4CkbpelT92r4dVkceDX9g1"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "You Don\u2019t Love Me",
         "url": "https://open.spotify.com/album/6T05dhhfw907E2DZTEuwp9"
@@ -541,7 +617,7 @@
       "url": "https://open.spotify.com/track/6ACJ86qxrE31AErgE3AjDV"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Hide It (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/4sAQkEB9HwmyKAd9JNZ7ee"
@@ -561,7 +637,7 @@
       "url": "https://open.spotify.com/track/2NXGMnNU6nctSmcKWjfdCS"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Fall Back feat. NAV",
         "url": "https://open.spotify.com/album/5p1MgdarytYpfTDfC1NxMy"
@@ -581,7 +657,7 @@
       "url": "https://open.spotify.com/track/6j2zmsqdQgWO6SSwpephqY"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "War Wounds (with Maxo Kream & Lil' Keke)",
         "url": "https://open.spotify.com/album/19Jwy83v1HBZ2bpOaB9UEe"
@@ -605,27 +681,7 @@
       "url": "https://open.spotify.com/track/6DqGhw2PlGKxPnP3ja3EcD"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
-      "album": {
-        "name": "Thick Of It (feat. Trippie Redd) / Low",
-        "url": "https://open.spotify.com/album/4o57W8cMFiKf2NVbGSE9jH"
-      },
-      "artists": [
-        {
-          "name": "KSI",
-          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 160842,
-      "name": "Thick Of It (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/1xmvq1fYLs9TEgikaFilGW"
-    },
-    {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -645,7 +701,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "The Pre-Party (Extended)",
         "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
@@ -661,7 +717,7 @@
       "url": "https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Ruby Rosary (feat. J. Cole)",
         "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
@@ -681,7 +737,7 @@
       "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
@@ -697,27 +753,7 @@
       "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
-      "album": {
-        "name": "Pose For Me",
-        "url": "https://open.spotify.com/album/6d8UKmxIuws3fTX6ITvNh0"
-      },
-      "artists": [
-        {
-          "name": "John Mackk",
-          "url": "https://open.spotify.com/artist/57Ay3Ye4cloEzuDSTYQ1kw"
-        },
-        {
-          "name": "Natalie Nunn",
-          "url": "https://open.spotify.com/artist/2I8embWRZZ0LSLvEIqx6wU"
-        }
-      ],
-      "duration_ms": 146326,
-      "name": "Pose For Me",
-      "url": "https://open.spotify.com/track/3YOrk2YHbXRdKtmurcdq2T"
-    },
-    {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "FNBM (feat. NLE Choppa)",
         "url": "https://open.spotify.com/album/6PKpQGvFAz8iLgJnlY09X4"
@@ -737,7 +773,7 @@
       "url": "https://open.spotify.com/track/4emujwqz4VZGMdcd32NAyK"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
         "url": "https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz"
@@ -757,31 +793,7 @@
       "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
-      "album": {
-        "name": "Or What",
-        "url": "https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
-        },
-        {
-          "name": "Kyle Richh",
-          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
-        }
-      ],
-      "duration_ms": 199165,
-      "name": "Or What",
-      "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
-    },
-    {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "ALL RED",
         "url": "https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx"
@@ -797,7 +809,7 @@
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "HOOD POET",
         "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
@@ -817,7 +829,7 @@
       "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "FWG",
         "url": "https://open.spotify.com/album/0maPmRE6UjqadOPD06CfWZ"
@@ -833,7 +845,7 @@
       "url": "https://open.spotify.com/track/1eoMcGLGEAeQUIjwEIytkq"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "No Face",
         "url": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
@@ -849,7 +861,7 @@
       "url": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "No One Else (feat. Jeremih)",
         "url": "https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM"
@@ -869,7 +881,7 @@
       "url": "https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "KEHLANI (REMIX) [feat. Kehlani]",
         "url": "https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ"
@@ -889,7 +901,7 @@
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "HEAT STICK",
         "url": "https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w"
@@ -913,7 +925,7 @@
       "url": "https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4"
     },
     {
-      "added_at": "2024-11-22 18:29:37",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
         "name": "VULTURES 2",
         "url": "https://open.spotify.com/album/2LaSVrn1EJc9ouFyp69g4e"
@@ -935,26 +947,6 @@
       "duration_ms": 167228,
       "name": "FIELD TRIP",
       "url": "https://open.spotify.com/track/106vWgOc5xlj05wewZ2V4u"
-    },
-    {
-      "added_at": "2024-11-22 18:29:37",
-      "album": {
-        "name": "Dope Boy",
-        "url": "https://open.spotify.com/album/2sOsaBI0pr8uu1RmZDbeMe"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
-        }
-      ],
-      "duration_ms": 92133,
-      "name": "Dope Boy (with Nigo)",
-      "url": "https://open.spotify.com/track/2WxUBA3L7k2Af4kTVB6QeI"
     }
   ],
   "unique_name": "Hip-Hop Central",

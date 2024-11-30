@@ -1,13 +1,29 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 15992,
+  "num_followers": 15995,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zy2a0AAAAAAR9P9i06vV1my+A0vOGPgu",
+  "snapshot_id": "Z0lKUAAAAACPlMXcn4PAS5qdU3VKHkkc",
   "tracks": [
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Escape Artist",
+        "url": "https://open.spotify.com/album/7IfMDEwQODVi1NBKFJlcNp"
+      },
+      "artists": [
+        {
+          "name": "Yacht Rock Revue",
+          "url": "https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH"
+        }
+      ],
+      "duration_ms": 280489,
+      "name": "Four In The Morning",
+      "url": "https://open.spotify.com/track/5LnDdFPjJkrUDt9BOoJMfS"
+    },
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
@@ -23,22 +39,6 @@
       "duration_ms": 228675,
       "name": "Walk Out The Door",
       "url": "https://open.spotify.com/track/5porLmcbUZHU0sTD4J8FLR"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Escape Artist (Disc 1)",
-        "url": "https://open.spotify.com/album/5FCeJuDM50xcMMot22SsTO"
-      },
-      "artists": [
-        {
-          "name": "Yacht Rock Revue",
-          "url": "https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Make You Miss Me",
-      "url": "https://open.spotify.com/track/61Jrb9FdLpobG6DFc8qC5D"
     },
     {
       "added_at": "2024-11-08 05:00:00",

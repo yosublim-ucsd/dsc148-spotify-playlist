@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nada le gana a una comida hecha con buena salsa!",
-  "num_followers": 46429,
+  "num_followers": 46448,
   "original_name": "Cocina con Salsa",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,26 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Salsa Y Control",
-        "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
+        "name": "Aqui Estoy Yo, Vol. 1",
+        "url": "https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry"
       },
       "artists": [
         {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+          "name": "Charlie Aponte",
+          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
+        },
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Yayo El Indio",
+          "url": "https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG"
         }
       ],
-      "duration_ms": 227400,
-      "name": "Salsa Y Control",
-      "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
+      "duration_ms": 207817,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -391,26 +399,18 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Aqui Estoy Yo, Vol. 1",
-        "url": "https://open.spotify.com/album/00kLg7atNIIaRc63s93Dry"
+        "name": "Salsa Y Control",
+        "url": "https://open.spotify.com/album/539af69eELgsPBWn4ZwK8I"
       },
       "artists": [
         {
-          "name": "Charlie Aponte",
-          "url": "https://open.spotify.com/artist/2fnP86vFqCtBZp6igjAgc7"
-        },
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Yayo El Indio",
-          "url": "https://open.spotify.com/artist/450R1iQ3HImRJnq1eyNWdG"
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
         }
       ],
-      "duration_ms": 207817,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/6RVNMkVUHijxWQnGOOeOa1"
+      "duration_ms": 227400,
+      "name": "Salsa Y Control",
+      "url": "https://open.spotify.com/track/4y6QWwI8lqYYemjYK1PCPc"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
+        "name": "Calle Linda (Golden Edition)",
+        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
+      },
+      "artists": [
+        {
+          "name": "Pirulo y la Tribu",
+          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
+        }
+      ],
+      "duration_ms": 381160,
+      "name": "Como Mi Salsa Ninguna",
+      "url": "https://open.spotify.com/track/2pGrvFiWSrqw2POyEEeFui"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 248733,
       "name": "Manyoma",
       "url": "https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
-        "name": "Calle Linda (Golden Edition)",
-        "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
-      },
-      "artists": [
-        {
-          "name": "Pirulo y la Tribu",
-          "url": "https://open.spotify.com/artist/7yUFtMptVtCtg3vIR018vO"
-        }
-      ],
-      "duration_ms": 381160,
-      "name": "Como Mi Salsa Ninguna",
-      "url": "https://open.spotify.com/track/2pGrvFiWSrqw2POyEEeFui"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "Antolog\u00eda de la M\u00fasica Cubana",
-        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Arag\u00f3n De Cuba",
-          "url": "https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG"
-        }
-      ],
-      "duration_ms": 181506,
-      "name": "El Bodeguero",
-      "url": "https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537"
-    },
-    {
-      "added_at": "2024-09-24 21:05:36",
-      "album": {
         "name": "Siguen Pa' Lante y Pa' Lante",
         "url": "https://open.spotify.com/album/0ggUsuE3sanuha2Ju1DTvm"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 233506,
       "name": "\u00bfQu\u00e9 Quiere la Ni\u00f1a?",
       "url": "https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV"
+    },
+    {
+      "added_at": "2024-09-24 21:05:36",
+      "album": {
+        "name": "Antolog\u00eda de la M\u00fasica Cubana",
+        "url": "https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Arag\u00f3n De Cuba",
+          "url": "https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG"
+        }
+      ],
+      "duration_ms": 181506,
+      "name": "El Bodeguero",
+      "url": "https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537"
     },
     {
       "added_at": "2024-09-24 21:05:36",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2024-09-24 21:05:36",
       "album": {
-        "name": "A Man And His Music",
-        "url": "https://open.spotify.com/album/5ooBxlDpe7vgUqHlVekC89"
+        "name": "La Perfecta Combinaci\u00f3n (Fania Original Remastered)",
+        "url": "https://open.spotify.com/album/4ZVlDxjaNCDdw4yY4l22Iq"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
         }
       ],
-      "duration_ms": 230573,
-      "name": "El Raton",
-      "url": "https://open.spotify.com/track/6Zsm8QFqZ4jQhrVnTkzTqA"
+      "duration_ms": 246693,
+      "name": "La Esencia del Guaguanc\u00f3",
+      "url": "https://open.spotify.com/track/1FwYfo29z5IU4WADsfLaEC"
     }
   ],
   "unique_name": "Cocina con Salsa",

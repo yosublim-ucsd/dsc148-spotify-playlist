@@ -1,13 +1,53 @@
 {
-  "description": "The best indie dance tracks of the moment \ud83c\udf24\ufe0f with Young Franco",
-  "num_followers": 876000,
+  "description": "The best indie dance tracks of the moment \ud83e\udd1d with DJ Koze & Damon Albarn",
+  "num_followers": 876155,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0SO5QAAAACTus9e1grxfTj6ROmAYhBE",
+  "snapshot_id": "Z0liqQAAAACONB+5mybDElqDo2xMQZEx",
   "tracks": [
+    {
+      "added_at": "2024-11-29 06:43:52",
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
+      },
+      "artists": [
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
+    },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
@@ -31,26 +71,6 @@
       "duration_ms": 158600,
       "name": "Going On",
       "url": "https://open.spotify.com/track/6h0ZTPpSl9qT7vmaja9COF"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Dancing On My Own",
-        "url": "https://open.spotify.com/album/6A15xlpCsfasbKctAlh4ee"
-      },
-      "artists": [
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/1orVTNj2ZNxHwB2jvoOMhF"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -87,6 +107,26 @@
       "duration_ms": 198425,
       "name": "I Only Smoke When I Drink",
       "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "added_at": "2024-11-29 06:43:52",
+      "album": {
+        "name": "The Middle (feat. Allysha Joy)",
+        "url": "https://open.spotify.com/album/4W6GgPe4RjOyjFrmXXoab4"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Allysha Joy",
+          "url": "https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3"
+        }
+      ],
+      "duration_ms": 270129,
+      "name": "The Middle (feat. Allysha Joy)",
+      "url": "https://open.spotify.com/track/4lul80zA0KV1aNeNov5fWb"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -145,20 +185,20 @@
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-11-29 06:43:52",
       "album": {
-        "name": "Being With You",
-        "url": "https://open.spotify.com/album/4Y7j1vLEdoKVJ8Ys0mRb5n"
+        "name": "ma\u00f1ana s\u00e9",
+        "url": "https://open.spotify.com/album/0uzjqBVgiKeBEWM2Dn8GT4"
       },
       "artists": [
         {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
         }
       ],
-      "duration_ms": 141176,
-      "name": "Being With You",
-      "url": "https://open.spotify.com/track/06wbIgqVA9lbhhtgkSWJ8u"
+      "duration_ms": 217581,
+      "name": "ma\u00f1ana s\u00e9",
+      "url": "https://open.spotify.com/track/7pRXIIW2oV7ezYzt8tBa5r"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -233,6 +273,22 @@
       "url": "https://open.spotify.com/track/0ELDx5nFZjleMn2tDUvlfG"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Being With You",
+        "url": "https://open.spotify.com/album/4Y7j1vLEdoKVJ8Ys0mRb5n"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Being With You",
+      "url": "https://open.spotify.com/track/06wbIgqVA9lbhhtgkSWJ8u"
+    },
+    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Heaven In Your Arms",
@@ -273,6 +329,26 @@
       "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
     },
     {
+      "added_at": "2024-11-29 06:43:52",
+      "album": {
+        "name": "Water Pistol (Killen. Remix)",
+        "url": "https://open.spotify.com/album/10l4hCpM2pON4RYhE7SjKe"
+      },
+      "artists": [
+        {
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+        },
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 176074,
+      "name": "Water Pistol - Killen. Remix",
+      "url": "https://open.spotify.com/track/7F1YGJLMXM9T5kiRQ6JPdX"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Seafood Salad in France",
@@ -295,22 +371,6 @@
       "duration_ms": 257006,
       "name": "Seafood Salad in France",
       "url": "https://open.spotify.com/track/38UWBNedLOm1ey42NWOeyG"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
-        "url": "https://open.spotify.com/album/39aqp3shkeEnnEkoTlGGHS"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 225531,
-      "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
-      "url": "https://open.spotify.com/track/3VMMwa5gAVlfMMESQ6p3o1"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -375,6 +435,22 @@
       "duration_ms": 228688,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
+    },
+    {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
+        "url": "https://open.spotify.com/album/39aqp3shkeEnnEkoTlGGHS"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 225531,
+      "name": "i get crazy thinking about a life without you and crazier thinking about a life with you",
+      "url": "https://open.spotify.com/track/3VMMwa5gAVlfMMESQ6p3o1"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -937,26 +1013,6 @@
       "url": "https://open.spotify.com/track/1CDwotYnigEU6QuoyJUSJ0"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/78yOEdoQ4EXtsGLFyKNO8E"
-      },
-      "artists": [
-        {
-          "name": "Fashion Club",
-          "url": "https://open.spotify.com/artist/6IOqRJfqL3IKF8VkJzA3a3"
-        },
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1l6aJkLjqkJhBCn5e4Hrxi"
-    },
-    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Waste of Time",
@@ -1023,22 +1079,6 @@
       "duration_ms": 170235,
       "name": "Grin",
       "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Over & Over",
-        "url": "https://open.spotify.com/album/3RleakVU3jm8cQbvsqMqKp"
-      },
-      "artists": [
-        {
-          "name": "Jersey",
-          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "In The Shadow",
-      "url": "https://open.spotify.com/track/7ylweQjCPCtMvyM21Jqas1"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1319,22 +1359,6 @@
       "duration_ms": 199944,
       "name": "Said & Done",
       "url": "https://open.spotify.com/track/6f4VtVnlQm7XT6KrP52r1N"
-    },
-    {
-      "added_at": "2024-11-01 04:45:51",
-      "album": {
-        "name": "x-ray eyes",
-        "url": "https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 291506,
-      "name": "x-ray eyes",
-      "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1655,22 +1679,6 @@
       "duration_ms": 215000,
       "name": "Chasing a Comfort",
       "url": "https://open.spotify.com/track/4YHAfaaYdCdcvwhOD9YcOG"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/1x4CR1W9Zdd1ru8J1Lux8p"
-      },
-      "artists": [
-        {
-          "name": "JEV",
-          "url": "https://open.spotify.com/artist/6StZbL9v3UpuaMwIoq8fyW"
-        }
-      ],
-      "duration_ms": 166783,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/1qzUOpBCHB8Qzy4Gpuqmng"
     },
     {
       "added_at": "2024-08-30 04:00:00",

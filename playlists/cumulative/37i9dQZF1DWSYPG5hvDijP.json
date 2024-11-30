@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "New Hip Hop from India. Cover: Raja Kumari",
+  "description": "New Hip Hop from India. Cover: Dino James & Shah Rule",
   "name": "Taaza hai bro!",
   "tracks": [
     {
@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "TARYAQ",
+        "url": "https://open.spotify.com/album/6S4ny1RDfszGtHli8pIygi"
+      },
+      "artists": [
+        {
+          "name": "SOS",
+          "url": "https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc"
+        },
+        {
+          "name": "30KEY!",
+          "url": "https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234838,
+      "name": "AFSURDA",
+      "url": "https://open.spotify.com/track/4aOqtHkSR1ZFCawnxuPCXs"
+    },
+    {
+      "album": {
         "name": "Not Your Type",
         "url": "https://open.spotify.com/album/0UU4x2ZKCVFhVPapt8Itnh"
       },
@@ -790,7 +812,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 188000,
       "name": "Albadi",
       "url": "https://open.spotify.com/track/3eHmoKgaiYymX3DODm5u38"
@@ -912,6 +934,32 @@
       "duration_ms": 246000,
       "name": "Ammi",
       "url": "https://open.spotify.com/track/6qaY6ME5JBuXDqrHNtUKTX"
+    },
+    {
+      "album": {
+        "name": "Partein/Anjaane",
+        "url": "https://open.spotify.com/album/5jRKLJjHATZvf7sOURzYQp"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF"
+        },
+        {
+          "name": "Viepsa Arora",
+          "url": "https://open.spotify.com/artist/5OniBRRrk1TywcHKKOHNCW"
+        },
+        {
+          "name": "Lambo Drive",
+          "url": "https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266250,
+      "name": "Anjaane",
+      "url": "https://open.spotify.com/track/7mU4PgUQpshQMDpKXLHhtV"
     },
     {
       "album": {
@@ -1190,6 +1238,28 @@
       "duration_ms": 216461,
       "name": "Babaji",
       "url": "https://open.spotify.com/track/3lqJMMSFVVCRqcA8qqT7Ft"
+    },
+    {
+      "album": {
+        "name": "My Terrible Mind",
+        "url": "https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152867,
+      "name": "Back For More",
+      "url": "https://open.spotify.com/track/0j85mL6RKQezexqfNJQjkb"
     },
     {
       "album": {
@@ -1764,7 +1834,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 152217,
       "name": "Big Burrah",
       "url": "https://open.spotify.com/track/39smImvUMvCpPqGY7WntwC"
@@ -2660,7 +2730,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 128119,
       "name": "Chingari",
       "url": "https://open.spotify.com/track/759fUCN0mrdZu2ZcvrR0OW"
@@ -2810,6 +2880,28 @@
       "duration_ms": 221162,
       "name": "Code DY Daring Yankee",
       "url": "https://open.spotify.com/track/60eCvhAWSqkI29GP0K0rSc"
+    },
+    {
+      "album": {
+        "name": "TARYAQ",
+        "url": "https://open.spotify.com/album/6S4ny1RDfszGtHli8pIygi"
+      },
+      "artists": [
+        {
+          "name": "SOS",
+          "url": "https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc"
+        },
+        {
+          "name": "30KEY!",
+          "url": "https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231304,
+      "name": "CODISTAR",
+      "url": "https://open.spotify.com/track/6fBLj4tReBb52ZPUSOjomP"
     },
     {
       "album": {
@@ -3701,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Up2Soon",
+        "url": "https://open.spotify.com/album/0RCpuSKvCrRbhkPjbJBSzI"
+      },
+      "artists": [
+        {
+          "name": "vinayvvs",
+          "url": "https://open.spotify.com/artist/3cT5lK1v76Hs5GB3vxIO0M"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "Echelons",
+      "url": "https://open.spotify.com/track/315MfeGNFL85qohOEu6JV9"
+    },
+    {
+      "album": {
         "name": "Eid",
         "url": "https://open.spotify.com/album/2enqI9r06ctvnnRmnyIkxf"
       },
@@ -3955,6 +4065,24 @@
     },
     {
       "album": {
+        "name": "Up2Soon",
+        "url": "https://open.spotify.com/album/0RCpuSKvCrRbhkPjbJBSzI"
+      },
+      "artists": [
+        {
+          "name": "vinayvvs",
+          "url": "https://open.spotify.com/artist/3cT5lK1v76Hs5GB3vxIO0M"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "FD2BS",
+      "url": "https://open.spotify.com/track/4CtjTliRWY8PU7YMhEkOxN"
+    },
+    {
+      "album": {
         "name": "FEEL OR REEL",
         "url": "https://open.spotify.com/album/6PgwD92VzxD3hqRJwU1tMd"
       },
@@ -4084,7 +4212,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 186136,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj"
@@ -4222,7 +4350,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 182067,
       "name": "Frontline",
       "url": "https://open.spotify.com/track/1JCYIqHeyFZ2TLrfoGLAlH"
@@ -4697,6 +4825,28 @@
     },
     {
       "album": {
+        "name": "My Terrible Mind",
+        "url": "https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232228,
+      "name": "Good Fellas",
+      "url": "https://open.spotify.com/track/0TrBF4wGzOwHx9peDb9JHy"
+    },
+    {
+      "album": {
         "name": "GT Durango",
         "url": "https://open.spotify.com/album/5p8h7hKE9FYlPQbXzbKrwZ"
       },
@@ -4962,6 +5112,28 @@
       "duration_ms": 153000,
       "name": "HEALER (Pa Ni Sa)",
       "url": "https://open.spotify.com/track/5ZEp8HXjcsJVVfy88V9LfC"
+    },
+    {
+      "album": {
+        "name": "My Terrible Mind",
+        "url": "https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Heartbreak Kid",
+      "url": "https://open.spotify.com/track/1ktAfHym69UrvWIgx2qPPm"
     },
     {
       "album": {
@@ -5348,7 +5520,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 143545,
       "name": "HUNDO",
       "url": "https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab"
@@ -6035,6 +6207,28 @@
     },
     {
       "album": {
+        "name": "Ju\u0924e",
+        "url": "https://open.spotify.com/album/7bsodckdvScaCPY5ZjeEBT"
+      },
+      "artists": [
+        {
+          "name": "Nio Endo",
+          "url": "https://open.spotify.com/artist/4pEqatZJxCL2Lxb1wNhglR"
+        },
+        {
+          "name": "Harv",
+          "url": "https://open.spotify.com/artist/0hJiKaqzUuCc0EPgxl4lSR"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Ju\u0924e",
+      "url": "https://open.spotify.com/track/58KRjxiFg56BSnFp4IXUv2"
+    },
+    {
+      "album": {
         "name": "JVM (Normalisin Richness)",
         "url": "https://open.spotify.com/album/4Q9eKy8UvCtV0do4dDsSKv"
       },
@@ -6309,6 +6503,32 @@
     },
     {
       "album": {
+        "name": "Kaun",
+        "url": "https://open.spotify.com/album/5hDsu22lVgxzdqwTFWbIzS"
+      },
+      "artists": [
+        {
+          "name": "Dino James",
+          "url": "https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW"
+        },
+        {
+          "name": "Shah Rule",
+          "url": "https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm"
+        },
+        {
+          "name": "Bluish Music",
+          "url": "https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Kaun",
+      "url": "https://open.spotify.com/track/4EygwqJklAVvSa3C73NLvi"
+    },
+    {
+      "album": {
         "name": "Kehne Bhi De",
         "url": "https://open.spotify.com/album/4EOQEw6j8ojRKGmydNt2hN"
       },
@@ -6478,7 +6698,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 183161,
       "name": "Kill Switch - Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/3usJRla4JZx3Rz3EcNxejQ"
@@ -7560,7 +7780,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 181140,
       "name": "Many Men",
       "url": "https://open.spotify.com/track/4z2V6jTd4VagqPexBQXPKA"
@@ -7806,7 +8026,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 162078,
       "name": "Mehbooba",
       "url": "https://open.spotify.com/track/29OgE3pr264wpuys6HZQ1N"
@@ -8804,7 +9024,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 172631,
       "name": "No Idea",
       "url": "https://open.spotify.com/track/3BPvdcvsczva4nGlIOgj40"
@@ -8962,7 +9182,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 172192,
       "name": "O Humsafar",
       "url": "https://open.spotify.com/track/2QAbLPGThtJVGZFasRWmbm"
@@ -9754,7 +9974,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 249056,
       "name": "Regret",
       "url": "https://open.spotify.com/track/3LaUpvYmlVkxaQSNTKDDfK"
@@ -9996,6 +10216,28 @@
       "duration_ms": 140125,
       "name": "Sab Kuch",
       "url": "https://open.spotify.com/track/4wZ9N55zJvZbsi868fb3Wt"
+    },
+    {
+      "album": {
+        "name": "Sachi",
+        "url": "https://open.spotify.com/album/3788eHtf5qn270fAwpuagL"
+      },
+      "artists": [
+        {
+          "name": "KhullarG",
+          "url": "https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120468,
+      "name": "Sachi",
+      "url": "https://open.spotify.com/track/4s9WaNbR6RaZAmJco2cNo1"
     },
     {
       "album": {
@@ -10404,6 +10646,28 @@
       "duration_ms": 368825,
       "name": "Sod Lacharicha Paksh",
       "url": "https://open.spotify.com/track/6EpvszQYY47iT6hZzwF3hK"
+    },
+    {
+      "album": {
+        "name": "Soot Samet (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/5HN2gMIw0OiGwaNo2n0hXu"
+      },
+      "artists": [
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206566,
+      "name": "Soot Samet - Red Bull 64 Bars",
+      "url": "https://open.spotify.com/track/0SVqbDAclGaw07kKNt2k3q"
     },
     {
       "album": {
@@ -11222,7 +11486,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 160932,
       "name": "The Man",
       "url": "https://open.spotify.com/track/3K0egsuQ6XWbF7FFB4wwJ9"
@@ -11328,7 +11592,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 200571,
       "name": "Time Travel",
       "url": "https://open.spotify.com/track/7FNXfLRjO0m4lhKjIc3bZX"
@@ -11515,6 +11779,28 @@
     },
     {
       "album": {
+        "name": "Triumph",
+        "url": "https://open.spotify.com/album/1X9qsTH97TVnMD80LqFsIY"
+      },
+      "artists": [
+        {
+          "name": "TYH",
+          "url": "https://open.spotify.com/artist/3WEJTLY9OZTVGnvetqCo5D"
+        },
+        {
+          "name": "Gurtaj",
+          "url": "https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Triumph",
+      "url": "https://open.spotify.com/track/09snTJwHtRdobMISDauS3a"
+    },
+    {
+      "album": {
         "name": "Try Me",
         "url": "https://open.spotify.com/album/0vmZ55s1DXlmyfDWPNwPGY"
       },
@@ -11636,7 +11922,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 178378,
       "name": "Ulte Karam",
       "url": "https://open.spotify.com/track/1qPbqj0BJYo8eQ3tAK9mNK"
@@ -11812,6 +12098,28 @@
       "duration_ms": 143108,
       "name": "W",
       "url": "https://open.spotify.com/track/6nmg26X5nPg6CnznIX1UsT"
+    },
+    {
+      "album": {
+        "name": "TARYAQ",
+        "url": "https://open.spotify.com/album/6S4ny1RDfszGtHli8pIygi"
+      },
+      "artists": [
+        {
+          "name": "SOS",
+          "url": "https://open.spotify.com/artist/2H9H08XUuwLF51PSncSMvc"
+        },
+        {
+          "name": "30KEY!",
+          "url": "https://open.spotify.com/artist/2OEwo5rQBQRKtbIWxb1Y8Y"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184864,
+      "name": "WALLAH",
+      "url": "https://open.spotify.com/track/15JZ2Qj3vNXNVhhoPZNVHC"
     },
     {
       "album": {
@@ -12306,6 +12614,28 @@
       "duration_ms": 161107,
       "name": "Yaarmade",
       "url": "https://open.spotify.com/track/0yei26BkNWAtANnaU6s9Qw"
+    },
+    {
+      "album": {
+        "name": "YAHI PE",
+        "url": "https://open.spotify.com/album/4BoEBHH5s262lCzkIAosQI"
+      },
+      "artists": [
+        {
+          "name": "Tushar Nagar",
+          "url": "https://open.spotify.com/artist/7h6YMcFApPh0ritIF87ygS"
+        },
+        {
+          "name": "UZIII",
+          "url": "https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "YAHI PE",
+      "url": "https://open.spotify.com/track/4172mPCPwqzA2qZggHeyG6"
     },
     {
       "album": {

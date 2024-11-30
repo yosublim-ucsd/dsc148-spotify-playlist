@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: YDG",
+  "description": "The best EDM, Trap, Electronic, Drum&amp;Bass. Cover: 1788-L",
   "name": "Bass Drop",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 231192,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/6rXoA0cB6iWGY8LvlY1e8B"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 166448,
       "name": "BACKBONE",
       "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
@@ -458,6 +458,32 @@
       "duration_ms": 260001,
       "name": "Black Ice",
       "url": "https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ"
+    },
+    {
+      "album": {
+        "name": "Black Ice (feat. Phantogram)",
+        "url": "https://open.spotify.com/album/2gnr6cs8MEKscvCwZGpRJG"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260001,
+      "name": "Black Ice (feat. Phantogram)",
+      "url": "https://open.spotify.com/track/0i3NZpE5KwC70tf0GSKekx"
     },
     {
       "album": {
@@ -907,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Damager",
+        "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224591,
+      "name": "Damager",
+      "url": "https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS"
+    },
+    {
+      "album": {
         "name": "The Vault, Volume 1",
         "url": "https://open.spotify.com/album/0RyCEPdlHpZcSQHVcC3kW2"
       },
@@ -970,6 +1018,28 @@
       "duration_ms": 185600,
       "name": "DIFFRENT",
       "url": "https://open.spotify.com/track/3EvKRA9ZDmZ0RL3emxE884"
+    },
+    {
+      "album": {
+        "name": "Digital Night Drive",
+        "url": "https://open.spotify.com/album/0jvggA0QufnaIbh4S0as91"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        },
+        {
+          "name": "Mersiv",
+          "url": "https://open.spotify.com/artist/6JU4RsXcN7rLafs39HwFxf"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268941,
+      "name": "Digital Night Drive",
+      "url": "https://open.spotify.com/track/4NTkICndpBrjwZLwNofVBQ"
     },
     {
       "album": {
@@ -1387,6 +1457,36 @@
     },
     {
       "album": {
+        "name": "Go Back (feat. Julia Church) [YDG Remix]",
+        "url": "https://open.spotify.com/album/7aqNYVhP6oZGvfSk9Zxo5B"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210206,
+      "name": "Go Back (feat. Julia Church) - YDG Remix",
+      "url": "https://open.spotify.com/track/4ASH49SxktKD1YzIbqUP0N"
+    },
+    {
+      "album": {
         "name": "London Sound",
         "url": "https://open.spotify.com/album/5jguHiPnYKnCubpuOZskLY"
       },
@@ -1516,7 +1616,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 173950,
       "name": "I Admit It (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/5QUbOFOkbDlt4ZY7bdL4Am"
@@ -1538,7 +1638,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 213623,
       "name": "i think you're cool",
       "url": "https://open.spotify.com/track/6tkHWTety7Wd4Fv4oyGAcz"
@@ -1771,6 +1871,28 @@
     },
     {
       "album": {
+        "name": "King Steps",
+        "url": "https://open.spotify.com/album/4Rrl6Wyonv6ACxYSJvFogt"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181141,
+      "name": "King Steps",
+      "url": "https://open.spotify.com/track/3sO69gpldejjE93KvK3bUj"
+    },
+    {
+      "album": {
         "name": "Know By Now",
         "url": "https://open.spotify.com/album/2AoFSRAEpmGB2klZbqf8vu"
       },
@@ -1800,7 +1922,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 236556,
       "name": "late night drive",
       "url": "https://open.spotify.com/track/1Hk1UzNwgET2DYeXy2VPw6"
@@ -1874,6 +1996,24 @@
       "duration_ms": 233142,
       "name": "LONG WALK",
       "url": "https://open.spotify.com/track/5Lk292NbN2KEJv97g2cwAX"
+    },
+    {
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/7kHo68bHhe3tP4gf2DRIZN"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/1E6meFZ4yDVstks1aK5SUa"
     },
     {
       "album": {
@@ -1984,6 +2124,24 @@
       "duration_ms": 195333,
       "name": "mycelium faceplant",
       "url": "https://open.spotify.com/track/5s9h1tTANRbkemDC9beXnf"
+    },
+    {
+      "album": {
+        "name": "NU-TYPE vol. 1",
+        "url": "https://open.spotify.com/album/7CFctl9XFeGEcX2tBYEgZR"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223255,
+      "name": "NANOBLADE",
+      "url": "https://open.spotify.com/track/0jLBkTFgx4zzXFIprJhto1"
     },
     {
       "album": {
@@ -2126,7 +2284,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 179142,
       "name": "PROXIMATE",
       "url": "https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv"
@@ -2174,6 +2332,28 @@
       "duration_ms": 212210,
       "name": "Puzzle Box",
       "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/7BpL0bDWem3UNj1J5kASmL"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        },
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/34fP85Y5eJYIGMjjb7V8t9"
     },
     {
       "album": {
@@ -2342,7 +2522,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 189693,
       "name": "Selecta (feat. Stefflon Don)",
       "url": "https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn"
@@ -2550,7 +2730,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 172500,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/7FbdXyyZOknEfjHxGmdQVp"
@@ -2794,7 +2974,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 302346,
       "name": "The Slinfold Loop",
       "url": "https://open.spotify.com/track/1uipt3Xqlntn6MLWdjmjsV"
@@ -2944,10 +3124,32 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 190250,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3jRNepPc6XflVWsvFzQEqs"
+    },
+    {
+      "album": {
+        "name": "NU-TYPE vol. 1",
+        "url": "https://open.spotify.com/album/7CFctl9XFeGEcX2tBYEgZR"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        },
+        {
+          "name": "Quackson",
+          "url": "https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "WARTYPE",
+      "url": "https://open.spotify.com/track/0aA9tEKfugk00Ru0Z44Wbt"
     },
     {
       "album": {
@@ -3106,7 +3308,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 215172,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"

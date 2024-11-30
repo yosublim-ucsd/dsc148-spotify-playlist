@@ -5703,6 +5703,24 @@
     },
     {
       "album": {
+        "name": "Keskiy\u00f6n valssi",
+        "url": "https://open.spotify.com/album/4kXNxXOCAghpYjEzeLF5zh"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272504,
+      "name": "Keskiy\u00f6n valssi",
+      "url": "https://open.spotify.com/track/3UioF9dmfda0JSkjgdIh3v"
+    },
+    {
+      "album": {
         "name": "Killing Me Softly With His Song",
         "url": "https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ"
       },
@@ -10080,6 +10098,24 @@
       "duration_ms": 171608,
       "name": "Pr\u00e9lude",
       "url": "https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm"
+    },
+    {
+      "album": {
+        "name": "Puccini: Vissi d'Arte (Olivia Belli Rework)",
+        "url": "https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189471,
+      "name": "Puccini: Vissi d'Arte - Olivia Belli Rework",
+      "url": "https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li"
     },
     {
       "album": {

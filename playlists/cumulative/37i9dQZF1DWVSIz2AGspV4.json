@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "Ahwak Ya Qamaran",
+        "url": "https://open.spotify.com/album/13DguvFOkmXuftPjqXeYO0"
+      },
+      "artists": [
+        {
+          "name": "Mustafa Al Rabeii",
+          "url": "https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Ahwak Ya Qamaran",
+      "url": "https://open.spotify.com/track/1C9N2GXZzz53hTtDojUtTc"
+    },
+    {
+      "album": {
         "name": "Akh Minh Kalbi",
         "url": "https://open.spotify.com/album/0jLnrjSo3NZqhF168RzD9j"
       },

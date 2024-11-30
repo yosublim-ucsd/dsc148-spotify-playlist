@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,439 likes - 100 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,476 likes - 100 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeoRwG5yUKg.md) - [plain]
 | 28 | [Our Love](https://open.spotify.com/track/5cfGJHxNcS1S2qyZj9xH6z) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 4:11 |
 | 29 | [More Than You Needed](https://open.spotify.com/track/65rDtap9t8DlT1Z8Pxr4QJ) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Rooftops and Satellites](https://open.spotify.com/album/6NqHuD7AFDh4p0pcPjTp84) | 3:48 |
 | 30 | [Last Surrender](https://open.spotify.com/track/1eOt3lInNLAvkf7xE7RFWi) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Honest Man](https://open.spotify.com/album/4syDqjDLtyOd7T70QkUQ60) | 3:17 |
-| 31 | [Broke Down Dream](https://open.spotify.com/track/5e6Il1kDEI0FfFjB6oWDKo) | [Garrett Lebeau](https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 6:00 |
+| 31 | [Broke Down Dream](https://open.spotify.com/track/5e6Il1kDEI0FfFjB6oWDKo) | [Garrett LeBeau](https://open.spotify.com/artist/5qzKP2802dITzjsTbj2zWr) | [Rise to the Grind](https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9) | 6:00 |
 | 32 | [Pictures on the Wall](https://open.spotify.com/track/3L5gTxFwf6T2ZeXx9n0bik) | [The Soul Jacket](https://open.spotify.com/artist/74gz5JP3mfqLeMBeCwYf9S) | [Black Cotton Limited](https://open.spotify.com/album/4eV2e8k894bwbeX2lJMYgb) | 4:17 |
 | 33 | [All Around You](https://open.spotify.com/track/6Kt4ZcgT2vCUq7QezTTcES) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:35 |
 | 34 | [How Many Tears](https://open.spotify.com/track/3d8ZtqYPchg3dY05IpPNIM) | [Quinn Sullivan](https://open.spotify.com/artist/3RBOewcm7cYn3IhFBxkQ2J) | [How Many Tears](https://open.spotify.com/album/3PP99enC9m8vnlM5FJST6X) | 3:32 |

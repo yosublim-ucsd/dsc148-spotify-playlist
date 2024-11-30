@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 170769,
+  "num_followers": 170786,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "25 Greatest Hits",
-        "url": "https://open.spotify.com/album/7cJP8OI40VbrT0yuVKPtNL"
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
       "artists": [
         {
-          "name": "Frankie Lymon & The Teenagers",
-          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 138973,
-      "name": "Why Do Fools Fall in Love",
-      "url": "https://open.spotify.com/track/6vL5Kx5LmZzcL12DZl2OiY"
+      "duration_ms": 181906,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+        "name": "25 Greatest Hits",
+        "url": "https://open.spotify.com/album/7cJP8OI40VbrT0yuVKPtNL"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Frankie Lymon & The Teenagers",
+          "url": "https://open.spotify.com/artist/40Zt6u0Ig5vXtrq0htgqvt"
         }
       ],
-      "duration_ms": 181906,
-      "name": "Learnin' The Blues",
-      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+      "duration_ms": 138973,
+      "name": "Why Do Fools Fall in Love",
+      "url": "https://open.spotify.com/track/6vL5Kx5LmZzcL12DZl2OiY"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Born to Late",
-        "url": "https://open.spotify.com/album/5TKfp7L2xIT6hRMaBlHM5y"
-      },
-      "artists": [
-        {
-          "name": "The Poni-Tails",
-          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Born Too Late",
-      "url": "https://open.spotify.com/track/3JebzygT2LJdcS24gfZ6ti"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Frank Sinatra: The Complete Capitol Singles Collection",
         "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 177906,
       "name": "(Love Is) The Tender Trap",
       "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Born to Late",
+        "url": "https://open.spotify.com/album/5TKfp7L2xIT6hRMaBlHM5y"
+      },
+      "artists": [
+        {
+          "name": "The Poni-Tails",
+          "url": "https://open.spotify.com/artist/2NbPfkf3TYSRoJ64inF0AN"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Born Too Late",
+      "url": "https://open.spotify.com/track/3JebzygT2LJdcS24gfZ6ti"
     },
     {
       "added_at": "2023-10-17 16:18:55",

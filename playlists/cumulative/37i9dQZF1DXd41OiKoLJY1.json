@@ -4695,6 +4695,24 @@
     },
     {
       "album": {
+        "name": "Ayaw'g Palayo",
+        "url": "https://open.spotify.com/album/1jdb0BObbaJrkXzmcTzZ3p"
+      },
+      "artists": [
+        {
+          "name": "Garvie",
+          "url": "https://open.spotify.com/artist/53mnA1nPUvbYo8FN0eUk0I"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246856,
+      "name": "Ayaw'g Palayo",
+      "url": "https://open.spotify.com/track/114XwGUAloS3MwgmKPXOSD"
+    },
+    {
+      "album": {
         "name": "Ayaw'g Undang",
         "url": "https://open.spotify.com/album/2fSOPFXih7EDT5fUTtPT4A"
       },
@@ -20116,6 +20134,28 @@
       "duration_ms": 184077,
       "name": "High End",
       "url": "https://open.spotify.com/track/4Zhnj105BtPEYvtutbtWZm"
+    },
+    {
+      "album": {
+        "name": "High na High",
+        "url": "https://open.spotify.com/album/1rUkPYTmyG1dkZuE418Vlp"
+      },
+      "artists": [
+        {
+          "name": "Ratschild",
+          "url": "https://open.spotify.com/artist/0ViLIKDpPd7LyOV55DC5oN"
+        },
+        {
+          "name": "Gerald Bato",
+          "url": "https://open.spotify.com/artist/0uv1lbPGWuwq1sgRbyYBcY"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248750,
+      "name": "High na High",
+      "url": "https://open.spotify.com/track/4PyNsBgJBLNVCH5UyIvkmS"
     },
     {
       "album": {

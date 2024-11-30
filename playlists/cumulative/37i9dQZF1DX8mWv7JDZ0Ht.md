@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve / Foto: Anavitória
+> Novidades e hits do pop nacional pra te deixar mais leve / Foto: Luthuly
 
-748 songs - 1 day 13 hr 19 min
+750 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Defeito De Fábrica](https://open.spotify.com/track/5056Bz31L4FjX468aNTpbi) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Defeito De Fábrica](https://open.spotify.com/album/5lZc6lIMSx15e8bTc55Qhv) | 2:26 | 2022-10-28 | 2023-01-28 |
 | [Degradê](https://open.spotify.com/track/5M4a6fcSk12Sy8ylHoaOPI) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Degradê](https://open.spotify.com/album/3QMNbZzZcpkPgm68PnKfHt) | 2:48 | 2022-06-14 | 2023-01-21 |
 | [Deixa Acender](https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn) | [Barro](https://open.spotify.com/artist/49Ymz7hkosffibefJioODe), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Deixa Acender](https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8) | 2:35 | 2023-12-01 | 2024-08-10 |
+| [Deixa Eu Gostar de Você](https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31) | [5 a Seco](https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f), [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Sentido](https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0) | 3:02 | 2024-11-29 |  |
 | [deixa eu me perder](https://open.spotify.com/track/47byIEQkbY3In4DyTYmOw4) | [Chiara Maria](https://open.spotify.com/artist/01Au55ye8oQnx5MSOkuzQ4) | [deixa eu me perder](https://open.spotify.com/album/56H5OItpiWEjREhIsSpy8l) | 2:25 | 2023-07-28 | 2023-12-16 |
 | [Deixa Florescer](https://open.spotify.com/track/3jcoj5dT14jtXSR2HI7rZS) | [ALÊ](https://open.spotify.com/artist/6zdHDBmiRPPdRqiv5MacRF) | [Deixa Florescer](https://open.spotify.com/album/2DReGxGd2EVlR4x2wE56gO) | 2:51 | 2024-10-25 |  |
 | [deixa fluir](https://open.spotify.com/track/6YjjYEAcnlzZavu53uTpDw) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [deixa fluir](https://open.spotify.com/album/6ZoUtuq1rEXklKLr2DBUez) | 2:51 | 2022-05-13 | 2022-12-03 |
@@ -499,7 +500,7 @@
 | [pequena](https://open.spotify.com/track/2wx2CPCAjGOnYH18MVbcb1) | [Big Up](https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [pequena](https://open.spotify.com/album/6Jf6qOxMnq36H3s9HdHgOJ) | 2:42 | 2022-05-13 | 2023-01-21 |
 | [perfeita](https://open.spotify.com/track/1lRFP08SSrTCdmjfRK40t1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [perfeita](https://open.spotify.com/album/0p5iUTyG5QmUWL0e2LD0qO) | 3:15 | 2023-06-23 | 2023-08-05 |
 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 | 2023-09-01 | 2024-02-03 |
-| [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 | 2024-09-27 |  |
+| [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 | 2024-09-27 | 2024-11-30 |
 | [Pique Djavan \- Ao Vivo](https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:46 | 2024-02-23 | 2024-05-07 |
 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 | 2023-08-25 |  |
 | [PLENA TERÇA FEIRA](https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86) | [Gabriel Coelho](https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx), [Julie Ramos](https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV) | [PLENA TERÇA FEIRA](https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3) | 3:07 | 2023-09-22 | 2024-09-06 |
@@ -542,6 +543,7 @@
 | [que se fosse](https://open.spotify.com/track/6JcDYTSeUb8TIWrmhRXk8K) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn) | [que se fosse](https://open.spotify.com/album/7HHVpVi9XkQszG5gYukU9Z) | 2:19 | 2023-08-22 | 2024-05-07 |
 | [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 | 2024-07-05 | 2024-08-17 |
 | [Quem Vai Ser?](https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m) | [Marília Lopes](https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Quem Vai Ser?](https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz) | 2:37 | 2024-11-22 |  |
+| [Quero Acorda Com Você](https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS) | [Sentido](https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL) | 3:02 | 2024-11-29 |  |
 | [Quero Bem Mais](https://open.spotify.com/track/3lLiOQwcKrnus49E9CuBNh) | [Luana Berti](https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T), [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Quero Bem Mais](https://open.spotify.com/album/67c6vSA5eLN2Q98gIuzdNL) | 3:17 | 2023-11-24 | 2024-03-23 |
 | [Quero te dar meu coração](https://open.spotify.com/track/45CeAFE1Y3uVQanrbcz6kh) | [uma Póvoas](https://open.spotify.com/artist/1fP1a8QtAWodK9wm1fIBmx) | [Coração/Movimento](https://open.spotify.com/album/7vcOFM1SoQ3cDiZBS2ME1T) | 3:07 | 2023-11-17 | 2023-12-16 |
 | [Quero Te Ver Pra Sempre](https://open.spotify.com/track/43rrFeyyNkyiVN7iFP5SA1) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [Quero Te Ver Pra Sempre](https://open.spotify.com/album/7z989gKVwhWO7UKTU5G0Bk) | 3:19 | 2023-08-04 | 2023-09-02 |
@@ -754,7 +756,7 @@
 | [É Sobre Isso](https://open.spotify.com/track/5LOOYxG5wUXiRZgQY93rTl) | [Ferri](https://open.spotify.com/artist/3gbvTAyGLFauiTO7266GKR) | [É Sobre Isso](https://open.spotify.com/album/0ibxqoNFQB2cm0tTZ6udFs) | 3:15 | 2023-12-22 | 2024-03-16 |
 | [Óleo de Coco](https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z) | [Guilé](https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl) | [Óleo de Coco](https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr) | 2:58 | 2023-01-27 | 2023-06-17 |
 | [Ô Sorte](https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Urbano](https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A) | 2:09 | 2024-07-05 | 2024-11-16 |
-| [último romântico](https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinho](https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9) | 3:03 | 2024-10-11 |  |
+| [último romântico](https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Vinho](https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9) | 3:03 | 2024-10-11 | 2024-11-30 |
 | [Única Opção](https://open.spotify.com/track/5rpodz6JCSBZi07wn3OxRU) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR), [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Única Opção](https://open.spotify.com/album/3vB743HwA5YsvyRLfnhjSH) | 2:10 | 2024-05-24 | 2024-08-10 |
 
 \*This playlist was first scraped on 2022-05-27. Prior content cannot be recovered.

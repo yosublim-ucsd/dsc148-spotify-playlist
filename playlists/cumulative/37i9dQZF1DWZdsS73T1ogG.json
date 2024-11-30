@@ -471,6 +471,28 @@
     },
     {
       "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
+    },
+    {
+      "album": {
         "name": "3 Deseos Remix (with Dalex & Eix, feat. Alejo)",
         "url": "https://open.spotify.com/album/0TYwoAMqtjVpAsCFXQBgFK"
       },
@@ -1710,7 +1732,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 193411,
       "name": "AMIGA CON BENEFICIOS",
       "url": "https://open.spotify.com/track/0Nd9sV9FrxZoDUwiy18Mxs"
@@ -2624,6 +2646,50 @@
       "duration_ms": 132000,
       "name": "Avemar\u00eda",
       "url": "https://open.spotify.com/track/4MUtM58geV6B2NGv8ckspv"
+    },
+    {
+      "album": {
+        "name": "EstapasandoBB",
+        "url": "https://open.spotify.com/album/6tx27XShG9BVF86uDpglZK"
+      },
+      "artists": [
+        {
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "GIO",
+          "url": "https://open.spotify.com/artist/1DzHYzxnMTpElJgNoq1bEH"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194317,
+      "name": "AwA De COCO",
+      "url": "https://open.spotify.com/track/5M1Fyj2vTvbeV0RQys44up"
+    },
+    {
+      "album": {
+        "name": "Ay Mamasita",
+        "url": "https://open.spotify.com/album/6YUB8mVHkQodN4g0HV9R3V"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "Ay Mamasita",
+      "url": "https://open.spotify.com/track/2xPdYKH4tKDThf6p6sqLtD"
     },
     {
       "album": {
@@ -3715,6 +3781,24 @@
     },
     {
       "album": {
+        "name": "Bellaquita",
+        "url": "https://open.spotify.com/album/0PyVuQQANGdyTePV2OQBiR"
+      },
+      "artists": [
+        {
+          "name": "Anubiis",
+          "url": "https://open.spotify.com/artist/5X8Uu9qHN3KXLH2Fws87LB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158241,
+      "name": "Bellaquita",
+      "url": "https://open.spotify.com/track/55V0nkW4pfHz5CHdkNanje"
+    },
+    {
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -3980,6 +4064,40 @@
       "duration_ms": 168000,
       "name": "Bien Activ\u00e1",
       "url": "https://open.spotify.com/track/4ifdRYvEu2iyrQ9P7PvN4V"
+    },
+    {
+      "album": {
+        "name": "Bien Happy (feat. Three Seven Music & The Chosen Few)",
+        "url": "https://open.spotify.com/album/2dVkGcbtt7ex8WZxlXuPlD"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "Three Seven Music",
+          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
+        },
+        {
+          "name": "The Chosen Few",
+          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141932,
+      "name": "Bien Happy (feat. Three Seven Music & The Chosen Few)",
+      "url": "https://open.spotify.com/track/7l9RFzjP3Ty7hNmX8NJ4Ja"
     },
     {
       "album": {
@@ -4768,7 +4886,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 164307,
       "name": "Can Am",
       "url": "https://open.spotify.com/track/7MK6edE9MWa7OVPFy0tbcM"
@@ -4922,6 +5040,36 @@
       "duration_ms": 187920,
       "name": "CARBON VRMOR",
       "url": "https://open.spotify.com/track/5pQed9UAd4DqG6cWUQegGm"
+    },
+    {
+      "album": {
+        "name": "Carita De Cereal (feat. Smi beat)",
+        "url": "https://open.spotify.com/album/5eR0e1OABflYNdsQuIuSb0"
+      },
+      "artists": [
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Smi beat",
+          "url": "https://open.spotify.com/artist/35S2mX5wjZLtlimCVwJ3dj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "Carita De Cereal (feat. Smi beat)",
+      "url": "https://open.spotify.com/track/0dffJMYSncm5MnwxGbB7QW"
     },
     {
       "album": {
@@ -5799,6 +5947,32 @@
     },
     {
       "album": {
+        "name": "Comerte a Besos (Remix)",
+        "url": "https://open.spotify.com/album/46F1esWc3cNxz3aYveumej"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "elkno",
+          "url": "https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240916,
+      "name": "Comerte a Besos - Remix",
+      "url": "https://open.spotify.com/track/5jsDh2866hUFi7Dhks4Dvn"
+    },
+    {
+      "album": {
         "name": "Como Antes",
         "url": "https://open.spotify.com/album/2QkUssVSrsngGCtJtuGRjy"
       },
@@ -6378,7 +6552,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 280481,
       "name": "Cosa Nostra - Remix",
       "url": "https://open.spotify.com/track/6K6oUY5DHF58XqiRTc9gOR"
@@ -7109,6 +7283,24 @@
     },
     {
       "album": {
+        "name": "De Mi & De Ti",
+        "url": "https://open.spotify.com/album/6Vd3Dpz5CguHUEpc28Z7vj"
+      },
+      "artists": [
+        {
+          "name": "Yari M",
+          "url": "https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "De Mi & De Ti",
+      "url": "https://open.spotify.com/track/56ocJEytMVUTmX7asOQeuW"
+    },
+    {
+      "album": {
         "name": "De Pari",
         "url": "https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj"
       },
@@ -7558,7 +7750,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 177600,
       "name": "Despu\u00e9s De La 1",
       "url": "https://open.spotify.com/track/6PhRhocBXP4y7NpciGmzra"
@@ -7678,6 +7870,28 @@
       "duration_ms": 232222,
       "name": "Diablo, Qu\u00e9 Chimba",
       "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
+    },
+    {
+      "album": {
+        "name": "Diablona",
+        "url": "https://open.spotify.com/album/3ZrT0T7yLr8eM0gL7m1hS2"
+      },
+      "artists": [
+        {
+          "name": "SorayaMusic",
+          "url": "https://open.spotify.com/artist/1rP4jUaK4DSvYQtxswlJg8"
+        },
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145133,
+      "name": "Diablona",
+      "url": "https://open.spotify.com/track/3Ti2hDRbiFu2Z2TinlYlI7"
     },
     {
       "album": {
@@ -7908,7 +8122,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 176720,
       "name": "Doblexx\u00f3",
       "url": "https://open.spotify.com/track/1yqagVoTcE3zoGenQTbWI2"
@@ -11929,6 +12143,36 @@
     },
     {
       "album": {
+        "name": "GUERRA CIVIL (feat. Full Harmony)",
+        "url": "https://open.spotify.com/album/6ebkDlEmRKVirwcK8ArosF"
+      },
+      "artists": [
+        {
+          "name": "Yannc",
+          "url": "https://open.spotify.com/artist/3rqKgkODmiyDdimpz5D3y1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Chalko",
+          "url": "https://open.spotify.com/artist/7KqZWDfO2BUR5ijW9CBWPe"
+        },
+        {
+          "name": "Full Harmony",
+          "url": "https://open.spotify.com/artist/5lCxUN0t4niIy30texHRxo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213619,
+      "name": "GUERRA CIVIL (feat. Full Harmony)",
+      "url": "https://open.spotify.com/track/2kX4W44mOsPp2XBKEyusFP"
+    },
+    {
+      "album": {
         "name": "GUSTOSO",
         "url": "https://open.spotify.com/album/5bjaZJ1SIDCQXdQKbUt20W"
       },
@@ -11980,7 +12224,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 154969,
       "name": "HABLAME CLARO",
       "url": "https://open.spotify.com/track/6ZCfGA0bPM50DPmcSlJKGY"
@@ -13916,7 +14160,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 210223,
       "name": "La Cyber",
       "url": "https://open.spotify.com/track/3jsp9bCBAVIWdOvKsh40Am"
@@ -15609,6 +15853,24 @@
     },
     {
       "album": {
+        "name": "LUCIFER",
+        "url": "https://open.spotify.com/album/4mW4ef2qVsc2sR75G0Zg6e"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582001,
+      "name": "LUCIFER",
+      "url": "https://open.spotify.com/track/5je8fJ6efwRi7o15TGhBQF"
+    },
+    {
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/7qEVfrwtDrbD6vsOJ2i4LD"
       },
@@ -16316,7 +16578,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
@@ -16504,7 +16766,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 188936,
       "name": "Marquesa",
       "url": "https://open.spotify.com/track/5fgBtNJLOwvjJsc410ZTkq"
@@ -16650,6 +16912,36 @@
       "duration_ms": 182983,
       "name": "Matense Por La Corona",
       "url": "https://open.spotify.com/track/0Aiz2Y6YlCLMiEAavlbzFe"
+    },
+    {
+      "album": {
+        "name": "Maulla (Remix)",
+        "url": "https://open.spotify.com/album/1jxLd9OPJYot5WZfeXN1VE"
+      },
+      "artists": [
+        {
+          "name": "D\u00cdMELO CORI",
+          "url": "https://open.spotify.com/artist/627KF7g5NPEI9yPHBVrRq1"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Maury",
+          "url": "https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240507,
+      "name": "Maulla - Remix",
+      "url": "https://open.spotify.com/track/7AhP0041UNUoVcelBOw8MB"
     },
     {
       "album": {
@@ -17004,7 +17296,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 234077,
       "name": "Mejores Jordans",
       "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"
@@ -17944,6 +18236,28 @@
       "duration_ms": 211200,
       "name": "MMM",
       "url": "https://open.spotify.com/track/2lv9KJdfFVZN9voT6zwSEj"
+    },
+    {
+      "album": {
+        "name": "MOB TIES",
+        "url": "https://open.spotify.com/album/3vAqtluc704PZZ5vSmu9h4"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        },
+        {
+          "name": "SOMBRA PR",
+          "url": "https://open.spotify.com/artist/3Z4dagwEl134FhOVlYvjt5"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224119,
+      "name": "MOB TIES",
+      "url": "https://open.spotify.com/track/192i7BIIY2LbnCrmwAXSbp"
     },
     {
       "album": {
@@ -21013,6 +21327,28 @@
     },
     {
       "album": {
+        "name": "PACTO",
+        "url": "https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211062,
+      "name": "PACTO",
+      "url": "https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4"
+    },
+    {
+      "album": {
         "name": "Emociones 1.5",
         "url": "https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr"
       },
@@ -22341,6 +22677,24 @@
     },
     {
       "album": {
+        "name": "Tranki, Todo Pasa",
+        "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185700,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx"
+    },
+    {
+      "album": {
         "name": "Piedritas En Los Dientes",
         "url": "https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A"
       },
@@ -22900,6 +23254,28 @@
       "duration_ms": 153721,
       "name": "Potra",
       "url": "https://open.spotify.com/track/0kbJDGleMNNv4vFk74duqH"
+    },
+    {
+      "album": {
+        "name": "LOS 9 DE FERXXO Y SKY ROMPIENDO",
+        "url": "https://open.spotify.com/album/5L3PAo50R75rOZLlEvokZZ"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "PPCP",
+      "url": "https://open.spotify.com/track/2HxZAed6QC9yJZuyaJJSz0"
     },
     {
       "album": {
@@ -24086,7 +24462,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 195529,
       "name": "Quisiera",
       "url": "https://open.spotify.com/track/4iWuRqKMXizGoUmLJeG4i7"
@@ -24401,6 +24777,40 @@
     },
     {
       "album": {
+        "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
+        "url": "https://open.spotify.com/album/5QhzMGj6w23BP4CU8asn8Q"
+      },
+      "artists": [
+        {
+          "name": "Soyneel",
+          "url": "https://open.spotify.com/artist/1XwiLNR93MJwbV5Akl9lyQ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+        },
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179093,
+      "name": "RD 2 (feat. Alejandro Armes & DJ Nelson)",
+      "url": "https://open.spotify.com/track/163giDjTwAwnIb9ME3zZl4"
+    },
+    {
+      "album": {
         "name": "Reaction",
         "url": "https://open.spotify.com/album/00NYRqVAD0DNrWIBwNYB48"
       },
@@ -24474,7 +24884,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 175523,
       "name": "REGGAETON MALANDRO",
       "url": "https://open.spotify.com/track/7hSToHECYZ08xzyVQ6gGJy"
@@ -25622,7 +26032,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 247468,
       "name": "SERIO CON ESE Q",
       "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
@@ -27694,7 +28104,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 120326,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/5g9MCDXqfBPdA2j0PCT9Pp"
@@ -29558,7 +29968,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 121200,
       "name": "TU TA RICA",
       "url": "https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8"
@@ -31181,6 +31591,28 @@
     },
     {
       "album": {
+        "name": "Whisky & Marihuana",
+        "url": "https://open.spotify.com/album/35zj1AVgNIuzhmyDQ4yX9s"
+      },
+      "artists": [
+        {
+          "name": "EL VALLE DE LOS REYES",
+          "url": "https://open.spotify.com/artist/4Dzk3OGILq6bUpGc5L7qdQ"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203875,
+      "name": "Whisky & Marihuana",
+      "url": "https://open.spotify.com/track/3rWLsCRyPp2XZBIqL14Sox"
+    },
+    {
+      "album": {
         "name": "Transition",
         "url": "https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX"
       },
@@ -31336,7 +31768,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 390545,
       "name": "WYA REMIX BLACK AND YELLOW (feat. iZaak & Pirlo)",
       "url": "https://open.spotify.com/track/0W2pF7zyj9dwZVK1RoUyjh"
@@ -31752,7 +32184,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 243225,
       "name": "yasuni Pt.2",
       "url": "https://open.spotify.com/track/4HvFBMoE1XuUSguhw9I8b9"

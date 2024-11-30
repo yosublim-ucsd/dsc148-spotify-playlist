@@ -2,9 +2,9 @@
 
 ### [Flow al Sur](https://open.spotify.com/playlist/37i9dQZF1DX6JcLkkShqRw)
 
-> Flow sudamericano con Bhavi & Polimá Westcoast.
+> Flow sudamericano con Renzo ED & elaggume.
 
-1,507 songs - 3 day 4 hr 27 min
+1,508 songs - 3 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -761,10 +761,11 @@
 | [Lucha](https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Lucha](https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6) | 3:26 | 2022-02-04 | 2022-04-04 |
 | [Lucifer](https://open.spotify.com/track/3ZeipuOKrXtTUaBotHq8HU) | [Klave](https://open.spotify.com/artist/4hw9WaVkOzRQN6XaUqULv1) | [Lucifer](https://open.spotify.com/album/3MfEV4h79HOQh185PO1fZk) | 2:33 | 2021-12-27 | 2022-07-02 |
 | [Lucifer](https://open.spotify.com/track/6mFLA8Tq4MlnhyUGV7Tf4I) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Lucifer](https://open.spotify.com/album/3ID0TDMh101kcidA9TrwWr) | 2:54 | 2022-05-20 | 2022-07-28 |
-| [LUNA](https://open.spotify.com/track/4iiLd7yOsdGLdTpcxNwg7c) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [LUNA](https://open.spotify.com/album/18QS72jeTdZ6UJpociRxCa) | 2:09 | 2024-11-15 |  |
+| [LUNA](https://open.spotify.com/track/4iiLd7yOsdGLdTpcxNwg7c) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Ivo Wosco](https://open.spotify.com/artist/3QArVFjHI7TaOuEgyjcoYe), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [LUNA](https://open.spotify.com/album/18QS72jeTdZ6UJpociRxCa) | 2:09 | 2024-11-15 |  |
 | [LUNA DILE](https://open.spotify.com/track/7ttbb6KZNMhkCw4PuASjxz) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Moustache](https://open.spotify.com/artist/2xJX5DFnSlKjOrO1lOtL6B) | [LUNA DILE](https://open.spotify.com/album/1yz795Mk0g1ntVvbN6zpwg) | 2:47 | 2024-07-12 | 2024-08-31 |
 | [LUV](https://open.spotify.com/track/5mlHkFqYudU2d4LFamZp95) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [LO MAS XULO DE TU INSTA](https://open.spotify.com/album/3R0wKL7ZkgsGXUNrsG2X0v) | 2:43 | 2022-02-25 | 2022-07-07 |
 | [LÁSER](https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [LÁSER](https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC) | 2:39 | 2024-02-16 | 2024-02-24 |
+| [m1llonario](https://open.spotify.com/track/3d1G5cIuXDITJKVDz8BZqu) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB) | [m1llonario](https://open.spotify.com/album/0h1KabxCKY7tfrxBclwUwt) | 2:06 | 2024-11-29 |  |
 | [MA DIAMANTE](https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [MA DIAMANTE](https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw) | 2:28 | 2024-03-22 | 2024-07-13 |
 | [MADISON](https://open.spotify.com/track/4nW5qMepEJOkZONWTsrc7w) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Lil Pani](https://open.spotify.com/artist/7JOPAChLMSwpi4LSZBw000) | [MADISON](https://open.spotify.com/album/0B37qHA5Q9O94AtUqD2HWS) | 4:10 | 2024-04-26 | 2024-07-06 |
 | [Madrid](https://open.spotify.com/track/0IexmD3A6JSdhVTFGbu1NZ) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Madrid](https://open.spotify.com/album/5rEutOpWVW9KdiVkPJL5QH) | 2:38 | 2022-03-04 | 2022-03-30 |

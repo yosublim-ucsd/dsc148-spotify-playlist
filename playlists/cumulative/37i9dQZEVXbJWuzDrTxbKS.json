@@ -4996,7 +4996,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 142040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/5iTtGKvrMLSvm1Q5sCPdoH"
@@ -6710,7 +6710,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
@@ -9358,7 +9358,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 131240,
       "name": "dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",
       "url": "https://open.spotify.com/track/4K1Pg0FLno1ltzX3jeqT83"
@@ -22224,7 +22224,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 233173,
       "name": "man at the garden",
       "url": "https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz"
@@ -25346,7 +25346,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 217333,
       "name": "NEW DROP",
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
@@ -31976,7 +31976,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 192750,
       "name": "Sav\u0101 Josl\u0101",
       "url": "https://open.spotify.com/track/4mrSiHGCw7Dwt0gV8q6Zfm"
@@ -37194,7 +37194,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -38262,6 +38262,28 @@
       "duration_ms": 207566,
       "name": "Tosts",
       "url": "https://open.spotify.com/track/4E69NE4KkoxsBnpslFlHzB"
+    },
+    {
+      "album": {
+        "name": "Touch Some Grass",
+        "url": "https://open.spotify.com/album/5OAxcXl2679ruZlVNN8UXI"
+      },
+      "artists": [
+        {
+          "name": "Daddy Sas",
+          "url": "https://open.spotify.com/artist/3vbGBNqh6gEF12hc7MJNZN"
+        },
+        {
+          "name": "SolJakey",
+          "url": "https://open.spotify.com/artist/61g62q0VVjvh0Innctu4xq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183455,
+      "name": "Touch Some Grass",
+      "url": "https://open.spotify.com/track/5bcfb6rhZD1aUzOzNJaeof"
     },
     {
       "album": {

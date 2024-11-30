@@ -3414,7 +3414,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 259105,
       "name": "Estelar",
       "url": "https://open.spotify.com/track/4DeOH25GSbeM7GolnCMerD"
@@ -3642,7 +3642,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 188066,
       "name": "fLA$H (feat. KHEA)",
       "url": "https://open.spotify.com/track/4sl0Z8wtMiQa5NuMIIVk36"
@@ -8013,6 +8013,28 @@
     },
     {
       "album": {
+        "name": "PACTO",
+        "url": "https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211062,
+      "name": "PACTO",
+      "url": "https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4"
+    },
+    {
+      "album": {
         "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
         "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
       },
@@ -8928,6 +8950,28 @@
       "duration_ms": 189473,
       "name": "Quiere Que Llame",
       "url": "https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU"
+    },
+    {
+      "album": {
+        "name": "CULTO",
+        "url": "https://open.spotify.com/album/1tcNhqApgkYeWauEew4d4Y"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "R.I.C.O",
+      "url": "https://open.spotify.com/track/5zMwqE48oeMWUOzdmSd6Od"
     },
     {
       "album": {

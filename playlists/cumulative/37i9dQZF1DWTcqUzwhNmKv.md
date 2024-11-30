@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Killswitch Engage on top of today's best Metal playlist.
+> Memphis May Fire on top of today's best Metal playlist.
 
-815 songs - 2 day 5 hr 30 min
+816 songs - 2 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Finding Euphoria](https://open.spotify.com/track/5ria869mOXYHsesQg7QjoF) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [a piece of me i never let you find.](https://open.spotify.com/album/1yh863utXtpMuPlIbzM2Uh) | 3:35 | 2024-11-01 |  |
 | [Firewake](https://open.spotify.com/track/09J9qdc3gOR14WF3mvEHoX) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Firewake](https://open.spotify.com/album/4rf0rEWBkexEneZBSxZDuO) | 3:41 | 2023-01-13 | 2023-03-18 |
 | [Flesh And Stone](https://open.spotify.com/track/3wyVcK3etnz24JX8K62b6O) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Flesh And Stone](https://open.spotify.com/album/51oXFQ9EJjYzdS09zCxmjj) | 4:10 | 2022-05-13 | 2022-06-07 |
+| [Flipping](https://open.spotify.com/track/52lsAgUlk6DXQVe43GHw04) | [CANDY](https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl) | [Flipping](https://open.spotify.com/album/5TTcBaOFDKrt7c0a3RFmbS) | 3:27 | 2024-11-29 |  |
 | [Flood](https://open.spotify.com/track/2N4qPl1Nuq1xVopkvJmf7m) | [Outrun the Fall](https://open.spotify.com/artist/6U70wG368rrDhQXmAfa4lP) | [Flood](https://open.spotify.com/album/5tUFQmv76ZpirBKax54jrw) | 3:09 | 2021-12-20 | 2022-03-18 |
 | [Floods of Triton](https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Floods of Triton](https://open.spotify.com/album/3Cyx76Qa9H1lFjOM7yRqSp) | 4:29 | 2024-09-13 |  |
 | [Foregone Pt\. 1](https://open.spotify.com/track/4GAE2sALmyF5ZvrxOEvloU) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 1](https://open.spotify.com/album/2EPDIXOWMkXpT5jTIi02SR) | 3:24 | 2022-10-21 | 2022-12-17 |
@@ -612,7 +613,7 @@
 | [Soldier On!](https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:54 | 2022-08-12 | 2022-09-03 |
 | [Some Of Us](https://open.spotify.com/track/45YoWKaH5JdbpwpfRRQsqS) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Some Of Us](https://open.spotify.com/album/1bnH6BatxymLa5sUq7e3qc) | 3:33 | 2023-10-20 | 2024-02-03 |
 | [Someone's Daughter](https://open.spotify.com/track/2ZGrOclH0r6CFvlVGNVUlO) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Someone's Daughter](https://open.spotify.com/album/43QTCpdlaIKgAVnCmaA0hh) | 4:17 | 2024-08-09 | 2024-09-14 |
-| [Something I'm Not](https://open.spotify.com/track/1uGjwm01UDtRWWACi6tQwd) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Who Are You When No One Is Watching?](https://open.spotify.com/album/5wrkIue3cXCux4doh1vEwM) | 3:25 | 2024-07-12 |  |
+| [Something I'm Not](https://open.spotify.com/track/1uGjwm01UDtRWWACi6tQwd) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Who Are You When No One Is Watching?](https://open.spotify.com/album/5wrkIue3cXCux4doh1vEwM) | 3:25 | 2024-07-12 | 2024-11-30 |
 | [Song of the Dusk](https://open.spotify.com/track/59KysmBtOw5YYLV2UzbXeO) | [Insomnium](https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS) | [Song of the Dusk](https://open.spotify.com/album/7G8frDmB5Nl7hNEvOHE3om) | 9:43 | 2023-09-08 | 2023-10-21 |
 | [SOS](https://open.spotify.com/track/43AG34Hsu3k5sSwGYOWpBP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [SOS](https://open.spotify.com/album/2oAnV3Zd5txIhmfUGX5fu2) | 3:39 | 2022-06-10 | 2022-08-06 |
 | [Soul Bleach](https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 3:31 | 2023-03-24 | 2023-12-02 |

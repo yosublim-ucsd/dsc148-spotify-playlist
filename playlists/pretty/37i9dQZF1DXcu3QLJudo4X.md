@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,015 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,095 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 53 | [Five Long Years](https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w) | 4:47 |
 | 54 | [See See Rider Blues](https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G) | [Bea Booze](https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk) | [Country Blues 101](https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ) | 3:09 |
 | 55 | [Born Under A Bad Sign](https://open.spotify.com/track/2izaaCVI9F3B6d4CYggKsR) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa) | 2:47 |
-| 56 | [Every Day I Have the Blues](https://open.spotify.com/track/0zPqP1Qe2FNrUU47UHZISB) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' the Blues](https://open.spotify.com/album/3Rpe3I4llBIeOxsmREkmXx) | 2:49 |
-| 57 | [I Pity the Fool](https://open.spotify.com/track/6V6UMhPC3fN9AMCNGbz9XC) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Blues Masters: I Pity the Fool](https://open.spotify.com/album/0368Em9mbirVITT1NBrtNl) | 2:43 |
+| 56 | [I Pity the Fool](https://open.spotify.com/track/6V6UMhPC3fN9AMCNGbz9XC) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Blues Masters: I Pity the Fool](https://open.spotify.com/album/0368Em9mbirVITT1NBrtNl) | 2:43 |
+| 57 | [Every Day I Have the Blues](https://open.spotify.com/track/0zPqP1Qe2FNrUU47UHZISB) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Singin' the Blues](https://open.spotify.com/album/3Rpe3I4llBIeOxsmREkmXx) | 2:49 |
 | 58 | [Kansas City](https://open.spotify.com/track/4nCNFxez6Iw58URUpzUX6K) | [Hank Ballard](https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB) | [Let 'em Roll](https://open.spotify.com/album/24mSar3n4H1r8HxLPm78uc) | 2:31 |
 
 Snapshot ID: `ZlyhCwAAAABcOnVFFAY4ZLjvTlnBciVk`

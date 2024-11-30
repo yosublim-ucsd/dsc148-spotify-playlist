@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Henri PFR",
-  "num_followers": 36668,
+  "num_followers": 36770,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0j18AAAAADyzvpq13NPsT9sBb436pg0",
+  "snapshot_id": "Z0l5YQAAAAANE3vKgfwBKdXNbShoVCzq",
   "tracks": [
     {
       "added_at": "2024-11-28 23:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB"
       },
@@ -350,6 +366,10 @@
         {
           "name": "Dinos",
           "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
       "duration_ms": 199000,
@@ -375,7 +395,7 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Elusive (Live with the New Choir)",
+        "name": "Elusive (Live with The New Choir)",
         "url": "https://open.spotify.com/album/27uQvTVwPdFNuRDpSass2Y"
       },
       "artists": [
@@ -389,7 +409,7 @@
         }
       ],
       "duration_ms": 261293,
-      "name": "Elusive - Live with the New Choir",
+      "name": "Elusive - Live with The New Choir",
       "url": "https://open.spotify.com/track/2Jn1phO38Lst3kkuaSGAza"
     },
     {
@@ -627,6 +647,22 @@
       "duration_ms": 155876,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/14g8BK83DN5XToeCwRbBbq"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Tranki, Todo Pasa",
+        "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 185700,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx"
     },
     {
       "added_at": "2024-11-28 23:00:00",

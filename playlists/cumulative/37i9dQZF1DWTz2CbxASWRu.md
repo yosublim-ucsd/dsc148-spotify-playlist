@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1937](https://open.spotify.com/track/4SofOdjBV9YLB5aILA1rNd) | [Bossacucanova](https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [1937](https://open.spotify.com/album/6ufTuKLi3v1p7WfAlh5Rkj) | 3:10 | 2024-03-08 |  |
-| [3 Mujeres \(Iború Iboya Ibosheshé\)](https://open.spotify.com/track/6DpElO9VXPqzbangTiVgcb) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [3 Mujeres \(Iború Iboya Ibosheshé\)](https://open.spotify.com/album/55vEX3cS7OhdPgcEom8hNB) | 6:45 | 2024-03-08 |  |
+| [3 Mujeres \(Iború Iboya Ibosheshé\)](https://open.spotify.com/track/6DpElO9VXPqzbangTiVgcb) | [ÌFÉ](https://open.spotify.com/artist/7hwZLbYVax5K8GvRSmRSOF) | [3 Mujeres \(Iború Iboya Ibosheshé\)](https://open.spotify.com/album/55vEX3cS7OhdPgcEom8hNB) | 6:45 | 2024-03-08 |  |
 | [A Felicidade](https://open.spotify.com/track/5IdwcJPsvxOrr5le9z7NuZ) | [Trio Amazonia](https://open.spotify.com/artist/6AEm8Y0HpqCttIUfdfV04r) | [Trio Amazonia](https://open.spotify.com/album/0otw61lTdvOKY3EjXJ3yuA) | 5:07 | 2023-07-10 |  |
 | [A Minha Menina](https://open.spotify.com/track/3NefwRYI7GuLkajzHoRVRf) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Nuestras Canciones](https://open.spotify.com/album/3OVCObdYjGdtRr5t9mQfX3) | 3:17 | 2023-07-10 | 2024-04-19 |
 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 | 2023-07-10 | 2024-04-19 |

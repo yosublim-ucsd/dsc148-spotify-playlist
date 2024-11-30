@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 556056,
+  "num_followers": 556411,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "See Clear Now",
-        "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
-      },
-      "artists": [
-        {
-          "name": "Wiley",
-          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Wearing My Rolex - Radio Edit",
-      "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Human After All",
         "url": "https://open.spotify.com/album/2T7DdrOvsqOqU9bGTkjBYu"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 284280,
       "name": "Technologic",
       "url": "https://open.spotify.com/track/1iNeZGJsoC0D7ZyJTdIbDS"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "See Clear Now",
+        "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
+      },
+      "artists": [
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Wearing My Rolex - Radio Edit",
+      "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Some Things",
-        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
-      },
-      "artists": [
-        {
-          "name": "Lasgo",
-          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
-        }
-      ],
-      "duration_ms": 220973,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Wash My World",
         "url": "https://open.spotify.com/album/096zju7jYYYpvaimFPiPrT"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 200813,
       "name": "No Stress",
       "url": "https://open.spotify.com/track/3AMExQQyUUBr9e6WftMVCp"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Some Things",
+        "url": "https://open.spotify.com/album/7d5N4KB4rlO1kqcoyLdm3h"
+      },
+      "artists": [
+        {
+          "name": "Lasgo",
+          "url": "https://open.spotify.com/artist/25Kw8f1zcn9VtUk5Nl3qrp"
+        }
+      ],
+      "duration_ms": 220973,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3e9L9HiHKcfYLAga28Vmcf"
     },
     {
       "added_at": "2021-04-29 18:40:15",

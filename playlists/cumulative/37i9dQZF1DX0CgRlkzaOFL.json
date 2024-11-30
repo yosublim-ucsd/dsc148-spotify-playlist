@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Fullmetal Alchemist Brotherhood: Again (Piano Version)",
+        "url": "https://open.spotify.com/album/2UPND0Ms2UCFV7n569lCtv"
+      },
+      "artists": [
+        {
+          "name": "GabAnime",
+          "url": "https://open.spotify.com/artist/3CF7ubKw1qc5TY8avl0huW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141083,
+      "name": "Fullmetal Alchemist Brotherhood: Again - Piano Version",
+      "url": "https://open.spotify.com/track/4pWak7Q7iol2ahGJfj4BMJ"
+    },
+    {
+      "album": {
         "name": "Goldberg Variations - The Goldberg Variations, BWV 988",
         "url": "https://open.spotify.com/album/2qLOFrKy9CJjjQHfaDgw1R"
       },

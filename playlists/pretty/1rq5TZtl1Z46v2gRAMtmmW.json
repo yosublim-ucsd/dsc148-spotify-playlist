@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30482,
+  "num_followers": 30480,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPtWCfEeaacojKGhKITaKGcxdNw2YX",
+  "snapshot_id": "AAAPvawrs6xLr1bjOgMmmsx/ksQyY589",
   "tracks": [
     {
       "added_at": "2024-11-26 10:34:33",
@@ -27,22 +27,6 @@
       "duration_ms": 214187,
       "name": "Dance on the World",
       "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
-    },
-    {
-      "added_at": "2024-10-25 16:57:45",
-      "album": {
-        "name": "3FOR82_D3LUX3",
-        "url": "https://open.spotify.com/album/3S4N97ESS4YTCEEQsRluxZ"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        }
-      ],
-      "duration_ms": 164774,
-      "name": "HABITS",
-      "url": "https://open.spotify.com/track/5L8dahm9afHErsFh5vsiUo"
     },
     {
       "added_at": "2024-10-30 12:27:08",
@@ -99,6 +83,26 @@
       "duration_ms": 217392,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/4BzaG97pk6iZ5Wev2tKKgD"
+    },
+    {
+      "added_at": "2024-11-29 09:26:07",
+      "album": {
+        "name": "Anywhere, But Here With You",
+        "url": "https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        },
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/5wjBidqp8mV29FhdOVeXP8"
+        }
+      ],
+      "duration_ms": 263295,
+      "name": "I'd Rather Not Think About It",
+      "url": "https://open.spotify.com/track/2h0vIjcPUidp6xJjx7O0dl"
     },
     {
       "added_at": "2024-10-15 14:19:09",
@@ -219,26 +223,6 @@
       "duration_ms": 248415,
       "name": "Heaven In Your Arms",
       "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
-    },
-    {
-      "added_at": "2024-11-13 18:01:33",
-      "album": {
-        "name": "I Have Nothing More To Tell You",
-        "url": "https://open.spotify.com/album/4yjkFiQ9D26TqJkEJDHS7t"
-      },
-      "artists": [
-        {
-          "name": "Brian Nasty",
-          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
-        },
-        {
-          "name": "Dill",
-          "url": "https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld"
-        }
-      ],
-      "duration_ms": 177770,
-      "name": "I Have Nothing More To Tell You",
-      "url": "https://open.spotify.com/track/4Bp84QWTyAebE3lh2GhSAL"
     },
     {
       "added_at": "2024-10-11 11:07:13",
@@ -375,26 +359,6 @@
       "duration_ms": 99927,
       "name": "Sad Girl",
       "url": "https://open.spotify.com/track/5ilnOTkfSKaNDWu9Vmxh8Y"
-    },
-    {
-      "added_at": "2024-10-11 11:07:27",
-      "album": {
-        "name": "Here With You",
-        "url": "https://open.spotify.com/album/2pH84ArPiWnEspgkiBsTN6"
-      },
-      "artists": [
-        {
-          "name": "Brian Nasty",
-          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
-        },
-        {
-          "name": "Dill",
-          "url": "https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld"
-        }
-      ],
-      "duration_ms": 238609,
-      "name": "Here With You",
-      "url": "https://open.spotify.com/track/6tS0zfxJBZcHrgKpI9haWa"
     },
     {
       "added_at": "2024-09-18 16:20:13",
@@ -745,34 +709,6 @@
       "url": "https://open.spotify.com/track/6E8Mb30yWPFcT2Y3be4CjY"
     },
     {
-      "added_at": "2024-08-30 14:38:06",
-      "album": {
-        "name": "The Learning of Urgency Remixes",
-        "url": "https://open.spotify.com/album/4L8TNvxjxdOdwb79oBWupO"
-      },
-      "artists": [
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        },
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "BJOERN",
-          "url": "https://open.spotify.com/artist/7fNc8ClzpuYFYVhBOmD6aN"
-        },
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 271976,
-      "name": "Atlantis - Model Man Remix",
-      "url": "https://open.spotify.com/track/3Sgh2x5lun9pRrQAXa4mZT"
-    },
-    {
       "added_at": "2024-08-28 16:41:38",
       "album": {
         "name": "Until There\u2019s Nothing Left",
@@ -791,6 +727,42 @@
       "duration_ms": 230198,
       "name": "Until There's Nothing Left",
       "url": "https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV"
+    },
+    {
+      "added_at": "2024-11-29 09:26:03",
+      "album": {
+        "name": "Anywhere, But Here With You",
+        "url": "https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        },
+        {
+          "name": "Dill",
+          "url": "https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld"
+        }
+      ],
+      "duration_ms": 177770,
+      "name": "I Have Nothing More To Tell You",
+      "url": "https://open.spotify.com/track/0gTQdI5yY0beu8TCSNQ5ZW"
+    },
+    {
+      "added_at": "2024-11-29 09:27:43",
+      "album": {
+        "name": "Wonderful Christmastime",
+        "url": "https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Budi Doremi, Anggi Marito",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Diskoria, Laleilmanino, Neida",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 197118,
       "name": "Jangan Lupa Pulang - Live at Aquarius Studio",
       "url": "https://open.spotify.com/track/25UXwOFQbSagKZfFEq6tlt"
@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 217053,
       "name": "KECANDUAN",
       "url": "https://open.spotify.com/track/2WcUc9peWnlMZtwhQvNHUx"
@@ -2464,6 +2464,24 @@
       "duration_ms": 242090,
       "name": "Kupu - Kupu",
       "url": "https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z"
+    },
+    {
+      "album": {
+        "name": "La La Song",
+        "url": "https://open.spotify.com/album/2wYJtQmP4KLXjJ0pyuKVqY"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107628,
+      "name": "La La Song",
+      "url": "https://open.spotify.com/track/3wLSTqMIrKEeQdqU7FPFk2"
     },
     {
       "album": {
@@ -2981,6 +2999,28 @@
     },
     {
       "album": {
+        "name": "Memori Baik",
+        "url": "https://open.spotify.com/album/4pgRr87CxG6A3eVFv9I5fT"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        },
+        {
+          "name": "Aishameglio",
+          "url": "https://open.spotify.com/artist/3ma4EaXmEoQuzr5UNygA9Q"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263778,
+      "name": "Memori Baik",
+      "url": "https://open.spotify.com/track/78tfcz1aUQlCzd3lkr614r"
+    },
+    {
+      "album": {
         "name": "Menanti",
         "url": "https://open.spotify.com/album/0msDncEzlht2pXf7c1TMNq"
       },
@@ -3332,7 +3372,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 172501,
       "name": "Party In Bali (PIB) [feat. Jay Park]",
       "url": "https://open.spotify.com/track/5ZjPVDronecWpciN3fmf5D"
@@ -3426,6 +3466,28 @@
       "duration_ms": 245146,
       "name": "Pilihlah Aku - Live Studio Session",
       "url": "https://open.spotify.com/track/56X3L1Jr5JN6C4deTVOXNE"
+    },
+    {
+      "album": {
+        "name": "Puisi Kota",
+        "url": "https://open.spotify.com/album/7f4BxEMlnYYoNLTNcB6VIo"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        },
+        {
+          "name": "Iwan Fals",
+          "url": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290730,
+      "name": "Puisi Kota",
+      "url": "https://open.spotify.com/track/0KK7i1BGcY85UKgEjf6reS"
     },
     {
       "album": {
@@ -3588,6 +3650,54 @@
       "duration_ms": 247007,
       "name": "Sadrah",
       "url": "https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al"
+    },
+    {
+      "album": {
+        "name": "Sadrah - Acoustic",
+        "url": "https://open.spotify.com/album/5oGmWdzAvYfy1osN4PspuR"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        },
+        {
+          "name": "Meiska",
+          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246303,
+      "name": "Sadrah - Acoustic",
+      "url": "https://open.spotify.com/track/4IhQA4O98ulPLhsdW2GPPO"
+    },
+    {
+      "album": {
+        "name": "Sakura Abadi",
+        "url": "https://open.spotify.com/album/1CI0a2vCr0ecCMRWFFUOMB"
+      },
+      "artists": [
+        {
+          "name": "Diskoria",
+          "url": "https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG"
+        },
+        {
+          "name": "Laleilmanino",
+          "url": "https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm"
+        },
+        {
+          "name": "Neida",
+          "url": "https://open.spotify.com/artist/6pXFLqoZMjMxHMwrNuueoW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405150,
+      "name": "Sakura Abadi",
+      "url": "https://open.spotify.com/track/6q8rtXPPOTqTHbdDm5y2El"
     },
     {
       "album": {
@@ -4362,7 +4472,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 220185,
       "name": "sorry i phone you",
       "url": "https://open.spotify.com/track/5RE0AB2tC2XzzvV4UIgFR9"

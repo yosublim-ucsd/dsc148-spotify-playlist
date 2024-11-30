@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 156500,
       "name": "Aqua Serenade",
       "url": "https://open.spotify.com/track/2kivwM2GwYlf7vsA5WqaLQ"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 169550,
       "name": "Aquatic Whales",
       "url": "https://open.spotify.com/track/673YfOTf2UL8MQzamexc0z"
@@ -118,8 +118,8 @@
       },
       "artists": [
         {
-          "name": "Binaural reality",
-          "url": "https://open.spotify.com/artist/3KpX5Ou0IqshHEM41e3AOn"
+          "name": "Binaural Reality",
+          "url": "https://open.spotify.com/artist/32iOS2Ox6N0NgAhzbKNjIQ"
         }
       ],
       "date_added": "2022-07-08",

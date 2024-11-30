@@ -4,7 +4,7 @@
 
 > 우리의 얼과 소리가 담긴 국악음악을 즐겨보세요\. \(커버: 엄유정\(Eom Yu Jeong\)\) \(Enjoy Korean national music with our spirit and sound.\)
 
-64 songs - 8 hr 58 min
+65 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Piri Etude VOL.3 Very green and dense](https://open.spotify.com/track/63z6oBRFVpkCuJGKCX9h5J) | [ArtsForet](https://open.spotify.com/artist/5e6ypaVf2PrD2l0JzhNbyr) | [Piri Etude VOL.3 Very green and dense](https://open.spotify.com/album/65W9kZIYsnhQ9oxubBnwZZ) | 10:03 | 2023-09-15 |  |
 | [PIT\-A\-PAT](https://open.spotify.com/track/12HgD6UCXWLqPFz6LQZ7jr) | [오뉴월 \(Oh! New World\)](https://open.spotify.com/artist/5Kw2g1EDsL8AGw2fZaCx7H) | [2021 국악창작곡개발\-제15회 21c한국음악프로젝트\(2021 The 15th Annual 21st Century Korean Music Project\)](https://open.spotify.com/album/50oDdTePsN30DruxyyXx6R) | 6:02 | 2023-09-15 |  |
 | [Self\-Portrait](https://open.spotify.com/track/1y40yt1je5pytsICUqV9cI) | [Yun Suk Ja](https://open.spotify.com/artist/12mIpTGIkxnOItwNYD6ngy) | [Self\-Portrait](https://open.spotify.com/album/2QTWuIGtE7EVCDzFCU22Ug) | 8:13 | 2023-09-15 |  |
+| [Son Jeong\-hwa's Gayageum Songguyeojigok \- Songguyeojigok](https://open.spotify.com/track/27xAlWfCoMGgLwVImpBu2w) | [Son Jeong Hwa](https://open.spotify.com/artist/0mSHaTk0RR0F1Pnw9qh3UT) | [Son Jeong\-hwa's Gayageum Songguyeojigok \- Songguyeojigok](https://open.spotify.com/album/1u8P7lwEmYhZk5hgrG408c) | 8:05 | 2024-11-29 |  |
 | [The Glory of GEU:MI](https://open.spotify.com/track/1GFcVGgNRRtiBupSy6NVvT) | [Gayageum Ensemble GEU:MI](https://open.spotify.com/artist/1lSj94bVchGQrlYmSOFnCU) | [The Glory of GEU:MI](https://open.spotify.com/album/4lMvj3aGnf1eIWEEheBf04) | 3:10 | 2023-09-15 |  |
 | [The Jangmo taryeong\(mother in law song\)](https://open.spotify.com/track/0sU57ESEg9chbaBShRPbMA) | [namhaesori project](https://open.spotify.com/artist/4cgXvHd6tSQPhYGo99h0O0) | [Namhae Island Folklore](https://open.spotify.com/album/6vRoa0ZzPEfrcXsNzSP1u9) | 4:02 | 2023-09-15 |  |
 | [The Sun Goes In](https://open.spotify.com/track/5zfDGy9yNEF0IfaNJKDuk5) | [우리음악집단 소옥](https://open.spotify.com/artist/6erQzXjjw5op6jyRPY8LnI) | [SOAK with music and people](https://open.spotify.com/album/6MdirUiZC4AhOPa3iqFmLu) | 8:48 | 2023-09-15 |  |

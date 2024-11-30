@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,855 songs - 4 day 3 hr 11 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,864 songs - 4 day 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1863,5 +1863,14 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1853 | [Armageddon \- Extended Mix](https://open.spotify.com/track/2JEC1KjfbIRAU0q2CpGz8k) | [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Armageddon](https://open.spotify.com/album/1PKQqM4LnHLDIGF0fAfnZZ) | 3:10 |
 | 1854 | [HIT THE GAS](https://open.spotify.com/track/7Gjw1vTEFvEbmv5STIjHF3) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Wavehi](https://open.spotify.com/artist/2iLx2UVrTEV4Vq3T9tY675) | [HIT THE GAS](https://open.spotify.com/album/3mKDzsggXNwFdrLzztCiFB) | 2:29 |
 | 1855 | [Release The Kraken \- Sefa Remix Edit](https://open.spotify.com/track/1TbafpKeTekVYjgC6f2vCN) | [Destructive Tendencies](https://open.spotify.com/artist/1Yc03TvBp08WN2oHVuvewX), [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Sefa](https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI) | [Release The Kraken \(Sefa Remix\)](https://open.spotify.com/album/3A5RkXvSIyZmh9z8RbUFrW) | 3:23 |
+| 1856 | [MOVE IT](https://open.spotify.com/track/0phNba6T5XUM48HWg2Yw5I) | [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb), [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf) | [MOVE IT](https://open.spotify.com/album/59zfhqCvoHXFbd2EkP7kxc) | 2:27 |
+| 1857 | [Wilderness](https://open.spotify.com/track/3r2cEBiAQ0fiq4FM867d4y) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Wilderness](https://open.spotify.com/album/2s1J15Gm1NHPu7dXmv81uj) | 3:22 |
+| 1858 | [Outta Love](https://open.spotify.com/track/1GYugUcs4C77U2wRkURYCW) | [Vengeance](https://open.spotify.com/artist/0rkZewDpEnFUDab7m5A4Tz) | [Outta Love](https://open.spotify.com/album/4giXgWkAS1WHbvfCeeCZ40) | 2:59 |
+| 1859 | [Come With Me](https://open.spotify.com/track/64HlClQKw7dYZD1rwvJmHp) | [Cosy Nghtmre](https://open.spotify.com/artist/1e3a8LyR94jmWX4JZzV1ZG), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Come With Me](https://open.spotify.com/album/5O2SsELcpuNNZH16uTin4C) | 2:49 |
+| 1860 | [RAVExRIOT](https://open.spotify.com/track/3TJntvEt96qCY55pMEwEbu) | [Joey Riot](https://open.spotify.com/artist/3xKGhixeP24bKwHQ7yPyXF) | [RAVExRIOT](https://open.spotify.com/album/3OTvvLOu1Yz3ck4ko8F6SQ) | 3:12 |
+| 1861 | [HYPERDRIVE](https://open.spotify.com/track/6db56pkLh4wuofzmx573ov) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [HYPERDRIVE](https://open.spotify.com/album/3O0wilzADRg4C4Dih4jkIu) | 3:28 |
+| 1862 | [Thunder](https://open.spotify.com/track/50jWUromGMhk5v7xkNLhFW) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1), [Mamadeus](https://open.spotify.com/artist/6kBqRqN1r8o2e9skDcUalq) | [Thunder](https://open.spotify.com/album/3z6Zb6zGDUzwcoNaHu40CM) | 2:59 |
+| 1863 | [Call My Name](https://open.spotify.com/track/0rAyESn0Y7YhdTYBhU5BdH) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Call My Name](https://open.spotify.com/album/3isKDcARDGFP5fr4q86bOr) | 2:37 |
+| 1864 | [Into Me](https://open.spotify.com/track/1Lwu7gPVA4nJx15SsweVCt) | [Hard Destiny](https://open.spotify.com/artist/5vsJTnaUdtxGhZjwdS6htR), [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [Into Me](https://open.spotify.com/album/2FS5R12TTBGWfnM5SfR6EK) | 2:58 |
 
-Snapshot ID: `AAAHdNBPse44CUAoKFICSjlSZJx6Zu57`
+Snapshot ID: `AAAHfZAy8kLUBO/GwEVDObyoOve//n/t`

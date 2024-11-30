@@ -4,7 +4,7 @@
 
 > Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Ánh Sáng AZA
 
-1,905 songs - 4 day 15 hr 35 min
+1,906 songs - 4 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -868,6 +868,7 @@
 | [Lose You](https://open.spotify.com/track/5mACzX9W7gTOhX8ms3z43w) | [Phi Zi](https://open.spotify.com/artist/6ko1Rytv1xKlLZhMaKsrtV) | [Lose You](https://open.spotify.com/album/2Y9tbjD5eSD0ToV6jVMABc) | 3:34 | 2022-01-20 | 2023-01-06 |
 | [Loser](https://open.spotify.com/track/2Iaqq3XmyaR6PmUDVoISFy) | [Nhật Hoàng](https://open.spotify.com/artist/1owVn9TB2AwdiPqkaD29wX), [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm), [Hennessy](https://open.spotify.com/artist/7qFa5wU1h7319OpI33qnxc), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Loser](https://open.spotify.com/album/2b9n8QBMInabU5qDV0Hhdp) | 4:59 | 2022-05-21 | 2022-07-10 |
 | [Love again](https://open.spotify.com/track/5rjoOyDysPwxohT9byuj7t) | [Shayda](https://open.spotify.com/artist/4WF9GdetrQiLeWDWAISRGa) | [Love again](https://open.spotify.com/album/6ZC8FYiRdlvhKAt03ekXyt) | 3:44 | 2024-06-07 | 2024-08-01 |
+| [Love Can Make You Smile](https://open.spotify.com/track/3pwMDE605cktU1J3vt6up9) | [T00n](https://open.spotify.com/artist/78HFiqRqptzoqqjvM2JWfa) | [Love Can Make You Smile](https://open.spotify.com/album/5say2RQGQv9BGAuEArFnAx) | 3:37 | 2024-11-28 |  |
 | [Love is](https://open.spotify.com/track/226ljdOTLM2clGpm4mZvAm) | [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI) | [Love is](https://open.spotify.com/album/6FfeIJTcMgDM06w9sx6b3m) | 4:26 | 2023-07-03 | 2023-07-18 |
 | [love with you](https://open.spotify.com/track/7BjESLsJwVnXEERudfKw7r) | [Hoāng](https://open.spotify.com/artist/49xfNJ1T52Uv87QiVhRbTf) | [love with you](https://open.spotify.com/album/4RYJI7KZNB8hXT8MIWwGHW) | 2:29 | 2023-02-22 | 2023-04-25 |
 | [Lovely Joy](https://open.spotify.com/track/1wFWnXHejrf9kqiM0KYarb) | [Drixen](https://open.spotify.com/artist/0gsKMaZgIDuvSSlXR1IJKd) | [Lovely Joy](https://open.spotify.com/album/4rdCyeMz672A7RqpTwfZea) | 4:15 | 2023-08-10 | 2023-08-25 |

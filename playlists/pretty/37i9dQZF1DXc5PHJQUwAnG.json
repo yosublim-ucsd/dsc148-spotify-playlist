@@ -1,15 +1,31 @@
 {
   "description": "Bienvenidx a la trampa mexa. Natanael Cano, Uriel Gaxiola, Ganggy y Victor Mendivil en portada.",
-  "num_followers": 166553,
+  "num_followers": 166572,
   "original_name": "TRAPPERZ_MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZzbjYAAAAAB+mgnqdRyZcX1aaV4Bm9qt",
+  "snapshot_id": "Z0lYYAAAAADxrUUoAwjPSM+Gm2FenOxL",
   "tracks": [
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Canciones Mamalonas 4",
+        "url": "https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 154282,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/5D2tEdUibUNSeucsEv5Sjz"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Kamikaze (feat. Victor Mendivil)",
         "url": "https://open.spotify.com/album/0qRymMmPlQL4Jji8iXAZVP"
@@ -37,7 +53,7 @@
       "url": "https://open.spotify.com/track/6fKvGaO8Dfntvx4thaXtak"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Sagrado Reba\u00f1o",
         "url": "https://open.spotify.com/album/10hPJMw7P7fzkzhxwnm7Uu"
@@ -53,7 +69,7 @@
       "url": "https://open.spotify.com/track/5BQJenwhbHZC5owu6kVzyE"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "No Tenemos",
         "url": "https://open.spotify.com/album/2dwY987hvC3V3fNUHdRrrm"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/2LeR9iy4D7LBlnmEGVjUjF"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Slovako",
         "url": "https://open.spotify.com/album/613fK16yfH9YDh8wMD4ZMV"
@@ -89,7 +105,7 @@
       "url": "https://open.spotify.com/track/2HaVaABb8PCMr7vIDJVIPY"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Carolina / Pipiripipi",
         "url": "https://open.spotify.com/album/6Ym0Wyuomv5gU5SOd35JyS"
@@ -117,7 +133,7 @@
       "url": "https://open.spotify.com/track/5cBH5u0MyjNTmPOKLYQllh"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Inigualable",
         "url": "https://open.spotify.com/album/6yTTXFcHd0awRbOTdAuNXj"
@@ -137,7 +153,7 @@
       "url": "https://open.spotify.com/track/2LymV41jT8FinUdLs2uQ1k"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "SOTORIUS",
         "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
@@ -153,7 +169,7 @@
       "url": "https://open.spotify.com/track/6c1YWLzBPm3qA7vK4Io8S3"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "UK London",
         "url": "https://open.spotify.com/album/1UJ6KgprTMBpaiVc6AT1kt"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/1RPYiPrkxGUbZqa1xRtcgS"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "25 (B)",
         "url": "https://open.spotify.com/album/77swNZiaINOqmwrIFffpvi"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/6pXXIesYJq1Tr5rt1H0sRG"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Mimimi",
         "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
@@ -205,7 +221,7 @@
       "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Promesas de Amor",
         "url": "https://open.spotify.com/album/1PKySnohNiqxak3M2ciAxJ"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/4catmF6NKPlnYnUs5H6tOe"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "PERO NO TE ENAMORES",
         "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/5kFAyMPL3uhinJXh1uPpxH"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "EL NECIO DEL TRAP",
         "url": "https://open.spotify.com/album/6FPlEdEH1lXe0a6AmevrNh"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/0Clj8cbA28JXl1ZieYLPNS"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "TOMORROWLAND",
         "url": "https://open.spotify.com/album/7cTAEbPBIwniEGP6CVW5qD"
@@ -281,7 +297,7 @@
       "url": "https://open.spotify.com/track/7ECjK3j7dTauos87ndRH0N"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Luto",
         "url": "https://open.spotify.com/album/3Z62LUk9zBa5MmDTsU7o8N"
@@ -305,7 +321,7 @@
       "url": "https://open.spotify.com/track/29l02VXsOKLgmaNxQB7ecE"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "La Perrada de la R",
         "url": "https://open.spotify.com/album/3mEa2RTqTJF4oMJ2UpwocX"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/2rfhYUlnrj8d9NvOMfiAl4"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Canci\u00f3n para Sentirte Trillonario",
         "url": "https://open.spotify.com/album/4gxARTSSjoyfSZ75hhiiLs"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/04ikA7z7scbinLvcpem6aV"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "ICE",
         "url": "https://open.spotify.com/album/4VJ3hVW35cMJujUvtQGFoB"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/6WSUY9e8ukgSPtR3ETPIXj"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Fake Love",
         "url": "https://open.spotify.com/album/2cwWveZjROmcFs7gtB9qvn"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/26sLvDjUnS66EPOAV8pErE"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "DINAMITA",
         "url": "https://open.spotify.com/album/4dRpKzpWPEi9NYY84ChNhS"
@@ -389,7 +405,7 @@
       "url": "https://open.spotify.com/track/2z1J0ARtt7WUsarFsNtmxO"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Capitulo 1",
         "url": "https://open.spotify.com/album/37XP1tJL093lknUuURHTqZ"
@@ -405,7 +421,7 @@
       "url": "https://open.spotify.com/track/0tc0TLXNmx2qYEnzz94QjW"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Ciniminis",
         "url": "https://open.spotify.com/album/2lwrWvVKzobVDnirirxvlf"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/369yQYN9dt4jOf7MCFcL4r"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Quehacer",
         "url": "https://open.spotify.com/album/2iEKSHSVMbOBmjkN6osGBc"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/2ApMbu401bqRcFYUgmSP7J"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "CAPO$",
         "url": "https://open.spotify.com/album/6jXcTAUeHcbspdzYcODcoz"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/56e2AHbluOAvUJ5Xao0QL7"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Esquimal",
         "url": "https://open.spotify.com/album/0pAGfIGxeYkGvaHzhzUFFU"
@@ -481,7 +497,7 @@
       "url": "https://open.spotify.com/track/5XeRY4i3SgMQqgWDcAodKe"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Piromaniaco",
         "url": "https://open.spotify.com/album/2qB1Djxi1e8VRpOYVEkfPt"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/3rFi757I4Y48eVkx8noASJ"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "A-U",
         "url": "https://open.spotify.com/album/4zdR0F7ObL8gknjwFEwMSx"
@@ -533,7 +549,7 @@
       "url": "https://open.spotify.com/track/36OkCaR2ZzDPGmOoiZP6TB"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
@@ -549,7 +565,7 @@
       "url": "https://open.spotify.com/track/7s0YftbAtOPmkyWKjq6HA0"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Lo Manifestamos",
         "url": "https://open.spotify.com/album/7ooHD96LwsCeB9ffBthQgz"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/66eQmGHeq0ZgvbPg9srXJr"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Estilo B\u00e9lico",
         "url": "https://open.spotify.com/album/2b3HWNfnGhehOzAdz9QEGh"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/4N2QWDCHXmLNQX94TxUc8s"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/5TNCzVBiupKDj6GxrqYkdl"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/6IMklja7dz3LwuwUdQB90j"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Tirando Flow Sesh #10",
         "url": "https://open.spotify.com/album/5znfD7f3uRb1UMbrMDV3OQ"
@@ -649,7 +665,7 @@
       "url": "https://open.spotify.com/track/6WmCmQuse2SjjSVab5EHxg"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "I DON'T WANNA WAIT FOR YOU (I AIN'T GOT TIME FOR THIS)",
         "url": "https://open.spotify.com/album/2DABF8pvSgOTvrwOUnjNXw"
@@ -665,7 +681,7 @@
       "url": "https://open.spotify.com/track/6N0G1FI0nwofcMKgvAnRjZ"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "PESO COMPLETO",
         "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
@@ -685,7 +701,7 @@
       "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Fashion Luv",
         "url": "https://open.spotify.com/album/02n7xATM34AtXmD43Rq9z6"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/1bYGyj9s8QPkWXDyFb8Wrt"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "UNAVAILABLE",
         "url": "https://open.spotify.com/album/1V0GjvkmCE7czHgKxPVQOE"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/4brASkg3m8bst9RzQ6fisd"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
         "url": "https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "fa$hion killa",
         "url": "https://open.spotify.com/album/5UfL0JnWie1XjTqmPhf8R8"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/64KyVkOxuptx0T5ecVZdfP"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Sed de Ganar",
         "url": "https://open.spotify.com/album/5InhJktEVmsMZMjs3btorG"
@@ -781,7 +797,7 @@
       "url": "https://open.spotify.com/track/0nu0muJL39ZhAdZHB4gjcc"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Flow Mexicano",
         "url": "https://open.spotify.com/album/06FCKaCaLtn8n53sLGBQxn"
@@ -797,7 +813,7 @@
       "url": "https://open.spotify.com/track/3CBylMtRArk0HA9QgqYZUM"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Wapo y Mam\u00f3n",
         "url": "https://open.spotify.com/album/0G7rMvRLu7tPiKeti54UbE"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Trap Ejecutivo",
         "url": "https://open.spotify.com/album/3IUbI0QbFDjBYvo1t4OXqh"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/7xuq3E5t2kJcuAZqkNDOvG"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Flight 0009",
         "url": "https://open.spotify.com/album/25Hj5JbCzBpUWqPJwOUQ2S"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/0T60QrLjC67kLuSqUIwllu"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "LAS MORRAS TAMBI\u00c9N HACEN TR444P",
         "url": "https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt"
@@ -869,7 +885,7 @@
       "url": "https://open.spotify.com/track/5efoy1qDiKRrlJs9MfEQVk"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "No Kiero Correr (Remix)",
         "url": "https://open.spotify.com/album/6jFGXDG7kIdQx76tzytpgB"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/5hPtYGIIPVS3pWi1kLUOQT"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Afuera Que Tengan Miedo",
         "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
@@ -913,7 +929,7 @@
       "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Solo M\u00edrate",
         "url": "https://open.spotify.com/album/16HaReMEF1TAMRpy7mPsWO"
@@ -929,7 +945,7 @@
       "url": "https://open.spotify.com/track/6QAT6D16VmI84LUwPOI86K"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Yo tmb me fui",
         "url": "https://open.spotify.com/album/7GwBFqoSDDKQ0GsqU2MzEo"
@@ -945,7 +961,7 @@
       "url": "https://open.spotify.com/track/0fuEBBx9zVGJKzCNNEcxU5"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Tirando Flow Sesh #8",
         "url": "https://open.spotify.com/album/6KVKStSWXUvoZF2ibE643k"
@@ -969,7 +985,7 @@
       "url": "https://open.spotify.com/track/48LRWkjqh0MuiyQmGkqzgP"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/13k2zzqSV0ZCV8tmYGhvSL"
@@ -985,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3a72rKC1wpcoVx6HIpEzRO"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Ferragamo",
         "url": "https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X"
@@ -1005,7 +1021,7 @@
       "url": "https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Mustang 65'",
         "url": "https://open.spotify.com/album/42EHvFRsQtspIer2baInn7"
@@ -1021,7 +1037,7 @@
       "url": "https://open.spotify.com/track/0dyz7VlyWTbd9mbuUl3wKq"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Chicago",
         "url": "https://open.spotify.com/album/0qxOUAIDnMLYqvRYmicgjm"
@@ -1041,7 +1057,7 @@
       "url": "https://open.spotify.com/track/1tzTYPfNNu2QEwYqRISmGi"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "No Me Quieren",
         "url": "https://open.spotify.com/album/0sLgMiJoybUIcM2pk0neay"
@@ -1065,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3p1Ai6RRQm30uf2oOgWqQ6"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Lento y Contento (Remix)",
         "url": "https://open.spotify.com/album/0QR8tzQEwBHa3LHG1Mr8Sl"
@@ -1089,7 +1105,7 @@
       "url": "https://open.spotify.com/track/2hHBzhSQShNFmWPXrFK9yU"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
         "url": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
@@ -1109,7 +1125,7 @@
       "url": "https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5"
     },
     {
-      "added_at": "2024-11-15 06:00:00",
+      "added_at": "2024-11-29 06:00:00",
       "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"

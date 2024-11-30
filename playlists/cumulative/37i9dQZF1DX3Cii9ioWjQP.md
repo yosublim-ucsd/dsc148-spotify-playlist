@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Luca minor\)
 
-229 songs - 16 hr 17 min
+230 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Don’t Blame Yourself](https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r) | [Pudditorium](https://open.spotify.com/artist/7uhOcLi85Fj8PlOempXh6z) | [Prologue : Hope](https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj) | 4:34 | 2024-09-04 |  |
 | [dudndudndudn](https://open.spotify.com/track/6l5HTEXfhpcGAGqigEpLSb) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [dudndudndudn](https://open.spotify.com/album/6lTeQXswOMjX1E2Le2YduD) | 3:36 | 2024-10-04 |  |
 | [DUO](https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [DUO](https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi) | 3:10 | 2024-06-07 |  |
+| [Embrace Your Emotions](https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W) | [A.Rion](https://open.spotify.com/artist/0VHEXCiwvN64fSXIOhpdqS) | [Embrace Your Emotions](https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG) | 3:06 | 2024-11-29 |  |
 | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/track/3P4vnvUu03m0kjoLWNWvTa) | [Youjin KO](https://open.spotify.com/artist/4DwpWXyj4LSXRDaB2zmfcj), [Nicola Sergio](https://open.spotify.com/artist/2bxce9EIkMF99r0baqX9Sy) | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/album/1Aur1rcwdfRJXyG8VtRFRr) | 5:59 | 2023-03-31 | 2024-11-07 |
 | [Entropy](https://open.spotify.com/track/5Csh0PKROPzYGlUJOPyXDc) | [Urban Forest](https://open.spotify.com/artist/3Byry2lVyIyWfS0wkFNIbj) | [Entropy](https://open.spotify.com/album/40GVHu5UsuObOAoAhPgcdr) | 8:13 | 2023-07-19 | 2024-08-11 |
 | [Eollebit](https://open.spotify.com/track/66wIabheOrniEJ0kZWxilI) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_264](https://open.spotify.com/album/3Go8PTkJdALkaZXORzUQyL) | 3:33 | 2022-05-18 | 2024-09-20 |
@@ -231,7 +232,7 @@
 | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/track/6IFdEC905IVfVKkEg5oCIf) | [정석훈](https://open.spotify.com/artist/1sK6u1AYcW34Kms0OZtnMC), [Kim Joon\-Seo](https://open.spotify.com/artist/38yvkeOk48SQQIqlvbOELK) | [비긴어게인 오픈마이크 EPISODE\. 34 \-일렁임의 찰나](https://open.spotify.com/album/5pQzpyLvHtOefFVPCRK0Wg) | 4:18 | 2022-07-08 | 2023-02-08 |
 | [수암로](https://open.spotify.com/track/1agp7haerf4CHKUOix59bO) | [Uri](https://open.spotify.com/artist/2tG5Ksvgakzg0AxoMutgwE) | [Diary 11 의정부](https://open.spotify.com/album/70xNNxytzLqRmn4X2XvvLf) | 2:58 | 2022-11-11 | 2024-09-20 |
 | [시작](https://open.spotify.com/track/0LsATRvvj43sSh4lvCWsQc) | [Park Sung Il](https://open.spotify.com/artist/31UZpd5VtfqTlpuYLrUfe7), [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [시작](https://open.spotify.com/album/1j9Bz1EoymRjq4ZF3oUdx1) | 3:17 | 2023-07-24 | 2023-10-05 |
-| [오늘은 맑음 \(Sunny Side Up\)](https://open.spotify.com/track/3oA2whD4CPexa0Klod6msm) | [Matt Park](https://open.spotify.com/artist/5Kos2wrxbC9LI1rkaPvGIP) | [오늘은 맑음 \(Sunny Side Up\)](https://open.spotify.com/album/3u4UzQDUTwaO70GbvVj0o7) | 3:08 | 2024-04-18 |  |
+| [오늘은 맑음 \(Sunny Side Up\)](https://open.spotify.com/track/3oA2whD4CPexa0Klod6msm) | [Matt Park](https://open.spotify.com/artist/5Kos2wrxbC9LI1rkaPvGIP) | [오늘은 맑음 \(Sunny Side Up\)](https://open.spotify.com/album/3u4UzQDUTwaO70GbvVj0o7) | 3:08 | 2024-04-18 | 2024-11-30 |
 | [카페인](https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme) | [정승수 밴드](https://open.spotify.com/artist/2CUrF1ofFe2Fg7tgQQH7Sr) | [카페인](https://open.spotify.com/album/3s8QEeQGLT6y6isxaa4ZjN) | 4:37 | 2022-05-03 | 2024-08-11 |
 | [퇴사하는 날 The Last Day of Work\(Dobby is Free\)](https://open.spotify.com/track/1cLGyPRsyMZzX23TbG9LdA) | [조영훈 Younghoon Cho](https://open.spotify.com/artist/7KOFCJ3yZTiPDj215mxq3G) | [퇴사하는 날 The Last Day of Work](https://open.spotify.com/album/2GwqgiOoFdm4lYEE5dztHW) | 2:25 | 2022-05-03 | 2022-05-19 |
 | [풀빛푸른](https://open.spotify.com/track/6SNqL7uzSSESJ3IMKLFCdN) | [Q\-Han](https://open.spotify.com/artist/0Ahq4s8aRjMtjuui5iwxFp) | [풀빛푸른](https://open.spotify.com/album/3dPkZo53nbzFqMory6otX1) | 2:30 | 2022-11-11 | 2024-09-20 |

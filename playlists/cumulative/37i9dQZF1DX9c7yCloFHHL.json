@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Jon Hopkins on cover.",
+  "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Bibio on cover.",
   "name": "Ambient X",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 437138,
       "name": "#3 (Rhubarb)",
       "url": "https://open.spotify.com/track/47VFticYkP3UYOroGPjjD6"
@@ -154,10 +154,32 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 156073,
       "name": "12121",
       "url": "https://open.spotify.com/track/5pkL6YfK1bM4KLqZpAu0B0"
+    },
+    {
+      "album": {
+        "name": "12:09pm (Alaskan Tapes Remix)",
+        "url": "https://open.spotify.com/album/6TM2FoZNDHYZcJELlAPrJF"
+      },
+      "artists": [
+        {
+          "name": "picture frames",
+          "url": "https://open.spotify.com/artist/51WT46WehARoAplZeWn7gZ"
+        },
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "12:09pm (Alaskan Tapes Remix)",
+      "url": "https://open.spotify.com/track/7oxgt2bH2qvJI7zJmi3s6k"
     },
     {
       "album": {
@@ -1978,7 +2000,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 202666,
       "name": "Ascending Journy",
       "url": "https://open.spotify.com/track/0Dudid2JOAtq9Nt0Dg0OfT"
@@ -2798,6 +2820,24 @@
       "duration_ms": 317626,
       "name": "Black Willow",
       "url": "https://open.spotify.com/track/0RuXrsmx1077S5Hx1IKZxn"
+    },
+    {
+      "album": {
+        "name": "Blackbox Life Recorder 21f",
+        "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266558,
+      "name": "Blackbox Life Recorder 21f",
+      "url": "https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD"
     },
     {
       "album": {
@@ -5111,6 +5151,24 @@
     },
     {
       "album": {
+        "name": "PHANTOM BRICKWORKS (LP II)",
+        "url": "https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 711466,
+      "name": "DINORWIC",
+      "url": "https://open.spotify.com/track/36ZmV6roe8W8sVlZbvGZd9"
+    },
+    {
+      "album": {
         "name": "A Plastic Bag Filled With Water",
         "url": "https://open.spotify.com/album/1urqrnhh3ehECHWQnaKYqJ"
       },
@@ -5314,6 +5372,24 @@
       "duration_ms": 184877,
       "name": "Doppelg\u00e4nger",
       "url": "https://open.spotify.com/track/4QktKktsqSW9ISsC2Chl0n"
+    },
+    {
+      "album": {
+        "name": "DOROTHEA\u2019S BED",
+        "url": "https://open.spotify.com/album/75mCUR97rK21D52IwwoucI"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325320,
+      "name": "DOROTHEA\u2019S BED",
+      "url": "https://open.spotify.com/track/5YPRajDOl8KSSPEtdlnxnx"
     },
     {
       "album": {
@@ -6582,7 +6658,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 181666,
       "name": "Fading In",
       "url": "https://open.spotify.com/track/1TbBWoY5ztVqoNcpdCiuE6"
@@ -7615,6 +7691,28 @@
     },
     {
       "album": {
+        "name": "Gentle Hum",
+        "url": "https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO"
+      },
+      "artists": [
+        {
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
+        },
+        {
+          "name": "Hainbach",
+          "url": "https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160476,
+      "name": "Gentle Hum",
+      "url": "https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs"
+    },
+    {
+      "album": {
         "name": "Geomagnetic Storm",
         "url": "https://open.spotify.com/album/4fOkSWYIaTTR9nEW7cBVCZ"
       },
@@ -7772,6 +7870,24 @@
       "duration_ms": 296480,
       "name": "Gnossienne No. 1",
       "url": "https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1"
+    },
+    {
+      "album": {
+        "name": "Twin Color, Vol. 1",
+        "url": "https://open.spotify.com/album/1H8oLIUoU8Fq3yGBpZWp9Y"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467252,
+      "name": "Going Home - IRCAM Version",
+      "url": "https://open.spotify.com/track/5RC9SAPnBXj57ovnvUslvl"
     },
     {
       "album": {
@@ -8912,6 +9028,24 @@
       "duration_ms": 255365,
       "name": "If Anyone's Sleepy - PTU Remix",
       "url": "https://open.spotify.com/track/5BY4B7OBSQdo0MduH5IcmY"
+    },
+    {
+      "album": {
+        "name": "OHT Frankenstein",
+        "url": "https://open.spotify.com/album/4MKhYeAecBQHpHMy2bH12f"
+      },
+      "artists": [
+        {
+          "name": "Tomat",
+          "url": "https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "If you love solitude, you don\u2019t love freedom",
+      "url": "https://open.spotify.com/track/68ehun5XeirwMPnwTSyefV"
     },
     {
       "album": {
@@ -10932,7 +11066,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 222946,
       "name": "LUX 1.1",
       "url": "https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK"
@@ -12434,7 +12568,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 413993,
       "name": "Night Bunny (feat. Suzanne Ciani)",
       "url": "https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP"
@@ -12844,7 +12978,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 279000,
       "name": "Nutrition - Single Edit",
       "url": "https://open.spotify.com/track/3A6tEuBqrZGmFXZrYEGx00"
@@ -14068,6 +14202,24 @@
       "duration_ms": 672000,
       "name": "Petrichor",
       "url": "https://open.spotify.com/track/25z60PTirg7CybEQgRFOWk"
+    },
+    {
+      "album": {
+        "name": "PHANTOM BRICKWORKS VII",
+        "url": "https://open.spotify.com/album/5ca3tSUujeAqajGODRd0J1"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642066,
+      "name": "PHANTOM BRICKWORKS VII",
+      "url": "https://open.spotify.com/track/5Bxn4PN46l8nemHBEEd3RJ"
     },
     {
       "album": {
@@ -15686,7 +15838,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 144705,
       "name": "Sagamo",
       "url": "https://open.spotify.com/track/5fhi19XASlGzRg5VBjbrks"
@@ -17404,7 +17556,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 253476,
       "name": "Still / Sound",
       "url": "https://open.spotify.com/track/1rJFEKA0m4aUeQNK9378uo"
@@ -17502,7 +17654,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 184586,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
@@ -18014,6 +18166,24 @@
       "duration_ms": 185500,
       "name": "Tapir",
       "url": "https://open.spotify.com/track/20MXBhQSpsngsyWdn7lwjF"
+    },
+    {
+      "album": {
+        "name": "Dusk/Dawn",
+        "url": "https://open.spotify.com/album/3lnSqrokikM7TF5tIhnle0"
+      },
+      "artists": [
+        {
+          "name": "Illuminine",
+          "url": "https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "Tear Trails",
+      "url": "https://open.spotify.com/track/6FpXTmp13c5NyUCv1XBwIU"
     },
     {
       "album": {
@@ -20666,6 +20836,28 @@
       "duration_ms": 244693,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/4VWqW5L7atG0psu8TtCVyN"
+    },
+    {
+      "album": {
+        "name": "V\u012aS (Aho Ssan Reinterpretation)",
+        "url": "https://open.spotify.com/album/3rEE2zlomLL6SzLH0fj3aB"
+      },
+      "artists": [
+        {
+          "name": "DAVID AUGUST",
+          "url": "https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA"
+        },
+        {
+          "name": "Aho Ssan",
+          "url": "https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297386,
+      "name": "V\u012aS - Aho Ssan Reinterpretation",
+      "url": "https://open.spotify.com/track/2DfpVUVBu8YIFos9ZfMs4V"
     },
     {
       "album": {

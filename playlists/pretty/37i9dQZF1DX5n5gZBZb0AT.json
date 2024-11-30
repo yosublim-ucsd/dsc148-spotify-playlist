@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 891300,
+  "num_followers": 891501,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -643,30 +643,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "RITMO DE TREINO",
-        "url": "https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz"
-      },
-      "artists": [
-        {
-          "name": "YOUTHISENDING",
-          "url": "https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe"
-        },
-        {
-          "name": "MC PR",
-          "url": "https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX"
-        },
-        {
-          "name": "MC Pequeno Diamante",
-          "url": "https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C"
-        }
-      ],
-      "duration_ms": 102923,
-      "name": "RITMO DE TREINO",
-      "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "YUMMI",
         "url": "https://open.spotify.com/album/4J0FEQtbjPH1DA60p6bKe9"
       },
@@ -687,22 +663,26 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "WINTER ARC FUNK",
-        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
+        "name": "RITMO DE TREINO",
+        "url": "https://open.spotify.com/album/7kV5GsdeIupIcevrNDfFUz"
       },
       "artists": [
         {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+          "name": "YOUTHISENDING",
+          "url": "https://open.spotify.com/artist/1m8N1IE2yCPD2SCNpshEwe"
         },
         {
-          "name": "Mc Delux",
-          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+          "name": "MC PR",
+          "url": "https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX"
+        },
+        {
+          "name": "MC Pequeno Diamante",
+          "url": "https://open.spotify.com/artist/7jqVVRFgBPvHWLnUwfRF6C"
         }
       ],
-      "duration_ms": 91875,
-      "name": "WINTER ARC FUNK",
-      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
+      "duration_ms": 102923,
+      "name": "RITMO DE TREINO",
+      "url": "https://open.spotify.com/track/2pIC8fTfWwGjbo31YyNtzT"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -735,6 +715,26 @@
       "duration_ms": 136651,
       "name": "Devil Eyes",
       "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "WINTER ARC FUNK",
+        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        },
+        {
+          "name": "Mc Delux",
+          "url": "https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW"
+        }
+      ],
+      "duration_ms": 91875,
+      "name": "WINTER ARC FUNK",
+      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
     }
   ],
   "unique_name": "gymcore",

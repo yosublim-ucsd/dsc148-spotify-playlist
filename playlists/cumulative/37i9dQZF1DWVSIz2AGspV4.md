@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف: محمود التركي
 
-301 songs - 17 hr 36 min
+302 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Ah Yani](https://open.spotify.com/track/0vMD3NFvruMSROWEhm8756) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ah Yani](https://open.spotify.com/album/2743kDzwDOEBBeTrSn6h5H) | 3:19 | 2021-12-23 | 2022-05-14 |
 | [Ahla Men El Gomar](https://open.spotify.com/track/0OuSDfEi7KNaHkZZbXZbQD) | [Ahmed Jawad](https://open.spotify.com/artist/4ZOVwS1XAGOXCKAqTFmsBP) | [Ahla Men El Gomar](https://open.spotify.com/album/3ud7fRBI5oVZvKzkpkURQd) | 2:54 | 2023-09-29 |  |
 | [Ahla Wahda](https://open.spotify.com/track/5dTweNePBwCMLISjd73xLN) | [Saif Nabeel](https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK) | [Ahla Wahda](https://open.spotify.com/album/4TkCvhkbNT79l0Afii4phX) | 3:23 | 2024-04-19 |  |
+| [Ahwak Ya Qamaran](https://open.spotify.com/track/1C9N2GXZzz53hTtDojUtTc) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Ahwak Ya Qamaran](https://open.spotify.com/album/13DguvFOkmXuftPjqXeYO0) | 3:34 | 2024-11-28 |  |
 | [Akh Minh Kalbi](https://open.spotify.com/track/7COIIuYoJ9FiJymfwHepVA) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW), [Ahmed Kareem](https://open.spotify.com/artist/11cbelfgXLsGBki28YqWsX) | [Akh Minh Kalbi](https://open.spotify.com/album/0jLnrjSo3NZqhF168RzD9j) | 3:06 | 2021-12-23 | 2022-03-15 |
 | [Al Aalam \- العالم](https://open.spotify.com/track/3eeuuyevY7qDLgkmXJ0jWQ) | [Ahmad Abdelsalam](https://open.spotify.com/artist/1QThzrcDgt4b9X8cUCqsbs) | [Al Aalam \(العالم\)](https://open.spotify.com/album/0F3f3ckOIpBXnLHhX1tAbm) | 3:08 | 2023-09-29 |  |
 | [Al Farasha](https://open.spotify.com/track/7MsVIDqNpBdHtDD5BmMZHL) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Al Farasha](https://open.spotify.com/album/3Q8tXahgguSwK5uQYXZ7hF) | 3:11 | 2022-09-30 | 2023-02-07 |

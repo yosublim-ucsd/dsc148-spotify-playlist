@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: SUPERBEE\(수퍼비\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,142 likes - 101 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,221 likes - 101 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 7 | [Cut the bullshit \(feat\. Kwon Ki Baek\)](https://open.spotify.com/track/29Gmq70bSmmOkN8y6gCizx) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Kwon Ki Back](https://open.spotify.com/artist/7yo07YVAoz1b5McSZEtTQN) | [Love, Rap & Life](https://open.spotify.com/album/7haNHybuGId0kqqgm1xMeA) | 2:38 |
 | 8 | [W](https://open.spotify.com/track/5b7uyBXn294DZjvnJqsKfA) | [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 1:55 |
 | 9 | [POWER](https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx) | 2:23 |
-| 10 | [Line \(Feat\. oceanfromtheblue\)](https://open.spotify.com/track/0McjONE4eqkgTtS2GcgNbk) | [O’Domar](https://open.spotify.com/artist/6BQDqgvj7U08coJTW72T68), [JOONIE](https://open.spotify.com/artist/4sX22X56Udyfw5vOewwKfP), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [RAP:PUBLIC Episode.1](https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi) | 4:25 |
+| 10 | [Line \(Feat\. oceanfromtheblue\)](https://open.spotify.com/track/0McjONE4eqkgTtS2GcgNbk) | [O'Domar](https://open.spotify.com/artist/2tVfmWc35v5ALhML9zgSyw), [JOONIE](https://open.spotify.com/artist/3eXkt1nVfgCsKiMIupInVZ), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [RAP:PUBLIC Episode.1](https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi) | 4:25 |
 | 11 | [KrOWN\_Beenzino](https://open.spotify.com/track/4slPMG63XcpWAOjUx8Ip8d) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [KrOWN\_Beenzino](https://open.spotify.com/album/5yffp1pwFAwmPBDAc34wmz) | 0:02 |
 | 12 | [Mask on](https://open.spotify.com/track/6taiSlVSCGtZp71I09QnFL) | [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 2:40 |
 | 13 | [Rodeo Girls \(Feat\. Kid Milli\)](https://open.spotify.com/track/5JWhqhdDhVaZLZdP0ksDGb) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Rodeo Girls](https://open.spotify.com/album/5Gz38OYb3eMwhmrw1HdERH) | 3:08 |

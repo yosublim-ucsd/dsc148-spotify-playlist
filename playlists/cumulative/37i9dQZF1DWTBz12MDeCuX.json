@@ -5185,6 +5185,28 @@
     },
     {
       "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156287,
+      "name": "Best Friend (with Fall Out Boy)",
+      "url": "https://open.spotify.com/track/6YIUVlNppbizkWnme87kAY"
+    },
+    {
+      "album": {
         "name": "Best Friends",
         "url": "https://open.spotify.com/album/0t9icJElH7OcAjtojsCiHM"
       },
@@ -21590,7 +21612,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 130666,
       "name": "kaputt",
       "url": "https://open.spotify.com/track/0dqyu1uge0tfnblPH9gFKp"
@@ -40500,6 +40522,28 @@
       "duration_ms": 116128,
       "name": "Traumf\u00e4nger",
       "url": "https://open.spotify.com/track/2zkbJmefcK0ROt3e8gAPzz"
+    },
+    {
+      "album": {
+        "name": "Traurige Hure",
+        "url": "https://open.spotify.com/album/3lcUmIoqHPGQoWtseKPq9d"
+      },
+      "artists": [
+        {
+          "name": "Baran Kok",
+          "url": "https://open.spotify.com/artist/0h5l8UYxSk3xeGGlSXgpIZ"
+        },
+        {
+          "name": "Stoopid Lou",
+          "url": "https://open.spotify.com/artist/3Cz2lOY9tNQ4hEraVbTFXi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162739,
+      "name": "Traurige Hure",
+      "url": "https://open.spotify.com/track/6QKj3Yzty4HzKWuE0MHacq"
     },
     {
       "album": {

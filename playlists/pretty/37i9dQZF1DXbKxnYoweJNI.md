@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 粉內 \(Fi\-Né\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,161 likes - 144 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,179 likes - 144 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 26 | [來去東港](https://open.spotify.com/track/2jgcaw9TfNH8p3x4QOFEXJ) | [新寶島康樂隊](https://open.spotify.com/artist/4uwzFYQujZPB6R2RUUadT2) | [新寶島康樂隊 第13張大波浪](https://open.spotify.com/album/0e9AQGY5FgVBij09ViVIsw) | 6:05 |
 | 27 | [Subway Horror](https://open.spotify.com/track/58i3LvVn2HKLfTIR0rxK1v) | [Emma Woods](https://open.spotify.com/artist/0FCkAAasVSivVKXrzF1Qmc) | [Horror Stories \(Chapter 1\)](https://open.spotify.com/album/2Jm8jpUnClgeSWsv2VeC39) | 3:00 |
 | 28 | [Take You to the Universe](https://open.spotify.com/track/0RICMzzz6s43MgbTsuTIQQ) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [A Room in Brockley](https://open.spotify.com/album/6N2xKkzQQK9wz6On1LDKWW) | 3:47 |
-| 29 | [红霞剧场](https://open.spotify.com/track/3V7Sr1NsjXmKTqaQ1beBRQ) | [陳婧霏](https://open.spotify.com/artist/6mZOIX7NzdJvWeXocQOsb8) | [猩红](https://open.spotify.com/album/2T5V962B6bINfZAzKL5O0y) | 3:36 |
+| 29 | [紅霞劇場](https://open.spotify.com/track/3V7Sr1NsjXmKTqaQ1beBRQ) | [陳婧霏](https://open.spotify.com/artist/6mZOIX7NzdJvWeXocQOsb8) | [猩紅](https://open.spotify.com/album/2T5V962B6bINfZAzKL5O0y) | 3:36 |
 | 30 | [在東京路上](https://open.spotify.com/track/2p4rWOAwnLG9OVtanVnBtN) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss) | [在東京路上](https://open.spotify.com/album/4onxYSkCAWK2rJubQ8bSEe) | 3:50 |
 | 31 | [Knglangan 地球](https://open.spotify.com/track/3q190aEvZO6bhMN5WoTADu) | [Yoku Walis 幽谷瓦歷斯](https://open.spotify.com/artist/2f3gOSmEfLMmsNIl7ScKtz) | [Knglangan 地球](https://open.spotify.com/album/69mpjsoWEprTdyFoImHmEm) | 3:12 |
 | 32 | [Just 購物 in 臺中](https://open.spotify.com/track/1oHuAQnrjXUFfFavsZATza) | [尤時雨](https://open.spotify.com/artist/6VZlJla5fcw20R97dOIadz) | [Just 購物 in 臺中](https://open.spotify.com/album/73qBzgVTp2S3Fy6RhLD0Da) | 2:54 |

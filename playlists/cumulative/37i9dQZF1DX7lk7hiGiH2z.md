@@ -4,7 +4,7 @@
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-418 songs - 19 hr 41 min
+419 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Schneeengel](https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder für die Weihnachtszeit](https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h) | 2:49 | 2023-11-14 |  |
 | [Schneeflöckchen](https://open.spotify.com/track/2nC0LeXM18WwLscRnTLvPE) | [eneMene](https://open.spotify.com/artist/4jjxaM9QNKfMlPNAsZbbLB) | [eneMene Kinderlieder \- die Grüne](https://open.spotify.com/album/2k4Qw7Gktl2ROdMYFw29eC) | 1:28 | 2023-11-14 |  |
 | [Schneeflöckchen](https://open.spotify.com/track/1toWSGtX1RsvM9iFElS0xw) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 3:04 | 2023-11-14 |  |
+| [Schnupfennase](https://open.spotify.com/track/1XdPvu4zQI5oVm8aN1TWKn) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Schnupfennase](https://open.spotify.com/album/4ZM9rOwNk2fwO7pY3OHqU5) | 1:39 | 2024-11-29 |  |
 | [Schokoladeneis](https://open.spotify.com/track/1mERxFZxRWNOXbryNKlIRW) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Tanzfieber!](https://open.spotify.com/album/06eZoUAMH8lMEpshxRfHj2) | 3:27 | 2023-06-28 | 2023-08-11 |
 | [Schüttel es ab](https://open.spotify.com/track/2GVGoXmj1aqdKLKsRLl6qf) | [Viva Alpagua](https://open.spotify.com/artist/5vN8X0hHaDJ8j6Fa31QwU7), [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [IUMA](https://open.spotify.com/artist/3sQkqWv3GPcfimQ2bobl2a) | [Schüttel es ab](https://open.spotify.com/album/7tsUaxEkh5WKU1H06p0Ivk) | 2:27 | 2024-03-01 | 2024-03-28 |
 | [Silvester](https://open.spotify.com/track/4I3O14VN10X7orM7h9xvhn) | [Stefanie Schrank](https://open.spotify.com/artist/0TtuoO8p89UbOviWtfxl5e) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 3:17 | 2023-11-14 | 2024-01-04 |

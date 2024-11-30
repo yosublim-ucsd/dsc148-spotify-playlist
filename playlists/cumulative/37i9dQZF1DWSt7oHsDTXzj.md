@@ -4,7 +4,7 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-254 songs - 13 hr 53 min
+256 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2021-11-12 | 2022-10-14 |
 | [Another Year](https://open.spotify.com/track/2PjhrIf3ro6skhdBHAUl1P) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/4QqbHVOhj56RKsBTHBxw9x) | 4:16 | 2023-10-16 | 2024-04-19 |
 | [Auld Lang Syne](https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 4:32 | 2021-11-12 |  |
-| [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 | 2021-11-12 |  |
+| [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 | 2021-11-12 | 2024-11-30 |
 | [baby jesus is nobody's baby now](https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/54ech4ihgHD7emD0ucycog) | 3:35 | 2021-11-12 | 2024-11-16 |
 | [baby jesus is nobody's baby now](https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R) | 3:35 | 2021-11-12 | 2022-11-08 |
 | [baby jesus is nobody’s baby now](https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody’s baby now](https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY) | 3:35 | 2022-12-23 | 2024-04-19 |
@@ -107,6 +107,7 @@
 | [Hallelujah](https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hallelujah](https://open.spotify.com/album/7f7BojlN7pow14eayG4UOn) | 3:10 | 2021-11-12 |  |
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2021-11-12 | 2024-04-19 |
 | [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/2JUAheSAHfmQ0TDiR9fSUD) | [The Polyphonic Spree](https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk) | [Two Thousand Places](https://open.spotify.com/album/3mO5HyjYQdlENBfguueZba) | 4:15 | 2021-11-12 | 2022-07-22 |
+| [Happy Xmas \(War Is Over\)](https://open.spotify.com/track/6M3psbHFfLJbYNK0n2Mw1B) | [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Happy Xmas \(War Is Over\)](https://open.spotify.com/album/0q9qPcq5tk3GQx1r4U65SZ) | 3:26 | 2024-11-29 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6lsfG5fQhtkfIkqQIWfNns) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/61AIHomKS1lF5ZgcXjvtFX) | 2:08 | 2021-11-12 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/5bqNSoi25n88eOhtku9htL) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/7upUSCVmRDRyjc08OgNP48) | 2:13 | 2024-11-27 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/24b1bjon4kIeG4yROilgou) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Christmas Songs Vol\. 1](https://open.spotify.com/album/5lWtnP3XSJWZlZJy7RCXf5) | 2:37 | 2022-12-23 | 2023-10-11 |
@@ -145,7 +146,7 @@
 | [Last Christmas](https://open.spotify.com/track/6WyeIQXw0Dd6SOjxs0P2is) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Last Christmas](https://open.spotify.com/album/4X80T73WsoHePePZsRhMQw) | 3:10 | 2023-11-25 | 2024-11-19 |
 | [Last Christmas](https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Last Christmas](https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R) | 4:40 | 2022-11-08 |  |
 | [Last Christmas](https://open.spotify.com/track/08qJ93wbDYK6kWCRh4eTCj) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [2019](https://open.spotify.com/album/27tiEUoVBcG4VlFGoZd0IC) | 2:41 | 2021-12-08 | 2023-11-03 |
-| [Last Christmas](https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Last Christmas](https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS) | 2:41 | 2023-10-16 |  |
+| [Last Christmas](https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Last Christmas](https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS) | 2:41 | 2023-10-16 | 2024-11-30 |
 | [Last Christmas](https://open.spotify.com/track/3OGXz9VQn9T26tZc6fJZAy) | [Lunar Vacation](https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB) | [Last Christmas](https://open.spotify.com/album/2TJLCU0xYZ57ZjoyL2rgHz) | 4:06 | 2021-12-15 | 2022-07-26 |
 | [Last Christmas](https://open.spotify.com/track/4uR2dgTCiFQUfL9iIM4YQa) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Last Christmas / Winter Wonderland](https://open.spotify.com/album/4UvWqFOHO52TlLLEANkeqr) | 4:05 | 2022-11-21 |  |
 | [Last Christmas \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/0meX0Nl3ZjxecRS5oBvlU2) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles – Christmas](https://open.spotify.com/album/4l4xgIIOkf91wfzoEjQbkj) | 3:36 | 2021-11-12 | 2024-11-04 |
@@ -154,6 +155,7 @@
 | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/track/2TLoim0jaX21JnnnR3Rr7r) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Linus n' Lucy \(Theme from Peanuts\)](https://open.spotify.com/album/6l9FTzWX2NIHWYKeDPvCUc) | 2:52 | 2021-12-03 | 2024-11-28 |
 | [Little Drummer Boy](https://open.spotify.com/track/1uIYa94i0ebCCDz4dlYPiN) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [lil drmr bb](https://open.spotify.com/album/5UAmTPmxuE5NWxxowhRtcf) | 3:14 | 2021-11-12 | 2022-07-29 |
 | [Little Saint Nick](https://open.spotify.com/track/1YgtNMaefny7I9KJPa577i) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Little Saint Nick](https://open.spotify.com/album/2GgkAxTD7WvusQFB3iEwBP) | 2:15 | 2021-11-12 | 2024-11-16 |
+| [Little Saint Nick \- feat\. Chris Leonard](https://open.spotify.com/track/1gX2YOv6VG3fpfBvM3lJZK) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL), [Andy Burrows](https://open.spotify.com/artist/1gYp1OMI5TA9gdiwfdC57M), [Chris Leonard](https://open.spotify.com/artist/1yJ0BlRqTPJIPt5faUpmvS) | [Little Saint Nick \(feat\. Chris Leonard\)](https://open.spotify.com/album/6jtc0gyGiNGAs7WguSuorW) | 2:37 | 2024-11-29 |  |
 | [Lonely Christmas](https://open.spotify.com/track/1tXPA83Z367gV2LKAhFFON) | [Now, Now](https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3) | [Lonely Christmas](https://open.spotify.com/album/37oKVipOX0GOHxfjAOaHf2) | 4:19 | 2021-11-12 | 2022-07-28 |
 | [Lonely Man of Winter](https://open.spotify.com/track/1OxRNKfrUtgaWoyLZye2ZA) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/16KjliJcOiaG197Hzl9z3s) | 3:11 | 2021-11-12 | 2024-04-19 |
 | [Lonely Man of Winter](https://open.spotify.com/track/3s1ajekHdEht2t8thsmFJT) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Lonely Man of Winter](https://open.spotify.com/album/6ih3mS49nmttFRS8A63X7L) | 3:11 | 2021-11-12 | 2022-07-29 |

@@ -9839,6 +9839,28 @@
     },
     {
       "album": {
+        "name": "Rathiye",
+        "url": "https://open.spotify.com/album/2uSP9uTakwOXUrokSYkT0B"
+      },
+      "artists": [
+        {
+          "name": "Adarsh Krishnan N",
+          "url": "https://open.spotify.com/artist/3V2xynGnDRU4GNoQR37XYG"
+        },
+        {
+          "name": "Rithwik",
+          "url": "https://open.spotify.com/artist/37DL49l1iS2lwGf386tFaW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216028,
+      "name": "Rathiye",
+      "url": "https://open.spotify.com/track/1GsXtSpfdgzobBpkacXRk2"
+    },
+    {
+      "album": {
         "name": "Rayil Pogum Idam",
         "url": "https://open.spotify.com/album/3DgXRTUhQVT4mk7xSKwU3i"
       },

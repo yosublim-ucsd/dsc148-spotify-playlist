@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: THE FIX\(더 픽스\)\)
 
-214 songs - 12 hr 8 min
+215 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,10 +28,11 @@
 | [alive](https://open.spotify.com/track/1TDHp9m9b1ZsJrb9TtgsYA) | [ONII](https://open.spotify.com/artist/3MaLSP3dNqtSH7Wrz1pr35) | [alive](https://open.spotify.com/album/22E1iZe1wyXbKn8W5zEiW2) | 4:22 | 2024-08-14 | 2024-09-01 |
 | [Always with You](https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP) | [Aseul](https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo) | [Always with You](https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q) | 3:59 | 2024-04-05 |  |
 | [Amazing](https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Sail the Seven Seas](https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ) | 2:42 | 2024-04-05 | 2024-06-29 |
-| [Amerindio](https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Amerindio](https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv) | 3:00 | 2024-06-28 |  |
+| [Amerindio](https://open.spotify.com/track/4IW3mVb1kWkqahrWJ1PjV7) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Amerindio](https://open.spotify.com/album/0cs7U2wLcjygbjRlVSbWXv) | 3:00 | 2024-06-28 | 2024-11-30 |
 | [Armageddon \(2Spade Remix\)](https://open.spotify.com/track/7KHVgThSlUCtMzvnze3Tye) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [2Spade](https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:08 | 2024-09-21 |  |
 | [Armageddon \(Flava D Remix\)](https://open.spotify.com/track/79YRHM4e97AF4s4xo60p4y) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 4:07 | 2024-09-21 |  |
 | [Armageddon \(Mount XLR Remix\)](https://open.spotify.com/track/5flRqe1GBBRSyKVbh7GSJy) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:44 | 2024-09-24 |  |
+| [Ash](https://open.spotify.com/track/0Ir36rSxxxGr8fMysHcyMs) | [iiso](https://open.spotify.com/artist/77LNT0q7AZsv4hKt7HDS8v) | [Ash](https://open.spotify.com/album/5S3Feym29lGQY8YJd8UTgu) | 2:24 | 2024-11-29 |  |
 | [Attention \(250 Remix\)](https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:01 | 2024-04-05 | 2024-06-29 |
 | [Back for More \(with Anitta\) \(House Remix\)](https://open.spotify.com/track/7KK7A6niqD66y0duJ6iupC) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(More Edition\)](https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E) | 2:19 | 2024-06-28 |  |
 | [Back To One](https://open.spotify.com/track/1kOg8OXkYhsoaCuDppNyxF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Hear You](https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6) | 4:58 | 2024-06-07 | 2024-09-28 |

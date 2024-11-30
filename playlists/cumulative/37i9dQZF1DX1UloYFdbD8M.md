@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-249 songs - 16 hr 35 min
+250 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Ookku \- From "Think Indie"](https://open.spotify.com/track/0yDl4lv4HdqyVwyf6gEDBf) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Ookku \(From "Think Indie"\)](https://open.spotify.com/album/7uQ5Jb3a7h0lQSXJDmngI8) | 3:03 | 2024-08-22 |  |
 | [Oombalum Kanjiyum](https://open.spotify.com/track/5VmM4mDYJQ0Y0lEWWDEMXr) | [Malayali Monkeys](https://open.spotify.com/artist/6d3qaRXhI6yFy5MgYQ56qI) | [Oombalum Kanjiyum \- From "Think Indie"](https://open.spotify.com/album/2mPXGVd0rEORx5W7GfTRcm) | 4:08 | 2023-10-03 | 2024-11-27 |
 | [Oorakkudukku](https://open.spotify.com/track/6OPImTghaIDMXtdqDz99yL) | [MC Couper](https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [Oorakkudukku](https://open.spotify.com/album/3tFnGHwmww7ORL8nIQJddU) | 2:33 | 2023-05-26 | 2023-07-28 |
+| [Ormayil](https://open.spotify.com/track/3vYG4K2MrDfgmSbV5CV7KQ) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shyam K.P](https://open.spotify.com/artist/2tUQLPa6kPvPg3FC42fXB9) | [Ormayil](https://open.spotify.com/album/3BwC7P2DHy1JSOI6fzVbin) | 3:08 | 2024-11-29 |  |
 | [Oru Cringe Paattu](https://open.spotify.com/track/3JK51mWe4OqFYYtGCoHQ47) | [Aswin Vijay](https://open.spotify.com/artist/0zMErY9KjDWU5yc9OxX8k9) | [Oru Cringe Paattu](https://open.spotify.com/album/2bdXMLyeBEYM8CfadPCtfo) | 3:35 | 2024-09-30 |  |
 | [Oru January](https://open.spotify.com/track/0YuwGkDbm0RzREWYaAfPfP) | [Bineetha Ranjith](https://open.spotify.com/artist/0hYeiOpfSvwJ6IvJPy9aHD) | [Oru January](https://open.spotify.com/album/1PVGkTGupgo1USnoeYfYuM) | 4:42 | 2023-09-12 | 2024-05-25 |
 | [Oru Mazhayude](https://open.spotify.com/track/6S5djlITiwCZK2kGU0FrJh) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Zail](https://open.spotify.com/artist/125lP111pgnHz4moKO1C1R) | [Oru Mazhayude](https://open.spotify.com/album/6vit2xHQjwGBYo5wIUG4R8) | 3:00 | 2024-05-07 |  |

@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: 200\(Eback\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Kim Mi Jeong\(김미정\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-737 songs - 1 day 15 hr 43 min
+738 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [I Told You I Like You](https://open.spotify.com/track/1xwhtsqSw267BHGQN7gFOP) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [I Told You I Like You](https://open.spotify.com/album/0dIq5a5jOBt6Ha7ix8D8mD) | 2:47 | 2022-04-01 | 2022-07-29 |
 | [I Told You I Like You](https://open.spotify.com/track/72TNvGiSdA1WOeS3Lbxs80) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [I Told You I Like You](https://open.spotify.com/album/5zpRt1JvhbULUaUnxVTCKy) | 2:47 | 2022-07-24 | 2022-12-18 |
 | [I wish](https://open.spotify.com/track/3A27WAE8Uj0jeC7cmZKjD5) | [CHOIZA](https://open.spotify.com/artist/3vvgBPro7lDMdReL1Ct2Hx) | [JAEHO](https://open.spotify.com/album/3Rdp3uLt6BdeV8a64pNTbi) | 2:54 | 2022-05-05 | 2022-06-02 |
-| [I Wish \(Feat\. Leellamarz, B.I\)](https://open.spotify.com/track/3nh8M3jWQr1DHfZ5RhTlic) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [TOTO](https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK) | 2:53 | 2024-04-02 |  |
+| [I Wish \(Feat\. Leellamarz, B.I\)](https://open.spotify.com/track/3nh8M3jWQr1DHfZ5RhTlic) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [TOTO](https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK) | 2:53 | 2024-04-02 | 2024-11-30 |
 | [I'm Fine](https://open.spotify.com/track/2VxGghBQ7dapjd4klCSsIk) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I'm Fine](https://open.spotify.com/album/3r9GmelOBdg4Qz6UaU0Ca1) | 4:08 | 2022-05-03 | 2022-07-22 |
 | [I'm not fine](https://open.spotify.com/track/1NtQo6lwlWEIohiXAw2SKY) | [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [I'm not fine](https://open.spotify.com/album/7jeodpRN0Veb4gEfxhAPP1) | 3:12 | 2022-05-05 | 2022-06-20 |
 | [Ideology](https://open.spotify.com/track/6HOmklgQCZovi2xRlSzpDK) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Ideology](https://open.spotify.com/album/2igZuP4koeMfxVEHJv5De6) | 2:55 | 2022-04-21 | 2022-07-25 |
@@ -358,6 +358,7 @@
 | [Last Night \(feat\. DD7\)](https://open.spotify.com/track/4Foe7qi4PvNYWDGT50Np8c) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [DD7](https://open.spotify.com/artist/0MR1fsOlxLYyx4CQaiM230) | [Last Night \(feat\. DD7\)](https://open.spotify.com/album/7JB7EethPMOt7poXCu6deW) | 3:04 | 2023-01-25 | 2023-02-16 |
 | [Last Pure Luv](https://open.spotify.com/track/6URA9fyuaEgiVyC706jElA) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Last Pure Luv](https://open.spotify.com/album/2W4sJVKg3dAA7DbffsoFFh) | 3:06 | 2023-01-25 | 2023-02-16 |
 | [Last Waltz](https://open.spotify.com/track/32Q54GVSCwmiFdkHrtq8tV) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Last Waltz](https://open.spotify.com/album/68ZbbysYxUQsq7smjVaajg) | 3:11 | 2022-04-21 | 2022-07-27 |
+| [Late Night Flaneur](https://open.spotify.com/track/1XvQjUHunvmYIMPgfg9Mul) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Late Night Flaneur](https://open.spotify.com/album/4EMrAEBQQEE9DY9Jb9B8fx) | 2:27 | 2024-11-29 |  |
 | [LATELY \(Feat\. Hoody\)](https://open.spotify.com/track/68W9Rt5yAcalwteykLJ82a) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [LATELY](https://open.spotify.com/album/5TWPlHZkZ55l3zBaSrtSRk) | 3:51 | 2022-04-01 |  |
 | [Latency](https://open.spotify.com/track/5Wk7aW0Ev88nRDU9Qhjqc3) | [CMBY](https://open.spotify.com/artist/7a3cKDQSaO1C3bIBXq3xA2), [Chanakorea](https://open.spotify.com/artist/7wCyFwjqvcUNzc0Iy7S5LU) | [Latency](https://open.spotify.com/album/7rwOleO1zSJ4790Da3pVkb) | 2:38 | 2022-04-01 | 2022-04-21 |
 | [Lay Back \(feat\. Nucksal & Layone\)](https://open.spotify.com/track/3X9zf06EBlvABBNvfeeydj) | [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB) | [Lay Back](https://open.spotify.com/album/7muPnaAg1hNoEq0EaTSGwA) | 3:13 | 2022-05-05 | 2022-06-07 |
@@ -374,7 +375,7 @@
 | [LiLaC](https://open.spotify.com/track/6eQ74GNcsSwHsXp6kG0v4Y) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 2:48 | 2022-04-01 | 2022-07-28 |
 | [Lilac](https://open.spotify.com/track/3XfMV15NHPjohX0KwkjKID) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4) | [Dnsg](https://open.spotify.com/album/4xvy4Oja5dCIfA5KcnIjsB) | 3:40 | 2022-04-01 | 2022-07-28 |
 | [Limousine \(Feat\. MINO\) \(Prod\. GRAY\)](https://open.spotify.com/track/5g2Ik0WJG9rqu97nCLcQhV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [Show Me The Money 10 Episode 3](https://open.spotify.com/album/5W1NIlh0lKO1nABgocreql) | 3:40 | 2022-04-01 |  |
-| [Line \(Feat\. oceanfromtheblue\)](https://open.spotify.com/track/0McjONE4eqkgTtS2GcgNbk) | [O’Domar](https://open.spotify.com/artist/6BQDqgvj7U08coJTW72T68), [JOONIE](https://open.spotify.com/artist/4sX22X56Udyfw5vOewwKfP), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [RAP:PUBLIC Episode.1](https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi) | 4:25 | 2024-11-28 |  |
+| [Line \(Feat\. oceanfromtheblue\)](https://open.spotify.com/track/0McjONE4eqkgTtS2GcgNbk) | [O'Domar](https://open.spotify.com/artist/2tVfmWc35v5ALhML9zgSyw), [JOONIE](https://open.spotify.com/artist/3eXkt1nVfgCsKiMIupInVZ), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [RAP:PUBLIC Episode.1](https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi) | 4:25 | 2024-11-28 |  |
 | [LIVE CLASSIC \(with Lotte Castle\)](https://open.spotify.com/track/4NyUA8nLOEPMBdkJBg21kC) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [LIVE CLASSIC](https://open.spotify.com/album/7vqCpGJ8nH8s2X9Dz1lCtZ) | 2:37 | 2023-08-16 | 2023-09-19 |
 | [Lonely](https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 3:16 | 2022-04-01 |  |
 | [looking for](https://open.spotify.com/track/7frb6j67G0tcbB7EDPOQq9) | [Won Jang](https://open.spotify.com/artist/0qygfMwBnBWSto1ty1FmXS) | [The Best](https://open.spotify.com/album/7IcrCpUgjSuVCougQxZWO0) | 2:28 | 2022-05-31 | 2022-06-05 |

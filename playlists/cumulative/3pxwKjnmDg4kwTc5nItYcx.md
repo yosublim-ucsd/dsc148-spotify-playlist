@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-814 songs - 1 day 19 hr 41 min
+815 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Compromise \(feat\. Sabrina Claudio\)](https://open.spotify.com/track/4knQ536ymVE6WJTlmTlISw) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Compromise \(feat\. Sabrina Claudio\)](https://open.spotify.com/album/5sTglsazSFT2Wkvc7cbKdA) | 3:05 | 2019-09-06 | 2020-04-06 |
 | [Control](https://open.spotify.com/track/3Pcq7FMZ58Scka7U3BSnba) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [CLOSURE](https://open.spotify.com/album/6ujQJTTGKCCPdFjeTI4bIh) | 3:02 | 2020-01-10 | 2020-04-06 |
 | [Conversations \(With The Moon\)](https://open.spotify.com/track/5L60Ewkf3Y7kT3oUUrQXq3) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Conversations \(With The Moon\) / Teenage Queen](https://open.spotify.com/album/1BCueNgOUTd6JLItGy0BBP) | 4:09 | 2019-08-27\* | 2020-02-12 |
+| [Cookie](https://open.spotify.com/track/0xdwUjqxpzEt7jZC0n0aN7) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [Skeletons](https://open.spotify.com/album/4mJCH5WicAkf9wevEjVeuV) | 3:57 | 2024-11-29 |  |
 | [Crazy Ones](https://open.spotify.com/track/0jpb1OpjPANsRw8qTl0SuN) | [Hopium](https://open.spotify.com/artist/3DXcwp1aG9wMyxWIAlysmF) | [Imperfectionism](https://open.spotify.com/album/2MlDavWJj9lVMmrb8szvRV) | 3:45 | 2019-09-13 | 2021-05-12 |
 | [Cross Country](https://open.spotify.com/track/2YgwcrRc33vIWgv5n2TNZ9) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/7jXPuZKd5DMTZGzwucgne4) | 3:26 | 2021-02-26 |  |
 | [Crush](https://open.spotify.com/track/5stsHsQTNRp8guy8Y6AJmQ) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [Crush](https://open.spotify.com/album/1heXxMqKYRntAtRRKSu6I5) | 2:46 | 2020-08-30 | 2021-05-12 |

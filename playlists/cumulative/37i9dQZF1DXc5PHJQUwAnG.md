@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Natanael Cano, Uriel Gaxiola, Ganggy y Victor Mendivil en portada.
 
-321 songs - 15 hr 13 min
+322 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Dafuk](https://open.spotify.com/track/1Rt5PxKde8JdrCk4ZTnu0g) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:31 | 2023-10-20 |  |
 | [DDEVERAS](https://open.spotify.com/track/1UEMzAH06AVWnsgnANkAc6) | [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [DDEVERAS](https://open.spotify.com/album/3cfUapXkbzZnF9MYK0pycZ) | 2:22 | 2023-06-09 | 2023-12-09 |
 | [De Por Vida](https://open.spotify.com/track/5ykrkjleDzZWCmkTkWoN8h) | [DUNNOWHERE](https://open.spotify.com/artist/35FdbavCU6ynfBatkUPQG8), [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [CRYMES](https://open.spotify.com/artist/2Js99jlxIiJItAAh69aZMM) | [De Por Vida](https://open.spotify.com/album/0SD5803nMitaFCZFliaktr) | 2:33 | 2024-06-14 | 2024-07-27 |
+| [Debut Y Despedida](https://open.spotify.com/track/5D2tEdUibUNSeucsEv5Sjz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:34 | 2024-11-29 |  |
 | [Deja Vú](https://open.spotify.com/track/5Y0TXblxH8xcEF9ggXOL2E) | [Yung Dupe](https://open.spotify.com/artist/7ATR883ZrEevrEWAlMXFs3), [Pepe Nungaray](https://open.spotify.com/artist/56CgM09yZsTWauH3l4CqKs), [MichaelBM](https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl) | [Deja Vú](https://open.spotify.com/album/18ZffmxARUqg9VnptWX46I) | 2:14 | 2023-06-09 | 2024-05-18 |
 | [Dejar Atrás / Rompe Corazones](https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 4:05 | 2023-06-09 | 2023-07-01 |
 | [Descascan](https://open.spotify.com/track/0PUNUSOwyWyhtcMp7wIkvI) | [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Descascan](https://open.spotify.com/album/7wZdqXvt6UANVu1m4yYthH) | 2:00 | 2023-06-09 | 2023-12-09 |

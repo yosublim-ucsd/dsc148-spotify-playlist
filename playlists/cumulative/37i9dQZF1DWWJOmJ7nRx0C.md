@@ -2,9 +2,9 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover: Spiritbox
+> The rock songs you need to know\. Turn it  ⬆️ Cover: Architects
 
-1,347 songs - 3 day 8 hr 26 min
+1,349 songs - 3 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [A Crooked Melody](https://open.spotify.com/track/57bIv3ROVypmo9bzJzUShI) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [A Crooked Melody](https://open.spotify.com/album/4fIZzk4JQ6g5xFlOdz1rGE) | 3:55 | 2023-04-07 | 2023-10-28 |
 | [A Disappearing Act](https://open.spotify.com/track/04flu1A6UXP4Stissk3G1l) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:29 | 2022-08-19 | 2023-03-25 |
 | [A Dozen Roses](https://open.spotify.com/track/5zfSxKmqBSKTaZjVkvPkmA) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [A Dozen Roses](https://open.spotify.com/album/1NjGLb0DCKNn086xUgQtCd) | 2:37 | 2024-02-23 | 2024-03-30 |
-| [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-11 |  |
+| [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-11 | 2024-11-30 |
+| [A Fragile Thing \- Radio Edit](https://open.spotify.com/track/27qFiFMlSYAXEHDdWWKp2W) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/5zl6WesD4GOqrzakDCEGg8) | 3:53 | 2024-11-29 |  |
 | [A MILLION MILES](https://open.spotify.com/track/1Q48QOI7NxJbUKtZXhIpAE) | [Saul](https://open.spotify.com/artist/3bpsYqqHc3GqU3WclK4dpp) | [A MILLION MILES](https://open.spotify.com/album/1jWsYK6baMwcaLbDU56rVp) | 4:12 | 2023-05-12 | 2023-08-26 |
 | [A Shot in the Dark](https://open.spotify.com/track/0vWaCnMA1j2u5OE5eOVb2N) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [A Shot in the Dark](https://open.spotify.com/album/7dcfDgnDbBf6BVtrltPw9u) | 3:12 | 2022-04-08 | 2022-05-20 |
 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 | 2023-10-03 | 2024-08-03 |
@@ -684,6 +685,7 @@
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-17 | 2024-06-08 |
 | [Living Proof](https://open.spotify.com/track/4t4ma24gmDxiWCcINP3Vrn) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:39 | 2024-06-07 | 2024-08-31 |
 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-16 | 2024-10-26 |
+| [Long Gone](https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Long Gone](https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc) | 3:31 | 2024-11-29 |  |
 | [Look Alive \(Netic\)](https://open.spotify.com/track/4LAI7qgpkx8uoMdpobZrPg) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Melanin Punk](https://open.spotify.com/album/0l0pfg7fOxU9YHQkHhXTTD) | 3:13 | 2023-10-20 | 2024-04-13 |
 | [Look Alive \(Netic\)](https://open.spotify.com/track/5NGlVLen8xMEJ6TnwGTCtI) | [Oxymorrons](https://open.spotify.com/artist/3GDw9k8FzlOUxPzDUaUhlZ) | [Look Alive \(Netic\)](https://open.spotify.com/album/5Emtf7kVxU2hgZqDquGux1) | 3:13 | 2023-08-18 | 2023-10-21 |
 | [Looking To Fight](https://open.spotify.com/track/4OqswqAHyGJykRO4WO86e6) | [Saul](https://open.spotify.com/artist/3bpsYqqHc3GqU3WclK4dpp) | [Rise As Equals](https://open.spotify.com/album/5yvG86aA4g307xeryVkjCo) | 3:50 | 2021-07-16 | 2022-02-19 |
@@ -1053,7 +1055,7 @@
 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 | 2023-05-08 | 2023-07-01 |
 | [Spit You Out](https://open.spotify.com/track/7Jj9ygPtg5IzRzX9cfeI80) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51), [Daedric](https://open.spotify.com/artist/7bPZIHM9End5CqPcCrOqBf) | [Spit You Out](https://open.spotify.com/album/3tjSsu3sY8kdpP7CxEBkLd) | 4:06 | 2023-10-13 | 2023-11-11 |
 | [Spotlight](https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Spotlight](https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW) | 4:23 | 2023-10-27 | 2024-04-19 |
-| [Stained](https://open.spotify.com/track/0J1IJsMbKWb5g2sJArTkGF) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:05 | 2024-11-15 |  |
+| [Stained](https://open.spotify.com/track/0J1IJsMbKWb5g2sJArTkGF) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:05 | 2024-11-15 | 2024-11-30 |
 | [Stand Up](https://open.spotify.com/track/43MmTgHQ9kf5AK6JpjPQQc) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Ego Trip](https://open.spotify.com/album/5OSVAtytFqdJwIJpD3gGEJ) | 3:48 | 2022-05-06 | 2022-06-11 |
 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 | 2022-01-21 | 2022-04-09 |
 | [Standing in the Storm](https://open.spotify.com/track/5ABl9GeMcWog9Yrur3P9Jq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Standing in the Storm / Surviving The Game](https://open.spotify.com/album/3cIRw4SnfPO2TXVJK8C1nG) | 4:17 | 2021-11-12 | 2022-01-08 |

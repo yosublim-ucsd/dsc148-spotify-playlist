@@ -2,9 +2,9 @@
 
 ### [RAPública de Colombia](https://open.spotify.com/playlist/37i9dQZF1DX2vnBrKB7FwM)
 
-> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Penyair
+> Porque Colombia es tierra de MCs, Rap y Hip\-Hop\. Foto: Vic Deal
 
-141 songs - 7 hr 47 min
+142 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/37dPkMfAhfvH3Ndl8ev0cv) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Universos Mixtape](https://open.spotify.com/album/0CIIttetz5Ts1zwEBki0rN) | 2:50 | 2023-02-17 | 2024-04-19 |
 | [Otra Pa' Mi Cuenta](https://open.spotify.com/track/7kCRdqtRVssyEZEfUSECWZ) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Andrade A.K.A Doble A](https://open.spotify.com/artist/7b9fbzEOUa59TNhgCVIGLU) | [Otra Pa' Mi Cuenta](https://open.spotify.com/album/0UGuJH97dHiHsQTUpy6puf) | 2:50 | 2022-02-25 |  |
 | [Pantone](https://open.spotify.com/track/0DW6Q5KTqkf1Lh2ROqmKWu) | [No Rules Clan](https://open.spotify.com/artist/6i28S1MHCSNJtufoq0DnPv), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX) | [Pantone](https://open.spotify.com/album/4KIYSo2O5ZqH03VeHXsWNX) | 2:37 | 2022-02-25 |  |
-| [Parados En La Raya](https://open.spotify.com/track/38pDlpPCf0LXRwHRElYtnQ) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [Parados En La Raya](https://open.spotify.com/album/19ovx88sTeDtQwp441pwBD) | 3:02 | 2023-11-17 |  |
+| [Parados En La Raya](https://open.spotify.com/track/38pDlpPCf0LXRwHRElYtnQ) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Ignorancia Sofisticada](https://open.spotify.com/artist/2VqPCXF4QWaR9Xto4xN4YX), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [Parados En La Raya](https://open.spotify.com/album/19ovx88sTeDtQwp441pwBD) | 3:02 | 2023-11-17 | 2024-11-30 |
 | [Parchesito de Andén](https://open.spotify.com/track/426jhs83bwjf3Pl3kP6MUt) | [Kiño](https://open.spotify.com/artist/4mSxhskrhEcz1mZNVf1GWa), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1) | [Parchesito de Andén](https://open.spotify.com/album/5doCyysFrS57uEz6WemNA6) | 2:54 | 2022-02-25 |  |
 | [Parpadeos](https://open.spotify.com/track/2a2Wyak2LXbF8ut1IBRvvw) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Parpadeos](https://open.spotify.com/album/0JjuWF600c1AsewLXwSJ5e) | 3:02 | 2022-02-25 |  |
 | [Parpadeos](https://open.spotify.com/track/7jeTgr89idzEp8uv111bPN) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Vergüenza Propia](https://open.spotify.com/album/6G7bf3U6XL6Fo0E2yh8MXD) | 3:02 | 2022-07-15 | 2024-04-19 |
@@ -129,6 +129,7 @@
 | [So Sad](https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [So Sad](https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe) | 3:37 | 2023-04-14 |  |
 | [Sosa](https://open.spotify.com/track/2ydOWzGxQa50EMmo0wyDXK) | [Ruzto](https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo), [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Sosa](https://open.spotify.com/album/4T8OD9FrYA6EqJJqqfB77K) | 2:49 | 2022-02-25 | 2023-11-25 |
 | [Soulmate](https://open.spotify.com/track/2Q6wN4JGESquKaJn3lnAix) | [The Negro Tapes](https://open.spotify.com/artist/40xzVnQCJdpsXjcNZRoAi4) | [Soulmate](https://open.spotify.com/album/34qyqrDSwLu4Z1xtPu7vtU) | 3:19 | 2023-11-24 |  |
+| [Super Natural](https://open.spotify.com/track/5WpsDV7tkMlTtIvRqOB8Bo) | [Vic Deal](https://open.spotify.com/artist/0NcNqG01boinOKgb7ImmEJ), [Sapch Beats](https://open.spotify.com/artist/64g7UrnRO9X5EZysGj4OdQ) | [Medallas de Oro](https://open.spotify.com/album/4QxuDcSbR9GGF9dKg1w2GN) | 3:05 | 2024-11-29 |  |
 | [Take It Easy](https://open.spotify.com/track/5AlT85aYdhGZu212LSLB8t) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX) | [Take It Easy](https://open.spotify.com/album/3nOR8swBmPBO9f1USrjxp2) | 3:21 | 2022-02-25 |  |
 | [Tararea](https://open.spotify.com/track/0Go1Z1pGPbCGv1dADfSbLn) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/6PpSdpOYFAsR81W6X3SrbT) | 3:19 | 2022-02-25 |  |
 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 | 2022-07-15 | 2024-04-19 |

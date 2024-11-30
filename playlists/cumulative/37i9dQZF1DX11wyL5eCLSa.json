@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Reyno en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Dillom y Santiago Motorizado en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -1365,6 +1365,32 @@
     },
     {
       "album": {
+        "name": "Cirug\u00eda (Portal Sessions)",
+        "url": "https://open.spotify.com/album/4Dy7IxsvlG9rEt0lGECFDr"
+      },
+      "artists": [
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        },
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        },
+        {
+          "name": "Portal Sessions",
+          "url": "https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218952,
+      "name": "Cirug\u00eda (Portal Sessions)",
+      "url": "https://open.spotify.com/track/5ssgbRdJTVgTLmkJ7gmPuF"
+    },
+    {
+      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/7yfdxsGFK68Q5P2kGaqK3Y"
       },
@@ -1884,7 +1910,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 282666,
       "name": "Dafne",
       "url": "https://open.spotify.com/track/3Uw6XT2xJzEddDVd3bor1E"
@@ -4487,6 +4513,32 @@
     },
     {
       "album": {
+        "name": "Portal Sessions - Dillom y Santiago Motorizado",
+        "url": "https://open.spotify.com/album/6p7BVraR1uyGLMbTiLay74"
+      },
+      "artists": [
+        {
+          "name": "Santiago Motorizado",
+          "url": "https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        },
+        {
+          "name": "Portal Sessions",
+          "url": "https://open.spotify.com/artist/5EU23oxWb2gKorPhZRJfXN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330843,
+      "name": "La Noche Eterna (Portal Sessions)",
+      "url": "https://open.spotify.com/track/1NSgsMDyyRWVUMcfDRerEg"
+    },
+    {
+      "album": {
         "name": "La Novedad",
         "url": "https://open.spotify.com/album/1GMQ07qxd5Sxjb1ga4c1sW"
       },
@@ -4520,7 +4572,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 3229000,
       "name": "LA NUBE EN EL JARD\u00cdN",
       "url": "https://open.spotify.com/track/26SAoKWE9LyFHDfAkDzN0i"
@@ -5756,7 +5808,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 232360,
       "name": "Metamorfosis",
       "url": "https://open.spotify.com/track/4gWdo9SrB6B28NwOme0HLZ"
@@ -7929,6 +7981,24 @@
     },
     {
       "album": {
+        "name": "ESTAN STRANGE I",
+        "url": "https://open.spotify.com/album/0ftq7eDwkLbDAkfPMbxqea"
+      },
+      "artists": [
+        {
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Running Blood",
+      "url": "https://open.spotify.com/track/4jkI3ZhsIbCPMTUMH7RwCa"
+    },
+    {
+      "album": {
         "name": "S!CK",
         "url": "https://open.spotify.com/album/2NFOsuWL7fH1UpFGTWeHcs"
       },
@@ -8364,7 +8434,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 252658,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/7uLnT6UkEbtKbjhAleIZ7n"
@@ -8976,7 +9046,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 170126,
       "name": "TH1RT33N GH0STS",
       "url": "https://open.spotify.com/track/091B2uR1L5QcGXTPD3Hfka"
@@ -9618,6 +9688,24 @@
       "duration_ms": 120000,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
+    },
+    {
+      "album": {
+        "name": "valor de m\u00e1s (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
+        "url": "https://open.spotify.com/album/5nffADsIz5z4BZ5CpuhkeV"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253344,
+      "name": "valor de m\u00e1s - (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
+      "url": "https://open.spotify.com/track/7JMDN7Uq1RTTWVp6m54zL0"
     },
     {
       "album": {

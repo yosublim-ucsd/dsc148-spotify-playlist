@@ -4575,6 +4575,24 @@
     },
     {
       "album": {
+        "name": "Quickly",
+        "url": "https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego"
+      },
+      "artists": [
+        {
+          "name": "Elois Jacq",
+          "url": "https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Quickly",
+      "url": "https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx"
+    },
+    {
+      "album": {
         "name": "Quiet Nights",
         "url": "https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E"
       },

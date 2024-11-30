@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-184 songs - 8 hr 59 min
+185 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/track/2UZRzZjt75ZlYfsNylclCr) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR), [BENXNI](https://open.spotify.com/artist/6XH0kHK5G7kGgDGu2Id6a2), [TAHITI](https://open.spotify.com/artist/11Ihrdsc07m7HGvqmbGCbp) | [DOUGH? feat\. BENXNI, TAHITI](https://open.spotify.com/album/48SEEUyGMnImibdwHeVgRA) | 2:23 | 2024-07-17 | 2024-08-21 |
 | [DRILL KING](https://open.spotify.com/track/1S9tGcdVKbngeSnrnE3f1o) | [SATORU](https://open.spotify.com/artist/3dLTvvJ3HQZy0dcozfallB) | [DRILL KING](https://open.spotify.com/album/2k8X00C4i54JaqBJQOHrls) | 3:12 | 2022-11-19 | 2023-05-24 |
 | [EDO](https://open.spotify.com/track/07OJpiSTwt4hCJPcXveRHa) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/3aD4xnihNEcPPnMdd3FuEF) | 3:00 | 2022-11-19 | 2023-06-22 |
-| [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 | 2024-11-06 |  |
+| [EDO](https://open.spotify.com/track/7qdVue4d2eL78VYdl4BXdZ) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit](https://open.spotify.com/album/1QpwzysSvWVFZR3Lkr2lPH) | 3:00 | 2024-11-06 | 2024-11-30 |
 | [egirl wanna do bdsm.nsfw](https://open.spotify.com/track/23H7hqMiuNHrPU8AR9JNoy) | [JAY DVRDEN](https://open.spotify.com/artist/3mZ0TiDpjzDJU5qttTDHXq), [XNI](https://open.spotify.com/artist/3ibuYNQ2Oxu7lWcNf6Ww7c), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [egirl wanna do bdsm.nsfw](https://open.spotify.com/album/4Pt415qukXaaPjSmxWtFgr) | 2:36 | 2022-11-19 | 2024-07-12 |
 | [Fast](https://open.spotify.com/track/4IwBeoakiZGK5h8KE7Ns3I) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [Frankkiss](https://open.spotify.com/artist/7uj4zg34enYInzpT64qAB2), [Kiyoki](https://open.spotify.com/artist/4YqDFjvk7ovTE8bYLHr2ux) | [Fast](https://open.spotify.com/album/654vDrOAbeRErsaIuIi0Js) | 3:02 | 2024-10-02 |  |
 | [Fast Pass](https://open.spotify.com/track/39wnOZkUJODG6ZxGqHkXoT) | [Harka](https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI) | [Fast Pass](https://open.spotify.com/album/1d0Zd9cEVBugHOAuJQYNu9) | 2:58 | 2024-07-12 | 2024-08-21 |
@@ -180,6 +180,7 @@
 | [When i was young](https://open.spotify.com/track/2CWb9Q82ZWEIXunDwv6mkI) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [style](https://open.spotify.com/album/5kt6uRKhMiZUm8o915IkNx) | 2:38 | 2024-02-27 | 2024-04-24 |
 | [When i was young](https://open.spotify.com/track/4fIgIE4U8eeqz1l5qY3QYk) | [MFS](https://open.spotify.com/artist/5qH4hGRUWoLtBVgMD0alcb) | [style](https://open.spotify.com/album/63yKg4HtqigLHwlMQsUYiA) | 2:38 | 2022-11-19 | 2023-05-24 |
 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-28 |  |
+| [WTF](https://open.spotify.com/track/2RuDratTmJvZIKCsi4gWWB) | [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [WATAPACHI](https://open.spotify.com/artist/3jn7wt2ywocl6A8LOS2YyH) | [WTF](https://open.spotify.com/album/0HTNHb1uSnTA8h4c1WQcPm) | 2:23 | 2024-11-27 |  |
 | [X RIOT](https://open.spotify.com/track/5yPK6NNA4nC2ELMrBvnXQC) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [X RIOT](https://open.spotify.com/album/4qB6NgvgbFxqwxYW56s1xk) | 3:08 | 2022-11-19 | 2024-04-19 |
 | [X RIOT \(feat\. Tokyo Young Vision\)](https://open.spotify.com/track/3cxU9leESo9h2aqomdO7NY) | [XLARGE](https://open.spotify.com/artist/6J2XZJTbKOXfS2UJKjy3Hv), [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [X RIOT \(feat\. Tokyo Young Vision\)](https://open.spotify.com/album/1AK4X8fWHGR0gDrbsjWdiB) | 3:08 | 2024-02-27 |  |
 | [YAJU](https://open.spotify.com/track/1MfRRNBWo54y4ZF23SivXg) | [rirugiliyangugili](https://open.spotify.com/artist/2ojo5MBGfvdfO3Iql07wu9), [Yokai Jaki](https://open.spotify.com/artist/1KWYZKBQJ1ClZWnEpOPAYp) | [YAJU](https://open.spotify.com/album/634B4kQFuSotpTdv8fTvBB) | 2:12 | 2022-11-19 | 2023-05-24 |

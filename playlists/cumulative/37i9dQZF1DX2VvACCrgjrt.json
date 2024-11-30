@@ -4040,7 +4040,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 144193,
       "name": "Dancin'",
       "url": "https://open.spotify.com/track/0lmFObF53iIn8d21SM3RUL"
@@ -9449,6 +9449,24 @@
     },
     {
       "album": {
+        "name": "Let Them Take Them",
+        "url": "https://open.spotify.com/album/7MDYdEu0sDTfLHOuD0iDBL"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Let Them Take Them",
+      "url": "https://open.spotify.com/track/6TUglCcH2jDhKom4wxMzfS"
+    },
+    {
+      "album": {
         "name": "Let You Down",
         "url": "https://open.spotify.com/album/2aEj6LRGNbbqzdW9SVIrqp"
       },
@@ -9704,7 +9722,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 193185,
       "name": "Lights On",
       "url": "https://open.spotify.com/track/6D5a5CV8ARtijH5pLUKEuK"
@@ -10048,6 +10066,32 @@
       "duration_ms": 196875,
       "name": "Lost & Found London",
       "url": "https://open.spotify.com/track/1Z9DFlgXEDX4XDnaBrKPLt"
+    },
+    {
+      "album": {
+        "name": "LOST CONTROL",
+        "url": "https://open.spotify.com/album/2yBGhB0Y1APAJQKT4qVgMC"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Denzel Osi",
+          "url": "https://open.spotify.com/artist/6haGlOtf6CyToDdf1XZfjA"
+        },
+        {
+          "name": "CALAVERA",
+          "url": "https://open.spotify.com/artist/0teIPaaAY6NhcTvVtFJWld"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158888,
+      "name": "LOST CONTROL",
+      "url": "https://open.spotify.com/track/40HmXWOyB7r2FcTZw4Z9fg"
     },
     {
       "album": {

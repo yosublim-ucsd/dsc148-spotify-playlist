@@ -9068,7 +9068,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190344,
-      "name": "\u01aa. \u25d6\u01aa\u274d\u227b\u0338\u25de.|\u25d7\u0449 (*\u110b\u25b3+\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a \u0308.\u00b7*:\u30fb\u2727\u20db(\u0f7d\u0e51",
+      "name": "\u01aa. \u25d6\u01aa\u274d\u2281\u25de.|\u25d7\u0449 (*\u3147\u25b3\u208a\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a\u00a8.\u00b7*:\uff65\u2727\u20db(\u0f7d\u0e51",
       "url": "https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN"
     },
     {
@@ -9302,7 +9302,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 124266,
-      "name": "\u3068\u3093\u3066\u3099\u3082\u30de\u30a6\u30f3\u30c6\u30f32 / Mount Amazing 2",
+      "name": "\u3068\u3093\u3067\u3082\u30de\u30a6\u30f3\u30c6\u30f3\uff12 / Mount Amazing 2",
       "url": "https://open.spotify.com/track/4qkpPliACyu6q4kK6NvJls"
     },
     {
@@ -9653,24 +9653,6 @@
     },
     {
       "album": {
-        "name": "\u30fb\u2727(\u0e51\u0d95\u0e31\u0dc5*.\u3002 * \u0308\u00b0\u3002",
-        "url": "https://open.spotify.com/album/3yDj7nX7WQuSrhDiZucfLH"
-      },
-      "artists": [
-        {
-          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
-          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
-        }
-      ],
-      "date_added": "2023-05-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 135717,
-      "name": "\u30fb\u2727(\u0e51\u0d95\u0e31\u0dc5*.\u3002 * \u0308\u00b0\u3002",
-      "url": "https://open.spotify.com/track/5d3qZSMHSSqNX3oHhhFX0o"
-    },
-    {
-      "album": {
         "name": "\u82b1\u706b",
         "url": "https://open.spotify.com/album/0qqWjEDPS9s2lxTjpWZXVr"
       },
@@ -9974,6 +9956,24 @@
       "duration_ms": 393060,
       "name": "\ud63c\uc790 \ub0a8\uc740 \uc9c0\uae08 \uaf34\uc774",
       "url": "https://open.spotify.com/track/6KLkeu4ATlq0p5spHTiwzR"
+    },
+    {
+      "album": {
+        "name": "\uff65\u2727(\u0e51\u0d95\u0e31\u0dc5*.\u3002 *\u00a8\u00b0\u3002",
+        "url": "https://open.spotify.com/album/3yDj7nX7WQuSrhDiZucfLH"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135717,
+      "name": "\uff65\u2727(\u0e51\u0d95\u0e31\u0dc5*.\u3002 *\u00a8\u00b0\u3002",
+      "url": "https://open.spotify.com/track/5d3qZSMHSSqNX3oHhhFX0o"
     }
   ],
   "url": "https://open.spotify.com/playlist/2PX0djbBozANnN4mHxh6Wx"

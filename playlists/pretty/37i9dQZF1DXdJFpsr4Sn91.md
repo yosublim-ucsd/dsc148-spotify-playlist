@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa ABREU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,822 likes - 92 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,850 likes - 92 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

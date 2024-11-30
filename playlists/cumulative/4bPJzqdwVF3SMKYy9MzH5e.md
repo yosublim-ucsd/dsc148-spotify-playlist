@@ -4,7 +4,7 @@
 
 > 
 
-2,025 songs - 4 day 12 hr 43 min
+2,026 songs - 4 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1238,6 +1238,7 @@
 | [NEW MAGIC WAND](https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:15 | 2023-04-23 |  |
 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2022-04-03 |  |
 | [New Rules](https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 3:29 | 2021-08-05 |  |
+| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-11-29 |  |
 | [New York City](https://open.spotify.com/track/4v1CvZazmdpxQLEt3sCeKH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [New York City](https://open.spotify.com/album/5Y0WAOEQgulzCuG9QrixVj) | 3:50 | 2021-08-05 |  |
 | [Newlove](https://open.spotify.com/track/2gLalMkbrFz6VkAgYORIQp) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Newlove](https://open.spotify.com/album/2kE6n9MG1lUw8Z1qwTSNs1) | 5:59 | 2022-04-04 |  |
 | [Nhk!?](https://open.spotify.com/track/138aY6xPjrNgSxnnUIShQR) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [My Love Feels All Wrong\. Digipak](https://open.spotify.com/album/2NekMZ3pdknQ0VdEuhSVwb) | 4:34 | 2022-06-04 |  |

@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 271976,
       "name": "Atlantis - Model Man Remix",
       "url": "https://open.spotify.com/track/3Sgh2x5lun9pRrQAXa4mZT"
@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 164774,
       "name": "HABITS",
       "url": "https://open.spotify.com/track/5L8dahm9afHErsFh5vsiUo"
@@ -2852,7 +2852,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 238609,
       "name": "Here With You",
       "url": "https://open.spotify.com/track/6tS0zfxJBZcHrgKpI9haWa"
@@ -3131,6 +3131,28 @@
     },
     {
       "album": {
+        "name": "Anywhere, But Here With You",
+        "url": "https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        },
+        {
+          "name": "Dill",
+          "url": "https://open.spotify.com/artist/1tSS7fsN2FGnObEOZLHnld"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177770,
+      "name": "I Have Nothing More To Tell You",
+      "url": "https://open.spotify.com/track/0gTQdI5yY0beu8TCSNQ5ZW"
+    },
+    {
+      "album": {
         "name": "I Have Nothing More To Tell You",
         "url": "https://open.spotify.com/album/4yjkFiQ9D26TqJkEJDHS7t"
       },
@@ -3146,7 +3168,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 177770,
       "name": "I Have Nothing More To Tell You",
       "url": "https://open.spotify.com/track/4Bp84QWTyAebE3lh2GhSAL"
@@ -3294,6 +3316,28 @@
       "duration_ms": 188213,
       "name": "I Smile for E",
       "url": "https://open.spotify.com/track/2Wcv0p4gniHJ1rJvUae3B9"
+    },
+    {
+      "album": {
+        "name": "Anywhere, But Here With You",
+        "url": "https://open.spotify.com/album/3GQuAjzfQV1eOL0ukXf33v"
+      },
+      "artists": [
+        {
+          "name": "Brian Nasty",
+          "url": "https://open.spotify.com/artist/5RpQGZtxRWXdEZpV7gNdvM"
+        },
+        {
+          "name": "Felix",
+          "url": "https://open.spotify.com/artist/5wjBidqp8mV29FhdOVeXP8"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263295,
+      "name": "I'd Rather Not Think About It",
+      "url": "https://open.spotify.com/track/2h0vIjcPUidp6xJjx7O0dl"
     },
     {
       "album": {
@@ -7004,6 +7048,24 @@
       "duration_ms": 232057,
       "name": "Woman",
       "url": "https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n"
+    },
+    {
+      "album": {
+        "name": "Wonderful Christmastime",
+        "url": "https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177909,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7"
     },
     {
       "album": {

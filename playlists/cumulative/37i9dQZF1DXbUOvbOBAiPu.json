@@ -14493,7 +14493,7 @@
     },
     {
       "album": {
-        "name": "Elusive (Live with the New Choir)",
+        "name": "Elusive (Live with The New Choir)",
         "url": "https://open.spotify.com/album/27uQvTVwPdFNuRDpSass2Y"
       },
       "artists": [
@@ -14510,7 +14510,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 261293,
-      "name": "Elusive - Live with the New Choir",
+      "name": "Elusive - Live with The New Choir",
       "url": "https://open.spotify.com/track/2Jn1phO38Lst3kkuaSGAza"
     },
     {
@@ -31117,6 +31117,24 @@
     },
     {
       "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
+    },
+    {
+      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt"
       },
@@ -31124,6 +31142,10 @@
         {
           "name": "Dinos",
           "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
       "date_added": "2024-11-28",
@@ -37604,6 +37626,24 @@
       "duration_ms": 196533,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/2Bwzb9e5mzm9oZ2zDFx6n3"
+    },
+    {
+      "album": {
+        "name": "Tranki, Todo Pasa",
+        "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185700,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx"
     },
     {
       "album": {

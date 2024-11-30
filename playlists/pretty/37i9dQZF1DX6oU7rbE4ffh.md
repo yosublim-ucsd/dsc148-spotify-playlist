@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,790 likes - 184 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,832 likes - 184 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 45 | [Drifting Canoe](https://open.spotify.com/track/0SIgAqHpiqBClTtHODNQcR) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Forever Road](https://open.spotify.com/album/5Ry2CQlBI0DKDKpv6ahvjc) | 2:48 |
 | 46 | [Zero Gravity](https://open.spotify.com/track/0ZlY9jzoDlRHwqlVlGJWgo) | [Sky Aurora](https://open.spotify.com/artist/61RYkPWI9OG0e4W598sbTq) | [Zero Gravity](https://open.spotify.com/album/6NtdDSXTD9vWKohSdUV7b7) | 2:42 |
 | 47 | [Free Floating](https://open.spotify.com/track/5IMAdlXImxBv4LNUZMTDxq) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [Free Floating](https://open.spotify.com/album/6klzmQSG4xUpPj6LY2vj5t) | 3:27 |
-| 48 | [Cadence](https://open.spotify.com/track/2klnoPf167iWqr7O90CQqR) | [Nova Johnson](https://open.spotify.com/artist/5G3G1Chd4jnbGdo3irgFvb) | [Cadence](https://open.spotify.com/album/5sZLou7N2DCOohKAjdY7zL) | 2:59 |
+| 48 | [Cadence](https://open.spotify.com/track/2klnoPf167iWqr7O90CQqR) | [Nova Johnson](https://open.spotify.com/artist/4fU6BNWjIvszRuSkxhcOCm) | [Cadence](https://open.spotify.com/album/5sZLou7N2DCOohKAjdY7zL) | 2:59 |
 | 49 | [Serenity stars](https://open.spotify.com/track/6F3RFQZ8CGhFhdiB8WXfsK) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Serenity stars](https://open.spotify.com/album/589azaDr1H5Qc8ZIXe7z5U) | 3:17 |
 | 50 | [friendship](https://open.spotify.com/track/46FHTWfIlwJmV1hz30FgAx) | [Dalliance Blues](https://open.spotify.com/artist/4gwkNRgkSrQhmyJevVAuCu) | [friendship](https://open.spotify.com/album/4CrQSPAgBUpOEbhnGPIGoT) | 2:05 |
 | 51 | [When Dreams Come True](https://open.spotify.com/track/2eBbbpIhX9RUpadLxW6O0f) | [Aster alpinus](https://open.spotify.com/artist/5GncNXKJrJiIAEbkWtyTJC) | [When Dreams Come True](https://open.spotify.com/album/3K8dvzs8jd0qbmSgphmRa6) | 2:32 |

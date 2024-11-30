@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vijay Prakash
 
-416 songs - 22 hr 51 min
+417 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [E Sanje](https://open.spotify.com/track/4sWgM5L4JddTcTa4LP210V) | [Pramodh Acharya](https://open.spotify.com/artist/0wxKIZSaPnlZMc2jlsnIyI), [Sandeep Kumar](https://open.spotify.com/artist/3LnFpfYe0DlcxsqVw0vJBW), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [E Sanje](https://open.spotify.com/album/07avNTtRS5qqrtUOXGxvL5) | 3:32 | 2023-03-13 | 2023-09-30 |
 | [Ee Ghalige](https://open.spotify.com/track/7shQ0hDfaXvd5AKug5bNZQ) | [Suprabha B R](https://open.spotify.com/artist/1aJDIXGlfXO27HaizmQv27), [Staccato cafe](https://open.spotify.com/artist/2IPywP7nZXjsuGfohtjzVZ) | [Ee Ghalige](https://open.spotify.com/album/0jJZBPXfvt96nQhEYpP4Te) | 3:30 | 2024-11-04 |  |
 | [Ee Pattanakke Yenagide](https://open.spotify.com/track/4HCE5UBG5tZVdFBcHYhqHb) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Ee Pattanakke Yenagide](https://open.spotify.com/album/4wC300ITmXGQzsV6RKzwvJ) | 2:58 | 2023-11-28 | 2024-10-04 |
-| [ejawa](https://open.spotify.com/track/6s8ZrFf8RYn1R4q2vcyckp) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09), [Vishakh](https://open.spotify.com/artist/42KrPpRSeWS2hUW1WdRzpV), [Chaithra M](https://open.spotify.com/artist/0tlgDYGfWVP7w47t4XWX4y) | [ejawa](https://open.spotify.com/album/27ZsRLlqfWtcll9P6AI0KO) | 2:45 | 2024-06-24 |  |
+| [ejawa](https://open.spotify.com/track/6s8ZrFf8RYn1R4q2vcyckp) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09), [Vishakh](https://open.spotify.com/artist/42KrPpRSeWS2hUW1WdRzpV), [Chaithra M](https://open.spotify.com/artist/0tlgDYGfWVP7w47t4XWX4y) | [ejawa](https://open.spotify.com/album/27ZsRLlqfWtcll9P6AI0KO) | 2:45 | 2024-06-24 | 2024-11-30 |
 | [Elle Hodaru](https://open.spotify.com/track/1aR6HAkxlQT2O2dBuJVNBW) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Elle Hodaru](https://open.spotify.com/album/5VQ8AboHL2qQBYx7KrvxET) | 2:45 | 2024-08-27 |  |
 | [Elli Elli Neenu](https://open.spotify.com/track/5sYeOq4bmI7olod4cNMw8C) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Elli Elli Neenu](https://open.spotify.com/album/25Hbr6OBZbPcoq64hgXadr) | 4:43 | 2023-07-04 | 2023-07-14 |
 | [En Anthira](https://open.spotify.com/track/4ri4RGGpeNd7ZlbPVHEtX8) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [En Anthira](https://open.spotify.com/album/2Zl9D0MjkLy20kAjAlP6EW) | 2:55 | 2024-05-13 |  |
@@ -345,6 +345,7 @@
 | [Prabhata](https://open.spotify.com/track/1QqwgZXjOjK8mMXqHtU9eF) | [Sumedh K](https://open.spotify.com/artist/5SSjbuLdyRS8iGfETzC4Sz), [Maharshi Vishwamitra](https://open.spotify.com/artist/4rkwNV7E2Um36KSbvWVu8X) | [Kolahala](https://open.spotify.com/album/0hnQ84XGDpWc5Gp1voTCCS) | 1:09 | 2024-04-26 | 2024-11-21 |
 | [Preethi andre higena](https://open.spotify.com/track/2II577XDmMSECcdZAUAxVz) | [Dolwin Kolalagiri](https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk), [Prashanth Kankanady](https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5), [Vidya Suvarna](https://open.spotify.com/artist/34qIICjea7gcCbwklDhmq2) | [Preethi andre higena](https://open.spotify.com/album/3p60JgIzxmvRLRqwpUXaRO) | 3:57 | 2024-07-08 |  |
 | [Preethi Anno Dyavru](https://open.spotify.com/track/608jUiP43iZPtJJTBryeZ4) | [J\. Anoop Seelin](https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Preethi Anno Dyavru](https://open.spotify.com/album/0xG8YWLgFSeyDCygRX9h97) | 4:04 | 2024-08-14 |  |
+| [Preethiso Hudugane](https://open.spotify.com/track/7fhd7foEcDvmBR0TmRJJNM) | [Savishri](https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ), [Mohan P Nayar](https://open.spotify.com/artist/6ctK52Bm64YiKH37X5Gbn3), [Sabik puttur](https://open.spotify.com/artist/7ENmeMjGxTxoXMrM4JTyrc) | [Preethiso Hudugane](https://open.spotify.com/album/6ZRvBbqTKGTkV5iQOOwY4v) | 4:06 | 2024-11-29 |  |
 | [Preethiya Geleyane](https://open.spotify.com/track/0yU8PWvIvn7jo01WpyzB7x) | [Savishri](https://open.spotify.com/artist/0fnz0R41yiKKRTkKiBIubJ) | [Preethiya Geleyane](https://open.spotify.com/album/6476ZX7SPEpEG7cIOFQCRi) | 3:57 | 2024-11-20 |  |
 | [Preetiye](https://open.spotify.com/track/4aXgkyxFn7c0tMOHgUdhet) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U) | [Preetiye](https://open.spotify.com/album/3CvlEQEBS8oUKbAZUfWwEo) | 1:05 | 2023-08-23 | 2024-04-04 |
 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 | 2023-05-25 | 2023-06-08 |

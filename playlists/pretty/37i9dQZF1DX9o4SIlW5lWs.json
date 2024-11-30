@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Natalie Perez.",
-  "num_followers": 229509,
+  "num_followers": 229556,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-11-15 11:50:03",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
+        "name": "Solo Para Entendidos",
+        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
       },
       "artists": [
         {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
         }
       ],
-      "duration_ms": 193347,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
+      "duration_ms": 182466,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
     },
     {
       "added_at": "2024-11-15 11:50:03",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-11-15 11:50:03",
       "album": {
-        "name": "Solo Para Entendidos",
-        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
         }
       ],
-      "duration_ms": 182466,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
+      "duration_ms": 193347,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz"
     },
     {
       "added_at": "2024-11-15 11:50:03",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-11-15 11:50:03",
       "album": {
-        "name": "20 LABIOS",
-        "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 205176,
-      "name": "20 Labios",
-      "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
-    },
-    {
-      "added_at": "2024-11-15 11:50:03",
-      "album": {
         "name": "Me Encanta",
         "url": "https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi"
       },
@@ -1155,22 +1139,6 @@
     {
       "added_at": "2024-11-15 11:50:03",
       "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 195893,
-      "name": "Amor Pirata",
-      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
-    },
-    {
-      "added_at": "2024-11-15 11:50:03",
-      "album": {
         "name": "Le Doy Gracias a la Vida (Y a Todos)",
         "url": "https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup"
       },
@@ -1183,6 +1151,38 @@
       "duration_ms": 191712,
       "name": "Amor Clandestino",
       "url": "https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I"
+    },
+    {
+      "added_at": "2024-11-15 11:50:03",
+      "album": {
+        "name": "20 LABIOS",
+        "url": "https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 205176,
+      "name": "20 Labios",
+      "url": "https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO"
+    },
+    {
+      "added_at": "2024-11-15 11:50:03",
+      "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 195893,
+      "name": "Amor Pirata",
+      "url": "https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb"
     },
     {
       "added_at": "2024-11-15 11:50:03",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2024-11-15 11:50:03",
       "album": {
+        "name": "Me Va Mejor Con el Alcohol",
+        "url": "https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "duration_ms": 197775,
+      "name": "Me Va Mejor Con el Alcohol",
+      "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
+    },
+    {
+      "added_at": "2024-11-15 11:50:03",
+      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 171502,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
-    },
-    {
-      "added_at": "2024-11-15 11:50:03",
-      "album": {
-        "name": "Me Va Mejor Con el Alcohol",
-        "url": "https://open.spotify.com/album/3U74XHE1qbVBXMG5k8kNaB"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "duration_ms": 197775,
-      "name": "Me Va Mejor Con el Alcohol",
-      "url": "https://open.spotify.com/track/7oVzsPGAInbnmnATWtOm37"
     },
     {
       "added_at": "2024-11-15 11:50:03",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-11-15 11:50:03",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
-    },
-    {
-      "added_at": "2024-11-15 11:50:03",
-      "album": {
         "name": "Elegante",
         "url": "https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 205052,
       "name": "Elegante",
       "url": "https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz"
+    },
+    {
+      "added_at": "2024-11-15 11:50:03",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
     },
     {
       "added_at": "2024-11-15 11:50:03",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-11-15 11:50:03",
       "album": {
-        "name": "Coraz\u00f3n de Madera",
-        "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "Coraz\u00f3n De Madera",
-      "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
-    },
-    {
-      "added_at": "2024-11-15 11:50:03",
-      "album": {
         "name": "Te Hubieras Ido Antes",
         "url": "https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq"
       },
@@ -1803,22 +1787,34 @@
     {
       "added_at": "2024-11-15 11:50:03",
       "album": {
-        "name": "Amor de Chat (En Vivo)",
-        "url": "https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA"
+        "name": "Coraz\u00f3n de Madera",
+        "url": "https://open.spotify.com/album/5fvUEK9OgcvU6TwalmypXj"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Sergio Torres",
-          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Amor de Chat - En vivo",
-      "url": "https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox"
+      "duration_ms": 153653,
+      "name": "Coraz\u00f3n De Madera",
+      "url": "https://open.spotify.com/track/4zL0APZ6sXFZoJwgyRLRIC"
+    },
+    {
+      "added_at": "2024-11-15 11:50:03",
+      "album": {
+        "name": "Grupo Play - Ahora juega en primera",
+        "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Lloraras mas de diez veces",
+      "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
     },
     {
       "added_at": "2024-11-15 11:50:03",
@@ -1843,18 +1839,22 @@
     {
       "added_at": "2024-11-15 11:50:03",
       "album": {
-        "name": "Grupo Play - Ahora juega en primera",
-        "url": "https://open.spotify.com/album/3Cb31lj9pek33puxonY1qM"
+        "name": "Amor de Chat (En Vivo)",
+        "url": "https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA"
       },
       "artists": [
         {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
         }
       ],
-      "duration_ms": 209066,
-      "name": "Lloraras mas de diez veces",
-      "url": "https://open.spotify.com/track/3Rw4RpKirEtupNJfQSPOjI"
+      "duration_ms": 277000,
+      "name": "Amor de Chat - En vivo",
+      "url": "https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox"
     }
   ],
   "unique_name": "Cumbia y Romance",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Killswitch Engage on top of today's best Metal playlist.",
+  "description": "Memphis May Fire on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -4892,6 +4892,24 @@
       "duration_ms": 250333,
       "name": "Flesh And Stone",
       "url": "https://open.spotify.com/track/3wyVcK3etnz24JX8K62b6O"
+    },
+    {
+      "album": {
+        "name": "Flipping",
+        "url": "https://open.spotify.com/album/5TTcBaOFDKrt7c0a3RFmbS"
+      },
+      "artists": [
+        {
+          "name": "CANDY",
+          "url": "https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207358,
+      "name": "Flipping",
+      "url": "https://open.spotify.com/track/52lsAgUlk6DXQVe43GHw04"
     },
     {
       "album": {
@@ -11340,7 +11358,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 205837,
       "name": "Something I'm Not",
       "url": "https://open.spotify.com/track/1uGjwm01UDtRWWACi6tQwd"

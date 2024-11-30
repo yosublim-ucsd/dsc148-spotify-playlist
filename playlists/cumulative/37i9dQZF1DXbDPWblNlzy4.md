@@ -2,9 +2,9 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Ela Taubert, Joe Jonas
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Morat
 
-386 songs - 20 hr 20 min
+387 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [La Despedida](https://open.spotify.com/track/5fYkgGMrYss0OYJQWki4jn) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [La Despedida](https://open.spotify.com/album/1gkyF5oXDdgY5UNfyY8yNl) | 3:14 | 2023-03-24 | 2023-05-13 |
 | [La Hora del Té](https://open.spotify.com/track/4JWoLPZvAZ691O7GDXLqNM) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [La Hora del Té](https://open.spotify.com/album/5fYVHDiupfzLfn2NnCDFJj) | 2:54 | 2023-07-21 | 2023-08-05 |
 | [la otra cara](https://open.spotify.com/track/7pn1SS8zolJoQbQgmz3fLj) | [Arevalo](https://open.spotify.com/artist/66q4aUeE6L8715QQ2yD68G) | [la otra cara](https://open.spotify.com/album/7lm0XYr2ENJ40dOgfYGTlj) | 2:27 | 2024-01-12 | 2024-03-02 |
+| [La Policía](https://open.spotify.com/track/0ZhdPl4IGi5OhxoCF59CBh) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Policía](https://open.spotify.com/album/4AKbSeK2V2dS3pPf3inLog) | 2:37 | 2024-11-29 |  |
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-03-17 | 2023-08-19 |
 | [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 | 2024-07-19 |  |
 | [La Terminal](https://open.spotify.com/track/5ozNzOJeYpzIZaQc9C6jr3) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Terminal](https://open.spotify.com/album/1SrCPTPht9ws7CP1GVCt7o) | 2:58 | 2023-10-06 | 2024-01-20 |
@@ -333,7 +334,7 @@
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-06 | 2024-05-04 |
 | [Si no no](https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [REFLEXA](https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy) | 2:29 | 2024-05-10 |  |
 | [SI TE PEGAS](https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:03 | 2023-07-07 | 2023-08-05 |
-| [Si Te Vas](https://open.spotify.com/track/4hfILr2sbGahUBpwvnESA3) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [Si Te Vas](https://open.spotify.com/album/5YPQjeKjqxmVEShaUUbd0i) | 2:49 | 2024-08-16 |  |
+| [Si Te Vas](https://open.spotify.com/track/4hfILr2sbGahUBpwvnESA3) | [Natalia Natalia](https://open.spotify.com/artist/0SY7fk6yoGlOzdUQNAueXQ) | [Si Te Vas](https://open.spotify.com/album/5YPQjeKjqxmVEShaUUbd0i) | 2:49 | 2024-08-16 | 2024-11-30 |
 | [Si Volviera A Conocerte](https://open.spotify.com/track/5fRvUrRQHWfnwssgPQKQ49) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Si Volviera A Conocerte](https://open.spotify.com/album/7zfm25FnJAkDghWQZNTDD4) | 3:11 | 2023-07-21 | 2023-09-02 |
 | [Siempre Llegas Tarde](https://open.spotify.com/track/3kn0PVkaeJQ0yxtemQRJ6D) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Siempre Llegas Tarde](https://open.spotify.com/album/51vlzBXDLGLc1St5xOc8hr) | 2:38 | 2024-07-19 |  |
 | [Siete](https://open.spotify.com/track/63nQLepwTQsYeaIyQyTGxG) | [YourBoyfriend](https://open.spotify.com/artist/5ViZFETIGIgb0r5HFoyhRF), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Siete](https://open.spotify.com/album/5vYDzzwYZrL49xPgqwoRCs) | 3:00 | 2023-10-27 | 2023-11-25 |

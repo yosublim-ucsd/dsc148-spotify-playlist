@@ -4,7 +4,7 @@
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-114 songs - 5 hr 24 min
+115 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Epiphany](https://open.spotify.com/track/1q1T0TbFO2fWkDmgCKwTB0) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 3:48 | 2022-08-05 |  |
 | [Everytime You Leave](https://open.spotify.com/track/4UGOaZPk8uBm74Pc7hueQi) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [The Witcher \(Music from the Netflix Original Series\)](https://open.spotify.com/album/5tdmyKWNxDlCvYCdJQKGoS) | 2:07 | 2022-11-08 |  |
 | [Falling into Place \(Theme\)](https://open.spotify.com/track/6RxVhdcW6IZrfsi7AHMGnQ) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music for Falling Into Place \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/34gwRym4W9MXxOeBcEXVYI) | 1:58 | 2024-03-29 |  |
+| [Farewell](https://open.spotify.com/track/6VFvYTcaZtdVAycxoaZ21Z) | [Johannes Lehniger](https://open.spotify.com/artist/1lUNTqzrRE6zlTWs4QIqa8), [Sebastian Damerius](https://open.spotify.com/artist/4V5OLdgJBNzmJn9kAHjelZ), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [The Empress: II \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4OhUUntW1tbvsnUHEZsnU2) | 3:02 | 2024-11-29 |  |
 | [Feast of Starlight](https://open.spotify.com/track/1hOavq1yyy1GqzjVpx3vjq) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: The Desolation of Smaug \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/3MCUHjDo3wSm2QuLh1Fyrf) | 2:48 | 2022-11-08 | 2024-04-19 |
 | [Feast Of Starlight \- From "The Hobbit \- The Desolation Of Smaug"](https://open.spotify.com/track/0OmFvEb5a3iJPwW2h0tTO0) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit \- The Desolation Of Smaug \(Original Motion Picture Soundtrack / Special Edition\)](https://open.spotify.com/album/2nsRpsb5aeOhNEWV1MoiHB) | 2:48 | 2024-03-29 |  |
 | [Final Ascent \(arr\. piano\)](https://open.spotify.com/track/3SdxLdtdrggLwsPJlbmx7n) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Final Ascent \(arr\. piano\)](https://open.spotify.com/album/0GtaKqzR76ApRfqdaLuswp) | 2:54 | 2023-05-12 |  |

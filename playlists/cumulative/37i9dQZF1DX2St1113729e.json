@@ -2805,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "FAMILY MART",
+        "url": "https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA"
+      },
+      "artists": [
+        {
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118936,
+      "name": "FAMILY MART",
+      "url": "https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7"
+    },
+    {
+      "album": {
         "name": ".",
         "url": "https://open.spotify.com/album/5JyPo8RKjOzbnY0ajECzOD"
       },
@@ -7416,7 +7438,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 101470,
       "name": "rez\u00e1ndole a dios",
       "url": "https://open.spotify.com/track/6evXLYfdQM7fgrIAeVyaoL"

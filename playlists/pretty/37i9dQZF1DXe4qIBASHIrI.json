@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 160961,
+  "num_followers": 161006,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Qui\u00e9reme Mucho",
-      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Tiempos Mejores",
         "url": "https://open.spotify.com/album/5oRx5C2DfRJY8QoIKRM5F9"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 203320,
       "name": "Amiga - Bonus Track",
       "url": "https://open.spotify.com/track/7D6QJCylSzF7XGz2BzcOYI"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Qui\u00e9reme Mucho",
+      "url": "https://open.spotify.com/track/51tX8W9SSVju5DqlGcoAxy"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Moctezuma",
-        "url": "https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 345199,
-      "name": "Palapa",
-      "url": "https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Murasaki",
         "url": "https://open.spotify.com/album/6Wbe28xhFeR3q8gjhxgjrj"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 213133,
       "name": "Murasaki",
       "url": "https://open.spotify.com/track/033BH9v7RyCCdHzgxyiU5R"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Moctezuma",
+        "url": "https://open.spotify.com/album/70nk1mvQAQ1Tpf6j7gudRW"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 345199,
+      "name": "Palapa",
+      "url": "https://open.spotify.com/track/2vofpKYoBvc2uiV2yHYrHW"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Kiosko",
-        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
-      },
-      "artists": [
-        {
-          "name": "Porter",
-          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
-        }
-      ],
-      "duration_ms": 253501,
-      "name": "Kiosko",
-      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "LeBaron",
         "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 193800,
       "name": "Todav\u00eda Te Alcanzo a Ver",
       "url": "https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Kiosko",
+        "url": "https://open.spotify.com/album/3pTfNraLlf2tDpMQsrJgxY"
+      },
+      "artists": [
+        {
+          "name": "Porter",
+          "url": "https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5"
+        }
+      ],
+      "duration_ms": 253501,
+      "name": "Kiosko",
+      "url": "https://open.spotify.com/track/7qix8lqLAvHAInf3Xq1TU3"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "El Bar de Peter Pan",
-        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
-      },
-      "artists": [
-        {
-          "name": "Pau y Amigos",
-          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
-        }
-      ],
-      "duration_ms": 280853,
-      "name": "Fiesta Permanente",
-      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/4lv6sqE4r1OScgwFWFI65E"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 263760,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/0XfkTdunFLoBXvoq2TJ40o"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "El Bar de Peter Pan",
+        "url": "https://open.spotify.com/album/3uzJdTLK0NfNbkKnsusZII"
+      },
+      "artists": [
+        {
+          "name": "Pau y Amigos",
+          "url": "https://open.spotify.com/artist/46jXSb4Q3RLlT5M1nWCKMD"
+        }
+      ],
+      "duration_ms": 280853,
+      "name": "Fiesta Permanente",
+      "url": "https://open.spotify.com/track/2IWmJTCkFBafsl702cwURa"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Space Hymns",
-        "url": "https://open.spotify.com/album/2kJe0uAxDLlAnRy0Mk0I7M"
-      },
-      "artists": [
-        {
-          "name": "Aeiou",
-          "url": "https://open.spotify.com/artist/165DZ07075Tx8igd7lKfQB"
-        }
-      ],
-      "duration_ms": 222559,
-      "name": "Vivimos In L.A.",
-      "url": "https://open.spotify.com/track/55tL4KL8uXjXJHTvIKB4vE"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Hipnosis",
         "url": "https://open.spotify.com/album/2W0ZOxbxmxvzeWl1xSRjXR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 374626,
       "name": "Arena",
       "url": "https://open.spotify.com/track/4ikqBzdldCYqaY56KFqD2B"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Space Hymns",
+        "url": "https://open.spotify.com/album/2kJe0uAxDLlAnRy0Mk0I7M"
+      },
+      "artists": [
+        {
+          "name": "Aeiou",
+          "url": "https://open.spotify.com/artist/165DZ07075Tx8igd7lKfQB"
+        }
+      ],
+      "duration_ms": 222559,
+      "name": "Vivimos In L.A.",
+      "url": "https://open.spotify.com/track/55tL4KL8uXjXJHTvIKB4vE"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Levantate Sakuraba",
-        "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1a ",
-          "url": "https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Chubaca Tiene un Secreto",
-      "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Historias De Un Cowboy",
         "url": "https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 166504,
       "name": "Miente",
       "url": "https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Levantate Sakuraba",
+        "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a ",
+          "url": "https://open.spotify.com/artist/0misO3JFnF87rfRJ5UuJpc"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Chubaca Tiene un Secreto",
+      "url": "https://open.spotify.com/track/7KhY4LpnabTWYCoShC9k0Z"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X"
-      },
-      "artists": [
-        {
-          "name": "Sol Flamingo",
-          "url": "https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr"
-        }
-      ],
-      "duration_ms": 218060,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "El Seminuevo de Manzana",
         "url": "https://open.spotify.com/album/4c8flSsuzU1QEYBMIoCQWd"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 195893,
       "name": "A la Distancia",
       "url": "https://open.spotify.com/track/6lyOVxJw4WwJRmbSwzr2tQ"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/0eNxFw87IuvCA01UpYYp4X"
+      },
+      "artists": [
+        {
+          "name": "Sol Flamingo",
+          "url": "https://open.spotify.com/artist/2Ya7gUo3eaJQy56EZHOIhr"
+        }
+      ],
+      "duration_ms": 218060,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3fa70p1SE2URA6Uf7EMI6c"
     },
     {
       "added_at": "2023-09-01 16:42:45",

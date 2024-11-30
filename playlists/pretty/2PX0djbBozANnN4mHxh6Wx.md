@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 
 > 
 
-[Maven](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,271 likes - 544 songs - 1 day 8 hr 44 min
+[Maven](https://open.spotify.com/user/2137vikj7zxllahq5zqzp22ia) - 17,265 likes - 544 songs - 1 day 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,7 +151,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 141 | [180db\_ \[130\]](https://open.spotify.com/track/2VfEcR59Czu8ii3u6kKeP8) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 3:11 |
 | 142 | [Background Music \(From "Mario Paint"\)](https://open.spotify.com/track/0Q9JTuNLNrDaGtSTfZaqOe) | [Arcade Player](https://open.spotify.com/artist/1v4YnufenjE9BLAfP90qvt) | [Super Mario Games, Hi\-Fi Versions](https://open.spotify.com/album/5FOgn7Vyben0yTN3LBH0VV) | 1:45 |
 | 143 | [Terminal](https://open.spotify.com/track/5oPHwWSvhF9MPeFL7mXlzs) | [Perfect Chao](https://open.spotify.com/artist/54JYOrLTMMJAnoBNWOmWPL) | [Prfct!cha0](https://open.spotify.com/album/0Pn362e9TKTFrFTskyjUFr) | 2:34 |
-| 144 | [・✧\(๑ඕัළ\*.。 \* ̈°。](https://open.spotify.com/track/5d3qZSMHSSqNX3oHhhFX0o) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [・✧\(๑ඕัළ\*.。 \* ̈°。](https://open.spotify.com/album/3yDj7nX7WQuSrhDiZucfLH) | 2:15 |
+| 144 | [･✧\(๑ඕัළ\*.。 \*¨°。](https://open.spotify.com/track/5d3qZSMHSSqNX3oHhhFX0o) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [･✧\(๑ඕัළ\*.。 \*¨°。](https://open.spotify.com/album/3yDj7nX7WQuSrhDiZucfLH) | 2:15 |
 | 145 | [Moonview Highway \(From "Mario Kart Wii"\)](https://open.spotify.com/track/2QBGKJeYBiIrt1Scc6Jk4W) | [Arcade Player](https://open.spotify.com/artist/1v4YnufenjE9BLAfP90qvt) | [Mario Kart Wii, The Themes](https://open.spotify.com/album/3uPOSDtQ4ZX6NbHhdIzESH) | 3:33 |
 | 146 | [Title Theme \(From "Wii Sports"\)](https://open.spotify.com/track/03f4dOI9Xqj0hpVuJKIawt) | [Arcade Player](https://open.spotify.com/artist/1v4YnufenjE9BLAfP90qvt) | [Wii Sports, The Themes](https://open.spotify.com/album/65zljnN59aurCCMAmPCGxg) | 3:02 |
 | 147 | [Ptolemy](https://open.spotify.com/track/23HiOySFOnPUXTJWnc5tAb) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 7:14 |
@@ -426,7 +426,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 416 | [triple flat](https://open.spotify.com/track/3x1C84nSx6LwgprK1twc8e) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [opa\*q](https://open.spotify.com/album/42RdCJe0j7WBcgRTpmtdc2) | 6:19 |
 | 417 | [Floatage](https://open.spotify.com/track/4IHEqBqKs7SiBvLnRgR3MZ) | [Cymbals](https://open.spotify.com/artist/6SMP2z9rViDs6YNCXtCj29), [宮川弾](https://open.spotify.com/artist/65iNglzCzxHuqz4Igm2PbB) | [sine](https://open.spotify.com/album/6GCvA1M9QBEiIEAgE1TFDk) | 5:18 |
 | 418 | [glimglim](https://open.spotify.com/track/6dfPq6DR3qjaouqv7l9Ga4) | [Rei Harakami](https://open.spotify.com/artist/1orPVlRmIYWQ2KkJcMjjnB) | [opa\*q](https://open.spotify.com/album/42RdCJe0j7WBcgRTpmtdc2) | 7:23 |
-| 419 | [とんでもマウンテン2 / Mount Amazing 2](https://open.spotify.com/track/4qkpPliACyu6q4kK6NvJls) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Ape Escape 3 \- Originape Soundtracks / サルゲッチュ3・オリジサル・サウンドトラック](https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe) | 2:04 |
+| 419 | [とんでもマウンテン２ / Mount Amazing 2](https://open.spotify.com/track/4qkpPliACyu6q4kK6NvJls) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Ape Escape 3 \- Originape Soundtracks / サルゲッチュ3・オリジサル・サウンドトラック](https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe) | 2:04 |
 | 420 | [Relax In The City](https://open.spotify.com/track/0y98daVRD8q57emcqzskiB) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [COSMIC EXPLORER](https://open.spotify.com/album/3VQOFR9H0TJULyYgbNXNyk) | 4:12 |
 | 421 | [Gataway](https://open.spotify.com/track/6D7uuFOIldb2t7EVA7hMc2) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Boogiepop Phantom Original Soundtrack](https://open.spotify.com/album/58m4Xt0j6oYFLeG81GmEd6) | 5:10 |
 | 422 | [When The Night Falls](https://open.spotify.com/track/43do1LnSOKtzyIQcRfnxZL) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [NiGHTS: Journey of Dreams Original Soundtrack \(Vol.3\)](https://open.spotify.com/album/4ESls0bcP41VL21ZHT6luG) | 1:37 |
@@ -498,7 +498,7 @@ pretty - [cumulative](/playlists/cumulative/2PX0djbBozANnN4mHxh6Wx.md) - [plain]
 | 488 | [Wii Volleyball](https://open.spotify.com/track/6U5MncvVMGkt4aPo4vRU3p) | [Gabriel Gundacker](https://open.spotify.com/artist/5pllh30wANVWCz3YaTePAG) | [Unofficial Wii Sports Soundtrack](https://open.spotify.com/album/0yYSBI6nKv1yTTnIFEbT7f) | 2:36 |
 | 489 | [wii u mii maker ☆!!](https://open.spotify.com/episode/7e9ZRzvr5FN6EliqURdTzV) | [sloop radio 💤🐈](https://open.spotify.com/show/6EN1maF5jkgMBssUqOLgKB) | [sloop radio 💤🐈](https://open.spotify.com/album/6EN1maF5jkgMBssUqOLgKB) | 4:59 |
 | 490 | [style savvy ☆ apartment theme](https://open.spotify.com/episode/4EDeqPex3iUGBqKnzVAyDM) | [star ☆ radio ](https://open.spotify.com/show/25IFD0V0aGcEFOYlagoC1w) | [star ☆ radio ](https://open.spotify.com/album/25IFD0V0aGcEFOYlagoC1w) | 2:58 |
-| 491 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ᄋ△+⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ ̈.·\*:・✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
+| 491 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ㅇ△₊⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ¨.·\*:･✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
 | 492 | [Intro](https://open.spotify.com/track/201Oz1tyrnEqNt8Rd9RmE8) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 1:08 |
 | 493 | [Frutiger Aero](https://open.spotify.com/track/64qX2ZdU62sknYvmlf3iAo) | [DJ Intranet](https://open.spotify.com/artist/5Pzt2TyxId3jGtLs3fwRNj) | [Frutiger Aero](https://open.spotify.com/album/3hNZ3tq8BtLo2Fnw7G03gV) | 2:18 |
 | 494 | [Introduction](https://open.spotify.com/track/2QBw72MiksITj0490637BN) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Mirror's Edge \(Original Videogame Score\)](https://open.spotify.com/album/07igNBjUqmgregGtDpnTNg) | 5:34 |

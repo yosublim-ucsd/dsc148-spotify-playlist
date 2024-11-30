@@ -10309,6 +10309,24 @@
     },
     {
       "album": {
+        "name": "Second Wind",
+        "url": "https://open.spotify.com/album/5e3cX20tXLQKMlNUxTSZ4F"
+      },
+      "artists": [
+        {
+          "name": "Matt Pridgyn",
+          "url": "https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192755,
+      "name": "Second Wind",
+      "url": "https://open.spotify.com/track/7d9MoWBBI9sbZnsoW16z5Z"
+    },
+    {
+      "album": {
         "name": "Set It Free",
         "url": "https://open.spotify.com/album/3a3HBm9uLIXg8hHh0qWokg"
       },

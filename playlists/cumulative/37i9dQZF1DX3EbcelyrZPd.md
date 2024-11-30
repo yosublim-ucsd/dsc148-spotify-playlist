@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Marioo
 
-484 songs - 1 day 3 hr 44 min
+485 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -455,6 +455,7 @@
 | [Waambie](https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek) | [killy](https://open.spotify.com/artist/6YXrbHy6Fah1970m8C8BXK) | [Waambie](https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3) | 2:37 | 2023-09-21 | 2023-12-22 |
 | [Wababa](https://open.spotify.com/track/7xmRTGoMxsMyrFz9OB9EsD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wababa](https://open.spotify.com/album/3csfj7XdPGRcYPcGKVQtXL) | 4:33 | 2023-11-30 | 2024-04-05 |
 | [Wahala](https://open.spotify.com/track/06g8lXQlt3ISolRMIn81a9) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Khanyisa](https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc), [ZiiBeats](https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4) | [Wahala](https://open.spotify.com/album/1IgUAbZAi862jLTZkiSUHE) | 3:01 | 2024-04-25 | 2024-07-19 |
+| [Wale Wale \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/0XFBfGFjH7oG2fs1LUMUwI) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Wale Wale \(feat\. Diamond Platnumz\)](https://open.spotify.com/album/47dA6MzeREthztzSXZB1TU) | 3:53 | 2024-11-28 |  |
 | [Wali Nazi](https://open.spotify.com/track/4mc3yUfDAvt5VjUEaDJlUh) | [Q Chief](https://open.spotify.com/artist/2CL7c3WDQbjC7qoWwFjEig), [TID](https://open.spotify.com/artist/7F9kZ1lQ6NS4kQrKXDeAkv) | [Wali Nazi](https://open.spotify.com/album/3mGrGJh0EJGk0B3USlL8lR) | 3:06 | 2024-04-04 | 2024-11-08 |
 | [Wanaweweseka](https://open.spotify.com/track/1rRmvbtJKihinccZi5Xbep) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Wanaweweseka](https://open.spotify.com/album/3K61B2XqXn3WpcdRojwWnA) | 3:22 | 2021-09-23 | 2022-05-20 |
 | [Wapo](https://open.spotify.com/track/1XPxQpP5eFmfp21sdY89xl) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Wapo](https://open.spotify.com/album/0sSuteqvC4BO0roqNxF62I) | 3:12 | 2023-10-05 | 2024-03-01 |

@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 139811,
       "name": "After Pari",
       "url": "https://open.spotify.com/track/75MoTqOKZafc2c7M9HNMJD"
@@ -306,7 +306,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 165000,
       "name": "Bailando Por Ti",
       "url": "https://open.spotify.com/track/36o3tX1dcTJ5rwFRk5aOPx"
@@ -502,6 +502,28 @@
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
+    },
+    {
+      "album": {
+        "name": "S\u00e1lvame",
+        "url": "https://open.spotify.com/album/2ATQbG70nOCFUnbvvPUrN7"
+      },
+      "artists": [
+        {
+          "name": "Fangoria",
+          "url": "https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4"
+        },
+        {
+          "name": "Danny Hyde",
+          "url": "https://open.spotify.com/artist/7C6ws8gza7vRtbq0jCLgbe"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321840,
+      "name": "Dr. Jeckyll / S\u00e1lvame",
+      "url": "https://open.spotify.com/track/2sYpb5jZ1IVam2qbdCJmVD"
     },
     {
       "album": {
@@ -1549,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/3gkriJKgViJS1WKhz70WE1"
+      },
+      "artists": [
+        {
+          "name": "Brenda Bezares",
+          "url": "https://open.spotify.com/artist/37EPXsU2coRfOwmJSO2Ryu"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266250,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/6vRyTuRWMH9X8hmJOCQrGR"
+    },
+    {
+      "album": {
         "name": "Sale el Sol",
         "url": "https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW"
       },
@@ -1702,7 +1742,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 207840,
       "name": "Sicilia",
       "url": "https://open.spotify.com/track/42ojGwws4Xe69HvxanSGYW"
@@ -1800,6 +1840,24 @@
       "duration_ms": 279320,
       "name": "Talento De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "album": {
+        "name": "Tanto Para Dar",
+        "url": "https://open.spotify.com/album/6JC2YHtMiEyQrGQzENmlMw"
+      },
+      "artists": [
+        {
+          "name": "Zemmoa",
+          "url": "https://open.spotify.com/artist/3QxmgpgW3C6Bfwm8ajcUJP"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167693,
+      "name": "Tanto Para Dar",
+      "url": "https://open.spotify.com/track/6urTKggdPAYgh729Hw4HEL"
     },
     {
       "album": {

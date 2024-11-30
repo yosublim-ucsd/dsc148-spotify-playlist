@@ -1,15 +1,31 @@
 {
-  "description": "\u00a1Brillando baldosa! Foto: Grupo Niche",
-  "num_followers": 156426,
+  "description": "\u00a1Brillando baldosa! Foto: Mike Bah\u00eda",
+  "num_followers": 156489,
   "original_name": "Salsa Colombiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZpFzrQAAAAArPv9PoHQ7nTgobQOlZo8Q",
+  "snapshot_id": "Z0lRMwAAAACel83YqybdEbaId6zyHr6B",
   "tracks": [
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
+      "album": {
+        "name": "CALIDOSA",
+        "url": "https://open.spotify.com/album/6ZvMDzwfQlizWJG1H1q0VQ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 191465,
+      "name": "Amor A Mitad",
+      "url": "https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf"
+    },
+    {
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Cali Pachanguero 40 A\u00f1os",
         "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Inmortal (Vol. 2)",
         "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
@@ -45,27 +61,23 @@
       "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
-        "name": "La Primera Vez",
-        "url": "https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ"
+        "name": "Se\u00f1or Marido",
+        "url": "https://open.spotify.com/album/34jUG52OFFxhkoD4Fg55Xe"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
         }
       ],
-      "duration_ms": 230013,
-      "name": "La Primera Vez",
-      "url": "https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1"
+      "duration_ms": 207602,
+      "name": "Se\u00f1or Marido",
+      "url": "https://open.spotify.com/track/6wuj8Xmba3wNN4jSe3k0Pi"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Antioque\u00f1a",
         "url": "https://open.spotify.com/album/6XC3sy2ZJvlDj6ezJLx8eb"
@@ -81,7 +93,7 @@
       "url": "https://open.spotify.com/track/0q9gWhv4K5GKzkJW80PYgS"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Homenaje a Niche, Las Canciones de Jairo Varela",
         "url": "https://open.spotify.com/album/1iR5KPaS55MuQzHulDaPq6"
@@ -97,7 +109,7 @@
       "url": "https://open.spotify.com/track/6xCVfs64pDBYoa6vl4aUrO"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Niche Sinf\u00f3nico",
         "url": "https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w"
@@ -117,7 +129,7 @@
       "url": "https://open.spotify.com/track/5FmxyYJlL2VA2Bc0lN6xrG"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "De Qu\u00e9 Manera",
         "url": "https://open.spotify.com/album/6XBq5DhffYApT0TGZAQ9cH"
@@ -133,7 +145,27 @@
       "url": "https://open.spotify.com/track/3HMlb6Dh9OGr3CjV6IwjEP"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
+      "album": {
+        "name": "La Primera Vez",
+        "url": "https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "La Primera Vez",
+      "url": "https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1"
+    },
+    {
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Ya Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/7mtNsYPDkbixPzprApB0j0"
@@ -149,7 +181,7 @@
       "url": "https://open.spotify.com/track/6eXiusG4axQAXMTyY7Ic1n"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Hagamos Lo Que Diga el Coraz\u00f3n (Versi\u00f3n Sinf\u00f3nica)",
         "url": "https://open.spotify.com/album/4oQHXfUffQUYqRgb6zc4A2"
@@ -169,7 +201,7 @@
       "url": "https://open.spotify.com/track/4hylk17Bo5u7qK7FfjNz7v"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Eso Duele",
         "url": "https://open.spotify.com/album/7EmxgueinqFEh16gXDlOyV"
@@ -185,7 +217,7 @@
       "url": "https://open.spotify.com/track/05C4Elh9fGSakdUp8tlka4"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "\u00bfCu\u00e1ndo Ser\u00e1?",
         "url": "https://open.spotify.com/album/1qZ4jOJ38d1dfz58TSlPaI"
@@ -205,7 +237,7 @@
       "url": "https://open.spotify.com/track/0nqzyo9hjDIgYjiJnbd1sl"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Margie",
         "url": "https://open.spotify.com/album/0A9INqN4aDvTOOd7BwrgWE"
@@ -221,7 +253,7 @@
       "url": "https://open.spotify.com/track/4ALuTupX7toAc7rZRgQGaD"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "B\u00fascame",
         "url": "https://open.spotify.com/album/0xzD4fqCgoO8PJ7mvVtJ7K"
@@ -237,7 +269,7 @@
       "url": "https://open.spotify.com/track/1FL6Q7hHgcdeTqGWvvVZYE"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Tocando el Cielo Con las Manos",
         "url": "https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4"
@@ -253,7 +285,7 @@
       "url": "https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Sentimental de Punta a Punta",
         "url": "https://open.spotify.com/album/0tUMgQJLd38NQD7OSFPQgK"
@@ -269,7 +301,7 @@
       "url": "https://open.spotify.com/track/4YGSpi9g7ohPFO8TXpvSUZ"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Ya No Me Llames Mas",
         "url": "https://open.spotify.com/album/75cfkR9HaYCbWRUfDyJbNh"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/1P8jEZ9Nr4RNjkh4nsEEFM"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Lo Mejor Del Grupo Niche - Recordando a Jairo Varela",
         "url": "https://open.spotify.com/album/4Z3sTAnMZq6h0aD1xYCc3p"
@@ -301,23 +333,7 @@
       "url": "https://open.spotify.com/track/2NsUo4kJECYBdLEu8xTrk6"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
-      "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/29NP640fImq9OjFZRrYmFx"
-      },
-      "artists": [
-        {
-          "name": "La Radio Bemb\u00e9 Orquesta",
-          "url": "https://open.spotify.com/artist/6cajshs06v9KvBLZuJZhfW"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/24rWaJaf238EktE0rQrtyj"
-    },
-    {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "La Flor de los Lindos Campos",
         "url": "https://open.spotify.com/album/2BUtJVFArByIESwG092wHR"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/5jrB7AWwtAdW1mGae1mFNN"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Oilo",
         "url": "https://open.spotify.com/album/5H3hmHChsscULagmYNt73Y"
@@ -353,7 +369,7 @@
       "url": "https://open.spotify.com/track/79DsYCHCMihzx83nrt20Ww"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Salsa para Bailar y Escuchar",
         "url": "https://open.spotify.com/album/219yFFR6LIC25aUrJKVuNF"
@@ -369,7 +385,7 @@
       "url": "https://open.spotify.com/track/5NQIW2mWH1qVlpxLN9JoAJ"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "La Gente Pide",
         "url": "https://open.spotify.com/album/7fEGyyt4qPXd7XKusUrvL5"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/7npSNwapk5Nh95T4y9V3ez"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Salsa Rumbera",
         "url": "https://open.spotify.com/album/72HdNGXuNQ9hD5fdIJUIVW"
@@ -401,23 +417,7 @@
       "url": "https://open.spotify.com/track/6zOXdmW4919xmAjDnRyyLh"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
-      "album": {
-        "name": "Pa' Ti y Pa' Mi",
-        "url": "https://open.spotify.com/album/23xGV7gv77nP015aIbmvEk"
-      },
-      "artists": [
-        {
-          "name": "Marea Brava Orquesta",
-          "url": "https://open.spotify.com/artist/6CnhNwAiuTppiZo7xLRqzG"
-        }
-      ],
-      "duration_ms": 276225,
-      "name": "Herencia Ta\u00edna",
-      "url": "https://open.spotify.com/track/629c9wMP8VDhq3VhUeaIiD"
-    },
-    {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Poder Intimo",
         "url": "https://open.spotify.com/album/10DIlwJ4c3NS9t8erEpM0W"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/6EJadbufi05YD8vQb98Poq"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Si T\u00fa Quieres Salsa Lado B",
         "url": "https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/3Jo2SW9CXnKN5HKm8l1kaP"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Grandes Hits - Latin Brothers",
         "url": "https://open.spotify.com/album/16Crjgmzz0nueE1mu3TXUq"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/5Ru99vS2BaLyBCH1PXFiJo"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Tributo 7 / 80",
         "url": "https://open.spotify.com/album/0BOyJjTxR09DlNQxIV292R"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/1JOaoxY1MAPUg41HvDW2vu"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "The Afrosound Of Colombia Volume 1",
         "url": "https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Aut\u00e9ntico",
         "url": "https://open.spotify.com/album/7C0OfgbApcvYfMJEgfUxyE"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/4ee1fUrPVok1bEyj1cm4Rv"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Historia de la Salsa en el Siglo XX (Vol. 3)",
         "url": "https://open.spotify.com/album/5cteav4JbTG3fF1nSVkZVs"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/25efbZoVG3oCMii4XnB2zP"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "La Semilla",
         "url": "https://open.spotify.com/album/1nUMlgzPbxhdjGXOnm4r7K"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/2AiboEBJGdThK0EiQwmvT7"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Salsa para el Bailador, Vol. 1",
         "url": "https://open.spotify.com/album/7vqBHVKimf5ggc7PghVgMv"
@@ -565,7 +565,7 @@
       "url": "https://open.spotify.com/track/1I70lW77TO4TbXAyAofPYy"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Pablito",
         "url": "https://open.spotify.com/album/7MXn4oPtaD0AV4s6SC9P2U"
@@ -581,7 +581,7 @@
       "url": "https://open.spotify.com/track/26TkBx8AxXPXv0mKcOxTNW"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Cuba Linda",
         "url": "https://open.spotify.com/album/5XhWe2O6ZHYu33IE67buw7"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/74GBtgq1XjVrNdp5Lv1jbM"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "La Rueda",
         "url": "https://open.spotify.com/album/3FDaI6b25xTN5aoVqA9iMQ"
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/6vt2mAma3R2NQr1O2X1jDj"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Tributo A Celia Cruz",
         "url": "https://open.spotify.com/album/0QjicKHJUZTYDrwNgopR9P"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/0vf2eKyBWP8CLDicddGSF2"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
@@ -649,7 +649,7 @@
       "url": "https://open.spotify.com/track/5N8HRh3pKXakJrdxQKMi1j"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/3PB2RhTronK7QGdyOdDaBs"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/0pFLD8oIWPHDBgkPzINYcG"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Viejoteca en Tiempo de Salsa, Vol. 6",
         "url": "https://open.spotify.com/album/02uyPWSIRRXGLmhsm6t5xR"
@@ -681,7 +681,7 @@
       "url": "https://open.spotify.com/track/6cFecmNzTj6MSV4aIYcCHg"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "32 Grandes Exitos",
         "url": "https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/0OwS05mubfyTnplfP8rMwu"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Grandes Hits - Latin Brothers",
         "url": "https://open.spotify.com/album/16Crjgmzz0nueE1mu3TXUq"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/6jly2CevRmnMbmU2R1cm1e"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Siempre Una Aventura",
         "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "14 Ca\u00f1onazos Bailables 2001",
         "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/60Fl49DuNUh6LIUwHM7Mni"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Soundway presents Colombia! (The Golden Age of Discos Fuentes. The Powerhouse of Colombian Music 1960-76)",
         "url": "https://open.spotify.com/album/26F8xcZwDpD4l4jnTnI9Kb"
@@ -777,7 +777,7 @@
       "url": "https://open.spotify.com/track/6SWClwPHq90nsCt7fsEPuV"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Perfume de Paris",
         "url": "https://open.spotify.com/album/0gjXqUceAxsFupEImPYjMo"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/58faeNlN41kHtSw5ks3jWu"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Aqui Estoy",
         "url": "https://open.spotify.com/album/17PeYAzeVDjmS3mP121grU"
@@ -813,7 +813,7 @@
       "url": "https://open.spotify.com/track/3uzuhX2qGvWN1XbqXWsx1v"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "M\u00fasica Tropical de Colombia, Vol. 10",
         "url": "https://open.spotify.com/album/7n4ZwDy4M4rPL74qFWJQh9"
@@ -829,7 +829,7 @@
       "url": "https://open.spotify.com/track/6eDCSWJCEnGgyvkL5r4bKT"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Antolog\u00eda Musical de Joe Arroyo (Volumen 2)",
         "url": "https://open.spotify.com/album/4LVjTL5cdCUwu3zdyZAp26"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/78YTS11VFlUrv1zmNyV6A7"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "14 Ca\u00f1onazos Bailables 2001",
         "url": "https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "La Salsa la Traigo Yo",
         "url": "https://open.spotify.com/album/4H4MztF4b8eTNgKOuEVI1r"
@@ -877,7 +877,7 @@
       "url": "https://open.spotify.com/track/6qCdQyVXZidUe9KSbX45dg"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Salsa Pa Rato",
         "url": "https://open.spotify.com/album/6PiAJKP3eTFzCa0Bni784i"
@@ -893,7 +893,7 @@
       "url": "https://open.spotify.com/track/0Sv9GZus14o4AwvXb8CeYs"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "El Rey Del Congo De Oro",
         "url": "https://open.spotify.com/album/6UOBUAMiWXbZm0rky3Ivdf"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/6jQeAqkvJfT27Mk87kPlVk"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Colecci\u00f3n Oro de la Salsa, Vol. 2",
         "url": "https://open.spotify.com/album/67DWG5KFseKltCeScPsfM1"
@@ -929,7 +929,7 @@
       "url": "https://open.spotify.com/track/1U46h3Bu03yIwyFaKHALmf"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "32 Grandes Exitos",
         "url": "https://open.spotify.com/album/0Moiv2jGzK7Apt4YjJUYqA"
@@ -945,7 +945,7 @@
       "url": "https://open.spotify.com/track/7ycF9ruw3EKOxY2lgKN5Ks"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Quiereme",
         "url": "https://open.spotify.com/album/6GkPWLV3IFGNRo7RIo1wCQ"
@@ -961,7 +961,7 @@
       "url": "https://open.spotify.com/track/5RcVFqQ5EEmKJMwhu8IM40"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "La-33",
         "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
@@ -977,7 +977,7 @@
       "url": "https://open.spotify.com/track/6258We1xSV3M2oLVMwhirP"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "La Cara del Gato",
         "url": "https://open.spotify.com/album/4YaY94wkPsU8nm10dMuGdq"
@@ -993,7 +993,7 @@
       "url": "https://open.spotify.com/track/0uub4RZQaDYpziNCEIKgKM"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "A Fondo Con...Guayacan Orquesta",
         "url": "https://open.spotify.com/album/5EZE3au0L8qVleoxtwdOKA"
@@ -1009,7 +1009,7 @@
       "url": "https://open.spotify.com/track/3zV54TnctXFCTLdg51mAVL"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Mano A Mano de la Salsa, Vol. 1: Grupo Gal\u00e9 vs. Grupo Niche",
         "url": "https://open.spotify.com/album/4cwsfPVlZnneDkxWS4d9iR"
@@ -1025,7 +1025,7 @@
       "url": "https://open.spotify.com/track/3qE6fNreE4dPFlheCoHzEc"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Wild Salsa - Tropical Party",
         "url": "https://open.spotify.com/album/5mQHj5gsPuv1knoPWblB1c"
@@ -1041,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1taKI4j9XETogvTKxoJYxe"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Historia de la Salsa en el Siglo XX (Vol. 3)",
         "url": "https://open.spotify.com/album/5cteav4JbTG3fF1nSVkZVs"
@@ -1057,7 +1057,7 @@
       "url": "https://open.spotify.com/track/43zdSGprJL0dg6cBQbwftd"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Hacerlo Bien",
         "url": "https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd"
@@ -1073,7 +1073,7 @@
       "url": "https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a"
     },
     {
-      "added_at": "2024-07-12 18:19:25",
+      "added_at": "2024-11-29 05:29:23",
       "album": {
         "name": "Intimamente, Lo Mejor De...",
         "url": "https://open.spotify.com/album/7yddc8i6I8nFoDs8lDCHnk"

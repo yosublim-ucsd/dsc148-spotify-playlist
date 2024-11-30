@@ -4497,6 +4497,24 @@
     },
     {
       "album": {
+        "name": "Idea 7",
+        "url": "https://open.spotify.com/album/4JoJlACiUIqIwQf0FGasDX"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150078,
+      "name": "Idea 7",
+      "url": "https://open.spotify.com/track/2n1U0UuPUHISJhvrFyHxy1"
+    },
+    {
+      "album": {
         "name": "Idea 7 (Remixes)",
         "url": "https://open.spotify.com/album/4M2TENEd1JhGfDGVAEL7nU"
       },
@@ -4508,7 +4526,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 150078,
       "name": "Idea 7",
       "url": "https://open.spotify.com/track/3ko0xsWaiY5JrngiPUo2Wo"

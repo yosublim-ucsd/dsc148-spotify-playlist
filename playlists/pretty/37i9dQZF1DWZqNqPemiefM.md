@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,139 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,140 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 56 | [Teams](https://open.spotify.com/track/53wl8WJ1ZOTz3xVi1rwdLx) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Advanced Myth](https://open.spotify.com/album/3JN2DYDj67nqpshyJSailY) | 1:22 |
 | 57 | [光と水](https://open.spotify.com/track/2mYJCrSy6VLrDXLi5F28cx) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [ひとつぶの海](https://open.spotify.com/album/0k4j3uetJHFATIt4VxwCPz) | 4:35 |
 | 58 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
-| 59 | [Drive My Car \(Cassette\)](https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:55 |
-| 60 | [hope](https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [hope](https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq) | 2:43 |
+| 59 | [hope](https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0) | [hope](https://open.spotify.com/album/53Fdq3uJ2ueVXsK4UVRhjq) | 2:43 |
+| 60 | [Drive My Car \(Cassette\)](https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:55 |
 | 61 | [Iyo No Hito](https://open.spotify.com/track/0HwElc96e7sKvI8pOTvC2a) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Iyo No Hito](https://open.spotify.com/album/3ACIFpzKIMDwUDjlMidNvS) | 6:14 |
 | 62 | [腐海にて](https://open.spotify.com/track/02U2krXPaHmoZDw0ghxm35) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [風の谷のナウシカ サウンドトラック ～はるかな地へ・・・](https://open.spotify.com/album/6w7zJbSYmmkn0oaAlxPj32) | 2:33 |
 | 63 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 |
 | 64 | [Terra Recipe](https://open.spotify.com/track/2GWNKsZ7cqicbvWynbOkaW) | [Minami Deutsch](https://open.spotify.com/artist/6DFbqiI3rjhM8QpjEUQHAQ) | [Minami Deutsch](https://open.spotify.com/album/73HnAuOAaL60sprIydSdtd) | 3:50 |
-| 65 | [Epigraph エピグラフ](https://open.spotify.com/track/5vhLVV8AHtfLqMLQdbnw87) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 3:07 |
-| 66 | [20210310](https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:53 |
+| 65 | [20210310](https://open.spotify.com/track/2jfZwpvdkJyOhUZtqgBdW9) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [12](https://open.spotify.com/album/7xqvnTJrX61QnwtdOqmn5M) | 6:53 |
+| 66 | [Epigraph エピグラフ](https://open.spotify.com/track/5vhLVV8AHtfLqMLQdbnw87) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [e o](https://open.spotify.com/album/5rotTIzASSa2IDU9uQA0nQ) | 3:07 |
 | 67 | [Uferlose Sea](https://open.spotify.com/track/7kLY4k6ExT8W3OkILXGZT1) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Lunz Reinterpretations](https://open.spotify.com/album/35OQiIkrFb31chhxpcyON5) | 1:22 |
 | 68 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 |
 | 69 | [londonderry air](https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD) | [Shin Ichikawa](https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk) | [londonderry air](https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj) | 3:01 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 76 | [Cinco](https://open.spotify.com/track/7CKUI4URr6aECdBGtQPcoS) | [Cesar Hernandez Martinez](https://open.spotify.com/artist/7blPiWjjTy6fLWo3q2BTms) | [Cinco](https://open.spotify.com/album/1i3Qeu4cBxecY6qyxSbxoB) | 4:04 |
 | 77 | [June Love](https://open.spotify.com/track/4HSkOnfpJuaB2bqe9p3n4L) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [June Love](https://open.spotify.com/album/6oRyG7AD7eUaZijBTBYkRO) | 2:45 |
 | 78 | [Nuska](https://open.spotify.com/track/0VjNU6gmu3obqXJEaZdYi4) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Approach to Anima](https://open.spotify.com/album/27iGaCh2JV907Q3rkHnJAE) | 4:44 |
-| 79 | [Bitsummer](https://open.spotify.com/track/7CTUtBYUjFSLtk97ZpEaTL) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z), [Rinko](https://open.spotify.com/artist/36IKnQFNBrUs7GrgO6KuhD) | [Bitsummer](https://open.spotify.com/album/4RSVUUq6KsWDCLeTjMSFny) | 2:46 |
-| 80 | [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 |
+| 79 | [solari](https://open.spotify.com/track/4VqvHOwxiadYcXdbUNpOm3) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/3Kd4OGkyOjvB4P1j8bVJ2A) | 3:52 |
+| 80 | [Bitsummer](https://open.spotify.com/track/7CTUtBYUjFSLtk97ZpEaTL) | [Cwondo](https://open.spotify.com/artist/4lX2EFNI67U8lCqy83W64Z), [Rinko](https://open.spotify.com/artist/36IKnQFNBrUs7GrgO6KuhD) | [Bitsummer](https://open.spotify.com/album/4RSVUUq6KsWDCLeTjMSFny) | 2:46 |
 | 81 | [SLEEP](https://open.spotify.com/track/1aw0BaQEC2PGp8kmYYHvyP) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green \(SFX Version\)](https://open.spotify.com/album/6viDcqQjEZbYDCxomxO18w) | 6:50 |
 | 82 | [Umi No Sunatsubu](https://open.spotify.com/track/64IcvG8Hba5MWv4C3IPUlF) | [Masahiro Sugaya](https://open.spotify.com/artist/0ZH37cF1gwuwRW86ueqau1) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 1:12 |
 | 83 | [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 95 | [DARK SIDE OF THE STAR／地球の夜にむけての夜想曲](https://open.spotify.com/track/4PKo1dYqZ0SwPiZUBit81Z) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [S\-F\-X](https://open.spotify.com/album/43fijnO4yvvtThr62134CL) | 5:37 |
 | 96 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |
 | 97 | [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 |
-| 98 | [Simple Math](https://open.spotify.com/track/7n0y94WcLp0QDbRoWO64Oq) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Simple Math](https://open.spotify.com/album/7cpMHg9DK1kc2UFvY7Ul9N) | 2:44 |
-| 99 | [Dance Steve](https://open.spotify.com/track/2S39C0vf2sciLEMUulkbEZ) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Dance Steve](https://open.spotify.com/album/5mAEKep5aIPoIZpvxwGuvA) | 4:45 |
+| 98 | [Dance Steve](https://open.spotify.com/track/2S39C0vf2sciLEMUulkbEZ) | [Anna Butterss](https://open.spotify.com/artist/2AN7XYCHxVLSqJ5RPjI4DA), [Jeff Parker](https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt) | [Dance Steve](https://open.spotify.com/album/5mAEKep5aIPoIZpvxwGuvA) | 4:45 |
+| 99 | [Simple Math](https://open.spotify.com/track/7n0y94WcLp0QDbRoWO64Oq) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Simple Math](https://open.spotify.com/album/7cpMHg9DK1kc2UFvY7Ul9N) | 2:44 |
 | 100 | [Forest Song \(Le Makeup REMIX\)](https://open.spotify.com/track/399FYmfl4OxB7WaBtvLSE0) | [Ben Inui](https://open.spotify.com/artist/6nImy4rxQdr49blY4x32hu), [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc) | [Forest Song \(Le Makeup REMIX\)](https://open.spotify.com/album/5LZT84DiB70F5EBD07kGCo) | 3:30 |
 
-Snapshot ID: `Z0kgCwAAAABdfUeibKh1u186JI/sYp4M`
+Snapshot ID: `Z0lVqgAAAAApsXDzyMLi2MtbHgwRbtRC`

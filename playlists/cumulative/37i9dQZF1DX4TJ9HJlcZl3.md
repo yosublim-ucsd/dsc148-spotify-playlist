@@ -4,7 +4,7 @@
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-117 songs - 7 hr 20 min
+118 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Fool](https://open.spotify.com/track/4loDVfneBX3ezG86mwToP0) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Eli & Harry](https://open.spotify.com/album/1CYU3DuCTjz4IkthZBr6cY) | 3:49 | 2023-05-26 | 2024-04-19 |
 | [Fool](https://open.spotify.com/track/5OKT7iKJqQAjTK2Q3BLxHY) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Fool](https://open.spotify.com/album/37hBvmWBhITeg8dYwzBWhN) | 3:49 | 2023-05-26 |  |
 | [Fool](https://open.spotify.com/track/6Jc3ep7zW6mgLKg0ZJhbnZ) | [The Breathing Effect](https://open.spotify.com/artist/4sfL701NAogwKc7mBMWNsy) | [Fool](https://open.spotify.com/album/6LNtiLvgjUpGFSHA5RZFAR) | 3:49 | 2023-05-26 | 2023-08-07 |
+| [Four In The Morning](https://open.spotify.com/track/5LnDdFPjJkrUDt9BOoJMfS) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Escape Artist](https://open.spotify.com/album/7IfMDEwQODVi1NBKFJlcNp) | 4:40 | 2024-11-29 |  |
 | [Free](https://open.spotify.com/track/6kAOOamDflxqkrAWI6wZRR) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 5:27 | 2022-10-21 |  |
 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 | 2024-04-05 |  |
 | [Hold On \(I Was Wrong\)](https://open.spotify.com/track/1lh13cQN0IwZDtjyXxrXFH) | [Video Age](https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW) | [Pop Therapy](https://open.spotify.com/album/4VvY6HIl5iFIAGhiFGamNR) | 3:43 | 2022-10-21 | 2023-09-09 |
@@ -55,7 +56,7 @@
 | [Le Parapluie](https://open.spotify.com/track/08KYx5dQxdD33irLEt8WQH) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Le Parapluie](https://open.spotify.com/album/65DVyR9E39jseLEfXe1gaR) | 4:07 | 2023-04-28 |  |
 | [Like No Tomorrow](https://open.spotify.com/track/2ErFtY4W7nLrg3iInKUGhK) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Sam Padrul](https://open.spotify.com/artist/6G6wGudDVkxMg6SaCF0bdF) | [Like No Tomorrow](https://open.spotify.com/album/1y6gGiq5QNDj1r8fPPVAnA) | 2:50 | 2024-06-28 |  |
 | [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-10-21 | 2023-04-09 |
-| [Make You Miss Me](https://open.spotify.com/track/61Jrb9FdLpobG6DFc8qC5D) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Escape Artist \(Disc 1\)](https://open.spotify.com/album/5FCeJuDM50xcMMot22SsTO) | 4:15 | 2024-09-06 |  |
+| [Make You Miss Me](https://open.spotify.com/track/61Jrb9FdLpobG6DFc8qC5D) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Escape Artist \(Disc 1\)](https://open.spotify.com/album/5FCeJuDM50xcMMot22SsTO) | 4:15 | 2024-09-06 | 2024-11-30 |
 | [Mango](https://open.spotify.com/track/4teEHZgbLfOIHJ3jrgzPlT) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Loneliness Confetti](https://open.spotify.com/album/0Cinqm0u7kj6hQc1CIFjxu) | 3:15 | 2024-03-15 | 2024-04-19 |
 | [Mango](https://open.spotify.com/track/5xeseiR8s2ZdnC2WL4HsSE) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [Mango](https://open.spotify.com/album/4JSKi6XBwkQ8CGTO8Ndk3Q) | 3:15 | 2024-03-15 |  |
 | [Ms\. Marigold](https://open.spotify.com/track/5J8g7kCSf0jiH16sNMeZo3) | [superGOODthings](https://open.spotify.com/artist/7twKK7krUtniPlYv9i92vp) | [Yachty Rock Feelings, Vol\. 1](https://open.spotify.com/album/6nfTINfvFH6VZb81AYTxFP) | 4:16 | 2022-10-21 | 2023-04-15 |

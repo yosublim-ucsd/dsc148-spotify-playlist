@@ -1077,6 +1077,40 @@
     },
     {
       "album": {
+        "name": "ASI ES LA VIDA (feat. Descemer Bueno & Omi Hernandez) [Remix]",
+        "url": "https://open.spotify.com/album/6xgbZ7SdlBQKBSzVl8GZZu"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Omi Hernandez",
+          "url": "https://open.spotify.com/artist/5TrKkrhYUxkSScH0LzgeqA"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215825,
+      "name": "ASI ES LA VIDA (feat. Descemer Bueno & Omi Hernandez) - Remix",
+      "url": "https://open.spotify.com/track/0jj0Hf63LdLDgoy73YS352"
+    },
+    {
+      "album": {
         "name": "Asi Fue (Todos los Cumbieros con las manos en el aire)",
         "url": "https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1"
       },
@@ -3011,6 +3045,24 @@
     },
     {
       "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/30xEbvEfbOvidCufcbfQtc"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154588,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/6hWO2I9dnIFPtM076zQAfW"
+    },
+    {
+      "album": {
         "name": "CRIS MJ | DJ TAO Turreo Sessions #20",
         "url": "https://open.spotify.com/album/4HCyWSPj8iDtCN291g4n39"
       },
@@ -3336,7 +3388,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 156852,
       "name": "Decime cu\u00e1l fue",
       "url": "https://open.spotify.com/track/0bRDBNVBszuxoxTyEjpa4e"
@@ -5847,6 +5899,28 @@
     },
     {
       "album": {
+        "name": "La Cobra",
+        "url": "https://open.spotify.com/album/1zgag3eaEU9q7aU8Xqr6Z6"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226497,
+      "name": "La Cobra",
+      "url": "https://open.spotify.com/track/1W88WCqW8FtBep9femjfSh"
+    },
+    {
+      "album": {
         "name": "La Diabla",
         "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
@@ -8043,6 +8117,28 @@
     },
     {
       "album": {
+        "name": "MONTECARLO",
+        "url": "https://open.spotify.com/album/2iPfnIv70XYMxlJdZr8mpZ"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171847,
+      "name": "MONTECARLO",
+      "url": "https://open.spotify.com/track/0I0EAJKaGTSxdfMJhZqus7"
+    },
+    {
+      "album": {
         "name": "MORFEO",
         "url": "https://open.spotify.com/album/2EQEyysFgYJwR1H2XpJDr3"
       },
@@ -8278,7 +8374,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 157453,
       "name": "M\u00edrame",
       "url": "https://open.spotify.com/track/2btNsI4OvcVl7SAHQQDHFB"
@@ -8678,6 +8774,24 @@
       "duration_ms": 166246,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/3d4rloohk7D9OqY267uq8n"
+    },
+    {
+      "album": {
+        "name": "NO ME IMPORTA",
+        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153815,
+      "name": "NO ME IMPORTA",
+      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
     },
     {
       "album": {
@@ -9256,7 +9370,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 183921,
       "name": "Pa",
       "url": "https://open.spotify.com/track/3D97m08eFf0OvXapPitq1p"
@@ -9278,6 +9392,28 @@
       "duration_ms": 190649,
       "name": "pa",
       "url": "https://open.spotify.com/track/28ZVFl4CQhyRmBFpJXOpUY"
+    },
+    {
+      "album": {
+        "name": "PACTO",
+        "url": "https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211062,
+      "name": "PACTO",
+      "url": "https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4"
     },
     {
       "album": {
@@ -9641,6 +9777,28 @@
     },
     {
       "album": {
+        "name": "PERREITO PA LLORAR",
+        "url": "https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213095,
+      "name": "PERREITO PA LLORAR",
+      "url": "https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs"
+    },
+    {
+      "album": {
         "name": "PERROS&GATA$",
         "url": "https://open.spotify.com/album/1BSixIe0KXTGYRxpNlvOLg"
       },
@@ -9880,7 +10038,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 149504,
       "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
       "url": "https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY"
@@ -10070,7 +10228,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 234754,
       "name": "Potra Salvaje - En Vivo",
       "url": "https://open.spotify.com/track/24tH8rauLX2iFWaG7LmtfK"
@@ -11441,6 +11599,32 @@
     },
     {
       "album": {
+        "name": "Si Las Gatas Se Amotinan",
+        "url": "https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Si Las Gatas Se Amotinan",
+      "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"
+    },
+    {
+      "album": {
         "name": "Si Me Disculpo Ahora",
         "url": "https://open.spotify.com/album/3qTxPBzM8m1RQdvL4vEZOi"
       },
@@ -12028,7 +12212,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 153500,
       "name": "TE AMO \u2661",
       "url": "https://open.spotify.com/track/2AYwLOhXlychZgVXonufSN"
@@ -12246,7 +12430,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 164424,
       "name": "TERAPIA DE CHOQUE",
       "url": "https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C"
@@ -12605,6 +12789,32 @@
     },
     {
       "album": {
+        "name": "Tristeza de la Ciudad",
+        "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
+      },
+      "artists": [
+        {
+          "name": "Cachorro Lopez",
+          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164925,
+      "name": "Tristeza de la Ciudad",
+      "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
+    },
+    {
+      "album": {
         "name": "Antes de Ameri",
         "url": "https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR"
       },
@@ -12660,7 +12870,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 180385,
       "name": "Tu Foto - En Vivo",
       "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"
@@ -13912,7 +14122,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 157021,
       "name": "Ya no me duele :,)",
       "url": "https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU"

@@ -5932,7 +5932,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 152280,
       "name": "Cr\u00f4nicas da Favela",
       "url": "https://open.spotify.com/track/6bpVajogOym0S36kg9A5Du"
@@ -8965,6 +8965,24 @@
     },
     {
       "album": {
+        "name": "Eazy",
+        "url": "https://open.spotify.com/album/3F0LLoFz5BZBNDkXOHHfpx"
+      },
+      "artists": [
+        {
+          "name": "ARIO",
+          "url": "https://open.spotify.com/artist/4rDehUTWB8lnIrNPOMnVHj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120768,
+      "name": "Eazy",
+      "url": "https://open.spotify.com/track/0OZkO7iq2ZWuwGStk8QDfl"
+    },
+    {
+      "album": {
         "name": "EBRIO",
         "url": "https://open.spotify.com/album/6CUp9NdlUlLSqju10qgLEf"
       },
@@ -11294,7 +11312,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 172773,
       "name": "Frename",
       "url": "https://open.spotify.com/track/3etn3b0UZ2TSzsHiJCvFmd"
@@ -13464,7 +13482,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -15586,7 +15604,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 243412,
       "name": "La Plata Fusi\u00f3n",
       "url": "https://open.spotify.com/track/3LgPUNsjseMJpBit4xr6xQ"
@@ -17828,7 +17846,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 194086,
       "name": "Mala Mujer",
       "url": "https://open.spotify.com/track/6LkoWYYXeRISrlQCMhObCc"
@@ -20790,7 +20808,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 229787,
       "name": "Ni Me Conozco",
       "url": "https://open.spotify.com/track/0xyWkRMb09qdCDhloehCsi"
@@ -25156,7 +25174,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 137760,
       "name": "Que linda",
       "url": "https://open.spotify.com/track/1FExEHMPs4J1qLZTPFOuaX"

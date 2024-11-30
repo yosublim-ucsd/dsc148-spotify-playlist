@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > Fresh new music by independent artists and labels, featuring Mauricio Flores Updates every Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,104 likes - 96 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,132 likes - 96 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 5 | [La Patrulla](https://open.spotify.com/track/7rSg67Kxf3wTviNcSCGmQT) | [Hijos De La Plaza](https://open.spotify.com/artist/6tGfaDLiyGkJy05dbcPEJZ) | [La Patrulla](https://open.spotify.com/album/6sFYYWKSY9KWnTcOzfmv46) | 2:30 |
 | 6 | [Me Hice Bélico](https://open.spotify.com/track/6YSqNTHjDO01CHuu50eUE3) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Me Hice Bélico](https://open.spotify.com/album/0PklHIYAKaa9ojHys0Ople) | 2:33 |
 | 7 | [Modo BW](https://open.spotify.com/track/6uQPy7NQC0t4gH7CqOe4la) | [Oscar R](https://open.spotify.com/artist/5jYod7bcSZ0Sg2u4bRvncp) | [Modo BW](https://open.spotify.com/album/60TjmCLY2b8icumdT4sHVF) | 3:30 |
-| 8 | [Creelo](https://open.spotify.com/track/2ZwNUjwIqmV23AWCNZ3DZs) | [MURUA](https://open.spotify.com/artist/3G8cp3fcZvVRWkb4vqbuhz), [sky.high](https://open.spotify.com/artist/0xNr0QegDPo7yxG0kBodHR) | [Creelo](https://open.spotify.com/album/61uuPu4k4owf2iWHt7aVrS) | 3:41 |
+| 8 | [Creelo](https://open.spotify.com/track/2ZwNUjwIqmV23AWCNZ3DZs) | [MURUA](https://open.spotify.com/artist/3G8cp3fcZvVRWkb4vqbuhz), [Sky High](https://open.spotify.com/artist/2zb1YsLNGpua61Aes4GkyQ) | [Creelo](https://open.spotify.com/album/61uuPu4k4owf2iWHt7aVrS) | 3:41 |
 | 9 | [X TI](https://open.spotify.com/track/59dpq4ZqilTbtIBmEnTm5m) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [X TI](https://open.spotify.com/album/66hZhlnmo8d7Z39mOT7ket) | 4:04 |
 | 10 | [12am](https://open.spotify.com/track/7bwpnRxH4NaIgFIMVjNcQk) | [Esteban Guerrero](https://open.spotify.com/artist/0MAF0AzaLzdYJmaOl8IQYl) | [Lo Que Antes Era](https://open.spotify.com/album/2urcfjGTLq0vAZruVfHlcX) | 3:00 |
 | 11 | [Verte Con Otro](https://open.spotify.com/track/5agw9NQlXWdoekx01UH847) | [ENANO](https://open.spotify.com/artist/42KS12jXMMjUHxYdQswCuz) | [Verte Con Otro](https://open.spotify.com/album/1dJFf4ae5r27Dq0oc99FY6) | 2:09 |

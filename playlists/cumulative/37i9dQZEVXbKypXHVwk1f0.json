@@ -2500,7 +2500,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 209705,
       "name": "BAILANDO",
       "url": "https://open.spotify.com/track/4jty7qqVZoNZpCPmyjHwOb"
@@ -4186,6 +4186,24 @@
       "duration_ms": 206080,
       "name": "Casaya",
       "url": "https://open.spotify.com/track/4iRHjxLojZsyclcODm5NOv"
+    },
+    {
+      "album": {
+        "name": "Caser\u00edo",
+        "url": "https://open.spotify.com/album/2w2eRn7PArIwtEqsL5DrMT"
+      },
+      "artists": [
+        {
+          "name": "Mike Weys",
+          "url": "https://open.spotify.com/artist/2EXMq2XWRf5WS8CDakSnwm"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Caser\u00edo",
+      "url": "https://open.spotify.com/track/5HYwQ6bVQGroITNhaJDZ2H"
     },
     {
       "album": {
@@ -8584,7 +8602,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 191219,
       "name": "Espresso Martini",
       "url": "https://open.spotify.com/track/3PJgmyLaybZtALX4mrgbiD"
@@ -12226,7 +12244,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -16456,7 +16474,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 234057,
       "name": "Mojaita",
       "url": "https://open.spotify.com/track/7JHUlJCUhUvMLNGsrDf4K1"
@@ -17204,7 +17222,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 229787,
       "name": "Ni Me Conozco",
       "url": "https://open.spotify.com/track/0xyWkRMb09qdCDhloehCsi"
@@ -17690,7 +17708,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 179344,
       "name": "No Te Rayes",
       "url": "https://open.spotify.com/track/1sc1u87B3KcsNPf0jcYwgQ"
@@ -26119,6 +26137,28 @@
     },
     {
       "album": {
+        "name": "Touch Some Grass",
+        "url": "https://open.spotify.com/album/5OAxcXl2679ruZlVNN8UXI"
+      },
+      "artists": [
+        {
+          "name": "Daddy Sas",
+          "url": "https://open.spotify.com/artist/3vbGBNqh6gEF12hc7MJNZN"
+        },
+        {
+          "name": "SolJakey",
+          "url": "https://open.spotify.com/artist/61g62q0VVjvh0Innctu4xq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183455,
+      "name": "Touch Some Grass",
+      "url": "https://open.spotify.com/track/5bcfb6rhZD1aUzOzNJaeof"
+    },
+    {
+      "album": {
         "name": "en dormir sin Madrid",
         "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
       },
@@ -26666,7 +26706,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 164082,
       "name": "Tulum",
       "url": "https://open.spotify.com/track/29n3Ry9XwRbKGvYrvWq61M"
@@ -27584,7 +27624,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 218500,
       "name": "Una Vida Pasada",
       "url": "https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX"

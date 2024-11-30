@@ -421,6 +421,24 @@
     },
     {
       "album": {
+        "name": "KKOLORS",
+        "url": "https://open.spotify.com/album/4fdwRNE30xoa08hPT0o3A7"
+      },
+      "artists": [
+        {
+          "name": "Kkrisna",
+          "url": "https://open.spotify.com/artist/6mOW02ZcgtNJSF5jP8eqmf"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63076,
+      "name": "AMETISTA",
+      "url": "https://open.spotify.com/track/3P6tMHsD6GEuoFvLwKeM7t"
+    },
+    {
+      "album": {
         "name": "Sotto lo stesso effetto",
         "url": "https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0"
       },
@@ -3114,7 +3132,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 210946,
       "name": "Foto di gruppo",
       "url": "https://open.spotify.com/track/5n3qlxzpHwmPbu3UUplyLy"
@@ -3994,7 +4012,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 237000,
       "name": "Il Supermercato delle dittature",
       "url": "https://open.spotify.com/track/37tTbV5m09Nn5k6ucwIJmV"
@@ -7582,6 +7600,32 @@
       "duration_ms": 291757,
       "name": "Poeti estinti",
       "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
+    },
+    {
+      "album": {
+        "name": "Polvere",
+        "url": "https://open.spotify.com/album/1hV0vQLqGdXdUIbWlSD4lE"
+      },
+      "artists": [
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        },
+        {
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        },
+        {
+          "name": "Johnny Marsiglia",
+          "url": "https://open.spotify.com/artist/3av6zIgtT4g0kjJtDybSdb"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Polvere",
+      "url": "https://open.spotify.com/track/0ZxyOQxv2taUCbf2azdWmB"
     },
     {
       "album": {

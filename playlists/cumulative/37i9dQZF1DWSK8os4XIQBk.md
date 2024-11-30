@@ -2,7 +2,7 @@
 
 ### [All About Country](https://open.spotify.com/playlist/37i9dQZF1DWSK8os4XIQBk)
 
-> The biggest hits in country music\. Cover: Morgan Wallen
+> The biggest hits in country music\. Cover: Shaboozey
 
 770 songs - 1 day 17 hr 48 min
 

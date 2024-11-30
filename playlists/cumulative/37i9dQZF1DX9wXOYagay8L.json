@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn?si=QhA4GbuSQL2gjNSNAURtxQ\">Vernotile</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW?si=1ByPYEavT9WyU4QgEZfkDQ\"> Tellaman</a> ",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -2848,6 +2848,36 @@
       "duration_ms": 240000,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/1JhdsJnSPVmzjilbLympm7"
+    },
+    {
+      "album": {
+        "name": "Fracture",
+        "url": "https://open.spotify.com/album/5DQISLKLUegvReMInqZWjx"
+      },
+      "artists": [
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        },
+        {
+          "name": "Baby S.O.N",
+          "url": "https://open.spotify.com/artist/2Uh2YSht6hyKGPmIHn2Kt6"
+        },
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244521,
+      "name": "Fracture",
+      "url": "https://open.spotify.com/track/0VXRaqOU6gC3MfhQeBe3IX"
     },
     {
       "album": {
@@ -6158,6 +6188,32 @@
       "duration_ms": 282920,
       "name": "Loco Loco",
       "url": "https://open.spotify.com/track/6SvFJmOalLcBYl8hJIlp79"
+    },
+    {
+      "album": {
+        "name": "Lomfana (feat. OkanaNkosi & ThabzarDeMusiq)",
+        "url": "https://open.spotify.com/album/4gFzTpVagJfA9I0vrl3oOQ"
+      },
+      "artists": [
+        {
+          "name": "Zandimaz",
+          "url": "https://open.spotify.com/artist/3VAR7yz7PjAVF2ApyufhdG"
+        },
+        {
+          "name": "OkanaNkosi",
+          "url": "https://open.spotify.com/artist/2mPt60NDsm5YPJ2CTe2win"
+        },
+        {
+          "name": "ThabzarDeMusiq",
+          "url": "https://open.spotify.com/artist/2GtqLnsPUGgB0XWPOCfOsM"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269531,
+      "name": "Lomfana (feat. OkanaNkosi & ThabzarDeMusiq)",
+      "url": "https://open.spotify.com/track/7yo7vLgwFiTBTa4NSIREZr"
     },
     {
       "album": {

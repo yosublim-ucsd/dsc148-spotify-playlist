@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh?si=KCTIZdhsQ2WXyDzypHf8ag">WESLEYFRANKLIN</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,549 likes - 350 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,598 likes - 350 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 184 | [Bloody Bouquets](https://open.spotify.com/track/5qbJK62OGEkPB1jkeH1hTa) | [Demae](https://open.spotify.com/artist/1HkWfjmOohAg7lS9bv1QcL) | [Deliver Me](https://open.spotify.com/album/1loTEiFpkWnWgOEtAavZna) | 3:29 |
 | 185 | [Sit Down](https://open.spotify.com/track/2uTKAz5bjlBFXFtIoPWQh9) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sit Down](https://open.spotify.com/album/0QkUS3cJxlcy27pCa4timk) | 2:56 |
 | 186 | [Utopia](https://open.spotify.com/track/7ryo2PYxjUT745uzaw81yf) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Utopia](https://open.spotify.com/album/4x6Dp5Mx4uvSEPVKXiNM4M) | 3:07 |
-| 187 | [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 |
+| 187 | [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 |
 | 188 | [SUPER SAIYAN](https://open.spotify.com/track/2rfTH6Yybzm9fAbLGkF3Xm) | [Lyfe Harris](https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2) | [SUPER SAIYAN](https://open.spotify.com/album/1ymN73pbU8gD2J9lgwDFKK) | 2:34 |
 | 189 | [R&B](https://open.spotify.com/track/73v2KnGBqNkbq7PfQDxITP) | [StickGonBang](https://open.spotify.com/artist/7fObxUTke2VNBvywOi0Fln), [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4), [Adrian Chafer](https://open.spotify.com/artist/16dti6ifSjSyZ8PHWMwGFR) | [R&B](https://open.spotify.com/album/7s84eY6NjedI1Dv2t5cMr5) | 3:09 |
 | 190 | [Beautiful Morning](https://open.spotify.com/track/5kaiUDu5amIxPlXWaOevmB) | [Cynáa\-Nicole](https://open.spotify.com/artist/2Z2jypOqQRJFfQDyABIO7c), [Buto](https://open.spotify.com/artist/4xRMrvQ4gCKJYl2nR2shal) | [Beautiful Morning](https://open.spotify.com/album/6qu03Yi7jca2n6rklGToi2) | 3:46 |

@@ -2501,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "Dear Santa (Music from the Paramount+ Original Movie)",
+        "url": "https://open.spotify.com/album/2koKM0TAKy4Skvsvy6NZg6"
+      },
+      "artists": [
+        {
+          "name": "Rupert Gregson-Williams",
+          "url": "https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74102,
+      "name": "To Santa",
+      "url": "https://open.spotify.com/track/4PydCZcrYDS66GuCl2Yfqc"
+    },
+    {
+      "album": {
         "name": "A Christmas Carol",
         "url": "https://open.spotify.com/album/35N2paA3Tb44f0a3beEU3V"
       },

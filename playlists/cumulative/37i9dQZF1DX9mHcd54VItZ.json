@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR?si=jt2QUqt7QZWvf4He_zjY1A\">Zaan Sonnekus</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=byibppzNRu-Nf3rTYQg5LA\">Prime Circle</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 163303,
       "name": "031",
       "url": "https://open.spotify.com/track/3wU1yl2Fy9spQUVp8rx8hW"
+    },
+    {
+      "album": {
+        "name": "8/10 Catch",
+        "url": "https://open.spotify.com/album/417kUi7DIGgc57nM5vmoJT"
+      },
+      "artists": [
+        {
+          "name": "Richard and the Livertarians",
+          "url": "https://open.spotify.com/artist/2swJu6SbK10EhvEklynW03"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "8/10 Catch",
+      "url": "https://open.spotify.com/track/5k274GryFSB2mn7zXrUYmZ"
     },
     {
       "album": {
@@ -848,8 +866,8 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
-      "duration_ms": 208500,
+      "date_removed": null,
+      "duration_ms": 208800,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS"
     },
@@ -1126,6 +1144,24 @@
       "duration_ms": 221818,
       "name": "Bones",
       "url": "https://open.spotify.com/track/7c7wjBahsA0Je29ofU8q2o"
+    },
+    {
+      "album": {
+        "name": "BONS",
+        "url": "https://open.spotify.com/album/2Y3GbhFlYxxeuyPFdEZYmM"
+      },
+      "artists": [
+        {
+          "name": "VOLK",
+          "url": "https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "BONS",
+      "url": "https://open.spotify.com/track/4UqmMPfhiAevMRZcMYMtsH"
     },
     {
       "album": {
@@ -1472,6 +1508,24 @@
       "duration_ms": 304688,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/5DyMpoB5hqmjkwPBnTPxFw"
+    },
+    {
+      "album": {
+        "name": "Codependent",
+        "url": "https://open.spotify.com/album/6S2dZv4TV7M9qmu7O8vZLM"
+      },
+      "artists": [
+        {
+          "name": "Black Heidi",
+          "url": "https://open.spotify.com/artist/1uKkDJ0B4qGyH0hsUaGPvt"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240013,
+      "name": "Codependent",
+      "url": "https://open.spotify.com/track/3P2UkUHuXR55yv43a3JUhR"
     },
     {
       "album": {
@@ -2494,7 +2548,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 205500,
       "name": "Dwelms en Gebed",
       "url": "https://open.spotify.com/track/7ancL0tV6IqzOlCZg9S9Yy"
@@ -4742,7 +4796,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 230855,
       "name": "KOM JY SAAM?",
       "url": "https://open.spotify.com/track/59XxY47a6MENEj2HhMFLHX"
@@ -4796,7 +4850,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 206285,
       "name": "Kondisie",
       "url": "https://open.spotify.com/track/36SjYjhcFhamW4QESWInBa"
@@ -5882,7 +5936,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 213973,
       "name": "Nagblind",
       "url": "https://open.spotify.com/track/2Kf0YUHmw60NJEvzJEIeum"
@@ -6658,7 +6712,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 174974,
       "name": "Penny Sleeps",
       "url": "https://open.spotify.com/track/4NEZzp4GvzVEP39OWAiGFd"
@@ -9392,6 +9446,24 @@
       "duration_ms": 234979,
       "name": "Vir Ewig",
       "url": "https://open.spotify.com/track/4duchzNuzguXiPND75nVGr"
+    },
+    {
+      "album": {
+        "name": "VIR MEKAAR",
+        "url": "https://open.spotify.com/album/5CDUgys5NIMlN0lhEQqTJD"
+      },
+      "artists": [
+        {
+          "name": "Bloumoord",
+          "url": "https://open.spotify.com/artist/0BKNk93PhvcdLj5Jgtttaa"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203392,
+      "name": "VIR MEKAAR",
+      "url": "https://open.spotify.com/track/5xigfyoNmDGCYa2UsIcT79"
     },
     {
       "album": {

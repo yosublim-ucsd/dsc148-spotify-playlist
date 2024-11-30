@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: kyleaux",
+  "description": "\ud83c\uddf5\ud83c\udded vibin' \ud83e\udd76 \ud83d\udd25 Cover: kiyo",
   "name": "Pinas Vibes",
   "tracks": [
     {
@@ -593,6 +593,24 @@
     },
     {
       "album": {
+        "name": "Binabaliw",
+        "url": "https://open.spotify.com/album/0gFviVFvbF3UELJYtsbPDW"
+      },
+      "artists": [
+        {
+          "name": "Zo zo",
+          "url": "https://open.spotify.com/artist/0xyijUZwKlIH8yjj0OuDf6"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208299,
+      "name": "Binabaliw",
+      "url": "https://open.spotify.com/track/3t8qXX5EQlmdWzO9VvTGRk"
+    },
+    {
+      "album": {
         "name": "Bitter",
         "url": "https://open.spotify.com/album/2TmYMVMKx4Ddkeqa7SahW8"
       },
@@ -902,7 +920,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 206769,
       "name": "D&C",
       "url": "https://open.spotify.com/track/0zTjGbep4yFSFBnWpzgKw9"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 257441,
       "name": "Dikapamigay",
       "url": "https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf"
@@ -1786,6 +1804,24 @@
       "duration_ms": 203432,
       "name": "Halikana",
       "url": "https://open.spotify.com/track/2bdSVYtbQe5RWW6g4kXIsO"
+    },
+    {
+      "album": {
+        "name": "Hanap",
+        "url": "https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2"
+      },
+      "artists": [
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242875,
+      "name": "Hanap",
+      "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
     },
     {
       "album": {
@@ -2674,7 +2710,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 181478,
       "name": "Kailangan",
       "url": "https://open.spotify.com/track/6T4S0dtryTeI5TOqhTYWHP"
@@ -3767,6 +3803,32 @@
     },
     {
       "album": {
+        "name": "nasarO",
+        "url": "https://open.spotify.com/album/5ReQYUhQqaaLdRczbbcHg5"
+      },
+      "artists": [
+        {
+          "name": "Rippin P",
+          "url": "https://open.spotify.com/artist/3nEiImKH9Fakc0NNLRZFO7"
+        },
+        {
+          "name": "KPC",
+          "url": "https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ"
+        },
+        {
+          "name": "Jake sue",
+          "url": "https://open.spotify.com/artist/4pHJMjb8iXM90sJDbOaxf2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186460,
+      "name": "nasarO",
+      "url": "https://open.spotify.com/track/3CjH71FatCQXLASp5VDoOD"
+    },
+    {
+      "album": {
         "name": "Need It",
         "url": "https://open.spotify.com/album/01wGo5NysXJJyAnVIxykCL"
       },
@@ -4208,6 +4270,24 @@
       "duration_ms": 267389,
       "name": "Palindrome",
       "url": "https://open.spotify.com/track/5GUzt0gFvANYwkD2NCEPrq"
+    },
+    {
+      "album": {
+        "name": "pangalan",
+        "url": "https://open.spotify.com/album/1xozCy63NzVrKrSOpTLkuY"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249791,
+      "name": "pangalan",
+      "url": "https://open.spotify.com/track/6sWE2HOMuYoAgsEX8PsqzI"
     },
     {
       "album": {
@@ -4914,7 +4994,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 208000,
       "name": "Sandali",
       "url": "https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO"

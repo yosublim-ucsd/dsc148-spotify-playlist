@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa emma & matilda .
 
-635 songs - 1 day 7 hr 34 min
+637 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [ATTITUDE \(FEAT\. CHARLIE WILSON & CASH COBAIN\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 | 2024-07-02 | 2024-08-30 |
 | [Aurinkoon](https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Aurinkoon](https://open.spotify.com/album/2aiTG7ZgcwTxQobX1nScjj) | 2:27 | 2024-07-02 | 2024-07-19 |
 | [Auta mua](https://open.spotify.com/track/5Or641bUxMLBXfgfTKwyal) | [Matias Deep](https://open.spotify.com/artist/6FZbMP72KPQLu9RIcGogo1), [sara paakkari](https://open.spotify.com/artist/1zTc6v0fDLvTZuWSaFYTQL) | [Auta mua](https://open.spotify.com/album/6quIVmnMQgWFKeO2XmxHN8) | 3:10 | 2024-09-26 | 2024-10-11 |
-| [Autiomaa](https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 3:15 | 2024-10-31 |  |
+| [Autiomaa](https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 3:15 | 2024-10-31 | 2024-11-30 |
 | [Avalon](https://open.spotify.com/track/5tEeiYkDyA3Z5h9rbrl4fT) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Anne Gudrun](https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5) | [Avalon](https://open.spotify.com/album/4jyaot3pAqw7LsUIHYMasE) | 2:16 | 2024-11-15 |  |
 | [AYT](https://open.spotify.com/track/6XkqKHyHdIKBZC8qeMHsPv) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [AYT](https://open.spotify.com/album/7gtvQgvvC8JrSC9mSpbvfP) | 2:39 | 2024-09-26 | 2024-10-18 |
 | [BABY](https://open.spotify.com/track/2Nd46vlNMfLNOkC349Hrx3) | [Baby Blu](https://open.spotify.com/artist/4MRUt0W6EcwLPwuH7ehu4A) | [BABY](https://open.spotify.com/album/1xSB5IsmXeCLzWeBY3dyG4) | 3:27 | 2024-10-10 | 2024-10-18 |
@@ -146,6 +146,7 @@
 | [En sitä tarkoittanut](https://open.spotify.com/track/00PdQeNpWlEzqrMN3eauPl) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS), [F](https://open.spotify.com/artist/38wI9qgPMb7FoMu2IrzXht) | [En sitä tarkoittanut](https://open.spotify.com/album/58lUia8zs4GrvsxDt6v3vO) | 2:46 | 2024-07-02 | 2024-08-24 |
 | [En tunne mitään](https://open.spotify.com/track/2Tq6TvRPymUrGdWgILUxj9) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [En tunne mitään](https://open.spotify.com/album/1C9U1TeUv97mFMTsecCycO) | 3:04 | 2024-10-03 | 2024-11-01 |
 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 | 2024-10-17 | 2024-11-15 |
+| [Enkeli](https://open.spotify.com/track/1YmzphHCxxpdY7uDlYbIVh) | [BLONDI](https://open.spotify.com/artist/3AgPsEdoGeiqUBdEEwry1b) | [Enkeli](https://open.spotify.com/album/1Z6jBVwTDywNHHjgKtbMmr) | 3:15 | 2024-11-29 |  |
 | [Ensimmäinen](https://open.spotify.com/track/50tcwQjG65UpG70enZidJl) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn) | [Ensimmäinen](https://open.spotify.com/album/4Gc4tQY56HWjTYdeKz7UwS) | 3:29 | 2024-07-11 | 2024-07-27 |
 | [Ensimmäinen rodeo](https://open.spotify.com/track/63bOA2aqFlPVof4vsRgClw) | [RODEO](https://open.spotify.com/artist/0LjFLVs8xGlfyPxUZrG5NZ), [Anna Puu](https://open.spotify.com/artist/4gl9wpGYA4o15ykU2FBnd3), [Erin](https://open.spotify.com/artist/5H34mYQz0gLcqPWIOTyDaJ), [Ida Paul](https://open.spotify.com/artist/69pjn3Oxt0azUYEw9NE4S0) | [Ensimmäinen rodeo](https://open.spotify.com/album/4F3MlgDxWZ5f9KnBjvh845) | 3:04 | 2024-11-07 | 2024-11-15 |
 | [Erottaja](https://open.spotify.com/track/743aoKY7JQ1xSsKMX4PMwl) | [Reettabitch](https://open.spotify.com/artist/5XYFXTCJPZ9ZdvuJdEfUcQ) | [Erottaja](https://open.spotify.com/album/7vBFyUien1AoCsfmBlDWWc) | 2:58 | 2024-08-29 | 2024-09-06 |
@@ -358,6 +359,7 @@
 | [Midnight Cowboy](https://open.spotify.com/track/7tDTUhuVLAmc9L8Lrs85tm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Midnight Cowboy](https://open.spotify.com/album/3MzeTpOA8fYyon4Zs5Cral) | 3:31 | 2024-09-26 | 2024-10-25 |
 | [Miksi pyöräni varastit](https://open.spotify.com/track/7sBEl9SwkETmY8KmvwypEB) | [James\-J](https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1) | [Miksi pyöräni varastit](https://open.spotify.com/album/7aiwichlG4KAtGDMcamNdW) | 2:56 | 2024-07-02 | 2024-07-12 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-07-02 | 2024-08-19 |
+| [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-11-29 |  |
 | [Missing You](https://open.spotify.com/track/3nxtdmT0yTl8236nuyyVdC) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Missing You](https://open.spotify.com/album/2NLXnnWGIAJV0tCsXdyDNW) | 2:44 | 2024-09-13 | 2024-09-27 |
 | [Missä sä oot](https://open.spotify.com/track/5HOfloc2j0lHmZfmUxtTdJ) | [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Muovipussi kummittelee](https://open.spotify.com/album/7JLo7BNOhxESepJvUhIRPt) | 3:18 | 2024-10-03 | 2024-10-11 |
 | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 | 2024-09-13 | 2024-10-01 |

@@ -473,6 +473,28 @@
     },
     {
       "album": {
+        "name": "Christmas on Island Time",
+        "url": "https://open.spotify.com/album/61BsgzXuPsu39JCYj36XJO"
+      },
+      "artists": [
+        {
+          "name": "Teacher Peter",
+          "url": "https://open.spotify.com/artist/4qK4Sehk0WdkDGP80zo4xY"
+        },
+        {
+          "name": "Everett Green",
+          "url": "https://open.spotify.com/artist/32xhUgpc5QkovWlpyY6pP6"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Christmas on Island Time",
+      "url": "https://open.spotify.com/track/7qJxMXGtCowTWt8d4H2kEz"
+    },
+    {
+      "album": {
         "name": "Christmas Tree Farm",
         "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
       },
@@ -3286,7 +3308,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 185994,
       "name": "The Magic Of Christmas",
       "url": "https://open.spotify.com/track/6rkkl3MkLjTODElUll6Y84"

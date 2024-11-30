@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "For Good (Arr. Piano) [from \"Wicked\"]",
+        "url": "https://open.spotify.com/album/6Ezlz82NOJ0il1XOiqg7CL"
+      },
+      "artists": [
+        {
+          "name": "Music Lab Collective",
+          "url": "https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204288,
+      "name": "For Good (Arr. Piano) - from \"Wicked\"",
+      "url": "https://open.spotify.com/track/04AfCHCBBLuD2YuIUEcWLa"
+    },
+    {
+      "album": {
         "name": "Give Me Everything (Arr. Piano) [Inspired by \u2018Bridgerton\u2019]",
         "url": "https://open.spotify.com/album/2IpV7sJRwfIcZpJkS7K939"
       },

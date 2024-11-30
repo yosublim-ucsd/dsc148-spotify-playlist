@@ -1,12 +1,12 @@
 {
   "description": "MUSTAAAAAAAAAAAAARRRRDDDDDD\n",
-  "num_followers": 651741,
+  "num_followers": 652139,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0h85gAAAAAGHGoaxLXUuDPyyU+O3K+O",
+  "snapshot_id": "Z0oIugAAAACcQJ1b/6oT9NcmFWyUgMLU",
   "tracks": [
     {
       "added_at": "2024-10-16 15:53:51",
@@ -257,6 +257,26 @@
       "url": "https://open.spotify.com/track/1s3XtkdfT3obSCbQVWtvX9"
     },
     {
+      "added_at": "2024-11-29 18:32:26",
+      "album": {
+        "name": "Big Daddy Jok",
+        "url": "https://open.spotify.com/album/3wZd1qJ3yWNVDUiDPOgrMG"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Chich",
+          "url": "https://open.spotify.com/artist/66t9jFMMHlihDiM2urzKHs"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Squale (feat. Chich)",
+      "url": "https://open.spotify.com/track/7DdyIz0ujbWhkCHtgvCiBh"
+    },
+    {
       "added_at": "2024-06-28 13:41:38",
       "album": {
         "name": "VENI VIDI VICI",
@@ -287,6 +307,30 @@
       "duration_ms": 160705,
       "name": "T'es Une Etoile",
       "url": "https://open.spotify.com/track/76SbVeoRiCjWNlpImgqzVU"
+    },
+    {
+      "added_at": "2024-11-29 18:32:26",
+      "album": {
+        "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
+        "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
+      },
+      "artists": [
+        {
+          "name": "Damien Sargue",
+          "url": "https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO"
+        },
+        {
+          "name": "Cyril Niccola\u00ef",
+          "url": "https://open.spotify.com/artist/7y4MSRqhrv8DXVv6dz2EVm"
+        },
+        {
+          "name": "John Eyzen",
+          "url": "https://open.spotify.com/artist/3GlXN7PbkyOglkqldFcV4J"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Les rois du monde - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
+      "url": "https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb"
     },
     {
       "added_at": "2024-11-15 17:32:46",
@@ -1209,22 +1253,6 @@
       "url": "https://open.spotify.com/track/0NXJ8GqSvAwBond8jLKssc"
     },
     {
-      "added_at": "2024-09-06 15:02:55",
-      "album": {
-        "name": "SINAVOICE",
-        "url": "https://open.spotify.com/album/6rr3deBp5TiUbfXZrBbN6P"
-      },
-      "artists": [
-        {
-          "name": "SAF",
-          "url": "https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "BRAVO",
-      "url": "https://open.spotify.com/track/5Ttc5VGRDdmdiUAaN075IT"
-    },
-    {
       "added_at": "2024-08-16 10:45:07",
       "album": {
         "name": "Zinzin",
@@ -1315,26 +1343,6 @@
       "duration_ms": 293200,
       "name": "Kif'n'dir",
       "url": "https://open.spotify.com/track/1D9uH5CQX3EXbiXI9lQwfR"
-    },
-    {
-      "added_at": "2024-09-20 15:30:11",
-      "album": {
-        "name": "Summer Crack 4",
-        "url": "https://open.spotify.com/album/5X3ZqzQfQGjyrQEvKEAjWB"
-      },
-      "artists": [
-        {
-          "name": "Dosseh",
-          "url": "https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP"
-        },
-        {
-          "name": "Bramsito",
-          "url": "https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Tha\u00eflande",
-      "url": "https://open.spotify.com/track/1FkKaz2v65DsN4WlGsgoqu"
     },
     {
       "added_at": "2024-09-20 15:30:11",

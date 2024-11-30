@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "balik",
+        "url": "https://open.spotify.com/album/4bSedAL5jbLZ6Wt5TKd1jm"
+      },
+      "artists": [
+        {
+          "name": "Dom Guyot",
+          "url": "https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0"
+        },
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200274,
+      "name": "balik",
+      "url": "https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX"
+    },
+    {
+      "album": {
         "name": "Baliw",
         "url": "https://open.spotify.com/album/60jvhHVlmuAmEzdjRpkvue"
       },
@@ -216,7 +238,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 212622,
       "name": "Balse ng Gabi",
       "url": "https://open.spotify.com/track/1A3AzOfYdnPThsE13DXQBb"
@@ -234,7 +256,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 238571,
       "name": "Bawat Kaluluwa",
       "url": "https://open.spotify.com/track/2gnVqlNifLIGvinryubyG4"
@@ -256,6 +278,24 @@
       "duration_ms": 289266,
       "name": "Before I Let You Go",
       "url": "https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ"
+    },
+    {
+      "album": {
+        "name": "Bighani",
+        "url": "https://open.spotify.com/album/7bAOyHhBcCVWZMttZcWGqd"
+      },
+      "artists": [
+        {
+          "name": "Ace Banzuelo",
+          "url": "https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235470,
+      "name": "Bighani",
+      "url": "https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98"
     },
     {
       "album": {
@@ -606,7 +646,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 149632,
       "name": "hardest part",
       "url": "https://open.spotify.com/track/7mVRAONygdjSsxt83DEbEx"
@@ -624,7 +664,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 261375,
       "name": "Himala",
       "url": "https://open.spotify.com/track/3v8EvCxPcfwlStnCKtlzfi"
@@ -1141,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
+    },
+    {
+      "album": {
         "name": "Maybe The Night",
         "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
@@ -1358,7 +1416,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 227370,
       "name": "Pagtingin",
       "url": "https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb"

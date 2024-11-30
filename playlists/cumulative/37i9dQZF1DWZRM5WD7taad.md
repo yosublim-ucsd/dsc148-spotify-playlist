@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Ms\. Ambar en Portada
 
-343 songs - 17 hr 6 min
+344 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Mala Vida](https://open.spotify.com/track/75qzBs73rU11GaAGBOBypc) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Mala Vida](https://open.spotify.com/album/6zqlltyMymh6XhIZ4BjhGq) | 2:31 | 2023-12-01 |  |
 | [Mala Vida](https://open.spotify.com/track/3SzBLvShr2FKp1qSaqK6cm) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Mala Vida](https://open.spotify.com/album/1MQWpXacjrqP583eW6ntG1) | 2:40 | 2021-12-13 | 2024-03-09 |
 | [Maria](https://open.spotify.com/track/1vPVH2LNu5KUxxLbNsn4vS) | [Sherry](https://open.spotify.com/artist/0qKzket0i9hSMVGTV9fnZe) | [Maria](https://open.spotify.com/album/63ZAKRDHnWaZRICjRTkik3) | 2:10 | 2023-04-21 | 2024-07-06 |
-| [María](https://open.spotify.com/track/4YNEuxbsAJV2jcQ9JVgg8T) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [María](https://open.spotify.com/album/5GaPfak2nHpaRL7dtn1mHn) | 2:30 | 2024-03-08 |  |
+| [María](https://open.spotify.com/track/4YNEuxbsAJV2jcQ9JVgg8T) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [La Dame Blanche](https://open.spotify.com/artist/6u4VjE5cKZRnY451pcfhbG) | [María](https://open.spotify.com/album/5GaPfak2nHpaRL7dtn1mHn) | 2:30 | 2024-03-08 | 2024-11-30 |
 | [Matense Por La Corona](https://open.spotify.com/track/0Aiz2Y6YlCLMiEAavlbzFe) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Matense Por La Corona](https://open.spotify.com/album/2MHoSraRWUexi2RdZsZiEV) | 3:02 | 2024-05-31 |  |
 | [Me Escojo A Mi](https://open.spotify.com/track/5frQcUKGw1UXM04OW9pdIr) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Me Escojo A Mi](https://open.spotify.com/album/03sYBeXU2wGBf7gdfjf17V) | 2:48 | 2023-06-02 | 2024-05-18 |
 | [Me Levanté](https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Me Levanté](https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR) | 2:58 | 2023-06-30 |  |
@@ -332,6 +332,7 @@
 | [UNITY CYPHER\-ONE](https://open.spotify.com/track/05PcZv3YVnzfg0ZQYJdniI) | [Ambar Luna](https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML), [Madciano](https://open.spotify.com/artist/5Hr0McXKrt2SqVEBzcSRxN), [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Monserap](https://open.spotify.com/artist/7JAUwbMaUZw4ezJHfzWYQt), [Lunah Latinah](https://open.spotify.com/artist/3UVZ2l1rGV2RZ8M7p7ipbp), [Ruzica Flores](https://open.spotify.com/artist/1Z8ZBF6ppxP6jxks36IK0a), [Irina Doom](https://open.spotify.com/artist/74YhSyjfayhKD5CK7WYrTx), [Rvyo](https://open.spotify.com/artist/6eo5LO5tYMMvvKa6iLoY2n) | [UNITY CYPHER\-ONE](https://open.spotify.com/album/4TzeKIRfPU5T3PO4FwyCkg) | 3:53 | 2024-01-26 |  |
 | [Universoy](https://open.spotify.com/track/33EqBMzWhhcV9OlrIsvLbx) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Aly Mayely](https://open.spotify.com/artist/643AKLEv7jYJG7o14pwBaP), [Leo Jah](https://open.spotify.com/artist/4yS9w42JfhRhRjDrUMZMnp) | [Universoy](https://open.spotify.com/album/5SocEAqFsm7xaEBSSTAN7S) | 4:20 | 2023-02-03 | 2024-08-31 |
 | [V](https://open.spotify.com/track/56qrjAwn0wgEyEiznXlqGN) | [Valeria Canavati](https://open.spotify.com/artist/186qDmu0vJ53Vv5nGvLYwb) | [V](https://open.spotify.com/album/6sf5q6R1EKNqouE4jBPDFw) | 2:37 | 2024-05-10 |  |
+| [Valentina](https://open.spotify.com/track/6MBlMZMpbiEaGHmsmQQziJ) | [VIEF](https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [OLYMPUS](https://open.spotify.com/album/6q8ZWgwiom6BbdvRpGG19b) | 2:48 | 2024-11-29 |  |
 | [Verano Tumbado](https://open.spotify.com/track/0iijwVgj2eSaexdnvds59R) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Verano Tumbado](https://open.spotify.com/album/5jF5zgZLi3iPFKuTU4BNVJ) | 2:43 | 2024-08-30 | 2024-09-14 |
 | [Versos Tristes](https://open.spotify.com/track/7ALPJQQxtsEQnZid1GDyH9) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Versos Tristes](https://open.spotify.com/album/64j88cpynr6CNVRtHeJvnC) | 3:33 | 2021-12-13 | 2023-02-21 |
 | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/track/2OAfXYiNyGU4q7AYAhDgIt) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Viernes 15 \(Organic Remix\)](https://open.spotify.com/album/6yOpMvVMQHOkR9mzhMimkd) | 3:17 | 2021-12-13 | 2023-07-01 |

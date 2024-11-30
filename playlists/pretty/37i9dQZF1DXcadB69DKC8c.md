@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 
 > Traditional Ethiopian nostalgic Tezeta music, soul and Afro\-funk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,452 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,484 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcadB69DKC8c.md) - [plain]
 | 35 | [Atawurulegn lela](https://open.spotify.com/track/30b1kh3lecbVHexEgQlozl) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Ethiopiques, Vol\. 7: Erè mèla mèla 1975\-1978](https://open.spotify.com/album/0SCNMJwzqp2yEji1HJkGbn) | 4:02 |
 | 36 | [Ale Gena](https://open.spotify.com/track/6EcvJS1f35yH39AKv2hVKX) | [Badume's Band](https://open.spotify.com/artist/6wTwIiZckwj2EQ3g43pPH3), [Selamnesh Zemene](https://open.spotify.com/artist/2i33wwpYJI5VHZTzdkSuU0) | [Ale Gena \- Ethiopa](https://open.spotify.com/album/6H4TP1OrZGTCNlgnJ53Wp0) | 5:45 |
 | 37 | [Mulatu \- Stereo Master](https://open.spotify.com/track/1eAbOsdN0DBsmaHXleO0gb) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [Mulatu Of Ethiopia](https://open.spotify.com/album/3e574f04GMw89XGSOEazlr) | 5:03 |
-| 38 | [Alègntayè](https://open.spotify.com/track/4MMW3lNGfaGMC2Kz6du59E) | [Tezeta Band](https://open.spotify.com/artist/1Gxato9YW4LkiMcgimkKo1) | [Tezeta Band \(ep\)](https://open.spotify.com/album/5YhlIgKnabjhQhcprpNWwX) | 5:20 |
+| 38 | [Alègntayè](https://open.spotify.com/track/4MMW3lNGfaGMC2Kz6du59E) | [Tezeta Band](https://open.spotify.com/artist/1Gxato9YW4LkiMcgimkKo1) | [Tezeta Band \(ep\)](https://open.spotify.com/album/5YhlIgKnabjhQhcprpNWwX) | 5:20 |
 | 39 | [Telantena zare](https://open.spotify.com/track/1Rs3d222xwyNcB4PrrAtYa) | [Alemayehu Eshete](https://open.spotify.com/artist/1IqLubILFDd8vFQhhAHwN9) | [Ethiopiques, Vol\. 9: Alèmayèhu Eshèté 1969\-1974](https://open.spotify.com/album/6ExvBlGwoUl19Fv1jth6eD) | 3:46 |
 | 40 | [Wègèné](https://open.spotify.com/track/5TlvrqyKd1SyyCII2MNiBL) | [Badume's Band](https://open.spotify.com/artist/6wTwIiZckwj2EQ3g43pPH3) | [Addis Kan](https://open.spotify.com/album/6hxVKuND15lz4j6Hr1L5EO) | 4:48 |
 | 41 | [Arid Plain](https://open.spotify.com/track/5HjViHaLBEPAqdc7bihOjU) | [The Sorcerers](https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA) | [The Sorcerers](https://open.spotify.com/album/5qpYtUeBDnzSttzGNgg1Je) | 3:27 |

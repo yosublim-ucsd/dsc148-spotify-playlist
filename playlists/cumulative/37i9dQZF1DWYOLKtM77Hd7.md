@@ -4,7 +4,7 @@
 
 > 'Tis the season to enjoy these classic Christmas songs for the whole family.
 
-117 songs - 5 hr 54 min
+122 songs - 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Christmas Alphabet](https://open.spotify.com/track/7s7e8daLJ9Uw1NBXlZlkwf) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The McGuire Sisters Greatest Hits](https://open.spotify.com/album/1XUHMyIyGrUkx9kfRZYCIm) | 2:10 | 2022-11-23 | 2023-12-20 |
 | [Christmas In Hollis](https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [Tougher Than Leather \(Expanded Edition\)](https://open.spotify.com/album/5opAMGIf8Hn7xIaTPdHFDv) | 2:58 | 2022-11-23 |  |
 | [Christmas In New Orleans](https://open.spotify.com/track/6K9qv0rAJ0QUjPnlRpMwvd) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 2:54 | 2023-12-03 | 2023-12-19 |
+| [Christmas Is Only Moments Away \[Feat\. Scott Hoying\]](https://open.spotify.com/track/2lgaG2ZgueuO3IVwJAG7yd) | [Jessica Vosk](https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC), [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG) | [SLEIGH](https://open.spotify.com/album/6hy6zpx7aPAYxpe5YrUths) | 3:35 | 2024-11-29 |  |
 | [Christmas Is The Time To Say "I Love You"](https://open.spotify.com/track/2NSFg6KZjXOXLOZ3ayZFbV) | [Billy Squier](https://open.spotify.com/artist/3Fz2GbraVXhcpXnoi2Oe1r) | [Christmas Is the Time to Say "I Love You"](https://open.spotify.com/album/6ljRiNswE0QEYRltbRdVTX) | 2:54 | 2022-11-23 |  |
 | [Christmas Time Is Here](https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Charlie Brown Holiday Hits](https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9) | 2:43 | 2023-12-03 | 2023-12-19 |
 | [Christmas Vacation](https://open.spotify.com/track/2UuwMH7KBuWlYYTk7JeK5F) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Merry Christmas \(Expanded Edition\)](https://open.spotify.com/album/6lFHaBON0xRq8uPIjCUxa5) | 1:48 | 2022-11-23 | 2023-09-15 |
@@ -65,6 +66,8 @@
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2023-12-03 | 2023-12-19 |
 | [Last Christmas \- Remastered](https://open.spotify.com/track/6wn2nmFn3wDuiMldRiuRuL) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:27 | 2022-11-23 |  |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/1dQPM6NTmRjDHFiXQpwEOi) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 1:55 | 2023-12-03 | 2023-12-19 |
+| [Let There Be Joy \- Bonus Track](https://open.spotify.com/track/76Fz89H0J6Q3nNaQ4EnfqP) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [The Gift Of Love](https://open.spotify.com/album/4RpetlbDDEMU1nFLSdG9m5) | 2:34 | 2024-11-29 |  |
+| [Little Drummer Boy](https://open.spotify.com/track/6MtecozqUbilB5qbVARrUH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 4:48 | 2024-11-29 |  |
 | [Little Saint Nick \- 1991 Remix](https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [The Beach Boys' Christmas Album](https://open.spotify.com/album/67nqYhvjDyJXGD64937Lw3) | 1:58 | 2022-11-23 |  |
 | [Mele Kalikimaka \(feat\. The Walls Group & Michea Walls\)](https://open.spotify.com/track/7bQF95kCwlZtUcZoe05iU3) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN), [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV), [Michea Walls](https://open.spotify.com/artist/6TDQ0UnODTdW4k230SMvCI) | [The Christmas Album](https://open.spotify.com/album/4wTX7tba8lEyX0Zph3Eckn) | 2:53 | 2023-12-03 | 2023-12-19 |
 | [Mele Kalikimaka \(Merry Christmas\)](https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 2:55 | 2022-11-23 |  |
@@ -97,6 +100,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/1fXBpXQjO3OtE1Oh5gJ2BZ) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Wish You A Swinging Holiday](https://open.spotify.com/album/3q1B9PagZJbdvRhw7ZXuJz) | 2:55 | 2023-12-03 | 2023-12-19 |
 | [Sleigh Ride](https://open.spotify.com/track/5ASM6Qjiav2xPe7gRkQMsQ) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [A Christmas Gift For You From Phil Spector](https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu) | 3:01 | 2022-11-23 |  |
 | [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 | 2023-12-18 |  |
+| [Snow Globe](https://open.spotify.com/track/1sTeVgEZQlEGx6ipR9sw2M) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Snow Globe](https://open.spotify.com/album/2srA0CCelnTz8DtZBOKJqj) | 3:21 | 2024-11-29 |  |
 | [Snowflake](https://open.spotify.com/track/0DbGG3nbq1R3TNLkKTx6aZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 4:02 | 2023-12-03 | 2023-12-19 |
 | [Someday At Christmas](https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Mono Singles](https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK) | 2:48 | 2023-12-03 | 2023-12-19 |
 | [Step Into Christmas \- Remastered 1995](https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Caribou \(Remastered 1995\)](https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC) | 4:32 | 2023-12-19 |  |
@@ -124,6 +128,7 @@
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2022-11-23 | 2024-04-19 |
 | [Wonderful Christmastime \[Edited Version\] \- Remastered 2011 / Edited Version](https://open.spotify.com/track/7Lbxvt42JsNSKVCaN63qhD) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/1mODksGrJUHVAIIbPXB43v) | 3:47 | 2023-12-19 |  |
 | [You Deserve It All](https://open.spotify.com/track/2ZAEbbKPNf1Wv1fifB2nyd) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [You Deserve It All](https://open.spotify.com/album/5Ak2W28qw9158kDPOwQJFd) | 3:18 | 2023-12-03 | 2023-12-19 |
+| [You For Christmas](https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [You For Christmas](https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q) | 2:54 | 2024-11-29 |  |
 | [You're A Mean One, Mr\. Grinch](https://open.spotify.com/track/4qP2V09IpTct5A1ZSnr1zh) | [Thurl Ravenscroft](https://open.spotify.com/artist/5LCQTpuQCzKjfv233UFQnb), [Boris Karloff](https://open.spotify.com/artist/35uPgDW1J4hq6tqQ0LJcot) | [Dr\. Seuss' How The Grinch Stole Christmas! \(Original TV Soundtrack\)](https://open.spotify.com/album/6P62c1CkC8iNejWXQGegDQ) | 5:15 | 2022-11-23 |  |
 
 \*This playlist was first scraped on 2022-11-24. Prior content cannot be recovered.

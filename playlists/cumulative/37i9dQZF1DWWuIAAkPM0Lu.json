@@ -5997,6 +5997,28 @@
     },
     {
       "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156287,
+      "name": "Best Friend (with Fall Out Boy)",
+      "url": "https://open.spotify.com/track/6YIUVlNppbizkWnme87kAY"
+    },
+    {
+      "album": {
         "name": "Best Time",
         "url": "https://open.spotify.com/album/5RGfCAYmNeON0h8B2lXNPB"
       },
@@ -37203,6 +37225,24 @@
     },
     {
       "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
+    },
+    {
+      "album": {
         "name": "Misfit Kid",
         "url": "https://open.spotify.com/album/2x21SUnWA0wvbqCErxwRXA"
       },
@@ -57431,7 +57471,7 @@
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 293327,
+      "duration_ms": 299000,
       "name": "Under Din Sne (Feat. M\u00d8) - Fra koncertfilmen \"3 d\u00f8gn i Parken\"",
       "url": "https://open.spotify.com/track/2HOeXLg6RDlGawWGX7WFCT"
     },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=SnyxBcy1STO9f8z-sShRmQ>Sunmisola Agbebi</a>",
+  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s?si=vht8_qMfSoCs5426bmAStg>Joepraize</a>",
   "name": "Be Lifted ",
   "tracks": [
     {
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 211343,
       "name": "Echoes Of Love",
       "url": "https://open.spotify.com/track/5Soqtv37Gb1ROUIAVCfOeW"
@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 183157,
       "name": "FAVOUR",
       "url": "https://open.spotify.com/track/0qgx6zvq7aU69Lt6iGDCvx"
@@ -3203,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "I PREVAIL (Live)",
+        "url": "https://open.spotify.com/album/2wl36NDzFQBM0WyXvuHXoL"
+      },
+      "artists": [
+        {
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 778285,
+      "name": "I PREVAIL - Live",
+      "url": "https://open.spotify.com/track/05e71J5stPJGlANXswQDDu"
+    },
+    {
+      "album": {
         "name": "I Receive Your Light (feat. Magpsalms) [Remix]",
         "url": "https://open.spotify.com/album/1yTUzr9tTKReKGwgvgMHQ1"
       },
@@ -3258,7 +3276,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 170186,
       "name": "I Want To See You",
       "url": "https://open.spotify.com/track/3p6i5Nvr0I68LwbVWkTj7N"
@@ -4428,7 +4446,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 154285,
       "name": "Melodies",
       "url": "https://open.spotify.com/track/1Evjgpabe7O551q1MGZ1Qb"
@@ -6167,6 +6185,32 @@
     },
     {
       "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+        },
+        {
+          "name": "Anderson Qozan",
+          "url": "https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176037,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
+    },
+    {
+      "album": {
         "name": "Praise You",
         "url": "https://open.spotify.com/album/5njyhZ1cZ99DUyHlV3EUtV"
       },
@@ -7024,7 +7068,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 205790,
       "name": "The Way",
       "url": "https://open.spotify.com/track/502BVjVkjLUHx6haDTBSAG"
@@ -7536,7 +7580,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"

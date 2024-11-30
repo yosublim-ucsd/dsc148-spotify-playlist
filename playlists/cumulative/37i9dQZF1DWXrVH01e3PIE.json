@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "YSY A en la casa del Trap Argentino.",
+  "description": "Neo Pistea en la casa del Trap Argentino.",
   "name": "Trapperz Argentina",
   "tracks": [
     {
@@ -360,7 +360,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 133193,
       "name": "Adicto",
       "url": "https://open.spotify.com/track/7EFXaQWNI2aB1EaOxrRpdT"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 161578,
       "name": "BROKEN",
       "url": "https://open.spotify.com/track/0CA0mRGzeZv53d6DainJ40"
@@ -1050,6 +1050,36 @@
       "duration_ms": 172680,
       "name": "Cama Vacia",
       "url": "https://open.spotify.com/track/06myN3Gm0cS4b2egG9diEr"
+    },
+    {
+      "album": {
+        "name": "CULTO",
+        "url": "https://open.spotify.com/album/1tcNhqApgkYeWauEew4d4Y"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235284,
+      "name": "CANADA",
+      "url": "https://open.spotify.com/track/23ywfcSQrrgWS6F1J53ZyM"
     },
     {
       "album": {
@@ -1954,10 +1984,28 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 120805,
       "name": "Diddy",
       "url": "https://open.spotify.com/track/1WnmemyxhNoX6bxPSpKMjm"
+    },
+    {
+      "album": {
+        "name": "Digamos Todo",
+        "url": "https://open.spotify.com/album/5Y20JLL3BnVt8FLYDNpjEa"
+      },
+      "artists": [
+        {
+          "name": "Chulimane",
+          "url": "https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133332,
+      "name": "Digamos Todo",
+      "url": "https://open.spotify.com/track/097IfQ9sUrF7ErZHm1thG7"
     },
     {
       "album": {
@@ -2366,7 +2414,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 183159,
       "name": "El Tiempo Se Para",
       "url": "https://open.spotify.com/track/0CxQ3ICqj842FNBGMovEuQ"
@@ -3548,7 +3596,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 113548,
       "name": "KFC",
       "url": "https://open.spotify.com/track/1IoJ8K4cHdPj5J6WgBqz4t"
@@ -3906,6 +3954,14 @@
         {
           "name": "Neo Pistea",
           "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Ivo Wosco",
+          "url": "https://open.spotify.com/artist/3QArVFjHI7TaOuEgyjcoYe"
+        },
+        {
+          "name": "Purps On The Beat",
+          "url": "https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd"
         }
       ],
       "date_added": "2024-11-15",
@@ -5207,6 +5263,28 @@
     },
     {
       "album": {
+        "name": "PACTO",
+        "url": "https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj"
+      },
+      "artists": [
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211062,
+      "name": "PACTO",
+      "url": "https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4"
+    },
+    {
+      "album": {
         "name": "PADRE NUESTRO",
         "url": "https://open.spotify.com/album/59EHYUAybQzI26zLUOx14h"
       },
@@ -6330,7 +6408,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 188525,
       "name": "Si no me olvido",
       "url": "https://open.spotify.com/track/6R0xV2borWxrMLnpJg07dN"
@@ -7876,7 +7954,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 200000,
       "name": "VUD\u00da",
       "url": "https://open.spotify.com/track/4ORYC508Z4K3iLb5Y1jlJX"

@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 8232,
+  "num_followers": 8234,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAADKJZWIqviaKYp7kpGZU6w",
+  "snapshot_id": "Z0eygAAAAABJteqeJKb38HFgSCnFE4cz",
   "tracks": [
     {
       "added_at": null,
@@ -258,15 +258,11 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Badi Assad",
-          "url": "https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs"
         }
       ],
-      "duration_ms": 340041,
-      "name": "Diya Hai",
-      "url": "https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS"
+      "duration_ms": 451383,
+      "name": "Saans Lo",
+      "url": "https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m"
     },
     {
       "added_at": null,
@@ -334,11 +330,15 @@
         {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Badi Assad",
+          "url": "https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs"
         }
       ],
-      "duration_ms": 451383,
-      "name": "Saans Lo",
-      "url": "https://open.spotify.com/track/6iPZbDZtoVyQv7spX7Tt8m"
+      "duration_ms": 340041,
+      "name": "Diya Hai",
+      "url": "https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS"
     },
     {
       "added_at": null,

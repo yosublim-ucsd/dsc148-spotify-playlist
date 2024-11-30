@@ -4,7 +4,7 @@
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-710 songs - 1 day 20 hr 49 min
+712 songs - 1 day 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Jesu, Joy of Man's Desiring \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/2Kn5PauE1nEJxUQlD6N3JF) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Jesu, Joy of Man's Desiring](https://open.spotify.com/album/2pjG5wJxCWKHmZcNcK0mCR) | 2:08 | 2023-04-21 | 2023-09-23 |
 | [Jeux d'eau, M\. 30](https://open.spotify.com/track/6UobDoELlmj6yvSBM4jcxI) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Kathryn Stott](https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og) | [Kathryn Stott: The Complete Solo Recordings](https://open.spotify.com/album/6KfVFwkLddOYcSdILrPRnP) | 6:04 | 2023-01-03 |  |
 | [Kaiho](https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Kaiho](https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU) | 3:17 | 2024-03-01 | 2024-08-14 |
+| [Keskiyön valssi](https://open.spotify.com/track/3UioF9dmfda0JSkjgdIh3v) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Keskiyön valssi](https://open.spotify.com/album/4kXNxXOCAghpYjEzeLF5zh) | 4:32 | 2024-11-29 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/6RUSzFE0Qv9YqaIz1qCCpo) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Killing Me Softly With His Song](https://open.spotify.com/album/1crWufifVQchsnAVXSk6UZ) | 1:03 | 2024-09-06 |  |
 | [Kiss the Rain](https://open.spotify.com/track/0fwAkzz0qALiz4QnQKC7pN) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Kiss the Rain](https://open.spotify.com/album/4BjtKMRsRy69raeSHuhb8X) | 4:24 | 2024-02-23 |  |
 | [Kitsch\-Musik: III\. Allegretto](https://open.spotify.com/track/4esWy3Fu7vcCEg4kJNaojI) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Alexei Lubimov](https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG) | [Kitsch\-Musik/III\. Allegretto](https://open.spotify.com/album/5D8xGfxRzE0TjSrEpIMjt8) | 2:47 | 2024-07-05 | 2024-07-20 |
@@ -471,6 +472,7 @@
 | [Promenade](https://open.spotify.com/track/3D3hrxyqYC8D10YneCf8RD) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Promenade](https://open.spotify.com/album/7ui0yJFEaDdQLvvOHKgtNz) | 2:33 | 2024-04-12 |  |
 | [Prélude](https://open.spotify.com/track/6HIRhDZd8E7MMkfZDLpV48) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Somnio Novo](https://open.spotify.com/album/0BlgO0ukeZGE8VM3VaTaGk) | 2:51 | 2023-01-03 | 2023-02-11 |
 | [Prélude](https://open.spotify.com/track/7dOjUz9bTwzuZkoaiqDoxm) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Prélude](https://open.spotify.com/album/0Zj30tKJ189EKPzg3l5sLe) | 2:51 | 2022-09-25 | 2023-01-04 |
+| [Puccini: Vissi d'Arte \- Olivia Belli Rework](https://open.spotify.com/track/0WYhU3QuRMUCSIW0qQN6li) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Puccini: Vissi d'Arte \(Olivia Belli Rework\)](https://open.spotify.com/album/0u78EJFU0XwHHC3YN8aL3x) | 3:09 | 2024-11-29 |  |
 | [Quietly Yours](https://open.spotify.com/track/4NXFInAtx4Uit2TWUlSckW) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Quietly Yours](https://open.spotify.com/album/0qLNFfTCcpSlpG6hKc7imt) | 3:07 | 2024-08-30 |  |
 | [Quintet No\. 4 in D Major, G 448: IV\. Fandango](https://open.spotify.com/track/7p2LjFm54OEqQjvF4snN1S) | [Luigi Boccherini](https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76), [Miloš Karadaglić](https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4), [Jonathan Cohen](https://open.spotify.com/artist/0z6t3buywDCXXWpXnkmH7R), [Arcangelo](https://open.spotify.com/artist/7CZfCnmFRBPanhnBO1ZdMq) | [Baroque](https://open.spotify.com/album/21RQ5ToNB79hGsqOobGGQi) | 3:50 | 2023-10-24 | 2024-02-24 |
 | [Rachmaninoff: Prélude in G\-Sharp Minor, Op\. 32, No\. 12](https://open.spotify.com/track/38smAkChkQ7wdvxXDf977d) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Rachmaninoff: Prélude in G\-Sharp Minor, Op\. 32, No\. 12](https://open.spotify.com/album/4z09Xwq2X7plPRnnVq3lji) | 2:39 | 2024-03-22 |  |

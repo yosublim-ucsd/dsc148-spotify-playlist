@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day.",
-  "num_followers": 89843,
+  "num_followers": 89875,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "Need Your Love",
-      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 194826,
       "name": "If It Feels Good (Then It Must Be)",
       "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "Need Your Love",
+      "url": "https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -445,22 +445,6 @@
       "url": "https://open.spotify.com/track/1FqOGWc280BYbpRwLiPn4P"
     },
     {
-      "added_at": "2024-09-13 09:24:57",
-      "album": {
-        "name": "Waiting on the Right Time",
-        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 219786,
-      "name": "Waiting on the Right Time",
-      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
-    },
-    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "She Keeps Calling",
@@ -475,6 +459,22 @@
       "duration_ms": 143000,
       "name": "She Keeps Calling",
       "url": "https://open.spotify.com/track/1hG55qzxbHuGaPfAhCPgoF"
+    },
+    {
+      "added_at": "2024-09-13 09:24:57",
+      "album": {
+        "name": "Waiting on the Right Time",
+        "url": "https://open.spotify.com/album/50YUFgsiE11VbXB4QFKaP1"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 219786,
+      "name": "Waiting on the Right Time",
+      "url": "https://open.spotify.com/track/7rqR6MqQX8x2eDlAmleCRl"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Young Sick Camellia",
-        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 290422,
-      "name": "GotItBad",
-      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "True to Myself",
         "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 240360,
       "name": "Spiritual Thang",
       "url": "https://open.spotify.com/track/1lcZPCRAuVXCHSqPsFaWlw"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Young Sick Camellia",
+        "url": "https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 290422,
+      "name": "GotItBad",
+      "url": "https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1029,22 +1029,6 @@
       "url": "https://open.spotify.com/track/2mGWmvIIvs7jKEXxyh7Wfb"
     },
     {
-      "added_at": "2024-10-25 08:08:52",
-      "album": {
-        "name": "Can't Explain This Love",
-        "url": "https://open.spotify.com/album/2liSppC10mqkaU5WZYhGZ9"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 181399,
-      "name": "Can't Explain This Love",
-      "url": "https://open.spotify.com/track/0q76TcRclfJfgC0XnpLFbO"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Take from Me",
@@ -1065,6 +1049,22 @@
       "url": "https://open.spotify.com/track/1uyj6ycPIp7i907LsGbUmA"
     },
     {
+      "added_at": "2024-10-25 08:08:52",
+      "album": {
+        "name": "Can't Explain This Love",
+        "url": "https://open.spotify.com/album/2liSppC10mqkaU5WZYhGZ9"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 181399,
+      "name": "Can't Explain This Love",
+      "url": "https://open.spotify.com/track/0q76TcRclfJfgC0XnpLFbO"
+    },
+    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "(Your Love Keeps Lifting Me) Higher and Higher",
@@ -1079,6 +1079,22 @@
       "duration_ms": 187924,
       "name": "(Your Love Keeps Lifting Me) Higher and Higher",
       "url": "https://open.spotify.com/track/0qbg3HFwPSMmN0BlrdW5qW"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Glimmer",
+        "url": "https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD"
+      },
+      "artists": [
+        {
+          "name": "Velvet Bloom",
+          "url": "https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55"
+        }
+      ],
+      "duration_ms": 191594,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Glimmer",
-        "url": "https://open.spotify.com/album/3FawGubjyjO7TxDISCalRD"
-      },
-      "artists": [
-        {
-          "name": "Velvet Bloom",
-          "url": "https://open.spotify.com/artist/1HiDrUs73y9fUOt8DjBH55"
-        }
-      ],
-      "duration_ms": 191594,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/5Ddhny03U9xVCanImqrwju"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
         "name": "The Woman I Am",
         "url": "https://open.spotify.com/album/0xUs1n2GTs34q1JeFfZsDz"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 284840,
       "name": "Love You All My Lifetime",
       "url": "https://open.spotify.com/track/2yTswsiLkNGzzzX54WroNS"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
+      },
+      "artists": [
+        {
+          "name": "Adriana Evans",
+          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
+        }
+      ],
+      "duration_ms": 265560,
+      "name": "All For Love",
+      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1151,22 +1167,6 @@
       "duration_ms": 117927,
       "name": "Home Improvement",
       "url": "https://open.spotify.com/track/17O5F0I7FZJ009c9aKtWRo"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/6qS7HFeGOxWm7zplMU419G"
-      },
-      "artists": [
-        {
-          "name": "Adriana Evans",
-          "url": "https://open.spotify.com/artist/6sCf6HW9zBhLN64XC8tRdv"
-        }
-      ],
-      "duration_ms": 265560,
-      "name": "All For Love",
-      "url": "https://open.spotify.com/track/6vU8If1zpZDzYQdTa2Rvgp"
     },
     {
       "added_at": "2024-08-30 05:32:52",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
+        "name": "Rahsaan Patterson",
+        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+      },
+      "artists": [
+        {
+          "name": "Rahsaan Patterson",
+          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+        }
+      ],
+      "duration_ms": 354093,
+      "name": "Stop By",
+      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
         "name": "Covered in Soul",
         "url": "https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2024-03-08 13:51:25",
       "album": {
-        "name": "Rahsaan Patterson",
-        "url": "https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c"
+        "name": "Feels So Good (Don\u2019t It)",
+        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
       },
       "artists": [
         {
-          "name": "Rahsaan Patterson",
-          "url": "https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH"
+          "name": "Secret Rendezvous",
+          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
         }
       ],
-      "duration_ms": 354093,
-      "name": "Stop By",
-      "url": "https://open.spotify.com/track/0Flm1lDGamEbFYLt674t3T"
+      "duration_ms": 209524,
+      "name": "Feels So Good Don\u2019t It",
+      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
     },
     {
       "added_at": "2024-10-25 08:08:52",
@@ -1267,22 +1283,6 @@
       "duration_ms": 202005,
       "name": "Strong",
       "url": "https://open.spotify.com/track/0oaSAqD0cYGc9KiSOQbWC3"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Feels So Good (Don\u2019t It)",
-        "url": "https://open.spotify.com/album/7k8i25bxpnGYfj9RKH2Fcg"
-      },
-      "artists": [
-        {
-          "name": "Secret Rendezvous",
-          "url": "https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf"
-        }
-      ],
-      "duration_ms": 209524,
-      "name": "Feels So Good Don\u2019t It",
-      "url": "https://open.spotify.com/track/2zjgiDtc4dutzztejez29k"
     },
     {
       "added_at": "2024-03-08 13:51:25",

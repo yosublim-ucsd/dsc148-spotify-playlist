@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 
 > Scary monsters and filthy drops 🧛🏼🧛🏼
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,709 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,743 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuQyuab5Cy4.md) - [plain]
 | 13 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
 | 14 | [Blood](https://open.spotify.com/track/5TTX8tnS8kxYPPCSAFPsCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Blood](https://open.spotify.com/album/3u28SLBxnRI3cxwv9zwheu) | 3:00 |
 | 15 | [Frankenstein's Fury](https://open.spotify.com/track/10rmDaJ80PXKTN4BINMfh6) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr) | [Frankenstein's Fury](https://open.spotify.com/album/3l6DpMg71tQ15zQYfxbRF1) | 2:59 |
-| 16 | [go\_hard](https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [WASTY](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [go\_hard](https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q) | 2:06 |
+| 16 | [go\_hard](https://open.spotify.com/track/0maMEzo6B7oJtEkI7Ptf0S) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [wasty](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [go\_hard](https://open.spotify.com/album/6PKcqeS05kyd5MjawZcV1q) | 2:06 |
 | 17 | [Psycho \(RAC Mix\)](https://open.spotify.com/track/6Hhg2FepgSwCDI2EsENmiQ) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [redruMNDR](https://open.spotify.com/artist/0rGZih8ZcoxWdXjnNi3Z51), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [The Sequel \(The Remixes\)](https://open.spotify.com/album/0eflAEjBSxtYJkz227JFjw) | 3:11 |
 | 18 | [inhuman](https://open.spotify.com/track/72sLsJ5XELHGuV1J6ntJoZ) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [inhuman](https://open.spotify.com/album/565EAf3SEil3VUEvBeqdvz) | 3:18 |
 | 19 | [Ghost Voices](https://open.spotify.com/track/7ipGvvE90ROUNFw7ZBXBTO) | [Virtual Self](https://open.spotify.com/artist/0F52YLV7uWqaJfMMDgG737) | [Virtual Self](https://open.spotify.com/album/7I3PH61aLVNVj4EVvU16WG) | 4:26 |

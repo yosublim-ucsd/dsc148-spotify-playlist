@@ -1,12 +1,12 @@
 {
   "description": "Celebrate the season with these fun tracks",
-  "num_followers": 71063,
+  "num_followers": 71107,
   "original_name": "Kids Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0VV/QAAAAC99p3+YW4lUxG5sDCGqsgU",
+  "snapshot_id": "Z0lKUAAAAABnOTukRNv2IUaBPRhOwFtn",
   "tracks": [
     {
       "added_at": "2024-11-21 16:17:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-11-21 16:17:00",
       "album": {
+        "name": "It's The Holidays!",
+        "url": "https://open.spotify.com/album/1xUI91MtCt9EUtvTRM2orI"
+      },
+      "artists": [
+        {
+          "name": "Plim Plim",
+          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+        }
+      ],
+      "duration_ms": 132924,
+      "name": "It's The Holidays!",
+      "url": "https://open.spotify.com/track/3J97ArvC3VUs470LYKd97Z"
+    },
+    {
+      "added_at": "2024-11-21 16:17:00",
+      "album": {
         "name": "KIDZ BOP Christmas - 2024",
         "url": "https://open.spotify.com/album/2vJ7QIv3w2gLJMREBzVjeD"
       },
@@ -439,18 +455,38 @@
     {
       "added_at": "2024-11-21 16:17:00",
       "album": {
-        "name": "It's The Holidays!",
-        "url": "https://open.spotify.com/album/1xUI91MtCt9EUtvTRM2orI"
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/6iDFWowtQh95D7RQQwXwxB"
       },
       "artists": [
         {
-          "name": "Plim Plim",
-          "url": "https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8"
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
         }
       ],
-      "duration_ms": 132924,
-      "name": "It's The Holidays!",
-      "url": "https://open.spotify.com/track/3J97ArvC3VUs470LYKd97Z"
+      "duration_ms": 129402,
+      "name": "Santa's Workshop",
+      "url": "https://open.spotify.com/track/4Sqsx7S1LPsfGoQwbw7dkC"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "We Wish You a Merry Christmas",
+        "url": "https://open.spotify.com/album/2gMdZ3jT2q3dHjXJt1D7B8"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 120220,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/3O3tvaQnp76v0UquL3B8SA"
     },
     {
       "added_at": "2024-11-21 16:17:00",
@@ -471,22 +507,6 @@
       "duration_ms": 102000,
       "name": "Winter Games - From \"The Christmas Letter Express\"",
       "url": "https://open.spotify.com/track/7Bu5JHABnpjCLL9YObYQRt"
-    },
-    {
-      "added_at": "2024-11-21 16:17:00",
-      "album": {
-        "name": "Christmas Time Is Here",
-        "url": "https://open.spotify.com/album/6iDFWowtQh95D7RQQwXwxB"
-      },
-      "artists": [
-        {
-          "name": "Kids Imagine Nation",
-          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
-        }
-      ],
-      "duration_ms": 129402,
-      "name": "Santa's Workshop",
-      "url": "https://open.spotify.com/track/4Sqsx7S1LPsfGoQwbw7dkC"
     },
     {
       "added_at": "2024-11-21 16:17:00",
@@ -559,26 +579,6 @@
     {
       "added_at": "2024-11-21 16:17:00",
       "album": {
-        "name": "The Christmas Letter Express",
-        "url": "https://open.spotify.com/album/5ErYLRjXLr4eZ55NnYX2zG"
-      },
-      "artists": [
-        {
-          "name": "Thomas & Friends",
-          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
-        },
-        {
-          "name": "Mattel",
-          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
-        }
-      ],
-      "duration_ms": 115031,
-      "name": "Ho-Ho-Hold on Santa Claus",
-      "url": "https://open.spotify.com/track/5tmrl605ygkCjlUEKleR2G"
-    },
-    {
-      "added_at": "2024-11-21 16:17:00",
-      "album": {
         "name": "Preschool Christmas Classroom Party",
         "url": "https://open.spotify.com/album/2h8sF8OAxSXhQHRnCA1Q9c"
       },
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-11-21 16:17:00",
       "album": {
+        "name": "Five Little Elves",
+        "url": "https://open.spotify.com/album/6gIToTkv3D6olwqg9aVAGV"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "duration_ms": 143049,
+      "name": "Five Little Elves",
+      "url": "https://open.spotify.com/track/1DYI9G0EESjpqetbIecWCD"
+    },
+    {
+      "added_at": "2024-11-21 16:17:00",
+      "album": {
         "name": "Little Robin",
         "url": "https://open.spotify.com/album/0BmSWtUrRy0moqs5ZLGp1a"
       },
@@ -631,18 +647,38 @@
     {
       "added_at": "2024-11-21 16:17:00",
       "album": {
-        "name": "Five Little Elves",
-        "url": "https://open.spotify.com/album/6gIToTkv3D6olwqg9aVAGV"
+        "name": "Christmas Lullabies for Babies - Ukulele Songs",
+        "url": "https://open.spotify.com/album/3moWHsmRQcLONCfFxCPumu"
       },
       "artists": [
         {
-          "name": "Bounce Patrol",
-          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+          "name": "The Nursery Rhymes",
+          "url": "https://open.spotify.com/artist/62WeEJTAzSXNxt3nXhQMj9"
         }
       ],
-      "duration_ms": 143049,
-      "name": "Five Little Elves",
-      "url": "https://open.spotify.com/track/1DYI9G0EESjpqetbIecWCD"
+      "duration_ms": 69333,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/5XssuqGt2h4vJeaYvgAd64"
+    },
+    {
+      "added_at": "2024-11-21 16:17:00",
+      "album": {
+        "name": "The Christmas Letter Express",
+        "url": "https://open.spotify.com/album/5ErYLRjXLr4eZ55NnYX2zG"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 115031,
+      "name": "Ho-Ho-Hold on Santa Claus",
+      "url": "https://open.spotify.com/track/5tmrl605ygkCjlUEKleR2G"
     },
     {
       "added_at": "2024-11-21 16:17:00",
@@ -663,22 +699,6 @@
     {
       "added_at": "2024-11-21 16:17:00",
       "album": {
-        "name": "Christmas Lullabies for Babies - Ukulele Songs",
-        "url": "https://open.spotify.com/album/3moWHsmRQcLONCfFxCPumu"
-      },
-      "artists": [
-        {
-          "name": "The Nursery Rhymes",
-          "url": "https://open.spotify.com/artist/62WeEJTAzSXNxt3nXhQMj9"
-        }
-      ],
-      "duration_ms": 69333,
-      "name": "We Wish You a Merry Christmas",
-      "url": "https://open.spotify.com/track/5XssuqGt2h4vJeaYvgAd64"
-    },
-    {
-      "added_at": "2024-11-21 16:17:00",
-      "album": {
         "name": "Christmas with Pancake Manor",
         "url": "https://open.spotify.com/album/1PTKfDXc50iVuv217W9DAF"
       },
@@ -695,22 +715,6 @@
     {
       "added_at": "2024-11-21 16:17:00",
       "album": {
-        "name": "For Goodness' Sake",
-        "url": "https://open.spotify.com/album/2xEeJ62d2QOHtQzkcKi2Wx"
-      },
-      "artists": [
-        {
-          "name": "The Elf on the Shelf",
-          "url": "https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq"
-        }
-      ],
-      "duration_ms": 137124,
-      "name": "For Goodness' Sake",
-      "url": "https://open.spotify.com/track/1ffWyeC32jceZHUIuTb209"
-    },
-    {
-      "added_at": "2024-11-21 16:17:00",
-      "album": {
         "name": "Sings Merry Christmas",
         "url": "https://open.spotify.com/album/0gzQolHXgVEeTTxBg7wvbE"
       },
@@ -723,6 +727,22 @@
       "duration_ms": 204000,
       "name": "Sings Merry Christmas",
       "url": "https://open.spotify.com/track/3KxkW7JQ9NRKZSqlinw6wJ"
+    },
+    {
+      "added_at": "2024-11-21 16:17:00",
+      "album": {
+        "name": "For Goodness' Sake",
+        "url": "https://open.spotify.com/album/2xEeJ62d2QOHtQzkcKi2Wx"
+      },
+      "artists": [
+        {
+          "name": "The Elf on the Shelf",
+          "url": "https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq"
+        }
+      ],
+      "duration_ms": 137124,
+      "name": "For Goodness' Sake",
+      "url": "https://open.spotify.com/track/1ffWyeC32jceZHUIuTb209"
     },
     {
       "added_at": "2024-11-21 16:17:00",
@@ -759,22 +779,6 @@
     {
       "added_at": "2024-11-21 16:17:00",
       "album": {
-        "name": "Fall and Winter Holiday Songs for Kids",
-        "url": "https://open.spotify.com/album/0pUwuW2CPzA7AmMcFwGOPU"
-      },
-      "artists": [
-        {
-          "name": "Mother Goose Club",
-          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
-        }
-      ],
-      "duration_ms": 152303,
-      "name": "Joy to the World",
-      "url": "https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA"
-    },
-    {
-      "added_at": "2024-11-21 16:17:00",
-      "album": {
         "name": "Deck the Halls with MusicClubKids!",
         "url": "https://open.spotify.com/album/6VwAB01urKaj2iAUNklGRZ"
       },
@@ -791,6 +795,22 @@
     {
       "added_at": "2024-11-21 16:17:00",
       "album": {
+        "name": "Fall and Winter Holiday Songs for Kids",
+        "url": "https://open.spotify.com/album/0pUwuW2CPzA7AmMcFwGOPU"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "duration_ms": 152303,
+      "name": "Joy to the World",
+      "url": "https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA"
+    },
+    {
+      "added_at": "2024-11-21 16:17:00",
+      "album": {
         "name": "My Happy Sled + Jingle Bells",
         "url": "https://open.spotify.com/album/3ZCCNYnKQwlLCqtcoEygIh"
       },
@@ -803,6 +823,22 @@
       "duration_ms": 180920,
       "name": "My Happy Sled + Jingle Bells",
       "url": "https://open.spotify.com/track/2fftyBYmRMCTiIIpQNa8JC"
+    },
+    {
+      "added_at": "2024-11-21 16:17:00",
+      "album": {
+        "name": "Wish Upon a Christmas",
+        "url": "https://open.spotify.com/album/5yhVdVdyZKjPE59rxqCyVx"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "duration_ms": 121641,
+      "name": "Wish Upon a Christmas",
+      "url": "https://open.spotify.com/track/121fVyrxUotXXDNmoUJSAC"
     },
     {
       "added_at": "2024-11-21 16:17:00",
@@ -871,22 +907,6 @@
       "duration_ms": 121000,
       "name": "Christmas Time",
       "url": "https://open.spotify.com/track/7zaBeDLJCht8KSvkvGIRje"
-    },
-    {
-      "added_at": "2024-11-21 16:17:00",
-      "album": {
-        "name": "Wish Upon a Christmas",
-        "url": "https://open.spotify.com/album/5yhVdVdyZKjPE59rxqCyVx"
-      },
-      "artists": [
-        {
-          "name": "Imitator Tots",
-          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
-        }
-      ],
-      "duration_ms": 121641,
-      "name": "Wish Upon a Christmas",
-      "url": "https://open.spotify.com/track/121fVyrxUotXXDNmoUJSAC"
     },
     {
       "added_at": "2024-11-21 16:17:00",
@@ -965,6 +985,26 @@
       "url": "https://open.spotify.com/track/4ypLX5jEzTcsCdiyXoiqP7"
     },
     {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "12 Days of Christmas",
+        "url": "https://open.spotify.com/album/2jaaRcesnOWc8lydULfFrs"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Finny the Shark",
+          "url": "https://open.spotify.com/artist/1VJySDu4xQJhRfZgQSgJ1i"
+        }
+      ],
+      "duration_ms": 259278,
+      "name": "12 Days of Christmas",
+      "url": "https://open.spotify.com/track/1TVXMtKqEQxaW8SWioLWo5"
+    },
+    {
       "added_at": "2024-11-21 16:17:00",
       "album": {
         "name": "Cool Christmas Jams",
@@ -979,6 +1019,62 @@
       "duration_ms": 162332,
       "name": "We Wish You a Merry Christmas",
       "url": "https://open.spotify.com/track/7Bw7S2olPWsEzG3DVSttXP"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "On Christmas Day! (20 Holiday Family Favorites)",
+        "url": "https://open.spotify.com/album/6yPYut6ZVZqhJICvp84Ucc"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "duration_ms": 116005,
+      "name": "I Saw Three Ships",
+      "url": "https://open.spotify.com/track/5XRkCGAzvGsG1ygRm1JPd1"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Secret Santa",
+        "url": "https://open.spotify.com/album/6oQpFXoIlFliKnIU3Mjjny"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        },
+        {
+          "name": "Ronnie Boy Kids",
+          "url": "https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38"
+        }
+      ],
+      "duration_ms": 235846,
+      "name": "Secret Santa",
+      "url": "https://open.spotify.com/track/3J6ncTuaKmSpxjXOkUTJ0v"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Fisher-Price Holiday Favorites",
+        "url": "https://open.spotify.com/album/1Zb1osR7tSDPUcbh28NqaR"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 83249,
+      "name": "Up on the Housetop",
+      "url": "https://open.spotify.com/track/3psbuTV2kE7qTFdTDQU39w"
     },
     {
       "added_at": "2024-11-21 16:17:00",

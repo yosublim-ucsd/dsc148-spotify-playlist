@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/3MJRn5EWi6McEFbI00qNGe?si=F\-Y4\-qc5QiiG2aMKGJDs2g">Ugaboys</a>\. Artwork: Isu Kim.
+> The best new music by independent African artists and labels\. Cover:  <a href="https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp?si=Le\-zQG16SjmjH2Jud3e8rQ">Serøtonin</a>\. Artwork: Isu Kim.
 
 1,149 songs - 2 day 9 hr 38 min
 

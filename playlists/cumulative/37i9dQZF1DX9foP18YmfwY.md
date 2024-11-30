@@ -4,7 +4,7 @@
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Irmã Ana Paula
 
-185 songs - 14 hr 45 min
+186 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Paciência](https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Paciência](https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL) | 4:28 | 2022-09-02 |  |
 | [Para Sempre Cantarei \- Ao Vivo](https://open.spotify.com/track/61kfrlgOMGQYnLiMgYrxnZ) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Para Sempre Cantarei](https://open.spotify.com/album/6bBo76VDOgEjXwWJjXfdew) | 5:21 | 2023-02-10 | 2023-03-25 |
 | [Pedi E Recebereis](https://open.spotify.com/track/0WOAuYFuEKzwJzgMu73EMe) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Pedi E Recebereis](https://open.spotify.com/album/05Qt3oJMg0TfNxS5dWwZtO) | 3:55 | 2022-09-02 | 2024-07-13 |
-| [Pelas Mãos de Maria](https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Pelas Mãos de Maria](https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm) | 3:19 | 2022-09-02 |  |
+| [Pelas Mãos de Maria](https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK) | [Fernando Vinhote](https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS) | [Pelas Mãos de Maria](https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm) | 3:19 | 2022-09-02 | 2024-11-30 |
 | [Ponto de Partida](https://open.spotify.com/track/05Teec4me0ieroW0A3CWTN) | [Octavia de Assis](https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km), [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Ponto de Partida](https://open.spotify.com/album/1Us1TQdylueuubkB3r86gs) | 3:34 | 2023-10-20 | 2023-11-25 |
 | [Pra Frente](https://open.spotify.com/track/52qLfp7U4lfJHcj5V083WV) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Pra Frente](https://open.spotify.com/album/0hTQ34wFWWg7MflujJDfft) | 3:49 | 2023-12-22 | 2024-07-19 |
 | [Pra Te Ver Feliz](https://open.spotify.com/track/53oVXkxQalQSjP11ML8qmD) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Pra Te Ver Feliz](https://open.spotify.com/album/0geKasDgvcEy4LFKxZna9z) | 3:26 | 2023-11-24 | 2023-12-23 |
@@ -193,5 +193,6 @@
 | [Voz de Trovão](https://open.spotify.com/track/55bvaCrj1WfQZb1xuC7vhV) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Voz de Trovão](https://open.spotify.com/album/2N551Plznn22YszuHisFmW) | 6:19 | 2024-11-15 |  |
 | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Yeshua \(feat\. Eliana Ribeiro\)](https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j) | 4:47 | 2022-09-02 | 2024-09-27 |
 | [É Lindo Ser Católico](https://open.spotify.com/track/3SfjEP1A8HF7oXpH61K6Re) | [William Sanfona](https://open.spotify.com/artist/0XzDr5yWnSIug4qnZ54QGH) | [É Lindo Ser Católico](https://open.spotify.com/album/6f1ihJju82fMhC14jjfM1Y) | 2:39 | 2024-11-08 |  |
+| [Ó Maria Concebida](https://open.spotify.com/track/6dc4GllypJnA2sZy4aZXCo) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Ó Maria Concebida](https://open.spotify.com/album/5Mn9pjNvcGtEHxCmPCOKIJ) | 3:03 | 2024-11-29 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

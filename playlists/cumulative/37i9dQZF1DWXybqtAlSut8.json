@@ -46,6 +46,24 @@
     {
       "album": {
         "name": "Abide With Me",
+        "url": "https://open.spotify.com/album/4Tqo2AVH37raVlj5GHgWnu"
+      },
+      "artists": [
+        {
+          "name": "Alana Westwood",
+          "url": "https://open.spotify.com/artist/47zZi1jCukxxJhWcg39xVb"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Abide With Me",
+      "url": "https://open.spotify.com/track/4uU3O4zkkwt4cxDpn3WruK"
+    },
+    {
+      "album": {
+        "name": "Abide With Me",
         "url": "https://open.spotify.com/album/4jqFjSAWfcqmZ8Pa8JGNgR"
       },
       "artists": [
@@ -150,6 +168,24 @@
       "duration_ms": 144764,
       "name": "And Can It Be That I Should Gain - Piano",
       "url": "https://open.spotify.com/track/7ahdNh4B5iAAS4Rt32CPQH"
+    },
+    {
+      "album": {
+        "name": "Awaiting the Festive Night",
+        "url": "https://open.spotify.com/album/2LP5tFktuJb2HuGXk32cnS"
+      },
+      "artists": [
+        {
+          "name": "Lecce Mchano",
+          "url": "https://open.spotify.com/artist/0KHaLdxI5krYRoJtHFlLbR"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165158,
+      "name": "Awaiting the Festive Night",
+      "url": "https://open.spotify.com/track/5310iSrHA5iw5G4YUcIEhV"
     },
     {
       "album": {
@@ -632,7 +668,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 234750,
       "name": "It Is Well With My Soul (When Peace Like A River)",
       "url": "https://open.spotify.com/track/1R76Apzg1pmJEkO1gRv0tY"
@@ -855,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Praise In Winterland",
+        "url": "https://open.spotify.com/album/2ZCF1d2p0HkvspNmbvABNQ"
+      },
+      "artists": [
+        {
+          "name": "Anas Penelope",
+          "url": "https://open.spotify.com/artist/2C69j48WL1Rn6TZvIiSWsk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130656,
+      "name": "Praise In Winterland",
+      "url": "https://open.spotify.com/track/1SzqzTwRxhK8GMu5cmEKjm"
+    },
+    {
+      "album": {
         "name": "I Surrender All",
         "url": "https://open.spotify.com/album/4bjGbFrwdlWRcb17Lw1NH2"
       },
@@ -888,6 +942,24 @@
       "duration_ms": 163540,
       "name": "Prepare The Way, O Zion",
       "url": "https://open.spotify.com/track/0PUSwHzJ1FfcY4KxutsFPI"
+    },
+    {
+      "album": {
+        "name": "Quiet and Hopeful",
+        "url": "https://open.spotify.com/album/3Xis6fPhkz1lgrdAYjxJcq"
+      },
+      "artists": [
+        {
+          "name": "Caius Casimir",
+          "url": "https://open.spotify.com/artist/3NBjO83Zifm7QkWDF8pmvo"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188478,
+      "name": "Quiet and Hopeful",
+      "url": "https://open.spotify.com/track/3Ke8IJjEGEanhmQfqUh5WT"
     },
     {
       "album": {
@@ -1010,7 +1082,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 146204,
       "name": "The Valley",
       "url": "https://open.spotify.com/track/37Y8uCJeXBbIl6cpK3j76K"
@@ -1208,7 +1280,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 231002,
       "name": "Where the Roses Never Fade",
       "url": "https://open.spotify.com/track/7sQ9OH1DrisPzjoTOoxIZQ"

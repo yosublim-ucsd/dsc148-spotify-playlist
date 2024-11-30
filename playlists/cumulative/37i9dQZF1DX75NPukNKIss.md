@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy
 
-63 songs - 3 hr 2 min
+65 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,15 +35,16 @@
 | [GLOCK](https://open.spotify.com/track/29sbEEB0w4aAY3FofzzEjy) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:48 | 2024-10-25 |  |
 | [Grippy](https://open.spotify.com/track/2dfnX2aizo1CGP8iHh2U8G) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Grippy](https://open.spotify.com/album/0ZcdublGhe4iQEyqCDxLCt) | 3:54 | 2024-10-25 |  |
 | [hate me](https://open.spotify.com/track/1YEkPzjsMAxGdLPG3GhaEO) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [hate me](https://open.spotify.com/album/2nuVrnLzots4ZUguP7pijz) | 3:05 | 2024-10-25 |  |
-| [Hood Love Story](https://open.spotify.com/track/6YqllTrCzrCJQghRu4vdtS) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Hood Love Story](https://open.spotify.com/album/3jPCWncrNMtE7eJRHEkGNP) | 2:36 | 2024-11-22 |  |
+| [Hood Love Story](https://open.spotify.com/track/6YqllTrCzrCJQghRu4vdtS) | [Kenzo B](https://open.spotify.com/artist/2jllUNKJ1Zc0ycZs8NEMmH) | [Hood Love Story](https://open.spotify.com/album/3jPCWncrNMtE7eJRHEkGNP) | 2:36 | 2024-11-22 | 2024-11-30 |
 | [IMU](https://open.spotify.com/track/7JuKh9giCATc0CD2GMegYW) | [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/7GnzvGH06ZZTIRL28C89kC) | [Lovers & Friends \(Deluxe\)](https://open.spotify.com/album/0giPLwNlEMmok6u3QWcjBW) | 3:15 | 2024-10-25 |  |
 | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/track/51ayPpFTx4d7P9Kn5kymXp) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [jane baby \(feat\. Cash Cobain\)](https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO) | 2:08 | 2024-10-25 |  |
 | [JHOLIDAY](https://open.spotify.com/track/0shLGCfcai77W6i896MY1P) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [2 SLIZZY 2 SEXY](https://open.spotify.com/album/6LTZvDHENUVTxeQrLLS28g) | 2:15 | 2024-10-25 | 2024-11-09 |
 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 | 2024-10-25 |  |
 | [Loopy](https://open.spotify.com/track/1FQ4gFzY4SAsvVtqqzBcOW) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Loopy](https://open.spotify.com/album/6HzhPQQ81iZ8wMLhmDBjGS) | 2:21 | 2024-10-25 |  |
 | [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 | 2024-10-25 |  |
-| [Make It](https://open.spotify.com/track/5Kruw5nxEp8kP9PSENCs2j) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Make It](https://open.spotify.com/album/2ALakB56cdxPOLT3jByPcn) | 3:00 | 2024-11-22 |  |
+| [Make It](https://open.spotify.com/track/5Kruw5nxEp8kP9PSENCs2j) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Make It](https://open.spotify.com/album/2ALakB56cdxPOLT3jByPcn) | 3:00 | 2024-11-22 | 2024-11-30 |
 | [Masterpiece](https://open.spotify.com/track/6tnpw5No4aPQaYvh53AiPJ) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MR\. R2R](https://open.spotify.com/album/3wayBXXQkgzlcK2LDVsJlv) | 2:27 | 2024-10-25 |  |
+| [Maybach Van \(Pissin Standing Up\) \[feat\. TTO K.T.\]](https://open.spotify.com/track/1h7WDoYcIKMMytNe6F2J6u) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [TTO K.T.](https://open.spotify.com/artist/64NUmfhISKp7DetZjlAAos) | [Trill Bill](https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO) | 2:20 | 2024-11-29 |  |
 | [Miss Independent](https://open.spotify.com/track/40i6QrKX6zHdmqe7gn8Osc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [Miss Independent](https://open.spotify.com/album/1zXqQo90W30wPoXJOxLzEz) | 3:05 | 2024-10-25 |  |
 | [More Of Yah Love \(Mhmm\)](https://open.spotify.com/track/2NHNALfjfVxHjw1Ke1v7ql) | [Btb Dezz](https://open.spotify.com/artist/7dsfjJOEJ0naEgecbf0lol) | [More Of Yah Love \(Mhmm\)](https://open.spotify.com/album/1KSlCzOu82iaI92bXuKKHD) | 2:07 | 2024-11-22 |  |
 | [ms.beautiful V](https://open.spotify.com/track/2u0I3ZqpAoj59pfYAfFyTs) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [porno story](https://open.spotify.com/album/1u2eDAbSLeXrIiBYiHWCd3) | 2:12 | 2024-10-25 |  |
@@ -62,6 +63,7 @@
 | [Slizzy Flow](https://open.spotify.com/track/4bb24qJy1jwBwvHCe6bOyA) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Sexy Driller](https://open.spotify.com/album/4Lqc8XJpSSgvR0qoAu0K4g) | 2:29 | 2024-11-22 |  |
 | [slizzyhunchodon](https://open.spotify.com/track/4P3s7E8Qq0D6sjfqiy7TxJ) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 3:24 | 2024-10-25 |  |
 | [SUMN PRETTY](https://open.spotify.com/track/6mMePkdSUNhOw8NexGiKFb) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [SUMN PRETTY](https://open.spotify.com/album/2ns4KibYyQnqiq1Eb7Garn) | 2:38 | 2024-10-25 |  |
+| [Sunday](https://open.spotify.com/track/2WVt8kpHSmldTufFnA2m3B) | [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [Sunday](https://open.spotify.com/album/7kcVgPWrS6twn9s8GbbtZA) | 1:53 | 2024-11-29 |  |
 | [swag it! \- Remix](https://open.spotify.com/track/7u8eXlHIWOLGqOjp6XnM3x) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 3:11 | 2024-10-25 |  |
 | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws) | 2:43 | 2024-10-25 |  |
 | [The Best](https://open.spotify.com/track/54mrCPoOQmXARvk5aOsAS9) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Last Lap](https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq) | 2:35 | 2024-10-25 |  |

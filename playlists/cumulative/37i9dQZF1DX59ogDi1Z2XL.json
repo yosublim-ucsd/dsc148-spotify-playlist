@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: YSN Fab",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Roderick Porter",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -662,6 +662,28 @@
       "duration_ms": 234893,
       "name": "410",
       "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
+    },
+    {
+      "album": {
+        "name": "4AM in Amsterdam",
+        "url": "https://open.spotify.com/album/51aRaCzfWBB7VP7Qs5to72"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137185,
+      "name": "4AM in Amsterdam",
+      "url": "https://open.spotify.com/track/1vYP4urElfry5EbK7SPzDx"
     },
     {
       "album": {
@@ -2938,6 +2960,28 @@
       "duration_ms": 203380,
       "name": "Ball 4ever",
       "url": "https://open.spotify.com/track/2C6xLfhl6YmDuagHjq7cRK"
+    },
+    {
+      "album": {
+        "name": "Ballad of Bobby Jones",
+        "url": "https://open.spotify.com/album/6p4qwXE1jUALVGjHr60KWG"
+      },
+      "artists": [
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        },
+        {
+          "name": "Sebastian Gaskin",
+          "url": "https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230569,
+      "name": "Ballad of Bobby Jones",
+      "url": "https://open.spotify.com/track/5nXk4I0rPNaIVgIZDLsvhO"
     },
     {
       "album": {
@@ -5272,7 +5316,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 169289,
       "name": "Can't Escape",
       "url": "https://open.spotify.com/track/20Vlc7sLXN57uRAoAbG0oF"
@@ -6826,7 +6870,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 145160,
       "name": "Cover My Shoulders",
       "url": "https://open.spotify.com/track/18kuriPV1L1yXHdnwj3CoA"
@@ -8521,6 +8565,24 @@
     },
     {
       "album": {
+        "name": "DU$K",
+        "url": "https://open.spotify.com/album/5Rurd3EodMjsGbUfELpdgf"
+      },
+      "artists": [
+        {
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139760,
+      "name": "DU$K",
+      "url": "https://open.spotify.com/track/1lzRntr8YLxCJPaxQn4BED"
+    },
+    {
+      "album": {
         "name": "Dubber Don",
         "url": "https://open.spotify.com/album/0rVLrhOqj175dOafL1ku6u"
       },
@@ -8894,6 +8956,36 @@
       "duration_ms": 130015,
       "name": "EATING",
       "url": "https://open.spotify.com/track/0w5cSkyD2BXC3W5Mf85zwu"
+    },
+    {
+      "album": {
+        "name": "4DaTribe Disc Two",
+        "url": "https://open.spotify.com/album/73eMWTVUOtJznJCE0diVod"
+      },
+      "artists": [
+        {
+          "name": "KOTO?",
+          "url": "https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We"
+        },
+        {
+          "name": "Soft Eyez",
+          "url": "https://open.spotify.com/artist/6ojMQVQeJuZ8PGwHoIO4fT"
+        },
+        {
+          "name": "Tec",
+          "url": "https://open.spotify.com/artist/0i42weW8gvzyQgIHAIibzI"
+        },
+        {
+          "name": "KA1 BANK$",
+          "url": "https://open.spotify.com/artist/4aUOtMVN8BHI12rGLJI26m"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165199,
+      "name": "EatMyShorts",
+      "url": "https://open.spotify.com/track/24ecljYcrvOvyKWVpAgaxf"
     },
     {
       "album": {
@@ -16052,7 +16144,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 141131,
       "name": "KNOCK YA SONIC RINGS",
       "url": "https://open.spotify.com/track/4sTEZtYcTYGsVgie9Qatkh"
@@ -19114,7 +19206,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 84009,
       "name": "MOTHER",
       "url": "https://open.spotify.com/track/273fZutNIXTsi5ZXZWNDOG"
@@ -22526,7 +22618,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 172541,
       "name": "OWTS",
       "url": "https://open.spotify.com/track/17I97We87Ww9Jg8Teczqa4"
@@ -26679,6 +26771,24 @@
     },
     {
       "album": {
+        "name": "SICK\u00c4",
+        "url": "https://open.spotify.com/album/5cBNgNA2vgNNjB1wF7Ko3p"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "SICK\u00c4",
+      "url": "https://open.spotify.com/track/2oEh5hk6PuM8sdffCvEefm"
+    },
+    {
+      "album": {
         "name": "Silly Side",
         "url": "https://open.spotify.com/album/1ELf79Psb5fV4yCmfGMZtc"
       },
@@ -28532,7 +28642,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 248851,
       "name": "Sunday Shoes",
       "url": "https://open.spotify.com/track/1PSZbxfCOY5cdXhNDl3q8E"
@@ -29902,6 +30012,24 @@
       "duration_ms": 221123,
       "name": "The Pure",
       "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
+    },
+    {
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/6PJNMtgFiPaZHsiYOzZwmE"
+      },
+      "artists": [
+        {
+          "name": "Tona",
+          "url": "https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121611,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/29cuL0mtw6Eq1Ear0A8r7u"
     },
     {
       "album": {
@@ -32804,7 +32932,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 150000,
       "name": "WHERE THE LOVE GO",
       "url": "https://open.spotify.com/track/2PomEWb6w6gkYKNcwplxJt"
@@ -32888,6 +33016,24 @@
       "duration_ms": 144118,
       "name": "White Flower",
       "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
+    },
+    {
+      "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/1eiZbWfiKknG2HbkzcOciL"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126693,
+      "name": "Whitney",
+      "url": "https://open.spotify.com/track/0X8kehItzs6bNTVxolgTqi"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of the best recent prog rock track\. Cover: VOLA
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-222 songs - 19 hr 43 min
+226 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Hazard](https://open.spotify.com/track/10KlXJAkq44AjU3Tj8LKwl) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Hazard](https://open.spotify.com/album/4iCjBIOD626agMphqSZo0q) | 6:08 | 2022-05-20 | 2024-09-13 |
 | [Hazard](https://open.spotify.com/track/3kBTxzdPJzP399hYP9BoaW) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [How Do We Want to Live?](https://open.spotify.com/album/248Nx17GVrcWKjDH8JKqGm) | 6:08 | 2022-05-20 | 2024-04-19 |
 | [Heartbeat \- Live in Fréjus](https://open.spotify.com/track/31gH3jGEwA9R8uzznh7zln) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [SHELTERING SKIES \(Live in Fréjus, August 27th 1982\)](https://open.spotify.com/album/50PE5AvcgV0Ro1OkHWUotV) | 4:09 | 2024-09-19 | 2024-10-05 |
-| [Heavy Pencil](https://open.spotify.com/track/65442wX7TIwgEeCkfLzKwT) | [Rosalie Cunningham](https://open.spotify.com/artist/2DvBNcZ05NC2AOuQa7oyqH) | [Heavy Pencil](https://open.spotify.com/album/3D65iVReaZlywzm7NzvFav) | 6:29 | 2024-10-18 |  |
+| [Heavy Pencil](https://open.spotify.com/track/65442wX7TIwgEeCkfLzKwT) | [Rosalie Cunningham](https://open.spotify.com/artist/2DvBNcZ05NC2AOuQa7oyqH) | [Heavy Pencil](https://open.spotify.com/album/3D65iVReaZlywzm7NzvFav) | 6:29 | 2024-10-18 | 2024-11-30 |
+| [Hold On](https://open.spotify.com/track/5UYEN39zu5bJaZ8PT7tdlh) | [Bernth](https://open.spotify.com/artist/0Ca8QNi2jA2pemnFC6Rydj), [Anthony Vincent](https://open.spotify.com/artist/5f18KeztDInZIN7cRyRdp6) | [Elemental](https://open.spotify.com/album/6AWm4lugoUoI4OyBENsQgv) | 3:40 | 2024-11-29 |  |
 | [Hope Is](https://open.spotify.com/track/4jy8mXwqnOmKGrwB64zKc6) | [Amarok](https://open.spotify.com/artist/7wzRaLHNSWIG8ZHK2hQljt) | [Hope](https://open.spotify.com/album/2CATRWH2YIdajne7jXHzB5) | 4:44 | 2024-09-19 | 2024-10-19 |
 | [I Can't Stay Here Anymore](https://open.spotify.com/track/2wj1ZSQ32XsMKIvMNO61R2) | [Pattern\-Seeking Animals](https://open.spotify.com/artist/3X2gxHjnxuXGLgs0nrqMuW) | [I Can't Stay Here Anymore](https://open.spotify.com/album/2vP68Dxqg2tWue80ASr1HR) | 6:05 | 2022-05-20 |  |
 | [I Don't Know How We Got Here](https://open.spotify.com/track/0vt2eeGySaIBsyK7hgbOAb) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [I Don't Know How We Got Here](https://open.spotify.com/album/4hnY68ph6nQxdGodPbe8xQ) | 3:33 | 2024-08-29 | 2024-10-05 |
@@ -127,7 +128,7 @@
 | [Now Is Our Time](https://open.spotify.com/track/3JxB8ryA0KT2Z2EBz5aCic) | [Haunt the Woods](https://open.spotify.com/artist/1W51oEWvt0RZGpUrHMYmnU) | [The Line Pt\. II](https://open.spotify.com/album/4v5x0OgLt9684JCTumvWP3) | 4:43 | 2024-09-06 | 2024-10-05 |
 | [Oblivion](https://open.spotify.com/track/3pcl2gNKJrTFip2TiQXjWd) | [Big Big Train](https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g) | [The Likes of Us](https://open.spotify.com/album/3zjmvbCAxUJ4iXKDLvp9hK) | 5:27 | 2024-09-06 |  |
 | [Oblivion](https://open.spotify.com/track/4Ynr1SPCeUI0W0YPeSFSIK) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Crack the Skye](https://open.spotify.com/album/2W2nqEKXWBorbq5yvm3jZg) | 5:46 | 2024-10-04 |  |
-| [Obstruction](https://open.spotify.com/track/6l2XhobKc4H4gyE4L0enoj) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Obstruction](https://open.spotify.com/album/5KGUdoXhKSyusmsGMnLrE6) | 3:50 | 2024-10-11 |  |
+| [Obstruction](https://open.spotify.com/track/6l2XhobKc4H4gyE4L0enoj) | [Acacia Ridge](https://open.spotify.com/artist/6koaWXkOOBCzZDCd9GaHsj) | [Obstruction](https://open.spotify.com/album/5KGUdoXhKSyusmsGMnLrE6) | 3:50 | 2024-10-11 | 2024-11-30 |
 | [Oceans Of Time](https://open.spotify.com/track/1I2sRZz3TzBzx0Gu1tY4Tb) | [Jonas Lindberg](https://open.spotify.com/artist/2fcCXP984B9PnVxcUKfYa1) | [Oceans Of Time](https://open.spotify.com/album/7HAAFpp4vxMDZuVrax7sje) | 11:36 | 2022-05-20 | 2024-09-20 |
 | [Oceans of Time](https://open.spotify.com/track/3EKuJFfB1z5QZvZ3QIVkJC) | [Jonas Lindberg & The Other Side](https://open.spotify.com/artist/4cQCLwSvoMEWrtSvneDZBT) | [Miles From Nowhere](https://open.spotify.com/album/5O54oQgo0wvrxakMbfGL5v) | 11:36 | 2022-05-20 | 2024-04-19 |
 | [Of The New Day](https://open.spotify.com/track/3FM9thNED9m7mq1SRBmo3Z) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [CLOSURE / CONTINUATION](https://open.spotify.com/album/7meXKEI99ccqzh9AtmeeAR) | 4:43 | 2022-05-20 | 2024-04-19 |
@@ -170,6 +171,7 @@
 | [Shoulders](https://open.spotify.com/track/18sNKn7b6TePLS8ufyc17y) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:24 | 2022-05-20 | 2024-04-19 |
 | [Shoulders](https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Shoulders](https://open.spotify.com/album/1foAheWx5434SZa2TxIkxO) | 3:25 | 2022-05-20 | 2024-09-09 |
 | [Signals \- Volkor X Remix](https://open.spotify.com/track/7HiKQJaqIq2iEODIG3tzKq) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW), [Volkor X](https://open.spotify.com/artist/5Us4fLalowFjzrjC85k4Xq) | [Signals \(Volkor X Remix\)](https://open.spotify.com/album/4TMeLSX3GtPMh4t2zDzfTA) | 4:59 | 2022-05-20 |  |
+| [Silhouette \- Extended Version, Remixed & Remastered 2024](https://open.spotify.com/track/3I5M7VoRW1Kb9Hg1HSOCzm) | [Eloy](https://open.spotify.com/artist/00ZLLJ51l9Ir5gyaGSUYxL) | [Hidden Treasures](https://open.spotify.com/album/16aiOyCHraghsWd4l0ss1a) | 3:29 | 2024-11-29 |  |
 | [Snowman](https://open.spotify.com/track/2T8sab0O7vVKxgsi8A8Mw0) | [Treebeard](https://open.spotify.com/artist/2rybQ8mU0cEKKO3zoVRQ23) | [Snowman](https://open.spotify.com/album/5ieh61odYrWymguX8YM3GK) | 7:16 | 2024-09-13 |  |
 | [Solitude](https://open.spotify.com/track/7ewZokcaboUA2MTMyz0gv9) | [DGM](https://open.spotify.com/artist/5Rq2C3wWiwL3NqjutXMt8e) | [Endless](https://open.spotify.com/album/4PTKodT1CFRJquNWhCa6Wf) | 5:27 | 2024-10-18 |  |
 | [Somber Aeons](https://open.spotify.com/track/68DepBpNgIzJuCztNn1rGT) | [Craneium](https://open.spotify.com/artist/7fRtbrVBXuRjfpdyEiOBRK) | [Unknown Heights](https://open.spotify.com/album/5S4nQWwcdVnWQwjjLUBbzX) | 6:12 | 2022-05-20 | 2024-09-20 |
@@ -218,11 +220,13 @@
 | [Unheavenly Creatures](https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Unheavenly Creatures](https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm) | 4:13 | 2022-05-20 | 2024-09-07 |
 | [Unravel](https://open.spotify.com/track/0unnpj2MpDXOz55oupWYUX) | [The Anchoress](https://open.spotify.com/artist/2Z4qmyxotDkAbZ0TpXyZyw) | [Unravel](https://open.spotify.com/album/5tySygjYcKLgDRfcpiynrB) | 4:04 | 2022-05-20 | 2024-09-09 |
 | [Untouchable Part 3](https://open.spotify.com/track/6s9852tBFBI3DgKB0Wo12y) | [Weather Systems](https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq) | [Ocean Without A Shore](https://open.spotify.com/album/4cFRMe9xsqQ47SmaSDklKb) | 5:55 | 2024-09-27 |  |
+| [Vortex](https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [Vortex](https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI) | 2:53 | 2024-11-29 |  |
 | [Walking Corpse Syndrome](https://open.spotify.com/track/45QkPnwPmfAkvvOgljo0tc) | [Oreophilum](https://open.spotify.com/artist/4gWdc2HvXKctawUF70V1AQ), [Megurine Luka](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Walking Corpse Syndrome](https://open.spotify.com/album/2hJrjgl8UBCU4FsqmnOnU8) | 3:14 | 2024-10-04 | 2024-10-19 |
-| [Wanderlust](https://open.spotify.com/track/7q9dOX2Jm8EKVTJ8jGvOY8) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Wanderlust](https://open.spotify.com/album/01LxuZpEF7GvsfAytHRbxt) | 4:23 | 2024-10-25 |  |
+| [Waltz of the Flowers](https://open.spotify.com/track/2jr2d3IKrrKAODvspQMqw6) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Waltz of the Flowers](https://open.spotify.com/album/4Kb1X2aPWUwFKzmUNJCdNU) | 2:38 | 2024-11-29 |  |
+| [Wanderlust](https://open.spotify.com/track/7q9dOX2Jm8EKVTJ8jGvOY8) | [paranoid void](https://open.spotify.com/artist/3tIzE1MQigIhocuWtGBNrx) | [Wanderlust](https://open.spotify.com/album/01LxuZpEF7GvsfAytHRbxt) | 4:23 | 2024-10-25 | 2024-11-30 |
 | [We Who Lament](https://open.spotify.com/track/1QOh6wDKZqUXISc3UKLtEP) | [Earthside](https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg), [Keturah](https://open.spotify.com/artist/7rGrW6Gs43zOpEmPAFl3jp) | [Pattern Of Rebirth](https://open.spotify.com/album/74lRZTMzPU5XHk6CNEyGF9) | 8:44 | 2024-09-06 | 2024-10-12 |
 | [We Will Not Disband](https://open.spotify.com/track/54f4ILCiEdfu2VuSmrXJ8Z) | [VOLA](https://open.spotify.com/artist/1HQjBwlj8FSHMhVaNQ4tEI) | [Friend Of A Phantom](https://open.spotify.com/album/2Ry1qg9QGKAoAVImEjreSX) | 4:25 | 2024-11-01 |  |
-| [Whalefall](https://open.spotify.com/track/2mD2qLbEmcMG6wux05vVHT) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Against the Fall of Night](https://open.spotify.com/album/1dixxA709bADWmK1rxnvug) | 5:46 | 2024-09-27 |  |
+| [Whalefall](https://open.spotify.com/track/2mD2qLbEmcMG6wux05vVHT) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic) | [Against the Fall of Night](https://open.spotify.com/album/1dixxA709bADWmK1rxnvug) | 5:46 | 2024-09-27 | 2024-11-30 |
 | [Worlds Beyond \- English version](https://open.spotify.com/track/5MIpqy1hikpfckODOn1E9y) | [Premiata Forneria Marconi](https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu) | [Worlds Beyond \(English version\)](https://open.spotify.com/album/4zdr9AN102ytgCRNv9umnb) | 3:17 | 2022-05-20 |  |
 | [YOU CAN'T RUN AWAY](https://open.spotify.com/track/34yWYCjZzUAhRy6DKDlYWn) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [YOU CAN'T RUN AWAY](https://open.spotify.com/album/6dtR0STntbvuJx4ytx6gZP) | 4:09 | 2022-05-20 | 2024-10-26 |
 | [Zest](https://open.spotify.com/track/5KEPWv8U694JUye8sUSWWQ) | [Pelagos](https://open.spotify.com/artist/5791YwmwIl6tp7JMVKHVcn) | [Zest](https://open.spotify.com/album/6potYVC57bz0ScpEf2PeBd) | 4:49 | 2022-05-20 | 2024-09-20 |

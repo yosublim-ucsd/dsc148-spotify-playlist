@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22169,
+  "num_followers": 22172,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALdq6U2chFu0nmvFGVRY6RF1PwSL/k",
+  "snapshot_id": "AAALeEnhWI2SZlhO9ziN8RZMFMoQQbmP",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -595,6 +595,38 @@
       "duration_ms": 155247,
       "name": "pale horse",
       "url": "https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe"
+    },
+    {
+      "added_at": "2024-11-29 19:22:00",
+      "album": {
+        "name": "Flash in the Pan",
+        "url": "https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "duration_ms": 223365,
+      "name": "Flash in the Pan",
+      "url": "https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ"
+    },
+    {
+      "added_at": "2024-11-29 21:14:30",
+      "album": {
+        "name": "The Millia Pink And Green",
+        "url": "https://open.spotify.com/album/7EHablbY72TGgPQb3FGN9h"
+      },
+      "artists": [
+        {
+          "name": "Sway",
+          "url": "https://open.spotify.com/artist/1bElSTQqO1Vd1pia2t7JeS"
+        }
+      ],
+      "duration_ms": 395389,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/0vrCyUnCmMcUNGIA5GKgZD"
     }
   ],
   "unique_name": "thoughts never said aloud",

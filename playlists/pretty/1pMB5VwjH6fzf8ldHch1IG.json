@@ -1,12 +1,12 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.",
-  "num_followers": 45248,
+  "num_followers": 45245,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABIQDr6cHRhQ0R65ZhN6fcIcFVifXO+",
+  "snapshot_id": "AABISac/4BvVQ7MgCcDnnHVgG1//WM+0",
   "tracks": [
     {
       "added_at": "2024-11-22 19:01:27",
@@ -99,6 +99,86 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You",
       "url": "https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl"
+    },
+    {
+      "added_at": "2024-11-29 15:12:22",
+      "album": {
+        "name": "No More Heroes",
+        "url": "https://open.spotify.com/album/2aM0jFwChVIDIIpF6hUO0t"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "duration_ms": 144024,
+      "name": "No More Heroes",
+      "url": "https://open.spotify.com/track/47XV8Js6lsAPdT0W90eFKZ"
+    },
+    {
+      "added_at": "2024-11-29 15:13:55",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/1mFziNotvt1U68FVrobihQ"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "333",
+      "url": "https://open.spotify.com/track/48UYr1dGBqyANIVzBXXh4V"
+    },
+    {
+      "added_at": "2024-11-29 15:14:37",
+      "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "duration_ms": 132911,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen"
+    },
+    {
+      "added_at": "2024-11-29 15:15:05",
+      "album": {
+        "name": "Now That I'm Gone",
+        "url": "https://open.spotify.com/album/5719mUavSnpK65Vr317xbK"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        }
+      ],
+      "duration_ms": 150399,
+      "name": "Now That I'm Gone",
+      "url": "https://open.spotify.com/track/17dmcmAu7h2coDto5sNHeT"
+    },
+    {
+      "added_at": "2024-11-29 15:15:39",
+      "album": {
+        "name": "RATATA",
+        "url": "https://open.spotify.com/album/251D5KToQ1R7yDB4crZEkN"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/4HzAtulFJBpDKRuJ6qGT1H"
     },
     {
       "added_at": "2024-11-22 19:01:27",
@@ -977,10 +1057,10 @@
       "url": "https://open.spotify.com/track/3OcGET39AhKjyeXAjyxTqi"
     },
     {
-      "added_at": "2024-11-22 19:01:27",
+      "added_at": "2024-11-29 15:33:47",
       "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/3hl3AY6MmrQYph3gCg6BNV"
+        "name": "Familiars (From the Game \"World of Tanks Blitz\")",
+        "url": "https://open.spotify.com/album/5dbaxGVxlxtaV8vVcQ4nYF"
       },
       "artists": [
         {
@@ -988,77 +1068,25 @@
           "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
         }
       ],
-      "duration_ms": 530363,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/2AuYtt0mlYy4vbK5oHDStV"
+      "duration_ms": 367500,
+      "name": "Familiars (From the Game \"World of Tanks Blitz\")",
+      "url": "https://open.spotify.com/track/4jaoBjvV9goyLG0o41Uhzx"
     },
     {
-      "added_at": "2024-11-22 19:01:27",
+      "added_at": "2024-11-29 15:47:47",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/7rpFITz7EHgB6wlcMJQm28"
+        "name": "Oh Wonder",
+        "url": "https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT"
       },
       "artists": [
         {
-          "name": "Johnny Orlando",
-          "url": "https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW"
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
         }
       ],
-      "duration_ms": 124195,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/6Df2bq1MUB6WENjrY2b2Mb"
-    },
-    {
-      "added_at": "2024-11-22 19:01:27",
-      "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/3N6OVnOAKr9op19GcbxB4g"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        },
-        {
-          "name": "chandol",
-          "url": "https://open.spotify.com/artist/6QxpOqXgNVgObidnodQ9yz"
-        }
-      ],
-      "duration_ms": 182511,
-      "name": "Pitfall",
-      "url": "https://open.spotify.com/track/1P4amPdexM1Lw8JAPlycik"
-    },
-    {
-      "added_at": "2024-11-22 19:01:27",
-      "album": {
-        "name": "See Myself",
-        "url": "https://open.spotify.com/album/4zFLBkqwkh49svz2JDlEhW"
-      },
-      "artists": [
-        {
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        }
-      ],
-      "duration_ms": 151678,
-      "name": "See Myself",
-      "url": "https://open.spotify.com/track/0mOfQFIslIiqFjsURgTwbG"
-    },
-    {
-      "added_at": "2024-11-22 19:01:27",
-      "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/0lVc2iXOIExITdDzV5NbGp"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 139830,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/1ObcFOQ4aJC4ruAPdLH0Ao"
+      "duration_ms": 214174,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/6Vigp41BietH0WoFZ52JI5"
     }
   ],
   "unique_name": "Trending Now",

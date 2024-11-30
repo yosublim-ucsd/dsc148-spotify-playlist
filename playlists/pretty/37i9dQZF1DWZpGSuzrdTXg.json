@@ -1,29 +1,13 @@
 {
   "description": "Lekker rustig aan doen op zondag met deze zachte popliedjes.",
-  "num_followers": 268712,
+  "num_followers": 268706,
   "original_name": "Easy On Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0Bf8gAAAADvb/X6Lw9VVICaXtPrPCUo",
+  "snapshot_id": "Z0pBbAAAAABfjwubH/kTBfCN83JHFySU",
   "tracks": [
-    {
-      "added_at": "2024-11-22 10:41:54",
-      "album": {
-        "name": "Slow (live from the van)",
-        "url": "https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6"
-      },
-      "artists": [
-        {
-          "name": "Scott & Young",
-          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
-        }
-      ],
-      "duration_ms": 172182,
-      "name": "Slow - live from the van",
-      "url": "https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz"
-    },
     {
       "added_at": "2024-11-22 10:41:54",
       "album": {
@@ -87,6 +71,22 @@
       "duration_ms": 203560,
       "name": "Time To Talk",
       "url": "https://open.spotify.com/track/05zgKmDFu6xvnaPcGD6DhA"
+    },
+    {
+      "added_at": "2024-11-22 10:41:54",
+      "album": {
+        "name": "Slow (live from the van)",
+        "url": "https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6"
+      },
+      "artists": [
+        {
+          "name": "Scott & Young",
+          "url": "https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU"
+        }
+      ],
+      "duration_ms": 172182,
+      "name": "Slow - live from the van",
+      "url": "https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz"
     },
     {
       "added_at": "2024-11-22 10:41:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Youssoupha
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,831 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,846 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 2 | [Emelyne](https://open.spotify.com/track/2raEeGwUcTICrIdX6tXdru) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Pyramide 2](https://open.spotify.com/album/3Q0XRPlQJrYTPpbGz5LSvA) | 2:58 |
 | 3 | [Quatrième mur](https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA), [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Quatrième mur](https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr) | 5:11 |
 | 4 | [Stigmates](https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Stigmates](https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe) | 4:53 |
-| 5 | [INSECURE](https://open.spotify.com/track/1m5FSfWOOFRq6dM3llpZOe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 4:07 |
+| 5 | [INSECURE](https://open.spotify.com/track/1m5FSfWOOFRq6dM3llpZOe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 4:07 |
 | 6 | [La Cour des Miracles](https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:10 |
 | 7 | [H21](https://open.spotify.com/track/7FSuzsuMvRUGM0218OCzm9) | [Heykel](https://open.spotify.com/artist/4IT6Ftf0n1okaKdKlIY0fL) | [H21](https://open.spotify.com/album/7HSEzzwzrf4m5htQlzG97v) | 6:23 |
 | 8 | [L'4MOUR](https://open.spotify.com/track/0e5fG8fx8bz41fqWRpIiQ6) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV) | [LA HAINE](https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT) | 5:32 |

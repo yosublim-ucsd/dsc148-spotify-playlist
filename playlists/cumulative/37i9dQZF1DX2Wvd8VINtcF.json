@@ -8299,6 +8299,24 @@
     },
     {
       "album": {
+        "name": "Ethereal Gaze",
+        "url": "https://open.spotify.com/album/5hGbpuXuIrBYThbXUu0qkI"
+      },
+      "artists": [
+        {
+          "name": "The Most Wanted",
+          "url": "https://open.spotify.com/artist/2FvjP4xMXLotgRAztLbLX0"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133670,
+      "name": "Ethereal Gaze",
+      "url": "https://open.spotify.com/track/58sqqkeGE0mxB41XbsjoAy"
+    },
+    {
+      "album": {
         "name": "Eusexua",
         "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
       },

@@ -440,7 +440,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 223163,
       "name": "Am\u00e1ndonos",
       "url": "https://open.spotify.com/track/6nKK2Tn6CY18Jq6V8jjW74"
@@ -2654,6 +2654,28 @@
       "duration_ms": 258293,
       "name": "La Cita",
       "url": "https://open.spotify.com/track/7xPoGT10C2Heeu5RKvBgzn"
+    },
+    {
+      "album": {
+        "name": "La Cobra",
+        "url": "https://open.spotify.com/album/1zgag3eaEU9q7aU8Xqr6Z6"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226497,
+      "name": "La Cobra",
+      "url": "https://open.spotify.com/track/1W88WCqW8FtBep9femjfSh"
     },
     {
       "album": {
@@ -6616,7 +6638,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-11-30",
       "duration_ms": 156400,
       "name": "Volver A Empezar (Versi\u00f3n Los Angeles Azules)",
       "url": "https://open.spotify.com/track/7Hxvt9N6Y7MHU5W88Q74xn"
@@ -6802,6 +6824,28 @@
       "duration_ms": 167442,
       "name": "Ya No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/5wQRQNd4VplKBv02ypGVpp"
+    },
+    {
+      "album": {
+        "name": "Ya No Vuelvas",
+        "url": "https://open.spotify.com/album/0WrgUvsKQN66KimIcl0MaJ"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213674,
+      "name": "Ya No Vuelvas",
+      "url": "https://open.spotify.com/track/1vhV61LBldZ7Wvg0eP9wLZ"
     },
     {
       "album": {

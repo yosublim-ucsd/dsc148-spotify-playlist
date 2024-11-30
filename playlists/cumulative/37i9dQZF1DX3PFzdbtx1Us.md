@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-360 songs - 14 hr 20 min
+361 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Purple Sky](https://open.spotify.com/track/5Oieu8wCXlEtEvXu6fFjBD) | [Isobel Belano](https://open.spotify.com/artist/2seiab24QmTzU4XTr1rjhV) | [Purple Sky](https://open.spotify.com/album/1A55cYEukwiRbFZtBaFz49) | 2:36 | 2021-06-27 | 2023-05-16 |
 | [Pursuance](https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Pursuance](https://open.spotify.com/album/00Evna3lzOgx036aEnY8IU) | 2:24 | 2023-05-15 |  |
 | [Pyramidale](https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Pyramidale](https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A) | 2:56 | 2023-05-15 | 2023-07-25 |
+| [Quickly](https://open.spotify.com/track/6GeD8T4CuI2ifhJ2GXB4Jx) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Quickly](https://open.spotify.com/album/3yaJ6o9vfgfnuUacHrzego) | 2:10 | 2024-11-29 |  |
 | [Quiet Nights](https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx) | [Daniel Schrage](https://open.spotify.com/artist/4jUSZA2wRFImlXFhsV3Ab6) | [Quiet Nights](https://open.spotify.com/album/5q5iEqsyefKYEfu6W9Xc3E) | 2:11 | 2024-05-07 |  |
 | [Quiet Sounds](https://open.spotify.com/track/2lqE8DC0T5F0bGnJTrlRtd) | [Mike Osmond](https://open.spotify.com/artist/4emWGcdqLiTh1k7LHqwc7y) | [Quiet Sounds](https://open.spotify.com/album/2cHbyumuxYGWxSnpnfsFpD) | 3:24 | 2021-06-27 | 2023-05-16 |
 | [Rainbow Child](https://open.spotify.com/track/6gqxXQgdx4rN6Bce3kIZnB) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Early Bird](https://open.spotify.com/album/628TBG979WM6q2v6fphLB3) | 4:10 | 2021-06-27 | 2023-05-16 |

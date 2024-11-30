@@ -2,9 +2,9 @@
 
 ### [BUTTER](https://open.spotify.com/playlist/37i9dQZF1DWVzZlRWgqAGH)
 
-> Music for your soul\. Cover: Planet Giza
+> Music for your soul\. Cover: Moses Yoofee Trio
 
-1,397 songs - 3 day 9 hr 59 min
+1,398 songs - 3 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 | 2023-06-24 | 2023-10-07 |
 | [dangerous game](https://open.spotify.com/track/0drf8c8YvWVvs3aFY5iBrp) | [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [dangerous game](https://open.spotify.com/album/50vOO58Z9Sdf5k8ms9l9Cj) | 3:50 | 2024-05-24 |  |
 | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Fabiana Martone](https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1) | [Danza Marilù \(feat\. Fabiana Martone\)](https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf) | 4:04 | 2024-04-05 | 2024-11-09 |
-| [Dawn \[ft\. esperanza spalding\]](https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Odyssey](https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd) | 4:52 | 2024-09-20 |  |
+| [Dawn \[ft\. esperanza spalding\]](https://open.spotify.com/track/26LFjnGEFsVB7J6iMecb1A) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Odyssey](https://open.spotify.com/album/1ZoZu4AeEVIKybGiGgOYdd) | 4:52 | 2024-09-20 | 2024-11-30 |
 | [Dawn at the Souk](https://open.spotify.com/track/05KyHSK22P4sLoszUk34dD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Dawn at the Souk](https://open.spotify.com/album/1WLgN8sZUOEukP5YAvS9Jt) | 5:06 | 2020-03-20 | 2020-06-16 |
 | [Day by Day \- A COLORS SHOW](https://open.spotify.com/track/0Da3eqAgSgLp4UiVdCjJJ1) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Day by Day \- A COLORS SHOW](https://open.spotify.com/album/7vggzM9Ag5clwyHjXuZU8F) | 3:50 | 2023-09-29 | 2024-02-10 |
 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 | 2023-05-19 | 2023-05-27 |
@@ -1022,6 +1022,7 @@
 | [Reminisce](https://open.spotify.com/track/3dqasc8Jr0GI6mXF7nWymv) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Marcus Tenney](https://open.spotify.com/artist/4nujeeZvLhAuw47XvmeTRq) | [Reminisce](https://open.spotify.com/album/3ChXg4GZXHN2ZJuvPOgA51) | 3:36 | 2019-09-29\* | 2019-10-03 |
 | [RESPECT](https://open.spotify.com/track/0eZk3lHzNSjJ9I5YAs26VQ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [The Sky Is Recording Me: 100 Years Later, Vol\. 2](https://open.spotify.com/album/4gxh0RuP5wCl7QzWuPRHQX) | 2:54 | 2024-11-22 |  |
 | [Revolutionize](https://open.spotify.com/track/6wv28CIvLTxHiDYLMJI16L) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Revolutionize](https://open.spotify.com/album/39tEu5eAqtZyHpohArAECl) | 3:22 | 2021-02-22 | 2021-10-14 |
+| [RIDGEWALK](https://open.spotify.com/track/5ZUoIhG0oxDT50Hb6xmYd3) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [RIDGEWALK](https://open.spotify.com/album/5dQpb7jmEkKXioLIyVzzkK) | 2:27 | 2024-11-29 |  |
 | [Ridin' Solo](https://open.spotify.com/track/1wzOaJ3ICS87UuHjk4iSqb) | [SAINT WKND](https://open.spotify.com/artist/4vO1cl2ndGrUPSl6IYTHs6), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Clouds](https://open.spotify.com/artist/7GoezkmSozH5c9wMBV3iGo) | [Ridin' Solo](https://open.spotify.com/album/3AxrUASYwb8XeYorzpWzUQ) | 3:13 | 2019-11-15 | 2020-04-18 |
 | [Right My Wrongs](https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Right My Wrongs](https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2) | 2:20 | 2023-04-14 | 2023-06-10 |
 | [Rising](https://open.spotify.com/track/5krOithHGCM3FPGNHJh3eL) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Summer\-Pearl](https://open.spotify.com/artist/1Fqy9pwn3ND0gLQS0IyJNL), [Alma De La Selva](https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0), [Paya](https://open.spotify.com/artist/4f7XN0Gqff52MXO79EFvJO) | [Rising](https://open.spotify.com/album/4hRQEjHZZ50IM51KlOPNJM) | 2:44 | 2020-10-02 | 2021-05-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  \(Cover: Meaningful Stone \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,306 likes - 95 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,334 likes - 95 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 37 | [Shinigami\(死神\)](https://open.spotify.com/track/7z6Iwx4sYHmDif3f5zi1Cd) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Shinigami\(死神\)](https://open.spotify.com/album/3dQhvpUmf07LR38HG5jFo4) | 4:20 |
 | 38 | [UMA](https://open.spotify.com/track/2qZiHuLxK7jhLrVL5Jwf3C) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [wellwell](https://open.spotify.com/album/2cLFAGnUKisFEgjp0JVNY0) | 2:57 |
 | 39 | [Flames](https://open.spotify.com/track/5OCcf67IqwwOiboFD5DKeP) | [Pink Pitch](https://open.spotify.com/artist/5ZyIDc0ubRG7UclhGUHVBZ) | [Flames](https://open.spotify.com/album/5hcPtwhwJuFxwDnBNSnjCe) | 4:05 |
-| 40 | [in my room, gazing into book page](https://open.spotify.com/track/3DTe8VyiArCO6ljEgrklQF) | [bioneunnal](https://open.spotify.com/artist/67mxngUxuuXP9CRqODWoIy) | [books, cats, and memories](https://open.spotify.com/album/3ed2oWIfFAqL0ejszqbb5W) | 2:38 |
+| 40 | [in my room, gazing into book page](https://open.spotify.com/track/3DTe8VyiArCO6ljEgrklQF) | [bioneunnal](https://open.spotify.com/artist/54o61nZtHnVCnPLtI8B0Cf) | [books, cats, and memories](https://open.spotify.com/album/3ed2oWIfFAqL0ejszqbb5W) | 2:38 |
 | 41 | [Perfect Girl](https://open.spotify.com/track/5pO90RA1mYHHrTzVr3Y7AL) | [Yoko City Ghost](https://open.spotify.com/artist/6cD8bO5ylH8FlE3IGqDXfQ) | [Sputnik\-1](https://open.spotify.com/album/6XwUVQWw83K5KU4PZ8Nzys) | 3:38 |
 | 42 | [no\_thing](https://open.spotify.com/track/7Fh3k7xOMQoy2t1d30CowT) | [Lesssugär](https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB) | [no\_thing](https://open.spotify.com/album/2IOiijnNO407GV2j6tlyWn) | 3:08 |
 | 43 | [NOT Okay](https://open.spotify.com/track/0w5AvWzTBTmK2ExeFZjLIB) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs for The Daydreamers](https://open.spotify.com/album/7ueR8oPiT2DZJwPARvxq5w) | 2:47 |

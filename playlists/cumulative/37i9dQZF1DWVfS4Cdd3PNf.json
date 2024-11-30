@@ -3477,6 +3477,32 @@
     },
     {
       "album": {
+        "name": "Verdi: Les v\u00eapres siciliennes",
+        "url": "https://open.spotify.com/album/1Ke2LPUvW4EtW0BY6YTQgm"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Munich Radio Orchestra",
+          "url": "https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX"
+        },
+        {
+          "name": "Ivan Repu\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/2GLao6Mv2NfD7dl0gD0qS1"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415270,
+      "name": "Les v\u00eapres siciliennes, The Four Seasons: L'hiver",
+      "url": "https://open.spotify.com/track/2dqbvcLkLRXynkXUeS7kh1"
+    },
+    {
+      "album": {
         "name": "Wagner: Lohengrin",
         "url": "https://open.spotify.com/album/60op9CfRD0ehAq8PR5i9sG"
       },
@@ -3862,6 +3888,36 @@
       "duration_ms": 167786,
       "name": "Manon Lescaut / Act II: \"In quelle trine morbide\"",
       "url": "https://open.spotify.com/track/3nbcin8kl89hboxQBKaLR0"
+    },
+    {
+      "album": {
+        "name": "Puccini",
+        "url": "https://open.spotify.com/album/6fSNsUje3JqIWyR2AkpCAn"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Freddie De Tommaso",
+          "url": "https://open.spotify.com/artist/4leT3QmSGt6qmfuwvrIB2o"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Edward Gardner",
+          "url": "https://open.spotify.com/artist/31MZ4H71BYhKlPT6OkcLR2"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152586,
+      "name": "Manon Lescaut, Act I: Donna non vidi mai",
+      "url": "https://open.spotify.com/track/7CtyNRdeWCZ9uEtuiMTVS0"
     },
     {
       "album": {
@@ -6232,6 +6288,32 @@
       "duration_ms": 410773,
       "name": "Tosca, SC 69: Mario Cavaradossi? ... E lucevan le stelle",
       "url": "https://open.spotify.com/track/30i0fhLeLvnxXhmwKv2siJ"
+    },
+    {
+      "album": {
+        "name": "Puccini: Tosca: Il Bacio di Tosca (Symphonic Epilogue of Act II) [Instrumental Only]",
+        "url": "https://open.spotify.com/album/3zqdt9ASuN4bC1GUKCZz8Q"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "Tosca: Il Bacio di Tosca (Symphonic Epilogue of Act II) - Instrumental Only",
+      "url": "https://open.spotify.com/track/5NpULWwSlByAb365NdJ4nN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
 
-162 songs - 12 hr 0 min
+163 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 | 2022-09-02 | 2024-09-21 |
 | [Abandono](https://open.spotify.com/track/5FTRBAWjLZkwlC54Hevd0q) | [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Relembrando Canções, Vol\. 01](https://open.spotify.com/album/7dOqoIm4f0OSMY6pkkpGxF) | 3:40 | 2024-08-23 |  |
 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 | 2022-09-02 | 2023-02-04 |
+| [Adorarei](https://open.spotify.com/track/78emLVVS8NjCN3bksMeKKv) | [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0) | [Acústico, Vol\. 4](https://open.spotify.com/album/1SdnAD8W9tPuULdYDZGuhm) | 3:53 | 2024-11-29 |  |
 | [Algo Novo](https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta](https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm) | 5:16 | 2022-09-02 |  |
 | [Algo Novo \- Acústico](https://open.spotify.com/track/7xIoYG2DgfZ92SkIzHZzXm) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Algo Novo \(Acústico\)](https://open.spotify.com/album/5mT4Ohgb4ZJe2AN22B62mG) | 3:37 | 2022-09-02 |  |
 | [Alguém Como Eu](https://open.spotify.com/track/6kbcLo1Sgi5OjzEvtdgxyy) | [Guilherme Leite](https://open.spotify.com/artist/4OPDva5P2NCD4ssE52yMXb), [Nalú](https://open.spotify.com/artist/0YaxG7PCq40nc8tKcMkrgx) | [Alguém Como Eu](https://open.spotify.com/album/6gO3nrarrqWVwBYDnjTjrr) | 4:13 | 2023-11-03 | 2023-11-25 |
@@ -41,7 +42,7 @@
 | [Celebrate Your Life](https://open.spotify.com/track/5q1B7rJb1YBAUSSG8yhzg6) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK) | [Secrets](https://open.spotify.com/album/2MwdKmNNzCnMap8cGFyoh7) | 4:31 | 2023-06-16 | 2023-08-19 |
 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 | 2022-09-02 |  |
 | [Comigo Estás \- Ao Vivo](https://open.spotify.com/track/2eDcy7W8SCXkfe8IxdNu28) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Comigo Estás \(Ao Vivo\)](https://open.spotify.com/album/140QPFhB1nbMMbpW5jHXvn) | 4:49 | 2023-03-24 | 2023-05-13 |
-| [Como Será O Amanhã](https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Como Será O Amanhã](https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B) | 1:49 | 2023-04-28 |  |
+| [Como Será O Amanhã](https://open.spotify.com/track/7cKf9UHzecwKD3hBRSGvTj) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Como Será O Amanhã](https://open.spotify.com/album/78U8cKx6Jl6K94h0QFbV8B) | 1:49 | 2023-04-28 | 2024-11-30 |
 | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Confiar em Deus \- Spotify Singles](https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs) | 3:43 | 2022-09-02 |  |
 | [Cuido dos Detalhes](https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Cuido dos Detalhes](https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp) | 3:33 | 2022-09-02 | 2024-08-31 |
 | [De Dentro Pra Fora \- Acústico](https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [De Dentro Pra Fora \(Acústico\)](https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70) | 4:17 | 2022-09-02 |  |
