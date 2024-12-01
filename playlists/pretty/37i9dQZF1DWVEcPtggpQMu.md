@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/34tueLJCJdZWicSpnlh1T2?si=dWB08xPgQvqfKuydRaCaCA">Skatle</a> & <a href="https://open.spotify.com/artist/3mPwYo0I3ghj65F0C9iRtQ?si=DQ02J\-l\_Rm\-MZMHoKG5N8A">GVNT</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,494 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,544 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

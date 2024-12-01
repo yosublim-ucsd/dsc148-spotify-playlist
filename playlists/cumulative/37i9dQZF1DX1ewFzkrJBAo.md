@@ -2,7 +2,7 @@
 
 ### [エロティカ・セブン](https://open.spotify.com/playlist/37i9dQZF1DX1ewFzkrJBAo)
 
-> <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第2弾。おもわずにやっとするハッピーなサザンのエロティカ・ソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
+> Spotify×サザンのムードプレイリストシリーズ第2弾。おもわずにやっとするハッピーなサザンのエロティカ・ソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
 46 songs - 3 hr 12 min
 

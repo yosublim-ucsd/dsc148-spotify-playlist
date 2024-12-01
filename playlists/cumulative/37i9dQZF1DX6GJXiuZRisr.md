@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-548 songs - 1 day 14 hr 25 min
+549 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Follow You Anywhere](https://open.spotify.com/track/27nGU2v3syK7aU3AVY2vUO) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Follow You Anywhere](https://open.spotify.com/album/1C9r52yduyIpjxb8Zd9XAs) | 4:04 | 2022-07-01 | 2023-04-06 |
 | [For Life \(feat\. Zak Abel & Nile Rodgers\) \- Nicky Romero Remix](https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [KYGO \(The Remixes\)](https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu) | 3:51 | 2024-08-30 | 2024-10-26 |
 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-05-10 |  |
-| [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 |  |
+| [Forget](https://open.spotify.com/track/2q18AKTf10vS8iTSg5sQ2r) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [ALSO ASTIR](https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv) | [Forget](https://open.spotify.com/album/78pEteivhGT2HxTFWmjM2S) | 4:18 | 2024-04-05 | 2024-12-01 |
 | [Forget It](https://open.spotify.com/track/76XAEIVTSmXwrq41rt2n5G) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/7eHMIQZVEnyoGAacgmuTTf) | 2:53 | 2021-05-07 | 2023-02-26 |
 | [Forget It](https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Forget It](https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH) | 2:53 | 2022-07-01 | 2023-07-15 |
 | [Fractures](https://open.spotify.com/track/16FdkLSRxfE03wsuOa2xs9) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Fractures](https://open.spotify.com/album/19KMbuoAyXWwkks408qtGI) | 3:29 | 2024-08-30 |  |
@@ -210,6 +210,7 @@
 | [Holding On](https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Holding On](https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0) | 3:38 | 2021-05-28 | 2024-04-06 |
 | [Holding On](https://open.spotify.com/track/4qx2dxJIxDjsHwMqdPFT1d) | [Lost Arcade](https://open.spotify.com/artist/2MJJxSNg2dC8LXrOMARUMc), [Matt Young](https://open.spotify.com/artist/02liy1ja3w9cQF0ETR866A) | [Holding On](https://open.spotify.com/album/0L35EUJFGCTkdsW2LM4iuk) | 5:36 | 2021-05-07 | 2022-07-26 |
 | [Holy](https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Émilie Rachel](https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q) | [Holy](https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz) | 4:15 | 2024-09-20 |  |
+| [Home](https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Home](https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp) | 2:47 | 2024-11-29 |  |
 | [Home](https://open.spotify.com/track/76oZCBwQdihccib1CS6yiK) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Another World](https://open.spotify.com/album/1zS4ssyuOpe7CIJh1LJ6DX) | 2:57 | 2024-08-02 | 2024-08-28 |
 | [home](https://open.spotify.com/track/3pRWROP7jcakkXiGSXF4OM) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [home](https://open.spotify.com/album/4E6yhrU6snul169hXkpFDd) | 3:24 | 2022-07-01 | 2022-07-27 |
 | [Home](https://open.spotify.com/track/4Np4NOxEBsYvPNBZ8W0BDu) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Home](https://open.spotify.com/album/6wXKar1LAK5xSRcPLhbzjR) | 3:41 | 2021-05-07 | 2023-04-01 |

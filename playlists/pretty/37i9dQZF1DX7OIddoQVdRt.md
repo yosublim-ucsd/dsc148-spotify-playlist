@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of recent hits in Gospel music\.  Cover: CeCe Winans
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,413 likes - 70 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,497 likes - 70 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 69 | [Tap Into It \(The Source\)](https://open.spotify.com/track/0dA1pR5MkV82HiFFAZAsZ2) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Tap Into It \(The Source\)](https://open.spotify.com/album/5jw01W5oU1yIznSc9tVSnn) | 5:13 |
 | 70 | [Dance](https://open.spotify.com/track/3bJGae8rklq4LMAjXtBE1u) | [Marcus Jordan](https://open.spotify.com/artist/27Xu3PU0agWqCrDuhHtQva) | [Dance](https://open.spotify.com/album/7bUmJWiuHOpRVRdhl6tSPZ) | 3:07 |
 
-Snapshot ID: `Z0pcaAAAAAAzMdgaWoa9fq110XQd/7Ab`
+Snapshot ID: `Z0u2zgAAAACVIH+jPazOJhIy3/lLR+Id`

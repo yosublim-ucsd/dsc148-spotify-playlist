@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Benjamin Amaru
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,335 likes - 101 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,346 likes - 101 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 8 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 |
 | 9 | [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 |
 | 10 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
-| 11 | [Machmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
+| 11 | [Manchmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
 | 12 | [La pluie](https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [La pluie](https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG) | 3:02 |
 | 13 | [San Luca \(feat\. Luca Carboni\)](https://open.spotify.com/track/4elAiEgBssziHLfCrBoEA2) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T), [Luca Carboni](https://open.spotify.com/artist/1wmD3O9TEeshZVuFVgpm0g) | [ALASKA BABY](https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq) | 5:33 |
 | 14 | [Vllazni](https://open.spotify.com/track/38TY1HT8ZJEXJi9rEr4XNv) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Vllazni](https://open.spotify.com/album/6DiCoVnOnDLT3SfgYyoeV4) | 3:22 |

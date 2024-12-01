@@ -1,12 +1,12 @@
 {
   "description": "This is Fangclub. The essential tracks, all in one playlist.",
-  "num_followers": 1469,
+  "num_followers": 1470,
   "original_name": "This Is Fangclub",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAACnPrwiy2G0bXuYRRRTiZjJ",
+  "snapshot_id": "Z0kEAAAAAABZM+JLaHxSAFHkzh5c3C0E",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 191373,
-      "name": "Kingdumb",
-      "url": "https://open.spotify.com/track/7IbR89c0eXe2INNW2brzqK"
+      "duration_ms": 198306,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 198306,
-      "name": "Every Day",
-      "url": "https://open.spotify.com/track/3o8UQtesePTnARKOkjo71f"
+      "duration_ms": 191373,
+      "name": "Kingdumb",
+      "url": "https://open.spotify.com/track/7IbR89c0eXe2INNW2brzqK"
     },
     {
       "added_at": null,

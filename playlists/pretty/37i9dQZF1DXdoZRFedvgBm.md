@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 
 > This Is PSY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,978 likes - 106 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,987 likes - 106 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdoZRFedvgBm.md) - [plain]
 | 49 | [It's Art](https://open.spotify.com/track/2aSRUHDFrf6202bDqLQIcd) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psyfive](https://open.spotify.com/album/6jYrnuvdOVxQjl0J2QBWRm) | 4:40 |
 | 50 | [Aflutter](https://open.spotify.com/track/4KEViLSycH9zuIyQqvUa9W) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psyfive](https://open.spotify.com/album/6jYrnuvdOVxQjl0J2QBWRm) | 3:23 |
 | 51 | [Night Street in Seoul \(Feat\. YDG\)](https://open.spotify.com/track/7uXAYNkMHgPPTkgorlkIoG) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Psyfive](https://open.spotify.com/album/6jYrnuvdOVxQjl0J2QBWRm) | 3:49 |
-| 52 | [That's Why \(Feat\. Jung Yub\)](https://open.spotify.com/track/5qkKgv92cn0S4TaP5S6PhR) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Psyfive](https://open.spotify.com/album/6jYrnuvdOVxQjl0J2QBWRm) | 4:21 |
+| 52 | [That's Why \(Feat\. Jung Yub\)](https://open.spotify.com/track/5qkKgv92cn0S4TaP5S6PhR) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Jungyup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Psyfive](https://open.spotify.com/album/6jYrnuvdOVxQjl0J2QBWRm) | 4:21 |
 | 53 | [Like Crazy](https://open.spotify.com/track/165hqHpO6QZyR49Rz04HI4) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psyfive](https://open.spotify.com/album/6jYrnuvdOVxQjl0J2QBWRm) | 3:23 |
 | 54 | [Spit It Out](https://open.spotify.com/track/4zdmOhGlfG9up1t288ZXew) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psyfive](https://open.spotify.com/album/6jYrnuvdOVxQjl0J2QBWRm) | 3:33 |
 | 55 | [My Wanna Be](https://open.spotify.com/track/6qCRAxhhzgpffYLtVhFkOT) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psyfive](https://open.spotify.com/album/6jYrnuvdOVxQjl0J2QBWRm) | 3:47 |

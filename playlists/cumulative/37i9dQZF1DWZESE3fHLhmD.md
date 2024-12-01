@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZESE3fHLhmD.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZESE3fHLhmD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZESE3fHLhmD)
 
-### [Herbstgefühle](https://open.spotify.com/playlist/37i9dQZF1DWZESE3fHLhmD)
+### [Wintergefühle](https://open.spotify.com/playlist/37i9dQZF1DWZESE3fHLhmD)
 
-> Endlich Zeit für Herbstspaziergänge, Gemütlichkeit & heiße Schokolade!
+> Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.
 
 264 songs - 14 hr 7 min
 

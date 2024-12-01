@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 542902,
+  "num_followers": 542913,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Ugo",
-        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
-      },
-      "artists": [
-        {
-          "name": "The Dead Pirates",
-          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
-        }
-      ],
-      "duration_ms": 358740,
-      "name": "Ugo",
-      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Sunrise On The Sufferbus",
         "url": "https://open.spotify.com/album/1nIhPr8znyzNDDtUC76fO5"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 213333,
       "name": "Rabbit One",
       "url": "https://open.spotify.com/track/3e2e4OstlQP6Gllt8VsMpA"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Ugo",
+        "url": "https://open.spotify.com/album/4lMHWDYpYeZqpY4FX4grpB"
+      },
+      "artists": [
+        {
+          "name": "The Dead Pirates",
+          "url": "https://open.spotify.com/artist/64bheP4lw6MvGJBNFKtPgx"
+        }
+      ],
+      "duration_ms": 358740,
+      "name": "Ugo",
+      "url": "https://open.spotify.com/track/20yNjjGAAROnXoANUjI3JY"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Dopethrone",
-        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
-      },
-      "artists": [
-        {
-          "name": "Electric Wizard",
-          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
-        }
-      ],
-      "duration_ms": 389466,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Super Van Vacation",
         "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 529232,
       "name": "Road to Burn",
       "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Dopethrone",
+        "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
+      },
+      "artists": [
+        {
+          "name": "Electric Wizard",
+          "url": "https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4"
+        }
+      ],
+      "duration_ms": 389466,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Buffalo Fuzz",
-        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Fuzz",
-          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
-        }
-      ],
-      "duration_ms": 325313,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Warp Riders",
         "url": "https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+        "name": "Buffalo Fuzz",
+        "url": "https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW"
       },
       "artists": [
         {
-          "name": "Unida",
-          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+          "name": "Buffalo Fuzz",
+          "url": "https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF"
         }
       ],
-      "duration_ms": 346116,
-      "name": "Left Us To Mold",
-      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
+      "duration_ms": 325313,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -839,6 +823,22 @@
       "duration_ms": 251973,
       "name": "So Come On",
       "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Unida",
+          "url": "https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF"
+        }
+      ],
+      "duration_ms": 346116,
+      "name": "Left Us To Mold",
+      "url": "https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Lightning Born",
-        "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
-      },
-      "artists": [
-        {
-          "name": "Lightning Born",
-          "url": "https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Shifting Winds",
-      "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "Superskull",
         "url": "https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 229866,
       "name": "Cosmic Ride Of The Crystal Skull",
       "url": "https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Lightning Born",
+        "url": "https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG"
+      },
+      "artists": [
+        {
+          "name": "Lightning Born",
+          "url": "https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Shifting Winds",
+      "url": "https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-07-19 04:00:00",
       "album": {
-        "name": "Run Run Run Run Run",
-        "url": "https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ"
-      },
-      "artists": [
-        {
-          "name": "Ghost Pipe",
-          "url": "https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0"
-        }
-      ],
-      "duration_ms": 329833,
-      "name": "Run Run Run Run Run",
-      "url": "https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw"
-    },
-    {
-      "added_at": "2024-07-19 04:00:00",
-      "album": {
         "name": "CLDZ",
         "url": "https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 416779,
       "name": "CLDZ",
       "url": "https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1"
+    },
+    {
+      "added_at": "2024-07-19 04:00:00",
+      "album": {
+        "name": "Run Run Run Run Run",
+        "url": "https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ"
+      },
+      "artists": [
+        {
+          "name": "Ghost Pipe",
+          "url": "https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0"
+        }
+      ],
+      "duration_ms": 329833,
+      "name": "Run Run Run Run Run",
+      "url": "https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw"
     },
     {
       "added_at": "2024-07-19 04:00:00",

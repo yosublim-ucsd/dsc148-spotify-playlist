@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,040 songs - 4 day 19 hr 33 min
+2,041 songs - 4 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Daddy Shhh](https://open.spotify.com/track/5s2q4CwrKXa5p02YalEg9k) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Daddy Shhh](https://open.spotify.com/album/0iVG07f6ssBCwn80vhKtTx) | 2:53 | 2022-09-23 | 2022-10-01 |
 | [Dale](https://open.spotify.com/track/7tzl9MQolb2SIuNhEFQjOi) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Ssol](https://open.spotify.com/artist/0r1nzP20Iambhd9ubmmkQJ), [Zen World](https://open.spotify.com/artist/0RvnlGdSlESPQFBKAVYBBo) | [Dale](https://open.spotify.com/album/1utHlVavb6X6WGy4toiFe5) | 3:39 | 2022-09-30 | 2022-10-08 |
 | [Dale](https://open.spotify.com/track/5ZScfMuHGy2Z8Ryc3B0pXo) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Teko](https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS) | [Dale](https://open.spotify.com/album/42Vw7WPk1amrg9VYWUFqby) | 3:16 | 2024-03-01 | 2024-03-30 |
+| [Damager](https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Damager](https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB) | 3:44 | 2024-11-30 |  |
 | [Dame De Eso](https://open.spotify.com/track/5JOnEA0t4lW9ZAR3NB6AhP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Dame De Eso](https://open.spotify.com/album/4WvuIoyZFw4jLWCUNcQXEy) | 3:34 | 2024-06-28 | 2024-07-20 |
 | [Damegon](https://open.spotify.com/track/6DuxDYMnkCn0E4bbmwHLEf) | [JUNTARO](https://open.spotify.com/artist/2UMKCxDFAAy154VgUJHKN9) | [Damegon](https://open.spotify.com/album/0mQGDkwYMzKgTWFLBIq2QV) | 3:25 | 2022-06-03 | 2022-06-11 |
 | [Damelo \- Original Mix](https://open.spotify.com/track/0BSClT3HfBDEsrEJTNbivo) | [Tombo](https://open.spotify.com/artist/0SsH1YtxJq7HTAsI7DIoqE) | [Damelo](https://open.spotify.com/album/1Z9onbW01BqiJ1cBVV1d5J) | 5:27 | 2023-10-27 | 2023-11-04 |

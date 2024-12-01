@@ -3799,6 +3799,24 @@
     },
     {
       "album": {
+        "name": "SPEED VOL. 1",
+        "url": "https://open.spotify.com/album/0cyp4duBvL23QN2MFwoOsO"
+      },
+      "artists": [
+        {
+          "name": "WACK",
+          "url": "https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246332,
+      "name": "SPEED VOL. 1",
+      "url": "https://open.spotify.com/track/1xhe5rOjJ2X900QE926Isr"
+    },
+    {
+      "album": {
         "name": "iScreaM Vol.26 : Spicy Remix",
         "url": "https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9"
       },
@@ -4274,7 +4292,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 152380,
       "name": "Virus",
       "url": "https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL"

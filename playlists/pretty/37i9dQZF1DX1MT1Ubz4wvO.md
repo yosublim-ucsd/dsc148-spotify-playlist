@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con shego  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,950 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,964 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 31 | [Historias de un pincel](https://open.spotify.com/track/7qE4IXoOiF63brFHu5YfdV) | [El Flacotirador](https://open.spotify.com/artist/0iZeqWwJjhv5UN0LKxyfDq) | [Historias de un pincel](https://open.spotify.com/album/3LDrNsCSu4ylMccDxvSiGh) | 4:00 |
 | 32 | [Noviembre](https://open.spotify.com/track/0Hw91lN7fNSJpJDcXYWDf6) | [Johnny Garso](https://open.spotify.com/artist/6zvsUJE9zNUpP3mV3tQsCg) | [Noviembre](https://open.spotify.com/album/23avIvPgohACYmGX3o7mT5) | 3:03 |
 | 33 | [Si Nos Quieres Ahí](https://open.spotify.com/track/1Z31kjVDFAOsshnbRb6Fhc) | [Atraco](https://open.spotify.com/artist/1b5hb1dESdAOvb0vxeXwat) | [Si Nos Quieres Ahí](https://open.spotify.com/album/0fSukputzAGoayIGdmuO4g) | 3:18 |
-| 34 | [Relaciones Mediantes](https://open.spotify.com/track/5c3i65TauOCLpLbo7gBOOG) | [Gilipojazz](https://open.spotify.com/artist/47TWGbbKU5JYIzlySwkFK4) | [Progresa Adecuadamente](https://open.spotify.com/album/5T2DUvSOmWCRnH0RCQDsx4) | 4:14 |
+| 34 | [Relaciones Mediantes](https://open.spotify.com/track/5c3i65TauOCLpLbo7gBOOG) | [Gilipojazz](https://open.spotify.com/artist/47TWGbbKU5JYIzlySwkFK4) | [Progresa Adecuadamente](https://open.spotify.com/album/5T2DUvSOmWCRnH0RCQDsx4) | 4:15 |
 | 35 | [Me aprendí el camino](https://open.spotify.com/track/1Yckrm7dBMK7TL5PNNSj8S) | [Adormidera](https://open.spotify.com/artist/04VCcTST2Kr8bwhjAqa8yD) | [Me aprendí el camino](https://open.spotify.com/album/6bicGeygQosYtKyhGET24U) | 3:51 |
 | 36 | [Viviendo sin frenos](https://open.spotify.com/track/6a7EO0Y5EdKK9kyIUlIadu) | [Haches](https://open.spotify.com/artist/09avX8Apk0um4wNEGog7RI) | [Viviendo sin frenos](https://open.spotify.com/album/5hOy5vvA6QBa3wYu3JI0rF) | 4:19 |
 | 37 | [Alma Errante](https://open.spotify.com/track/4worNVeHmiBbbwVD78zLLj) | [Sacramentos](https://open.spotify.com/artist/29VyaveiOnQpCbOI2wVudD), [Cadena Perpetua](https://open.spotify.com/artist/46cEeRi8p3fkd1hN0N820b) | [Alma Errante](https://open.spotify.com/album/3egKePzCNDAMBvPRpBPKsd) | 2:49 |

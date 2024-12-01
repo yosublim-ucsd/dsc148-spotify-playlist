@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Naomi Lareine",
-  "num_followers": 35520,
+  "num_followers": 35522,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "i love you don't worry xx",
-        "url": "https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD"
-      },
-      "artists": [
-        {
-          "name": "Blush Davis",
-          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "i love you don't worry xx",
-      "url": "https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "Pberg",
         "url": "https://open.spotify.com/album/0J7CtWfxGVROwIDi8ARBd3"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 99262,
       "name": "Pberg",
       "url": "https://open.spotify.com/track/3fUuGfJmvc4p8NXlLgWI5o"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "i love you don't worry xx",
+        "url": "https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD"
+      },
+      "artists": [
+        {
+          "name": "Blush Davis",
+          "url": "https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "i love you don't worry xx",
+      "url": "https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq"
     },
     {
       "added_at": "2024-11-05 23:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-11-05 23:00:00",
       "album": {
-        "name": "say yes",
-        "url": "https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 114603,
-      "name": "say yes",
-      "url": "https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I"
-    },
-    {
-      "added_at": "2024-11-05 23:00:00",
-      "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 213475,
       "name": "echo",
       "url": "https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n"
+    },
+    {
+      "added_at": "2024-11-05 23:00:00",
+      "album": {
+        "name": "say yes",
+        "url": "https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 114603,
+      "name": "say yes",
+      "url": "https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I"
     },
     {
       "added_at": "2024-11-05 23:00:00",

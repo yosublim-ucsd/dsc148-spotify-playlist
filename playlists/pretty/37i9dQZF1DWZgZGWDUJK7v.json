@@ -1,6 +1,6 @@
 {
   "description": "Meet the popular webtoon OSTs now! (Cover: The Great(\ub354 \uadf8\ub808\uc774\ud2b8)) \uc9c0\uae08 \uc778\uae30 \uc788\ub294 \uc6f9\ud230 OST\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 92653,
+  "num_followers": 92675,
   "original_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",
   "owner": {
     "name": "Spotify",
@@ -391,18 +391,22 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Webtoon YEONNOM OST Part.1",
-        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
+        "name": "STAY THE NIGHT (She is My Type\u2661 X GRAY)",
+        "url": "https://open.spotify.com/album/1QlyNYwz5B7KAKElSrMm2v"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 220996,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+      "duration_ms": 175000,
+      "name": "STAY THE NIGHT (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/3mTYmxNyeKiZuYHdOw5W0j"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -423,22 +427,18 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "STAY THE NIGHT (She is My Type\u2661 X GRAY)",
-        "url": "https://open.spotify.com/album/1QlyNYwz5B7KAKElSrMm2v"
+        "name": "Webtoon YEONNOM OST Part.1",
+        "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
       "artists": [
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 175000,
-      "name": "STAY THE NIGHT (Feat. DeVita)",
-      "url": "https://open.spotify.com/track/3mTYmxNyeKiZuYHdOw5W0j"
+      "duration_ms": 220996,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
-        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
-      },
-      "artists": [
-        {
-          "name": "KEN",
-          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
-        }
-      ],
-      "duration_ms": 187853,
-      "name": "Love me Again",
-      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Love Revolution (Original Webcomic Soundtrack)",
         "url": "https://open.spotify.com/album/5RJcvnMMnWZxX33PBhITV9"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 183874,
       "name": "Broken",
       "url": "https://open.spotify.com/track/33vo9lazjgmoemUhQ7cwk1"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Love me Again (This is a Campus Romance Series X KEN) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/56PpJzzAZQ58SwtRZqMSRv"
+      },
+      "artists": [
+        {
+          "name": "KEN",
+          "url": "https://open.spotify.com/artist/08fiOzXWHTizuWGyS1dWu6"
+        }
+      ],
+      "duration_ms": 187853,
+      "name": "Love me Again",
+      "url": "https://open.spotify.com/track/1sGfaUR47JwCMk5pj2gJZN"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "The Moon Has Passed (The Moon during the Day)",
-        "url": "https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "The Moon Has Passed",
-      "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "It Was All a Mistake OST Part. 1 (Soundtrack)",
         "url": "https://open.spotify.com/album/5FZe0UAWvHMWM3jqWCt89q"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 224266,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5eTdQ3neCQ9P7DQPugu5Zt"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "The Moon Has Passed (The Moon during the Day)",
+        "url": "https://open.spotify.com/album/4czzoSuEU0TpQlotMDcdJx"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "The Moon Has Passed",
+      "url": "https://open.spotify.com/track/5hwwtgaNRiKAgh13DDSPSd"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1251,38 +1251,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Your Day (Romance 101 X Loco)",
-        "url": "https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Your Day (Romance 101 X Loco)",
-      "url": "https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
-        "name": "A Beautiful Farewell - I am Re:Born #1",
-        "url": "https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 250211,
-      "name": "A Beautiful Farewell",
-      "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -1311,6 +1279,38 @@
       "duration_ms": 286013,
       "name": "Only you (The Moon during the Day X GB9)",
       "url": "https://open.spotify.com/track/3sa9y64Wx3P6lwJMifujf4"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Your Day (Romance 101 X Loco)",
+        "url": "https://open.spotify.com/album/2ueFpa66M9RXjTdju6luNC"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/6fSCmJlp1Oli2qgnSkyA7A"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Your Day (Romance 101 X Loco)",
+      "url": "https://open.spotify.com/track/5rMVefs5zO1jcXt10WUodn"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "A Beautiful Farewell - I am Re:Born #1",
+        "url": "https://open.spotify.com/album/08JBBDXn8JRtH1eBUnJs6z"
+      },
+      "artists": [
+        {
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
+        }
+      ],
+      "duration_ms": 250211,
+      "name": "A Beautiful Farewell",
+      "url": "https://open.spotify.com/track/3dFiJSq3woyVfZtUoJQ9pq"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Love Revolution (Original Webcomic Soundtrack)",
-        "url": "https://open.spotify.com/album/6qB4OPOIphRlJrqwUWEaHB"
-      },
-      "artists": [
-        {
-          "name": "LIZRO",
-          "url": "https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF"
-        }
-      ],
-      "duration_ms": 186862,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/7BomO555aVQ9LIflLjPv3t"
-    },
-    {
-      "added_at": "2024-11-12 09:00:00",
-      "album": {
         "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
         "url": "https://open.spotify.com/album/4ycFxbIJKkWZYf0KDs2TYT"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 240640,
       "name": "At Every Moment (Bunny and Guys X Kim Jae Hwan)",
       "url": "https://open.spotify.com/track/6fyKDf4FtlozjMNbE1LEe6"
+    },
+    {
+      "added_at": "2024-11-12 09:00:00",
+      "album": {
+        "name": "Love Revolution (Original Webcomic Soundtrack)",
+        "url": "https://open.spotify.com/album/6qB4OPOIphRlJrqwUWEaHB"
+      },
+      "artists": [
+        {
+          "name": "LIZRO",
+          "url": "https://open.spotify.com/artist/7sN0nmSS4rJjXTfa2E4qwF"
+        }
+      ],
+      "duration_ms": 186862,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/7BomO555aVQ9LIflLjPv3t"
     },
     {
       "added_at": "2024-11-12 09:00:00",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-11-12 09:00:00",
       "album": {
-        "name": "Crazily, Only You (Original Webtoon Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/0piyJgT9xSg5w6jhzpHoI7"
+        "name": "Lost Way (Good Doctor X Gaho)",
+        "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
       },
       "artists": [
         {
-          "name": "Woo Eun Mi",
-          "url": "https://open.spotify.com/artist/3A6pL3y2Oj3BDRj370VsE9"
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
         }
       ],
-      "duration_ms": 211135,
-      "name": "We loved each other, It was so good",
-      "url": "https://open.spotify.com/track/15msDYboC50riZFMdOv3HK"
+      "duration_ms": 184040,
+      "name": "Lost Way",
+      "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
     }
   ],
   "unique_name": "K-Webtoon OSTs (\uc6f9\ud230 OSTs)",

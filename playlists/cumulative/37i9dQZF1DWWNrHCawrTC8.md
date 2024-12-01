@@ -4,7 +4,7 @@
 
 > revisit one of hip\-hop's most of exciting eras
 
-77 songs - 4 hr 57 min
+78 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [I'm a Real 1](https://open.spotify.com/track/3u6uUpi5kvtGqYZjQFgDH8) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Just Re'd up 2](https://open.spotify.com/album/6LYs6vCaIZd3kemw1JDGti) | 2:48 | 2024-08-23 |  |
 | [I'm God](https://open.spotify.com/track/613KmeuXIuqBM0plNinzUh) | [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5) | [6 Kiss](https://open.spotify.com/album/3eckskczN8yxSmOa5Y89n4) | 4:36 | 2024-08-23 |  |
 | [Imported Goods](https://open.spotify.com/track/697zIbTO0LMhupzGblYREm) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Imported Goods](https://open.spotify.com/album/0TWaxeD5IGNBOsUHOj9u0K) | 4:09 | 2024-08-23 |  |
-| [In The Morning](https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:54 | 2024-08-23 |  |
+| [In The Morning](https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:54 | 2024-08-23 | 2024-12-01 |
 | [Itty Bitty Piggy](https://open.spotify.com/track/1uYxHHZBRliM9cNzCxq93g) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 4:06 | 2024-08-23 |  |
 | [IV\. Sweatpants](https://open.spotify.com/track/3x4I4nRuZp5NdtGvCPw6Ms) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:00 | 2024-08-23 |  |
 | [Jazz](https://open.spotify.com/track/2rk0lCpO1vkKAQ6BC8bjUX) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [The Water \(S\)](https://open.spotify.com/album/39yAlNzbQD6MAvveqeY3IP) | 4:20 | 2024-08-23 |  |
@@ -72,6 +72,7 @@
 | [Still Blazin \(feat\. Alborosie\)](https://open.spotify.com/track/3yVLuCBTSi1JEisLugfQuF) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Kush & Orange Juice](https://open.spotify.com/album/0bOEKxKa00RPU5OscdYdC5) | 3:26 | 2024-08-23 |  |
 | [Still Livin'](https://open.spotify.com/track/2hO8mzoi0s0h7hP8o7CNAV) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Baby Face Killa](https://open.spotify.com/album/15k8vlPxxEjhpHAxuwSBUh) | 3:17 | 2024-08-23 |  |
 | [Survival Tactics](https://open.spotify.com/track/4pNT8XTKWb2vhcsqwzdXCT) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Capital Steez](https://open.spotify.com/artist/0oQuXVLDJB7J4wNff4F99l) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 3:22 | 2024-08-23 |  |
+| [The Autograph](https://open.spotify.com/track/58DM0MQw9eajfBVaNlte3k) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 3:43 | 2024-11-30 |  |
 | [The Black God](https://open.spotify.com/track/0jV0I1EYNq9gqrlmcySsY8) | [SpaceGhostPurrp](https://open.spotify.com/artist/6yR6M6V6I7GhhYf6A7Wif9) | [Mysterious Phonk: The Chronicles of SpaceGhostPurrp](https://open.spotify.com/album/3BcTqVCmsRuHZTABplfL6N) | 3:34 | 2024-08-23 |  |
 | [The Breakup Song](https://open.spotify.com/track/4HGuUUwylOThCFdTkuAdDo) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [More About Nothing](https://open.spotify.com/album/77bq36djXWSqOQtxb7Zfxx) | 3:07 | 2024-08-23 |  |
 | [The Spins](https://open.spotify.com/track/7FAFkQQZFeNwOFzTrSDFIh) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [K.I.D.S\. \(Deluxe\)](https://open.spotify.com/album/6TFm9KGW7Lbxrl2Zsg4X9R) | 3:15 | 2024-08-23 |  |

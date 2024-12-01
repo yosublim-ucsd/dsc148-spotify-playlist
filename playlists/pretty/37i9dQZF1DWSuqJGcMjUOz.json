@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6562,
+  "num_followers": 6565,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c7A VA ALLER",
-        "url": "https://open.spotify.com/album/3lS3KwXeNATyc9d76zbGwF"
+        "name": "Giscard d'Estaing",
+        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
       },
       "artists": [
         {
-          "name": "NeS",
-          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
+          "name": "Dombrance",
+          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
         }
       ],
-      "duration_ms": 173000,
-      "name": "LE SOURIRE D'UNE TOMBE",
-      "url": "https://open.spotify.com/track/4yIlzOPjaaEPsF3RyivxQD"
+      "duration_ms": 232800,
+      "name": "Giscard d'Estaing",
+      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -595,18 +595,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Giscard d'Estaing",
-        "url": "https://open.spotify.com/album/1PBJ7DhNRCwh5yaOIGesJM"
+        "name": "\u00c7A VA ALLER",
+        "url": "https://open.spotify.com/album/3lS3KwXeNATyc9d76zbGwF"
       },
       "artists": [
         {
-          "name": "Dombrance",
-          "url": "https://open.spotify.com/artist/6JlJzxo6tT5ft0LubhLd0S"
+          "name": "NeS",
+          "url": "https://open.spotify.com/artist/2MbFuUcFSJlVAbvORsuYM9"
         }
       ],
-      "duration_ms": 232800,
-      "name": "Giscard d'Estaing",
-      "url": "https://open.spotify.com/track/2alxvMSDA2U6qEmrEEINfe"
+      "duration_ms": 173000,
+      "name": "LE SOURIRE D'UNE TOMBE",
+      "url": "https://open.spotify.com/track/4yIlzOPjaaEPsF3RyivxQD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -659,18 +659,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
+        "name": "QUI A VOL\u00c9 LE SOLEIL ?",
+        "url": "https://open.spotify.com/album/0CNZ1e0NtRpjdf2JMSMTg9"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Slimka",
+          "url": "https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN"
+        },
+        {
+          "name": "Mairo",
+          "url": "https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Avant Elle",
-      "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
+      "duration_ms": 161920,
+      "name": "Zepe & Zada",
+      "url": "https://open.spotify.com/track/5mZaPZO8w4e3dCQbtpR3Q2"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -691,22 +695,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "QUI A VOL\u00c9 LE SOLEIL ?",
-        "url": "https://open.spotify.com/album/0CNZ1e0NtRpjdf2JMSMTg9"
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
       "artists": [
         {
-          "name": "Slimka",
-          "url": "https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN"
-        },
-        {
-          "name": "Mairo",
-          "url": "https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 161920,
-      "name": "Zepe & Zada",
-      "url": "https://open.spotify.com/track/5mZaPZO8w4e3dCQbtpR3Q2"
+      "duration_ms": 200360,
+      "name": "Avant Elle",
+      "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Nini",
-        "url": "https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Banane",
-          "url": "https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6"
-        }
-      ],
-      "duration_ms": 151586,
-      "name": "Franchement",
-      "url": "https://open.spotify.com/track/175Yl76Q0ddCTXmiw7bsxx"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 229560,
       "name": "Les amants de Pomp\u00e9i",
       "url": "https://open.spotify.com/track/0gjyTBNi1bpb8HOQgO86oB"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Nini",
+        "url": "https://open.spotify.com/album/0KhnZoRrVjk9tkMkviirvh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Banane",
+          "url": "https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "Franchement",
+      "url": "https://open.spotify.com/track/175Yl76Q0ddCTXmiw7bsxx"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "\u00c9chapper \u00e0 la nuit",
-        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
-      },
-      "artists": [
-        {
-          "name": "Les s\u0153urs Boulay",
-          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
-        }
-      ],
-      "duration_ms": 191360,
-      "name": "Je vais te faire danser",
-      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 149882,
-      "name": "America",
-      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "\u00c9l\u00e9vaZIIION (Soci\u00e9t\u00e9 distincte)",
         "url": "https://open.spotify.com/album/7sjiQnZKBAU6etTZUeFfR8"
       },
@@ -1135,18 +1103,34 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Et on pleurera ensemble",
-        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+        "name": "\u00c9chapper \u00e0 la nuit",
+        "url": "https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+          "name": "Les s\u0153urs Boulay",
+          "url": "https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr"
         }
       ],
-      "duration_ms": 151586,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
+      "duration_ms": 191360,
+      "name": "Je vais te faire danser",
+      "url": "https://open.spotify.com/track/5vnSIodkn5kokXyxJXs76l"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 149882,
+      "name": "America",
+      "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1167,6 +1151,22 @@
       "duration_ms": 171750,
       "name": "Amours d'\u00c9t\u00e9 - A COLORS SHOW",
       "url": "https://open.spotify.com/track/71VXltT0nT6itsGMNNwpKv"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Et on pleurera ensemble",
+        "url": "https://open.spotify.com/album/1xS5iWIeXKgWqNfWX1x7CM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 151586,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "La nuit s'ach\u00e8ve",
+        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Onze",
+      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Suite pour personne",
         "url": "https://open.spotify.com/album/3s0746U6SBRp6vcisxxtcV"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "La nuit s'ach\u00e8ve",
-        "url": "https://open.spotify.com/album/3NqfaAqglu8mp1Nny0vOZS"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Onze",
-      "url": "https://open.spotify.com/track/34X5qDkzSrzpKhKjHb5RCk"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Etienne Dufresne fait des efforts",
         "url": "https://open.spotify.com/album/7dj1HTKL7SwjUO74p7iqwO"
       },
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Oniromancie",
-        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
       "artists": [
         {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
         }
       ],
-      "duration_ms": 216146,
-      "name": "Polymorphe",
-      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Oniromancie",
+        "url": "https://open.spotify.com/album/4BWbIevVWM9xQrd0KEHupI"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Du feu dans les lilas",
         "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 211600,
       "name": "Derri\u00e8re le jour",
       "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
-      },
-      "artists": [
-        {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
-        }
-      ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Emmanuelle",
-        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
-      },
-      "artists": [
-        {
-          "name": "Rosie Valland",
-          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Non merci",
-      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "En roulant vers Perc\u00e9",
         "url": "https://open.spotify.com/album/4DI4cTkWUEMrqEKKsujr8L"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 243236,
       "name": "En roulant vers Perc\u00e9",
       "url": "https://open.spotify.com/track/4q22fntbDKxzaqr6yyCjte"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Non merci",
+      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "J'ai brod\u00e9 mon c\u0153ur",
+        "url": "https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP"
+      },
+      "artists": [
+        {
+          "name": "Marie-Annick Lepine",
+          "url": "https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3"
+        }
+      ],
+      "duration_ms": 34000,
+      "name": "Apr\u00e8s la nuit",
+      "url": "https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Sauvage",
         "url": "https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 331746,
       "name": "Sauvage",
       "url": "https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "J'ai brod\u00e9 mon c\u0153ur",
-        "url": "https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP"
-      },
-      "artists": [
-        {
-          "name": "Marie-Annick Lepine",
-          "url": "https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3"
-        }
-      ],
-      "duration_ms": 34000,
-      "name": "Apr\u00e8s la nuit",
-      "url": "https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Elle \u00e9tait une fois",
-        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
-      },
-      "artists": [
-        {
-          "name": "Parazar",
-          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
-        },
-        {
-          "name": "Salimo",
-          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Ailleurs",
-      "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Dolce Vita",
         "url": "https://open.spotify.com/album/2uAzgEvhRjbA9sL9boeVNl"
       },
@@ -2003,6 +1983,26 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Elle \u00e9tait une fois",
+        "url": "https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ"
+      },
+      "artists": [
+        {
+          "name": "Parazar",
+          "url": "https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD"
+        },
+        {
+          "name": "Salimo",
+          "url": "https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Holistique",
         "url": "https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM"
       },
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Pour l'amour du geste II",
+        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "duration_ms": 126179,
+      "name": "Pour l'amour du geste II",
+      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/20hYXKljxpp3OB34PHcaIo"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 223454,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6p84e47BuGYmh282V13y4H"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Pour l'amour du geste II",
-        "url": "https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E"
-      },
-      "artists": [
-        {
-          "name": "20Some",
-          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
-        }
-      ],
-      "duration_ms": 126179,
-      "name": "Pour l'amour du geste II",
-      "url": "https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt"
     },
     {
       "added_at": "2024-06-19 20:38:05",

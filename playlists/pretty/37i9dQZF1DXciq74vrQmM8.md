@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. BUBZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 720,849 likes - 89 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 720,829 likes - 89 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 40 | [Illusions](https://open.spotify.com/track/5Lbu0d5dXJfwUbf9BTVkdm) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa), [Nathan James](https://open.spotify.com/artist/0yvTRHK90NHy9NI4RhEEYS) | [Cypress Hill Mixtape](https://open.spotify.com/album/6vViDUE5CWCL88MMVR8sSj) | 3:21 |
 | 41 | [Sex Never Dies](https://open.spotify.com/track/1k8uqF131l6E5AOJNOgcPj) | [Zheani](https://open.spotify.com/artist/75xNYf2GU5wtQqBrd74SlY) | [Sex Never Dies](https://open.spotify.com/album/33KRPBx4woFUrbe1KIM5wk) | 3:33 |
 | 42 | [I may be a doe..](https://open.spotify.com/track/7GcBq9TpieA2Wu1Rnwq1lX) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [I may be a doe..](https://open.spotify.com/album/7owgyZJpotoGptLy62DiM3) | 3:07 |
-| 43 | [Inside Out](https://open.spotify.com/track/1iCLFD5JQ8YOONoYR0LuPR) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [DEAR TASH](https://open.spotify.com/artist/6aTFp3gBxepw38KmDPQq3Q), [Tom Saint](https://open.spotify.com/artist/6tatWnZ4nH8Cpivd2uXKJn) | [Inside Out](https://open.spotify.com/album/0fbggCHMhr44lAiC0i9kSs) | 2:19 |
+| 43 | [Inside Out](https://open.spotify.com/track/1iCLFD5JQ8YOONoYR0LuPR) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX), [DEAR TASH](https://open.spotify.com/artist/4RUXc1qaB7CPx8z3cRLD3O), [Tom Saint](https://open.spotify.com/artist/6tatWnZ4nH8Cpivd2uXKJn) | [Inside Out](https://open.spotify.com/album/0fbggCHMhr44lAiC0i9kSs) | 2:19 |
 | 44 | [breakdown.](https://open.spotify.com/track/3a4PdwwaddhYbZnp0lxqyz) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown.](https://open.spotify.com/album/7EDOy8ue9MwE27BRwBT1fd) | 2:43 |
 | 45 | [I Can Only Be Me](https://open.spotify.com/track/4red2zI5Q2enciAX3pRk2p) | [Mars Argo](https://open.spotify.com/artist/3WFBuQFguwRNZcPyQrtBEU) | [I Can Only Be Me](https://open.spotify.com/album/65hbWKpAyKMvKnnxsupTjW) | 3:05 |
 | 46 | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/track/3KZunNnCc1YHmS3WSYN5Ol) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT), [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [DEAD! \(feat\. CVLTE\)](https://open.spotify.com/album/2xkZL4IkyMaY48TfF8yCYc) | 3:22 |

@@ -2,7 +2,7 @@
 
 ### [せつない胸に風が吹いてた](https://open.spotify.com/playlist/37i9dQZF1DX8Bcfs9StvNM)
 
-> <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第3弾。切なさの中にも希望が光る、至高の「せつなソング」を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
+> Spotify×サザンのムードプレイリストシリーズ第3弾。切なさの中にも希望が光る、至高の「せつなソング」を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
 45 songs - 3 hr 20 min
 

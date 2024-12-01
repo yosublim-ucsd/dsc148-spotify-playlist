@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 
 > Rimas cremosas, tan necesarias como tu café\. La Adictiva, Justin Quiles y Calle 24 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,768 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,779 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4O0AdBo80OE.md) - [plain]
 | 4 | [Ariande / “14 Besos”](https://open.spotify.com/track/3S6VyqU2RJJHipTDlN9Hz7) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Ariande / “14 Besos”](https://open.spotify.com/album/0DP89wUDbPK3oiEcy1bVm2) | 4:12 |
 | 5 | [El Más Travieso](https://open.spotify.com/track/0VFG5Ts3TgWl6qPOlG48Cs) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Más Travieso](https://open.spotify.com/album/2K0iuMY13fXHxmwqJoxijO) | 2:42 |
 | 6 | [balearico](https://open.spotify.com/track/1wAkBB3pOOjOPAWnjJKvoh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [balearico](https://open.spotify.com/album/0Ck8RKyWCJv77wBlgFOPrA) | 2:30 |
-| 7 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDMRN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
+| 7 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
 | 8 | [El Reloj del Corazón](https://open.spotify.com/track/5q20ChVvFID1D8wL6TSxjm) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [El Reloj del Corazón](https://open.spotify.com/album/2TjqjtOX5CqlqMXQFV08TD) | 3:25 |
 | 9 | [Milhouse](https://open.spotify.com/track/63B36PpbcCIxBjLOiObX3p) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [GRAN](https://open.spotify.com/album/0KcMVlp0ZXCfSkKJrsrwLn) | 2:56 |
 | 10 | [Track 2 \(Abrazo\)](https://open.spotify.com/track/5ooKijzW2e21nSSComr3mI) | [Castellano](https://open.spotify.com/artist/6UO0OmWRTSoZCTmbpHRf91), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO) | [Ana Laura](https://open.spotify.com/album/7ElrHS1x1dUl6cXtxXAXbN) | 3:28 |

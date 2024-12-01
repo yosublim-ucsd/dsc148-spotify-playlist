@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Geolier in cover della playlist urban più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,676 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,770 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 33 | [Tony Montana \(feat\. Achille Lauro\)](https://open.spotify.com/track/3HBjggKJl8udNlj2NDs8eH) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [Le cose cambiano \(Deluxe\)](https://open.spotify.com/album/3hZVexc1qZYkcaD0FGRiyN) | 3:15 |
 | 34 | [40 GRADI](https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [40 GRADI](https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St) | 2:42 |
 | 35 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |
-| 36 | [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Startuffo](https://open.spotify.com/artist/0n2eNz9IfMHag6sU0uEPVe), [D\-Ross](https://open.spotify.com/artist/0GKNWhzf7koQl9HuUJnz1T) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 |
+| 36 | [Video hot \(feat\. Geolier\)](https://open.spotify.com/track/3o9OeBX0vgh51r15Ta7Dok) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Startuffo](https://open.spotify.com/artist/6rlRsGkuYPz1ssHFa4lm4N), [D\-Ross](https://open.spotify.com/artist/0GKNWhzf7koQl9HuUJnz1T) | [MAI PIÙ FORSE](https://open.spotify.com/album/31zOPRV9kLjtyq3eqiAMvj) | 3:06 |
 | 37 | [BIKER \(feat\. Icy Subzero\)](https://open.spotify.com/track/77xrznloSbe6F7aHztmu4K) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2), [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [BIKER \(feat\. Icy Subzero\)](https://open.spotify.com/album/0TSfE2ViqoJ6buvq6Igs8Z) | 2:52 |
 | 38 | [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 |
 | 39 | [\-3 \(PERDERE IL VOLO\) \(feat\. Marracash\)](https://open.spotify.com/track/5IiXZCAsi29TOtY3rbmKOo) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:59 |

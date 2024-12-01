@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-248 songs - 14 hr 12 min
+249 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Lucy Rider](https://open.spotify.com/track/7JhHxjF89Nd3c6MEtjXx24) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [Katie Melua](https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh) | [Lucy Rider](https://open.spotify.com/album/5CD61BtzWq6aPXULvnAnve) | 3:17 | 2024-06-27 | 2024-08-09 |
 | [Längs den långa vägen hem](https://open.spotify.com/track/5ukUg5wFfgwbsAPfWfTAy4) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Längs den långa vägen hem](https://open.spotify.com/album/0d5l4YtBo05EtOpBNbhDgP) | 3:51 | 2024-06-27 | 2024-08-23 |
 | [Manic Pixie Dream Girl](https://open.spotify.com/track/4xnS3g0dqWujMo3prnQwIn) | [Maja Francis](https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c) | [Manic Pixie Dream Girl](https://open.spotify.com/album/2SwuFnNlOESLujPQxIqXYr) | 2:43 | 2024-06-27 | 2024-10-01 |
-| [Marching To This Drum](https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA) | [Marching To This Drum](https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7) | 3:00 | 2024-10-17 |  |
+| [Marching To This Drum](https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g) | [Dregen](https://open.spotify.com/artist/663P1NUOnzy8MiAjQFXVYA) | [Marching To This Drum](https://open.spotify.com/album/17WzdroK4ry4ps6jOwlcV7) | 3:00 | 2024-10-17 | 2024-12-01 |
 | [Mars Venus](https://open.spotify.com/track/1km9FtIrSvIdm3TTQlxqkw) | [Per Persson](https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0) | [Mars Venus](https://open.spotify.com/album/5FokncAu2q3vUMT92NfvkS) | 3:46 | 2024-11-07 |  |
 | [maybe](https://open.spotify.com/track/4ShOcNoqu7krh5pIZ3ndhu) | [Daniel Norberg](https://open.spotify.com/artist/4TeKX72ppmEegQRU2suRFy) | [maybe](https://open.spotify.com/album/1bTSHZcHV7clIxfgsHEVip) | 3:33 | 2024-10-10 | 2024-11-02 |
 | [Maybe Now](https://open.spotify.com/track/2OpxNvfJwxFpEzNI3DCyD1) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Maybe Now](https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv) | 3:20 | 2024-09-26 |  |
@@ -163,6 +163,7 @@
 | [Nyper mig i armen](https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Nyper mig i armen](https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09) | 3:15 | 2024-08-15 |  |
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 |  |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 |  |
+| [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 | 2024-11-07 |  |
 | [Ordna sig](https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Ordna sig](https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP) | 2:31 | 2024-06-27 | 2024-08-23 |
 | [Orkanen](https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Orkanen](https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0) | 3:16 | 2024-10-10 |  |
 | [Out Of Love](https://open.spotify.com/track/1gEeVO5KgqgpPWh6ghNpCd) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Out Of Love](https://open.spotify.com/album/3oIw9biBKkPJM8pCylG0eW) | 3:23 | 2024-06-27 | 2024-08-23 |

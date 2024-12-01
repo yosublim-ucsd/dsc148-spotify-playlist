@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 157336,
+  "num_followers": 157373,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAABAVkVDa/9Qot9HwckwfUZd",
+  "snapshot_id": "Z0kEAAAAAABD148gUK4RV0k7fx9IdEss",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 323560,
-      "name": "Say What!",
-      "url": "https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live Alive",
         "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 277306,
       "name": "Willie The Wimp - Live",
       "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 323560,
+      "name": "Say What!",
+      "url": "https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS"
     },
     {
       "added_at": null,

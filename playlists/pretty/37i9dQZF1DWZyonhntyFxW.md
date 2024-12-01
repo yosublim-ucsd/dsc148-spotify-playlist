@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > الخطة ملوك من اللفه انا استاهل منكوا الصقفة\. غلاف: مهاب
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,926 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,025 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 35 | [مطرية](https://open.spotify.com/track/1u5D6Chww0EppywyTQIG8P) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [مطرية](https://open.spotify.com/album/0Rhs1WLWaaITB9RCUvbmEk) | 1:59 |
 | 36 | [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 |
 | 37 | [El Ters](https://open.spotify.com/track/2u7ORPqITjz66HLu7cMH3v) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Ters](https://open.spotify.com/album/0aIsZHl5cV4NO9MkpdECxh) | 2:29 |
-| 38 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 |
+| 38 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 |
 | 39 | [AHMED FALTA](https://open.spotify.com/track/4wOXh7A1amzMsHHP5Gym0T) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [FALTA](https://open.spotify.com/album/2XfZXthb4oxK1UwjkoUiKr) | 2:30 |
 | 40 | [Adina Bengarab](https://open.spotify.com/track/3FvJUxZIG180cmXf1T87ZJ) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo) | [SHHHH](https://open.spotify.com/album/6IUNaccoWcghuFLBJ8OUP6) | 2:48 |
 

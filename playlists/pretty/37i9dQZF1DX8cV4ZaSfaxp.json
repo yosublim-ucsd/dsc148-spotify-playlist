@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 56302,
+  "num_followers": 56318,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "The Story Of The Year (feat. Wonwoo)",
-        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
-      },
-      "artists": [
-        {
-          "name": "PARKMOONCHI",
-          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
-        },
-        {
-          "name": "Wonwoo",
-          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
-        }
-      ],
-      "duration_ms": 253948,
-      "name": "The Story Of The Year (feat. Wonwoo)",
-      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 243381,
       "name": "Ondo (with LeeHi)",
       "url": "https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "The Story Of The Year (feat. Wonwoo)",
+        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
+      },
+      "artists": [
+        {
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        },
+        {
+          "name": "Wonwoo",
+          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
+        }
+      ],
+      "duration_ms": 253948,
+      "name": "The Story Of The Year (feat. Wonwoo)",
+      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
+      },
+      "artists": [
+        {
+          "name": "sucozy",
+          "url": "https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ"
+        },
+        {
+          "name": "subin",
+          "url": "https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 194266,
       "name": "Desire (Feat. \uc815\uc9c4\ud615, Vince)",
       "url": "https://open.spotify.com/track/0sMSGLrwt5KFttn3ksv8CK"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
-      },
-      "artists": [
-        {
-          "name": "sucozy",
-          "url": "https://open.spotify.com/artist/0UJT6CvlHhWZbgnV1wGakZ"
-        },
-        {
-          "name": "subin",
-          "url": "https://open.spotify.com/artist/1l9uUtOGIbKxJEPEPwiR55"
-        }
-      ],
-      "duration_ms": 214736,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/1hdknqjkAXjoS7q7ArEGqr"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1308,7 +1308,7 @@
       },
       "artists": [
         {
-          "name": "Jung Yup",
+          "name": "Jungyup",
           "url": "https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP"
         },
         {

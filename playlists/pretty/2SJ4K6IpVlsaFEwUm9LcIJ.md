@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,172 likes - 38 songs - 2 hr 24 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,177 likes - 39 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,5 +46,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 36 | [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 |
 | 37 | [Flash in the Pan](https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Flash in the Pan](https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt) | 3:43 |
 | 38 | [Fall](https://open.spotify.com/track/0vrCyUnCmMcUNGIA5GKgZD) | [Sway](https://open.spotify.com/artist/1bElSTQqO1Vd1pia2t7JeS) | [The Millia Pink And Green](https://open.spotify.com/album/7EHablbY72TGgPQb3FGN9h) | 6:35 |
+| 39 | [Nail in a Wooden Trunk](https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Nail in a Wooden Trunk](https://open.spotify.com/album/6458nxrJP9ulxGp6tSIUyf) | 2:29 |
 
-Snapshot ID: `AAALeEnhWI2SZlhO9ziN8RZMFMoQQbmP`
+Snapshot ID: `AAALeQHuuOerLYWW01IXxwX1H3DE7tH/`

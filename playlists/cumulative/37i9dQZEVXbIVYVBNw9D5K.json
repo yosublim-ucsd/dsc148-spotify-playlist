@@ -3122,7 +3122,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 154298,
       "name": "Bertaraf",
       "url": "https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny"
@@ -5224,7 +5224,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 218049,
       "name": "Derdo",
       "url": "https://open.spotify.com/track/0FLwRAV57ntFQHKrV8jaPa"
@@ -5242,7 +5242,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 218049,
       "name": "Derdo",
       "url": "https://open.spotify.com/track/0O8jfIL9rjYbWRypxBA9LN"
@@ -5633,6 +5633,24 @@
     },
     {
       "album": {
+        "name": "Doldum",
+        "url": "https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "Doldum",
+      "url": "https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd"
+    },
+    {
+      "album": {
         "name": "Dom Dom Kur\u015funu (E.K. Remix)",
         "url": "https://open.spotify.com/album/7BCHAXzmVaig14baYVNg8s"
       },
@@ -5866,7 +5884,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-28",
+      "date_removed": null,
       "duration_ms": 221159,
       "name": "Duydun Mu?",
       "url": "https://open.spotify.com/track/4v8LZr4pYJFo3lnB5BJBAc"
@@ -5884,7 +5902,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 221159,
       "name": "Duydun Mu?",
       "url": "https://open.spotify.com/track/5Jpln46zz6l9KSMw1kLDPP"
@@ -14083,6 +14101,24 @@
     },
     {
       "album": {
+        "name": "A\u015fk Tesad\u00fcfleri Sever (Mucize ve Bulu\u015fma)",
+        "url": "https://open.spotify.com/album/5Q3EXfOt4y9MSS6FZJYA7M"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcsl\u00fcm G\u00fcrses",
+          "url": "https://open.spotify.com/artist/4cMwyqmHCwJjRZ3frIVHTr"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258159,
+      "name": "Nil\u00fcfer",
+      "url": "https://open.spotify.com/track/4cHrCNJTdMfbtY0fjc5ged"
+    },
+    {
+      "album": {
         "name": "NKB\u0130",
         "url": "https://open.spotify.com/album/41xu1RICTXRwblCxCC8wyK"
       },
@@ -16184,7 +16220,7 @@
       ],
       "date_added": "2022-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 196800,
       "name": "Saklad\u0131\u011f\u0131n Bir \u015eeyler Var",
       "url": "https://open.spotify.com/track/6t18CcJVpnFAoWfcZxiZtk"

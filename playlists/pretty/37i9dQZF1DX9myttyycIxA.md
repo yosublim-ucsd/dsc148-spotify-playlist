@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Horsegirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,393 likes - 101 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,430 likes - 101 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 33 | [Doom](https://open.spotify.com/track/4tgqtgCqCBdBLnM7IZptGZ) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Doom](https://open.spotify.com/album/6NNJuL3e85YHBdY7fbGBDC) | 4:30 |
 | 34 | [Storefront Cabana](https://open.spotify.com/track/2cXWUJtzAcP82C63V4WHsq) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Storefront Cabana](https://open.spotify.com/album/4HNfhC0XugXvihwYaKc2Yp) | 3:57 |
 | 35 | [Quite Alarmed](https://open.spotify.com/track/5EY1BQq6o67JSvItXBSqJz) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [Quite Alarmed](https://open.spotify.com/album/1SPqb5araAEEp35D3wuyhF) | 2:38 |
-| 36 | [bedbugs](https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:22 |
+| 36 | [bedbugs](https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:22 |
 | 37 | [Get It](https://open.spotify.com/track/0rNPQbISdNPMIu29r3aawf) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Get It](https://open.spotify.com/album/0fKpzon7eCAX5S9Ebn1h2G) | 2:42 |
 | 38 | [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 |
 | 39 | [Rejection](https://open.spotify.com/track/6lRglAtqAXeKu1a7ANWVpC) | [Olivia O.](https://open.spotify.com/artist/3iyac4PtyadMKV4uaTgKYE) | [Rejection](https://open.spotify.com/album/5yj1oDrLds462bneqdG65U) | 4:10 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 51 | [Ganon](https://open.spotify.com/track/72ZxgnvBwXmCNts9P9cHyl) | [Lutalo](https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln) | [The Academy](https://open.spotify.com/album/5BQHDhHDJ3smzTm0CZrRjN) | 2:18 |
 | 52 | [Foolish and Fast](https://open.spotify.com/track/4c4j2dLXhniKAacqqJK0zN) | [Merce Lemon](https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH) | [Watch Me Drive Them Dogs Wild](https://open.spotify.com/album/5jhCAXSADJb5mTSYRaqO3X) | 4:12 |
 | 53 | [Colonel](https://open.spotify.com/track/4cH2ISBM5QI1wwJy2HGGbf) | [The Kilans](https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt) | [Colonel](https://open.spotify.com/album/2Vp2QQ34NtVUvmWEObeoFV) | 2:41 |
-| 54 | [you're like me](https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [you're like me](https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt) | 5:29 |
+| 54 | [you're like me](https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [you're like me](https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt) | 5:29 |
 | 55 | [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 |
 | 56 | [One Trick Pony](https://open.spotify.com/track/12EVjWV5YBZ4kCLa1XQPnb) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [One Trick Pony](https://open.spotify.com/album/1KhofP4ipotqMjlrfpjDnk) | 3:00 |
 | 57 | [don't fall back so easily](https://open.spotify.com/track/0ThdoKmComU8pjuODaOxhH) | [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [don't fall back so easily](https://open.spotify.com/album/7MJV57idD9vzzzwiiU98eU) | 3:10 |

@@ -1400,7 +1400,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 171026,
       "name": "Aguas da Amazonia: Negro River",
       "url": "https://open.spotify.com/track/2fNiWwBYCqIef8NDVcJB8x"
@@ -11410,7 +11410,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 229982,
       "name": "Eyes Of The World",
       "url": "https://open.spotify.com/track/0dJTvk8R3KqTAroyL3qiLO"
@@ -14671,6 +14671,36 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Hitta J3",
+          "url": "https://open.spotify.com/artist/50DchbKTiJU56SYmIRSJCI"
+        },
+        {
+          "name": "YoungThreat",
+          "url": "https://open.spotify.com/artist/1q2nUylEqrRJkiDkXa39Mw"
+        },
+        {
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193539,
+      "name": "gnx (feat. hitta j3, youngthreat, peysoh)",
+      "url": "https://open.spotify.com/track/3aZptNYC6Z1YoumeqZcDcQ"
+    },
+    {
+      "album": {
         "name": "Go",
         "url": "https://open.spotify.com/album/3OPKSB4HyhuosHWOmMFH25"
       },
@@ -16310,7 +16340,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 160007,
       "name": "Hey Rudy (with The Roots)",
       "url": "https://open.spotify.com/track/04IzM8tyRnsjN6Em9LNBpR"
@@ -17412,7 +17442,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 300000,
       "name": "I Send a Message - Vocal Remixed Version",
       "url": "https://open.spotify.com/track/1EX0ypIZAyVIFOq7syrewU"
@@ -20832,6 +20862,10 @@
         {
           "name": "Legendes Industries",
           "url": "https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ"
+        },
+        {
+          "name": "KronoMuzik",
+          "url": "https://open.spotify.com/artist/7B53Suqn5TsVu6S6gIgqeA"
         }
       ],
       "date_added": "2024-11-29",
@@ -21362,7 +21396,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 164366,
       "name": "Light Year (Practice)",
       "url": "https://open.spotify.com/track/3NE6g9h77FZbQqCLzUpGRt"
@@ -21646,6 +21680,24 @@
       "duration_ms": 182852,
       "name": "Lines in the Sand (Doug Pinnick Vocals)",
       "url": "https://open.spotify.com/track/4P5YQ59SLoO6VcPtkoMPsA"
+    },
+    {
+      "album": {
+        "name": "Lingering Love",
+        "url": "https://open.spotify.com/album/6OJbuMxNn3Ce6F2gHJoqXe"
+      },
+      "artists": [
+        {
+          "name": "Baruskrabalkova",
+          "url": "https://open.spotify.com/artist/3z9x2n9n2NAwryr0JXuGYl"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287513,
+      "name": "Lingering Love",
+      "url": "https://open.spotify.com/track/46DuQLmCgpMRKxx3NJhbFt"
     },
     {
       "album": {
@@ -22457,6 +22509,24 @@
     },
     {
       "album": {
+        "name": "Low Mood Season",
+        "url": "https://open.spotify.com/album/7lg6tvjylLcfXUbdD4lSmX"
+      },
+      "artists": [
+        {
+          "name": "Casey Lowery",
+          "url": "https://open.spotify.com/artist/35Bteh0kYNrDTyBOG1BDvD"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204584,
+      "name": "Low Mood Season",
+      "url": "https://open.spotify.com/track/2z8ZLHcbWsHwRZeGeRSPSl"
+    },
+    {
+      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/4JvUT0RuTH3rYTp26QB5o4"
       },
@@ -22612,6 +22682,32 @@
       "duration_ms": 248098,
       "name": "Lyte Ghost Lil Mama",
       "url": "https://open.spotify.com/track/4yDmO4fnpHp5lhy8Enur4C"
+    },
+    {
+      "album": {
+        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
     },
     {
       "album": {
@@ -28377,6 +28473,28 @@
     },
     {
       "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155917,
+      "name": "peekaboo (feat. azchike)",
+      "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
+    },
+    {
+      "album": {
         "name": "Pegasus (ft. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ"
       },
@@ -30752,6 +30870,24 @@
       "duration_ms": 175075,
       "name": "Revenge of The Rebel",
       "url": "https://open.spotify.com/track/2p3sfd8dg3syNidioQFaZV"
+    },
+    {
+      "album": {
+        "name": "Inglewood, California 1982",
+        "url": "https://open.spotify.com/album/0lpNEDzo5bNgid8CLJhZsg"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428225,
+      "name": "Rhiannon",
+      "url": "https://open.spotify.com/track/6Ah07SEeuD9RGtx62PtxCl"
     },
     {
       "album": {
@@ -37746,7 +37882,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 156553,
       "name": "THE RHYTHM",
       "url": "https://open.spotify.com/track/6dNsYZysUU6KhKONae4SNc"

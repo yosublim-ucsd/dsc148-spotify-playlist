@@ -4,7 +4,7 @@
 
 > Get in the holiday spirit with these festive essentials ✨❄️
 
-365 songs - 19 hr 46 min
+366 songs - 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Last Xmas](https://open.spotify.com/track/6dyjwojf6jZV8aQorBTmGD) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Last Xmas](https://open.spotify.com/album/7gvrogvTiup7SSSRCG5caa) | 3:46 | 2022-12-16 | 2023-10-14 |
 | [Let It Snow! \- 10th Anniversary](https://open.spotify.com/track/2EmEXCi8ue7p5Xqmqz10kW) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/0FHpjWlnUmplF5ciL84Wpa) | 2:39 | 2021-12-24 | 2023-10-14 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2023-10-13 |  |
+| [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/13pKT5tXxW9M1xIC9sqF3t) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/album/7EW2xtDxs1h5H2tvPdBUBY) | 1:53 | 2024-11-30 |  |
 | [Let It Snow! Let It Snow! Let It Snow! \(with The B\. Swanson Quartet\)](https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [B\. Swanson Quartet](https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc) | [Christmas Songs by Sinatra](https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU) | 2:35 | 2023-10-13 |  |
 | [Light the Light](https://open.spotify.com/track/0YelSdtdA0ZXf8kZtrQBLT) | [Tim Baker](https://open.spotify.com/artist/2peeSULgQ6AFn3kHzvWQTq) | [Full Rainbow of Light](https://open.spotify.com/album/0y9nqegqiOi909LoYvnZTb) | 4:16 | 2024-11-22 |  |
 | [Like It's Christmas](https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Like It's Christmas](https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu) | 3:20 | 2023-10-13 |  |
@@ -249,7 +250,7 @@
 | [O Holy Night](https://open.spotify.com/track/4inAT5fFLhvhSBSBqwPbvm) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [O Holy Night](https://open.spotify.com/album/4XZvDCCCwPPSI5b667S55r) | 2:46 | 2022-10-29 | 2023-10-14 |
 | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 | 2021-12-24 | 2023-10-14 |
 | [O Little Town](https://open.spotify.com/track/4QXRhWSVeU3Vmwtj38Curv) | [Wild Strawberries](https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y) | [O Little Town](https://open.spotify.com/album/2THpJsaA0Zy9mfy99xVrTY) | 2:29 | 2021-12-24 | 2023-06-16 |
-| [On Christmas](https://open.spotify.com/track/7LAIo6EpmvmSZyIPaOlyJw) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [On Christmas](https://open.spotify.com/album/4uobo6OkveYKrhMVitb7Ti) | 2:38 | 2024-11-22 |  |
+| [On Christmas](https://open.spotify.com/track/7LAIo6EpmvmSZyIPaOlyJw) | [Alex Nicol](https://open.spotify.com/artist/7MlkcMZ5n9BgU5wNgYcNvu), [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [On Christmas](https://open.spotify.com/album/4uobo6OkveYKrhMVitb7Ti) | 2:38 | 2024-11-22 | 2024-12-01 |
 | [On Your List](https://open.spotify.com/track/5gZLh1zKO13yZqylWYqllm) | [Divine Brown](https://open.spotify.com/artist/0quKBMxFPX36JhyGmNOZKa) | [On Your List](https://open.spotify.com/album/7pmGWc8K2lLifgHFND2Rpt) | 2:59 | 2021-12-24 | 2022-07-28 |
 | [One More Day of Christmas](https://open.spotify.com/track/0dJ4qvAQzIH5HIdB5PVj8D) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [One More Day of Christmas / Do You Hear What I Hear](https://open.spotify.com/album/4Bf8UkSQXx6tk5baokwU6s) | 2:42 | 2021-12-24 | 2023-10-14 |
 | [One More Day of Christmas](https://open.spotify.com/track/4cazW4uHaiRhaQPN9Qddw6) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [One More Day of Christmas / Do You Hear What I Hear](https://open.spotify.com/album/5k9ppnL9FLBSMzG7tHV2lj) | 2:42 | 2021-12-24 | 2022-07-29 |

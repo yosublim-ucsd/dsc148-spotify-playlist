@@ -4787,6 +4787,36 @@
     },
     {
       "album": {
+        "name": "Bundesliga",
+        "url": "https://open.spotify.com/album/49VFeGXMzs1YZhnxm5tkAd"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "DJEZJA",
+          "url": "https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf"
+        },
+        {
+          "name": "Rockywhereyoubeen",
+          "url": "https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150334,
+      "name": "Bundesliga",
+      "url": "https://open.spotify.com/track/4wSqfmYUyVnQJaEyBtmrWg"
+    },
+    {
+      "album": {
         "name": "Buren",
         "url": "https://open.spotify.com/album/4548tEJ1rHTXhCcxxL7MlO"
       },
@@ -17446,7 +17476,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -17464,7 +17494,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 265960,
       "name": "Last Christmas - Single Version",
       "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
@@ -20541,6 +20571,24 @@
     },
     {
       "album": {
+        "name": "MULALA",
+        "url": "https://open.spotify.com/album/7ykykZsyyh5fEVBmkkZZwc"
+      },
+      "artists": [
+        {
+          "name": "Gregossan",
+          "url": "https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156677,
+      "name": "MULALA",
+      "url": "https://open.spotify.com/track/3ZEZUgpOUO4Po0eXtBt4oF"
+    },
+    {
+      "album": {
         "name": "Talou",
         "url": "https://open.spotify.com/album/5nTBO5C2cKIypuPSleM2IW"
       },
@@ -21068,7 +21116,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 178000,
       "name": "NASA - NOA Remix",
       "url": "https://open.spotify.com/track/17yyT1a0ECahRrxTOOVndt"
@@ -27976,7 +28024,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
@@ -29980,7 +30028,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -30582,7 +30630,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 187031,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
@@ -31936,6 +31984,28 @@
       "duration_ms": 213566,
       "name": "Verdien Model",
       "url": "https://open.spotify.com/track/2QKr1BQ4K2I4sL73kZ1HSy"
+    },
+    {
+      "album": {
+        "name": "Vergeet Je Nooit",
+        "url": "https://open.spotify.com/album/6hR0aRnDBKH6OZDVQEeqFQ"
+      },
+      "artists": [
+        {
+          "name": "Fatah",
+          "url": "https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164223,
+      "name": "Vergeet Je Nooit",
+      "url": "https://open.spotify.com/track/6dPs8h2AunsVmIutk6fUso"
     },
     {
       "album": {
@@ -34720,7 +34790,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 180778,
       "name": "Zoet, Zout, Zuur",
       "url": "https://open.spotify.com/track/4xTjO1NgHBEbINFUQ9Kgao"

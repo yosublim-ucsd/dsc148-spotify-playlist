@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,480 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,484 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 13 | [Ergo \(The Beginning\)](https://open.spotify.com/track/1ZG8uXRoWqnfhCpZuCmyZT) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [Ergo \(The Beginning\)](https://open.spotify.com/album/7zKFwNhETQkU8AEfNUCfWb) | 3:14 |
 | 14 | [Big Moves \- Vol\. 5](https://open.spotify.com/track/01CrjNySWaln8aBVJA1MAg) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa) | [Big Moves \(Vol\. 5\)](https://open.spotify.com/album/747EY8D8c4okD7qyfWOKNt) | 2:46 |
 | 15 | [PASARELA](https://open.spotify.com/track/19zZ6CFn39KaEgwlnxEtEa) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Onad](https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV) | [PASARELA](https://open.spotify.com/album/5uHQoNwkyfCqndwYuX37WB) | 2:17 |
-| 16 | [PIES MIA](https://open.spotify.com/track/2jcYHljAsM7bHOcPKVkJAH) | [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc) | [PIES MIA](https://open.spotify.com/album/7jdDWAA9GaJDSkfD2jUIrw) | 2:04 |
+| 16 | [PIES MIA](https://open.spotify.com/track/2jcYHljAsM7bHOcPKVkJAH) | [Billy Sio](https://open.spotify.com/artist/29Bl0nvClztM0dpgY2vvcc), [Johny](https://open.spotify.com/artist/4tBHKmn4ijtVF4s5UMxFDv) | [PIES MIA](https://open.spotify.com/album/7jdDWAA9GaJDSkfD2jUIrw) | 2:04 |
 | 17 | [Frena](https://open.spotify.com/track/1sk1gRQHhySVQvLKEheGmm) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [Frena](https://open.spotify.com/album/0atM4r99hBpMjA5uJE3vPk) | 2:55 |
 | 18 | [PULVO](https://open.spotify.com/track/39zEhtL1tPzBUD8T1ZOWKR) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [EYE OF THE TIGER](https://open.spotify.com/album/61sB6y1OGLHk585htCrZET) | 2:30 |
 | 19 | [SILLY BOY](https://open.spotify.com/track/14JWdvYsWAx7csssKvakQK) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [EYE OF THE TIGER](https://open.spotify.com/album/61sB6y1OGLHk585htCrZET) | 2:50 |

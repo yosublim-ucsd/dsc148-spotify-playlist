@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,689 likes - 98 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,696 likes - 98 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 58 | [Every Time I Close My Eyes \(with Kenny G\)](https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Day](https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk) | 4:56 |
 | 59 | [太陽は罪な奴](https://open.spotify.com/track/1xGPg02EubO3Zq5ImfJlye) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [太陽は罪な奴](https://open.spotify.com/album/4aKpkMTSuAheynGh3oJXuT) | 4:14 |
 | 60 | [ミエナイチカラ 〜INVISIBLE ONE〜](https://open.spotify.com/track/1B7JdytwORQ3snphFEbPW1) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [ミエナイチカラ 〜INVISIBLE ONE〜 / MOVE](https://open.spotify.com/album/13hOMXiB9ydOwyIOY7JxoT) | 4:38 |
-| 61 | [NOW AND THEN\~失われた時を求めて\~](https://open.spotify.com/track/252SM3vLMNq7FF7JVB95DR) | [My Little Lover](https://open.spotify.com/artist/3v8Gnj6Kvl1fShyGgacgu1) | [NOW AND THEN\~失われた時を求めて\~](https://open.spotify.com/album/53xgNWev3QYQvDpwB2YR2x) | 4:04 |
+| 61 | [NOW AND THEN～失われた時を求めて～](https://open.spotify.com/track/252SM3vLMNq7FF7JVB95DR) | [My Little Lover](https://open.spotify.com/artist/3v8Gnj6Kvl1fShyGgacgu1) | [NOW AND THEN～失われた時を求めて～](https://open.spotify.com/album/53xgNWev3QYQvDpwB2YR2x) | 4:04 |
 | 62 | [Body & Soul](https://open.spotify.com/track/4GiCw6vUeSi9fbP4P7nVpW) | [SPEED](https://open.spotify.com/artist/3VpWtcxsAiE148UkrC1yt9) | [Body & Soul](https://open.spotify.com/album/6ucSGLhobeIYOLISxu6mOo) | 5:02 |
 | 63 | [いいわけ](https://open.spotify.com/track/0WslHz0nNPgbzTYYG50v24) | [Sharam Q](https://open.spotify.com/artist/1kK9HRCnY3kiEgiEZIjHVH) | [シングルベスト１０ おまけつき](https://open.spotify.com/album/27rIIAuJzFI9zhEo3Gorma) | 4:40 |
 | 64 | [夢見る少女じゃいられない](https://open.spotify.com/track/4weY9jkPw2d1daBnhHhacD) | [Nanase Aikawa](https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk) | [Red](https://open.spotify.com/album/4FrooSyN6shIGMvXYwdmW5) | 4:18 |

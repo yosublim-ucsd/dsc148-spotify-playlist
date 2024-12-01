@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Everydaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,450 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,453 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 2 | [Leaveyourlove \(with Cosmos People, HAOTING from Sunset Rollercoaster\)](https://open.spotify.com/track/3NpOFREVwEWhwNFZhnD5F5) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA), [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G), [Sunset Rollercoaster](https://open.spotify.com/artist/5ZvgU6EOPllBYKTDDWI6kr), [HAOTING](https://open.spotify.com/artist/4QcyxiPSZK5SzPyjmqapHD) | [Leaveyourlove](https://open.spotify.com/album/0XaC8kf08riuHyWDMJfPbQ) | 3:06 |
 | 3 | [Take You to the Universe](https://open.spotify.com/track/0RICMzzz6s43MgbTsuTIQQ) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [A Room in Brockley](https://open.spotify.com/album/6N2xKkzQQK9wz6On1LDKWW) | 3:47 |
 | 4 | [Beautiful Girl](https://open.spotify.com/track/01IOeW1Synu58ngfmXbEGh) | [Jimmy KUAN](https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox) | [Beautiful Girl](https://open.spotify.com/album/4k3B8N8nrfcssWsDOl3bA7) | 2:45 |
-| 5 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:07 |
+| 5 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:10 |
 | 6 | [HEAT](https://open.spotify.com/track/6o7n7ivMPF4E0N3Wwxz09J) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [HEAT](https://open.spotify.com/album/6LBQhdFWbqpfQRamiVWAF5) | 3:32 |
 | 7 | [星牛Space Cowboy](https://open.spotify.com/track/2v1XKZScj9M1NsmMZnCQZt) | [DJ SON666](https://open.spotify.com/artist/5cgN93xzHu4TYOKq0chcP2) | [IMAGINATE](https://open.spotify.com/album/65h9AtfR0gAf9qHAv5orbB) | 2:15 |
 | 8 | [別遺棄 Aka Sawadan](https://open.spotify.com/track/0FaTG6eBxRQA3ypScbLibZ) | [漂流出口](https://open.spotify.com/artist/2MTlHJpV27LEGE9HYVBGxy) | [波流水 Drifting](https://open.spotify.com/album/7auaP75uIUozKcWWBtshyT) | 5:05 |

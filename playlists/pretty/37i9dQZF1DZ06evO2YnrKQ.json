@@ -1,12 +1,12 @@
 {
   "description": "This is Alexisonfire. The essential tracks, all in one playlist.",
-  "num_followers": 22639,
+  "num_followers": 22642,
   "original_name": "This Is Alexisonfire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAAElDIYe3LpUWtF2rhy24EZ",
+  "snapshot_id": "Z0kEAAAAAAC7xc2pet4+W4mM3EWi18Uj",
   "tracks": [
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Letter",
-        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
+        "name": "Old Crows / Young Cardinals",
+        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 338317,
-      "name": "Midnight Regulations",
-      "url": "https://open.spotify.com/track/2XtMlaDhm09wvKftVAeQv1"
+      "duration_ms": 268000,
+      "name": "The Northern",
+      "url": "https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Crows / Young Cardinals",
-        "url": "https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon"
+        "name": "Death Letter",
+        "url": "https://open.spotify.com/album/1nzD5hWsQN7SRkoCjOY9AW"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
         }
       ],
-      "duration_ms": 268000,
-      "name": "The Northern",
-      "url": "https://open.spotify.com/track/2VPv0LJafL4Gdp67ZWPBDV"
+      "duration_ms": 338317,
+      "name": "Midnight Regulations",
+      "url": "https://open.spotify.com/track/2XtMlaDhm09wvKftVAeQv1"
     },
     {
       "added_at": null,

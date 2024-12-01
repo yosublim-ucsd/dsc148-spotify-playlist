@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-336 songs - 16 hr 36 min
+337 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [BEZU](https://open.spotify.com/track/5Nvb6ZXeAoBDhXBlpDVNLK) | [Valaire](https://open.spotify.com/artist/3wW4s7QuPnmqVUhwkLSTkj), [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [BEZU](https://open.spotify.com/album/3hPUNBUJVZ6QLu29pMQ9FF) | 3:04 | 2023-08-22 | 2024-09-30 |
 | [Birds](https://open.spotify.com/track/6o1mhFF1NpGQqR3usVLSLk) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [Birds](https://open.spotify.com/album/6Y8nFCKVLh1eJATqh2xvgW) | 2:19 | 2024-10-06 |  |
 | [Bitter Suite](https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [Beginner's Mind](https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb) | 5:46 | 2023-08-22 |  |
-| [Bliss](https://open.spotify.com/track/4QCTym40whAtKA9Z9GOCgk) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Bliss](https://open.spotify.com/album/06jmrlWpFzH67yy8ApWIud) | 2:05 | 2024-09-27 |  |
+| [Bliss](https://open.spotify.com/track/4QCTym40whAtKA9Z9GOCgk) | [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Bliss](https://open.spotify.com/album/06jmrlWpFzH67yy8ApWIud) | 2:05 | 2024-09-27 | 2024-12-01 |
 | [Bloom Again](https://open.spotify.com/track/7CF54i9tVz3DvZ1gmKeJNo) | [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Bloom Again](https://open.spotify.com/album/5c4VtosW0uCN9jKvnUN87u) | 2:33 | 2024-10-25 |  |
 | [Blue Diver](https://open.spotify.com/track/5QMFT282KkBw65Jn7AJj3G) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Blue Diver](https://open.spotify.com/album/7p7tqXzlwOwusB0FfUvxZ0) | 2:49 | 2024-08-23 |  |
 | [Blue Heart](https://open.spotify.com/track/2sCmLqb2PhUeL4sHw6mp8l) | [Eric Diamond](https://open.spotify.com/artist/7uLxDJELvSU1oFe1V7jLhW), [RMB Justize](https://open.spotify.com/artist/2xLhxXgR236ZtWjZOfa0Kd) | [Blue Heart](https://open.spotify.com/album/2HtQz0eVFEMY8iZjK4NxOF) | 2:28 | 2023-12-01 |  |
@@ -141,6 +141,7 @@
 | [Imaginary](https://open.spotify.com/track/2w6LzuwyGCAV75dlAPcNBN) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Imaginary](https://open.spotify.com/album/4JJpW8XDzme7pqCiyZjyKN) | 2:02 | 2024-11-08 |  |
 | [In the Backseat](https://open.spotify.com/track/4vI1kjJ48bbpIf7ByHFzUu) | [MAS](https://open.spotify.com/artist/1YHFdanyCXr7QH2yK5g1Lm), [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [In the Backseat](https://open.spotify.com/album/06C0oK1SNXafHXh9HqeNHo) | 2:33 | 2024-08-23 |  |
 | [In The Sky: Expansion](https://open.spotify.com/track/2QzcFvVKIW2mRlzY2wj9j7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [In The Sky: Expansion](https://open.spotify.com/album/2BIbX9LwhyPh88n7oF13h6) | 6:24 | 2023-08-25 | 2024-09-08 |
+| [Indica Badu](https://open.spotify.com/track/283WNLow8l5Opa1q1VmLVQ) | [Daemon](https://open.spotify.com/artist/0diXRBzOdGZ4i0TKs8Xakh) | [Indica Badu](https://open.spotify.com/album/0RrAnODx9ARkS8gHBVnyYB) | 2:08 | 2024-11-29 |  |
 | [Inertia](https://open.spotify.com/track/04NKxmRQDeHqwRlKTSQ3n7) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Mononome](https://open.spotify.com/artist/23Xbt1RdcMA2glA3aeHtZ3), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Inertia](https://open.spotify.com/album/35ETAV4nlIN6LW3CYRj8Y0) | 2:12 | 2024-10-18 |  |
 | [Inner Peace](https://open.spotify.com/track/0EncdyFKNletEI25jFT3Ao) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Natty Reeves](https://open.spotify.com/artist/1fsSvgFWoQcgRDGyG6ZY64) | [Inner Peace](https://open.spotify.com/album/0oR0oXCg9PwlH5b0OglHBI) | 3:06 | 2023-08-22 | 2023-08-26 |
 | [Inside Out](https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 5:21 | 2023-08-22 | 2024-04-19 |

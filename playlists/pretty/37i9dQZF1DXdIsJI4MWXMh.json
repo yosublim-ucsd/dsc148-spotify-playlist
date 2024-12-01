@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 70171,
+  "num_followers": 70186,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "\u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
-      },
-      "artists": [
-        {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
-        }
-      ],
-      "duration_ms": 213529,
-      "name": "El Amante Apasionado",
-      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "Escribiendo Nuestra Historia",
         "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 200707,
       "name": "Si Te Falta Alguien",
       "url": "https://open.spotify.com/track/68IpmmsVKuLYXy3IHXSO5l"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "\u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+      },
+      "artists": [
+        {
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+        }
+      ],
+      "duration_ms": 213529,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
+        "name": "Princesita M\u00eda",
+        "url": "https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros de Plata",
+          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+        }
+      ],
+      "duration_ms": 391733,
+      "name": "Te Amo y Te Amar\u00e9",
+      "url": "https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
         "name": "La Fiesta de Koky",
         "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 303349,
       "name": "Tus Maletas Ya Est\u00e1s en la Puerta",
       "url": "https://open.spotify.com/track/62udtrscsiWeJSONUvIZ0U"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "Lo Mejor 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
-      },
-      "artists": [
-        {
-          "name": "Rene Inostroza",
-          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
-        }
-      ],
-      "duration_ms": 154746,
-      "name": "La Guaracha del Fay Fay",
-      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -483,34 +483,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Princesita M\u00eda",
-        "url": "https://open.spotify.com/album/6kTtSL54fq8ISSk4d95L5Z"
+        "name": "Lo Mejor 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
       },
       "artists": [
         {
-          "name": "Los Rancheros de Plata",
-          "url": "https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK"
+          "name": "Rene Inostroza",
+          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
         }
       ],
-      "duration_ms": 391733,
-      "name": "Te Amo y Te Amar\u00e9",
-      "url": "https://open.spotify.com/track/1S9uBRXAELOLZX0G9iCrCY"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "Cumpliendo Sue\u00f1os",
-        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
-      },
-      "artists": [
-        {
-          "name": "Amor Sure\u00f1o",
-          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
-        }
-      ],
-      "duration_ms": 268031,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u"
+      "duration_ms": 154746,
+      "name": "La Guaracha del Fay Fay",
+      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -527,6 +511,22 @@
       "duration_ms": 275676,
       "name": "Ya Sup\u00e9rame",
       "url": "https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Cumpliendo Sue\u00f1os",
+        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
+      },
+      "artists": [
+        {
+          "name": "Amor Sure\u00f1o",
+          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
+        }
+      ],
+      "duration_ms": 268031,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/7huxeti3G0pilltnUI3l6u"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Qu\u00e9date con el",
-        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
-      },
-      "artists": [
-        {
-          "name": "Sin Rivales de Punitaqui",
-          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
-        }
-      ],
-      "duration_ms": 328974,
-      "name": "Ahora por unas monedas",
-      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "Escribiendo Nuestra Historia",
         "url": "https://open.spotify.com/album/5XE8kPI7VGYBwczrlaL1Xb"
       },
@@ -635,6 +619,38 @@
       "duration_ms": 337535,
       "name": "Dime Qui\u00e9n Es",
       "url": "https://open.spotify.com/track/0zDe228b8oKWJy6mzRSv2w"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Cumpliendo Sue\u00f1os",
+        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
+      },
+      "artists": [
+        {
+          "name": "Amor Sure\u00f1o",
+          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
+        }
+      ],
+      "duration_ms": 258616,
+      "name": "Simplemente Amigos",
+      "url": "https://open.spotify.com/track/2TwD17Rh4xZH9YO585V0AU"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Qu\u00e9date con el",
+        "url": "https://open.spotify.com/album/14YwCCN4AgfFiN4hodKPiy"
+      },
+      "artists": [
+        {
+          "name": "Sin Rivales de Punitaqui",
+          "url": "https://open.spotify.com/artist/5Z5cJSVcSJYXufu4wuF2KL"
+        }
+      ],
+      "duration_ms": 328974,
+      "name": "Ahora por unas monedas",
+      "url": "https://open.spotify.com/track/1erKBpcUesKt1298eTTDOQ"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -671,18 +687,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Cumpliendo Sue\u00f1os",
-        "url": "https://open.spotify.com/album/5PqDgVf5GtuvqJeRILqIiy"
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
       },
       "artists": [
         {
-          "name": "Amor Sure\u00f1o",
-          "url": "https://open.spotify.com/artist/1Qa7X1aFkcKCuA8B5XHw2y"
+          "name": "Los Bohemios de Chile",
+          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
         }
       ],
-      "duration_ms": 258616,
-      "name": "Simplemente Amigos",
-      "url": "https://open.spotify.com/track/2TwD17Rh4xZH9YO585V0AU"
+      "duration_ms": 252651,
+      "name": "Deja de Llorar",
+      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
-      },
-      "artists": [
-        {
-          "name": "Los Bohemios de Chile",
-          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
-        }
-      ],
-      "duration_ms": 252651,
-      "name": "Deja de Llorar",
-      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "Siempre en Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R"
       },
@@ -739,42 +739,6 @@
       "duration_ms": 311016,
       "name": "No Te Creas Tan Importante",
       "url": "https://open.spotify.com/track/1xew4s5581HZOaES46OSTN"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "Una Cerveza (Remix)",
-        "url": "https://open.spotify.com/album/5LgepBhce1HDTSO8Ko6e1G"
-      },
-      "artists": [
-        {
-          "name": "Grupo Z\u00fambale Primo",
-          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
-        },
-        {
-          "name": "Rodrigo Tapari",
-          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
-        }
-      ],
-      "duration_ms": 196121,
-      "name": "Una Cerveza - Remix",
-      "url": "https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "Rom\u00e1nticos De La Cumbia",
-        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
-      },
-      "artists": [
-        {
-          "name": "Los Supercumbieros de Galvarino",
-          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
-        }
-      ],
-      "duration_ms": 283637,
-      "name": "L\u00e1grimas Frente Al Mar",
-      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -795,6 +759,42 @@
       "duration_ms": 279840,
       "name": "Por Debajo del Agua",
       "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Rom\u00e1nticos De La Cumbia",
+        "url": "https://open.spotify.com/album/6kKzbk6N2ETObv20GHtUU3"
+      },
+      "artists": [
+        {
+          "name": "Los Supercumbieros de Galvarino",
+          "url": "https://open.spotify.com/artist/4oRCNvfODxOI6kQ8dLdcq9"
+        }
+      ],
+      "duration_ms": 283637,
+      "name": "L\u00e1grimas Frente Al Mar",
+      "url": "https://open.spotify.com/track/2ViguB6mM2tIdesiPtowFV"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Una Cerveza (Remix)",
+        "url": "https://open.spotify.com/album/5LgepBhce1HDTSO8Ko6e1G"
+      },
+      "artists": [
+        {
+          "name": "Grupo Z\u00fambale Primo",
+          "url": "https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "duration_ms": 196121,
+      "name": "Una Cerveza - Remix",
+      "url": "https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K"
+      },
+      "artists": [
+        {
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 265789,
+      "name": "La Noche Perfecta",
+      "url": "https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
         "name": "La Fiesta de Koky",
         "url": "https://open.spotify.com/album/3ExrYJUNGwdwLIhdexPKvd"
       },
@@ -915,42 +935,6 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
-      },
-      "artists": [
-        {
-          "name": "Los Halcones Negros",
-          "url": "https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS"
-        }
-      ],
-      "duration_ms": 267186,
-      "name": "Sola Con Mi Soledad / Y Voy a Ser Feliz",
-      "url": "https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
-        }
-      ],
-      "duration_ms": 265789,
-      "name": "La Noche Perfecta",
-      "url": "https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
         "name": "El Intruso",
         "url": "https://open.spotify.com/album/2oFmdj1zogoYfH39ygi1lz"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 205746,
       "name": "El Intruso",
       "url": "https://open.spotify.com/track/12NcQ0WVvaxDNcmqeLOw12"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
+      },
+      "artists": [
+        {
+          "name": "Los Halcones Negros",
+          "url": "https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS"
+        }
+      ],
+      "duration_ms": 267186,
+      "name": "Sola Con Mi Soledad / Y Voy a Ser Feliz",
+      "url": "https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
+      },
+      "artists": [
+        {
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "Sombrero Vaquero",
+      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
         "name": "Me Voy a Lanzar",
         "url": "https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 200248,
       "name": "La Diuca",
       "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
-      },
-      "artists": [
-        {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "Sombrero Vaquero",
-      "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Relatos de Mi Vida",
-        "url": "https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g"
+        "name": "Para Mi Gente Campesina",
+        "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
       },
       "artists": [
         {
-          "name": "Los Rancheros De Rio Maule",
-          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+          "name": "Rel\u00e1mpagos de Chile",
+          "url": "https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD"
         }
       ],
-      "duration_ms": 264448,
-      "name": "Cantina de Mi Barrio",
-      "url": "https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3"
+      "duration_ms": 192776,
+      "name": "Vivo la Vida",
+      "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
+        "name": "Relatos de Mi Vida",
+        "url": "https://open.spotify.com/album/1GnYrWZ2wYT2ud9NjYfD3g"
+      },
+      "artists": [
+        {
+          "name": "Los Rancheros De Rio Maule",
+          "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
+        }
+      ],
+      "duration_ms": 264448,
+      "name": "Cantina de Mi Barrio",
+      "url": "https://open.spotify.com/track/2DvRbLLYXSNuzwdwr0Ymi3"
+    },
+    {
+      "added_at": "2024-10-14 19:21:32",
+      "album": {
         "name": "Entre el Amor y el Odio",
         "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2024-10-14 19:21:32",
       "album": {
-        "name": "Para Mi Gente Campesina",
-        "url": "https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE"
+        "name": "El Sol No Regresa",
+        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
       },
       "artists": [
         {
-          "name": "Rel\u00e1mpagos de Chile",
-          "url": "https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD"
+          "name": "LOS FLORES DE YUNGAY",
+          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
         }
       ],
-      "duration_ms": 192776,
-      "name": "Vivo la Vida",
-      "url": "https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV"
+      "duration_ms": 174474,
+      "name": "El Sol No Regresa",
+      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2024-10-14 19:21:32",
@@ -1199,22 +1215,6 @@
       "duration_ms": 232190,
       "name": "La Pagar\u00e1s",
       "url": "https://open.spotify.com/track/6e3m4DljhPz53HKhaFqsky"
-    },
-    {
-      "added_at": "2024-10-14 19:21:32",
-      "album": {
-        "name": "El Sol No Regresa",
-        "url": "https://open.spotify.com/album/2XMrbnwRqoQDNnBNpINrBH"
-      },
-      "artists": [
-        {
-          "name": "LOS FLORES DE YUNGAY",
-          "url": "https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "El Sol No Regresa",
-      "url": "https://open.spotify.com/track/2G547gJdbWyrQWqBwPmKpt"
     },
     {
       "added_at": "2024-10-14 19:21:32",

@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-2,357 songs - 5 day 10 hr 21 min
+2,358 songs - 5 day 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1627,6 +1627,7 @@
 | [Popular](https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Wicked: The Soundtrack](https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT) | 4:01 | 2024-11-22 | 2024-11-30 |
 | [por la pequeña Venecia](https://open.spotify.com/track/0SFvSc2qggsVQqnfYzeCv4) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [venequia.](https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet) | 3:02 | 2024-07-19 | 2024-07-27 |
 | [Por Si Mañana No Estoy](https://open.spotify.com/track/5z2MwP7ajltQdy6aaq878q) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Por Si Mañana No Estoy](https://open.spotify.com/album/5s9VvQAkDbNI5jSkXXkHS5) | 2:34 | 2024-06-07 | 2024-06-15 |
+| [Por Ti Por Mi](https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [Por Ti Por Mi](https://open.spotify.com/album/7CS99n3NOYshqMOheiw7b2) | 3:00 | 2024-11-30 |  |
 | [Por todo](https://open.spotify.com/track/39rpT7UJ8Ut4xYsHimKGmm) | [Dani Vega](https://open.spotify.com/artist/29oSEehYT6zQtT2gZ13hIa) | [Por todo](https://open.spotify.com/album/5mflKRMl2P6UCfD7JkYC5u) | 3:43 | 2024-10-11 | 2024-10-19 |
 | [Porcelain](https://open.spotify.com/track/0EBgf7rDE0RXJhMKF12z92) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Porcelain](https://open.spotify.com/album/4X1TXs71LSQtlLQeL4uPNR) | 2:30 | 2024-10-03 | 2024-10-12 |
 | [postal de verano </3](https://open.spotify.com/track/320uzJxlSgvg7cNAL8gPFG) | [valverdina](https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS), [TURIAN BOY](https://open.spotify.com/artist/1eSwgui2FpnjUczhPdCuvb) | [postal de verano](https://open.spotify.com/album/28Y2zHNJ8X5AJrrjA5NqK5) | 2:38 | 2024-08-23 | 2024-08-31 |

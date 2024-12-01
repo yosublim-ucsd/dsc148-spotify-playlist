@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 
 > Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,650 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,659 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Fgg5RrYu6I.md) - [plain]
 | 17 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 |
 | 18 | [Curated by HONG YE JI](https://open.spotify.com/track/2F3e5D3hPO38akyly0RNN9) | [HONG YE JI](https://open.spotify.com/artist/2QajC2asc2OS5VLfQ2Orxe) | [Missing Crown Prince Audio Liners](https://open.spotify.com/album/3YJ1MtRCQ2YdDPY5QJxQwG) | 0:23 |
 | 19 | [Tiger is Coming](https://open.spotify.com/track/3zBDNnUOioHl3sN9iF5xl5) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [SUGUNGGA](https://open.spotify.com/album/5UqbnRVtyrrGrBeKP0KeYW) | 5:31 |
-| 20 | [Hello, Lonely](https://open.spotify.com/track/3SPUJNWAZh1kHVHfIRMXWf) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 3:57 |
+| 20 | [Hello, Lonely](https://open.spotify.com/track/3SPUJNWAZh1kHVHfIRMXWf) | [ADG7](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [Such is Life](https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD) | 3:57 |
 | 21 | [청춘가](https://open.spotify.com/track/0uxxTV4eEUHh6AUvWmIQsD) | [SsingSsing](https://open.spotify.com/artist/5F2YenfQusRVzdHq6RWpw9) | [SSINGSSING](https://open.spotify.com/album/50Dd5fqlWB9YDZ1WdAJW8o) | 4:07 |
 | 22 | [Ritual Dance](https://open.spotify.com/track/5hdIAY7Vnb2w2NPOAocWsQ) | [CHUDAHYE CHAGIS](https://open.spotify.com/artist/3ttQR1taRsySrYIc2U3iAA) | [Underneath the Dangsan Tree Tonight](https://open.spotify.com/album/4SkfT9eMrYvk41vRVRXwX0) | 5:22 |
 | 23 | [어허구자](https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY) | [Lee Heemoon](https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G), [Heosongsewol](https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS), [NomNom](https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc) | [SPANGLE](https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49) | 4:38 |

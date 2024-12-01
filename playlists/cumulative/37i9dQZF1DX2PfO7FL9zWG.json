@@ -4272,7 +4272,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 160097,
       "name": "Ophelia",
       "url": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
@@ -5658,6 +5658,24 @@
       "duration_ms": 218011,
       "name": "The Lullaby (My Oldest Love)",
       "url": "https://open.spotify.com/track/7kLmS1sVZJTzvHYdurvNyy"
+    },
+    {
+      "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/2EhgysAt5fY85LYceFFpbE"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "date_added": "2024-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231826,
+      "name": "The Magician",
+      "url": "https://open.spotify.com/track/62x2pgvYu0cMP4gfNpbTP9"
     },
     {
       "album": {

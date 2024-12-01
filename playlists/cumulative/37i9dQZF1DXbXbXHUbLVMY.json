@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 138754,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/1Y23sm3HjBKm0FZ48KQAL8"
@@ -2146,6 +2146,24 @@
       "duration_ms": 146750,
       "name": "HBB",
       "url": "https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L"
+    },
+    {
+      "album": {
+        "name": "MEST ELSKET & Hatet - Deluxe",
+        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111214,
+      "name": "Hel/Halv",
+      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
     },
     {
       "album": {

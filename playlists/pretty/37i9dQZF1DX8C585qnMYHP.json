@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 180389,
+  "num_followers": 180518,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-10-23 05:18:13",
       "album": {
-        "name": "Video Music",
-        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 129554,
-      "name": "Video Music",
-      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
-    },
-    {
-      "added_at": "2024-10-23 05:18:13",
-      "album": {
         "name": "Ancient DNA",
         "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
       },
@@ -803,22 +787,6 @@
       "duration_ms": 163097,
       "name": "Ancient DNA",
       "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
-    },
-    {
-      "added_at": "2024-08-14 14:21:25",
-      "album": {
-        "name": "Hooked Paw",
-        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
-      },
-      "artists": [
-        {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
-        }
-      ],
-      "duration_ms": 363483,
-      "name": "Sky Hooks",
-      "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -845,6 +813,38 @@
       "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
     },
     {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Hooked Paw",
+        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
+    },
+    {
+      "added_at": "2024-10-23 05:18:13",
+      "album": {
+        "name": "Video Music",
+        "url": "https://open.spotify.com/album/65XWU9TnZ9tmqlH2mmDdf3"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 129554,
+      "name": "Video Music",
+      "url": "https://open.spotify.com/track/3k9pKrQnJbFxZMqVvyDD9F"
+    },
+    {
       "added_at": "2024-09-18 04:00:00",
       "album": {
         "name": "Blue Note",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/3ukcMPzV23eKxUKLmQQtEZ"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI"
-      },
-      "artists": [
-        {
-          "name": "Lava Gulls",
-          "url": "https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t"
-        }
-      ],
-      "duration_ms": 224552,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Frutaria Electr\u200b\u00f3\u200bnica",
@@ -891,6 +875,22 @@
       "duration_ms": 280500,
       "name": "Maracuja Lounge",
       "url": "https://open.spotify.com/track/5155fLceNWyzwO0Q67dkln"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/4uAMrL2VP2EYpDR16HTbyI"
+      },
+      "artists": [
+        {
+          "name": "Lava Gulls",
+          "url": "https://open.spotify.com/artist/4tqc0XlRGaklwmzbfcH13t"
+        }
+      ],
+      "duration_ms": 224552,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1TelNX4qCZJ9RukqQN35rD"
     },
     {
       "added_at": "2024-06-19 06:00:00",
@@ -961,6 +961,22 @@
       "url": "https://open.spotify.com/track/63xuCdSClTjX06vguT7yZB"
     },
     {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "EXCELSIOR",
+        "url": "https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E"
+      },
+      "artists": [
+        {
+          "name": "Slauson Malone 1",
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+        }
+      ],
+      "duration_ms": 65471,
+      "name": "Arms, Armor",
+      "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "retrofit",
@@ -1013,22 +1029,6 @@
       "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "EXCELSIOR",
-        "url": "https://open.spotify.com/album/364BvIMiL3BsjqTJ9teX1E"
-      },
-      "artists": [
-        {
-          "name": "Slauson Malone 1",
-          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
-        }
-      ],
-      "duration_ms": 65471,
-      "name": "Arms, Armor",
-      "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
-    },
-    {
       "added_at": "2024-10-23 05:18:13",
       "album": {
         "name": "Coraz\u00f3n",
@@ -1059,22 +1059,6 @@
       "duration_ms": 155000,
       "name": "Baraka",
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -1111,6 +1095,22 @@
     {
       "added_at": "2024-10-02 15:46:42",
       "album": {
+        "name": "Enfrente",
+        "url": "https://open.spotify.com/album/0gTYBqs6bnAR2t9tv9geJK"
+      },
+      "artists": [
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 243523,
+      "name": "Enfrente",
+      "url": "https://open.spotify.com/track/0DqPfJDPSgfx1MxA5HFs24"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
         "name": "Atlas Dive",
         "url": "https://open.spotify.com/album/0ogHWzJwJjLJVtHnpYNJmJ"
       },
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/2EwhzgutwSHK8xOkFvzrxx"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "Enfrente",
-        "url": "https://open.spotify.com/album/0gTYBqs6bnAR2t9tv9geJK"
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
       },
       "artists": [
         {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
         }
       ],
-      "duration_ms": 243523,
-      "name": "Enfrente",
-      "url": "https://open.spotify.com/track/0DqPfJDPSgfx1MxA5HFs24"
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "A Diosa (Non potho reposare)",
-        "url": "https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f"
-      },
-      "artists": [
-        {
-          "name": "Vieri Cervelli Montel",
-          "url": "https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL"
-        }
-      ],
-      "duration_ms": 600010,
-      "name": "A Diosa (Non potho reposare)",
-      "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
         "name": "Palloon EP",
         "url": "https://open.spotify.com/album/2TecJf7xnoNCZr3apHiQt3"
       },
@@ -1277,36 +1261,20 @@
       "url": "https://open.spotify.com/track/1e96C1vkds1XDSZpHxFClZ"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "Panamanian Nights",
-        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
+        "name": "A Diosa (Non potho reposare)",
+        "url": "https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f"
       },
       "artists": [
         {
-          "name": "SONSO",
-          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
+          "name": "Vieri Cervelli Montel",
+          "url": "https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL"
         }
       ],
-      "duration_ms": 181818,
-      "name": "Afro American",
-      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Cmad",
-        "url": "https://open.spotify.com/album/6EwXI5ZxoVH8KwBxuFXiC7"
-      },
-      "artists": [
-        {
-          "name": "Long Legged Creatures",
-          "url": "https://open.spotify.com/artist/7gayjJRBZkCP9mxgYCyf67"
-        }
-      ],
-      "duration_ms": 295392,
-      "name": "Cmad",
-      "url": "https://open.spotify.com/track/5PuEiHEqmV72PSPxrV36He"
+      "duration_ms": 600010,
+      "name": "A Diosa (Non potho reposare)",
+      "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1325,20 +1293,36 @@
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "Circle Games",
-        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+        "name": "Cmad",
+        "url": "https://open.spotify.com/album/6EwXI5ZxoVH8KwBxuFXiC7"
       },
       "artists": [
         {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+          "name": "Long Legged Creatures",
+          "url": "https://open.spotify.com/artist/7gayjJRBZkCP9mxgYCyf67"
         }
       ],
-      "duration_ms": 217475,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
+      "duration_ms": 295392,
+      "name": "Cmad",
+      "url": "https://open.spotify.com/track/5PuEiHEqmV72PSPxrV36He"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Panamanian Nights",
+        "url": "https://open.spotify.com/album/1lp9XiGUEe85GrJ3bbnXwx"
+      },
+      "artists": [
+        {
+          "name": "SONSO",
+          "url": "https://open.spotify.com/artist/613zfU2lmskvtDCmtvdpQz"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "Afro American",
+      "url": "https://open.spotify.com/track/5ZvSy3UWtBl2ZJBUZ3dfqu"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1359,6 +1343,22 @@
       "duration_ms": 172453,
       "name": "Detach",
       "url": "https://open.spotify.com/track/0Las26koi1XNMPme6fOxcD"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 217475,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "Plays Stewart Copeland",
-        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
-      },
-      "artists": [
-        {
-          "name": "Elbtonal Percussion",
-          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "The Mud Lions",
-      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
         "name": "(The Circle) of Compassion",
         "url": "https://open.spotify.com/album/17VW4G1b7ZO3JYcaDHfQqi"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 498000,
       "name": "(The Circle) of Compassion",
       "url": "https://open.spotify.com/track/69iki2OCAf8NhrLCxeYVOh"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Plays Stewart Copeland",
+        "url": "https://open.spotify.com/album/0jNrPsoL9SCu7oBffUJuzm"
+      },
+      "artists": [
+        {
+          "name": "Elbtonal Percussion",
+          "url": "https://open.spotify.com/artist/4jU6qaM5xefdW9O12GXX7L"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "The Mud Lions",
+      "url": "https://open.spotify.com/track/69mRQWc56zEKt1YLQZLANw"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1477,6 +1477,26 @@
       "url": "https://open.spotify.com/track/7oUWVXld8maQDdEQjXZmEZ"
     },
     {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Framework 1 (Vladislav Delay Remix)",
+        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        },
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "Framework 1 (Vladislav Delay Remix)",
+      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
+    },
+    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "Magia Lumen",
@@ -1513,24 +1533,20 @@
       "url": "https://open.spotify.com/track/5poF74If353m5g0i48T3lQ"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
+      "added_at": "2024-09-18 04:00:00",
       "album": {
-        "name": "Framework 1 (Vladislav Delay Remix)",
-        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
+        "name": "Within",
+        "url": "https://open.spotify.com/album/3YuHGnQhaLBhm276RXe3Ga"
       },
       "artists": [
         {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        },
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+          "name": "AINON",
+          "url": "https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT"
         }
       ],
-      "duration_ms": 266573,
-      "name": "Framework 1 (Vladislav Delay Remix)",
-      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
+      "duration_ms": 161840,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1547,22 +1563,6 @@
       "duration_ms": 219057,
       "name": "bruised",
       "url": "https://open.spotify.com/track/2mYWLaFIr3hNuG0jugydkz"
-    },
-    {
-      "added_at": "2024-09-18 04:00:00",
-      "album": {
-        "name": "Within",
-        "url": "https://open.spotify.com/album/3YuHGnQhaLBhm276RXe3Ga"
-      },
-      "artists": [
-        {
-          "name": "AINON",
-          "url": "https://open.spotify.com/artist/7a0H0OiJk6KqY3gOG3nVQT"
-        }
-      ],
-      "duration_ms": 161840,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/6YNQo1WdLbjLeQgAnedmWV"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-10-09 01:34:34",
       "album": {
+        "name": "Cosmic Flute Rides Again",
+        "url": "https://open.spotify.com/album/5jeY5UDKprTPQuPX8VBKig"
+      },
+      "artists": [
+        {
+          "name": "NTHNL",
+          "url": "https://open.spotify.com/artist/5QryVzY6vVbE1gej2L42ux"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Full Spectrum",
+      "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
         "name": "Between Waves",
         "url": "https://open.spotify.com/album/2hvtxkK37YEuRkWhbyq1Cf"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 389784,
       "name": "Picture This",
       "url": "https://open.spotify.com/track/134DrSkUPyqcN2gHkjPop8"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Cosmic Flute Rides Again",
-        "url": "https://open.spotify.com/album/5jeY5UDKprTPQuPX8VBKig"
-      },
-      "artists": [
-        {
-          "name": "NTHNL",
-          "url": "https://open.spotify.com/artist/5QryVzY6vVbE1gej2L42ux"
-        }
-      ],
-      "duration_ms": 253613,
-      "name": "Full Spectrum",
-      "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
     },
     {
       "added_at": "2024-10-09 01:34:34",

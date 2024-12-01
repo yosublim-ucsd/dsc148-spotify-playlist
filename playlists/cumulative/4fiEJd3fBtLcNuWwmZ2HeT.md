@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-254 songs - 14 hr 29 min
+256 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Phony](https://open.spotify.com/track/0easKsHTKz3x4OayMKoZET) | [Xiulan Long](https://open.spotify.com/artist/4rUM4AisHJilVENH56wqCY) | [Phony](https://open.spotify.com/album/1ndZLzQ1XDrFz2Lq4S2TCV) | 3:09 | 2024-03-25 |  |
 | [Pink](https://open.spotify.com/track/5KI8zXj9lxLr1goQoGYaIA) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Pink](https://open.spotify.com/album/51KEnPmInGx4cXyBIISzgj) | 3:42 | 2022-11-11 |  |
 | [PINK](https://open.spotify.com/track/3KhODlXNFUONL8CdqEmd1d) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [BIPOLAR](https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9) | 2:56 | 2023-10-23 |  |
+| [Por Que](https://open.spotify.com/track/7hNdWx6prYB4xmpG25eTAT) | [Amilcar Boscan](https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L) | [Realidades](https://open.spotify.com/album/5grCaFumwBjBTbEgxKwqLm) | 4:48 | 2024-11-30 |  |
 | [QUEEN OF THE NIGHT](https://open.spotify.com/track/1gO9SZTzqUOdCpGaU6eRlS) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [QUEEN OF THE NIGHT](https://open.spotify.com/album/6kKMUex64mP35JZpbRp3Ma) | 2:44 | 2024-04-06 |  |
 | [R.I.P\. Gossip Sea](https://open.spotify.com/track/7xz8uuhmnW80qujTXrtX2N) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [Gossip Sea](https://open.spotify.com/album/2shWfyRGHT8C3k5NeygiWU) | 3:39 | 2022-11-11 |  |
 | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/track/5vR8dVVGrEBYoso2InjuKo) | [ミコ吉](https://open.spotify.com/artist/1Q9WuPC9wFV6V8BBeR7GEF), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/album/3d2gch75FvpDfumKzaojoo) | 4:48 | 2023-11-27 |  |
@@ -141,6 +142,7 @@
 | [This Close](https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Memento Mori \(Expanded\)](https://open.spotify.com/album/1zRqUHW8OiYDVAJtJ1OdKg) | 3:19 | 2024-08-19 |  |
 | [Toge](https://open.spotify.com/track/11SRHDplDfjSEYgisBy6bp) | [Shinra\-Bansho](https://open.spotify.com/artist/0hvH9m3WODkzWWyW2gktx6) | [ARMAGEDDON](https://open.spotify.com/album/5UD8Yl63ARC5bAX2JXSLvN) | 4:01 | 2023-12-04 |  |
 | [Tokyo Teddy Bear](https://open.spotify.com/track/1OTkrip8I6EW5ap78axkyg) | [Neru](https://open.spotify.com/artist/0rhcL1Mw7J9YJRDpD6mhXr), [IKASAN](https://open.spotify.com/artist/4Qzhz2dk7HtbC69WJUtVjF) | [Bokukara No Saishuu Teiri](https://open.spotify.com/album/4sVkAuyfAayJ1DQU4oMgLY) | 3:12 | 2021-10-24 |  |
+| [Touch You](https://open.spotify.com/track/6qWEpnyU43Bcrx3vfbGuVm) | [遠野高志](https://open.spotify.com/artist/3dkW1L7GIhispeiHo9uzM8), [加島優](https://open.spotify.com/artist/3ynBix87InXjEn5L9LsAWB), [矢口恭介](https://open.spotify.com/artist/4CkENaPbZ3CSwB7kAbzTE1), [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO), [百合絢斗](https://open.spotify.com/artist/5nEXLz5Qwkcv8d91fP4Cjo), [田村唯](https://open.spotify.com/artist/4tF37PbmfGwti71JKUI1pz), [明美圭一](https://open.spotify.com/artist/6l15fzba4HWiYgbX7ji3NQ), [糸目幸士郎](https://open.spotify.com/artist/0t1H6voah4Js1hbu2EPUqx), [鹿谷樹](https://open.spotify.com/artist/7u0iN4XxPpkIk9KRcLQXDa) | [アニメ『ヤリチン☆ビッチ部』主題歌「Touch You」](https://open.spotify.com/album/2rQlPhe76mnmviBmjHdS89) | 3:26 | 2024-11-30 |  |
 | [Twilight](https://open.spotify.com/track/6d67Xv8ms2noA8wWFLiPDN) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:48 | 2024-08-15 |  |
 | [undress me](https://open.spotify.com/track/1bwnXBfIQFIBgBtsBADycD) | [Cö shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [Flos Ex Machina](https://open.spotify.com/album/5M0osp4LCf6UcRYnUqwBt8) | 3:14 | 2023-10-16 |  |
 | [Verbatim](https://open.spotify.com/track/266Vb7ItE3o1q8HdJ9QOvn) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Touch Up](https://open.spotify.com/album/40DMb38Z4n5ylfz4n29qt0) | 2:48 | 2022-01-08 |  |

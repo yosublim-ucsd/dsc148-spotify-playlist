@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-254 songs - 11 hr 4 min
+255 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Automatic](https://open.spotify.com/track/3RxlMZgbTxoiGFTaSjX2Hk) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:10 | 2024-01-04 | 2024-04-19 |
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 | 2024-01-10 |
 | [Back it](https://open.spotify.com/track/63YfOgW7RdMqoJFIO8eBJB) | [Britz](https://open.spotify.com/artist/6op6pbdwltqYGxSV8rl5q2), [Pacify](https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Back it](https://open.spotify.com/album/7oPLwcPMW4W8kBZtVYHv0S) | 2:39 | 2024-11-07 |  |
-| [Back It Up](https://open.spotify.com/track/1Y23sm3HjBKm0FZ48KQAL8) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Back It Up](https://open.spotify.com/album/1tdaOMAQN2wuvnScz3m2eK) | 2:18 | 2024-10-31 |  |
+| [Back It Up](https://open.spotify.com/track/1Y23sm3HjBKm0FZ48KQAL8) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Back It Up](https://open.spotify.com/album/1tdaOMAQN2wuvnScz3m2eK) | 2:18 | 2024-10-31 | 2024-12-01 |
 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 | 2024-06-01 |
 | [badshit \(feat\. Tyr\)](https://open.spotify.com/track/36R2cJp6HWmVBsGiGdsqzL) | [anakin justin](https://open.spotify.com/artist/5eg8Q9stSfP38jgkxAKacv), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [badshit \(feat\. Tyr\)](https://open.spotify.com/album/37x9fOfhyHjf2xGE8l8r5I) | 2:30 | 2024-07-11 | 2024-09-09 |
 | [Banana](https://open.spotify.com/track/2EXIXFyWSnJAVzxy4kZQfA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Banana](https://open.spotify.com/album/3qIFOSosWTxUJu0fSpdemE) | 2:10 | 2023-09-21 | 2023-09-24 |
@@ -114,6 +114,7 @@
 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 | 2023-09-21 | 2024-06-01 |
 | [Har du glemt meg?](https://open.spotify.com/track/2tmglsdpzRMGtLZ3tJWk8B) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Har du glemt meg?](https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY) | 2:45 | 2023-09-21 | 2024-06-01 |
 | [HBB](https://open.spotify.com/track/7v687tQvwWBKDe3f7uIP5L) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [HBB](https://open.spotify.com/album/6dK27azNJ8Qu32xTC6G8HF) | 2:26 | 2024-10-10 |  |
+| [Hel/Halv](https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [MEST ELSKET & Hatet \- Deluxe](https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk) | 1:51 | 2024-11-28 |  |
 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 | 2023-11-09 |  |
 | [Hodet Først \(feat\. Siyabång\)](https://open.spotify.com/track/51HoXM7BS3tom5GzMKvPev) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Stikk I Brystet](https://open.spotify.com/album/40d4Icn5bTlx1rtVWV0Td7) | 2:35 | 2024-06-20 | 2024-07-14 |
 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 | 2024-01-11 | 2024-06-01 |

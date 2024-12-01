@@ -851,22 +851,6 @@
     {
       "added_at": "2024-11-19 00:00:00",
       "album": {
-        "name": "#gigi",
-        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142227,
-      "name": "real feel",
-      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
-    },
-    {
-      "added_at": "2024-11-19 00:00:00",
-      "album": {
         "name": "God's Country / Body of Mine",
         "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 131161,
       "name": "Body of Mine",
       "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2024-11-19 00:00:00",
+      "album": {
+        "name": "#gigi",
+        "url": "https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142227,
+      "name": "real feel",
+      "url": "https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb"
     },
     {
       "added_at": "2024-11-19 00:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-11-19 00:00:00",
       "album": {
-        "name": "Mountain out of a Molehill",
-        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 205330,
-      "name": "Mountain out of a Molehill",
-      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
-    },
-    {
-      "added_at": "2024-11-19 00:00:00",
-      "album": {
         "name": "Crumbling",
         "url": "https://open.spotify.com/album/3PuO7se0rm53jYP88EQD5o"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 200699,
       "name": "Crumbling",
       "url": "https://open.spotify.com/track/0dQ99wa8QqUE5I2hjBrV8M"
+    },
+    {
+      "added_at": "2024-11-19 00:00:00",
+      "album": {
+        "name": "Mountain out of a Molehill",
+        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 205330,
+      "name": "Mountain out of a Molehill",
+      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
     },
     {
       "added_at": "2024-11-19 00:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-11-19 00:00:00",
       "album": {
-        "name": "2 Year Itch",
-        "url": "https://open.spotify.com/album/1ZhtlKn7oUMdKBkQ5njhKl"
-      },
-      "artists": [
-        {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
-        }
-      ],
-      "duration_ms": 165068,
-      "name": "2 Year Itch",
-      "url": "https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg"
-    },
-    {
-      "added_at": "2024-11-19 00:00:00",
-      "album": {
         "name": "My Soft Machine (Deluxe)",
         "url": "https://open.spotify.com/album/3grTaYSw0sYx5HEaR2m8Tt"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/75Sj3dduOdCPSL6g2Cpkzu"
+    },
+    {
+      "added_at": "2024-11-19 00:00:00",
+      "album": {
+        "name": "2 Year Itch",
+        "url": "https://open.spotify.com/album/1ZhtlKn7oUMdKBkQ5njhKl"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 165068,
+      "name": "2 Year Itch",
+      "url": "https://open.spotify.com/track/5tIOc6GbyGRnSNCfpTNUPg"
     },
     {
       "added_at": "2024-11-19 00:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-11-19 00:00:00",
       "album": {
-        "name": "Matriarchy",
-        "url": "https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD"
-      },
-      "artists": [
-        {
-          "name": "girli",
-          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "Matriarchy",
-      "url": "https://open.spotify.com/track/5XdkZGcZQXVeh02w9Hzg8l"
-    },
-    {
-      "added_at": "2024-11-19 00:00:00",
-      "album": {
         "name": "PROCESS",
         "url": "https://open.spotify.com/album/49gnJfMCTEctGmp4B6AeU5"
       },
@@ -1371,38 +1355,6 @@
       "duration_ms": 158167,
       "name": "PROCESS",
       "url": "https://open.spotify.com/track/3x6lOFML8ac5n3YXx8SFD0"
-    },
-    {
-      "added_at": "2024-11-19 00:00:00",
-      "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 210826,
-      "name": "The Hit",
-      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
-    },
-    {
-      "added_at": "2024-11-19 00:00:00",
-      "album": {
-        "name": "Friends In Low Places",
-        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Friends In Low Places",
-      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
     },
     {
       "added_at": "2024-11-19 00:00:00",
@@ -1423,6 +1375,54 @@
     {
       "added_at": "2024-11-19 00:00:00",
       "album": {
+        "name": "Matriarchy",
+        "url": "https://open.spotify.com/album/6HQs8QKzR9XRDiJndWwUjD"
+      },
+      "artists": [
+        {
+          "name": "girli",
+          "url": "https://open.spotify.com/artist/4XX9YjNQrHTZfZz3DCX6DP"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "Matriarchy",
+      "url": "https://open.spotify.com/track/5XdkZGcZQXVeh02w9Hzg8l"
+    },
+    {
+      "added_at": "2024-11-19 00:00:00",
+      "album": {
+        "name": "Friends In Low Places",
+        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Friends In Low Places",
+      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
+    },
+    {
+      "added_at": "2024-11-19 00:00:00",
+      "album": {
+        "name": "The Hit",
+        "url": "https://open.spotify.com/album/3I6WD02sgexnaNvRPK5Afu"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 210826,
+      "name": "The Hit",
+      "url": "https://open.spotify.com/track/502BnzJNB8zqqkoamEOJ4R"
+    },
+    {
+      "added_at": "2024-11-19 00:00:00",
+      "album": {
         "name": "sulky baby",
         "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
-    },
-    {
-      "added_at": "2024-11-19 00:00:00",
-      "album": {
-        "name": "Heaven Can Wait",
-        "url": "https://open.spotify.com/album/6dweyz4Y0Uyo3fVrz0vgsD"
-      },
-      "artists": [
-        {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
-        }
-      ],
-      "duration_ms": 215929,
-      "name": "Are You Ready Now?",
-      "url": "https://open.spotify.com/track/4AxcUAv6Y87hSDLl4Lqq2s"
     },
     {
       "added_at": "2024-11-19 00:00:00",
@@ -1475,18 +1459,34 @@
     {
       "added_at": "2024-11-19 00:00:00",
       "album": {
-        "name": "SCUMBAG",
-        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
+        "name": "Heaven Can Wait",
+        "url": "https://open.spotify.com/album/6dweyz4Y0Uyo3fVrz0vgsD"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
         }
       ],
-      "duration_ms": 186910,
-      "name": "SCUMBAG",
-      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
+      "duration_ms": 215929,
+      "name": "Are You Ready Now?",
+      "url": "https://open.spotify.com/track/4AxcUAv6Y87hSDLl4Lqq2s"
+    },
+    {
+      "added_at": "2024-11-19 00:00:00",
+      "album": {
+        "name": "SEWERSTAR",
+        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
+      },
+      "artists": [
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "L.E.E.C.H.E.S",
+      "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
     },
     {
       "added_at": "2024-11-19 00:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-11-19 00:00:00",
       "album": {
-        "name": "SEWERSTAR",
-        "url": "https://open.spotify.com/album/7w2WNWYJs00f05Dt1QwEJp"
+        "name": "SCUMBAG",
+        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
       },
       "artists": [
         {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
         }
       ],
-      "duration_ms": 244000,
-      "name": "L.E.E.C.H.E.S",
-      "url": "https://open.spotify.com/track/30sAUjr9XR0cp9MuILHNsL"
+      "duration_ms": 186910,
+      "name": "SCUMBAG",
+      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
     },
     {
       "added_at": "2024-11-19 00:00:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-11-19 00:00:00",
       "album": {
-        "name": "Exhilarate (feat. Bibi Bourelly)",
-        "url": "https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
-        },
-        {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        }
-      ],
-      "duration_ms": 263122,
-      "name": "Exhilarate (feat. Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N"
-    },
-    {
-      "added_at": "2024-11-19 00:00:00",
-      "album": {
         "name": "I Would Die 4 U",
         "url": "https://open.spotify.com/album/5kDgEnfQkOrcYjl5v2VxbO"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 201534,
       "name": "I Would Die 4 U",
       "url": "https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk"
+    },
+    {
+      "added_at": "2024-11-19 00:00:00",
+      "album": {
+        "name": "Exhilarate (feat. Bibi Bourelly)",
+        "url": "https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        }
+      ],
+      "duration_ms": 263122,
+      "name": "Exhilarate (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N"
     },
     {
       "added_at": "2024-11-19 00:00:00",

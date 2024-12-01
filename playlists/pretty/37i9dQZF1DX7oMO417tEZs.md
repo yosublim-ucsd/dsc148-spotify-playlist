@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > gems from artists carving their own path\. cover: rusowsky, Bb trickz
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,885 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,898 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 6 | [9volt](https://open.spotify.com/track/5jh6yjHTLHetlk96lKLAL4) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Bip / 9volt](https://open.spotify.com/album/2PjwycUpCjf04r7ikWgmao) | 2:45 |
 | 7 | [Babydoll](https://open.spotify.com/track/46YtvsW5mJyp3slPgOhBKD) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Babydoll](https://open.spotify.com/album/3Hdh9SVJcFwTxYNnkwsD3f) | 4:11 |
 | 8 | [Windows XP](https://open.spotify.com/track/3nY2nR1WRkADdHponmQhjK) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:17 |
-| 9 | [киса](https://open.spotify.com/track/05uimeZd86uuzlOvrO1ZDQ) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE), [ruski sixx](https://open.spotify.com/artist/6qW0VYpyZGmwdBt9UgHLNa) | [киса](https://open.spotify.com/album/4FMRKZrnKf6J9PaXzqFMm6) | 2:36 |
+| 9 | [киса](https://open.spotify.com/track/05uimeZd86uuzlOvrO1ZDQ) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE), [ruski sixx](https://open.spotify.com/artist/1NIds7CUWndWI4SiungvXv) | [киса](https://open.spotify.com/album/4FMRKZrnKf6J9PaXzqFMm6) | 2:36 |
 | 10 | [Why can’t you see](https://open.spotify.com/track/3yukgMnqGxj1FGak12DHVu) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [Why can’t you see](https://open.spotify.com/album/2RReJH34G2ccyySp3DIYr3) | 2:29 |
 | 11 | [NIGHTS LIKE THIS](https://open.spotify.com/track/7Llx6Q2Rdyk3zOI3vq36qW) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [NIGHTS LIKE THIS](https://open.spotify.com/album/4rTpyB4utvcDlkPCtgnSf5) | 2:07 |
 | 12 | [Many Ways](https://open.spotify.com/track/1ZAwAqOijGU4GJMuttKTOp) | [CLARITY](https://open.spotify.com/artist/1R56qN4n5p0GtAOYH3oLB5), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:16 |

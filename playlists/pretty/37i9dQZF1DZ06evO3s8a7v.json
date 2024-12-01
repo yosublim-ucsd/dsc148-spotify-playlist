@@ -1,12 +1,12 @@
 {
   "description": "This is MYA. The essential tracks, all in one playlist.",
-  "num_followers": 42294,
+  "num_followers": 42309,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAABCDHAm9VeV+Jh9Y87Q9tND",
+  "snapshot_id": "Z0kEAAAAAADxasYaC92TWgEnCRMWEFXi",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 170020,
-      "name": "BLANCO Y NEGRO",
-      "url": "https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC"
+      "duration_ms": 174231,
+      "name": "SOY",
+      "url": "https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 174231,
-      "name": "SOY",
-      "url": "https://open.spotify.com/track/00ttoo0g0Ze9JBSKVrNCD4"
+      "duration_ms": 170020,
+      "name": "BLANCO Y NEGRO",
+      "url": "https://open.spotify.com/track/0JOlK42EFo4ulGEQQzAPVC"
     },
     {
       "added_at": null,

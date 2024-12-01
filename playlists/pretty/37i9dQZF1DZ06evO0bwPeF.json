@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8616,
+  "num_followers": 8623,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAAchk7V8SNDY0KdAklfK3dS",
+  "snapshot_id": "Z0kEAAAAAABMySUadclMz3909SfHrvPs",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 101539,
-      "name": "Reprise",
-      "url": "https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD"
+      "duration_ms": 163649,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 163649,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/02AudzNTg5zFxTlhXx1cYG"
+      "duration_ms": 101539,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/5bMq0jjjS0XF57z4Q09seD"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 154214,
-      "name": "NYC Tough Guy",
-      "url": "https://open.spotify.com/track/69hbQdjcPhITOxVBuIApkL"
+      "duration_ms": 209882,
+      "name": "Gun Fluf",
+      "url": "https://open.spotify.com/track/7JXXFL1CvoI2BOry9G7c06"
     }
   ],
   "unique_name": "This Is Helmet",

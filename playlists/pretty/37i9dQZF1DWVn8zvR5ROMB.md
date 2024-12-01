@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Runaway June, Braxton Keith, Sam Grow and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,453 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,598 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 5 | [TX or TN](https://open.spotify.com/track/6ZAp2TQ19qK9Xm5SRyahtB) | [Austin Michael](https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp) | [TX or TN](https://open.spotify.com/album/5zQkQhw1yj9r131MiKKa69) | 3:14 |
 | 6 | [Groundwork](https://open.spotify.com/track/6CqF8OkGrbO1999xJaVLlP) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Groundwork](https://open.spotify.com/album/27FMrRVW3ou5WRVKiyPiAO) | 2:33 |
 | 7 | [Say a Prayer](https://open.spotify.com/track/1xHfLmBMwEd8pG06FMKqnh) | [Low Gap](https://open.spotify.com/artist/4OylEA2mggFkZ63eIVFNio) | [Say a Prayer](https://open.spotify.com/album/6ezxHLb8eSVcRLTH66DfFn) | 4:08 |
-| 8 | [A Woman](https://open.spotify.com/track/595ROjlCK9DmjZWP5Lr1Xu) | [Morgan Johnston](https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC) | [A Woman](https://open.spotify.com/album/4ncmspx1cT9w3nrYwQ9jju) | 2:47 |
+| 8 | [A Woman](https://open.spotify.com/track/595ROjlCK9DmjZWP5Lr1Xu) | [Morgan Johnston](https://open.spotify.com/artist/7Id5sMAP4fhLdPeweOusnC) | [A Woman](https://open.spotify.com/album/4ncmspx1cT9w3nrYwQ9jju) | 2:42 |
 | 9 | [Eagles](https://open.spotify.com/track/63krVLOY7nxS4f96UrCBsS) | [Nate Good](https://open.spotify.com/artist/2OPyK48uFk5aZ8GKWa5FPl) | [Eagles](https://open.spotify.com/album/1S1HsEbrZAEqkio9JKF9xk) | 2:15 |
 | 10 | [UNDERDOG \(feat\. Henry Bright\)](https://open.spotify.com/track/2kehKSanhqrtQtVFN6TGwC) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Henry Bright](https://open.spotify.com/artist/3nhCkoNiPykotZHX7hqyHB) | [UNDERDOG \(feat\. Henry Bright\)](https://open.spotify.com/album/05Xp4204bnKdeAu8MqiVL7) | 2:14 |
 | 11 | [So Far So Good](https://open.spotify.com/track/1DH8fho6Ff8mz8AJpEIR1Q) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [So Far So Good](https://open.spotify.com/album/1mzIrs1935E2yuMBX5JuV2) | 2:20 |

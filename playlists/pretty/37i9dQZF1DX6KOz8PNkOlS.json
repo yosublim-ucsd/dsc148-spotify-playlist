@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 484075,
+  "num_followers": 484210,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -205,20 +205,24 @@
       "url": "https://open.spotify.com/track/5TgZ7lOUugOdabBcD9a6ud"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-06-30 15:20:10",
       "album": {
-        "name": "Mood Valiant",
-        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
       "artists": [
         {
-          "name": "Hiatus Kaiyote",
-          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 203266,
-      "name": "And We Go Gentle",
-      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -239,6 +243,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Mood Valiant",
+        "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
+      },
+      "artists": [
+        {
+          "name": "Hiatus Kaiyote",
+          "url": "https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "And We Go Gentle",
+      "url": "https://open.spotify.com/track/3PHgxKy3nKy0v9KvUtHl8g"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Be Right Back",
         "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/778x5bolqJeICcrtSBNrko"
-    },
-    {
-      "added_at": "2023-06-30 15:20:10",
-      "album": {
-        "name": "Heartquake",
-        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "Heartquake",
-      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2024-10-24 20:19:05",
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/3ixfi8GozgKMn27BLPA2z8"
     },
     {
+      "added_at": "2022-09-09 13:33:50",
+      "album": {
+        "name": "Look To Him",
+        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Look To Him",
+      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
+    },
+    {
       "added_at": "2024-07-09 04:30:16",
       "album": {
         "name": "In The Half Light",
@@ -899,22 +915,6 @@
       "duration_ms": 248400,
       "name": "Masquerade",
       "url": "https://open.spotify.com/track/4KWMFTpxFkwV5avb7Za0Sy"
-    },
-    {
-      "added_at": "2022-09-09 13:33:50",
-      "album": {
-        "name": "Look To Him",
-        "url": "https://open.spotify.com/album/6fN3UIZmBIbLJeXymGyXS1"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Look To Him",
-      "url": "https://open.spotify.com/track/3FD9RZf2KvposxCLtu0joU"
     },
     {
       "added_at": "2023-02-21 02:56:05",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
-      "added_at": "2022-01-26 18:13:44",
-      "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
-    },
-    {
       "added_at": "2023-05-24 02:01:11",
       "album": {
         "name": "I Hope You Can Forgive Me",
@@ -1183,6 +1167,22 @@
       "duration_ms": 177401,
       "name": "Stay Away (From Me)",
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
+    },
+    {
+      "added_at": "2022-01-26 18:13:44",
+      "album": {
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
     },
     {
       "added_at": "2022-02-09 03:25:54",
@@ -1321,30 +1321,6 @@
       "url": "https://open.spotify.com/track/76J5USnS7KSKZVwZURVlMI"
     },
     {
-      "added_at": "2024-04-23 00:34:59",
-      "album": {
-        "name": "wherever u r (feat. V of BTS and NATURE)",
-        "url": "https://open.spotify.com/album/2GlNxsOWZEeOY9f2VDRhGt"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 186896,
-      "name": "wherever u r (feat. V of BTS and NATURE)",
-      "url": "https://open.spotify.com/track/06DNeAJi8GYZn9TpCF8r2X"
-    },
-    {
       "added_at": "2023-06-02 01:19:32",
       "album": {
         "name": "Giver Taker",
@@ -1433,6 +1409,30 @@
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
     },
     {
+      "added_at": "2024-04-23 00:34:59",
+      "album": {
+        "name": "wherever u r (feat. V of BTS and NATURE)",
+        "url": "https://open.spotify.com/album/2GlNxsOWZEeOY9f2VDRhGt"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 186896,
+      "name": "wherever u r (feat. V of BTS and NATURE)",
+      "url": "https://open.spotify.com/track/06DNeAJi8GYZn9TpCF8r2X"
+    },
+    {
       "added_at": "2023-11-23 03:41:20",
       "album": {
         "name": "say your way",
@@ -1463,22 +1463,6 @@
       "duration_ms": 228213,
       "name": "Ooh La La",
       "url": "https://open.spotify.com/track/0avVdSMyZ22c4fCbnzJRT8"
-    },
-    {
-      "added_at": "2024-01-11 02:15:10",
-      "album": {
-        "name": "SCARY WORLD",
-        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
-      },
-      "artists": [
-        {
-          "name": "Could Ever",
-          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
-        }
-      ],
-      "duration_ms": 104072,
-      "name": "NOBODY WANTS TO BE MY FRIEND",
-      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
     },
     {
       "added_at": "2023-03-22 17:53:19",
@@ -1513,6 +1497,22 @@
       "url": "https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI"
     },
     {
+      "added_at": "2024-01-11 02:15:10",
+      "album": {
+        "name": "SCARY WORLD",
+        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
+      },
+      "artists": [
+        {
+          "name": "Could Ever",
+          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
+        }
+      ],
+      "duration_ms": 104072,
+      "name": "NOBODY WANTS TO BE MY FRIEND",
+      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
+    },
+    {
       "added_at": "2024-06-26 18:41:25",
       "album": {
         "name": "Love Potion",
@@ -1527,26 +1527,6 @@
       "duration_ms": 166000,
       "name": "Love Potion",
       "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Home Cooking",
-        "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
-      },
-      "artists": [
-        {
-          "name": "DJ Yoda",
-          "url": "https://open.spotify.com/artist/134rP599PLJMjrccfctkmX"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        }
-      ],
-      "duration_ms": 207201,
-      "name": "Thornton Heath",
-      "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1567,6 +1547,26 @@
       "duration_ms": 228786,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Home Cooking",
+        "url": "https://open.spotify.com/album/3bsJNabvYWSqKhVgjmiaqc"
+      },
+      "artists": [
+        {
+          "name": "DJ Yoda",
+          "url": "https://open.spotify.com/artist/134rP599PLJMjrccfctkmX"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        }
+      ],
+      "duration_ms": 207201,
+      "name": "Thornton Heath",
+      "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Pillars",
-        "url": "https://open.spotify.com/album/659pBNsrtfm8dhyo02Drvk"
-      },
-      "artists": [
-        {
-          "name": "Nnic",
-          "url": "https://open.spotify.com/artist/78RIY4A5dtJJVQvt51Q1ko"
-        }
-      ],
-      "duration_ms": 210089,
-      "name": "Pillars",
-      "url": "https://open.spotify.com/track/5M9P6amz3vkYOOTuV8HpXF"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Johnson",
         "url": "https://open.spotify.com/album/0zFfGh28x0n1fOOl8d0yOg"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 338706,
       "name": "Johnson",
       "url": "https://open.spotify.com/track/522A3dgrvWe27tK3L3gbYF"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Pillars",
+        "url": "https://open.spotify.com/album/659pBNsrtfm8dhyo02Drvk"
+      },
+      "artists": [
+        {
+          "name": "Nnic",
+          "url": "https://open.spotify.com/artist/78RIY4A5dtJJVQvt51Q1ko"
+        }
+      ],
+      "duration_ms": 210089,
+      "name": "Pillars",
+      "url": "https://open.spotify.com/track/5M9P6amz3vkYOOTuV8HpXF"
     }
   ],
   "unique_name": "Soft Office",

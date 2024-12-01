@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Por fin es Viernes de rolitas nuevas con HUMBE en portada!
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,306 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,799 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 41 | [Bendita](https://open.spotify.com/track/1Jc27ZqE4Fw46Og9Xv8kTn) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Mariana](https://open.spotify.com/album/4gEn3RMghDcVTo47wnqm4A) | 2:54 |
 | 42 | [CONFÍO](https://open.spotify.com/track/0btSWxXyFQR17cQ9zTiXTb) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [CONFÍO](https://open.spotify.com/album/33vjyF4jNVEElJKYD53ncp) | 2:59 |
 | 43 | [siento lento](https://open.spotify.com/track/5e9ZxsnKcfYN6ECexilKhn) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [siento lento](https://open.spotify.com/album/5YarF5tfRWRRuTiA4uhc8P) | 3:11 |
-| 44 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDMRN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
+| 44 | [DAYDRMN](https://open.spotify.com/track/28RmOkcdFjj96dUKy5U9aP) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [DAYDRMN / MOTION](https://open.spotify.com/album/7oFZh6cjdHo33sIXaIUjz9) | 2:19 |
 | 45 | [lovelanguage \(urboi\. remix\)](https://open.spotify.com/track/6JskKB0W6yZFOrn6fjcmx0) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [lovelanguage \(urboi\. remix\)](https://open.spotify.com/album/5wTctSC1XJmzmZDrCeRCwd) | 3:04 |
 | 46 | [La Cumbia de los Corazones Rotos](https://open.spotify.com/track/4HDppmpNh8F96R6OPHKhGg) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Eden Sauvage](https://open.spotify.com/album/0DWDWMbvrP0JTV4GmBGMfp) | 3:55 |
 | 47 | [Another Part Of Me \(feat\. Sting\)](https://open.spotify.com/track/50u1vw4DS6QQxJNXiMuWed) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Another Part Of Me \(feat\. Sting\)](https://open.spotify.com/album/0LDHZuFv4QNHSQwWUo4vqw) | 3:26 |

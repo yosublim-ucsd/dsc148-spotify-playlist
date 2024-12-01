@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 168977,
+  "num_followers": 169020,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -48,6 +48,22 @@
       },
       "artists": [
         {
+          "name": "La La Land Cast",
+          "url": "https://open.spotify.com/artist/6T70tWxqyIpdVbsFvPzqM3"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "Another Day Of Sun",
+      "url": "https://open.spotify.com/track/5kRBzRZmZTXVg8okC7SJFZ"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
           "name": "Ryan Gosling",
           "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
         },
@@ -59,22 +75,6 @@
       "duration_ms": 149706,
       "name": "City Of Stars - From \"La La Land\" Soundtrack",
       "url": "https://open.spotify.com/track/6XQHlsNu6so4PdglFkJQRJ"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
-          "name": "La La Land Cast",
-          "url": "https://open.spotify.com/artist/6T70tWxqyIpdVbsFvPzqM3"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "Another Day Of Sun",
-      "url": "https://open.spotify.com/track/5kRBzRZmZTXVg8okC7SJFZ"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -184,26 +184,6 @@
       },
       "artists": [
         {
-          "name": "Ryan Gosling",
-          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-        },
-        {
-          "name": "Emma Stone",
-          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
-        }
-      ],
-      "duration_ms": 236506,
-      "name": "A Lovely Night",
-      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "La La Land (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
-      },
-      "artists": [
-        {
           "name": "Justin Hurwitz",
           "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
         }
@@ -227,6 +207,26 @@
       "duration_ms": 179760,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/3WKnfkgwrARwElktHSU5Ik"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Gosling",
+          "url": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+        },
+        {
+          "name": "Emma Stone",
+          "url": "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+        }
+      ],
+      "duration_ms": 236506,
+      "name": "A Lovely Night",
+      "url": "https://open.spotify.com/track/4r9hiElqKWMPT4Z3vN2exq"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Blade Runner (Music From The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "One More Kiss, Dear",
-      "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Whiplash (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1rwMhGTCp0D6CN2XKQjyQt"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 199466,
       "name": "Overture - From \"Whiplash\"",
       "url": "https://open.spotify.com/track/2xYhSrp9lT1DeT3j9k7zoV"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "One More Kiss, Dear",
+      "url": "https://open.spotify.com/track/7CKz0xDkXuPdW3xEQ4NUS9"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
-        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
-      },
-      "artists": [
-        {
-          "name": "Vince Giordano And The Nighthawks",
-          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "Everybody Loves My Baby",
-      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Amore mio aiutami (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ekkoKz391PScKKZRCmgDF"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 181080,
       "name": "Amore mio aiutami - Version 6",
       "url": "https://open.spotify.com/track/17IoJ4OxBO1Ddlub4hrOkk"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
+        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
+      },
+      "artists": [
+        {
+          "name": "Vince Giordano And The Nighthawks",
+          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "Everybody Loves My Baby",
+      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Staccato (Original Johnny Staccato Score)",
-        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
-      },
-      "artists": [
-        {
-          "name": "Elmer Bernstein",
-          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
-      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Vicky Cristina Barcelona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 269146,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Staccato (Original Johnny Staccato Score)",
+        "url": "https://open.spotify.com/album/17LZljnfdBUuuOg2pG9Upd"
+      },
+      "artists": [
+        {
+          "name": "Elmer Bernstein",
+          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Thinking Of Baby - From \"Johnny Staccato\" Score / Remastered",
+      "url": "https://open.spotify.com/track/2GUMzPC3dGdOPfltAC8ELG"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "You've Got Mail",
-        "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 152333,
-      "name": "Lonely at the Top",
-      "url": "https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "The Fabulous Baker Boys (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7Cw0OKQKW52UTCrEH54uLD"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 151999,
       "name": "Lullaby Of Birdland - From \"Fabulous Baker Boys\" Soundtrack",
       "url": "https://open.spotify.com/track/2as0F7l67Onq8cl8kbifIG"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "You've Got Mail",
+        "url": "https://open.spotify.com/album/3xTwLJZLgcVVmUPszU8NeB"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 152333,
+      "name": "Lonely at the Top",
+      "url": "https://open.spotify.com/track/37S5D7qzgl7SAGcpFYMDej"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Monsters Inc Original Soundtrack",
-        "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
-      },
-      "artists": [
-        {
-          "name": "Randy Newman",
-          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Walk To Work",
-      "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Johnny Cool (Original Movie Soundtrack)",
         "url": "https://open.spotify.com/album/12vD766oDQd8CVJmivrfMw"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 181000,
       "name": "Tu Vuo' Fa L'Americano - Vocal",
       "url": "https://open.spotify.com/track/7lqrA7RZdx9CtLfBtkGZoc"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
+        "name": "Monsters Inc Original Soundtrack",
+        "url": "https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff"
+      },
+      "artists": [
+        {
+          "name": "Randy Newman",
+          "url": "https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Walk To Work",
+      "url": "https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU"
     },
     {
       "added_at": "2024-06-14 07:09:21",

@@ -728,6 +728,24 @@
     {
       "album": {
         "name": "Such is Life",
+        "url": "https://open.spotify.com/album/5EyQuCN4hW7ufsNJtKxyG9"
+      },
+      "artists": [
+        {
+          "name": "ADG7",
+          "url": "https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5"
+        }
+      ],
+      "date_added": "2024-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301391,
+      "name": "NOZANOZA",
+      "url": "https://open.spotify.com/track/5GSAyule2TvNbu3WtZq0H7"
+    },
+    {
+      "album": {
+        "name": "Such is Life",
         "url": "https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD"
       },
       "artists": [
@@ -742,24 +760,6 @@
       "duration_ms": 301391,
       "name": "NOZANOZA",
       "url": "https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM"
-    },
-    {
-      "album": {
-        "name": "Such is Life",
-        "url": "https://open.spotify.com/album/5EyQuCN4hW7ufsNJtKxyG9"
-      },
-      "artists": [
-        {
-          "name": "Ak Dan Gwang Chil",
-          "url": "https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5"
-        }
-      ],
-      "date_added": "2024-03-21",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 301391,
-      "name": "NOZANOZA",
-      "url": "https://open.spotify.com/track/5GSAyule2TvNbu3WtZq0H7"
     },
     {
       "album": {

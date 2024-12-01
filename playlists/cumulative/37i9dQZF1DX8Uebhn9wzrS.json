@@ -15863,6 +15863,28 @@
     },
     {
       "album": {
+        "name": "hold on to me, tight",
+        "url": "https://open.spotify.com/album/5ZVtyyYfRCKTAtaBGgbayS"
+      },
+      "artists": [
+        {
+          "name": "Mildred",
+          "url": "https://open.spotify.com/artist/3Z4AQ0MlP04v8w7vjEDnS4"
+        },
+        {
+          "name": "eleven",
+          "url": "https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "hold on to me, tight",
+      "url": "https://open.spotify.com/track/3fm2XyxBJYOoceVbxCCrTf"
+    },
+    {
+      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/5nz4VqFhPIRyH7bOpiH9lM"
       },
@@ -18254,7 +18276,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 188269,
       "name": "Kite",
       "url": "https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG"
@@ -24012,7 +24034,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 108960,
       "name": "never ending",
       "url": "https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV"
@@ -25794,7 +25816,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 135000,
       "name": "Orb",
       "url": "https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1"

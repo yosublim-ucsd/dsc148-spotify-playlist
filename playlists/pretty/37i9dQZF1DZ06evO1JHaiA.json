@@ -1,12 +1,12 @@
 {
   "description": "This is The Intruders. The essential tracks, all in one playlist.",
-  "num_followers": 2911,
+  "num_followers": 2912,
   "original_name": "This Is The Intruders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAA522Jb2JFPw2M3oTSuLYcQ",
+  "snapshot_id": "Z0kEAAAAAACI4Ek8nP2qCYeuYGyk7ubS",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sound of Philadelphia Soul",
-        "url": "https://open.spotify.com/album/2Q8w71VnqCamXrDuakVeAb"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 131448,
-      "name": "Come Home Soon",
-      "url": "https://open.spotify.com/track/2tKjz2r6ythkV1VtltQS9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 177066,
       "name": "Together",
       "url": "https://open.spotify.com/track/10v7nPfuQaMGJQgpU21L4x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sound of Philadelphia Soul",
+        "url": "https://open.spotify.com/album/2Q8w71VnqCamXrDuakVeAb"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 131448,
+      "name": "Come Home Soon",
+      "url": "https://open.spotify.com/track/2tKjz2r6ythkV1VtltQS9k"
     },
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Save the Children (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 146093,
-      "name": "She's A Winner - Single Version",
-      "url": "https://open.spotify.com/track/2KwuTMzMTasALOg6Lczzm3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 169866,
       "name": "(We'll Be) United",
       "url": "https://open.spotify.com/track/5Dbnnnj3PKhA3z0hSQk5J2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Save the Children (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 146093,
+      "name": "She's A Winner - Single Version",
+      "url": "https://open.spotify.com/track/2KwuTMzMTasALOg6Lczzm3"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 225026,
-      "name": "This Is My Love Song",
-      "url": "https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou"
+      "duration_ms": 151320,
+      "name": "Turn the Hands of Time",
+      "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 151320,
-      "name": "Turn the Hands of Time",
-      "url": "https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf"
+      "duration_ms": 225026,
+      "name": "This Is My Love Song",
+      "url": "https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 169213,
-      "name": "Best Days of My Life",
-      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 161413,
-      "name": "Tender (Was The Love We Knew)",
-      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
+      "duration_ms": 169213,
+      "name": "Best Days of My Life",
+      "url": "https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 116050,
-      "name": "Harold Melvin's Blue Notes Band Introduction With MC - Live",
-      "url": "https://open.spotify.com/track/1jAcfm4tvdQY1BmnBzSLFb"
+      "duration_ms": 312830,
+      "name": "The Love I Lost - Live",
+      "url": "https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1"
     },
     {
       "added_at": null,

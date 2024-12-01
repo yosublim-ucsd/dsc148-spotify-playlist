@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,053 likes - 93 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,085 likes - 93 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 35 | [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 |
 | 36 | [Taur](https://open.spotify.com/track/5G3hG4zOr1GcFAMCkMswCv) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm) | [Taur](https://open.spotify.com/album/2v0Y3f6WyNTwOh8N4CGP4q) | 2:46 |
 | 37 | [Masle](https://open.spotify.com/track/1i2Hf9IxuHbfi8MbrdmfRx) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Masle](https://open.spotify.com/album/06dpLPWKYdm1T6bdMJBROL) | 2:53 |
-| 38 | [2 Laddu](https://open.spotify.com/track/5Oid6aCbUPTy76zvd1dlWU) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [2 Laddu](https://open.spotify.com/album/0yrLfypjYX9RTOrZHQBnbd) | 3:15 |
+| 38 | [2 Laddu](https://open.spotify.com/track/5Oid6aCbUPTy76zvd1dlWU) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f), [Love Jeet Singh Bhullar](https://open.spotify.com/artist/0pEvJdl0b4YNdMRYiQPBvg) | [2 Laddu](https://open.spotify.com/album/0yrLfypjYX9RTOrZHQBnbd) | 3:15 |
 | 39 | [Wake Up Call](https://open.spotify.com/track/4a4RBRrHoYe4akc8lYSPX7) | [Gill Madhipuriya](https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp), [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Wake Up Call](https://open.spotify.com/album/1wP7zwsGUxHsZu5dD5Dzvt) | 3:45 |
 | 40 | [Accounts](https://open.spotify.com/track/47q370VByrWHa7cZKMwIig) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [His Story](https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU) | 4:12 |
 | 41 | [Kaale Angoor](https://open.spotify.com/track/5HUq5gDxWR1VW0hb37NjOw) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Billa Bakshi](https://open.spotify.com/artist/5bbQpJJq77oqHSLGMbqogg) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:51 |

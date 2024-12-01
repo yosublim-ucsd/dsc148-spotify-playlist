@@ -1,13 +1,29 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1041380,
+  "num_followers": 1041605,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAA+VkCykxunDPDafqUcgjX7",
+  "snapshot_id": "Z0kEAAAAAAC+sc1hF5Q2w4g4h9YnY3vh",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vicente Fern\u00e1ndez Con Banda",
+        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 214258,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7rY1SSgMIoXIXHH0EVjBPI"
+    },
     {
       "added_at": null,
       "album": {
@@ -219,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lastima Que Seas Ajena",
-        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 257266,
-      "name": "L\u00e1stima Que Seas Ajena",
-      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vicente Fernandez Para Siempre",
         "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
       },
@@ -247,6 +247,22 @@
       "duration_ms": 167400,
       "name": "A Qui\u00e9n Vas a Amar M\u00e1s Que a M\u00ed",
       "url": "https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lastima Que Seas Ajena",
+        "url": "https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 257266,
+      "name": "L\u00e1stima Que Seas Ajena",
+      "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
     },
     {
       "added_at": null,
@@ -803,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa\u00b4 la Parranda",
-        "url": "https://open.spotify.com/album/6FJmpxUlLsIif47LkXLEqq"
+        "name": "Mi Amigo El Tordillo",
+        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
       },
       "artists": [
         {
@@ -812,9 +828,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 183790,
-      "name": "Trago Amargo",
-      "url": "https://open.spotify.com/track/2JejFTKgWSGC3IS2yXkPp6"
+      "duration_ms": 213160,
+      "name": "El Moro de Cumpas",
+      "url": "https://open.spotify.com/track/7y9mmxLvi8HnZVMdVgs1CS"
     }
   ],
   "unique_name": "This Is Vicente Fern\u00e1ndez",

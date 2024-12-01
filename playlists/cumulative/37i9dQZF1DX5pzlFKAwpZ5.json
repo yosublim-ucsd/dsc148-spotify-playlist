@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "arcana",
+        "url": "https://open.spotify.com/album/6urZ7oJEzzS2QIFsWvSYLf"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160687,
+      "name": "arcana",
+      "url": "https://open.spotify.com/track/78HCu6iZNOauXdfEGn6UjN"
+    },
+    {
+      "album": {
         "name": "At Day's End/Small Hours",
         "url": "https://open.spotify.com/album/1lfOwDCvWL6rorNWNbtfoY"
       },
@@ -362,6 +380,24 @@
       "duration_ms": 263474,
       "name": "birefringence",
       "url": "https://open.spotify.com/track/3cxBheYCzfiIHcyNdwXMEa"
+    },
+    {
+      "album": {
+        "name": "Bleu/Flicker",
+        "url": "https://open.spotify.com/album/2yz0Zi7id37u4813CUhnB3"
+      },
+      "artists": [
+        {
+          "name": "Nobuhiro Okahashi",
+          "url": "https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130506,
+      "name": "Bleu",
+      "url": "https://open.spotify.com/track/5IlAse1O3cxM6nduPpAcSK"
     },
     {
       "album": {
@@ -1407,7 +1443,7 @@
     },
     {
       "album": {
-        "name": "MERCURIC DANCE(\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30bf\u3099\u30f3\u30b9~\u8e8d\u52d5\u306e\u8e0a\u308a)",
+        "name": "MERCURIC DANCE\uff08\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\uff5e\u8e8d\u52d5\u306e\u8e0a\u308a\uff09",
         "url": "https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L"
       },
       "artists": [
@@ -1420,7 +1456,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 511506,
-      "name": "FOSSIL OF FLAME/\u706b\u306e\u5316\u77f3~FIFTY BELL-TREES/\u4e94\u5341\u9234",
+      "name": "FOSSIL OF FLAME\uff0f\u706b\u306e\u5316\u77f3\uff5eFIFTY BELL-TREES\uff0f\u4e94\u5341\u9234",
       "url": "https://open.spotify.com/track/3d1oTcXWsWdtfDrgGbbmCG"
     },
     {
@@ -1760,7 +1796,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 163612,
       "name": "hope",
       "url": "https://open.spotify.com/track/6UqoRGlpMtKjVuBfVhioL5"
@@ -1778,7 +1814,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 150201,
       "name": "horizon",
       "url": "https://open.spotify.com/track/19Rms0r43i2fLRAoaUEYuV"
@@ -2594,6 +2630,24 @@
       "duration_ms": 163384,
       "name": "Moon",
       "url": "https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG"
+    },
+    {
+      "album": {
+        "name": "Tribute to Ryuichi Sakamoto \"Micro Ambient Music\" Vol. 4",
+        "url": "https://open.spotify.com/album/1P84OiiCx9pqvAN0RSNX0o"
+      },
+      "artists": [
+        {
+          "name": "Stephen Vitiello",
+          "url": "https://open.spotify.com/artist/6UmTNwMWHnVgSA49K7aY8Y"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393000,
+      "name": "Motionless Wings",
+      "url": "https://open.spotify.com/track/6l7YuElJh8Ru2yWNnr5iHd"
     },
     {
       "album": {
@@ -3817,7 +3871,7 @@
     },
     {
       "album": {
-        "name": "MERCURIC DANCE(\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30bf\u3099\u30f3\u30b9~\u8e8d\u52d5\u306e\u8e0a\u308a)",
+        "name": "MERCURIC DANCE\uff08\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\uff5e\u8e8d\u52d5\u306e\u8e0a\u308a\uff09",
         "url": "https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L"
       },
       "artists": [
@@ -3830,7 +3884,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187693,
-      "name": "SUNNYSIDE OF THE WATER/\u6c34\u3068\u5149",
+      "name": "SUNNYSIDE OF THE WATER\uff0f\u6c34\u3068\u5149",
       "url": "https://open.spotify.com/track/2Qf0RR9hkZ8CSX2XoePVrv"
     },
     {
@@ -4095,7 +4149,7 @@
     },
     {
       "album": {
-        "name": "MERCURIC DANCE(\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30bf\u3099\u30f3\u30b9~\u8e8d\u52d5\u306e\u8e0a\u308a)",
+        "name": "MERCURIC DANCE\uff08\u30de\u30fc\u30ad\u30e5\u30ea\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\uff5e\u8e8d\u52d5\u306e\u8e0a\u308a\uff09",
         "url": "https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L"
       },
       "artists": [
@@ -4108,7 +4162,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 311200,
-      "name": "TO THE AIR/\u7a7a\u3078",
+      "name": "TO THE AIR\uff0f\u7a7a\u3078",
       "url": "https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w"
     },
     {
@@ -4918,6 +4972,24 @@
       "duration_ms": 303456,
       "name": "\u5149\u306e\u5875",
       "url": "https://open.spotify.com/track/3vqINomEEpyG7nlUfqbd49"
+    },
+    {
+      "album": {
+        "name": "\u87ba\u923f\u306e\u7bb1",
+        "url": "https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh"
+      },
+      "artists": [
+        {
+          "name": "\u677e\ufa11\u88d5\u5b50",
+          "url": "https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249525,
+      "name": "\u6708\u3078\u98db\u3076\u60f3\u3072 (Love that Flies to the Moon)",
+      "url": "https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv"
     },
     {
       "album": {

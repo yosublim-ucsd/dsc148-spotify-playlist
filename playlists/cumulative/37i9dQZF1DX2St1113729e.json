@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 207995,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/02sruOvCKNX0PrbYcDdfnG"
@@ -4156,6 +4156,32 @@
       "duration_ms": 133448,
       "name": "Ki Infinito",
       "url": "https://open.spotify.com/track/4mOT5hzDdxJEY2sZZW9at2"
+    },
+    {
+      "album": {
+        "name": "Vaciador_remixes",
+        "url": "https://open.spotify.com/album/3q9JQQR59X2dsVKgBKfgOM"
+      },
+      "artists": [
+        {
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+        },
+        {
+          "name": "DJ Final Boss",
+          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
+        },
+        {
+          "name": "LVL1",
+          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "KLF_remix x [DJ Final Boss, LVL1]",
+      "url": "https://open.spotify.com/track/0s1CXdq9bgLeRbjDjAtUXy"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Dante Bowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,185 likes - 76 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,182 likes - 76 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 31 | [Falling](https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Falling/Unleash](https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz) | 2:09 |
 | 32 | [Baby OG](https://open.spotify.com/track/576C4UPQH8PgacOTLaDByI) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [TRENCH](https://open.spotify.com/album/3OHhCA38DhT7rBXa5Ea4go) | 3:31 |
 | 33 | [Flight line](https://open.spotify.com/track/5MzmB2GmQ5bLlWDMWs0ORt) | [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ) | [Flight line](https://open.spotify.com/album/1mDh9eco5CIfbiw6uREeO7) | 2:41 |
-| 34 | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9) | 2:07 |
+| 34 | [You're the Only One Watching](https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [You're the Only One Watching](https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9) | 2:07 |
 | 35 | [Sippin' Sake](https://open.spotify.com/track/1oOlgZ2oU9cK0dhinV9Y5y) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7), [Modesty Beats](https://open.spotify.com/artist/13FbrmsM0RLfPPbiqh7iCQ) | [Sippin' Sake](https://open.spotify.com/album/5qLfzEHK1aC8nWyYhu1Qw2) | 3:25 |
 | 36 | [Sick \(feat\. 4batz\)](https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Sick \(feat\. 4batz\)](https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz) | 3:40 |
 | 37 | [Chat](https://open.spotify.com/track/1vyk73GxPpTYcId4AOAnAd) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Chat](https://open.spotify.com/album/20MyZfFvhdD3JqWovRSZQF) | 2:19 |

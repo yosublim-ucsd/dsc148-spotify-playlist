@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > chill guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,939 likes - 90 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,979 likes - 90 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 16 | [Lejos De La Ciudad](https://open.spotify.com/track/6ZPx4OfYVHv7FkPAF2Khbm) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lejos De La Ciudad](https://open.spotify.com/album/4JAk0mbWKQjrUATbfDjpRf) | 3:08 |
 | 17 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 18 | [Algo contigo](https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM), [Elisabeth Roma](https://open.spotify.com/artist/4YU7oWQY1EZzkkMVK4dJHm) | [Imagina](https://open.spotify.com/album/4mWMKw1bTjskg9KXg7rFwc) | 4:57 |
-| 19 | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ) | [DJ BRYAN 7](https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m), [DJIEGO](https://open.spotify.com/artist/3gWChAhwZwxx3klekQgGHo), [Maxximo Dj](https://open.spotify.com/artist/12PDaXrPNMYQsQLnSnDaSS), [Mc M4](https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4) | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN) | 2:24 |
+| 19 | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ) | [DJ BRYAN 7](https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m), [DJIEGO](https://open.spotify.com/artist/4ziGmZKhRvzoP0De6vcXGt), [Maxximo Dj](https://open.spotify.com/artist/12PDaXrPNMYQsQLnSnDaSS), [Mc M4](https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4) | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN) | 2:24 |
 | 20 | [+57](https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [+57](https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37) | 4:58 |
 | 21 | [Un Scar](https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Un Scar](https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds) | 4:59 |
 | 22 | [Robando](https://open.spotify.com/track/5cZIDOH5DaLSXFqo21G24Z) | [DJ Lalo](https://open.spotify.com/artist/4BPiDIdCGWgKy8UzVS1a4S), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Robando](https://open.spotify.com/album/2U62gfLVSaodVIok9szFd7) | 2:34 |

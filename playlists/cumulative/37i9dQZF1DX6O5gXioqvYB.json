@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 170323,
       "name": "206",
       "url": "https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo"
@@ -670,6 +670,24 @@
       "duration_ms": 194909,
       "name": "catramen",
       "url": "https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g"
+    },
+    {
+      "album": {
+        "name": "Cemento",
+        "url": "https://open.spotify.com/album/2Xg5FWrpaZIB3lG5MYyqez"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188639,
+      "name": "Cemento",
+      "url": "https://open.spotify.com/track/5VQI1dj40QV6Gwtakup12U"
     },
     {
       "album": {
@@ -3291,6 +3309,24 @@
     },
     {
       "album": {
+        "name": "Scarpe",
+        "url": "https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1"
+      },
+      "artists": [
+        {
+          "name": "SANTACHIARA",
+          "url": "https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Scarpe",
+      "url": "https://open.spotify.com/track/7MvxCM3k9mdhCTMRB7I6Vz"
+    },
+    {
+      "album": {
         "name": "Scatoloni",
         "url": "https://open.spotify.com/album/5d3kZvPSoQQvkfB5DzLrls"
       },
@@ -3986,7 +4022,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 207880,
       "name": "Un cane",
       "url": "https://open.spotify.com/track/6AebymbfPmy8oKu77ZFIlN"

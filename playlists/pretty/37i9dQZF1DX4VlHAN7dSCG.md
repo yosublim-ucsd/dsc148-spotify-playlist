@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都開花！風格豐富力量大！Cover: 打倒三明治 \(Sandwich Fail\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,293 likes - 70 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,301 likes - 70 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 3 | [Hug Me](https://open.spotify.com/track/6vYSKq5nDJqI1PUnHojiE7) | [粗大Band](https://open.spotify.com/artist/3Y5AMY2fQMtIcI0oquKJWi) | [Hug Me](https://open.spotify.com/album/360xY0pYjNQg7YomLT8Om0) | 3:09 |
 | 4 | [停留](https://open.spotify.com/track/5qiJHEuGogfxUqNXMLqe3A) | [BaishaJAWS](https://open.spotify.com/artist/1Urg6a4MvccwltzRKTwtgv) | [Metamorphosis](https://open.spotify.com/album/1xCpoCbrDN9nC0JYTvxD0y) | 4:49 |
 | 5 | [來去東港](https://open.spotify.com/track/2jgcaw9TfNH8p3x4QOFEXJ) | [新寶島康樂隊](https://open.spotify.com/artist/4uwzFYQujZPB6R2RUUadT2) | [新寶島康樂隊 第13張大波浪](https://open.spotify.com/album/0e9AQGY5FgVBij09ViVIsw) | 6:05 |
-| 6 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:07 |
+| 6 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:10 |
 | 7 | [瀟灑走一回](https://open.spotify.com/track/2j9PM9JmGVesidceFs9mco) | [Reversing into Garage](https://open.spotify.com/artist/5dnOo3EpTCmEnLwoC4tP78) | [瀟灑走一回](https://open.spotify.com/album/79K8zBai60GkBeDsEDww65) | 3:24 |
 | 8 | [缓释胶囊](https://open.spotify.com/track/1Nu2TignH4FkqgGkVlQRY8) | [莫非定律乐团](https://open.spotify.com/artist/4XTIJd5AGmVq8urHnuMtcO), [莫非定律樂團](https://open.spotify.com/artist/576mV44iwFvzotJJrznMbj) | [缓释胶囊](https://open.spotify.com/album/5vd7MFUXaIuycmunw1LDei) | 4:14 |
 | 9 | [暈船的太空人](https://open.spotify.com/track/6iJLDyOD4vlLWpp7r1Odsb) | [昆蟲白](https://open.spotify.com/artist/3LJmUBY0O89KTOccPF9tYV) | [暈船的太空人](https://open.spotify.com/album/58rBqcf0PuoIwRIHsCL252) | 6:14 |

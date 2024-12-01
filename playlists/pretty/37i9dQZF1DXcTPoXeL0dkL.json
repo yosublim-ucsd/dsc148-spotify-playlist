@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 206477,
+  "num_followers": 206535,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
+        "name": "30 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9"
+      },
+      "artists": [
+        {
+          "name": "Los Betos",
+          "url": "https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn"
+        }
+      ],
+      "duration_ms": 252600,
+      "name": "La Gemela",
+      "url": "https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg"
+    },
+    {
+      "added_at": "2024-07-12 22:13:52",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 288533,
       "name": "Mi Muchacho",
       "url": "https://open.spotify.com/track/4p25pvhFydFona4Oe03WEL"
-    },
-    {
-      "added_at": "2024-07-12 22:13:52",
-      "album": {
-        "name": "30 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4KUqpSVkyJZSyepdGcHdD9"
-      },
-      "artists": [
-        {
-          "name": "Los Betos",
-          "url": "https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "La Gemela",
-      "url": "https://open.spotify.com/track/4hP2Vg2IPh9V1oiEWgMNIg"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -311,22 +311,18 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Lo Mejor 17 Grandes Exitos",
-        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
+        "name": "Rafael Orozco... Vive",
+        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
-        },
-        {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
         }
       ],
-      "duration_ms": 290573,
-      "name": "Amarte Mas No Pude",
-      "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
+      "duration_ms": 231066,
+      "name": "Esa",
+      "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
     },
     {
       "added_at": "2024-07-12 22:13:52",
@@ -367,18 +363,22 @@
     {
       "added_at": "2024-07-12 22:13:52",
       "album": {
-        "name": "Rafael Orozco... Vive",
-        "url": "https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r"
+        "name": "Lo Mejor 17 Grandes Exitos",
+        "url": "https://open.spotify.com/album/0tFhJvEQCCOtv50wxeowPz"
       },
       "artists": [
         {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 231066,
-      "name": "Esa",
-      "url": "https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn"
+      "duration_ms": 290573,
+      "name": "Amarte Mas No Pude",
+      "url": "https://open.spotify.com/track/5Wq23w03Py3362XEGxQJO5"
     },
     {
       "added_at": "2024-07-12 22:13:52",

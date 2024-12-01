@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYcwnCfuufL.md) - [plain]
 
 > 우리의 얼과 소리가 담긴 국악음악을 즐겨보세요\. \(커버: 엄유정\(Eom Yu Jeong\)\) \(Enjoy Korean national music with our spirit and sound.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,472 likes - 57 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,492 likes - 57 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYcwnCfuufL.md) - [plain]
 | 27 | [PIT\-A\-PAT](https://open.spotify.com/track/12HgD6UCXWLqPFz6LQZ7jr) | [오뉴월 \(Oh! New World\)](https://open.spotify.com/artist/5Kw2g1EDsL8AGw2fZaCx7H) | [2021 국악창작곡개발\-제15회 21c한국음악프로젝트\(2021 The 15th Annual 21st Century Korean Music Project\)](https://open.spotify.com/album/50oDdTePsN30DruxyyXx6R) | 6:02 |
 | 28 | [Choonhyang engraved in my heart](https://open.spotify.com/track/3zowTqOgrrsPXGF2KR8iZe) | [Lee Eunhee](https://open.spotify.com/artist/65wHmnE7tVi8eLNHHrbqnk) | [Choonhyang engraved in my heart](https://open.spotify.com/album/6GEbUBnMzxjz7hfEie8zbT) | 4:39 |
 | 29 | [대취타](https://open.spotify.com/track/3TSjyFjF5TfctBMem0g62j) | [정재국](https://open.spotify.com/artist/0hDEr0S2KMnFfjLh0EAbu5) | [정재국 피리, 태평소 작품집1 \(정악편\)](https://open.spotify.com/album/7xyOKrBR8OBNyculkB2WGa) | 11:36 |
-| 30 | [Let's go go!](https://open.spotify.com/track/4JPCptwlLqrig3YX6ChuW7) | [Ak Dan Gwang Chil](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [10NSTAGE Episode2](https://open.spotify.com/album/0gRfvmUpTjukgWo51XckJY) | 2:56 |
+| 30 | [Let's go go!](https://open.spotify.com/track/4JPCptwlLqrig3YX6ChuW7) | [ADG7](https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5) | [10NSTAGE Episode2](https://open.spotify.com/album/0gRfvmUpTjukgWo51XckJY) | 2:56 |
 | 31 | [봄서리 Spring Longing](https://open.spotify.com/track/1Rx0Ws4WLHYCvk5gZ8p6sD) | [EveryMood](https://open.spotify.com/artist/3Uvt6itOg5z43fHHUczIve) | [봄서리 Spring Longing \(퓨전 국악 BGM\)](https://open.spotify.com/album/5gn1n1ekvV0C9wJM9pb1zw) | 2:36 |
 | 32 | [도화 널그리며](https://open.spotify.com/track/2eSVFZlaW6ucU25a6aSDSo) | [최윤영](https://open.spotify.com/artist/1CAtucnD01c0cW4rUjWq8t) | [도화! 널그리며](https://open.spotify.com/album/76zjgQlv3RcvQsJXReTuGP) | 3:49 |
 | 33 | [Wind & Wave](https://open.spotify.com/track/5j2xIvi7RDc0CmBZpyDvmg) | [정진의](https://open.spotify.com/artist/35wlmelk4ScJXiwuYvHLrZ) | [A LONG WAITING](https://open.spotify.com/album/12knEuFOsP4jDfV2sqlE6F) | 2:13 |

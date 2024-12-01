@@ -1,6 +1,6 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 348835,
+  "num_followers": 348906,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Made in Sweden",
+        "url": "https://open.spotify.com/album/57l9kvkQtrJbHrBNWlL57Y"
+      },
+      "artists": [
+        {
+          "name": "Blacknuss",
+          "url": "https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Looking up to You",
+      "url": "https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Leaves of Memories",
         "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 144500,
       "name": "Clouds in the Sky",
       "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Made in Sweden",
-        "url": "https://open.spotify.com/album/57l9kvkQtrJbHrBNWlL57Y"
-      },
-      "artists": [
-        {
-          "name": "Blacknuss",
-          "url": "https://open.spotify.com/artist/4Voer5XJOsnL2JA6tpSE3P"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Looking up to You",
-      "url": "https://open.spotify.com/track/5Y6bk058Ko9aH0sRL1Z4vq"
     },
     {
       "added_at": "2022-07-14 19:24:43",

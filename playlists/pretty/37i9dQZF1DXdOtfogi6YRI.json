@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Dwa S\u0142awy",
-  "num_followers": 18193,
+  "num_followers": 18200,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "ZBUNTOWANI",
+        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
+      },
+      "artists": [
+        {
+          "name": "Magiera",
+          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "ZBUNTOWANI",
+      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "1989 Musical",
         "url": "https://open.spotify.com/album/2LeO9OHltJXAdXOzdyU4Pv"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 250522,
       "name": "Zr\u00f3bmy dym",
       "url": "https://open.spotify.com/track/1NPxsoPVRggHcxXUqLovbz"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "ZBUNTOWANI",
-        "url": "https://open.spotify.com/album/4PGVxRoEutpEMXNbqqDQ2Q"
-      },
-      "artists": [
-        {
-          "name": "Magiera",
-          "url": "https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "ZBUNTOWANI",
-      "url": "https://open.spotify.com/track/2gqTWssF1gWHT0SbQYoQgB"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -683,26 +683,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "O CZYM BYM RAPOWA\u0141",
-        "url": "https://open.spotify.com/album/2oIK8zLQsmBwbSyYxkeSEr"
-      },
-      "artists": [
-        {
-          "name": "Odys",
-          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
-        },
-        {
-          "name": "asthma",
-          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "O CZYM BYM RAPOWA\u0141",
-      "url": "https://open.spotify.com/track/14VdY46u8mxP1fW68U554w"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Sogo",
         "url": "https://open.spotify.com/album/0CCXO7HLWx00ZGGMtAoTDB"
       },
@@ -715,6 +695,22 @@
       "duration_ms": 150638,
       "name": "Sogo",
       "url": "https://open.spotify.com/track/2M8jdzfmhgvpuqryLsyTsR"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Brednie",
+        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
+      },
+      "artists": [
+        {
+          "name": "Promie\u0144",
+          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
+        }
+      ],
+      "duration_ms": 195176,
+      "name": "Brednie",
+      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -743,18 +739,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Brednie",
-        "url": "https://open.spotify.com/album/6qiv1Rt3YMKLkuyaAw1WpC"
+        "name": "O CZYM BYM RAPOWA\u0141",
+        "url": "https://open.spotify.com/album/2oIK8zLQsmBwbSyYxkeSEr"
       },
       "artists": [
         {
-          "name": "Promie\u0144",
-          "url": "https://open.spotify.com/artist/7eijvMViYR2Qh5a3APXCwl"
+          "name": "Odys",
+          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
+        },
+        {
+          "name": "asthma",
+          "url": "https://open.spotify.com/artist/3hz3fhj1laajEycfVkQRlN"
         }
       ],
-      "duration_ms": 195176,
-      "name": "Brednie",
-      "url": "https://open.spotify.com/track/23WlmV7ysgQ7MFHJ1BtD9B"
+      "duration_ms": 194250,
+      "name": "O CZYM BYM RAPOWA\u0141",
+      "url": "https://open.spotify.com/track/14VdY46u8mxP1fW68U554w"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1200,7 +1200,7 @@
       },
       "artists": [
         {
-          "name": "Noah",
+          "name": "noah",
           "url": "https://open.spotify.com/artist/6RbwGx2V3ksz4Fg2mEeYt1"
         },
         {
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Park 2",
-        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
-      },
-      "artists": [
-        {
-          "name": "\u0141uuki",
-          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
-        },
-        {
-          "name": "Bazgrov",
-          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
-        }
-      ],
-      "duration_ms": 168291,
-      "name": "Park 2",
-      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Jasny Obraz Ciemnych Czas\u00f3w",
         "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 185387,
       "name": "RMLJHF",
       "url": "https://open.spotify.com/track/3h1VqdlbgVsW7Sbcz4ll6o"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Park 2",
+        "url": "https://open.spotify.com/album/3VaxsLrWFS9EocQZAdVI43"
+      },
+      "artists": [
+        {
+          "name": "\u0141uuki",
+          "url": "https://open.spotify.com/artist/0urzyOyzZbcuvxLwj1Zjvi"
+        },
+        {
+          "name": "Bazgrov",
+          "url": "https://open.spotify.com/artist/1L5AeU29DkU2LbVhLIzRk9"
+        }
+      ],
+      "duration_ms": 168291,
+      "name": "Park 2",
+      "url": "https://open.spotify.com/track/0BlWhwqGczZX536PBfff7b"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1407,6 +1407,26 @@
       "duration_ms": 219465,
       "name": "RANGER",
       "url": "https://open.spotify.com/track/579qBUixZad3jZYEbiRLCH"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "ROCZNICA FREESTYLE",
+        "url": "https://open.spotify.com/album/2G844lsIXRM5bSIRVD4BZW"
+      },
+      "artists": [
+        {
+          "name": "barekprzesta\u0144",
+          "url": "https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI"
+        },
+        {
+          "name": "Henio",
+          "url": "https://open.spotify.com/artist/2vnD7VQMjJUhgv89mlBxyO"
+        }
+      ],
+      "duration_ms": 185134,
+      "name": "ROCZNICA FREESTYLE",
+      "url": "https://open.spotify.com/track/7vKfYVdMFAaA7oXW7jqQWN"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1495,26 +1515,6 @@
       "duration_ms": 276136,
       "name": "ALL IN",
       "url": "https://open.spotify.com/track/0jfGFAlrxBYAaebeotjeCC"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "ROCZNICA FREESTYLE",
-        "url": "https://open.spotify.com/album/2G844lsIXRM5bSIRVD4BZW"
-      },
-      "artists": [
-        {
-          "name": "barekprzesta\u0144",
-          "url": "https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI"
-        },
-        {
-          "name": "Henio",
-          "url": "https://open.spotify.com/artist/2vnD7VQMjJUhgv89mlBxyO"
-        }
-      ],
-      "duration_ms": 185134,
-      "name": "ROCZNICA FREESTYLE",
-      "url": "https://open.spotify.com/track/7vKfYVdMFAaA7oXW7jqQWN"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1731,30 +1731,30 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "MIASTO AWANTUR",
-        "url": "https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ"
+        "name": "Znowu",
+        "url": "https://open.spotify.com/album/3ttdrH6IPZsKStE6BpNwQS"
       },
       "artists": [
         {
-          "name": "J\u0119drzej Wise",
-          "url": "https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC"
+          "name": "Himalaya Collective",
+          "url": "https://open.spotify.com/artist/1uvWPBxBEdEzFt015JbJV9"
         },
         {
-          "name": "Krzy Krzysztof",
-          "url": "https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi"
+          "name": "Prykson Fisk",
+          "url": "https://open.spotify.com/artist/15qb3vctzGw3jWCBdedxcY"
         },
         {
-          "name": "maszaitsme",
-          "url": "https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN"
+          "name": "the.soul.stepson",
+          "url": "https://open.spotify.com/artist/2K9J1OUFZXiSexlvdTERTK"
         },
         {
-          "name": "Wroobel",
-          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+          "name": "Dj Chederac",
+          "url": "https://open.spotify.com/artist/2NVI9Y3tEYLE43KB38xpTe"
         }
       ],
-      "duration_ms": 212142,
-      "name": "MIASTO AWANTUR",
-      "url": "https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP"
+      "duration_ms": 153600,
+      "name": "Znowu",
+      "url": "https://open.spotify.com/track/17AaBdqURTilbsQvBIv2KA"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1779,18 +1779,30 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Cia\u0142a niebieskie",
-        "url": "https://open.spotify.com/album/4SqVlIGo8lyNpJwoPzKxpg"
+        "name": "MIASTO AWANTUR",
+        "url": "https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ"
       },
       "artists": [
         {
-          "name": "Na Wp\u00f3\u0142 \u015alepy Cz\u0142owiek",
-          "url": "https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV"
+          "name": "J\u0119drzej Wise",
+          "url": "https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC"
+        },
+        {
+          "name": "Krzy Krzysztof",
+          "url": "https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi"
+        },
+        {
+          "name": "maszaitsme",
+          "url": "https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
         }
       ],
-      "duration_ms": 159071,
-      "name": "Cia\u0142a niebieskie",
-      "url": "https://open.spotify.com/track/2N4MXokpXjE1UsOvveVrcy"
+      "duration_ms": 212142,
+      "name": "MIASTO AWANTUR",
+      "url": "https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1851,34 +1863,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Znowu",
-        "url": "https://open.spotify.com/album/3ttdrH6IPZsKStE6BpNwQS"
-      },
-      "artists": [
-        {
-          "name": "Himalaya Collective",
-          "url": "https://open.spotify.com/artist/1uvWPBxBEdEzFt015JbJV9"
-        },
-        {
-          "name": "Prykson Fisk",
-          "url": "https://open.spotify.com/artist/15qb3vctzGw3jWCBdedxcY"
-        },
-        {
-          "name": "the.soul.stepson",
-          "url": "https://open.spotify.com/artist/2K9J1OUFZXiSexlvdTERTK"
-        },
-        {
-          "name": "Dj Chederac",
-          "url": "https://open.spotify.com/artist/2NVI9Y3tEYLE43KB38xpTe"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Znowu",
-      "url": "https://open.spotify.com/track/17AaBdqURTilbsQvBIv2KA"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Pozdrawiam S\u0105siad\u00f3w",
         "url": "https://open.spotify.com/album/3RzzVZX97JGXxBowLvbymC"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 205969,
       "name": "Pozdrawiam S\u0105siad\u00f3w",
       "url": "https://open.spotify.com/track/15Y2BNhZ2dMyLxlbGj88Ak"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Cia\u0142a niebieskie",
+        "url": "https://open.spotify.com/album/4SqVlIGo8lyNpJwoPzKxpg"
+      },
+      "artists": [
+        {
+          "name": "Na Wp\u00f3\u0142 \u015alepy Cz\u0142owiek",
+          "url": "https://open.spotify.com/artist/6S5EjH95MgsQ48nGxbM4aV"
+        }
+      ],
+      "duration_ms": 159071,
+      "name": "Cia\u0142a niebieskie",
+      "url": "https://open.spotify.com/track/2N4MXokpXjE1UsOvveVrcy"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1971,6 +1971,54 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "UTL MIXTAPE",
+        "url": "https://open.spotify.com/album/7ia8yX1f0d20lAxIS1y7wF"
+      },
+      "artists": [
+        {
+          "name": "UTL",
+          "url": "https://open.spotify.com/artist/4yWXJaxWoTKLzR86teHy1Y"
+        },
+        {
+          "name": "SUGARMATES",
+          "url": "https://open.spotify.com/artist/3ULFy2SBPwYZMxw7zRbW4y"
+        },
+        {
+          "name": "adomalie",
+          "url": "https://open.spotify.com/artist/76NJBpkGBlls3eJ1Yx7tir"
+        },
+        {
+          "name": "L\u00f8renc",
+          "url": "https://open.spotify.com/artist/4ISgm3ZMtDo9WdSv3IFK6a"
+        }
+      ],
+      "duration_ms": 137629,
+      "name": "TYDZIE\u0143 BEZ NAWIJANIA",
+      "url": "https://open.spotify.com/track/1sdIyuVE5uRCyeOqk1d9LK"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "OA",
+        "url": "https://open.spotify.com/album/4XaTg37Mtw2RqLguUNnXa6"
+      },
+      "artists": [
+        {
+          "name": "Ananas",
+          "url": "https://open.spotify.com/artist/73wP9wl0sqJnAyabkcg95b"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "OA",
+      "url": "https://open.spotify.com/track/6TMsdN4HAvZANCIOzblvbo"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "ODSS (Oda Do Szerokich Spodni)",
         "url": "https://open.spotify.com/album/6l77brPUsvd3GHEcp94CKB"
       },
@@ -1983,6 +2031,22 @@
       "duration_ms": 273925,
       "name": "ODSS (Oda Do Szerokich Spodni)",
       "url": "https://open.spotify.com/track/0fVU1VZD7RSBq7g4eL0wF5"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "HI?-Pop 2000",
+        "url": "https://open.spotify.com/album/3ln8hFdQJLLX324AJiXKFS"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/31HUjY3zvwmdz2cHvBolED"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -2003,6 +2067,22 @@
       "duration_ms": 203317,
       "name": "Wracam do tamtych chwil",
       "url": "https://open.spotify.com/track/5eA2qsAi3ncynfOHeXmP8t"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "P\u0141AC\u0118ZAB\u0141\u0118DY",
+        "url": "https://open.spotify.com/album/3gGp03GPVYQPFt2zrtVZlR"
+      },
+      "artists": [
+        {
+          "name": "Marceli Bober",
+          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
+        }
+      ],
+      "duration_ms": 143999,
+      "name": "P\u0141AC\u0118ZAB\u0141\u0118DY",
+      "url": "https://open.spotify.com/track/1PVM74GsRhoN2luRP6oB1q"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -2067,22 +2147,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "P\u0141AC\u0118ZAB\u0141\u0118DY",
-        "url": "https://open.spotify.com/album/3gGp03GPVYQPFt2zrtVZlR"
-      },
-      "artists": [
-        {
-          "name": "Marceli Bober",
-          "url": "https://open.spotify.com/artist/2UBt72ETJoNHwgIXi61LMH"
-        }
-      ],
-      "duration_ms": 143999,
-      "name": "P\u0141AC\u0118ZAB\u0141\u0118DY",
-      "url": "https://open.spotify.com/track/1PVM74GsRhoN2luRP6oB1q"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "NOWETWORY",
         "url": "https://open.spotify.com/album/7FIPPpuA7jDFVEx2JCFfY5"
       },
@@ -2103,70 +2167,6 @@
       "duration_ms": 253941,
       "name": "NOWETWORY",
       "url": "https://open.spotify.com/track/49hORQFWdON9YsrC0g500q"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "OA",
-        "url": "https://open.spotify.com/album/4XaTg37Mtw2RqLguUNnXa6"
-      },
-      "artists": [
-        {
-          "name": "Ananas",
-          "url": "https://open.spotify.com/artist/73wP9wl0sqJnAyabkcg95b"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "OA",
-      "url": "https://open.spotify.com/track/6TMsdN4HAvZANCIOzblvbo"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "HI?-Pop 2000",
-        "url": "https://open.spotify.com/album/3ln8hFdQJLLX324AJiXKFS"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Esperanto",
-      "url": "https://open.spotify.com/track/31HUjY3zvwmdz2cHvBolED"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "UTL MIXTAPE",
-        "url": "https://open.spotify.com/album/7ia8yX1f0d20lAxIS1y7wF"
-      },
-      "artists": [
-        {
-          "name": "UTL",
-          "url": "https://open.spotify.com/artist/4yWXJaxWoTKLzR86teHy1Y"
-        },
-        {
-          "name": "SUGARMATES",
-          "url": "https://open.spotify.com/artist/3ULFy2SBPwYZMxw7zRbW4y"
-        },
-        {
-          "name": "adomalie",
-          "url": "https://open.spotify.com/artist/76NJBpkGBlls3eJ1Yx7tir"
-        },
-        {
-          "name": "L\u00f8renc",
-          "url": "https://open.spotify.com/artist/4ISgm3ZMtDo9WdSv3IFK6a"
-        }
-      ],
-      "duration_ms": 137629,
-      "name": "TYDZIE\u0143 BEZ NAWIJANIA",
-      "url": "https://open.spotify.com/track/1sdIyuVE5uRCyeOqk1d9LK"
     },
     {
       "added_at": "2024-11-28 23:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Brooks & Dunn",
-  "num_followers": 120192,
+  "num_followers": 120238,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -479,46 +479,38 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
-        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+        "name": "Wake Me up (Country Version)",
+        "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Cooper Alan",
+          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
         }
       ],
-      "duration_ms": 241600,
-      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
-      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
+      "duration_ms": 190666,
+      "name": "Wake Me up (Country Version)",
+      "url": "https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu"
     },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Nashville Rebel",
-        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
+        "name": "She Will Be Loved",
+        "url": "https://open.spotify.com/album/7H5bbyW3GjKzXVR1WK5aY8"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Highwayman",
-      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+      "duration_ms": 240000,
+      "name": "She Will Be Loved",
+      "url": "https://open.spotify.com/track/5sRDaug6JVkjuppYLOLBR4"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -559,18 +551,46 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "She Will Be Loved",
-        "url": "https://open.spotify.com/album/7H5bbyW3GjKzXVR1WK5aY8"
+        "name": "Nashville Rebel",
+        "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
       "artists": [
         {
-          "name": "Gareth",
-          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 240000,
-      "name": "She Will Be Loved",
-      "url": "https://open.spotify.com/track/5sRDaug6JVkjuppYLOLBR4"
+      "duration_ms": 182973,
+      "name": "Highwayman",
+      "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Three Little Birds (Bob Marley: One Love - Music Inspired By The Film)",
+        "url": "https://open.spotify.com/album/3EXlQV6JszrelQzPg0i78u"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 241600,
+      "name": "Three Little Birds - Bob Marley: One Love - Music Inspired By The Film",
+      "url": "https://open.spotify.com/track/1xfF8Y370KZujtqcbOAwEE"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -587,26 +607,6 @@
       "duration_ms": 266320,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Wake Me up (Country Version)",
-        "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
-      },
-      "artists": [
-        {
-          "name": "Cooper Alan",
-          "url": "https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb"
-        },
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Wake Me up (Country Version)",
-      "url": "https://open.spotify.com/track/3dBb0GQCXP9OZlzaijuHmu"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 168266,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/0rssTXPsHka5HdX61YbpMG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 223746,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Can't Help Falling in Love (From The Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/4wxj79WgqJdspoHES5dvcY"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/4FCNizKAqQ0JDx9ZWDEt1Z"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
+        "name": "When A Man Loves A Woman",
+        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 167142,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
+      "duration_ms": 197885,
+      "name": "When A Man Loves A Woman",
+      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "When A Man Loves A Woman",
-        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 197885,
-      "name": "When A Man Loves A Woman",
-      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
+      "duration_ms": 167142,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -975,6 +975,22 @@
       "duration_ms": 201600,
       "name": "Hold On, We're Going Home - Country Version",
       "url": "https://open.spotify.com/track/2Hie8F7KYwDtxAZf9rZPwd"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Heart-Shaped Box",
+        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
+      },
+      "artists": [
+        {
+          "name": "Sam Donald",
+          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+        }
+      ],
+      "duration_ms": 312666,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Heart-Shaped Box",
-        "url": "https://open.spotify.com/album/51KRw2CmWPQ0uiNJOmedo0"
+        "name": "Here Without You",
+        "url": "https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La"
       },
       "artists": [
         {
-          "name": "Sam Donald",
-          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+          "name": "Dylan Wolfe",
+          "url": "https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX"
         }
       ],
-      "duration_ms": 312666,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/19tWCfCVvAsQ0QHDDvrxFF"
+      "duration_ms": 231750,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1039,22 +1055,6 @@
       "duration_ms": 199445,
       "name": "Dammit",
       "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Here Without You",
-        "url": "https://open.spotify.com/album/5SapcMVBJM7ojBtGZPV2La"
-      },
-      "artists": [
-        {
-          "name": "Dylan Wolfe",
-          "url": "https://open.spotify.com/artist/6NM2BhEMkVbLgCB6RlM6SX"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/08QNaOyfKSEVTwU4DYiDwo"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 257893,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "I'm A Ram",
         "url": "https://open.spotify.com/album/4xjepYZE6XEVmilmR20ixm"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 239040,
       "name": "I'm A Ram",
       "url": "https://open.spotify.com/track/2dETiUOY9D2SrD7Buqt6oQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 257893,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Acoustic Covers (Deluxe)",
-        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 271771,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Clay Pigeons",
         "url": "https://open.spotify.com/album/0mfCJkowstwfyLwXA3r7Gz"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 230666,
       "name": "Clay Pigeons",
       "url": "https://open.spotify.com/track/4wRaxwESUculLyFFXJIGNg"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Acoustic Covers (Deluxe)",
+        "url": "https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 271771,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Carrying Your Love With Me (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Carrying Your Love With Me - Spotify Singles",
-      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Neon Moon",
         "url": "https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 276116,
       "name": "Neon Moon",
       "url": "https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Carrying Your Love With Me (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2ppLwCKe1rQxYyRmHlfyb8"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Carrying Your Love With Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6ThMWDBYb8SsqCMup5vLLP"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "State Trooper / 10-38 (Full Band Version)",
-        "url": "https://open.spotify.com/album/3tfigLIjNSmPthf3HJaTxm"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "State Trooper",
-      "url": "https://open.spotify.com/track/6nC90zDvAI5JuZbmw5zA1I"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 162411,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "State Trooper / 10-38 (Full Band Version)",
+        "url": "https://open.spotify.com/album/3tfigLIjNSmPthf3HJaTxm"
+      },
+      "artists": [
+        {
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
+        }
+      ],
+      "duration_ms": 233386,
+      "name": "State Trooper",
+      "url": "https://open.spotify.com/track/6nC90zDvAI5JuZbmw5zA1I"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1659,22 +1659,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Lord, I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
       },
       "artists": [
         {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        },
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 169317,
-      "name": "Lord, I Hope This Day Is Good",
-      "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
+      "duration_ms": 371448,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1695,18 +1691,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ"
+        "name": "Lord, I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 371448,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs"
+      "duration_ms": 169317,
+      "name": "Lord, I Hope This Day Is Good",
+      "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Payphone",
-        "url": "https://open.spotify.com/album/5O66COwg9HWwdwUjLt2WkX"
-      },
-      "artists": [
-        {
-          "name": "Tebey",
-          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
-        }
-      ],
-      "duration_ms": 205384,
-      "name": "Payphone",
-      "url": "https://open.spotify.com/track/1K0p7g2DQhTPefrchhFNrv"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 232666,
       "name": "Folsom Prison Blues - Spotify Singles",
       "url": "https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Payphone",
+        "url": "https://open.spotify.com/album/5O66COwg9HWwdwUjLt2WkX"
+      },
+      "artists": [
+        {
+          "name": "Tebey",
+          "url": "https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo"
+        }
+      ],
+      "duration_ms": 205384,
+      "name": "Payphone",
+      "url": "https://open.spotify.com/track/1K0p7g2DQhTPefrchhFNrv"
     }
   ],
   "unique_name": "Country Covers",

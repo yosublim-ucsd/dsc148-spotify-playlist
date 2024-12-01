@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: THE FIX\(더 픽스\)\)
 
-215 songs - 12 hr 10 min
+216 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Smoothie \- Arkins Remix](https://open.spotify.com/track/41i0luwYM6xe8u0TaD3JKU) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [iScreaM Vol.31 : Smoothie Remix](https://open.spotify.com/album/1SXuAONZqhv9YDMvfxunRp) | 3:07 | 2024-04-12 | 2024-06-29 |
 | [Smoothie \- Arkins Remix](https://open.spotify.com/track/7bdVccex2qKVLb209zzaOd) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [iScreaM Vol.31 : Smoothie Remix](https://open.spotify.com/album/3XXPD9uGP7aLOJKFDDqULi) | 3:07 | 2024-06-28 | 2024-11-04 |
 | [Somehow](https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP) | [Somehow](https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO) | 2:54 | 2024-04-05 |  |
+| [SPEED VOL\. 1](https://open.spotify.com/track/1xhe5rOjJ2X900QE926Isr) | [WACK](https://open.spotify.com/artist/2xZ90sIUz3qPXu5clQEYZr) | [SPEED VOL\. 1](https://open.spotify.com/album/0cyp4duBvL23QN2MFwoOsO) | 4:06 | 2024-11-29 |  |
 | [Spicy \- Nitepunk Remix](https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [iScreaM Vol.26 : Spicy Remix](https://open.spotify.com/album/55N0UTP5992idhnEYOKYd9) | 3:10 | 2024-04-05 |  |
 | [Standing Next to You \(Future Funk Remix\)](https://open.spotify.com/track/0nCAwowgJ2bV2g5EOE67Yi) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Standing Next to You \(The Remixes\)](https://open.spotify.com/album/18U7qF5UYXzGP5C11y9rmq) | 3:17 | 2024-06-28 |  |
 | [STARDUST](https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA) | [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2), [XIAOJUN](https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7) | [STARDUST](https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL) | 2:59 | 2024-04-05 |  |
@@ -209,7 +210,7 @@
 | [Until I Saw You](https://open.spotify.com/track/5vq1maQ1FfzGqNxlatvOIt) | [Thoby](https://open.spotify.com/artist/55pTuQ8SbRVaZ2sFhPFX1x), [Kevin Krissen](https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI), [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw) | [Until I Saw You](https://open.spotify.com/album/3iMnAm08qg5PdOnM80YNfd) | 3:27 | 2024-04-05 | 2024-09-02 |
 | [Useless](https://open.spotify.com/track/6Qjo72C9Ns5CLaORgi2vOM) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Noisy Choice](https://open.spotify.com/artist/4mHNdq3umachr1aO7aHGID) | [Useless](https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp) | 2:41 | 2024-06-28 |  |
 | [Vanilla Sundae](https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Limbo](https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY) | 3:18 | 2024-09-01 | 2024-11-24 |
-| [Virus](https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY) | [Virus](https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I) | 2:32 | 2024-06-28 |  |
+| [Virus](https://open.spotify.com/track/6Z7ZmDWdnrMusQK4fuZggL) | [SUNGYOO](https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8), [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY) | [Virus](https://open.spotify.com/album/0iK9OCBlrURxG5vs0hUs6I) | 2:32 | 2024-06-28 | 2024-12-01 |
 | [VORTEX](https://open.spotify.com/track/3YN1Cwvr9XAudtMFhyHmHi) | [TENGGER](https://open.spotify.com/artist/348WlP2SjUlFjFQbI9xii4) | [TENGGER](https://open.spotify.com/album/5Cziq0Bc2fJOcTgVDZ1COh) | 5:16 | 2024-04-05 | 2024-06-29 |
 | [We The One](https://open.spotify.com/track/50h9twZAayX6uTyu8yNZoB) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [We The One](https://open.spotify.com/album/7k23uWGxBtuFkvVObe7sBP) | 3:15 | 2024-06-28 |  |
 | [Wish](https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY) | 5:55 | 2024-04-05 | 2024-06-29 |

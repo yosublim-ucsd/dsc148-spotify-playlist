@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Jazeek
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,494 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,555 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tell me](https://open.spotify.com/track/6E3G5pMRT5FAUiQqaPuPts) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Tell me](https://open.spotify.com/album/5NI4GsDHOVx7LIcrIi4E6k) | 2:35 |
 | 2 | [Walk With Me \- Edit](https://open.spotify.com/track/25NtKz5cq30ec81fhDM9rU) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Walk With Me](https://open.spotify.com/album/6Gs1D2VbneEd0pwwKA7ivI) | 2:32 |
-| 3 | [Machmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
+| 3 | [Manchmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
 | 4 | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Under the Tree \(from “That Christmas”\)](https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg) | 4:02 |
 | 5 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 |
 | 6 | [Nada](https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [Nada](https://open.spotify.com/album/2rB0VAyJVp7W2XkG4H4BTB) | 2:12 |

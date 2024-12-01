@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,384 likes - 65 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,397 likes - 65 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 | 34 | [Asian Dream Song](https://open.spotify.com/track/78cuKIGp4nM3cm4SQ2THy9) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Pan Strings](https://open.spotify.com/artist/2FRsJ3vZp5ElXXF8NAiMOr) | [PIANO STORIES II ～The Wind of Life～](https://open.spotify.com/album/1QDFS0uYL7jEmBoM92uxQi) | 5:28 |
 | 35 | [狐と書生](https://open.spotify.com/track/5FFVfW9YeKECbTd3D5vhc8) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [赤狐書生 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/2FNZ5VQ1qbxZbc8TjfZvhN) | 3:16 |
 | 36 | [天空の城ラピュタ](https://open.spotify.com/track/4LwucQallV2W12OqJoLMBl) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [WORLD DREAMS](https://open.spotify.com/album/5xIlbLoLnwYrlPj7FsYqo5) | 6:30 |
-| 37 | [il porco rosso](https://open.spotify.com/track/0to0t9CWyWauvbyhVizEj3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [NOSTALGIA\~PIANO STORIES III\~](https://open.spotify.com/album/5n0PDImZbEnVEpEll4DCO4) | 4:51 |
+| 37 | [il porco rosso](https://open.spotify.com/track/0to0t9CWyWauvbyhVizEj3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [NOSTALGIA～PIANO STORIES Ⅲ～](https://open.spotify.com/album/5n0PDImZbEnVEpEll4DCO4) | 4:51 |
 | 38 | [Ponyo on the Cliff by the Sea](https://open.spotify.com/track/5Cpu7flGktb3B0LI8OhTwP) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Another Piano Stories ～The End of the World～](https://open.spotify.com/album/4ORKUWkQ2McDuOaAwIO25y) | 2:48 |
 | 39 | [Departures](https://open.spotify.com/track/6kActPvKfzYPA425u5PW5x) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [メロディフォニー](https://open.spotify.com/album/3Ofc5o63VISy2y14grDpy1) | 8:18 |
 | 40 | [「もののけ姫」組曲 \- Live](https://open.spotify.com/track/1QvJdMm7R2Xp5T0eagZOUU) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [新日本フィルワールドドリームオーケストラ](https://open.spotify.com/artist/3dGpSt7QHSpwp9FBObQ224) | [真夏の夜の悪夢 \(Live\)](https://open.spotify.com/album/61qcmMGMLgDCh2oGUqJJHc) | 8:31 |
 | 41 | [Labyrinth of Eden](https://open.spotify.com/track/0JOD85cRNVI7qbLz8NBaQP) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ENCORE](https://open.spotify.com/album/5pSXHB3YxpvayU1byEzKTZ) | 3:33 |
-| 42 | [a Wish to the Moon](https://open.spotify.com/track/3ZZzFp8bjU01ivt4gJpesR) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ETUDE \~a Wish to the Moon\~](https://open.spotify.com/album/3wrAkAPm7oki8RkDBQokXr) | 3:57 |
+| 42 | [a Wish to the Moon](https://open.spotify.com/track/3ZZzFp8bjU01ivt4gJpesR) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ETUDE ～a Wish to the Moon～](https://open.spotify.com/album/3wrAkAPm7oki8RkDBQokXr) | 3:57 |
 | 43 | [Ballade](https://open.spotify.com/track/52zzZP5WhNd3VX30zisAj0) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ENCORE](https://open.spotify.com/album/5pSXHB3YxpvayU1byEzKTZ) | 4:17 |
 | 44 | [Ikaros \- 2008 Remix](https://open.spotify.com/track/6cqo4BkHW1ehhegVxku9NI) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [浜田純伸](https://open.spotify.com/artist/621BbzETnPrcbLJRvBm3qq) | [Piano Stories Best '88\-'08](https://open.spotify.com/album/5gEbcmOBaa2q8Tr670bFR7) | 4:22 |
 | 45 | [Angel Springs](https://open.spotify.com/track/3G6sE7Du0lMIv8UWx4Xahs) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Pan Strings](https://open.spotify.com/artist/2FRsJ3vZp5ElXXF8NAiMOr) | [PIANO STORIES II ～The Wind of Life～](https://open.spotify.com/album/1QDFS0uYL7jEmBoM92uxQi) | 3:12 |

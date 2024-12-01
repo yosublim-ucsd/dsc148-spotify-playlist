@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "A.L.V.",
+        "url": "https://open.spotify.com/album/3SxCRrJRJuFwtw2x4j86bU"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159608,
+      "name": "A.L.V.",
+      "url": "https://open.spotify.com/track/29gK0gdgTdn0LsU9UTEwsn"
+    },
+    {
+      "album": {
         "name": "Andares",
         "url": "https://open.spotify.com/album/3VZIepgxFPJVhurSNpy80p"
       },

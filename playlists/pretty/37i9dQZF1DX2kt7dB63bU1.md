@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,795 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,861 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 11 | [Trouble](https://open.spotify.com/track/7aRlOFAO9guW9TUIwvLcxd) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5) | [Trouble](https://open.spotify.com/album/1ENgHnxhTZN2RLiUYFUcUo) | 2:41 |
 | 12 | [Tip](https://open.spotify.com/track/37iPxQArUYztawoasUa4iv) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Tip](https://open.spotify.com/album/1hzVmeKjODeApmrHRn7C6F) | 4:14 |
 | 13 | [Airport Codes \- Big Band Version](https://open.spotify.com/track/6cOLsEjg2zuLZP8XiOdYJD) | [Aubrey Logan](https://open.spotify.com/artist/5GIBLQgzkZKjBDRhVQ4j1z), [Mike Sailors](https://open.spotify.com/artist/6QJDYnfojJWToSMXjUf0Qg) | [Airport Codes \(Big Band Version\)](https://open.spotify.com/album/2YCkxR6qWOk9SL0MMfGRo2) | 6:59 |
-| 14 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/5MQbrriNIHtgSCfQsdJWXQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe), [NDR Bigband](https://open.spotify.com/artist/2JgSc66Kcvl1pko9jI5K91) | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/album/0iOzU9o8mLrApudEK8EsKr) | 5:55 |
+| 14 | [I Got It Bad \(And That Ain't Good\) \- Live](https://open.spotify.com/track/5MQbrriNIHtgSCfQsdJWXQ) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe), [NDR Bigband](https://open.spotify.com/artist/2JgSc66Kcvl1pko9jI5K91) | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/album/0iOzU9o8mLrApudEK8EsKr) | 5:55 |
 | 15 | [First Song](https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [First Song](https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA) | 4:43 |
 | 16 | [Truth](https://open.spotify.com/track/09Rn2e12eIjtc4pZy83gxg) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5) | [Truth](https://open.spotify.com/album/4WdqBsUiK1mj3vhwQyi0Ql) | 2:12 |
 | 17 | [Autumn Nocturne](https://open.spotify.com/track/1o28EvjeYgkrKgBG7gkBx7) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Autumn Nocturne](https://open.spotify.com/album/4Ba6gHR346eUIFoPnu4mxI) | 3:46 |

@@ -2560,7 +2560,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 180705,
       "name": "Marching To This Drum",
       "url": "https://open.spotify.com/track/1SsGj5OQosI2XmHprVKX9g"
@@ -2944,6 +2944,24 @@
       "duration_ms": 234973,
       "name": "One and Only",
       "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
+    },
+    {
+      "album": {
+        "name": "One More Tequila",
+        "url": "https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG"
+      },
+      "artists": [
+        {
+          "name": "Northlake Shivers",
+          "url": "https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb"
+        }
+      ],
+      "date_added": "2024-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180857,
+      "name": "One More Tequila",
+      "url": "https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm"
     },
     {
       "album": {

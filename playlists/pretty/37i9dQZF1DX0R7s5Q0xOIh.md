@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 
 > A playlist oficial do Carona Podpah, Original Spotify com o <a href="spotify:show:1GLSDdk9CDEwziGNIlnb8a">Podpah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,615 likes - 357 songs - 1 day 16 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,616 likes - 357 songs - 1 day 16 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0R7s5Q0xOIh.md) - [plain]
 | 61 | [Até O Fim](https://open.spotify.com/track/2bCp6mhFTizRp9I1SxyAQX) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [Dançando No Campo Minado](https://open.spotify.com/album/2z17OM6dPj1iltZmLcdb2o) | 3:18 |
 | 62 | [Risca Faca](https://open.spotify.com/track/5BXqaWb8fRDDe1fDi30MfC) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za) | [Aviões do Forró, Vol\. 4](https://open.spotify.com/album/1RcJWWK60UiUkmMDMkRipQ) | 3:28 |
 | 63 | [Bumbum Granada \- Ao Vivo](https://open.spotify.com/track/1RkpXLUzD8xQd7pgQAyaNI) | [Aviões do Forró](https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za) | [Aviões Fantasy \(Ao Vivo\)](https://open.spotify.com/album/1qOhPJ43PrzQMkpUGqNAcy) | 2:46 |
-| 64 | [Golzinho Vermelho \- Ao Vivo](https://open.spotify.com/track/2xURVPHtWbb2tjz1B92soa) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Sofrência Ou Fuleragem? \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/3DKLn7HZgyaK7zNfhi6pbG) | 2:35 |
+| 64 | [Golzinho Vermelho \- Ao Vivo](https://open.spotify.com/track/2xURVPHtWbb2tjz1B92soa) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Sofrência Ou Fuleragem? \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/3DKLn7HZgyaK7zNfhi6pbG) | 2:35 |
 | 65 | [Vampiro](https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Vampiro](https://open.spotify.com/album/2Czm8l03F67WEzX8MDruyy) | 4:10 |
 | 66 | [Coração Cachorro](https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c) | [Coração Cachorro](https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d) | 2:30 |
 | 67 | [LUCCAS CARLOS \- Carona Podpah \#20](https://open.spotify.com/episode/30R9OrnkAa37AquAA8NTrB) | [Podpah](https://open.spotify.com/show/1GLSDdk9CDEwziGNIlnb8a) | [Podpah](https://open.spotify.com/album/1GLSDdk9CDEwziGNIlnb8a) | 44:21 |

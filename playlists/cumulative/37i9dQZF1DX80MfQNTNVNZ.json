@@ -177,6 +177,28 @@
     },
     {
       "album": {
+        "name": "Tru Thoughts 2024",
+        "url": "https://open.spotify.com/album/4MyMalsmfEqM3VuGwSBBXB"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        },
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "6 Feet Down",
+      "url": "https://open.spotify.com/track/3LRbjIRc0uNBAQGY5Z2iQV"
+    },
+    {
+      "album": {
         "name": "Sunbursting EP",
         "url": "https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV"
       },
@@ -2056,7 +2078,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 153913,
       "name": "DISTRACT ME - ft. Jyodan",
       "url": "https://open.spotify.com/track/2LX3FMvSdSxs35reHTtifF"
@@ -2948,6 +2970,28 @@
       "duration_ms": 229025,
       "name": "Garden Party",
       "url": "https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC"
+    },
+    {
+      "album": {
+        "name": "Genie",
+        "url": "https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU"
+      },
+      "artists": [
+        {
+          "name": "quicksand bed",
+          "url": "https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym"
+        },
+        {
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193570,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977"
     },
     {
       "album": {
@@ -5756,7 +5800,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-13",
+      "date_removed": null,
       "duration_ms": 249946,
       "name": "Never Gonna Be Alone (feat. Lizzy McAlpine & John Mayer)",
       "url": "https://open.spotify.com/track/5m9OR6G4lNt9Da6dy1xpHx"
@@ -6134,7 +6178,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 257153,
       "name": "Of Another Kind (feat. Milan Ring & Jerome Farah)",
       "url": "https://open.spotify.com/track/6cLAX064e8EpvsA31qIIyM"
@@ -6316,7 +6360,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-17",
+      "date_removed": null,
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
@@ -7052,7 +7096,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 227000,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/4r4zk1yp5USyxI9TdMvKR3"
@@ -10440,7 +10484,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 264000,
       "name": "You Never Visit Me (feat. Wale & Enny)",
       "url": "https://open.spotify.com/track/7qArEpkWxXwdh8nkfqcjIf"
@@ -10732,7 +10776,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 192462,
       "name": "\u7a7a\u3068\u3076\u6771\u4eac",
       "url": "https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S"

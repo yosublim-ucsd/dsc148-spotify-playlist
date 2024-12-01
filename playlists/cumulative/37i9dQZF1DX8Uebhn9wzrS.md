@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,156 songs - 3 day 10 hr 11 min
+2,157 songs - 3 day 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [Hokkaido Breeze](https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Hokkaido Breeze](https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x) | 2:20 | 2023-10-13 |  |
 | [Hold Me Tight](https://open.spotify.com/track/7KcRy6kpQKK52utSPrvwi9) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw) | [Hold Me Tight](https://open.spotify.com/album/40sNkUclUZpnjZpY49kDBE) | 2:24 | 2022-12-16 | 2023-09-16 |
 | [Hold My Juice Box](https://open.spotify.com/track/7KnK3G54x4Mgb8Lk5XU1yf) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Hold My Juice Box](https://open.spotify.com/album/0zpCLxjCHmuKEbDvRAAaGc) | 2:41 | 2022-04-15 | 2022-11-12 |
+| [hold on to me, tight](https://open.spotify.com/track/3fm2XyxBJYOoceVbxCCrTf) | [Mildred](https://open.spotify.com/artist/3Z4AQ0MlP04v8w7vjEDnS4), [eleven](https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU) | [hold on to me, tight](https://open.spotify.com/album/5ZVtyyYfRCKTAtaBGgbayS) | 2:12 | 2024-11-29 |  |
 | [Holiday](https://open.spotify.com/track/42T51nxIByM57DE7zibk2z) | [Harry Hawaii](https://open.spotify.com/artist/7fQVHvcP2LSpPU3pNU7wKA), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Holiday](https://open.spotify.com/album/5nz4VqFhPIRyH7bOpiH9lM) | 1:56 | 2022-12-23 | 2023-02-07 |
 | [Holken](https://open.spotify.com/track/5zlatCEx5SOJwfv37aE6qs) | [Orientale Pesetas](https://open.spotify.com/artist/1QB9kev4D1hUMkHplN1tHW) | [Cartine Per Rollare](https://open.spotify.com/album/6nUTUcQGupgZKD7MeAw0mh) | 1:51 | 2022-04-15 | 2022-07-22 |
 | [hollywood](https://open.spotify.com/track/4YRFVSoRT3GFyd0rPaUnhe) | [rchie](https://open.spotify.com/artist/3RtQcltuh6uzO6ilFGIKFI) | [hollywood](https://open.spotify.com/album/4NvozMjJNnXVtnhEPzKuhp) | 2:25 | 2022-04-15 | 2022-05-27 |
@@ -973,7 +974,7 @@
 | [Kite](https://open.spotify.com/track/3iGAROkUA0Zor2nDSb5KEi) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP) | [Kite](https://open.spotify.com/album/28oJte7pPVdU7loNEXhJea) | 2:29 | 2022-04-15 | 2022-11-12 |
 | [Kite](https://open.spotify.com/track/2CshcD2ZdSr8lgEkSYcmmK) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/1SCKTftnhCkK2RlNcAaIkq) | 2:23 | 2022-11-18 | 2023-01-07 |
 | [Kite](https://open.spotify.com/track/2YFpUFkSTOqCDy9hzMi1FY) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Kite](https://open.spotify.com/album/0Ek36hK7QpAGGcNBwV17y5) | 2:23 | 2022-09-16 | 2022-11-20 |
-| [Kite](https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Kite](https://open.spotify.com/album/5S40ObOUh50xGjbuOCsilS) | 3:08 | 2023-03-08 | 2024-11-14 |
+| [Kite](https://open.spotify.com/track/0Uyq0exEznwuyPHtUoItQG) | [Name Goes Here](https://open.spotify.com/artist/2A9l28mcw3mO8SSrusXyLs) | [Kite](https://open.spotify.com/album/5S40ObOUh50xGjbuOCsilS) | 3:08 | 2023-03-08 |  |
 | [knox](https://open.spotify.com/track/1hzuZqJ6fnagvFr9mjacKL) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [knox](https://open.spotify.com/album/4OdQCF3d6u2pjwMcWIlEtv) | 2:00 | 2023-03-08 |  |
 | [kodak](https://open.spotify.com/track/7q8NJyn5JHHzfTwa1auiPH) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [kodak](https://open.spotify.com/album/0ggeJPPUAeDt8oCadobrvM) | 1:51 | 2023-11-17 |  |
 | [Kodama Hour](https://open.spotify.com/track/4KA3tl17zoh2mpRSmvXCZL) | [azula](https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS), [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [INKY!](https://open.spotify.com/artist/4jlY0hmEPAg8KTa4KVe4R4) | [Spirits](https://open.spotify.com/album/1NZNlyf6Pgr1LbdyUwBVZ9) | 2:00 | 2022-08-05 | 2022-10-01 |
@@ -1276,7 +1277,7 @@
 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-03-20 | 2023-10-06 |
 | [Netflix & Chill](https://open.spotify.com/track/656DFwGAl0zFjAXrD0pJk9) | [Tama](https://open.spotify.com/artist/76SQufIPbADbhnxyLsDbyJ) | [Netflix & Chill](https://open.spotify.com/album/7cSId6VBwFqGsLKtIoQtqv) | 2:21 | 2024-04-26 |  |
 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 | 2023-10-27 |  |
-| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 |  |
+| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 | 2024-12-01 |
 | [new cans](https://open.spotify.com/track/099r2YIhwSeUsDOaqG0tXb) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [new cans](https://open.spotify.com/album/7tkx7cknQ6rRta2uiBypHL) | 2:14 | 2023-12-22 | 2024-05-14 |
 | [New day](https://open.spotify.com/track/4qH6CKbSXk5iiy1jXZLbTp) | [SAKIRAN](https://open.spotify.com/artist/5MkPq0kcEmaG1F8vqtSO3z) | [New day](https://open.spotify.com/album/6CUomVqIbLdCcGh9njgvpS) | 2:07 | 2022-04-15 | 2022-09-23 |
 | [New Digs](https://open.spotify.com/track/49vHEmDBptOhfz1EUR2qt0) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [New Digs](https://open.spotify.com/album/2ypN0p2zkApynrOLhJGO5e) | 2:20 | 2023-11-24 |  |
@@ -1373,7 +1374,7 @@
 | [Open Mind](https://open.spotify.com/track/1kt6a5QnMUlFekTV8AHxRy) | [Dustin Pierce](https://open.spotify.com/artist/5sTFuoodmdQo8VONj2XL4z) | [Open Mind](https://open.spotify.com/album/21uLlTDKl4plmnUwvuYozh) | 2:32 | 2022-04-15 | 2022-05-27 |
 | [Opulence](https://open.spotify.com/track/5Lau1jCQPlGK5lS2gSW0cu) | [Leonard Hudgens](https://open.spotify.com/artist/6WpmWIpXTW0N63IGUFqIlT) | [Opulence](https://open.spotify.com/album/6aDX3sTyPUTeECzsKDbgt3) | 2:15 | 2024-03-22 | 2024-04-30 |
 | [Opus II](https://open.spotify.com/track/47U6UBCMwwXkf7saw2VAW3) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Opus II](https://open.spotify.com/album/11uGd9Tqjc2tfZJXY8UCx1) | 2:15 | 2022-04-15 | 2022-09-09 |
-| [Orb](https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Orb](https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6) | 2:15 | 2022-09-02 |  |
+| [Orb](https://open.spotify.com/track/0uGPVmkDuOnxFrclKurZi1) | [cakofonik](https://open.spotify.com/artist/5QoNyFJzZLKJyQYrEP5cor) | [Orb](https://open.spotify.com/album/0YfkN8XLus9Sj1PKnRvIq6) | 2:15 | 2022-09-02 | 2024-12-01 |
 | [Orbit](https://open.spotify.com/track/1B2KxrWP52AdVVqbPqr8Za) | [ATD Beats](https://open.spotify.com/artist/2HjWgx3XLvAeEBEP8fN2uy) | [Orbit](https://open.spotify.com/album/1p7sm4gf3BkyQklULsQsel) | 2:28 | 2023-04-03 |  |
 | [orchid](https://open.spotify.com/track/6bUKrVPt01nwmIC543H6fx) | [veryolddog](https://open.spotify.com/artist/5LopculXVSHwOYUcpk3oWl) | [orchid](https://open.spotify.com/album/4u3FvZ6P4kbgR1tFPeFyeP) | 1:25 | 2023-08-03 | 2023-09-09 |
 | [Orchids](https://open.spotify.com/track/1VCvqlbVdacKqen5LH8vu7) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Orchids](https://open.spotify.com/album/4soSzFXAu8rstK2p9bLy1D) | 2:06 | 2024-10-04 |  |

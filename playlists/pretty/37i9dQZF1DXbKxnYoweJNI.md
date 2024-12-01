@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 粉內 \(Fi\-Né\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,179 likes - 144 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,176 likes - 144 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:07 |
+| 1 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:10 |
 | 2 | [HEAT](https://open.spotify.com/track/6o7n7ivMPF4E0N3Wwxz09J) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [HEAT](https://open.spotify.com/album/6LBQhdFWbqpfQRamiVWAF5) | 3:32 |
 | 3 | [Windance](https://open.spotify.com/track/1UBPvcC2i1ej4UUMzjC8OZ) | [TroutFresh](https://open.spotify.com/artist/78IEFKJN8gQgJM1WOvt2Tl) | [Windance](https://open.spotify.com/album/37DNNTRuQ8PchS8IFLOTB5) | 2:32 |
 | 4 | [UrSide](https://open.spotify.com/track/6l9xJJE2FWVUawD2MGVtDs) | [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup), [Shoutiń](https://open.spotify.com/artist/1GmhtQigNu9wTE3J90WWWJ) | [UrSide](https://open.spotify.com/album/47dJYmWUXck0HWKLFkCge5) | 3:46 |

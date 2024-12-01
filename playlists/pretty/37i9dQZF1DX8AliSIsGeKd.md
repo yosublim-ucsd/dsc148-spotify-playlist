@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Booka Shade, JOPLYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 676,808 likes - 90 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 676,959 likes - 90 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 24 | [We Need](https://open.spotify.com/track/3T6mQWLFKL5Gv1JxfBTJHU) | [D72](https://open.spotify.com/artist/6LwMT7S1AQrvSORZshZ9gt) | [We Need](https://open.spotify.com/album/3MeVhVebSS4bNkLRksIla1) | 3:42 |
 | 25 | [Hot Girl Shit](https://open.spotify.com/track/0uITD0Oo6xlWiScs0q9mC8) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz), [UHD](https://open.spotify.com/artist/6ZG6KpFv5D9Qoahey7k91x) | [Hot Girl Shit](https://open.spotify.com/album/50ajtFF6ly44jnqSaR7ZDx) | 2:35 |
 | 26 | [Devil](https://open.spotify.com/track/2qNeumhTdh7mPcuZkiebNE) | [PARKERSTRANGE](https://open.spotify.com/artist/5gi06tIl8sjNnHWz3sewdS), [DOCTOR DE LA NOCHE](https://open.spotify.com/artist/7eOGzrSxt2gL0yYL1G4178) | [Devil](https://open.spotify.com/album/1Qc2p38d7RUy4LJ8S6rloG) | 2:54 |
-| 27 | [SYNCHRONISE EXISTENCE \(Part 1\)](https://open.spotify.com/track/3aQcIjmlYwu89m0VBqCaHD) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [SYNCHRONIZE EXISTENCE](https://open.spotify.com/album/0Scno5O7q1VEmm9pLgodk2) | 4:21 |
+| 27 | [SYNCHRONIZE EXISTENCE \(Part 1\)](https://open.spotify.com/track/3aQcIjmlYwu89m0VBqCaHD) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX) | [SYNCHRONIZE EXISTENCE](https://open.spotify.com/album/0Scno5O7q1VEmm9pLgodk2) | 4:21 |
 | 28 | [We Are One](https://open.spotify.com/track/1Zjt9xLzentYe1oPJXBVJw) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX) | [We Are One](https://open.spotify.com/album/0OlhBxLcOfw0LrdrmFVESE) | 6:39 |
 | 29 | [Light Up \- Radio\-Edit](https://open.spotify.com/track/1rLpW8P2CJdL4ZERm3PBKS) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Light Up \(Radio\-Edit\)](https://open.spotify.com/album/19xcAYvpGxOhoXf07DIu7D) | 3:33 |
 | 30 | [Everybody Love](https://open.spotify.com/track/47kEBGzc4EefpanIF3fAl7) | [Yet More](https://open.spotify.com/artist/56brJyNkgCiv9ncSNkV99C), [Edone](https://open.spotify.com/artist/2MZs7U8Pgj30dOFjbODBIN) | [Everybody Love](https://open.spotify.com/album/2bz3vBkDCn10yF6YmaGbFx) | 6:50 |

@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 240553,
+  "num_followers": 240787,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Songs About Leaving",
-        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
-      },
-      "artists": [
-        {
-          "name": "Carissa's Wierd",
-          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
-        }
-      ],
-      "duration_ms": 286160,
-      "name": "They'll Only Miss You When You Leave",
-      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
         "name": "Giles Corey",
         "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 486277,
       "name": "No One Is Ever Going to Want Me",
       "url": "https://open.spotify.com/track/4McullpiOd45TwEHlOISgs"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
+        "name": "Songs About Leaving",
+        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
+      },
+      "artists": [
+        {
+          "name": "Carissa's Wierd",
+          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "They'll Only Miss You When You Leave",
+      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -463,6 +463,22 @@
       "duration_ms": 173026,
       "name": "Heavy Water/I'd Rather Be Sleeping",
       "url": "https://open.spotify.com/track/6IUwiHsyKAZtfBy37Wu4ij"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "I'm Going to Do It",
+      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -539,38 +555,6 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Gazing Back At Earth",
-        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
-      },
-      "artists": [
-        {
-          "name": "Andy Leech",
-          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
-        }
-      ],
-      "duration_ms": 316000,
-      "name": "Gazing Back At Earth",
-      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "I'm Going to Do It",
-      "url": "https://open.spotify.com/track/6pS0PVQYaBYGkKPRxT5PEl"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -599,6 +583,38 @@
       "duration_ms": 256825,
       "name": "Disengaged",
       "url": "https://open.spotify.com/track/3c7CEnNLplZu4C11H6xBkl"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
+        "name": "Gazing Back At Earth",
+        "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
+      },
+      "artists": [
+        {
+          "name": "Andy Leech",
+          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
+        }
+      ],
+      "duration_ms": 316000,
+      "name": "Gazing Back At Earth",
+      "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
+        "name": "Giles Corey",
+        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
+      },
+      "artists": [
+        {
+          "name": "Giles Corey",
+          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
+        }
+      ],
+      "duration_ms": 477000,
+      "name": "The Haunting Presence",
+      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -687,22 +703,6 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Giles Corey",
-        "url": "https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu"
-      },
-      "artists": [
-        {
-          "name": "Giles Corey",
-          "url": "https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv"
-        }
-      ],
-      "duration_ms": 477000,
-      "name": "The Haunting Presence",
-      "url": "https://open.spotify.com/track/2UBUvScBA21UPHoLSIEz3V"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
         "name": "Vale Reworked",
         "url": "https://open.spotify.com/album/2ERvok5IzEmGQl8FXg6fVz"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Moments.",
-        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
-      },
-      "artists": [
-        {
-          "name": "Violet A. Foster",
-          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
-        }
-      ],
-      "duration_ms": 156301,
-      "name": "Locale",
-      "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
         "name": "Radio Amor",
         "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 489320,
       "name": "Spectral",
       "url": "https://open.spotify.com/track/3U8n9dqqe4louRiL2Sg4fp"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
+        "name": "Moments.",
+        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
+      },
+      "artists": [
+        {
+          "name": "Violet A. Foster",
+          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
+        }
+      ],
+      "duration_ms": 156301,
+      "name": "Locale",
+      "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
     },
     {
       "added_at": "2024-08-29 11:43:18",

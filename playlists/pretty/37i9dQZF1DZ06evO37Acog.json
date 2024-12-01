@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 77305,
+  "num_followers": 77312,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAACN38MUy6W/HJZoCx2IuBBU",
+  "snapshot_id": "Z0kEAAAAAAAJEZO5Vw7kYk+bmJYi6cB2",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 185960,
-      "name": "Vestida De Color De Rosa",
-      "url": "https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
         "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 210946,
       "name": "Corrido De Chito Cano",
       "url": "https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 185960,
+      "name": "Vestida De Color De Rosa",
+      "url": "https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 \u00c9xitos Pesados De La Cantina",
+        "url": "https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 203689,
+      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+      "url": "https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Y Tragedias De La Frontera",
         "url": "https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 180880,
       "name": "Hay Unos Ojos",
       "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 \u00c9xitos Pesados De La Cantina",
-        "url": "https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 203689,
-      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
-      "url": "https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Norte\u00f1as De Exito Herencia Musical De",
+        "url": "https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Ni por Mil Pu\u00f1ados de Oro",
+      "url": "https://open.spotify.com/track/5vqvts8qIppDyCDfTW3jn7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo...El Hombre Y Su Musica",
         "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
       },
@@ -427,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Norte\u00f1as De Exito Herencia Musical De",
-        "url": "https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ"
+        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
       },
       "artists": [
         {
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Ni por Mil Pu\u00f1ados de Oro",
-      "url": "https://open.spotify.com/track/5vqvts8qIppDyCDfTW3jn7"
+      "duration_ms": 189853,
+      "name": "Chaparra De Mi Amor",
+      "url": "https://open.spotify.com/track/6O520IZgFxvuPnBms0But5"
     },
     {
       "added_at": null,
@@ -475,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Casualidad",
         "url": "https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w"
       },
@@ -487,38 +519,6 @@
       "duration_ms": 183626,
       "name": "Qu\u00e9 Casualidad",
       "url": "https://open.spotify.com/track/7lgsl2ESXS9D5rvpl2bBsc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quisiera Tener Alas",
-        "url": "https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Quisiera Tener Alas",
-      "url": "https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
-        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "Chaparra De Mi Amor",
-      "url": "https://open.spotify.com/track/6O520IZgFxvuPnBms0But5"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+        "name": "Quisiera Tener Alas",
+        "url": "https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 226360,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
+      "duration_ms": 211213,
+      "name": "Quisiera Tener Alas",
+      "url": "https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY"
     },
     {
       "added_at": null,

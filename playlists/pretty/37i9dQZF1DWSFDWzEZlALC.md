@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. bac
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,683 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,719 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Machmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
+| 1 | [Manchmal so, Manchmal so](https://open.spotify.com/track/2wdRhl8nY9idxaN3V4GX0g) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Manchmal so, Manchmal so](https://open.spotify.com/album/1j49KbJvkFrcrKqvWJeNDh) | 1:57 |
 | 2 | [Kaputt](https://open.spotify.com/track/6WcoNRqn0qQwENrZtdu5r6) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Kaputt](https://open.spotify.com/album/73XBDICD2Sh25w7K29XRS4) | 2:17 |
 | 3 | [Abwarten](https://open.spotify.com/track/1y9yVDYBqXIb8Z9lpUqiOk) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Please Hold The Line](https://open.spotify.com/album/5EetiFf1iFwNbXpsDixYer) | 3:39 |
 | 4 | [Fliegen](https://open.spotify.com/track/4lnLVhGxv1YnJEJIComb9x) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fliegen](https://open.spotify.com/album/5Z9fgbNT54fpXKYRvhwMw5) | 2:24 |

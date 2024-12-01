@@ -38525,6 +38525,24 @@
     },
     {
       "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/10dpGxoW9iHHoj0cmKAAKy"
+      },
+      "artists": [
+        {
+          "name": "Bodywash",
+          "url": "https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226320,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/0A9BHZY9IJTAUKB6ha78V7"
+    },
+    {
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/30KypTEo8oYOQ1y7HbZy2M"
       },

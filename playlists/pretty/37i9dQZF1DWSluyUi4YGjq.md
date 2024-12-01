@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. cover: Trauma Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,865 likes - 169 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,955 likes - 169 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 3 | [lick the star](https://open.spotify.com/track/1X8E5Ad67vg9bNVRAuNHtX) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [lick the star](https://open.spotify.com/album/7IYAs7rJtjzvgETlqWc1wG) | 5:17 |
 | 4 | [Chameleon](https://open.spotify.com/track/0NMkKC8DoQE3Y0WVyoD4zx) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Chameleon](https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn) | 3:12 |
 | 5 | [Bullet Train](https://open.spotify.com/track/6exAuvSEakkp85fAcCimGp) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Bullet Train](https://open.spotify.com/album/0NyY9p77V8aKXbY1OAObcV) | 2:45 |
-| 6 | [bedbugs](https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:22 |
+| 6 | [bedbugs](https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:22 |
 | 7 | [倖存者](https://open.spotify.com/track/5DOetC8dEBwSvFbZY9GOvT) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [倖存者](https://open.spotify.com/album/2nUF4qYnQ2k4I1W4II78yL) | 3:52 |
 | 8 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 |
 | 9 | [Daymom](https://open.spotify.com/track/1RTKTG7zfaiuJ4CXazi13u) | [Drop Nineteens](https://open.spotify.com/artist/1s5mUpjVtK0XAScRqlErSE) | [Daymom](https://open.spotify.com/album/6lCVrl6Z9DQsh4OQEV8AlU) | 6:02 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 20 | [Catcher](https://open.spotify.com/track/2traL005j0eZH2ruQqpPSa) | [High.](https://open.spotify.com/artist/59LpxUqe2EStKGfpogJqxi) | [Catcher](https://open.spotify.com/album/5s4PtDiumQ7P1R6msZMjpw) | 4:05 |
 | 21 | [Guided Tour](https://open.spotify.com/track/5libQaNWi39sL1255ivVwK) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Guided Tour](https://open.spotify.com/album/2EPW5FoYv2KNrlR58Shsnl) | 4:25 |
 | 22 | [bones](https://open.spotify.com/track/2IC95ns8wvWXMmR4nFi4wo) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [bones](https://open.spotify.com/album/1uuNrcp5NTu8kGcRoHwq4n) | 1:12 |
-| 23 | [you're like me](https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [you're like me](https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt) | 5:29 |
+| 23 | [you're like me](https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [you're like me](https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt) | 5:29 |
 | 24 | [feminine adornments](https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [my anti\-aircraft friend](https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ) | 4:13 |
 | 25 | [Bittersweet Mary](https://open.spotify.com/track/5ztMIM0AfQmX8axBX8OJ98) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Your Own Becoming](https://open.spotify.com/album/3VhlGZ1XKrRsWWfmBFe1QS) | 3:54 |
 | 26 | [Bottlebrush Tree](https://open.spotify.com/track/0jJxSU4nZyCyGN8TivK0Z3) | [Starling](https://open.spotify.com/artist/1CD5G3Yqzu1TpkqpxWFGFC) | [Bottlebrush Tree](https://open.spotify.com/album/0uICcGi4pEV8ZLzi1kp2qT) | 2:50 |

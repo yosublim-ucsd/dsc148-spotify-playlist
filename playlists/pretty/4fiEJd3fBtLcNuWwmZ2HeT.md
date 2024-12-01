@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 253 songs - 14 hr 24 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 255 songs - 14 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -261,5 +261,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 251 | [ODD NUMBER](https://open.spotify.com/track/26gnN7LjvFo6Bwsmcu0mx1) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [ODD NUMBER](https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO) | 3:09 |
 | 252 | [Petrichor \(feat\. 9Lana\)](https://open.spotify.com/track/6MESRIHFSpI37ox8qSKX06) | [Nagumoyuuki](https://open.spotify.com/artist/4hZtlr9cA7XX5YSpnD5MWP), [9Lana](https://open.spotify.com/artist/4PiEaQDZq6WdVirde1aIq3) | [404 NOT FOUND](https://open.spotify.com/album/3yMOVTrwwXgi7ozbX51uMg) | 2:04 |
 | 253 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 |
+| 254 | [Touch You](https://open.spotify.com/track/6qWEpnyU43Bcrx3vfbGuVm) | [遠野高志](https://open.spotify.com/artist/3dkW1L7GIhispeiHo9uzM8), [加島優](https://open.spotify.com/artist/3ynBix87InXjEn5L9LsAWB), [矢口恭介](https://open.spotify.com/artist/4CkENaPbZ3CSwB7kAbzTE1), [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO), [百合絢斗](https://open.spotify.com/artist/5nEXLz5Qwkcv8d91fP4Cjo), [田村唯](https://open.spotify.com/artist/4tF37PbmfGwti71JKUI1pz), [明美圭一](https://open.spotify.com/artist/6l15fzba4HWiYgbX7ji3NQ), [糸目幸士郎](https://open.spotify.com/artist/0t1H6voah4Js1hbu2EPUqx), [鹿谷樹](https://open.spotify.com/artist/7u0iN4XxPpkIk9KRcLQXDa) | [アニメ『ヤリチン☆ビッチ部』主題歌「Touch You」](https://open.spotify.com/album/2rQlPhe76mnmviBmjHdS89) | 3:26 |
+| 255 | [Por Que](https://open.spotify.com/track/7hNdWx6prYB4xmpG25eTAT) | [Amilcar Boscan](https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L) | [Realidades](https://open.spotify.com/album/5grCaFumwBjBTbEgxKwqLm) | 4:48 |
 
-Snapshot ID: `AAAI1q22Oz3TFnMucl11I1/TfIS+E7t+`
+Snapshot ID: `AAAI2J4FiNukEYJnqJlQBYhB3IUR9Ibi`

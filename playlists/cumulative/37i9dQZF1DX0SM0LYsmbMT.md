@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,286 songs - 6 day 19 hr 27 min
+4,288 songs - 6 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1278,6 +1278,7 @@
 | [folks on the hill](https://open.spotify.com/track/3hN7Pz2yb7LkKPvbgFjoE9) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Snow Vol\. 7](https://open.spotify.com/album/68ZfEDS3HexVA552oFG42S) | 1:27 | 2023-02-02 | 2023-03-03 |
 | [Fontanka](https://open.spotify.com/track/0Io5tZMw6j4TZRhThVSOuy) | [LIVW](https://open.spotify.com/artist/6AIMbstX8Kyb4OnANfhl3r) | [Singer EP](https://open.spotify.com/album/5el6xbHl0FGHUOLdolCzm4) | 2:03 | 2019-07-20 | 2019-12-13 |
 | [Foolish](https://open.spotify.com/track/22N8mNZiQIy5eyphxJQNvy) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Foolish](https://open.spotify.com/album/7IWTGuYWdhHfNCkHzU8tMT) | 2:24 | 2021-11-29 | 2021-12-23 |
+| [Fools Tale](https://open.spotify.com/track/6i81ZWyVPNhf95YcxisK8u) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j) | [Fools Tale](https://open.spotify.com/album/2ub0c9T6FD8qEDULtIRtLl) | 1:56 | 2024-11-11 |  |
 | [For Eva](https://open.spotify.com/track/3ViIKef1GklY6PZwEktQfs) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [For Eva](https://open.spotify.com/album/1yBFUhJEjIiQcFCsGqt3GJ) | 2:04 | 2023-10-05 | 2023-10-20 |
 | [For Her](https://open.spotify.com/track/7BjabIgLdDlgTQrUfc5rfd) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [For Her](https://open.spotify.com/album/0ZkAWtPsWHM8wgy8nqiYDH) | 2:14 | 2021-09-10 | 2022-04-08 |
 | [For Jay](https://open.spotify.com/track/0EaewujYRGsFrlkfxV6Ls9) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [For Jay](https://open.spotify.com/album/0yGoC4C5rp7egjVkmLnACm) | 2:37 | 2023-03-23 | 2023-04-14 |
@@ -3350,6 +3351,7 @@
 | [Some kind of green](https://open.spotify.com/track/5bJwIC3hWM6j8JYAUGZ4AV) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Some kind of green](https://open.spotify.com/album/1589hTSmG5YjxkMU8NmiFr) | 2:23 | 2022-11-17 | 2023-08-25 |
 | [Some kind of green](https://open.spotify.com/track/0DnJr8OnVAVXOVBMhv3bgV) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Some kind of green](https://open.spotify.com/album/0964KqBf3pIEcY1llqVLlP) | 2:23 | 2022-06-09 | 2022-11-20 |
 | [Some New Soul](https://open.spotify.com/track/3PpNMz6two4qZasqIbw3nr) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Some New Soul](https://open.spotify.com/album/0xGszQkElU6sZeMD3bdslB) | 2:20 | 2023-05-18 | 2023-10-06 |
+| [Some Vibes](https://open.spotify.com/track/4w3ZCvANb12MDDagQsB0xu) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Some Vibes](https://open.spotify.com/album/47LzGxNjujw51g6oItxhlk) | 2:26 | 2024-11-11 |  |
 | [Somehow](https://open.spotify.com/track/08IjCH3GfvVcdfwfz03exU) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [Somehow / Remember Me](https://open.spotify.com/album/3lA0nAOkURWpTf6byiRnXv) | 2:51 | 2020-09-18 | 2020-11-07 |
 | [Someone I knew](https://open.spotify.com/track/4o3h3QqaUHbpVnm7CLaMAd) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Someone I knew](https://open.spotify.com/album/2K79TVSBzh0S6FdVGzQVGM) | 2:19 | 2021-08-08 | 2022-04-01 |
 | [Something Between Us](https://open.spotify.com/track/5xfu1WRNdHvRorPYhASgMK) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Something Between Us](https://open.spotify.com/album/2EL1fe5GnULw7xg54ZFbH1) | 2:30 | 2021-05-15 | 2022-06-10 |
@@ -3698,7 +3700,7 @@
 | [Taproot](https://open.spotify.com/track/0M9s15GFz78rNi2t5Lgv7L) | [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Vol\. III](https://open.spotify.com/album/0GWgASUE1sbXFw2uqI6PPZ) | 2:32 | 2023-11-13 | 2024-08-23 |
 | [Targa](https://open.spotify.com/track/7DRk4leuSMGMAWzG7hNvxb) | [Sandy Mental](https://open.spotify.com/artist/1TIM4mSeLlFajoWxR0GDK3) | [Targa](https://open.spotify.com/album/7IDya817iVQjLTTjM13wRE) | 2:04 | 2024-05-30 |  |
 | [Taribo](https://open.spotify.com/track/0h55WRT1meR6qBHYgNGoH8) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Taribo](https://open.spotify.com/album/1lqU2ocXf4uMlP0eiFEL0f) | 2:29 | 2021-10-22 | 2022-06-03 |
-| [tartufo](https://open.spotify.com/track/0m1g8ik4XhMxtZCfWgNLTy) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [tartufo](https://open.spotify.com/album/7oRwqoNx3GpQWYjNN8dA5o) | 2:09 | 2024-03-15 |  |
+| [tartufo](https://open.spotify.com/track/0m1g8ik4XhMxtZCfWgNLTy) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz) | [tartufo](https://open.spotify.com/album/7oRwqoNx3GpQWYjNN8dA5o) | 2:09 | 2024-03-15 | 2024-12-01 |
 | [Tato](https://open.spotify.com/track/5V0f1iD7FIVKSyexZk3WcP) | [SP kOwi](https://open.spotify.com/artist/7gVcXipsVVlTpZ8mMjzsJL) | [Tokio EP Vol\. II](https://open.spotify.com/album/5CQvE9tYoGvpAYsYXR3qSK) | 1:49 | 2022-04-28 | 2022-06-01 |
 | [tautte.](https://open.spotify.com/track/56y8VbwDjaKZfnBZIZMR1y) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [tautte.](https://open.spotify.com/album/2gId9ow9rRjrs6n3JaRmeY) | 1:32 | 2019-06-08 | 2019-11-15 |
 | [tavo lara](https://open.spotify.com/track/3prAccfg2dgn8UM1RI482W) | [p1H](https://open.spotify.com/artist/2BLdsgIde6vS1z9GIGRYrm) | [tavo lara](https://open.spotify.com/album/0Rnv3Qv4VNIpY03zkfrOQP) | 2:19 | 2019-07-16 | 2019-11-12 |
@@ -4261,7 +4263,7 @@
 | [you are exactly where you need to be right now](https://open.spotify.com/track/6KHSclNt1LnucOmfUal7Nn) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [you are exactly where you need to be right now](https://open.spotify.com/album/04TRTYmF2ThDRS5YXTbLSE) | 2:20 | 2023-11-23 | 2023-12-02 |
 | [You Cried](https://open.spotify.com/track/60K7hFMcnVg7UpTLtJombP) | [cbakl](https://open.spotify.com/artist/1td5uTADjYVJwwa9chV19P) | [Wisdom Is Misery](https://open.spotify.com/album/2iJ16scsbH0QixYxjy8QiG) | 2:19 | 2019-08-02 | 2019-10-25 |
 | [You Go?!](https://open.spotify.com/track/1ik7xZMTedPed4uN8lxDDW) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [You Go?!](https://open.spotify.com/album/2B6f7XTlVJ9ZYO7rxQMBdD) | 0:44 | 2020-05-01 | 2020-07-10 |
-| [You Know](https://open.spotify.com/track/13V0lxxImhqXZrm8610JnO) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [You Know](https://open.spotify.com/album/7CMezD7MYhwln1HRbpqhdU) | 2:35 | 2022-10-13 |  |
+| [You Know](https://open.spotify.com/track/13V0lxxImhqXZrm8610JnO) | [Wieland & Ulrich](https://open.spotify.com/artist/4ocnTp8nDRYItXbkk2vwpN) | [You Know](https://open.spotify.com/album/7CMezD7MYhwln1HRbpqhdU) | 2:35 | 2022-10-13 | 2024-12-01 |
 | [You Know How It Goes](https://open.spotify.com/track/0IEoI3PxcOpqw5LVgfcW37) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [You Know How It Goes](https://open.spotify.com/album/6MyYklxIu9OogcRc3JkxFr) | 2:22 | 2020-06-16 | 2020-09-11 |
 | [You Know How Much](https://open.spotify.com/track/6sRf9kK808T03nXPkOHzsA) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [You Know How Much](https://open.spotify.com/album/2dfpZhuQszJ2s5g8VPzZT2) | 2:57 | 2020-10-30 | 2021-01-23 |
 | [You Know You Know](https://open.spotify.com/track/3g6XSwcTGzKeYqDdqy1J2D) | [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j), [ron quixote](https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA) | [Sloth City \(Vol\. 2\)](https://open.spotify.com/album/71uAGkGV8ChO97AoPiuxrF) | 2:59 | 2021-08-13 | 2021-11-19 |

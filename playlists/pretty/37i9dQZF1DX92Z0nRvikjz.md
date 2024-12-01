@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92Z0nRvikjz.md) - [plain]
 
 > 他們把音樂給了世界、溫柔給了我們。所有的喜怒哀樂，仍然都會是五月天。
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,319 likes - 61 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,332 likes - 61 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92Z0nRvikjz.md) - [plain]
 | 19 | [知足 \(諾亞方舟 10週年進化\)](https://open.spotify.com/track/5chcwiV9mmq2vllfsxVCEu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [知足](https://open.spotify.com/album/3kkCnnNH23dAmzEatPhaBz) | 4:10 |
 | 20 | [步步](https://open.spotify.com/track/1JWavf3k1hZZFCvlAkaE1o) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 \| 步步 \| 自選作品輯 the Best of 1999\-2013](https://open.spotify.com/album/7wBtSo4fwzyPNQM1ipx6JR) | 4:33 |
 | 21 | [派對動物](https://open.spotify.com/track/3HwyNPs2e1iaD9slrimZ2Q) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/42Xl2upzvVz7di36YN1ZqB) | 4:09 |
-| 22 | [傷心的人別聽慢歌\(貫徹快樂\)](https://open.spotify.com/track/30JvxpDThn5DR1tK2An0vB) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 \| 步步 \| 自選作品輯 the Best of 1999\-2013](https://open.spotify.com/album/7wBtSo4fwzyPNQM1ipx6JR) | 3:33 |
+| 22 | [傷心的人別聽慢歌（貫徹快樂）](https://open.spotify.com/track/30JvxpDThn5DR1tK2An0vB) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 \| 步步 \| 自選作品輯 the Best of 1999\-2013](https://open.spotify.com/album/7wBtSo4fwzyPNQM1ipx6JR) | 3:33 |
 | 23 | [你的神曲](https://open.spotify.com/track/0YgeOKbm6RmVoqjnzR8u3J) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [你的神曲](https://open.spotify.com/album/3sDy8v5fg2XHVBdtzs42fa) | 3:30 |
 | 24 | [天使](https://open.spotify.com/track/4UyZ3srnirsjknpSOP75T4) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [為愛而生](https://open.spotify.com/album/0YHWSGJcdwc129x5nd9aTc) | 4:10 |
 | 25 | [戀愛ing](https://open.spotify.com/track/4X4hJWRzbT83Wp2UIhyPZK) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [十萬人出頭天 LIVE](https://open.spotify.com/album/5YA6B1EbuZnmGtK3OwuPAd) | 3:34 |
-| 26 | [青春の彼方 / 盛夏光年](https://open.spotify.com/track/1V1usYaSVLApb8NE1IeK45) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [YOUR LEGEND \~燃ゆる命\~](https://open.spotify.com/album/3EBrmY7qUlg8yVbtgzAJLt) | 4:42 |
+| 26 | [青春の彼方 / 盛夏光年](https://open.spotify.com/track/1V1usYaSVLApb8NE1IeK45) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [YOUR LEGEND ～燃ゆる命～](https://open.spotify.com/album/3EBrmY7qUlg8yVbtgzAJLt) | 4:42 |
 | 27 | [擁抱](https://open.spotify.com/track/5HYBtE4U1oBmak8WoItiqJ) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 \| 步步 \| 自選作品輯 the Best of 1999\-2013](https://open.spotify.com/album/7wBtSo4fwzyPNQM1ipx6JR) | 4:46 |
 | 28 | [刻在我心底的名字](https://open.spotify.com/track/63UkGQq18KEM46MsAHlLwd) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [刻在我心底的名字](https://open.spotify.com/album/5iK1vI2joFeDFvaW2hGpRH) | 5:20 |
 | 29 | [愛情的模樣 Life Live](https://open.spotify.com/track/4b1SzvKg74EQ8ftVH0ke8Z) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [五月天 人生無限公司 Life Live 好友加班篇](https://open.spotify.com/album/5Rfn5E0vo8RIUfWsr0B31Y) | 5:11 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92Z0nRvikjz.md) - [plain]
 | 43 | [轉眼](https://open.spotify.com/track/67CKNH2lWb078HubZ93r0F) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/42Xl2upzvVz7di36YN1ZqB) | 6:06 |
 | 44 | [憨人](https://open.spotify.com/track/0SPxJ2htQ1fZbNIaHEKUE4) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [愛情萬歲](https://open.spotify.com/album/0CMBn9K7y4sClB4fB1hiXi) | 4:10 |
 | 45 | [知足\(07'最知足版\)](https://open.spotify.com/track/0LfJz5nmfKopvdwm5rV1l2) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [離開地球表面](https://open.spotify.com/album/4PCoCQZX5O79xDRDwTPHix) | 5:13 |
-| 46 | [OAOA\(現在就是永遠\)](https://open.spotify.com/track/5oTA7Oa9jJXV3JF0OEXUfo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [第二人生 NOW HERE 明日版](https://open.spotify.com/album/6SDqVCvBMsmIDl12WLqCWp) | 4:42 |
+| 46 | [OAOA（現在就是永遠）](https://open.spotify.com/track/5oTA7Oa9jJXV3JF0OEXUfo) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [第二人生 NOW HERE 明日版](https://open.spotify.com/album/6SDqVCvBMsmIDl12WLqCWp) | 4:42 |
 | 47 | [最重要的小事](https://open.spotify.com/track/73acY3QjECBG2M6BfkOiem) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 \| 步步 \| 自選作品輯 the Best of 1999\-2013](https://open.spotify.com/album/7wBtSo4fwzyPNQM1ipx6JR) | 4:48 |
 | 48 | [任意門](https://open.spotify.com/track/7zShjmnls29Ie3DnrwsGfT) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [自傳](https://open.spotify.com/album/42Xl2upzvVz7di36YN1ZqB) | 4:32 |
 | 49 | [凡人歌](https://open.spotify.com/track/3M6DkD5SjZ140lf7V6OxPz) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [凡人歌](https://open.spotify.com/album/60h1o7fDUuSkWXEyZUTdsu) | 4:51 |

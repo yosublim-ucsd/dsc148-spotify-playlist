@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Kieran Campbell
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,960 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,994 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 28 | [Can You Feel It](https://open.spotify.com/track/0DWmI8LJNlDMNqDMqg6LeZ) | [Maddee Ritter](https://open.spotify.com/artist/7lRmMHNCYeMP14S7ArmF1A) | [Songs Of Love & Death](https://open.spotify.com/album/1IDeR3gYRwpMm1na8BAGn4) | 3:10 |
 | 29 | [TIME MACHINE](https://open.spotify.com/track/4V1zv7F26JrUVIi5CcujWa) | [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [TIME MACHINE](https://open.spotify.com/album/1HZSzpjnFlzeBkwrMEPWCr) | 3:17 |
 | 30 | [Magnum](https://open.spotify.com/track/22Wt3sZ4ftEtS9vNUnoQX0) | [Serenade](https://open.spotify.com/artist/3pXkGyRhsDavFHyVL9pmoY), [Adoré](https://open.spotify.com/artist/6bMFP4o3XjL8HQijJou06C) | [Magnum](https://open.spotify.com/album/6g31Q7g2nq3UJZ3DFUBD9k) | 2:06 |
-| 31 | [киса](https://open.spotify.com/track/05uimeZd86uuzlOvrO1ZDQ) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE), [ruski sixx](https://open.spotify.com/artist/6qW0VYpyZGmwdBt9UgHLNa) | [киса](https://open.spotify.com/album/4FMRKZrnKf6J9PaXzqFMm6) | 2:36 |
+| 31 | [киса](https://open.spotify.com/track/05uimeZd86uuzlOvrO1ZDQ) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE), [ruski sixx](https://open.spotify.com/artist/1NIds7CUWndWI4SiungvXv) | [киса](https://open.spotify.com/album/4FMRKZrnKf6J9PaXzqFMm6) | 2:36 |
 | 32 | [TELL ME THE TRUTH](https://open.spotify.com/track/5fyTcx9WHr0QgpghnrQ1nQ) | [Red Rosamond](https://open.spotify.com/artist/5sWFdgVLTZt5jVHJfiPnJ3) | [WIP](https://open.spotify.com/album/0hKz3eJCUgQKXDf8AOBGSv) | 3:01 |
 | 33 | [Mama Don't Know](https://open.spotify.com/track/5NnnHxbeem32rIeEcEagWv) | [Puma June](https://open.spotify.com/artist/2kZHI8c2WK0bi6EaNAWg2I) | [Mama Don't Know](https://open.spotify.com/album/5g9OBR81o0wA8kqYfwQWLj) | 3:06 |
 | 34 | [hey cinderella](https://open.spotify.com/track/58VbwpkRwzTyK43hIYkrZP) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [hey cinderella](https://open.spotify.com/album/54faiWodB3OiRvKjH5zQzE) | 2:02 |

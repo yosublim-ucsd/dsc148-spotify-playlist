@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,338,241 likes - 101 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,338,380 likes - 101 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 16 | [Big Hoe Me](https://open.spotify.com/track/1XbPrHzswWUABaY8l3CmHs) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Big Hoe Me](https://open.spotify.com/album/4GzvKQpXkbK5fXy68YFDdb) | 4:51 |
 | 17 | [How Much Do You Love Me?](https://open.spotify.com/track/7gMyrexAEJ9fL5GtKvDFNx) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:03 |
 | 18 | [No Bad News \(feat\. Kanye West\)](https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:32 |
-| 19 | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9) | 2:07 |
+| 19 | [You're the Only One Watching](https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [You're the Only One Watching](https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9) | 2:07 |
 | 20 | [Not In The Mood](https://open.spotify.com/track/6ocGxD3RWgYRvUyXcUu9LI) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [I'll Always Come Find You \(Deluxe\)](https://open.spotify.com/album/5YjyhyCSZbXHjh1X2QgqPU) | 2:15 |
 | 21 | [Dead Presidents](https://open.spotify.com/track/6n7IN1ggUQFWT57ye4CxxX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 3:09 |
 | 22 | [Yak's Prayer \(feat\. Kodak Black\)](https://open.spotify.com/track/2TWYm2ojFFrcq6y2utrCcx) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Faith Of A Mustard Seed](https://open.spotify.com/album/0WUrlWBRvpGtiPfU7RK46R) | 3:24 |

@@ -1,6 +1,6 @@
 {
   "description": "Ruhunu dinlendirece\u011fin bu kutsal ayda yolculu\u011funa e\u015flik edecek ney ezgileri. G\u00f6rsel: Sultanahmet Camii",
-  "num_followers": 11766,
+  "num_followers": 11767,
   "original_name": "Ramazan",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Ney Taksimleri",
+        "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
+      },
+      "artists": [
+        {
+          "name": "Murat Akman",
+          "url": "https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe"
+        }
+      ],
+      "duration_ms": 110493,
+      "name": "Ney'le Zalimsin Hicazkar Taksim",
+      "url": "https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Neva",
         "url": "https://open.spotify.com/album/2ByDgVj2qrVhzMjXooER6C"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 279146,
       "name": "M\u00fc\u015fterek Taksim 1",
       "url": "https://open.spotify.com/track/1V3GpxsOD06c4feFR8q8wY"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Ney Taksimleri",
-        "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
-      },
-      "artists": [
-        {
-          "name": "Murat Akman",
-          "url": "https://open.spotify.com/artist/5pUZ3fAOzfIIqCh7x62kTe"
-        }
-      ],
-      "duration_ms": 110493,
-      "name": "Ney'le Zalimsin Hicazkar Taksim",
-      "url": "https://open.spotify.com/track/3HmjKUnDbOGaghDFlW2yL5"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Sufi, Vol. 4 (Ney & Bendir)",
-        "url": "https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm"
-      },
-      "artists": [
-        {
-          "name": "An\u0131l \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "G\u00f6\u011fe A\u00e7\u0131lan Eller",
-      "url": "https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
         "name": "Ney Taksimleri",
         "url": "https://open.spotify.com/album/5lzWrB4y6Cz6Su3QVYhoDD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 117706,
       "name": "Ney'le Ho\u015fgeldin Nihavend Taksim",
       "url": "https://open.spotify.com/track/1IID5LMM0y6YtKwkbv6f3n"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "Sufi, Vol. 4 (Ney & Bendir)",
+        "url": "https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm"
+      },
+      "artists": [
+        {
+          "name": "An\u0131l \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "G\u00f6\u011fe A\u00e7\u0131lan Eller",
+      "url": "https://open.spotify.com/track/61Dnebn1Q96qRBCQRG0eoQ"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -339,22 +339,6 @@
       "duration_ms": 112105,
       "name": "Tekbir",
       "url": "https://open.spotify.com/track/0AkMJVSyIWegyBgUAC9zfI"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Sufi, Vol. 4 (Ney & Bendir)",
-        "url": "https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm"
-      },
-      "artists": [
-        {
-          "name": "An\u0131l \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01"
-        }
-      ],
-      "duration_ms": 344453,
-      "name": "Allah'a A\u015fk",
-      "url": "https://open.spotify.com/track/0BgGpBmpcxi2aEAqvePKl6"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -427,6 +411,22 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Ney Dinletisi, Vol. 1",
+        "url": "https://open.spotify.com/album/5156CHi13Q9MKiuE3IRTRz"
+      },
+      "artists": [
+        {
+          "name": "Kervan City",
+          "url": "https://open.spotify.com/artist/0e5fIkfRh7wcDxKnQOaaIS"
+        }
+      ],
+      "duration_ms": 199818,
+      "name": "Uyan Ey G\u00f6zlerim",
+      "url": "https://open.spotify.com/track/0iZ4IXNuFeQM5j7ZJp0div"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Turkey: The Turkish Ney",
         "url": "https://open.spotify.com/album/5V1cn21rjWnC8kn3YYB6ci"
       },
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Ney Dinletisi, Vol. 1",
-        "url": "https://open.spotify.com/album/5156CHi13Q9MKiuE3IRTRz"
+        "name": "Sufi, Vol. 4 (Ney & Bendir)",
+        "url": "https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm"
       },
       "artists": [
         {
-          "name": "Kervan City",
-          "url": "https://open.spotify.com/artist/0e5fIkfRh7wcDxKnQOaaIS"
+          "name": "An\u0131l \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01"
         }
       ],
-      "duration_ms": 199818,
-      "name": "Uyan Ey G\u00f6zlerim",
-      "url": "https://open.spotify.com/track/0iZ4IXNuFeQM5j7ZJp0div"
+      "duration_ms": 344453,
+      "name": "Allah'a A\u015fk",
+      "url": "https://open.spotify.com/track/0BgGpBmpcxi2aEAqvePKl6"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -475,50 +475,18 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "A\u015fk ile Me\u015fk / Makamlarla \u0130l\u00e2hiler 2",
-        "url": "https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5"
+        "name": "Neyzen",
+        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
       },
       "artists": [
         {
-          "name": "Ubeydullah Sezikli",
-          "url": "https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N"
+          "name": "Volkan Ka\u00e7ak",
+          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
         }
       ],
-      "duration_ms": 104880,
-      "name": "Acema\u015firan Pe\u015frev",
-      "url": "https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Sufi, Vol. 4 (Ney & Bendir)",
-        "url": "https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm"
-      },
-      "artists": [
-        {
-          "name": "An\u0131l \u015eim\u015fek",
-          "url": "https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01"
-        }
-      ],
-      "duration_ms": 111853,
-      "name": "Huzurun Yolu",
-      "url": "https://open.spotify.com/track/2uUqKI98yYHo4NxxiCYqSX"
-    },
-    {
-      "added_at": "2024-03-05 11:27:00",
-      "album": {
-        "name": "Breath of the Sufi",
-        "url": "https://open.spotify.com/album/43jU5mw2LhMafOSAgp7GK3"
-      },
-      "artists": [
-        {
-          "name": "Hakan Menguc",
-          "url": "https://open.spotify.com/artist/2RvjsXeTmhabQw2O4x95SL"
-        }
-      ],
-      "duration_ms": 173531,
-      "name": "Voice of the Sufi",
-      "url": "https://open.spotify.com/track/10oERYuAOrmGcDAWflcW9F"
+      "duration_ms": 154853,
+      "name": "Bestenigar Taksim",
+      "url": "https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa"
     },
     {
       "added_at": "2024-03-05 11:27:00",
@@ -543,6 +511,38 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
+        "name": "Breath of the Sufi",
+        "url": "https://open.spotify.com/album/43jU5mw2LhMafOSAgp7GK3"
+      },
+      "artists": [
+        {
+          "name": "Hakan Menguc",
+          "url": "https://open.spotify.com/artist/2RvjsXeTmhabQw2O4x95SL"
+        }
+      ],
+      "duration_ms": 173531,
+      "name": "Voice of the Sufi",
+      "url": "https://open.spotify.com/track/10oERYuAOrmGcDAWflcW9F"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
+        "name": "A\u015fk ile Me\u015fk / Makamlarla \u0130l\u00e2hiler 2",
+        "url": "https://open.spotify.com/album/6mU5Yg4tTyxxPD936N6ng5"
+      },
+      "artists": [
+        {
+          "name": "Ubeydullah Sezikli",
+          "url": "https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N"
+        }
+      ],
+      "duration_ms": 104880,
+      "name": "Acema\u015firan Pe\u015frev",
+      "url": "https://open.spotify.com/track/4rr1uAG5Q1z6BFm1e2lsnZ"
+    },
+    {
+      "added_at": "2024-03-05 11:27:00",
+      "album": {
         "name": "Ney Se\u00e7kileri (Instrumental)",
         "url": "https://open.spotify.com/album/17fgRWwCdT5ylJpqCBph2t"
       },
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-03-05 11:27:00",
       "album": {
-        "name": "Neyzen",
-        "url": "https://open.spotify.com/album/2DkjUP7kajtpgvsLvyRx0L"
+        "name": "Sufi, Vol. 4 (Ney & Bendir)",
+        "url": "https://open.spotify.com/album/1VBBwn33WFkN8YnRqijXVm"
       },
       "artists": [
         {
-          "name": "Volkan Ka\u00e7ak",
-          "url": "https://open.spotify.com/artist/2HkYkLLd6ks449Rbvp2Hip"
+          "name": "An\u0131l \u015eim\u015fek",
+          "url": "https://open.spotify.com/artist/6LCBshRpwFHopVuenF6y01"
         }
       ],
-      "duration_ms": 154853,
-      "name": "Bestenigar Taksim",
-      "url": "https://open.spotify.com/track/28RLD9ttPkH6IqxwDoUNJa"
+      "duration_ms": 111853,
+      "name": "Huzurun Yolu",
+      "url": "https://open.spotify.com/track/2uUqKI98yYHo4NxxiCYqSX"
     },
     {
       "added_at": "2024-03-05 11:27:00",

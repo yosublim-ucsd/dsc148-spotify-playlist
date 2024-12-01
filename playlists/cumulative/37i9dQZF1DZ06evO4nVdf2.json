@@ -521,6 +521,32 @@
     },
     {
       "album": {
+        "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
+        "url": "https://open.spotify.com/album/5c2muZTm3fV2s1Jp5YVsVF"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182948,
+      "name": "Leaveyourlove (with Ximena Sari\u00f1ana, Rawayana)",
+      "url": "https://open.spotify.com/track/3FBz0UdwVbWHsO0jiG200B"
+    },
+    {
+      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -1032,7 +1058,7 @@
       ],
       "date_added": "2024-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 239373,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/7v6clWErpKKYdwp2oLVXAA"

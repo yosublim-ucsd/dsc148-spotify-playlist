@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Gazo au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,067 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,117 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 70 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
 | 71 | [L'aventure n'est jamais loin](https://open.spotify.com/track/0HXiAwgumxdpgn6I8ZLz7p) | [Eddy Mitchell](https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ) | [Amigos](https://open.spotify.com/album/0DbmRGJ57Utur8Skl3xkcD) | 3:21 |
 | 72 | [Doomed](https://open.spotify.com/track/5Jp4rUplh9DCIwiN6bUWCz) | [Praa](https://open.spotify.com/artist/2BEp4lORHjjxT1zuqRTxIt) | [Doomed](https://open.spotify.com/album/7pscJHSwI4ekgS7nTgFNkU) | 2:40 |
-| 73 | [Le cœur d'abord](https://open.spotify.com/track/6oRkRkdpcN0TcAH9PVpTHV) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE), [Legendes Industries](https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ) | [Le cœur d'abord](https://open.spotify.com/album/7KVcW8IQBy74pevkOqZ6tW) | 3:05 |
+| 73 | [Le cœur d'abord](https://open.spotify.com/track/6oRkRkdpcN0TcAH9PVpTHV) | [MC Solaar](https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE), [Legendes Industries](https://open.spotify.com/artist/0DJutzzjro4AISmIYnzQKZ), [KronoMuzik](https://open.spotify.com/artist/7B53Suqn5TsVu6S6gIgqeA) | [Le cœur d'abord](https://open.spotify.com/album/7KVcW8IQBy74pevkOqZ6tW) | 3:05 |
 | 74 | [Rivoli](https://open.spotify.com/track/0V7T2eOfvNnHvDYOIQT7HK) | [Yanns](https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR) | [Mon Histoire \(Collector\)](https://open.spotify.com/album/2E4nNtMbU1aSbgoYLpJSA4) | 2:59 |
 | 75 | [J'oublie pas](https://open.spotify.com/track/33tWiLuAdRI09ZjVWD3WMc) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [J'oublie pas](https://open.spotify.com/album/0RzVVwjhAyF5Cpy0PvGylR) | 2:27 |
 

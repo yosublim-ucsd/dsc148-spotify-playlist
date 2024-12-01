@@ -1,6 +1,6 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 837131,
+  "num_followers": 837214,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
@@ -735,18 +735,18 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Deaf Heat EP",
-        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
+        "name": "I Can't Go on Without You",
+        "url": "https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73"
       },
       "artists": [
         {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 215729,
-      "name": "Deep Green",
-      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
+      "duration_ms": 377000,
+      "name": "I Can't Go on Without You",
+      "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "I Can't Go on Without You",
-        "url": "https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73"
+        "name": "Deaf Heat EP",
+        "url": "https://open.spotify.com/album/2NJInBQPfkmgWkNsx2m0DC"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
         }
       ],
-      "duration_ms": 377000,
-      "name": "I Can't Go on Without You",
-      "url": "https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn"
+      "duration_ms": 215729,
+      "name": "Deep Green",
+      "url": "https://open.spotify.com/track/3y7SaLukj7ONKxdZLAoQtH"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "The Belt",
-        "url": "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
-      },
-      "artists": [
-        {
-          "name": "In The Valley Below",
-          "url": "https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9"
-        }
-      ],
-      "duration_ms": 266853,
-      "name": "Hymnal",
-      "url": "https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP"
-    },
-    {
-      "added_at": "2024-07-05 22:31:55",
-      "album": {
         "name": "Until the Levee",
         "url": "https://open.spotify.com/album/1EZOlexYcDKwtR8YbU4tWE"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 160120,
       "name": "Until the Levee",
       "url": "https://open.spotify.com/track/5BkUllQfBPaotKuoxosECg"
+    },
+    {
+      "added_at": "2024-07-05 22:31:55",
+      "album": {
+        "name": "The Belt",
+        "url": "https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ"
+      },
+      "artists": [
+        {
+          "name": "In The Valley Below",
+          "url": "https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9"
+        }
+      ],
+      "duration_ms": 266853,
+      "name": "Hymnal",
+      "url": "https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP"
     },
     {
       "added_at": "2024-07-05 22:31:55",
@@ -1547,18 +1547,26 @@
     {
       "added_at": "2024-07-05 22:31:55",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s"
+        "name": "Killer + The Sound",
+        "url": "https://open.spotify.com/album/4vkODa4y4DQzFOOYfAK8EV"
       },
       "artists": [
         {
           "name": "Phoebe Bridgers",
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        },
+        {
+          "name": "Abby Gundersen",
+          "url": "https://open.spotify.com/artist/5BlKoQLYxv24MSV5AD6i6q"
         }
       ],
-      "duration_ms": 219681,
-      "name": "Garden Song",
-      "url": "https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV"
+      "duration_ms": 475186,
+      "name": "Killer + The Sound",
+      "url": "https://open.spotify.com/track/1xuA8vy1KA1cfP5UQ7NYSS"
     },
     {
       "added_at": "2024-07-05 22:31:55",

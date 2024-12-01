@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/3zhAr7XON4TURd5L7v7zmI?si=T776nAIGSVSKFuD0MroXTg>Afy Douglas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,478 likes - 99 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,486 likes - 99 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 72 | [Big God](https://open.spotify.com/track/5Fx5KT3smr2YHLvcDEVnwF) | [Salvation Ministries Choir](https://open.spotify.com/artist/7z19awscuNBCj6aT3mMdcr) | [Big God](https://open.spotify.com/album/2NbtDQv3L5HhgixruYs4FZ) | 7:47 |
 | 73 | [Faith & Bars](https://open.spotify.com/track/13A76n0VfIy47nTk9gxJoO) | [Danny TSG Humayne](https://open.spotify.com/artist/0jy3yc75apVa8eG7BiYB8t) | [Faith & Bars](https://open.spotify.com/album/0IhrPviVMjwip6sopfSbM0) | 3:59 |
 | 74 | [Bless The Lord God](https://open.spotify.com/track/7IC9RDqJA5K4e74eryXKed) | [CHINEMEREM](https://open.spotify.com/artist/1kW6NzBKO0fVW3VEfgF00v), [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Bless The Lord God](https://open.spotify.com/album/0o8qrBWrp9NDbXYebV7cLA) | 4:05 |
-| 75 | [HUSTLERS PRAYER](https://open.spotify.com/track/1iw21qp9D6aocD0A9G1zl4) | [Lamar Csa](https://open.spotify.com/artist/4S9GolLKp8tZZ8Kdqhrch6), [Elvineastcoast](https://open.spotify.com/artist/0EXPgIVIMfIoKl4F1of7vU) | [KING IS HOME](https://open.spotify.com/album/1O4USad0SAJrDVp5i3ZgQX) | 3:31 |
+| 75 | [HUSTLERS PRAYER](https://open.spotify.com/track/1iw21qp9D6aocD0A9G1zl4) | [Lamar Csa](https://open.spotify.com/artist/4S9GolLKp8tZZ8Kdqhrch6), [Elvineastcoast](https://open.spotify.com/artist/0EXPgIVIMfIoKl4F1of7vU) | [THE KING IS HOME](https://open.spotify.com/album/1O4USad0SAJrDVp5i3ZgQX) | 3:31 |
 | 76 | [Kóbiró](https://open.spotify.com/track/2dquQZRASjCq0OcsQ7I6fj) | [Mairo Great](https://open.spotify.com/artist/1jNE6zqcxeVgxJmYpQygon) | [Kóbiró](https://open.spotify.com/album/5EtFFlKKVPjg2oRakfjLCv) | 5:10 |
 | 77 | [Sho Mi](https://open.spotify.com/track/00lcLneceg9IWlyTUMZXNB) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Maikon West](https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv) | [Sho Mi](https://open.spotify.com/album/358M1Nt426SBVJqZZVjymv) | 3:24 |
 | 78 | [MOST HIGH](https://open.spotify.com/track/4BFtUMxnnpHizRJ0AJ7aSx) | [Godswill James](https://open.spotify.com/artist/7r48VAwS2CKM3saRqnhIVz) | [MOST HIGH](https://open.spotify.com/album/4khdssUapfVlV08KXlXhha) | 2:40 |

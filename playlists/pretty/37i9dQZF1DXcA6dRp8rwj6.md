@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Kendrick Lamar\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,264 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,299 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 18 | [Denied](https://open.spotify.com/track/3WKlZc2q9VWchjXALyaftR) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [Denied](https://open.spotify.com/album/1CyfGor0jCs9BeUZIOPRCG) | 3:12 |
 | 19 | [Lisa Lisa](https://open.spotify.com/track/33Nu5zTbkpFbeaW3t06wNL) | [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [Lisa Lisa](https://open.spotify.com/album/1wS1Jg2pk1SH3mVVHvMsBq) | 3:28 |
 | 20 | [LES HOOPERS](https://open.spotify.com/track/5YAlpyV1FzA8njT95FEvwU) | [WADE DAO](https://open.spotify.com/artist/5cccFQ9v0HLpikzMg8AtEH), [HUGO](https://open.spotify.com/artist/18phqaSgyEPtKxRBjbP4Nd) | [NIMBO](https://open.spotify.com/album/5nssWlwZNFLbPLRizOF0tY) | 1:58 |
-| 21 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:07 |
+| 21 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:10 |
 | 22 | [I Love My Life](https://open.spotify.com/track/1zVwPx2pMgTOjlEKx3xK9q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [I Love My Life](https://open.spotify.com/album/2zwfLXppN9Yc2FW53LIQfX) | 2:50 |
-| 23 | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9) | 2:07 |
+| 23 | [You're the Only One Watching](https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [You're the Only One Watching](https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9) | 2:07 |
 | 24 | [4AM in Amsterdam](https://open.spotify.com/track/1vYP4urElfry5EbK7SPzDx) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Daniel Son](https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF) | [4AM in Amsterdam](https://open.spotify.com/album/51aRaCzfWBB7VP7Qs5to72) | 2:17 |
 | 25 | [Big Dog](https://open.spotify.com/track/5MjSfB61yXqBMz2yRrY9vR) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb) | [Big Dog](https://open.spotify.com/album/1N9k3SYJcmzarGYohamLiD) | 2:01 |
 | 26 | [No Bad News \(feat\. Kanye West\)](https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:32 |

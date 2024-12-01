@@ -1143,6 +1143,24 @@
     },
     {
       "album": {
+        "name": "Que Chulada",
+        "url": "https://open.spotify.com/album/05y6633FW9WAlIsZR3Z7c6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158928,
+      "name": "Que Chulada",
+      "url": "https://open.spotify.com/track/401D4uoDg8e2PmWLhXfic1"
+    },
+    {
+      "album": {
         "name": "Que Las Cuartitos No Falten",
         "url": "https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3"
       },

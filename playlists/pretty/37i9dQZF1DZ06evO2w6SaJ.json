@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 5948,
+  "num_followers": 5950,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAB4xG9e6MH3AdwgxrlkSeMM",
+  "snapshot_id": "Z0kEAAAAAADgdwMbj9BwE0WzOD8ygeTZ",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Last Ones Standing",
         "url": "https://open.spotify.com/album/5bThYTbH1HTYZKMCjxNstm"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 144818,
       "name": "GlitchGang (Remix)",
       "url": "https://open.spotify.com/track/5RI73C2BN902ytbrFkXhm2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/170Sk6g2w1uVsg1d24Oard"
     },
     {
       "added_at": null,
@@ -167,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 220506,
+      "name": "Revolving Door",
+      "url": "https://open.spotify.com/track/29BNwy4DiJbLSf796C337g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/7iisWcs9RmyaQqoXdZjogz"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 222573,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/0hGCYEqYNOjNT31wHPy4HX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 220506,
-      "name": "Revolving Door",
-      "url": "https://open.spotify.com/track/29BNwy4DiJbLSf796C337g"
     },
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/6pWfSngATxH5jhspudBbDv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 202197,
       "name": "Faded",
       "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/6pWfSngATxH5jhspudBbDv"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 182271,
-      "name": "Cake",
-      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gift Of Game",
         "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 302226,
       "name": "Black Cloud",
       "url": "https://open.spotify.com/track/0SIa8GRLXT0vKov2O45O5V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 182271,
+      "name": "Cake",
+      "url": "https://open.spotify.com/track/1tqVqhZmiiqu4cGjhCHp9D"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gift Of Game",
+        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Lollipop Porn",
+      "url": "https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Leeches",
         "url": "https://open.spotify.com/album/57CQYU02aEtsqazAwDllv7"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 212623,
       "name": "Leeches",
       "url": "https://open.spotify.com/track/54wyAgc6pQzXTBOjgN38vg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gift Of Game",
-        "url": "https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Lollipop Porn",
-      "url": "https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 181909,
-      "name": "Trigger Happy",
-      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
+      "duration_ms": 234022,
+      "name": "99 Bottles",
+      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 173773,
-      "name": "Waste of My Time",
-      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
+      "duration_ms": 196306,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 234022,
-      "name": "99 Bottles",
-      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
+      "duration_ms": 181909,
+      "name": "Trigger Happy",
+      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 196306,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/2irE2loA3ZcWIcBDUdmyID"
+      "duration_ms": 173773,
+      "name": "Waste of My Time",
+      "url": "https://open.spotify.com/track/41Siv7nwJP05nZZeSfHj5r"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > La playlist idéale pour vos fêtes cette année!
 
-336 songs - 18 hr 11 min
+337 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Angel](https://open.spotify.com/track/4yvhsSIcQvMmcwyExJvVja) | [Adrien de la Salle](https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN) | [Angel](https://open.spotify.com/album/5cIGSAUXb0LAjseafd3s0V) | 2:31 | 2021-12-17 | 2022-09-30 |
 | [Another Year Has Gone By](https://open.spotify.com/track/014An8mZt6hTR6bsN9fo2u) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These are Special Times](https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN) | 3:24 | 2021-12-17 | 2024-04-19 |
 | [Another Year Has Gone By](https://open.spotify.com/track/2SMjAnTaaJJjcXpLe9oPTw) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [These Are Special Times](https://open.spotify.com/album/32MpBKgfq3OJWbqEFcTwWP) | 3:24 | 2021-12-17 | 2022-07-11 |
+| [As\-tu vu le père Noël?](https://open.spotify.com/track/2jOKMjecDbuD3TE80yjtL4) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [As\-tu vu le père Noël?](https://open.spotify.com/album/6IxBQyMO6SzCQJdBYR99kv) | 1:50 | 2024-11-30 |  |
 | [Au dernier noël](https://open.spotify.com/track/307I3vdjraPWXhb6bgcOfE) | [Dominique Hudson](https://open.spotify.com/artist/5jUUxz4x0tzHtghlDNyBLa) | [Au dernier noël](https://open.spotify.com/album/6KyQ8S9HFMhmPIf7qzXVq4) | 3:52 | 2021-12-17 | 2022-07-24 |
 | [Au Royaume de Bonhomme Hiver](https://open.spotify.com/track/3xzjWsVxspvyGefnsPlUn9) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Au Royaume de Bonhomme Hiver](https://open.spotify.com/album/0bWkK8GLsvjOaawg6LFd85) | 2:31 | 2022-11-04 | 2022-11-12 |
 | [Au royaume du Bonhomme Hiver](https://open.spotify.com/track/65NdPGmJBCF30pa3HKypXo) | [Groupe vocal Statera](https://open.spotify.com/artist/47xwtHCWYW6XPhGAS9Bdi4) | [C'est l'hiver](https://open.spotify.com/album/1QSJ7lhyUQcQ2dV5bEHdPl) | 3:08 | 2021-12-17 | 2022-07-22 |
@@ -202,7 +203,7 @@
 | [Noël amoureux](https://open.spotify.com/track/3SrvyFBB7BEBJ69vJJjC1V) | [Étienne Drapeau](https://open.spotify.com/artist/29v1NWROhbx8Zfjh2DuWW5) | [Chansons de Noël pour la Fondation Jasmin Roy](https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00) | 4:20 | 2021-12-17 | 2022-07-29 |
 | [Noël au camp](https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe) | [Tex Lecor](https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek) | [Québec love : La collection](https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8) | 3:02 | 2021-12-17 |  |
 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 | 2021-12-17 | 2024-11-23 |
-| [Noël blanc](https://open.spotify.com/track/7ykP6gzf7CJ8Lb4AEJWeqR) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 3:50 | 2021-12-17 |  |
+| [Noël blanc](https://open.spotify.com/track/7ykP6gzf7CJ8Lb4AEJWeqR) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 3:50 | 2021-12-17 | 2024-12-01 |
 | [Noël blanc](https://open.spotify.com/track/7K5akEyakiYVbijvPOxkQZ) | [Ginette Reno](https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon) | [Un grand noël d'amour](https://open.spotify.com/album/4Qa4kIMWoF5GTZLoAQV5sE) | 4:13 | 2021-12-17 | 2022-07-26 |
 | [Noël blanc](https://open.spotify.com/track/0TzdxTeaStfhDADxoTeRaE) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi), [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Noël En Noir & Blanc](https://open.spotify.com/album/1zO0MHz7l9N9kaFEBAvQWA) | 2:57 | 2021-12-17 | 2022-07-26 |
 | [Noël blanc](https://open.spotify.com/track/6E8KpI7krGFmuGVeUUoiG3) | [Maxime Landry](https://open.spotify.com/artist/0bRR0lEj0959hPacdXVr93) | [Noël blanc](https://open.spotify.com/album/03vJzE0W94F6Ff2ZtNKnoF) | 3:19 | 2021-12-17 | 2022-07-26 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 315195,
+  "num_followers": 315261,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0eygAAAAABozqpSlbZf3CDzd3ZByP4b",
+  "snapshot_id": "Z0kEAAAAAAAFzr6bcp/o8rjAeMUePTHW",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chalino S\u00e1nchez Con Mariachi",
-        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 242195,
-      "name": "Mar\u00eda De La Luz",
-      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pela Vacas",
         "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 205635,
       "name": "El Dos Dedos",
       "url": "https://open.spotify.com/track/5HPNKShAEtHcnKAaFmtsmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chalino S\u00e1nchez Con Mariachi",
+        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 242195,
+      "name": "Mar\u00eda De La Luz",
+      "url": "https://open.spotify.com/track/2rm2wBuQZU3rld8hNVOx73"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Inmortales",
-        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 163546,
-      "name": "Que Me Entierren Cantando",
-      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pela Vacas",
         "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 160473,
       "name": "Juli\u00e1n Del Real",
       "url": "https://open.spotify.com/track/2DLUM884fJVwsb5uaZ4QBe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Inmortales",
+        "url": "https://open.spotify.com/album/51akbQSZNbuRA3UHdoS8s5"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 163546,
+      "name": "Que Me Entierren Cantando",
+      "url": "https://open.spotify.com/track/7LgBi7LRxHxpK2tyPc5WUb"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
-        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "La Loba Del Mal",
-      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pela Vacas",
         "url": "https://open.spotify.com/album/6uInLS0vbBQwXiWDirXkOw"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 189939,
       "name": "Dinast\u00eda De Los Ochoa",
       "url": "https://open.spotify.com/track/6GgeIf39nDpOnyQg8MNUue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Flor Del Campo: El P\u00e1vido N\u00e1vido",
+        "url": "https://open.spotify.com/album/26jewTq5DzesUy9vfG83nw"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 156734,
+      "name": "La Loba Del Mal",
+      "url": "https://open.spotify.com/track/6chFGW4L9I0YQX6Es2Jkd9"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Gallo de Sinaloa",
+        "url": "https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "El Gallo de Sinaloa",
+      "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 220926,
       "name": "Por Una Rencilla Vieja",
       "url": "https://open.spotify.com/track/7FANq8cIDYSfNzoXR09I8V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Gallo de Sinaloa",
-        "url": "https://open.spotify.com/album/1qFZxrBfOKGg186s9fNi6H"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "El Gallo de Sinaloa",
-      "url": "https://open.spotify.com/track/3wlJqg5mnZCGxRdR65W7jb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1591183,
+  "num_followers": 1591195,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "SSX Tricky",
+        "url": "https://open.spotify.com/album/0oYTCnSK1D8GYfWUzrpxLa"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "SSX Tricky",
+      "url": "https://open.spotify.com/track/36sJSi1dMErvXeLDT5TWAa"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Samurai",
         "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
       },
@@ -487,26 +503,6 @@
       "duration_ms": 194786,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "BRAVADO + INTiMO",
-        "url": "https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        }
-      ],
-      "duration_ms": 210729,
-      "name": "SWiTCH (i)",
-      "url": "https://open.spotify.com/track/2RzRgSOR4joxfzW7zj0b2K"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -591,6 +587,26 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "BRAVADO + INTiMO",
+        "url": "https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 210729,
+      "name": "SWiTCH (i)",
+      "url": "https://open.spotify.com/track/2RzRgSOR4joxfzW7zj0b2K"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "The Genuine Articulate",
         "url": "https://open.spotify.com/album/3EzeDYzLp9bcuK162KVDMp"
       },
@@ -611,22 +627,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Palaces",
-      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "You Only Die 1nce",
         "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 218630,
       "name": "On The Set",
       "url": "https://open.spotify.com/track/5LUShL5oF7n4all1pqSauD"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -663,26 +679,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Ecstasy (Freestyle)",
-        "url": "https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X"
-      },
-      "artists": [
-        {
-          "name": "Conductor Williams",
-          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 117562,
-      "name": "Ecstasy (Freestyle)",
-      "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Please Don't Cry",
         "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
       },
@@ -703,6 +699,26 @@
       "duration_ms": 164656,
       "name": "Raw (feat. Lil Wayne & Niko Brim)",
       "url": "https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Ecstasy (Freestyle)",
+        "url": "https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X"
+      },
+      "artists": [
+        {
+          "name": "Conductor Williams",
+          "url": "https://open.spotify.com/artist/1VuBGdfqq86BQyiDactQAC"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 117562,
+      "name": "Ecstasy (Freestyle)",
+      "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -743,22 +759,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Ferraris in The Rain (feat. ScHoolboy Q)",
-        "url": "https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg"
+        "name": "The Bricktionary",
+        "url": "https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P"
       },
       "artists": [
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         },
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
         }
       ],
-      "duration_ms": 184266,
-      "name": "Ferraris In The Rain (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW"
+      "duration_ms": 147138,
+      "name": "Harvey Grant",
+      "url": "https://open.spotify.com/track/3q9NyNkRJjiEfosJoGjMh3"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -791,22 +807,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "The Bricktionary",
-        "url": "https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P"
+        "name": "Ferraris in The Rain (feat. ScHoolboy Q)",
+        "url": "https://open.spotify.com/album/1dWIttqeOcIy31kGnSBWUg"
       },
       "artists": [
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
         }
       ],
-      "duration_ms": 147138,
-      "name": "Harvey Grant",
-      "url": "https://open.spotify.com/track/3q9NyNkRJjiEfosJoGjMh3"
+      "duration_ms": 184266,
+      "name": "Ferraris In The Rain (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/1pm9njASb5DN0K7aMUwPNW"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -827,22 +843,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Squeeze 1St 2",
-        "url": "https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Squeeze 1St 2",
-      "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Moving Day",
         "url": "https://open.spotify.com/album/6704YouVguYBevesjOlyC3"
       },
@@ -859,24 +859,8 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Beverly Drive",
-        "url": "https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac"
-      },
-      "artists": [
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 248551,
-      "name": "Beverly Drive",
-      "url": "https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Jesus Arms",
-        "url": "https://open.spotify.com/album/4QjcM4k9VD5V1C0yUurNRa"
+        "name": "SS2 Freestyle",
+        "url": "https://open.spotify.com/album/21jFKB3oTYa8IsJ9oRSsFT"
       },
       "artists": [
         {
@@ -886,35 +870,43 @@
         {
           "name": "38 Spesh",
           "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         }
       ],
-      "duration_ms": 177543,
-      "name": "Jesus Arms (feat. Busta Rhymes)",
-      "url": "https://open.spotify.com/track/15jV5VEoSZ6TjabNqOE8m2"
+      "duration_ms": 213250,
+      "name": "SS2 Freestyle",
+      "url": "https://open.spotify.com/track/3WJfh8zPcjOLj0SNJTWy1u"
     },
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "DENiM (feat. Joey Bada$$)",
-        "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
+        "name": "Squeeze 1St 2",
+        "url": "https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2"
       },
       "artists": [
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
         }
       ],
-      "duration_ms": 177043,
-      "name": "DENiM",
-      "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
+      "duration_ms": 231013,
+      "name": "Squeeze 1St 2",
+      "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "You're the Only One Watching",
+        "url": "https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "You're the Only One Watching",
+      "url": "https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -939,22 +931,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Peerless",
-        "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
+        "name": "DENiM (feat. Joey Bada$$)",
+        "url": "https://open.spotify.com/album/65UJYDMtKqRBmhNFei6lxB"
       },
       "artists": [
         {
-          "name": "Stalley",
-          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         },
         {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
         }
       ],
-      "duration_ms": 161536,
-      "name": "Boiler Room (feat. Benny The Butcher)",
-      "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
+      "duration_ms": 177043,
+      "name": "DENiM",
+      "url": "https://open.spotify.com/track/1ULyVVWV7PjtOfGM1UspG7"
     }
   ],
   "unique_name": "Spilled Ink",

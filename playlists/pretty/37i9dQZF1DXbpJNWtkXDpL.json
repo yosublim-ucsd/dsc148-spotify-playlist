@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a la Generaci\u00f3n 2024 de RADAR M\u00e9xico. CHOCA en portada.",
-  "num_followers": 86873,
+  "num_followers": 86885,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Jordan Fly",
+        "url": "https://open.spotify.com/album/1p5IcI7XbDFekqlKHGYJlz"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 140586,
+      "name": "Jordan Fly",
+      "url": "https://open.spotify.com/track/46E20RV1VLUJqidEfXP1UM"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 211961,
       "name": "M.L.P",
       "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Jordan Fly",
-        "url": "https://open.spotify.com/album/1p5IcI7XbDFekqlKHGYJlz"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 140586,
-      "name": "Jordan Fly",
-      "url": "https://open.spotify.com/track/46E20RV1VLUJqidEfXP1UM"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -811,18 +811,22 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Aprendimos A Jugar",
-        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
+        "name": "ANTRO FRESXN (REMIX)",
+        "url": "https://open.spotify.com/album/2SJ9doitKEehFZsGialx8K"
       },
       "artists": [
         {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+          "name": "Manci",
+          "url": "https://open.spotify.com/artist/4AVxNRSuuvQ19srEOaUemE"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
         }
       ],
-      "duration_ms": 152789,
-      "name": "Pensando",
-      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
+      "duration_ms": 145281,
+      "name": "ANTRO FRESXN (REMIX)",
+      "url": "https://open.spotify.com/track/1OIki4kfFtruhem0MJpPJz"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -843,22 +847,18 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "ANTRO FRESXN (REMIX)",
-        "url": "https://open.spotify.com/album/2SJ9doitKEehFZsGialx8K"
+        "name": "Aprendimos A Jugar",
+        "url": "https://open.spotify.com/album/2PWoqmluSdMY2NwEhb2D4o"
       },
       "artists": [
         {
-          "name": "Manci",
-          "url": "https://open.spotify.com/artist/4AVxNRSuuvQ19srEOaUemE"
-        },
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
         }
       ],
-      "duration_ms": 145281,
-      "name": "ANTRO FRESXN (REMIX)",
-      "url": "https://open.spotify.com/track/1OIki4kfFtruhem0MJpPJz"
+      "duration_ms": 152789,
+      "name": "Pensando",
+      "url": "https://open.spotify.com/track/1EiPFREgaMLL88Pxo6zPdC"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 265561,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "RLUX",
         "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 220000,
       "name": "RLUX",
       "url": "https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 265561,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "El Brillo De Tus Ojitos",
-        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
-      },
-      "artists": [
-        {
-          "name": "Dorian Guerra",
-          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
-        }
-      ],
-      "duration_ms": 179196,
-      "name": "El Brillo De Tus Ojitos",
-      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "DAIKIRI CON FRESA",
         "url": "https://open.spotify.com/album/2pJHyWYo2H2sCbo8WuF3VH"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 199913,
       "name": "DAIKIRI CON FRESA",
       "url": "https://open.spotify.com/track/6eNRxXpnpXqvhKHUaCUng9"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "El Brillo De Tus Ojitos",
+        "url": "https://open.spotify.com/album/33sFxL5niaZixgvYKbPAhr"
+      },
+      "artists": [
+        {
+          "name": "Dorian Guerra",
+          "url": "https://open.spotify.com/artist/1er7haaMByPvAGHwwE8ORP"
+        }
+      ],
+      "duration_ms": 179196,
+      "name": "El Brillo De Tus Ojitos",
+      "url": "https://open.spotify.com/track/0FNiIXrIxi7iZamdGDmwNL"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Amor Perdido",
-        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Amor Perdido",
-      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Bebe Ricota",
         "url": "https://open.spotify.com/album/1708wwz3chNAFFGZC3fO9l"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 151836,
       "name": "Bebe Ricota",
       "url": "https://open.spotify.com/track/2OMVAiPhQxHuoehgbeJ6oP"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Amor Perdido",
+        "url": "https://open.spotify.com/album/0wkmxDVy1AGPQojmbx8Qb1"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Amor Perdido",
+      "url": "https://open.spotify.com/track/0uMODzvm9Pdz9YVrVhWIBe"
     },
     {
       "added_at": "2024-07-26 14:56:01",
@@ -1167,6 +1167,42 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
+        "name": "Rico Pelicul\u00f3n",
+        "url": "https://open.spotify.com/album/54zzQDboVye1R5ntCQ1bLr"
+      },
+      "artists": [
+        {
+          "name": "CHOCA",
+          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
+        },
+        {
+          "name": "JHAY B",
+          "url": "https://open.spotify.com/artist/2mFpBiAW3xImoMyxP7nZyZ"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Rico Pelicul\u00f3n",
+      "url": "https://open.spotify.com/track/43HgiTZnRKaloKXwkvgXkS"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
+        "name": "Zapand\u00fa",
+        "url": "https://open.spotify.com/album/7peyVHwdincY9AkNJv0VY0"
+      },
+      "artists": [
+        {
+          "name": "Valgur",
+          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
+        }
+      ],
+      "duration_ms": 296965,
+      "name": "Vampiro",
+      "url": "https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ"
+    },
+    {
+      "added_at": "2024-07-26 14:56:01",
+      "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
       },
@@ -1199,22 +1235,6 @@
     {
       "added_at": "2024-07-26 14:56:01",
       "album": {
-        "name": "Zapand\u00fa",
-        "url": "https://open.spotify.com/album/7peyVHwdincY9AkNJv0VY0"
-      },
-      "artists": [
-        {
-          "name": "Valgur",
-          "url": "https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH"
-        }
-      ],
-      "duration_ms": 296965,
-      "name": "Vampiro",
-      "url": "https://open.spotify.com/track/11Jqdw6vMwgUZQF9w1wqzJ"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
         "name": "Morra",
         "url": "https://open.spotify.com/album/5QjEgcxVI1AW3xz3cmrGGg"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 217120,
       "name": "Morra",
       "url": "https://open.spotify.com/track/3TdmhbiEYuTsrMXi8v6pgF"
-    },
-    {
-      "added_at": "2024-07-26 14:56:01",
-      "album": {
-        "name": "Rico Pelicul\u00f3n",
-        "url": "https://open.spotify.com/album/54zzQDboVye1R5ntCQ1bLr"
-      },
-      "artists": [
-        {
-          "name": "CHOCA",
-          "url": "https://open.spotify.com/artist/2hdJKv9q3XQbDBu7NTu8hk"
-        },
-        {
-          "name": "JHAY B",
-          "url": "https://open.spotify.com/artist/2mFpBiAW3xImoMyxP7nZyZ"
-        }
-      ],
-      "duration_ms": 168750,
-      "name": "Rico Pelicul\u00f3n",
-      "url": "https://open.spotify.com/track/43HgiTZnRKaloKXwkvgXkS"
     },
     {
       "added_at": "2024-07-26 14:56:01",

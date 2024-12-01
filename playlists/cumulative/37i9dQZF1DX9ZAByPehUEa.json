@@ -3511,6 +3511,24 @@
     },
     {
       "album": {
+        "name": "Hi Life",
+        "url": "https://open.spotify.com/album/4LW3veJas26r01Y7dDLQfB"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129407,
+      "name": "Hi Life",
+      "url": "https://open.spotify.com/track/2MGlHVQuVb7L3wAxcvBhWF"
+    },
+    {
+      "album": {
         "name": "HIGH SUMMER",
         "url": "https://open.spotify.com/album/4vcl2jvQ01FwUwMW3g5ej0"
       },
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 129819,
       "name": "Hipcats",
       "url": "https://open.spotify.com/track/3kpQ47nF7sKRkDLHlXdLGo"
@@ -8227,6 +8245,32 @@
     },
     {
       "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/2Wh3XQrts6RLhdigYVybxl"
+      },
+      "artists": [
+        {
+          "name": "Tollef",
+          "url": "https://open.spotify.com/artist/59cdswWEaEGEbeDOiCKazv"
+        },
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        },
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130476,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/5cRqBtnCx2e9GvuSezN4Ec"
+    },
+    {
+      "album": {
         "name": "Silk Robe",
         "url": "https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv"
       },
@@ -8716,7 +8760,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 173161,
       "name": "Street Dancer - Sgt Slick's Discotizer 2022 Remix",
       "url": "https://open.spotify.com/track/5DLEOfuHbW3S6YXNKUX8h8"

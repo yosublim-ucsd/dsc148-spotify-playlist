@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 230360,
       "name": "Angel's Son",
       "url": "https://open.spotify.com/track/66wlSKFGLhD5LDulPBz731"
@@ -2638,6 +2638,24 @@
       "duration_ms": 291946,
       "name": "Three Wishes",
       "url": "https://open.spotify.com/track/1yotg2vkhNPOutedS4juRe"
+    },
+    {
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/7ENSolPrjCvv0U2QMHMJeJ"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "date_added": "2024-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239400,
+      "name": "Tightrope 2020",
+      "url": "https://open.spotify.com/track/4O7gwXX4evJm9FJ9b63az3"
     },
     {
       "album": {

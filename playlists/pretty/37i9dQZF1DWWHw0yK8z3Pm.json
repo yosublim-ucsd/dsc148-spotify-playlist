@@ -1,6 +1,6 @@
 {
   "description": "Fearless sounds at the crossroads of country and folk. Cover: Owen Riegling",
-  "num_followers": 65329,
+  "num_followers": 65330,
   "original_name": "Renegades",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Tear Us Apart (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7a7Ntqg1B2y1RKM4BvmZJI"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 165384,
-      "name": "Tear Us Apart (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/56pp07JfYir7wnjKPwXLME"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "A Hard up Life",
         "url": "https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 227366,
       "name": "Pitchin' fits",
       "url": "https://open.spotify.com/track/2m4Rz3Pn5tN7MFth0kHgSL"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Tear Us Apart (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7a7Ntqg1B2y1RKM4BvmZJI"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 165384,
+      "name": "Tear Us Apart (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/56pp07JfYir7wnjKPwXLME"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 181498,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Evangelina",
         "url": "https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 227240,
       "name": "Evangelina",
       "url": "https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 181498,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "What Kind of Song",
-        "url": "https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "What Kind of Song",
-      "url": "https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "American Dreaming",
         "url": "https://open.spotify.com/album/6uAs0LUlrnnJZ21YKqqKaT"
       },
@@ -1095,22 +1079,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 182282,
-      "name": "Coyote, My Little Brother - Spotify Singles",
-      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/0F6zv5oKgDzgI4NSDago87"
       },
@@ -1123,6 +1091,38 @@
       "duration_ms": 221429,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7mZcHbpk2U6nZimDW4okd2"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "What Kind of Song",
+        "url": "https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "What Kind of Song",
+      "url": "https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 182282,
+      "name": "Coyote, My Little Brother - Spotify Singles",
+      "url": "https://open.spotify.com/track/63K1QJkBcXG0qvipbEIqY0"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1155,6 +1155,22 @@
       "duration_ms": 193834,
       "name": "Hey There, Dolly",
       "url": "https://open.spotify.com/track/6iu1XGjLr5xXPPCp0mrxc9"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 250801,
+      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1223,22 +1239,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 250801,
-      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
-      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Among Other Things",
         "url": "https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 288402,
       "name": "Rhododendron",
       "url": "https://open.spotify.com/track/7s8gLWAkwL8F7WggHYzZR4"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Darlin' Baby",
-        "url": "https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 265413,
-      "name": "Darlin' Baby",
-      "url": "https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Darlin' Baby",
+        "url": "https://open.spotify.com/album/6GJJM82C2U1Bdq71Mln8Ov"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "Darlin' Baby",
+      "url": "https://open.spotify.com/track/0vpbwaxy9qlx9u1bvGqTJR"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "As It Ever Was, So It Will Be Again",
         "url": "https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf"
       },
@@ -1299,6 +1299,22 @@
       "duration_ms": 229133,
       "name": "Long White Veil",
       "url": "https://open.spotify.com/track/5eiWZPKVAkVLiBBrlxFzB4"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Weathervanes",
+        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell and the 400 Unit",
+          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
+        }
+      ],
+      "duration_ms": 374834,
+      "name": "This Ain't It",
+      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 218266,
       "name": "Twin Flame (feat. Goldie Boutilier)",
       "url": "https://open.spotify.com/track/4QYNd9eqc1GtfLrI0rMP8o"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Weathervanes",
-        "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        }
-      ],
-      "duration_ms": 374834,
-      "name": "This Ain't It",
-      "url": "https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21"
     },
     {
       "added_at": "2024-11-29 05:00:00",

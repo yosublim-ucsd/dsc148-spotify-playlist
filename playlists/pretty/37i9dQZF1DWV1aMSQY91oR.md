@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\.  Cover: Kodak Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,152 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,174 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 29 | [No Bad News \(feat\. Kanye West\)](https://open.spotify.com/track/5XsAOpPWPJLrwC9sgtigTp) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 2:32 |
 | 30 | [Taken](https://open.spotify.com/track/0luRXW2hbGTMJ7QZgr5Tap) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Taken](https://open.spotify.com/album/1Lc8ZMyKj4eN66C3TUtJK9) | 2:50 |
 | 31 | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/track/2OyZwd8Ox7wXOUnRH6Jpdl) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Alus](https://open.spotify.com/artist/3MD55k0EwGeucg8pA4H1dV) | [Outta Da Blue \(feat\. Dr\. Dre & Alus\)](https://open.spotify.com/album/1TMIfEZGEMlHGPB7yGXHib) | 2:39 |
-| 32 | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [You're the Only One Watching \(Showbiz\)](https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9) | 2:07 |
+| 32 | [You're the Only One Watching](https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [You're the Only One Watching](https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9) | 2:07 |
 | 33 | [School Daze](https://open.spotify.com/track/3TH6uniZv0sJO9ApNojQoo) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 3:52 |
 | 34 | [Seuil](https://open.spotify.com/track/4y9MxsGtYASkUyIKGGtdEH) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Héroïne\(s\)](https://open.spotify.com/album/5UU5HGSORbZ4aCalD2uWhU) | 3:25 |
 | 35 | [Heaterz](https://open.spotify.com/track/2xq0T6R1a1cFBYCn7HPKtt) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U), [Pozer](https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J) | [Heaterz](https://open.spotify.com/album/6WRkgezvMJYr3bkSFUCPqU) | 2:40 |

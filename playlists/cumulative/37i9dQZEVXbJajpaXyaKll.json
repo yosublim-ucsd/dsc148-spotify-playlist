@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 199310,
       "name": "Ameri",
       "url": "https://open.spotify.com/track/5lXKHJ3kYg9aM0TdBgaZBe"
@@ -4820,7 +4820,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 145518,
       "name": "DUELE",
       "url": "https://open.spotify.com/track/6CzozhzNVBfxmUthlZiYm4"
@@ -5614,6 +5614,24 @@
       "duration_ms": 205213,
       "name": "En septiembre fuiste mia",
       "url": "https://open.spotify.com/track/0ZEg8E3mddYWsQXdcOniLI"
+    },
+    {
+      "album": {
+        "name": "Noche Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj"
+      },
+      "artists": [
+        {
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "En tu pelo",
+      "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
     },
     {
       "album": {
@@ -13908,6 +13926,24 @@
       "duration_ms": 117211,
       "name": "Querido Rey",
       "url": "https://open.spotify.com/track/1xeVF7CVNZ3i4FwRaolkmp"
+    },
+    {
+      "album": {
+        "name": "La Movidita",
+        "url": "https://open.spotify.com/album/59IsmbtBiwZmpwrBOJzymP"
+      },
+      "artists": [
+        {
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255560,
+      "name": "Qu\u00e9 Bello",
+      "url": "https://open.spotify.com/track/3YFRoa2x2LK64OB0fY9FPA"
     },
     {
       "album": {

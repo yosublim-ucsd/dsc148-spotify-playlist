@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Everydaze (Taiwan)",
-  "num_followers": 104550,
+  "num_followers": 104699,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "when the rain stopped following me",
-        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
-      },
-      "artists": [
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "when the rain stops",
-      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
-    },
-    {
-      "added_at": "2024-11-29 02:51:15",
-      "album": {
         "name": "All These and More",
         "url": "https://open.spotify.com/album/7kJi6tJj8GvOoBdhttiO6x"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 209166,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6ZqRDyqdQXyUmJBbBTvH8g"
+    },
+    {
+      "added_at": "2024-11-29 02:51:15",
+      "album": {
+        "name": "when the rain stopped following me",
+        "url": "https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU"
+      },
+      "artists": [
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "when the rain stops",
+      "url": "https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "Be Someone",
-        "url": "https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 225542,
-      "name": "Be Someone",
-      "url": "https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV"
-    },
-    {
-      "added_at": "2024-11-29 02:51:15",
-      "album": {
         "name": "Rima Raga",
         "url": "https://open.spotify.com/album/55aZOqOdIOxfepRO4PyJHR"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
+        "name": "Be Someone",
+        "url": "https://open.spotify.com/album/4lqmF9FjM1SXTkSAGNt1LW"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Be Someone",
+      "url": "https://open.spotify.com/track/0IxSrOKtHS5O561qA7JJaV"
+    },
+    {
+      "added_at": "2024-11-29 02:51:15",
+      "album": {
         "name": "Dungeon",
         "url": "https://open.spotify.com/album/1xWgPTItnMarVlFwjLkuQe"
       },
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
-        "url": "https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp"
+        "name": "LOVERs ATLAS",
+        "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
       },
       "artists": [
         {
-          "name": "moon tang",
-          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
         }
       ],
-      "duration_ms": 130666,
-      "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
-      "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
+      "duration_ms": 196977,
+      "name": "WANDERLUST",
+      "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "LOVERs ATLAS",
-        "url": "https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU"
+        "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
+        "url": "https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp"
       },
       "artists": [
         {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+          "name": "moon tang",
+          "url": "https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7"
         }
       ],
-      "duration_ms": 196977,
-      "name": "WANDERLUST",
-      "url": "https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2"
+      "duration_ms": 130666,
+      "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
+      "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
-        "url": "https://open.spotify.com/album/6cIC9hz4plOw5m0BKp0d8w"
+        "name": "dishonesty",
+        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
       "artists": [
         {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
         }
       ],
-      "duration_ms": 172245,
-      "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
-      "url": "https://open.spotify.com/track/1nzyPpKOWjeoTHZuLhXXDC"
+      "duration_ms": 179216,
+      "name": "dishonesty",
+      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "dishonesty",
-        "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
+        "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
+        "url": "https://open.spotify.com/album/6cIC9hz4plOw5m0BKp0d8w"
       },
       "artists": [
         {
-          "name": "Gareth.T",
-          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 179216,
-      "name": "dishonesty",
-      "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+      "duration_ms": 172245,
+      "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
+      "url": "https://open.spotify.com/track/1nzyPpKOWjeoTHZuLhXXDC"
     },
     {
       "added_at": "2024-11-29 02:51:15",

@@ -2,7 +2,7 @@
 
 ### [麗し My hometown](https://open.spotify.com/playlist/37i9dQZF1DX3CJ4VSZ8TKr)
 
-> <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンのムードプレイリストシリーズ第4弾。故郷への思いや未来への希望に満ちたメッセージソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
+> Spotify×サザンのムードプレイリストシリーズ第4弾。故郷への思いや未来への希望に満ちたメッセージソングを集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
 47 songs - 3 hr 21 min
 

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Davina Karamoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,707 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,705 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jatuh Sendiri](https://open.spotify.com/track/0c4VHJ92tbul0Z2sidYl1y) | [Davina Karamoy](https://open.spotify.com/artist/51SqnSkMmAUVzelwhmsitL) | [Jatuh Sendiri](https://open.spotify.com/album/6vwMXeJzNiM6V50HLVwF6n) | 3:09 |
 | 2 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 |
 | 3 | [Kalut](https://open.spotify.com/track/1rJEW0ckegQxhLZGC5syIW) | [Mantara](https://open.spotify.com/artist/3WxyDXqdCID3xPztPn2UIT) | [Kalut](https://open.spotify.com/album/1b61I6y3bIW884Xa68av7a) | 3:41 |
-| 4 | [Tentang Dirinya](https://open.spotify.com/track/2XrdGhmFBN2DRZnEZuY36H) | [Angelana](https://open.spotify.com/artist/1KkZ5XpsEbD3LiIkpLvvG8) | [Tentang Dirinya](https://open.spotify.com/album/1FmYIkq5iMkZeC2ShqLqZB) | 4:05 |
+| 4 | [Tentang Dirinya](https://open.spotify.com/track/2XrdGhmFBN2DRZnEZuY36H) | [angelana](https://open.spotify.com/artist/3BfinGyCz0cTmNSVzngSgf) | [Tentang Dirinya](https://open.spotify.com/album/1FmYIkq5iMkZeC2ShqLqZB) | 4:05 |
 | 5 | [Happy](https://open.spotify.com/track/0BuCY0GJ3HmCbeSeI4SMHU) | [Aldhy Ramanda](https://open.spotify.com/artist/06ShWcfuX1vpFBfWiHCboq) | [Happy](https://open.spotify.com/album/5Wsn2Hu3Q4TVrfXSTfuqAR) | 2:56 |
 | 6 | [5150](https://open.spotify.com/track/13clE6hDehgCxDEG58Pyw6) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [5150](https://open.spotify.com/album/1gFvztLuk89AzM4lOXciNn) | 2:53 |
 | 7 | [Cintaku Runtuh](https://open.spotify.com/track/09iB7snkdDtnCU8XLsaqpj) | [Alma Margana](https://open.spotify.com/artist/2usCYwX6DO6vOeZXjgQQU6) | [Cintaku Runtuh](https://open.spotify.com/album/1QOcuqPOSeVLiQJVUXfAFt) | 4:32 |

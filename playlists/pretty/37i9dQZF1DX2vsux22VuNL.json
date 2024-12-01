@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293372,
+  "num_followers": 293383,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,26 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
+        "name": "Pra Casar",
+        "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
+        },
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 162780,
+      "name": "Pra Casar",
+      "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
         "name": "Praia do Rosa",
         "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 219168,
       "name": "Por Isso Me Liga",
       "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
-        "name": "Pra Casar",
-        "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
-      },
-      "artists": [
-        {
-          "name": "\u00cdtalo Ribeiro",
-          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
-        },
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 162780,
-      "name": "Pra Casar",
-      "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -1399,6 +1399,30 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
+      },
+      "artists": [
+        {
+          "name": "Rezeh",
+          "url": "https://open.spotify.com/artist/3CYzvQKS4JWJ4fcD9uWBOW"
+        },
+        {
+          "name": "Jean Tassy",
+          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
+        }
+      ],
+      "duration_ms": 92960,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1423,30 +1447,6 @@
       "duration_ms": 138205,
       "name": "Magia",
       "url": "https://open.spotify.com/track/2dvPXUstjg81OAlx06pjB1"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/5I5MC3hULL4aG9vVJtrTkz"
-      },
-      "artists": [
-        {
-          "name": "Rezeh",
-          "url": "https://open.spotify.com/artist/3CYzvQKS4JWJ4fcD9uWBOW"
-        },
-        {
-          "name": "Jean Tassy",
-          "url": "https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR"
-        }
-      ],
-      "duration_ms": 92960,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
-        "name": "Pra Viajar",
-        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 249489,
-      "name": "Pra Viajar",
-      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
+        "name": "Pra Viajar",
+        "url": "https://open.spotify.com/album/4z4dZiS8jx9ZzOzJb4nGN9"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 249489,
+      "name": "Pra Viajar",
+      "url": "https://open.spotify.com/track/390Yl190rqixethu2ekKXk"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -1715,50 +1715,6 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
-      },
-      "artists": [
-        {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
-        },
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
-        "name": "Ins\u00f4nia",
-        "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 206632,
-      "name": "Ins\u00f4nia",
-      "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
         "name": "Tudo Passa",
         "url": "https://open.spotify.com/album/0hZ8eIHTD4avxESiFNI89m"
       },
@@ -1787,6 +1743,50 @@
       "duration_ms": 265862,
       "name": "Tudo Passa",
       "url": "https://open.spotify.com/track/2TgLIOWRhFToItn8YhgQrw"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
+        "name": "Ins\u00f4nia",
+        "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 206632,
+      "name": "Ins\u00f4nia",
+      "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
+        "name": "Risco de se Apaixonar",
+        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
+      },
+      "artists": [
+        {
+          "name": "Marcello Melo Jr.",
+          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
+        },
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Risco de se Apaixonar",
+      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -1923,6 +1923,26 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
+        "name": "viciar",
+        "url": "https://open.spotify.com/album/6cx9RII2H5QQu7AM36x5kg"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+        }
+      ],
+      "duration_ms": 153160,
+      "name": "viciar",
+      "url": "https://open.spotify.com/track/60usq0qxIEDe1OTfPCva64"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
         "name": "Outro Patamar",
         "url": "https://open.spotify.com/album/4J1SvtWJvuHaPkjk6PlIom"
       },
@@ -1947,26 +1967,6 @@
       "duration_ms": 224842,
       "name": "Outro Patamar",
       "url": "https://open.spotify.com/track/0hVKEiZ9lWwKQlBk4VZ0GK"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
-        "name": "viciar",
-        "url": "https://open.spotify.com/album/6cx9RII2H5QQu7AM36x5kg"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "CASITA",
-          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
-        }
-      ],
-      "duration_ms": 153160,
-      "name": "viciar",
-      "url": "https://open.spotify.com/track/60usq0qxIEDe1OTfPCva64"
     },
     {
       "added_at": "2024-11-29 19:27:03",

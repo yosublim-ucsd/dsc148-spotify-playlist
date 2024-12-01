@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from Merce Lemon 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,173 likes - 140 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,216 likes - 140 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

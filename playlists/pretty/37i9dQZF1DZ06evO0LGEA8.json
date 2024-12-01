@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 255091,
+  "num_followers": 255221,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAATFEItY8M2hUFlqSwCRHVn",
+  "snapshot_id": "Z0kEAAAAAACW0txMY+s098lCWqeazlnp",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aun Te Pienso",
-        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Aun Te Pienso",
-      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santos Grifos, Vol. 1",
         "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 275500,
       "name": "Compatible Contigo",
       "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aun Te Pienso",
+        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Aun Te Pienso",
+      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ilegal",
-        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 245562,
-      "name": "Ilegal",
-      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos, Vol. 2",
         "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 530280,
       "name": "A Su Vato Enga\u00f1a",
       "url": "https://open.spotify.com/track/1omrt3OLApXDY5F440nNst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ilegal",
+        "url": "https://open.spotify.com/album/7zyXMZhsIIts324w7hEGBC"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 245562,
+      "name": "Ilegal",
+      "url": "https://open.spotify.com/track/6i75UApaUiIwbHKNjeZpZi"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Fumando",
-        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 330500,
-      "name": "A Ti Mi Dama",
-      "url": "https://open.spotify.com/track/6eOLT7ugIriFbbFYZVzh8V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Chidas Pal Cuarto",
         "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 330161,
       "name": "Las Chidas Pal Cuarto",
       "url": "https://open.spotify.com/track/0crzECUaFwVsvR2Ew6dYpX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguimos Fumando",
+        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 330500,
+      "name": "A Ti Mi Dama",
+      "url": "https://open.spotify.com/track/6eOLT7ugIriFbbFYZVzh8V"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 294504,
+      "name": "Primero Lo Que Deja",
+      "url": "https://open.spotify.com/track/3xupp1fab05rKDBUIIloS3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Locofon\u00edas",
         "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 360724,
       "name": "Liga Malandra",
       "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Chidas Pal Cuarto",
-        "url": "https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 294504,
-      "name": "Primero Lo Que Deja",
-      "url": "https://open.spotify.com/track/3xupp1fab05rKDBUIIloS3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: Annahstasia, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,215,563 likes - 265 songs - 14 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,215,622 likes - 265 songs - 14 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,7 +262,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 252 | [Baby](https://open.spotify.com/track/2GpheX7p45TdZGLxDCgnc5) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Baby](https://open.spotify.com/album/1thp3kVmCI247UNoTRwicf) | 3:23 |
 | 253 | [Fight](https://open.spotify.com/track/609zDjuJc2khT26MeH1SDr) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Fight](https://open.spotify.com/album/2XRwraE5LrRycdFL96jgkg) | 5:22 |
 | 254 | [Weak Man](https://open.spotify.com/track/692p98hCuERUsJCFioZuuV) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Weak Man](https://open.spotify.com/album/59zkKQn0tFBHNwOolMjomx) | 3:00 |
-| 255 | [you're like me](https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [you're like me](https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt) | 5:29 |
+| 255 | [you're like me](https://open.spotify.com/track/3egqyC4t6r1LQAGOq7nWv0) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [you're like me](https://open.spotify.com/album/4Ql7ZFhouZz93easNzZaqt) | 5:29 |
 | 256 | [Whiskey You're Cold](https://open.spotify.com/track/5gFzJxGWPamBswU2xqMpqZ) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Whiskey You're Cold](https://open.spotify.com/album/5TOtySy8wcwkpduWRIWAxk) | 3:46 |
 | 257 | [Naive](https://open.spotify.com/track/4yOgT6LdOXBn9PRQl1fvbT) | [Megan Knight](https://open.spotify.com/artist/2Y4m8BAZwXLSPulBEGx1h7) | [Naive](https://open.spotify.com/album/5EBWug8LBe7Qr22ZQnhqRO) | 3:45 |
 | 258 | [Sleeping Dogs](https://open.spotify.com/track/7xW9JjKq1cl6ZBq8tTkeWA) | [Twine](https://open.spotify.com/artist/5MHpGdn6o4ezeRsrN14wZk) | [Sleeping Dogs](https://open.spotify.com/album/6pwByNKOnvpOvzNrUg242D) | 4:47 |

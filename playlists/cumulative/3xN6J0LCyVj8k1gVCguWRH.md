@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,230 songs - 9 day 21 hr 18 min
+4,231 songs - 9 day 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2030,6 +2030,7 @@
 | [Larga Vida](https://open.spotify.com/track/77s5oCZ0eI59BygbuicR4W) | [Xavi Jordan](https://open.spotify.com/artist/5H1dqpna1LZM58Estbgg6B) | [Larga Vida](https://open.spotify.com/album/1OJa8YSZ5UYW7wb5K6K6yv) | 2:22 | 2023-08-27 | 2023-09-26 |
 | [Las Grandes Bañistas](https://open.spotify.com/track/1a0bNJu5SZKoxZB4IXUUbA) | [Xackal](https://open.spotify.com/artist/6I8vp2QeDqh8HDpUP1ZjpB) | [Las Grandes Bañistas](https://open.spotify.com/album/5OpYJcsXKiKmbvykoTEviR) | 3:41 | 2020-12-11 | 2020-12-26 |
 | [Las Vegas Will You Marry Me](https://open.spotify.com/track/33xZh3jEHKNIWCTmvvyL81) | [Dennis Bono](https://open.spotify.com/artist/2PNqDNuYzvppDUV0tKHJT9), [Dan Slider & The Vegas Headliner Big Band](https://open.spotify.com/artist/0zGQ8R1ViCcF5nYCg8DMmj) | [Las Vegas Will You Marry Me](https://open.spotify.com/album/07PoqhcscnvZxIGV34j75B) | 2:58 | 2023-06-13 | 2023-06-27 |
+| [Last Christmas](https://open.spotify.com/track/0A9BHZY9IJTAUKB6ha78V7) | [Bodywash](https://open.spotify.com/artist/7mpsiMuz8gkLsEg8WVDQq7) | [Last Christmas](https://open.spotify.com/album/10dpGxoW9iHHoj0cmKAAKy) | 3:46 | 2024-11-30 |  |
 | [Last Dance](https://open.spotify.com/track/70deUYDOouO8E0me5JWMGp) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Last Dance](https://open.spotify.com/album/30KypTEo8oYOQ1y7HbZy2M) | 3:41 | 2024-07-15 | 2024-07-27 |
 | [last first date](https://open.spotify.com/track/0BoR8leRhGdvCNdwbqUPcJ) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn) | [last first date](https://open.spotify.com/album/2iQY8LE8UQJxatH3Q6hnzZ) | 3:07 | 2024-07-03 | 2024-07-16 |
 | [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-07-26 | 2024-04-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Queen. The essential tracks, all in one playlist.",
-  "num_followers": 4902157,
+  "num_followers": 4902328,
   "original_name": "This Is Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAB7/RWqi4iKaAtLXL7lmGJ0",
+  "snapshot_id": "Z0kEAAAAAAA38rOkyayrNmLw2ttwobfw",
   "tracks": [
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen I",
-        "url": "https://open.spotify.com/album/763x2B8AWacqWDjP9KjM5l"
+        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 225813,
-      "name": "Keep Yourself Alive - 2024 Mix",
-      "url": "https://open.spotify.com/track/4cwJL1Q1SjrPDJdHE8apeh"
+      "duration_ms": 133813,
+      "name": "Stone Cold Crazy - Remastered 2011",
+      "url": "https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheer Heart Attack (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/1Gnrd76EubInPV4KjOJ1Zr"
+        "name": "Queen I",
+        "url": "https://open.spotify.com/album/763x2B8AWacqWDjP9KjM5l"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 133813,
-      "name": "Stone Cold Crazy - Remastered 2011",
-      "url": "https://open.spotify.com/track/6d2UQWWWZj3k4BE6WcN4IT"
+      "duration_ms": 225813,
+      "name": "Keep Yourself Alive - 2024 Mix",
+      "url": "https://open.spotify.com/track/4cwJL1Q1SjrPDJdHE8apeh"
     },
     {
       "added_at": null,

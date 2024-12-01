@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Angelica Bove",
-  "num_followers": 33827,
+  "num_followers": 33840,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "ATTACCHI DI PANICO",
-        "url": "https://open.spotify.com/album/6wyREv4d7MGXTMeIYa20Aa"
-      },
-      "artists": [
-        {
-          "name": "Ciliari",
-          "url": "https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "ATTACCHI DI PANICO",
-      "url": "https://open.spotify.com/track/5uYU0dQRXVIB43C8Eulu3z"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Occhi Blu",
         "url": "https://open.spotify.com/album/0CKpLdO3jBGHtgd6pvaOLW"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Un'ora di sole",
-        "url": "https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol"
+        "name": "ATTACCHI DI PANICO",
+        "url": "https://open.spotify.com/album/6wyREv4d7MGXTMeIYa20Aa"
       },
       "artists": [
         {
-          "name": "Alek",
-          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+          "name": "Ciliari",
+          "url": "https://open.spotify.com/artist/2jY7Xu5VNC7pW6Zji5ui9T"
         }
       ],
-      "duration_ms": 156857,
-      "name": "Un'ora di sole",
-      "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"
+      "duration_ms": 179500,
+      "name": "ATTACCHI DI PANICO",
+      "url": "https://open.spotify.com/track/5uYU0dQRXVIB43C8Eulu3z"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -535,22 +519,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Sott'acqua",
-        "url": "https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF"
+        "name": "Un'ora di sole",
+        "url": "https://open.spotify.com/album/3FzC9bahybfQ8RoaIrKKol"
       },
       "artists": [
         {
-          "name": "FREN\u00c8SYA",
-          "url": "https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW"
-        },
-        {
-          "name": "Mazzariello",
-          "url": "https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1"
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
         }
       ],
-      "duration_ms": 191250,
-      "name": "Sott'acqua",
-      "url": "https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx"
+      "duration_ms": 156857,
+      "name": "Un'ora di sole",
+      "url": "https://open.spotify.com/track/4Q0UCrYhok9DqSrByi6yEy"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -567,6 +547,26 @@
       "duration_ms": 172894,
       "name": "Senza Stelle",
       "url": "https://open.spotify.com/track/6WyZIUaJ3gfEs3TCYAEK3n"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Sott'acqua",
+        "url": "https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF"
+      },
+      "artists": [
+        {
+          "name": "FREN\u00c8SYA",
+          "url": "https://open.spotify.com/artist/3kiRuZtCjfRNm4o0mhMteW"
+        },
+        {
+          "name": "Mazzariello",
+          "url": "https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Sott'acqua",
+      "url": "https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Come Stai?",
-        "url": "https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2"
-      },
-      "artists": [
-        {
-          "name": "SELMI",
-          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
-        }
-      ],
-      "duration_ms": 154552,
-      "name": "Come Stai?",
-      "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Pasquale (guarda i cantieri)",
         "url": "https://open.spotify.com/album/0odog0F3DL9ccdSZt6YRlj"
       },
@@ -635,34 +619,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "PARTITA A SCACCHI",
-        "url": "https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49"
+        "name": "Come Stai?",
+        "url": "https://open.spotify.com/album/3IjNTYpPNb9Jvfayj13kv2"
       },
       "artists": [
         {
-          "name": "Daria Huber",
-          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
+          "name": "SELMI",
+          "url": "https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys"
         }
       ],
-      "duration_ms": 188933,
-      "name": "PARTITA A SCACCHI",
-      "url": "https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Quel che eravamo",
-        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
-      },
-      "artists": [
-        {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Quel che eravamo",
-      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
+      "duration_ms": 154552,
+      "name": "Come Stai?",
+      "url": "https://open.spotify.com/track/3HI7uWeBPv4ahPhoAMSjvs"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -699,6 +667,38 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "PARTITA A SCACCHI",
+        "url": "https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49"
+      },
+      "artists": [
+        {
+          "name": "Daria Huber",
+          "url": "https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "PARTITA A SCACCHI",
+      "url": "https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Quel che eravamo",
+        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
+      },
+      "artists": [
+        {
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Quel che eravamo",
+      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "i miei fiumi",
         "url": "https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 184534,
       "name": "i miei fiumi",
       "url": "https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Eroi",
+        "url": "https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP"
+      },
+      "artists": [
+        {
+          "name": "Valentino Vivace",
+          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+        }
+      ],
+      "duration_ms": 208487,
+      "name": "Eroi",
+      "url": "https://open.spotify.com/track/0rJ6QG75YCZXpjmkG6KWIQ"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -731,18 +747,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Eroi",
-        "url": "https://open.spotify.com/album/5AjqUnrSKRdRlKK9H5VYOP"
+        "name": "Campari",
+        "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
       },
       "artists": [
         {
-          "name": "Valentino Vivace",
-          "url": "https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf"
+          "name": "Kate",
+          "url": "https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv"
         }
       ],
-      "duration_ms": 208487,
-      "name": "Eroi",
-      "url": "https://open.spotify.com/track/0rJ6QG75YCZXpjmkG6KWIQ"
+      "duration_ms": 161500,
+      "name": "Campari",
+      "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -811,22 +827,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Campari",
-        "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
-      },
-      "artists": [
-        {
-          "name": "Kate",
-          "url": "https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Campari",
-      "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Sotto",
         "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
       },
@@ -843,22 +843,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "MENTRE IL MONDO CORRE (feat. Zeep)",
-        "url": "https://open.spotify.com/album/4zbU9maFlAaeVNxxCWDoOw"
+        "name": "Soli per errore",
+        "url": "https://open.spotify.com/album/3WhnEn3ujKpKKI1M00MIbK"
       },
       "artists": [
         {
-          "name": "eroCaddeo",
-          "url": "https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5"
-        },
-        {
-          "name": "Zeep",
-          "url": "https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl"
+          "name": "LYSA",
+          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
         }
       ],
-      "duration_ms": 159428,
-      "name": "MENTRE IL MONDO CORRE (feat. Zeep)",
-      "url": "https://open.spotify.com/track/7gF369POATZlU7B6XI6pDc"
+      "duration_ms": 178306,
+      "name": "Soli per errore",
+      "url": "https://open.spotify.com/track/18EEKIX7F8UrF8iWS1zNVN"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -899,18 +895,22 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Soli per errore",
-        "url": "https://open.spotify.com/album/3WhnEn3ujKpKKI1M00MIbK"
+        "name": "MENTRE IL MONDO CORRE (feat. Zeep)",
+        "url": "https://open.spotify.com/album/4zbU9maFlAaeVNxxCWDoOw"
       },
       "artists": [
         {
-          "name": "LYSA",
-          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
+          "name": "eroCaddeo",
+          "url": "https://open.spotify.com/artist/20Ue9Vj12Xs29OCe0WCTV5"
+        },
+        {
+          "name": "Zeep",
+          "url": "https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl"
         }
       ],
-      "duration_ms": 178306,
-      "name": "Soli per errore",
-      "url": "https://open.spotify.com/track/18EEKIX7F8UrF8iWS1zNVN"
+      "duration_ms": 159428,
+      "name": "MENTRE IL MONDO CORRE (feat. Zeep)",
+      "url": "https://open.spotify.com/track/7gF369POATZlU7B6XI6pDc"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -927,22 +927,6 @@
       "duration_ms": 139826,
       "name": "BRONCIO",
       "url": "https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "lecosepeggiori",
-        "url": "https://open.spotify.com/album/3wVgX9wPLbK8AcHJBCYLkn"
-      },
-      "artists": [
-        {
-          "name": "Avanzi",
-          "url": "https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J"
-        }
-      ],
-      "duration_ms": 170911,
-      "name": "lecosepeggiori",
-      "url": "https://open.spotify.com/track/1qd3JHPKqsOZRAJic55MTI"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -979,18 +963,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Se non passasse aria",
-        "url": "https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu"
+        "name": "lecosepeggiori",
+        "url": "https://open.spotify.com/album/3wVgX9wPLbK8AcHJBCYLkn"
       },
       "artists": [
         {
-          "name": "montag",
-          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+          "name": "Avanzi",
+          "url": "https://open.spotify.com/artist/6NK8YVU9oLmjQ9VpM3cM8J"
         }
       ],
-      "duration_ms": 202793,
-      "name": "Se non passasse aria",
-      "url": "https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5"
+      "duration_ms": 170911,
+      "name": "lecosepeggiori",
+      "url": "https://open.spotify.com/track/1qd3JHPKqsOZRAJic55MTI"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1007,6 +991,38 @@
       "duration_ms": 181191,
       "name": "Pennette alla vodka",
       "url": "https://open.spotify.com/track/1vFOFOiGA3wKDZiyMacHFk"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Cemento",
+        "url": "https://open.spotify.com/album/2Xg5FWrpaZIB3lG5MYyqez"
+      },
+      "artists": [
+        {
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
+        }
+      ],
+      "duration_ms": 188639,
+      "name": "Cemento",
+      "url": "https://open.spotify.com/track/5VQI1dj40QV6Gwtakup12U"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Se non passasse aria",
+        "url": "https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu"
+      },
+      "artists": [
+        {
+          "name": "montag",
+          "url": "https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0"
+        }
+      ],
+      "duration_ms": 202793,
+      "name": "Se non passasse aria",
+      "url": "https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1059,50 +1075,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "206",
-        "url": "https://open.spotify.com/album/44Nf83ckLxc0wdzTNliqLB"
+        "name": "Scarpe",
+        "url": "https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1"
       },
       "artists": [
         {
-          "name": "Prim",
-          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+          "name": "SANTACHIARA",
+          "url": "https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW"
         }
       ],
-      "duration_ms": 170323,
-      "name": "206",
-      "url": "https://open.spotify.com/track/72buB4COoPHYRa82kC9Juo"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Ancora",
-        "url": "https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v"
-      },
-      "artists": [
-        {
-          "name": "Mediterraneo",
-          "url": "https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Piramidi",
-        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
-      },
-      "artists": [
-        {
-          "name": "Paul Giorgi",
-          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
-        }
-      ],
-      "duration_ms": 192846,
-      "name": "Piramidi",
-      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
+      "duration_ms": 192000,
+      "name": "Scarpe",
+      "url": "https://open.spotify.com/track/7MvxCM3k9mdhCTMRB7I6Vz"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1123,34 +1107,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Un cane",
-        "url": "https://open.spotify.com/album/5oSZwFm2gzzcUJNBDDQ7Vd"
-      },
-      "artists": [
-        {
-          "name": "SPINABELLA",
-          "url": "https://open.spotify.com/artist/2V6hgWccRYE8HM1CbNgobr"
-        },
-        {
-          "name": "elia",
-          "url": "https://open.spotify.com/artist/4AtwkLcoCPKhSVsXB8U8mJ"
-        },
-        {
-          "name": "Heavyangel",
-          "url": "https://open.spotify.com/artist/7p63AvCn4RRaREv06AnKnr"
-        },
-        {
-          "name": "Lincxn",
-          "url": "https://open.spotify.com/artist/29pfmNxifqErXIFZfubjAq"
-        }
-      ],
-      "duration_ms": 207880,
-      "name": "Un cane",
-      "url": "https://open.spotify.com/track/6AebymbfPmy8oKu77ZFIlN"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Un Titolo Migliore",
         "url": "https://open.spotify.com/album/6jeA4JnfuCThnw6N4OpzLa"
       },
@@ -1163,6 +1119,38 @@
       "duration_ms": 179384,
       "name": "Un Titolo Migliore",
       "url": "https://open.spotify.com/track/6tYFsZaLQBRvbPuHd9spqR"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Piramidi",
+        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
+      },
+      "artists": [
+        {
+          "name": "Paul Giorgi",
+          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
+        }
+      ],
+      "duration_ms": 192846,
+      "name": "Piramidi",
+      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Ancora",
+        "url": "https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v"
+      },
+      "artists": [
+        {
+          "name": "Mediterraneo",
+          "url": "https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "Ancora",
+      "url": "https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW"
     }
   ],
   "unique_name": "Scuola Indie",

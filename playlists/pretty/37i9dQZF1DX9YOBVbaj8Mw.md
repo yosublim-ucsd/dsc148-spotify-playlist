@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,744 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,750 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 62 | [IMAGO SWAN](https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY) | [Smolik](https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR), [Y \(BOKKA\)](https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy) | [IMAGO \(Original Soundtrack\)](https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln) | 2:52 |
 | 63 | [Czas Nie Leczy Ran](https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj) | [CARNAL](https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Horyzont Zdarzeń](https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE) | 4:48 |
 | 64 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
-| 65 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
-| 66 | [Patataj](https://open.spotify.com/track/0FXzxYSvqtuYVo2eby0sKd) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR) | [Cykl](https://open.spotify.com/album/4E4u0bpAPC0XebcqwQB2U7) | 2:37 |
+| 65 | [Patataj](https://open.spotify.com/track/0FXzxYSvqtuYVo2eby0sKd) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR) | [Cykl](https://open.spotify.com/album/4E4u0bpAPC0XebcqwQB2U7) | 2:37 |
+| 66 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
 | 67 | [Fight First](https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Mother's Day \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf) | 2:43 |
 | 68 | [Coincidence \- Part 1 \- Prologue](https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3) | [Paweł Tomaszewski](https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty), [Orkiestra Symfoniczna Filharmonii w Szczecinie](https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp), [Filharmonia Szczecin](https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy) | [COINCIDENCE](https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy) | 2:07 |
 | 69 | [Nucę, gwiżdżę sobie \(Canto Canto\)](https://open.spotify.com/track/4i4jC0dkDV7lTGjUGuEzQU) | [Dorota Miskiewicz](https://open.spotify.com/artist/28mPXJrs2VyZ6Phm1JBeaF), [Toninho Horta](https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk) | [Bons Amigos](https://open.spotify.com/album/3Jw4AYdB8n1eREIDwQSpwa) | 4:17 |

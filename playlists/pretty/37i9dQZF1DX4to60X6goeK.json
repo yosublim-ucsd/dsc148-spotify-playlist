@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Georgie Riot",
-  "num_followers": 65725,
+  "num_followers": 65799,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Out & About",
-        "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
-      },
-      "artists": [
-        {
-          "name": "Amplify",
-          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Out & About",
-      "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Spartanz (Bou Remix)",
         "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 222068,
       "name": "Spartanz - Bou Remix",
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Out & About",
+        "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
+      },
+      "artists": [
+        {
+          "name": "Amplify",
+          "url": "https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Out & About",
+      "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
     },
     {
       "added_at": "2024-11-22 00:00:00",

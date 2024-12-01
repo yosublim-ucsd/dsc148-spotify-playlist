@@ -1850,7 +1850,7 @@
 | [¿QUE NOS PASO?](https://open.spotify.com/track/2dEnC7PXfDYTwvggeDu0Uv) | [Kaii Dreams](https://open.spotify.com/artist/2PyT97wbUZvF6clgcl91cU) | [¿QUE NOS PASO?](https://open.spotify.com/album/1tcn9mNRP41sFkYcnkfgaz) | 3:46 | 2024-02-14 | 2024-02-29 |
 | [Île fossiles](https://open.spotify.com/track/3fF9nkIFsjEIhm0477iE4v) | [Makenzie](https://open.spotify.com/artist/13tbVKy5Kmvj8dvBIEzIdS) | [Mousses Mémoires](https://open.spotify.com/album/4Jzwiv01wtaFmZHRJrOCJ9) | 3:40 | 2024-06-12 | 2024-06-20 |
 | [Última Mujer](https://open.spotify.com/track/3YmhGYWtH60KrL9nSsUDfY) | [Chantel](https://open.spotify.com/artist/0mrCXumAZyMWHVXYYgLcVK) | [Última Mujer](https://open.spotify.com/album/5T12FeTyAorp8QjO8sZt97) | 3:51 | 2023-10-04 | 2023-10-19 |
-| [киса](https://open.spotify.com/track/05uimeZd86uuzlOvrO1ZDQ) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE), [ruski sixx](https://open.spotify.com/artist/6qW0VYpyZGmwdBt9UgHLNa) | [киса](https://open.spotify.com/album/4FMRKZrnKf6J9PaXzqFMm6) | 2:36 | 2024-11-27 |  |
+| [киса](https://open.spotify.com/track/05uimeZd86uuzlOvrO1ZDQ) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE), [ruski sixx](https://open.spotify.com/artist/1NIds7CUWndWI4SiungvXv) | [киса](https://open.spotify.com/album/4FMRKZrnKf6J9PaXzqFMm6) | 2:36 | 2024-11-27 |  |
 | [﻿Garden Path](https://open.spotify.com/track/3EUm3GbXgkEOS38GleJjWN) | [Laughing](https://open.spotify.com/artist/02wBeDenxYGyaUy9H49nt6) | [Because It’s True](https://open.spotify.com/album/1E1ncAUiHSyXacOPCSYxSK) | 4:36 | 2024-07-10 | 2024-08-01 |
 
 \*This playlist was first scraped on 2023-07-27. Prior content cannot be recovered.

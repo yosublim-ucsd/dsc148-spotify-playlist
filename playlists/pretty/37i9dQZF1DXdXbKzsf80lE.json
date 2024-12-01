@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 255868,
+  "num_followers": 255969,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -95,26 +95,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Me Usa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl"
-      },
-      "artists": [
-        {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        },
-        {
-          "name": "Kevi Jonny",
-          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Me Usa - Ao Vivo",
-      "url": "https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "Errejota (ao Vivo)",
         "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 231680,
       "name": "Algo Mais (Amante) - Ao Vivo",
       "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Me Usa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl"
+      },
+      "artists": [
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        },
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Me Usa - Ao Vivo",
+      "url": "https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Conquistas - EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 182976,
-      "name": "Basta Voc\u00ea Me Ligar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "O Apostador",
         "url": "https://open.spotify.com/album/5Djfedu3tD8JnJ27Te8LcX"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 136304,
       "name": "O Apostador",
       "url": "https://open.spotify.com/track/4JCNKUDiJi9GOKjfur6R9S"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Conquistas - EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 182976,
+      "name": "Basta Voc\u00ea Me Ligar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Trip do Boyzinho",
+        "url": "https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx"
+      },
+      "artists": [
+        {
+          "name": "Boyzinho o Rei da Bregadeira",
+          "url": "https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK"
+        }
+      ],
+      "duration_ms": 169903,
+      "name": "Trip do Boyzinho",
+      "url": "https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "Saudade Braba",
         "url": "https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 168658,
       "name": "Amor de Rapariga",
       "url": "https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Trip do Boyzinho",
-        "url": "https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx"
-      },
-      "artists": [
-        {
-          "name": "Boyzinho o Rei da Bregadeira",
-          "url": "https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK"
-        }
-      ],
-      "duration_ms": 169903,
-      "name": "Trip do Boyzinho",
-      "url": "https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1212,7 +1212,7 @@
       },
       "artists": [
         {
-          "name": "Leo Santana",
+          "name": "L\u00e9o Santana",
           "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         },
         {
@@ -1404,7 +1404,7 @@
           "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
         },
         {
-          "name": "Leo Santana",
+          "name": "L\u00e9o Santana",
           "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],

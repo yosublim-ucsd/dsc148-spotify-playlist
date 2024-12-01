@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 575900,
+  "num_followers": 575954,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAAGK/at2fB2XvP3RO6b1ygw",
+  "snapshot_id": "Z0kEAAAAAADiOkdWqhEN5+g0PwaACQ3b",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,26 @@
       "duration_ms": 214493,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 156287,
+      "name": "Best Friend (with Fall Out Boy)",
+      "url": "https://open.spotify.com/track/6YIUVlNppbizkWnme87kAY"
     },
     {
       "added_at": null,
@@ -803,22 +823,6 @@
       "duration_ms": 216933,
       "name": "Wilson (Expensive Mistakes)",
       "url": "https://open.spotify.com/track/2W6kVW3UZ3hwr4qbfCDp6B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6KOWjVP0mh5rOqmzm4tkPD"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "America's Suitehearts",
-      "url": "https://open.spotify.com/track/3Dg1BK3rHo6mCvzSO2b9Ct"
     }
   ],
   "unique_name": "This Is Fall Out Boy",

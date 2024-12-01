@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,534 songs - 3 day 20 hr 57 min
+1,535 songs - 3 day 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [LaLaLa](https://open.spotify.com/track/59VPazsRoE7d68T5QkZv7d) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [LaLaLa](https://open.spotify.com/album/2gh7VrfBwWqtcGGQFXa3mL) | 2:55 | 2023-01-24 | 2023-03-25 |
 | [Late summer waves](https://open.spotify.com/track/2nmfkEVZwZqSPmJnmgJqIu) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [Late summer waves](https://open.spotify.com/album/1uOlgoXblcCIlAAMdR63GU) | 2:35 | 2022-09-08 | 2023-08-16 |
 | [Lazy](https://open.spotify.com/track/2kZo01ECeedfL95z4zpVKf) | [AVOCADO BOYS](https://open.spotify.com/artist/1MB951pYoPEBWP5jSsAjOo) | [Lazy](https://open.spotify.com/album/3pAueoomvTwfDObLNimgOL) | 3:42 | 2024-01-16 | 2024-01-24 |
+| [lazy cat](https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Under Blue](https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd) | 2:35 | 2024-11-27 |  |
 | [lean forward](https://open.spotify.com/track/6YXm0b3TVVGOz1K82ye05R) | [Spangle Call Lilli Line](https://open.spotify.com/artist/6oCeoRIeqwZAgoaNOv8IyB) | [lean forward](https://open.spotify.com/album/22QvSMhfacTzmNNmvVkIOO) | 4:30 | 2022-06-16 | 2022-07-22 |
 | [Lee Un Vile](https://open.spotify.com/track/1W6OsVcIwmrfU8BQsiCDn2) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Lee Un Vile](https://open.spotify.com/album/02yXEG4Pjz67C3pufDY2p7) | 3:38 | 2024-01-16 | 2024-01-24 |
 | [Left Alone feat\. 土岐麻子](https://open.spotify.com/track/1lIbuuAIcqM0Ft7nHixt25) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Left Alone feat\. 土岐麻子](https://open.spotify.com/album/1UBA1poMb5uU40hvC6ld9r) | 4:10 | 2022-09-27 | 2023-01-27 |
@@ -1490,7 +1491,7 @@
 | [生きてみるわ](https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ECHO CHAMBER](https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O) | 3:32 | 2022-07-07 | 2022-08-12 |
 | [生きる](https://open.spotify.com/track/2fVaeXxHlTXGg2lwRzOKOw) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [春火燎原](https://open.spotify.com/album/0PuAbMj3Q0pg3XuNTYY9yM) | 4:01 | 2022-05-26 | 2022-06-15 |
 | [生きる者](https://open.spotify.com/track/6PI1TwnN9RmZvVFxxY8zIE) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [生きる者](https://open.spotify.com/album/26gXUOA2UGD1g0Bq3scVqi) | 4:41 | 2023-01-24 | 2023-06-22 |
-| [生命体](https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [生命体](https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr) | 3:11 | 2024-04-16 |  |
+| [生命体](https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [生命体](https://open.spotify.com/album/0MwMa5UfavcI35Mc8F9afr) | 3:11 | 2024-04-16 | 2024-12-01 |
 | [白い椅子](https://open.spotify.com/track/2XfjlCEbqWOfcPGRLgGgZn) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [白い椅子](https://open.spotify.com/album/4pMLmz6TMWKYm6Sv9PxTo1) | 3:03 | 2023-11-21 | 2023-11-29 |
 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 | 2022-08-11 | 2022-10-05 |
 | [真夏の果実 \- Cover](https://open.spotify.com/track/3Fs7I1kToxhafKWDtU39Pw) | [Lisa Halim](https://open.spotify.com/artist/52kXMSVvJpQ9RWABFBt9H9), [Micro](https://open.spotify.com/artist/5YgjUcPpadiQTJvck01mE5) | [by the Sea 3](https://open.spotify.com/album/20A1c3QFeS6SSUkwtffzWJ) | 4:32 | 2023-11-28 | 2023-11-30 |

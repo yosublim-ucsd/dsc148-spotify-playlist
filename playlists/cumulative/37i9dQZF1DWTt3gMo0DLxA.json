@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 243265,
       "name": "Apudo Ipudo",
       "url": "https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj"
@@ -660,6 +660,32 @@
       "duration_ms": 200208,
       "name": "Boss Party",
       "url": "https://open.spotify.com/track/4sJ9X27MSCue4d0t48MXwe"
+    },
+    {
+      "album": {
+        "name": "Bujji Thalli (From \"Thandel\")",
+        "url": "https://open.spotify.com/album/4a8iv6jApEjx5SuLyEnA2n"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Shree Mani",
+          "url": "https://open.spotify.com/artist/3S9UbmvOKXtONgwJOh2Ngh"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248825,
+      "name": "Bujji Thalli (From \"Thandel\")",
+      "url": "https://open.spotify.com/track/5MrLQeEVCWueDR4XejhFNG"
     },
     {
       "album": {

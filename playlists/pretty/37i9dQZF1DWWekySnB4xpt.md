@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Rawayana & Akapellah
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,928 likes - 85 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,049 likes - 85 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 45 | [Aunque Ahora Estés Con El](https://open.spotify.com/track/6K3b0tQtzvvt6Ez8B34Z6z) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ida y Vuelta](https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR) | 3:34 |
 | 46 | [Amparito](https://open.spotify.com/track/0DTkjSxTl3Q2xYqok4vhH4) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Super Exitos De Maracaibo 15](https://open.spotify.com/album/5GbKnnwqvJRto8ck2PV3WY) | 3:11 |
 | 47 | [Lloraras](https://open.spotify.com/track/5eL30MTm9nm9ftXKAHDDsa) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Los Oscares De Oscar](https://open.spotify.com/album/0D0gKSIjvf5cz7Pr1B8B0x) | 3:48 |
-| 48 | [Yo Sin Ti No Valgo Nada](https://open.spotify.com/track/6YqWAzfezTk80hSueXDgLW) | [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [De Repente](https://open.spotify.com/album/1MetGojPDNSrsJRLOxI7ve) | 3:44 |
+| 48 | [Yo Sin Ti No Valgo Nada](https://open.spotify.com/track/6YqWAzfezTk80hSueXDgLW) | [C4 Trío](https://open.spotify.com/artist/2SpMp7QKtvCCGZLmipkzaW), [Rafael "Pollo" Brito](https://open.spotify.com/artist/0L3PoFZZQ0WyS7HgnOdd1o) | [De Repente](https://open.spotify.com/album/1MetGojPDNSrsJRLOxI7ve) | 3:44 |
 | 49 | [El Farolito](https://open.spotify.com/track/4RIcZ1yQNUV7KmgEFl9XKO) | [Vos Veis](https://open.spotify.com/artist/6o2nLC8Ud7Aegw74dBM6WE) | [Vas](https://open.spotify.com/album/05iwiz6Y9tvN7Sy1azQ0Hf) | 3:19 |
 | 50 | [Bonita](https://open.spotify.com/track/7EUvcSFkyVB73zrblhQmEL) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac) | [Bonita](https://open.spotify.com/album/1Kuk5x41I3h7f1gKwytNjM) | 3:07 |
 | 51 | [Se Acabó \(feat\. Chino & Nacho\)](https://open.spotify.com/track/0Utzzt4g5obYXkREtLiRR1) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ) | [El Plan](https://open.spotify.com/album/2DVYLr5bpUMkzql2NQlMSW) | 3:27 |

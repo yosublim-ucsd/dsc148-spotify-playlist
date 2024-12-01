@@ -333,6 +333,28 @@
     },
     {
       "album": {
+        "name": "Cleopatra / \u201cGobernante\u201d",
+        "url": "https://open.spotify.com/album/01wDeB5SPl6HUZEiHrsWsh"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Samtwenty",
+          "url": "https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179507,
+      "name": "Cleopatra / \u201cGobernante\u201d",
+      "url": "https://open.spotify.com/track/7azFSJzBdzOQqPU7kZsvML"
+    },
+    {
+      "album": {
         "name": "Desde Que Te Bese",
         "url": "https://open.spotify.com/album/6BI9UyPeQL7GYoxvXvLc5H"
       },

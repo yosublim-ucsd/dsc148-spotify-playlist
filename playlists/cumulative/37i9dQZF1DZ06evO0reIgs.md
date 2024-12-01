@@ -4,7 +4,7 @@
 
 > This is Cynthia Luz\. The essential tracks, all in one playlist.
 
-95 songs - 6 hr 8 min
+96 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Lamentável, Pt\. III](https://open.spotify.com/track/46h2Z0b21xC1gzluNeCiVG) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Pior Disco do Ano](https://open.spotify.com/album/65ddZj6nMC8ypPvzoTxVli) | 3:30 | 2023-12-30 |  |
 | [Mais Sobre Mim](https://open.spotify.com/track/2NK4BJAG9MUkI2O7IIr2KF) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [NOX](https://open.spotify.com/artist/3F6j9XVtOIZaGCJAGNxOXO) | [Ciclo Vicioso](https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ) | 3:12 | 2024-03-09 |  |
 | [Mar De Luz](https://open.spotify.com/track/27VLbNPyJyAtBdblDVepuz) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [ELAS](https://open.spotify.com/album/1xEuWIkQ4Wf2URRMnZwxTP) | 2:20 | 2024-10-20 |  |
+| [Me Acostumei \- Dread Session, Vol\. 1](https://open.spotify.com/track/573JkvQ34ID2a2u0oPxQs7) | [Rapaz do Dread](https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Me Acostumei \- Dread Session, Vol\. 1](https://open.spotify.com/album/1PcgusYCw8Sck5wPzL9vSP) | 3:06 | 2024-12-01 |  |
 | [Me Deixa](https://open.spotify.com/track/7nmPP9MYKOhDZa8eQP4pMY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Me Deixa](https://open.spotify.com/album/1rnBqFFqGQz5rJn0sIGDPk) | 3:56 | 2023-12-30 | 2024-03-09 |
 | [Me Negaram Amor](https://open.spotify.com/track/4oH03lpFiysmcWex1AyddD) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Me Negaram Amor](https://open.spotify.com/album/6vgTioni6TWucdoT33BuV7) | 4:48 | 2023-12-30 |  |
 | [Me Negaram Amor \- Ao Vivo](https://open.spotify.com/track/5jIA3vKNB2oVYk2BO4QRQD) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [Guias e Ondas, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/6Fw2kp7E9vzPDYXdf4Ip72) | 5:22 | 2023-12-30 | 2024-03-07 |

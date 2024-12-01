@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 19915,
+  "num_followers": 19921,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAAe8as/HNPqv3sTyGCKN//T",
+  "snapshot_id": "Z0kEAAAAAABHs5MWH9f08OZMquKIb+Kc",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Som das \u00c1guas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Ld1idWbNLeraKHfusfumG"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "One Service Project",
+          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
+        }
+      ],
+      "duration_ms": 327213,
+      "name": "Som das \u00c1guas - Ao Vivo",
+      "url": "https://open.spotify.com/track/4M7zH6rJM4BOUkqdBp3fHE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 395773,
       "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Som das \u00c1guas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Ld1idWbNLeraKHfusfumG"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "One Service Project",
-          "url": "https://open.spotify.com/artist/6fUKkqN2PLedcYs1AQAwg7"
-        }
-      ],
-      "duration_ms": 327213,
-      "name": "Som das \u00c1guas - Ao Vivo",
-      "url": "https://open.spotify.com/track/4M7zH6rJM4BOUkqdBp3fHE"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Risen Savior (Sing My Soul) [Live]",
-        "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
-      },
-      "artists": [
-        {
-          "name": "REVERE",
-          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 449054,
-      "name": "Risen Savior (Sing My Soul) - Live",
-      "url": "https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantarei (Meu Salvador) / Risen Savior (Sing My Soul)",
         "url": "https://open.spotify.com/album/1YnzLpr6pmmOTuMyZuxrcu"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 499742,
       "name": "Eu Canto - Ao Vivo",
       "url": "https://open.spotify.com/track/2QGJc65uyopuapz5z6uiOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Risen Savior (Sing My Soul) [Live]",
+        "url": "https://open.spotify.com/album/50iKVMbuYnG7Fxv5BpaLPf"
+      },
+      "artists": [
+        {
+          "name": "REVERE",
+          "url": "https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 449054,
+      "name": "Risen Savior (Sing My Soul) - Live",
+      "url": "https://open.spotify.com/track/4joIuCCI84iGcn1T1KQbUR"
     },
     {
       "added_at": null,

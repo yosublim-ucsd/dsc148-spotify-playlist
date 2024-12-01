@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. MC Davo está en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 826,297 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 826,334 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 4 | [La Vida No Es Fácil](https://open.spotify.com/track/55LnB8MUmxwH4XTNyDuWK2) | [Emiliano Aguilar](https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk), [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [La Vida No Es Fácil](https://open.spotify.com/album/5sb1l0mFdE1fELVAKM3vz9) | 3:20 |
 | 5 | [El Borracho y El Drogo](https://open.spotify.com/track/5iQ8eD5YMKP1g0zcFaGapr) | [Sick Jacken](https://open.spotify.com/artist/2Rf13iETx8NVJLIc5N6Ub4), [G\. Bone](https://open.spotify.com/artist/3GWGK2PWeTeBcdu6Mgn8TM), [The Psycho Realm](https://open.spotify.com/artist/3WelTIRY2ET1Xhze34RVG9) | [El Borracho y El Drogo](https://open.spotify.com/album/3r216ReAJ0SAxwnJmnOLhr) | 4:20 |
 | 6 | [El Tatuado](https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [El Tatuado](https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV) | 3:09 |
-| 7 | [Modo Placoson](https://open.spotify.com/track/0tDUlHQeq4jwu3cSNZDjIY) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Jay Silva](https://open.spotify.com/artist/2ZZeg0DRFctMk31djpkqCb) | [Modo Placoson](https://open.spotify.com/album/2elL3WKF6llpZRfFf40L0E) | 2:52 |
+| 7 | [Modo Placoson](https://open.spotify.com/track/0tDUlHQeq4jwu3cSNZDjIY) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Modo Placoson](https://open.spotify.com/album/2elL3WKF6llpZRfFf40L0E) | 2:52 |
 | 8 | [Me Pelo Pa'l Gabacho](https://open.spotify.com/track/33JdjfzVgAkgCgJrW7Qe4J) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Me Pelo Pa'l Gabacho](https://open.spotify.com/album/3807m2Q3nNO7iYgVfXyivy) | 3:28 |
 | 9 | [AGW Hits \#1](https://open.spotify.com/track/1WI8cGSDcmG4LS0jdhDn1b) | [Agw Beats](https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [AGW Hits \#1](https://open.spotify.com/album/59gln4hB0WsVtnslHg89g8) | 3:16 |
 | 10 | [Que Zumbe Mi Voz](https://open.spotify.com/track/4H8jNYyqDsNdka5KXz7on6) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg), [Jrbextz](https://open.spotify.com/artist/2yq6HRmiyockVzLndwmU7U) | [Que Zumbe Mi Voz](https://open.spotify.com/album/7rIFedz4DVPPw4vdb40EZw) | 4:40 |

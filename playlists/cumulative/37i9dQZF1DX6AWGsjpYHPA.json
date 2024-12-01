@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/4feBQDj6rFcZiH1CYVtO0n"
+      },
+      "artists": [
+        {
+          "name": "Hugo Massien",
+          "url": "https://open.spotify.com/artist/2W5iJGVOD94ioSvjS8x8Yu"
+        }
+      ],
+      "date_added": "2024-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373666,
+      "name": "God Knows We Tried",
+      "url": "https://open.spotify.com/track/16Qahf6YMWvShPzZAfwUMB"
+    },
+    {
+      "album": {
         "name": "Good God! A Gospel Funk Hymnal",
         "url": "https://open.spotify.com/album/5xmgyTA4AlPBTYzOAmlMzM"
       },
@@ -3546,7 +3564,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 391111,
       "name": "Outlook Remains Untouched",
       "url": "https://open.spotify.com/track/5XkFY9AdesErbMzRpBo4Ja"

@@ -865,24 +865,6 @@
     },
     {
       "album": {
-        "name": "\u30ca\u30a4\u30c8\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK"
-      },
-      "artists": [
-        {
-          "name": "Vantage",
-          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
-        }
-      ],
-      "date_added": "2021-12-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228597,
-      "name": "Breaking Away",
-      "url": "https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a"
-    },
-    {
-      "album": {
         "name": "Bridesmaids",
         "url": "https://open.spotify.com/album/1ulTLpfUpi3hIjSMB50dFG"
       },
@@ -8624,7 +8606,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 188642,
       "name": "TIMERIDER 1983",
       "url": "https://open.spotify.com/track/0oGEkRNd79fARgvmCKjbHU"
@@ -9788,7 +9770,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 260625,
       "name": "\u541bKimi (You Came Along)",
       "url": "https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa"
@@ -9828,6 +9810,24 @@
       "duration_ms": 153449,
       "name": "\u9055\u3046",
       "url": "https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG"
+    },
+    {
+      "album": {
+        "name": "\u30ca\u30a4\u30c8\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/0rgpWyNKYsd43b67q7ZZtK"
+      },
+      "artists": [
+        {
+          "name": "Vantage",
+          "url": "https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2"
+        }
+      ],
+      "date_added": "2021-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228597,
+      "name": "\uff22\uff52\uff45\uff41\uff4b\uff49\uff4e\uff47\u3000\uff21\uff57\uff41\uff59",
+      "url": "https://open.spotify.com/track/47Xydq4VqcZPuljS2Yy61a"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbjGYBfEmjR5"

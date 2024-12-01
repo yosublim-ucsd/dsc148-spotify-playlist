@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 262499,
       "name": "GOLD\uff06TURQUOISE",
       "url": "https://open.spotify.com/track/2cce58yqFVClCcy6bDGYiM"
@@ -5786,6 +5786,24 @@
       "duration_ms": 553466,
       "name": "Voice",
       "url": "https://open.spotify.com/track/0XRBOfz9bPhjazuQCcRkbJ"
+    },
+    {
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173662,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI"
     },
     {
       "album": {

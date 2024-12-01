@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: JBEE",
-  "num_followers": 89293,
+  "num_followers": 89282,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -1255,8 +1255,8 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Late Night Trips",
-        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
       },
       "artists": [
         {
@@ -1264,25 +1264,25 @@
           "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
         }
       ],
-      "duration_ms": 97436,
-      "name": "Late Night Trips",
-      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
+      "duration_ms": 110759,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
     },
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "No Pain",
-        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
       },
       "artists": [
         {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 165405,
-      "name": "No Pain",
-      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "No Pain",
+        "url": "https://open.spotify.com/album/1rBxEeYmETSCoedEk5PpEb"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 165405,
+      "name": "No Pain",
+      "url": "https://open.spotify.com/track/4XcKX1Y93VyBMbRDPTuIrW"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Up all night",
         "url": "https://open.spotify.com/album/54GgiCNFUP2qOvlUXAE871"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 161232,
       "name": "Up all night",
       "url": "https://open.spotify.com/track/2nbBENXAayuNvr3kQmBAzt"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "I Thought I'd Die In Your Arms",
-        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1415,24 +1415,8 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
-      },
-      "artists": [
-        {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
-        }
-      ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s"
+        "name": "Late Night Trips",
+        "url": "https://open.spotify.com/album/64atF2k7nqkT9oonM5LTjE"
       },
       "artists": [
         {
@@ -1440,9 +1424,25 @@
           "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
         }
       ],
-      "duration_ms": 110759,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR"
+      "duration_ms": 97436,
+      "name": "Late Night Trips",
+      "url": "https://open.spotify.com/track/0hVvkB1j1SC9FQHShpQoYU"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "I Thought I'd Die In Your Arms",
+        "url": "https://open.spotify.com/album/335rKXLWPEDRkmtjDjLgeA"
+      },
+      "artists": [
+        {
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+        }
+      ],
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/26dYcj6ddzBW1HfMEONnr8"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1523,18 +1523,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
+        "name": "Berlin Luv",
+        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
       },
       "artists": [
         {
-          "name": "MiSTah Kye",
-          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        },
+        {
+          "name": "AD North",
+          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
         }
       ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
+      "duration_ms": 140146,
+      "name": "Berlin Luv",
+      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1575,22 +1579,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Berlin Luv",
-        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        },
-        {
-          "name": "AD North",
-          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
+          "name": "MiSTah Kye",
+          "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 140146,
-      "name": "Berlin Luv",
-      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2024-11-22 00:00:00",

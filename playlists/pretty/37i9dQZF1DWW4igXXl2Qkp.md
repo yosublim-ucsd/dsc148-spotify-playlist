@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:39Cb8HYiuT4clBeNABSjPA">D2x</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,192 likes - 85 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,248 likes - 85 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

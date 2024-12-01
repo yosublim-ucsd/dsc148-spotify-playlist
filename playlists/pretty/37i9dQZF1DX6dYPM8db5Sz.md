@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB?si=jOS7pCKISI2vBaD\-nb\_P\_Q">an00k</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,295 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,298 likes - 90 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 46 | [Pour Your Heart Out](https://open.spotify.com/track/3N9ho4NMwJMJzlH0xa9AIJ) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Jour 1596](https://open.spotify.com/album/2959bjaKJWtnU2ljqIhBjn) | 3:10 |
 | 47 | [Loveblood](https://open.spotify.com/track/3PQlR66Jx5nWw28jD7bbZJ) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [Loveblood](https://open.spotify.com/album/26bQs0BRvymbLHvVl8VoG2) | 3:49 |
 | 48 | [I Wanna Dive in the Seven Seas](https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [I Wanna Dive in the Seven Seas](https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq) | 2:44 |
-| 49 | [bedbugs](https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn) | [Shower Curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:22 |
+| 49 | [bedbugs](https://open.spotify.com/track/5SP2QlItl7CyoNdxjKDEbn) | [shower curtain](https://open.spotify.com/artist/04vEYZm6KQQCtUWs2hM8Dj) | [words from a wishing well](https://open.spotify.com/album/369tShTNrYrCMkXRepABx9) | 3:22 |
 | 50 | [Keep On Calling](https://open.spotify.com/track/1QrxdJdAnMERuHL4pE5WDj) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Heavyweight Champion](https://open.spotify.com/album/4lwGU1857xh1ukKDey2zJl) | 2:23 |
 | 51 | [Idolise](https://open.spotify.com/track/5fa2yadkc9n1j6YNaf0mI2) | [Emma Hearne](https://open.spotify.com/artist/0haG9bnYlkguLdKQkcxECf) | [Idolise](https://open.spotify.com/album/44vGAFKdCTGM68Sx84FMml) | 4:52 |
 | 52 | [the way that i am](https://open.spotify.com/track/38kSvkxlhDNwKtLx4p9Joe) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [the way that i am](https://open.spotify.com/album/5RuvTc2MxWLBDXBo1E2z8y) | 2:57 |

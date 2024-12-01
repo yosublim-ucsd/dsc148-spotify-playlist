@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: nov-dec 2024 (previous playlists archived on my profile)",
-  "num_followers": 22172,
+  "num_followers": 22177,
   "original_name": "thoughts never said aloud",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALeEnhWI2SZlhO9ziN8RZMFMoQQbmP",
+  "snapshot_id": "AAALeQHuuOerLYWW01IXxwX1H3DE7tH/",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -627,6 +627,22 @@
       "duration_ms": 395389,
       "name": "Fall",
       "url": "https://open.spotify.com/track/0vrCyUnCmMcUNGIA5GKgZD"
+    },
+    {
+      "added_at": "2024-11-30 16:58:01",
+      "album": {
+        "name": "Nail in a Wooden Trunk",
+        "url": "https://open.spotify.com/album/6458nxrJP9ulxGp6tSIUyf"
+      },
+      "artists": [
+        {
+          "name": "Tapir!",
+          "url": "https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd"
+        }
+      ],
+      "duration_ms": 149741,
+      "name": "Nail in a Wooden Trunk",
+      "url": "https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN"
     }
   ],
   "unique_name": "thoughts never said aloud",

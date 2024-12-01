@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 204498,
+  "num_followers": 211709,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 365141,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
         "name": "Ain't Christmas (with Laufey)",
         "url": "https://open.spotify.com/album/4O0enrkdTf0pNzVAx6QeEL"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 189088,
       "name": "Ain't Christmas (with Laufey)",
       "url": "https://open.spotify.com/track/1ishMaKoZFGrxFdGLa2qZN"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 365141,
-      "name": "Day After Tomorrow",
-      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -803,26 +803,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Edits",
-        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        },
-        {
-          "name": "Slowed Down Songs + Reverb",
-          "url": "https://open.spotify.com/artist/4PW2bYNsDzxkREpAw8fAuI"
-        }
-      ],
-      "duration_ms": 213783,
-      "name": "This December - slow",
-      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "The Little Drummer Boy",
         "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
       },
@@ -843,6 +823,26 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
+        "name": "Edits",
+        "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        },
+        {
+          "name": "Slowed Down Songs + Reverb",
+          "url": "https://open.spotify.com/artist/4PW2bYNsDzxkREpAw8fAuI"
+        }
+      ],
+      "duration_ms": 213783,
+      "name": "This December - slow",
+      "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
         "name": "Christmas Special",
         "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
       },
@@ -855,38 +855,6 @@
       "duration_ms": 188533,
       "name": "Christmas Special",
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -907,18 +875,34 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
         }
       ],
-      "duration_ms": 95760,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31"
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -939,6 +923,22 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 95760,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/2yqYV5eEgla3uXumG5qd31"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
         "name": "Christmas Caller",
         "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "White Winter Hymnal",
-        "url": "https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
-        }
-      ],
-      "duration_ms": 134320,
-      "name": "White Winter Hymnal",
-      "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "Another Sappy Xmas Love Song",
         "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 144654,
       "name": "Another Sappy Xmas Love Song",
       "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "White Winter Hymnal",
+        "url": "https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+        }
+      ],
+      "duration_ms": 134320,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1015,22 +1015,6 @@
       "duration_ms": 173402,
       "name": "O\u2019Holy Night",
       "url": "https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "Winter Hat",
-        "url": "https://open.spotify.com/album/6SQhxj5Xmpv9P4YiTg6EX0"
-      },
-      "artists": [
-        {
-          "name": "Daffo",
-          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
-        }
-      ],
-      "duration_ms": 174830,
-      "name": "Winter Hat",
-      "url": "https://open.spotify.com/track/3vAo3NF0Qox87OLt1fAN5W"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1081,20 +1065,20 @@
       "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
     },
     {
-      "added_at": "2024-11-18 23:12:09",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "ugly xmas sweater party",
-        "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
+        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
+        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
       },
       "artists": [
         {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 208000,
-      "name": "ugly xmas sweater party",
-      "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
+      "duration_ms": 215000,
+      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
+      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
     },
     {
       "added_at": "2024-11-22 05:26:31",
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
-        "url": "https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF"
+        "name": "ugly xmas sweater party",
+        "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
         }
       ],
-      "duration_ms": 203767,
-      "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
+      "duration_ms": 208000,
+      "name": "ugly xmas sweater party",
+      "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "Winter Hat",
+        "url": "https://open.spotify.com/album/6SQhxj5Xmpv9P4YiTg6EX0"
+      },
+      "artists": [
+        {
+          "name": "Daffo",
+          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
+        }
+      ],
+      "duration_ms": 174830,
+      "name": "Winter Hat",
+      "url": "https://open.spotify.com/track/3vAo3NF0Qox87OLt1fAN5W"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "When I Get Home for Christmas",
-        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
-      },
-      "artists": [
-        {
-          "name": "Snow Patrol",
-          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
-        }
-      ],
-      "duration_ms": 256773,
-      "name": "When I Get Home for Christmas",
-      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "December '04",
         "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
       },
@@ -1175,22 +1159,6 @@
       "duration_ms": 206798,
       "name": "December '04",
       "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "thank you wisdom angel i love you",
-        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "silver second",
-      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1215,6 +1183,38 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
+        "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
+        "url": "https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 203767,
+      "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "thank you wisdom angel i love you",
+        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "silver second",
+      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
       },
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
+        "name": "When I Get Home for Christmas",
+        "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 256773,
+      "name": "When I Get Home for Christmas",
+      "url": "https://open.spotify.com/track/3KyVary6bJfAK5cZCWgW1j"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "Christmas Eve (Soul Purpose) / It\u2019s Going To Be A Cold Winter",
-        "url": "https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 225022,
-      "name": "Christmas Eve (Soul Purpose)",
-      "url": "https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F"
     }
   ],
   "unique_name": "Indie Christmas",

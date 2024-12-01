@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: okkaaa
 
-2,001 songs - 5 day 4 hr 39 min
+2,002 songs - 5 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [Only Lonely Dance](https://open.spotify.com/track/0FNBV4YHTdrKuXkFJ3sRS8) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Only Lonely Dance](https://open.spotify.com/album/1dHHjhCI1Xmqm1VC35fF0i) | 3:26 | 2024-07-26 | 2024-07-31 |
 | [Opal](https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [Opal](https://open.spotify.com/album/154NpAyn5bQ66Ar3W0N5hr) | 3:33 | 2023-11-29 | 2024-01-17 |
 | [Open World](https://open.spotify.com/track/69qBqQCGgAT20e3dMU1W2r) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [Open World](https://open.spotify.com/album/5YqDrbk4rxX6lyRqllJ4ZO) | 4:20 | 2024-06-04 | 2024-06-12 |
+| [Oppressed](https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Oppressed](https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ) | 5:15 | 2024-11-27 |  |
 | [orange](https://open.spotify.com/track/42qT2xXpYbu1tpJtj7paqb) | [Hoach5000](https://open.spotify.com/artist/1LqzNg0KlZGwDrNClMNMYo) | [orange](https://open.spotify.com/album/3uGMz5oboP965F8wbWcllw) | 3:06 | 2023-06-06 | 2023-06-14 |
 | [Oredake ga Zu Bu Nu Re](https://open.spotify.com/track/2UArtQ1NiQFBRldVW9zCLG) | [Za Ninngenn](https://open.spotify.com/artist/4FwqgQ92TpsuzQ82fIosrX) | [Oredake ga Zu Bu Nu Re](https://open.spotify.com/album/6F84iZHVnH7pqmfLbjluv4) | 3:37 | 2024-02-20 | 2024-02-28 |
 | [Our Place](https://open.spotify.com/track/5NP138SXXvwjJUN9yhS1V1) | [EASTOKLAB](https://open.spotify.com/artist/2oP86D3OWdYeX1OG2chPuu) | [Our Place](https://open.spotify.com/album/0LIiMRs1m29orPVNQf8jFD) | 4:22 | 2024-01-09 | 2024-01-17 |
@@ -1317,7 +1318,7 @@
 | [かぜ薫る](https://open.spotify.com/track/0W0beAnzs1zMt82GfSBKHJ) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [かぜ薫る](https://open.spotify.com/album/1yuEpahsy5IPJIPjeCRucE) | 3:39 | 2024-07-30 | 2024-08-07 |
 | [かまわない](https://open.spotify.com/track/7hRWSEnpjQ9RMBca6tJ3Tc) | [しんきろうのまち](https://open.spotify.com/artist/4fbq9ZbNik4Qze3IgCtHBR) | [かまわない](https://open.spotify.com/album/3XQeHt5XvoX6AuT4B1yUNu) | 3:51 | 2024-01-16 | 2024-01-24 |
 | [かむかもしかもにどもかも！ \- imai remix](https://open.spotify.com/track/3R6a6LaMhUO3hWt04YMm3D) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR), [imai](https://open.spotify.com/artist/7KuezP7qjUEdOhIDj1hrG4) | [かむかもしかもにどもかも！ \(imai remix\)](https://open.spotify.com/album/6KQJJfutW8v182eIWZpO2E) | 2:15 | 2024-07-30 | 2024-08-07 |
-| [きいていて](https://open.spotify.com/track/6RpmTcMd330ki2CbUKzoTE) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [きいていて](https://open.spotify.com/album/7n4hVddjTgCy0xibRKuH2c) | 4:18 | 2024-11-19 |  |
+| [きいていて](https://open.spotify.com/track/6RpmTcMd330ki2CbUKzoTE) | [Makoto Kawamoto](https://open.spotify.com/artist/2MF3aPE7iQsg8CtlBmHfjx), [の子](https://open.spotify.com/artist/5ynUxXWjJSfQUALZLAea1E), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk) | [きいていて](https://open.spotify.com/album/7n4hVddjTgCy0xibRKuH2c) | 4:18 | 2024-11-19 | 2024-12-01 |
 | [きかいにおまかせ](https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [きかいにおまかせ](https://open.spotify.com/album/1gR91YmF2tqpExx7B2bAeK) | 2:58 | 2023-06-13 | 2023-10-12 |
 | [きせつ](https://open.spotify.com/track/5fOOVuvHuFQMUS4MTW1rdI) | [HIMI](https://open.spotify.com/artist/4EJMnz9nmmkBVlZcQjauTy) | [きせつ](https://open.spotify.com/album/0paHDBJvF2pIZO2JUW8cMM) | 6:39 | 2024-10-08 | 2024-11-03 |
 | [きみに青をあげるね](https://open.spotify.com/track/72796JC5PQKU5niCgMWNGm) | [とがる](https://open.spotify.com/artist/2xuG3xPtRmV2Vp6phWfAxZ) | [808:Blue](https://open.spotify.com/album/2hsVf9UUHrR1DsoH7h2nwv) | 3:45 | 2024-09-01 | 2024-09-11 |

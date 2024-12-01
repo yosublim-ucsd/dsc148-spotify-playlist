@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 175200,
       "name": "64 BARRE IN FACCIA (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ"
@@ -5800,7 +5800,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 189642,
       "name": "BUIO DAVANTI",
       "url": "https://open.spotify.com/track/4iD0Ohz6dx6ii0zTglaBMn"
@@ -5818,7 +5818,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 189642,
       "name": "BUIO DAVANTI",
       "url": "https://open.spotify.com/track/5MJc4IVIt17xEt6angtZcq"
@@ -6368,7 +6368,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 162969,
       "name": "CANZONE D'ODIO (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
@@ -6390,7 +6390,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 162969,
       "name": "CANZONE D'ODIO (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/55aJJZPGLrIjI0nYYb7Bul"
@@ -8925,6 +8925,24 @@
     },
     {
       "album": {
+        "name": "Come il pane",
+        "url": "https://open.spotify.com/album/3wNzeEOEEuBWCTyvZYE3yJ"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232057,
+      "name": "Come il pane",
+      "url": "https://open.spotify.com/track/1cAM8Azcg1TPzm4ek7J3RZ"
+    },
+    {
+      "album": {
         "name": "INNOCENTE",
         "url": "https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58"
       },
@@ -10734,7 +10752,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-09",
+      "date_removed": null,
       "duration_ms": 185503,
       "name": "Destri",
       "url": "https://open.spotify.com/track/7nRFsITVaSHko2Fw2Gcy59"
@@ -14016,7 +14034,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 188081,
       "name": "FENTANYL (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/3KqIOF2HTFEwz0HmErwOYG"
@@ -17248,7 +17266,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 188785,
       "name": "HO VOGLIA DI TE",
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
@@ -23808,10 +23826,40 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
     },
     {
       "album": {
@@ -24584,6 +24632,24 @@
       "duration_ms": 214000,
       "name": "MANDANTE",
       "url": "https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn"
+    },
+    {
+      "album": {
+        "name": "ManDarE TuTto All'aRIA",
+        "url": "https://open.spotify.com/album/0RMBiVhtPQRSvyVTEPKDzv"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169738,
+      "name": "ManDarE TuTto All'aRIA",
+      "url": "https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq"
     },
     {
       "album": {
@@ -30522,10 +30588,28 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 303032,
       "name": "Ora che non ho pi\u00f9 te",
       "url": "https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm"
+    },
+    {
+      "album": {
+        "name": "ALASKA BABY",
+        "url": "https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303032,
+      "name": "Ora che non ho pi\u00f9 te",
+      "url": "https://open.spotify.com/track/2L16IuIQgLL1HupWGN4F4t"
     },
     {
       "album": {
@@ -35619,6 +35703,28 @@
     },
     {
       "album": {
+        "name": "ALASKA BABY",
+        "url": "https://open.spotify.com/album/4lGkGC8tCG3G7CwmEYzpzq"
+      },
+      "artists": [
+        {
+          "name": "Cesare Cremonini",
+          "url": "https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T"
+        },
+        {
+          "name": "Luca Carboni",
+          "url": "https://open.spotify.com/artist/1wmD3O9TEeshZVuFVgpm0g"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333380,
+      "name": "San Luca (feat. Luca Carboni)",
+      "url": "https://open.spotify.com/track/4elAiEgBssziHLfCrBoEA2"
+    },
+    {
+      "album": {
         "name": "Sant'allegria (Jack Sani Remix)",
         "url": "https://open.spotify.com/album/6FLmdAJsf6g2jKL44jhS4w"
       },
@@ -35634,7 +35740,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 147361,
       "name": "Sant'allegria - Jack Sani Remix",
       "url": "https://open.spotify.com/track/2wpSLqGcN5KXVeAGdAnQd0"
@@ -37378,7 +37484,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 140571,
       "name": "SMITH 'N' WESSON",
       "url": "https://open.spotify.com/track/5ZcwLwtRfs9x5kbRhFhaCR"
@@ -40146,7 +40252,7 @@
       ],
       "date_added": "2024-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 204668,
       "name": "Tessera sanitaria (feat. Nerissima Serpe & Papa V)",
       "url": "https://open.spotify.com/track/5JgTIfS7FfSE9tuebzX8HC"
@@ -40570,6 +40676,32 @@
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
+    },
+    {
+      "album": {
+        "name": "Tip Tap",
+        "url": "https://open.spotify.com/album/2tSal9T7uUzWFIGwO4jUN5"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129795,
+      "name": "Tip Tap",
+      "url": "https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH"
     },
     {
       "album": {
@@ -43323,7 +43455,7 @@
         },
         {
           "name": "Startuffo",
-          "url": "https://open.spotify.com/artist/0n2eNz9IfMHag6sU0uEPVe"
+          "url": "https://open.spotify.com/artist/6rlRsGkuYPz1ssHFa4lm4N"
         },
         {
           "name": "D-Ross",
@@ -43874,7 +44006,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 148148,
       "name": "VRP",
       "url": "https://open.spotify.com/track/0U2mw5WWH5LmeqHl59uWUh"

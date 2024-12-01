@@ -8879,6 +8879,28 @@
     },
     {
       "album": {
+        "name": "GOOD 4 U",
+        "url": "https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        },
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160896,
+      "name": "GOOD 4 U",
+      "url": "https://open.spotify.com/track/01d0mVYKVR8OLH3pWsXiNc"
+    },
+    {
+      "album": {
         "name": "Good Time",
         "url": "https://open.spotify.com/album/0YfKkkgpEUKpICb0H70acL"
       },
@@ -8890,7 +8912,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 154400,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/6ZZHFLjVpsilHYyv3mLuVe"
@@ -9677,6 +9699,24 @@
     },
     {
       "album": {
+        "name": "High Octane",
+        "url": "https://open.spotify.com/album/5Oju8kpo1S0PxcpF83pdIu"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110344,
+      "name": "High Octane",
+      "url": "https://open.spotify.com/track/3SsRCTJzSTkf6pX8Yf1cU2"
+    },
+    {
+      "album": {
         "name": "Midnight Forever",
         "url": "https://open.spotify.com/album/4DldFa5iY1LlYJqS0fjYAO"
       },
@@ -9896,7 +9936,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 204800,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/7laIQ9l8UZSsw2dB2VZ8Kr"
@@ -11600,6 +11640,24 @@
       "duration_ms": 146000,
       "name": "Kiwi",
       "url": "https://open.spotify.com/track/55b0r9RIvfhCJKCRqpGy4q"
+    },
+    {
+      "album": {
+        "name": "KNOCKIN",
+        "url": "https://open.spotify.com/album/6SjpAmtMUwFTcPaeJZksTN"
+      },
+      "artists": [
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "KNOCKIN",
+      "url": "https://open.spotify.com/track/3zrA3t7TNwfzl23xXlHR2N"
     },
     {
       "album": {
@@ -13765,6 +13823,24 @@
     },
     {
       "album": {
+        "name": "NU-TYPE vol. 1",
+        "url": "https://open.spotify.com/album/7CFctl9XFeGEcX2tBYEgZR"
+      },
+      "artists": [
+        {
+          "name": "1788-L",
+          "url": "https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN"
+        }
+      ],
+      "date_added": "2024-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223255,
+      "name": "NANOBLADE",
+      "url": "https://open.spotify.com/track/0jLBkTFgx4zzXFIprJhto1"
+    },
+    {
+      "album": {
         "name": "Native Curse",
         "url": "https://open.spotify.com/album/16Jqck10W8Ba0GTggCQa2s"
       },
@@ -13938,7 +14014,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 142714,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
@@ -19012,7 +19088,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-01",
       "duration_ms": 194500,
       "name": "Something 2 Believe In (feat. Bella Renee)",
       "url": "https://open.spotify.com/track/0MKm4kyCdLHz1rzN2BJm5N"

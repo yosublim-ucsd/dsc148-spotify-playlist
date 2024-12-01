@@ -1,6 +1,6 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Bibio on cover.",
-  "num_followers": 199504,
+  "num_followers": 199552,
   "original_name": "Ambient X",
   "owner": {
     "name": "Spotify",
@@ -120,7 +120,7 @@
       },
       "artists": [
         {
-          "name": "DAVID AUGUST",
+          "name": "David August",
           "url": "https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA"
         },
         {
@@ -551,22 +551,26 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Something Ephemeral",
-        "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
+        "name": "A Model of Reality Reworks",
+        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
       "artists": [
         {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+          "name": "Max Cooper",
+          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
         },
         {
-          "name": "Moshimoss",
-          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
+          "name": "Kotomi",
+          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
+        },
+        {
+          "name": "Jan Steiner",
+          "url": "https://open.spotify.com/artist/1VUJ51LvCMZvJFB8syeqUb"
         }
       ],
-      "duration_ms": 201000,
-      "name": "When the Earth Yelled Back at Me",
-      "url": "https://open.spotify.com/track/0zUJd5WA41CfvYmcADOo88"
+      "duration_ms": 171500,
+      "name": "A Model Of Reality - Jan Steiner Granular Classics Remix",
+      "url": "https://open.spotify.com/track/5PyP6a6vHgsxfcvz5ocNz2"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -591,26 +595,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "A Model of Reality Reworks",
-        "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
+        "name": "Something Ephemeral",
+        "url": "https://open.spotify.com/album/5uHrCYwIf46ftxh7bB6cLL"
       },
       "artists": [
         {
-          "name": "Max Cooper",
-          "url": "https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J"
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
         },
         {
-          "name": "Kotomi",
-          "url": "https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu"
-        },
-        {
-          "name": "Jan Steiner",
-          "url": "https://open.spotify.com/artist/1VUJ51LvCMZvJFB8syeqUb"
+          "name": "Moshimoss",
+          "url": "https://open.spotify.com/artist/3txheZ8uqgXjU22ITrxGme"
         }
       ],
-      "duration_ms": 171500,
-      "name": "A Model Of Reality - Jan Steiner Granular Classics Remix",
-      "url": "https://open.spotify.com/track/5PyP6a6vHgsxfcvz5ocNz2"
+      "duration_ms": 201000,
+      "name": "When the Earth Yelled Back at Me",
+      "url": "https://open.spotify.com/track/0zUJd5WA41CfvYmcADOo88"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "regrets",
-        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
-      },
-      "artists": [
-        {
-          "name": "trapeia",
-          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
-        },
-        {
-          "name": "Raynix",
-          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
-        }
-      ],
-      "duration_ms": 136145,
-      "name": "regrets - Slowed",
-      "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Introducing (Zazenkai Escape Ambient Re-Work)",
         "url": "https://open.spotify.com/album/2acOH83IutEkwFXvUBHXTV"
       },
@@ -799,6 +779,26 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "regrets",
+        "url": "https://open.spotify.com/album/6onJVnXQHyqMAgc3B0CEhF"
+      },
+      "artists": [
+        {
+          "name": "trapeia",
+          "url": "https://open.spotify.com/artist/3Mp6p8ztSdDRvf4qg9cqbD"
+        },
+        {
+          "name": "Raynix",
+          "url": "https://open.spotify.com/artist/4p8meLEzf4g5KrS0OxY3t3"
+        }
+      ],
+      "duration_ms": 136145,
+      "name": "regrets - Slowed",
+      "url": "https://open.spotify.com/track/7KlnTSf5iLWUpYJCLRONLx"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Dawn Chorus",
         "url": "https://open.spotify.com/album/09wpxcomjoPy3G0wKpZZzD"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 208625,
       "name": "Dawn Chorus",
       "url": "https://open.spotify.com/track/6a06vmzIppjBTTdVrx8t5D"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Flur",
+        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
+      },
+      "artists": [
+        {
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+        }
+      ],
+      "duration_ms": 197335,
+      "name": "LUN",
+      "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -831,22 +847,6 @@
       "duration_ms": 215746,
       "name": "Esperance",
       "url": "https://open.spotify.com/track/1zr0VnDgTUVDFzLmcLLWtD"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Flur",
-        "url": "https://open.spotify.com/album/7hUcD3suokju68vYLXdVM8"
-      },
-      "artists": [
-        {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
-        }
-      ],
-      "duration_ms": 197335,
-      "name": "LUN",
-      "url": "https://open.spotify.com/track/5ipMiNXR4MATOx8pqCQpFo"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Mind Games (Meditation Mixes)",
-        "url": "https://open.spotify.com/album/6dRXxW5ZpUy4ntfBwZCTsR"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 341973,
-      "name": "Space - Mind Games Meditation Mix / Binaural \u223fTheta Waves\u223f 8Hz",
-      "url": "https://open.spotify.com/track/6p3DdXq6jn5uVOaSGZuSFm"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Westwind",
         "url": "https://open.spotify.com/album/54QBiA3s2a0taeJvZo0h8j"
       },
@@ -955,26 +939,6 @@
       "duration_ms": 142012,
       "name": "Westwind",
       "url": "https://open.spotify.com/track/0mEgHC8L8LkgnX9PADMq5z"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "cognition",
-        "url": "https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG"
-      },
-      "artists": [
-        {
-          "name": "theta.wav",
-          "url": "https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W"
-        },
-        {
-          "name": "Droner",
-          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "cognition",
-      "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -999,6 +963,42 @@
       "duration_ms": 383118,
       "name": "Receiving (Jon Hopkins Piano Version)",
       "url": "https://open.spotify.com/track/1qVqPwp9kym1MJxhkC3E8a"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "cognition",
+        "url": "https://open.spotify.com/album/27QArT8EbJUjBFevDFE4bG"
+      },
+      "artists": [
+        {
+          "name": "theta.wav",
+          "url": "https://open.spotify.com/artist/122kIqSALy8kOsxv5dib6W"
+        },
+        {
+          "name": "Droner",
+          "url": "https://open.spotify.com/artist/1XHCSxunHr6IVLuZ7FH5rl"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "cognition",
+      "url": "https://open.spotify.com/track/3HHCCdeqInPp4tZkYn4nKR"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Mind Games (Meditation Mixes)",
+        "url": "https://open.spotify.com/album/6dRXxW5ZpUy4ntfBwZCTsR"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 341973,
+      "name": "Space - Mind Games Meditation Mix / Binaural \u223fTheta Waves\u223f 8Hz",
+      "url": "https://open.spotify.com/track/6p3DdXq6jn5uVOaSGZuSFm"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "!",
+        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+      },
+      "artists": [
+        {
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+        }
+      ],
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Breathless",
         "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
       },
@@ -1107,18 +1123,34 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "!",
-        "url": "https://open.spotify.com/album/2cbGI3oi9hoiYBaILgsL9U"
+        "name": "A Host for All Kinds of Life",
+        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/1jROgIfuJbniOJdEJ8gBUr"
+      "duration_ms": 243599,
+      "name": "Desire Path",
+      "url": "https://open.spotify.com/track/3yZ3SScbUH78WBJnq11kte"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Two Chambers",
+        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Two Chambers",
+      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1143,22 +1175,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "A Host for All Kinds of Life",
-        "url": "https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Desire Path",
-      "url": "https://open.spotify.com/track/3yZ3SScbUH78WBJnq11kte"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Pause (Reimagined by Hinako Omori)",
         "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 200013,
       "name": "Pause - Reimagined by Hinako Omori",
       "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Two Chambers",
-        "url": "https://open.spotify.com/album/4viTrVrcTVzwKkij5M2Ma4"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Two Chambers",
-      "url": "https://open.spotify.com/track/442mGdH9pCBKByOuC6z0V5"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Places (Rerecorded)",
-        "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 158774,
-      "name": "Places - Rerecorded",
-      "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Movement IV",
         "url": "https://open.spotify.com/album/3SYexj1HIvhHu6ghSFq8Pr"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 213559,
       "name": "Movement IV",
       "url": "https://open.spotify.com/track/53oPqccucQQQ4QljRwVIhD"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Places (Rerecorded)",
+        "url": "https://open.spotify.com/album/1Oxo6zLZx9IcMJKnKNAaqO"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 158774,
+      "name": "Places - Rerecorded",
+      "url": "https://open.spotify.com/track/56o6ehGMe1PijKh5mTfHi6"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "Delirium Hums",
+        "url": "https://open.spotify.com/album/6hbIu6PkEyPMs3NDJ4NVxy"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 300500,
+      "name": "Delirium Hums",
+      "url": "https://open.spotify.com/track/3HUbt3IU8OmoQNDmGjNlGF"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Dear (Haruhisa Tanaka Remix)",
         "url": "https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 130280,
       "name": "Dear - Haruhisa Tanaka Remix",
       "url": "https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Delirium Hums",
-        "url": "https://open.spotify.com/album/6hbIu6PkEyPMs3NDJ4NVxy"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 300500,
-      "name": "Delirium Hums",
-      "url": "https://open.spotify.com/track/3HUbt3IU8OmoQNDmGjNlGF"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
-      },
-      "artists": [
-        {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
-        }
-      ],
-      "duration_ms": 205174,
-      "name": "Of Woods and Seas",
-      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "No Highs",
         "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 245500,
       "name": "Spirit Loop",
       "url": "https://open.spotify.com/track/059WDHaxZOePXJAxn8gazv"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R"
+      },
+      "artists": [
+        {
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+        }
+      ],
+      "duration_ms": 205174,
+      "name": "Of Woods and Seas",
+      "url": "https://open.spotify.com/track/3TnEd5mpduI0zdX3qbXVup"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "the farthest star",
+        "url": "https://open.spotify.com/album/2VTdWcEuX2u5q9cuuqLN91"
+      },
+      "artists": [
+        {
+          "name": "Anita Tatlow",
+          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+        },
+        {
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+        }
+      ],
+      "duration_ms": 209999,
+      "name": "worlds beneath oceans",
+      "url": "https://open.spotify.com/track/7cQGHAfMpyJf51tXp37lmI"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Garden Heart: Reworks",
         "url": "https://open.spotify.com/album/1TbsrNNEfLDRW6bc2gSsLx"
       },
@@ -1755,22 +1775,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "the farthest star",
-        "url": "https://open.spotify.com/album/2VTdWcEuX2u5q9cuuqLN91"
+        "name": "Rewilding",
+        "url": "https://open.spotify.com/album/1UwfWjDbi8fDvUPjpo9LQD"
       },
       "artists": [
         {
-          "name": "Anita Tatlow",
-          "url": "https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB"
+          "name": "Ba\u015fak G\u00fcnak",
+          "url": "https://open.spotify.com/artist/13NtiBSQa2IRMON1b7IO0u"
         },
         {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
+          "name": "Ah! Kosmos",
+          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
         }
       ],
-      "duration_ms": 209999,
-      "name": "worlds beneath oceans",
-      "url": "https://open.spotify.com/track/7cQGHAfMpyJf51tXp37lmI"
+      "duration_ms": 127937,
+      "name": "Rewilding",
+      "url": "https://open.spotify.com/track/5EBvFuG3abPnQEqxbX38o4"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1803,26 +1823,6 @@
       "duration_ms": 118897,
       "name": "Fin ao\u00fbt, d\u00e9but septembre",
       "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Rewilding",
-        "url": "https://open.spotify.com/album/1UwfWjDbi8fDvUPjpo9LQD"
-      },
-      "artists": [
-        {
-          "name": "Ba\u015fak G\u00fcnak",
-          "url": "https://open.spotify.com/artist/13NtiBSQa2IRMON1b7IO0u"
-        },
-        {
-          "name": "Ah! Kosmos",
-          "url": "https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD"
-        }
-      ],
-      "duration_ms": 127937,
-      "name": "Rewilding",
-      "url": "https://open.spotify.com/track/5EBvFuG3abPnQEqxbX38o4"
     }
   ],
   "unique_name": "Ambient X",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 
 > 每人都有講唔出嘅難處同感受，但記住：我哋有彼此。見字撐住啊！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,058 likes - 106 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,061 likes - 106 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTD0JQo9KB9.md) - [plain]
 | 90 | [All We Have Is Now](https://open.spotify.com/track/6sIE2GmdLDX8L96IEKmDls) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [All We Have Is Now](https://open.spotify.com/album/1aFRjm48xWffnCu3o0MY8t) | 4:22 |
 | 91 | [太陽花 Part II](https://open.spotify.com/track/1m1RT4zFnqbuGAGr6O582U) | [TomFatKi](https://open.spotify.com/artist/2Cg6iCZ9MbuAnnaplGTdU6) | [太陽花 Part II](https://open.spotify.com/album/3wrX6F2jQAzE4YvuLQ309P) | 2:23 |
 | 92 | [今宵多珍重](https://open.spotify.com/track/7hM5duVObouIsRhz1Y2OcH) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [LMFXXYEARFEST](https://open.spotify.com/album/4xb2VaWVJCC5da4ZEEmHeb) | 2:41 |
-| 93 | [我可以被這個世界淘汰,但不可以被世界擊敗](https://open.spotify.com/track/06SVExglFy0GOh3E5djqgm) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 2:40 |
+| 93 | [我可以被這個世界淘汰，但不可以被世界擊敗](https://open.spotify.com/track/06SVExglFy0GOh3E5djqgm) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 2:40 |
 | 94 | [我心中尚未崩壞的部分](https://open.spotify.com/track/6BymbyJEEn85vcJnr5aAkR) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [九道痕跡](https://open.spotify.com/album/6QFTcrYF9rFdZ6uyXTWVPu) | 3:26 |
 | 95 | [時候不早](https://open.spotify.com/track/433FK3gktWwmjkAPMSqVNO) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [時候不早](https://open.spotify.com/album/7fBnsOe1M8Ineu5Y1FQ5C4) | 3:40 |
 | 96 | [一口氣](https://open.spotify.com/track/0QeieyfAsXbJEXEtkXdlY3) | [ToNick](https://open.spotify.com/artist/3oONGjPFxkb1rqTtFx8fl2) | [一口氣](https://open.spotify.com/album/37T5nCk3fL9AdhFp466kPo) | 4:03 |

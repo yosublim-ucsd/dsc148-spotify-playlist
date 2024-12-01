@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Mida
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,114 likes - 60 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,125 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 28 | [Virtù dei fragili](https://open.spotify.com/track/2zQorQicWbyz2piMgK0U3b) | [Wemme Flow](https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny), [Zenit](https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN) | [Virtù dei fragili](https://open.spotify.com/album/6gAyQzb1vrS1epJLXxNhxF) | 3:02 |
 | 29 | [PARIGI IN MOTORINO](https://open.spotify.com/track/2LufZncOUh94FKHwkan3Yt) | [Luk3](https://open.spotify.com/artist/0whO28HUyJLt9F0bLNzqU1) | [PARIGI IN MOTORINO](https://open.spotify.com/album/41D6cZ7PJJWZ3X6mZU02c5) | 2:22 |
 | 30 | [IL CIELO È VIOLA](https://open.spotify.com/track/55S6yXbZ1V0UPhSRvD5eQ8) | [Diego Lazzari](https://open.spotify.com/artist/64ni8l4f1uyxljOKU0EugH) | [IL CIELO È VIOLA](https://open.spotify.com/album/1vZXRwKgfv5GvjJMs4CKDE) | 2:27 |
-| 31 | [Nuvola](https://open.spotify.com/track/2dNApHQwXUGmLrZDdDoPTw) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Nuvola](https://open.spotify.com/album/4ril2abBLyyrV8abs0F0u1) | 3:00 |
+| 31 | [Nuvola](https://open.spotify.com/track/2dNApHQwXUGmLrZDdDoPTw) | [Federica](https://open.spotify.com/artist/4r5rICegCnoo3MD8ucZiFg) | [Nuvola](https://open.spotify.com/album/4ril2abBLyyrV8abs0F0u1) | 3:00 |
 | 32 | [Quei ricordi là](https://open.spotify.com/track/75Y6WgUldQN8mipAVLy8KJ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA](https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7) | 3:00 |
 | 33 | [STANDING OVATION](https://open.spotify.com/track/7sLuIU9m41huRHZRqxBBYI) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [STANDING OVATION](https://open.spotify.com/album/4nCtjuCLQipDKLVUb9jfPq) | 2:41 |
 | 34 | [LONTANO DA TUTTO](https://open.spotify.com/track/2ba7fBRDrqrXYmgHa81Pdx) | [Rondine](https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l) | [LONTANO DA TUTTO](https://open.spotify.com/album/29ehCxzxREyf0z4zKoYQsp) | 2:42 |

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra",
-  "num_followers": 42886,
+  "num_followers": 42898,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "APOCALYPSE",
+        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "NANANI NANANA",
+      "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "1 Minute",
         "url": "https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "penelope",
-        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
-      },
-      "artists": [
-        {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        }
-      ],
-      "duration_ms": 194902,
-      "name": "penelope",
-      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Chaque seconde (Edition deluxe)",
         "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
       },
@@ -515,6 +515,38 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "La pluie",
+        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "La pluie",
+      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "penelope",
+        "url": "https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 194902,
+      "name": "penelope",
+      "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Absent",
         "url": "https://open.spotify.com/album/42GxEIIABO7xY0gMxaGZW5"
       },
@@ -527,6 +559,22 @@
       "duration_ms": 179555,
       "name": "Absent",
       "url": "https://open.spotify.com/track/3uIjsEqU6q78itijkqbGlM"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Mon sang",
+        "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Cette vie",
+      "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -551,18 +599,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Mon sang",
-        "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
+        "name": "Dans ma bulle",
+        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
         }
       ],
-      "duration_ms": 174800,
-      "name": "Cette vie",
-      "url": "https://open.spotify.com/track/397v0MwzzwCAKz4qa7Y2qL"
+      "duration_ms": 152679,
+      "name": "Dans ma bulle",
+      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -587,38 +635,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Dans ma bulle",
-        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 152679,
-      "name": "Dans ma bulle",
-      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Tu vas me quitter encore longtemps ?",
-        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
-      },
-      "artists": [
-        {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "Tu vas me quitter encore longtemps ?",
-      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "CAPITALE DU CRIME RADIO",
         "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
       },
@@ -635,6 +651,22 @@
       "duration_ms": 154285,
       "name": "En rapide",
       "url": "https://open.spotify.com/track/6QjlkdHB0JDMbWcfy1ZMqX"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Tu vas me quitter encore longtemps ?",
+        "url": "https://open.spotify.com/album/7prjYkGyFjara0Aa3UhHDR"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Tu vas me quitter encore longtemps ?",
+      "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -687,6 +719,38 @@
       "duration_ms": 122023,
       "name": "BIG BOSS",
       "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "P\u014dse\u00efd\u00f8n",
+        "url": "https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 248544,
+      "name": "P\u014dse\u00efd\u00f8n",
+      "url": "https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Un v\u0153u",
+        "url": "https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL"
+      },
+      "artists": [
+        {
+          "name": "Bouss",
+          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
+        }
+      ],
+      "duration_ms": 238683,
+      "name": "Un v\u0153u",
+      "url": "https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -747,38 +811,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Un v\u0153u",
-        "url": "https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 238683,
-      "name": "Un v\u0153u",
-      "url": "https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "P\u014dse\u00efd\u00f8n",
-        "url": "https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 248544,
-      "name": "P\u014dse\u00efd\u00f8n",
-      "url": "https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Chacun son chacun",
         "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
       },
@@ -811,70 +843,42 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "BDLM VOL.1",
-        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
       },
       "artists": [
         {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         },
         {
-          "name": "KLN",
-          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 194311,
-      "name": "NO LIMIT",
-      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
+      "duration_ms": 170680,
+      "name": "L.F.O.L.F (feat. Leto)",
+      "url": "https://open.spotify.com/track/34gQB3gmeWHRqhsRhAquwi"
     },
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "La v\u00e9rit\u00e9",
-        "url": "https://open.spotify.com/album/7e8nS0AlDriC8MoE3ybRj9"
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt"
       },
       "artists": [
         {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 140583,
-      "name": "La v\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/5vbWxSxdmhXpAtgw44ykAP"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Je t'ai cherch\u00e9",
-        "url": "https://open.spotify.com/album/5T8ZZkWPCZQaNPZmrFr25O"
-      },
-      "artists": [
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        },
         {
-          "name": "Lara Fabian",
-          "url": "https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20"
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 216159,
-      "name": "Je t'ai cherch\u00e9",
-      "url": "https://open.spotify.com/track/28gYJXShLPmWRq9Zn9jGma"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Obrigado",
-        "url": "https://open.spotify.com/album/3t95kCe5uXnqk4SSAGLXAz"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 139416,
-      "name": "Obrigado",
-      "url": "https://open.spotify.com/track/0rXr46ztQmvrjqGW0ORoPb"
+      "duration_ms": 199000,
+      "name": "MISS LILY'S",
+      "url": "https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

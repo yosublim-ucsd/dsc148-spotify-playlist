@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 146406,
+  "num_followers": 146421,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "Blue Yodel No. 4",
+      "url": "https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK"
+    },
+    {
+      "added_at": "2024-07-05 22:55:37",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/79LDSEJQWGmsApFH2GG0Fr"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 161933,
       "name": "I Love You So Much It Hurts",
       "url": "https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl"
-    },
-    {
-      "added_at": "2024-07-05 22:55:37",
-      "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
-      },
-      "artists": [
-        {
-          "name": "Bill Monroe & His Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "Blue Yodel No. 4",
-      "url": "https://open.spotify.com/track/0qkp5UK0HUwmsRfL8MICXK"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "My Favorite Country Songs",
-        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
+        "name": "Columbia Historic Edition",
+        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
         }
       ],
-      "duration_ms": 185200,
-      "name": "Tumbling Tumbleweeds",
-      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
+      "duration_ms": 171466,
+      "name": "Heavy Traffic Ahead",
+      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
     },
     {
       "added_at": "2024-07-05 22:55:37",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-07-05 22:55:37",
       "album": {
-        "name": "Columbia Historic Edition",
-        "url": "https://open.spotify.com/album/2pFMceiLK1uzEo9uDYPp5l"
+        "name": "My Favorite Country Songs",
+        "url": "https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU"
       },
       "artists": [
         {
-          "name": "Bill Monroe",
-          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 171466,
-      "name": "Heavy Traffic Ahead",
-      "url": "https://open.spotify.com/track/3cRYM2V4teCLpVoF0pmrNr"
+      "duration_ms": 185200,
+      "name": "Tumbling Tumbleweeds",
+      "url": "https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3"
     },
     {
       "added_at": "2024-07-05 22:55:37",

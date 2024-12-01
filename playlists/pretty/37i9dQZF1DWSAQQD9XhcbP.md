@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAQQD9XhcbP.md) - [plain]
 
 > Cozy Christmas vibes\. Cover: Lyn Lapid
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,327 likes - 87 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,549 likes - 87 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

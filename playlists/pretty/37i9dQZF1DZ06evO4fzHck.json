@@ -1,29 +1,13 @@
 {
   "description": "This is The Cure. The essential tracks, all in one playlist.",
-  "num_followers": 556392,
+  "num_followers": 556495,
   "original_name": "This Is The Cure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ZhAAAAAAB6kegqiZ/8tJBbI46/EOAW",
+  "snapshot_id": "Z0kEAAAAAACMQdBpU146auGs+dd+X3OB",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs Of A Lost World",
-        "url": "https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 321101,
-      "name": "All I Ever Am",
-      "url": "https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG"
-    },
     {
       "added_at": null,
       "album": {
@@ -276,9 +260,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 212840,
-      "name": "High",
-      "url": "https://open.spotify.com/track/1G5cCZhEI67suiGvSWAiZz"
+      "duration_ms": 312240,
+      "name": "A Letter To Elise",
+      "url": "https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA"
     },
     {
       "added_at": null,
@@ -292,9 +276,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 363460,
-      "name": "I Can Never Say Goodbye",
-      "url": "https://open.spotify.com/track/1gXS1LBxTyfZ7Lf380CR9E"
+      "duration_ms": 408690,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
     },
     {
       "added_at": null,
@@ -340,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 312240,
-      "name": "A Letter To Elise",
-      "url": "https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA"
+      "duration_ms": 212840,
+      "name": "High",
+      "url": "https://open.spotify.com/track/1G5cCZhEI67suiGvSWAiZz"
     },
     {
       "added_at": null,
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 285131,
-      "name": "Drone:Nodrone",
-      "url": "https://open.spotify.com/track/2rFip3zL6mqFv3XcALMqhd"
+      "duration_ms": 363460,
+      "name": "I Can Never Say Goodbye",
+      "url": "https://open.spotify.com/track/1gXS1LBxTyfZ7Lf380CR9E"
     },
     {
       "added_at": null,
@@ -420,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 408690,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1FlKUh04wsO7Z2AFmzplCw"
+      "duration_ms": 285131,
+      "name": "Drone:Nodrone",
+      "url": "https://open.spotify.com/track/2rFip3zL6mqFv3XcALMqhd"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Maudy Ayunda, Iwan Fals
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,882 likes - 96 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,934 likes - 96 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,10 +87,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 77 | [Zigle Zigle \(Feat\. ZICO\)](https://open.spotify.com/track/44n7Wbnl9vcDbkAkVPW0Lu) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ), [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [RAP:PUBLIC Episode.1](https://open.spotify.com/album/5WSn8tqITxImRseEUPXMIi) | 4:05 |
 | 78 | [Broken Dreaming](https://open.spotify.com/track/2WoL0N6kjQBEBXRxTmNBJG) | [Sam Lin](https://open.spotify.com/artist/3EiW2e93LzyelaCJzRlNl1) | [Broken Dreaming](https://open.spotify.com/album/3CtKI1RUVoF2xOGYx7d0uX) | 2:59 |
 | 79 | [She's The Sun](https://open.spotify.com/track/5xpw4HZYux97KuVliSFpph) | [Gabe Watkins](https://open.spotify.com/artist/2GtFIN8b3SolBC7mmCPAAA) | [She's The Sun](https://open.spotify.com/album/1V3KWnfjOWqiuBtrYVhRgg) | 3:08 |
-| 80 | [B.D.T](https://open.spotify.com/track/1LIeKcQIfeEtYyLohokUs7) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [B.D.T](https://open.spotify.com/album/2dxEEl4haKemnG3UjWmZGg) | 3:18 |
+| 80 | [B.D.T.](https://open.spotify.com/track/1LIeKcQIfeEtYyLohokUs7) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [B.D.T.](https://open.spotify.com/album/2dxEEl4haKemnG3UjWmZGg) | 3:18 |
 | 81 | [Take You to the Universe](https://open.spotify.com/track/0RICMzzz6s43MgbTsuTIQQ) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [A Room in Brockley](https://open.spotify.com/album/6N2xKkzQQK9wz6On1LDKWW) | 3:47 |
 | 82 | [Lip Gloss](https://open.spotify.com/track/73AKegl9SMjSe9pNSajPdW) | [Quadlips](https://open.spotify.com/artist/2G2pl9H7xMw4oYh6PCk3zN) | [Lip Gloss](https://open.spotify.com/album/65ZpgcZ8EriGb7eKxuIGk7) | 2:36 |
-| 83 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:07 |
+| 83 | [Glued To](https://open.spotify.com/track/1P7w8Ku99MxQWCHer8t41g) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Glued To](https://open.spotify.com/album/1KNvcZY6ZtNHDHJKF7hXIl) | 4:10 |
 | 84 | [JULY](https://open.spotify.com/track/2J7iSLEVbmmsmayjrxRGPA) | [ICEBOX](https://open.spotify.com/artist/3EPASK2OUUcDo6RgfnroTK), [teem](https://open.spotify.com/artist/0unwNwqhc1Mvt46XAUbukd) | [JULY](https://open.spotify.com/album/0PreKqZkQlgYvy2JTEL8bw) | 2:48 |
 | 85 | [obvious](https://open.spotify.com/track/5FoWleraAwycj7XoPUOE5R) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [obvious](https://open.spotify.com/album/0sgW7LhLJyavgI2C0p8ov0) | 2:12 |
 | 86 | [lie](https://open.spotify.com/track/0KLSzWb3O65gvzW3ipdrOG) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [lie](https://open.spotify.com/album/0pl034wdG7uIcvfzZJlIoI) | 4:24 |

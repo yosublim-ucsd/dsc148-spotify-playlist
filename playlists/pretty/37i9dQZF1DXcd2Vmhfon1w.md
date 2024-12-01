@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Kidd Keo
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,854 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,930 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 10 | [Mortales](https://open.spotify.com/track/2cAlHsqGkTYqQEEZCrMrF0) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Siempre](https://open.spotify.com/album/3uuFYpXPgZRB6MLcH8tiUo) | 2:55 |
 | 11 | [Celine \(with Kidd Keo\)](https://open.spotify.com/track/5ER5Fr1Cv7N3chJhAapt66) | [Ghost Killer Track](https://open.spotify.com/artist/37S0GFsBW73uqxGXNFeADJ), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Celine \(with Kidd Keo\)](https://open.spotify.com/album/4Uew91PetBzYYnSg83m3HT) | 2:56 |
 | 12 | [Florian Wirtz](https://open.spotify.com/track/1mUL8L75S58pqmKwa8Fs07) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [Florian Wirtz](https://open.spotify.com/album/6BV9kvOVmWcteGF4yDO27w) | 2:06 |
-| 13 | [Colgando en tus manos](https://open.spotify.com/track/6jb3lPU86ysOAtaNDuKILd) | [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe), [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw) | [Colgando en tus manos](https://open.spotify.com/album/5tdOKgHDzYJZhqRWcE9an6) | 3:16 |
+| 13 | [Colgando en tus manos](https://open.spotify.com/track/6jb3lPU86ysOAtaNDuKILd) | [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe), [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Colgando en tus manos](https://open.spotify.com/album/5tdOKgHDzYJZhqRWcE9an6) | 3:16 |
 | 14 | [Shorty](https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Tirititando](https://open.spotify.com/album/23CDTnMpY9k9tKblvWsxGw) | 3:03 |
 | 15 | [Shars 2019](https://open.spotify.com/track/4vI7HAK6oC52MfOYlICa0l) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2019](https://open.spotify.com/album/0ouvrlpcjyOklFJK70pwNe) | 2:55 |
 | 16 | [Cicatrices](https://open.spotify.com/track/7cVPzL9iPXkMaHb8NvwvR3) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cicatrices](https://open.spotify.com/album/2r7uyJrmDdQ3DwX0EzSfYm) | 3:00 |

@@ -2,7 +2,7 @@
 
 ### [胸さわぎの腰つき](https://open.spotify.com/playlist/37i9dQZF1DXa6leiaxNOIg)
 
-> <a href="spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P">サザンオールスターズ、デビュー45周年</a>記念！Spotify×サザンオールスターズのムードプレイリストシリーズ第一弾。来る夏にむけて「熱い胸さわぎ」がするサザン楽曲を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
+> Spotify×サザンオールスターズのムードプレイリストシリーズ第一弾。来る夏にむけて「熱い胸さわぎ」がするサザン楽曲を集めました。illustration : <a href="https://www.instagram.com/tzzktknaar/">たざきたかなり</a>
 
 45 songs - 3 hr 7 min
 

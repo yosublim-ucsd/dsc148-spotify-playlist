@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 30291,
+  "num_followers": 30335,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -102,6 +102,10 @@
         {
           "name": "Ransom Beatz",
           "url": "https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy"
+        },
+        {
+          "name": "Big Tobz",
+          "url": "https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK"
         }
       ],
       "duration_ms": 131368,
@@ -551,26 +555,6 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 148467,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
-    },
-    {
-      "added_at": "2024-11-29 08:08:41",
-      "album": {
         "name": "It'll All Make Sense Later",
         "url": "https://open.spotify.com/album/7tvdxqWOmWKZfNtoq1Twje"
       },
@@ -587,6 +571,26 @@
       "duration_ms": 194000,
       "name": "Shooting Star (feat. Oxlade)",
       "url": "https://open.spotify.com/track/7b0cxAMN9drjIAP9eRHJyW"
+    },
+    {
+      "added_at": "2024-11-29 08:08:41",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 148467,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -743,30 +747,6 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
-        "name": "Save Your Tears",
-        "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
-      },
-      "artists": [
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        },
-        {
-          "name": "GuiltyBeatz",
-          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
-    },
-    {
-      "added_at": "2024-11-29 08:08:41",
-      "album": {
         "name": "BOOK OF VASA",
         "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
       },
@@ -799,6 +779,30 @@
       "duration_ms": 158833,
       "name": "Pier 46 (with KTIZO)",
       "url": "https://open.spotify.com/track/1MHae3GoqEQvdUYWbtriaO"
+    },
+    {
+      "added_at": "2024-11-29 08:08:41",
+      "album": {
+        "name": "Save Your Tears",
+        "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        },
+        {
+          "name": "GuiltyBeatz",
+          "url": "https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -895,26 +899,6 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
-        "name": "Dis Kain Luv",
-        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
-      },
-      "artists": [
-        {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
-        },
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        }
-      ],
-      "duration_ms": 152565,
-      "name": "Dis Kain Luv",
-      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
-    },
-    {
-      "added_at": "2024-11-29 08:08:41",
-      "album": {
         "name": "Sweet For Joy",
         "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
       },
@@ -931,6 +915,26 @@
       "duration_ms": 165159,
       "name": "Sweet For Joy",
       "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
+    },
+    {
+      "added_at": "2024-11-29 08:08:41",
+      "album": {
+        "name": "Dis Kain Luv",
+        "url": "https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1"
+      },
+      "artists": [
+        {
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+        },
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        }
+      ],
+      "duration_ms": 152565,
+      "name": "Dis Kain Luv",
+      "url": "https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -1011,26 +1015,6 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
-        "name": "F\u00e9",
-        "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "\u00c9LL\u00c0H",
-          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
-        }
-      ],
-      "duration_ms": 152410,
-      "name": "F\u00e9",
-      "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
-    },
-    {
-      "added_at": "2024-11-29 08:08:41",
-      "album": {
         "name": "TEQUILA",
         "url": "https://open.spotify.com/album/5zpxn2BLJyQ9gZcKfKq8RX"
       },
@@ -1047,6 +1031,26 @@
       "duration_ms": 205000,
       "name": "TEQUILA",
       "url": "https://open.spotify.com/track/3meLEmr860diy8furP4Bff"
+    },
+    {
+      "added_at": "2024-11-29 08:08:41",
+      "album": {
+        "name": "F\u00e9",
+        "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "\u00c9LL\u00c0H",
+          "url": "https://open.spotify.com/artist/1I5Ae9tdGA0hgjWNTXqmJt"
+        }
+      ],
+      "duration_ms": 152410,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/6bp9ivNIHLHqHFPIaqC40u"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -1207,22 +1211,18 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
-        "name": "What Happens After",
-        "url": "https://open.spotify.com/album/374kRLUEswPACwvirpCPG1"
+        "name": "Finding Nimo Series: The Capsule",
+        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
       },
       "artists": [
         {
-          "name": "Yinka Bernie",
-          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh"
+      "duration_ms": 156212,
+      "name": "Inside",
+      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -1243,38 +1243,22 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
-        "name": "Finding Nimo Series: The Capsule",
-        "url": "https://open.spotify.com/album/0kHfQtPsWfqcwnUCjwqlmg"
+        "name": "What Happens After",
+        "url": "https://open.spotify.com/album/374kRLUEswPACwvirpCPG1"
       },
       "artists": [
         {
-          "name": "AratheJay",
-          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
-        }
-      ],
-      "duration_ms": 156212,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/2oggtjZEvlUtmXq5flIu3K"
-    },
-    {
-      "added_at": "2024-11-29 08:08:41",
-      "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
         },
         {
-          "name": "Frescool",
-          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
         }
       ],
-      "duration_ms": 195976,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh"
+      "duration_ms": 150857,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/6rF5VIN5txpH264rYC1UVh"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -1323,6 +1307,26 @@
       "duration_ms": 199686,
       "name": "Time & Space",
       "url": "https://open.spotify.com/track/1xmLl23KESbXHI9yCnentg"
+    },
+    {
+      "added_at": "2024-11-29 08:08:41",
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/2PPR8xDRwWykDeNBogEtMo"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Frescool",
+          "url": "https://open.spotify.com/artist/0wo6ysVhhpbTPkn9O7Mwdb"
+        }
+      ],
+      "duration_ms": 195976,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/1iYUdgn6p7dAMKLLVCBGeh"
     },
     {
       "added_at": "2024-11-29 08:08:41",
@@ -1423,6 +1427,26 @@
     {
       "added_at": "2024-11-29 08:08:41",
       "album": {
+        "name": "Buds and Bees",
+        "url": "https://open.spotify.com/album/3phsXOLoS9sU3UJzRQqVyx"
+      },
+      "artists": [
+        {
+          "name": "DCMTRS",
+          "url": "https://open.spotify.com/artist/5p1MTNZoPDj1nXrYVA1xbM"
+        },
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 230265,
+      "name": "Pinacolada",
+      "url": "https://open.spotify.com/track/1nMllnqoALyaXY0uac9K64"
+    },
+    {
+      "added_at": "2024-11-29 08:08:41",
+      "album": {
         "name": "HEAVEN ON EARTH",
         "url": "https://open.spotify.com/album/0QCeTsr9yO7THO1Zt1nOB4"
       },
@@ -1455,26 +1479,6 @@
       "duration_ms": 111229,
       "name": "sweeeet",
       "url": "https://open.spotify.com/track/7wr2RA6XCWzjOCHsjoi3ll"
-    },
-    {
-      "added_at": "2024-11-29 08:08:41",
-      "album": {
-        "name": "Buds and Bees",
-        "url": "https://open.spotify.com/album/3phsXOLoS9sU3UJzRQqVyx"
-      },
-      "artists": [
-        {
-          "name": "DCMTRS",
-          "url": "https://open.spotify.com/artist/5p1MTNZoPDj1nXrYVA1xbM"
-        },
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 230265,
-      "name": "Pinacolada",
-      "url": "https://open.spotify.com/track/1nMllnqoALyaXY0uac9K64"
     }
   ],
   "unique_name": "Afro Chill",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,336 likes - 100 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,922 likes - 100 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 99 | [Totem](https://open.spotify.com/track/4LgTZ7yelUcMU6B3uelSop) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Infinite Health](https://open.spotify.com/album/4MNiJe2poQied5VGfG6nBW) | 3:43 |
 | 100 | [Wallace Line](https://open.spotify.com/track/0LTPakbAkiiaJaK5F2B1av) | [Sattle](https://open.spotify.com/artist/4RVMHIhW9fGIk1uEuSVFLe) | [Hekdb Product 002](https://open.spotify.com/album/0PTBTCMALXowwutaEL7y5W) | 4:59 |
 
-Snapshot ID: `Z0kKxgAAAACLMbpn3JNF+YJWjLfka4yv`
+Snapshot ID: `Z0q9YAAAAAAAc7jVkq0D6DV92qTLHMt5`

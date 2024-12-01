@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 32250,
+  "num_followers": 32265,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Ay Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 97931,
+      "name": "Ay Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Saguaro",
         "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 144363,
       "name": "La Villa",
       "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Ay Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2w9ZD90QY8FBfKVUEQh3X9"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 97931,
-      "name": "Ay Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/07MId57g9gjI1XrPZGfZaN"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "desayunos en solitario",
-        "url": "https://open.spotify.com/album/6EcCHUOUUXpc5tH8CCzLJn"
+        "name": "Coctel de Camaron",
+        "url": "https://open.spotify.com/album/5hp6kiu1ZtOVboYVKQYHj8"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
         }
       ],
-      "duration_ms": 89000,
-      "name": "caf\u00e9 en la ma\u00f1ana y luz",
-      "url": "https://open.spotify.com/track/7kXFIUFe4pnlqIDiqelLAS"
+      "duration_ms": 90750,
+      "name": "Coctel de Camaron",
+      "url": "https://open.spotify.com/track/5smc4AxpEeo8W5UDqktz2a"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -735,42 +735,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Respira",
-        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
-      },
-      "artists": [
-        {
-          "name": "Masta Quba",
-          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
-        },
-        {
-          "name": "P. Jaguar",
-          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Respira",
-      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Coctel de Camaron",
-        "url": "https://open.spotify.com/album/5hp6kiu1ZtOVboYVKQYHj8"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 90750,
-      "name": "Coctel de Camaron",
-      "url": "https://open.spotify.com/track/5smc4AxpEeo8W5UDqktz2a"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Dale Dale",
         "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
       },
@@ -787,6 +751,42 @@
       "duration_ms": 148000,
       "name": "Dale Dale",
       "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "desayunos en solitario",
+        "url": "https://open.spotify.com/album/6EcCHUOUUXpc5tH8CCzLJn"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 89000,
+      "name": "caf\u00e9 en la ma\u00f1ana y luz",
+      "url": "https://open.spotify.com/track/7kXFIUFe4pnlqIDiqelLAS"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Respira",
+        "url": "https://open.spotify.com/album/56WTz4lIRGoRo4ywdkPRRE"
+      },
+      "artists": [
+        {
+          "name": "Masta Quba",
+          "url": "https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ"
+        },
+        {
+          "name": "P. Jaguar",
+          "url": "https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Respira",
+      "url": "https://open.spotify.com/track/2E5XWHyFzAbrpjmMH8auTC"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Shiny",
-        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
-      },
-      "artists": [
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 121258,
       "name": "Flores",
       "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Shiny",
+        "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
+      },
+      "artists": [
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 129975,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "LOFI CHRISTMAS VI",
+        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
+      },
+      "artists": [
+        {
+          "name": "Akira The Don",
+          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "THE CHRISTMAS SONG LOFI",
+      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Bluewerks Vol 13: Midnight Melodies",
         "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 135714,
       "name": "van life",
       "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "renacer",
-        "url": "https://open.spotify.com/album/7ljgi8uX0xkTFnP7ndveoC"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "renacer",
-      "url": "https://open.spotify.com/track/27rmCpslCNfbrZsdDQGmHq"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Viernes Azul",
-        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Viernes Azul",
-      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "Not Fun",
         "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 146406,
       "name": "Not Fun",
       "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Viernes Azul",
+        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Viernes Azul",
+      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "LOFI CHRISTMAS VI",
-        "url": "https://open.spotify.com/album/3RvE29N2BO2daJq28Er9Wy"
+        "name": "renacer",
+        "url": "https://open.spotify.com/album/7ljgi8uX0xkTFnP7ndveoC"
       },
       "artists": [
         {
-          "name": "Akira The Don",
-          "url": "https://open.spotify.com/artist/14ep6TM2JzapH5nk7vaora"
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
         }
       ],
-      "duration_ms": 132000,
-      "name": "THE CHRISTMAS SONG LOFI",
-      "url": "https://open.spotify.com/track/59GcIQB6MBjrPzBhcGXQ4q"
+      "duration_ms": 166153,
+      "name": "renacer",
+      "url": "https://open.spotify.com/track/27rmCpslCNfbrZsdDQGmHq"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Place Of Time",
-        "url": "https://open.spotify.com/album/0Cyx07qXiAhlKaheWrMgrY"
-      },
-      "artists": [
-        {
-          "name": "Phlocalyst",
-          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
-        },
-        {
-          "name": "Shy Guy",
-          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "Being Honest",
-      "url": "https://open.spotify.com/track/18hhnu42fi5F8rCnjauy8m"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
         "name": "love season",
         "url": "https://open.spotify.com/album/5X7qJbYsCQTK1zNsmfr3sj"
       },
@@ -1639,22 +1619,6 @@
       "duration_ms": 114000,
       "name": "love season",
       "url": "https://open.spotify.com/track/0D88i3rYIK5HgvhzX3j0Tp"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
-      },
-      "artists": [
-        {
-          "name": "slider beats",
-          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Playa",
-      "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1675,22 +1639,18 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
-        "name": "Rossa Nova",
-        "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
       "artists": [
         {
-          "name": "Ozymandias' Dream",
-          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+          "name": "slider beats",
+          "url": "https://open.spotify.com/artist/77VSC0Qw9PDZJzH9Fv28Ps"
         }
       ],
-      "duration_ms": 148965,
-      "name": "Rossa Nova",
-      "url": "https://open.spotify.com/track/7JJuPb0RhWRZvZK2q6m9BQ"
+      "duration_ms": 129729,
+      "name": "Playa",
+      "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1711,6 +1671,46 @@
       "duration_ms": 121734,
       "name": "bumpz",
       "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Place Of Time",
+        "url": "https://open.spotify.com/album/0Cyx07qXiAhlKaheWrMgrY"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Being Honest",
+      "url": "https://open.spotify.com/track/18hhnu42fi5F8rCnjauy8m"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
+        "name": "Rossa Nova",
+        "url": "https://open.spotify.com/album/4tboziMwqukmTcb6UeUb5H"
+      },
+      "artists": [
+        {
+          "name": "Ozymandias' Dream",
+          "url": "https://open.spotify.com/artist/02fU9bl5biXBxxfNBfb3Bd"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Rossa Nova",
+      "url": "https://open.spotify.com/track/7JJuPb0RhWRZvZK2q6m9BQ"
     },
     {
       "added_at": "2024-11-08 06:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-11-08 06:00:00",
       "album": {
+        "name": "Hide n Seek",
+        "url": "https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4"
+      },
+      "artists": [
+        {
+          "name": "Outdream",
+          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
+        }
+      ],
+      "duration_ms": 130714,
+      "name": "Hide n Seek",
+      "url": "https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa"
+    },
+    {
+      "added_at": "2024-11-08 06:00:00",
+      "album": {
         "name": "Sleepy Suburbs",
         "url": "https://open.spotify.com/album/7aRJBLnUsOAc7Gzaz9e3TV"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 147000,
       "name": "Sleepy Suburbs",
       "url": "https://open.spotify.com/track/0UEqYDmve0snOYnJ0qOXP8"
-    },
-    {
-      "added_at": "2024-11-08 06:00:00",
-      "album": {
-        "name": "Hide n Seek",
-        "url": "https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4"
-      },
-      "artists": [
-        {
-          "name": "Outdream",
-          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
-        }
-      ],
-      "duration_ms": 130714,
-      "name": "Hide n Seek",
-      "url": "https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa"
     },
     {
       "added_at": "2024-11-08 06:00:00",

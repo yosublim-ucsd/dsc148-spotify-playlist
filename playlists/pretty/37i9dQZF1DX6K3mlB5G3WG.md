@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Le migliori nuove uscite 🇮🇹 e 🌎! Cover: Gazzelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,846 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,863 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 50 | [Uomo Semplice \(feat\. Shade\)](https://open.spotify.com/track/3WAkUUYwv2anijdjDt0ucd) | [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok), [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt) | [Uomo Semplice \(feat\. Shade\)](https://open.spotify.com/album/3Hu7DKroAl350zmfM4VkMh) | 3:12 |
 | 51 | [VENGO DAL SUD](https://open.spotify.com/track/5tdL9rbnTwHdoy1S3OhWrq) | [Bosnia](https://open.spotify.com/artist/4cfHjQPZE1LRHvD38jue82) | [VENGO DAL SUD](https://open.spotify.com/album/09Zadd6RsYBKLAst8VHjj3) | 3:00 |
 | 52 | [I Just Want You](https://open.spotify.com/track/5ewja8JMIn5ntA29n8G1Ld) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [I Just Want You](https://open.spotify.com/album/0iJMOLEevjXmTfiWKxEkUa) | 3:05 |
-| 53 | [Nuvola](https://open.spotify.com/track/2dNApHQwXUGmLrZDdDoPTw) | [Federica Carta](https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L) | [Nuvola](https://open.spotify.com/album/4ril2abBLyyrV8abs0F0u1) | 3:00 |
+| 53 | [Nuvola](https://open.spotify.com/track/2dNApHQwXUGmLrZDdDoPTw) | [Federica](https://open.spotify.com/artist/4r5rICegCnoo3MD8ucZiFg) | [Nuvola](https://open.spotify.com/album/4ril2abBLyyrV8abs0F0u1) | 3:00 |
 | 54 | [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 |
 | 55 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 |
 | 56 | [malasuerte](https://open.spotify.com/track/2UKhVyZh0fJWFndQd5T1sr) | [LOWRAH](https://open.spotify.com/artist/2JDox6TzjUdGSIaFPPCa1d) | [malasuerte](https://open.spotify.com/album/6jqognQoRJsmpFJzbfwkB7) | 2:34 |

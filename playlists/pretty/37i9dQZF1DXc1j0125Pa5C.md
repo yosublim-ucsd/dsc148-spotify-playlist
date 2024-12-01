@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Sorriso Maroto, Belo
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,612 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,767 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Não Foi a Toa / Farol das Estrelas \- Ao Vivo](https://open.spotify.com/track/4mhQo8A8WtBLGQSLVg3aM8) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Não Foi a Toa / Farol das Estrelas \(Ao Vivo\)](https://open.spotify.com/album/563rSGNhXO75ApFm3D9b3M) | 3:22 |
 | 2 | [Sinto Sua Falta / Namoro Escondido / 12 Horas \- Ao Vivo](https://open.spotify.com/track/2e2p1MimPkdozjxvyir289) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Vitor Limma](https://open.spotify.com/artist/2EQphX0SGBPXvRWS7DUyu1) | [Sinto Sua Falta / Namoro Escondido / 12 Horas \(Ao Vivo\)](https://open.spotify.com/album/1XvS6QOeV7cDe8szt3aql8) | 5:01 |
-| 3 | [Talvez / Só Depois / Já Virou Rotina](https://open.spotify.com/track/0ZxXIbSuTzHq0pCdbcoKlX) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Mixturadin 3 \- Vol\. 2](https://open.spotify.com/album/32fYls29AbB59cgAopGyIW) | 4:57 |
+| 3 | [Talvez / Só Depois / Já Virou Rotina \- Ao Vivo](https://open.spotify.com/track/0ZxXIbSuTzHq0pCdbcoKlX) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Xande De Pilares](https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB) | [Mixturadin 3 \- Vol\. 2](https://open.spotify.com/album/32fYls29AbB59cgAopGyIW) | 4:57 |
 | 4 | [Deixa Alagar / Só Depois / Já Virou Rotina \- Ao Vivo](https://open.spotify.com/track/0oqgG71mzT2yNA8FCSiKJJ) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Paulinho](https://open.spotify.com/artist/66WmQFOJlgpllywrKRV2w1) | [Subúrbio, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3cN5jv2eOEBHco9aa50qEf) | 5:26 |
 | 5 | [Na Nossa Sala / Amor e Amor \- Ao Vivo](https://open.spotify.com/track/5Ni3iN8AhweKQ3yBis62HR) | [Rodriguinho](https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Na Nossa Sala / Amor e Amor \(Ao Vivo em Paris, 2024\)](https://open.spotify.com/album/08iAr8wue0oJwfP1Kn9yyL) | 3:01 |
 | 6 | [Gamei / Por Tão Pouco / É Você](https://open.spotify.com/track/5fMN5E03Qmvb3ZnYt9AcNi) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Gamei / Por Tão Pouco / É Você](https://open.spotify.com/album/4MwqlpUj3akFueXVeEbidL) | 4:54 |

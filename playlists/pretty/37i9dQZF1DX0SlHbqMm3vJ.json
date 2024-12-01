@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Tay Iwar",
-  "num_followers": 242065,
+  "num_followers": 242134,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -474,6 +474,10 @@
         {
           "name": "Ransom Beatz",
           "url": "https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy"
+        },
+        {
+          "name": "Big Tobz",
+          "url": "https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK"
         }
       ],
       "duration_ms": 131368,
@@ -703,22 +707,6 @@
     {
       "added_at": "2024-11-29 00:01:00",
       "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 200930,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
-    },
-    {
-      "added_at": "2024-11-29 00:01:00",
-      "album": {
         "name": "Innocent (feat. Fireboy DML)",
         "url": "https://open.spotify.com/album/6s1rGfZEpOBh25sCEHz9UA"
       },
@@ -735,6 +723,22 @@
       "duration_ms": 172631,
       "name": "Innocent (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/4mlurJObtqE8Q4MLwCfsiw"
+    },
+    {
+      "added_at": "2024-11-29 00:01:00",
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
     },
     {
       "added_at": "2024-11-29 00:01:00",
@@ -835,22 +839,18 @@
     {
       "added_at": "2024-11-29 00:01:00",
       "album": {
-        "name": "Mr Heartbreaker",
-        "url": "https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f"
+        "name": "Ouu wee (brown)",
+        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
       },
       "artists": [
         {
-          "name": "Rose May Alaba",
-          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         }
       ],
-      "duration_ms": 175200,
-      "name": "Mr Heartbreaker",
-      "url": "https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv"
+      "duration_ms": 166285,
+      "name": "Ouu wee (brown)",
+      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
     },
     {
       "added_at": "2024-11-29 00:01:00",
@@ -871,18 +871,22 @@
     {
       "added_at": "2024-11-29 00:01:00",
       "album": {
-        "name": "Ouu wee (brown)",
-        "url": "https://open.spotify.com/album/0g8LWq9ClBfOkass2cIeYl"
+        "name": "Mr Heartbreaker",
+        "url": "https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "Rose May Alaba",
+          "url": "https://open.spotify.com/artist/2ZMK00G23KPZRXv5uETA5s"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 166285,
-      "name": "Ouu wee (brown)",
-      "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
+      "duration_ms": 175200,
+      "name": "Mr Heartbreaker",
+      "url": "https://open.spotify.com/track/5cBjxlthH8KxsfrXlal3Vv"
     },
     {
       "added_at": "2024-11-29 00:01:00",
@@ -1127,6 +1131,22 @@
     {
       "added_at": "2024-11-29 00:01:00",
       "album": {
+        "name": "Born in the Wild",
+        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 216564,
+      "name": "Turn Me Up",
+      "url": "https://open.spotify.com/track/46TwEBx1wC1or8qGS4Mkmk"
+    },
+    {
+      "added_at": "2024-11-29 00:01:00",
+      "album": {
         "name": "Welcome To The Pack",
         "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
       },
@@ -1143,22 +1163,6 @@
       "duration_ms": 141030,
       "name": "OMW",
       "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
-    },
-    {
-      "added_at": "2024-11-29 00:01:00",
-      "album": {
-        "name": "Born in the Wild",
-        "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 216564,
-      "name": "Turn Me Up",
-      "url": "https://open.spotify.com/track/46TwEBx1wC1or8qGS4Mkmk"
     },
     {
       "added_at": "2024-11-29 00:01:00",
@@ -1335,22 +1339,6 @@
     {
       "added_at": "2024-11-29 00:01:00",
       "album": {
-        "name": "Tete",
-        "url": "https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 163665,
-      "name": "Tete",
-      "url": "https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB"
-    },
-    {
-      "added_at": "2024-11-29 00:01:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/7wQgtOaa74hP33p7xzkRHO"
       },
@@ -1363,6 +1351,22 @@
       "duration_ms": 202763,
       "name": "Solo",
       "url": "https://open.spotify.com/track/1ouWZkjgXak30KMUDL2iAT"
+    },
+    {
+      "added_at": "2024-11-29 00:01:00",
+      "album": {
+        "name": "Tete",
+        "url": "https://open.spotify.com/album/0LcPWIkURe7hXEYWEtoCZ2"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 163665,
+      "name": "Tete",
+      "url": "https://open.spotify.com/track/4QXfHYZA1No0EJUOeJWrOB"
     },
     {
       "added_at": "2024-11-29 00:01:00",
@@ -1391,6 +1395,26 @@
     {
       "added_at": "2024-11-29 00:01:00",
       "album": {
+        "name": "Cocoa Butter",
+        "url": "https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ"
+      },
+      "artists": [
+        {
+          "name": "Chop Daily",
+          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+        },
+        {
+          "name": "The Majeek",
+          "url": "https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8"
+        }
+      ],
+      "duration_ms": 113571,
+      "name": "Cocoa Butter",
+      "url": "https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez"
+    },
+    {
+      "added_at": "2024-11-29 00:01:00",
+      "album": {
         "name": "Loner (Alone)",
         "url": "https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl"
       },
@@ -1407,26 +1431,6 @@
       "duration_ms": 151456,
       "name": "Loner (Alone)",
       "url": "https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT"
-    },
-    {
-      "added_at": "2024-11-29 00:01:00",
-      "album": {
-        "name": "Full Time Job",
-        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        }
-      ],
-      "duration_ms": 168054,
-      "name": "Sweet Karma",
-      "url": "https://open.spotify.com/track/2rkzI0YLhgIR8ardKTmXd7"
     },
     {
       "added_at": "2024-11-29 00:01:00",
@@ -1471,22 +1475,22 @@
     {
       "added_at": "2024-11-29 00:01:00",
       "album": {
-        "name": "Cocoa Butter",
-        "url": "https://open.spotify.com/album/001nCniJ4S5BUHXeB2kKMZ"
+        "name": "Full Time Job",
+        "url": "https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX"
       },
       "artists": [
         {
-          "name": "Chop Daily",
-          "url": "https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
-          "name": "The Majeek",
-          "url": "https://open.spotify.com/artist/7DEAydHZRSI5lVqy85n5V8"
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
         }
       ],
-      "duration_ms": 113571,
-      "name": "Cocoa Butter",
-      "url": "https://open.spotify.com/track/7jvBgwYzMd3SHzG2F0Isez"
+      "duration_ms": 168054,
+      "name": "Sweet Karma",
+      "url": "https://open.spotify.com/track/2rkzI0YLhgIR8ardKTmXd7"
     },
     {
       "added_at": "2024-11-29 00:01:00",

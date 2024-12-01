@@ -5996,7 +5996,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 179210,
-      "name": "Jelivra\u0300 Bo Situac\u0327on",
+      "name": "Jelivr\u00e0 Bo Situa\u00e7on",
       "url": "https://open.spotify.com/track/0Bk4J1UclnZ5WvO3rryKG3"
     },
     {
@@ -9261,24 +9261,6 @@
     },
     {
       "album": {
-        "name": "Synthesize the Soul: Astro-Atlantic Hypnotica from the Cape Verde Islands 1973 - 1988",
-        "url": "https://open.spotify.com/album/6CKsf8Mij4FW0Yio5RLEsh"
-      },
-      "artists": [
-        {
-          "name": "Nh\u00fa de Ped'Bia",
-          "url": "https://open.spotify.com/artist/1Trb4AaE9cDc52GxvJVeVU"
-        }
-      ],
-      "date_added": "2023-02-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 315390,
-      "name": "No\u0301s Criola",
-      "url": "https://open.spotify.com/track/58nqV24NBNZZWO0RYvHPFQ"
-    },
-    {
-      "album": {
         "name": "Vidal Benjamin pr\u00e9sente Disco Sympathie",
         "url": "https://open.spotify.com/album/0DM8soBOZE46omYT1xPJDt"
       },
@@ -9420,6 +9402,24 @@
       "duration_ms": 230762,
       "name": "N\u00eaga De Obalua\u00ea",
       "url": "https://open.spotify.com/track/2TYzrobvpyY4WXazo1l1et"
+    },
+    {
+      "album": {
+        "name": "Synthesize the Soul: Astro-Atlantic Hypnotica from the Cape Verde Islands 1973 - 1988",
+        "url": "https://open.spotify.com/album/6CKsf8Mij4FW0Yio5RLEsh"
+      },
+      "artists": [
+        {
+          "name": "Nh\u00fa de Ped'Bia",
+          "url": "https://open.spotify.com/artist/1Trb4AaE9cDc52GxvJVeVU"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315390,
+      "name": "N\u00f3s Criola",
+      "url": "https://open.spotify.com/track/58nqV24NBNZZWO0RYvHPFQ"
     },
     {
       "album": {

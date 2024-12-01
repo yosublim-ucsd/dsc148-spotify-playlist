@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 72325,
+  "num_followers": 72358,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -247,8 +247,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
-        "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
+        "name": "Dvor\u00e1k: Rusalka",
+        "url": "https://open.spotify.com/album/1MbSqz9rKKrafWGK21gdJv"
       },
       "artists": [
         {
@@ -256,17 +256,21 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
           "name": "Czech Philharmonic",
           "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
         },
         {
-          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
-          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
         }
       ],
-      "duration_ms": 282440,
-      "name": "8 Slavonic Dances, Op. 46, B.83: No. 8 in G Minor (Presto)",
-      "url": "https://open.spotify.com/track/6Y4jMyx3KfDJRYyGNP1LYT"
+      "duration_ms": 385440,
+      "name": "Rusalka, Op. 114 / Act 1: Mesicku na nebi hlubok\u00e9m",
+      "url": "https://open.spotify.com/track/00wWGgq0SV0nfmUTUeb0eu"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -295,8 +299,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvor\u00e1k: Rusalka",
-        "url": "https://open.spotify.com/album/1MbSqz9rKKrafWGK21gdJv"
+        "name": "Dvor\u00e1k: Slavonic Dances Opp. 46 & 72",
+        "url": "https://open.spotify.com/album/5Yb3w5oRyYY5pO6DfPpDbu"
       },
       "artists": [
         {
@@ -304,21 +308,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
           "name": "Czech Philharmonic",
           "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
         },
         {
-          "name": "Sir Charles Mackerras",
-          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
         }
       ],
-      "duration_ms": 385440,
-      "name": "Rusalka, Op. 114 / Act 1: Mesicku na nebi hlubok\u00e9m",
-      "url": "https://open.spotify.com/track/00wWGgq0SV0nfmUTUeb0eu"
+      "duration_ms": 282440,
+      "name": "8 Slavonic Dances, Op. 46, B.83: No. 8 in G Minor (Presto)",
+      "url": "https://open.spotify.com/track/6Y4jMyx3KfDJRYyGNP1LYT"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1179,30 +1179,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
-        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Istv\u00e1n Kert\u00e9sz",
-          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
-        }
-      ],
-      "duration_ms": 680200,
-      "name": "Symphony No. 4 in D Minor, Op. 13, B.41: 2. Andante sostenuto e molto cantabile",
-      "url": "https://open.spotify.com/track/53Ce62vpONLxQUTHCz4yXE"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvo\u0159\u00e1k: Complet Symphonies - Legends - Slavonic Dances & Czech Suite",
         "url": "https://open.spotify.com/album/4X8vf4EUAyDC5NVNRTg8dN"
       },
@@ -1223,6 +1199,30 @@
       "duration_ms": 820000,
       "name": "Dvo\u0159\u00e1k: Symphony No. 1 in C Minor, B. 9 \"The Bells of Zlonice\": IV. Finale. Allegro animato",
       "url": "https://open.spotify.com/track/4QkWBjvOvwEaBZwWG0jfyA"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvor\u00e1k: Symphonies Nos.4-6",
+        "url": "https://open.spotify.com/album/5arfXVZ6Cp45OVLB8EBf0E"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Istv\u00e1n Kert\u00e9sz",
+          "url": "https://open.spotify.com/artist/6QcRHYSvrGdLCS5L7SV4WL"
+        }
+      ],
+      "duration_ms": 680200,
+      "name": "Symphony No. 4 in D Minor, Op. 13, B.41: 2. Andante sostenuto e molto cantabile",
+      "url": "https://open.spotify.com/track/53Ce62vpONLxQUTHCz4yXE"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "DVORAK: Ballad / Capriccio / Silent Woods",
-        "url": "https://open.spotify.com/album/7qPa1XUBnlVGWZlSr2EGhT"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Zhou Qian",
-          "url": "https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n"
-        },
-        {
-          "name": "Edmund Battersby",
-          "url": "https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Zigeunermelodien, Op. 55, B. 104, No. 4. Als die alte Mutter (Songs my Mother Taught Me): Songs my mother taught me, Op. 55, No. 4 [arr. F. Kreisler for violin and piano]",
-      "url": "https://open.spotify.com/track/6J1t4iUFDSFN6xFw5UbESp"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvorak: American Suite / Silent Woods / Prague Waltzes",
         "url": "https://open.spotify.com/album/0nfpohWSOl0iTyiRX6X7LZ"
       },
@@ -1415,8 +1391,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
-        "url": "https://open.spotify.com/album/1JMTUlVte2mMxZ8adiJfsf"
+        "name": "DVORAK: Ballad / Capriccio / Silent Woods",
+        "url": "https://open.spotify.com/album/7qPa1XUBnlVGWZlSr2EGhT"
       },
       "artists": [
         {
@@ -1424,17 +1400,17 @@
           "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
         },
         {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+          "name": "Zhou Qian",
+          "url": "https://open.spotify.com/artist/2iXdgthjBpaempU6MhcC3n"
         },
         {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+          "name": "Edmund Battersby",
+          "url": "https://open.spotify.com/artist/5uRiliqFaektxtLMHVxXWB"
         }
       ],
-      "duration_ms": 292826,
-      "name": "Festival March, Op. 54, B. 88: Festival March, B. 88, Op. 54",
-      "url": "https://open.spotify.com/track/7gKAIiUwA15DcZlAqbTGfE"
+      "duration_ms": 168733,
+      "name": "Zigeunermelodien, Op. 55, B. 104, No. 4. Als die alte Mutter (Songs my Mother Taught Me): Songs my mother taught me, Op. 55, No. 4 [arr. F. Kreisler for violin and piano]",
+      "url": "https://open.spotify.com/track/6J1t4iUFDSFN6xFw5UbESp"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1459,6 +1435,30 @@
       "duration_ms": 161000,
       "name": "10 Legends, Op. 59, B. 122: No. 9, Andante con moto",
       "url": "https://open.spotify.com/track/6vgV33AjnYMUfWdsDAZx4B"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvorak: Hero's Song (A) / Czech Suite / Hussite Overture",
+        "url": "https://open.spotify.com/album/1JMTUlVte2mMxZ8adiJfsf"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 292826,
+      "name": "Festival March, Op. 54, B. 88: Festival March, B. 88, Op. 54",
+      "url": "https://open.spotify.com/track/7gKAIiUwA15DcZlAqbTGfE"
     },
     {
       "added_at": "2022-09-30 04:01:00",

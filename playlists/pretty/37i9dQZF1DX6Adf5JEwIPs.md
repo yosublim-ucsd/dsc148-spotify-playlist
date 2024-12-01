@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Gabito Ballesteros
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,372 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,649 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 32 | [El Mini 6 \- Live](https://open.spotify.com/track/38zCiw84QdMgmdC4Ft7Dh5) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Buknas De Culiacan](https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH) | [El Mini 6 \(Live\)](https://open.spotify.com/album/1f4ExQKwOkIvRTm64O3FoJ) | 2:51 |
 | 33 | [Infiel](https://open.spotify.com/track/6ytw96Cvgtg9VOhuFpmyE3) | [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [Infiel](https://open.spotify.com/album/1KHerDVXxx3AUgxbM9p4LL) | 3:31 |
 | 34 | [Navidad En Mi País](https://open.spotify.com/track/61yeOib2NDGxGCERaMDdxC) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Navidad En Mi País](https://open.spotify.com/album/66Wd0XRWoQ62kwjbY9DnaP) | 2:44 |
-| 35 | [Noche De Paz](https://open.spotify.com/track/0TuvdnMopxGlpFycDGiqqE) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Noche De Paz](https://open.spotify.com/album/4y6uzP77MkFKmLZw9yEpl7) | 3:40 |
+| 35 | [Noche De Paz](https://open.spotify.com/track/0TuvdnMopxGlpFycDGiqqE) | [Priscila y Sus Balas De Plata](https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO) | [Noche De Paz](https://open.spotify.com/album/4y6uzP77MkFKmLZw9yEpl7) | 3:36 |
 | 36 | [Fletes Primo](https://open.spotify.com/track/1z6yurmYS4canlxY9YFWod) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Diverso](https://open.spotify.com/album/3aZHL0BsqDyrlwePDd1JH9) | 3:14 |
 | 37 | [Poncho Konos \- En Vivo](https://open.spotify.com/track/4v9r4klmyD7St5gG8RJChB) | [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn) | [Poncho Konos \(En Vivo\)](https://open.spotify.com/album/6K24qOZGwP266GgFdyZ8eQ) | 3:20 |
 | 38 | [Ya No Soy El Bueno](https://open.spotify.com/track/7FU73OZdXDqLT2Logn0ZxA) | [Inteligencia Norteña](https://open.spotify.com/artist/5x6p1H8xPpWRSEbkO2lHHs), [Empresa Norteña](https://open.spotify.com/artist/4yo96BSl1S9MreZjEfmya8) | [Ya No Soy El Bueno](https://open.spotify.com/album/5IEB86aXViFtWoEILsy2P1) | 3:17 |
