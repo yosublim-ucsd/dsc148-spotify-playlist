@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Greentea Peng
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,445 likes - 110 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,450 likes - 110 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

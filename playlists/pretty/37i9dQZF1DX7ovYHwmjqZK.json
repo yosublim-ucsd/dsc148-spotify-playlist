@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 237033,
+  "num_followers": 237099,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 197760,
-      "name": "Batidinha",
-      "url": "https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Talism\u00e3",
         "url": "https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 246079,
       "name": "Rosa Morena",
       "url": "https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5SSyex1jdJe9h3lbqESv1T"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 197760,
+      "name": "Batidinha",
+      "url": "https://open.spotify.com/track/3KqGO5n8QUERnz0HXcma5S"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Bossa De Urso",
+        "url": "https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO"
+      },
+      "artists": [
+        {
+          "name": "Claudio Fonseca Quartet",
+          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
+        }
+      ],
+      "duration_ms": 194095,
+      "name": "Bossa De Urso",
+      "url": "https://open.spotify.com/track/5O0TcQZyWh61EMnDwOwPQQ"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Giordano Rosa",
         "url": "https://open.spotify.com/album/0SHzAgEULVIquqUqZmm7ni"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 196179,
       "name": "Bela Mo\u00e7a",
       "url": "https://open.spotify.com/track/1UR5ufGKOhG6sUpcTcsXB6"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Bossa De Urso",
-        "url": "https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO"
-      },
-      "artists": [
-        {
-          "name": "Claudio Fonseca Quartet",
-          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
-        }
-      ],
-      "duration_ms": 194095,
-      "name": "Bossa De Urso",
-      "url": "https://open.spotify.com/track/5O0TcQZyWh61EMnDwOwPQQ"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
-      },
-      "artists": [
-        {
-          "name": "Adriana Arias",
-          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
-        }
-      ],
-      "duration_ms": 137424,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Voc\u00ea",
         "url": "https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5"
       },
@@ -415,6 +399,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Um Dia No Mar",
+        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
+      },
+      "artists": [
+        {
+          "name": "Claudio Fonseca Quartet",
+          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
+        }
+      ],
+      "duration_ms": 161901,
+      "name": "Um Dia No Mar",
+      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Rosa Morena EP",
         "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 182453,
       "name": "Flor De Lis",
       "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
+      },
+      "artists": [
+        {
+          "name": "Adriana Arias",
+          "url": "https://open.spotify.com/artist/2GhgatL5H573yU98hb14OK"
+        }
+      ],
+      "duration_ms": 137424,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/7ukeAw6TwDl3dZAnv57Irp"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -471,6 +487,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Samba Doce",
+        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
+      },
+      "artists": [
+        {
+          "name": "Jorge Helder",
+          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Samba Doce",
+      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Vaga-Lumes",
         "url": "https://open.spotify.com/album/76FPkGP3zOyO3RasfgG3aw"
       },
@@ -491,22 +523,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Um Dia No Mar",
-        "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
-      },
-      "artists": [
-        {
-          "name": "Claudio Fonseca Quartet",
-          "url": "https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Um Dia No Mar",
-      "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Novo Bossa Nova",
         "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
       },
@@ -523,18 +539,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Samba Doce",
-        "url": "https://open.spotify.com/album/2vKAuIaTIb9QTQdfoFo6fh"
+        "name": "Navegante - Dudu Sperb Recebe Guinga",
+        "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
       },
       "artists": [
         {
-          "name": "Jorge Helder",
-          "url": "https://open.spotify.com/artist/15xTCSZpFY72P0e47a7jIg"
+          "name": "Guinga",
+          "url": "https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl"
+        },
+        {
+          "name": "Dudu Sperb",
+          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
         }
       ],
-      "duration_ms": 213800,
-      "name": "Samba Doce",
-      "url": "https://open.spotify.com/track/6jEzvYcZm5HIpuGpRXutzf"
+      "duration_ms": 285613,
+      "name": "Choro Pro Z\u00e9",
+      "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -567,26 +587,6 @@
       "duration_ms": 333251,
       "name": "A Paz",
       "url": "https://open.spotify.com/track/55TtEDqfXTOKdjI53ruLpA"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Navegante - Dudu Sperb Recebe Guinga",
-        "url": "https://open.spotify.com/album/0joPmEYgF2tleXLSTt2ZOT"
-      },
-      "artists": [
-        {
-          "name": "Guinga",
-          "url": "https://open.spotify.com/artist/5eTFGhsuJJrmwAF2ttmgOl"
-        },
-        {
-          "name": "Dudu Sperb",
-          "url": "https://open.spotify.com/artist/4jYtPDKiCaUGHZWwua1uSf"
-        }
-      ],
-      "duration_ms": 285613,
-      "name": "Choro Pro Z\u00e9",
-      "url": "https://open.spotify.com/track/3OXUEy3N0ZsQKcxy5x1VwG"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Bahia Com H",
-        "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 264729,
-      "name": "Bahia Com H",
-      "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Estado Febril",
         "url": "https://open.spotify.com/album/7DTS7m1xp1PFlOQwZ0HLyd"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 182765,
       "name": "Me Beija Na Rua",
       "url": "https://open.spotify.com/track/3cvB4ZKg8uHaRrgFGt3zCr"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Bahia Com H",
+        "url": "https://open.spotify.com/album/2UO7PFTEbd7DDwaUVSgVQR"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 264729,
+      "name": "Bahia Com H",
+      "url": "https://open.spotify.com/track/3Wll6TfRJ1bzskJsZQe89P"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "O Melhor Carinho",
-        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
-      },
-      "artists": [
-        {
-          "name": "Elisa Gudin",
-          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
-        }
-      ],
-      "duration_ms": 193324,
-      "name": "O Melhor Carinho",
-      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Veja Bem Meu Bem (Single)",
         "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
       },
@@ -919,22 +903,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Saudade Demais",
-        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
+        "name": "O Melhor Carinho",
+        "url": "https://open.spotify.com/album/4IX9RG24kBaqKZHdn8G59o"
       },
       "artists": [
         {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        },
-        {
-          "name": "Sanny Alves",
-          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
+          "name": "Elisa Gudin",
+          "url": "https://open.spotify.com/artist/0KohRofb3VpXpSrUmcGw4I"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Isabel Tchau",
-      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
+      "duration_ms": 193324,
+      "name": "O Melhor Carinho",
+      "url": "https://open.spotify.com/track/3xd46xZUGiSYimnA2KjpHw"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -963,6 +943,26 @@
       "duration_ms": 263013,
       "name": "Tanto Tempo",
       "url": "https://open.spotify.com/track/40FEe9WzIJDRurSnen9Vxc"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Saudade Demais",
+        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
+      },
+      "artists": [
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        },
+        {
+          "name": "Sanny Alves",
+          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Isabel Tchau",
+      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Muito \u00e0 Vontade",
-        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
-      },
-      "artists": [
-        {
-          "name": "Sammy Silva Band",
-          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
-        }
-      ],
-      "duration_ms": 157268,
-      "name": "Muito \u00e0 Vontade",
-      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Encanto",
         "url": "https://open.spotify.com/album/1Vw26Oqt5OuVmte9VXlvUX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 209254,
       "name": "Encanto",
       "url": "https://open.spotify.com/track/65DMUS1kBbHlMR0SqUB6Gb"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Muito \u00e0 Vontade",
+        "url": "https://open.spotify.com/album/5yqBMDz2J4DxB6TJC8eHV0"
+      },
+      "artists": [
+        {
+          "name": "Sammy Silva Band",
+          "url": "https://open.spotify.com/artist/5uFxpNwHtwV4jrftJ6O8qI"
+        }
+      ],
+      "duration_ms": 157268,
+      "name": "Muito \u00e0 Vontade",
+      "url": "https://open.spotify.com/track/1v8VML0EGDcyTvrXha5eMp"
     },
     {
       "added_at": "2024-10-18 03:00:00",

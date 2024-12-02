@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: Elyanna
 
-2,130 songs - 4 day 21 hr 48 min
+2,131 songs - 4 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Crowded Roomz](https://open.spotify.com/track/0JH3rxj9e7cY8T1QFgr5mQ) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/7aIsJRcf04ZeFiU1Fa70Cq) | 2:52 | 2024-07-17 | 2024-09-05 |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2024-03-06 | 2024-04-19 |
 | [Cruel World](https://open.spotify.com/track/2Y2hR1O1cJYvsWkUJRD8Xy) | [GUMPOONG](https://open.spotify.com/artist/5QTueSjTbOjuiLiGz7APuE) | [Cruel World](https://open.spotify.com/album/31i8l1jymUX8KLVq66XkXO) | 3:47 | 2023-11-08 | 2023-11-30 |
+| [Cruel World](https://open.spotify.com/track/6ayKgleoMF26lvU1Z7wVm7) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 6:39 | 2024-11-20 |  |
 | [Cry In My Gucci](https://open.spotify.com/track/2Yw9sVYyChYVRt6srhnBgI) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Cry In My Gucci](https://open.spotify.com/album/6GF3pedB8XHRjDijXE47LB) | 2:15 | 2022-05-04 | 2022-06-01 |
 | [CTRL + ALT + DEL](https://open.spotify.com/track/7ElC7VjUNl3oJ20Q5OpEh9) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [CTRL + ALT + DEL](https://open.spotify.com/album/2BD9tHOuee052cd0Ufen1o) | 2:33 | 2022-04-06 | 2022-05-05 |
 | [Cud](https://open.spotify.com/track/4vmXjFgX0Q8zSylt7abQ3y) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d) | [Motherlode](https://open.spotify.com/album/3CwpZuAAKevuwxptURDanW) | 3:21 | 2023-07-05 | 2023-08-03 |
@@ -1678,7 +1679,7 @@
 | [Sweet Memories](https://open.spotify.com/track/1xgI05DNppXfcLxCAQkwUB) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Sweet Memories](https://open.spotify.com/album/4f9dQRwzon9EU1MNBZpu0f) | 3:04 | 2023-09-06 | 2023-10-05 |
 | [Swim Away](https://open.spotify.com/track/6B9tR5pGZ4xciYuBcGHAFF) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Swim Away](https://open.spotify.com/album/7LRJ2p6pZsXVfKIyZIfaHE) | 3:25 | 2022-09-07 | 2023-01-05 |
 | [Swimming](https://open.spotify.com/track/0jf7Z8WEKagWMyIIqioial) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq), [Sanjeeta Bhattacharya](https://open.spotify.com/artist/4Kz7utJFZMqzO9lS4mfgvc) | [Swimming](https://open.spotify.com/album/4cmTN5VnKA4aMvsMv0IzTQ) | 3:23 | 2022-04-06 | 2022-05-05 |
-| [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/0il9ELJDirmF299OiChNHi) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 2:34 | 2024-11-06 |  |
+| [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/0il9ELJDirmF299OiChNHi) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR) | 2:34 | 2024-11-06 | 2024-12-02 |
 | [Syntymäpäivä! \(Vielä KRRAN jee\)](https://open.spotify.com/track/558Lsb6twiXsgxhaHxyEoh) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:06 | 2023-10-04 | 2023-11-17 |
 | [Szia](https://open.spotify.com/track/4kMfc4jVR0Eyp5GJJgNgwL) | [Sisi](https://open.spotify.com/artist/6DM0KWyDnsqdKIfFvk6d8f) | [Szia](https://open.spotify.com/album/5Ni6GqciWF1Uy4YiD6cPIw) | 2:27 | 2023-04-05 | 2023-06-08 |
 | [Szörny vagyok](https://open.spotify.com/track/5UohwFbuHzx3Uqm3yf8wnU) | [cserihanna](https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl) | [Szörny vagyok](https://open.spotify.com/album/5JJgpHyOAnaceUH0RKmmI7) | 3:02 | 2024-07-03 | 2024-07-18 |

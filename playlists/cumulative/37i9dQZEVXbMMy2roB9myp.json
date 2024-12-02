@@ -3788,7 +3788,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 242520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/0iwmZVScrpLcbbfHbdJGT0"
@@ -7670,7 +7670,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 166536,
       "name": "HOLA PERDIDA",
       "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
@@ -8436,7 +8436,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -8936,7 +8936,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 134144,
       "name": "La Morocha",
       "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
@@ -10226,7 +10226,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
@@ -13678,7 +13678,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 134930,
       "name": "PELIGROSA",
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
@@ -14418,7 +14418,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 149504,
       "name": "PONTE PERRO | DJ TAO Turreo Sessions #24",
       "url": "https://open.spotify.com/track/0T25HZGE0WwyELWBlXQVbY"
@@ -14454,7 +14454,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 283884,
       "name": "Por Mil Noches",
       "url": "https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN"
@@ -16395,6 +16395,32 @@
     },
     {
       "album": {
+        "name": "Si Las Gatas Se Amotinan",
+        "url": "https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Si Las Gatas Se Amotinan",
+      "url": "https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0"
+    },
+    {
+      "album": {
         "name": "Si Me Sobrara el Tiempo",
         "url": "https://open.spotify.com/album/7EmOzGGWYSu5sH9CfnItkB"
       },
@@ -17020,7 +17046,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 151224,
       "name": "Tal Para Cual",
       "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
@@ -18922,7 +18948,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
@@ -19604,7 +19630,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 181503,
       "name": "Vida De Rock",
       "url": "https://open.spotify.com/track/26y2gBrbiFJIOUjIlSQfdH"

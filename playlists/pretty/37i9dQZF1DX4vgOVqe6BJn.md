@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,995 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,993 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 84 | [Must Be Love](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 |
 | 85 | [Madan \(King\)](https://open.spotify.com/track/0wKfshpKa7P8eUiFdNM5oS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU) | 3:03 |
 | 86 | [On Your Own \(feat\. Elderbrook\)](https://open.spotify.com/track/256Ew29R9ESFknfVXuJvSC) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:43 |
-| 87 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/1WS1Q9G8vj0gPN2aOkZ80A) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cheat Codes](https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy) | 3:58 |
-| 88 | [Sorry I'm Not Sorry](https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Sorry I'm Not Sorry](https://open.spotify.com/album/6oA2zIq7PK3XtfTsJ3yYZr) | 3:34 |
+| 87 | [Sorry I'm Not Sorry](https://open.spotify.com/track/4WxHWaW8cMpaJ3X8KlExkx) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [Sorry I'm Not Sorry](https://open.spotify.com/album/6oA2zIq7PK3XtfTsJ3yYZr) | 3:34 |
+| 88 | [Aquamarine \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/1WS1Q9G8vj0gPN2aOkZ80A) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cheat Codes](https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy) | 3:58 |
 | 89 | [People \(with The Knocks\)](https://open.spotify.com/track/3ZTsdSVrRJCTOnuXHpHK0w) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Club Azur](https://open.spotify.com/album/1F27jLhFpbPMTB8DY15nTK) | 3:44 |
 | 90 | [Sirens \(feat\. Caroline Polachek\)](https://open.spotify.com/track/1bRhcIzZrjpZebM9i91uny) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:58 |
 | 91 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 |

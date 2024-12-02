@@ -1,6 +1,6 @@
 {
   "description": "You're the paracetamol to my headache \u2764\ufe0f",
-  "num_followers": 40467,
+  "num_followers": 40474,
   "original_name": "Lovin' Beats",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-11-29 08:52:07",
       "album": {
+        "name": "May 10th",
+        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
+      },
+      "artists": [
+        {
+          "name": "Ser\u00f8tonin",
+          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
+        }
+      ],
+      "duration_ms": 166530,
+      "name": "May 10th",
+      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
+    },
+    {
+      "added_at": "2024-11-29 08:52:07",
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/1fodM3sDOkOnRyzSJjlSiR"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 150927,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/4HuciJ6VfCUkwoX4YFYj3f"
-    },
-    {
-      "added_at": "2024-11-29 08:52:07",
-      "album": {
-        "name": "May 10th",
-        "url": "https://open.spotify.com/album/5RxjPfYk0COMmRwhHUlnU0"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00f8tonin",
-          "url": "https://open.spotify.com/artist/2WBBOY2ru2VV81lWHw6lzp"
-        }
-      ],
-      "duration_ms": 166530,
-      "name": "May 10th",
-      "url": "https://open.spotify.com/track/7xUCIZhvKkH4aWrR5eUodN"
     },
     {
       "added_at": "2024-11-29 08:52:07",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-11-29 08:52:07",
       "album": {
+        "name": "Relationship",
+        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
+      },
+      "artists": [
+        {
+          "name": "Berri-Tiga",
+          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
+        },
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Relationship",
+      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
+    },
+    {
+      "added_at": "2024-11-29 08:52:07",
+      "album": {
         "name": "JAILER (feat. Victony)",
         "url": "https://open.spotify.com/album/076uOeB8PUTBtoN8Div8et"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 166285,
       "name": "Ouu wee (brown)",
       "url": "https://open.spotify.com/track/1AhteYWd9IcNqUXEktUlfi"
-    },
-    {
-      "added_at": "2024-11-29 08:52:07",
-      "album": {
-        "name": "Relationship",
-        "url": "https://open.spotify.com/album/1ne39n4ZeEvoixru9RKcn8"
-      },
-      "artists": [
-        {
-          "name": "Berri-Tiga",
-          "url": "https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Relationship",
-      "url": "https://open.spotify.com/track/4UDGX1loNNJkNOpJoyKmgT"
     },
     {
       "added_at": "2024-11-29 08:52:07",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-11-29 08:52:07",
       "album": {
-        "name": "Falling/Unleash",
-        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
-    },
-    {
-      "added_at": "2024-11-29 08:52:07",
-      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/3v7xLKK43g9LpS93SeyS2m"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 147169,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/16artMqVuD2b0ZGfgsHsOY"
+    },
+    {
+      "added_at": "2024-11-29 08:52:07",
+      "album": {
+        "name": "Falling/Unleash",
+        "url": "https://open.spotify.com/album/3sUz5UDkvIdDfc75pzf0Kz"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5ubkegvlxFY0q6vtGUwlMI"
     },
     {
       "added_at": "2024-11-29 08:52:07",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-11-29 08:52:07",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        }
-      ],
-      "duration_ms": 178775,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
-    },
-    {
-      "added_at": "2024-11-29 08:52:07",
-      "album": {
         "name": "Keep It Sexy",
         "url": "https://open.spotify.com/album/0N6D5nYseW1trtfnsgNan0"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 159819,
       "name": "Keep It Sexy",
       "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
+    },
+    {
+      "added_at": "2024-11-29 08:52:07",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/2f93joO9kCxFjr4MXH6Qon"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "duration_ms": 178775,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
     },
     {
       "added_at": "2024-11-29 08:52:07",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-11-29 08:52:07",
       "album": {
+        "name": "Wayo",
+        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 149454,
+      "name": "Wayo",
+      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
+    },
+    {
+      "added_at": "2024-11-29 08:52:07",
+      "album": {
         "name": "W",
         "url": "https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2024-11-29 08:52:07",
       "album": {
-        "name": "Wayo",
-        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 149454,
-      "name": "Wayo",
-      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
-    },
-    {
-      "added_at": "2024-11-29 08:52:07",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/35ICZhlKfd2WWuvYN2doTS"
       },
@@ -1235,30 +1235,6 @@
       "duration_ms": 159294,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4UVjjHjlqsO7JwwDJRr7mK"
-    },
-    {
-      "added_at": "2024-11-29 08:52:07",
-      "album": {
-        "name": "Mentali",
-        "url": "https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Krizbeatz",
-          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        }
-      ],
-      "duration_ms": 150278,
-      "name": "Mentali",
-      "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
     },
     {
       "added_at": "2024-11-29 08:52:07",
@@ -1283,18 +1259,26 @@
     {
       "added_at": "2024-11-29 08:52:07",
       "album": {
-        "name": "BOOK OF VASA",
-        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+        "name": "Mentali",
+        "url": "https://open.spotify.com/album/0nbM42jtHIfdfl3KrZD9jH"
       },
       "artists": [
         {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
+      "duration_ms": 150278,
+      "name": "Mentali",
+      "url": "https://open.spotify.com/track/3BDmhDBLqke5Diz3QRnrMO"
     },
     {
       "added_at": "2024-11-29 08:52:07",
@@ -1335,6 +1319,22 @@
       "duration_ms": 158939,
       "name": "CWT (feat. BNXN)",
       "url": "https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb"
+    },
+    {
+      "added_at": "2024-11-29 08:52:07",
+      "album": {
+        "name": "BOOK OF VASA",
+        "url": "https://open.spotify.com/album/3Lz2VJu0knmkDS5QyfPJ6c"
+      },
+      "artists": [
+        {
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5iyo28ttlgg0JvrXZaqSwM"
     },
     {
       "added_at": "2024-11-29 08:52:07",
@@ -1447,6 +1447,42 @@
     {
       "added_at": "2024-11-29 08:52:07",
       "album": {
+        "name": "Sweet For Joy",
+        "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
+      },
+      "artists": [
+        {
+          "name": "Amexin",
+          "url": "https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI"
+        },
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        }
+      ],
+      "duration_ms": 165159,
+      "name": "Sweet For Joy",
+      "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
+    },
+    {
+      "added_at": "2024-11-29 08:52:07",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b"
+      },
+      "artists": [
+        {
+          "name": "Majeeed",
+          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW"
+    },
+    {
+      "added_at": "2024-11-29 08:52:07",
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/7KGoHDGPheSrwC13ETbhmZ"
       },
@@ -1487,42 +1523,6 @@
       "duration_ms": 171073,
       "name": "Azonto Fiesta (feat. Amaarae & Mugeez)",
       "url": "https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw"
-    },
-    {
-      "added_at": "2024-11-29 08:52:07",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b"
-      },
-      "artists": [
-        {
-          "name": "Majeeed",
-          "url": "https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW"
-    },
-    {
-      "added_at": "2024-11-29 08:52:07",
-      "album": {
-        "name": "Sweet For Joy",
-        "url": "https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7"
-      },
-      "artists": [
-        {
-          "name": "Amexin",
-          "url": "https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI"
-        },
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        }
-      ],
-      "duration_ms": 165159,
-      "name": "Sweet For Joy",
-      "url": "https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5"
     },
     {
       "added_at": "2024-11-29 08:52:07",

@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-606 songs - 1 day 7 hr 21 min
+607 songs - 1 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 | 2024-01-19 | 2024-03-09 |
 | [Shiawase](https://open.spotify.com/track/4hAb4pbqgfgwraiHongYZR) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase](https://open.spotify.com/album/64SYVRoKKBGR1wmb6S1l7d) | 3:37 | 2022-05-06 | 2022-07-26 |
 | [Shiawase \- VIP](https://open.spotify.com/track/4mTLnLuHoGhA2xd595OMg1) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Shiawase \(VIP\)](https://open.spotify.com/album/3kjZtcljgpKUuSpTPpNYoZ) | 3:01 | 2022-05-13 | 2022-07-03 |
+| [Shimmy Shake \(That Booty\)](https://open.spotify.com/track/2h113cdbuGT8CLmwppMVES) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [740 Boyz](https://open.spotify.com/artist/1gxehupXVKw95i03TQKppC) | [Shimmy Shake \(That Booty\)](https://open.spotify.com/album/0L3BHBCF1zCpgKY91PLtRK) | 1:57 | 2024-11-22 |  |
 | [Shit We Do For Love](https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Shit We Do For Love](https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7) | 2:47 | 2023-05-05 | 2023-07-23 |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-05-20 | 2024-06-25 |
 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 | 2022-07-14 | 2023-08-02 |
@@ -523,7 +524,7 @@
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-05-06 | 2024-06-25 |
 | [The Girl](https://open.spotify.com/track/4wWe3qI7pyxkNVVA3XTYoN) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [The Girl](https://open.spotify.com/album/0knxvt7eqB0N5rZaLgCBPb) | 4:25 | 2024-06-24 | 2024-08-03 |
 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-07-14 | 2023-07-19 |
-| [the light](https://open.spotify.com/track/2riIujEITom1g8ehblpgzy) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [the light](https://open.spotify.com/album/1OTa8RiyIrKWnAJi0iuC4g) | 2:24 | 2024-10-04 |  |
+| [the light](https://open.spotify.com/track/2riIujEITom1g8ehblpgzy) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [the light](https://open.spotify.com/album/1OTa8RiyIrKWnAJi0iuC4g) | 2:24 | 2024-10-04 | 2024-12-02 |
 | [The One](https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [The One](https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k) | 3:06 | 2022-06-10 | 2022-07-29 |
 | [The Phantom](https://open.spotify.com/track/3kxszc21jqYVcdV5bnwuCp) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Phantom](https://open.spotify.com/album/5JZC4Tg3cmJDKWJ7fMycTK) | 3:00 | 2022-05-06 | 2022-07-20 |
 | [The Point Of Living \(Omnya Remix\)](https://open.spotify.com/track/3AHuzLTJG3pg5XNHa0c2Cl) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [The Point Of Living \(Omnya Remix\)](https://open.spotify.com/album/4io8gCEZV6h2H8TSKcLb9z) | 3:52 | 2024-03-08 | 2024-06-28 |

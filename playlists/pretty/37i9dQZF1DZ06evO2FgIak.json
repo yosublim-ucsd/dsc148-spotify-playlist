@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 48946,
+  "num_followers": 48955,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAABLTp7EW18TjqxCWb1GxtYc",
+  "snapshot_id": "Z0pVgAAAAAAlTaIpcC8YF0DOk+1rlR9U",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "The Blues Had a Baby and They Named It Rock and Roll",
-      "url": "https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
@@ -407,6 +391,38 @@
       "duration_ms": 368773,
       "name": "Caldonia (feat. Muddy Waters) - Concert Version",
       "url": "https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "The Blues Had a Baby and They Named It Rock and Roll",
+      "url": "https://open.spotify.com/track/0uqCSaw89DrglZ8LTgMfvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Short Dress Woman",
+      "url": "https://open.spotify.com/track/5JoNCSJaHppA9EXDhYHmIY"
     },
     {
       "added_at": null,
@@ -435,38 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Short Dress Woman",
-      "url": "https://open.spotify.com/track/5JoNCSJaHppA9EXDhYHmIY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoochie Coochie Man: Complete Chess Masters (Vol. 2: 1952-1958)",
-        "url": "https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 149240,
-      "name": "Sugar Sweet - 1955 Single Version",
-      "url": "https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 400666,
       "name": "Mannish Boy (feat. Muddy Waters) - Concert Version",
       "url": "https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoochie Coochie Man: Complete Chess Masters (Vol. 2: 1952-1958)",
+        "url": "https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 149240,
+      "name": "Sugar Sweet - 1955 Single Version",
+      "url": "https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 183880,
+      "name": "Mad Love (I Want You To Love Me) - Single Version",
+      "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -599,6 +615,22 @@
       "duration_ms": 445026,
       "name": "The Red Rooster",
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 225200,
+      "name": "Mean Old Frisco Blues",
+      "url": "https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV"
     },
     {
       "added_at": null,
@@ -628,25 +660,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Mad Love (I Want You To Love Me) - Single Version",
-      "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 225200,
-      "name": "Mean Old Frisco Blues",
-      "url": "https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV"
+      "duration_ms": 177213,
+      "name": "She Moves Me",
+      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "She Moves Me",
-      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Standing Around Crying - Single Version",
+      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
     },
     {
       "added_at": null,
@@ -771,38 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Standing Around Crying - Single Version",
-      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The London Muddy Waters Sessions",
-        "url": "https://open.spotify.com/album/3TkwYJJO9Q6aE4pNcEF1NC"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 147493,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4GtWHmkHwW32qmmhmhCKwn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 156240,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The London Muddy Waters Sessions",
+        "url": "https://open.spotify.com/album/3TkwYJJO9Q6aE4pNcEF1NC"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 147493,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4GtWHmkHwW32qmmhmhCKwn"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
+        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+        }
+      ],
+      "duration_ms": 284546,
+      "name": "Worried Life Blues - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/56itvurydIT3dgXua4a3zr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 254506,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
-        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
-        }
-      ],
-      "duration_ms": 284546,
-      "name": "Worried Life Blues - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
-      "url": "https://open.spotify.com/track/56itvurydIT3dgXua4a3zr"
     },
     {
       "added_at": null,

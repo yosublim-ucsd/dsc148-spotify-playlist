@@ -1,6 +1,6 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 133366,
+  "num_followers": 133449,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Personal Touch",
-        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 224626,
-      "name": "Personal Touch",
-      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -167,22 +151,6 @@
       "duration_ms": 309386,
       "name": "Slow Jam",
       "url": "https://open.spotify.com/track/15X9hW8V03M3NWVQ4yVAZq"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "Presence",
-        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Loeb",
-          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
-        }
-      ],
-      "duration_ms": 247333,
-      "name": "Window of the Soul",
-      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -203,6 +171,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Loeb",
+          "url": "https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ"
+        }
+      ],
+      "duration_ms": 247333,
+      "name": "Window of the Soul",
+      "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0eiTPubpV0bt3BVvwBxdVk"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 293533,
       "name": "Undun",
       "url": "https://open.spotify.com/track/1jMPe92ML6hOCBJLssrUSh"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Personal Touch",
+        "url": "https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 224626,
+      "name": "Personal Touch",
+      "url": "https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Love's Melody",
-        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
-      },
-      "artists": [
-        {
-          "name": "Kim Waters",
-          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
-        }
-      ],
-      "duration_ms": 332293,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "Love's Melody",
+        "url": "https://open.spotify.com/album/4Dn3xWw9fv1ncRHmxfmaWM"
+      },
+      "artists": [
+        {
+          "name": "Kim Waters",
+          "url": "https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I"
+        }
+      ],
+      "duration_ms": 332293,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/4FfSbVMebj3ot6ZWheAsC2"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 340386,
       "name": "Fields of Gold",
       "url": "https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Songs From The Night Before",
+        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
+      },
+      "artists": [
+        {
+          "name": "David Sanborn",
+          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "Rikke",
+      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -535,22 +551,6 @@
       "duration_ms": 276106,
       "name": "Last Look",
       "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "Songs From The Night Before",
-        "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
-      },
-      "artists": [
-        {
-          "name": "David Sanborn",
-          "url": "https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "Rikke",
-      "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 343093,
-      "name": "That's The Way Of The World",
-      "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 302506,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+      },
+      "artists": [
+        {
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+        }
+      ],
+      "duration_ms": 343093,
+      "name": "That's The Way Of The World",
+      "url": "https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "For The Love",
-        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 280868,
-      "name": "I Just Can't Let Go",
-      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Face To Face (US Version)",
         "url": "https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8"
       },
@@ -963,22 +947,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "Nice & Slow",
         "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
       },
@@ -991,6 +959,38 @@
       "duration_ms": 288800,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "For The Love",
+        "url": "https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 280868,
+      "name": "I Just Can't Let Go",
+      "url": "https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv"
     },
     {
       "added_at": "2024-05-28 08:19:13",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
-        "name": "West Coast Coolin'",
-        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 256693,
-      "name": "Missin' You",
-      "url": "https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
         "name": "The Collected",
         "url": "https://open.spotify.com/album/25GRErR059zar6ytzLzHye"
       },
@@ -1155,6 +1139,38 @@
     {
       "added_at": "2024-05-28 08:19:13",
       "album": {
+        "name": "West Coast Coolin'",
+        "url": "https://open.spotify.com/album/5dAlHUk0CgmwKZygPY8ZJx"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 256693,
+      "name": "Missin' You",
+      "url": "https://open.spotify.com/track/0D1P8mNIcNqqrIPjfrSxeW"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
+        "name": "Hardcastle 2",
+        "url": "https://open.spotify.com/album/2qSKvHHykvwH4ND8WrUqVq"
+      },
+      "artists": [
+        {
+          "name": "Paul Hardcastle",
+          "url": "https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1"
+        }
+      ],
+      "duration_ms": 268452,
+      "name": "Bird Island",
+      "url": "https://open.spotify.com/track/7Hum40xexcHsivuPoY1Bhq"
+    },
+    {
+      "added_at": "2024-05-28 08:19:13",
+      "album": {
         "name": "Guitar Man",
         "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 392506,
       "name": "Sensuality",
       "url": "https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7"
-    },
-    {
-      "added_at": "2024-05-28 08:19:13",
-      "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/7DJXl4D8LV3eXIPWSCqV5b"
-      },
-      "artists": [
-        {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/0vEHMGB81YJ5QYrIIVExH9"
     },
     {
       "added_at": "2024-05-28 08:19:13",

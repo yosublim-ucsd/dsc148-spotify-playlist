@@ -1,12 +1,12 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Summer 23 edition &amp; bonus tracks.",
-  "num_followers": 131589,
+  "num_followers": 131579,
   "original_name": "Obama\u2019s Summer Playlist 2024",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAq3v2pJpy8KJAJQdllKg74upOIt2WX",
+  "snapshot_id": "AAAq45Z6ixesm64gfhLH51bkFSlJwcPZ",
   "tracks": [
     {
       "added_at": "2024-08-12 20:19:27",
@@ -1597,22 +1597,6 @@
       "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
     },
     {
-      "added_at": "2024-11-15 14:35:42",
-      "album": {
-        "name": "Ledge",
-        "url": "https://open.spotify.com/album/35Yhb9cghf6cORBoaA9cel"
-      },
-      "artists": [
-        {
-          "name": "Jony Shelby",
-          "url": "https://open.spotify.com/artist/7yJZUrIFXjKIfJ2pvR8PGE"
-        }
-      ],
-      "duration_ms": 231023,
-      "name": "Ledge",
-      "url": "https://open.spotify.com/track/13TgcF9QZiUsK8ofSJIUis"
-    },
-    {
       "added_at": "2024-11-13 12:56:05",
       "album": {
         "name": "breathe",
@@ -1627,6 +1611,22 @@
       "duration_ms": 174666,
       "name": "breathe",
       "url": "https://open.spotify.com/track/1rRwEeIXxEPnmOGUXoqcXC"
+    },
+    {
+      "added_at": "2024-12-01 14:12:52",
+      "album": {
+        "name": "It Don't Feel Like Christmas",
+        "url": "https://open.spotify.com/album/4Gs1PTYMLQomByWU2v6jaj"
+      },
+      "artists": [
+        {
+          "name": "Laine Kowalski",
+          "url": "https://open.spotify.com/artist/57XUXXbRAgR1AqS45pP9Az"
+        }
+      ],
+      "duration_ms": 167099,
+      "name": "It Don't Feel Like Christmas",
+      "url": "https://open.spotify.com/track/0yobxVQp4HNJpYs9rjInd7"
     },
     {
       "added_at": "2024-11-29 16:59:37",
@@ -1675,22 +1675,6 @@
       "duration_ms": 222857,
       "name": "FRFS",
       "url": "https://open.spotify.com/track/2MOIfm6dznK772rXegA1yp"
-    },
-    {
-      "added_at": "2024-11-19 13:38:18",
-      "album": {
-        "name": "Saturn\u2019s Moon",
-        "url": "https://open.spotify.com/album/3mURA1aKd0D6dob4F1i9oo"
-      },
-      "artists": [
-        {
-          "name": "Justelle",
-          "url": "https://open.spotify.com/artist/5jKZa3GZPDDmC0QFBMMK6Q"
-        }
-      ],
-      "duration_ms": 248934,
-      "name": "Saturn\u2019s Moon",
-      "url": "https://open.spotify.com/track/4zzC42HMdFYdSOwOquBAqm"
     },
     {
       "added_at": "2024-11-22 14:04:51",
@@ -1993,22 +1977,6 @@
       "url": "https://open.spotify.com/track/3sl6k2aUbrbv9gl8cQxzxN"
     },
     {
-      "added_at": "2024-11-19 13:37:00",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/11H14tSuMdP3MUuoJZ66MU"
-      },
-      "artists": [
-        {
-          "name": "Harrison Lipton",
-          "url": "https://open.spotify.com/artist/7q6t9qQSTlcUpHLqTyCSLP"
-        }
-      ],
-      "duration_ms": 183783,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/2vhT56kedOkeaWPFY68Fnu"
-    },
-    {
       "added_at": "2024-11-13 13:56:19",
       "album": {
         "name": "Atlantic City",
@@ -2291,38 +2259,6 @@
       "duration_ms": 241973,
       "name": "Mystery's Golden",
       "url": "https://open.spotify.com/track/7fIRIp4tW1vK5q0jq9fHz8"
-    },
-    {
-      "added_at": "2024-11-20 14:38:20",
-      "album": {
-        "name": "A VECES SE PIERDE | A VECES SE GANA",
-        "url": "https://open.spotify.com/album/3Isetje5C6z12gfyjK5XC4"
-      },
-      "artists": [
-        {
-          "name": "Martox",
-          "url": "https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r"
-        }
-      ],
-      "duration_ms": 157795,
-      "name": "A VECES SE PIERDE | A VECES SE GANA",
-      "url": "https://open.spotify.com/track/76IV0SeSn22UhWtp2Wx8Wc"
-    },
-    {
-      "added_at": "2024-11-20 15:05:35",
-      "album": {
-        "name": "And Then, There Was Us",
-        "url": "https://open.spotify.com/album/4MH4KdZNfVExygGlTVTz9s"
-      },
-      "artists": [
-        {
-          "name": "Romel",
-          "url": "https://open.spotify.com/artist/5xS3wALUzY9L0wPyvhOAJe"
-        }
-      ],
-      "duration_ms": 108860,
-      "name": "Rain Check",
-      "url": "https://open.spotify.com/track/5jYfG3kLK35fCOnO4sdOjX"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2024",

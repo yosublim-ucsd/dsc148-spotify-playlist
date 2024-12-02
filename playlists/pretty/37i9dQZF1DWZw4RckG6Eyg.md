@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 
 > All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,824 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,853 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,13 +66,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 56 | [Love & Death](https://open.spotify.com/track/0XsnNCd73qJLL1BJwVKao3) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [these are not songs, they are stories](https://open.spotify.com/album/7aDyL8GlUNonSXeUeAGfCF) | 3:06 |
 | 57 | [Lucy](https://open.spotify.com/track/1ioc0bvKPoAjGAyZ5lRxvu) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Lucy](https://open.spotify.com/album/2xnazTOASgHULfFAeYhC5Y) | 3:07 |
 | 58 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
-| 59 | [perfume bottle](https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [MAGNANIMITY](https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL) | 3:14 |
-| 60 | [Being Square](https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Being Square](https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE) | 3:07 |
+| 59 | [Being Square](https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Being Square](https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE) | 3:07 |
+| 60 | [perfume bottle](https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0) | [Jaycov](https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV) | [MAGNANIMITY](https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL) | 3:14 |
 | 61 | [Everyone's In Love With You \- Spotify Singles](https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs) | [Everyone's In Love With You \(Spotify Singles\)](https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz) | 2:30 |
 | 62 | [LOO SONG](https://open.spotify.com/track/3F0z2ffuQuc3aTHPI0l2Ku) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [LOO SONG](https://open.spotify.com/album/5WSTzOHLT79yFmXvuh7jZ8) | 2:27 |
 | 63 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
-| 64 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 |
-| 65 | [I Want You](https://open.spotify.com/track/1vk8b7rvvclkgg9CY7r25x) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [I Want You](https://open.spotify.com/album/3Q6ijENRHIELJgva3mgg3c) | 2:50 |
+| 64 | [I Want You](https://open.spotify.com/track/1vk8b7rvvclkgg9CY7r25x) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [I Want You](https://open.spotify.com/album/3Q6ijENRHIELJgva3mgg3c) | 2:50 |
+| 65 | [from here on out](https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [from here on out](https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM) | 4:31 |
 | 66 | [Clovers](https://open.spotify.com/track/5k8oU9p71fIhYiTCPudwdh) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [I'm Green](https://open.spotify.com/album/1upKvbsQau0k852Ol079dD) | 4:51 |
 | 67 | [Opposites don't attract](https://open.spotify.com/track/4WuBRsw8NvN8gAjiQGfVhM) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Fortune's child](https://open.spotify.com/album/4CjY3RnccWWHglcx2D6Hwr) | 2:50 |
 | 68 | [Full On](https://open.spotify.com/track/7KXtsy8RVVeVL5vj6twTTV) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 2:43 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 85 | [Jelsy](https://open.spotify.com/track/0a01pZuz12ELhxMyzYuQoF) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Jelsy](https://open.spotify.com/album/7npp2bUGWig9s5OHeHR6Cn) | 3:48 |
 | 86 | [Big Songbirds Don't Cry](https://open.spotify.com/track/7Ba8C8e8PJF7C0fesRvNvz) | [Superviolet](https://open.spotify.com/artist/49B8mk1ywQNFmIYthC2p8P) | [Infinite Spring](https://open.spotify.com/album/4SzsXZYL0FRUgwLYmqTUbC) | 3:54 |
 | 87 | [IKWYDLS](https://open.spotify.com/track/1zjorGk3YpcdFRYRRuPzpO) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [baby, I do / IKWYDLS](https://open.spotify.com/album/4kgpigDu7eU9jUEUBYehmX) | 2:31 |
-| 88 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 |
-| 89 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 |
+| 88 | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [DON'T YOU THINK IT'D BE NICE ?](https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw) | 3:10 |
+| 89 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 |
 | 90 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 |
 | 91 | [Oropendola](https://open.spotify.com/track/6NfjC2ToSc0hq1EdOB4sJK) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Oropendola](https://open.spotify.com/album/2Jgj1i5GJf6Qhkw5kmnhq7) | 4:15 |
 | 92 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4RckG6Eyg.md) - [plain]
 | 96 | [Bleed](https://open.spotify.com/track/6rv9youaC5GcRiag510DL7) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Bleed](https://open.spotify.com/album/7hWtfF7nCMZsMwwKoQOMdv) | 2:57 |
 | 97 | [ifshitfuq](https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [ifshitfuq](https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja) | 3:50 |
 | 98 | [sideline, red wine lover](https://open.spotify.com/track/4tCwtpj5QR1FLpCevAuGx3) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [you, green](https://open.spotify.com/album/3n22PGmZoD2DTEr9AuBws4) | 2:47 |
-| 99 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
-| 100 | [a stranger with my face](https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [a stranger with my face](https://open.spotify.com/album/1zVpR9o0oK1XcdeksYkWBP) | 3:51 |
+| 99 | [a stranger with my face](https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [a stranger with my face](https://open.spotify.com/album/1zVpR9o0oK1XcdeksYkWBP) | 3:51 |
+| 100 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
 
 Snapshot ID: `Z0hVWQAAAAD8wF/Pfb8Kq93ydgfhWop3`

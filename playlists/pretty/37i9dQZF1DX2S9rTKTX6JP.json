@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 702658,
+  "num_followers": 702826,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -447,18 +447,18 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Ten Thousand Fists",
-        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+        "name": "Somebody Told Me",
+        "url": "https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
         }
       ],
-      "duration_ms": 287066,
-      "name": "Land of Confusion",
-      "url": "https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE"
+      "duration_ms": 199477,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Somebody Told Me",
-        "url": "https://open.spotify.com/album/6pCLV8Yt4VGIHuFj3Y1XcS"
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 199477,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R"
+      "duration_ms": 287066,
+      "name": "Land of Confusion",
+      "url": "https://open.spotify.com/track/4ClGNWLK9vZMBtO0CpnyOE"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Hits Back",
-        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 163240,
-      "name": "I Fought the Law",
-      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 109900,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 163240,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "Running Up That Hill",
         "url": "https://open.spotify.com/album/7a0mQ4UEg2hTop49LkmNuq"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+        "name": "Simple Man",
+        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Waiting For Love - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+      "duration_ms": 268560,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -955,22 +971,6 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "Simple Man",
-        "url": "https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 268560,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Lest We Forget - The Best Of",
-        "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
-      },
-      "artists": [
-        {
-          "name": "Marilyn Manson",
-          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Sweet Dreams (Are Made Of This)",
-      "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Wild Card/A Word To The Wise",
         "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 187826,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Lest We Forget - The Best Of",
+        "url": "https://open.spotify.com/album/7fmOTYDQn9DIXCy1YDrl4S"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Manson",
+          "url": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Sweet Dreams (Are Made Of This)",
+      "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 189248,
+      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "The Girl With the Dragon Tattoo",
         "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
-      "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Fortunate Son",
         "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 203520,
       "name": "Fortunate Son",
       "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "The Chain",
+        "url": "https://open.spotify.com/album/053OECifPxrpiOKbiaP5Nm"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 252066,
+      "name": "The Chain",
+      "url": "https://open.spotify.com/track/5F29kjOr9bYTUtSPLoixHB"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "The Chain",
-        "url": "https://open.spotify.com/album/053OECifPxrpiOKbiaP5Nm"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "The Chain",
-      "url": "https://open.spotify.com/track/5F29kjOr9bYTUtSPLoixHB"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Miss Murder (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
-        "url": "https://open.spotify.com/album/7gQot3rgf5B3A3lL4muhAp"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 180149,
-      "name": "Miss Murder - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
-      "url": "https://open.spotify.com/track/2pXqBJbCbDQ6rmmfpdAKst"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Music From The Motion Picture Not Another Teen Movie",
         "url": "https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 242133,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Miss Murder (From The \u201cAmerican Psycho\u201d Comic Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7gQot3rgf5B3A3lL4muhAp"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 180149,
+      "name": "Miss Murder - From The \u201cAmerican Psycho\u201d Comic Series Soundtrack",
+      "url": "https://open.spotify.com/track/2pXqBJbCbDQ6rmmfpdAKst"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
-      },
-      "artists": [
-        {
-          "name": "Matt Bellamy",
-          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
-        }
-      ],
-      "duration_ms": 195345,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "I'm The Man",
         "url": "https://open.spotify.com/album/2cSNQGicM5NU7WRBBkKS41"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 241472,
       "name": "I'm The Man",
       "url": "https://open.spotify.com/track/23M1drWVpUCWb0bDy6fznD"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/2pq4CRO6jIEhmiRobPEBNs"
+      },
+      "artists": [
+        {
+          "name": "Matt Bellamy",
+          "url": "https://open.spotify.com/artist/5M76Uwozk3WE3oYE8TNKoR"
+        }
+      ],
+      "duration_ms": 195345,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/4apfnb6UxfoqQNc9hzsMay"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "The Best Of Us For The Rest Of Us",
-        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/3SoKTpu4wPnMItqjA8Ff6p"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 187075,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/5hdQmkxuRkkMfmT15cuISA"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "The Best Of Us For The Rest Of Us",
+        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
+      },
+      "artists": [
+        {
+          "name": "Reel Big Fish",
+          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
     },
     {
       "added_at": "2024-11-08 21:08:22",

@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Berre.
 
-1,756 songs - 3 day 23 hr 27 min
+1,757 songs - 3 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,7 +368,7 @@
 | [Despechada \(Cover\) \- En Vivo](https://open.spotify.com/track/0U4gcE2BhQ0GCMvP9bQKRe) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [La Muela \- LBC](https://open.spotify.com/album/0wmTMFAyJNcLL6PbaVOWEB) | 2:52 | 2024-05-03 | 2024-08-24 |
 | [DETOX](https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [DETOX](https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00) | 2:34 | 2024-08-16 | 2024-10-12 |
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-06-07 | 2024-11-30 |
-| [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 |  |
+| [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 | 2024-12-02 |
 | [DIADREAMER](https://open.spotify.com/track/4kGGwhlq124kTrHLIivIbi) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/1tqbAQ13c9u81T3MCZwf3E) | 3:04 | 2022-04-07 | 2022-07-29 |
 | [DIADREAMER](https://open.spotify.com/track/7MFWP8pH2bSMvDeCdijnVv) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:04 | 2022-06-29 | 2022-08-02 |
 | [Diamanti \(feat\. Heartman & VillaBanks\) \- Remix](https://open.spotify.com/track/2XhvzUs8rnF71FBadXRaCK) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Wave Deluxe](https://open.spotify.com/album/7lHPDAKjXWGliwyaNHK4fj) | 2:38 | 2022-06-29 | 2022-07-29 |
@@ -738,6 +738,7 @@
 | [January](https://open.spotify.com/track/1q8EiwLjJaMItQqMBjf3Tl) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [January](https://open.spotify.com/album/6T5T4i3QJ3obyHDddhjM3I) | 4:13 | 2024-08-02 |  |
 | [Jauh](https://open.spotify.com/track/2iECqZwGqfoSTjJ0Mal8Cn) | [Aziz Harun](https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf) | [Jauh](https://open.spotify.com/album/0U8j5HBVsgyRJVedu4XrSD) | 3:19 | 2023-05-30 | 2023-10-06 |
 | [Je suis fan](https://open.spotify.com/track/3mPCozV61t2CENgcBNOyJ8) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [DRAMA](https://open.spotify.com/album/07Vv8jai6rYMEj7eL0MZTy) | 2:48 | 2022-03-24 | 2022-08-02 |
+| [je vais bien.](https://open.spotify.com/track/4M2uHIBJvICnXGUgeUiJgw) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [je vais bien.](https://open.spotify.com/album/2lLEnE54zIlcYvQCK3D3j7) | 2:58 | 2024-11-29 |  |
 | [jealous over you](https://open.spotify.com/track/2ldcIznpTSRjxoDsNpM3wF) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [logic mess](https://open.spotify.com/album/5O73HFP1TRW52nqawnv7iz) | 4:17 | 2022-09-08 | 2023-05-31 |
 | [Jhol](https://open.spotify.com/track/4XTgFBxBHN6var1BzAgE1m) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Jhol](https://open.spotify.com/album/7grtFo2pj5wwRTM7c6NI9y) | 4:25 | 2024-07-18 |  |
 | [Jogi](https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:16 | 2024-03-15 | 2024-05-25 |

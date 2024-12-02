@@ -939,6 +939,38 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
+      },
+      "artists": [
+        {
+          "name": "CLEVER CLOVER",
+          "url": "https://open.spotify.com/artist/72iQfL3quEHQPt216TZ1t3"
+        }
+      ],
+      "duration_ms": 254360,
+      "name": "Shamrock Vivace",
+      "url": "https://open.spotify.com/track/7p9IccimWQHOevQ9JCMXct"
+    },
+    {
+      "added_at": "2024-10-01 16:39:08",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
+        "url": "https://open.spotify.com/album/1aORtrNtFix8006Ft2iydu"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "\u30c1\u30e7\u30fc \u5143\u6c17Show \u30a2\u30a4\u30c9\u30ebch@ng!",
+      "url": "https://open.spotify.com/track/0Dalla51NLjsYIdOCoidYI"
+    },
+    {
+      "added_at": "2024-10-01 16:39:08",
+      "album": {
         "name": "THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans",
         "url": "https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ"
       },
@@ -967,18 +999,18 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
-        "url": "https://open.spotify.com/album/1aORtrNtFix8006Ft2iydu"
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
       },
       "artists": [
         {
-          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
-          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u5bfa\u5ddd\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/2yaHlKyuUEbiIZyWO2klOV"
         }
       ],
-      "duration_ms": 193106,
-      "name": "\u30c1\u30e7\u30fc \u5143\u6c17Show \u30a2\u30a4\u30c9\u30ebch@ng!",
-      "url": "https://open.spotify.com/track/0Dalla51NLjsYIdOCoidYI"
+      "duration_ms": 255933,
+      "name": "\u6d41\u661f\u7fa4",
+      "url": "https://open.spotify.com/track/5p9K3smE2URccPO3PIr32x"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1011,18 +1043,18 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
-        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 03",
+        "url": "https://open.spotify.com/album/70sYVHFzCA8y12VBdQaHax"
       },
       "artists": [
         {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u5bfa\u5ddd\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/2yaHlKyuUEbiIZyWO2klOV"
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
         }
       ],
-      "duration_ms": 255933,
-      "name": "\u6d41\u661f\u7fa4",
-      "url": "https://open.spotify.com/track/5p9K3smE2URccPO3PIr32x"
+      "duration_ms": 267560,
+      "name": "\u6e80\u8179\u81f3\u6975\u30d5\u30eb\u30b3\u30a9\u30b9",
+      "url": "https://open.spotify.com/track/74iCadn1JR5DB4ZtAwvXXQ"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1043,18 +1075,26 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 03",
-        "url": "https://open.spotify.com/album/70sYVHFzCA8y12VBdQaHax"
+        "name": "\u541b\u3068\u306e\u660e\u65e5\u3092\u9858\u3046\u304b\u3089",
+        "url": "https://open.spotify.com/album/2tVehWE9N04E1thhRXZoAo"
       },
       "artists": [
         {
-          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
-          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
         }
       ],
-      "duration_ms": 267560,
-      "name": "\u6e80\u8179\u81f3\u6975\u30d5\u30eb\u30b3\u30a9\u30b9",
-      "url": "https://open.spotify.com/track/74iCadn1JR5DB4ZtAwvXXQ"
+      "duration_ms": 277653,
+      "name": "\u30a2\u30a4\u30eb - Harmonized ver.",
+      "url": "https://open.spotify.com/track/57fBFUFP9jHM2fifh7fCRw"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1083,8 +1123,8 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "\u541b\u3068\u306e\u660e\u65e5\u3092\u9858\u3046\u304b\u3089",
-        "url": "https://open.spotify.com/album/2tVehWE9N04E1thhRXZoAo"
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 04",
+        "url": "https://open.spotify.com/album/6Mb1y1zYO6iaCNDe9TxAPg"
       },
       "artists": [
         {
@@ -1092,17 +1132,13 @@
           "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
         },
         {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
-        },
-        {
-          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
-          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
         }
       ],
-      "duration_ms": 277653,
-      "name": "\u30a2\u30a4\u30eb - Harmonized ver.",
-      "url": "https://open.spotify.com/track/57fBFUFP9jHM2fifh7fCRw"
+      "duration_ms": 248466,
+      "name": "\u6df1\u5c64\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/52lcYOee3SaKuEwOd4XkCv"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1135,22 +1171,22 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 04",
-        "url": "https://open.spotify.com/album/6Mb1y1zYO6iaCNDe9TxAPg"
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
+        "url": "https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17"
       },
       "artists": [
         {
-          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
-          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
         },
         {
-          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
         }
       ],
-      "duration_ms": 248466,
-      "name": "\u6df1\u5c64\u30de\u30fc\u30e1\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/52lcYOee3SaKuEwOd4XkCv"
+      "duration_ms": 271813,
+      "name": "\u30cf\u30fc\u30e2\u30cb\u30af\u30b9",
+      "url": "https://open.spotify.com/track/4FltFjDJkiqVWljtrW5u9P"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1187,22 +1223,26 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
-        "url": "https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17"
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm",
+        "url": "https://open.spotify.com/album/5AI4ZKsvVtfMTj0TknJjBE"
       },
       "artists": [
         {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
         },
         {
-          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
-          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
         }
       ],
-      "duration_ms": 271813,
-      "name": "\u30cf\u30fc\u30e2\u30cb\u30af\u30b9",
-      "url": "https://open.spotify.com/track/4FltFjDJkiqVWljtrW5u9P"
+      "duration_ms": 251693,
+      "name": "Bonnes! Bonnes!! Vacances!!!",
+      "url": "https://open.spotify.com/track/5nYDqfgyUYrxT9WgQJVwY0"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1231,30 +1271,6 @@
       "duration_ms": 240706,
       "name": "\u7523\u58f0\u3068\u30af\u30e9\u30d6",
       "url": "https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa"
-    },
-    {
-      "added_at": "2024-10-01 16:39:08",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm",
-        "url": "https://open.spotify.com/album/5AI4ZKsvVtfMTj0TknJjBE"
-      },
-      "artists": [
-        {
-          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
-          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
-        },
-        {
-          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
-          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
-        },
-        {
-          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
-          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
-        }
-      ],
-      "duration_ms": 251693,
-      "name": "Bonnes! Bonnes!! Vacances!!!",
-      "url": "https://open.spotify.com/track/5nYDqfgyUYrxT9WgQJVwY0"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
-        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
-        "url": "https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx"
-      },
-      "artists": [
-        {
-          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
-          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
-      "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
-    },
-    {
-      "added_at": "2024-10-01 16:39:08",
-      "album": {
         "name": "VOY@GER (\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u76e4)",
         "url": "https://open.spotify.com/album/5qK9kVY1VwTb2TfuK8oumE"
       },
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-10-01 16:39:08",
       "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
+        "url": "https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx"
+      },
+      "artists": [
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
+      "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
+    },
+    {
+      "added_at": "2024-10-01 16:39:08",
+      "album": {
         "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
         "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
       },
@@ -1415,46 +1431,6 @@
       "duration_ms": 200600,
       "name": "\u604b\u306eLesson\u521d\u7d1a\u7de8",
       "url": "https://open.spotify.com/track/2MFXCcrr20fqbLzPnrCrIp"
-    },
-    {
-      "added_at": "2024-10-01 16:39:08",
-      "album": {
-        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony",
-        "url": "https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi"
-      },
-      "artists": [
-        {
-          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
-          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
-        },
-        {
-          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
-          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
-        },
-        {
-          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
-          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "\u5f85\u3061\u307c\u3046\u3051\u306eLacrima",
-      "url": "https://open.spotify.com/track/1mKdS3XHTWTHOksIS3r4it"
-    },
-    {
-      "added_at": "2024-10-01 16:39:08",
-      "album": {
-        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
-        "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
-      },
-      "artists": [
-        {
-          "name": "CLEVER CLOVER",
-          "url": "https://open.spotify.com/artist/72iQfL3quEHQPt216TZ1t3"
-        }
-      ],
-      "duration_ms": 254360,
-      "name": "Shamrock Vivace",
-      "url": "https://open.spotify.com/track/7p9IccimWQHOevQ9JCMXct"
     },
     {
       "added_at": "2024-10-01 16:39:08",
@@ -1483,6 +1459,30 @@
       "duration_ms": 301573,
       "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 - Brand New Ver.",
       "url": "https://open.spotify.com/track/6qik4NVB7AHXb6MyeWafRC"
+    },
+    {
+      "added_at": "2024-10-01 16:39:08",
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony",
+        "url": "https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "\u5f85\u3061\u307c\u3046\u3051\u306eLacrima",
+      "url": "https://open.spotify.com/track/1mKdS3XHTWTHOksIS3r4it"
     },
     {
       "added_at": "2024-10-01 16:39:08",

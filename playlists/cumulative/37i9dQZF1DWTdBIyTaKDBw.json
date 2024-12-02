@@ -653,6 +653,28 @@
     },
     {
       "album": {
+        "name": "Beyond the Waves",
+        "url": "https://open.spotify.com/album/2JNdOx7Y8ESNTPawE3ATOr"
+      },
+      "artists": [
+        {
+          "name": "Amudo",
+          "url": "https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan"
+        },
+        {
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
+        }
+      ],
+      "date_added": "2024-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Beyond the Waves",
+      "url": "https://open.spotify.com/track/6uB4JeqeiGxYn1pswrC7rX"
+    },
+    {
+      "album": {
         "name": "Sunday Vibes",
         "url": "https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf"
       },
@@ -1912,7 +1934,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 121547,
       "name": "Gardens of Suzhou",
       "url": "https://open.spotify.com/track/76RjpMjFxsvHOTA5Qj3D5C"

@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 216316,
+  "num_followers": 216424,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "The Head On The Door (Remastered)",
+        "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 203266,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -171,18 +187,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "The Head On The Door (Remastered)",
-        "url": "https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
         }
       ],
-      "duration_ms": 203266,
-      "name": "Close To Me",
-      "url": "https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z"
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2023-11-10 17:08:25",
@@ -199,22 +215,6 @@
       "duration_ms": 236625,
       "name": "Talking In Your Sleep (2023 Remaster)",
       "url": "https://open.spotify.com/track/7fRvtXvJMpGfTLdF0M09a1"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "It's My Life - 1997 Remaster",
-      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -251,22 +251,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "The Head On The Door",
-        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Inbetween Days",
-      "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "The Best Of Men At Work: Contraband",
         "url": "https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 220866,
       "name": "Down Under",
       "url": "https://open.spotify.com/track/46RVKt5Edm1zl0rXhPJZxz"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "The Head On The Door",
+        "url": "https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Inbetween Days",
+      "url": "https://open.spotify.com/track/4CRpOsjhvgxjF7rQufmyZ1"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -457,6 +457,22 @@
       "url": "https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L"
     },
     {
+      "added_at": "2024-07-12 13:30:25",
+      "album": {
+        "name": "Some Great Reward (Deluxe)",
+        "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 231973,
+      "name": "People Are People",
+      "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
+    },
+    {
       "added_at": "2021-09-28 03:14:02",
       "album": {
         "name": "Greatest Hits",
@@ -489,20 +505,20 @@
       "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD"
     },
     {
-      "added_at": "2024-07-12 13:30:25",
+      "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Some Great Reward (Deluxe)",
-        "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 231973,
-      "name": "People Are People",
-      "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
+      "duration_ms": 231573,
+      "name": "Cities In Dust",
+      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -523,22 +539,6 @@
       "duration_ms": 128426,
       "name": "Where Eagles Dare",
       "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Cities In Dust",
-      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
-      },
-      "artists": [
-        {
-          "name": "Patti Smith",
-          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Dancing Barefoot",
-      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Through The Looking Glass (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 309306,
       "name": "The Passenger",
       "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Dancing Barefoot",
+      "url": "https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/09OpntwPHuNICsyEt1ETpE"
     },
     {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Hyaena (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Dear Prudence",
-      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
-    },
-    {
       "added_at": "2024-04-16 00:45:21",
       "album": {
         "name": "Treasure",
@@ -783,22 +767,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Fragile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 510573,
-      "name": "Roundabout - 2003 Remaster",
-      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/7Fyk2UVvhtjsQOyentgLzQ"
       },
@@ -815,8 +783,8 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Juju",
-        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
+        "name": "Hyaena (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/0PF97T9K2E95PV4AbICNjr"
       },
       "artists": [
         {
@@ -824,9 +792,25 @@
           "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 185946,
-      "name": "Arabian Knights",
-      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
+      "duration_ms": 228200,
+      "name": "Dear Prudence",
+      "url": "https://open.spotify.com/track/34tFidHrETMAjsiK87WVVW"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Fragile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 510573,
+      "name": "Roundabout - 2003 Remaster",
+      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -893,6 +877,22 @@
       "url": "https://open.spotify.com/track/173PnvZh4grHTf31DPXDbJ"
     },
     {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Sugar Tax",
+        "url": "https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "duration_ms": 225826,
+      "name": "Sailing On The Seven Seas",
+      "url": "https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp"
+    },
+    {
       "added_at": "2024-04-16 00:45:21",
       "album": {
         "name": "Treasure",
@@ -911,6 +911,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Juju",
+        "url": "https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "Arabian Knights",
+      "url": "https://open.spotify.com/track/2o1Deu2r99ZkkQwQ27LnZd"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "London Town 1983-1993",
         "url": "https://open.spotify.com/album/5K5vUTocXxi9OTkSDQEbx8"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 297066,
       "name": "This Is the Day",
       "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Sugar Tax",
-        "url": "https://open.spotify.com/album/1J8e1dLKVmZbsyxpGa9lGg"
-      },
-      "artists": [
-        {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Sailing On The Seven Seas",
-      "url": "https://open.spotify.com/track/30R6QDPKZCeepPj3hSmQvp"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/6YrHQ3Uv9YXK2gJNVTlT8P"
     },
     {
+      "added_at": "2024-04-16 00:45:21",
+      "album": {
+        "name": "The Pink Opaque",
+        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Pearly-Dewdrops' Drops - 7\" Version",
+      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
+    },
+    {
       "added_at": "2021-09-28 03:14:02",
       "album": {
         "name": "Be Yourself Tonight",
@@ -1059,22 +1075,6 @@
       "duration_ms": 263200,
       "name": "I Go to Extremes",
       "url": "https://open.spotify.com/track/16LYB0chkPiblx33djiNTt"
-    },
-    {
-      "added_at": "2024-04-16 00:45:21",
-      "album": {
-        "name": "The Pink Opaque",
-        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Pearly-Dewdrops' Drops - 7\" Version",
-      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/2d1vGDzaGWbCkupDsPniA7"
     },
     {
+      "added_at": "2024-04-16 00:45:21",
+      "album": {
+        "name": "Head Over Heels",
+        "url": "https://open.spotify.com/album/52MMrcUtar0coGVHULkuQ9"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Sugar Hiccup",
+      "url": "https://open.spotify.com/track/28gz2W2KMsn1QnvojoWPqv"
+    },
+    {
       "added_at": "2024-07-12 13:30:25",
       "album": {
         "name": "Greatest Hits",
@@ -1195,22 +1211,6 @@
       "duration_ms": 292080,
       "name": "Twist in My Sobriety",
       "url": "https://open.spotify.com/track/651In9fY9BregQWY0cF7l2"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Symphonicities",
-        "url": "https://open.spotify.com/album/1dpyonY9ev2z5a7rwfERZh"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 217546,
-      "name": "Roxanne",
-      "url": "https://open.spotify.com/track/6AyMKzLmlnAfsti79lLwth"
     },
     {
       "added_at": "2021-09-28 03:14:02",

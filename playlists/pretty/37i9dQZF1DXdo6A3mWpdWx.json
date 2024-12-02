@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 969905,
+  "num_followers": 970535,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Black Sunday",
-        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
-      },
-      "artists": [
-        {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Insane in the Brain",
-      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 191240,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -755,6 +755,26 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
+      },
+      "artists": [
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        },
+        {
+          "name": "Freedom Williams",
+          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
+        }
+      ],
+      "duration_ms": 244093,
+      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "The Writing's On The Wall",
         "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 272106,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
-      },
-      "artists": [
-        {
-          "name": "C & C Music Factory",
-          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
-        },
-        {
-          "name": "Freedom Williams",
-          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
-        }
-      ],
-      "duration_ms": 244093,
-      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
-      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
-      },
-      "artists": [
-        {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
-        }
-      ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Tarpeia",
         "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 229333,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "1992 - 2012",
         "url": "https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 456480,
       "name": "Born Slippy (Nuxx)",
       "url": "https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Totally Krossed Out",
+        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross",
+          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1219,38 +1219,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Men In Black - From \"Men In Black\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Movin' Melodies",
         "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
       },
@@ -1267,6 +1235,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "PopArt: The Hits",
         "url": "https://open.spotify.com/album/5IVJbSDDWbGjKbBczyifFl"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 304080,
       "name": "Go West - 2003 Remaster",
       "url": "https://open.spotify.com/track/5Klo65Y9uouLjNVDV3pqh7"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Men In Black - From \"Men In Black\" Soundtrack",
+      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "'N Sync UK Version",
-        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200440,
-      "name": "I Want You Back - Radio Edit",
-      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "The Greatest Hits",
         "url": "https://open.spotify.com/album/3bRdFxQZdU5g6VjLq8KaU7"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 250626,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/0CtkjgZpkgnW7U6WmHsakD"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "'N Sync UK Version",
+        "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "I Want You Back - Radio Edit",
+      "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Music For The People",
-        "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
-      },
-      "artists": [
-        {
-          "name": "Marky Mark And The Funky Bunch",
-          "url": "https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV"
-        },
-        {
-          "name": "Loleatta Holloway",
-          "url": "https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Music For The People",
+        "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
+      },
+      "artists": [
+        {
+          "name": "Marky Mark And The Funky Bunch",
+          "url": "https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV"
+        },
+        {
+          "name": "Loleatta Holloway",
+          "url": "https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Forever Faithless - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 208506,
+      "name": "God Is a DJ",
+      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Boombastic",
         "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 238360,
       "name": "In The Summertime",
       "url": "https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Forever Faithless - The Greatest Hits",
-        "url": "https://open.spotify.com/album/2Vcq2BbEjHFdfodZ8hlcZL"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 208506,
-      "name": "God Is a DJ",
-      "url": "https://open.spotify.com/track/1pUFYb9peWkK8m1WCKNRjp"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
+      },
+      "artists": [
+        {
+          "name": "Alcazar",
+          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Crying at the Discoteque - Radio Edit",
+      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "Peaceful Journey",
         "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
-      },
-      "artists": [
-        {
-          "name": "Alcazar",
-          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Crying at the Discoteque - Radio Edit",
-      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2139,18 +2139,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+        "name": "Move Until We Fly",
+        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
       },
       "artists": [
         {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+          "name": "Nick Kamen",
+          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
         }
       ],
-      "duration_ms": 235226,
-      "name": "Motownphilly",
-      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
+      "duration_ms": 240773,
+      "name": "I Promised Myself",
+      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2171,18 +2171,18 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Move Until We Fly",
-        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
       },
       "artists": [
         {
-          "name": "Nick Kamen",
-          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
         }
       ],
-      "duration_ms": 240773,
-      "name": "I Promised Myself",
-      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+      "duration_ms": 235226,
+      "name": "Motownphilly",
+      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "The Best Of Crystal Waters",
-        "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "100% Pure Love",
-      "url": "https://open.spotify.com/track/0dfQwyoZoS9LgQiU6AJO7f"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "In Stereo",
         "url": "https://open.spotify.com/album/21Z00Rt15tDCUM4mStVNKI"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 306000,
       "name": "Freestyler",
       "url": "https://open.spotify.com/track/2vlgOAH3M8Fmo19wOjeRyw"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "The Best Of Crystal Waters",
+        "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "100% Pure Love",
+      "url": "https://open.spotify.com/track/0dfQwyoZoS9LgQiU6AJO7f"
     },
     {
       "added_at": "2024-07-12 16:20:49",

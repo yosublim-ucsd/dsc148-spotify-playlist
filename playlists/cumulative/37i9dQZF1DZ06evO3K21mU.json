@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "Friday Night Lights",
+        "url": "https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263765,
+      "name": "Before I'm Gone",
+      "url": "https://open.spotify.com/track/5isZz9H9yWJgOjFxrTeZm6"
+    },
+    {
+      "album": {
         "name": "Blow for Blow (feat. J. Cole)",
         "url": "https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 178808,
       "name": "I'm The Man",
       "url": "https://open.spotify.com/track/2E84A67xGL7tMSgRNUm5fO"

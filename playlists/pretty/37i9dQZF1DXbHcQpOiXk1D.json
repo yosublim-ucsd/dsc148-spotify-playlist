@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Yazmin Lacey",
-  "num_followers": 319175,
+  "num_followers": 319225,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Save You",
+        "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        }
+      ],
+      "duration_ms": 132320,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 262306,
       "name": "No One's Watching Me - feat. Olivia Dean",
       "url": "https://open.spotify.com/track/0g8prUwwlED3F3y0ZNe8p0"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Save You",
-        "url": "https://open.spotify.com/album/60jlGTsXqFf0B90Idslk0a"
-      },
-      "artists": [
-        {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        }
-      ],
-      "duration_ms": 132320,
-      "name": "Save You",
-      "url": "https://open.spotify.com/track/0UlfVs1oZavP61LzvIVhGs"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -271,26 +271,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
-      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Chaser",
         "url": "https://open.spotify.com/album/23WJPRbfvQ5bSi0l7kPJpJ"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 144358,
       "name": "Keep me close.",
       "url": "https://open.spotify.com/track/0BPtv73plLJnoVb3C0qrlk"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
+      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Dance, No One's Watching",
+        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 202360,
+      "name": "N29",
+      "url": "https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Undone",
         "url": "https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Dance, No One's Watching",
-        "url": "https://open.spotify.com/album/08jeayZieCHTosu0K5tzf9"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 202360,
-      "name": "N29",
-      "url": "https://open.spotify.com/track/4MJjEf9wD9V0TwxKDYxLhP"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Greatest Gift (Reimagined)",
         "url": "https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi"
       },
@@ -523,6 +523,26 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Perceive Its Beauty, Acknowledge Its Grace",
+        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 177133,
+      "name": "Kiss Me Before I Forget (feat. Lianne La Havas)",
+      "url": "https://open.spotify.com/track/08DfXlU9bWDIlai62OJJIG"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3afFYjtGM2yTU59RvXaiuZ"
       },
@@ -535,6 +555,22 @@
       "duration_ms": 237127,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/7mLylXqTKyIuaXPKVg74Rq"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "N29 to Berlin - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 297500,
+      "name": "N29 to Berlin - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -587,26 +623,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Perceive Its Beauty, Acknowledge Its Grace",
-        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        },
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 177133,
-      "name": "Kiss Me Before I Forget (feat. Lianne La Havas)",
-      "url": "https://open.spotify.com/track/08DfXlU9bWDIlai62OJJIG"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Still Nothing Still (Deluxe)",
         "url": "https://open.spotify.com/album/47zLi5b1Xv8uwVzTWTDM6C"
       },
@@ -631,34 +647,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "N29 to Berlin - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1WVhUbFeBd2VYfzxfL3Nx6"
+        "name": "Perceive Its Beauty, Acknowledge Its Grace",
+        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 297500,
-      "name": "N29 to Berlin - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3OIUx70KibeINa9e4qqBqx"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
-      },
-      "artists": [
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        },
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
         }
       ],
-      "duration_ms": 175635,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
+      "duration_ms": 279240,
+      "name": "Insecurities (feat. Moses Sumney)",
+      "url": "https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -675,6 +679,22 @@
       "duration_ms": 257811,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/1bNpRcfsbIxI9FMJsjCNcw"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 175635,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -699,26 +719,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Perceive Its Beauty, Acknowledge Its Grace",
-        "url": "https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7"
-      },
-      "artists": [
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        },
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        }
-      ],
-      "duration_ms": 279240,
-      "name": "Insecurities (feat. Moses Sumney)",
-      "url": "https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Recurring (Live At King's Place)",
         "url": "https://open.spotify.com/album/4G5Y3m4KL3OhS6CZyBLR9Y"
       },
@@ -735,6 +735,22 @@
       "duration_ms": 320826,
       "name": "Decay",
       "url": "https://open.spotify.com/track/0ITNLAeEu0F0aZWTnFaTxd"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "The Colour Purple (Live From Malibu)",
+        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "The Colour Purple - Live From Malibu",
+      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -771,22 +787,6 @@
       "duration_ms": 324529,
       "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar) [Feat. Maria Gadu, Lianne La Havas, Tim Bernardes]",
       "url": "https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "The Colour Purple (Live From Malibu)",
-        "url": "https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "The Colour Purple - Live From Malibu",
-      "url": "https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Honest Mistake",
-        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
-      },
-      "artists": [
-        {
-          "name": "Hohnen Ford",
-          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
-        }
-      ],
-      "duration_ms": 227177,
-      "name": "Honest Mistake",
-      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Radio Masoda",
         "url": "https://open.spotify.com/album/4wNS5Z7ziNOWQoh5bgVqEo"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 187535,
       "name": "High Up",
       "url": "https://open.spotify.com/track/2KmeUx0icTRa0Y3RywknuL"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Honest Mistake",
+        "url": "https://open.spotify.com/album/61cgfMVzBy0dtDFWGrZl6t"
+      },
+      "artists": [
+        {
+          "name": "Hohnen Ford",
+          "url": "https://open.spotify.com/artist/34c3b95E9ZQPMPapPOv8RW"
+        }
+      ],
+      "duration_ms": 227177,
+      "name": "Honest Mistake",
+      "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Mardy",
-        "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
-      },
-      "artists": [
-        {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Mardy",
-      "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Find Your Flame",
         "url": "https://open.spotify.com/album/7dkkrLhrHCTPsmc7JucvgL"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 290213,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6li1FBZmTkTdb9dbLyV8Vp"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Mardy",
+        "url": "https://open.spotify.com/album/4pyM8BFy9SAXGHmSrOEOqC"
+      },
+      "artists": [
+        {
+          "name": "Olympia Vitalis",
+          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Mardy",
+      "url": "https://open.spotify.com/track/4s9KcTGJr5uzW2I9pjHZPI"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
-      },
-      "artists": [
-        {
-          "name": "Boyan",
-          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
-        },
-        {
-          "name": "Stefan Mahendra",
-          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/082cdgTa4xK8dmgNKQ1evt"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "I\u2019ll Do Whatever You Want",
         "url": "https://open.spotify.com/album/1eJCzWoOCQ4ikh7APacwOd"
       },
@@ -1203,6 +1183,26 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/2NY2edrq5vozPIDkyn0zrs"
+      },
+      "artists": [
+        {
+          "name": "Boyan",
+          "url": "https://open.spotify.com/artist/0Oro38xoxbaWM8qUopnYoJ"
+        },
+        {
+          "name": "Stefan Mahendra",
+          "url": "https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/082cdgTa4xK8dmgNKQ1evt"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "In The Garden",
         "url": "https://open.spotify.com/album/0n2ihnzs8tWeIfHtMt9nNp"
       },
@@ -1219,22 +1219,6 @@
       "duration_ms": 280586,
       "name": "In The Garden",
       "url": "https://open.spotify.com/track/3SedB4Ntk4Uw71VtLVqviP"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Unchained Melodies Vol. 1",
-        "url": "https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE"
-      },
-      "artists": [
-        {
-          "name": "Romain Axisa",
-          "url": "https://open.spotify.com/artist/0fD0vte7xBaEjDkxPsSQsW"
-        }
-      ],
-      "duration_ms": 176702,
-      "name": "Vienna",
-      "url": "https://open.spotify.com/track/5qjJraZSwr6t5Np2vQbDjf"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Unchained Melodies Vol. 1",
+        "url": "https://open.spotify.com/album/2edsxQdf0FGniP6b51BiXE"
+      },
+      "artists": [
+        {
+          "name": "Romain Axisa",
+          "url": "https://open.spotify.com/artist/0fD0vte7xBaEjDkxPsSQsW"
+        }
+      ],
+      "duration_ms": 176702,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/5qjJraZSwr6t5Np2vQbDjf"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Butter",
         "url": "https://open.spotify.com/album/0kHYxQbKPKpWYSDwY3kjOo"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 181156,
       "name": "Butter",
       "url": "https://open.spotify.com/track/64FLB8me1Fb0XV0YO8ntqC"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Marina del Rey",
+        "url": "https://open.spotify.com/album/3nniGvnsSMTfUAJbFwFam5"
+      },
+      "artists": [
+        {
+          "name": "Koteri",
+          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+        }
+      ],
+      "duration_ms": 133065,
+      "name": "Marina del Rey",
+      "url": "https://open.spotify.com/track/2yfu7ZjxePK3fu1aN0YO0f"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1307,18 +1323,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Marina del Rey",
-        "url": "https://open.spotify.com/album/3nniGvnsSMTfUAJbFwFam5"
+        "name": "Working It Out",
+        "url": "https://open.spotify.com/album/6GfG72p8tBdIGNLEUaqFft"
       },
       "artists": [
         {
-          "name": "Koteri",
-          "url": "https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI"
+          "name": "Myles Sanko",
+          "url": "https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G"
         }
       ],
-      "duration_ms": 133065,
-      "name": "Marina del Rey",
-      "url": "https://open.spotify.com/track/2yfu7ZjxePK3fu1aN0YO0f"
+      "duration_ms": 235173,
+      "name": "Working It Out",
+      "url": "https://open.spotify.com/track/6G4hlsOeAdepXCdI2fPQbw"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1339,26 +1355,6 @@
       "duration_ms": 176874,
       "name": "Rite of Passage",
       "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "ON THE MOVE",
-        "url": "https://open.spotify.com/album/5GbCUbN3cBFa1nPhCwuExU"
-      },
-      "artists": [
-        {
-          "name": "Close Counters",
-          "url": "https://open.spotify.com/artist/1b94FVTCNMq9gU78ByW6iY"
-        },
-        {
-          "name": "Tiana Khasi",
-          "url": "https://open.spotify.com/artist/6kM1b2Ze9w94VPfq4KhJF3"
-        }
-      ],
-      "duration_ms": 222931,
-      "name": "ON THE MOVE",
-      "url": "https://open.spotify.com/track/6o5ZepiUT0EnHyJvnynnoU"
     }
   ],
   "unique_name": "Jazz UK",

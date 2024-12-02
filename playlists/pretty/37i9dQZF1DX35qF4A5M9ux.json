@@ -1,6 +1,6 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 386199,
+  "num_followers": 386347,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 231410,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
@@ -187,22 +171,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 308693,
-      "name": "Idilio",
-      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
@@ -215,6 +183,22 @@
       "duration_ms": 301573,
       "name": "Amores Como el Nuestro",
       "url": "https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 231410,
+      "name": "Aquel Lugar",
+      "url": "https://open.spotify.com/track/16c6awlmGfeusU7zoVu5yc"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -235,6 +219,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 308693,
+      "name": "Idilio",
+      "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -247,38 +247,6 @@
       "duration_ms": 260454,
       "name": "Cosa Nuestra",
       "url": "https://open.spotify.com/track/5UxEKpzvvLnjoC10XoogN3"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Reclamando Nuestro Espacio",
-        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 248555,
-      "name": "Anhelo",
-      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Top Secrets",
-        "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 414706,
-      "name": "El Gran Var\u00f3n",
-      "url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -363,6 +331,38 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Reclamando Nuestro Espacio",
+        "url": "https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 248555,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Top Secrets",
+        "url": "https://open.spotify.com/album/6ZgO4zBDcGJgLUCk2z0NLy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 414706,
+      "name": "El Gran Var\u00f3n",
+      "url": "https://open.spotify.com/track/5XWfwjzFNl2pTB737fx7qr"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Salsa Exitos",
         "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
       },
@@ -391,6 +391,38 @@
       "duration_ms": 306960,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/0DrNa6Ol75djsKlw67TABQ"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Ojos Chinos",
+      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Grandes Exitos Vol. 2",
+        "url": "https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 337173,
+      "name": "Hazme Olvidarla",
+      "url": "https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -428,17 +460,17 @@
       "added_at": "2024-11-15 06:00:00",
       "album": {
         "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Ojos Chinos",
-      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
+      "duration_ms": 333226,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -463,38 +495,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3cN4DzawdHmneVAVQDtvjs"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 333226,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5bccusEjEtnC5cDfWXQ8rf"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Grandes Exitos Vol. 2",
-        "url": "https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 337173,
-      "name": "Hazme Olvidarla",
-      "url": "https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "No Me Olvidaras",
         "url": "https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 211586,
       "name": "Ese",
       "url": "https://open.spotify.com/track/23gGTtWSjeTx4HEnAfdCgW"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 377160,
+      "name": "Quiero Morir En Tu Piel",
+      "url": "https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -543,22 +559,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 359226,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Nuevo Milenio - El Mismo Sabor",
         "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
       },
@@ -591,6 +591,38 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 359226,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "No Podras Escapar De Mi",
+      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
       },
@@ -608,38 +640,6 @@
       "added_at": "2024-11-15 06:00:00",
       "album": {
         "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 303306,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 377160,
-      "name": "Quiero Morir En Tu Piel",
-      "url": "https://open.spotify.com/track/3t3jGDeU3t1ro51C3x2pPR"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA"
       },
       "artists": [
@@ -651,6 +651,22 @@
       "duration_ms": 298346,
       "name": "Qu\u00e9 Hay de Malo",
       "url": "https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -703,22 +719,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 229613,
-      "name": "Y Nos Amamos",
-      "url": "https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Nelson D\u00edaz y la Constelaci\u00f3n",
         "url": "https://open.spotify.com/album/09vJMrho92acNaYIBvqcVi"
       },
@@ -751,54 +751,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 302866,
-      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 303800,
-      "name": "Quien Entiende Este Amor",
-      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "No Podras Escapar De Mi",
-      "url": "https://open.spotify.com/track/0lacKf3kZXbQ1F17QvurMs"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Atrevido Y Diferente",
         "url": "https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG"
       },
@@ -811,6 +763,38 @@
       "duration_ms": 299960,
       "name": "Tu Me Quemas",
       "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "duration_ms": 229613,
+      "name": "Y Nos Amamos",
+      "url": "https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 302866,
+      "name": "Hagamos Lo Que Diga El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/76LbBAaJ1PqZU9fADHiqqt"
       },
       "artists": [
         {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
         }
       ],
-      "duration_ms": 317586,
-      "name": "Cara Dura",
-      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
+      "duration_ms": 303800,
+      "name": "Quien Entiende Este Amor",
+      "url": "https://open.spotify.com/track/5MVbhLRhOLCifhbjwVyZPX"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -859,22 +843,6 @@
       "duration_ms": 301373,
       "name": "Y No Hago Mas Na'",
       "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "La Magia De Tus Besos",
-      "url": "https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -915,6 +883,38 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "La Magia De Tus Besos",
+      "url": "https://open.spotify.com/track/3nBQUOFwVZumOzzSV3h2sw"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "duration_ms": 317586,
+      "name": "Cara Dura",
+      "url": "https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Al Duro",
         "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
       },
@@ -931,18 +931,34 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Serie Platino: Eddie Santiago",
-        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 303106,
-      "name": "Me Fallaste",
-      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
+      "duration_ms": 266893,
+      "name": "T\u00fa No Le Amas Le Temes",
+      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Nuestro Aniversario",
+        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 261893,
+      "name": "Trampol\u00edn",
+      "url": "https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -963,18 +979,18 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+        "name": "Serie Platino: Eddie Santiago",
+        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 266893,
-      "name": "T\u00fa No Le Amas Le Temes",
-      "url": "https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN"
+      "duration_ms": 303106,
+      "name": "Me Fallaste",
+      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Nuestro Aniversario",
-        "url": "https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "Trampol\u00edn",
-      "url": "https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "T\u00fa Me Haces Falta",
-      "url": "https://open.spotify.com/track/36831vgWmRrE5GaiwgjIwJ"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 238762,
       "name": "En Trance",
       "url": "https://open.spotify.com/track/6TIvLWPw7OTD2lslRmoWEo"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "T\u00fa Me Haces Falta",
+      "url": "https://open.spotify.com/track/36831vgWmRrE5GaiwgjIwJ"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "El Caballero De La Salsa - La Historia Tropical",
+        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 312426,
+      "name": "Vivir Sin Ella",
+      "url": "https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "El Caballero De La Salsa - La Historia Tropical",
-        "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 312426,
-      "name": "Vivir Sin Ella",
-      "url": "https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 391320,
+      "name": "Siento",
+      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Aqui Estoy Yo",
         "url": "https://open.spotify.com/album/0fPICPWeindghNQxlegLQB"
       },
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 391320,
-      "name": "Siento",
-      "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 281773,
       "name": "As\u00ed Es la Vida",
       "url": "https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "De Amor y Salsa",
+        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 332253,
+      "name": "Dejame Sentirte",
+      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1475,18 +1491,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "De Amor y Salsa",
-        "url": "https://open.spotify.com/album/021o25wvfikSTFTS43DRrc"
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
       "artists": [
         {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 332253,
-      "name": "Dejame Sentirte",
-      "url": "https://open.spotify.com/track/2gvdq6VGIb2iRBsHij1t5Q"
+      "duration_ms": 327466,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
     },
     {
       "added_at": "2024-11-15 06:00:00",
@@ -1523,58 +1543,6 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 266013,
-      "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Bambol\u00e9o",
-        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
-      },
-      "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 327466,
-      "name": "Bambol\u00e9o",
-      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
-        "name": "Coleccion de Oro",
-        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Mi Mundo",
-      "url": "https://open.spotify.com/track/20U0CM5bMwutODF8KQRj5Y"
-    },
-    {
-      "added_at": "2024-11-15 06:00:00",
-      "album": {
         "name": "Back To Work",
         "url": "https://open.spotify.com/album/2TrREv0DQ56tRg0CAqWvdg"
       },
@@ -1591,6 +1559,22 @@
     {
       "added_at": "2024-11-15 06:00:00",
       "album": {
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 266013,
+      "name": "Tu Eres",
+      "url": "https://open.spotify.com/track/7cmBAZF5FSlNLRKaPmBKHZ"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
         "name": "Salsa Estelar",
         "url": "https://open.spotify.com/album/00TVXvhvENeaYgeHGzH157"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 326936,
       "name": "Mascaras",
       "url": "https://open.spotify.com/track/7zKD27zr6GGvmnftzyze8O"
+    },
+    {
+      "added_at": "2024-11-15 06:00:00",
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Mi Mundo",
+      "url": "https://open.spotify.com/track/20U0CM5bMwutODF8KQRj5Y"
     },
     {
       "added_at": "2024-11-15 06:00:00",

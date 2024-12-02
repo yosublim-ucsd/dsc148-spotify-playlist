@@ -15090,7 +15090,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 175179,
       "name": "Overrated!",
       "url": "https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM"
@@ -24181,6 +24181,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
+        "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
+      },
+      "artists": [
+        {
+          "name": "Humbert Humbert",
+          "url": "https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "\u3042\u306e\u65e5\u306e\u307e\u307e\u306e\u307c\u304f\u3089",
+      "url": "https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs"
+    },
+    {
+      "album": {
         "name": "\u3042\u3089\u308f\u308c\u306a\u3044\u3067",
         "url": "https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY"
       },
@@ -27144,7 +27162,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 174482,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN"
@@ -31876,6 +31894,24 @@
       "duration_ms": 268500,
       "name": "\u5922\u306b\u306a\u3089\u306a\u3044\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2"
+    },
+    {
+      "album": {
+        "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+        "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "date_added": "2024-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+      "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
     },
     {
       "album": {

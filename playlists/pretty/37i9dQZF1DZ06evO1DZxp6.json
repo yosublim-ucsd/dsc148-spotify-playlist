@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 219498,
+  "num_followers": 219534,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAACC05nkGQkRDX8sHi5HcaOx",
+  "snapshot_id": "Z0pVgAAAAADzZh08R7u8aJA6zhQTwdEy",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tristeza de la Ciudad",
+        "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
+      },
+      "artists": [
+        {
+          "name": "Cachorro Lopez",
+          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 164925,
+      "name": "Tristeza de la Ciudad",
+      "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te solt\u00e9 la rienda",
         "url": "https://open.spotify.com/album/1ouxWZyFzEFxtBPOGOmKzp"
       },
@@ -839,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Andar Conmigo",
-        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 204956,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Ti",
         "url": "https://open.spotify.com/album/7bOXA2HPjjw8zol1LDjhUj"
       },
@@ -879,26 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tristeza de la Ciudad",
-        "url": "https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ"
+        "name": "Andar Conmigo",
+        "url": "https://open.spotify.com/album/14ZqBGDlPREpvTqc9OV1dI"
       },
       "artists": [
         {
-          "name": "Cachorro Lopez",
-          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 164925,
-      "name": "Tristeza de la Ciudad",
-      "url": "https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL"
+      "duration_ms": 204956,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/2UXGtSYtOOucPOXKQTWBjt"
     },
     {
       "added_at": null,

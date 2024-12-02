@@ -1,6 +1,6 @@
 {
   "description": "All the indie gems from 2023 that may have flown under your radar! Cover: The Last Dinner Party",
-  "num_followers": 18824,
+  "num_followers": 18853,
   "original_name": "Indie songs from 2023 you may have missed",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "MAGNANIMITY",
-        "url": "https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL"
-      },
-      "artists": [
-        {
-          "name": "Jaycov",
-          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "perfume bottle",
-      "url": "https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "Being Square",
         "url": "https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 187894,
       "name": "Being Square",
       "url": "https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "MAGNANIMITY",
+        "url": "https://open.spotify.com/album/7AVe1Cc7Uns0mN2sy6KHBL"
+      },
+      "artists": [
+        {
+          "name": "Jaycov",
+          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "perfume bottle",
+      "url": "https://open.spotify.com/track/7wmwpkiGOVNJUfhAHztsW0"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/3Q6ijENRHIELJgva3mgg3c"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 170277,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1vk8b7rvvclkgg9CY7r25x"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
-        "name": "Jurassic",
-        "url": "https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs"
-      },
-      "artists": [
-        {
-          "name": "NIKO NIKO TAN TAN",
-          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
-        }
-      ],
-      "duration_ms": 177999,
-      "name": "Jurassic",
-      "url": "https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
         "name": "DON'T YOU THINK IT'D BE NICE ?",
         "url": "https://open.spotify.com/album/4VMu7bXjIkQngtN1D5kAsw"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 190292,
       "name": "DON'T YOU THINK IT'D BE NICE ?",
       "url": "https://open.spotify.com/track/6r68X3hgYXylvAyM5yRy3D"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
+        "name": "Jurassic",
+        "url": "https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "duration_ms": 177999,
+      "name": "Jurassic",
+      "url": "https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd"
     },
     {
       "added_at": "2023-11-29 16:17:10",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-11-29 16:17:10",
       "album": {
+        "name": "a stranger with my face",
+        "url": "https://open.spotify.com/album/1zVpR9o0oK1XcdeksYkWBP"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "duration_ms": 231480,
+      "name": "a stranger with my face",
+      "url": "https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo"
+    },
+    {
+      "added_at": "2023-11-29 16:17:10",
+      "album": {
         "name": "Mucho Peor - Spotify Singles",
         "url": "https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 211791,
       "name": "Mucho Peor - Spotify Singles",
       "url": "https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM"
-    },
-    {
-      "added_at": "2023-11-29 16:17:10",
-      "album": {
-        "name": "a stranger with my face",
-        "url": "https://open.spotify.com/album/1zVpR9o0oK1XcdeksYkWBP"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        }
-      ],
-      "duration_ms": 231480,
-      "name": "a stranger with my face",
-      "url": "https://open.spotify.com/track/4G3NZdYXWTjsKtfFWNkgUo"
     }
   ],
   "unique_name": "Indie songs from 2023 you may have missed",

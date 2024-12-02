@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 2747,
+  "num_followers": 2751,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAASMK1WPRu8EH4s5fVx++Yd",
+  "snapshot_id": "Z0pVgAAAAAAlSEr0HJmdr6eNN0Q4b4/n",
   "tracks": [
     {
       "added_at": null,
@@ -358,11 +358,23 @@
         {
           "name": "Jaquel Spivey",
           "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
+        },
+        {
+          "name": "Angourie Rice",
+          "url": "https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO"
+        },
+        {
+          "name": "Tim Meadows",
+          "url": "https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E"
+        },
+        {
+          "name": "Cast of Mean Girls",
+          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
         }
       ],
-      "duration_ms": 68692,
-      "name": "A Cautionary Tale",
-      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
+      "duration_ms": 285221,
+      "name": "Revenge Party",
+      "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
     },
     {
       "added_at": null,
@@ -434,23 +446,11 @@
         {
           "name": "Jaquel Spivey",
           "url": "https://open.spotify.com/artist/0yVQ12rLMfkMNfudo6SFdI"
-        },
-        {
-          "name": "Angourie Rice",
-          "url": "https://open.spotify.com/artist/2WBxsfNZRSQriRDgDgWkTO"
-        },
-        {
-          "name": "Tim Meadows",
-          "url": "https://open.spotify.com/artist/5ll9FhxzUEG7Bl9LAjPX4E"
-        },
-        {
-          "name": "Cast of Mean Girls",
-          "url": "https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN"
         }
       ],
-      "duration_ms": 285221,
-      "name": "Revenge Party",
-      "url": "https://open.spotify.com/track/76IYmZf601sdCGQLokyrjW"
+      "duration_ms": 68692,
+      "name": "A Cautionary Tale",
+      "url": "https://open.spotify.com/track/6JKm5XtUhS2oSl2NRiBXe2"
     },
     {
       "added_at": null,
@@ -611,26 +611,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Guilty Ones (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
+        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
+        "url": "https://open.spotify.com/album/5VY1W3g3rveouscdB7FqDy"
       },
       "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+          "name": "Burt Bacharach",
+          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
+        },
+        {
+          "name": "Graham Phillips",
+          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
+        },
+        {
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
         }
       ],
-      "duration_ms": 211956,
-      "name": "The Guilty Ones - Rise Cast Version",
-      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
+      "duration_ms": 207000,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/17FXdKgMlXaRey3MPkLhN2"
     },
     {
       "added_at": null,
@@ -651,6 +655,30 @@
       "duration_ms": 211013,
       "name": "Whispering - Rise Cast Version",
       "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Guilty Ones (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/1zU1HLS9kSGp9tzVRQDFLY"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        }
+      ],
+      "duration_ms": 211956,
+      "name": "The Guilty Ones - Rise Cast Version",
+      "url": "https://open.spotify.com/track/0salYy0gJrLwAHZ73uYChV"
     },
     {
       "added_at": null,
@@ -703,34 +731,6 @@
       "duration_ms": 174226,
       "name": "The Word Of Your Body - Rise Cast Version",
       "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burt Bacharach and Steven Sater's Some Lovers (World Premiere Recording)",
-        "url": "https://open.spotify.com/album/32HtQlSGJdLv2e0lmBFPf2"
-      },
-      "artists": [
-        {
-          "name": "Graham Phillips",
-          "url": "https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Burt Bacharach",
-          "url": "https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC"
-        },
-        {
-          "name": "Steven Sater",
-          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/4fUxmFLeAstWRQfcOi2uRL"
     }
   ],
   "unique_name": "This Is Auli'i Cravalho",

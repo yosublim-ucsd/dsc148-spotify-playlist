@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Quevedo
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,032 likes - 645 songs - 1 day 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,045 likes - 645 songs - 1 day 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

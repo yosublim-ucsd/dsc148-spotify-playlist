@@ -1,12 +1,12 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 18316,
+  "num_followers": 18323,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAAoimiepwJP37JfyH2D4pB0",
+  "snapshot_id": "Z0pVgAAAAADlcLVelsQWTyD6EwLG+6gu",
   "tracks": [
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "B.T.W",
+        "url": "https://open.spotify.com/album/663RYnWALwCApODIwyqG1d"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 124808,
+      "name": "B.T.W",
+      "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 150652,
       "name": "Money (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B.T.W",
-        "url": "https://open.spotify.com/album/663RYnWALwCApODIwyqG1d"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 124808,
-      "name": "B.T.W",
-      "url": "https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M"
     },
     {
       "added_at": null,
@@ -704,9 +704,25 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 106763,
-      "name": "Pockets Bigger",
-      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
+      "duration_ms": 203043,
+      "name": "Like That Bitch",
+      "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
       "duration_ms": 153973,
       "name": "Raindrops (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6XBkVK0XMeSkXyG6lN2QDk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 203043,
-      "name": "Like That Bitch",
-      "url": "https://open.spotify.com/track/7zoZd2MuTaQEdF1rlq6Vv1"
+      "duration_ms": 106763,
+      "name": "Pockets Bigger",
+      "url": "https://open.spotify.com/track/6qwlA0caBeRjIlaqnucLrC"
     },
     {
       "added_at": null,

@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 170480,
       "name": "AMARGURA",
       "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -26304,7 +26304,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 183455,
       "name": "Touch Some Grass",
       "url": "https://open.spotify.com/track/5bcfb6rhZD1aUzOzNJaeof"
@@ -26460,6 +26460,24 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "album": {
+        "name": "Tranki, Todo Pasa",
+        "url": "https://open.spotify.com/album/2c4kX5vwi2QnarQQyfXsA1"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76000,
+      "name": "Tranki, Todo Pasa Interlude",
+      "url": "https://open.spotify.com/track/4b4prCN3W9eLtsYio6qQLY"
     },
     {
       "album": {

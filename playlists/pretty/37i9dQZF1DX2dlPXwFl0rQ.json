@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Chiquis en portada.",
-  "num_followers": 111965,
+  "num_followers": 111992,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Cactus",
-        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 183381,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "MERCEDES",
         "url": "https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg"
       },
@@ -223,6 +207,38 @@
       "duration_ms": 168360,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Cactus",
+        "url": "https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 183381,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -247,6 +263,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 185153,
+      "name": "Te Dejo",
+      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Ajustando Cuentas",
         "url": "https://open.spotify.com/album/4sGlWWQx6V1fq8ct7T4aFV"
       },
@@ -267,66 +299,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+        "name": "Bola de traviezos",
+        "url": "https://open.spotify.com/album/4iybnYN9TsaEJOTYRZnMYN"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Karly B",
+          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Ya Lo S\u00e9",
-      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 185153,
-      "name": "Te Dejo",
-      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "COMO DIABLOS",
-        "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 193446,
-      "name": "COMO DIABLOS",
-      "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Soy Lo Prohibido",
-        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
-      },
-      "artists": [
-        {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Te Qued\u00f3 Grande La Yegua",
-      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+      "duration_ms": 132645,
+      "name": "Bola de traviezos",
+      "url": "https://open.spotify.com/track/6Jrx0ateAS43r7f9ugzxr0"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -343,22 +327,6 @@
       "duration_ms": 144602,
       "name": "LA MALA",
       "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Bola de traviezos",
-        "url": "https://open.spotify.com/album/4iybnYN9TsaEJOTYRZnMYN"
-      },
-      "artists": [
-        {
-          "name": "Karly B",
-          "url": "https://open.spotify.com/artist/3PCKO6TlXIxF0T7l9NcsYr"
-        }
-      ],
-      "duration_ms": 132645,
-      "name": "Bola de traviezos",
-      "url": "https://open.spotify.com/track/6Jrx0ateAS43r7f9ugzxr0"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -383,6 +351,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Soy Lo Prohibido",
+        "url": "https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4"
+      },
+      "artists": [
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Te Qued\u00f3 Grande La Yegua",
+      "url": "https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Literal",
         "url": "https://open.spotify.com/album/4B9zs7Fm6Ae314vkEohzJR"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 188933,
       "name": "Literal",
       "url": "https://open.spotify.com/track/4M4tWXiF87o7z2y1OkHzQw"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "COMO DIABLOS",
+        "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 193446,
+      "name": "COMO DIABLOS",
+      "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Mis Amigas Las Flores",
-        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 178039,
-      "name": "Mis Amigas Las Flores",
-      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Mi Rey, Mi Santo",
         "url": "https://open.spotify.com/album/6Mw6BYuc79mmmSI2uYObYe"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Que Siga Pasando",
+        "url": "https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Que Siga Pasando",
+      "url": "https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
         "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
       },
@@ -591,18 +591,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Que Siga Pasando",
-        "url": "https://open.spotify.com/album/1agHYBrfRg36wXg1S51P3p"
+        "name": "Mis Amigas Las Flores",
+        "url": "https://open.spotify.com/album/04J0mWsIEmidkQdWLlw8Ji"
       },
       "artists": [
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 190506,
-      "name": "Que Siga Pasando",
-      "url": "https://open.spotify.com/track/7e6DKZZ4oSIyYUja3Zbri1"
+      "duration_ms": 178039,
+      "name": "Mis Amigas Las Flores",
+      "url": "https://open.spotify.com/track/3Vm0VFtepYi1AVNBbywzYJ"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Por Puro Amor",
-        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 219693,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Aguanta Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4cslzaiSqKBdavHlQkSe10"
       },
@@ -779,22 +763,6 @@
       "duration_ms": 166121,
       "name": "Aguanta Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2NG5ayxtYhDfwnkkVN1Idw"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Antes de Ti",
-        "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
-      },
-      "artists": [
-        {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
-        }
-      ],
-      "duration_ms": 214552,
-      "name": "Antes de Ti",
-      "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -815,6 +783,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Por Puro Amor",
+        "url": "https://open.spotify.com/album/0WsszKdBU8ZgICPUvrvIb6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 219693,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/48YY9jYcCMqW6FiAZ5EmSb"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Deja Que Salga la Luna (En Vivo)",
         "url": "https://open.spotify.com/album/6ndaddkZnoMfm6Q1YXQ1qY"
       },
@@ -831,18 +815,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Me Cuesta Tanto Olvidarte",
-        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+        "name": "Antes de Ti",
+        "url": "https://open.spotify.com/album/3xRcnSvQXy2zpTdmcJwKf5"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
         }
       ],
-      "duration_ms": 173546,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+      "duration_ms": 214552,
+      "name": "Antes de Ti",
+      "url": "https://open.spotify.com/track/0uzZEwZRambYj8Ar6RW3N1"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -867,6 +851,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Me Cuesta Tanto Olvidarte",
+        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 173546,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Pa\u2019Delante",
         "url": "https://open.spotify.com/album/5Ib3fe33w4kda328f7SWc4"
       },
@@ -887,18 +887,18 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Ayer Ped\u00ed",
-        "url": "https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m"
+        "name": "Todo Todo",
+        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
       },
       "artists": [
         {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 178333,
-      "name": "Ayer Ped\u00ed",
-      "url": "https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu"
+      "duration_ms": 194066,
+      "name": "Todo Todo",
+      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "Ayer Ped\u00ed",
+        "url": "https://open.spotify.com/album/5DbBtgQ0oZ5odiNf1QZM7m"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Ayer Ped\u00ed",
+      "url": "https://open.spotify.com/track/6Pyh7P7RYN7Cu21jjwXsTu"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 180320,
       "name": "Cuando Hablo De Ti",
       "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Todo Todo",
-        "url": "https://open.spotify.com/album/7otDsXrHpPrWZNEWhurGCD"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Todo Todo",
-      "url": "https://open.spotify.com/track/0KgGExcX5bvGnPEQLGOwTg"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Gente Gacha",
-        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Gente Gacha",
-      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Camila Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 221826,
       "name": "Aqu\u00ed Lo Siento",
       "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1155,38 +1155,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "No Me Rebajo",
-        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
-      },
-      "artists": [
-        {
-          "name": "La Morra De La Vihuela",
-          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "No Me Rebajo",
-      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Dej\u00e9moslo As\u00ed",
-        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
-      },
-      "artists": [
-        {
-          "name": "Sherlyn S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Dej\u00e9moslo As\u00ed",
-      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "Fue Tan Poco Tu Cari\u00f1o",
         "url": "https://open.spotify.com/album/5PyJCTcVg7lQVWD2J1d3VU"
       },
@@ -1199,6 +1167,22 @@
       "duration_ms": 195466,
       "name": "Fue Tan Poco Tu Cari\u00f1o",
       "url": "https://open.spotify.com/track/38G443AQBL6guN18IO3Qgy"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "No Me Rebajo",
+        "url": "https://open.spotify.com/album/5A7ZuC4mInd4SS88MUe3DU"
+      },
+      "artists": [
+        {
+          "name": "La Morra De La Vihuela",
+          "url": "https://open.spotify.com/artist/0U1Zvqbec8rtMT6B83rVUi"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "No Me Rebajo",
+      "url": "https://open.spotify.com/track/67FAoDXB5Q1bxHLuFe7rIi"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1219,6 +1203,22 @@
       "duration_ms": 164265,
       "name": "Afortunada",
       "url": "https://open.spotify.com/track/0lm7k3vmIJ3Cteo6lyPv9f"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Dej\u00e9moslo As\u00ed",
+        "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
+      },
+      "artists": [
+        {
+          "name": "Sherlyn S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3rX2TVbHOjIfQg1o00kagl"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Dej\u00e9moslo As\u00ed",
+      "url": "https://open.spotify.com/track/5MKzsXx4mJiVeRoifOyDpg"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "De Lo Que Me Salv\u00e9",
-        "url": "https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 211280,
-      "name": "De Lo Que Me Salv\u00e9",
-      "url": "https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
         "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
       },
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "De Lo Que Me Salv\u00e9",
+        "url": "https://open.spotify.com/album/4pqSQejVHrDuLaTdu3mmj0"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "De Lo Que Me Salv\u00e9",
+      "url": "https://open.spotify.com/track/3njGgBsNB4RnxqYKc1YDh2"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Yo No Creo En Los Hombres",
         "url": "https://open.spotify.com/album/5kAQvYHxhqbD9LFsx1sWn9"
       },
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "Quien Te Dijo Que Eres Tu",
-        "url": "https://open.spotify.com/album/49IlkNej2Mu2zZ1q3NuXRg"
-      },
-      "artists": [
-        {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
-        }
-      ],
-      "duration_ms": 183243,
-      "name": "Quien Te Dijo Que Eres Tu",
-      "url": "https://open.spotify.com/track/6RHGmpDfPLP2qEuf6hIMSR"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "La Fama de una Dama",
         "url": "https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 168317,
       "name": "La Fama de una Dama",
       "url": "https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Quien Te Dijo Que Eres Tu",
+        "url": "https://open.spotify.com/album/49IlkNej2Mu2zZ1q3NuXRg"
+      },
+      "artists": [
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "duration_ms": 183243,
+      "name": "Quien Te Dijo Que Eres Tu",
+      "url": "https://open.spotify.com/track/6RHGmpDfPLP2qEuf6hIMSR"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
-        "name": "ME PRENDO UN GALLO",
-        "url": "https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 194876,
-      "name": "ME PRENDO UN GALLO",
-      "url": "https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
         "name": "\u00cdntimamente",
         "url": "https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq"
       },
@@ -1631,6 +1615,22 @@
     {
       "added_at": "2024-10-25 06:00:00",
       "album": {
+        "name": "ME PRENDO UN GALLO",
+        "url": "https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX"
+      },
+      "artists": [
+        {
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
+        }
+      ],
+      "duration_ms": 194876,
+      "name": "ME PRENDO UN GALLO",
+      "url": "https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 152768,
       "name": "Le Cale A Quien Le Cale",
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
-    },
-    {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "El Bato Gacho",
-        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
-      },
-      "artists": [
-        {
-          "name": "Evelyn Ozuna",
-          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
-        }
-      ],
-      "duration_ms": 145518,
-      "name": "El Bato Gacho",
-      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
     },
     {
       "added_at": "2024-10-25 06:00:00",
@@ -1695,6 +1679,22 @@
       "duration_ms": 234026,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "El Bato Gacho",
+        "url": "https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH"
+      },
+      "artists": [
+        {
+          "name": "Evelyn Ozuna",
+          "url": "https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr"
+        }
+      ],
+      "duration_ms": 145518,
+      "name": "El Bato Gacho",
+      "url": "https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq"
     }
   ],
   "unique_name": "Mujeres Brav\u00edas",

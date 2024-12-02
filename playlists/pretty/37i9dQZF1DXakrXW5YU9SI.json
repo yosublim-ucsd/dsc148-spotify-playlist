@@ -1,6 +1,6 @@
 {
   "description": "Daj si\u0119 otuli\u0107 ciep\u0142ym brzmieniom \u2615",
-  "num_followers": 333659,
+  "num_followers": 333722,
   "original_name": "Zimowy chill",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,26 @@
     {
       "added_at": "2024-11-29 08:25:43",
       "album": {
+        "name": "Ultra Love feat. Ella Rosa",
+        "url": "https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr"
+      },
+      "artists": [
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        },
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Ultra Love feat. Ella Rosa",
+      "url": "https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE"
+    },
+    {
+      "added_at": "2024-11-29 08:25:43",
+      "album": {
         "name": "Siniaki i cekiny ci\u0105g dalszy",
         "url": "https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 244672,
       "name": "Kocha\u0142am Ci\u0119 na zab\u00f3j",
       "url": "https://open.spotify.com/track/3rqc2nQH6h2iGpKQZWd74a"
-    },
-    {
-      "added_at": "2024-11-29 08:25:43",
-      "album": {
-        "name": "Ultra Love feat. Ella Rosa",
-        "url": "https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr"
-      },
-      "artists": [
-        {
-          "name": "Holly Hebe",
-          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
-        },
-        {
-          "name": "Ella Rosa",
-          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
-        }
-      ],
-      "duration_ms": 171066,
-      "name": "Ultra Love feat. Ella Rosa",
-      "url": "https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE"
     },
     {
       "added_at": "2024-11-29 08:25:43",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-11-29 08:25:43",
       "album": {
-        "name": "It\u2019s All About The Changes",
-        "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
-      },
-      "artists": [
-        {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
-        }
-      ],
-      "duration_ms": 159752,
-      "name": "Mr. Believer",
-      "url": "https://open.spotify.com/track/51zWdMMHdddlM7SevmSzZ6"
-    },
-    {
-      "added_at": "2024-11-29 08:25:43",
-      "album": {
         "name": "Heca",
         "url": "https://open.spotify.com/album/6zLgFeNNs1JxPHawGEkU90"
       },
@@ -983,22 +967,6 @@
       "duration_ms": 210356,
       "name": "Nie jeste\u015b sam",
       "url": "https://open.spotify.com/track/5H9YTgmWBhA09VWmMn7tDO"
-    },
-    {
-      "added_at": "2024-11-29 08:25:43",
-      "album": {
-        "name": "Topiel",
-        "url": "https://open.spotify.com/album/1mtOHVI3C3C3HT9OasFRAt"
-      },
-      "artists": [
-        {
-          "name": "Prometh",
-          "url": "https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Topiel",
-      "url": "https://open.spotify.com/track/0DtswFLxYeRvi1JUu4oAXQ"
     },
     {
       "added_at": "2024-11-29 08:25:43",
@@ -1019,6 +987,38 @@
       "duration_ms": 186083,
       "name": "Tulipany",
       "url": "https://open.spotify.com/track/0QCLgFafJmfLB7WIQO6da6"
+    },
+    {
+      "added_at": "2024-11-29 08:25:43",
+      "album": {
+        "name": "It\u2019s All About The Changes",
+        "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "duration_ms": 159752,
+      "name": "Mr. Believer",
+      "url": "https://open.spotify.com/track/51zWdMMHdddlM7SevmSzZ6"
+    },
+    {
+      "added_at": "2024-11-29 08:25:43",
+      "album": {
+        "name": "Topiel",
+        "url": "https://open.spotify.com/album/1mtOHVI3C3C3HT9OasFRAt"
+      },
+      "artists": [
+        {
+          "name": "Prometh",
+          "url": "https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Topiel",
+      "url": "https://open.spotify.com/track/0DtswFLxYeRvi1JUu4oAXQ"
     }
   ],
   "unique_name": "Zimowy chill",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Dec 23:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Dec 14:05 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -8040,6 +8040,24 @@
       "duration_ms": 176500,
       "name": "BOOOOOORING",
       "url": "https://open.spotify.com/track/70o4Z35wOgtzQEAxLZuPtc"
+    },
+    {
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb"
+      },
+      "artists": [
+        {
+          "name": "Joeyy",
+          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115230,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE"
     },
     {
       "album": {
@@ -61124,6 +61142,24 @@
       "duration_ms": 172431,
       "name": "Underground - Doss Remix",
       "url": "https://open.spotify.com/track/7kcenCX8zfNnpL2haQHZmH"
+    },
+    {
+      "album": {
+        "name": "Underwater Reflection",
+        "url": "https://open.spotify.com/album/21dQzuC2gzIxEQhwKwapgq"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u6ce2",
+          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388016,
+      "name": "Underwater Reflection",
+      "url": "https://open.spotify.com/track/1RgGi33UgdVP5a1lWPcK8x"
     },
     {
       "album": {

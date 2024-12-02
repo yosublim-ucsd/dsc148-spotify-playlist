@@ -1,6 +1,6 @@
 {
   "description": "Unwind and let the afternoon unfold.",
-  "num_followers": 2172740,
+  "num_followers": 2172672,
   "original_name": "Afternoon Acoustic",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Like Gold",
+      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Time Without Consequence",
         "url": "https://open.spotify.com/album/3hQQHMrHUbkCokIf8PmcEU"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Like Gold",
-      "url": "https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "You And I (Moon And Stars / Acoustic)",
         "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
       },
@@ -235,38 +235,6 @@
       "duration_ms": 200000,
       "name": "You And I - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 235586,
-      "name": "The Trouble with Wanting",
-      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Like Real People Do",
-      "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -299,6 +267,38 @@
       "duration_ms": 202677,
       "name": "I'll Be out Here",
       "url": "https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Like Real People Do",
+      "url": "https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 235586,
+      "name": "The Trouble with Wanting",
+      "url": "https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -907,6 +907,26 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Seeds (Acoustic Version)",
+        "url": "https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy"
+      },
+      "artists": [
+        {
+          "name": "Julian Taylor",
+          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
+        },
+        {
+          "name": "Carsen Gray",
+          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
+        }
+      ],
+      "duration_ms": 274808,
+      "name": "Seeds (feat. Carsen Gray) - Acoustic Version",
+      "url": "https://open.spotify.com/track/3PT90fscllcTN8qiY2gsO0"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Saint Monica (Undone)",
         "url": "https://open.spotify.com/album/6BpkD2uOOcpYp4IB1kANL6"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 176628,
       "name": "Man Overboard",
       "url": "https://open.spotify.com/track/2a2XU15f0Qnci4cOggrT2W"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Seeds (Acoustic Version)",
-        "url": "https://open.spotify.com/album/24zktXDk9y1k6PWiEm3Djy"
-      },
-      "artists": [
-        {
-          "name": "Julian Taylor",
-          "url": "https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6"
-        },
-        {
-          "name": "Carsen Gray",
-          "url": "https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs"
-        }
-      ],
-      "duration_ms": 274808,
-      "name": "Seeds (feat. Carsen Gray) - Acoustic Version",
-      "url": "https://open.spotify.com/track/3PT90fscllcTN8qiY2gsO0"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
-        "name": "At Swim",
-        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
-      },
-      "artists": [
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        }
-      ],
-      "duration_ms": 179826,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
         "name": "Strawberry Mansion - Side A",
         "url": "https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR"
       },
@@ -1543,6 +1527,38 @@
     {
       "added_at": "2024-08-23 15:05:15",
       "album": {
+        "name": "Colder Heavens",
+        "url": "https://open.spotify.com/album/1NZp71mLzKkFFDj5RpK9Oi"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 273893,
+      "name": "Colder Heavens",
+      "url": "https://open.spotify.com/track/15qtOgzv7mW3CQWQVgWIM6"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "At Swim",
+        "url": "https://open.spotify.com/album/3c3n3uBTF0tgIPCNjucEAm"
+      },
+      "artists": [
+        {
+          "name": "Lisa Hannigan",
+          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+        }
+      ],
+      "duration_ms": 179826,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/6C7oqaJSqSG84MScfmW310"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
         "name": "Imperial Recordings Best Of",
         "url": "https://open.spotify.com/album/6v5e6P19VdYAy73GGjRDBV"
       },
@@ -1571,6 +1587,22 @@
       "duration_ms": 294000,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/3XzLC1TU451F0nPiJitk49"
+    },
+    {
+      "added_at": "2024-08-23 15:05:15",
+      "album": {
+        "name": "Top to Toe",
+        "url": "https://open.spotify.com/album/0QdnZNP2WTEGrmKSyMZ6d1"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "duration_ms": 216415,
+      "name": "Top to Toe",
+      "url": "https://open.spotify.com/track/1I6hI9D2b1UXZUGoP8ixM0"
     },
     {
       "added_at": "2024-08-23 15:05:15",
@@ -1623,38 +1655,6 @@
       "duration_ms": 212146,
       "name": "I Forget Myself",
       "url": "https://open.spotify.com/track/75zcToiQTLgeIr0dGiRJXE"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Colder Heavens",
-        "url": "https://open.spotify.com/album/1NZp71mLzKkFFDj5RpK9Oi"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Colder Heavens",
-      "url": "https://open.spotify.com/track/15qtOgzv7mW3CQWQVgWIM6"
-    },
-    {
-      "added_at": "2024-08-23 15:05:15",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/774yLThHwXXqrrH2bgF912"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 193671,
-      "name": "Amsterdam - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4muAGMNipTEtIoYfMa9QL0"
     }
   ],
   "unique_name": "Afternoon Acoustic",

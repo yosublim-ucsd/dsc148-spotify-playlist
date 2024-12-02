@@ -234,7 +234,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 327520,
       "name": "Cuando Te Vea",
       "url": "https://open.spotify.com/track/30S64zhYXqFL3D5FLHrZ5z"
@@ -514,7 +514,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 338520,
       "name": "Guarar\u00e9",
       "url": "https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU"
@@ -758,6 +758,24 @@
       "duration_ms": 347066,
       "name": "Magdalena",
       "url": "https://open.spotify.com/track/6Sh5qYcUgtlj2OJ6UU8Au9"
+    },
+    {
+      "album": {
+        "name": "Hot! Hot! Hot! Caliente De Vicio",
+        "url": "https://open.spotify.com/album/0gNgzhxvQzJAn4mKgr8kph"
+      },
+      "artists": [
+        {
+          "name": "Johnny Colon",
+          "url": "https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm"
+        }
+      ],
+      "date_added": "2024-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381172,
+      "name": "Merecumbe",
+      "url": "https://open.spotify.com/track/23MB2MkXV9IFn4S2rJPDWw"
     },
     {
       "album": {
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 365240,
       "name": "Tal Vez Vuelvas a Llamarme",
       "url": "https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn"

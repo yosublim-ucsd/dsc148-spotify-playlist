@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡Márquele sección! Los corridones tronando en vivo\. Noel Torres, Régulo Caro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,142 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,219 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

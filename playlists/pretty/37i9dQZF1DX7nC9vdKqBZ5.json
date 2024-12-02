@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1513793,
+  "num_followers": 1513809,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 192933,
       "name": "Coisa Linda - Ao Vivo",
       "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Quase Sem Querer - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7x2PPGgAptvKQI2Aw8XIY0"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Amei Te Ver",
-        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 254096,
-      "name": "Amei Te Ver - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Andarilho",
         "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
       },
@@ -599,22 +583,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Mande um Sinal (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
       },
@@ -643,6 +611,38 @@
       "duration_ms": 161255,
       "name": "V\u00ea Se N\u00e3o Me Esquece Mais",
       "url": "https://open.spotify.com/track/6Cm9ESWYCTs5eCqLzsRFgW"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Amei Te Ver",
+        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 254096,
+      "name": "Amei Te Ver - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Terra do Nunca (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 205408,
-      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Original Brasil",
         "url": "https://open.spotify.com/album/1dp1LuHP7QsuI2LS40j7M4"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 236000,
       "name": "Boca Com Boca",
       "url": "https://open.spotify.com/track/7ADZdtgSSqnq3cYxMM07zq"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Terra do Nunca (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 205408,
+      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Casa de Praia 2 (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 175086,
-      "name": "Pijama - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Espera a Primavera (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6Oogk48Olj3FAbPTcRhtG4"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 254878,
       "name": "Espera a Primavera - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Casa de Praia 2 (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Pijama - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
+        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "duration_ms": 191839,
+      "name": "Certeza - Ao Vivo",
+      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Tudo no Sigilo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr"
       },
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Turn\u00ea Planeta Borboleta - Ao Vivo",
-        "url": "https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces"
-      },
-      "artists": [
-        {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
-        }
-      ],
-      "duration_ms": 191839,
-      "name": "Certeza - Ao Vivo",
-      "url": "https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Vers\u00f5es Que Eu Fiz",
         "url": "https://open.spotify.com/album/1tHmHQwW8burYhP5I9sGx2"
       },
@@ -1231,8 +1231,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "N\u00f3s 3 (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
+        "name": "Valeu a Pena (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
         }
       ],
-      "duration_ms": 266250,
-      "name": "N\u00f3s 3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
+      "duration_ms": 184062,
+      "name": "Valeu a Pena - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1319,8 +1319,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Valeu a Pena (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6XizeJ6MIYs4jC3x38WehL"
+        "name": "N\u00f3s 3 (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU"
       },
       "artists": [
         {
@@ -1328,9 +1328,9 @@
           "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
         }
       ],
-      "duration_ms": 184062,
-      "name": "Valeu a Pena - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0YgqnW0T8vt6Z9nkykkZgs"
+      "duration_ms": 266250,
+      "name": "N\u00f3s 3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 196347,
-      "name": "C\u00e9u Azul (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Dizeres",
         "url": "https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ"
       },
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 196347,
+      "name": "C\u00e9u Azul (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Cheiro do Mato (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
       },
@@ -1471,26 +1471,6 @@
       "duration_ms": 322736,
       "name": "Amor e F\u00e9 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        },
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 245195,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1531,6 +1511,26 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 245195,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
@@ -1543,58 +1543,6 @@
       "duration_ms": 231616,
       "name": "Meu Abrigo",
       "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/46IaegGoZ5ufjLNDndLA8F"
-      },
-      "artists": [
-        {
-          "name": "Os Bartira",
-          "url": "https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w"
-        },
-        {
-          "name": "Tatila Krau",
-          "url": "https://open.spotify.com/artist/4yV4KRO2Kppgk6WhNd1cno"
-        }
-      ],
-      "duration_ms": 221865,
-      "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/6dYVqy6IXckjRpYA5V1zxq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 192714,
-      "name": "Agora Eu Quero Ir",
-      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1627,6 +1575,42 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/46IaegGoZ5ufjLNDndLA8F"
+      },
+      "artists": [
+        {
+          "name": "Os Bartira",
+          "url": "https://open.spotify.com/artist/3xXG7d3Coe0jSFY5GNSm9w"
+        },
+        {
+          "name": "Tatila Krau",
+          "url": "https://open.spotify.com/artist/4yV4KRO2Kppgk6WhNd1cno"
+        }
+      ],
+      "duration_ms": 221865,
+      "name": "Dif\u00edcil Acreditar (Vers\u00e3o Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/6dYVqy6IXckjRpYA5V1zxq"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 192714,
+      "name": "Agora Eu Quero Ir",
+      "url": "https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Cora\u00e7\u00e3o de A\u00e7o (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/50rscpNOveVCa06wtbjmLP"
       },
@@ -1643,6 +1627,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Um Anjo do C\u00e9u (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1brOEh3ywmM5GXwniXEAeg"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Um Anjo do C\u00e9u - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7EJ2KffYQtIAL9X0P0E60I"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Volta",
         "url": "https://open.spotify.com/album/2wb9KwFiEKa9fpMRTzpXsF"
       },
@@ -1655,22 +1655,6 @@
       "duration_ms": 219544,
       "name": "Volta",
       "url": "https://open.spotify.com/track/6K6WJdyILe1BlbwGmKuJj7"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Ainda Bem Que Chegou (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Ainda Bem Que Chegou (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1707,18 +1691,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "T\u00e1 Tudo Bem (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh"
+        "name": "Ainda Bem Que Chegou (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4uvvyAPCasSKb2HB4naHAK"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 221106,
-      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
+      "duration_ms": 181978,
+      "name": "Ainda Bem Que Chegou (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1iwtTrE3Ry2E6PetwCax5i"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1735,6 +1719,22 @@
       "duration_ms": 148669,
       "name": "S\u00f3 Penso Nela (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "T\u00e1 Tudo Bem (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2EMPBxOpK3lYSZa5HlB0nh"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "T\u00e1 Tudo Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0zKqiX4TucyNx4pHIZuZ9w"
     },
     {
       "added_at": "2024-08-02 18:37:00",

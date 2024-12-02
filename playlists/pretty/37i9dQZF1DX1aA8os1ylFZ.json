@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243967,
+  "num_followers": 243960,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/1ZtF0gvpkuYViqufFHtS2B"
       },
@@ -447,6 +431,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
@@ -475,30 +475,6 @@
       "duration_ms": 149195,
       "name": "1900's",
       "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Access All Areas: Unlocked",
-        "url": "https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Halle",
-          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
-        }
-      ],
-      "duration_ms": 191503,
-      "name": "Soft (feat. Chl\u00f6e & Halle) [Unlocked]",
-      "url": "https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -551,6 +527,30 @@
       "duration_ms": 195528,
       "name": "act iv: fckin u again (18+)",
       "url": "https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Access All Areas: Unlocked",
+        "url": "https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "duration_ms": 191503,
+      "name": "Soft (feat. Chl\u00f6e & Halle) [Unlocked]",
+      "url": "https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Truth Be Told",
-        "url": "https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 200920,
-      "name": "It's All There (Secrets)",
-      "url": "https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Loving You / Don't Let Me Go",
         "url": "https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 152610,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/2O5nHhevgApYSTlSgyVcbg"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 200920,
+      "name": "It's All There (Secrets)",
+      "url": "https://open.spotify.com/track/3Sf2u44aaU4WYJ3jcTNJco"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Waiting On You",
-        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 163555,
-      "name": "Waiting On You",
-      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 235035,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Waiting On You",
+        "url": "https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "Waiting On You",
+      "url": "https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "THE GOOD TYPE OF BAD",
-        "url": "https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO"
-      },
-      "artists": [
-        {
-          "name": "Amadi Blue",
-          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "COMPLACENT",
-      "url": "https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Silky Feels",
         "url": "https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 165423,
       "name": "Silky Feels",
       "url": "https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "THE GOOD TYPE OF BAD",
+        "url": "https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO"
+      },
+      "artists": [
+        {
+          "name": "Amadi Blue",
+          "url": "https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "COMPLACENT",
+      "url": "https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1163,6 +1163,30 @@
       "duration_ms": 152138,
       "name": "ANTICIPATE",
       "url": "https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp"
+      },
+      "artists": [
+        {
+          "name": "Saint Ronil",
+          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
+        },
+        {
+          "name": "whereislema",
+          "url": "https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV"
+        },
+        {
+          "name": "Kyara Shereen",
+          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
+        }
+      ],
+      "duration_ms": 235732,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1215,30 +1239,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp"
-      },
-      "artists": [
-        {
-          "name": "Saint Ronil",
-          "url": "https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34"
-        },
-        {
-          "name": "whereislema",
-          "url": "https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV"
-        },
-        {
-          "name": "Kyara Shereen",
-          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
-        }
-      ],
-      "duration_ms": 235732,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3"
       },
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
+      },
+      "artists": [
+        {
+          "name": "Romy Dya",
+          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Aphrodite",
+      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "City's Burning",
         "url": "https://open.spotify.com/album/3ZK9PCRfpfu1225qjQbred"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 172691,
       "name": "Players Voicemail",
       "url": "https://open.spotify.com/track/6Lu9PML9zYrXFjRps5EIqY"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/70Jbxy4UWzsZ7xYyecbjoK"
-      },
-      "artists": [
-        {
-          "name": "Romy Dya",
-          "url": "https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Aphrodite",
-      "url": "https://open.spotify.com/track/4SJcnSTonIkghW0OTmhu2J"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
-      },
-      "artists": [
-        {
-          "name": "Neema Nekesa",
-          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
-        }
-      ],
-      "duration_ms": 133534,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/512GRreukRR6tq8WJj9XUb"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 158571,
       "name": "Nobody believes me",
       "url": "https://open.spotify.com/track/0REfEuEqp99TRAWP3qqAQv"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2zfSKymGIjwMurTq4Viehr"
+      },
+      "artists": [
+        {
+          "name": "Neema Nekesa",
+          "url": "https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI"
+        }
+      ],
+      "duration_ms": 133534,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/2sW5exPWWtnoJDHbArBZPP"
     },
     {
       "added_at": "2024-11-21 23:00:00",

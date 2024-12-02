@@ -1,6 +1,6 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 22162,
+  "num_followers": 22161,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,22 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "Leon",
-        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+        "name": "Take Your Time (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Panther City",
-      "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
+      "duration_ms": 235461,
+      "name": "Take Your Time (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
     },
     {
       "added_at": "2024-11-29 07:53:34",
@@ -355,26 +359,6 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "Take Your Time (feat. 6LACK)",
-        "url": "https://open.spotify.com/album/2wLeTuNrfg5OVQ5OLbghX6"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 235461,
-      "name": "Take Your Time (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/36zutQQkUnFPbLYIcVxJi8"
-    },
-    {
-      "added_at": "2024-11-29 07:53:34",
-      "album": {
         "name": "Love Me JeJe",
         "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 178041,
       "name": "Love Me JeJe",
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2024-11-29 07:53:34",
+      "album": {
+        "name": "Leon",
+        "url": "https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Panther City",
+      "url": "https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF"
     },
     {
       "added_at": "2024-11-29 07:53:34",
@@ -511,18 +511,26 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
+        "name": "Love & Romance II",
+        "url": "https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ"
       },
       "artists": [
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 200930,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
+      "duration_ms": 195900,
+      "name": "Love & Romance II",
+      "url": "https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3"
     },
     {
       "added_at": "2024-11-29 07:53:34",
@@ -551,30 +559,6 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "Love & Romance II",
-        "url": "https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ"
-      },
-      "artists": [
-        {
-          "name": "Ric Hassani",
-          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 195900,
-      "name": "Love & Romance II",
-      "url": "https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3"
-    },
-    {
-      "added_at": "2024-11-29 07:53:34",
-      "album": {
         "name": "Made For Me (with Mariah Carey)",
         "url": "https://open.spotify.com/album/7kLt47kt9E31gqRepjHIn7"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 189000,
       "name": "Made For Me (with Mariah Carey)",
       "url": "https://open.spotify.com/track/7A237bWglHPhH3nKGgBsRr"
+    },
+    {
+      "added_at": "2024-11-29 07:53:34",
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 200930,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S"
     },
     {
       "added_at": "2024-11-29 07:53:34",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
+        "name": "Hard Guy Confessions",
+        "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 234767,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
+    },
+    {
+      "added_at": "2024-11-29 07:53:34",
+      "album": {
         "name": "Mr Heartbreaker",
         "url": "https://open.spotify.com/album/1tsQ2imLCuZQ3ik9d7MU2f"
       },
@@ -743,22 +763,6 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "THOUGHT YOU WERE THE ONE",
-        "url": "https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 178218,
-      "name": "THOUGHT YOU WERE THE ONE",
-      "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
-    },
-    {
-      "added_at": "2024-11-29 07:53:34",
-      "album": {
         "name": "JAGUAR II : Deluxe",
         "url": "https://open.spotify.com/album/7mHd5i7hgpHiMM3BFyfRdn"
       },
@@ -775,22 +779,18 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "Hard Guy Confessions",
-        "url": "https://open.spotify.com/album/0W7BMO49kLcUma73fz8XZo"
+        "name": "THOUGHT YOU WERE THE ONE",
+        "url": "https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm"
       },
       "artists": [
         {
-          "name": "Johnny Drille",
-          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 234767,
-      "name": "Anyway",
-      "url": "https://open.spotify.com/track/5yJKvsK45OXwwx3NwgIYN6"
+      "duration_ms": 178218,
+      "name": "THOUGHT YOU WERE THE ONE",
+      "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
     },
     {
       "added_at": "2024-11-29 07:53:34",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
+        "name": "WHY",
+        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+      },
+      "artists": [
+        {
+          "name": "Sasha Keable",
+          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+        }
+      ],
+      "duration_ms": 179594,
+      "name": "WHY",
+      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
+    },
+    {
+      "added_at": "2024-11-29 07:53:34",
+      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -1015,26 +1031,6 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "Hold You Down",
-        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 158069,
-      "name": "Hold You Down",
-      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
-    },
-    {
-      "added_at": "2024-11-29 07:53:34",
-      "album": {
         "name": "I Choose You",
         "url": "https://open.spotify.com/album/77ryh1tpNBXrmZUGGwgasB"
       },
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "WHY",
-        "url": "https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR"
+        "name": "Hold You Down",
+        "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
       "artists": [
         {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 179594,
-      "name": "WHY",
-      "url": "https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg"
+      "duration_ms": 158069,
+      "name": "Hold You Down",
+      "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
     },
     {
       "added_at": "2024-11-29 07:53:34",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "Algorithm",
-        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 247526,
-      "name": "Think Different",
-      "url": "https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT"
-    },
-    {
-      "added_at": "2024-11-29 07:53:34",
-      "album": {
         "name": "F.N.F.",
         "url": "https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 129029,
       "name": "F.N.F.",
       "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
+    },
+    {
+      "added_at": "2024-11-29 07:53:34",
+      "album": {
+        "name": "Algorithm",
+        "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 247526,
+      "name": "Think Different",
+      "url": "https://open.spotify.com/track/677qOFSBpe68eqAbKu9ggT"
     },
     {
       "added_at": "2024-11-29 07:53:34",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-11-29 07:53:34",
       "album": {
-        "name": "By Any Minz",
-        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 164472,
-      "name": "lon3ly",
-      "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
-    },
-    {
-      "added_at": "2024-11-29 07:53:34",
-      "album": {
         "name": "Save Your Tears",
         "url": "https://open.spotify.com/album/5OsEbjWD8EokWIDtnu7kB9"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 144545,
       "name": "Save Your Tears",
       "url": "https://open.spotify.com/track/46GFekGGrmoINYhMJInH4e"
+    },
+    {
+      "added_at": "2024-11-29 07:53:34",
+      "album": {
+        "name": "By Any Minz",
+        "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 164472,
+      "name": "lon3ly",
+      "url": "https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf"
     },
     {
       "added_at": "2024-11-29 07:53:34",

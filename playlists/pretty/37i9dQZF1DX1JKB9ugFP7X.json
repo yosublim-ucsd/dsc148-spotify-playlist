@@ -123,18 +123,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
         }
       ],
-      "duration_ms": 152425,
-      "name": "1Amor",
-      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+      "duration_ms": 286424,
+      "name": "No Van a Parar",
+      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -151,6 +151,38 @@
       "duration_ms": 170848,
       "name": "Nuestro Vuelo",
       "url": "https://open.spotify.com/track/0P3ABqtwEYh7mHstHzDBnA"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 152425,
+      "name": "1Amor",
+      "url": "https://open.spotify.com/track/44FRdgBmwq8LEgDtjBDkiu"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Paralelos",
+        "url": "https://open.spotify.com/album/546I7TC2jo8xjpQ8wOdYWl"
+      },
+      "artists": [
+        {
+          "name": "Letizia Vocos",
+          "url": "https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Paralelos",
+      "url": "https://open.spotify.com/track/5w3HWGK9jV9Q4CJRnpDtCe"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -179,54 +211,6 @@
       "duration_ms": 145573,
       "name": "RESPIRAR",
       "url": "https://open.spotify.com/track/4WSrc5DozzVTtZcGafsVvf"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Paralelos",
-        "url": "https://open.spotify.com/album/546I7TC2jo8xjpQ8wOdYWl"
-      },
-      "artists": [
-        {
-          "name": "Letizia Vocos",
-          "url": "https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Paralelos",
-      "url": "https://open.spotify.com/track/5w3HWGK9jV9Q4CJRnpDtCe"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 286424,
-      "name": "No Van a Parar",
-      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 163994,
-      "name": "Yegua",
-      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -347,6 +331,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "ACUARIO",
         "url": "https://open.spotify.com/album/5gxF2FABOq6pp3egtmYdlr"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "MOTIVEISHON",
-        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 158035,
-      "name": "MOTIVEISHON",
-      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Desorden",
         "url": "https://open.spotify.com/album/1AePedyRPFkUCs80EPerMZ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "MOTIVEISHON",
+        "url": "https://open.spotify.com/album/0g59CBu6GWWJO8QGWS2uhD"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 158035,
+      "name": "MOTIVEISHON",
+      "url": "https://open.spotify.com/track/35bxOftuO0ljnk35fJCbCY"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "FRIENDZONE",
+        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
+      },
+      "artists": [
+        {
+          "name": "Lucas & The Woods",
+          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
+        }
+      ],
+      "duration_ms": 210659,
+      "name": "FRIENDZONE",
+      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "7 canciones antes de que nos corten la luz",
         "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 223278,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/2lDvFFGwcvUvStTh5t29yF"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "FRIENDZONE",
-        "url": "https://open.spotify.com/album/1NHbPkbVifHFoUNUjds3rj"
-      },
-      "artists": [
-        {
-          "name": "Lucas & The Woods",
-          "url": "https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA"
-        }
-      ],
-      "duration_ms": 210659,
-      "name": "FRIENDZONE",
-      "url": "https://open.spotify.com/track/6ifxoXGBxLp7O967IDt67l"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1163,26 +1163,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "FLAPS",
-        "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        },
-        {
-          "name": "ELET\u00c9",
-          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Flaps",
-      "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Secreto a Voces",
         "url": "https://open.spotify.com/album/2mnjtPOAd0i4j7HkbL9ie7"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 179950,
       "name": "Dir\u00e9 tu nombre",
       "url": "https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "FLAPS",
+        "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        },
+        {
+          "name": "ELET\u00c9",
+          "url": "https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Flaps",
+      "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Atempera la Distancia (Club Set)",
-        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        }
-      ],
-      "duration_ms": 2137877,
-      "name": "Atempera la Distancia (Club Set)",
-      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Si No Vas a Venir",
         "url": "https://open.spotify.com/album/4vL3R4Uk9K9ufB0AgTfBly"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 191854,
       "name": "Si No Vas a Venir",
       "url": "https://open.spotify.com/track/3hidaSrCNgyYYYIWqk0EMh"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Atempera la Distancia (Club Set)",
+        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        }
+      ],
+      "duration_ms": 2137877,
+      "name": "Atempera la Distancia (Club Set)",
+      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
     },
     {
       "added_at": "2024-11-15 03:00:00",

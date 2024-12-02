@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-94 songs - 5 hr 17 min
+95 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [De Cero](https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMEN](https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6) | 3:51 | 2024-01-29 |  |
 | [De Negra a Negra](https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [De Negra a Negra](https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp) | 2:45 | 2024-01-29 |  |
 | [De Verde Una Hectárea](https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Verde Una Hectárea](https://open.spotify.com/album/0Ki6JrEdXYE7HqsQAktUYq) | 2:23 | 2024-01-29 | 2024-06-25 |
-| [DOCTOR DEL BARRIO](https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:21 | 2024-01-29 |  |
+| [DOCTOR DEL BARRIO](https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:21 | 2024-01-29 | 2024-12-02 |
 | [Duele](https://open.spotify.com/track/48ZdF2LKw0IsgwdDaFpUsX) | [Rigo V](https://open.spotify.com/artist/2OrdbIVrQKIvjm90oSGi7L), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Duele](https://open.spotify.com/album/0eLv2WcLX7SmQULAp1MKhJ) | 3:07 | 2024-01-29 | 2024-02-10 |
 | [Déjame Llevarte](https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mariachi Tumbado](https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU) | 2:42 | 2024-01-29 |  |
 | [déjame vivir](https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 3:27 | 2024-01-29 | 2024-06-03 |
@@ -95,6 +95,7 @@
 | [Trato De Muerte \- En Vivo](https://open.spotify.com/track/22QCnHj9YU33d0IfjhQadE) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Trato De Muerte \(En Vivo\)](https://open.spotify.com/album/3ExhBTPMqMnOqCDTwF1FKu) | 4:10 | 2024-01-29 |  |
 | [Tu Conciencia](https://open.spotify.com/track/1XzuxgapAUAG410B5LuidA) | [Max Peraza](https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Tu Conciencia](https://open.spotify.com/album/36nqP6gvOrWZBQJnOmapjq) | 3:49 | 2024-11-24 |  |
 | [TUMBADÓN](https://open.spotify.com/track/1nlWsqcnO3VL9UfMvEGuzY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:35 | 2024-01-29 | 2024-06-24 |
+| [TÍO LITO](https://open.spotify.com/track/1kl8WWxQ2chrpQQ97CF1jR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:57 | 2024-12-02 |  |
 | [TÍO LITO](https://open.spotify.com/track/2ciwbD1E3lk13o1zODnJjL) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Tío Lito](https://open.spotify.com/album/4jNExfI0rnr7LOtTbUYAzM) | 2:57 | 2024-01-29 | 2024-07-14 |
 | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l) | [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Un Pase De Lavada \(En Vivo\)](https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7) | 3:18 | 2024-01-29 |  |
 | [Volar Contigo](https://open.spotify.com/track/0zieToB8rxTmoIya3OArDI) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Musica Romantica](https://open.spotify.com/album/6mJe3rqxZVaYauD5NxYAki) | 1:51 | 2024-03-04 | 2024-03-11 |

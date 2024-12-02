@@ -2,7 +2,7 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. bac
+> Indie, Pop und Rap mit deutschen Texten\. Cover: bac
 
 926 songs - 1 day 19 hr 58 min
 
@@ -211,7 +211,7 @@
 | [Du bist genauso..](https://open.spotify.com/track/0YGJORDkU6W3nRu69J8J9d) | [Urbannino](https://open.spotify.com/artist/4aZt5D61w5uaDQsvWxXC8T) | [Du bist genauso..](https://open.spotify.com/album/7Cd6XXoZz7FRsWhNYHACRS) | 2:56 | 2023-02-02 | 2023-03-10 |
 | [du bist mutig](https://open.spotify.com/track/2lmLJ9WYYDQJzg8xtzHxU8) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [versprochen, alles wird gut!](https://open.spotify.com/album/7s84FKFZ9CRVN1xJLGraQD) | 2:32 | 2023-02-02 | 2023-03-03 |
 | [du bist so gut zu mir\_demo](https://open.spotify.com/track/60mCqWeO8RYbRnbkQzHKdN) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [du bist so gut zu mir\_demo](https://open.spotify.com/album/4gBrGZN1CNQdLcCFikE55p) | 2:54 | 2024-11-07 | 2024-11-30 |
-| [Du fehlst mir nicht](https://open.spotify.com/track/3FNlyLuJsg9Nmy3OtlhLsP) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [Du fehlst mir nicht](https://open.spotify.com/album/506n9WJjn11a2SykIjt4Qk) | 2:25 | 2024-10-24 |  |
+| [du fehlst mir nicht](https://open.spotify.com/track/3FNlyLuJsg9Nmy3OtlhLsP) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [du fehlst mir nicht](https://open.spotify.com/album/506n9WJjn11a2SykIjt4Qk) | 2:25 | 2024-10-24 |  |
 | [Du liegst falsch](https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Du liegst falsch](https://open.spotify.com/album/7r7ZFKFwpZx9yGqwZf4PaV) | 2:54 | 2023-05-11 | 2023-06-09 |
 | [Du trägst keine Liebe in dir](https://open.spotify.com/track/21aT5lIYHjyBIFrXNbNY5U) | [Echt](https://open.spotify.com/artist/6zjMMh0ijUZ0dr6w2Pfe9P) | [Freischwimmer](https://open.spotify.com/album/0gsQ4zndeWzFIQbASQ9L3w) | 4:21 | 2024-02-13 | 2024-02-16 |
 | [Du tust mir gut](https://open.spotify.com/track/34vO1qCYNPTCIudwFc5IWB) | [STRAHLEMANN](https://open.spotify.com/artist/2PUOx9XPLqt5t2eTFnGUr8) | [Du tust mir gut](https://open.spotify.com/album/0v0tkvIaATIYxUq6jhEqq0) | 4:06 | 2024-02-22 | 2024-03-22 |

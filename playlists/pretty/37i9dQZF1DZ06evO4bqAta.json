@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
-  "num_followers": 527502,
+  "num_followers": 527579,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAD92qi4R4H++IiXqg0O2WRH",
+  "snapshot_id": "Z0pVgAAAAABCKaGlSykae0B374cMxHtR",
   "tracks": [
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 174733,
-      "name": "You're Gonna Make Me Lonesome When You Go",
-      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
+      "duration_ms": 203506,
+      "name": "Buckets of Rain",
+      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 252066,
-      "name": "It's All Over Now, Baby Blue",
-      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Morning",
         "url": "https://open.spotify.com/album/48efaobqOTbvnlxbETstey"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 252066,
+      "name": "It's All Over Now, Baby Blue",
+      "url": "https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blood On The Tracks",
         "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
       },
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 203506,
-      "name": "Buckets of Rain",
-      "url": "https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv"
+      "duration_ms": 174733,
+      "name": "You're Gonna Make Me Lonesome When You Go",
+      "url": "https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "She Belongs to Me",
-      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Infidels",
         "url": "https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 376160,
       "name": "Jokerman",
       "url": "https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "She Belongs to Me",
+      "url": "https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD"
     },
     {
       "added_at": null,

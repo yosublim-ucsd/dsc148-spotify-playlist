@@ -1,28 +1,32 @@
 {
   "description": "The best new music every Friday. Cover: Father John Misty",
-  "num_followers": 1283932,
+  "num_followers": 1284024,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lZ8QAAAADgiS53OR5fu6VF+k7vg8GZ",
+  "snapshot_id": "Z0y5aQAAAACjmBNoDpFhGKeGqc+B6QL8",
   "tracks": [
     {
-      "added_at": "2024-11-29 06:04:06",
+      "added_at": "2024-12-01 19:30:49",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/4Z7342Hg1xNXZEGNmSfCIY"
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
       },
       "artists": [
         {
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
         }
       ],
-      "duration_ms": 277640,
-      "name": "Ne Me Quitte Pas",
-      "url": "https://open.spotify.com/track/2f84CZQNDr8fqTVUaj7rFK"
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
     },
     {
       "added_at": "2024-11-22 05:06:30",
@@ -39,6 +43,26 @@
       "duration_ms": 312326,
       "name": "Josh Tillman and the Accidental Dose",
       "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
+    },
+    {
+      "added_at": "2024-11-29 06:06:25",
+      "album": {
+        "name": "Leaveyourlove",
+        "url": "https://open.spotify.com/album/0XaC8kf08riuHyWDMJfPbQ"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 214446,
+      "name": "Leaveyourlove (with MARO)",
+      "url": "https://open.spotify.com/track/4dffNnFwOuPC11Lka8tJnW"
     },
     {
       "added_at": "2024-11-29 06:04:06",
@@ -77,24 +101,52 @@
       "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
     },
     {
-      "added_at": "2024-11-29 06:06:25",
+      "added_at": "2024-11-29 06:04:06",
       "album": {
-        "name": "Leaveyourlove",
-        "url": "https://open.spotify.com/album/0XaC8kf08riuHyWDMJfPbQ"
+        "name": "Sick Dogs",
+        "url": "https://open.spotify.com/album/1TRnUbi4ZhpAhEdmfMWjow"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
         }
       ],
-      "duration_ms": 214446,
-      "name": "Leaveyourlove (with MARO)",
-      "url": "https://open.spotify.com/track/4dffNnFwOuPC11Lka8tJnW"
+      "duration_ms": 209567,
+      "name": "Sick Dogs",
+      "url": "https://open.spotify.com/track/4zSJjTUpERCuyfsTNJGyve"
+    },
+    {
+      "added_at": "2024-11-29 06:04:06",
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/4Z7342Hg1xNXZEGNmSfCIY"
+      },
+      "artists": [
+        {
+          "name": "Regina Spektor",
+          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
+        }
+      ],
+      "duration_ms": 277640,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/2f84CZQNDr8fqTVUaj7rFK"
+    },
+    {
+      "added_at": "2024-11-22 05:06:30",
+      "album": {
+        "name": "Pride Trials",
+        "url": "https://open.spotify.com/album/6UFltduAEZYKcBqplU2HMk"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Pride Trials",
+      "url": "https://open.spotify.com/track/5zuVohl16pC7vc5AgaQ4TZ"
     },
     {
       "added_at": "2024-11-22 05:06:30",
@@ -111,22 +163,6 @@
       "duration_ms": 240094,
       "name": "choke enough",
       "url": "https://open.spotify.com/track/0PPVJqXep26iUfBLvz6LOz"
-    },
-    {
-      "added_at": "2024-11-29 06:04:06",
-      "album": {
-        "name": "Sick Dogs",
-        "url": "https://open.spotify.com/album/1TRnUbi4ZhpAhEdmfMWjow"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 209567,
-      "name": "Sick Dogs",
-      "url": "https://open.spotify.com/track/4zSJjTUpERCuyfsTNJGyve"
     },
     {
       "added_at": "2024-11-22 05:06:30",
@@ -159,22 +195,6 @@
       "duration_ms": 204693,
       "name": "Scrooge",
       "url": "https://open.spotify.com/track/1StdMBW0isj2kHc7ENiORC"
-    },
-    {
-      "added_at": "2024-11-22 05:06:30",
-      "album": {
-        "name": "Pride Trials",
-        "url": "https://open.spotify.com/album/6UFltduAEZYKcBqplU2HMk"
-      },
-      "artists": [
-        {
-          "name": "Friko",
-          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Pride Trials",
-      "url": "https://open.spotify.com/track/5zuVohl16pC7vc5AgaQ4TZ"
     },
     {
       "added_at": "2024-11-29 06:04:06",
@@ -1807,22 +1827,6 @@
       "duration_ms": 219266,
       "name": "seventeen",
       "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Aqua",
-        "url": "https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 153887,
-      "name": "Aqua",
-      "url": "https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP"
     },
     {
       "added_at": "2024-11-08 05:00:00",

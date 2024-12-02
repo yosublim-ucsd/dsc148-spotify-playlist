@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 153813,
       "name": "Bauch Beine Po",
       "url": "https://open.spotify.com/track/1l7cguDPSvkOaoM19Wx40k"
@@ -8140,7 +8140,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 101533,
       "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0i77506epd8NgmHxZwMOwS"
@@ -8170,7 +8170,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 101533,
       "name": "Heavy Is The Crown - Original Score / from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2M1DKFIBC7JbtJCPFkqY0a"
@@ -8304,7 +8304,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 164773,
       "name": "Hellfire (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC"
@@ -8330,7 +8330,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 164773,
       "name": "Hellfire - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6n484S6vV8IUenkz43YzTt"
@@ -9118,7 +9118,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 161040,
       "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby"
@@ -9144,7 +9144,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 161039,
       "name": "I Can't Hear It Now - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/4l4J1USPK4D1yTdMtOifQ2"
@@ -13986,7 +13986,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 373168,
       "name": "Mystery Of Love",
       "url": "https://open.spotify.com/track/5IXNvkS9RkRfxr2p9z9v4d"
@@ -16434,7 +16434,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 161400,
       "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/7dqTJ7Ba3VtBtGTXHRK8N8"
@@ -16468,7 +16468,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 161400,
       "name": "Renegade (We Never Run) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1g6pDk9hvdVC08Qw2Sm4kX"
@@ -18036,7 +18036,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 154934,
       "name": "so als ob",
       "url": "https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ"
@@ -18760,7 +18760,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 224293,
       "name": "Sucker (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3"
@@ -18786,7 +18786,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 224293,
       "name": "Sucker - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2aF78CWbNOyppg49sCZ4Cm"
@@ -19575,6 +19575,28 @@
     },
     {
       "album": {
+        "name": "The Days (NOTION Remix)",
+        "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
+      },
+      "artists": [
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        },
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233229,
+      "name": "The Days - NOTION Remix",
+      "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+    },
+    {
+      "album": {
         "name": "From Zero",
         "url": "https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93"
       },
@@ -19855,6 +19877,24 @@
     },
     {
       "album": {
+        "name": "Those Were The Days",
+        "url": "https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Those Were The Days",
+      "url": "https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV"
+    },
+    {
+      "album": {
         "name": "Throw Some Ass",
         "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
       },
@@ -20026,7 +20066,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 245626,
       "name": "To Ashes and Blood (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk"
@@ -20052,7 +20092,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 245626,
       "name": "To Ashes and Blood - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2MAk9ErHJIxgBZRXocHhly"
@@ -21468,7 +21508,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 234250,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0gIfmjQvLWYgWmgxZ9UCog"

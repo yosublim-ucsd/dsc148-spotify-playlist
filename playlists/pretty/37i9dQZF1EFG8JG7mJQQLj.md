@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,781 likes - 445 songs - 1 day 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,789 likes - 445 songs - 1 day 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -454,4 +454,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 444 | [2 hands](https://open.spotify.com/track/2GwqVPMVmK7bOgL6UCp7Ht) | [Lil C.C.](https://open.spotify.com/artist/4Moq5aBdKJzuZtYUfcyKfr) | [2 hands](https://open.spotify.com/album/1y4nObs7YQvXu8ZwyXMChj) | 3:22 |
 | 445 | [Born To Race](https://open.spotify.com/track/0yWGRRHjwNOdApEm2gbbex) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [The Artificial Paradise Tour 中国巡演特别版](https://open.spotify.com/album/50PJ47XqwSZXA8Q165lDZW) | 3:11 |
 
-Snapshot ID: `Abi7HAAAAAA3qfln3f8HntjZre7MT+XB`
+Snapshot ID: `AbjAsgAAAAA5NSCyEfZhTy+2dZWiSUD8`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 
 > A soundscape of chilled electronic and compositional ambient music, to help you unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,278 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,277 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYeI1QdFxzU.md) - [plain]
 | 47 | [Closer \(feat\. Biishop\)](https://open.spotify.com/track/3pScJqnbEt2M4UwwgxhgaS) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Closer \(feat\. Biishop\)](https://open.spotify.com/album/1LnoDz0b3v2PsfvEBBXYrs) | 6:04 |
 | 48 | [Do It For You](https://open.spotify.com/track/4ZxdIXCycwS16uEaO4Mlby) | [Moses Ideka](https://open.spotify.com/artist/3wXkwKekKUy1Hfi60sxB8s), [phil](https://open.spotify.com/artist/7kPw0lfDERbzcrpz39TAMY) | [Do It For You](https://open.spotify.com/album/7pX0QNJsro8DaVrCBjVQHq) | 3:34 |
 | 49 | [Love In Our Hands \- Omfeel Remix](https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Love In Our Hands \(Omfeel Remix\)](https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6) | 3:38 |
-| 50 | [Fractal](https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t) | [Thomas James White](https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy) | [Fractal](https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m) | 3:42 |
+| 50 | [Opals \[Strings\]](https://open.spotify.com/track/3sXfYyVPU8qUk6s0ptba63) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Opals \[Strings\]](https://open.spotify.com/album/0rQAG1x8En0pK6ibB57C5h) | 2:46 |
 
 Snapshot ID: `ZyQaPAAAAAB+OCYjiKjgF7fCbXbbyGrx`

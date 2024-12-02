@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-324 songs - 18 hr 21 min
+325 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Beyond Imagination](https://open.spotify.com/track/65WcwboLuUCResbw2zAsov) | [Plant Guy](https://open.spotify.com/artist/0xC8LfT2owfXVS57Bcz6sH) | [In Harmony With Nature](https://open.spotify.com/album/465vmNes1v0hHkYlkS1teK) | 2:08 | 2024-07-02 |  |
 | [Beyond My Dreams](https://open.spotify.com/track/5NVkktUlAylhk7f0t63eth) | [ソヌ・ジョンア](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Extraordinary Attorney Woo \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6WHeV5qrp1tAPcMJ0ieZts) | 3:05 | 2022-07-04 | 2022-09-09 |
 | [Beyond the Veil](https://open.spotify.com/track/6kwjxS1LFHHZ79wqhvQiy1) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Beauty in the Ruins](https://open.spotify.com/album/12uDzwiFE1tdnFjyUEc67A) | 2:49 | 2024-07-02 |  |
+| [Beyond the Waves](https://open.spotify.com/track/6uB4JeqeiGxYn1pswrC7rX) | [Amudo](https://open.spotify.com/artist/450Pl1XHVOL4a2NofP0Kan), [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Beyond the Waves](https://open.spotify.com/album/2JNdOx7Y8ESNTPawE3ATOr) | 2:50 | 2024-07-02 |  |
 | [Birds](https://open.spotify.com/track/036lPK1hs7BhEIznZ1OGBy) | [Wünsche](https://open.spotify.com/artist/6la2xjnhxnRYP3iZ3suP9H) | [Sunday Vibes](https://open.spotify.com/album/5iiG3fMlS9zc9ehx43qpzf) | 2:13 | 2024-07-02 |  |
 | [Bit by Bit, Slowly, To You](https://open.spotify.com/track/31X1N4lrop817FGBLsIBsv) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Bit by Bit, Slowly, To You](https://open.spotify.com/album/4I5jPCjaATIgV3ADJdBoDE) | 4:16 | 2023-05-02 | 2024-07-03 |
 | [Blanca](https://open.spotify.com/track/6dKTWFaypAL4e5Hzie6zZp) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:13 | 2024-07-02 | 2024-11-04 |
@@ -108,7 +109,7 @@
 | [Future's Beyond](https://open.spotify.com/track/5fma20q3kzd2W8Z7FIX5gR) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [The Spirit Within](https://open.spotify.com/album/2WRZe6iJDSjOapah1f2oG4) | 2:52 | 2024-07-02 | 2024-11-28 |
 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 | 2022-05-03 | 2024-07-03 |
 | [Garden](https://open.spotify.com/track/0odZSHqoof9UZWUrZqg3L0) | [Jackingcong 잭킹콩](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:22 | 2022-05-03 | 2022-07-15 |
-| [Gardens of Suzhou](https://open.spotify.com/track/76RjpMjFxsvHOTA5Qj3D5C) | [ProdbyTobi](https://open.spotify.com/artist/4854MRSY0HY6k9i0qGQuw5) | [Gardens of Suzhou](https://open.spotify.com/album/5629ZkcYKMHYkKLxoiz80x) | 2:01 | 2024-07-02 |  |
+| [Gardens of Suzhou](https://open.spotify.com/track/76RjpMjFxsvHOTA5Qj3D5C) | [ProdbyTobi](https://open.spotify.com/artist/4854MRSY0HY6k9i0qGQuw5) | [Gardens of Suzhou](https://open.spotify.com/album/5629ZkcYKMHYkKLxoiz80x) | 2:01 | 2024-07-02 | 2024-12-02 |
 | [garlic odor \- instrumental](https://open.spotify.com/track/3QmKJbvk7XfnHZAI3Xpgh4) | [스칼렛킴](https://open.spotify.com/artist/1KdPniIkzzws7qAkJ8XsJ5) | [garlic odor](https://open.spotify.com/album/0RNSNjz78BukyCrG4A9Y13) | 4:01 | 2022-05-03 | 2022-07-22 |
 | [Give Me Your](https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:40 | 2022-05-03 | 2024-07-03 |
 | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/track/7tWjUGBX3NT5gBkXqdOCrO) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Good Day \(My love X LEESEOKHOON\)](https://open.spotify.com/album/3bRoxwAudIAm6HI13JyBAl) | 4:05 | 2023-07-17 | 2024-07-03 |

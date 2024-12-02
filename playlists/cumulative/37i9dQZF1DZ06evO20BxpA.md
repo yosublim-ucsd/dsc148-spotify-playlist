@@ -4,7 +4,7 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-111 songs - 5 hr 1 min
+112 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Fueled Up and Headed South](https://open.spotify.com/track/1oBK5XvntJSWaz4jHYDPXB) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:11 | 2023-08-04 |  |
 | [Fury Drives Into Camp](https://open.spotify.com/track/2NXeTH7dHhHP1HaO8plidQ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 1:50 | 2023-08-04 | 2024-11-17 |
 | [Gravity](https://open.spotify.com/track/2mFea4DOhY3iShay4BQ0se) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 4:35 | 2023-08-04 |  |
-| [Help Us Please](https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:53 | 2024-11-27 |  |
+| [Help Us Please](https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:53 | 2024-11-27 | 2024-12-02 |
 | [Hideaway Medley](https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Wonder Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A) | 4:58 | 2024-04-20 |  |
 | [How Much Longer](https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Frozen Worlds \(Episode 2 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq) | 1:21 | 2023-08-04 |  |
 | [I Should Tell You My Story Myself](https://open.spotify.com/track/5ei9JGRHRb4Yu9WNUnWslc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:44 | 2024-04-28 | 2024-11-14 |
@@ -103,6 +103,7 @@
 | [This Is My Witness Statement](https://open.spotify.com/track/1WIx5473piMKVOJ7ZD3fdZ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [David Attenborough](https://open.spotify.com/artist/4QJpMVEZA1B0MkdW0jDMX4) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:35 | 2024-04-02 |  |
 | [This Is Our Planet \- From "Our Planet"](https://open.spotify.com/track/1twnThKLYDlaKpP4WSW2QS) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Our Planet \(Music from the Netflix Original Series\)](https://open.spotify.com/album/0ZezQOdAapwO3fY9JToSCi) | 3:43 | 2023-08-04 |  |
 | [This Road is a Suicide Mission](https://open.spotify.com/track/15Vk6UHrHlpCpgwqhSQN7d) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:38 | 2023-09-02 | 2024-11-20 |
+| [This Was A Beautiful Dream](https://open.spotify.com/track/5xb8ABDPvuMKvv6facxQsJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:48 | 2024-12-02 |  |
 | [Tiangong](https://open.spotify.com/track/2yImRJOeJ6r7STCWs1xfal) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Gravity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74wV2lmFaeLdSny2CU7EQw) | 6:28 | 2024-04-22 | 2024-11-08 |
 | [Times of Crisis](https://open.spotify.com/track/4P1YmLDYkeQstUfVzeSVdr) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 5:47 | 2024-06-28 | 2024-07-10 |
 | [To Have Adventures](https://open.spotify.com/track/0r4qZ9FMUuzn7D2fv9IPDp) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 2:22 | 2024-06-28 |  |

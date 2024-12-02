@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: okkaaa
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,621 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,626 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 23 | [空とぶ東京](https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:12 |
 | 24 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 |
 | 25 | [夜的平成浪漫](https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [夜的平成浪漫](https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y) | 3:27 |
-| 26 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
+| 26 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 |
 | 27 | [たまに君のことを思い出してしまうよな](https://open.spotify.com/track/4aG1OcjFA4tAR04n1MI4jD) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [月刊エスケープ](https://open.spotify.com/album/11NTb0Ln56CnPtzKK1RRZF) | 4:11 |
-| 28 | [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 |
-| 29 | [Alone in the Sky](https://open.spotify.com/track/14x0Y9WmUG3C82BxJhnR2n) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Alone in the Sky](https://open.spotify.com/album/1rZZaAycfdqKMcbKuwI5Pg) | 4:29 |
-| 30 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
+| 28 | [Ethos](https://open.spotify.com/track/0n3ooBHGE7eIgw4clwaJng) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pathway](https://open.spotify.com/album/4dHbnwsdpchOW8gOhN13ku) | 3:51 |
+| 29 | [近頃](https://open.spotify.com/track/7FBNfAjU02PvZHjpNGEgPI) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [近頃](https://open.spotify.com/album/5u6n1FhTOnppyabXA4Vq5V) | 3:54 |
+| 30 | [Alone in the Sky](https://open.spotify.com/track/14x0Y9WmUG3C82BxJhnR2n) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa) | [Alone in the Sky](https://open.spotify.com/album/1rZZaAycfdqKMcbKuwI5Pg) | 4:29 |
 | 31 | [Unlucky!!](https://open.spotify.com/track/2OBYXeH83Bf0hzpgdbvPVc) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Unlucky!!](https://open.spotify.com/album/2BOvgYoO9BpcpfnQZjHizV) | 3:35 |
-| 32 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
-| 33 | [近頃](https://open.spotify.com/track/7FBNfAjU02PvZHjpNGEgPI) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [近頃](https://open.spotify.com/album/5u6n1FhTOnppyabXA4Vq5V) | 3:54 |
+| 32 | [柔軟剤DOPE](https://open.spotify.com/track/4spejADF7LvzAgJgQ5mALs) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [柔軟剤DOPE](https://open.spotify.com/album/2lkc4Gh2NVhHGA2qI9h1y7) | 3:06 |
+| 33 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 |
 | 34 | [あいしてる](https://open.spotify.com/track/6trUP516D5vXLLBrNgyn2Y) | [MOROHA](https://open.spotify.com/artist/1pMaZSxaThVebPEWM3QXlY) | [あいしてる](https://open.spotify.com/album/28LObq2FDfWvs8tAvQy9L4) | 5:39 |
 | 35 | [教室](https://open.spotify.com/track/1ZXFFU0y2lRb720TQx6d7F) | [Meg Bonus](https://open.spotify.com/artist/0BEEpuk86319ft7cb4jxei) | [教室](https://open.spotify.com/album/57CEZjUNjOTpDBlqKzlI8h) | 3:55 |
 | 36 | [ブルーライト](https://open.spotify.com/track/6PbCnxdWt2sxv1V4cDRDS9) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [ブルーライト](https://open.spotify.com/album/13FfzSty8Mw77tHNyPE3cu) | 3:55 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 46 | [Dangomushi](https://open.spotify.com/track/3W8pwBzT8ZqYbW45X7lotM) | [Mei Semones](https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR) | [Dangomushi](https://open.spotify.com/album/0FKaTqPn6qJYboQTcER1zk) | 3:19 |
 | 47 | [夏よ](https://open.spotify.com/track/7IFsYuLbVwgnz0567conyw) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [夏よ](https://open.spotify.com/album/5Z2I4wSUZqzPinSUZWP5ph) | 4:59 |
 | 48 | [ふたりの映画](https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ふたりの映画](https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII) | 3:27 |
-| 49 | [Summer Days](https://open.spotify.com/track/2efC256b9fQBjpxJDHP2me) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Summer Days](https://open.spotify.com/album/5MLq5dpMMTL0F1RDDmfleu) | 3:49 |
-| 50 | [好人紀行](https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [好人紀行](https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun) | 4:03 |
+| 49 | [好人紀行](https://open.spotify.com/track/77y1TjSTPoJpK4Qfvi2gHP) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [好人紀行](https://open.spotify.com/album/0PPj5HcWUa6ltwCmR0lRun) | 4:03 |
+| 50 | [Summer Days](https://open.spotify.com/track/2efC256b9fQBjpxJDHP2me) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Summer Days](https://open.spotify.com/album/5MLq5dpMMTL0F1RDDmfleu) | 3:49 |
 | 51 | [Make a Move](https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Make a Move](https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7) | 2:37 |
 | 52 | [Shock!!中毒](https://open.spotify.com/track/1g584j4sEZq6LhAfUC40WD) | [Geloomy](https://open.spotify.com/artist/21NKv3DBcDuDjOCxipK7KK) | [Saladbowl](https://open.spotify.com/album/2Pakq7Nsj44ldFvvCvalLt) | 3:29 |
 | 53 | [slowboat](https://open.spotify.com/track/5rtc1aVVpRccHDNfagpZO2) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [see you, frail angel\. sea adore you.](https://open.spotify.com/album/4jTSkoy7zC33s4GS4znEba) | 3:55 |
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 56 | [花吹雪](https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [花吹雪](https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y) | 3:55 |
 | 57 | [離れていたって](https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [離れていたって](https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX) | 4:34 |
 | 58 | [逆らう羽](https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [逆らう羽](https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU) | 3:15 |
-| 59 | [トーキョーリバー](https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki) | [ALBATROSS](https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47) | [トーキョーリバー](https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd) | 3:44 |
-| 60 | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ) | 3:12 |
+| 59 | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks) | [Sorrow \(feat\. Mandark\)](https://open.spotify.com/album/4g4MowiT8Au4qUYZABRcyQ) | 3:12 |
+| 60 | [トーキョーリバー](https://open.spotify.com/track/5NAOdhbM918YIMCMJYPhki) | [ALBATROSS](https://open.spotify.com/artist/53s4vlGVj7prldEOUH8m47) | [トーキョーリバー](https://open.spotify.com/album/29GTK9XNnNHCvxi8bPvRYd) | 3:44 |
 | 61 | [双子座\(gemini\)](https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [双子座\(gemini\)](https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1) | 4:22 |
 | 62 | [SUKIYAKI](https://open.spotify.com/track/1Ps2Yky3EWKGuB48xK0xti) | [DONGROSSO](https://open.spotify.com/artist/7nRjb0R3RLVlbwHq3f5gTA), [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v), [Mondo Grosso](https://open.spotify.com/artist/4d2zOuYJHBPJTpVblHEKJb) | [SUKIYAKI](https://open.spotify.com/album/02CLGJbTjSEvYeqa9SIUz0) | 2:29 |
 | 63 | [あたしの全部を愛せない](https://open.spotify.com/track/4Lz2o8TYE2p39ZUJaFpsmk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [あたしの全部を愛せない](https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ) | 3:18 |
-| 64 | [キリコ](https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [キリコ](https://open.spotify.com/album/5oTBl4jE0kOqmrZefDnjOC) | 3:44 |
-| 65 | [Thirsty](https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Thirsty](https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3) | 2:44 |
-| 66 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 |
-| 67 | [チャーミー](https://open.spotify.com/track/2uYVZuH5I0V7ttt6K1joAY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [チャーミー](https://open.spotify.com/album/4be8Zrc2bh0nwNx8ylHlp5) | 3:57 |
-| 68 | [友達さ](https://open.spotify.com/track/5vGQOBvW6CjTURv0eWzRD5) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [友達さ](https://open.spotify.com/album/5BOiW920qSofYvKGfM6zpP) | 2:30 |
-| 69 | [Garden of Remembrance](https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [「Garden of Remembrance」劇中曲](https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz) | 7:16 |
-| 70 | [地下鉄の揺れるリズムで](https://open.spotify.com/track/3yFvHFqIWNFhJNcQw3C3Lx) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [村上基](https://open.spotify.com/artist/4EKTa0k3mRu5mJT5HcRRVu) | [地下鉄の揺れるリズムで](https://open.spotify.com/album/4QG8QxpqHUBXucaDMWxPy9) | 3:39 |
+| 64 | [Oppressed](https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Oppressed](https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ) | 5:15 |
+| 65 | [キリコ](https://open.spotify.com/track/4GEbfJOxBQjCbTtG9CPZY9) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5) | [キリコ](https://open.spotify.com/album/5oTBl4jE0kOqmrZefDnjOC) | 3:44 |
+| 66 | [Thirsty](https://open.spotify.com/track/3RuXVFUyACarEYmHBimSkr) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Thirsty](https://open.spotify.com/album/1bAuFD7N2XwXvYCOgmgVr3) | 2:44 |
+| 67 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 |
+| 68 | [チャーミー](https://open.spotify.com/track/2uYVZuH5I0V7ttt6K1joAY) | [Sundae May Club](https://open.spotify.com/artist/75EyBBrypGbb1fNT8dagLM) | [チャーミー](https://open.spotify.com/album/4be8Zrc2bh0nwNx8ylHlp5) | 3:57 |
+| 69 | [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 |
+| 70 | [Garden of Remembrance](https://open.spotify.com/track/1z2BwXcCg7udJjekN3JuMh) | [Lovely Summer Chan](https://open.spotify.com/artist/4nA0WP72lQ6494sT3xbips) | [「Garden of Remembrance」劇中曲](https://open.spotify.com/album/5EWWd1nPJMu0XtKvpNSwkz) | 7:16 |
 | 71 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 |
-| 72 | [美化](https://open.spotify.com/track/6dcKUjWtsBHnd2aDE4OZpF) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [美化](https://open.spotify.com/album/4wjK345il8zPqTWnOV7wFR) | 4:36 |
-| 73 | [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 |
-| 74 | [カーテンコール](https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [カーテンコール](https://open.spotify.com/album/7MuNNuwO7FnpHzYJeuom7W) | 2:54 |
-| 75 | [Oppressed](https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Oppressed](https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ) | 5:15 |
+| 72 | [地下鉄の揺れるリズムで](https://open.spotify.com/track/3yFvHFqIWNFhJNcQw3C3Lx) | [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [村上基](https://open.spotify.com/artist/4EKTa0k3mRu5mJT5HcRRVu) | [地下鉄の揺れるリズムで](https://open.spotify.com/album/4QG8QxpqHUBXucaDMWxPy9) | 3:39 |
+| 73 | [友達さ](https://open.spotify.com/track/5vGQOBvW6CjTURv0eWzRD5) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [友達さ](https://open.spotify.com/album/5BOiW920qSofYvKGfM6zpP) | 2:30 |
+| 74 | [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 |
+| 75 | [美化](https://open.spotify.com/track/6dcKUjWtsBHnd2aDE4OZpF) | [碧海祐人](https://open.spotify.com/artist/7xgHL7lpJ2OsAz3akd1OIk) | [美化](https://open.spotify.com/album/4wjK345il8zPqTWnOV7wFR) | 4:36 |
 
 Snapshot ID: `Z0dCZAAAAADSisC1ZaZrCu5ZMParEYnW`

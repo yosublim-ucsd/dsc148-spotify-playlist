@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> Indie, Pop und Rap mit deutschen Texten\. bac
+> Indie, Pop und Rap mit deutschen Texten\. Cover: bac
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,719 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,778 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,15 +12,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 2 | [Kaputt](https://open.spotify.com/track/6WcoNRqn0qQwENrZtdu5r6) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Kaputt](https://open.spotify.com/album/73XBDICD2Sh25w7K29XRS4) | 2:17 |
 | 3 | [Abwarten](https://open.spotify.com/track/1y9yVDYBqXIb8Z9lpUqiOk) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Please Hold The Line](https://open.spotify.com/album/5EetiFf1iFwNbXpsDixYer) | 3:39 |
 | 4 | [Fliegen](https://open.spotify.com/track/4lnLVhGxv1YnJEJIComb9x) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Fliegen](https://open.spotify.com/album/5Z9fgbNT54fpXKYRvhwMw5) | 2:24 |
-| 5 | [Richtung Sonne \- OSWALD Remix](https://open.spotify.com/track/5yztbDRTINrSR1Ut01bjwk) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [Richtung Sonne \(OSWALD Remix\)](https://open.spotify.com/album/3ypykdBTksF0I61XbEdb3m) | 3:19 |
-| 6 | [FLUCHTPUNKT](https://open.spotify.com/track/6vLP06PnA9iiXmxYllMDic) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [FLUCHTPUNKT](https://open.spotify.com/album/4yL0q11UYZgpzsFPwJEgDU) | 2:53 |
-| 7 | [gewinner\_v2](https://open.spotify.com/track/4zECUk7oFraVwDUf3x6uR5) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [gewinner\_v2](https://open.spotify.com/album/4TiEvaUQrDTe2JYIoPhBL4) | 2:35 |
-| 8 | [Ich hab Angst](https://open.spotify.com/track/39laCiQUfz9UO7E2gHWoVy) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Ich hab Angst](https://open.spotify.com/album/1hUaelyLAfs3iyb0gJfwIZ) | 3:01 |
-| 9 | [halbes herz](https://open.spotify.com/track/69LgQSF4ZNUaY0t7omohPB) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [halbes herz](https://open.spotify.com/album/6BhcbDHEvSVvKYrd4z98iy) | 2:06 |
-| 10 | [copyshop](https://open.spotify.com/track/6oZ5yazbBudOJyeY5uMcrc) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [copyshop](https://open.spotify.com/album/71NuRWIs7OLOKMQ3pl2Crk) | 2:21 |
-| 11 | [Taxi Driver](https://open.spotify.com/track/64rGg0Z0zgI1IXBC0OSC3f) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Taxi Driver](https://open.spotify.com/album/3Leuea3KWZC65rrij7sTcT) | 2:30 |
-| 12 | [Enten & Schweine](https://open.spotify.com/track/6BuJNZ1yxmHUSuQKiSp8RG) | [Katzi](https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m) | [Enten & Schweine](https://open.spotify.com/album/6dywNStumsvdVM5WnNMWMQ) | 3:04 |
-| 13 | [redest](https://open.spotify.com/track/2Zt9I3FeTu9MSoa7GXwepw) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [redest](https://open.spotify.com/album/1BVFlWGV3UUV74XZZG3oKT) | 2:52 |
+| 5 | [Ich hab Angst](https://open.spotify.com/track/39laCiQUfz9UO7E2gHWoVy) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Ich hab Angst](https://open.spotify.com/album/1hUaelyLAfs3iyb0gJfwIZ) | 3:01 |
+| 6 | [halbes herz](https://open.spotify.com/track/69LgQSF4ZNUaY0t7omohPB) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [halbes herz](https://open.spotify.com/album/6BhcbDHEvSVvKYrd4z98iy) | 2:06 |
+| 7 | [Richtung Sonne \- OSWALD Remix](https://open.spotify.com/track/5yztbDRTINrSR1Ut01bjwk) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB) | [Richtung Sonne \(OSWALD Remix\)](https://open.spotify.com/album/3ypykdBTksF0I61XbEdb3m) | 3:19 |
+| 8 | [FLUCHTPUNKT](https://open.spotify.com/track/6vLP06PnA9iiXmxYllMDic) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [FLUCHTPUNKT](https://open.spotify.com/album/4yL0q11UYZgpzsFPwJEgDU) | 2:53 |
+| 9 | [gewinner\_v2](https://open.spotify.com/track/4zECUk7oFraVwDUf3x6uR5) | [TJARK](https://open.spotify.com/artist/2B4IGE6llHgdQsc4kqI5zF) | [gewinner\_v2](https://open.spotify.com/album/4TiEvaUQrDTe2JYIoPhBL4) | 2:35 |
+| 10 | [redest](https://open.spotify.com/track/2Zt9I3FeTu9MSoa7GXwepw) | [rosmarin](https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK) | [redest](https://open.spotify.com/album/1BVFlWGV3UUV74XZZG3oKT) | 2:52 |
+| 11 | [copyshop](https://open.spotify.com/track/6oZ5yazbBudOJyeY5uMcrc) | [Ben Georgi](https://open.spotify.com/artist/0Icff016QfGbMdrpwHoYO6) | [copyshop](https://open.spotify.com/album/71NuRWIs7OLOKMQ3pl2Crk) | 2:21 |
+| 12 | [Taxi Driver](https://open.spotify.com/track/64rGg0Z0zgI1IXBC0OSC3f) | [Marie Bothmer](https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB) | [Taxi Driver](https://open.spotify.com/album/3Leuea3KWZC65rrij7sTcT) | 2:30 |
+| 13 | [Enten & Schweine](https://open.spotify.com/track/6BuJNZ1yxmHUSuQKiSp8RG) | [Katzi](https://open.spotify.com/artist/7wELxFDgA5UWcQ4LXFq99m) | [Enten & Schweine](https://open.spotify.com/album/6dywNStumsvdVM5WnNMWMQ) | 3:04 |
 | 14 | [Hals über Kopf](https://open.spotify.com/track/0bJET87Db6DDCGEbvaChdg) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO), [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Hals über Kopf](https://open.spotify.com/album/43o5uTxyHMoY9J4WHg9hya) | 2:19 |
 | 15 | [ROSEN UND DORNEN](https://open.spotify.com/track/3FZLvkni0BXAzyDJbgzFDf) | [kei](https://open.spotify.com/artist/2ASO52lG12R04s6lsYOOht) | [DU > ICH](https://open.spotify.com/album/3N2BsxhtgGox4yFLgWMGzQ) | 2:00 |
 | 16 | [renn renn](https://open.spotify.com/track/04rMp9aeg6jl1H8uFFAIeV) | [Cocon](https://open.spotify.com/artist/37O1JxzsmW46wxTE2qdShj) | [renn renn](https://open.spotify.com/album/5kHFSSrfHG59M6lmPO9PaT) | 2:28 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 67 | [kaputt](https://open.spotify.com/track/0dqyu1uge0tfnblPH9gFKp) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [bulletholes](https://open.spotify.com/album/3tOztFpIobGXqNv2a8J0DV) | 2:10 |
 | 68 | [Augen in der Nacht](https://open.spotify.com/track/3BwaaH4h6ZNbqiZXfuLdGf) | [Apsilon](https://open.spotify.com/artist/6JqtADDgBVPjLBRFwqjuFm), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS) | [Haut wie Pelz](https://open.spotify.com/album/4T2qkNdnj5uhGhE73vTL4p) | 3:02 |
 | 69 | [sterne \(sehen\)](https://open.spotify.com/track/3T89eCrITaSdRKovtzqzUR) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [sterne \(sehen\)](https://open.spotify.com/album/14zt5jp4HcpFO5ulBfmK08) | 2:35 |
-| 70 | [Du fehlst mir nicht](https://open.spotify.com/track/3FNlyLuJsg9Nmy3OtlhLsP) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [Du fehlst mir nicht](https://open.spotify.com/album/506n9WJjn11a2SykIjt4Qk) | 2:25 |
+| 70 | [du fehlst mir nicht](https://open.spotify.com/track/3FNlyLuJsg9Nmy3OtlhLsP) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [du fehlst mir nicht](https://open.spotify.com/album/506n9WJjn11a2SykIjt4Qk) | 2:25 |
 | 71 | [PIROUETTEN](https://open.spotify.com/track/3Vw4SxsPsVwG4xwK3Il0mP) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [berq](https://open.spotify.com/album/0IuwP0usnrJ9wU5PEyELdn) | 2:27 |
 | 72 | [Innenhof](https://open.spotify.com/track/57IRJnCO1pkHBdSBL4e08X) | [Jette Sorgenfrey](https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT) | [Innenhof](https://open.spotify.com/album/6zYNjyY25QsA5bTiQUgxv7) | 2:31 |
 | 73 | [Andy Warhol](https://open.spotify.com/track/1ntKmi4apttIwXDvoe0fst) | [Schlotte](https://open.spotify.com/artist/03Byt9yTdvkbjk0YH4d9Nv), [laurin](https://open.spotify.com/artist/3q83tWgyV2Kuv7cyRXOCIT) | [Andy Warhol](https://open.spotify.com/album/3tdMP4gGlBfTRUgZaZXYer) | 3:30 |
 | 74 | [Seifenspender](https://open.spotify.com/track/3i4JuEQQ9EuSzWH8QIjZHy) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seifenspender](https://open.spotify.com/album/5S3Sinq4pawxn7jzTkXwi6) | 2:44 |
 | 75 | [Navigator](https://open.spotify.com/track/3AiDiUU4kVYvZvBMTgbv1D) | [Fuffifufzich](https://open.spotify.com/artist/0OTPSlPphf1sKeK7rjl2uv), [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [Navigator](https://open.spotify.com/album/73huVv5n13dxaY5CNE1rvx) | 3:29 |
 
-Snapshot ID: `Z0l7NgAAAAB9v83e7dCqM18XfXeg9Tpg`
+Snapshot ID: `Z0x1nQAAAACDVfrnNNvmpU8ksu7hrAfk`

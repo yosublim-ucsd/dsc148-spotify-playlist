@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAABpK4C4g2QlTqodooiZUz+j",
+  "snapshot_id": "Z0pVgAAAAAAruBC2blRCx+LH0sV1onGH",
   "tracks": [
     {
       "added_at": null,
@@ -107,26 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Time's Up",
-        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 173752,
-      "name": "Female Goat",
-      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -143,6 +123,26 @@
       "duration_ms": 218332,
       "name": "Pussy Talk",
       "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 173752,
+      "name": "Female Goat",
+      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "City On Lock",
-        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 131631,
-      "name": "Double CC's",
-      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Act Bad",
         "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 192000,
       "name": "Act Bad",
       "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 131631,
+      "name": "Double CC's",
+      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 13910,
+  "num_followers": 13932,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAABjna7PN/TfbEuAxE7/bCS8",
+  "snapshot_id": "Z0pVgAAAAAAH1TlsqP7ZW/EqENz3oaZH",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
+        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Pu\u00f1o De Tierra",
         "url": "https://open.spotify.com/album/1a409Jfx8qZCYvza4afRjb"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 170400,
       "name": "Un Pu\u00f1o De Tierra",
       "url": "https://open.spotify.com/track/6aCH4XhrhW0AG7NVZghJad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Canta Con El Coraz\u00f3n (Deluxe)",
-        "url": "https://open.spotify.com/album/1zTVZRbaClXtUAt9s6tdSg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
     },
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "Se Solicita",
+      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Meta Contigo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3cJhX1Yrdox0e3HSawIePg"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 188066,
       "name": "Mi Meta Contigo - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/5DUGx0K4LR3aRPDFphYNzf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "Se Solicita",
-      "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Te Enamores",
         "url": "https://open.spotify.com/album/1a14TBSWfnPbsB4zDNXu2f"
       },
@@ -483,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
       "artists": [
         {
@@ -492,29 +508,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 180320,
-      "name": "Cuando Hablo De Ti",
-      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Te Super\u00e9 (Volumen 2)",
-        "url": "https://open.spotify.com/album/7nEzOAzKWf168xcYxPLSPa"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 196013,
-      "name": "Ya Te Super\u00e9 - Volumen 2",
-      "url": "https://open.spotify.com/track/0Imn72HDv2VWXLiQcK8iGr"
+      "duration_ms": 203120,
+      "name": "Como Tu Mujer",
+      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+        "name": "Ya Te Super\u00e9 (Volumen 2)",
+        "url": "https://open.spotify.com/album/7nEzOAzKWf168xcYxPLSPa"
       },
       "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        },
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 203120,
-      "name": "Como Tu Mujer",
-      "url": "https://open.spotify.com/track/57JZ9W08J23nZp58MB8aOE"
+      "duration_ms": 196013,
+      "name": "Ya Te Super\u00e9 - Volumen 2",
+      "url": "https://open.spotify.com/track/0Imn72HDv2VWXLiQcK8iGr"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 281560,
+      "name": "Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Una Buena Ranchera",
         "url": "https://open.spotify.com/album/7IoUq5HJ2Z5lYIP5Gk36Yo"
       },
@@ -771,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+        "name": "En Toda La Chapa",
+        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
       },
       "artists": [
         {
@@ -780,9 +796,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 281560,
-      "name": "Cucurrucuc\u00fa Paloma",
-      "url": "https://open.spotify.com/track/3srZIe4lQlKPMBY6NMOJgc"
+      "duration_ms": 177053,
+      "name": "En Toda La Chapa",
+      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
     },
     {
       "added_at": null,
@@ -799,22 +815,6 @@
       "duration_ms": 168866,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Toda La Chapa",
-        "url": "https://open.spotify.com/album/2erq5i5VDRtcuy9dZ94KcL"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "En Toda La Chapa",
-      "url": "https://open.spotify.com/track/0lQS5SFMbECLut107qQFc1"
     },
     {
       "added_at": null,

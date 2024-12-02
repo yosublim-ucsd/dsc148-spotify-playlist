@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Father John Misty
 
-8,025 songs - 19 day 11 hr 48 min
+8,026 songs - 19 day 11 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -481,7 +481,7 @@
 | [April](https://open.spotify.com/track/62xIrqNecImITUzBEDYH3S) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [April](https://open.spotify.com/album/01vJILu1nYj93pSPcP5IUQ) | 2:48 | 2019-09-27 | 2019-10-25 |
 | [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-03-29 | 2024-05-03 |
 | [April](https://open.spotify.com/track/3vGvKBDPwuYy3NgSxENEgZ) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [Auburn Bleach](https://open.spotify.com/album/3oeRVW84F9n3sGAjsXCrxw) | 3:08 | 2021-08-14 | 2021-09-25 |
-| [Aqua](https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Aqua](https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm) | 2:33 | 2024-11-08 |  |
+| [Aqua](https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Aqua](https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm) | 2:33 | 2024-11-08 | 2024-12-02 |
 | [Aquamarine](https://open.spotify.com/track/3nkUvfhwxi4J7in6ockExH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Aquamarine](https://open.spotify.com/album/7vXFhJ88qW2IusniRgxklU) | 4:14 | 2021-08-07 | 2021-10-16 |
 | [Arcadia](https://open.spotify.com/track/5mqVdt50q0fYvyz3gd6eKe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Arcadia](https://open.spotify.com/album/2AVn0YgzBtqsa0d6R5QD95) | 4:23 | 2021-09-11 | 2021-11-20 |
 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 | 2022-07-15 | 2022-08-20 |
@@ -5537,6 +5537,7 @@
 | [Puppet](https://open.spotify.com/track/400F8qcb3vxxk7iqRhV1tr) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Puppet](https://open.spotify.com/album/68rJY7Zio90SZPpWJyLGfx) | 3:17 | 2023-11-17 | 2024-01-13 |
 | [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 | 2021-11-06 | 2021-12-18 |
 | [Pure Cinema](https://open.spotify.com/track/2YWMmtZNxXKFFAare3W5Jb) | [Thao & The Get Down Stay Down](https://open.spotify.com/artist/2dn0CGCWvtrwZ66bOeLNb2) | [Pure Cinema](https://open.spotify.com/album/28NzVrUqUSRws8K0cPsYGe) | 4:29 | 2020-05-15 | 2020-05-29 |
+| [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2024-12-01 |  |
 | [Pure Smile Snake Venom](https://open.spotify.com/track/3tbIgRlbQ9s0MYkJTv8ued) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Pure Smile Snake Venom](https://open.spotify.com/album/7nXYRc3PivS07SCWTWPl0R) | 3:41 | 2023-08-25 | 2023-09-26 |
 | [purgatory](https://open.spotify.com/track/7vIW48A9n1kDD14DI98lsc) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [purgatory](https://open.spotify.com/album/4YPPEhZL6jnJRyCYWu6UaU) | 4:08 | 2022-04-08 | 2022-05-07 |
 | [Purple Land](https://open.spotify.com/track/5qrHETjgWMxAKFgtwLh7c7) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM) | [Purple Land](https://open.spotify.com/album/6nCsKsiwHD56q1t9SLcBUP) | 4:53 | 2024-02-09 | 2024-03-16 |

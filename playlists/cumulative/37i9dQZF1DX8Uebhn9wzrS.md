@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,157 songs - 3 day 10 hr 13 min
+2,158 songs - 3 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [Dance The Night](https://open.spotify.com/track/40YoFnCDboRZe6lmoXcGvM) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Dance The Night](https://open.spotify.com/album/4YE6LjBfsnLKV79C1ZUSeJ) | 2:39 | 2023-11-17 |  |
 | [dancing lights](https://open.spotify.com/track/6zYY5IxKrQqlq1gZvMiflo) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [dancing lights](https://open.spotify.com/album/1yFc2Vo2a91Gk2OcaQnAYX) | 2:24 | 2024-09-27 | 2024-11-20 |
 | [Dark Places](https://open.spotify.com/track/0JSQbdSkJ5xKu8OQB3g5wO) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Dark Places](https://open.spotify.com/album/3hpc6SGom48hjionKuXgjZ) | 2:18 | 2022-07-29 | 2022-08-12 |
-| [DaSpritzers](https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [DaSpritzers](https://open.spotify.com/album/4yfR0jwF5CrWmy6U02rgsU) | 2:24 | 2022-11-18 |  |
+| [DaSpritzers](https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [DaSpritzers](https://open.spotify.com/album/4yfR0jwF5CrWmy6U02rgsU) | 2:24 | 2022-11-18 | 2024-12-02 |
 | [Daunout](https://open.spotify.com/track/2NpcAVGqqapVHBPae0vwSb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Daunout](https://open.spotify.com/album/0KypY3PnGTQyr5nz79njeR) | 1:54 | 2023-01-20 | 2024-07-27 |
 | [Daydream](https://open.spotify.com/track/01lS197HXZ7HwSd7LVy1ce) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Daydream](https://open.spotify.com/album/3gFsPMTHGuOB5N4ZUiXkVZ) | 2:08 | 2022-04-22 | 2022-11-12 |
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 |  |
@@ -1042,6 +1042,7 @@
 | [Like A Movie](https://open.spotify.com/track/44KLzCFW3ct1vvNsgjE8f6) | [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM) | [Like A Movie](https://open.spotify.com/album/1diJqWGrcqKS1hRWk2zFsT) | 2:09 | 2022-11-11 | 2023-02-07 |
 | [Like Saffron](https://open.spotify.com/track/05YRpkQ35gr4CWIYY35Lic) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [Like Saffron](https://open.spotify.com/album/3aFt9TpuvBySq2zPJsHewR) | 2:25 | 2022-12-16 |  |
 | [Liliac](https://open.spotify.com/track/4xhLpuypn1JCVdklz1FLYt) | [softhead](https://open.spotify.com/artist/2nq3JoZK43Y5eeZPNReJI8) | [Liliac](https://open.spotify.com/album/2VEDWfLVAcOxXtCJY2144e) | 1:31 | 2022-05-13 | 2022-11-12 |
+| [lille dyp](https://open.spotify.com/track/3QXdIjTThCZP2r2ed3XEiZ) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [lille dyp](https://open.spotify.com/album/5h0YmsuW4dOrt1ZISmqgrn) | 2:31 | 2024-11-29 |  |
 | [Limewire](https://open.spotify.com/track/0wwa9lg3yCKyyOkJLAEtod) | [Waveum](https://open.spotify.com/artist/2VZ5HYVxp79hu5qJ4imfTo) | [In The Third Move](https://open.spotify.com/album/5UQAehoNPZ5gpD6wnYg1Xv) | 1:19 | 2022-04-15 | 2022-06-03 |
 | [liminal spaces](https://open.spotify.com/track/29gOaTqO4WCYfkJcN4MPk8) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [liminal spaces](https://open.spotify.com/album/1CrLzxoJRfm8FdafJCTDcx) | 1:50 | 2022-05-13 | 2023-03-25 |
 | [Liquid Force](https://open.spotify.com/track/10bPPpQ60lkYCmoHYB6Y1o) | [Chilimanjaro](https://open.spotify.com/artist/4YZwxJSx2UJYXsIL9W514t) | [Jungle Haze](https://open.spotify.com/album/7Apf1ulc15WJvhlmLGhIKe) | 1:24 | 2022-04-15 | 2022-05-27 |

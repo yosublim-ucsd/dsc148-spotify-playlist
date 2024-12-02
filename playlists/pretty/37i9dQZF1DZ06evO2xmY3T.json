@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 676732,
+  "num_followers": 676751,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAADFIwMgX1yP5Kv/oG+HZQwM",
+  "snapshot_id": "Z0pVgAAAAAAMuX2aYqQF2IjsGKDTg3dF",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "PUT EM IN THE FRIDGE",
-      "url": "https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 255506,
       "name": "La Modelo",
       "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "PUT EM IN THE FRIDGE",
+      "url": "https://open.spotify.com/track/2BACqEbfDpPMOO7xhSOz2B"
     },
     {
       "added_at": null,
@@ -1011,6 +1011,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Famous Cryp (Reloaded)",
+        "url": "https://open.spotify.com/album/1bLGOKqe1vcQtUv6q5Mz0h"
+      },
+      "artists": [
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "duration_ms": 297546,
+      "name": "Thotiana (Remix)",
+      "url": "https://open.spotify.com/track/6JhP3KShSV3PlniSWYHYAl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/1hUWE99C1h8yBHZT8KxP4V"
       },
@@ -1039,30 +1063,6 @@
       "duration_ms": 374545,
       "name": "La Bebe - Remix",
       "url": "https://open.spotify.com/track/3DyiAk1BzIF8rq9rimypG4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Famous Cryp (Reloaded)",
-        "url": "https://open.spotify.com/album/1bLGOKqe1vcQtUv6q5Mz0h"
-      },
-      "artists": [
-        {
-          "name": "Blueface",
-          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        }
-      ],
-      "duration_ms": 297546,
-      "name": "Thotiana (Remix)",
-      "url": "https://open.spotify.com/track/6JhP3KShSV3PlniSWYHYAl"
     },
     {
       "added_at": null,

@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 157795,
       "name": "A VECES SE PIERDE | A VECES SE GANA",
       "url": "https://open.spotify.com/track/76IV0SeSn22UhWtp2Wx8Wc"
@@ -35853,6 +35853,24 @@
     },
     {
       "album": {
+        "name": "It Don't Feel Like Christmas",
+        "url": "https://open.spotify.com/album/4Gs1PTYMLQomByWU2v6jaj"
+      },
+      "artists": [
+        {
+          "name": "Laine Kowalski",
+          "url": "https://open.spotify.com/artist/57XUXXbRAgR1AqS45pP9Az"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167099,
+      "name": "It Don't Feel Like Christmas",
+      "url": "https://open.spotify.com/track/0yobxVQp4HNJpYs9rjInd7"
+    },
+    {
+      "album": {
         "name": "IT IS IMPORTANT TO FEEL GOOD",
         "url": "https://open.spotify.com/album/03FJtbKkSvSPP4qkj7ehxP"
       },
@@ -39126,7 +39144,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 231023,
       "name": "Ledge",
       "url": "https://open.spotify.com/track/13TgcF9QZiUsK8ofSJIUis"
@@ -51180,7 +51198,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 183783,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/2vhT56kedOkeaWPFY68Fnu"
@@ -56422,7 +56440,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 108860,
       "name": "Rain Check",
       "url": "https://open.spotify.com/track/5jYfG3kLK35fCOnO4sdOjX"
@@ -59582,7 +59600,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 248934,
       "name": "Saturn\u2019s Moon",
       "url": "https://open.spotify.com/track/4zzC42HMdFYdSOwOquBAqm"

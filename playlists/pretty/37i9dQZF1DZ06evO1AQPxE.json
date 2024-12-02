@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 186003,
+  "num_followers": 186051,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAApagUEexlcY93btszkyCqc",
+  "snapshot_id": "Z0pVgAAAAABHVkAf9d1zv7NTx4wYlhlq",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deadpool",
+        "url": "https://open.spotify.com/album/2qL2in6zVsO6Hxm8CH7tKs"
+      },
+      "artists": [
+        {
+          "name": "Heretic Klick",
+          "url": "https://open.spotify.com/artist/6Jqut9RUUIl7KksiQ6omuU"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 111888,
+      "name": "Deadpool",
+      "url": "https://open.spotify.com/track/7gw9HXq83fuwCiD343QwZD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
       },
@@ -763,22 +783,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadpool",
-        "url": "https://open.spotify.com/album/2qL2in6zVsO6Hxm8CH7tKs"
+        "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+        "url": "https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft"
       },
       "artists": [
         {
-          "name": "Heretic Klick",
-          "url": "https://open.spotify.com/artist/6Jqut9RUUIl7KksiQ6omuU"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 111888,
-      "name": "Deadpool",
-      "url": "https://open.spotify.com/track/7gw9HXq83fuwCiD343QwZD"
+      "duration_ms": 253568,
+      "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+      "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
     },
     {
       "added_at": null,
@@ -815,34 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
-        "url": "https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 253568,
-      "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
-      "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a liquid breakfast",
         "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "CODY BANKS",
+      "url": "https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sweet Action",
         "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
@@ -879,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
+        "name": "Gazebo",
+        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
       },
       "artists": [
         {
@@ -888,9 +904,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 152380,
-      "name": "CODY BANKS",
-      "url": "https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo"
+      "duration_ms": 186840,
+      "name": "Eastern Parkway",
+      "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
     },
     {
       "added_at": null,
@@ -915,34 +931,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gazebo",
-        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
       },
       "artists": [
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Eastern Parkway",
-      "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Action",
-        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
-      },
-      "artists": [
+        },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
         }
       ],
-      "duration_ms": 178968,
-      "name": "OUT FRONT",
-      "url": "https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq"
+      "duration_ms": 203612,
+      "name": "DRIP DROP (feat. Cyhi The Prynce)",
+      "url": "https://open.spotify.com/track/19wtw9FEDtbf5z9p5KDCy9"
     }
   ],
   "unique_name": "This Is Jack Harlow",

@@ -6662,7 +6662,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 183066,
       "name": "Ragdoll",
       "url": "https://open.spotify.com/track/6yLWx6fuaJHRrhaXwscWZy"
@@ -9324,6 +9324,28 @@
       "duration_ms": 435080,
       "name": "yellow is the color of her eyes",
       "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"
+    },
+    {
+      "album": {
+        "name": "You Make Me Sick! (Dora Jar Remix)",
+        "url": "https://open.spotify.com/album/0ddrfdgfcwQ0EafB4o4l3y"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202884,
+      "name": "You Make Me Sick! - Dora Jar Remix",
+      "url": "https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2"
     },
     {
       "album": {

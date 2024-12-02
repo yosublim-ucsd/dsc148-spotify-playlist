@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,659 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,722 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,13 +49,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 39 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
 | 40 | [Po co mi to?](https://open.spotify.com/track/0PRBe98QBon2UjYpQOqsmr) | [BRK](https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n) | [Po co mi to?](https://open.spotify.com/album/5PZsPQIMIx8RN2WTL1uE7m) | 3:01 |
 | 41 | [Kalka](https://open.spotify.com/track/5W9zXFO1vrVkfZ4wRwznM2) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [z papieru](https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx) | 3:14 |
-| 42 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 |
-| 43 | [Nikt nie płacze wiecznie](https://open.spotify.com/track/5SrRtY9fw22UrKHZ0hTSgz) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Nikt nie płacze wiecznie](https://open.spotify.com/album/5eLbMIH3MFO7HJqRZg9XXr) | 2:43 |
-| 44 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 |
-| 45 | [Czułość](https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Czułość](https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV) | 5:37 |
-| 46 | [Loving You](https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 2:32 |
-| 47 | [Kochałam Cię na zabój](https://open.spotify.com/track/3rqc2nQH6h2iGpKQZWd74a) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Kochałam Cię na zabój](https://open.spotify.com/album/4q8A9oxDsSe8tY2gGKGFcE) | 4:04 |
-| 48 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
+| 42 | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE) | [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t), [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [Ultra Love feat\. Ella Rosa](https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr) | 2:51 |
+| 43 | [Tak musiało być](https://open.spotify.com/track/3kDWXcUvZIGOZGyfSYBKxA) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Siniaki i cekiny ciąg dalszy](https://open.spotify.com/album/1EL1HCG1aRpRYXqM6Z3FZ1) | 3:33 |
+| 44 | [Nikt nie płacze wiecznie](https://open.spotify.com/track/5SrRtY9fw22UrKHZ0hTSgz) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Nikt nie płacze wiecznie](https://open.spotify.com/album/5eLbMIH3MFO7HJqRZg9XXr) | 2:43 |
+| 45 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 |
+| 46 | [Czułość](https://open.spotify.com/track/0mzilIypwzynCyNNSFi2AN) | [Mikromusic](https://open.spotify.com/artist/7JFi4ROpWvJU9ZMmHn8Yp5) | [Czułość](https://open.spotify.com/album/3UrwWPlfimWizwXmGsmaTV) | 5:37 |
+| 47 | [Loving You](https://open.spotify.com/track/27nj0mfyXhW6OUru2vARIi) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Loving You / Don't Let Me Go](https://open.spotify.com/album/5TLHp7Q9XE0hYTo6qF4g3H) | 2:32 |
+| 48 | [Kochałam Cię na zabój](https://open.spotify.com/track/3rqc2nQH6h2iGpKQZWd74a) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Kochałam Cię na zabój](https://open.spotify.com/album/4q8A9oxDsSe8tY2gGKGFcE) | 4:04 |
 | 49 | [Tańce na Modlinie](https://open.spotify.com/track/4xbp8yZ1nhpcx3m0N7yecu) | [evelina ross](https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw) | [Tańce na Modlinie](https://open.spotify.com/album/2LO67WCsun4L0woxKq2LOf) | 4:00 |
 | 50 | [Tańczę do Ciebie](https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE) | [Kuba Dąbrowski](https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP), [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Tańczę do Ciebie](https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L) | 2:55 |
 | 51 | [Boomerang](https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Boomerang](https://open.spotify.com/album/1pQvU8OJ2y6hWHDSY7j3QX) | 2:56 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 54 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
 | 55 | [Wszystko jedno](https://open.spotify.com/track/3PwObD0w22aaIClsZVrWGH) | [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Wszystko jedno](https://open.spotify.com/album/4n5jVCuhxYIHdBrzBBMG3I) | 3:03 |
 | 56 | [Zostanę tu z Tobą](https://open.spotify.com/track/7r4hXZOQRGIPOfh4Y1iFwu) | [DrySkull](https://open.spotify.com/artist/3wdl0d5sycxPazuAEBTxEp), [BARANOVSKI](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Zostanę tu z Tobą](https://open.spotify.com/album/0CuePNOz2OYL8g9gs6wxL3) | 3:24 |
-| 57 | [Mr\. Believer](https://open.spotify.com/track/51zWdMMHdddlM7SevmSzZ6) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [It’s All About The Changes](https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE) | 2:39 |
-| 58 | [Nie jesteś sam](https://open.spotify.com/track/5H9YTgmWBhA09VWmMn7tDO) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Heca](https://open.spotify.com/album/6zLgFeNNs1JxPHawGEkU90) | 3:30 |
-| 59 | [Topiel](https://open.spotify.com/track/0DtswFLxYeRvi1JUu4oAXQ) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Topiel](https://open.spotify.com/album/1mtOHVI3C3C3HT9OasFRAt) | 3:42 |
-| 60 | [Tulipany](https://open.spotify.com/track/0QCLgFafJmfLB7WIQO6da6) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d), [Anka](https://open.spotify.com/artist/0F9Klcgxyze6XioVBZtX9G) | [piosenki z 3 słów](https://open.spotify.com/album/52A5HXySV66AA6eiiBP9wX) | 3:06 |
+| 57 | [Nie jesteś sam](https://open.spotify.com/track/5H9YTgmWBhA09VWmMn7tDO) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [Heca](https://open.spotify.com/album/6zLgFeNNs1JxPHawGEkU90) | 3:30 |
+| 58 | [Tulipany](https://open.spotify.com/track/0QCLgFafJmfLB7WIQO6da6) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d), [Anka](https://open.spotify.com/artist/0F9Klcgxyze6XioVBZtX9G) | [piosenki z 3 słów](https://open.spotify.com/album/52A5HXySV66AA6eiiBP9wX) | 3:06 |
+| 59 | [Mr\. Believer](https://open.spotify.com/track/51zWdMMHdddlM7SevmSzZ6) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [It’s All About The Changes](https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE) | 2:39 |
+| 60 | [Topiel](https://open.spotify.com/track/0DtswFLxYeRvi1JUu4oAXQ) | [Prometh](https://open.spotify.com/artist/6saU4WOQFf2JMuZZHNVqWX) | [Topiel](https://open.spotify.com/album/1mtOHVI3C3C3HT9OasFRAt) | 3:42 |
 
 Snapshot ID: `Z0l6hwAAAABbWx32XIoWeB3taSOoAEDf`

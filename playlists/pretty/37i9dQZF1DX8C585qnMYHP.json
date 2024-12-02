@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Astoria on cover. Artwork by Thami Nabil",
-  "num_followers": 180518,
+  "num_followers": 180648,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-09-11 04:16:56",
       "album": {
-        "name": "All These Worlds, Pt. II",
-        "url": "https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 239967,
-      "name": "All These Worlds, Pt. II",
-      "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
       },
@@ -413,42 +397,6 @@
       "url": "https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2"
     },
     {
-      "added_at": "2024-10-02 18:17:59",
-      "album": {
-        "name": "Things We Have In Common",
-        "url": "https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn"
-      },
-      "artists": [
-        {
-          "name": "Efterklang",
-          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 216566,
-      "name": "Balancing Stones",
-      "url": "https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI"
-    },
-    {
-      "added_at": "2024-08-14 16:44:33",
-      "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 145344,
-      "name": "O O O O",
-      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
-    },
-    {
       "added_at": "2024-10-23 05:28:43",
       "album": {
         "name": "Under the Sun",
@@ -479,6 +427,58 @@
       "duration_ms": 273490,
       "name": "Kravitz",
       "url": "https://open.spotify.com/track/0puYy6hGZEZPa69HK3vQmH"
+    },
+    {
+      "added_at": "2024-08-14 16:44:33",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 145344,
+      "name": "O O O O",
+      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
+    },
+    {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "All These Worlds, Pt. II",
+        "url": "https://open.spotify.com/album/3mxAJYWkCeIX7GTbWZrBt4"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 239967,
+      "name": "All These Worlds, Pt. II",
+      "url": "https://open.spotify.com/track/4hWh6S1CqPU3Xrm1YwJL8k"
+    },
+    {
+      "added_at": "2024-10-02 18:17:59",
+      "album": {
+        "name": "Things We Have In Common",
+        "url": "https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn"
+      },
+      "artists": [
+        {
+          "name": "Efterklang",
+          "url": "https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 216566,
+      "name": "Balancing Stones",
+      "url": "https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI"
     },
     {
       "added_at": "2024-09-18 13:50:00",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
+      "added_at": "2024-09-11 04:16:56",
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Deixem O Morto Morrer - A COLORS SHOW",
@@ -551,22 +567,6 @@
       "duration_ms": 170200,
       "name": "Deixem O Morto Morrer - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2Id68FINCkfJLAt5S7v3eJ"
-    },
-    {
-      "added_at": "2024-09-11 04:16:56",
-      "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 277042,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -773,20 +773,20 @@
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
-      "added_at": "2024-10-23 05:18:13",
+      "added_at": "2024-08-14 14:21:25",
       "album": {
-        "name": "Ancient DNA",
-        "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
+        "name": "Hooked Paw",
+        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
       },
       "artists": [
         {
-          "name": "Masma Dream World",
-          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 163097,
-      "name": "Ancient DNA",
-      "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
+      "duration_ms": 363483,
+      "name": "Sky Hooks",
+      "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/2B6Dur458zHxVlkNrVlWmc"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
+      "added_at": "2024-10-23 05:18:13",
       "album": {
-        "name": "Hooked Paw",
-        "url": "https://open.spotify.com/album/33OhEFZl4zITx6DMePdjWl"
+        "name": "Ancient DNA",
+        "url": "https://open.spotify.com/album/2VBLfp4stOE060BYiQGalx"
       },
       "artists": [
         {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 363483,
-      "name": "Sky Hooks",
-      "url": "https://open.spotify.com/track/0NUKS5fTtIKUDkwYL7eDr2"
+      "duration_ms": 163097,
+      "name": "Ancient DNA",
+      "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
     },
     {
       "added_at": "2024-10-23 05:18:13",
@@ -977,6 +977,38 @@
       "url": "https://open.spotify.com/track/4rWmroQk2m8xBtNxpDVSXv"
     },
     {
+      "added_at": "2024-08-14 14:21:25",
+      "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 265548,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Hailu",
+        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Baraka",
+      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
+    },
+    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "retrofit",
@@ -1013,20 +1045,20 @@
       "url": "https://open.spotify.com/track/7ex6k8RpJgSn1eCjwXe8Pe"
     },
     {
-      "added_at": "2024-08-14 14:21:25",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
       },
       "artists": [
         {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
         }
       ],
-      "duration_ms": 265548,
-      "name": "Crystals",
-      "url": "https://open.spotify.com/track/0uK2urblhFVH6P4Mlq4YOJ"
+      "duration_ms": 190066,
+      "name": "Oase",
+      "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
     },
     {
       "added_at": "2024-10-23 05:18:13",
@@ -1043,38 +1075,6 @@
       "duration_ms": 338515,
       "name": "setitinstone*!_black cat",
       "url": "https://open.spotify.com/track/2dvlyxiu5rvZfd4DbfDQWP"
-    },
-    {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Hailu",
-        "url": "https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6"
-      },
-      "artists": [
-        {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Baraka",
-      "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Nightshade",
-        "url": "https://open.spotify.com/album/2Ak1vufF6gIchUNWk2B7nU"
-      },
-      "artists": [
-        {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Oase",
-      "url": "https://open.spotify.com/track/00Ed6JEkpJFVZwWWZw42oY"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1123,22 +1123,6 @@
       "duration_ms": 188013,
       "name": "Atlas Dive",
       "url": "https://open.spotify.com/track/2EwhzgutwSHK8xOkFvzrxx"
-    },
-    {
-      "added_at": "2024-05-08 03:43:46",
-      "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1213,6 +1197,22 @@
       "url": "https://open.spotify.com/track/3PyI7m3K7HY5XjMqjPw4XF"
     },
     {
+      "added_at": "2024-05-08 03:43:46",
+      "album": {
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
+    },
+    {
       "added_at": "2024-09-18 04:00:00",
       "album": {
         "name": "Sincerity",
@@ -1227,6 +1227,26 @@
       "duration_ms": 153128,
       "name": "Sincerity",
       "url": "https://open.spotify.com/track/183b1N2ZTg6UFH6njaEN2x"
+    },
+    {
+      "added_at": "2024-10-16 02:02:35",
+      "album": {
+        "name": "Time (Nick Walters Remix)",
+        "url": "https://open.spotify.com/album/7o4C0bzS2OoIEl3o0qrcCC"
+      },
+      "artists": [
+        {
+          "name": "Beats & Pieces Big Band",
+          "url": "https://open.spotify.com/artist/4c2AYwrDsgr17sRTiVKfKV"
+        },
+        {
+          "name": "Nick Walters",
+          "url": "https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2"
+        }
+      ],
+      "duration_ms": 278657,
+      "name": "Time - Nick Walters Remix",
+      "url": "https://open.spotify.com/track/5pcDYMTmLdhxmgojty1xCW"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1261,22 +1281,6 @@
       "url": "https://open.spotify.com/track/1e96C1vkds1XDSZpHxFClZ"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "A Diosa (Non potho reposare)",
-        "url": "https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f"
-      },
-      "artists": [
-        {
-          "name": "Vieri Cervelli Montel",
-          "url": "https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL"
-        }
-      ],
-      "duration_ms": 600010,
-      "name": "A Diosa (Non potho reposare)",
-      "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
-    },
-    {
       "added_at": "2024-08-14 14:21:25",
       "album": {
         "name": "Meta",
@@ -1291,6 +1295,22 @@
       "duration_ms": 352314,
       "name": "Meta VI",
       "url": "https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "A Diosa (Non potho reposare)",
+        "url": "https://open.spotify.com/album/57Nnl27zPUTcv1ZQ8Ip32f"
+      },
+      "artists": [
+        {
+          "name": "Vieri Cervelli Montel",
+          "url": "https://open.spotify.com/artist/3Ywlz2xGupf3tXgLB9oJTL"
+        }
+      ],
+      "duration_ms": 600010,
+      "name": "A Diosa (Non potho reposare)",
+      "url": "https://open.spotify.com/track/2ieLrq6ixILeCsOR1mbl3Q"
     },
     {
       "added_at": "2024-09-11 04:16:56",
@@ -1345,22 +1365,6 @@
       "url": "https://open.spotify.com/track/0Las26koi1XNMPme6fOxcD"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
-      "album": {
-        "name": "Circle Games",
-        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
-      },
-      "artists": [
-        {
-          "name": "urika's bedroom",
-          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
-        }
-      ],
-      "duration_ms": 217475,
-      "name": "Junkie",
-      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
-    },
-    {
       "added_at": "2024-10-09 01:34:34",
       "album": {
         "name": "Resurgence",
@@ -1375,6 +1379,22 @@
       "duration_ms": 428320,
       "name": "Arbitrary",
       "url": "https://open.spotify.com/track/0k5pUbOXmYI51JQDBh35R4"
+    },
+    {
+      "added_at": "2024-10-02 15:46:42",
+      "album": {
+        "name": "Circle Games",
+        "url": "https://open.spotify.com/album/1GYjylMo8zY4kxIsOgKHSD"
+      },
+      "artists": [
+        {
+          "name": "urika's bedroom",
+          "url": "https://open.spotify.com/artist/6LhbOssuAbrXa5Wzcskhhw"
+        }
+      ],
+      "duration_ms": 217475,
+      "name": "Junkie",
+      "url": "https://open.spotify.com/track/7eKWsWbI9mjqXMCAiFMu1A"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -1477,26 +1497,6 @@
       "url": "https://open.spotify.com/track/7oUWVXld8maQDdEQjXZmEZ"
     },
     {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Framework 1 (Vladislav Delay Remix)",
-        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        },
-        {
-          "name": "Vladislav Delay",
-          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Framework 1 (Vladislav Delay Remix)",
-      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
-    },
-    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "Magia Lumen",
@@ -1515,6 +1515,26 @@
       "duration_ms": 303000,
       "name": "Fight For",
       "url": "https://open.spotify.com/track/676csBHpEkLxunlWpYtAT3"
+    },
+    {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Framework 1 (Vladislav Delay Remix)",
+        "url": "https://open.spotify.com/album/0WEMgKUQcCQLtoepQslbdL"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        },
+        {
+          "name": "Vladislav Delay",
+          "url": "https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "Framework 1 (Vladislav Delay Remix)",
+      "url": "https://open.spotify.com/track/2oNiCobGUE4rWPcmOnzqj3"
     },
     {
       "added_at": "2024-10-02 15:46:42",
@@ -1565,6 +1585,22 @@
       "url": "https://open.spotify.com/track/2mYWLaFIr3hNuG0jugydkz"
     },
     {
+      "added_at": "2024-10-09 01:34:34",
+      "album": {
+        "name": "Cosmic Flute Rides Again",
+        "url": "https://open.spotify.com/album/5jeY5UDKprTPQuPX8VBKig"
+      },
+      "artists": [
+        {
+          "name": "NTHNL",
+          "url": "https://open.spotify.com/artist/5QryVzY6vVbE1gej2L42ux"
+        }
+      ],
+      "duration_ms": 253613,
+      "name": "Full Spectrum",
+      "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
+    },
+    {
       "added_at": "2024-09-11 04:16:56",
       "album": {
         "name": "Amateur",
@@ -1583,18 +1619,18 @@
     {
       "added_at": "2024-10-09 01:34:34",
       "album": {
-        "name": "Cosmic Flute Rides Again",
-        "url": "https://open.spotify.com/album/5jeY5UDKprTPQuPX8VBKig"
+        "name": "Vapor",
+        "url": "https://open.spotify.com/album/3mjk1mqDJ2u6M6vrlveVB0"
       },
       "artists": [
         {
-          "name": "NTHNL",
-          "url": "https://open.spotify.com/artist/5QryVzY6vVbE1gej2L42ux"
+          "name": "Daniel Klauser",
+          "url": "https://open.spotify.com/artist/4sWjBSpXZSBhodRXeVadNL"
         }
       ],
-      "duration_ms": 253613,
-      "name": "Full Spectrum",
-      "url": "https://open.spotify.com/track/4rBeiV1Nd9QbvPgJZHkN74"
+      "duration_ms": 264000,
+      "name": "Trying To Get That Sound",
+      "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
     },
     {
       "added_at": "2024-10-09 01:34:34",
@@ -1615,22 +1651,6 @@
       "duration_ms": 389784,
       "name": "Picture This",
       "url": "https://open.spotify.com/track/134DrSkUPyqcN2gHkjPop8"
-    },
-    {
-      "added_at": "2024-10-09 01:34:34",
-      "album": {
-        "name": "Vapor",
-        "url": "https://open.spotify.com/album/3mjk1mqDJ2u6M6vrlveVB0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Klauser",
-          "url": "https://open.spotify.com/artist/4sWjBSpXZSBhodRXeVadNL"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Trying To Get That Sound",
-      "url": "https://open.spotify.com/track/5dwgYnZkWcSavE0ryWvSgy"
     },
     {
       "added_at": "2024-10-16 02:02:35",
@@ -1691,26 +1711,6 @@
       "duration_ms": 174787,
       "name": "No Lo Son",
       "url": "https://open.spotify.com/track/5svoaG4SG3ZZ99Yl5vpe4C"
-    },
-    {
-      "added_at": "2024-10-16 02:02:35",
-      "album": {
-        "name": "Time (Nick Walters Remix)",
-        "url": "https://open.spotify.com/album/7o4C0bzS2OoIEl3o0qrcCC"
-      },
-      "artists": [
-        {
-          "name": "Beats & Pieces Big Band",
-          "url": "https://open.spotify.com/artist/4c2AYwrDsgr17sRTiVKfKV"
-        },
-        {
-          "name": "Nick Walters",
-          "url": "https://open.spotify.com/artist/5a6sros3Ji7xS9QKav9il2"
-        }
-      ],
-      "duration_ms": 278657,
-      "name": "Time - Nick Walters Remix",
-      "url": "https://open.spotify.com/track/5pcDYMTmLdhxmgojty1xCW"
     },
     {
       "added_at": "2024-10-09 01:34:34",

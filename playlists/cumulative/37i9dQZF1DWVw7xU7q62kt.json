@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 139932,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/2ZW39GOe6sVnDJhsuJfE5V"
@@ -1793,6 +1793,24 @@
     },
     {
       "album": {
+        "name": "Made sum beats on tour in a Hamburg airbnb",
+        "url": "https://open.spotify.com/album/1jhDMNtTx2zD1PjhAOPrOX"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129504,
+      "name": "enter wandsbek",
+      "url": "https://open.spotify.com/track/3rjxHeLZEPGyReh6iVt0tT"
+    },
+    {
+      "album": {
         "name": "At Home (An NPR Tiny Desk Concert)",
         "url": "https://open.spotify.com/album/3CGLzhsLKXSV90vaTAVL77"
       },
@@ -2294,7 +2312,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 158522,
       "name": "Fresh out the shower",
       "url": "https://open.spotify.com/track/57Sy84Hxj9rEiUyvphRpMO"
@@ -4586,7 +4604,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 99643,
       "name": "Our Roots",
       "url": "https://open.spotify.com/track/5hyiQ4AumhGO8aRQkAelVl"
@@ -5102,6 +5120,24 @@
       "duration_ms": 148421,
       "name": "Repose",
       "url": "https://open.spotify.com/track/3bmPz3l9em8dqdwhpzb8Tf"
+    },
+    {
+      "album": {
+        "name": "RIDGEWALK",
+        "url": "https://open.spotify.com/album/5dQpb7jmEkKXioLIyVzzkK"
+      },
+      "artists": [
+        {
+          "name": "Moses Yoofee Trio",
+          "url": "https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "RIDGEWALK",
+      "url": "https://open.spotify.com/track/5ZUoIhG0oxDT50Hb6xmYd3"
     },
     {
       "album": {
@@ -6640,6 +6676,28 @@
       "duration_ms": 146437,
       "name": "Verdant",
       "url": "https://open.spotify.com/track/6eopX3Kongrg9P751naBpe"
+    },
+    {
+      "album": {
+        "name": "Verdant",
+        "url": "https://open.spotify.com/album/1m86OJ9K6rQD4rpJM9aoXx"
+      },
+      "artists": [
+        {
+          "name": "Will Eason",
+          "url": "https://open.spotify.com/artist/0mXr7zTlXU4FgOoiOHbQHs"
+        },
+        {
+          "name": "Horace Maurice",
+          "url": "https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150736,
+      "name": "Verdant",
+      "url": "https://open.spotify.com/track/2HWjYlDWKuAF9KWxwLPXBB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-259 songs - 16 hr 53 min
+260 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dolls](https://open.spotify.com/track/4WgAxRROt1CI5sh3qqh2mP) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [Again,Star \#01](https://open.spotify.com/album/22kTojFqWSb9RMyiFLL5YQ) | 2:58 | 2023-01-10 | 2023-01-17 |
 | [Don't](https://open.spotify.com/track/617N2yLHP178pCJQTRx2oe) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Don't](https://open.spotify.com/album/2AyXNozyDPLyBoQKHfTAvP) | 3:12 | 2022-06-20 | 2022-07-29 |
 | [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-05 | 2024-04-19 |
-| [Don't ever say love me \(Feat\. RM of BTS\)](https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F) | 3:34 | 2024-03-20 |  |
+| [Don't ever say love me \(Feat\. RM of BTS\)](https://open.spotify.com/track/4n45wg2cKWeU2xZgwFiAef) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/3X5fgX98vw6BdJAs4a1e4F) | 3:34 | 2024-03-20 | 2024-12-02 |
 | [Don’t Leave Me Alone](https://open.spotify.com/track/5ji6bQuR4enoUilaIZyr1V) | [RYU JIHYUN](https://open.spotify.com/artist/2gY4TLGKmjvYHZgL7Zfvt2) | [Don't Leave Me Alone](https://open.spotify.com/album/2DB12TUZF3gOIFy6Ovqba2) | 3:27 | 2024-08-10 | 2024-08-26 |
 | [Don’t Wanna Go Back \(Duet with Heize\)](https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:42 | 2023-08-18 |  |
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-06-18 | 2022-07-24 |
@@ -234,6 +234,7 @@
 | [Try \(Journey Epilogue\)](https://open.spotify.com/track/7HK1elgUFULwdkMsiCbqoJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Try \(Journey Epilogue\)](https://open.spotify.com/album/5jb1JQY7bJhOWXlMjID9uQ) | 3:36 | 2022-05-11 |  |
 | [Unreachable \(Feat\. Milena\)](https://open.spotify.com/track/3L0ipvNeREfCAJWCPaweUu) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ), [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Unreachable](https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm) | 3:06 | 2022-10-04 |  |
 | [We were beautiful](https://open.spotify.com/track/3mJwxIe4I6V9Df1K0jtj9f) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [We were beautiful](https://open.spotify.com/album/3YFkqf7eyoiHQmTxIhwxr5) | 3:18 | 2022-07-08 | 2022-07-18 |
+| [We Were There](https://open.spotify.com/track/6vdi2iCRObLUKOMNgzGAXM) | [DAREDAA](https://open.spotify.com/artist/7GHmnSeSDBooMAk39m6Ol6) | [We Were There](https://open.spotify.com/album/1sXvwTlHdo0j4XRCJutUMv) | 3:43 | 2024-10-27 |  |
 | [WERE WE?](https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:44 | 2022-05-11 | 2022-07-25 |
 | [What Is Love](https://open.spotify.com/track/0858nTMxQH3y9iFWYcmCmo) | [Venoby](https://open.spotify.com/artist/2U6nABODrRHTzRMnEoK037) | [What Is Love](https://open.spotify.com/album/67s4fQQGCBZBWHExk4baFV) | 4:25 | 2022-05-11 | 2022-05-31 |
 | [Who Are You](https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J) | [We Are The Night](https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw) | [Who Are You](https://open.spotify.com/album/0AJedZzGLJy6NlD8eaI9QN) | 3:46 | 2022-06-09 | 2022-06-14 |

@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 360690,
+  "num_followers": 360654,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -559,26 +559,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Animal (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 140220,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "We No Speak\u00a0Americano",
         "url": "https://open.spotify.com/album/57qvObQidfcN8quFMvQOXm"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 269800,
       "name": "We No Speak Americano",
       "url": "https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Animal (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 140220,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
-        "url": "https://open.spotify.com/album/3vN2jv2disCD8vZEzZIv5Q"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/5uiQAY4i9oTGf79rgcf5jr"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "Din tid kommer (Otto Knows Remix)",
         "url": "https://open.spotify.com/album/1L25xMsuDCuBcb0rJnggWr"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 286875,
       "name": "Din tid kommer - Otto Knows Remix",
       "url": "https://open.spotify.com/track/04LHuPqOMSpnHFaziPq1qO"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
+        "url": "https://open.spotify.com/album/3vN2jv2disCD8vZEzZIv5Q"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/5uiQAY4i9oTGf79rgcf5jr"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1015,22 +1015,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "VOI TILL MIN FUCKBOI",
-        "url": "https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT"
+        "name": "Soffa fr\u00e5n IKEA",
+        "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
       },
       "artists": [
         {
-          "name": "FR\u00d6KEN SNUSK",
-          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
         },
         {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
         }
       ],
-      "duration_ms": 142304,
-      "name": "VOI TILL MIN FUCKBOI",
-      "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
+      "duration_ms": 149499,
+      "name": "Soffa fr\u00e5n IKEA",
+      "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1055,26 +1055,6 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Soffa fr\u00e5n IKEA",
-        "url": "https://open.spotify.com/album/3PlZa86ePY7OisgM0jWjoa"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        },
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
-        }
-      ],
-      "duration_ms": 149499,
-      "name": "Soffa fr\u00e5n IKEA",
-      "url": "https://open.spotify.com/track/31hIfKm7C5TroLqa2Lubap"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
         "name": "\u00c4lskade \u00e4ngel",
         "url": "https://open.spotify.com/album/6c5kxwjde7x9yPzQlBrw1b"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 151500,
       "name": "\u00c4lskade \u00e4ngel",
       "url": "https://open.spotify.com/track/7xIPafRGjjnaarcgYXGwAp"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "VOI TILL MIN FUCKBOI",
+        "url": "https://open.spotify.com/album/2CuUNP6q3OohkEEUw2orgT"
+      },
+      "artists": [
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        }
+      ],
+      "duration_ms": 142304,
+      "name": "VOI TILL MIN FUCKBOI",
+      "url": "https://open.spotify.com/track/7MVDhCrcjzdEdZbOkZa2XV"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "IGEN IGEN IGEN",
+        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "duration_ms": 130153,
+      "name": "IGEN IGEN IGEN",
+      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "Sommarn\u00e4tter",
         "url": "https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 144874,
       "name": "Sommarn\u00e4tter",
       "url": "https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "IGEN IGEN IGEN",
-        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
-      },
-      "artists": [
-        {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        }
-      ],
-      "duration_ms": 130153,
-      "name": "IGEN IGEN IGEN",
-      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "Man In Finance (G6 Trust Fund)",
-        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
+        "name": "MEDVETSL\u00d6S",
+        "url": "https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH"
       },
       "artists": [
         {
-          "name": "Girl On Couch",
-          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+          "name": "Raggarligan",
+          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
         }
       ],
-      "duration_ms": 151405,
-      "name": "Man In Finance (G6 Trust Fund)",
-      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
+      "duration_ms": 184258,
+      "name": "MEDVETSL\u00d6S",
+      "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1275,18 +1271,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
-        "name": "MEDVETSL\u00d6S",
-        "url": "https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH"
+        "name": "Man In Finance (G6 Trust Fund)",
+        "url": "https://open.spotify.com/album/3d3AJIkcxgFjeJV4LbwcFs"
       },
       "artists": [
         {
-          "name": "Raggarligan",
-          "url": "https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH"
+          "name": "Girl On Couch",
+          "url": "https://open.spotify.com/artist/3bY2XiDYvps2HqyLXijxgy"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
         }
       ],
-      "duration_ms": 184258,
-      "name": "MEDVETSL\u00d6S",
-      "url": "https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy"
+      "duration_ms": 151405,
+      "name": "Man In Finance (G6 Trust Fund)",
+      "url": "https://open.spotify.com/track/5zuPzhnGl0DRRWmquMi2MP"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1307,6 +1307,26 @@
       "duration_ms": 160519,
       "name": "SUPA (Studentl\u00e5ten)",
       "url": "https://open.spotify.com/track/4wWihgtVue0ILcKsXAQsEN"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Hand i hand",
+        "url": "https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        },
+        {
+          "name": "DJ BERIT",
+          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "Hand i hand",
+      "url": "https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM"
     },
     {
       "added_at": "2024-06-13 22:00:00",
@@ -1359,26 +1379,6 @@
       "duration_ms": 117494,
       "name": "Bella Festa",
       "url": "https://open.spotify.com/track/7uvG84wfF2XbvEiKajw3eZ"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Hand i hand",
-        "url": "https://open.spotify.com/album/64kF2Bzxt5cqOrsBNcNT6s"
-      },
-      "artists": [
-        {
-          "name": "LOOKET",
-          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
-        },
-        {
-          "name": "DJ BERIT",
-          "url": "https://open.spotify.com/artist/2Ens93DBGHbUTJUm83TQRI"
-        }
-      ],
-      "duration_ms": 147428,
-      "name": "Hand i hand",
-      "url": "https://open.spotify.com/track/5Is7rjtE6dITztWlElOitM"
     },
     {
       "added_at": "2024-06-13 22:00:00",

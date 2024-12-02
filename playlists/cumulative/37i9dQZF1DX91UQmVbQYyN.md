@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Remi Wolf
 
-524 songs - 1 day 7 hr 49 min
+525 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Punching Bag](https://open.spotify.com/track/5yi3oFTGTVGcM9LORYom7y) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5jOC8xCQy3vr0j9lMTzHtc) | 2:33 | 2021-09-03 | 2022-07-29 |
 | [Quake](https://open.spotify.com/track/7osHG7ptHSaprButptKH3d) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Quake](https://open.spotify.com/album/2RWTHhaUxmEq3dnGptu7xV) | 3:27 | 2021-09-03 | 2022-07-29 |
 | [Radio](https://open.spotify.com/track/2tZcHwdct0J7hYyEzgc38y) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Radio](https://open.spotify.com/album/4EMzmSm5XEVycocU1cLmis) | 3:32 | 2022-03-08 | 2022-04-21 |
-| [Ragdoll](https://open.spotify.com/track/6yLWx6fuaJHRrhaXwscWZy) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:03 | 2024-09-30 |  |
+| [Ragdoll](https://open.spotify.com/track/6yLWx6fuaJHRrhaXwscWZy) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:03 | 2024-09-30 | 2024-12-02 |
 | [Real Face](https://open.spotify.com/track/6IJN8BLOfmUMRMe3n7C67e) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [Real Face](https://open.spotify.com/album/3nfx7yfW2MCsnslBZR3XUD) | 2:51 | 2022-03-08 | 2022-04-17 |
 | [REALiTi \(Demo\)](https://open.spotify.com/track/1Haq3FvPaTsR07ti9hmmd6) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [REALiTi \(Demo\)](https://open.spotify.com/album/3paoaYGth9o39VgYg974GI) | 4:27 | 2022-03-08 | 2022-07-06 |
 | [Ribs](https://open.spotify.com/track/0TEekvXTomKt3hdXDZxxeW) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine \(Extended\)](https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6) | 4:18 | 2021-09-03 | 2022-07-29 |
@@ -515,6 +515,7 @@
 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 | 2022-03-08 | 2024-04-19 |
 | [Yards / Gardens](https://open.spotify.com/track/6suniHkw9kWbCWMta68RxR) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Yards / Gardens](https://open.spotify.com/album/2Z7WFypYB4NdZBX4EKoPOQ) | 2:21 | 2022-02-11 | 2022-10-15 |
 | [yellow is the color of her eyes](https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 7:15 | 2022-03-08 | 2022-11-13 |
+| [You Make Me Sick! \- Dora Jar Remix](https://open.spotify.com/track/2jIYa43fTPZsLCGX2D7zL2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [You Make Me Sick! \(Dora Jar Remix\)](https://open.spotify.com/album/0ddrfdgfcwQ0EafB4o4l3y) | 3:22 | 2024-09-30 |  |
 | [You're the Best](https://open.spotify.com/track/6dHrWj35HXTGvlCasE5VAA) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Don't You](https://open.spotify.com/album/4vTrbwGUedO7SN3DqNOiYU) | 2:57 | 2021-09-03 | 2022-04-13 |
 | [Young](https://open.spotify.com/track/4LMlviHZfDUXWIZhvGEAKi) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Fit Me In](https://open.spotify.com/album/2HBmYLBJ125pj7Dbss21tJ) | 2:02 | 2021-09-03 | 2022-06-26 |
 | [Your Best American Girl](https://open.spotify.com/track/172rW45GEnGoJUuWfm1drt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/16i5KnBjWgUtwOO7sVMnJB) | 3:32 | 2021-09-03 | 2022-07-29 |

@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "B\u00e0i Ca \u0110\u1ea5t Ph\u01b0\u01a1ng Nam",
+        "url": "https://open.spotify.com/album/39xeQAUTnQD2DbsbWgu7eR"
+      },
+      "artists": [
+        {
+          "name": "Khang L\u00ea",
+          "url": "https://open.spotify.com/artist/5dHLfJbVvO2oChEvKHxoR1"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307638,
+      "name": "B\u00e0i Ca \u0110\u1ea5t Ph\u01b0\u01a1ng Nam",
+      "url": "https://open.spotify.com/track/217Ucutb0UEeqpbmNEEown"
+    },
+    {
+      "album": {
         "name": "\u00c1o M\u1edbi C\u00e0 Mau",
         "url": "https://open.spotify.com/album/26Lhw1w3HQd9IBgmlo2woX"
       },
@@ -118,7 +136,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 311193,
       "name": "B\u00f4ng \u0111i\u00ean \u0111i\u1ec3n",
       "url": "https://open.spotify.com/track/7cYTby8U3P6Y4VpLYBlJuH"
@@ -516,10 +534,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 250434,
       "name": "C\u00e0 Ph\u00ea V\u00f5ng",
       "url": "https://open.spotify.com/track/1uDt6TcR1A988HMS9K0gb9"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh Qu\u00ea",
+        "url": "https://open.spotify.com/album/6I13W8uGVplirDjOJrOoq2"
+      },
+      "artists": [
+        {
+          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279512,
+      "name": "C\u00e2u H\u00e1t C\u00e0 Mau",
+      "url": "https://open.spotify.com/track/5nAAtTBccUFXQirHNkq8O2"
     },
     {
       "album": {
@@ -578,7 +614,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 310043,
       "name": "C\u00f2 \u0110\u00e3 Qua S\u00f4ng",
       "url": "https://open.spotify.com/track/3z22XDcTJ5ud1qsNz8sHpJ"
@@ -1015,6 +1051,24 @@
     },
     {
       "album": {
+        "name": "T\u00ecnh Qu\u00ea",
+        "url": "https://open.spotify.com/album/6I13W8uGVplirDjOJrOoq2"
+      },
+      "artists": [
+        {
+          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342399,
+      "name": "H\u01b0\u01a1ng T\u00ecnh B\u1ebfn Tre",
+      "url": "https://open.spotify.com/track/2wp4NiZwycaJmYcSUz60hw"
+    },
+    {
+      "album": {
         "name": "H\u01b0\u01a1ng T\u00ecnh B\u1ebfn Tre",
         "url": "https://open.spotify.com/album/42jLgyRJ3ULOERjCDSpAwo"
       },
@@ -1298,6 +1352,28 @@
       "duration_ms": 571852,
       "name": "LK Gi\u00f3 Th\u1ed5i B\u00ean S\u00f4ng",
       "url": "https://open.spotify.com/track/10KDb4J7hnZjeZHBpbOjgJ"
+    },
+    {
+      "album": {
+        "name": "Ph\u1eadn G\u00e1i Thuy\u1ec1n Quy\u00ean",
+        "url": "https://open.spotify.com/album/2QXbImVsrHVku3RjMDFNoA"
+      },
+      "artists": [
+        {
+          "name": "L\u01b0u \u00c1nh Loan",
+          "url": "https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V"
+        },
+        {
+          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314439,
+      "name": "Lk Mi\u1ec1n T\u00e2y Qu\u00ea T\u00f4i",
+      "url": "https://open.spotify.com/track/6lbbgG3keYjVePrtM1Wl5a"
     },
     {
       "album": {
@@ -1602,7 +1678,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 318240,
       "name": "Ng\u01b0\u1eddi em V\u1ef9 D\u1ea1",
       "url": "https://open.spotify.com/track/0UAbxS3lfQ1lnrq4nCI9tu"
@@ -1874,6 +1950,24 @@
       "duration_ms": 317497,
       "name": "Ph\u00e0 T\u00ecnh L\u00eanh \u0110\u00eanh",
       "url": "https://open.spotify.com/track/0HNew99OSfsEI8RL1uhV4Q"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh Qu\u00ea",
+        "url": "https://open.spotify.com/album/6I13W8uGVplirDjOJrOoq2"
+      },
+      "artists": [
+        {
+          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322656,
+      "name": "Ph\u01b0\u01a1ng Nam M\u1ed9t Kh\u00fac T\u1ef1 T\u00ecnh",
+      "url": "https://open.spotify.com/track/2gcBnEfkjwDchgRvRgaoiN"
     },
     {
       "album": {
@@ -2269,6 +2363,24 @@
     },
     {
       "album": {
+        "name": "T\u00ecnh Qu\u00ea",
+        "url": "https://open.spotify.com/album/6I13W8uGVplirDjOJrOoq2"
+      },
+      "artists": [
+        {
+          "name": "D\u01b0\u01a1ng H\u1ed3ng Loan",
+          "url": "https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278181,
+      "name": "T\u00ecnh Em Mi\u1ec1n T\u00e2y",
+      "url": "https://open.spotify.com/track/3P9qy39rwGGfQay9XVp9tz"
+    },
+    {
+      "album": {
         "name": "V\u00e0 Em",
         "url": "https://open.spotify.com/album/5G4vAzyEpiOdKxzC9MmMF6"
       },
@@ -2412,7 +2524,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 252121,
       "name": "T\u00ecnh Qu\u00ea (feat. Hu\u1ef3nh Nguy\u1ec5n C\u00f4ng B\u1eb1ng)",
       "url": "https://open.spotify.com/track/4oWkQWu78llLj97AsEFUaB"
@@ -2576,7 +2688,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 270312,
       "name": "T\u01a1 H\u1ed3ng",
       "url": "https://open.spotify.com/track/3X2mBkuZaKEa1oWBTV4Ucr"
@@ -3033,6 +3145,28 @@
     },
     {
       "album": {
+        "name": "\u0110i\u1ec7u H\u00f2 Trao Duy\u00ean",
+        "url": "https://open.spotify.com/album/6Q5pbIKIVgzkJ8NS4fmHaL"
+      },
+      "artists": [
+        {
+          "name": "T\u1ed1 My",
+          "url": "https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb"
+        },
+        {
+          "name": "Ng\u1ecdc Ph\u1ee5ng",
+          "url": "https://open.spotify.com/artist/0qsxxwNWl74ERd4qAoNrkT"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301206,
+      "name": "\u0110i\u1ec7u H\u00f2 Trao Duy\u00ean",
+      "url": "https://open.spotify.com/track/4ufX2MCBZV3wBPE6iVGni8"
+    },
+    {
+      "album": {
         "name": "Chi\u1ebfc \u00c1o B\u00e0 Ba",
         "url": "https://open.spotify.com/album/3A7kpDa08eKW5zuC2jEv9k"
       },
@@ -3114,7 +3248,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 368650,
       "name": "\u0110\u1eb9p B\u1ee9c Tranh Qu\u00ea",
       "url": "https://open.spotify.com/track/3deNzoOdAVybwtCOqj0xMQ"

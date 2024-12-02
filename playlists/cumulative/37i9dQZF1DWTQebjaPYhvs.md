@@ -4,7 +4,7 @@
 
 > Generations of blood have lead to this\. Listen to the music from Yellowstone, airing Sundays on Paramount Network.
 
-261 songs - 16 hr 24 min
+263 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,8 +96,10 @@
 | [Hallelujah](https://open.spotify.com/track/4rdE7Rtddm0BXwj6RBFSxL) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Junky Star](https://open.spotify.com/album/7ElYJTBo4oG1lRWfZgfW5x) | 5:00 | 2021-12-28 |  |
 | [Hands on the Wheel](https://open.spotify.com/track/6C8nBZQw7yyPQ1jkelFYX5) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Red Headed Stranger](https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM) | 4:22 | 2021-11-23 |  |
 | [Happy Hour](https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Happy Hour](https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2) | 3:11 | 2022-11-14 |  |
+| [Hard Livin'](https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 2:59 | 2024-12-02 |  |
 | [Headstone](https://open.spotify.com/track/4rQfCllOKfgfsZdwvRUT8G) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Early Morning Shakes](https://open.spotify.com/album/153JmAA3a2Rf9ms6W1dEiR) | 4:19 | 2019-08-01 |  |
 | [Hey Delilah](https://open.spotify.com/track/7gjm3Z4LAGaypHTe58Iz1P) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [You Hear Georgia](https://open.spotify.com/album/4RTNA0EiZA2ZXkJnX6mt7g) | 3:53 | 2021-11-08 |  |
+| [Highway Feet \(Live\)](https://open.spotify.com/track/6PTb2dKVMu8o6sViB3df7Z) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Larry Fleet \- The Live Sessions, Vol\. 1](https://open.spotify.com/album/1jgfbaEDQK3WCAZ6tBoKaV) | 3:30 | 2024-12-02 |  |
 | [Hold My Halo](https://open.spotify.com/track/0JFNEmvxVfMOV8HsICZkOj) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:26 | 2022-12-12 |  |
 | [Hold My Halo](https://open.spotify.com/track/29O197ONSFNzq063eb0869) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:26 | 2022-12-12 | 2024-04-19 |
 | [How Long](https://open.spotify.com/track/0yhgAscJ6u3SbjPAMBki89) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Songs To Keep You Warm](https://open.spotify.com/album/5Kh73PeLCIOd88y9ouZc08) | 3:30 | 2024-11-11 |  |

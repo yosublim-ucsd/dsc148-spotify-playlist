@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "TikTok\u3068Spotify\u304c\u5171\u540c\u3067\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u5fdc\u63f4\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u300cBuzz Tracker\u300d\uff01\u4e16\u754c\u4e2d\u306e\u97f3\u697d\u30b7\u30fc\u30f3\u306eBuzz\u3092\u3069\u3053\u3088\u308a\u3082\u65e9\u304fTrack(=\u8ffd\u8de1)\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u3053\u3063\u3061\u306e\u3051\u3093\u3068",
+  "description": "TikTok\u3068Spotify\u304c\u5171\u540c\u3067\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u5fdc\u63f4\u3059\u308b\u30d7\u30ed\u30b0\u30e9\u30e0\u300cBuzz Tracker\u300d\uff01\u4e16\u754c\u4e2d\u306e\u97f3\u697d\u30b7\u30fc\u30f3\u306eBuzz\u3092\u3069\u3053\u3088\u308a\u3082\u65e9\u304fTrack(=\u8ffd\u8de1)\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u30b3\u30ec\u30b5\u30ef",
   "name": "Buzz Tracker #\u30d0\u30ba\u30c8\u30e9",
   "tracks": [
     {
@@ -5672,7 +5672,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-24",
+      "date_removed": null,
       "duration_ms": 201520,
       "name": "\u2661\u4eba\u751f\u2661",
       "url": "https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m"
@@ -6132,7 +6132,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 161632,
       "name": "\u306f\u3044\u3088\u308d\u3053\u3093\u3067",
       "url": "https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3"
@@ -8510,7 +8510,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 208042,
       "name": "\u6b7b\u306c\u306a\uff01",
       "url": "https://open.spotify.com/track/1ID5KbsGbd0QXvWPzDO7KY"
@@ -8532,6 +8532,24 @@
       "duration_ms": 185196,
       "name": "\u6c34\u6b7b\u4f53\u306f\u604b\u3057\u305f\u3044",
       "url": "https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW"
+    },
+    {
+      "album": {
+        "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
+        "url": "https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
+      "url": "https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0"
     },
     {
       "album": {

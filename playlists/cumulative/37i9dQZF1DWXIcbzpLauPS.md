@@ -4,7 +4,7 @@
 
 > brutality and technicality collide\. fresh metalcore awaits\. Cover: Thornhill
 
-1,082 songs - 2 day 18 hr 46 min
+1,083 songs - 2 day 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [DESTINY](https://open.spotify.com/track/56wLqIBnjapUsIC08vHHYU) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [DESTINY](https://open.spotify.com/album/6szs4Ng6wO7Hu48kHET1xL) | 3:00 | 2021-12-17 | 2022-04-02 |
 | [Destructo](https://open.spotify.com/track/72dlRtRULviBnoxATyLBjW) | [Hunt the Dinosaur](https://open.spotify.com/artist/0Soz973Ih3ocID7FOktNpv) | [Dankosaurus](https://open.spotify.com/album/0KrXmQksBQFMy68bbi67Je) | 3:21 | 2022-07-13 | 2022-07-23 |
 | [Dethroned](https://open.spotify.com/track/6MlZKFmiN5JJy4ZX29z6ag) | [My Own Will](https://open.spotify.com/artist/3WOSLWmOvviDX3fiuHLTK6) | [Dethroned](https://open.spotify.com/album/1EBLYvAUe0ICIzXGtO9Lpw) | 2:59 | 2022-07-13 | 2022-07-16 |
-| [Devastator](https://open.spotify.com/track/6CrLhXSfLNpfi8D1B2YacS) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [Devastator](https://open.spotify.com/album/3IbiUIMTCPT5I1Cu5Cw0kn) | 3:29 | 2024-06-10 |  |
+| [Devastator](https://open.spotify.com/track/6CrLhXSfLNpfi8D1B2YacS) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [Devastator](https://open.spotify.com/album/3IbiUIMTCPT5I1Cu5Cw0kn) | 3:29 | 2024-06-10 | 2024-12-02 |
 | [Devil In Me](https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv) | [Within The Ruins](https://open.spotify.com/artist/5mscNJ6lE9Kj7tWv4iCk7y) | [Black Heart](https://open.spotify.com/album/78J2WyAF3Updccv9cQEcnc) | 3:33 | 2022-07-13 | 2022-07-23 |
 | [Di\-sinTer](https://open.spotify.com/track/02eVF039fjBLltP8DnbdXj) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Di\-sinTer](https://open.spotify.com/album/5rF5JS8hHkG7yUzefIX8LW) | 3:25 | 2022-01-07 | 2022-03-18 |
 | [Dial Tone](https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I) | [Catch Your Breath](https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22) | [Dial Tone](https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV) | 3:20 | 2023-01-06 | 2023-04-01 |
@@ -482,6 +482,7 @@
 | [HIVEMIND](https://open.spotify.com/track/65qnoPqpsez7gfoGqV9ZKk) | [The Browning](https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo) | [HIVEMIND](https://open.spotify.com/album/6iHHdRsPAn9HBXOQxMlb0e) | 3:12 | 2024-02-23 | 2024-07-21 |
 | [Hold Me, Help Me](https://open.spotify.com/track/5PonHqoB85p240oUT9AIDj) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Hold Me, Help Me](https://open.spotify.com/album/1g3ByU8bZ8KclMW1mLVwxz) | 3:45 | 2022-11-04 | 2023-05-06 |
 | [Hole Hearted](https://open.spotify.com/track/6WU2sHLqU13QUzwV9m6iGB) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [Hole Hearted](https://open.spotify.com/album/10kEMeY4T4I4gPn1gYLOgD) | 3:13 | 2024-08-25 |  |
+| [Hollow](https://open.spotify.com/track/1R9QqCwIjcEx7HBD9I914E) | [Saltwound](https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP) | [Hollow](https://open.spotify.com/album/18qPqwKIWroJmNkHsxo2bn) | 3:28 | 2024-11-22 |  |
 | [Hollowed Heart](https://open.spotify.com/track/7HZHFE3NN7uQgf9JRRN3Hh) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Hollowed Heart](https://open.spotify.com/album/1eugdphmac0WQccxNJ96tn) | 3:51 | 2022-07-13 | 2022-07-23 |
 | [Home](https://open.spotify.com/track/5xGiG8izp7SgNaFskYWVbZ) | [Oceans](https://open.spotify.com/artist/7x3hXpGkI296eBLTbhbND0) | [Home](https://open.spotify.com/album/5mLHqEAeh5zhf1WtDxBNPZ) | 4:04 | 2022-03-11 | 2022-05-14 |
 | [Hopeless Portrait](https://open.spotify.com/track/2ebjBbRm5bNy6Ld8lcrHMo) | [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN) | [A Love To Kill For](https://open.spotify.com/album/78lMWOIljykkcV0WucWMpj) | 1:07 | 2023-11-27 | 2023-12-09 |

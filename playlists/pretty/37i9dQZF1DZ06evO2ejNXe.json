@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1490,
+  "num_followers": 1491,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAAKiSnfzvsV+7+zhjV76rFu",
+  "snapshot_id": "Z0pVgAAAAABmxjAu/PHu8Fx3XeEDSNbD",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 247960,
-      "name": "Me Estas Volviendo Loco",
-      "url": "https://open.spotify.com/track/3D0dwXxPkJ19PNlMyqfyNS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mas Caliente Que Nunca",
         "url": "https://open.spotify.com/album/4YY08aSRh8vqYCZDJheZdO"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 171346,
       "name": "Playa Sola",
       "url": "https://open.spotify.com/track/1W5WhsRv84GU35tyGx1vUL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 247960,
+      "name": "Me Estas Volviendo Loco",
+      "url": "https://open.spotify.com/track/3D0dwXxPkJ19PNlMyqfyNS"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Fans",
-        "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 161053,
-      "name": "Only Fans",
-      "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piensa en Mi",
         "url": "https://open.spotify.com/album/2ym1cAO9ECsUaqAHUkxGB4"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Es La Primera Vez",
-        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
+        "name": "Only Fans",
+        "url": "https://open.spotify.com/album/1i9ej2a75hQvIrqOod5cP6"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 213093,
-      "name": "Mambo Loco",
-      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
+      "duration_ms": 161053,
+      "name": "Only Fans",
+      "url": "https://open.spotify.com/track/17TEMmWUZWPvmMFFBZ7bu7"
     },
     {
       "added_at": null,
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coleccion Suprema Plus- Banda Zarape",
-        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+        "name": "Es La Primera Vez",
+        "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 222426,
-      "name": "Hombre Muerto",
-      "url": "https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG"
+      "duration_ms": 213093,
+      "name": "Mambo Loco",
+      "url": "https://open.spotify.com/track/2NltL5XwtIbMz9OL5acWcY"
     },
     {
       "added_at": null,
@@ -707,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coleccion Suprema Plus- Banda Zarape",
+        "url": "https://open.spotify.com/album/5lY9e4LJ7mOkcc62ipqIal"
+      },
+      "artists": [
+        {
+          "name": "Banda Zarape",
+          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Hombre Muerto",
+      "url": "https://open.spotify.com/track/742APDKD9jvXTZ4otjooQG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Es La Primera Vez",
         "url": "https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 176893,
       "name": "Dejala Que Baile",
       "url": "https://open.spotify.com/track/2Le3iMPtKKmdQmbohKBwXN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Pachanga",
-        "url": "https://open.spotify.com/album/3gGXqROt966AxFB6rZZFjr"
-      },
-      "artists": [
-        {
-          "name": "Banda Zarape",
-          "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
-        }
-      ],
-      "duration_ms": 127266,
-      "name": "Cumbia de Guadalajara",
-      "url": "https://open.spotify.com/track/3fKaaPbgoRLcjxKHM2W8aE"
     },
     {
       "added_at": null,

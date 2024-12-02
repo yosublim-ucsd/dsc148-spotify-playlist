@@ -2,9 +2,9 @@
 
 ### [Buzz Tracker \#バズトラ](https://open.spotify.com/playlist/37i9dQZF1DXdTxsEGukhp4)
 
-> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: こっちのけんと
+> TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: コレサワ
 
-463 songs - 1 day 2 hr 34 min
+464 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Yozora](https://open.spotify.com/track/33R9K1FOX38TIA3hSgWF4l) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [Yozora](https://open.spotify.com/album/2nCX6mYqdaV3CydVYn407Y) | 2:56 | 2023-11-09 | 2023-12-18 |
 | [Yozora](https://open.spotify.com/track/67WGNeo1vhgZxs3pAayoJG) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [Yozora](https://open.spotify.com/album/6O0dPaOmLSNXJE9zLLMoMv) | 2:56 | 2024-04-18 | 2024-04-26 |
 | [Yozora](https://open.spotify.com/track/6xUPHMakPsGiur26RV3ABu) | [Sugar Goose](https://open.spotify.com/artist/78XX7wBh49Kk7YXPc0HKj4) | [20Escape](https://open.spotify.com/album/2HReb5L8Pix27hRgQRNbzS) | 2:56 | 2023-12-14 | 2024-04-19 |
-| [♡人生♡](https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [かわいくしながら待ってるね](https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J) | 3:21 | 2024-04-18 | 2024-05-24 |
+| [♡人生♡](https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [かわいくしながら待ってるね](https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J) | 3:21 | 2024-04-18 |  |
 | [あの子とダンス \(feat\. chelmico\)](https://open.spotify.com/track/0gVOzW7v3JyWzcLlbz3T2G) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [あの子とダンス \(feat\. chelmico\)](https://open.spotify.com/album/1Cqv6zjMexgzqw91Q9WGJK) | 4:25 | 2024-09-02 | 2024-10-02 |
 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 | 2023-01-26 | 2023-06-02 |
 | [おともだち](https://open.spotify.com/track/1nfNIGVbtFTodN5iynMIQj) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [おともだち](https://open.spotify.com/album/38hnmtLRwYhBFtpgaNUAmk) | 3:05 | 2023-11-16 |  |
@@ -320,7 +320,7 @@
 | [どうでもいい話がしたい](https://open.spotify.com/track/2XSRtBSiJK1MpJrIGizsBF) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [どうでもいい話がしたい](https://open.spotify.com/album/4eLTAkwR2aCbADYfSRBwlS) | 3:21 | 2024-04-18 | 2024-04-26 |
 | [ないものねだり](https://open.spotify.com/track/1dsh4buvcBs2u7YtHy29c7) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [僕がCDを出したら](https://open.spotify.com/album/3SKxJng83DxoCi3CuHfaLU) | 4:22 | 2023-04-03 | 2023-05-02 |
 | [にゃんにゃんにゃん](https://open.spotify.com/track/5zExZzrMotIZvgyA8CVGgi) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [にゃんにゃんにゃん](https://open.spotify.com/album/3MG1bTi5QrEVZ56HuGUjKC) | 4:15 | 2024-05-23 | 2024-09-13 |
-| [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-07-01 |  |
+| [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-07-01 | 2024-12-02 |
 | [ぴぽぴぽ](https://open.spotify.com/track/7GxUPZNxNPvDToM4FkXE6G) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:22 | 2023-11-09 | 2024-01-12 |
 | [ふたりの映画](https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ふたりの映画](https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII) | 3:27 | 2024-09-04 | 2024-10-02 |
 | [ぼくのてんし](https://open.spotify.com/track/2vOdEYqxSzIvZdo7IYISmY) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [20](https://open.spotify.com/album/2E6evRJYZ8yknwWA65ICDO) | 3:14 | 2024-06-03 | 2024-10-18 |
@@ -449,8 +449,9 @@
 | [桃源郷とタクシー](https://open.spotify.com/track/4ezC3yFDvZUhBX4fCUIjwq) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ロックはか゛わ゛い゛い゛](https://open.spotify.com/album/2q9ug8Pt4cCbO4PLLXygXq) | 4:58 | 2024-09-02 | 2024-09-04 |
 | [桃源郷とタクシー](https://open.spotify.com/track/2WW3SD60gBWS12cooxmfaZ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [桃源郷とタクシー](https://open.spotify.com/album/4iybrmDfQZUvxTweCSTLVa) | 4:58 | 2024-09-02 | 2024-09-03 |
 | [歯ラ歯ラ](https://open.spotify.com/track/0xRqb4xCtQl7LT7CcCF2AN) | [しなこ](https://open.spotify.com/artist/0PUlKPu2HTROtFNmqCR5zX) | [歯ラ歯ラ](https://open.spotify.com/album/3PlEkvlcYtWiE9PDJ8I0br) | 2:04 | 2024-11-21 |  |
-| [死ぬな！](https://open.spotify.com/track/1ID5KbsGbd0QXvWPzDO7KY) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [死ぬな！](https://open.spotify.com/album/3cV5WVgvinE8Q0ubVEzQ1z) | 3:28 | 2024-11-01 |  |
+| [死ぬな！](https://open.spotify.com/track/1ID5KbsGbd0QXvWPzDO7KY) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [死ぬな！](https://open.spotify.com/album/3cV5WVgvinE8Q0ubVEzQ1z) | 3:28 | 2024-11-01 | 2024-12-02 |
 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 | 2023-09-01 | 2023-09-15 |
+| [浮気したらあかんで](https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [浮気したらあかんで](https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34) | 3:13 | 2024-12-02 |  |
 | [渋沢栄一](https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA) | [Ninja We Made It.](https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg) | [渋沢栄一](https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0) | 1:58 | 2024-07-18 | 2024-09-20 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-13 | 2023-11-11 |
 | [猿芝居](https://open.spotify.com/track/3LY9pxrkW6J3TTAL5ZwNuI) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [猿芝居](https://open.spotify.com/album/70T4FWkth5x4r4cAfUSxR7) | 2:55 | 2023-01-26 | 2023-03-18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > 18K in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,180 likes - 65 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,186 likes - 65 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 47 | [Sostanza \(feat\. Kilimoney\)](https://open.spotify.com/track/7cJATSQkjhY0EyHRCsy2Kz) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [Sostanza \(feat\. Kilimoney\)](https://open.spotify.com/album/39yaroIzHnNUicxTnbFWcp) | 2:20 |
 | 48 | [Vendetta Freestyle](https://open.spotify.com/track/7LfcI5izfeDK5wFSSpbgtz) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [G\-Lex](https://open.spotify.com/artist/34aOrKPSv2YwgiR6pLVK2Y) | [Vendetta Freestyle](https://open.spotify.com/album/1p15Kg2ZLLc9ZVJyrsd59K) | 1:52 |
 | 49 | [Skyline \(feat\. Glocky\)](https://open.spotify.com/track/5Fmim1aIr2EkrnTUkYRtwa) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [No Pressure, No Diamonds](https://open.spotify.com/album/5gRvTwwvyRN2vYNBM9hmQu) | 3:17 |
-| 50 | [PICCOLI BRIVIDI](https://open.spotify.com/track/0Z1NrdtzjAgsXTQ4Eag6KO) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ) | [PICCOLI BRIVIDI \(feat\. Rayan, Intifaya\)](https://open.spotify.com/album/1ZLiNLv6eumMGIx2lTPaXF) | 2:48 |
+| 50 | [PICCOLI BRIVIDI \(feat\. Rayan, Intifaya\)](https://open.spotify.com/track/0Z1NrdtzjAgsXTQ4Eag6KO) | [Maury North](https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry), [Ksub](https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [PICCOLI BRIVIDI \(feat\. Rayan, Intifaya\)](https://open.spotify.com/album/1ZLiNLv6eumMGIx2lTPaXF) | 2:48 |
 | 51 | [24/7](https://open.spotify.com/track/118lBaOeoRLNnySo8DOKRc) | [MBOSS](https://open.spotify.com/artist/5IHqA6YzPMGrf9CDjly4az), [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [24/7](https://open.spotify.com/album/7KA4HQshkUPNtpP3UDpowQ) | 3:05 |
 | 52 | [CORALINE](https://open.spotify.com/track/5IQsl2M6AlRtRKgo6FbAsX) | [lildombaby](https://open.spotify.com/artist/2zC7nA8SJ0qHEBFyJFYjc4) | [CORALINE](https://open.spotify.com/album/6caPdkXnIijsx5ArccCqPw) | 3:05 |
 | 53 | [Pregio](https://open.spotify.com/track/2Yt6UiKVQgjdtgDF3oMGr1) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L), [YD Teddy](https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4) | [Pregio](https://open.spotify.com/album/2yj9xgI4HVkt7EZQ5b7KAw) | 2:35 |

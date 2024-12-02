@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5484,
+  "num_followers": 5486,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAB+aEMKBXYXapwu5TGk3MEV",
+  "snapshot_id": "Z0pVgAAAAABxJb0dar/BptiRx9SX7xaO",
   "tracks": [
     {
       "added_at": null,
@@ -219,30 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Lose Your Head",
-        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Zion I",
-          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Don't Lose Your Head",
-      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SNOOP CUBE 40 $HORT",
         "url": "https://open.spotify.com/album/0W8eSVMCkF6C4CpvtDtOyZ"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 216100,
       "name": "Too Big",
       "url": "https://open.spotify.com/track/5CSKc1MTcGNx5DF9Yo6DqF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Lose Your Head",
+        "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Zion I",
+          "url": "https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Don't Lose Your Head",
+      "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
     },
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "Sneeze",
-      "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What We On (feat. E-40)",
         "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
       },
@@ -383,6 +363,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "Sneeze",
+      "url": "https://open.spotify.com/track/5ON3vOmbAsjByiJObo2CHi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAJORLY INDEPENDENT",
         "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
       },
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stone Cold",
-        "url": "https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f"
-      },
-      "artists": [
-        {
-          "name": "Rob $tone",
-          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 202387,
-      "name": "Too Faded",
-      "url": "https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Hunnids (feat. P-Lo) - Single",
         "url": "https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 196905,
       "name": "Blue Hunnids",
       "url": "https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stone Cold",
+        "url": "https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f"
+      },
+      "artists": [
+        {
+          "name": "Rob $tone",
+          "url": "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 202387,
+      "name": "Too Faded",
+      "url": "https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"
     },
     {
       "added_at": null,
@@ -547,26 +547,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life Sucks",
-        "url": "https://open.spotify.com/album/4M8wmqEOBiRmTUIlGfLi34"
+        "name": "Great Escape",
+        "url": "https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps"
       },
       "artists": [
         {
-          "name": "Powers Pleasant",
-          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
-        },
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
         }
       ],
-      "duration_ms": 132788,
-      "name": "I'm The Shit (feat. Guapdad 4000 & P-Lo)",
-      "url": "https://open.spotify.com/track/7xfezHL3brl8np6x4zCSdy"
+      "duration_ms": 203186,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj"
     },
     {
       "added_at": null,
@@ -595,26 +595,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Great Escape",
-        "url": "https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps"
+        "name": "Life Sucks",
+        "url": "https://open.spotify.com/album/4M8wmqEOBiRmTUIlGfLi34"
       },
       "artists": [
         {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "Powers Pleasant",
+          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
         },
         {
           "name": "Guapdad 4000",
           "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 203186,
-      "name": "Lo Lo",
-      "url": "https://open.spotify.com/track/3OOuvtYS6f6hQaTv1M5syj"
+      "duration_ms": 132788,
+      "name": "I'm The Shit (feat. Guapdad 4000 & P-Lo)",
+      "url": "https://open.spotify.com/track/7xfezHL3brl8np6x4zCSdy"
     },
     {
       "added_at": null,
@@ -891,6 +891,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Before Anything - EP",
+        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Jay Anthony",
+          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Light This Bitch Up",
+      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -915,30 +939,6 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Before Anything - EP",
-        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Jay Anthony",
-          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Light This Bitch Up",
-      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
     },
     {
       "added_at": null,
@@ -1019,6 +1019,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caught In The Funk",
         "url": "https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 120153,
       "name": "Hotel Lobby",
       "url": "https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,

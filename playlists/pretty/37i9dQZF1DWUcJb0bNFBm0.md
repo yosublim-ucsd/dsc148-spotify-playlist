@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  \(Cover: Meaningful Stone \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,351 likes - 95 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,376 likes - 95 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

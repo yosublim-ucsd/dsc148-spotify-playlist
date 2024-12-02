@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2010s. Cover: Coldplay.",
-  "num_followers": 211027,
+  "num_followers": 211025,
   "original_name": "10s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -251,6 +235,38 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
@@ -287,6 +303,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Adventure of a Lifetime",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Stronger (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VmE95pr5TSpZWucfyhO5e"
       },
@@ -299,22 +331,6 @@
       "duration_ms": 221946,
       "name": "Stronger (What Doesn't Kill You)",
       "url": "https://open.spotify.com/track/1nInOsHbtotAmEOQhtvnzP"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -335,22 +351,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Adventure of a Lifetime",
-      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "No Sound Without Silence",
         "url": "https://open.spotify.com/album/6yd9yk8nFcHalXzy7mgaDx"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 245466,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/37sINbJZcFdHFAsVNsPq1i"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Origins (Deluxe)",
+        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -415,6 +431,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
         "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
       },
@@ -427,22 +459,6 @@
       "duration_ms": 347525,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Origins (Deluxe)",
-        "url": "https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -483,6 +499,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Walking The Wire",
+      "url": "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Empires On Fire",
         "url": "https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth"
       },
@@ -499,8 +531,8 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+        "name": "Mylo Xyloto",
+        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
       "artists": [
         {
@@ -508,9 +540,9 @@
           "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
+      "duration_ms": 240796,
+      "name": "Every Teardrop Is a Waterfall",
+      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -579,38 +611,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Mylo Xyloto",
-        "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240796,
-      "name": "Every Teardrop Is a Waterfall",
-      "url": "https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Walking The Wire",
-      "url": "https://open.spotify.com/track/1y3bE5i57eUm3hfLAc7h08"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Here and Now",
         "url": "https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd"
       },
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 224853,
-      "name": "Love Runs Out",
-      "url": "https://open.spotify.com/track/3cOO5IQtOYs7huq4Z6lYfr"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "Direct Hits",
         "url": "https://open.spotify.com/album/3T5bbO2BOnnjun6jKhJdjV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 242506,
       "name": "Shot At The Night",
       "url": "https://open.spotify.com/track/2aZ2Co4NeQRsqWcU930zHT"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Sweeter",
+        "url": "https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j"
+      },
+      "artists": [
+        {
+          "name": "Gavin DeGraw",
+          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+        }
+      ],
+      "duration_ms": 218520,
+      "name": "Not Over You",
+      "url": "https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Sweeter",
-        "url": "https://open.spotify.com/album/2zVRgW8bXd7ukXRZSWw81j"
+        "name": "Native",
+        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
       },
       "artists": [
         {
-          "name": "Gavin DeGraw",
-          "url": "https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 218520,
-      "name": "Not Over You",
-      "url": "https://open.spotify.com/track/6j7hih15xG2cdYwIJnQXsq"
+      "duration_ms": 224853,
+      "name": "Love Runs Out",
+      "url": "https://open.spotify.com/track/3cOO5IQtOYs7huq4Z6lYfr"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Native",
-        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 257386,
-      "name": "Counting Stars",
-      "url": "https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 224360,
       "name": "Fourth Of July",
       "url": "https://open.spotify.com/track/1vrjcPplEuenckUzGGp2UR"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 257386,
+      "name": "Counting Stars",
+      "url": "https://open.spotify.com/track/1QzFhzIOW7CyRJLpmq5CM0"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "Oh My My",
+        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Andrew McMahon In The Wilderness",
         "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 196106,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/600oiqLkQIJ85HvQGIQWvO"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Oh My My",
-        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5mQNY6pTeSDl2doFB7uLbE"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
+        "name": "ATLAS",
+        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
         "name": "Scars & Stories",
         "url": "https://open.spotify.com/album/1Nu3r7EuveXog0rPvXExSF"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 244823,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "ATLAS",
-        "url": "https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Ellipsis (Deluxe)",
-        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 217933,
-      "name": "Re-arrange",
-      "url": "https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
         "name": "ATLAS (Deluxe)",
         "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
       },
@@ -1335,34 +1319,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+        "name": "Ellipsis (Deluxe)",
+        "url": "https://open.spotify.com/album/4gSoMEnVL0sZlROP2bDVqd"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 205026,
-      "name": "Summer Girl - Bonus Track",
-      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "Magnetic (Deluxe Version)",
-        "url": "https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz"
+      "duration_ms": 217933,
+      "name": "Re-arrange",
+      "url": "https://open.spotify.com/track/3VAvS6hbvz0mjFT1TmLNdd"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1383,18 +1351,66 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "We Won't Be Shaken",
-        "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
+        "name": "What We Live For",
+        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
       },
       "artists": [
         {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
         }
       ],
-      "duration_ms": 236546,
-      "name": "We Won't Be Shaken",
-      "url": "https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd"
+      "duration_ms": 178560,
+      "name": "What We Live For",
+      "url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Summer Girl - Bonus Track",
+      "url": "https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "ATLAS (Deluxe)",
+        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "duration_ms": 215706,
+      "name": "On And On",
+      "url": "https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe"
+    },
+    {
+      "added_at": "2024-07-05 23:46:34",
+      "album": {
+        "name": "Magnetic (Deluxe Version)",
+        "url": "https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2024-07-05 23:46:34",
       "album": {
-        "name": "What We Live For",
-        "url": "https://open.spotify.com/album/1av32Pkx9yoZYU250F34zW"
+        "name": "We Won't Be Shaken",
+        "url": "https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX"
       },
       "artists": [
         {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
         }
       ],
-      "duration_ms": 178560,
-      "name": "What We Live For",
-      "url": "https://open.spotify.com/track/1KgZOCjN3nGRTk3c87oIj6"
+      "duration_ms": 236546,
+      "name": "We Won't Be Shaken",
+      "url": "https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd"
     },
     {
       "added_at": "2024-07-05 23:46:34",
@@ -1443,22 +1459,6 @@
       "duration_ms": 204840,
       "name": "Fire Escape",
       "url": "https://open.spotify.com/track/6uCmU6ldcsVpLAKNCojVg8"
-    },
-    {
-      "added_at": "2024-07-05 23:46:34",
-      "album": {
-        "name": "ATLAS (Deluxe)",
-        "url": "https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE"
-      },
-      "artists": [
-        {
-          "name": "The Score",
-          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
-        }
-      ],
-      "duration_ms": 215706,
-      "name": "On And On",
-      "url": "https://open.spotify.com/track/65Ce0h4SA18GuH6nuI1QWe"
     },
     {
       "added_at": "2024-07-05 23:46:34",

@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con La Valenti en portada.",
-  "num_followers": 40545,
+  "num_followers": 40548,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
+      },
+      "artists": [
+        {
+          "name": "La Valenti",
+          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+        }
+      ],
+      "duration_ms": 185088,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Tiempo al Sol",
         "url": "https://open.spotify.com/album/13iykFFEcCbq2G2669E1Hd"
       },
@@ -139,18 +155,18 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+        "name": "los ausentes",
+        "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
       },
       "artists": [
         {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
         }
       ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
+      "duration_ms": 179635,
+      "name": "los ausentes",
+      "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -171,34 +187,18 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/5TMl7Qr7UBoBAFqbiH39zG"
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
       },
       "artists": [
         {
-          "name": "La Valenti",
-          "url": "https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ"
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
         }
       ],
-      "duration_ms": 185088,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/5mDbbvhvaf8ObKttnHXn0s"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "los ausentes",
-        "url": "https://open.spotify.com/album/1EtqdQBg0c3m1iVJNctVF9"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 179635,
-      "name": "los ausentes",
-      "url": "https://open.spotify.com/track/5JgHXc7awzk6q5WoYUjSJj"
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "Una Pel\u00edcula",
+        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Pien",
+          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
+        }
+      ],
+      "duration_ms": 320167,
+      "name": "Una Pel\u00edcula",
+      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Esa Morena",
         "url": "https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 220000,
       "name": "Esa Morena",
       "url": "https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "Una Pel\u00edcula",
-        "url": "https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Pien",
-          "url": "https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY"
-        }
-      ],
-      "duration_ms": 320167,
-      "name": "Una Pel\u00edcula",
-      "url": "https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "CUERO",
+        "url": "https://open.spotify.com/album/3P0PpCDh5mEtgcrqAKlDq7"
+      },
+      "artists": [
+        {
+          "name": "GUADA",
+          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
+        }
+      ],
+      "duration_ms": 136125,
+      "name": "Una canastita",
+      "url": "https://open.spotify.com/track/1XEPXduN6cbB8C8A23qF9s"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "INFLEXI\u00d3N",
         "url": "https://open.spotify.com/album/4q3w1YExFuQ0uXEWd9wFMo"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 217386,
       "name": "INFLEXI\u00d3N",
       "url": "https://open.spotify.com/track/0QTklhlD3bQz6vq1QcPKjc"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "CUERO",
-        "url": "https://open.spotify.com/album/3P0PpCDh5mEtgcrqAKlDq7"
-      },
-      "artists": [
-        {
-          "name": "GUADA",
-          "url": "https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN"
-        }
-      ],
-      "duration_ms": 136125,
-      "name": "Una canastita",
-      "url": "https://open.spotify.com/track/1XEPXduN6cbB8C8A23qF9s"
     },
     {
       "added_at": "2024-11-07 03:00:00",

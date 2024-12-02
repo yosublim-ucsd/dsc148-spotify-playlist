@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > <Jamie xx live in Seoul> 2024년 11월 28일 \(목\) 오후 8시 @YES 24 라이브 홀\(서울\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,076 likes - 20 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,072 likes - 20 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

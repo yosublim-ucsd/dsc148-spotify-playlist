@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 465534,
+  "num_followers": 465639,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "I have more than enough",
-        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 328098,
-      "name": "I have more than enough",
-      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Falling In",
         "url": "https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU"
       },
@@ -563,22 +547,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Light Verse",
         "url": "https://open.spotify.com/album/0dZ4tHT2Ka2kScPqLK9x1Q"
       },
@@ -595,6 +563,38 @@
       "duration_ms": 255338,
       "name": "All in Good Time",
       "url": "https://open.spotify.com/track/3K8csekmDMhYCh0BDzalmW"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -699,38 +699,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
-        "name": "Years On",
-        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "Years On",
-      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Never Meant",
         "url": "https://open.spotify.com/album/1vEVu7cCHpvCWeOdzaje94"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 199800,
       "name": "Never Meant",
       "url": "https://open.spotify.com/track/59MRYnrFHsMMYlAIOnWOij"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -775,6 +759,22 @@
       "duration_ms": 307534,
       "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
       "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Years On",
+        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "Years On",
+      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "God",
-        "url": "https://open.spotify.com/album/3li9CStMM1QmEd5A35ImP7"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
       },
       "artists": [
         {
-          "name": "Genevieve Stokes",
-          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
         }
       ],
-      "duration_ms": 212964,
-      "name": "God",
-      "url": "https://open.spotify.com/track/7hzkt0Vdmqo1xAADVseb3y"
+      "duration_ms": 229432,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/2LhcszZRrPCmJZqhsTdI6S"
+        "name": "God",
+        "url": "https://open.spotify.com/album/3li9CStMM1QmEd5A35ImP7"
       },
       "artists": [
         {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+          "name": "Genevieve Stokes",
+          "url": "https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ"
         }
       ],
-      "duration_ms": 229432,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/5TnodoKN3XEi80i2ZeCh1y"
+      "duration_ms": 212964,
+      "name": "God",
+      "url": "https://open.spotify.com/track/7hzkt0Vdmqo1xAADVseb3y"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "No Place Like You",
-      "url": "https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Tomorrow",
         "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 247253,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "No Place Like You",
+      "url": "https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
-      },
-      "artists": [
-        {
-          "name": "Savannah Conley",
-          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Same Old Eyes",
-      "url": "https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Radio Silence",
         "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 222760,
       "name": "Radio Silence",
       "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/0RSBs1Y1uzFkIomZNyrgBO"
+      },
+      "artists": [
+        {
+          "name": "Savannah Conley",
+          "url": "https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Same Old Eyes",
+      "url": "https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Wildflowers In The Sky",
-        "url": "https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 162099,
-      "name": "Wildflowers In The Sky",
-      "url": "https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Way I Go",
-        "url": "https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj"
+        "name": "Wildflowers In The Sky",
+        "url": "https://open.spotify.com/album/2fpUu11yj5MzI7UEpM40Mm"
       },
       "artists": [
         {
-          "name": "Gordi",
-          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 247829,
-      "name": "Way I Go",
-      "url": "https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4"
+      "duration_ms": 162099,
+      "name": "Wildflowers In The Sky",
+      "url": "https://open.spotify.com/track/4tyFfJLi2tstBiMc1KiduB"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1615,6 +1599,22 @@
       "duration_ms": 187211,
       "name": "Fixed",
       "url": "https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Way I Go",
+        "url": "https://open.spotify.com/album/5YqVZuseoRLBTC5xoYVvFj"
+      },
+      "artists": [
+        {
+          "name": "Gordi",
+          "url": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        }
+      ],
+      "duration_ms": 247829,
+      "name": "Way I Go",
+      "url": "https://open.spotify.com/track/6v0X2SMVKK9gXHH9y6ilA4"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Collateral",
-        "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
-      },
-      "artists": [
-        {
-          "name": "Daulton Hopkins",
-          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
-        }
-      ],
-      "duration_ms": 179188,
-      "name": "Collateral",
-      "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Reliance",
         "url": "https://open.spotify.com/album/2tTLL49vo53UoDXLcDjPgS"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 219245,
       "name": "Reliance",
       "url": "https://open.spotify.com/track/2rNlmDqduDNkj8W9D1O7KM"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Collateral",
+        "url": "https://open.spotify.com/album/4rDtkcswamhTIK6xOEgbWF"
+      },
+      "artists": [
+        {
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
+        }
+      ],
+      "duration_ms": 179188,
+      "name": "Collateral",
+      "url": "https://open.spotify.com/track/0WwBPTz2wuv3A8qLIklg6y"
     },
     {
       "added_at": "2024-08-26 14:21:45",

@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 78871,
+  "num_followers": 78878,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAAdfVQReIJb9LJw1kodQuJE",
+  "snapshot_id": "Z0pVgAAAAABu1VyUUEnOwdaybZJ6MMTU",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq"
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
@@ -244,9 +228,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 137533,
-      "name": "I Didn't Understand",
-      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
+      "duration_ms": 184906,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 137800,
+      "name": "Whatever (Folk Song In C)",
+      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 137800,
-      "name": "Whatever (Folk Song In C)",
-      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
+      "duration_ms": 137533,
+      "name": "I Didn't Understand",
+      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
     },
     {
       "added_at": null,

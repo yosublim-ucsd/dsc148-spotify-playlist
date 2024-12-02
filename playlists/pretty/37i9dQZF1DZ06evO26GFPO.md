@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 
 > This is LUDMILLA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,870 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,901 likes - 45 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 20 | [Paciência \(Participação especial de Ludmilla\) \- Ao vivo](https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Prazer, eu sou Ferrugem \(Ao vivo\)](https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3) | 3:53 |
 | 21 | [Falta de Mim \- Ao Vivo](https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:34 |
 | 22 | [Gamei / Por Tão Pouco / É Você](https://open.spotify.com/track/5fMN5E03Qmvb3ZnYt9AcNi) | [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Gamei / Por Tão Pouco / É Você](https://open.spotify.com/album/4MwqlpUj3akFueXVeEbidL) | 4:54 |
-| 23 | [Não Para](https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Sem Música](https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI) | 2:10 |
-| 24 | [Ela Terminou No WhatsApp \- Ao Vivo](https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [paGGodin \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/2ryScgu1hScAW4eUnhWS2X) | 3:06 |
+| 23 | [Ela Terminou No WhatsApp \- Ao Vivo](https://open.spotify.com/track/41YAs2W3C3xPHuDLQIPnvM) | [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [paGGodin \(Ao Vivo / Parte 1\)](https://open.spotify.com/album/2ryScgu1hScAW4eUnhWS2X) | 3:06 |
+| 24 | [Não Para](https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Sem Música](https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI) | 2:10 |
 | 25 | [Saudade da Gente \- Ao Vivo](https://open.spotify.com/track/7zD6UkCZatI0QhTr3Q9c59) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 3:07 |
 | 26 | [Mande Um Sinal / Sinais \- Ao vivo](https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \(Ao vivo\)](https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN) | 4:41 |
 | 27 | [Insônia \- Ao Vivo](https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 3:01 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26GFPO.md) - [plain]
 | 44 | [Faz uma Loucura por mim / Você me vira a cabeça \- Ao Vivo](https://open.spotify.com/track/2hy9PyCleGC4HRe5MsPwfF) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Numanice \#2 \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv) | 5:01 |
 | 45 | [Fora de Si \- Ao Vivo](https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#2 \(Ao Vivo\)](https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu) | 2:27 |
 
-Snapshot ID: `Z0kEAAAAAAAo13IXPpoW+nfH/DoBMsmM`
+Snapshot ID: `Z0pVgAAAAABaRDSpEMZcUCCUFYFpzQyU`

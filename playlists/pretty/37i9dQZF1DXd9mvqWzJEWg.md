@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > It's not just about the music, it's about the culture\. Cover: <a href="https://open.spotify.com/artist/4aT1nL2qkk47Kb6yvXV1Aw?si=Lab2h6\_PQSamP6c6gI7LKw">Amatycooler</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,061 likes - 78 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,177 likes - 78 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 | 25 | [Yebo](https://open.spotify.com/track/39OPuSut8UC6cMMmTE54pI) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Thobeka](https://open.spotify.com/artist/3AyBsX5nXTMPaXkmZelNCu) | [THE REBELLION](https://open.spotify.com/album/2exf6yfLxHJzx0z5EFZGYA) | 5:09 |
 | 26 | [WDPTSQ](https://open.spotify.com/track/3aUvyul7r933PaJuqZlyhe) | [Chustar](https://open.spotify.com/artist/6DgtyczD2FCpb36hxFw1NC), [King Lee](https://open.spotify.com/artist/12UHQYDKcmmmk3WFsQhp6T) | [Science with Criteria](https://open.spotify.com/album/6LXLXj765zu6oofPRRLAjZ) | 5:10 |
 | 27 | [Dhalsim \- Rotterdam Sghubu](https://open.spotify.com/track/1UCzeMyAYC0FPxqHQi2znV) | [Surreal Sessions](https://open.spotify.com/artist/4kF0844GqqOkj7bvFTlW6E), [De Schuurman](https://open.spotify.com/artist/4PiQEwBGt6N4Hlblsia5N4) | [Dhalsim \(Rotterdam Sghubu\)](https://open.spotify.com/album/2UDpvZmJo0igItcpOjNGAg) | 4:33 |
-| 28 | [Busa Ezweni](https://open.spotify.com/track/6rcrNTfXdHMltviH11A3n5) | [Still That Combo](https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Solan](https://open.spotify.com/artist/76v2ZPpOS3C4t6sMULzqv5) | [Busa Ezweni](https://open.spotify.com/album/6hNk6nByA0dlVqfwhlwri8) | 5:17 |
+| 28 | [Busa Ezweni](https://open.spotify.com/track/6rcrNTfXdHMltviH11A3n5) | [Still That Combo](https://open.spotify.com/artist/2dYBmQBoPF1u097KQasvdv), [Dladla Mshunqisi](https://open.spotify.com/artist/5M9mFjVaPT2T1HFYFFSoCt), [Solan](https://open.spotify.com/artist/52QZsAiEFovtjGxMG5kp5J) | [Busa Ezweni](https://open.spotify.com/album/6hNk6nByA0dlVqfwhlwri8) | 5:17 |
 | 29 | [Fire Works 2.0](https://open.spotify.com/track/6TOEwIeyiv34MFbL09v1Ss) | [King Lee](https://open.spotify.com/artist/12UHQYDKcmmmk3WFsQhp6T), [Stingray](https://open.spotify.com/artist/7FVXXP3lzthrIXUZKi0lPG) | [Fireworks 2](https://open.spotify.com/album/7zBmVMv9LUT5hEq1SMAXez) | 5:13 |
 | 30 | [Susa](https://open.spotify.com/track/1zLkx0V1cSpQWM9AvEbfGh) | [Wes Lee](https://open.spotify.com/artist/5jX2NDv1nyXv0FCEP3gqwR), [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy) | [The End Is Near EP](https://open.spotify.com/album/6h5FFPtEfRIrkzG3lujb6J) | 4:14 |
 | 31 | [Durban Gqom](https://open.spotify.com/track/0o6nJ5i3nFtqEnRGx5kHDk) | [Stingray](https://open.spotify.com/artist/7FVXXP3lzthrIXUZKi0lPG) | [iSxwayiso Ses'bili](https://open.spotify.com/album/0O7yGfHEvv0WryqrUptj4x) | 5:14 |

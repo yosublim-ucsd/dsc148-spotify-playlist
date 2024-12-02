@@ -5995,6 +5995,24 @@
     },
     {
       "album": {
+        "name": "Show 'Em How (2024 Remastered)",
+        "url": "https://open.spotify.com/album/3F0YRk6W7AbbyTHGHHbkk6"
+      },
+      "artists": [
+        {
+          "name": "Pentagram",
+          "url": "https://open.spotify.com/artist/0xybuiDEYo3YuT3fLPaIyE"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228626,
+      "name": "Catwalk",
+      "url": "https://open.spotify.com/track/3tbbjb7rSRw31msE52LbhQ"
+    },
+    {
+      "album": {
         "name": "Caught A Body (feat. Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
@@ -14872,6 +14890,24 @@
       "duration_ms": 229158,
       "name": "High Life",
       "url": "https://open.spotify.com/track/2T0g9577uRQOo9LHkp0TOb"
+    },
+    {
+      "album": {
+        "name": "The Old Waldorf, San Francisco, 1977 (HQ Remastered)",
+        "url": "https://open.spotify.com/album/5CmiFKQ5XsKUeS6JgmhfpR"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372332,
+      "name": "High Voltage",
+      "url": "https://open.spotify.com/track/7hc7QUlcTePqg8vWfShMTM"
     },
     {
       "album": {
@@ -32236,7 +32272,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 323906,
       "name": "Starlady",
       "url": "https://open.spotify.com/track/0io1g2tklQxAoXfRUMWm6H"
@@ -40014,7 +40050,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 305285,
       "name": "Whole Lotta Rosie",
       "url": "https://open.spotify.com/track/1A4c09jJjkdQ0bK1pq08u5"

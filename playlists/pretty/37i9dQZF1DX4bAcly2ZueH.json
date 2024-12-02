@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52370,
+  "num_followers": 52371,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Shin",
         "url": "https://open.spotify.com/album/3UrFKoWVHjVhiRy3fyEwdf"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 225152,
       "name": "Shin",
       "url": "https://open.spotify.com/track/6M15SpES3QM2uiuYZExTVa"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "three",
-        "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
-      },
-      "artists": [
-        {
-          "name": "ILIVEHERE.",
-          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "three",
-      "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Somnolent Nova",
         "url": "https://open.spotify.com/album/6t1WHI2hGzhb6PLCO9ySqv"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 183157,
       "name": "Somnolent Nova",
       "url": "https://open.spotify.com/track/03Xacq2fba0uwwFg6rlM8a"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "three",
+        "url": "https://open.spotify.com/album/4cu4k1E6jn1vmNTuJgqVKl"
+      },
+      "artists": [
+        {
+          "name": "ILIVEHERE.",
+          "url": "https://open.spotify.com/artist/5gSlfhS3FhzfAruPQh0Wro"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "three",
+      "url": "https://open.spotify.com/track/7jKmTkHT3FQGJdhf0SrHNV"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Nezumi Coo",
-        "url": "https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH"
-      },
-      "artists": [
-        {
-          "name": "Nezumi Coo",
-          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
-        },
-        {
-          "name": "Miyna Usui",
-          "url": "https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk"
-        }
-      ],
-      "duration_ms": 195648,
-      "name": "ugotmyheart",
-      "url": "https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "This is Our First EP",
         "url": "https://open.spotify.com/album/7MTcyli1F7LlD4EwPDbFR9"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 212690,
       "name": "School",
       "url": "https://open.spotify.com/track/6gluPYzqFaJyaCziD4kNUu"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "Nezumi Coo",
+        "url": "https://open.spotify.com/album/1aJd14wjwAinjWL1tUMVSH"
+      },
+      "artists": [
+        {
+          "name": "Nezumi Coo",
+          "url": "https://open.spotify.com/artist/485gYZbLuEOqVA4QqYsXjs"
+        },
+        {
+          "name": "Miyna Usui",
+          "url": "https://open.spotify.com/artist/1TUVadr4tlnrjcvN4SSrqk"
+        }
+      ],
+      "duration_ms": 195648,
+      "name": "ugotmyheart",
+      "url": "https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -627,6 +627,22 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
+        "name": "Yura Yura",
+        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
+      },
+      "artists": [
+        {
+          "name": "paniyolo",
+          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "Yura Yura",
+      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
         "name": "So Long So Blue",
         "url": "https://open.spotify.com/album/1FfNRADiycPsvyQ1CoYcfZ"
       },
@@ -643,18 +659,18 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Yura Yura",
-        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
+        "name": "Night Owl Dream",
+        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
       },
       "artists": [
         {
-          "name": "paniyolo",
-          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
         }
       ],
-      "duration_ms": 138426,
-      "name": "Yura Yura",
-      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
+      "duration_ms": 156279,
+      "name": "Night Owl Dream",
+      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -679,18 +695,18 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Night Owl Dream",
-        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
+        "name": "Dawn (Side-B)",
+        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
       },
       "artists": [
         {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+          "name": "Nozomi Nobody",
+          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
         }
       ],
-      "duration_ms": 156279,
-      "name": "Night Owl Dream",
-      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
+      "duration_ms": 196875,
+      "name": "Ghost Town - Side-B",
+      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -711,22 +727,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Dawn (Side-B)",
-        "url": "https://open.spotify.com/album/6L2vKLwuabGk1cKpMacmDV"
-      },
-      "artists": [
-        {
-          "name": "Nozomi Nobody",
-          "url": "https://open.spotify.com/artist/1ETJq3Ol8bT2qJEc99F0bL"
-        }
-      ],
-      "duration_ms": 196875,
-      "name": "Ghost Town - Side-B",
-      "url": "https://open.spotify.com/track/2vXiZpZWU2Lp4tbSkpKEnS"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
       },
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Day Trip",
-        "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
-      },
-      "artists": [
-        {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Day Trip",
-      "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Beacon of Hope",
         "url": "https://open.spotify.com/album/2vd2Y8qzCWMQ3MdEnHiVyo"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 220873,
       "name": "Beacon of Hope",
       "url": "https://open.spotify.com/track/13XZN3a9C43gOp6qerBqiB"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "Day Trip",
+        "url": "https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Day Trip",
+      "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -871,26 +871,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
-      },
-      "artists": [
-        {
-          "name": "Sonn",
-          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
-        },
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Ghost in the Clocks",
         "url": "https://open.spotify.com/album/4wJ31bIX5Q8hlbT8KgUm1J"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 172000,
       "name": "room with nobody (feat. Takahiro Kido & Yuki Murata)",
       "url": "https://open.spotify.com/track/0HBRjbkfdnhPGuWFk1wxnG"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
+      },
+      "artists": [
+        {
+          "name": "Sonn",
+          "url": "https://open.spotify.com/artist/1VURTzU1i6o1agHFXs3V4E"
+        },
+        {
+          "name": "Ayelle",
+          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Abbot Kinney",
         "url": "https://open.spotify.com/album/3H1ZzSXNWaIqiCpgHajR8F"
       },
@@ -1031,42 +1015,6 @@
       "duration_ms": 191040,
       "name": "Thank You (feat. Jozzy)",
       "url": "https://open.spotify.com/track/5xN7LpsBhJb277t1lsfpLR"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
-        "name": "flowingtime",
-        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
-      },
-      "artists": [
-        {
-          "name": "Otokaze",
-          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Colony",
-      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
-        "name": "Dreamwave",
-        "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -1095,6 +1043,42 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
+        "name": "Dreamwave",
+        "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4TMDacsp7J4oQfZHNSY22V"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "flowingtime",
+        "url": "https://open.spotify.com/album/1xLKYSBa8nqg2CTfncO5Ma"
+      },
+      "artists": [
+        {
+          "name": "Otokaze",
+          "url": "https://open.spotify.com/artist/6m1KnIrJ8bEZ6UX514Iglj"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Colony",
+      "url": "https://open.spotify.com/track/1BjZW3ursVAZdZuGfvG2FQ"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
         "name": "Eshajori",
         "url": "https://open.spotify.com/album/2rK9glZuJk3rtDgADQ02ZI"
       },
@@ -1111,8 +1095,8 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
       },
       "artists": [
         {
@@ -1120,9 +1104,9 @@
           "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
         "name": "Snow Magic",
         "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Sushi In Tokyo",
         "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 211999,
       "name": "Sushi In Tokyo",
       "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/6JJ0yNDRmtA0hRAOD6CI7B"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/76wrOGIeIvg7yA8yCUvqNj"
     },
     {
       "added_at": "2024-11-20 01:19:42",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-11-20 01:19:42",
       "album": {
-        "name": "Ouka",
-        "url": "https://open.spotify.com/album/2LlAtMZyCFxHdrFAfDS1OA"
-      },
-      "artists": [
-        {
-          "name": "Daigo Hanada",
-          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
-        }
-      ],
-      "duration_ms": 184508,
-      "name": "Two Birds",
-      "url": "https://open.spotify.com/track/4curqk9ts644kS6Zh1l4JO"
-    },
-    {
-      "added_at": "2024-11-20 01:19:42",
-      "album": {
         "name": "Suzune",
         "url": "https://open.spotify.com/album/5jgFf28tygZ9Z5rC3K446i"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 111500,
       "name": "End Credits",
       "url": "https://open.spotify.com/track/5uh66RD9Fjgx7ZR67cYsSW"
+    },
+    {
+      "added_at": "2024-11-20 01:19:42",
+      "album": {
+        "name": "Ouka",
+        "url": "https://open.spotify.com/album/2LlAtMZyCFxHdrFAfDS1OA"
+      },
+      "artists": [
+        {
+          "name": "Daigo Hanada",
+          "url": "https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3"
+        }
+      ],
+      "duration_ms": 184508,
+      "name": "Two Birds",
+      "url": "https://open.spotify.com/track/4curqk9ts644kS6Zh1l4JO"
     },
     {
       "added_at": "2024-11-20 01:19:42",

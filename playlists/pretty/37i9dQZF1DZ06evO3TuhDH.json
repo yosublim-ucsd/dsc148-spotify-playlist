@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 17124,
+  "num_followers": 17128,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAADq9V5Vj2k3M+Eol/9C9YDI",
+  "snapshot_id": "Z0pVgAAAAAAQE+t6Gha3mKrRPTjnK6El",
   "tracks": [
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gets Late Here",
-        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 164256,
-      "name": "Flava (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Attachments (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/6CMpc5ukVsV1HJUWwLMHBJ"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 178720,
       "name": "Save The Day (feat. Coi Leray & LouGotCash)",
       "url": "https://open.spotify.com/track/0vkzRCT7wzqWCFJw5TN1MQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 164256,
+      "name": "Flava (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/3VDpWtgUilVuM2WICHgr9n"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart Don't Lie",
+        "url": "https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Candy Crush",
+      "url": "https://open.spotify.com/track/7GlaNMfxTa4wTGL35Ni6jd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bops",
         "url": "https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM"
       },
@@ -559,26 +575,6 @@
       "duration_ms": 128666,
       "name": "Bops",
       "url": "https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TWINNEM (Remix)",
-        "url": "https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 160586,
-      "name": "TWINNEM (Remix) (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi"
     },
     {
       "added_at": null,
@@ -599,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart Don't Lie",
-        "url": "https://open.spotify.com/album/02i5nRQNXxaUgf61mtyHev"
+        "name": "TWINNEM (Remix)",
+        "url": "https://open.spotify.com/album/6nyv0dtJ2Om5xkkCsIvCZd"
       },
       "artists": [
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 166400,
-      "name": "Candy Crush",
-      "url": "https://open.spotify.com/track/7GlaNMfxTa4wTGL35Ni6jd"
+      "duration_ms": 160586,
+      "name": "TWINNEM (Remix) (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/21hKipgjcM6JL2mmoUKrQi"
     },
     {
       "added_at": null,
@@ -983,22 +983,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lemon Cars",
-        "url": "https://open.spotify.com/album/1wZO0rgyD5zGCmzzrXkpo6"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "Lemon Cars",
-      "url": "https://open.spotify.com/track/4kf5AnIriTBgyLdSykT5s8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trendsetter",
         "url": "https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 190560,
       "name": "Overthinking (with H.E.R.)",
       "url": "https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/1wZO0rgyD5zGCmzzrXkpo6"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 173493,
+      "name": "Lemon Cars",
+      "url": "https://open.spotify.com/track/4kf5AnIriTBgyLdSykT5s8"
     },
     {
       "added_at": null,

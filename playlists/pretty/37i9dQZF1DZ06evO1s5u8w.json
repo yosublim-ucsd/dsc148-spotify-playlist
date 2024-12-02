@@ -1,12 +1,12 @@
 {
   "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 189113,
+  "num_followers": 189132,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAABVqKLJk+qmn7ruzZ5zrPeT",
+  "snapshot_id": "Z0pVgAAAAAA8XxIVr0GOLcAr8SxPws4A",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Songs About Buildings and Food (Deluxe Version)",
-        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
+        "name": "Little Creatures",
+        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 183186,
-      "name": "The Good Thing - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut"
+      "duration_ms": 255800,
+      "name": "Creatures of Love - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Creatures",
-        "url": "https://open.spotify.com/album/5Dja2ASXd7MOM628iwYdtA"
+        "name": "More Songs About Buildings and Food (Deluxe Version)",
+        "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 255800,
-      "name": "Creatures of Love - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3FaH21ikbgUKt21GMqC5DI"
+      "duration_ms": 183186,
+      "name": "The Good Thing - 2005 Remaster",
+      "url": "https://open.spotify.com/track/5KRtiPYvYDqE8MysJmDOut"
     },
     {
       "added_at": null,

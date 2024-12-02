@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 205586,
       "name": "Ran",
       "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
@@ -2520,6 +2520,24 @@
       "duration_ms": 243146,
       "name": "Sit Next to Me",
       "url": "https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz"
+    },
+    {
+      "album": {
+        "name": "No Shape",
+        "url": "https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165329,
+      "name": "Slip Away",
+      "url": "https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3"
     },
     {
       "album": {

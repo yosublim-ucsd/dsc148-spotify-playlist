@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/funnymarco/">Funny Marco</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,906 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,919 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89MTSIeRPLG.md) - [plain]
 | 6 | [Dim](https://open.spotify.com/track/0vAeNqXsZmFzMgRF486jcb) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l) | [Dim](https://open.spotify.com/album/7iczpIXMnMAhDSt7kMKG1y) | 2:46 |
 | 7 | [I Ain't Perfect \(feat\. Blxst\)](https://open.spotify.com/track/5Ak6oUUC0r1KfU2sPXkSa5) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 3:32 |
 | 8 | [No More Parties \- Remix](https://open.spotify.com/track/5A4WcRuy0FFEAC5pAK43oa) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [No More Parties \(Remix\)](https://open.spotify.com/album/4H8JPgTkCXVgVr8e2J5tKX) | 3:12 |
-| 9 | [No Love Lost](https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 1:46 |
-| 10 | [Easter In Miami](https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Easter In Miami](https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk) | 3:07 |
+| 9 | [Easter In Miami](https://open.spotify.com/track/49lrrlWBTkVEIuHkjnf7tI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Easter In Miami](https://open.spotify.com/album/5ohdcadjBRwB6kHNMX0UFk) | 3:07 |
+| 10 | [No Love Lost](https://open.spotify.com/track/7HbSng0v9scr10DcmAZxe9) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [No Love Lost](https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9) | 1:46 |
 | 11 | [Impatient \(feat\. Coi Leray\)](https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Die 4 Respect](https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG) | 4:05 |
 | 12 | [DO BETTER](https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:32 |
 | 13 | [Nowhere 2 Run](https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb) | [Grind2hard Osh’a](https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET) | [Wolf Talk](https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW) | 2:53 |

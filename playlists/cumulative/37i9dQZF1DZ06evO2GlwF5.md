@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2GlwF5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2GlwF5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2GlwF5)
 
-### [This Is 坂本真綾](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
+### [This Is Maaya Sakamoto](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2GlwF5)
 
-> This is 坂本真綾\. The essential tracks, all in one playlist.
+> This is Maaya Sakamoto\. The essential tracks, all in one playlist.
 
-126 songs - 9 hr 18 min
+127 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [ディーゼル](https://open.spotify.com/track/6Ukab7uqNtX78FPBJOjVMA) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 3:48 | 2022-08-10 | 2022-12-30 |
 | [トライアングラー](https://open.spotify.com/track/7dLS9A8CcWmL3cB6Rv8grW) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 4:36 | 2022-08-10 |  |
 | [トロイメライ](https://open.spotify.com/track/1LqvM4s2zbYcgd1Px5sJeK) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [今日だけの音楽](https://open.spotify.com/album/2f2QiMAQjOGEBiierxdOI6) | 3:18 | 2023-05-20 | 2023-06-03 |
+| [ハロー、ハロー](https://open.spotify.com/track/0pp6pqriNMqApgFF9sEewj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [ハロー、ハロー](https://open.spotify.com/album/1GqbTrL7DRHberfR9WXUTp) | 4:29 | 2024-12-02 |  |
 | [プラチナ](https://open.spotify.com/track/55VpwoQcMWJxXuqqtH6hUY) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション　プラス　「ハチポチ」](https://open.spotify.com/album/2C6AFE7MxD1Cjf0ckFcfJy) | 4:10 | 2024-06-23 |  |
 | [プラチナ](https://open.spotify.com/track/1NAiiojhfSM62hEar7wVTg) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [カードキャプターさくら　ソングコレクション 1999.4～2001.2](https://open.spotify.com/album/1APIG3mlldR0bmcnzChicR) | 4:11 | 2022-08-10 | 2024-09-06 |
 | [ヘミソフィア](https://open.spotify.com/track/2dHrD24YYb37yUjmosVq5S) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [シングルコレクション＋　ニコパチ](https://open.spotify.com/album/1IPkAkGZKrtoLucFzeEAIr) | 4:10 | 2022-08-10 |  |
@@ -127,7 +128,7 @@
 | [色彩\-unplugged session\-](https://open.spotify.com/track/3CjlH3sNGezw2gQoDBKGQn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 5:43 | 2022-09-15 | 2022-09-17 |
 | [荒川小景](https://open.spotify.com/track/0bCYCxhnmWCFA8WcoCOvqz) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [SUPERFINE](https://open.spotify.com/album/6cMizcqPNkknWPgJNeBi9u) | 6:10 | 2022-10-04 | 2024-10-18 |
 | [蒼のエーテル](https://open.spotify.com/track/6paDGwUHD2mYO9vyAodtVb) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [かぜよみ](https://open.spotify.com/album/0lhUq6EneNsa5onks6pTIl) | 3:58 | 2022-11-18 | 2024-10-11 |
-| [言葉にできない](https://open.spotify.com/track/3FP9fSLpNeQmBuezTgGSGu) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:55 | 2023-07-04 |  |
+| [言葉にできない](https://open.spotify.com/track/3FP9fSLpNeQmBuezTgGSGu) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [11thアルバム　記憶の図書館](https://open.spotify.com/album/37FOxaHocFMsIZRSQcfGkS) | 4:55 | 2023-07-04 | 2024-12-02 |
 | [言葉にできない](https://open.spotify.com/track/08bJMeQRwtpLnrMF1ScLvn) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [菫 / 言葉にできない](https://open.spotify.com/album/4Tv3U17WdyaTIPrCtFtt1d) | 4:56 | 2022-08-10 | 2023-06-05 |
 | [躍動](https://open.spotify.com/track/7fi2zDTlIUWMDPHrhm8Qsj) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [躍動](https://open.spotify.com/album/5zNh75gt6D4kRCWZXhb3UZ) | 4:09 | 2022-08-10 |  |
 | [逆光](https://open.spotify.com/track/4G60bHjDnAihnuswrq7tk3) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [逆光](https://open.spotify.com/album/26XVXGp8N4WC5l9d4pOhc0) | 4:48 | 2022-08-10 |  |

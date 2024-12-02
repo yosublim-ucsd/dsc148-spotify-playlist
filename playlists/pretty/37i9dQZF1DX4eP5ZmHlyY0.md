@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: Hey! Say! JUMP
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,403 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,398 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 33 | [Royal](https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Royal](https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd) | 3:42 |
 | 34 | [初心LOVE（うぶらぶ）](https://open.spotify.com/track/6niUXDrcVDnwrXIz77gd0c) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [初心LOVE（うぶらぶ）](https://open.spotify.com/album/6Lv6W4CtTA5rmInHtrgimB) | 3:47 |
 | 35 | [Hush\-Hush](https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Hush\-Hush](https://open.spotify.com/album/57miIs3v5jsOL4DGMj8cnK) | 3:25 |
-| 36 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
-| 37 | [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 |
+| 36 | [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 |
+| 37 | [Just Like Dat feat\. JP THE WAVY](https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [99.9 Psychic Radio](https://open.spotify.com/album/0am7ZAy4aq4sAS4ThW4ZhB) | 3:11 |
 | 38 | [Memoria](https://open.spotify.com/track/5Ju33ZTll3Drgq3AM4H53P) | [BMSG MARINE](https://open.spotify.com/artist/22YAR42Q5EoaFW439kmIT8), [BMSG ALLSTARS](https://open.spotify.com/artist/39qDfqWfhU23Jbclt2ltYe), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42), [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf), [KANON](https://open.spotify.com/artist/3n3mqnIcMjFF2ldvE5QRBo) | [Memoria](https://open.spotify.com/album/1BIu6t9BEGZWrLrL2AdcRF) | 4:01 |
 | 39 | [Got Boost？](https://open.spotify.com/track/2IO82CijAxfwxLhOnDajhD) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Got Boost？ \(『仮面ライダーガヴ』主題歌\)](https://open.spotify.com/album/1TYeL46j0ro3Tl3IFgxIrW) | 3:12 |
 | 40 | [GOOD DAY](https://open.spotify.com/track/4Zw2b1jp0KrXcrsUeX9As2) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [AND,](https://open.spotify.com/album/3Hs8WBB47spgGcUhtQ9rXB) | 2:52 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 44 | [ONE NIGHT](https://open.spotify.com/track/0hDmpbW1tZLVCnuX3fyxvn) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [THE VIEW](https://open.spotify.com/album/00h5i6rfYbF7CJcaYCr5mA) | 2:48 |
 | 45 | [Alpha](https://open.spotify.com/track/4NP5Q238mC9FJly7eREWB8) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 3:40 |
 | 46 | [Don't Tell Nobody](https://open.spotify.com/track/2v4C96TlpGJQ4BjaLFxvIg) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Don't Tell Nobody](https://open.spotify.com/album/2O1XIyAH9Sw8WqFN1nZgtN) | 2:53 |
-| 47 | [MAZQUERADE](https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs) | 3:22 |
-| 48 | [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 |
+| 47 | [ミチシルベ](https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [ミチシルベ](https://open.spotify.com/album/052jurik7u7naYKyLCL8n0) | 3:17 |
+| 48 | [MAZQUERADE](https://open.spotify.com/track/5NiAImG5YlGEbMcNffJo94) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MAZQUERADE](https://open.spotify.com/album/1rwSEeDbyudoygEKXojajs) | 3:22 |
 | 49 | [WE ARE](https://open.spotify.com/track/6s9tyJZi9bzB2mlClX0wq7) | [STARTO for you](https://open.spotify.com/artist/2zaYhpTOgIi02oNR6mxbiz) | [WE ARE](https://open.spotify.com/album/0uBmPpcPFPBIRbuny5xELa) | 5:21 |
-| 50 | [無責任でええじゃないかLOVE](https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [無責任でええじゃないかLOVE](https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw) | 3:53 |
+| 50 | [君にカエル \(Maybe\)](https://open.spotify.com/track/1z4Ruz3ecnINTOQJpi8qMk) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [君にカエル \(Maybe\)](https://open.spotify.com/album/4Pd1n23po7hNDDpYpco5gr) | 3:10 |
 
 Snapshot ID: `Z0XicAAAAABM/DyTUlebvZfURk9QpDrE`

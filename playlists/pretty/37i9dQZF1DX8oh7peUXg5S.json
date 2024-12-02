@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 333028,
+  "num_followers": 333067,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
         "name": "Con Cierto Aire a Ti",
         "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 178773,
       "name": "Hoy Ten Miedo De Mi",
       "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
-        "name": "Desde Que No Nos Vemos",
-        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
-      },
-      "artists": [
-        {
-          "name": "Enrique Urquijo y Los problemas",
-          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
-        }
-      ],
-      "duration_ms": 144840,
-      "name": "Aunque t\u00fa no lo sepas",
-      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
         "name": "De Pana y Rub\u00ed",
         "url": "https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9"
       },
@@ -663,34 +647,18 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+        "name": "Desde Que No Nos Vemos",
+        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Enrique Urquijo y Los problemas",
+          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
         }
       ],
-      "duration_ms": 202600,
-      "name": "La Puerta Violeta",
-      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
-        "name": "Cosas Mias",
-        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Flores",
-          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Siete Vidas",
-      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
+      "duration_ms": 144840,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -711,6 +679,38 @@
       "duration_ms": 163900,
       "name": "Siempre Queda El Amor",
       "url": "https://open.spotify.com/track/6cjHd8IBh4L7Zy1fJE6OWK"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
+        "name": "Cosas Mias",
+        "url": "https://open.spotify.com/album/2rqrgczcddiTbZ9Hsf6inT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Flores",
+          "url": "https://open.spotify.com/artist/6GwZIG7UlxQR6n9kO8QlV6"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Siete Vidas",
+      "url": "https://open.spotify.com/track/1gh0aMZmO6o30LS12lEJWQ"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
         "name": "Esc\u00fachame",
         "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 152906,
       "name": "Yo no soy esa",
       "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -811,6 +811,22 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
+        "name": "Contigo En La Distancia",
+        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
+      },
+      "artists": [
+        {
+          "name": "Pedro Guerra",
+          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
+        }
+      ],
+      "duration_ms": 115200,
+      "name": "Toda una Vida",
+      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
         "name": "Antolog\u00eda Desordenada",
         "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 192840,
       "name": "Lucia (with Silvio Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
-        "name": "Contigo En La Distancia",
-        "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
-      },
-      "artists": [
-        {
-          "name": "Pedro Guerra",
-          "url": "https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c"
-        }
-      ],
-      "duration_ms": 115200,
-      "name": "Toda una Vida",
-      "url": "https://open.spotify.com/track/5wQsHNpF6ivosuimPeo7Lo"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Las Cuatro y Diez",
+      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
         "name": "Mirame",
         "url": "https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
+        "name": "Canciones 1980-2009",
+        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
       "artists": [
         {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
         }
       ],
-      "duration_ms": 157466,
-      "name": "Las Cuatro y Diez",
-      "url": "https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT"
+      "duration_ms": 190493,
+      "name": "El sitio de mi recreo",
+      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -1071,22 +1087,6 @@
       "duration_ms": 210440,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
-        "name": "Canciones 1980-2009",
-        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 190493,
-      "name": "El sitio de mi recreo",
-      "url": "https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
         "name": "Amigos M\u00edos",
         "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
       },
@@ -1411,6 +1427,22 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -1423,22 +1455,6 @@
       "duration_ms": 237600,
       "name": "Lucha de gigantes - Live",
       "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -1475,22 +1491,6 @@
       "duration_ms": 256894,
       "name": "Puede Ser Que la Conozcas",
       "url": "https://open.spotify.com/track/3C0uVZhpunilhtO5JHvxX7"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
+        "name": "Qu\u00e9 bonito",
+        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Qu\u00e9 bonito",
+      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
         "name": "Albanta",
         "url": "https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M"
       },
@@ -1599,38 +1615,6 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
-        "name": "Qu\u00e9 bonito",
-        "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Qu\u00e9 bonito",
-      "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
-        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
-        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 264493,
-      "name": "Soy un Coraz\u00f3n Tendido al Sol",
-      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
         "name": "Yo Sin T\u00fa",
         "url": "https://open.spotify.com/album/2fxhvC6LYtfZepIoaKIo7i"
       },
@@ -1647,6 +1631,38 @@
       "duration_ms": 308333,
       "name": "Un Solo Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2yvUa42t8I1vSTn51Ex29r"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
+    },
+    {
+      "added_at": "2024-11-28 16:19:32",
+      "album": {
+        "name": "Soy Un Coraz\u00f3n Tendido Al Sol",
+        "url": "https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 264493,
+      "name": "Soy un Coraz\u00f3n Tendido al Sol",
+      "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
     },
     {
       "added_at": "2024-11-28 16:19:32",
@@ -1707,34 +1723,18 @@
     {
       "added_at": "2024-11-28 16:19:32",
       "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
-    },
-    {
-      "added_at": "2024-11-28 16:19:32",
-      "album": {
-        "name": "El \u00c1rbol y el Bosque",
-        "url": "https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 196547,
-      "name": "A Tu Vida",
-      "url": "https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH"
+      "duration_ms": 172000,
+      "name": "Pasaba por Aqui",
+      "url": "https://open.spotify.com/track/6XhZIUzlCGABARgSgZby2v"
     }
   ],
   "unique_name": "Cantautores",

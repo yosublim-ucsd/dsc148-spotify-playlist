@@ -4,7 +4,7 @@
 
 > Songs, die von innen wärmen.
 
-217 songs - 12 hr 20 min
+218 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Only Love](https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT) | [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Damn the Wild Air, Pt\. 01](https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk) | 3:27 | 2024-04-19 |  |
 | [Open Arms \(feat\. Travis Scott\)](https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:59 | 2023-07-26 | 2023-09-09 |
 | [Open My Door](https://open.spotify.com/track/6lVMcnULyl94wDrZ2HAuCT) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Open My Door](https://open.spotify.com/album/0CLN8x2MGw8htb94l0tBGv) | 2:33 | 2023-07-26 | 2023-08-26 |
+| [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 | 2024-11-29 |  |
 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2023-09-15 | 2024-03-20 |
 | [palmtreedays\_1644.wav](https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [palmtreedays\_1644.wav](https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T) | 4:08 | 2023-07-26 | 2023-09-16 |
 | [Pancakes & Butter](https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Mystical Magical Rhythmical Radical Ride](https://open.spotify.com/album/0ct2cPZ49xWrgqTWk2P6Mx) | 3:51 | 2023-09-26 | 2023-09-29 |
@@ -177,7 +178,7 @@
 | [Song For You](https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:58 | 2023-07-26 | 2024-04-19 |
 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 | 2024-04-19 |  |
 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 | 2023-07-26 | 2024-04-19 |
-| [spain](https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [spain](https://open.spotify.com/album/3PaV5GaBkDJ4bDVk0xI328) | 3:39 | 2024-11-14 |  |
+| [spain](https://open.spotify.com/track/0ZVuWqJtiM8BJdqyEEta01) | [theja](https://open.spotify.com/artist/38DT4VMpA3qK1UqZgUB9Ag) | [spain](https://open.spotify.com/album/3PaV5GaBkDJ4bDVk0xI328) | 3:39 | 2024-11-14 | 2024-12-02 |
 | [Stand up and Dance](https://open.spotify.com/track/5F7mbwOcTUFUmyXOWMpShx) | [Sweetlemon](https://open.spotify.com/artist/2KmjVKSwAKI5DfEaQzx76W) | [Stand up and Dance](https://open.spotify.com/album/507a77zJ1BTZZQJbVi4cbs) | 3:56 | 2024-04-19 | 2024-09-07 |
 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 | 2023-07-26 | 2024-11-10 |
 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 | 2024-02-09 | 2024-08-17 |

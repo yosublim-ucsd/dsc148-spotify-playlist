@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 626050,
+  "num_followers": 626325,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w"
+      },
+      "artists": [
+        {
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
+        }
+      ],
+      "duration_ms": 190426,
+      "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
+      "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/7m03aYUMXQ19qB1s5rTz4w"
-      },
-      "artists": [
-        {
-          "name": "4 Strings",
-          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "Take Me Away (Into The Night) - Vocal Radio Mix",
-      "url": "https://open.spotify.com/track/0EcH1iItB5rVIZaaiQMbsG"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Trance Classics, Vol. 01",
-        "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
-      },
-      "artists": [
-        {
-          "name": "Ayla",
-          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
-        },
-        {
-          "name": "Taucher",
-          "url": "https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Ayla - DJ Taucher Radio Edit",
-      "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 212560,
       "name": "Stay - Original Single Edit",
       "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Trance Classics, Vol. 01",
+        "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
+      },
+      "artists": [
+        {
+          "name": "Ayla",
+          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
+        },
+        {
+          "name": "Taucher",
+          "url": "https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Ayla - DJ Taucher Radio Edit",
+      "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Time To Burn 2010",
-        "url": "https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku"
-      },
-      "artists": [
-        {
-          "name": "Storm",
-          "url": "https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Time to Burn - Radio Edit",
-      "url": "https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Trance Top 1000 - The Best Of",
         "url": "https://open.spotify.com/album/1KCiWQIQtagNrWcJvPTiNe"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 225841,
       "name": "Universal Nation",
       "url": "https://open.spotify.com/track/1u8gw65yb6kRCBqNDFSwHj"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Time To Burn 2010",
+        "url": "https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku"
+      },
+      "artists": [
+        {
+          "name": "Storm",
+          "url": "https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Time to Burn - Radio Edit",
+      "url": "https://open.spotify.com/track/0IaOAo13NTYVSWuAy5OGRC"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Out Of The Blue (Ilan Bluestone Remix)",
-        "url": "https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF"
-      },
-      "artists": [
-        {
-          "name": "System F",
-          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "Carte Blanche (Ilan Bluestone Remix)",
         "url": "https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 204396,
       "name": "Carte Blanche - FM Edit",
       "url": "https://open.spotify.com/track/5yTN79Mgt4licL40oassM3"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Out Of The Blue (Ilan Bluestone Remix)",
+        "url": "https://open.spotify.com/album/7wL2zH4KkHxWQe74ne1UnF"
+      },
+      "artists": [
+        {
+          "name": "System F",
+          "url": "https://open.spotify.com/artist/2ZpwFriFFPaGFC4qYQQJ1i"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/0jJtOt57bhFAz7ccgGkxWJ"
     },
     {
       "added_at": "2024-07-23 09:55:55",

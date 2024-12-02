@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Enigma Norteño en portada.
 
-609 songs - 1 day 8 hr 20 min
+610 songs - 1 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Con un Botecito a Pecho](https://open.spotify.com/track/2rv3za9M5o6DtkIVZXgu1r) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Disfruto](https://open.spotify.com/album/3IlO5KgqBRd6DHEOzBcf9l) | 2:56 | 2022-12-02 | 2022-12-10 |
 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 | 2023-10-06 | 2024-03-23 |
 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 | 2023-12-08 | 2024-03-23 |
-| [Corazón de Oropel](https://open.spotify.com/track/4ElpgolmbckWlExHAXC39m) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Corazón de Oropel](https://open.spotify.com/album/2a3ChYHrsJ0eNYSrWMkmbP) | 3:01 | 2024-11-08 |  |
+| [Corazón de Oropel](https://open.spotify.com/track/4ElpgolmbckWlExHAXC39m) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Corazón de Oropel](https://open.spotify.com/album/2a3ChYHrsJ0eNYSrWMkmbP) | 3:01 | 2024-11-08 | 2024-12-02 |
 | [Corazón Frío](https://open.spotify.com/track/02j9DOZREexcJgF6B1hKVc) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Corazón Frío](https://open.spotify.com/album/0vPSRt2hb0XGXiex5vzmeI) | 3:32 | 2024-04-22 | 2024-08-10 |
 | [Corazón Mágico](https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 3:13 | 2022-06-20 | 2023-07-01 |
 | [Corazón Mágico \- En Vivo](https://open.spotify.com/track/0ExktfrQcR6B5o2LmWlNlU) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Corazón Mágico \(En Vivo\)](https://open.spotify.com/album/3HJjHiydQNt7Ix8g3lUPxx) | 3:39 | 2023-06-16 | 2023-09-12 |
@@ -162,6 +162,7 @@
 | [El Del Cupra](https://open.spotify.com/track/5OctjYCtV3iBfQhyK94VeO) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [El Del Cupra](https://open.spotify.com/album/0GYibidSWdWKIngKFDrr8a) | 3:27 | 2024-05-24 | 2024-06-29 |
 | [El Deportivo](https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Deportivo](https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg) | 3:12 | 2022-12-09 | 2023-08-26 |
 | [El Disgusto](https://open.spotify.com/track/5IeqLWv5N3sZkGcFccadyt) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ) | [Las Preferidas del Viejo](https://open.spotify.com/album/13e5ye4y3fRQbgvlMSWQxI) | 2:29 | 2023-07-28 | 2023-08-09 |
+| [El Dorado Fue Cobre](https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Dorado Fue Cobre](https://open.spotify.com/album/6QCg0x55bd55x6KzmSLUc4) | 3:20 | 2024-11-29 |  |
 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 | 2022-07-01 | 2022-10-01 |
 | [El Flaco \(En Vivo\)](https://open.spotify.com/track/6Lds2bjE7FopHhTL3ikk8I) | [Grupo Selectivo](https://open.spotify.com/artist/1EvLQTftUdMMQbOSeMOLn1) | [El Flaco \(En Vivo\)](https://open.spotify.com/album/27oAwqkNSE0AW0VofOSPoE) | 2:49 | 2022-07-01 | 2022-07-25 |
 | [El Fracasado](https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Fracasado](https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm) | 2:45 | 2022-07-01 | 2022-07-14 |

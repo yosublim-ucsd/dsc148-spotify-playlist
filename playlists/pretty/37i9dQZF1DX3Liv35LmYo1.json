@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 82,
+  "num_followers": 89,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 308623,
+      "name": "by the reservoir",
+      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 266853,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 308623,
-      "name": "by the reservoir",
-      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "View from the Aeroplane Window",
-        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        }
-      ],
-      "duration_ms": 233346,
-      "name": "View from the Aeroplane Window",
-      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "In Response",
         "url": "https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 214920,
       "name": "In Response",
       "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "View from the Aeroplane Window",
+        "url": "https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 233346,
+      "name": "View from the Aeroplane Window",
+      "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Memories In Flight",
-        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
-      },
-      "artists": [
-        {
-          "name": "Sampology",
-          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
-        }
-      ],
-      "duration_ms": 229399,
-      "name": "Memories In Flight",
-      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Desert",
         "url": "https://open.spotify.com/album/3J55fcmO15upttdki07D9U"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 242177,
       "name": "Desert",
       "url": "https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Memories In Flight",
+        "url": "https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE"
+      },
+      "artists": [
+        {
+          "name": "Sampology",
+          "url": "https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ"
+        }
+      ],
+      "duration_ms": 229399,
+      "name": "Memories In Flight",
+      "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Blue Spring",
+        "url": "https://open.spotify.com/album/2WSYktq8Bu9EMn47nnzR35"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        }
+      ],
+      "duration_ms": 203493,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4UKJbtE1rC2LaWm5CFTnfA"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Push Power ( a 1 )",
         "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 249261,
       "name": "Push Power ( a 1 )",
       "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Jesper",
-        "url": "https://open.spotify.com/album/4VSoAgoOCnHThOIgGgx77C"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Jesper",
-      "url": "https://open.spotify.com/track/7JNwNDg2I9SS79aGm6cxvF"
     }
   ],
   "unique_name": "Night Shift",

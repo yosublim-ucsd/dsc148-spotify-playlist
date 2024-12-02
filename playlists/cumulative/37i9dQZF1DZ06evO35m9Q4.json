@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "In Session (Deluxe Edition / Remastered 2024)",
+        "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490006,
+      "name": "Born Under A Bad Sign - Remastered 2024",
+      "url": "https://open.spotify.com/track/2ngzPgN0cg71BHiRrhglgq"
+    },
+    {
+      "album": {
         "name": "Born Under A Bad Sign (Remastered 2024)",
         "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
       },
@@ -158,7 +180,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 490006,
       "name": "Born Under A Bad Sign - Remastered 2024",
       "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
@@ -1282,7 +1304,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 50470,
       "name": "Turn It Over - Remastered 2024",
       "url": "https://open.spotify.com/track/2aTykX37qTyZ59C8YZOqzP"
@@ -1340,6 +1362,28 @@
       "duration_ms": 144600,
       "name": "Wham",
       "url": "https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye"
+    },
+    {
+      "album": {
+        "name": "In Session (Deluxe Edition / Remastered 2024)",
+        "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44592,
+      "name": "Who Is Stevie? - Remastered 2024",
+      "url": "https://open.spotify.com/track/6XuhFxosG2A4mrxHgtthNK"
     },
     {
       "album": {

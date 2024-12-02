@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Yang Da-il(\uc591\ub2e4\uc77c)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 378316,
+  "num_followers": 378305,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 168978,
-      "name": "Tummy Hurts",
-      "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 168978,
+      "name": "Tummy Hurts",
+      "url": "https://open.spotify.com/track/0hFTdvxUbHl1CqrdZcbWtZ"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "\ubcf4\uc5ec\uc904\uac8c",
+      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
         "name": "GANADARA",
         "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 203727,
       "name": "GANADARA (Feat. IU)",
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
-        "name": "Invitation",
-        "url": "https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "\ubcf4\uc5ec\uc904\uac8c",
-      "url": "https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -423,38 +423,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
-        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
-      },
-      "artists": [
-        {
-          "name": "KIM BUMSOO",
-          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
-        }
-      ],
-      "duration_ms": 244128,
-      "name": "\ubcf4\uace0\uc2f6\ub2e4",
-      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "17",
-      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -475,22 +443,18 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Officially Cool",
-        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
+        "name": "\ucc9c\uad6d\uc758 \uacc4\ub2e8 OST",
+        "url": "https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq"
       },
       "artists": [
         {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        },
-        {
-          "name": "WINTER",
-          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+          "name": "KIM BUMSOO",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
         }
       ],
-      "duration_ms": 177253,
-      "name": "Officially Cool",
-      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
+      "duration_ms": 244128,
+      "name": "\ubcf4\uace0\uc2f6\ub2e4",
+      "url": "https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -507,6 +471,42 @@
       "duration_ms": 288046,
       "name": "All Our Days",
       "url": "https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Officially Cool",
+        "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "duration_ms": 177253,
+      "name": "Officially Cool",
+      "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
-      },
-      "artists": [
-        {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
-        }
-      ],
-      "duration_ms": 203269,
-      "name": "SUNSET WITH YOU",
-      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 144960,
       "name": "Natural",
       "url": "https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "duration_ms": 203269,
+      "name": "SUNSET WITH YOU",
+      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "YOUNHA 7th Album 'GROWTH THEORY'",
-        "url": "https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Sun\ufb01sh",
-      "url": "https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ"
       },
@@ -751,22 +735,18 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
+        "name": "YOUNHA 7th Album 'GROWTH THEORY'",
+        "url": "https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
         }
       ],
-      "duration_ms": 172906,
-      "name": "Complications (ft. SOLE)",
-      "url": "https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R"
+      "duration_ms": 218920,
+      "name": "Sun\ufb01sh",
+      "url": "https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -787,6 +767,26 @@
       "duration_ms": 223214,
       "name": "Love Is Ugly (Feat. Hwa Sa)",
       "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 172906,
+      "name": "Complications (ft. SOLE)",
+      "url": "https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 174676,
-      "name": "Still LOVE",
-      "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Naul <Ballad Pop City>",
         "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Stroll",
-        "url": "https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG"
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf"
       },
       "artists": [
         {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 306733,
-      "name": "Stroll",
-      "url": "https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK"
+      "duration_ms": 174676,
+      "name": "Still LOVE",
+      "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -975,6 +959,22 @@
       "duration_ms": 210853,
       "name": "\uae34 \ubc24 (feat. GIRIBOY)",
       "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 306733,
+      "name": "Stroll",
+      "url": "https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
+        "name": "The 3rd Digital Single `Amazing You'",
+        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 296832,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
         "name": "Mother Nature (H\u2082O)",
         "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 232586,
       "name": "Mother Nature (H\u2082O)",
       "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
-        "name": "The 3rd Digital Single `Amazing You'",
-        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 296832,
-      "name": "Amazing You",
-      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4RXBbP8IWWszn57oSTcP24"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 271360,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6plU8hBXEl5dpaxW3bYqnh"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Eyebrow Moon",
         "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
       },
@@ -1143,22 +1127,6 @@
       "duration_ms": 236693,
       "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
       "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/5JEWzUbwEsblYxe39JQV4A"
-      },
-      "artists": [
-        {
-          "name": "Sojung",
-          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1179,6 +1147,54 @@
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4RXBbP8IWWszn57oSTcP24"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6plU8hBXEl5dpaxW3bYqnh"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5JEWzUbwEsblYxe39JQV4A"
+      },
+      "artists": [
+        {
+          "name": "Sojung",
+          "url": "https://open.spotify.com/artist/3tguePgWKGvSKBrRZYs5lP"
+        }
+      ],
+      "duration_ms": 221586,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Even for a moment",
         "url": "https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2"
       },
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "HANGANG",
-        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "HANGANG (Feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "&10",
         "url": "https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF"
       },
@@ -1371,22 +1351,6 @@
       "duration_ms": 273292,
       "name": "Days without you",
       "url": "https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
-        "name": "\ucc98\uc74c\ucc98\ub7fc",
-        "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 239480,
-      "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
-      "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1407,6 +1371,58 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
+      },
+      "artists": [
+        {
+          "name": "YOUNGJAE",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "HANGANG (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "\ucc98\uc74c\ucc98\ub7fc",
+        "url": "https://open.spotify.com/album/2Pgvz4Apdr3ORROIaW2ZdH"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 239480,
+      "name": "\ub0b4\uac8c \uc624\ub294 \uae38 - Bonus Track",
+      "url": "https://open.spotify.com/track/5rfOHC8IMqyvqAi4TUrnsn"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1443,22 +1459,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
-      },
-      "artists": [
-        {
-          "name": "YOUNGJAE",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "746 - The 1st Album",
         "url": "https://open.spotify.com/album/1CjtCdzlNuBj9wxIJJEeAZ"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "I Will",
-        "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
-      },
-      "artists": [
-        {
-          "name": "Ha Dong Qn",
-          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "I Will",
-      "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/2HaxfS9WKdh4BXEUBhItAM"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 263966,
       "name": "Only You",
       "url": "https://open.spotify.com/track/6W4G44h5B23jv5E2S0NUkw"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "I Will",
+        "url": "https://open.spotify.com/album/71sCwkDMfhICitl4Rt5JCt"
+      },
+      "artists": [
+        {
+          "name": "Ha Dong Qn",
+          "url": "https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/1FkEJePjsSTZNJbrxd2BhI"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Oh My Venus (Original Television Soundtrack), Pt. 6",
-        "url": "https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 241640,
-      "name": "Looking For Love (Man Ver.)",
-      "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "\uc815\uc778 Jung In from Andromeda",
         "url": "https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 202946,
       "name": "\ubbf8\uc6cc\uc694 I Hate You",
       "url": "https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Oh My Venus (Original Television Soundtrack), Pt. 6",
+        "url": "https://open.spotify.com/album/2RZaKdOuXB0obaW21fy3Oo"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 241640,
+      "name": "Looking For Love (Man Ver.)",
+      "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "CLICH\u00c9",
-        "url": "https://open.spotify.com/album/7piEh9immnLWa85U4uh5Gz"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 255906,
-      "name": "Monologue (Acoustic Version)",
-      "url": "https://open.spotify.com/track/7pTxVFyoJq4jv2kCdxhj68"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     }
   ],
   "unique_name": "v o K a l",

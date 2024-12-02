@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75061,
+  "num_followers": 75058,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Resin",
-        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 203939,
-      "name": "Resin",
-      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "seasons",
         "url": "https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 220621,
       "name": "seasons",
       "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Resin",
+        "url": "https://open.spotify.com/album/3zurNYr1HaGcnoI20tvYSX"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 203939,
+      "name": "Resin",
+      "url": "https://open.spotify.com/track/6AmrRS8slCMxGUZePjV6dH"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd"
+        "name": "This City (Acoustic)",
+        "url": "https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx"
       },
       "artists": [
         {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
         }
       ],
-      "duration_ms": 122267,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC"
+      "duration_ms": 206819,
+      "name": "This City - Acoustic",
+      "url": "https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "This City (Acoustic)",
-        "url": "https://open.spotify.com/album/7I1apkSOmeAPBcbShwxlUx"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 206819,
-      "name": "This City - Acoustic",
-      "url": "https://open.spotify.com/track/6ia9TgcqUz4IaGRoKXW0oF"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Running With The Wolves",
         "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 163821,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 122267,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Inappropriate Behaviour",
-        "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 196772,
-      "name": "Inappropriate Behaviour",
-      "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 248858,
       "name": "Quiet Moon, Wild Sea",
       "url": "https://open.spotify.com/track/4fOMpHPfJB3v65iVNSBkxy"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Inappropriate Behaviour",
+        "url": "https://open.spotify.com/album/7BQwIrJWEtIkiYPEGV1XQY"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 196772,
+      "name": "Inappropriate Behaviour",
+      "url": "https://open.spotify.com/track/1dvthmMza4Qi6F4pQQBqbS"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Sunday Morning",
-        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 232639,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Smile At The Party",
         "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 266709,
       "name": "Smile At The Party",
       "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 232639,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "The Sweetest Days",
-        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 214088,
-      "name": "The Sweetest Days",
-      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "All Over Again",
         "url": "https://open.spotify.com/album/3rOw0UUyB5dtP8Mj4qzPYL"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "The Sweetest Days",
+        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "The Sweetest Days",
+      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "By Way of the Sea",
         "url": "https://open.spotify.com/album/2hn1o2h58pswUpiYDw9eMg"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Dawn Sounds",
-        "url": "https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2"
-      },
-      "artists": [
-        {
-          "name": "Kim Churchill",
-          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
-        }
-      ],
-      "duration_ms": 199207,
-      "name": "Go, Try, Fall",
-      "url": "https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "At the Roadhouse",
         "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 223560,
       "name": "Midnight Moon",
       "url": "https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Dawn Sounds",
+        "url": "https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2"
+      },
+      "artists": [
+        {
+          "name": "Kim Churchill",
+          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+        }
+      ],
+      "duration_ms": 199207,
+      "name": "Go, Try, Fall",
+      "url": "https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Feeling Fine",
-        "url": "https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM"
-      },
-      "artists": [
-        {
-          "name": "Dusty Boots",
-          "url": "https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY"
-        }
-      ],
-      "duration_ms": 195512,
-      "name": "Feeling Fine",
-      "url": "https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "The Breach, A Vast Decade",
         "url": "https://open.spotify.com/album/4gpM9zqyGqFagyYbnm9OiH"
       },
@@ -991,6 +975,26 @@
       "duration_ms": 257786,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/5GDANCD4HBjsGmcwP83xnT"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        },
+        {
+          "name": "Gena Rose Bruce",
+          "url": "https://open.spotify.com/artist/1SrmRPI6a5cIabFYZZiorA"
+        }
+      ],
+      "duration_ms": 222128,
+      "name": "Lonely (feat. Gena Rose Bruce)",
+      "url": "https://open.spotify.com/track/0MJY00jHH62MhIpEB4BTPf"
     }
   ],
   "unique_name": "Summer Daze",

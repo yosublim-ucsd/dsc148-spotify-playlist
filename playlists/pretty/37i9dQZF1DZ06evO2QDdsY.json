@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 15446,
+  "num_followers": 15450,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAA4mykMhODkms6XiNdFIsJK",
+  "snapshot_id": "Z0pVgAAAAACDuZvy3yJI7+XTOrne63Q3",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,25 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 250960,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
+      "duration_ms": 205760,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweetheart 2014",
+        "url": "https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 111853,
+      "name": "Happy Or Lonesome",
+      "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
       "duration_ms": 183634,
       "name": "Don't Start (feat. Valerie June)",
       "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweetheart 2014",
-        "url": "https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 111853,
-      "name": "Happy Or Lonesome",
-      "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
     },
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 205760,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI"
+      "duration_ms": 250960,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mountain of Rose Quartz",
+        "url": "https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Twas Twined & Twisted",
+      "url": "https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goodtime Charlie",
         "url": "https://open.spotify.com/album/58WR5ej6EJFRGjQp1qrfpN"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 207500,
       "name": "The Fact",
       "url": "https://open.spotify.com/track/1Xq0XTjQVQkLNrOgDQ7hrf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mountain of Rose Quartz",
-        "url": "https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 187653,
-      "name": "Twas Twined & Twisted",
-      "url": "https://open.spotify.com/track/2EOSxTbMe1kvl9d89mBzVE"
     },
     {
       "added_at": null,

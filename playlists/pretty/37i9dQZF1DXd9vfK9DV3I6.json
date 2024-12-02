@@ -1,6 +1,6 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 343194,
+  "num_followers": 343308,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Heatiche (Vip Mix)",
+        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
+      },
+      "artists": [
+        {
+          "name": "Mpirgkel",
+          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Heatiche - Vip Mix",
+      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/6IbPt727qgNcoRcd4Q9r2m"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 200950,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Heatiche (Vip Mix)",
-        "url": "https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3"
-      },
-      "artists": [
-        {
-          "name": "Mpirgkel",
-          "url": "https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Heatiche - Vip Mix",
-      "url": "https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Mosaic",
-        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Mosaic",
-      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 225226,
       "name": "Alone",
       "url": "https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Mosaic",
+        "url": "https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Mosaic",
+      "url": "https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
-      },
-      "artists": [
-        {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Eldorado",
-      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Orient Spirit",
         "url": "https://open.spotify.com/album/5LuVSGPgIS5cgo3TbonA3m"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 147976,
       "name": "Orient Spirit",
       "url": "https://open.spotify.com/track/02BR08RbCSnp8yBBZLr6sO"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/3yp6o87R2Du2CC75dw2cqc"
+      },
+      "artists": [
+        {
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        }
+      ],
+      "duration_ms": 381639,
+      "name": "Eldorado",
+      "url": "https://open.spotify.com/track/50juFT8u0XDZQ5HO5khhlC"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Sophonisbe",
         "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
@@ -795,6 +779,38 @@
       "duration_ms": 396428,
       "name": "Sophonisbe - Sahale Remix",
       "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 314336,
+      "name": "Marrakech (Extended)",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -839,22 +855,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech (Extended)",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Anlar",
         "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 430769,
       "name": "Anlar",
       "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Portrait of the Obscure",
+        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "duration_ms": 258137,
+      "name": "Pulse Antique",
+      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -891,22 +907,6 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Portrait of the Obscure",
-        "url": "https://open.spotify.com/album/7ceLPlFL0mhnAKqCFfPjhm"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        }
-      ],
-      "duration_ms": 258137,
-      "name": "Pulse Antique",
-      "url": "https://open.spotify.com/track/58xJ8nqtHLOK96X8y1ldxJ"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 184421,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/38Um3NfzOkBjaZcb7KYEDh"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
+        "name": "Yasameen",
+        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Douae El Rhiouane",
+          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Yasameen",
+      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
         "name": "Sahra On The Moon",
         "url": "https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7"
       },
@@ -1515,22 +1535,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Oh Lor My Love",
-        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 180983,
-      "name": "Oh Lor My Love",
-      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Bladi B3ida",
         "url": "https://open.spotify.com/album/4B1cXT0JtC0f0e0sbODGow"
       },
@@ -1555,22 +1559,18 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Yasameen",
-        "url": "https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h"
+        "name": "Oh Lor My Love",
+        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
       },
       "artists": [
         {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Douae El Rhiouane",
-          "url": "https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki"
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
         }
       ],
-      "duration_ms": 344000,
-      "name": "Yasameen",
-      "url": "https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4"
+      "duration_ms": 180983,
+      "name": "Oh Lor My Love",
+      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Moroccan Sahara",
-        "url": "https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD"
-      },
-      "artists": [
-        {
-          "name": "Palmtherapy by DrNR",
-          "url": "https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho"
-        }
-      ],
-      "duration_ms": 185208,
-      "name": "Moroccan Sahara",
-      "url": "https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Jawi",
         "url": "https://open.spotify.com/album/047yqMv9xH71I4Y72gDcLw"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 245161,
       "name": "Jawi",
       "url": "https://open.spotify.com/track/0oyXfaKxMo82IbAzAC2BMb"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Moroccan Sahara",
+        "url": "https://open.spotify.com/album/7gNhIIdrH2OEJJsXC5OKLD"
+      },
+      "artists": [
+        {
+          "name": "Palmtherapy by DrNR",
+          "url": "https://open.spotify.com/artist/2uPDdfOwM6OE4GFiWEO3ho"
+        }
+      ],
+      "duration_ms": 185208,
+      "name": "Moroccan Sahara",
+      "url": "https://open.spotify.com/track/2qgjZBMerWlMfU69VuYCfL"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Arabesque",
-        "url": "https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        },
-        {
-          "name": "DJ Ego",
-          "url": "https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv"
-        }
-      ],
-      "duration_ms": 377704,
-      "name": "Arabesque",
-      "url": "https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Ilios",
         "url": "https://open.spotify.com/album/0dn8zaFhDYjDuqOKGhr0Kw"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 374857,
       "name": "Ilios",
       "url": "https://open.spotify.com/track/2IUWM1lWpUQU6zCxlHx8Kw"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Arabesque",
+        "url": "https://open.spotify.com/album/0ao2yB3e2suP4ja0qqLgiT"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        },
+        {
+          "name": "DJ Ego",
+          "url": "https://open.spotify.com/artist/39E5SvNaskAZHSVUzaTYpv"
+        }
+      ],
+      "duration_ms": 377704,
+      "name": "Arabesque",
+      "url": "https://open.spotify.com/track/4zxudjxg74Bpk2cS8AEf3H"
     },
     {
       "added_at": "2024-11-22 18:05:57",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-11-22 18:05:57",
       "album": {
-        "name": "Arabian Soul",
-        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        }
-      ],
-      "duration_ms": 312125,
-      "name": "Arabian Soul",
-      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
-    },
-    {
-      "added_at": "2024-11-22 18:05:57",
-      "album": {
         "name": "Mawjou3 Galbi",
         "url": "https://open.spotify.com/album/450bx2egvP32rGdLekadr0"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 283659,
       "name": "Samra",
       "url": "https://open.spotify.com/track/22Q7q8bz3vR5qX9NoEyVm4"
+    },
+    {
+      "added_at": "2024-11-22 18:05:57",
+      "album": {
+        "name": "Arabian Soul",
+        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        }
+      ],
+      "duration_ms": 312125,
+      "name": "Arabian Soul",
+      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
     },
     {
       "added_at": "2024-11-22 18:05:57",

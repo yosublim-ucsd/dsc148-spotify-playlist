@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 211709,
+  "num_followers": 220209,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 165457,
-      "name": "Wintering",
-      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "This Christmas",
         "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 219093,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 165457,
+      "name": "Wintering",
+      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Christmas Special",
-        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
-      },
-      "artists": [
-        {
-          "name": "Jenevieve",
-          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Christmas Special",
-      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 212120,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "Christmas Special",
+        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Christmas Special",
+      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -905,20 +905,20 @@
       "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
-      "added_at": "2024-11-18 23:12:09",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Deck The Halls",
-        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
+        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
+        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 124000,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
+      "duration_ms": 215000,
+      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
+      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Christmas Caller",
-        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/5sd9iigAumkT0eos6M1TbX"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 135020,
-      "name": "Christmas Caller",
-      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
+      "duration_ms": 124000,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5EsifDQUw2MxV6zdeZkNLY"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Cozy Christmas / December Baby",
-        "url": "https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe"
+        "name": "Christmas Caller",
+        "url": "https://open.spotify.com/album/69wSgjR0ZbyTxINqpsPbtv"
       },
       "artists": [
         {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 237953,
-      "name": "Cozy Christmas",
-      "url": "https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR"
+      "duration_ms": 135020,
+      "name": "Christmas Caller",
+      "url": "https://open.spotify.com/track/4kFnYLxdx0OI5L4mEWvygm"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1019,18 +1019,34 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         }
       ],
-      "duration_ms": 139600,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+      "duration_ms": 272266,
+      "name": "Auld Lang Syne",
+      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "Cozy Christmas / December Baby",
+        "url": "https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 237953,
+      "name": "Cozy Christmas",
+      "url": "https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1051,34 +1067,34 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+        "name": "ugly xmas sweater party",
+        "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
         }
       ],
-      "duration_ms": 272266,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
+      "duration_ms": 208000,
+      "name": "ugly xmas sweater party",
+      "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
     },
     {
-      "added_at": "2024-11-29 05:00:00",
+      "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
-        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
-      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+      "duration_ms": 139600,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
     },
     {
       "added_at": "2024-11-22 05:26:31",
@@ -1099,34 +1115,18 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "ugly xmas sweater party",
-        "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
+        "name": "December '04",
+        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
       },
       "artists": [
         {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
         }
       ],
-      "duration_ms": 208000,
-      "name": "ugly xmas sweater party",
-      "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "Winter Hat",
-        "url": "https://open.spotify.com/album/6SQhxj5Xmpv9P4YiTg6EX0"
-      },
-      "artists": [
-        {
-          "name": "Daffo",
-          "url": "https://open.spotify.com/artist/0RsNTNwQqjREcl3VG81prp"
-        }
-      ],
-      "duration_ms": 174830,
-      "name": "Winter Hat",
-      "url": "https://open.spotify.com/track/3vAo3NF0Qox87OLt1fAN5W"
+      "duration_ms": 206798,
+      "name": "December '04",
+      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "December '04",
-        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
       },
       "artists": [
         {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
         }
       ],
-      "duration_ms": 206798,
-      "name": "December '04",
-      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
+      "duration_ms": 187750,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
-        "url": "https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 203767,
-      "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "thank you wisdom angel i love you",
         "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
       },
@@ -1211,22 +1195,6 @@
       "duration_ms": 198208,
       "name": "silver second",
       "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 187750,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4MmKdIsEWE8aXtIyQfuKhP"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1247,6 +1215,22 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
+        "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
+        "url": "https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 203767,
+      "name": "Christmas (Baby Please Come Home) - Recorded At Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
       },
@@ -1259,6 +1243,26 @@
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
+        "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 380480,
+      "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
+      "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
     }
   ],
   "unique_name": "Indie Christmas",

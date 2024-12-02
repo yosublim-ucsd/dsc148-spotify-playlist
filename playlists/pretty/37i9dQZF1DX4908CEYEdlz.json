@@ -1,6 +1,6 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: ",
-  "num_followers": 974499,
+  "num_followers": 974457,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
         "name": "Rock N Roller",
         "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 223694,
       "name": "Rock N Roller",
       "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "added_at": "2024-11-22 14:29:45",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
+        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
+        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 258465,
+      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
+      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1"
       },
@@ -311,38 +327,6 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
-        "name": "VERITAS",
-        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 199067,
-      "name": "I GOT THAT",
-      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
-        "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
-        "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 258465,
-      "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
-      "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 459120,
       "name": "72 Seasons",
       "url": "https://open.spotify.com/track/45BbECVzn2iQ7iwZMiSnRF"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
+        "name": "VERITAS",
+        "url": "https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 199067,
+      "name": "I GOT THAT",
+      "url": "https://open.spotify.com/track/42QKJpaoiHX0YEMAuxtVVI"
     },
     {
       "added_at": "2024-11-22 14:29:45",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
+        "name": "The Falling Sky",
+        "url": "https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "The Falling Sky",
+      "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
         "name": "Trial By Fire",
         "url": "https://open.spotify.com/album/0Tfz5EVaNE6oeAn4vttNEi"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 209664,
       "name": "Cut The Line",
       "url": "https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
-        "name": "The Falling Sky",
-        "url": "https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "The Falling Sky",
-      "url": "https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn"
     },
     {
       "added_at": "2024-11-22 14:29:45",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
-        "name": "Carnivore",
-        "url": "https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x"
-      },
-      "artists": [
-        {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
-        }
-      ],
-      "duration_ms": 191946,
-      "name": "Carnivore",
-      "url": "https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
         "name": "Ready For Something",
         "url": "https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 237560,
       "name": "Ready For Something",
       "url": "https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
+        "name": "Carnivore",
+        "url": "https://open.spotify.com/album/304v3uVECkuBPw2SAwWE8x"
+      },
+      "artists": [
+        {
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+        }
+      ],
+      "duration_ms": 191946,
+      "name": "Carnivore",
+      "url": "https://open.spotify.com/track/1WHwVpN07pJZ8UVPlB5isM"
     },
     {
       "added_at": "2024-11-22 14:29:45",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 245099,
+      "name": "Soul On Fire",
+      "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/10skiZ5i3pC9Ry0fVbLJU7"
       },
@@ -1087,6 +1103,22 @@
     {
       "added_at": "2024-11-22 14:29:45",
       "album": {
+        "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 163752,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
         "name": "Forgotten",
         "url": "https://open.spotify.com/album/155RnIndCn3TFeiPV6bo2E"
       },
@@ -1099,22 +1131,6 @@
       "duration_ms": 197213,
       "name": "Forgotten",
       "url": "https://open.spotify.com/track/4TWHdkXfyu7gLpAUSyU1X8"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
-        "name": "Lighting Up The Sky",
-        "url": "https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 245099,
-      "name": "Soul On Fire",
-      "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
     },
     {
       "added_at": "2024-11-22 14:29:45",
@@ -1147,38 +1163,6 @@
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/1bmip4OvKbC0t1VYbZqv8O"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
-        "name": "Hotel Kalifornia",
-        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 163752,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
-    },
-    {
-      "added_at": "2024-11-22 14:29:45",
-      "album": {
-        "name": "We Are The Rest",
-        "url": "https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE"
-      },
-      "artists": [
-        {
-          "name": "Corey Taylor",
-          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
-        }
-      ],
-      "duration_ms": 182449,
-      "name": "We Are The Rest",
-      "url": "https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0"
     },
     {
       "added_at": "2024-11-22 14:29:45",
@@ -1243,6 +1227,22 @@
       "duration_ms": 173931,
       "name": "City Of The Dead",
       "url": "https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb"
+    },
+    {
+      "added_at": "2024-11-22 14:29:45",
+      "album": {
+        "name": "We Are The Rest",
+        "url": "https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 182449,
+      "name": "We Are The Rest",
+      "url": "https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0"
     }
   ],
   "unique_name": "Volume M\u00e1ximo",

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 Dec 23:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 01 Dec 14:05 UTC.
 
-3,496 songs - 8 day 2 hr 47 min
+3,498 songs - 8 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,6 +425,7 @@
 | [BOOM BAP](https://open.spotify.com/track/2CpQjdYa6NunbPzGUteF4i) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/6kQ44jxgMNT1Rn8o1kuIB1) | 2:14 | 2024-08-23 | 2024-08-28 |
 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-07 | 2024-05-10 |
 | [BOOOOOORING](https://open.spotify.com/track/70o4Z35wOgtzQEAxLZuPtc) | [babyMINT](https://open.spotify.com/artist/3QBGARmgMgRi08atqAWAV2) | [BOOOOOORING](https://open.spotify.com/album/6VXCZBD2Hn005pri5hmwKg) | 2:56 | 2024-08-20 | 2024-08-23 |
+| [Bored](https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE) | [Joeyy](https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM) | [Bored](https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb) | 1:55 | 2024-12-01 |  |
 | [Born To Rave](https://open.spotify.com/track/1UG9XQqCSsCyrm3fjnQZkg) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Born To Rave](https://open.spotify.com/album/1HgwyII49Df2mYFXBtfkjh) | 2:17 | 2024-09-12 | 2024-09-14 |
 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 | 2024-10-25 | 2024-10-28 |
 | [born with power](https://open.spotify.com/track/5r4SYNrmYccS12HT9psaxc) | [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [born with power](https://open.spotify.com/album/0oeAHa0oWwBEVRS8oRYg6K) | 3:35 | 2024-08-20 | 2024-08-23 |
@@ -3177,6 +3178,7 @@
 | [Under a Cloud](https://open.spotify.com/track/5ET3ElLAMjZL2OqJhZHrdN) | [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [Under a Cloud](https://open.spotify.com/album/3kWLPXx8HxYiPS4sIIp3N4) | 4:15 | 2024-09-26 | 2024-09-28 |
 | [Undercurrent](https://open.spotify.com/track/0rPNzmwmL3cr4gFv77hRdy) | [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y) | [Undercurrent](https://open.spotify.com/album/1waexo4uVIgajbWqw7QWs9) | 4:14 | 2024-08-02 | 2024-08-06 |
 | [Underground \- Doss Remix](https://open.spotify.com/track/7kcenCX8zfNnpL2haQHZmH) | [f5ve](https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Underground \(Doss Remix\)](https://open.spotify.com/album/5ZZ8sBsyhlFmja2DMR5dSi) | 2:52 | 2024-08-07 | 2024-08-09 |
+| [Underwater Reflection](https://open.spotify.com/track/1RgGi33UgdVP5a1lWPcK8x) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [Underwater Reflection](https://open.spotify.com/album/21dQzuC2gzIxEQhwKwapgq) | 6:28 | 2024-12-01 |  |
 | [unexpectedly](https://open.spotify.com/track/1Ll7BWpVg6OO03I22kNJRk) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [unexpectedly](https://open.spotify.com/album/4HH8GOfTaukMZ8r0FuCnWZ) | 2:28 | 2024-11-08 | 2024-11-12 |
 | [Unforgiveable](https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Unforgivable](https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad) | 3:44 | 2024-05-02 | 2024-05-04 |
 | [UNHHH](https://open.spotify.com/track/7GMUOZVVsXs0si8sJ9QXQP) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Please Hold](https://open.spotify.com/album/3yTyKaDM9gEzPuSgTCWTmq) | 2:14 | 2024-09-13 | 2024-09-18 |

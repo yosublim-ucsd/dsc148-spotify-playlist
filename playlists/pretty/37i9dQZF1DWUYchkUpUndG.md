@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/3zhAr7XON4TURd5L7v7zmI?si=T776nAIGSVSKFuD0MroXTg>Afy Douglas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,486 likes - 99 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,542 likes - 99 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

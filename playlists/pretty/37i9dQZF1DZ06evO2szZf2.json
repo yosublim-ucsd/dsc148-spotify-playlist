@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34721,
+  "num_followers": 34723,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAABya/wvyl+2CvHT4zsBCjjW",
+  "snapshot_id": "Z0pVgAAAAABXKRRTx+uEwieaYYVaU3MW",
   "tracks": [
     {
       "added_at": null,
@@ -715,30 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mochila nas Costas / Empurra Empurra",
-        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
-      },
-      "artists": [
-        {
-          "name": "DJ Felipe \u00danico",
-          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
-        }
-      ],
-      "duration_ms": 241777,
-      "name": "Mochila nas Costas / Empurra Empurra",
-      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrocha da Treta",
         "url": "https://open.spotify.com/album/2dddrN2lOTk8UJR42WhUdQ"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 144013,
       "name": "Arrocha da Treta (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/6BN7IIhBaALS4Nw6XkYfJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mochila nas Costas / Empurra Empurra",
+        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+      },
+      "artists": [
+        {
+          "name": "DJ Felipe \u00danico",
+          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Mochila nas Costas / Empurra Empurra",
+      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
     },
     {
       "added_at": null,
@@ -943,6 +943,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+        "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        }
+      ],
+      "duration_ms": 162764,
+      "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+      "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vida do Crime",
         "url": "https://open.spotify.com/album/7fclUkVg10L6zMAgtuW2v8"
       },
@@ -979,78 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
-        "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
-        },
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
-        }
-      ],
-      "duration_ms": 162764,
-      "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
-      "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PANCADA",
-        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "TH4I",
-          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
-        }
-      ],
-      "duration_ms": 135616,
-      "name": "PANCADA",
-      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soca Com Press\u00e3o",
         "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 140231,
       "name": "Soca Com Press\u00e3o",
       "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PANCADA",
+        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "TH4I",
+          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
+        }
+      ],
+      "duration_ms": 135616,
+      "name": "PANCADA",
+      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
     },
     {
       "added_at": null,
@@ -1215,6 +1215,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nois Bate com a Polpa da Bunda",
+        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
+      },
+      "artists": [
+        {
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 176842,
+      "name": "Nois Bate com a Polpa da Bunda",
+      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rel\u00edquias da Marketada",
         "url": "https://open.spotify.com/album/5JIgWCYZs2KsvSllIfjjyZ"
       },
@@ -1287,22 +1307,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nois Bate com a Polpa da Bunda",
-        "url": "https://open.spotify.com/album/1x6EOmX7clAcvvnlLTehsw"
+        "name": "Porque Elas Te Preferem",
+        "url": "https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr"
       },
       "artists": [
         {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
-        },
-        {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
         }
       ],
-      "duration_ms": 176842,
-      "name": "Nois Bate com a Polpa da Bunda",
-      "url": "https://open.spotify.com/track/7mdnVA3yZi2xtvArd449WZ"
+      "duration_ms": 160000,
+      "name": "Porque Elas Te Preferem",
+      "url": "https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr"
     },
     {
       "added_at": null,
@@ -1331,30 +1355,6 @@
       "duration_ms": 156363,
       "name": "Popola (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/41mbP4HHVq29rVatGp0S2t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Porque Elas Te Preferem",
-        "url": "https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Porque Elas Te Preferem",
-      "url": "https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr"
     },
     {
       "added_at": null,
@@ -1507,30 +1507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Cara Maluco",
-        "url": "https://open.spotify.com/album/2qTV1A0SANR2CBlWh0idAu"
-      },
-      "artists": [
-        {
-          "name": "MC Celo BK",
-          "url": "https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c"
-        },
-        {
-          "name": "DJ Jeeh FDC",
-          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Que Cara Maluco",
-      "url": "https://open.spotify.com/track/1t5j7QWLmoGtxOS7Jkz2wx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9 S\u00f3 Pirocad\u00e3o (Brega Funk Remix)",
         "url": "https://open.spotify.com/album/69LyHjijVlo0FEEGoKDe02"
       },
@@ -1559,30 +1535,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "38 Carregado",
-        "url": "https://open.spotify.com/album/7rRRBPuisxQKGRQsglK20U"
+        "name": "Que Cara Maluco",
+        "url": "https://open.spotify.com/album/2qTV1A0SANR2CBlWh0idAu"
       },
       "artists": [
         {
-          "name": "O Brutto",
-          "url": "https://open.spotify.com/artist/6cu7LD1IwsOS6Rtgr2F0BV"
+          "name": "MC Celo BK",
+          "url": "https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c"
         },
         {
-          "name": "Tinho do Coque",
-          "url": "https://open.spotify.com/artist/14IIWGbDqOjAFpxmOoEsmt"
-        },
-        {
-          "name": "Augusto e Jo\u00e3ozinho",
-          "url": "https://open.spotify.com/artist/3zmGUCTcp7G0uOdTQ1z9YX"
+          "name": "DJ Jeeh FDC",
+          "url": "https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 126249,
-      "name": "38 Carregado",
-      "url": "https://open.spotify.com/track/4VqtUzguJZRomDHACkvwig"
+      "duration_ms": 208615,
+      "name": "Que Cara Maluco",
+      "url": "https://open.spotify.com/track/1t5j7QWLmoGtxOS7Jkz2wx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Foi Bate Bate",
+        "url": "https://open.spotify.com/album/2kmG2VoE2lf4YwKIT2bFG5"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 211633,
+      "name": "Foi Bate Bate",
+      "url": "https://open.spotify.com/track/1Y3zrX5iO7vxBvdyBH8xpQ"
     }
   ],
   "unique_name": "This Is Mc Dricka",

@@ -131,22 +131,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Bajo Piel",
-        "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
-      },
-      "artists": [
-        {
-          "name": "Guillermo Vadala",
-          "url": "https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Willie",
-      "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -167,38 +151,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+        "name": "Bajo Piel",
+        "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
       },
       "artists": [
         {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+          "name": "Guillermo Vadala",
+          "url": "https://open.spotify.com/artist/16Zrj1Fc0tOeRmdBGftuhD"
         }
       ],
-      "duration_ms": 114760,
-      "name": "Entrada al Jard\u00edn de Ord\u00f3\u00f1ez",
-      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 301893,
-      "name": "Shape of My Heart",
-      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
+      "duration_ms": 301000,
+      "name": "Willie",
+      "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -219,6 +183,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 114760,
+      "name": "Entrada al Jard\u00edn de Ord\u00f3\u00f1ez",
+      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 169586,
       "name": "Tico Tico No Fub\u00e0",
       "url": "https://open.spotify.com/track/3Q8ZbV1ebQ1vVZHcst39I8"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Shape of My Heart",
+      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/10U3XS2qEsDX8YUErjgMeJ"
     },
     {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 395117,
+      "name": "Chacafrik",
+      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+    },
+    {
       "added_at": "2024-03-08 03:00:00",
       "album": {
         "name": "Boticario de Amor",
@@ -299,18 +315,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
       },
       "artists": [
         {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
         }
       ],
-      "duration_ms": 395117,
-      "name": "Chacafrik",
-      "url": "https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY"
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -331,18 +347,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+        "name": "B\u00e9same Mucho",
+        "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
       },
       "artists": [
         {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+          "name": "Oscar Aleman",
+          "url": "https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
+      "duration_ms": 175213,
+      "name": "Estambul",
+      "url": "https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -379,22 +395,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "B\u00e9same Mucho",
-        "url": "https://open.spotify.com/album/0rqeGYuxdTWXiWekx5J1H5"
-      },
-      "artists": [
-        {
-          "name": "Oscar Aleman",
-          "url": "https://open.spotify.com/artist/6WlZKlAR4zNkqXreMiZ2aK"
-        }
-      ],
-      "duration_ms": 175213,
-      "name": "Estambul",
-      "url": "https://open.spotify.com/track/0hDeQf9y3doljtZ7Qc6DCV"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Cinemateca Finlandesa",
         "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
@@ -411,22 +411,6 @@
       "duration_ms": 276640,
       "name": "Viernes 3AM",
       "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Puertos: Music from International Waters",
-        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
-      },
-      "artists": [
-        {
-          "name": "Emilio Solla Tango Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
-        }
-      ],
-      "duration_ms": 468087,
-      "name": "Sol La, Al Sol",
-      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -467,6 +451,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Puertos: Music from International Waters",
+        "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
+      },
+      "artists": [
+        {
+          "name": "Emilio Solla Tango Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE"
+        }
+      ],
+      "duration_ms": 468087,
+      "name": "Sol La, Al Sol",
+      "url": "https://open.spotify.com/track/22Iyd8cBIkbaJMPXBoxEzb"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Brilliant Corners",
         "url": "https://open.spotify.com/album/1U7l8CHeLqBjDKVx4987C4"
       },
@@ -479,26 +479,6 @@
       "duration_ms": 104195,
       "name": "Brilliant Corners",
       "url": "https://open.spotify.com/track/2fFSR3ZclE7Tid8nk2iQUI"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "ONTOLOGY",
-        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
-      },
-      "artists": [
-        {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Martin Bejerano",
-          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
-        }
-      ],
-      "duration_ms": 345370,
-      "name": "El Regreso (feat. Martin Bejerano)",
-      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -587,18 +567,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
-        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
+        "name": "ONTOLOGY",
+        "url": "https://open.spotify.com/album/2Orbo9LLzUgeGYLv7Y13ZS"
       },
       "artists": [
         {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Martin Bejerano",
+          "url": "https://open.spotify.com/artist/4VMKrj6BdulOiKFPbRVqgb"
         }
       ],
-      "duration_ms": 286109,
-      "name": "Full House - Live",
-      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
+      "duration_ms": 345370,
+      "name": "El Regreso (feat. Martin Bejerano)",
+      "url": "https://open.spotify.com/track/35YdBVFv2Oij9ve8P6FP5F"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -619,6 +603,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        }
+      ],
+      "duration_ms": 365560,
+      "name": "So in Love",
+      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "100",
         "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
       },
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/3830K875C6mYbKSPfd5F7u"
+        "name": "Essence of Wes Montgomery (Live in Thelonious Club, Buenos Aires, Argentina)",
+        "url": "https://open.spotify.com/album/2Dmf8Z3soN83btDViX5IQH"
       },
       "artists": [
         {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
         }
       ],
-      "duration_ms": 365560,
-      "name": "So in Love",
-      "url": "https://open.spotify.com/track/2baqmzRDyPgEUmxbzuyczm"
+      "duration_ms": 286109,
+      "name": "Full House - Live",
+      "url": "https://open.spotify.com/track/3Bl33BzVPmnsJhJpfS3cZc"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -947,6 +947,26 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Mensajes Secretos",
+        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
+      },
+      "artists": [
+        {
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
+        }
+      ],
+      "duration_ms": 364056,
+      "name": "Desde El Corazon",
+      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Flor de piel",
         "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
       },
@@ -963,6 +983,26 @@
       "duration_ms": 155904,
       "name": "Flor de piel",
       "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Mezcalero",
+        "url": "https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj"
+      },
+      "artists": [
+        {
+          "name": "Manto de Carne",
+          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
+        },
+        {
+          "name": "Mart\u00edn Telechanski",
+          "url": "https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "Mezcalero",
+      "url": "https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -995,46 +1035,6 @@
       "duration_ms": 188773,
       "name": "Polacos",
       "url": "https://open.spotify.com/track/2BrNycAn6bLcTzhT0zanr7"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Mensajes Secretos",
-        "url": "https://open.spotify.com/album/2FutkIdGZozf7lwp0PMk9g"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/0HPnoTmtj7B0nFxvNcLfo7"
-        }
-      ],
-      "duration_ms": 364056,
-      "name": "Desde El Corazon",
-      "url": "https://open.spotify.com/track/4PCBKDDelvSbxLXO72o5DR"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Mezcalero",
-        "url": "https://open.spotify.com/album/1vp5pXPedKpfRJL5THQYSj"
-      },
-      "artists": [
-        {
-          "name": "Manto de Carne",
-          "url": "https://open.spotify.com/artist/0W9lb1sq8zlTUSFqctJMqy"
-        },
-        {
-          "name": "Mart\u00edn Telechanski",
-          "url": "https://open.spotify.com/artist/15mKP2cwyHpXFFbYfir1A1"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Mezcalero",
-      "url": "https://open.spotify.com/track/0rHGwlFislu1y0aSqugWWN"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Infinite Universe",
-        "url": "https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f3nica Sala",
-          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
-        },
-        {
-          "name": "Santiago Deluca",
-          "url": "https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ"
-        }
-      ],
-      "duration_ms": 280801,
-      "name": "Infinite Universe",
-      "url": "https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "El Drag\u00f3n Blanco",
         "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
       },
@@ -1139,6 +1119,22 @@
       "duration_ms": 286373,
       "name": "Titi",
       "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "En el fondo del mar",
+        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 367797,
+      "name": "En el fondo del mar",
+      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1163,22 +1159,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "En el fondo del mar",
-        "url": "https://open.spotify.com/album/2le5rS0useInfiwUH6D0en"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 367797,
-      "name": "En el fondo del mar",
-      "url": "https://open.spotify.com/track/3Fuh1jFj6vYFgAlNzCAT52"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Here\u00b4s That Rainy Day",
         "url": "https://open.spotify.com/album/69zOrvALBeCvCfnjyHfdxb"
       },
@@ -1199,6 +1179,26 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
+        "name": "Infinite Universe",
+        "url": "https://open.spotify.com/album/34zfFlu9MZ6efJB014H3cZ"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f3nica Sala",
+          "url": "https://open.spotify.com/artist/2KLelEcdhHASNmAx2eXpgP"
+        },
+        {
+          "name": "Santiago Deluca",
+          "url": "https://open.spotify.com/artist/0Ui8Oqp2625l6x2Z6gkzDZ"
+        }
+      ],
+      "duration_ms": 280801,
+      "name": "Infinite Universe",
+      "url": "https://open.spotify.com/track/3vJbdayj0bmi5x0CVEfBzN"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
         "name": "Ausencias",
         "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
@@ -1211,6 +1211,30 @@
       "duration_ms": 298880,
       "name": "Ausencias",
       "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+        }
+      ],
+      "duration_ms": 495746,
+      "name": "Cabrera's Blues",
+      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1239,30 +1263,6 @@
       "duration_ms": 640853,
       "name": "Trias",
       "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
-        }
-      ],
-      "duration_ms": 495746,
-      "name": "Cabrera's Blues",
-      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Algo Bueno - Something Good",
-        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
-      },
-      "artists": [
-        {
-          "name": "Marta Bellomo",
-          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
-        },
-        {
-          "name": "Alejandro Moro",
-          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
-        }
-      ],
-      "duration_ms": 341695,
-      "name": "Way You Look Tonight The",
-      "url": "https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Querido Bill : Tributo a Bill Evans",
         "url": "https://open.spotify.com/album/7hi7JxW5BDVbINzu79QVjQ"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 490280,
       "name": "Billie's Bounce",
       "url": "https://open.spotify.com/track/6DF9qquWlMN2bJGeXYOBDc"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Algo Bueno - Something Good",
+        "url": "https://open.spotify.com/album/7w52y2XkpM2gdI9u3XwMI5"
+      },
+      "artists": [
+        {
+          "name": "Marta Bellomo",
+          "url": "https://open.spotify.com/artist/7x3oAEeK0qQgiuTNbHBFFm"
+        },
+        {
+          "name": "Alejandro Moro",
+          "url": "https://open.spotify.com/artist/38VjOepx14QeNPXXYucLt8"
+        }
+      ],
+      "duration_ms": 341695,
+      "name": "Way You Look Tonight The",
+      "url": "https://open.spotify.com/track/2o3fntRoRh42nT7PxHFZta"
     },
     {
       "added_at": "2023-12-08 00:22:41",

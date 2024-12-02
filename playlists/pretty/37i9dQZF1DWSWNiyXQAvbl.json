@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 496848,
+  "num_followers": 496925,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Doctor Hook",
-        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
-      },
-      "artists": [
-        {
-          "name": "Dr. Hook",
-          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
-        }
-      ],
-      "duration_ms": 228333,
-      "name": "Sylvia's Mother",
-      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Dancing In The Moonlight",
         "url": "https://open.spotify.com/album/2gvwC6eFsQH5rlvrZyhs3s"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 178045,
       "name": "Dancing In The Moonlight",
       "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Doctor Hook",
+        "url": "https://open.spotify.com/album/0WmdelW8OCAAsxayYY7vHm"
+      },
+      "artists": [
+        {
+          "name": "Dr. Hook",
+          "url": "https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN"
+        }
+      ],
+      "duration_ms": 228333,
+      "name": "Sylvia's Mother",
+      "url": "https://open.spotify.com/track/4hLk7Bjz1XJWNDiqovvgBW"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Back to Front",
-        "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
-      },
-      "artists": [
-        {
-          "name": "Gilbert O'Sullivan",
-          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "Alone Again (Naturally)",
-      "url": "https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Honky Chateau (Remastered)",
-        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
+        "name": "Back to Front",
+        "url": "https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Gilbert O'Sullivan",
+          "url": "https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf"
         }
       ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
-      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
+      "duration_ms": 216840,
+      "name": "Alone Again (Naturally)",
+      "url": "https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -995,6 +979,22 @@
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/4qmHeQBYieqj3VMAPascsE"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Honky Chateau (Remastered)",
+        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
     },
     {
       "added_at": "2024-06-03 14:45:23",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "Rock Of The Westies (Remastered)",
-        "url": "https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Kiki Dee",
-          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Don't Go Breaking My Heart",
-      "url": "https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/0yAgdXfH3FYFhSTdWMeUrR"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 243933,
       "name": "Take A Chance On Me",
       "url": "https://open.spotify.com/track/4bykJp7dORR4GoLCZiQbU0"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "Rock Of The Westies (Remastered)",
+        "url": "https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X"
     },
     {
       "added_at": "2024-06-03 14:45:23",

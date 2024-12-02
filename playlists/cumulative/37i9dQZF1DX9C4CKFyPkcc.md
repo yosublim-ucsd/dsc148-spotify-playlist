@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-338 songs - 19 hr 55 min
+339 songs - 19 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Manger Throne](https://open.spotify.com/track/6MoWXK8zQTT0cwTpBuVklQ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Manger Throne](https://open.spotify.com/album/6uotKRaIiLLx6f3nJ1Ap4a) | 4:20 | 2023-12-15 | 2024-09-13 |
 | [Mary & Joseph](https://open.spotify.com/track/0R1RPMrUi4pNPbI9cLlOc2) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Mary & Joseph](https://open.spotify.com/album/6pPITZmKTHNMS6kf5FV70D) | 4:04 | 2022-11-26 |  |
 | [MARY DID YOU KNOW](https://open.spotify.com/track/45I3HDHgs2lXnuhA5pBO2p) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [MARY DID YOU KNOW](https://open.spotify.com/album/6068cDzDC3VHlcbsEcfbZM) | 4:03 | 2024-11-17 |  |
+| [Mary Did You Know](https://open.spotify.com/track/3kuht2yVxbhmtUiT3ixGoJ) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Mary Did You Know](https://open.spotify.com/album/5ajcHzGBbwZfycAcaWvlgD) | 3:26 | 2024-11-29 |  |
 | [Mary Did You Know? \- Radio Version](https://open.spotify.com/track/3msuA22zBie3qiCG7BVf9L) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Mary Did You Know? \(Radio Version\)](https://open.spotify.com/album/0I7r8bytAaTnRtjukX0MJ5) | 2:54 | 2022-12-11 |  |
 | [Mary, Did You Know?](https://open.spotify.com/track/4zp9Qh3HoED30pcl9bVIOI) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Carols and Candlelight](https://open.spotify.com/album/4IQwHKLuo1hdsNtK37aRRg) | 3:43 | 2024-11-17 |  |
 | [Mary, Did You Know?](https://open.spotify.com/track/0Af5U5R3vCdVJRhYJogHzy) | [Kristen Cruz](https://open.spotify.com/artist/39cgWt6wdG1LU7FKREfqVq) | [Mary, Did You Know?](https://open.spotify.com/album/1zBDtUvf6Xl0bJWoAQ2DPZ) | 3:43 | 2022-12-11 | 2023-11-27 |
@@ -271,7 +272,7 @@
 | [Sleigh Ride](https://open.spotify.com/track/2IwNukSM5QpvnzmLuyKExn) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CHRISTMAS](https://open.spotify.com/album/1q0OMD6wW0RuA8FxgWMZh8) | 3:49 | 2022-11-26 | 2023-11-18 |
 | [Snow Day](https://open.spotify.com/track/0L3gQfMRW4TzEQzfln36bi) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Snow Day](https://open.spotify.com/album/5NGeFxVVtV6OG2NmMBdiGH) | 3:54 | 2023-11-27 |  |
 | [Snow Globe](https://open.spotify.com/track/1sTeVgEZQlEGx6ipR9sw2M) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Snow Globe](https://open.spotify.com/album/2srA0CCelnTz8DtZBOKJqj) | 3:21 | 2024-11-17 |  |
-| [So We Sing on Christmas Day](https://open.spotify.com/track/3JJFsY2EVqcJUW3bbxfxC3) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Vian Izak & Juniper Vale Do Christmas, Vol\. 1](https://open.spotify.com/album/1DOUiwfFhAGBqgmD1LGTNt) | 2:14 | 2023-12-02 |  |
+| [So We Sing on Christmas Day](https://open.spotify.com/track/3JJFsY2EVqcJUW3bbxfxC3) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Vian Izak & Juniper Vale Do Christmas, Vol\. 1](https://open.spotify.com/album/1DOUiwfFhAGBqgmD1LGTNt) | 2:14 | 2023-12-02 | 2024-12-02 |
 | [Someday At Christmas](https://open.spotify.com/track/0pS8XbINFfYdlFo8W8Z41L) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [At Christmas](https://open.spotify.com/album/3jmX3MSnMgdVtr8Lni0Sdt) | 3:20 | 2022-12-11 |  |
 | [Sounding Joy](https://open.spotify.com/track/0kFk5LnjmluUFN6DSgjlzb) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Sounding Joy](https://open.spotify.com/album/1ZMsgcmv2PawjMSJti5okX) | 3:50 | 2022-11-26 |  |
 | [Still Can’t Sleep On Christmas Eve](https://open.spotify.com/track/5gNzVsZwxbt6vVPDgESKa1) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [A Family Christmas](https://open.spotify.com/album/486kM8hafi4CrDewCsSFs5) | 3:20 | 2021-12-24 |  |

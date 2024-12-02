@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 87869,
+  "num_followers": 87882,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Me Diste la Espalda",
-        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2uEzrLeDsui4CXSdelYFBf"
         }
       ],
-      "duration_ms": 202492,
-      "name": "Me Diste la Espalda",
-      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
+      "duration_ms": 228450,
+      "name": "DECIR ADIOS \"OYE NARRADOR\" (with Cuco)",
+      "url": "https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -215,22 +219,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
       },
       "artists": [
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2uEzrLeDsui4CXSdelYFBf"
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
         }
       ],
-      "duration_ms": 228450,
-      "name": "DECIR ADIOS \"OYE NARRADOR\" (with Cuco)",
-      "url": "https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG"
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "En Vivo en el Gran Rex",
-        "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 264250,
-      "name": "Bandido - En Vivo",
-      "url": "https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "La Gata Bajo la Lluvia",
         "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 177818,
       "name": "Lindos Problemas",
       "url": "https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "En Vivo en el Gran Rex",
+        "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 264250,
+      "name": "Bandido - En Vivo",
+      "url": "https://open.spotify.com/track/2O8uyEmxm1CLMS2FsNETUx"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Paradisco",
-        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
-      },
-      "artists": [
-        {
-          "name": "Disco Bah\u00eda",
-          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
-        }
-      ],
-      "duration_ms": 233042,
-      "name": "Paradisco",
-      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Primer Recreo",
         "url": "https://open.spotify.com/album/1s1j0WlzBE2XL2A2WGpuor"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 235682,
       "name": "Primer Recreo",
       "url": "https://open.spotify.com/track/144KMvLxNA4nPWS40u0WMS"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Paradisco",
+        "url": "https://open.spotify.com/album/1qkLcWIHTqlAFFS9TsVt7h"
+      },
+      "artists": [
+        {
+          "name": "Disco Bah\u00eda",
+          "url": "https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4"
+        }
+      ],
+      "duration_ms": 233042,
+      "name": "Paradisco",
+      "url": "https://open.spotify.com/track/5I1D6tt50g9X57gpaKt8sH"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "CURSI",
-        "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "CURSI",
-      "url": "https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Me Siento en Primavera",
         "url": "https://open.spotify.com/album/6ZNgkv0SXGV0xnSIBEUypz"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 162539,
       "name": "Me Siento en Primavera",
       "url": "https://open.spotify.com/track/6Jnj7W0neqd2vF5FBzU81P"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "CURSI",
+        "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "CURSI",
+      "url": "https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Contraluz",
-        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
-      },
-      "artists": [
-        {
-          "name": "Urb\u00f8i",
-          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
-        }
-      ],
-      "duration_ms": 212869,
-      "name": "Contraluz",
-      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 207809,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Contraluz",
+        "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
+      },
+      "artists": [
+        {
+          "name": "Urb\u00f8i",
+          "url": "https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy"
+        }
+      ],
+      "duration_ms": 212869,
+      "name": "Contraluz",
+      "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Vete De Una Vez",
         "url": "https://open.spotify.com/album/4pP1N4m2FMr0taCYHJA0CX"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 252706,
       "name": "Vete De Una Vez",
       "url": "https://open.spotify.com/track/4avGqRWheA5WMIxaN72bNw"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Pinamar",
+        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 179800,
+      "name": "Pinamar",
+      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Llamame",
         "url": "https://open.spotify.com/album/3qx0TEK0UIW4bceOm50D8f"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 208790,
       "name": "Llamame",
       "url": "https://open.spotify.com/track/52pBr4O7TlAQ7rDS8TPxlf"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Pinamar",
-        "url": "https://open.spotify.com/album/5W7fMvZVn8kdy3imSF4C2k"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Pinamar",
-      "url": "https://open.spotify.com/track/6K98GWDNC9Q9Q28uhNjOCM"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-        "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 187514,
-      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
-      "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Tu Vereda",
         "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 149433,
       "name": "Goma",
       "url": "https://open.spotify.com/track/6ADV5jQv9nflcA5t4DIlwY"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+        "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 187514,
+      "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
+      "url": "https://open.spotify.com/track/4ItghFzjyBOtbR8J4mJ0hP"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "LOTO",
-        "url": "https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 166493,
-      "name": "LOTO",
-      "url": "https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Por qu\u00e9 te quiero tanto?",
         "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 230495,
       "name": "Por qu\u00e9 te quiero tanto?",
       "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     }
   ],
   "unique_name": "Radio Indie",

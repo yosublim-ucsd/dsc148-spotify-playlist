@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 163000,
       "name": "Baby It's Summer",
       "url": "https://open.spotify.com/track/44X38Z5svzeNZ2lYaIAT0v"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 143000,
       "name": "Can You Be Mine",
       "url": "https://open.spotify.com/track/598HukjVxGDlHZnm8rBrv0"
@@ -6839,6 +6839,28 @@
     },
     {
       "album": {
+        "name": "Left Of Me",
+        "url": "https://open.spotify.com/album/4z6zvWpYAHBphgt2o5XJ4Y"
+      },
+      "artists": [
+        {
+          "name": "Lexolee",
+          "url": "https://open.spotify.com/artist/5ToJzV9rx57MQIWdIzQQLo"
+        },
+        {
+          "name": "Forever Kids.",
+          "url": "https://open.spotify.com/artist/5ta0hTlqtDBzMgeV5frOJT"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Left Of Me",
+      "url": "https://open.spotify.com/track/4Ai7owYP7pZqB9lKrywkGz"
+    },
+    {
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/4snMm0MZ9Xl4RaiEuA0TWg"
       },
@@ -9284,7 +9306,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 182777,
       "name": "Off Limits",
       "url": "https://open.spotify.com/track/1XpRZiCQrNGLwFJBpiNIz0"
@@ -11924,7 +11946,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 112363,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/4x0qdMtNn1ntpUmbNcC6iA"
@@ -11972,6 +11994,32 @@
       "duration_ms": 215200,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/4dNtnXTCeYcx2CwJyyJUL7"
+    },
+    {
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/2pzoa2KWPBSvrIw1rxQJ1Y"
+      },
+      "artists": [
+        {
+          "name": "Kid On The Block",
+          "url": "https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH"
+        },
+        {
+          "name": "Summer Vibes",
+          "url": "https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm"
+        },
+        {
+          "name": "Luna Belle",
+          "url": "https://open.spotify.com/artist/0QQ4L7FpmQyev2ljEVbF0w"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144827,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/0zMx4Tg8GAv7A9yvsoGFxy"
     },
     {
       "album": {
@@ -12290,7 +12338,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 135818,
       "name": "Take Me Far",
       "url": "https://open.spotify.com/track/05v3B4bfLHxPCb9P5BI3dV"
@@ -12499,6 +12547,32 @@
     },
     {
       "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/3pIkhudLIC3aLoQvAvoyuC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santoro",
+          "url": "https://open.spotify.com/artist/2LwSighkNo49filvTvJmBz"
+        },
+        {
+          "name": "Gianluca Dimeo",
+          "url": "https://open.spotify.com/artist/5OBm2KxB9JIw4o9msXkeNQ"
+        },
+        {
+          "name": "Jan Liva",
+          "url": "https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186388,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/12L3HEJETKhCeVR4iIRxjH"
+    },
+    {
+      "album": {
         "name": "The Letter",
         "url": "https://open.spotify.com/album/61kwJ03rXpL0NTjflA9c3f"
       },
@@ -12584,7 +12658,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-12",
+      "date_removed": null,
       "duration_ms": 125347,
       "name": "The One",
       "url": "https://open.spotify.com/track/2hT9vWmKp6uduKzmalqeMA"
@@ -12708,7 +12782,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 224739,
       "name": "The Sun Is Up Forever",
       "url": "https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY"
@@ -12958,7 +13032,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 161053,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
@@ -13742,6 +13816,32 @@
       "duration_ms": 146254,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/1tmXZJaq0HlT17l4SWPlKY"
+    },
+    {
+      "album": {
+        "name": "What Was I For You",
+        "url": "https://open.spotify.com/album/7EsW7SKS2stMDtWQaiXy1I"
+      },
+      "artists": [
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "LDVC",
+          "url": "https://open.spotify.com/artist/7EShHZRP35PHBA0FXwrI4f"
+        },
+        {
+          "name": "Jan Liva",
+          "url": "https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137704,
+      "name": "What Was I For You",
+      "url": "https://open.spotify.com/track/7pspBaJSLzBqRphRrnozGv"
     },
     {
       "album": {

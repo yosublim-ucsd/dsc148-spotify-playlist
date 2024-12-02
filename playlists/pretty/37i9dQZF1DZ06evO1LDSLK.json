@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 70448,
+  "num_followers": 70461,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAABP6Ur4gtLSkKtPJhBPXVGB",
+  "snapshot_id": "Z0pVgAAAAADl2HwPOxruhjkpUXuBywgt",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 213960,
-      "name": "Et Si Tu n'existais Pas",
-      "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
+      "duration_ms": 163013,
+      "name": "Michelle",
+      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 163013,
-      "name": "Michelle",
-      "url": "https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz"
+      "duration_ms": 213960,
+      "name": "Et Si Tu n'existais Pas",
+      "url": "https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idiot",
-        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 260030,
-      "name": "Sister Midnight",
-      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 271171,
       "name": "James Bond",
       "url": "https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Idiot",
+        "url": "https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 260030,
+      "name": "Sister Midnight",
+      "url": "https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q"
     },
     {
       "added_at": null,
@@ -715,26 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oneohtrix Point Never - Collaborations",
-        "url": "https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI"
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },
       "artists": [
         {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        },
-        {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        },
-        {
-          "name": "Daniel Lopatin",
-          "url": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
         }
       ],
-      "duration_ms": 182000,
-      "name": "TP&TD",
-      "url": "https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg"
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
     },
     {
       "added_at": null,
@@ -759,18 +751,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+        "name": "Oneohtrix Point Never - Collaborations",
+        "url": "https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI"
       },
       "artists": [
         {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        },
+        {
           "name": "Iggy Pop",
           "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        {
+          "name": "Daniel Lopatin",
+          "url": "https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH"
         }
       ],
-      "duration_ms": 227166,
-      "name": "Morning Show",
-      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
+      "duration_ms": 182000,
+      "name": "TP&TD",
+      "url": "https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apr\u00e8s (10th-anniversary edition)",
+        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 150453,
+      "name": "La Javanaise",
+      "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "R\u00e9sistance",
         "url": "https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 183720,
       "name": "Sahara",
       "url": "https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apr\u00e8s (10th-anniversary edition)",
-        "url": "https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 150453,
-      "name": "La Javanaise",
-      "url": "https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt"
     }
   ],
   "unique_name": "This Is Iggy Pop",

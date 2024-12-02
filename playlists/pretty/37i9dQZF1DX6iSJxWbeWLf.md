@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iSJxWbeWLf.md) - [plain]
 
 > Noise, Waves, Rain...<br/>a stimulating mix to get your brain into the right flow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,904 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,988 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

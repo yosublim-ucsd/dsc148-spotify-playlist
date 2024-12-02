@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 15226,
+  "num_followers": 15283,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAACTH72W/rMsY/LxKLgDaG8w",
+  "snapshot_id": "Z0pVgAAAAACQKl7cfWbSd62OqTmOIgnB",
   "tracks": [
     {
       "added_at": null,
@@ -623,22 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Xtasy (Remix) [feat. Doechii]",
-        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
       },
       "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 270497,
-      "name": "Xtasy (Remix) [feat. Doechii]",
-      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
+      "duration_ms": 317257,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
     },
     {
       "added_at": null,
@@ -675,18 +671,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
+        "name": "Xtasy (Remix) [feat. Doechii]",
+        "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
       },
       "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
         {
           "name": "Doechii",
           "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         }
       ],
-      "duration_ms": 317257,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
+      "duration_ms": 270497,
+      "name": "Xtasy (Remix) [feat. Doechii]",
+      "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
     },
     {
       "added_at": null,

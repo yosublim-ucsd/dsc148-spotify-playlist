@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 195531,
+  "num_followers": 195547,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAARNdKsJwhywTfSj1aT4flq",
+  "snapshot_id": "Z0pVgAAAAAACIg4osONblzxSRHgTUD/K",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 211906,
-      "name": "No Llega El Olvido",
-      "url": "https://open.spotify.com/track/4xKmCXrvnvrRa7XoBIwUoZ"
+      "duration_ms": 157680,
+      "name": "Me Est\u00e1 Tirando El Rollo",
+      "url": "https://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 157680,
-      "name": "Me Est\u00e1 Tirando El Rollo",
-      "url": "https://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin"
+      "duration_ms": 211906,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/4xKmCXrvnvrRa7XoBIwUoZ"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Toda Madre",
-        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 150786,
-      "name": "Eres Dif\u00edcil",
-      "url": "https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Ti Solita",
         "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
       },
@@ -431,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Debajo De Los Laureles",
-        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
       },
       "artists": [
         {
@@ -440,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 151742,
-      "name": "Debajo De Los Laureles",
-      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
+      "duration_ms": 150786,
+      "name": "Eres Dif\u00edcil",
+      "url": "https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D"
     },
     {
       "added_at": null,
@@ -459,6 +443,22 @@
       "duration_ms": 150651,
       "name": "Experto En Fracasos (Contando Penas)",
       "url": "https://open.spotify.com/track/1eGB9VAzPMpIPCA562WrUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Debajo De Los Laureles",
+        "url": "https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 151742,
+      "name": "Debajo De Los Laureles",
+      "url": "https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Abandono, Vol. 4",
-        "url": "https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 192179,
-      "name": "Ya Se Fue",
-      "url": "https://open.spotify.com/track/4F20AZ3B6JMKvaPcTiy9GY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canto Para Ti",
         "url": "https://open.spotify.com/album/2rDITJyfozpHAZ5JusQaEK"
       },
@@ -527,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S Cool...ito",
-        "url": "https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1"
+        "name": "Tu Abandono, Vol. 4",
+        "url": "https://open.spotify.com/album/511z4jviH9R9lDQkNbwsNz"
       },
       "artists": [
         {
@@ -536,9 +520,9 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 148760,
-      "name": "S Cool...ito",
-      "url": "https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR"
+      "duration_ms": 192179,
+      "name": "Ya Se Fue",
+      "url": "https://open.spotify.com/track/4F20AZ3B6JMKvaPcTiy9GY"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
       "duration_ms": 146626,
       "name": "No Me Prometas",
       "url": "https://open.spotify.com/track/4dSsX7BuYKLTZeTNaBvNU1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S Cool...ito",
+        "url": "https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 148760,
+      "name": "S Cool...ito",
+      "url": "https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR"
     },
     {
       "added_at": null,

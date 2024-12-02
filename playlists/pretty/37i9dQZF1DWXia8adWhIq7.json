@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 101126,
+  "num_followers": 101166,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -71,18 +71,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "A Minha Raz\u00e3o (Reason I Sing)",
-        "url": "https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G"
+        "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
       },
       "artists": [
         {
-          "name": "Gabriel Brito",
-          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
         }
       ],
-      "duration_ms": 273552,
-      "name": "A Minha Raz\u00e3o (Reason I Sing)",
-      "url": "https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe"
+      "duration_ms": 246680,
+      "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -103,22 +107,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
+        "name": "A Minha Raz\u00e3o (Reason I Sing)",
+        "url": "https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G"
       },
       "artists": [
         {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+          "name": "Gabriel Brito",
+          "url": "https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm"
         }
       ],
-      "duration_ms": 246680,
-      "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
+      "duration_ms": 273552,
+      "name": "A Minha Raz\u00e3o (Reason I Sing)",
+      "url": "https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Teu Esconderijo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
+      },
+      "artists": [
+        {
+          "name": "Samuel Messias",
+          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
+        }
+      ],
+      "duration_ms": 349928,
+      "name": "Teu Esconderijo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "O Reino Vem",
         "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 198928,
       "name": "O Reino Vem",
       "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Teu Esconderijo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZcBftGYZh4v5munER2GNj"
-      },
-      "artists": [
-        {
-          "name": "Samuel Messias",
-          "url": "https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ"
-        }
-      ],
-      "duration_ms": 349928,
-      "name": "Teu Esconderijo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6xcMSxDWVG5mNJPlyI5anc"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -583,6 +583,26 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Levanto um Aleluia",
+        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
+      },
+      "artists": [
+        {
+          "name": "Anna Fernandes",
+          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
+        },
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 233261,
+      "name": "Levanto um Aleluia",
+      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Tudo Novo",
         "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 185901,
       "name": "Tudo Novo",
       "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Levanto um Aleluia",
-        "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
-      },
-      "artists": [
-        {
-          "name": "Anna Fernandes",
-          "url": "https://open.spotify.com/artist/3XM89NsDdkXwh8y9Sfsy6H"
-        },
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 233261,
-      "name": "Levanto um Aleluia",
-      "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
-        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
-      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "A Melhor Hist\u00f3ria",
         "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
       },
@@ -799,6 +779,46 @@
       "duration_ms": 196093,
       "name": "Agora",
       "url": "https://open.spotify.com/track/5EewDYykR42DHWCcRh2wO2"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
+        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
+      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Aqui Vou Eu",
+        "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
+      },
+      "artists": [
+        {
+          "name": "Ipalpha Nova",
+          "url": "https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM"
+        },
+        {
+          "name": "Ipalpha",
+          "url": "https://open.spotify.com/artist/4L2uFeD7eBwcr6HVanlvNg"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Aqui Vou Eu",
+      "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -895,26 +915,6 @@
       "duration_ms": 298703,
       "name": "Alegria - Ao Vivo",
       "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Aqui Vou Eu",
-        "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
-      },
-      "artists": [
-        {
-          "name": "Ipalpha Nova",
-          "url": "https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM"
-        },
-        {
-          "name": "Ipalpha",
-          "url": "https://open.spotify.com/artist/4L2uFeD7eBwcr6HVanlvNg"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Aqui Vou Eu",
-      "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Selo do Perd\u00e3o (Legado)",
-        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
-      },
-      "artists": [
-        {
-          "name": "Carlinhos F\u00e9lix",
-          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "Selo do Perd\u00e3o (Legado)",
-      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -1103,6 +1087,42 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Selo do Perd\u00e3o (Legado)",
+        "url": "https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q"
+      },
+      "artists": [
+        {
+          "name": "Carlinhos F\u00e9lix",
+          "url": "https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "Selo do Perd\u00e3o (Legado)",
+      "url": "https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1155,26 +1175,6 @@
       "duration_ms": 224032,
       "name": "Ousado Amor (Releitura)",
       "url": "https://open.spotify.com/track/3kZMYuFqgCrthJpawm9ekL"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Casulo",
-        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 219903,
-      "name": "Casulo",
-      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Casulo",
+        "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 219903,
+      "name": "Casulo",
+      "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Enganoso Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/3bH6OZFff0l1tkhJg28nUx"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 179280,
       "name": "Ben\u00e7\u00e3os Que N\u00e3o Tem Fim \u2022 BRAVE Pocket",
       "url": "https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "O Amor de Deus",
         "url": "https://open.spotify.com/album/515oStHHdiKU8YVM7rZi9p"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 209664,
       "name": "Eu Vou",
       "url": "https://open.spotify.com/track/1zbNUs2cbZYBkcHmm9zxAt"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2024-11-29 03:01:00",

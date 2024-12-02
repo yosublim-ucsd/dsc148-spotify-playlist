@@ -1,6 +1,6 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 63406,
+  "num_followers": 63409,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
+        "name": "Ode To Ochrasy",
+        "url": "https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf"
+      },
+      "artists": [
+        {
+          "name": "Mando Diao",
+          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Long Before Rock 'n' Roll",
+      "url": "https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI"
+    },
+    {
+      "added_at": "2024-06-24 11:47:22",
+      "album": {
         "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
         "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 255706,
       "name": "What's The Point",
       "url": "https://open.spotify.com/track/6pkmsBSvrgzFgkIIMQJxVw"
-    },
-    {
-      "added_at": "2024-06-24 11:47:22",
-      "album": {
-        "name": "Ode To Ochrasy",
-        "url": "https://open.spotify.com/album/0UC7ViK1jDzF7nBsjlnTIf"
-      },
-      "artists": [
-        {
-          "name": "Mando Diao",
-          "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Long Before Rock 'n' Roll",
-      "url": "https://open.spotify.com/track/58IZLB5bpAKQgeccRgq0ZI"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "State of the Ark",
-        "url": "https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr"
+        "name": "Broder Daniel",
+        "url": "https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk"
       },
       "artists": [
         {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+          "name": "Broder Daniel",
+          "url": "https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV"
         }
       ],
-      "duration_ms": 210643,
-      "name": "One Of Us Is Gonna Die Young",
-      "url": "https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6"
+      "duration_ms": 170826,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW"
     },
     {
       "added_at": "2024-06-24 11:47:22",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-06-24 11:47:22",
       "album": {
-        "name": "Broder Daniel",
-        "url": "https://open.spotify.com/album/7JXk1bl1rpxEOfr7ub4fvk"
+        "name": "State of the Ark",
+        "url": "https://open.spotify.com/album/1AIrHPL3eOoZBqDuMWKJbr"
       },
       "artists": [
         {
-          "name": "Broder Daniel",
-          "url": "https://open.spotify.com/artist/0IcwumPFXL1XWQ0Z9CCuCV"
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
         }
       ],
-      "duration_ms": 170826,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/0e6KwFNFCVIhbNND6e5rsW"
+      "duration_ms": 210643,
+      "name": "One Of Us Is Gonna Die Young",
+      "url": "https://open.spotify.com/track/22u5Yu7vcYEQrIwA2Y9Rj6"
     },
     {
       "added_at": "2024-06-24 11:47:22",

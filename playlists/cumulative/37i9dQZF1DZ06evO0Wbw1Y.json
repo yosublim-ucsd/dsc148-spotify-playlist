@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Siempre Navidad",
+        "url": "https://open.spotify.com/album/3inNDFBaRHruRQ9K0o3ivP"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209718,
+      "name": "Ya es Navidad - En Vivo",
+      "url": "https://open.spotify.com/track/0ZeqOO93R1uhBdRnSHTpjo"
+    },
+    {
+      "album": {
         "name": "Ya No Quiero Amarte",
         "url": "https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5"
       },

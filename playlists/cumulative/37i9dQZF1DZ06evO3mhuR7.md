@@ -4,7 +4,7 @@
 
 > This is The Orb\. The essential tracks, all in one playlist.
 
-159 songs - 18 hr 21 min
+160 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Flat Side: Seamlessly Martian Spheres of Reflection Mix: Movement 4](https://open.spotify.com/track/3iy7QnGu7UFU9tInjNnjPp) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8) | [Metallic Spheres In Colour](https://open.spotify.com/album/4Rfyk5GBsfwxVjctVoJHgs) | 9:07 | 2023-11-10 |  |
 | [From a Distance \(Blast Master V the Corpral\)](https://open.spotify.com/track/0CBbN4YIOkmYEGuJsFZNC7) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 3:55 | 2024-11-16 | 2024-11-24 |
 | [Fussball](https://open.spotify.com/track/5cZ90X5hD4SEGFtaunUg45) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [More Tales from the Orbservatory](https://open.spotify.com/album/2NOoRjZZ03QCUZjZZkfRBS) | 4:30 | 2022-05-29 |  |
-| [Gee Strings](https://open.spotify.com/track/0sL0xqRM1Hbr84JPHpG8i6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:13 | 2024-11-13 |  |
+| [Gee Strings](https://open.spotify.com/track/0sL0xqRM1Hbr84JPHpG8i6) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/194FGE9Sv4NPR3PhV5qE4f) | 5:13 | 2024-11-13 | 2024-12-02 |
+| [Gee Strings](https://open.spotify.com/track/2UYcPt2XWLN8p2PHTz2wcw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Orboretum: The Orb Collection](https://open.spotify.com/album/7tIEBx66gffGNBatufr1jZ) | 5:13 | 2024-12-02 |  |
 | [Glen Coe \[Mixed\]](https://open.spotify.com/track/6r63smEsviOfs7wXMXggwy) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Connecting The Dots \(DJ Mix\)](https://open.spotify.com/album/46L9tNr4y1nCwpwDkYIyIT) | 4:54 | 2023-01-02 | 2023-02-04 |
 | [Go Down Evil](https://open.spotify.com/track/79AofcxiLVPQ2E0t8JgBSJ) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF), [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Presents the Orbserver in the Star House](https://open.spotify.com/album/6w2RmVdD0JqHDyeYOlzhIm) | 5:29 | 2022-06-07 | 2022-10-11 |
 | [God's Mirrorball](https://open.spotify.com/track/1AiexVTC5gIpLkIxhCX4sw) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Moonbuilding 2703 AD](https://open.spotify.com/album/1pSigtLUTHraLsmmc1PYAv) | 14:44 | 2022-05-31 | 2022-10-13 |

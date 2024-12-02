@@ -1,13 +1,45 @@
 {
   "description": "Generations of blood have lead to this. Listen to the music from Yellowstone, airing Sundays on Paramount Network. ",
-  "num_followers": 552542,
+  "num_followers": 553278,
   "original_name": "Yellowstone Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0YfnAAAAACbhPJRMej51IasW0EiBhUb",
+  "snapshot_id": "Z00UoAAAAADFAzqCsnLmQ1P/5EesXskj",
   "tracks": [
+    {
+      "added_at": "2024-12-02 02:00:00",
+      "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
+    },
+    {
+      "added_at": "2024-12-02 02:00:00",
+      "album": {
+        "name": "Larry Fleet - The Live Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/1jgfbaEDQK3WCAZ6tBoKaV"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "duration_ms": 210852,
+      "name": "Highway Feet (Live)",
+      "url": "https://open.spotify.com/track/6PTb2dKVMu8o6sViB3df7Z"
+    },
     {
       "added_at": "2024-11-26 19:21:00",
       "album": {

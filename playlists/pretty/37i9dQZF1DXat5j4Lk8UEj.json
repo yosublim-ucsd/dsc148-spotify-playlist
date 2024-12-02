@@ -1,6 +1,6 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & The Night Sweats",
-  "num_followers": 488442,
+  "num_followers": 488441,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Old Sob Story",
-        "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Old Sob Story",
-      "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Kitchen Table",
         "url": "https://open.spotify.com/album/7zTtcqJ0SCAXuiALhxNEi0"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 208800,
       "name": "Kitchen Table",
       "url": "https://open.spotify.com/track/1XxLV1Ag179JlXq1gwICcl"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "Aquatic Flowers",
+        "url": "https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV"
+      },
+      "artists": [
+        {
+          "name": "Tristen",
+          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+        }
+      ],
+      "duration_ms": 228720,
+      "name": "Complex",
+      "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Aquatic Flowers",
-        "url": "https://open.spotify.com/album/47NZrIYd31OR7PJQioOkWV"
+        "name": "Old Sob Story",
+        "url": "https://open.spotify.com/album/3fnFtGjNgtLYd0CSnYp3Z9"
       },
       "artists": [
         {
-          "name": "Tristen",
-          "url": "https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo"
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
         }
       ],
-      "duration_ms": 228720,
-      "name": "Complex",
-      "url": "https://open.spotify.com/track/61H97kuKIpi6kJQRnUEIlh"
+      "duration_ms": 196160,
+      "name": "Old Sob Story",
+      "url": "https://open.spotify.com/track/7Akh76oQE1crm0aIz9B7IK"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1135,6 +1135,26 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
+        "name": "Miko Marks | OurVinyl Sessions",
+        "url": "https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "OurVinyl",
+          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+        }
+      ],
+      "duration_ms": 281045,
+      "name": "Feel Like Going Home (OurVinyl Sessions)",
+      "url": "https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
       },
@@ -1155,22 +1175,18 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Miko Marks | OurVinyl Sessions",
-        "url": "https://open.spotify.com/album/1jYR4r6R2gWLtGQYPbm4qR"
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
       },
       "artists": [
         {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        },
-        {
-          "name": "OurVinyl",
-          "url": "https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae"
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
         }
       ],
-      "duration_ms": 281045,
-      "name": "Feel Like Going Home (OurVinyl Sessions)",
-      "url": "https://open.spotify.com/track/4g61d4q3CjcywFQy5dP5pu"
+      "duration_ms": 280826,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 206720,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/6KQEt8QOhdwp5QPtofFQAC"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
-        "name": "Evergreen",
-        "url": "https://open.spotify.com/album/00MHXpbaXylI2b4eQ5b5SB"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/0rDOZAwa5hpOIFvej2yBIU"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Pain Shifter",
-        "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
-      },
-      "artists": [
-        {
-          "name": "W. B. Wooten",
-          "url": "https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Pain Shifter",
-      "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Suffering",
         "url": "https://open.spotify.com/album/14eVN7m47S442flao2wtFa"
       },
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+        "name": "Pain Shifter",
+        "url": "https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "W. B. Wooten",
+          "url": "https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk"
         }
       ],
-      "duration_ms": 216120,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
+      "duration_ms": 224000,
+      "name": "Pain Shifter",
+      "url": "https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 197400,
       "name": "Proximity",
       "url": "https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
     },
     {
       "added_at": "2024-10-15 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Shaken",
-        "url": "https://open.spotify.com/album/0tsawKgTplw8ILM9tkIpIs"
-      },
-      "artists": [
-        {
-          "name": "David Shaw",
-          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
-        }
-      ],
-      "duration_ms": 235591,
-      "name": "Shaken",
-      "url": "https://open.spotify.com/track/1vrowatdp0nH5e5iAnNFqx"
-    },
-    {
-      "added_at": "2024-10-15 04:00:00",
-      "album": {
         "name": "Over Me",
         "url": "https://open.spotify.com/album/0xQyYIK2Kzj3Eu2bcs7jbz"
       },
@@ -1623,18 +1607,34 @@
     {
       "added_at": "2024-10-15 04:00:00",
       "album": {
-        "name": "Strange to Explain [More Strange (Deluxe Edition)]",
-        "url": "https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG"
+        "name": "Shaken",
+        "url": "https://open.spotify.com/album/0tsawKgTplw8ILM9tkIpIs"
       },
       "artists": [
         {
-          "name": "Woods",
-          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+          "name": "David Shaw",
+          "url": "https://open.spotify.com/artist/6CzswKAZkHvgH3qu6wqkHe"
         }
       ],
-      "duration_ms": 231359,
-      "name": "Daylight Push",
-      "url": "https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV"
+      "duration_ms": 235591,
+      "name": "Shaken",
+      "url": "https://open.spotify.com/track/1vrowatdp0nH5e5iAnNFqx"
+    },
+    {
+      "added_at": "2024-10-15 04:00:00",
+      "album": {
+        "name": "Cyclades",
+        "url": "https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga"
+      },
+      "artists": [
+        {
+          "name": "Buck Meek",
+          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
+        }
+      ],
+      "duration_ms": 284538,
+      "name": "Cyclades",
+      "url": "https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel"
     }
   ],
   "unique_name": "Folk Rock Favorites",

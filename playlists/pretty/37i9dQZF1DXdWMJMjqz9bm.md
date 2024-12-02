@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,807 likes - 39 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,795 likes - 39 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

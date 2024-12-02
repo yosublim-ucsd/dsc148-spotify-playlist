@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,640,621 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,640,611 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 25 | [Legends Never Die \- \(Remix\)](https://open.spotify.com/track/66YtIqT0kN4958EXnCnAmE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Legends Never Die \(Remix\)](https://open.spotify.com/album/2cRJKhNgs1Snq7bV4ELLho) | 2:47 |
 | 26 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
 | 27 | [Lost Control](https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:42 |
-| 28 | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/track/45eYAsl4BoGXERKu1NurjG) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/album/0wAvinEDstgyEyf3Txrw0Z) | 2:20 |
-| 29 | [Lifeline](https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 3:22 |
+| 28 | [Lifeline](https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 3:22 |
+| 29 | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/track/45eYAsl4BoGXERKu1NurjG) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [When I Grow Up \(Young, Wild, & Free\)](https://open.spotify.com/album/0wAvinEDstgyEyf3Txrw0Z) | 2:20 |
 | 30 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
 | 31 | [Heart over Mind](https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 3:09 |
 | 32 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [Hello World](https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [Hello World](https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era) | 2:51 |
 | 50 | [Team Side Feat\. RCB](https://open.spotify.com/track/4YHA0wXklru86h1N211Ywh) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Team Side Feat\. RCB](https://open.spotify.com/album/6bxJPyjZuWGRxE825Wy2wk) | 3:00 |
 
-Snapshot ID: `Z0kEAAAAAADbGmYj+7UEcnXyNWZmChBa`
+Snapshot ID: `Z0pVgAAAAAC/441flz52ZCzu0AKc3b+O`

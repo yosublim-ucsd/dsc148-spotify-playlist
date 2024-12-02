@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 37663,
+  "num_followers": 37682,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAB1rMnvechUkLBK/jRne5N1",
+  "snapshot_id": "Z0pVgAAAAADaOMvdocfL8JzfZKy8ldKI",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Chillar a otra parte",
-        "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "A Chillar a otra parte",
-      "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dicen y Dicen",
         "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 173135,
       "name": "Dicen y Dicen",
       "url": "https://open.spotify.com/track/6mzQvzXGWVoNjWhdhup27l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Chillar a otra parte",
+        "url": "https://open.spotify.com/album/4ph9RG0taaHcR6LlXbtHYW"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "A Chillar a otra parte",
+      "url": "https://open.spotify.com/track/6dAYjYfWJvETKJOCm36jGH"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
       "duration_ms": 191600,
       "name": "El Piyi",
       "url": "https://open.spotify.com/track/2H2FRs6FumXmwjkxcOggU4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Cans\u00f3 (En Vivo)",
-        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 194634,
-      "name": "Se Cans\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Se Cans\u00f3 (En Vivo)",
+        "url": "https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 194634,
+      "name": "Se Cans\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Envidia Se Dio Cuenta (En Vivo)",
         "url": "https://open.spotify.com/album/1pivskZf20uDpQV21sjkN3"
       },
@@ -455,6 +455,26 @@
       "duration_ms": 206271,
       "name": "La Envidia Se Dio Cuenta - En Vivo",
       "url": "https://open.spotify.com/track/7qpl6cleWADFbhMifTBkPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 224378,
+      "name": "Hermosura de Mujer",
+      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
     },
     {
       "added_at": null,
@@ -495,26 +515,6 @@
       "duration_ms": 224448,
       "name": "El Michoacano",
       "url": "https://open.spotify.com/track/0W3reeRq2mS49FCo8bRzGY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 224378,
-      "name": "Hermosura de Mujer",
-      "url": "https://open.spotify.com/track/19vV1i1AluuK7mQcJmM5GZ"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Botecitos",
         "url": "https://open.spotify.com/album/38L08sUpbs7QhNtmb6K1xk"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 188138,
       "name": "Botecitos",
       "url": "https://open.spotify.com/track/4Ltzmv1TvehQUomNWwgm7Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Fruta Prohibida - En Vivo",
-      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     },
     {
       "added_at": null,

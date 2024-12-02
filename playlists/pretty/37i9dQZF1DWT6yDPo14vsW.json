@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? \u00bfAmor o Desamor?",
-  "num_followers": 335138,
+  "num_followers": 335178,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "La Media Vuelta",
+      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -175,6 +191,22 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -191,22 +223,6 @@
       "duration_ms": 225812,
       "name": "Inolvidable",
       "url": "https://open.spotify.com/track/0OTtnwUO8natNWSwdZvXVF"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "La Media Vuelta",
-      "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -291,18 +307,34 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -355,34 +387,18 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "La Incondicional",
-      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+      "duration_ms": 196360,
+      "name": "Nada Valgo Sin Tu Amor",
+      "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -403,6 +419,22 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW"
       },
@@ -419,18 +451,18 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Nada Valgo Sin Tu Amor",
-      "url": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -487,6 +519,22 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
+        "name": "La Vida Es Un Ratico",
+        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "Me Enamora",
+      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
         "name": "Dreaming Of You",
         "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
@@ -519,54 +567,6 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "La Vida Es Un Ratico",
-        "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 192613,
-      "name": "Me Enamora",
-      "url": "https://open.spotify.com/track/5BY0p2EH4EznNZ0MFD9mjt"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
         "name": "Silueta",
         "url": "https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0"
       },
@@ -579,6 +579,22 @@
       "duration_ms": 256706,
       "name": "Evidencias",
       "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -599,6 +615,26 @@
       "duration_ms": 191426,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/4jMu6QYon1JEikcdTJ1TzR"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Por Amor A Mi Pueblo",
+        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 299626,
+      "name": "Ser\u00e1 Mejor Que Te Vayas",
+      "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -635,22 +671,6 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "S\u00f3lo para Ti",
-      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
         "name": "La Vida Es Un Ratico",
         "url": "https://open.spotify.com/album/0TFz2Xw2kzFlcYFGetcCMY"
       },
@@ -667,38 +687,18 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
         }
       ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "Por Amor A Mi Pueblo",
-        "url": "https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        },
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 299626,
-      "name": "Ser\u00e1 Mejor Que Te Vayas",
-      "url": "https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t"
+      "duration_ms": 182520,
+      "name": "S\u00f3lo para Ti",
+      "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
+        "name": "Quiz\u00e1s",
+        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 251186,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Quiz\u00e1s",
-        "url": "https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 251186,
-      "name": "Quiz\u00e1s",
-      "url": "https://open.spotify.com/track/1iC6iDolyChCB8wTBujAff"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -979,6 +979,22 @@
       "duration_ms": 281640,
       "name": "A Medio Vivir",
       "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 285520,
+      "name": "Aquello que me diste",
+      "url": "https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1035,22 +1051,6 @@
       "duration_ms": 381253,
       "name": "La Gloria de Dios (feat. Evaluna Montaner)",
       "url": "https://open.spotify.com/track/2SXA7iCdyfpIr2fpsYpf8U"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 285520,
-      "name": "Aquello que me diste",
-      "url": "https://open.spotify.com/track/5iua35KoPKyet49uHr7aaU"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Destino",
-        "url": "https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS"
-      },
-      "artists": [
-        {
-          "name": "Antonio Orozco",
-          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
-        }
-      ],
-      "duration_ms": 234964,
-      "name": "Mi H\u00e9roe",
-      "url": "https://open.spotify.com/track/01SoeJJ3ICXaWLBp1jnWk8"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
         "name": "40 A\u00f1os",
         "url": "https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 291946,
       "name": "O Me Voy O Te Vas",
       "url": "https://open.spotify.com/track/5HfJ5uKjuwike6nQxN5H3X"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Destino",
+        "url": "https://open.spotify.com/album/7ntYRtIyF3vFEDORFx91VS"
+      },
+      "artists": [
+        {
+          "name": "Antonio Orozco",
+          "url": "https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf"
+        }
+      ],
+      "duration_ms": 234964,
+      "name": "Mi H\u00e9roe",
+      "url": "https://open.spotify.com/track/01SoeJJ3ICXaWLBp1jnWk8"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5"
+        }
+      ],
+      "duration_ms": 271226,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
         "name": "Ida y Vuelta",
         "url": "https://open.spotify.com/album/7wbN3pVycBy58CMBN5IoiR"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 245133,
       "name": "Qu\u00e9 Voy a Hacer Con Mi Amor",
       "url": "https://open.spotify.com/track/2H2Tg24kqd1eA3F7BSQFSi"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/70fbl3TF1Eht9jXFBK8Mjt"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/5pZzGLzYwZkcK4edz7qLR5"
-        }
-      ],
-      "duration_ms": 271226,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/0sQ363WVeWIrUopUnj0jTA"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Desde Siempre",
-        "url": "https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
         "name": "Amar es Combatir",
         "url": "https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 292120,
       "name": "El Rey Tibur\u00f3n",
       "url": "https://open.spotify.com/track/1PYZtMbLD4vrpGYEVij0eS"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Desde Siempre",
+        "url": "https://open.spotify.com/album/7GFpQchXpnoqDimteHViUX"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/4SjWlauTM2FSmHfe62rDPW"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj"
-      },
-      "artists": [
-        {
-          "name": "Ednita Nazario",
-          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
-        }
-      ],
-      "duration_ms": 252426,
-      "name": "A Que No Le Cuentas",
-      "url": "https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
         "name": "Solo Bolero",
         "url": "https://open.spotify.com/album/3nJmMv3vx8sLOUNiybShch"
       },
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2024-11-18 22:05:27",
       "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/6HtnxyCP7gbCbrxVLY93Yj"
+      },
+      "artists": [
+        {
+          "name": "Ednita Nazario",
+          "url": "https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P"
+        }
+      ],
+      "duration_ms": 252426,
+      "name": "A Que No Le Cuentas",
+      "url": "https://open.spotify.com/track/3WDNKy17AbatmDeMwSjzbj"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
         "name": "Tanto (Nueva edici\u00f3n)",
         "url": "https://open.spotify.com/album/6mRiYnPpz8qdoY91s1c4H4"
       },
@@ -1603,38 +1603,6 @@
       "duration_ms": 247186,
       "name": "Solamente t\u00fa",
       "url": "https://open.spotify.com/track/7vd2YXwqxAG2BGuEUoMzGl"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "Ricky Martin",
-        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 294906,
-      "name": "Bella (She's All I Ever Had)",
-      "url": "https://open.spotify.com/track/5u1BrOqDnQdguBbgoeeEf1"
-    },
-    {
-      "added_at": "2024-11-18 22:05:27",
-      "album": {
-        "name": "Sincero",
-        "url": "https://open.spotify.com/album/03dnIimGspec4sucffQWLO"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Cuidarte el Alma",
-      "url": "https://open.spotify.com/track/71nUOi1nLOt5KppAIeA8X4"
     },
     {
       "added_at": "2024-11-18 22:05:27",
@@ -1667,6 +1635,38 @@
       "duration_ms": 317626,
       "name": "Labios Compartidos",
       "url": "https://open.spotify.com/track/0vyEatwgB5xaBkmyXWqf3x"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Sincero",
+        "url": "https://open.spotify.com/album/03dnIimGspec4sucffQWLO"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "Cuidarte el Alma",
+      "url": "https://open.spotify.com/track/71nUOi1nLOt5KppAIeA8X4"
+    },
+    {
+      "added_at": "2024-11-18 22:05:27",
+      "album": {
+        "name": "Ricky Martin",
+        "url": "https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 294906,
+      "name": "Bella (She's All I Ever Had)",
+      "url": "https://open.spotify.com/track/5u1BrOqDnQdguBbgoeeEf1"
     },
     {
       "added_at": "2024-11-18 22:05:27",

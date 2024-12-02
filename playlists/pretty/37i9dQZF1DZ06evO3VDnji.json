@@ -1,33 +1,13 @@
 {
   "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 68066,
+  "num_followers": 68086,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAABEymRWHZqwDlEp8c1szvF9",
+  "snapshot_id": "Z0pVgAAAAAAb5nk1laOJDm7WYumL4Kgo",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coraz\u00f3n Fr\u00edo",
-        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 263810,
-      "name": "Coraz\u00f3n Fr\u00edo",
-      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 244245,
       "name": "Cielo Eterno - Spotify Singles",
       "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coraz\u00f3n Fr\u00edo",
+        "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 263810,
+      "name": "Coraz\u00f3n Fr\u00edo",
+      "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "24:7",
+        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 181511,
+      "name": "24:7",
+      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Tormenta (feat. DannyLux)",
         "url": "https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 202479,
       "name": "Mi Tormenta (feat. DannyLux)",
       "url": "https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24:7",
-        "url": "https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 181511,
-      "name": "24:7",
-      "url": "https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DLUX",
+        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 319620,
+      "name": "AMAR Y PERDER",
+      "url": "https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 239420,
       "name": "Me Decepcionaste",
       "url": "https://open.spotify.com/track/3pyRKwok4VX601iNJTPgNl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DLUX",
-        "url": "https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 319620,
-      "name": "AMAR Y PERDER",
-      "url": "https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 185290,
+      "name": "Nos Pertenecemos",
+      "url": "https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lluvia Y Sol",
         "url": "https://open.spotify.com/album/7A2PTwonSaI9wGZj2Te7K8"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 222191,
       "name": "Me Voy Contigo",
       "url": "https://open.spotify.com/track/6BNaBJvHM85qDtsw9pUCD0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/55KfSnGyQ3GinF9smV4J8c"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 185290,
-      "name": "Nos Pertenecemos",
-      "url": "https://open.spotify.com/track/7adiaSAw1ij3ZAyzteXHLh"
     },
     {
       "added_at": null,

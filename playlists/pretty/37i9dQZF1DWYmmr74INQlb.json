@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 20 years of \"Destiny Fulfilled\". Cover: Destiny's Child",
-  "num_followers": 4729370,
+  "num_followers": 4729539,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
@@ -281,6 +281,22 @@
       "url": "https://open.spotify.com/track/7Lf7oSEVdzZqTA0kEDSlS5"
     },
     {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Songs In A Minor",
+        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
+    },
+    {
       "added_at": "2023-09-14 14:32:45",
       "album": {
         "name": "Because Of You",
@@ -295,22 +311,6 @@
       "duration_ms": 266840,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Cassie (U.S. Version)",
-        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
-      },
-      "artists": [
-        {
-          "name": "Cassie",
-          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
-        }
-      ],
-      "duration_ms": 220639,
-      "name": "Long Way 2 Go",
-      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -331,22 +331,6 @@
       "duration_ms": 273133,
       "name": "You",
       "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Songs In A Minor",
-        "url": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -381,6 +365,22 @@
       "url": "https://open.spotify.com/track/0DLOyyQvwPTSDKuhpzMMwA"
     },
     {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Cassie (U.S. Version)",
+        "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
+      },
+      "artists": [
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "duration_ms": 220639,
+      "name": "Long Way 2 Go",
+      "url": "https://open.spotify.com/track/4v5kAh2wWyCSuKuhMJK8u6"
+    },
+    {
       "added_at": "2022-02-11 05:00:00",
       "album": {
         "name": "Let Me Love You",
@@ -411,22 +411,6 @@
       "duration_ms": 238733,
       "name": "Didn't Cha Know",
       "url": "https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi"
-    },
-    {
-      "added_at": "2023-09-14 14:32:45",
-      "album": {
-        "name": "In My Own Words",
-        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
-      },
-      "artists": [
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "Sexy Love",
-      "url": "https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK"
     },
     {
       "added_at": "2022-08-22 09:03:37",
@@ -477,6 +461,22 @@
       "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
+      "added_at": "2023-09-14 14:32:45",
+      "album": {
+        "name": "In My Own Words",
+        "url": "https://open.spotify.com/album/6gkwOLmk0ALMOjWs5WhAEr"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "Sexy Love",
+      "url": "https://open.spotify.com/track/10aWGOqSDBqvNzJ9NeKDbK"
+    },
+    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Invincible",
@@ -491,38 +491,6 @@
       "duration_ms": 288533,
       "name": "Heaven Can Wait",
       "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "How Do I Breathe",
-      "url": "https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "8701",
-        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
-      },
-      "artists": [
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "U Got It Bad",
-      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -563,6 +531,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "How Do I Breathe",
+      "url": "https://open.spotify.com/track/174rZBKJAqD10VBnOjlQQ3"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "Exclusive (Expanded Edition)",
         "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "My Name Is Joe",
-        "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
+        "name": "8701",
+        "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
       "artists": [
         {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 296693,
-      "name": "I Wanna Know",
-      "url": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
+      "duration_ms": 247840,
+      "name": "U Got It Bad",
+      "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -607,6 +591,22 @@
       "duration_ms": 246333,
       "name": "Be Without You - Kendu Mix",
       "url": "https://open.spotify.com/track/6Y3WvyUG9iE5bQYg38SPtQ"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "My Name Is Joe",
+        "url": "https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U"
+      },
+      "artists": [
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "I Wanna Know",
+      "url": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
     },
     {
       "added_at": "2023-06-20 16:00:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
+        "name": "Back Of My Lac'",
+        "url": "https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI"
+      },
+      "artists": [
+        {
+          "name": "J. Holiday",
+          "url": "https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk"
+        }
+      ],
+      "duration_ms": 275106,
+      "name": "Bed",
+      "url": "https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
         "name": "Goodies",
         "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 256346,
       "name": "Oh (feat. Ludacris)",
       "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Back Of My Lac'",
-        "url": "https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI"
-      },
-      "artists": [
-        {
-          "name": "J. Holiday",
-          "url": "https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk"
-        }
-      ],
-      "duration_ms": 275106,
-      "name": "Bed",
-      "url": "https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1077,22 +1077,6 @@
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Way It Is",
-        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 327693,
-      "name": "I Should Have Cheated",
-      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Love Vs Money",
@@ -1123,6 +1107,22 @@
       "duration_ms": 266306,
       "name": "Bust Your Windows",
       "url": "https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
+      },
+      "artists": [
+        {
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+        }
+      ],
+      "duration_ms": 327693,
+      "name": "I Should Have Cheated",
+      "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
     },
     {
       "added_at": "2022-08-21 20:37:58",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Aijuswanaseing",
-        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 251426,
-      "name": "Just Friends (Sunny)",
-      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 279160,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Aijuswanaseing",
+        "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 251426,
+      "name": "Just Friends (Sunny)",
+      "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1439,30 +1439,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 325573,
-      "name": "Soldier (feat. T.I. & Lil' Wayne)",
-      "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 284666,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 325573,
+      "name": "Soldier (feat. T.I. & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
     },
     {
       "added_at": "2022-08-21 11:22:08",

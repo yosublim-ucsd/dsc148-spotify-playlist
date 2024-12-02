@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-307 songs - 18 hr 46 min
+308 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [La Pollera Colora](https://open.spotify.com/track/5aR6lC6PrUv9wwOboa5SJ8) | [Pedro Salcedo Y Su Orquesta](https://open.spotify.com/artist/7diM9Jal2nOMuDlVif49Yw) | [The Afrosound Of Colombia, Vol\. 3](https://open.spotify.com/album/7lvGda7Ft342WlhlPyBDCk) | 2:40 | 2023-11-09 | 2024-04-19 |
 | [La Pollera Colorá](https://open.spotify.com/track/6OzXCNNTfqX9BPQZFWbDyh) | [Pedro Salcedo](https://open.spotify.com/artist/45068sb2JWsdsk1xWwhLV3), [Wilson Choperena](https://open.spotify.com/artist/2mKu6bBLXGOUgDXsVFT656) | [Ídolos Bailables](https://open.spotify.com/album/38tLtO44etS4uzf1ezQpMg) | 2:38 | 2024-09-01 | 2024-10-18 |
 | [La Que Se Fue Se Fue](https://open.spotify.com/track/5VJW5ZzcOi17zdaunhSBZt) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Ranchero y Atrevido](https://open.spotify.com/album/02HmfwcdkqNuSLQ4BeZdlD) | 3:32 | 2023-02-03 | 2024-09-02 |
+| [La Rigola](https://open.spotify.com/track/5UpGVIYJvPyyMtH0IOnIya) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 3:11 | 2024-11-01 |  |
 | [La Suavecita](https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Música Tropical de Colombia, Vol\. 17](https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT) | 3:55 | 2023-11-09 | 2024-04-19 |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 | 2023-11-09 | 2024-04-19 |
 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 | 2023-02-03 | 2024-09-02 |
@@ -232,7 +233,7 @@
 | [Pagarás](https://open.spotify.com/track/5igVHLfyiWUXv9TjJU1XEa) | [Edgar Leandro](https://open.spotify.com/artist/10d4JDi4JARDgNucikrAcA) | [Éxitos Bailables de Siempre, Vol\. 4](https://open.spotify.com/album/3ozQLqRdVEcla43RGBZwTx) | 3:43 | 2023-12-20 | 2024-04-19 |
 | [Pagarás](https://open.spotify.com/track/5kVDY6RkFwR5Wj0GvH9ZOg) | [Edgar Leandro](https://open.spotify.com/artist/10d4JDi4JARDgNucikrAcA) | [20 Exitos Bailables](https://open.spotify.com/album/64HBjDa4l6wCRAreC1mSsX) | 3:48 | 2023-11-09 | 2023-12-14 |
 | [Pedacito de Mi Vida](https://open.spotify.com/track/7tlRIkYOBsmcVAjGGzgHTD) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [A Santa Bárbara..\. ¡Que Viva Chango!](https://open.spotify.com/album/09JAUsbiYp4oHukB0P7dYE) | 2:53 | 2023-11-09 | 2024-04-19 |
-| [Pedacito de Mi Vida](https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo) | [Los Lideres](https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:00 | 2024-09-01 |  |
+| [Pedacito de Mi Vida](https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo) | [Los Lideres](https://open.spotify.com/artist/42FkXaqeCMzkbTCZC52TFn) | [Tequendama de Oro, Vol\. 4](https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku) | 3:00 | 2024-09-01 | 2024-12-02 |
 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 | 2023-11-09 |  |
 | [Pirulino](https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs) | [Los Golden Boys](https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh), [Benny Marquez](https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J) | [Éxitos los Golden Boys](https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO) | 2:38 | 2023-12-20 | 2024-10-26 |
 | [Plegaria](https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Rescatando los Éxitos Originales de Long Play](https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51) | 3:27 | 2023-12-20 | 2024-07-16 |

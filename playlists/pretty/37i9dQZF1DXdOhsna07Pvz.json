@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 82814,
+  "num_followers": 82906,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+      },
+      "artists": [
+        {
+          "name": "Alceu Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+        }
+      ],
+      "duration_ms": 288160,
+      "name": "Anuncia\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
       },
@@ -143,38 +159,6 @@
       "duration_ms": 247533,
       "name": "Fullg\u00e1s",
       "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
-        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
-      },
-      "artists": [
-        {
-          "name": "Alceu Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
-        }
-      ],
-      "duration_ms": 288160,
-      "name": "Anuncia\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -227,6 +211,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
       },
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Lil\u00e1s",
-        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
-      },
-      "artists": [
-        {
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Lil\u00e1s",
-      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Duas Cidades",
         "url": "https://open.spotify.com/album/6ArV7cwxuSK0B6Gh1Hn5EI"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 246280,
       "name": "Lucro (Descomprimindo)",
       "url": "https://open.spotify.com/track/0ME0VSbe5nYsXf9V5IFZsd"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Lil\u00e1s",
+        "url": "https://open.spotify.com/album/1FbOGgnq17jjkK5CqdgzqX"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Lil\u00e1s",
+      "url": "https://open.spotify.com/track/0V0DEGw7N5KlubvARp4VOm"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -323,6 +323,22 @@
       "duration_ms": 170649,
       "name": "Corpo Sensual (feat. Mateus Carrilho)",
       "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Que Falta Voc\u00ea Me Faz",
+        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Samba da B\u00ean\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -371,22 +387,6 @@
       "duration_ms": 267266,
       "name": "Quando Voc\u00ea Olha Pra Ela",
       "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Que Falta Voc\u00ea Me Faz",
-        "url": "https://open.spotify.com/album/32OEAAkXqmtVjP1ZjCopWs"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Samba da B\u00ean\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2moGHNaU8a4j1iowyOiYnF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Gal Canta Caetano",
+        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 284160,
+      "name": "Vaca Profana",
+      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 234893,
       "name": "Chega Mais",
       "url": "https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Gal Canta Caetano",
-        "url": "https://open.spotify.com/album/2881CXCKtljZRNdKMerwYV"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 284160,
-      "name": "Vaca Profana",
-      "url": "https://open.spotify.com/track/1viMg0yGmgWy1EeR7CNeyF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Canto Das Tr\u00eas Ra\u00e7as",
+        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Chega",
         "url": "https://open.spotify.com/album/6TfxuhBfZuvtrP5Zfx3w8m"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 234373,
       "name": "Festa de Umbanda",
       "url": "https://open.spotify.com/track/4auEly6WQF3aHdaP6CGqza"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Canto Das Tr\u00eas Ra\u00e7as",
-        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Brasil Pandeiro",
-      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Tropix",
         "url": "https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4"
       },
@@ -835,22 +819,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Focus On...500 Years Of Brazil",
-        "url": "https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Maria Rita",
         "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
       },
@@ -863,6 +831,22 @@
       "duration_ms": 204093,
       "name": "Agora s\u00f3 falta voc\u00ea",
       "url": "https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Focus On...500 Years Of Brazil",
+        "url": "https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 168400,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -883,6 +867,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Los Sebosos Postizos Interpretam Jorge Ben Jor",
         "url": "https://open.spotify.com/album/4nGU7VtQYF9rIpN0cXrThb"
       },
@@ -895,22 +895,6 @@
       "duration_ms": 248106,
       "name": "Minha Teimosia, uma Arma pra Te Conquistar",
       "url": "https://open.spotify.com/track/0bgMcNCgj6fhJXxnQ0LADj"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Acabou Chorare",
-        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
-      },
-      "artists": [
-        {
-          "name": "Novos Baianos",
-          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
-        }
-      ],
-      "duration_ms": 264933,
-      "name": "Besta \u00e9 Tu",
-      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -951,22 +935,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Brazilian Compilation Series, Vol. 2",
-        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
-      },
-      "artists": [
-        {
-          "name": "Joutro Mundo",
-          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
-        }
-      ],
-      "duration_ms": 304144,
-      "name": "Nao Force",
-      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Gal Tropical",
         "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
@@ -979,6 +947,38 @@
       "duration_ms": 226000,
       "name": "Meu Nome \u00c9 Gal",
       "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Acabou Chorare",
+        "url": "https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi"
+      },
+      "artists": [
+        {
+          "name": "Novos Baianos",
+          "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
+        }
+      ],
+      "duration_ms": 264933,
+      "name": "Besta \u00e9 Tu",
+      "url": "https://open.spotify.com/track/79Lam1bAWszDiRLTH2V4ue"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Brazilian Compilation Series, Vol. 2",
+        "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
+      },
+      "artists": [
+        {
+          "name": "Joutro Mundo",
+          "url": "https://open.spotify.com/artist/4MxrlfForvSCDswZBxZLR3"
+        }
+      ],
+      "duration_ms": 304144,
+      "name": "Nao Force",
+      "url": "https://open.spotify.com/track/0UuoMK1ZXkyXJcmHS2AFQD"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Extra",
+        "url": "https://open.spotify.com/album/0VNaBMs07ff7XSeSGATUgD"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 354813,
+      "name": "Extra",
+      "url": "https://open.spotify.com/track/3GS0CICQvKGCQcI7lNalcT"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Braseiro",
         "url": "https://open.spotify.com/album/4yBbmSMmZqnLXKjscI0Q2x"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 233426,
       "name": "Pelas Tabelas",
       "url": "https://open.spotify.com/track/5E8D8xyRm113aCdV5JfJvA"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Mudei de Ideia",
-        "url": "https://open.spotify.com/album/0zblsLfCD9smWpW0gZhgaw"
-      },
-      "artists": [
-        {
-          "name": "Antonio Carlos & Jocafi",
-          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
-        }
-      ],
-      "duration_ms": 141800,
-      "name": "Kabaluere",
-      "url": "https://open.spotify.com/track/3vSb3Tq7A51VIYfZDSEEBs"
     }
   ],
   "unique_name": "Baile Maravilha",

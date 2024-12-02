@@ -4,7 +4,7 @@
 
 > 日本で活躍するボーイズグループを特集。cover: Hey! Say! JUMP
 
-366 songs - 21 hr 2 min
+367 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [ブレイクライン](https://open.spotify.com/track/3GGkjydRMWrCXeQmvwmIeP) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [ブレイクライン](https://open.spotify.com/album/0mlnvdLh3Ew8ifBg6ybayZ) | 3:50 | 2024-05-28 | 2024-07-31 |
 | [ボーイミーツガール](https://open.spotify.com/track/76KprgosMWIsGJ7FcRhiLC) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Re:ERA](https://open.spotify.com/album/4Dsd6boYRsiex8m6hFYaLj) | 4:02 | 2024-10-16 |  |
 | [マルチバース・アドベンチャー](https://open.spotify.com/track/73bwO8YNQzVwEld8c0yr1U) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [マルチバース・アドベンチャー](https://open.spotify.com/album/27EpiaJQCaaayXxo4ZLfIP) | 3:16 | 2024-02-13 | 2024-04-24 |
+| [ミチシルベ](https://open.spotify.com/track/0Dx6dBcoYJ36Jd5TlVQuMz) | [IMP.](https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1) | [ミチシルベ](https://open.spotify.com/album/052jurik7u7naYKyLCL8n0) | 3:17 | 2024-11-26 |  |
 | [世界を明るく照らしましょう](https://open.spotify.com/track/4ngH59pzL0tAtBQDn5AKRW) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [世界を明るく照らしましょう](https://open.spotify.com/album/1OJngpGVsQCYAmy0DqkOhv) | 3:47 | 2024-09-17 | 2024-10-30 |
 | [五月雨 \(Samidare\)](https://open.spotify.com/track/7tXjyOod2TlM9g447E8NUn) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [五月雨 \(Samidare\)](https://open.spotify.com/album/2I0nlM24jBs20fWzSwUfLE) | 3:11 | 2024-05-07 |  |
 | [共闘 feat\. RYOKI from BE:FIRST](https://open.spotify.com/track/4yhuShHeIeTJYKmQcMAYJC) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa), [RYOKI](https://open.spotify.com/artist/5wTRBlhKerluU2z9KGtdFm) | [共闘 feat\. RYOKI from BE:FIRST](https://open.spotify.com/album/1Bnpg0kRAWkmCkxIN1aEwU) | 2:56 | 2024-04-16 | 2024-05-22 |
@@ -365,7 +366,7 @@
 | [旅立ちの鐘](https://open.spotify.com/track/6eftqGjcyB4Mfs9MoM0tdw) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [旅立ちの鐘](https://open.spotify.com/album/1daK7g4CFGbGURS9fJktDX) | 4:41 | 2024-04-09 | 2024-04-24 |
 | [東京](https://open.spotify.com/track/31xA4TPoXLmhcTlatMWZWm) | [林 和希](https://open.spotify.com/artist/2QT3HyGIWurcFoP3sbtK6E) | [東京](https://open.spotify.com/album/48eBSK3qJMk0VMbVZPQc7r) | 4:02 | 2024-02-20 | 2024-03-06 |
 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 | 2023-11-23 | 2024-01-03 |
-| [無責任でええじゃないかLOVE](https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [無責任でええじゃないかLOVE](https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw) | 3:53 | 2024-05-02 |  |
+| [無責任でええじゃないかLOVE](https://open.spotify.com/track/3HVa5vaMiHGib4ztB7sCLR) | [KAMIGATA BOYZ](https://open.spotify.com/artist/5TjFUvRq3BNyDsCgLWvxKF) | [無責任でええじゃないかLOVE](https://open.spotify.com/album/7uhQhoDa2Q9uQxEeESSXIw) | 3:53 | 2024-05-02 | 2024-12-02 |
 | [産まれた頃の自分に戻って](https://open.spotify.com/track/3V6hdL8IDDBeyDD2V5mKa8) | [大野雄大 \(from Da\-iCE\)](https://open.spotify.com/artist/4YX4877oTbkuhiKnanhWux) | [産まれた頃の自分に戻って](https://open.spotify.com/album/1S87TvVflyxo4odBE0V7bx) | 4:19 | 2024-01-31 | 2024-02-07 |
 | [空、冬の曙 \- feat\. B.I.G.JOE](https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG) | [SHO HENDRIX](https://open.spotify.com/artist/2lHnlMAxMtNovGYneMhyQh), [B.I.G\. JOE](https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH) | [DOZEN ROSES](https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs) | 3:47 | 2023-11-23 | 2023-12-08 |
 | [華麗な生活](https://open.spotify.com/track/7ez6wvi0htlWbvAWQSJADl) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Endless Happy\-Ending](https://open.spotify.com/album/6dBgrtQcKpiwavwseEu6Su) | 3:15 | 2024-10-29 | 2024-11-06 |

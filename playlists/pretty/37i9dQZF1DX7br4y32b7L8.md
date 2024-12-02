@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,740 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,752 likes - 73 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Drink Niet Meer](https://open.spotify.com/track/5ao2Yb1Ec7YbY1gHqtZAV5) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Nachtvlinder 2](https://open.spotify.com/album/0bQsTCXR5uOP4C8vD9sC3r) | 3:09 |
 | 2 | [Dammie](https://open.spotify.com/track/2eaJthrWWG0v0TSvCL4E32) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR) | [Dammie](https://open.spotify.com/album/4kLGo8swLJ6P1k9PQ03TXj) | 1:50 |
-| 3 | [Zet Die Wakka](https://open.spotify.com/track/0e6n7EUkew8nnSlu40RdQx) | [Bati Sanka](https://open.spotify.com/artist/1XkbW8JrXUwwDpOGkwsuV6), [Anu\-D](https://open.spotify.com/artist/0d3APB2jngaBHrA0DZHJYp), [Nisho](https://open.spotify.com/artist/3NB2kWHcnC2j0PeERDb56O) | [Zet Die Wakka](https://open.spotify.com/album/2Nk0E7cygbtE4CuWocl6OO) | 1:20 |
+| 3 | [Zet Die Wakka](https://open.spotify.com/track/0e6n7EUkew8nnSlu40RdQx) | [Bati Sanka](https://open.spotify.com/artist/1XkbW8JrXUwwDpOGkwsuV6), [Nisho](https://open.spotify.com/artist/3NB2kWHcnC2j0PeERDb56O) | [Zet Die Wakka](https://open.spotify.com/album/2Nk0E7cygbtE4CuWocl6OO) | 1:20 |
 | 4 | [Her Eyes](https://open.spotify.com/track/2140Txb63i5WGqFZX52gag) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/7L9r0s6fR9PNZg6KC6cSfx) | 3:35 |
 | 5 | [Who Can Blame Her](https://open.spotify.com/track/0eSTu4biq1whc8u8SaS3F3) | [Zeke Pujols](https://open.spotify.com/artist/6DkjuCr4iY5W4ej8gO3MAG) | [Who Can Blame Her](https://open.spotify.com/album/5Jy7binbpM27qw7YK10LEh) | 3:05 |
 | 6 | [A Lie](https://open.spotify.com/track/6GqPqEym2wiP33hzRWdFjA) | [David Swinkels](https://open.spotify.com/artist/199zUCPodV9ira0AxnnpTz), [Thomas](https://open.spotify.com/artist/4xCYNOxexrSYnziTn5DHkW) | [A Lie](https://open.spotify.com/album/4XxzLzgn1XEUPcG25RrmlD) | 3:05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 272933,
+  "num_followers": 273125,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAAlr7nTTUDFlY+LQdQXhAcK",
+  "snapshot_id": "Z0pVgAAAAAAHaMQnBiaNp/yFzasGszW8",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 195770,
-      "name": "Honey - Single Version",
-      "url": "https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strut",
         "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 297301,
       "name": "The Chamber",
       "url": "https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 195770,
+      "name": "Honey - Single Version",
+      "url": "https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK"
     },
     {
       "added_at": null,
@@ -375,22 +375,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Backatown",
-        "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
       "artists": [
-        {
-          "name": "Trombone Shorty",
-          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
-        },
         {
           "name": "Lenny Kravitz",
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 221360,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+      "duration_ms": 384133,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
     },
     {
       "added_at": null,
@@ -427,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backatown",
+        "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -436,25 +452,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 384133,
-      "name": "Thinking Of You",
-      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
+      "duration_ms": 317026,
+      "name": "If You Can't Say No",
+      "url": "https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 317026,
-      "name": "If You Can't Say No",
-      "url": "https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n"
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
     },
     {
       "added_at": null,

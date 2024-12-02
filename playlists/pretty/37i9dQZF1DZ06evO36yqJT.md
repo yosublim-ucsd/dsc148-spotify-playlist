@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 
 > This is Shirley Caesar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,357 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,359 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 26 | [Satan, You're a Liar](https://open.spotify.com/track/1JTfSGTnXqUEYV4JDGFgYM) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Rejoice](https://open.spotify.com/album/62qUV1EdZM75Py1OVf50BR) | 3:50 |
 | 27 | [Satan, We're Gonna Tear Your Kingdom Down](https://open.spotify.com/track/0wgHoxZ4UnCQwEszz2vTZk) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [He Touched Me](https://open.spotify.com/album/3A6EiBRp7ZwUMcMVflxl6a) | 3:39 |
 | 28 | [You Can Make It](https://open.spotify.com/track/0WShhXViWE3F5DPcrkgvV5) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [You Can Make It](https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG) | 6:31 |
-| 29 | [Heaven](https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...\. He Will Come](https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL) | 4:48 |
-| 30 | [I'm Ready](https://open.spotify.com/track/5Q61xrkSzGTaMinDD7a8Tr) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 4:53 |
+| 29 | [I'm Ready](https://open.spotify.com/track/5Q61xrkSzGTaMinDD7a8Tr) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 4:53 |
+| 30 | [Heaven](https://open.spotify.com/track/6ia2r9iAhIZ0mmRH8Tgq5k) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar Live ...\. He Will Come](https://open.spotify.com/album/4gFxfVqXsSFolfA5MHosnL) | 4:48 |
 | 31 | [Just As I Am](https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Stand Still](https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE) | 6:35 |
 | 32 | [King Heroin](https://open.spotify.com/track/5eHKFi9trSitx9n8TJcF5G) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Treasures](https://open.spotify.com/album/47Sgcm1KIgscVLs4TgNJPh) | 3:58 |
-| 33 | [Steal Away to Jesus](https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Heart to Yours](https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS) | 3:27 |
-| 34 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
+| 33 | [I Know It Was the Blood](https://open.spotify.com/track/6Id2UIwITk6iJS9pqP4Dxa) | [Gladys Knight](https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0), [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Shirley Caesar and Friends](https://open.spotify.com/album/34nMXtPJ99Ub3uw0BA60hW) | 5:02 |
+| 34 | [Steal Away to Jesus](https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ) | [Michelle Williams](https://open.spotify.com/artist/6t7nbFAc2dUa7oNu7kBOui), [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Heart to Yours](https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS) | 3:27 |
 | 35 | [Teach Me Master](https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Golden Gospel Classics](https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5) | 3:07 |
 | 36 | [Jesus Is Everywhere](https://open.spotify.com/track/6ABbtqIc5JjOnJOj7CG3WD) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 4:51 |
 | 37 | [Don't Drive Your Mama Away](https://open.spotify.com/track/17Re3BFUZRroR1ItmvBSvi) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [Harvest Collection: Shirley Caesar](https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I) | 10:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO36yqJT.md) - [plain]
 | 49 | [Worship Him](https://open.spotify.com/track/380MtcBJp0UhQyu9yNgngb) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [I Remember Mama](https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34) | 7:46 |
 | 50 | [So Satisfied](https://open.spotify.com/track/4YojWdG5mZdMR5hEPgGeuv) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [A Miracle In Harlem](https://open.spotify.com/album/5oseZdwOFRW5ZbF5FEFPl2) | 4:06 |
 
-Snapshot ID: `Z0kEAAAAAACpnxIFlnqLfe4wYWBralBM`
+Snapshot ID: `Z0pVgAAAAAB1xAtB0D388LkqkspU5HEA`

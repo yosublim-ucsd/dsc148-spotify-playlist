@@ -1,12 +1,12 @@
 {
   "description": "This is Adrianne Lenker. The essential tracks, all in one playlist.",
-  "num_followers": 11323,
+  "num_followers": 11351,
   "original_name": "This Is Adrianne Lenker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAACTaEvb71iq2Huxi+bvkF/P",
+  "snapshot_id": "Z0pVgAAAAABd7myc+Z+7DZM0tGc5EnmN",
   "tracks": [
     {
       "added_at": null,
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 229133,
-      "name": "symbol",
-      "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
+      "duration_ms": 183040,
+      "name": "abyss kiss",
+      "url": "https://open.spotify.com/track/0aI9eihvBSQRjMjtHQQ6nb"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
         }
       ],
-      "duration_ms": 183040,
-      "name": "abyss kiss",
-      "url": "https://open.spotify.com/track/0aI9eihvBSQRjMjtHQQ6nb"
+      "duration_ms": 229133,
+      "name": "symbol",
+      "url": "https://open.spotify.com/track/5UvgTF3oGUxRwi96UZJd4I"
     },
     {
       "added_at": null,

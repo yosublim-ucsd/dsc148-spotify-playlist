@@ -1,6 +1,6 @@
 {
   "description": "Descubre los temas emergentes del mundo indie. Foto: rusowsky, Bb trickz.",
-  "num_followers": 196281,
+  "num_followers": 196319,
   "original_name": "Radar Indie",
   "owner": {
     "name": "Spotify",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "El ef\u00edmero arte de perdonar",
-        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
+        "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
+        "url": "https://open.spotify.com/album/54cf6xLvtYvmD0m6I7vEYK"
       },
       "artists": [
         {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+          "name": "Fillas de Cassandra",
+          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
         }
       ],
-      "duration_ms": 160000,
-      "name": "El ef\u00edmero arte de perdonar",
-      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
+      "duration_ms": 214752,
+      "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
+      "url": "https://open.spotify.com/track/6XlvICCsFuVLbsh15lbA48"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -483,6 +483,22 @@
       "duration_ms": 193827,
       "name": "MARICARMEN",
       "url": "https://open.spotify.com/track/43IK9P5MlkuDsnvfCo7IDb"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "El ef\u00edmero arte de perdonar",
+        "url": "https://open.spotify.com/album/22l9EmsmA56P0OXVQ2Bac7"
+      },
+      "artists": [
+        {
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El ef\u00edmero arte de perdonar",
+      "url": "https://open.spotify.com/track/7Hwr21ki1NhsgLhs2KZR7Z"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -539,6 +555,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Con otra cabeza",
+        "url": "https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV"
+      },
+      "artists": [
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+        }
+      ],
+      "duration_ms": 149352,
+      "name": "Con otra cabeza",
+      "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "La Luna y el Sol",
         "url": "https://open.spotify.com/album/0ToGibJOn1bfAdexcLgAwp"
       },
@@ -559,22 +591,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Con otra cabeza",
-        "url": "https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV"
-      },
-      "artists": [
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
-        }
-      ],
-      "duration_ms": 149352,
-      "name": "Con otra cabeza",
-      "url": "https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "NO S\u00c9 DE AMOR",
         "url": "https://open.spotify.com/album/0qcLd65UI39uiOcjvEbNlb"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 184809,
       "name": "NO S\u00c9 DE AMOR",
       "url": "https://open.spotify.com/track/5fMbT4ZC13siVSsXOgyB38"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Coraz\u00f3n vaquero",
-        "url": "https://open.spotify.com/album/6vzNVVfoMoxv9oga5Yj7Q5"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 187128,
-      "name": "Coraz\u00f3n vaquero",
-      "url": "https://open.spotify.com/track/7eU3gSFZRfaX48jQ8tT1sd"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -643,34 +643,38 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
-        "url": "https://open.spotify.com/album/54cf6xLvtYvmD0m6I7vEYK"
+        "name": "Una noche m\u00e1s (feat. Bruses)",
+        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
       },
       "artists": [
         {
-          "name": "Fillas de Cassandra",
-          "url": "https://open.spotify.com/artist/4OETSqPg52NUKHEQEroph5"
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 214752,
-      "name": "\u2060Cuando nadie ve (Canci\u00f3n Original de \u201cSoy Nevenka\u201d)",
-      "url": "https://open.spotify.com/track/6XlvICCsFuVLbsh15lbA48"
+      "duration_ms": 183353,
+      "name": "Una noche m\u00e1s (feat. Bruses)",
+      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
     },
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Bail\u00f3dromo, Vol. 1",
-        "url": "https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL"
+        "name": "Coraz\u00f3n vaquero",
+        "url": "https://open.spotify.com/album/6vzNVVfoMoxv9oga5Yj7Q5"
       },
       "artists": [
         {
-          "name": "CARLANGAS",
-          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 268253,
-      "name": "Siempre Vuelve",
-      "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
+      "duration_ms": 187128,
+      "name": "Coraz\u00f3n vaquero",
+      "url": "https://open.spotify.com/track/7eU3gSFZRfaX48jQ8tT1sd"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -691,22 +695,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Una noche m\u00e1s (feat. Bruses)",
-        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
+        "name": "Bail\u00f3dromo, Vol. 1",
+        "url": "https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL"
       },
       "artists": [
         {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "CARLANGAS",
+          "url": "https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs"
         }
       ],
-      "duration_ms": 183353,
-      "name": "Una noche m\u00e1s (feat. Bruses)",
-      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
+      "duration_ms": 268253,
+      "name": "Siempre Vuelve",
+      "url": "https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Vanpiro Esiten",
-        "url": "https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX"
-      },
-      "artists": [
-        {
-          "name": "San Tosielo",
-          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
-        }
-      ],
-      "duration_ms": 221901,
-      "name": "Nunca mas",
-      "url": "https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Contenido Sensible",
         "url": "https://open.spotify.com/album/09buxH0N6CQsRZmB5asZhm"
       },
@@ -795,6 +779,38 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Vanpiro Esiten",
+        "url": "https://open.spotify.com/album/2eHsjsBYGnP3PQfsgltUJX"
+      },
+      "artists": [
+        {
+          "name": "San Tosielo",
+          "url": "https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH"
+        }
+      ],
+      "duration_ms": 221901,
+      "name": "Nunca mas",
+      "url": "https://open.spotify.com/track/3Y9zYTkAvU39kDb1aTdCXx"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Espina",
+        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Espina",
+      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Canciones Inestimables",
         "url": "https://open.spotify.com/album/08rkWDKoRJ7sGyih1sAsIO"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 165000,
       "name": "ACL\u00c1RATE",
       "url": "https://open.spotify.com/track/12EZnXoQuxMns3ANHhlMIZ"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Espina",
-        "url": "https://open.spotify.com/album/5xB3QxKQ5uiNL3YH6aOLtu"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Espina",
-      "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Chico del mont\u00f3n",
+        "url": "https://open.spotify.com/album/2U9KQ5jjLDOM8BRgFIWTRQ"
+      },
+      "artists": [
+        {
+          "name": "Russian Red",
+          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Chico del mont\u00f3n",
+      "url": "https://open.spotify.com/track/661JMZW19USgqwNeQlmHhu"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "escocia",
         "url": "https://open.spotify.com/album/2P97OH0fMjKhV5uUJ48A9j"
       },
@@ -955,6 +971,38 @@
       "duration_ms": 338505,
       "name": "El Psicod\u00e9lico (Guajira del Diablo)",
       "url": "https://open.spotify.com/track/5kwcfKuGUbJxrzcbdHPR1P"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "dos sombras",
+        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 177811,
+      "name": "dos sombras",
+      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Por Ti Por Mi",
+        "url": "https://open.spotify.com/album/7CS99n3NOYshqMOheiw7b2"
+      },
+      "artists": [
+        {
+          "name": "Nebulossa",
+          "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
+        }
+      ],
+      "duration_ms": 180660,
+      "name": "Por Ti Por Mi",
+      "url": "https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1031,22 +1079,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "dos sombras",
-        "url": "https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 177811,
-      "name": "dos sombras",
-      "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "LA AVENTURA",
         "url": "https://open.spotify.com/album/64tqdgffrYyDYKTsJZ38IY"
       },
@@ -1079,18 +1111,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "El imperio de la sombra",
-        "url": "https://open.spotify.com/album/7EThEF5MQKFB7XUPTXzjIp"
+        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
       },
       "artists": [
         {
-          "name": "Safree",
-          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+          "name": "Karavana",
+          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
         }
       ],
-      "duration_ms": 187043,
-      "name": "Como en las pel\u00edculas",
-      "url": "https://open.spotify.com/track/4v84egzXdyyal7OOwu5Mi3"
+      "duration_ms": 193423,
+      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
+      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1111,18 +1143,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-        "url": "https://open.spotify.com/album/1qd1k9OAskJCLQ5JShwmwj"
+        "name": "El imperio de la sombra",
+        "url": "https://open.spotify.com/album/7EThEF5MQKFB7XUPTXzjIp"
       },
       "artists": [
         {
-          "name": "Karavana",
-          "url": "https://open.spotify.com/artist/6SShgjYwZQZ8Nx2wo5IKdd"
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
         }
       ],
-      "duration_ms": 193423,
-      "name": "\u00bfQui\u00e9n Quiere M\u00e1s?",
-      "url": "https://open.spotify.com/track/0Q5Bikc6bp4mcm9PFcOZNb"
+      "duration_ms": 187043,
+      "name": "Como en las pel\u00edculas",
+      "url": "https://open.spotify.com/track/4v84egzXdyyal7OOwu5Mi3"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1159,38 +1191,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Chico del mont\u00f3n",
-        "url": "https://open.spotify.com/album/2U9KQ5jjLDOM8BRgFIWTRQ"
-      },
-      "artists": [
-        {
-          "name": "Russian Red",
-          "url": "https://open.spotify.com/artist/47wB3vlOd130dM3k5fADQw"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Chico del mont\u00f3n",
-      "url": "https://open.spotify.com/track/661JMZW19USgqwNeQlmHhu"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Desde el amor",
-        "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
-      },
-      "artists": [
-        {
-          "name": "Club del R\u00edo",
-          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
-        }
-      ],
-      "duration_ms": 173332,
-      "name": "Desde el amor",
-      "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Espera",
         "url": "https://open.spotify.com/album/7HSbL3TYnAZnOSNGHHs4IT"
       },
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "SUSANA",
-        "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
+        "name": "Desde el amor",
+        "url": "https://open.spotify.com/album/10Di7ZEexZuTsuQ6ZqH1Ee"
       },
       "artists": [
         {
-          "name": "Confeti de Odio",
-          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
+          "name": "Club del R\u00edo",
+          "url": "https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD"
         }
       ],
-      "duration_ms": 165280,
-      "name": "SUSANA",
-      "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
+      "duration_ms": 173332,
+      "name": "Desde el amor",
+      "url": "https://open.spotify.com/track/5j8lR0X1eTYnlpLNUAyXm0"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "SUSANA",
+        "url": "https://open.spotify.com/album/2Nsd5rzzglUvOMPW92wJ0s"
+      },
+      "artists": [
+        {
+          "name": "Confeti de Odio",
+          "url": "https://open.spotify.com/artist/3C1CPJ9K2aeHuj1x22B0qJ"
+        }
+      ],
+      "duration_ms": 165280,
+      "name": "SUSANA",
+      "url": "https://open.spotify.com/track/58hxPfgSJZKp2AoRlU0mQS"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Paris Hilton",
         "url": "https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT"
       },
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Loros",
-        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
-      },
-      "artists": [
-        {
-          "name": "Camellos",
-          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
-        }
-      ],
-      "duration_ms": 146853,
-      "name": "Loros",
-      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Volver",
         "url": "https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 233752,
       "name": "Volver",
       "url": "https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Loros",
+        "url": "https://open.spotify.com/album/1X5XYCsVtVR2VnrPKa03Qn"
+      },
+      "artists": [
+        {
+          "name": "Camellos",
+          "url": "https://open.spotify.com/artist/3uQgL10Dx1pMNIDfUiv8HW"
+        }
+      ],
+      "duration_ms": 146853,
+      "name": "Loros",
+      "url": "https://open.spotify.com/track/0I8lFIqizsT49Az0ShbeFp"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 165635,
       "name": "compartir",
       "url": "https://open.spotify.com/track/2jQbHv1h68MGzhYcCHNZQw"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Por Ti Por Mi",
-        "url": "https://open.spotify.com/album/7CS99n3NOYshqMOheiw7b2"
-      },
-      "artists": [
-        {
-          "name": "Nebulossa",
-          "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
-        }
-      ],
-      "duration_ms": 180660,
-      "name": "Por Ti Por Mi",
-      "url": "https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1379,42 +1379,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "MERCURIO",
-        "url": "https://open.spotify.com/album/4pIeFVYUJRLXzwvQ06JLPM"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 140307,
-      "name": "MERCURIO",
-      "url": "https://open.spotify.com/track/7hsGQ1OHnned3qIx4URtfB"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "sangre y sal",
-        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 171921,
-      "name": "n\u00fameros rojos",
-      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Ez Nintzen Ni Izango (Esa No Ser\u00eda Yo)",
         "url": "https://open.spotify.com/album/2eIfbE9QY4rESyCsu3JFUu"
       },
@@ -1451,6 +1415,38 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "MERCURIO",
+        "url": "https://open.spotify.com/album/4pIeFVYUJRLXzwvQ06JLPM"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 140307,
+      "name": "MERCURIO",
+      "url": "https://open.spotify.com/track/7hsGQ1OHnned3qIx4URtfB"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "La Bruja",
+        "url": "https://open.spotify.com/album/718GIRQ8GQzrNhgBY4LJvt"
+      },
+      "artists": [
+        {
+          "name": "Safree",
+          "url": "https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL"
+        }
+      ],
+      "duration_ms": 156120,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/6ufzMfhC2pI6Bu1Z7O9ntP"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Nunca Estuviste Tan Lejos",
         "url": "https://open.spotify.com/album/1U6KHSJ66igiyRiVvirZKj"
       },
@@ -1463,6 +1459,26 @@
       "duration_ms": 241500,
       "name": "Nunca Estuviste Tan Lejos",
       "url": "https://open.spotify.com/track/4E3ckTCxqiSrUSM2rKGnC3"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "sangre y sal",
+        "url": "https://open.spotify.com/album/6okCd7VpD269wjGPHAmk1x"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 171921,
+      "name": "n\u00fameros rojos",
+      "url": "https://open.spotify.com/track/363oz6Ba7I4Qe5NN28HVJo"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "SOMOS JAVYPABLO",
-        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
-      },
-      "artists": [
-        {
-          "name": "Javypablo",
-          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Rayito de Luz",
-      "url": "https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "BLU",
         "url": "https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 148650,
       "name": "BLU",
       "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "SOMOS JAVYPABLO",
+        "url": "https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Rayito de Luz",
+      "url": "https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1695,22 +1711,6 @@
       "duration_ms": 235565,
       "name": "relevante",
       "url": "https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "V\u00e9rtigo",
-        "url": "https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI"
-      },
-      "artists": [
-        {
-          "name": "Embusteros",
-          "url": "https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE"
-        }
-      ],
-      "duration_ms": 184739,
-      "name": "V\u00e9rtigo",
-      "url": "https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ"
     }
   ],
   "unique_name": "Radar Indie",

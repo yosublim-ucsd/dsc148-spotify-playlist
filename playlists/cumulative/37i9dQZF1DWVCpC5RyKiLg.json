@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 215129,
       "name": "Energia Surreal - Ao Vivo",
       "url": "https://open.spotify.com/track/2P5Hd3ghYMY5PT9yR73gR3"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 214513,
       "name": "Meu Viol\u00e3o E O Nosso Cachorro - Ao Vivo",
       "url": "https://open.spotify.com/track/2RTkdHBUb5UCg36tcX6C7D"
@@ -2525,6 +2525,24 @@
     },
     {
       "album": {
+        "name": "Proposta Indecente",
+        "url": "https://open.spotify.com/album/7HN7sy4AsU7zEdt9L4Db6X"
+      },
+      "artists": [
+        {
+          "name": "Imaginasamba",
+          "url": "https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "Pretexto",
+      "url": "https://open.spotify.com/track/3UdSoJBgl0EG3MlHpelYRC"
+    },
+    {
+      "album": {
         "name": "P\u00e9 Na Areia (Ao Vivo)",
         "url": "https://open.spotify.com/album/0Ok25Oq59P8s0OXpJA9hWu"
       },
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 234603,
       "name": "Se Eu Pudesse - Ao Vivo",
       "url": "https://open.spotify.com/track/0ScG8kxnidGAdI2OA8WSES"

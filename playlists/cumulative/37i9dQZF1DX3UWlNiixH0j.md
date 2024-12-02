@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: okkaaa
 
-2,002 songs - 5 day 4 hr 44 min
+2,004 songs - 5 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -805,7 +805,7 @@
 | [over me](https://open.spotify.com/track/47uwvJLIlYwGIWVjsDFazR) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [over me](https://open.spotify.com/album/2UNKv168uOS4wdmBvQ2Uhl) | 3:49 | 2024-08-27 | 2024-09-25 |
 | [Overcast](https://open.spotify.com/track/2WH6hX0mKg6y6rVwDbp3n9) | [Salmon Pink](https://open.spotify.com/artist/5eR0ueB8Fx3Nyck2cAzYXN) | [Garden](https://open.spotify.com/album/4Q5reDgFvPvFN4wIrcpKEN) | 4:29 | 2023-09-29 | 2023-10-04 |
 | [overlap](https://open.spotify.com/track/3pxk3CJQd5o03EnaJfOPLP) | [at field of school](https://open.spotify.com/artist/6sWYy4uydbxFqNP7XCbJrp) | [BOYZ ATTACK](https://open.spotify.com/album/1f2V3EOiJ11XdJqzkGbvVe) | 3:05 | 2024-05-28 | 2024-06-05 |
-| [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 | 2024-10-15 |  |
+| [Overrated!](https://open.spotify.com/track/4VBjsEHRJRs5pnZk1F5RKM) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Overrated!](https://open.spotify.com/album/3mW3VrymVynXRToh3mDzrz) | 2:55 | 2024-10-15 | 2024-12-02 |
 | [Owaranaimama](https://open.spotify.com/track/5o5r7X8Z4CJBpAgK4snpcS) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [WHO DO YOU LOVE?](https://open.spotify.com/album/4Zwy3cY2rpi4vH7V16jDGm) | 2:40 | 2023-05-23 | 2023-05-31 |
 | [Oyasumi na Sayang \(feat\. Zee Avi\)](https://open.spotify.com/track/2trAm3w2aYDTD99YgIrEAP) | [MuchaMuchaM](https://open.spotify.com/artist/2s7BL8KxsJymUj7kKaUA0w), [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Oyasumi na Sayang \(feat\. Zee Avi\)](https://open.spotify.com/album/4p7uVBHKYAYASXD0zIVbsr) | 3:23 | 2024-09-10 | 2024-10-16 |
 | [O’share](https://open.spotify.com/track/18PxFkC7bwTnK1D2qWNBDc) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [O’share](https://open.spotify.com/album/3O0iaMRn0XXzIYz7olwA95) | 4:03 | 2024-07-16 | 2024-08-25 |
@@ -1288,6 +1288,7 @@
 | [あなたを踊らせたい](https://open.spotify.com/track/6disnHJweSQLGaoAPwF36R) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [あなたを踊らせたい](https://open.spotify.com/album/1xWEFy3OY6pJp6shojQAA1) | 4:51 | 2023-08-30 | 2023-10-18 |
 | [あのうたがきこえる \- feat.Ema & 吉田沙良\(モノンクル\)](https://open.spotify.com/track/4XAKBxbKGViYZUrH7g59B6) | [象眠舎](https://open.spotify.com/artist/7KSV9OZfpTakHP1o9uPFG6), [Ema](https://open.spotify.com/artist/75cOYlSMrc2yl7Qo6ijHN1), [吉田沙良\(モノンクル\)](https://open.spotify.com/artist/5zPTykeJKoiGZhhWJgLfKj) | [あのうたがきこえる \[feat.Ema & 吉田沙良\(モノンクル\)\]](https://open.spotify.com/album/4QgTPyeJtiMl74cmQdu4LM) | 6:48 | 2023-05-18 | 2023-07-25 |
 | [あの夏のRadio](https://open.spotify.com/track/0TW89yREoPADchLd1okIJ2) | [天童児直](https://open.spotify.com/artist/14X47SyysR5Hhx9g3jG4RG) | [あの夏のRadio](https://open.spotify.com/album/5CpLvAalwyQ9eKN58aiBdl) | 3:53 | 2023-08-30 | 2023-09-06 |
+| [あの日のままのぼくら](https://open.spotify.com/track/1Hezf2jAn3lSIID7BlRPfs) | [Humbert Humbert](https://open.spotify.com/artist/5RI6QZwb39XNUV2vZv2aQY) | [カーニバルの夢](https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48) | 3:14 | 2024-11-27 |  |
 | [あらわれないで](https://open.spotify.com/track/4J355x8SX4orM1H3tyPBFa) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [あらわれないで](https://open.spotify.com/album/3Of0ZbIf2fr4VTCoy8YNxY) | 3:57 | 2024-01-30 |  |
 | [あらわれないで](https://open.spotify.com/track/64SO6pPvPRA1MrdyepGx1p) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:57 | 2024-07-02 | 2024-08-07 |
 | [あるところ](https://open.spotify.com/track/1OpGSGItJtXVVNuor3D8uf) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [あるところ](https://open.spotify.com/album/4Ze3Umc7S4eBxxRh6SCwO9) | 3:08 | 2024-04-30 | 2024-05-08 |
@@ -1448,7 +1449,7 @@
 | [カゲロウ](https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [ZERO](https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0) | 3:11 | 2024-11-05 |  |
 | [カルーセル](https://open.spotify.com/track/7rD5OqAfS3PMOFKrB1LcXP) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [Carousel Circle](https://open.spotify.com/album/6mh8zAPG02p3sw6BF9sS7q) | 3:25 | 2023-11-29 | 2023-12-06 |
 | [カレイドスコウプ](https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [カレイドスコウプ](https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM) | 3:28 | 2023-12-19 | 2023-12-21 |
-| [カーテンコール](https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [カーテンコール](https://open.spotify.com/album/7MuNNuwO7FnpHzYJeuom7W) | 2:54 | 2024-09-17 |  |
+| [カーテンコール](https://open.spotify.com/track/59IYIoki3Z4UEVBuegE0ZN) | [Hedigan’s](https://open.spotify.com/artist/2S0pyjI92cJtciSGrTF6ls) | [カーテンコール](https://open.spotify.com/album/7MuNNuwO7FnpHzYJeuom7W) | 2:54 | 2024-09-17 | 2024-12-02 |
 | [カープファンの子](https://open.spotify.com/track/0fljI44hj6m737RIfY8kmK) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [しばたさとこ島](https://open.spotify.com/album/2rgn6LRtYPMOtzbsEVp6KS) | 2:22 | 2023-05-29 | 2023-06-02 |
 | [ガーリーボーイ](https://open.spotify.com/track/0oRSPM7JaC60w4yuTjiMNX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ガーリーボーイ](https://open.spotify.com/album/67WHlE87BwJnEyt8CdjdV2) | 3:32 | 2024-03-12 | 2024-04-19 |
 | [ガールフレンド](https://open.spotify.com/track/6oqp1spnXa6dw5Y2jM8wiy) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [ガールフレンド](https://open.spotify.com/album/43Ggl0UkT7sQ0x5SqFWxCS) | 2:49 | 2024-07-09 | 2024-07-17 |
@@ -1707,6 +1708,7 @@
 | [夜間飛行 \- HALFBY Night Breaks Re\-Work](https://open.spotify.com/track/5tPSW4rBE7PLT5MS6Tioqw) | [HALFBY](https://open.spotify.com/artist/0vSfPTdDfKhastsXvoL7H7), [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [夜間飛行 \(HALFBY Night Breaks Re\-Work\)](https://open.spotify.com/album/2YvRimW8jLp1EtOA6rsKa3) | 3:57 | 2024-06-18 | 2024-07-03 |
 | [夢](https://open.spotify.com/track/6sfO55yUSONmh8PT7wgcy5) | [Izumi Makura](https://open.spotify.com/artist/012ldd58H1N5UZLxjMzV29) | [夢](https://open.spotify.com/album/1y4H0diX3fRtiDmjYr5KyK) | 3:53 | 2023-06-13 | 2023-07-20 |
 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 | 2023-01-31 | 2024-04-03 |
+| [夢に飛びのって](https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [夢に飛びのって](https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW) | 3:50 | 2024-11-27 |  |
 | [夢の恋人](https://open.spotify.com/track/1k8nHi41KYSvsUFivUuZ3T) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [夢が醒めたら](https://open.spotify.com/album/7cd2jEnLcsoH3BY86ncs7z) | 3:20 | 2023-03-28 | 2023-04-05 |
 | [夢を見ようよ](https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [Hotel New Yuma](https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1) | 3:12 | 2024-11-13 |  |
 | [夢占](https://open.spotify.com/track/6jczRyvwF3406OoInAJJ6X) | [SAI](https://open.spotify.com/artist/26CHm3gYd2zeEfTZeyZzal) | [水中庭園](https://open.spotify.com/album/4FxkA4os4gczMz5KifOc8b) | 2:19 | 2023-04-11 | 2023-05-10 |

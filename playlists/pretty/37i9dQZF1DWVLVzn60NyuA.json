@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 448035,
+  "num_followers": 448016,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -491,30 +491,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 218826,
-      "name": "COMO UN BEB\u00c9",
-      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -555,18 +531,26 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
       "artists": [
         {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
+      "duration_ms": 218826,
+      "name": "COMO UN BEB\u00c9",
+      "url": "https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -599,6 +583,22 @@
       "duration_ms": 159425,
       "name": "Ta Ta Ta",
       "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1063,34 +1063,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "KAYTRAMIN\u00c9",
-        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
-      },
-      "artists": [
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Sossaup",
-      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
       },
@@ -1131,6 +1103,34 @@
       "duration_ms": 263288,
       "name": "Essence (feat. Justin Bieber & Tems)",
       "url": "https://open.spotify.com/track/1mSdbey7RstGLY2udgXv74"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Sossaup",
+      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/3x11dxRSmvNxq46e5IhNCO"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
         "name": "Tiki Taka",
         "url": "https://open.spotify.com/album/0BxUHxJCLTnXXtBjIUK51N"
       },
@@ -1383,6 +1383,22 @@
       "duration_ms": 174480,
       "name": "Tiki Taka",
       "url": "https://open.spotify.com/track/7LKbaK4RD00Nso9EJk4opn"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/3x11dxRSmvNxq46e5IhNCO"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1403,22 +1419,6 @@
       "duration_ms": 168857,
       "name": "Party No Dey Stop",
       "url": "https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
+        "name": "Buga (Lo Lo Lo)",
+        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Buga (Lo Lo Lo)",
+      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 175098,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/765zfCJsXtDDPInx1smYLo"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
-        "name": "Buga (Lo Lo Lo)",
-        "url": "https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Buga (Lo Lo Lo)",
-      "url": "https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "Can't Anymore",
+      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 210194,
       "name": "Ololufe (feat. Wande Coal)",
       "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 155307,
-      "name": "Can't Anymore",
-      "url": "https://open.spotify.com/track/6zrZ7mVcznNd2Q6qB0iBrq"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "SUPARO",
-        "url": "https://open.spotify.com/album/7LlsOLJekHO8ArFTTZrYg4"
-      },
-      "artists": [
-        {
-          "name": "WAYNE FLENORY",
-          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
-        }
-      ],
-      "duration_ms": 152178,
-      "name": "SUPARO",
-      "url": "https://open.spotify.com/track/1Di904lomBvS89EWnSpW6J"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "Tucu",
         "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "SUPARO",
+        "url": "https://open.spotify.com/album/7LlsOLJekHO8ArFTTZrYg4"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        }
+      ],
+      "duration_ms": 152178,
+      "name": "SUPARO",
+      "url": "https://open.spotify.com/track/1Di904lomBvS89EWnSpW6J"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -2223,26 +2223,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "Cool Me Down (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM"
-      },
-      "artists": [
-        {
-          "name": "DJ Tunez",
-          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 208758,
-      "name": "Cool Me Down (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "Fallin in Love",
         "url": "https://open.spotify.com/album/7N3hxtYqewN5Mz0W0QTaM1"
       },
@@ -2263,6 +2243,26 @@
       "duration_ms": 162061,
       "name": "Fallin in Love",
       "url": "https://open.spotify.com/track/3HYdxQ11DSiYnuI00jW0QH"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "Cool Me Down (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 208758,
+      "name": "Cool Me Down (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
         "name": "Damages",
         "url": "https://open.spotify.com/album/1Ulbxmd0Y2esHXkqdgAHsK"
       },
@@ -2491,22 +2507,6 @@
       "duration_ms": 204631,
       "name": "Eve Bounce - Remix",
       "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -2823,22 +2823,6 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        }
-      ],
-      "duration_ms": 156927,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
-    },
-    {
-      "added_at": "2024-11-21 15:42:26",
-      "album": {
         "name": "Big Thug Boys (Dj Yo! Remix)",
         "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
       },
@@ -2855,6 +2839,22 @@
       "duration_ms": 174774,
       "name": "Big Thug Boys (Dj Yo! Remix)",
       "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
+    },
+    {
+      "added_at": "2024-11-21 15:42:26",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/2mUXHcpiEOi8c2CVO3qC2G"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        }
+      ],
+      "duration_ms": 156927,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/3Y50lI3uo0P910ZnCCEqqU"
     },
     {
       "added_at": "2024-11-21 15:42:26",
@@ -2915,18 +2915,18 @@
     {
       "added_at": "2024-11-21 15:42:26",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id"
+        "name": "Perdiste",
+        "url": "https://open.spotify.com/album/7kViNXWBbOD3RahNpEZMr3"
       },
       "artists": [
         {
-          "name": "Kidda",
-          "url": "https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
         }
       ],
-      "duration_ms": 194558,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ"
+      "duration_ms": 119285,
+      "name": "Perdiste",
+      "url": "https://open.spotify.com/track/2A7ZjaERtQStEmMhSU1BU3"
     }
   ],
   "unique_name": "Summer Vibes",

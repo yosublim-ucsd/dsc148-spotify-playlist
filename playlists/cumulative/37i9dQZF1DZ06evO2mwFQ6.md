@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-69 songs - 3 hr 59 min
+71 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Love Away The Night \- with Adam Brand](https://open.spotify.com/track/5nhyF9rPoP0tjqXNd7BRtj) | [Melinda Schneider](https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Oxygen](https://open.spotify.com/album/30EVdt1AjTXmPDeHDBnxZv) | 3:38 | 2023-06-17 |  |
 | [Love Is A Lesson \(feat\. Adam Brand\)](https://open.spotify.com/track/1x4RA9JlbUloiOb5CqQqoj) | [Travis Collins](https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Wired](https://open.spotify.com/album/2YVoRvMleX9NQyNvUC3de0) | 4:16 | 2023-06-27 | 2024-10-29 |
 | [Mamma Don't Let Your Babies](https://open.spotify.com/track/39m8k3Zy3ubhaU31UyW4EC) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 3:28 | 2023-06-17 | 2023-07-25 |
-| [Milestones](https://open.spotify.com/track/6aK4ecrJMw0hBnWxSGulxH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Milestones](https://open.spotify.com/album/6Luiw9GezMaBUeRVozcsxp) | 3:35 | 2023-06-17 |  |
+| [Milestones](https://open.spotify.com/track/6aK4ecrJMw0hBnWxSGulxH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Milestones](https://open.spotify.com/album/6Luiw9GezMaBUeRVozcsxp) | 3:35 | 2023-06-17 | 2024-12-02 |
+| [Milestones](https://open.spotify.com/track/5PA3JUawknYd5RPqDwPm5t) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Milestones](https://open.spotify.com/album/2iVR1Vt976L3hxNTPszaMj) | 3:36 | 2024-12-02 |  |
 | [My Side Of The Street](https://open.spotify.com/track/2UP8jgyQ8MP8rvjreSqBBo) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [My Side Of The Street](https://open.spotify.com/album/0OZoX1Vpoi1SSv64fLJcxF) | 3:08 | 2023-07-31 | 2023-08-02 |
 | [Now We're Talking](https://open.spotify.com/track/3y94TeBQxO7z59PZLLLQH9) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Now We're Talking](https://open.spotify.com/album/1bhWVaM0AdYQxAd6eO38Id) | 3:00 | 2023-06-24 | 2024-07-19 |
 | [Number 34](https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 2:54 | 2023-06-17 |  |
@@ -62,10 +63,11 @@
 | [Six Days On The Road](https://open.spotify.com/track/0IMbo0eRqkIkAKO131Wusr) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 2:48 | 2023-06-17 |  |
 | [Sleepless Nights](https://open.spotify.com/track/0LRDeyEdxwwXmO25KboUE4) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Sleepless Nights](https://open.spotify.com/album/5X3A67WW1vgO5r6o5UBIun) | 3:35 | 2024-02-10 | 2024-11-17 |
 | [Someday](https://open.spotify.com/track/12qLBrLCpHD5ggV1HPJQbn) | [The Sunny Cowgirls](https://open.spotify.com/artist/1F9bBR1SWdeGnIztqAxQVO), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Dust Will Settle](https://open.spotify.com/album/0f2rAOkhPHPsQUAwBYDUMo) | 2:28 | 2023-06-17 |  |
-| [Speed Of Life](https://open.spotify.com/track/6qgjCMasssUe7BEeBx95Oy) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:02 | 2023-06-17 |  |
+| [Speed Of Life](https://open.spotify.com/track/6qgjCMasssUe7BEeBx95Oy) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:02 | 2023-06-17 | 2024-12-02 |
 | [Spirit of the Bush \- Remastered 2017](https://open.spotify.com/track/2h1nMiUCpMA3kLrtjIUe8h) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Steve Forde](https://open.spotify.com/artist/2WdWRfFSB5m9ivq7sOkBXL) | [Spirit of the Bush \(Remastered 2017\)](https://open.spotify.com/album/4JvTSpjSAEYZFPqY2w7GbB) | 3:33 | 2023-06-17 |  |
 | [Still The One](https://open.spotify.com/track/6drVWzBYAceXUCAtdl1Fnu) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Still The One](https://open.spotify.com/album/3tQSwavTtrMTGebddI8Fqw) | 2:38 | 2023-06-17 |  |
 | [Sweet Home Alabama \(feat\. Adam Brand\)](https://open.spotify.com/track/2u6J72xygaq4q7YQ4fEwJC) | [Jason Owen](https://open.spotify.com/artist/6HtcB71Ns292SDfrwLEo05), [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Life Is A Highway](https://open.spotify.com/album/4eGhBqwEyI7ZCKprqu4dK7) | 4:30 | 2023-06-17 |  |
+| [That Changes Everything](https://open.spotify.com/track/3qOdYOBLsGKhTPts5F54KM) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/6hfdWnqQl1UJ4vwQGaRmjn) | 3:59 | 2024-12-02 |  |
 | [The Anzac](https://open.spotify.com/track/2mOCf3tD0R4ZcWEI7wRv9G) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc) | 4:51 | 2023-06-17 |  |
 | [This Time Of Year](https://open.spotify.com/track/2tUmlrVjQTApBuGezymW7r) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:58 | 2024-11-09 |  |
 | [Thump](https://open.spotify.com/track/6s2ycFh5w9TyLXXys1fmNH) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 2:53 | 2023-06-17 | 2024-02-25 |

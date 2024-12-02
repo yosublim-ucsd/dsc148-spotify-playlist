@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAAh1RuZrT2yXs2AM5xJRGNU",
+  "snapshot_id": "Z0pVgAAAAAAmujNVaqUXi+OjW60/i4OR",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 74153,
-      "name": "Old Neighborhood",
-      "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saman",
         "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 152240,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
@@ -255,22 +255,6 @@
       "duration_ms": 288800,
       "name": "Call Me Joker",
       "url": "https://open.spotify.com/track/257SoE95qEweGItCB9Q5rE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 169504,
-      "name": "It's Showtime",
-      "url": "https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb"
     },
     {
       "added_at": null,
@@ -339,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 169504,
+      "name": "It's Showtime",
+      "url": "https://open.spotify.com/track/1iMpFOtfuVhjFqtDjEJEfb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 84760,
       "name": "Hoyt's Office",
       "url": "https://open.spotify.com/track/1UdiJ6Y2eisfQQ76MZOX4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 152240,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/6TyCRC3FoIKyr6xZfUvfel"
     },
     {
       "added_at": null,
@@ -419,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 74153,
+      "name": "Old Neighborhood",
+      "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 121813,
       "name": "Young Penny",
       "url": "https://open.spotify.com/track/0u2NLEpkGaPwFptuhWkVwY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 92376,
-      "name": "My Mother Had Me Committed",
-      "url": "https://open.spotify.com/track/61Mo11r2PTlNIMbTSbsZLJ"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 92376,
+      "name": "My Mother Had Me Committed",
+      "url": "https://open.spotify.com/track/61Mo11r2PTlNIMbTSbsZLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 275760,
       "name": "Meeting Bruce Wayne",
       "url": "https://open.spotify.com/track/5HaKAODFS4Md49bVyYSp1y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 109675,
-      "name": "There Is No Joker",
-      "url": "https://open.spotify.com/track/6om7HqX2QA4ORVhp0BlQg0"
     },
     {
       "added_at": null,
@@ -567,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 114647,
-      "name": "Dealing With Destruction",
-      "url": "https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
       },
@@ -592,9 +560,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 98648,
-      "name": "Knock Knock",
-      "url": "https://open.spotify.com/track/6UucxLzsAuGqxI9QgLUZMM"
+      "duration_ms": 109675,
+      "name": "There Is No Joker",
+      "url": "https://open.spotify.com/track/6om7HqX2QA4ORVhp0BlQg0"
     },
     {
       "added_at": null,
@@ -619,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 114647,
+      "name": "Dealing With Destruction",
+      "url": "https://open.spotify.com/track/14LxYedUSDzuNwalQPgTGu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sicario: Day of the Soldado (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/12QFS9IPnlICbESBw96prr"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 96893,
       "name": "The Execution",
       "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joker: Folie \u00e0 Deux (Score from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/33L0JGh1BfqeMJW4vmYWiB"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 98648,
+      "name": "Knock Knock",
+      "url": "https://open.spotify.com/track/6UucxLzsAuGqxI9QgLUZMM"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
       "duration_ms": 95520,
       "name": "He Died for All of Us",
       "url": "https://open.spotify.com/track/2z9fw5IFCzeijjc1cLvtga"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 143508,
+      "name": "Gallery",
+      "url": "https://open.spotify.com/track/0GvSIY2o7974HN53WZZDIi"
     },
     {
       "added_at": null,
@@ -695,18 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 143508,
-      "name": "Gallery",
-      "url": "https://open.spotify.com/track/0GvSIY2o7974HN53WZZDIi"
+      "duration_ms": 146426,
+      "name": "Maundy",
+      "url": "https://open.spotify.com/track/16ohNOWQrwHCTjyjoGXIJ8"
     },
     {
       "added_at": null,
@@ -743,22 +763,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "rpm",
-        "url": "https://open.spotify.com/album/1qnrFmnRtmIaoG7wJKxUWC"
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
       "artists": [
-        {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
-        },
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 220626,
-      "name": "I Measure Every Grief I Meet",
-      "url": "https://open.spotify.com/track/0w5tSEtyvNPX7bYGWaQs1t"
+      "duration_ms": 163157,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
     },
     {
       "added_at": null,
@@ -791,6 +807,62 @@
     {
       "added_at": null,
       "album": {
+        "name": "rpm",
+        "url": "https://open.spotify.com/album/1qnrFmnRtmIaoG7wJKxUWC"
+      },
+      "artists": [
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "I Measure Every Grief I Meet",
+      "url": "https://open.spotify.com/track/0w5tSEtyvNPX7bYGWaQs1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ser\u00eda",
+        "url": "https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ"
+      },
+      "artists": [
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "\u00d3l\u00f6f Arnalds",
+          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
+        },
+        {
+          "name": "Amedeo Pace",
+          "url": "https://open.spotify.com/artist/0hdlEDPDfsgpg0CuicRpzi"
+        },
+        {
+          "name": "Peter Scherer",
+          "url": "https://open.spotify.com/artist/2zP1W5f5sJb2zSxjzS3u41"
+        },
+        {
+          "name": "Anthony Burr",
+          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
+        },
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "Ser\u00eda",
+      "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chernobyl (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
       },
@@ -800,9 +872,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 163157,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
+      "duration_ms": 168180,
+      "name": "L\u00ed\u00f0ur - Chernobyl Version",
+      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
     },
     {
       "added_at": null,
@@ -883,58 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chernobyl (Music from the Original TV Series)",
-        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 168180,
-      "name": "L\u00ed\u00f0ur - Chernobyl Version",
-      "url": "https://open.spotify.com/track/6HVsARWIlJiv6ujVfEbTlH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ser\u00eda",
-        "url": "https://open.spotify.com/album/26qf6FtyaO41ZAHSxN7PEZ"
-      },
-      "artists": [
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "\u00d3l\u00f6f Arnalds",
-          "url": "https://open.spotify.com/artist/4S3XJRZ2bToEYIH1slOdl5"
-        },
-        {
-          "name": "Amedeo Pace",
-          "url": "https://open.spotify.com/artist/0hdlEDPDfsgpg0CuicRpzi"
-        },
-        {
-          "name": "Peter Scherer",
-          "url": "https://open.spotify.com/artist/2zP1W5f5sJb2zSxjzS3u41"
-        },
-        {
-          "name": "Anthony Burr",
-          "url": "https://open.spotify.com/artist/16mJA7H6WaFvpuo24EIJXU"
-        },
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 215520,
-      "name": "Ser\u00eda",
-      "url": "https://open.spotify.com/track/0gByie4ptADcvfEEdFAFjB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Last And First Men",
         "url": "https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC"
       },
@@ -995,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
-        }
-      ],
-      "duration_ms": 146426,
-      "name": "Maundy",
-      "url": "https://open.spotify.com/track/16ohNOWQrwHCTjyjoGXIJ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Saman",
         "url": "https://open.spotify.com/album/4aUIcPykNGnZ6sYRGaM2Dk"
       },
@@ -1035,6 +1035,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
+        }
+      ],
+      "duration_ms": 121760,
+      "name": "Ravine",
+      "url": "https://open.spotify.com/track/6AqDWGmP2cZrP0HlF9OWw0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Battlefield 2042 (Official Soundtrack)",
         "url": "https://open.spotify.com/album/0AS3lRdcaJuH3tZMawxaD1"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 152413,
       "name": "Battlefield 2042",
       "url": "https://open.spotify.com/track/6gkN5lGMV6Dt5Ac8zuErDR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trapped (Original Television Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3HNb8rC7ZKIWIuWbDZda4L"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "Rutger Hoedemaekers",
-          "url": "https://open.spotify.com/artist/7kQbJjWdRUqDTogZYgrvJ5"
-        }
-      ],
-      "duration_ms": 124541,
-      "name": "A Political Murder",
-      "url": "https://open.spotify.com/track/4mHMybgI5nXy30WzP5IKyw"
     }
   ],
   "unique_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",

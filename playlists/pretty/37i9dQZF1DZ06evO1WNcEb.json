@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66929,
+  "num_followers": 66932,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAACtUopTDpb+EfYbgBsYWWWA",
+  "snapshot_id": "Z0pVgAAAAACzga9j2V5Ewt9omdL78rBk",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 426039,
-      "name": "At\u00e9 Tocar o C\u00e9u",
-      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grande \u00e9 o Nosso Deus",
         "url": "https://open.spotify.com/album/6NuNaLHxBQnl2wQq2m8wfd"
       },
@@ -463,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Alma Abatida (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Palavra Tocada",
-          "url": "https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo"
         }
       ],
-      "duration_ms": 276488,
-      "name": "A Alma Abatida - Ao Vivo",
-      "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
+      "duration_ms": 426039,
+      "name": "At\u00e9 Tocar o C\u00e9u",
+      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
     },
     {
       "added_at": null,
@@ -499,6 +479,26 @@
       "duration_ms": 326264,
       "name": "Existe Um Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Alma Abatida (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Palavra Tocada",
+          "url": "https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo"
+        }
+      ],
+      "duration_ms": 276488,
+      "name": "A Alma Abatida - Ao Vivo",
+      "url": "https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
-        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 459662,
-      "name": "Nunca Pare De Lutar",
-      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Profetiza",
         "url": "https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 353893,
       "name": "Eu Me Arrependo",
       "url": "https://open.spotify.com/track/0kXN738QHcVFPqigE3DqAu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Pare de Lutar / Tua Gra\u00e7a Me Basta",
+        "url": "https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 459662,
+      "name": "Nunca Pare De Lutar",
+      "url": "https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V"
     },
     {
       "added_at": null,

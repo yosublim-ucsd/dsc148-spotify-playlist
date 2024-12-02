@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAAUnzK7pb9N1mFP3dJlkCRZ",
+  "snapshot_id": "Z0pVgAAAAAAa+zpO9kz2aLfsfNredJu+",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 219788,
+      "name": "In The Air (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNDERWORLD",
         "url": "https://open.spotify.com/album/1G4tRpGjmTkmE3jSAtKkvV"
       },
@@ -347,30 +367,6 @@
       "duration_ms": 181080,
       "name": "Swerve (feat. G Herbo)",
       "url": "https://open.spotify.com/track/27MFaiM3gYDvknS6FYEUVC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUST RE'D UP 3",
-        "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 193419,
-      "name": "MALIBU - WITH TEE GRIZZLEY & G HERBO",
-      "url": "https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4"
     },
     {
       "added_at": null,
@@ -395,22 +391,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+        "name": "JUST RE'D UP 3",
+        "url": "https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 219788,
-      "name": "In The Air (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
+      "duration_ms": 193419,
+      "name": "MALIBU - WITH TEE GRIZZLEY & G HERBO",
+      "url": "https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv",
-        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 233736,
-      "name": "In the A (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swervo",
         "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
@@ -559,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sessions",
+      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
       },
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 188053,
-      "name": "Sessions",
-      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
+      "duration_ms": 233736,
+      "name": "In the A (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOOD POET",
-        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 182768,
-      "name": "No Recruits (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/4OdWhMgfS8BYilx5WAha43"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 200490,
       "name": "Never Scared (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOOD POET",
+        "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "No Recruits (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4OdWhMgfS8BYilx5WAha43"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+        "name": "Strictly 4 My Fans",
+        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 168073,
-      "name": "YN",
-      "url": "https://open.spotify.com/track/0wXXkm95S2RTr32ErPIKYw"
+      "duration_ms": 208422,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
     },
     {
       "added_at": null,
@@ -855,8 +855,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strictly 4 My Fans",
-        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
       "artists": [
         {
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 208422,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
+      "duration_ms": 168073,
+      "name": "YN",
+      "url": "https://open.spotify.com/track/0wXXkm95S2RTr32ErPIKYw"
     },
     {
       "added_at": null,
@@ -907,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 172581,
-      "name": "Nothin",
-      "url": "https://open.spotify.com/track/2uDd49zDgn19Yq9LW0zJEJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Still Swervin",
         "url": "https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV"
       },
@@ -939,22 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THA STREETS VOL 1",
-        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
       },
       "artists": [
         {
-          "name": "HotBlock Jmoe",
-          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
-        },
-        {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
         }
       ],
-      "duration_ms": 126315,
-      "name": "ROTTEN",
-      "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
+      "duration_ms": 210937,
+      "name": "Ball (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/5bHUIeEigheHTuIyNFAyms"
     },
     {
       "added_at": null,
@@ -987,22 +971,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+        "name": "THA STREETS VOL 1",
+        "url": "https://open.spotify.com/album/7BQHGnFNwftsmtHvsAJqAr"
       },
       "artists": [
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "HotBlock Jmoe",
+          "url": "https://open.spotify.com/artist/1GiFhQeBgRig35WbBjvtb1"
         },
         {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 210937,
-      "name": "Ball (feat. Meek Mill)",
-      "url": "https://open.spotify.com/track/5bHUIeEigheHTuIyNFAyms"
+      "duration_ms": 126315,
+      "name": "ROTTEN",
+      "url": "https://open.spotify.com/track/7juzMlYu3mq7iSojvDz32y"
     },
     {
       "added_at": null,
@@ -1023,6 +1007,22 @@
       "duration_ms": 127406,
       "name": "Vegeta",
       "url": "https://open.spotify.com/track/2f8ySocT3A14p39nM0UvyP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 172581,
+      "name": "Nothin",
+      "url": "https://open.spotify.com/track/2uDd49zDgn19Yq9LW0zJEJ"
     }
   ],
   "unique_name": "This Is G Herbo",

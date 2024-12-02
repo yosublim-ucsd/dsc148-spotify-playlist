@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 61710,
+  "num_followers": 61721,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Grandes de la Musica Instrumental",
         "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 264000,
       "name": "La Iguana",
       "url": "https://open.spotify.com/track/0QRhTIZqt5vbQopG9BriGY"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -557,26 +557,6 @@
       "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        },
-        {
-          "name": "Valentina Marentes",
-          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
-        }
-      ],
-      "duration_ms": 403365,
-      "name": "Era La Luz De Abril",
-      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
@@ -599,6 +579,26 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        },
+        {
+          "name": "Valentina Marentes",
+          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
+        }
+      ],
+      "duration_ms": 403365,
+      "name": "Era La Luz De Abril",
+      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -691,26 +691,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Nuevas Relaciones: Atardecer",
-        "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
-      },
-      "artists": [
-        {
-          "name": "Freddy Marichal",
-          "url": "https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA"
-        },
-        {
-          "name": "Nuevas Relaciones, Las",
-          "url": "https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c"
-        }
-      ],
-      "duration_ms": 370586,
-      "name": "La vida tiene que seguir, amor",
-      "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Cuenta Conmigo (feat. Oscar Stagnaro)",
         "url": "https://open.spotify.com/album/7zMYmzZ13y8t7aNnBsf9nz"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 217840,
       "name": "Deb\u00ed Llorar",
       "url": "https://open.spotify.com/track/4BLmvUSPSwfMA09mp9Hp14"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Nuevas Relaciones: Atardecer",
+        "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
+      },
+      "artists": [
+        {
+          "name": "Freddy Marichal",
+          "url": "https://open.spotify.com/artist/6ZBb42oo1ieaC08giXjJoA"
+        },
+        {
+          "name": "Nuevas Relaciones, Las",
+          "url": "https://open.spotify.com/artist/2baRW1aGPtYJiA8hsTC61c"
+        }
+      ],
+      "duration_ms": 370586,
+      "name": "La vida tiene que seguir, amor",
+      "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
     },
     {
       "added_at": "2021-07-28 16:44:28",

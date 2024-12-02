@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: Corrella
 
-207 songs - 11 hr 50 min
+208 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Moneypenny](https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Moneypenny](https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6) | 4:18 | 2024-08-15 | 2024-11-29 |
 | [more than a minute](https://open.spotify.com/track/5Y1B8SV62MIqRb4AZdf4IY) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [how to say goodbye](https://open.spotify.com/album/4KcmPWoY1mQKNKcvgqYk4l) | 3:46 | 2024-11-07 | 2024-11-29 |
 | [MUM](https://open.spotify.com/track/5clGAOFUhpXHFIadIpOnTS) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy) | [MUM](https://open.spotify.com/album/1MNGDkn7tYw1Gk7gxMufQO) | 3:22 | 2024-05-20 | 2024-11-08 |
-| [Mumma and Me](https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mumma and Me](https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl) | 3:32 | 2024-05-20 |  |
+| [Mumma and Me](https://open.spotify.com/track/0iurM3sY0Su2R7XG2WHYDn) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mumma and Me](https://open.spotify.com/album/23nYljb31SbYhVd2a3kUAl) | 3:32 | 2024-05-20 | 2024-12-02 |
 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 | 2024-05-20 |  |
 | [My Dawgs](https://open.spotify.com/track/0m8zBWpbZIHbp3Q3JnlpTK) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [Stallyano](https://open.spotify.com/artist/6K0zfmmgJ0PxQ1PUpRMtot) | [My Dawgs](https://open.spotify.com/album/0nEqfJEHXr4QWbMSliFzqJ) | 2:55 | 2024-10-24 |  |
 | [Māori Ki Te Ao](https://open.spotify.com/track/1PEMFdaHfWv4EXUc26Y3dz) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Māori Ki Te Ao](https://open.spotify.com/album/0Uvwm5VfGMa6Hg51lQeXPg) | 3:20 | 2024-05-20 |  |
@@ -163,6 +163,7 @@
 | [Remedy](https://open.spotify.com/track/6Fh6kIGeGO9cBQQ2h5loQ1) | [Wet Denim](https://open.spotify.com/artist/2Y9WUWDMvkHFmeEH3HfbFg) | [Remedy](https://open.spotify.com/album/1rnGeMuSDzwHtkgOfycPds) | 3:20 | 2024-05-20 | 2024-08-16 |
 | [RNZŌ SZN](https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd) | [RNZŌ](https://open.spotify.com/artist/0YLB9rhWBY7cnFdXpEjkgC) | [RNZŌ SZN](https://open.spotify.com/album/588yZw8Jw8V6j50sXFXOpn) | 2:46 | 2024-10-24 |  |
 | [Roses](https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV) | [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Roses](https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu) | 3:35 | 2024-08-15 | 2024-11-29 |
+| [Rubicon](https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Rubicon](https://open.spotify.com/album/4tvUEkPUzDWY4rhLo7iKGW) | 3:33 | 2024-11-28 |  |
 | [Ruby](https://open.spotify.com/track/3j91pD34QoKDOC1NlzjqLz) | [Goodnight My Darling](https://open.spotify.com/artist/3txMnIYPxdp8cuc4Tm8XV6) | [Ruby](https://open.spotify.com/album/5u9bMP7C9gXD1ibYmtrSN8) | 3:59 | 2024-05-20 | 2024-11-08 |
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-12 |  |
 | [Screaming In Your Driveway](https://open.spotify.com/track/6ioWmo3bnXNWJLd484Qux4) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [Screaming In Your Driveway](https://open.spotify.com/album/3dBrKXxoVbd4nxPH5p6qv5) | 4:12 | 2024-05-20 | 2024-08-16 |

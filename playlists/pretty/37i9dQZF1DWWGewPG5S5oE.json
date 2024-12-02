@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u5c0f\u66fd\u6839 \u771f",
-  "num_followers": 40321,
+  "num_followers": 40336,
   "original_name": "Modern Jazz Japan",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
+        "name": "qualia",
+        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
+      },
+      "artists": [
+        {
+          "name": "PRIMITIVE ART ORCHESTRA",
+          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "qualia",
+      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 311693,
       "name": "WE WILL",
       "url": "https://open.spotify.com/track/01qqs2S9rb01JaXSYiaBk0"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
-        "name": "qualia",
-        "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
-      },
-      "artists": [
-        {
-          "name": "PRIMITIVE ART ORCHESTRA",
-          "url": "https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "qualia",
-      "url": "https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
-        "name": "ELECTRIC RIDER",
-        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
-      },
-      "artists": [
-        {
-          "name": "\u99ac\u5834\u667a\u7ae0",
-          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "WHAT IS ??",
-      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300cBEM\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u3000OUTSIDE",
         "url": "https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 250933,
       "name": "Blue Eyed Monster",
       "url": "https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
+        "name": "ELECTRIC RIDER",
+        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "WHAT IS ??",
+      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -443,22 +443,6 @@
       "duration_ms": 239057,
       "name": "New Morning",
       "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
-      },
-      "artists": [
-        {
-          "name": "Hiromi",
-          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
-        }
-      ],
-      "duration_ms": 321346,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -551,18 +535,18 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH"
       },
       "artists": [
         {
-          "name": "Hidefumi Ino",
-          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+          "name": "Hiromi",
+          "url": "https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc"
         }
       ],
-      "duration_ms": 247800,
-      "name": "Spartacus",
-      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
+      "duration_ms": 321346,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -579,6 +563,22 @@
       "duration_ms": 234758,
       "name": "All Too Soon",
       "url": "https://open.spotify.com/track/2Sk27VPkgdLfCeGgOuFpi3"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/0j9epI3pFTdwfQa5PfiYSV"
+      },
+      "artists": [
+        {
+          "name": "Hidefumi Ino",
+          "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "Spartacus",
+      "url": "https://open.spotify.com/track/7J51umZEfClAyNDLPiuemB"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 173662,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
         "name": "MORAL",
         "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
       },
@@ -779,6 +795,26 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
+        "name": "M-P-C \"Mentality, Physicality, Computer\"",
+        "url": "https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD"
+      },
+      "artists": [
+        {
+          "name": "Tomita Lab.",
+          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
+        },
+        {
+          "name": "\u9577\u5ca1\u4eae\u4ecb",
+          "url": "https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK"
+        }
+      ],
+      "duration_ms": 272666,
+      "name": "\u30d1\u30b9\u30ef\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
         "name": "Silent Jazz Case 4",
         "url": "https://open.spotify.com/album/5uTFFDWu3enCmiMxz2Y178"
       },
@@ -791,22 +827,6 @@
       "duration_ms": 253413,
       "name": "Japan Beauty",
       "url": "https://open.spotify.com/track/6mWVGALFfErKjjl5EOYS1D"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
-        "name": "Vortex",
-        "url": "https://open.spotify.com/album/2OQ9XYdCoTsjcSrieOQfEI"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 173662,
-      "name": "Vortex",
-      "url": "https://open.spotify.com/track/5Zb07tmlMx9yh0g3F0HCLI"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -827,22 +847,18 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
-        "name": "M-P-C \"Mentality, Physicality, Computer\"",
-        "url": "https://open.spotify.com/album/2k3yTcmXaR1tDH8QUiG3dD"
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
       },
       "artists": [
         {
-          "name": "Tomita Lab.",
-          "url": "https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD"
-        },
-        {
-          "name": "\u9577\u5ca1\u4eae\u4ecb",
-          "url": "https://open.spotify.com/artist/18rZSYLeI8QvUrWsfv5frK"
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
         }
       ],
-      "duration_ms": 272666,
-      "name": "\u30d1\u30b9\u30ef\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/58Dl8RRRMlXiXJ3pZzjxGY"
+      "duration_ms": 187000,
+      "name": "15 Eunomia",
+      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
     },
     {
       "added_at": "2024-11-27 03:01:14",
@@ -879,42 +895,6 @@
     {
       "added_at": "2024-11-27 03:01:14",
       "album": {
-        "name": "Wind Loop Case 1",
-        "url": "https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b"
-      },
-      "artists": [
-        {
-          "name": "Yusuke Shima",
-          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
-        },
-        {
-          "name": "\u5927\u6d25\u60c7",
-          "url": "https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ"
-        }
-      ],
-      "duration_ms": 223385,
-      "name": "Stompin at the M",
-      "url": "https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "15 Eunomia",
-      "url": "https://open.spotify.com/track/6Rs1Eg7J5nD3Rskr7nz1kj"
-    },
-    {
-      "added_at": "2024-11-27 03:01:14",
-      "album": {
         "name": "eden",
         "url": "https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 237686,
       "name": "eden",
       "url": "https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB"
+    },
+    {
+      "added_at": "2024-11-27 03:01:14",
+      "album": {
+        "name": "Wind Loop Case 1",
+        "url": "https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "\u5927\u6d25\u60c7",
+          "url": "https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ"
+        }
+      ],
+      "duration_ms": 223385,
+      "name": "Stompin at the M",
+      "url": "https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98"
     }
   ],
   "unique_name": "Modern Jazz Japan",

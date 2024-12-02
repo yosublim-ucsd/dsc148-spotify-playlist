@@ -1,6 +1,6 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Gisele Nascimento, Anderson Freire",
-  "num_followers": 579111,
+  "num_followers": 579243,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "O Encontro",
-        "url": "https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q"
+        "name": "Galileu (ao Vivo)",
+        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        },
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 552564,
-      "name": "Sobre As \u00c1guas",
-      "url": "https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE"
+      "duration_ms": 325200,
+      "name": "Galileu - Ao Vivo",
+      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -183,18 +179,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Galileu (ao Vivo)",
-        "url": "https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3"
+        "name": "O Encontro",
+        "url": "https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         }
       ],
-      "duration_ms": 325200,
-      "name": "Galileu - Ao Vivo",
-      "url": "https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e"
+      "duration_ms": 552564,
+      "name": "Sobre As \u00c1guas",
+      "url": "https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -267,38 +267,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Deus Cuida de Mim",
-        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
-      },
-      "artists": [
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
-        }
-      ],
-      "duration_ms": 245063,
-      "name": "Deus Cuida de Mim",
-      "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 259691,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Aline Barros - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/21o5X3kgFGfGNvQwpqp3Kx"
       },
@@ -331,6 +299,38 @@
       "duration_ms": 339033,
       "name": "Deus de Promessas",
       "url": "https://open.spotify.com/track/4HKLVCgmv0R8R7PbHgS6hP"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae"
+      },
+      "artists": [
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "duration_ms": 245063,
+      "name": "Deus Cuida de Mim",
+      "url": "https://open.spotify.com/track/449TmbIw140iAdtYpUWB4h"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 259691,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
-        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 439266,
-      "name": "Ou\u00e7o Deus Me Chamar",
-      "url": "https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Cassiane - Gospel Collection Ao Vivo",
         "url": "https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE"
       },
@@ -551,6 +535,38 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5iVinoFUTYOa4XxG98xxOA"
+      },
+      "artists": [
+        {
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+        }
+      ],
+      "duration_ms": 399360,
+      "name": "Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve - Ao Vivo",
+      "url": "https://open.spotify.com/track/5otPb7Zvj6WOa7hoUk11sI"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Para Orar e Adorar 3 - Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 439266,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/2IAkyzxYd9QPnWRhHsWMO2"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Diante do Trono (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 511226,
       "name": "Abra os Olhos do Meu Cora\u00e7\u00e3o - Ao Vivo em Curitiba",
       "url": "https://open.spotify.com/track/308mpl3G2FseXxGEjtyLIW"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5iVinoFUTYOa4XxG98xxOA"
-      },
-      "artists": [
-        {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
-        }
-      ],
-      "duration_ms": 399360,
-      "name": "Obrigado Jesus Pelo Seu Sangue / Alvo Mais Que a Neve - Ao Vivo",
-      "url": "https://open.spotify.com/track/5otPb7Zvj6WOa7hoUk11sI"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -631,6 +631,42 @@
       "duration_ms": 264164,
       "name": "N\u00e3o H\u00e1 Barreiras - Ao Vivo",
       "url": "https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome (Ao Vivo)",
+        "url": "https://open.spotify.com/album/63YHw72apN2b7cQ67H520u"
+      },
+      "artists": [
+        {
+          "name": "BRASAS",
+          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
+        },
+        {
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        },
+        {
+          "name": "Carol Braga",
+          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
+        },
+        {
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        },
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        },
+        {
+          "name": "Jeser Pires",
+          "url": "https://open.spotify.com/artist/01PC7nidJabM3Z9igap9GD"
+        }
+      ],
+      "duration_ms": 382605,
+      "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome - Ao Vivo",
+      "url": "https://open.spotify.com/track/33WRUMm8kEIeP3OWuJEjiD"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -703,38 +739,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome (Ao Vivo)",
-        "url": "https://open.spotify.com/album/63YHw72apN2b7cQ67H520u"
+        "name": "20 Anos de Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
       },
       "artists": [
         {
-          "name": "BRASAS",
-          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         },
         {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        },
-        {
-          "name": "Carol Braga",
-          "url": "https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA"
-        },
-        {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        },
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        },
-        {
-          "name": "Jeser Pires",
-          "url": "https://open.spotify.com/artist/01PC7nidJabM3Z9igap9GD"
+          "name": "Toque no Altar",
+          "url": "https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5"
         }
       ],
-      "duration_ms": 382605,
-      "name": "Quando o C\u00e9u Invade a Terra / Fogo Que Consome - Ao Vivo",
-      "url": "https://open.spotify.com/track/33WRUMm8kEIeP3OWuJEjiD"
+      "duration_ms": 348433,
+      "name": "Sobre As \u00c1guas",
+      "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -755,26 +775,6 @@
       "duration_ms": 847493,
       "name": "Abra\u00e7a-Me - Ao Vivo em BH",
       "url": "https://open.spotify.com/track/1QrwPl2n8TeAmsgIPPAcxb"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "20 Anos de Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/79MbPZxQDWw1Tn6zvBhIG5"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        },
-        {
-          "name": "Toque no Altar",
-          "url": "https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5"
-        }
-      ],
-      "duration_ms": 348433,
-      "name": "Sobre As \u00c1guas",
-      "url": "https://open.spotify.com/track/6ZZNZQYx2W5zvHoy6F4PCa"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 381318,
-      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
-      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Te Quero Mais do Que Tudo",
         "url": "https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj"
       },
@@ -975,6 +959,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 381318,
+      "name": "Consagra\u00e7\u00e3o / Louvor ao Rei",
+      "url": "https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Legado 40 Anos - Ato 3: Igreja na Rua (Ao Vivo)",
         "url": "https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t"
       },
@@ -991,18 +991,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Compromisso",
-        "url": "https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8"
+        "name": "Primeiro Passo",
+        "url": "https://open.spotify.com/album/0aGGbmF94fwpsFe3M8poC9"
       },
       "artists": [
         {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+          "name": "Rose Nascimento",
+          "url": "https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL"
         }
       ],
-      "duration_ms": 319924,
-      "name": "Faz Um Milagre em Mim",
-      "url": "https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7"
+      "duration_ms": 287506,
+      "name": "No Sil\u00eancio",
+      "url": "https://open.spotify.com/track/1pgHsf1WqOR7aCiqL3XYO7"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1023,6 +1023,38 @@
       "duration_ms": 450857,
       "name": "Amigo Fiel - Live",
       "url": "https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Compromisso",
+        "url": "https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        }
+      ],
+      "duration_ms": 319924,
+      "name": "Faz Um Milagre em Mim",
+      "url": "https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Ao Vivo no Maracan\u00e3zinho, Vol. 2",
+        "url": "https://open.spotify.com/album/3nzmSrSJvEOeIopNtdSYCS"
+      },
+      "artists": [
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+        }
+      ],
+      "duration_ms": 487173,
+      "name": "Marca da Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/3RWAeIE2pfAeIvvsSn6D5G"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1059,22 +1091,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Primeiro Passo",
-        "url": "https://open.spotify.com/album/0aGGbmF94fwpsFe3M8poC9"
-      },
-      "artists": [
-        {
-          "name": "Rose Nascimento",
-          "url": "https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL"
-        }
-      ],
-      "duration_ms": 287506,
-      "name": "No Sil\u00eancio",
-      "url": "https://open.spotify.com/track/1pgHsf1WqOR7aCiqL3XYO7"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Os Sonhos de Deus - Recebe a Cura - Adora\u00e7\u00e3o Prof\u00e9tica 1",
         "url": "https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs"
       },
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "O Nome de Jesus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 307741,
-      "name": "O Nome de Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Momentos de Louvor, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/1FPGbA99QB9qRXYgDV1oAP"
       },
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "O Nome de Jesus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tWsYZoqbcrOPhgcV3LFyx"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 307741,
+      "name": "O Nome de Jesus - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ok3svYGJrCfQ6ViegSIqZ"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Exaltado (Ao Vivo)",
         "url": "https://open.spotify.com/album/0RE80aGvb10IWjoRWMH37G"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 593773,
       "name": "A Ele A Gl\u00f3ria - Ao Vivo",
       "url": "https://open.spotify.com/track/0semeHbsomB2omjIKuJgAA"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Ao Vivo no Maracan\u00e3zinho, Vol. 2",
-        "url": "https://open.spotify.com/album/3nzmSrSJvEOeIopNtdSYCS"
-      },
-      "artists": [
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
-        }
-      ],
-      "duration_ms": 487173,
-      "name": "Marca da Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/3RWAeIE2pfAeIvvsSn6D5G"
     },
     {
       "added_at": "2024-11-29 03:01:00",

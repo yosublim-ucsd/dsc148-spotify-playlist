@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 181561,
       "name": "Coraz\u00f3n de Oropel",
       "url": "https://open.spotify.com/track/4ElpgolmbckWlExHAXC39m"
@@ -3002,6 +3002,24 @@
       "duration_ms": 149952,
       "name": "El Disgusto",
       "url": "https://open.spotify.com/track/5IeqLWv5N3sZkGcFccadyt"
+    },
+    {
+      "album": {
+        "name": "El Dorado Fue Cobre",
+        "url": "https://open.spotify.com/album/6QCg0x55bd55x6KzmSLUc4"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200127,
+      "name": "El Dorado Fue Cobre",
+      "url": "https://open.spotify.com/track/5HkCSKHMzvG7RxA3sMYhAb"
     },
     {
       "album": {

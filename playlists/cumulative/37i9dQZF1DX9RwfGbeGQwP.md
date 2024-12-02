@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,496 songs - 2 day 8 hr 19 min
+1,497 songs - 2 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1031,7 +1031,7 @@
 | [Puppy Attakk](https://open.spotify.com/track/3nSzRd7SyJgfjANyMhplh3) | [wahzaf:tru](https://open.spotify.com/artist/1PZFqQ7hbIOK3Drq2aXKuC) | [Puppy Attakk](https://open.spotify.com/album/4ctCw71T1KsVWCg9g0OdrY) | 3:12 | 2023-10-06 | 2024-06-01 |
 | [Purple Dress](https://open.spotify.com/track/2CNAK398ZWTjt7TJhZXbNT) | [lagom.](https://open.spotify.com/artist/2isRNqunLqbfBjiXZ4ZGdX) | [Purple Dress](https://open.spotify.com/album/7I9FUIhdhV0deg1XiZ8s5F) | 2:30 | 2022-07-08 | 2023-04-21 |
 | [Purple Skies](https://open.spotify.com/track/1fhsrPZVn5i7tsEsbspzgM) | [Venti](https://open.spotify.com/artist/1g1rRWEsI2Wy2xVALwaeaL) | [Purple Skies](https://open.spotify.com/album/4Thel3mQHPCmIUUaQgoN7B) | 2:17 | 2023-11-24 | 2024-05-14 |
-| [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 | 2022-09-02 |  |
+| [pyjamas](https://open.spotify.com/track/2hUhKjunV4ryNKlQmnDqN0) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [pyjamas](https://open.spotify.com/album/1k5jnVJrROUCzvUVvrbKXT) | 2:02 | 2022-09-02 | 2024-12-02 |
 | [pyramids](https://open.spotify.com/track/313eJh505wri03xuiBpvWc) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [pyramids](https://open.spotify.com/album/451J4BD9m0VD98OAViQ1tx) | 2:01 | 2024-08-23 |  |
 | [queue](https://open.spotify.com/track/6p7WEWtYxc0JqrJJOYFsJn) | [sumwut](https://open.spotify.com/artist/6rDyCgfBm5atHVVNFxLFn0) | [queue](https://open.spotify.com/album/3iQMbmMhC355C1L6d18uoo) | 2:12 | 2022-07-29 | 2023-08-04 |
 | [Quickly](https://open.spotify.com/track/3klS1XdaiAt2mkvtHYfOCK) | [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Bittersweet](https://open.spotify.com/album/7mUs0A1m3ceo8HUsLM15BT) | 2:58 | 2022-08-19 | 2023-01-13 |
@@ -1168,6 +1168,7 @@
 | [sloe](https://open.spotify.com/track/2CHP4QnEwOIPCOmtTEKZH3) | [static breather](https://open.spotify.com/artist/7Cs5V32aCaZI0kSYXSk30A) | [sloe](https://open.spotify.com/album/2lCN8iMb7UsSYkJyglOWBg) | 1:47 | 2022-07-15 | 2024-05-01 |
 | [Slow Down](https://open.spotify.com/track/1upQ0IyUimyLT91FRJ7Z9p) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Slow Down](https://open.spotify.com/album/2jZBhwLmcxnwPSjQ2GHDeV) | 2:09 | 2022-07-22 | 2022-11-20 |
 | [Slow Down](https://open.spotify.com/track/5jIc8HHITLlEZcsqHF1cev) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Slow Down](https://open.spotify.com/album/1wQxmN5bHRak6a6IANpB93) | 2:09 | 2022-11-11 | 2022-12-10 |
+| [slow moves](https://open.spotify.com/track/17fFyEO0vkh4or1mJ207vz) | [Reve brumeux](https://open.spotify.com/artist/2ZlVEhVqWhxjhWl8awyoDY) | [slow moves](https://open.spotify.com/album/5hT01YQUpCir1cMF75q0dp) | 1:52 | 2024-11-29 |  |
 | [slow talker](https://open.spotify.com/track/14J0lsWN28VepmhmmvKKYw) | [yoshi the brilliant](https://open.spotify.com/artist/6k8AnK3Kuk6fv1AQu0IGBJ) | [slow talker](https://open.spotify.com/album/5LdTlYWrzL9aRJzfPVdgdl) | 2:50 | 2023-08-03 | 2024-09-22 |
 | [sluggish](https://open.spotify.com/track/1rdqpGkERZwwITr76nRsfX) | [Too Blue](https://open.spotify.com/artist/64dFA30C8QUhkgcTjAlZ4b) | [sluggish](https://open.spotify.com/album/3G6zHEOb8Itizqw7aL6DT2) | 2:03 | 2022-07-22 | 2023-04-21 |
 | [Slush Avalanche](https://open.spotify.com/track/1aUPXRbtZxrFt9DjaauwGv) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [Slush Avalanche](https://open.spotify.com/album/4OiQ64MOUIJ9YHdpTZxP3j) | 2:24 | 2023-04-20 | 2024-11-05 |

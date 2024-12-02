@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Global.",
-  "num_followers": 1772486,
+  "num_followers": 1772497,
   "original_name": "Viral 50 - Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lt6EUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lt/RIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Gece Film (Soundtrack)",
         "url": "https://open.spotify.com/album/7Kenl6rraE4GJi7RRev7LD"
@@ -25,7 +25,27 @@
       "url": "https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
+        "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
+      },
+      "artists": [
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/7giHVN9ZtS1y4CtkjNT6pK"
+        },
+        {
+          "name": "\u041c\u0430\u0440\u0438\u044f \u042f\u043d\u043a\u043e\u0432\u0441\u043a\u0430\u044f",
+          "url": "https://open.spotify.com/artist/3BWzDZ5cdEVJAGErS92muA"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
+      "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Victory Anthem",
         "url": "https://open.spotify.com/album/2qcvlrz2bh9ExDluhtNDAs"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/2ZIqGTUu9YpNm8R6cKfdJV"
@@ -73,7 +93,23 @@
       "url": "https://open.spotify.com/track/355ygyd1nLXeJAz7Zbapwj"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "BAD BOY LOVESTORY",
+        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        }
+      ],
+      "duration_ms": 164234,
+      "name": "KONGOLESE SOUS BBL",
+      "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Sucker (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT"
@@ -97,7 +133,7 @@
       "url": "https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "To Ashes and Blood (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/3tm2lX4PPpYX1aRAJrgl2R"
@@ -121,43 +157,7 @@
       "url": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "BAD BOY LOVESTORY",
-        "url": "https://open.spotify.com/album/2ywuGcPMEEHP1ZnZ7MMzIi"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        }
-      ],
-      "duration_ms": 164234,
-      "name": "KONGOLESE SOUS BBL",
-      "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/43WadbDjTaVOZamDGPkRqV"
@@ -181,7 +181,27 @@
       "url": "https://open.spotify.com/track/7dqTJ7Ba3VtBtGTXHRK8N8"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
@@ -197,7 +217,7 @@
       "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Hellfire (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE"
@@ -221,7 +241,7 @@
       "url": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6r8UT9MVb36K5XeGVUCqVA"
@@ -245,7 +265,23 @@
       "url": "https://open.spotify.com/track/0ftoT1YpcxirRkamObuop0"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/2Iu5auPZp12ftZiNv0eZP5"
@@ -269,23 +305,23 @@
       "url": "https://open.spotify.com/track/0i77506epd8NgmHxZwMOwS"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+        "name": "Ils se demandent",
+        "url": "https://open.spotify.com/album/4q2sSOHQcDpVsZ7oFFGDaF"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Denden",
+          "url": "https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY"
         }
       ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+      "duration_ms": 102875,
+      "name": "Ils se demandent",
+      "url": "https://open.spotify.com/track/4Bqa1dZPJfHKRfUVRLsSW1"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)",
         "url": "https://open.spotify.com/album/4Q3RdIIabU5csHjoe8b8Qh"
@@ -329,7 +365,23 @@
       "url": "https://open.spotify.com/track/7MD8gswt08VhFwVF1PR8Mg"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "Speak For Yourself",
+        "url": "https://open.spotify.com/album/7sJMiEjWDtUg3ccvn2QsUC"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/3iKpHZWqkPuzYRUAOhz0To"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Come Play (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
@@ -361,23 +413,23 @@
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
-        "name": "Speak for Yourself",
-        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
         }
       ],
-      "duration_ms": 215481,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -393,7 +445,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Paint The Town Blue (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
@@ -417,23 +469,7 @@
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "blue",
-        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
-      },
-      "artists": [
-        {
-          "name": "yung kai",
-          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "blue",
-      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Sana G\u00fcvenmiyorum (Dedub Sessions)",
         "url": "https://open.spotify.com/album/5ZcHiC8fUSjtOSDw0JaJGv"
@@ -453,47 +489,7 @@
       "url": "https://open.spotify.com/track/1lNcnIU4jtqD69Qtfjh8EJ"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "Mevzu Derin",
-        "url": "https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7"
-      },
-      "artists": [
-        {
-          "name": "Soner Sar\u0131kabaday\u0131",
-          "url": "https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Mevzu Derin",
-      "url": "https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "Medley de Igarat\u00e1 3",
-        "url": "https://open.spotify.com/album/6l0tPCspEGygy7QdvJaGjz"
-      },
-      "artists": [
-        {
-          "name": "Mc Neg\u00e3o Original",
-          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
-        },
-        {
-          "name": "DJ Guh Mix",
-          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
-        },
-        {
-          "name": "DJ Japa NK",
-          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
-        }
-      ],
-      "duration_ms": 265750,
-      "name": "Medley de Igarat\u00e1 3",
-      "url": "https://open.spotify.com/track/4FbYt9D0katV4nXZaC01Yt"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Best Buds",
         "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
@@ -509,47 +505,23 @@
       "url": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
-        "name": "Raanjhan (From \"Do Patti\")",
-        "url": "https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW"
+        "name": "Mevzu Derin",
+        "url": "https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7"
       },
       "artists": [
         {
-          "name": "Sachet-Parampara",
-          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+          "name": "Soner Sar\u0131kabaday\u0131",
+          "url": "https://open.spotify.com/artist/4T83el9VQDI0zOyU9zcYNq"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Raanjhan (From \"Do Patti\")",
-      "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
+      "duration_ms": 209866,
+      "name": "Mevzu Derin",
+      "url": "https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "Tattoo (Spanish Version)",
-        "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
-      },
-      "artists": [
-        {
-          "name": "Kevz",
-          "url": "https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg"
-        }
-      ],
-      "duration_ms": 152957,
-      "name": "Tattoo - Spanish Version",
-      "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Faz de Chicote",
         "url": "https://open.spotify.com/album/59xJk5vaSitPB4nD5GAsAA"
@@ -573,7 +545,87 @@
       "url": "https://open.spotify.com/track/3LSoo9OiPF4OQ3LQbyqXE0"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "Medley de Igarat\u00e1 3",
+        "url": "https://open.spotify.com/album/6l0tPCspEGygy7QdvJaGjz"
+      },
+      "artists": [
+        {
+          "name": "Mc Neg\u00e3o Original",
+          "url": "https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP"
+        },
+        {
+          "name": "DJ Guh Mix",
+          "url": "https://open.spotify.com/artist/3zG4hHVlA4xIX5jwvOa2KD"
+        },
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        }
+      ],
+      "duration_ms": 265750,
+      "name": "Medley de Igarat\u00e1 3",
+      "url": "https://open.spotify.com/track/4FbYt9D0katV4nXZaC01Yt"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "Raanjhan (From \"Do Patti\")",
+        "url": "https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW"
+      },
+      "artists": [
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Raanjhan (From \"Do Patti\")",
+      "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "Tattoo (Spanish Version)",
+        "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
+      },
+      "artists": [
+        {
+          "name": "Kevz",
+          "url": "https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg"
+        }
+      ],
+      "duration_ms": 152957,
+      "name": "Tattoo - Spanish Version",
+      "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
+        }
+      ],
+      "duration_ms": 144113,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu"
@@ -597,83 +649,7 @@
       "url": "https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
-      },
-      "artists": [
-        {
-          "name": "Stepz",
-          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
-        }
-      ],
-      "duration_ms": 144113,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "BAD PARENTING FUNK",
-        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
-      },
-      "artists": [
-        {
-          "name": "DJ CEREJASS",
-          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
-        },
-        {
-          "name": "Sayfalse",
-          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
-        }
-      ],
-      "duration_ms": 87834,
-      "name": "BAD PARENTING FUNK",
-      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "En Otra Vida",
-        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 153609,
-      "name": "En Otra Vida",
-      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Parte & Choke",
         "url": "https://open.spotify.com/album/0JjFiOt1Ws7Fy5itavO13r"
@@ -697,75 +673,47 @@
       "url": "https://open.spotify.com/track/69vi5SUSJJF0CQJCZngFFS"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+        "name": "BAD PARENTING FUNK",
+        "url": "https://open.spotify.com/album/2DNOGCn0szoh9f3rAnhF7b"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "DJ CEREJASS",
+          "url": "https://open.spotify.com/artist/1iKfUld50BOVBIgHy3GlGt"
         },
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Sayfalse",
+          "url": "https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB"
         }
       ],
-      "duration_ms": 278014,
-      "name": "Like Him (feat. Lola Young)",
-      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
+      "duration_ms": 87834,
+      "name": "BAD PARENTING FUNK",
+      "url": "https://open.spotify.com/track/6kJjlOWBwnDwIBsvlwTNIF"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke (Opening Theme to DAN DA DAN)",
-        "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
-      },
-      "artists": [
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
         {
-          "name": "Creepy Nuts",
-          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 185626,
-      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke - Opening Theme to DAN DA DAN",
-      "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "If I Should Fall from Grace with God (Expanded Edition)",
         "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
@@ -785,23 +733,43 @@
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
-        "name": "4 Kamp\u00e9",
-        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
       },
       "artists": [
         {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
         }
       ],
-      "duration_ms": 214971,
-      "name": "4 Kamp\u00e9",
-      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
+      "duration_ms": 153609,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Romantic Piano",
         "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
@@ -817,43 +785,91 @@
       "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
-        "name": "I Think They Call This Love",
-        "url": "https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu"
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
       "artists": [
         {
-          "name": "Elliot James Reay",
-          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "I Think They Call This Love",
-      "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "Nardy World",
-        "url": "https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy"
-      },
-      "artists": [
-        {
-          "name": "Loe Shimmy",
-          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 203624,
-      "name": "For Me (feat. Brent Faiyaz) - Remix",
-      "url": "https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y"
+      "duration_ms": 278014,
+      "name": "Like Him (feat. Lola Young)",
+      "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "4 Kamp\u00e9",
+        "url": "https://open.spotify.com/album/7ns1gjXstFSrBTFe81id88"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 214971,
+      "name": "4 Kamp\u00e9",
+      "url": "https://open.spotify.com/track/7dzuYJwwtNnfcptmbD58aJ"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke (Opening Theme to DAN DA DAN)",
+        "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
+      },
+      "artists": [
+        {
+          "name": "Creepy Nuts",
+          "url": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke - Opening Theme to DAN DA DAN",
+      "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "S\u00f6nen Sigaralar",
+      "url": "https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -873,7 +889,43 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "I Think They Call This Love",
+        "url": "https://open.spotify.com/album/5bZT73mZyTvxu3de7BBhEu"
+      },
+      "artists": [
+        {
+          "name": "Elliot James Reay",
+          "url": "https://open.spotify.com/artist/2PI9HrzzMTN7E5poWl4QX5"
+        }
+      ],
+      "duration_ms": 193573,
+      "name": "I Think They Call This Love",
+      "url": "https://open.spotify.com/track/4oHQ8n9OKQ3599e8noCrDX"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
+      "album": {
+        "name": "Nardy World",
+        "url": "https://open.spotify.com/album/546FvdeuoSf9FA2o6RMpOy"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 203624,
+      "name": "For Me (feat. Brent Faiyaz) - Remix",
+      "url": "https://open.spotify.com/track/2mo4wJKJJR2lQCZYnTaI4Y"
+    },
+    {
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Bing Bong",
         "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
@@ -893,23 +945,7 @@
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "S\u00f6nen Sigaralar",
-      "url": "https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Ama Yine Sen",
         "url": "https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj"
@@ -925,7 +961,7 @@
       "url": "https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
@@ -941,75 +977,27 @@
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+        "name": "SPOOKY",
+        "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "fennecxx",
+          "url": "https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2"
         },
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "DJ ALEX",
+          "url": "https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL"
         }
       ],
-      "duration_ms": 255915,
-      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
-      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+      "duration_ms": 96923,
+      "name": "SPOOKY",
+      "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21 - Single",
-        "url": "https://open.spotify.com/album/74xRXPyQxRiFj29WW1F1Ka"
-      },
-      "artists": [
-        {
-          "name": "Cocktail",
-          "url": "https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb"
-        }
-      ],
-      "duration_ms": 207387,
-      "name": "\u0e19\u0e49\u0e33\u0e2b\u0e2d\u0e21",
-      "url": "https://open.spotify.com/track/3grGyWGWsuIUxA2CudpwAB"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
-      "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/5eRGBk1uRevmtq1A9R2HS0"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Yeri Mua",
-          "url": "https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 217298,
-      "name": "Nena Moxita",
-      "url": "https://open.spotify.com/track/7gG2xMiojQrsTUGa7qeQoo"
-    },
-    {
-      "added_at": "2024-11-30 13:50:15",
+      "added_at": "2024-12-01 15:21:52",
       "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"

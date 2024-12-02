@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 24139,
+  "num_followers": 24151,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233098,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
       },
@@ -175,18 +191,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
       },
       "artists": [
         {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
         }
       ],
-      "duration_ms": 233098,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
+      "duration_ms": 229627,
+      "name": "COME BACK HOME",
+      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -219,22 +235,6 @@
       "duration_ms": 205192,
       "name": "ALWAYS",
       "url": "https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 229627,
-      "name": "COME BACK HOME",
-      "url": "https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Trouble Maker",
-        "url": "https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm"
-      },
-      "artists": [
-        {
-          "name": "Trouble Maker",
-          "url": "https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9"
-        }
-      ],
-      "duration_ms": 219637,
-      "name": "Trouble Maker",
-      "url": "https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 214380,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Trouble Maker",
+        "url": "https://open.spotify.com/album/130MEXfaPjOmSkE18F9rJm"
+      },
+      "artists": [
+        {
+          "name": "Trouble Maker",
+          "url": "https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9"
+        }
+      ],
+      "duration_ms": 219637,
+      "name": "Trouble Maker",
+      "url": "https://open.spotify.com/track/0RP3Qjp1QhIjhtG7gYoBqn"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "I GOT A BOY - The 4th Album",
-        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        }
-      ],
-      "duration_ms": 271325,
-      "name": "I GOT A BOY",
-      "url": "https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Mr. Simple - The 5th Album",
         "url": "https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 241826,
       "name": "Mr. Simple",
       "url": "https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "I GOT A BOY - The 4th Album",
+        "url": "https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        }
+      ],
+      "duration_ms": 271325,
+      "name": "I GOT A BOY",
+      "url": "https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -627,6 +627,22 @@
       "duration_ms": 217835,
       "name": "Loner",
       "url": "https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Lucifer - The 2nd Album",
+        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 233986,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -679,38 +695,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Give It To Me",
-        "url": "https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 201325,
-      "name": "Give it to me",
-      "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "Lucifer - The 2nd Album",
-        "url": "https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 233986,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "BIGBANG Special Edition",
         "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 223786,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Give It To Me",
+        "url": "https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 201325,
+      "name": "Give it to me",
+      "url": "https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Bubble Pop!",
-        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
-      },
-      "artists": [
-        {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
-        }
-      ],
-      "duration_ms": 212244,
-      "name": "Bubble Pop!",
-      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "The 1st Album 'XOXO' (Repackage)",
         "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 230600,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Bubble Pop!",
+        "url": "https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp"
+      },
+      "artists": [
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "duration_ms": 212244,
+      "name": "Bubble Pop!",
+      "url": "https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "CRUSH",
-        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Mama - The 1st Mini Album",
         "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
@@ -1079,22 +1063,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "INFINITIZE",
-        "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
-      },
-      "artists": [
-        {
-          "name": "INFINITE",
-          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
-        }
-      ],
-      "duration_ms": 202520,
-      "name": "The Chaser",
-      "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Pink Tape - The 2nd Album",
         "url": "https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z"
       },
@@ -1107,6 +1075,38 @@
       "duration_ms": 197672,
       "name": "\uccab \uc0ac\ub791\ub2c8 (Rum Pum Pum Pum)",
       "url": "https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "CRUSH",
+        "url": "https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "INFINITIZE",
+        "url": "https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "duration_ms": 202520,
+      "name": "The Chaser",
+      "url": "https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Act. 7",
-        "url": "https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B"
-      },
-      "artists": [
-        {
-          "name": "4Minute",
-          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "MADE SERIES",
         "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 212893,
       "name": "Let's not fall in love - KR Ver.",
       "url": "https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Act. 7",
+        "url": "https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B"
+      },
+      "artists": [
+        {
+          "name": "4Minute",
+          "url": "https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Grown-Up",
-        "url": "https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx"
-      },
-      "artists": [
-        {
-          "name": "FTISLAND",
-          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
-        }
-      ],
-      "duration_ms": 250644,
-      "name": "Severely",
-      "url": "https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "MADE SERIES",
         "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
+        "name": "Grown-Up",
+        "url": "https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx"
+      },
+      "artists": [
+        {
+          "name": "FTISLAND",
+          "url": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ"
+        }
+      ],
+      "duration_ms": 250644,
+      "name": "Severely",
+      "url": "https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
         "name": "Volume Up",
         "url": "https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 230008,
       "name": "Volume Up",
       "url": "https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "NU ABO",
+        "url": "https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO"
+      },
+      "artists": [
+        {
+          "name": "f(x)",
+          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "NU ABO",
+      "url": "https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1395,22 +1411,6 @@
       "duration_ms": 234057,
       "name": "Second confession",
       "url": "https://open.spotify.com/track/3gJp5iMDX2yM0PN9CXrHBF"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
-        "name": "NU ABO",
-        "url": "https://open.spotify.com/album/2jwIyBUS9C4yGgr1Guq8YO"
-      },
-      "artists": [
-        {
-          "name": "f(x)",
-          "url": "https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "NU ABO",
-      "url": "https://open.spotify.com/track/1NcsCToPRUh9AI6ua83jAm"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "\uc5ec\uc790 \ub300\ud1b5\ub839",
-        "url": "https://open.spotify.com/album/6u4OXPhdT6eQa9jrNnhfPX"
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
       },
       "artists": [
         {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
         }
       ],
-      "duration_ms": 212640,
-      "name": "\uc5ec\uc790 \ub300\ud1b5\ub839",
-      "url": "https://open.spotify.com/track/0cFGAeKZriFUSwg1b0CIY7"
+      "duration_ms": 204181,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/4w65wiJvFz8ea3bbeFl7kI"
     }
   ],
   "unique_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",

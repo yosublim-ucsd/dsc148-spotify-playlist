@@ -20553,6 +20553,24 @@
     },
     {
       "album": {
+        "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
+        "url": "https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc"
+      },
+      "artists": [
+        {
+          "name": "Jannat",
+          "url": "https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250635,
+      "name": "\u0643\u0623\u0646\u0643 \u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF"
+    },
+    {
+      "album": {
         "name": "\u0643\u0625\u0646\u0643 \u0645\u0633\u0643\u0646",
         "url": "https://open.spotify.com/album/2ukwdLszuyImuImHrpfyQW"
       },

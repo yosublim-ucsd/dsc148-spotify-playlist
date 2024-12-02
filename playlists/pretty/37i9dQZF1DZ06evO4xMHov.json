@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 61690,
+  "num_followers": 61696,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAD2c8rY0z8BvL10SWphwqMp",
+  "snapshot_id": "Z0pVgAAAAAAkiHlS6USggOzWfbzyA9xS",
   "tracks": [
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7HZGHG5ElP7mbYK8WuKFBd"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 348809,
-      "name": "Hosana - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Kf8ujQyyQIhwQksSQHQqM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus (Ao Vivo)",
         "url": "https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 437418,
       "name": "Jesus - Ao Vivo",
       "url": "https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7HZGHG5ElP7mbYK8WuKFBd"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 348809,
+      "name": "Hosana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Kf8ujQyyQIhwQksSQHQqM"
     },
     {
       "added_at": null,
@@ -987,6 +987,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00edvea Soares 10 Anos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 417573,
+      "name": "Me Esvaziar",
+      "url": "https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3 Existe Um Lugar (Ao Vivo)",
         "url": "https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN"
       },
@@ -1007,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00edvea Soares 10 Anos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1pzFv6y05pHyhZQMfuQJTA"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 417573,
-      "name": "Me Esvaziar",
-      "url": "https://open.spotify.com/track/7HemTaab1JIVwxizP0tZSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7HZGHG5ElP7mbYK8WuKFBd"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 304778,
-      "name": "Um S\u00f3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/4klrbYfH3U5Ix0q1WJq1SI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Acende o Fogo / Eu Me Prostro (Ao Vivo)",
         "url": "https://open.spotify.com/album/1nwCVNk24Z3iKotK788Dvw"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 508432,
       "name": "Acende o Fogo / Eu Me Prostro - Ao Vivo",
       "url": "https://open.spotify.com/track/19XUB0kiYgNVx0RRx8sdls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7HZGHG5ElP7mbYK8WuKFBd"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 304778,
+      "name": "Um S\u00f3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4klrbYfH3U5Ix0q1WJq1SI"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

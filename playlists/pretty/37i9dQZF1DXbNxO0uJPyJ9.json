@@ -1,6 +1,6 @@
 {
   "description": "Classic 12\" singles to take you back to the the vinyl era.",
-  "num_followers": 717285,
+  "num_followers": 717470,
   "original_name": "12\" Classics",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Westside 25th Anniversary",
-        "url": "https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2"
-      },
-      "artists": [
-        {
-          "name": "Camouflage",
-          "url": "https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN"
-        }
-      ],
-      "duration_ms": 328000,
-      "name": "The Great Commandment",
-      "url": "https://open.spotify.com/track/6As51KsSXmA7SUmM32t8UZ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "12\" 80s Classics",
         "url": "https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 534693,
       "name": "Tainted Love / Where Did Our Love Go? - Extended Version",
       "url": "https://open.spotify.com/track/0ycfB6M8iIDQvVMq9uKMDs"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Westside 25th Anniversary",
+        "url": "https://open.spotify.com/album/5vLIUQ71BxikOdHqpBcpG2"
+      },
+      "artists": [
+        {
+          "name": "Camouflage",
+          "url": "https://open.spotify.com/artist/2YTbBGa3Tf2rRPhiJxWoUN"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "The Great Commandment",
+      "url": "https://open.spotify.com/track/6As51KsSXmA7SUmM32t8UZ"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -575,22 +575,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+        "name": "Best Remixes",
+        "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
       },
       "artists": [
         {
           "name": "New Order",
           "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        },
-        {
-          "name": "Shep Pettibone",
-          "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
         }
       ],
-      "duration_ms": 543440,
-      "name": "True Faith - Shep Pettibone 12\" Remix",
-      "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
+      "duration_ms": 427480,
+      "name": "Blue Monday ('88) - 12\" Version",
+      "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -607,6 +603,22 @@
       "duration_ms": 359293,
       "name": "Theme from S'Express - 12\" Version",
       "url": "https://open.spotify.com/track/6ccIWKEpKvp7YYWLbD3ckK"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 501333,
+      "name": "Vogue - 12\" Version",
+      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -639,22 +651,6 @@
       "duration_ms": 310133,
       "name": "The Riddle - Extended Riddle",
       "url": "https://open.spotify.com/track/0igY0kvEQIEyvC9Uj9DYY1"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/4TOE2rwaoCsdIgtGlQmsnX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 501333,
-      "name": "Vogue - 12\" Version",
-      "url": "https://open.spotify.com/track/1mHnxub5pXrAXQUCpyRoAp"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -723,34 +719,38 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 396920,
-      "name": "True Blue - The Color Mix",
-      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
-        "name": "Best Remixes",
-        "url": "https://open.spotify.com/album/2OCcLfOyYhjOiWLBW0dIE2"
+        "name": "Brotherhood (Collector's Edition)",
+        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
       },
       "artists": [
         {
           "name": "New Order",
           "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        },
+        {
+          "name": "Shep Pettibone",
+          "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
         }
       ],
-      "duration_ms": 427480,
-      "name": "Blue Monday ('88) - 12\" Version",
-      "url": "https://open.spotify.com/track/2atyvzH4QfX2sGvh380UrG"
+      "duration_ms": 543440,
+      "name": "True Faith - Shep Pettibone 12\" Remix",
+      "url": "https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Dance Vault Remixes",
+        "url": "https://open.spotify.com/album/3zGFU1Eq1SCPkmYGmuCCxB"
+      },
+      "artists": [
+        {
+          "name": "The Pointer Sisters",
+          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+        }
+      ],
+      "duration_ms": 343333,
+      "name": "I'm So Excited (12\" Extended Mix)",
+      "url": "https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Dance Vault Remixes",
-        "url": "https://open.spotify.com/album/3zGFU1Eq1SCPkmYGmuCCxB"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
-          "name": "The Pointer Sisters",
-          "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 343333,
-      "name": "I'm So Excited (12\" Extended Mix)",
-      "url": "https://open.spotify.com/track/2oCCGj7l4QVmamyoyPh4CR"
+      "duration_ms": 396920,
+      "name": "True Blue - The Color Mix",
+      "url": "https://open.spotify.com/track/1ev64zBlpSWh5HQwvEhLjZ"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "12\"ers",
-        "url": "https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 486840,
-      "name": "Take Me Home - Extended Remix",
-      "url": "https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "Suddenly (Expanded Edition)",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "The Twelve Inch Mixes",
-        "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
+        "name": "12\"ers",
+        "url": "https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5"
       },
       "artists": [
         {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 385000,
-      "name": "Only When You Leave - 12\" Version",
-      "url": "https://open.spotify.com/track/361rlvSrfbIxEPqIipaGjw"
+      "duration_ms": 486840,
+      "name": "Take Me Home - Extended Remix",
+      "url": "https://open.spotify.com/track/70tGBcXCFCJqA4iPaSu3Xl"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1043,6 +1027,22 @@
       "duration_ms": 357200,
       "name": "Beat Dis - 12\" Version",
       "url": "https://open.spotify.com/track/3hWbM5cGgUiTUUkfSfD1kd"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "The Twelve Inch Mixes",
+        "url": "https://open.spotify.com/album/4CGIZczLp11pbF2HBvKehm"
+      },
+      "artists": [
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "duration_ms": 385000,
+      "name": "Only When You Leave - 12\" Version",
+      "url": "https://open.spotify.com/track/361rlvSrfbIxEPqIipaGjw"
     },
     {
       "added_at": "2024-02-06 15:45:26",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-06 15:45:26",
       "album": {
-        "name": "Hundreds and Thousands",
-        "url": "https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 378866,
-      "name": "Why ? - 12'' Version; 2008 Remastered Version",
-      "url": "https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM"
-    },
-    {
-      "added_at": "2024-02-06 15:45:26",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best of Motown '80s, Vol. 1",
         "url": "https://open.spotify.com/album/3oIG8hb8F4JA6k0ByH5js5"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 423573,
       "name": "Nightshift - Club Mix",
       "url": "https://open.spotify.com/track/5stHnMIM1zwRS24mH6dAzS"
+    },
+    {
+      "added_at": "2024-02-06 15:45:26",
+      "album": {
+        "name": "Hundreds and Thousands",
+        "url": "https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 378866,
+      "name": "Why ? - 12'' Version; 2008 Remastered Version",
+      "url": "https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM"
     },
     {
       "added_at": "2024-02-06 15:45:26",

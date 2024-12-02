@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 10276,
+  "num_followers": 10277,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAD7tnkoMSTsfX7XssYdUay1",
+  "snapshot_id": "Z0pVgAAAAACbnR4vnauIu4kfn71FWZoB",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outlander Main Title Theme (Skye Boat Song) [feat. Raya Yarbrough]",
-        "url": "https://open.spotify.com/album/1d0eMuR3QNb1UC6VbIkEEj"
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
       "artists": [
         {
@@ -132,13 +132,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Raya Yarbrough",
-          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+          "name": "Eiv\u00f8r",
+          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
         }
       ],
-      "duration_ms": 96773,
-      "name": "Outlander Main Title Theme (Skye Boat Song) [feat. Raya Yarbrough]",
-      "url": "https://open.spotify.com/track/10VIsMEvM4K2xgFvh9plJi"
+      "duration_ms": 274666,
+      "name": "God of War Ragnar\u00f6k (feat. Eiv\u00f8r)",
+      "url": "https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+        "name": "Outlander Main Title Theme (Skye Boat Song) [feat. Raya Yarbrough]",
+        "url": "https://open.spotify.com/album/1d0eMuR3QNb1UC6VbIkEEj"
       },
       "artists": [
         {
@@ -188,13 +188,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Eiv\u00f8r",
-          "url": "https://open.spotify.com/artist/2dB4ya2W1Gvng8gjWSPu2H"
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
         }
       ],
-      "duration_ms": 274666,
-      "name": "God of War Ragnar\u00f6k (feat. Eiv\u00f8r)",
-      "url": "https://open.spotify.com/track/4mowfIHVIYRoepbExd1cwu"
+      "duration_ms": 96773,
+      "name": "Outlander Main Title Theme (Skye Boat Song) [feat. Raya Yarbrough]",
+      "url": "https://open.spotify.com/track/10VIsMEvM4K2xgFvh9plJi"
     },
     {
       "added_at": null,
@@ -208,17 +208,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Rory Kinnear",
-          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
-        },
-        {
-          "name": "Daniel Weyman",
-          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
+          "name": "Benjamin Walker",
+          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
         }
       ],
-      "duration_ms": 139988,
-      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
-      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
+      "duration_ms": 198872,
+      "name": "Golden Leaves (feat. Benjamin Walker)",
+      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
     },
     {
       "added_at": null,
@@ -284,13 +280,17 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Benjamin Walker",
-          "url": "https://open.spotify.com/artist/7lqxJdBjjbhT7Ap9XJAYDw"
+          "name": "Rory Kinnear",
+          "url": "https://open.spotify.com/artist/6SSIsLO62MF9fki7azCOYF"
+        },
+        {
+          "name": "Daniel Weyman",
+          "url": "https://open.spotify.com/artist/0LoXTc6jYjrsaNrpvpc64m"
         }
       ],
-      "duration_ms": 198872,
-      "name": "Golden Leaves (feat. Benjamin Walker)",
-      "url": "https://open.spotify.com/track/0Zajq1D26zg3VXxr22Lr1l"
+      "duration_ms": 139988,
+      "name": "Old Tom Bombadil Reprise (feat. Rory Kinnear and Daniel Weyman)",
+      "url": "https://open.spotify.com/track/0geBtKwDWV8Df99GMeueQB"
     },
     {
       "added_at": null,

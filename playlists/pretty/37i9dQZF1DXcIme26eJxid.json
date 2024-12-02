@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7?si=I1XPAZ03Q36tFtq_kGzYYw\">Onyeka Onwenu </a>",
-  "num_followers": 110787,
+  "num_followers": 110811,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        }
+      ],
+      "duration_ms": 332720,
+      "name": "Dlala Mapantsula",
+      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Shinamania",
         "url": "https://open.spotify.com/album/2Uo7xDKVdBUZ1VuUtAcQdk"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 339386,
       "name": "Happy Birthday",
       "url": "https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        }
-      ],
-      "duration_ms": 332720,
-      "name": "Dlala Mapantsula",
-      "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "This Is Eddy Grant",
+        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
+      },
+      "artists": [
+        {
+          "name": "Eddy Grant",
+          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
+        }
+      ],
+      "duration_ms": 235799,
+      "name": "Say I Love You",
+      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Juju Music",
         "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 501133,
       "name": "Tire Ni Oluwa",
       "url": "https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "This Is Eddy Grant",
-        "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
-      },
-      "artists": [
-        {
-          "name": "Eddy Grant",
-          "url": "https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA"
-        }
-      ],
-      "duration_ms": 235799,
-      "name": "Say I Love You",
-      "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
-        "name": "Synchro System",
-        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Maajo",
-      "url": "https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": "2024-08-01 10:26:48",
       "album": {
+        "name": "Synchro System",
+        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Maajo",
+      "url": "https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
         "name": "Sibongile",
         "url": "https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY"
       },
@@ -563,6 +563,26 @@
       "duration_ms": 351053,
       "name": "Ndihamba Nawe",
       "url": "https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI"
+    },
+    {
+      "added_at": "2024-08-01 10:26:48",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     },
     {
       "added_at": "2024-08-01 10:26:48",
@@ -615,26 +635,6 @@
       "duration_ms": 182226,
       "name": "Pata Pata",
       "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
-    },
-    {
-      "added_at": "2024-08-01 10:26:48",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     },
     {
       "added_at": "2024-08-01 10:26:48",

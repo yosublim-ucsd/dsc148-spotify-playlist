@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: rusowsky, Bb trickz.
 
-259 songs - 13 hr 29 min
+260 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-10-03 |  |
 | [KORAJE](https://open.spotify.com/track/4m6if2f135zgTxCGhR1jAj) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [KORAJE](https://open.spotify.com/album/57rBM3xWlhAHtGffXq8OZE) | 3:46 | 2024-06-27 | 2024-10-18 |
 | [LA AVENTURA](https://open.spotify.com/track/28Yl5Fn4ahrXrBTm8zGJgl) | [León Benavente](https://open.spotify.com/artist/5wuBA4TiRM0CNjSXjsutn6) | [LA AVENTURA](https://open.spotify.com/album/64tqdgffrYyDYKTsJZ38IY) | 4:14 | 2024-09-12 |  |
+| [La Bruja](https://open.spotify.com/track/6ufzMfhC2pI6Bu1Z7O9ntP) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [La Bruja](https://open.spotify.com/album/718GIRQ8GQzrNhgBY4LJvt) | 2:36 | 2024-11-28 |  |
 | [La Ceniza \(feat\. Valeria Castro\)](https://open.spotify.com/track/7AGYsCMcwID3CBGnwPUlyj) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [La Ceniza \(feat\. Valeria Castro\)](https://open.spotify.com/album/3H9GNHRuz3ybedGvH5WCyo) | 3:26 | 2024-06-27 |  |
 | [la del cretino](https://open.spotify.com/track/3FqV5v3r3WZ0NFlFc1WgPX) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8) | [la del cretino](https://open.spotify.com/album/6DxzzlM2KEKrcrPtdD34LO) | 3:36 | 2024-08-01 |  |
 | [La Luna y el Sol](https://open.spotify.com/track/22dPq3GM82vwX3WXi1lQQf) | [Colectivo Da Silva](https://open.spotify.com/artist/7h2HIXXVcZ6UPkqlCa2QZY), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [La Luna y el Sol](https://open.spotify.com/album/0ToGibJOn1bfAdexcLgAwp) | 3:36 | 2024-11-14 |  |
@@ -257,7 +258,7 @@
 | [Vis a Vis](https://open.spotify.com/track/66swkTd26sdiVXIJ8kqRsA) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CHATO](https://open.spotify.com/album/4SLaAVMySWOlZXIKsnIZWM) | 2:10 | 2024-11-21 |  |
 | [Volver](https://open.spotify.com/track/2GC46gOwfVQ4v4bYor4WzK) | [Javi Chapela](https://open.spotify.com/artist/1oF6Bxyk8UcW0DBH4jBGjk) | [Volver](https://open.spotify.com/album/2IU2GsBYHx3o2KfiepY51l) | 3:53 | 2024-06-27 |  |
 | [Volveréis](https://open.spotify.com/track/1DorbdhQk2qrzucKdxfv1d) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Volveréis](https://open.spotify.com/album/37A5BZoVIV9VfG2yRM0SwD) | 3:09 | 2024-07-25 | 2024-08-30 |
-| [Vértigo](https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Vértigo](https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI) | 3:04 | 2024-09-26 |  |
+| [Vértigo](https://open.spotify.com/track/4XdVg58KtKJPZMQkOo74xJ) | [Embusteros](https://open.spotify.com/artist/6f7lvc6nLaTvShpNCJNveE) | [Vértigo](https://open.spotify.com/album/6i6oWw4oRJzCpeA9JFndwI) | 3:04 | 2024-09-26 | 2024-12-02 |
 | [Wishlist](https://open.spotify.com/track/20aoleAxPtehxjAs1IPfOE) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Wishlist](https://open.spotify.com/album/0wOc28ecs1pVaHSi16bUsA) | 2:30 | 2024-06-27 | 2024-08-02 |
 | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/track/7hft2uQ3kmAHG3LkLgJjWw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Y SI SE ABREN LOS CIELOS](https://open.spotify.com/album/7ojO0TsCWpHwxCIZ02vde4) | 3:00 | 2024-06-27 | 2024-08-16 |
 | [YE YE](https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [YE YE](https://open.spotify.com/album/6CoUCIlyLE6YFVCVDadC7B) | 2:41 | 2024-08-29 | 2024-10-04 |

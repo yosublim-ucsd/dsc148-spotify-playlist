@@ -1,6 +1,6 @@
 {
   "description": "Tu dosis de \u00e9xitos indie para quedar a salvo. En portada: Alabama Shakes",
-  "num_followers": 1112713,
+  "num_followers": 1112681,
   "original_name": "Indiespensables",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 203506,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 193506,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/7kzKAuUzOITUauHAhoMoxA"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 203506,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/7BHPGtpuuWWsvE7cCaMuEU"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Junk Of The Heart",
-        "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Junk Of The Heart (Happy)",
-      "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4OHNH3sDzIxnmUADXzv2kT"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 222200,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Junk Of The Heart",
+        "url": "https://open.spotify.com/album/2HfdqVaLccOvzfsHej9A8g"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Junk Of The Heart (Happy)",
+      "url": "https://open.spotify.com/track/2jZgzSxNSg1hTCq0ewWHGJ"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 216094,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/3OREiYBiC7wSpOLukQMDZR"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-07-12 17:56:50",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 149443,
-      "name": "Daisy - Spotify Singles",
-      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
         "name": "Stars Of CCTV",
         "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
       },
@@ -819,6 +803,38 @@
       "duration_ms": 222600,
       "name": "Cash Machine",
       "url": "https://open.spotify.com/track/5F9Pe2Tg20NRi8N4cHHXUD"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Tropic Morning News",
+        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
+    },
+    {
+      "added_at": "2024-07-12 17:56:50",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0dMeqAw8U02QpDifgEeY3Y"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "Daisy - Spotify Singles",
+      "url": "https://open.spotify.com/track/7fvs1psRkf1WWX4qJOq53N"
     },
     {
       "added_at": "2024-07-12 17:56:50",
@@ -851,22 +867,6 @@
       "duration_ms": 237320,
       "name": "Games for Days",
       "url": "https://open.spotify.com/track/0LSdx5GAWI9Swa62gWK05Y"
-    },
-    {
-      "added_at": "2024-07-12 17:56:50",
-      "album": {
-        "name": "Tropic Morning News",
-        "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL"
     },
     {
       "added_at": "2024-07-12 17:56:50",

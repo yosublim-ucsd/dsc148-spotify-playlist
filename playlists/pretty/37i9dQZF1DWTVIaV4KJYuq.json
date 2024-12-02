@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 698078,
+  "num_followers": 698144,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 212157,
-      "name": "I Still Haven't Found What I'm Looking For",
-      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "I Can Help",
         "url": "https://open.spotify.com/album/5pDNnHHXe81EWs39cvhSjk"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 218225,
       "name": "I Can Help",
       "url": "https://open.spotify.com/track/6jA2i54oeB8cq1c3YF2YQG"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 212157,
+      "name": "I Still Haven't Found What I'm Looking For",
+      "url": "https://open.spotify.com/track/2oeEe3EdRBaUPRHmIbgQLU"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
-      },
-      "artists": [
-        {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Enjoy The Silence",
-      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Love Goes: Live at Abbey Road Studios",
         "url": "https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 218240,
       "name": "America",
       "url": "https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+      },
+      "artists": [
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Enjoy The Silence",
+      "url": "https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -659,30 +659,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "You Are My Sunshine (with Chris Stapleton)",
-        "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
-      },
-      "artists": [
-        {
-          "name": "Morgane Stapleton",
-          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        },
-        {
-          "name": "Southern Family",
-          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
-        }
-      ],
-      "duration_ms": 373266,
-      "name": "You Are My Sunshine (with Chris Stapleton)",
-      "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "American IV: The Man Comes Around",
         "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
       },
@@ -715,18 +691,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Lights",
-        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
+        "name": "You Are My Sunshine (with Chris Stapleton)",
+        "url": "https://open.spotify.com/album/54kotVHAZQwTephMgbuMjH"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Southern Family",
+          "url": "https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x"
         }
       ],
-      "duration_ms": 191813,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
+      "duration_ms": 373266,
+      "name": "You Are My Sunshine (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/31b6H6nChYUmNbW1yZQHYs"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -743,6 +727,22 @@
       "duration_ms": 166868,
       "name": "Heart of Gold (Cover)",
       "url": "https://open.spotify.com/track/05INcg3T8eXcDiCxANH3fR"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
+        "name": "Classics",
+        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        },
+        {
+          "name": "The Chapin Sisters",
+          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
+        }
+      ],
+      "duration_ms": 230813,
+      "name": "Unchained Melody (feat. The Chapin Sisters)",
+      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 212186,
       "name": "Home",
       "url": "https://open.spotify.com/track/0xi6e2yX8GxvygU2g4noDc"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Classics",
-        "url": "https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        },
-        {
-          "name": "The Chapin Sisters",
-          "url": "https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM"
-        }
-      ],
-      "duration_ms": 230813,
-      "name": "Unchained Melody (feat. The Chapin Sisters)",
-      "url": "https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Here Comes Your Man",
-        "url": "https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        },
-        {
-          "name": "Liz Phair",
-          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
-        }
-      ],
-      "duration_ms": 159541,
-      "name": "Here Comes Your Man",
-      "url": "https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Don't Think Twice, It's All Right",
         "url": "https://open.spotify.com/album/5NeOqBsbgSWOK2lsSYrt6q"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 261096,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/1g0ekwyuJFuZLda5w90ptf"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Here Comes Your Man",
+        "url": "https://open.spotify.com/album/7amyXS0aB3cRAmgVii9MMK"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        },
+        {
+          "name": "Liz Phair",
+          "url": "https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74"
+        }
+      ],
+      "duration_ms": 159541,
+      "name": "Here Comes Your Man",
+      "url": "https://open.spotify.com/track/2XgwFuyUbYZwk327DVYBIY"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/6vm31Kdb2VRrtMLIdV0VQh"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        }
-      ],
-      "duration_ms": 210914,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/7FU341yLQyBaWMWHk4hxuR"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Lunafied",
         "url": "https://open.spotify.com/album/1r5Y5fQ6X7qgnYYcRfG4Of"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 222123,
       "name": "Help - Recorded at East West Studios",
       "url": "https://open.spotify.com/track/5FY4iA2mqnJiYwWh3JB2gA"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/6vm31Kdb2VRrtMLIdV0VQh"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "duration_ms": 210914,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/7FU341yLQyBaWMWHk4hxuR"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Didn't Want to Have to Do It",
-        "url": "https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr"
-      },
-      "artists": [
-        {
-          "name": "Lady Apple Tree",
-          "url": "https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd"
-        }
-      ],
-      "duration_ms": 264362,
-      "name": "Didn't Want to Have to Do It",
-      "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Stranger In A Strange Land",
         "url": "https://open.spotify.com/album/2MvZ4DqKXTCpKJxcgbl8SY"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 288618,
       "name": "Stranger In A Strange Land",
       "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Didn't Want to Have to Do It",
+        "url": "https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr"
+      },
+      "artists": [
+        {
+          "name": "Lady Apple Tree",
+          "url": "https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd"
+        }
+      ],
+      "duration_ms": 264362,
+      "name": "Didn't Want to Have to Do It",
+      "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "I Melt with You",
-        "url": "https://open.spotify.com/album/2Mjpvo7XNEuQGrqpzUw1fs"
-      },
-      "artists": [
-        {
-          "name": "Daulton Hopkins",
-          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "I Melt with You",
-      "url": "https://open.spotify.com/track/3E8CvaJcwK13sf4lM6RoN4"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
         "name": "Can't Help Falling in Love",
         "url": "https://open.spotify.com/album/1QjZNsdGO0vdqDz23nqS1L"
       },
@@ -1843,18 +1827,34 @@
     {
       "added_at": "2024-10-18 04:00:00",
       "album": {
-        "name": "Judah & the Lion (Unplugged)",
-        "url": "https://open.spotify.com/album/0ftg0MdGcyRwB8Zzt624BS"
+        "name": "I Melt with You",
+        "url": "https://open.spotify.com/album/2Mjpvo7XNEuQGrqpzUw1fs"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+          "name": "Daulton Hopkins",
+          "url": "https://open.spotify.com/artist/2OKzhqOz5VFrrD1lCwfNSS"
         }
       ],
-      "duration_ms": 251805,
-      "name": "Soak Up The Sun - Unplugged",
-      "url": "https://open.spotify.com/track/7xfz6i5AvB1GwccEcIrb7k"
+      "duration_ms": 217344,
+      "name": "I Melt with You",
+      "url": "https://open.spotify.com/track/3E8CvaJcwK13sf4lM6RoN4"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
+        "url": "https://open.spotify.com/album/5ZF0y8MDRFSecx7HFqqryV"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 290767,
+      "name": "Zombie (Live from the NIVA Save Our Stages Festival)",
+      "url": "https://open.spotify.com/track/6IsiCdn42x5fGWTUqkyDwj"
     }
   ],
   "unique_name": "Classic Covers",

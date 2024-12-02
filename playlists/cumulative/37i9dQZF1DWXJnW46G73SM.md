@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: أحمد كامل
 
-1,235 songs - 2 day 20 hr 57 min
+1,236 songs - 2 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1094,6 +1094,7 @@
 | [قللت من نفسي](https://open.spotify.com/track/3f42ZBoQcnTPJbO9REc9Qi) | [Amr Gaber](https://open.spotify.com/artist/5BpkUYoUu7tprTj4yiLNoo) | [قللت من نفسي](https://open.spotify.com/album/42KJPaJptQyPLHQT1sd0h0) | 4:28 | 2024-11-29 |  |
 | [قهوة محوجة](https://open.spotify.com/track/4SlrB9iFb2aVTCcOxC1WoF) | [Nagwan](https://open.spotify.com/artist/6PBrwzHpDQDtenQ0SZo6ou) | [قهوة محوجة](https://open.spotify.com/album/6J6dMz6RPtPosUBmtBBixk) | 3:07 | 2024-01-25 | 2024-02-16 |
 | [قول لا](https://open.spotify.com/track/3rcGZGI1P2lHg1L6LOtDlo) | [Yousra El Gendy](https://open.spotify.com/artist/4NHY6xrFxJwxDxYNl9WZLv) | [قول لا](https://open.spotify.com/album/00USfTA8ZvHaHLGI5FB96v) | 2:41 | 2024-07-01 | 2024-08-03 |
+| [كأنك روح](https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [كأنك روح](https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc) | 4:10 | 2024-11-29 |  |
 | [كإنك مسكن](https://open.spotify.com/track/0N951bbetOixebVN6fUnyi) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [كإنك مسكن](https://open.spotify.com/album/2ukwdLszuyImuImHrpfyQW) | 4:19 | 2024-11-29 |  |
 | [كارفوم بكايته \- لو القديم راحت عليه يبقي الجديد يرقص بالية](https://open.spotify.com/track/2hitrJSVqSNeIsamCOVdUw) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [كارفوم بكايته \(لو القديم راحت عليه يبقي الجديد يرقص بالية\)](https://open.spotify.com/album/2yGwhZrfPsVoIG0qyTHoux) | 2:16 | 2023-05-05 | 2023-06-21 |
 | [كان ليا حبايب](https://open.spotify.com/track/6tQtyN6rNdsfjRNEC6bSNM) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كان ليا حبايب](https://open.spotify.com/album/2rUngNOWjttCruLwgnEHUp) | 4:18 | 2023-02-16 | 2023-04-06 |

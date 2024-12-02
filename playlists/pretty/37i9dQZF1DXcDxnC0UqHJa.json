@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Unknown Legend",
-        "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 248360,
-      "name": "Unknown Legend",
-      "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Singing Other People's Love Songs",
         "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 136891,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Unknown Legend",
+        "url": "https://open.spotify.com/album/6s1d1rRBynFB21kGCXvEZH"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 248360,
+      "name": "Unknown Legend",
+      "url": "https://open.spotify.com/track/4Tk20ApEMHXzS1j2r6Glgr"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -955,6 +955,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Let Down",
         "url": "https://open.spotify.com/album/6Uvyjoy9ump42mVK1pGksP"
       },
@@ -975,22 +995,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -1007,22 +1011,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "...but i'd rather be with you, too",
-        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 197790,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "You Don't Know How It Feels",
-        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 222008,
-      "name": "You Don't Know How It Feels",
-      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Radio Redhead, Vol. 1",
         "url": "https://open.spotify.com/album/3C8WLr8zTMyJCdo5sYMRG9"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 218750,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "You Don't Know How It Feels",
+        "url": "https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 222008,
+      "name": "You Don't Know How It Feels",
+      "url": "https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Green Rocky Road",
-        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
-      },
-      "artists": [
-        {
-          "name": "Bria Salmena",
-          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
-        }
-      ],
-      "duration_ms": 201985,
-      "name": "Green Rocky Road",
-      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "true love will find you in the end (Adam's Version)",
         "url": "https://open.spotify.com/album/75NVfTQZUCSxN5388wvYK6"
       },
@@ -1635,22 +1619,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Rarities",
-        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+        "name": "Green Rocky Road",
+        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        },
-        {
-          "name": "Linnea Olsson",
-          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+          "name": "Bria Salmena",
+          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
         }
       ],
-      "duration_ms": 232986,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
+      "duration_ms": 201985,
+      "name": "Green Rocky Road",
+      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1667,6 +1647,26 @@
       "duration_ms": 260093,
       "name": "A Case of You",
       "url": "https://open.spotify.com/track/2q6vlgBJ432KeZZNt2ZZBV"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Rarities",
+        "url": "https://open.spotify.com/album/1bvAlOqMbnWLwTcp65kSAP"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        },
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+        }
+      ],
+      "duration_ms": 232986,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "To Ramona",
-        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "To Ramona",
-      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
     },
     {
       "added_at": "2024-11-22 05:00:00",

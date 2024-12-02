@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B",
-  "num_followers": 194114,
+  "num_followers": 194186,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-11-30 07:01:43",
       "album": {
-        "name": "Insecure",
-        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Insecure",
-      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
-    },
-    {
-      "added_at": "2024-11-30 07:01:43",
-      "album": {
         "name": "Trouble In Paradise",
         "url": "https://open.spotify.com/album/4xD7yXdXUDdaen8uvanwIw"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2024-11-30 07:01:43",
       "album": {
-        "name": "Painted",
-        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
+        "name": "Insecure",
+        "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 237517,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
+      "duration_ms": 195106,
+      "name": "Insecure",
+      "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"
     },
     {
       "added_at": "2024-11-30 07:01:43",
@@ -667,6 +651,22 @@
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
+    },
+    {
+      "added_at": "2024-11-30 07:01:43",
+      "album": {
+        "name": "Painted",
+        "url": "https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 237517,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/1Fwppfa2qKDAETKveNFsHR"
     },
     {
       "added_at": "2024-11-30 07:01:43",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-11-30 07:01:43",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 173453,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
-    },
-    {
-      "added_at": "2024-11-30 07:01:43",
-      "album": {
         "name": "The Mission",
         "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 191478,
       "name": "The Mission",
       "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
+    },
+    {
+      "added_at": "2024-11-30 07:01:43",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1egdUx8IiJsG79p5jZS5sX"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1L0AIaF0mRMxc9wCn4Augq"
     },
     {
       "added_at": "2024-11-30 07:01:43",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-11-30 07:01:43",
       "album": {
-        "name": "Satellite Business 2.0",
-        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 293377,
-      "name": "Satellite Business 2.0",
-      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
-    },
-    {
-      "added_at": "2024-11-30 07:01:43",
-      "album": {
         "name": "My Baby Just Cares For Me (HONNE Remix)",
         "url": "https://open.spotify.com/album/2cDU1aJ6M0LEsGy8Ks8c8l"
       },
@@ -983,6 +963,26 @@
     {
       "added_at": "2024-11-30 07:01:43",
       "album": {
+        "name": "Satellite Business 2.0",
+        "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 293377,
+      "name": "Satellite Business 2.0",
+      "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
+    },
+    {
+      "added_at": "2024-11-30 07:01:43",
+      "album": {
         "name": "Risk Taker",
         "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
       },
@@ -999,26 +999,6 @@
       "duration_ms": 223189,
       "name": "Risk Taker",
       "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
-    },
-    {
-      "added_at": "2024-11-30 07:01:43",
-      "album": {
-        "name": "Lotus Glow",
-        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        },
-        {
-          "name": "Aaron Taylor",
-          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
-        }
-      ],
-      "duration_ms": 192936,
-      "name": "FourSixty - Feat. Aaron Taylor",
-      "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
     },
     {
       "added_at": "2024-11-30 07:01:43",
@@ -1059,6 +1039,26 @@
       "duration_ms": 202706,
       "name": "I Choose U (feat. RINI)",
       "url": "https://open.spotify.com/track/7zHOs0OLz4CmB8LHcf1NNv"
+    },
+    {
+      "added_at": "2024-11-30 07:01:43",
+      "album": {
+        "name": "Lotus Glow",
+        "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Aaron Taylor",
+          "url": "https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7"
+        }
+      ],
+      "duration_ms": 192936,
+      "name": "FourSixty - Feat. Aaron Taylor",
+      "url": "https://open.spotify.com/track/4tUALmirGtgnBfkyHQbCp6"
     },
     {
       "added_at": "2024-11-30 07:01:43",

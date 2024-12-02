@@ -1,12 +1,12 @@
 {
   "description": "This is Ramengvrl. The essential tracks, all in one playlist.",
-  "num_followers": 592,
+  "num_followers": 591,
   "original_name": "This Is Ramengvrl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAC1uG/ozpShgtR0n5Fgl2Xp",
+  "snapshot_id": "Z0pVgAAAAACmIHolLmlTtOoY2z8Z5QvB",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+        }
+      ],
+      "duration_ms": 157498,
+      "name": "Vaselina (feat. euro)",
+      "url": "https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Holy Bassgod EP",
         "url": "https://open.spotify.com/album/2ix23cDzHBST8LxBvzRVMA"
       },
@@ -195,26 +215,6 @@
       "duration_ms": 166263,
       "name": "Kawaii 808",
       "url": "https://open.spotify.com/track/6ZvXQhiIbP4XpbrHN6brAI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "euro",
-          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
-        }
-      ],
-      "duration_ms": 157498,
-      "name": "Vaselina (feat. euro)",
-      "url": "https://open.spotify.com/track/2nbycmGhqOlupZ6XINwedy"
     },
     {
       "added_at": null,
@@ -247,30 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Want Me Back",
-        "url": "https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        },
-        {
-          "name": "Taka Perry",
-          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Want Me Back",
-      "url": "https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Touch Me",
         "url": "https://open.spotify.com/album/1GKIAfBsroBZgXxPh0ujgM"
       },
@@ -291,6 +267,30 @@
       "duration_ms": 281642,
       "name": "Don't Touch Me",
       "url": "https://open.spotify.com/track/5K9QwRdkw0SQ3B3xxPoxWy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Want Me Back",
+        "url": "https://open.spotify.com/album/00wqpSXlPgNJpq7oeckRWx"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        },
+        {
+          "name": "Taka Perry",
+          "url": "https://open.spotify.com/artist/7eYVLxvKOQ3w2BAE10ElgF"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Want Me Back",
+      "url": "https://open.spotify.com/track/6nTNtWCDuL2loiO1s7a3kF"
     },
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indo ME",
-        "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Basboi",
-          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
-        }
-      ],
-      "duration_ms": 200899,
-      "name": "Indo ME",
-      "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DEKADE",
         "url": "https://open.spotify.com/album/7tXSAdhvFo8k9HNE5dK9Ym"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 221083,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/3eLgyu8Aq2DVMoVXkW1baT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Indo ME",
+        "url": "https://open.spotify.com/album/3rdELLdq2r3pcjwBqTMVI4"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Basboi",
+          "url": "https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9"
+        }
+      ],
+      "duration_ms": 200899,
+      "name": "Indo ME",
+      "url": "https://open.spotify.com/track/7iRW4JlUHHzPkUhd9a7seu"
     },
     {
       "added_at": null,
@@ -615,26 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tinder",
-        "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
       "artists": [
         {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Rayi Putra",
+          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
         }
       ],
-      "duration_ms": 254062,
-      "name": "No Tinder",
-      "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
+      "duration_ms": 181185,
+      "name": "out of control (feat. Rayi Putra)",
+      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
     },
     {
       "added_at": null,
@@ -655,22 +651,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+        "name": "No Tinder",
+        "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
       },
       "artists": [
         {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
         },
         {
-          "name": "Rayi Putra",
-          "url": "https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR"
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 181185,
-      "name": "out of control (feat. Rayi Putra)",
-      "url": "https://open.spotify.com/track/6AQYZbm4UrqyWBVpHy4Kax"
+      "duration_ms": 254062,
+      "name": "No Tinder",
+      "url": "https://open.spotify.com/track/5Lkpl9w1rYzM7eVbGVe6EH"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FASHION",
-        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "FASHION",
-      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FACTS",
         "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 147928,
       "name": "FACTS",
       "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
     },
     {
       "added_at": null,
@@ -906,15 +906,11 @@
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Sihk",
-          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
         }
       ],
-      "duration_ms": 143157,
-      "name": "The Emo Song (feat. Sihk)",
-      "url": "https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac"
+      "duration_ms": 160000,
+      "name": "Let Em Be",
+      "url": "https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY"
     },
     {
       "added_at": null,
@@ -982,11 +978,15 @@
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Sihk",
+          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Let Em Be",
-      "url": "https://open.spotify.com/track/3QS3Is7fJstMXzKY3XsYSY"
+      "duration_ms": 143157,
+      "name": "The Emo Song (feat. Sihk)",
+      "url": "https://open.spotify.com/track/3aHwfxoCUJPl4N2FBECfac"
     },
     {
       "added_at": null,
@@ -1031,6 +1031,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Go! (I Can Be Your)",
+        "url": "https://open.spotify.com/album/7GGvngihcEqrMm58EYZaYT"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Go! (I Can Be Your)",
+      "url": "https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hyperballin",
         "url": "https://open.spotify.com/album/1ykWQumm60Xg8jPAlZ2Hcq"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 150028,
       "name": "Hyperballin",
       "url": "https://open.spotify.com/track/2CvvpLLO9UBvfvLRC23no4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Go! (I Can Be Your)",
-        "url": "https://open.spotify.com/album/7GGvngihcEqrMm58EYZaYT"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Go! (I Can Be Your)",
-      "url": "https://open.spotify.com/track/5AlZgUEZwPcPkUXFTtkraM"
     },
     {
       "added_at": null,

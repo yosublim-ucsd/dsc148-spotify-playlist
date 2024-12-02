@@ -96,6 +96,24 @@
     {
       "album": {
         "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/0fukHGuIvc2NQEFCkI2owi"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
         "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
       },
       "artists": [
@@ -132,7 +150,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 338194,
       "name": "Believe For It (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 378173,
       "name": "Shepherd - Live",
       "url": "https://open.spotify.com/track/7iFmjO0rCQHRLPC0KMRcPI"

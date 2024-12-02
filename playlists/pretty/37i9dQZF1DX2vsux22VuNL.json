@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293383,
+  "num_followers": 293375,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,26 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
+        "name": "Aladdin",
+        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Aladdin",
+      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
         "name": "Me Espera",
         "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 194821,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
-        "name": "Aladdin",
-        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Aladdin",
-      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -487,30 +487,6 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "Lukinhas",
-          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 183211,
-      "name": "\u00faltimo rom\u00e2ntico",
-      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
         "name": "Ladeira da Vida",
         "url": "https://open.spotify.com/album/2gjNuzeCoJy6YMU3udbhHw"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 183211,
+      "name": "\u00faltimo rom\u00e2ntico",
+      "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
-        "name": "P.A",
-        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 151399,
-      "name": "SOL DE ABRIL",
-      "url": "https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
+        "name": "P.A",
+        "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 151399,
+      "name": "SOL DE ABRIL",
+      "url": "https://open.spotify.com/track/67xl0gZJeAjxCoBPfui3rv"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -891,22 +891,22 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+        "name": "Pra Casar",
+        "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
       },
       "artists": [
         {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+          "name": "\u00cdtalo Ribeiro",
+          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
         },
         {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         }
       ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
+      "duration_ms": 162780,
+      "name": "Pra Casar",
+      "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -931,22 +931,22 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
-        "name": "Pra Casar",
-        "url": "https://open.spotify.com/album/7cfvZDgOLYNt2z0CA64LFZ"
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
       },
       "artists": [
         {
-          "name": "\u00cdtalo Ribeiro",
-          "url": "https://open.spotify.com/artist/2T9eI5ZYlV0oZOn9byIOeu"
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
         },
         {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
         }
       ],
-      "duration_ms": 162780,
-      "name": "Pra Casar",
-      "url": "https://open.spotify.com/track/2nr1chZZvtSFMHoOydWFfI"
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
-        "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-        "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
+        "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+        "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
+        "name": "eu n\u00e3o queria mais nada",
+        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
+      },
+      "artists": [
+        {
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+        },
+        {
+          "name": "contito",
+          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
+        }
+      ],
+      "duration_ms": 148187,
+      "name": "eu n\u00e3o queria mais nada",
+      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1207,26 +1227,6 @@
     {
       "added_at": "2024-11-29 19:27:03",
       "album": {
-        "name": "eu n\u00e3o queria mais nada",
-        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
-      },
-      "artists": [
-        {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
-        },
-        {
-          "name": "contito",
-          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
-        }
-      ],
-      "duration_ms": 148187,
-      "name": "eu n\u00e3o queria mais nada",
-      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
         "name": "Pagode Urbano #01",
         "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
       },
@@ -1247,6 +1247,30 @@
       "duration_ms": 203141,
       "name": "Gingado Dela",
       "url": "https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ"
+    },
+    {
+      "added_at": "2024-11-29 19:27:03",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2024-11-29 19:27:03",
@@ -1287,30 +1311,6 @@
       "duration_ms": 200315,
       "name": "CARAMELO E FLOR DE SAL",
       "url": "https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5"
-    },
-    {
-      "added_at": "2024-11-29 19:27:03",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
     },
     {
       "added_at": "2024-11-29 19:27:03",

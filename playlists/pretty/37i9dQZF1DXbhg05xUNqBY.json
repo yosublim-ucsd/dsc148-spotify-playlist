@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348745,
+  "num_followers": 348737,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Note To Self",
-        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 172217,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "In Christ Alone (En J\u00e9sus Seul)",
         "url": "https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 222642,
       "name": "In Christ Alone (En J\u00e9sus Seul)",
       "url": "https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Note To Self",
+        "url": "https://open.spotify.com/album/4Yj28bUARn3tih4X7zrdaw"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 172217,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/4QvchxEDRzAosUOkZzJGI6"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Late Bloomer",
-        "url": "https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz"
-      },
-      "artists": [
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 235254,
-      "name": "Hallelujah (In Your Arms)",
-      "url": "https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Feel Holy",
         "url": "https://open.spotify.com/album/33BAADumKYukAW2Mw0w4ac"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 331800,
       "name": "Feel Holy",
       "url": "https://open.spotify.com/track/1HxtNVkzA5PAzeqDXLCX37"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Late Bloomer",
+        "url": "https://open.spotify.com/album/3UVxs4HGKC84VG8kQdRjJz"
+      },
+      "artists": [
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
+        }
+      ],
+      "duration_ms": 235254,
+      "name": "Hallelujah (In Your Arms)",
+      "url": "https://open.spotify.com/track/3gg07cCfx8W4oA4ASElvhs"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Rushing",
-        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
-      },
-      "artists": [
-        {
-          "name": "David Dunn",
-          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Rushing",
-      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "I Don't Have Much (Acoustic)",
         "url": "https://open.spotify.com/album/1NWhJAP7xaX57Vu8LXIn3m"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 259875,
       "name": "I Don't Have Much - Acoustic",
       "url": "https://open.spotify.com/track/3GhH76hVaJTOVGSBR683Vi"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Rushing",
+        "url": "https://open.spotify.com/album/76WewELkSUb0RDTyDnMGFS"
+      },
+      "artists": [
+        {
+          "name": "David Dunn",
+          "url": "https://open.spotify.com/artist/57ZPJfidpxGJGkyjcmz68v"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Rushing",
+      "url": "https://open.spotify.com/track/15eYN3rzuSK6QY8Cd1N2RL"
     },
     {
       "added_at": "2024-07-26 09:52:44",

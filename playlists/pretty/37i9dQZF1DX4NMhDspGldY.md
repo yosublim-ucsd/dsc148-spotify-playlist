@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 
 > Leeds! Leeds! Leeds! Cover: VENUS GRRRLS
 
-[Spotify](https://open.spotify.com/user/spotify) - 742 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 741 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 9 | [All I Knew Was You](https://open.spotify.com/track/4VM0AM6vA0OTUvmFbnnigT) | [5X](https://open.spotify.com/artist/1OLc1He3X5Q3yEreHX5FDe) | [All I Knew Was You](https://open.spotify.com/album/7Mu5qrYhWekxQYJcS93tuh) | 3:56 |
 | 10 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
 | 11 | [Just For Company](https://open.spotify.com/track/7GVYi2mlPwJn1uY5AJiM7t) | [tinyumbrellas](https://open.spotify.com/artist/2yKKGbXo5KtCrTPq4VVCZb) | [i know trees are falling](https://open.spotify.com/album/09d6DBcumokGlWZ6bnRm7W) | 2:57 |
-| 12 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
-| 13 | [My Mind](https://open.spotify.com/track/22J3tTlWFg4bsLh67jGksy) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [My Mind](https://open.spotify.com/album/5vGnQgOMQtTd8X4rYRejVu) | 3:24 |
-| 14 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |
-| 15 | [Five to One](https://open.spotify.com/track/0KXDdNmoycLHPkcQI8IG4J) | [Gravy](https://open.spotify.com/artist/6uCFv1Lo45PC3udGTuHRNP) | [Five to One](https://open.spotify.com/album/7A2ybRMInN6DuJ0bPVcp2k) | 2:39 |
-| 16 | [Rising](https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0) | 7:11 |
+| 12 | [My Mind](https://open.spotify.com/track/22J3tTlWFg4bsLh67jGksy) | [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [My Mind](https://open.spotify.com/album/5vGnQgOMQtTd8X4rYRejVu) | 3:24 |
+| 13 | [Spiral](https://open.spotify.com/track/7cPKLynmNZ5Ia6o7UeBjL8) | [Jey Kurmis](https://open.spotify.com/artist/5tBoZLvUWhT8UP3QSyw8HF) | [Spiral](https://open.spotify.com/album/44AsT9KZLScslPSkwASMuA) | 3:25 |
+| 14 | [Rising](https://open.spotify.com/track/7wf5JNpQcrsPTwN4h1lKCU) | [Jasmine Myra](https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK) | [Rising](https://open.spotify.com/album/6TdOE1Wti5pSRxOW6Y9xT0) | 7:11 |
+| 15 | [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 |
+| 16 | [Five to One](https://open.spotify.com/track/0KXDdNmoycLHPkcQI8IG4J) | [Gravy](https://open.spotify.com/artist/6uCFv1Lo45PC3udGTuHRNP) | [Five to One](https://open.spotify.com/album/7A2ybRMInN6DuJ0bPVcp2k) | 2:39 |
 | 17 | [All The Same](https://open.spotify.com/track/33fKu1jFRuXJiBg5fXZQSk) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Ria Moran](https://open.spotify.com/artist/7sqPt1JYIkHzs8xIizhyXn) | [All The Same](https://open.spotify.com/album/0PJURdQhTdpGqgEJ60SZHq) | 5:24 |
 | 18 | [Babyface](https://open.spotify.com/track/3S7Go0zMpO1WQpx6oZQd2y) | [Artio](https://open.spotify.com/artist/0l2QxnR8KJQT4m2Ax8rhh5) | [Babyface](https://open.spotify.com/album/4L9qo6vo2gLQZIwmNNSiG2) | 3:26 |
 | 19 | [Fly](https://open.spotify.com/track/7AP9SA6DLzSvX9uZ3KYTxr) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [Fly](https://open.spotify.com/album/2OIQH7v1IQsSPYc6BPQVjj) | 6:16 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 28 | [95 Selection](https://open.spotify.com/track/1agOtTTtPQKMyOEGfCaPEP) | [Soul Mass Transit System](https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC) | [95 Selection](https://open.spotify.com/album/5FVk3IIv7XoOHfQl7qoHZr) | 4:34 |
 | 29 | [Give It To Dem](https://open.spotify.com/track/2BJmRwIyiRyRIVV4AaIqrl) | [Graft](https://open.spotify.com/artist/4D8x62ZMhyT8vZifuO6nXc) | [Give It To Dem](https://open.spotify.com/album/6UUdD0Mqdv3iVt2dr1pHzK) | 3:10 |
 | 30 | [The Last Remaining Light](https://open.spotify.com/track/2PGg8lNkzACoNt3OnaRXZ3) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [The Last Remaining Light](https://open.spotify.com/album/2cjv8TWDCVVNuCdcTGKah2) | 3:08 |
-| 31 | [Closer](https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Closer](https://open.spotify.com/album/1AqR0VZf6nkCN4c9sNXSoO) | 3:18 |
-| 32 | [L4V](https://open.spotify.com/track/42j3r1LFYw2BEZQMZkwWpw) | [Agxny](https://open.spotify.com/artist/1C01qD310JFINaNl8SNzcd), [Haze Da Martian](https://open.spotify.com/artist/3579nmnoMn3NAoO7BCr6aF) | [L4V](https://open.spotify.com/album/5qcjNHcBzOCmds5JiFt30S) | 2:21 |
+| 31 | [L4V](https://open.spotify.com/track/42j3r1LFYw2BEZQMZkwWpw) | [Agxny](https://open.spotify.com/artist/1C01qD310JFINaNl8SNzcd), [Haze Da Martian](https://open.spotify.com/artist/3579nmnoMn3NAoO7BCr6aF) | [L4V](https://open.spotify.com/album/5qcjNHcBzOCmds5JiFt30S) | 2:21 |
+| 32 | [Closer](https://open.spotify.com/track/1VTWCauhhZ23hDHMjsVCWb) | [Eden Rain](https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq) | [Closer](https://open.spotify.com/album/1AqR0VZf6nkCN4c9sNXSoO) | 3:18 |
 | 33 | [NIGHTWORLD](https://open.spotify.com/track/057XJzojCErHe3UEDMCMX7) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [NIGHTWORLD](https://open.spotify.com/album/17iGJEADbzVJFjbqsCSQsk) | 3:22 |
 | 34 | [Midnight Mass](https://open.spotify.com/track/5pSJTwM7xnTcjAus8yilY3) | [Treeboy & Arc](https://open.spotify.com/artist/7kqPysY88dtq0TF7yO134f) | [Natural Habitat](https://open.spotify.com/album/2JawSHh0PDTVl4n3DL9sPd) | 3:54 |
 | 35 | [Closer](https://open.spotify.com/track/7lHNiN7bI3mi6bYFpnOau7) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Closer / Strangers](https://open.spotify.com/album/7KedalFRqXcnAEl66Q83tC) | 3:42 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NMhDspGldY.md) - [plain]
 | 42 | [Luminescence](https://open.spotify.com/track/5n7Qmz7S2ESK7Y4SeZEnvO) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Luminescence EP](https://open.spotify.com/album/3bSrrXgxrcKRs5fVfi8IiY) | 4:09 |
 | 43 | [OK](https://open.spotify.com/track/6XApBfbLYtkgAarv4Ksswu) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [OK](https://open.spotify.com/album/7JZk2zHgVvYU7X2urOVkTX) | 2:23 |
 | 44 | [Don't Waste Time](https://open.spotify.com/track/3SYt7ldup2V59p6pKQv4FY) | [D5](https://open.spotify.com/artist/3RC5R8xEmJ2RId5tixXeSu) | [Don't Waste Time](https://open.spotify.com/album/4sNrLRcr3mzgWKY8VpIGoC) | 2:31 |
-| 45 | [Home](https://open.spotify.com/track/1zFNz0vqPbNyBhBwB7yghZ) | [Emma Johnson's Gravy Boat](https://open.spotify.com/artist/3wXfTrVFn5UQd9cSV2d1W8) | [Northern Flame](https://open.spotify.com/album/0EiS0yRleyWdBmo4pyxI6s) | 4:47 |
-| 46 | [Emotion](https://open.spotify.com/track/7cY4qru57sGf77xkUvtYwr) | [GEO](https://open.spotify.com/artist/3A5PSHQgA7r8hs9M5p2iIz) | [Emotion](https://open.spotify.com/album/0YYPm7yqaeFKtFI2Dp9VMu) | 3:34 |
-| 47 | [The Sky Tonight](https://open.spotify.com/track/4yETyNaa9Aed6veTZFu4hK) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [Small\-Town Girls and Soft Summer Nights](https://open.spotify.com/album/6isLTenhMfUWI3VQ5KIfvJ) | 3:00 |
-| 48 | [Coming Of Age](https://open.spotify.com/track/39oKaHKZj9aNIqCNvZ1dBl) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [Coming Of Age](https://open.spotify.com/album/67rNxof0ZOBr99nFdRp1fY) | 4:07 |
+| 45 | [Emotion](https://open.spotify.com/track/7cY4qru57sGf77xkUvtYwr) | [GEO](https://open.spotify.com/artist/3A5PSHQgA7r8hs9M5p2iIz) | [Emotion](https://open.spotify.com/album/0YYPm7yqaeFKtFI2Dp9VMu) | 3:34 |
+| 46 | [Home](https://open.spotify.com/track/1zFNz0vqPbNyBhBwB7yghZ) | [Emma Johnson's Gravy Boat](https://open.spotify.com/artist/3wXfTrVFn5UQd9cSV2d1W8) | [Northern Flame](https://open.spotify.com/album/0EiS0yRleyWdBmo4pyxI6s) | 4:47 |
+| 47 | [Coming Of Age](https://open.spotify.com/track/39oKaHKZj9aNIqCNvZ1dBl) | [Van Houten](https://open.spotify.com/artist/1DJIjqnBb14BDo3EIZc2zB) | [Coming Of Age](https://open.spotify.com/album/67rNxof0ZOBr99nFdRp1fY) | 4:07 |
+| 48 | [The Sky Tonight](https://open.spotify.com/track/4yETyNaa9Aed6veTZFu4hK) | [Emmeline](https://open.spotify.com/artist/7fAUd8o33I4t30UMxfIZPR) | [Small\-Town Girls and Soft Summer Nights](https://open.spotify.com/album/6isLTenhMfUWI3VQ5KIfvJ) | 3:00 |
 | 49 | [Bff](https://open.spotify.com/track/6NvH9j53XhLJq3G5ucuI10) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Bff](https://open.spotify.com/album/7jPIgC4AJtuCtwCE1EHwvs) | 2:31 |
 | 50 | [Alone With U](https://open.spotify.com/track/3eVPlHoRinMGANyHTjyCTw) | [Stone Forte](https://open.spotify.com/artist/0FUx2oTzlbJ1eR8I9EmpAQ) | [Alone With U](https://open.spotify.com/album/3iHEf58joahl3W6wx0YyAw) | 3:06 |
 

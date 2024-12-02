@@ -10009,6 +10009,28 @@
     },
     {
       "album": {
+        "name": "Shimmy Shake (That Booty)",
+        "url": "https://open.spotify.com/album/0L3BHBCF1zCpgKY91PLtRK"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "740 Boyz",
+          "url": "https://open.spotify.com/artist/1gxehupXVKw95i03TQKppC"
+        }
+      ],
+      "date_added": "2024-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117525,
+      "name": "Shimmy Shake (That Booty)",
+      "url": "https://open.spotify.com/track/2h113cdbuGT8CLmwppMVES"
+    },
+    {
+      "album": {
         "name": "Shit We Do For Love",
         "url": "https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7"
       },
@@ -11278,7 +11300,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 144812,
       "name": "the light",
       "url": "https://open.spotify.com/track/2riIujEITom1g8ehblpgzy"

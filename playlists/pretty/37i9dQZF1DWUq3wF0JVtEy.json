@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 936482,
+  "num_followers": 936500,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Let Me Think About It Again",
         "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 195813,
       "name": "Let Me Think About It Again",
       "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "ENERGY",
-        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
-      },
-      "artists": [
-        {
-          "name": "Duke Dumont",
-          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
-        }
-      ],
-      "duration_ms": 140621,
-      "name": "ENERGY",
-      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+        "name": "ENERGY",
+        "url": "https://open.spotify.com/album/2SlDo6WkY27EiEVwjXdtS8"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Duke Dumont",
+          "url": "https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E"
         }
       ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+      "duration_ms": 140621,
+      "name": "ENERGY",
+      "url": "https://open.spotify.com/track/2aGGiMfC7LHqcTVO78OujV"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -691,6 +691,30 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "BANG BANG POW!",
+        "url": "https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "CANCUN?",
+          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
+        },
+        {
+          "name": "I.D.O.",
+          "url": "https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe"
+        }
+      ],
+      "duration_ms": 133406,
+      "name": "BANG BANG POW!",
+      "url": "https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Seismic",
         "url": "https://open.spotify.com/album/0YzIqCBSxVyubwfHwJX4IQ"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 158571,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/1Fu1vVpBhR2SvMOgifFsuT"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "BANG BANG POW!",
-        "url": "https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        },
-        {
-          "name": "CANCUN?",
-          "url": "https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w"
-        },
-        {
-          "name": "I.D.O.",
-          "url": "https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe"
-        }
-      ],
-      "duration_ms": 133406,
-      "name": "BANG BANG POW!",
-      "url": "https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -799,46 +799,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 190498,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "The Don",
-        "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Jay Robinson",
-          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
-        },
-        {
-          "name": "Gabi'el",
-          "url": "https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN"
-        }
-      ],
-      "duration_ms": 166237,
-      "name": "The Don",
-      "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "We Don\u2019t Need",
         "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
       },
@@ -855,6 +815,22 @@
       "duration_ms": 188644,
       "name": "We Don\u2019t Need",
       "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 190498,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -883,8 +859,8 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Beast Mode (Knock You Out)",
-        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
+        "name": "2 Things",
+        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
       },
       "artists": [
         {
@@ -892,9 +868,9 @@
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 164761,
-      "name": "Beast Mode (Knock You Out)",
-      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
+      "duration_ms": 191250,
+      "name": "2 Things",
+      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -943,6 +919,30 @@
       "duration_ms": 153387,
       "name": "Hypnotize",
       "url": "https://open.spotify.com/track/4TRR5t5l0MJSqNJSeaOEXn"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "The Don",
+        "url": "https://open.spotify.com/album/0qGQYh3hi5EiIXaobMB3yV"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        },
+        {
+          "name": "Gabi'el",
+          "url": "https://open.spotify.com/artist/6fhN6RXbIZ26S3gfebpNYN"
+        }
+      ],
+      "duration_ms": 166237,
+      "name": "The Don",
+      "url": "https://open.spotify.com/track/6amFTa4qtw7wHiSKNZsBUw"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "2 Things",
-        "url": "https://open.spotify.com/album/1oMVaSg26TMl1zJEWbi38S"
+        "name": "Beast Mode (Knock You Out)",
+        "url": "https://open.spotify.com/album/6k5C7dt5RAZZ7oTzoF7LBc"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 191250,
-      "name": "2 Things",
-      "url": "https://open.spotify.com/track/23YAweZPLgWqOTJdpvSv1O"
+      "duration_ms": 164761,
+      "name": "Beast Mode (Knock You Out)",
+      "url": "https://open.spotify.com/track/460FLlsVLaDLzPTclcuOl4"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Quick Highs",
         "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
       },
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Repeating",
-        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
-      },
-      "artists": [
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        }
-      ],
-      "duration_ms": 147420,
-      "name": "Repeating",
-      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "The Unexplained",
         "url": "https://open.spotify.com/album/6jSRRKhBd0hMSzoSwqihRl"
       },
@@ -1283,6 +1251,38 @@
       "duration_ms": 135468,
       "name": "Reading My Mind",
       "url": "https://open.spotify.com/track/2c8TIDfFaU5LH6U05aTlIY"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Repeating",
+        "url": "https://open.spotify.com/album/5t5hcPMsrtVof7GjJbIkMM"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 147420,
+      "name": "Repeating",
+      "url": "https://open.spotify.com/track/1zbl7QRP01FwzXrP4IAghk"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "B\u20acNZ",
-        "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Syaqish",
-          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "B\u20acNZ",
-      "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Perfect Day",
         "url": "https://open.spotify.com/album/2NZj3cTwqgympXq4DLeq6r"
       },
@@ -1387,6 +1363,30 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "B\u20acNZ",
+        "url": "https://open.spotify.com/album/5xLgpnSUHopno8qcuJA67z"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Syaqish",
+          "url": "https://open.spotify.com/artist/0rjNEyvqvYCFdCG2a3Y2yq"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "B\u20acNZ",
+      "url": "https://open.spotify.com/track/57UFzhgsL7Q4lxaEKosMSb"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Losing My Head",
         "url": "https://open.spotify.com/album/3JWoL41S9fFXbMooVYxvCz"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 189289,
       "name": "Losing My Head",
       "url": "https://open.spotify.com/track/3eQZbK5mweA7WkbPnSaejl"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Dress Code",
-        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Dress Code",
-      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1435,6 +1419,22 @@
       "duration_ms": 181934,
       "name": "Anywhere You Go",
       "url": "https://open.spotify.com/track/1fFu4J4awCBu1zuwyLrWWh"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Dress Code",
+        "url": "https://open.spotify.com/album/4LvkMrD1HDDOzWHRS7GKE1"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Dress Code",
+      "url": "https://open.spotify.com/track/0rK3a7tLRVgJBoc2DP3tIX"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "I DON'T KNOW",
-        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
-      },
-      "artists": [
-        {
-          "name": "Julian Jordan",
-          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
-        }
-      ],
-      "duration_ms": 172519,
-      "name": "I DON'T KNOW",
-      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Mind Awake, Body Asleep",
         "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 153749,
       "name": "Ravers",
       "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1903,6 +1903,30 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "TikTak",
+        "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
+      },
+      "artists": [
+        {
+          "name": "Laidback Luke",
+          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "duration_ms": 137204,
+      "name": "TikTak",
+      "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Dancin'",
         "url": "https://open.spotify.com/album/0lJSRavFYfu6iCh9l5B2yP"
       },
@@ -1935,30 +1959,6 @@
       "duration_ms": 215750,
       "name": "Turn Off The Lights",
       "url": "https://open.spotify.com/track/1hBWTDB4WVPTN6zaFcCftG"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "TikTak",
-        "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
-      },
-      "artists": [
-        {
-          "name": "Laidback Luke",
-          "url": "https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk"
-        },
-        {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
-        },
-        {
-          "name": "Kapuzen",
-          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
-        }
-      ],
-      "duration_ms": 137204,
-      "name": "TikTak",
-      "url": "https://open.spotify.com/track/1aWMQBfDA9AYHrysNuMJIc"
     }
   ],
   "unique_name": "Shuffle Syndrome",

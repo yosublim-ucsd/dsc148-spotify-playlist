@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 42547,
+  "num_followers": 42549,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAADDz4xhl9cQudn9LvG2Cm3g",
+  "snapshot_id": "Z0pVgAAAAABTdSsEFuOP98uiWQvuO0/7",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "El Tejano",
-      "url": "https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4NwBGbGjwIYAFmL1fAQYHJ"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 171761,
       "name": "Kids (feat. Sofia Reyes)",
       "url": "https://open.spotify.com/track/28JJJAkCRwWH2pFI9SoA7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "El Tejano",
+      "url": "https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Est\u00e1s T\u00fa",
-        "url": "https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 177607,
-      "name": "Cuando Est\u00e1s T\u00fa",
-      "url": "https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Let You Go (feat. Sofia Reyes)",
         "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 162537,
       "name": "Never Let You Go (feat. Sofia Reyes)",
       "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Est\u00e1s T\u00fa",
+        "url": "https://open.spotify.com/album/3af2qc7bfSXU08ecwxQAFC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 177607,
+      "name": "Cuando Est\u00e1s T\u00fa",
+      "url": "https://open.spotify.com/track/1qZK2nOljXMWpIdOXmandN"
     },
     {
       "added_at": null,
@@ -1075,26 +1075,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TICK TOCK",
-        "url": "https://open.spotify.com/album/61vhLJ6tGWrE9XlmIedFmb"
+        "name": "Sped Up Songs Vol. 1",
+        "url": "https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+          "name": "High and Low HITS",
+          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
         },
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 171082,
-      "name": "TICK TOCK",
-      "url": "https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa"
+      "duration_ms": 170765,
+      "name": "1, 2, 3 - Sped Up",
+      "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
     }
   ],
   "unique_name": "This Is Sof\u00eda Reyes",

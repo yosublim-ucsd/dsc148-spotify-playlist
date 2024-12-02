@@ -1,12 +1,12 @@
 {
   "description": "This is Dharius. The essential tracks, all in one playlist.",
-  "num_followers": 113870,
+  "num_followers": 113906,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAACmew0G8uS6HvRNCpzwBtPZ",
+  "snapshot_id": "Z0pVgAAAAACBYm8TiYK21DZLMY3bvCWz",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuando Todo Acaba",
+        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 189289,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Bols\u00f3n",
         "url": "https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 231177,
       "name": "El Bols\u00f3n",
       "url": "https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuando Todo Acaba",
-        "url": "https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 189289,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp"
     },
     {
       "added_at": null,

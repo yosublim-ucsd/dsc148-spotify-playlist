@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: FISHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,566 likes - 88 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,606 likes - 88 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [Smile and Wave](https://open.spotify.com/track/56TN4q36IiPjblLxbnQvkW) | [Keanu](https://open.spotify.com/artist/7CFFNSaFkn8FOD1z2HBhp9), [Calvin Bennett](https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R) | [Smile and Wave](https://open.spotify.com/album/2IC8ZylcCoIBWFluD30E9t) | 2:32 |
 | 88 | [Fruit Of Knowledge](https://open.spotify.com/track/4L3AcqZmVo7sKoH4BAhurm) | [STÜM](https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd) | [Fruit Of Knowledge EP](https://open.spotify.com/album/1IUitXyds4l7KJRGzvYx6R) | 3:17 |
 
-Snapshot ID: `Z0jtUgAAAAC1chtUiGB/DLFyv6C7cTSw`
+Snapshot ID: `Z0zrnwAAAAB0yCzxRINJ6P8aEo/HPX8p`

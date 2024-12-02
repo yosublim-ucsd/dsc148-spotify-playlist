@@ -1,6 +1,6 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 85445,
+  "num_followers": 85485,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
-        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Blue And Sentimental - 1947 Version",
-      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Samara Joy",
         "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 233613,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "The Complete Capitol Recordings Of The Nat King Cole Trio",
+        "url": "https://open.spotify.com/album/36r0NLy7NH4Z14enk0EvF4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 155600,
+      "name": "Blue And Sentimental - 1947 Version",
+      "url": "https://open.spotify.com/track/3j8fVf9tSHyqzTtUDth13B"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -319,26 +319,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        },
-        {
-          "name": "Bud Shank Quintet",
-          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
-        }
-      ],
-      "duration_ms": 260240,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Nina Simone & Piano (Expanded Edition)",
         "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
       },
@@ -351,22 +331,6 @@
       "duration_ms": 289080,
       "name": "I Get Along Without You Very Well (Except Sometimes)",
       "url": "https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Billie Holiday",
-        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 195786,
-      "name": "Lover, Come Back To Me",
-      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -403,6 +367,42 @@
       "duration_ms": 179866,
       "name": "No Other Love",
       "url": "https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        },
+        {
+          "name": "Bud Shank Quintet",
+          "url": "https://open.spotify.com/artist/0wxeKxK215flbUeSkHOhTS"
+        }
+      ],
+      "duration_ms": 260240,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 195786,
+      "name": "Lover, Come Back To Me",
+      "url": "https://open.spotify.com/track/27SVIQdbsAqZkTqpEnNmQ5"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Inside Betty Carter",
-        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
-      },
-      "artists": [
-        {
-          "name": "Betty Carter",
-          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
-        }
-      ],
-      "duration_ms": 308626,
-      "name": "Beware My Heart",
-      "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "At The End Of The Day",
         "url": "https://open.spotify.com/album/5VPF6Ae4YHkcGId3ImcbRs"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 262000,
       "name": "After You've Gone",
       "url": "https://open.spotify.com/track/1Dv9y6jxAcIQ0mSA4pxYhU"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Inside Betty Carter",
+        "url": "https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "Beware My Heart",
+      "url": "https://open.spotify.com/track/5tHMyiKgJ1nVBkpLSnTpX6"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "The Lost Tapes",
-        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "I'm a Fool to Want You",
-      "url": "https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
         "name": "Seven Steps To Heaven (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ufqOq0QvMNnlexELRazNO"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 505493,
       "name": "Baby Won't You Please Come Home",
       "url": "https://open.spotify.com/track/0W5Szvf48ubKfPvgsZIEZ6"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "The Lost Tapes",
+        "url": "https://open.spotify.com/album/47nQ3PCd0XrIHzFIaamtEi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "I'm a Fool to Want You",
+      "url": "https://open.spotify.com/track/2VGYeHdyZcnLfcA0Ix6d4Y"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1187,6 +1187,26 @@
       "duration_ms": 165266,
       "name": "Cry You Out Of My Heart",
       "url": "https://open.spotify.com/track/298PoQoXA91pJuS0AKlXCk"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
+        "name": "Music For Late Hours",
+        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Jimmy Carroll Orchestra",
+          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
+        }
+      ],
+      "duration_ms": 205066,
+      "name": "I Won't Cry Anymore",
+      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1219,26 +1239,6 @@
       "duration_ms": 280093,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/4n3O6Vy6mtJlIVSZdmfEY6"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "Music For Late Hours",
-        "url": "https://open.spotify.com/album/3isH5zDyEAXGQIiYcLdozF"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Jimmy Carroll Orchestra",
-          "url": "https://open.spotify.com/artist/50p26eThcl1zJt6SDtkYF0"
-        }
-      ],
-      "duration_ms": 205066,
-      "name": "I Won't Cry Anymore",
-      "url": "https://open.spotify.com/track/1fTJakUvlTkptk3u4Fh55N"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Just One More Chance - 1931 Single Version",
+      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
+    },
+    {
+      "added_at": "2024-09-03 09:10:49",
+      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -1363,18 +1379,18 @@
     {
       "added_at": "2024-09-03 09:10:49",
       "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+        "name": "When Your Heart's On Fire",
+        "url": "https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Just One More Chance - 1931 Single Version",
-      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
+      "duration_ms": 225000,
+      "name": "He Was Too Good To Me",
+      "url": "https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi"
     },
     {
       "added_at": "2024-09-03 09:10:49",
@@ -1391,22 +1407,6 @@
       "duration_ms": 181746,
       "name": "Something to Remember You By",
       "url": "https://open.spotify.com/track/1P91FdmD8J7fgsnNdLWHnt"
-    },
-    {
-      "added_at": "2024-09-03 09:10:49",
-      "album": {
-        "name": "When Your Heart's On Fire",
-        "url": "https://open.spotify.com/album/3x8N8hvqBICGRcLwspO5yF"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "He Was Too Good To Me",
-      "url": "https://open.spotify.com/track/31jrVem3d0gsLSFcx7CoIi"
     },
     {
       "added_at": "2024-09-03 09:10:49",

@@ -3716,7 +3716,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 215472,
       "name": "Crazy QLO",
       "url": "https://open.spotify.com/track/3TyUYGoU43YgPPVDcBJolZ"
@@ -5682,7 +5682,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 153609,
       "name": "En Otra Vida",
       "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
@@ -6124,7 +6124,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 223039,
       "name": "ESTOY PUTIAO",
       "url": "https://open.spotify.com/track/0lhcaiGyAkmZg5RaC99ZbH"
@@ -8662,7 +8662,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 174229,
       "name": "LA FALDA",
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -11072,6 +11072,32 @@
       "duration_ms": 165111,
       "name": "Melancolia",
       "url": "https://open.spotify.com/track/7ldMJuOcxPz0xeKcpIwkyp"
+    },
+    {
+      "album": {
+        "name": "Melissa & Julissa",
+        "url": "https://open.spotify.com/album/2o6FfRhLMomN1D3JwHhieh"
+      },
+      "artists": [
+        {
+          "name": "DJ Lalo",
+          "url": "https://open.spotify.com/artist/4BPiDIdCGWgKy8UzVS1a4S"
+        },
+        {
+          "name": "J\u00f8tta",
+          "url": "https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3"
+        },
+        {
+          "name": "Lil New",
+          "url": "https://open.spotify.com/artist/4m2CwqM1a8Ni3pKFj8Phds"
+        }
+      ],
+      "date_added": "2024-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256640,
+      "name": "Melissa & Julissa",
+      "url": "https://open.spotify.com/track/0QMnlDSfdLaSaEVdgAtthL"
     },
     {
       "album": {
@@ -14100,7 +14126,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 146285,
       "name": "PPCP",
       "url": "https://open.spotify.com/track/2HxZAed6QC9yJZuyaJJSz0"
@@ -14496,7 +14522,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 172797,
       "name": "QLONA",
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
@@ -18896,7 +18922,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 314013,
       "name": "Ven Dev\u00f3rame Otra Vez",
       "url": "https://open.spotify.com/track/5mg6sU732O35VMfCYk3lmX"

@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3508,
+  "num_followers": 3510,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAABIQJ5IIM8S/NR5YjQ7SJeX",
+  "snapshot_id": "Z0pVgAAAAACls+GZ5MrcAxdjH1/7oUUD",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "...but i'd rather be with you, too",
-        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
       },
       "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 197790,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
       "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 183973,
-      "name": "So Long, Frank Lloyd Wright",
-      "url": "https://open.spotify.com/track/6xB36Rdbu32JzbQGrPcRb7"
+      "duration_ms": 241973,
+      "name": "Beauty Into Clich\u00e9s",
+      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
       "duration_ms": 268053,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "I Close My Eyes",
+      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "I Close My Eyes",
-      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The Sake Of The Rhyme",
         "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
       },
@@ -872,9 +872,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 241973,
-      "name": "Beauty Into Clich\u00e9s",
-      "url": "https://open.spotify.com/track/0kUnazSkIJAOJl3GiWEC94"
+      "duration_ms": 183973,
+      "name": "So Long, Frank Lloyd Wright",
+      "url": "https://open.spotify.com/track/6xB36Rdbu32JzbQGrPcRb7"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

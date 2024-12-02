@@ -1,12 +1,12 @@
 {
   "description": "This is Herencia de Patrones. The essential tracks, all in one playlist.",
-  "num_followers": 128592,
+  "num_followers": 128618,
   "original_name": "This Is Herencia de Patrones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAADVU7DXGYJJAUz/Kq/l9fVE",
+  "snapshot_id": "Z0pVgAAAAABfP0SojurH+lL3ecdtiQNr",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry For The Wait",
-        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 202202,
-      "name": "Lo Que Es",
-      "url": "https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moreno 80 (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 182000,
       "name": "Moreno 80",
       "url": "https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry For The Wait",
+        "url": "https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 202202,
+      "name": "Lo Que Es",
+      "url": "https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk"
     },
     {
       "added_at": null,
@@ -323,6 +323,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chakalon",
+        "url": "https://open.spotify.com/album/52Kz1huANKD4x4mI3AiPMg"
+      },
+      "artists": [
+        {
+          "name": "Los C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 170100,
+      "name": "Chakalon",
+      "url": "https://open.spotify.com/track/7xhbeQ6a8nDIcoGCbUzzxJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buen Ejemplo",
         "url": "https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 171749,
       "name": "EL KARMA",
       "url": "https://open.spotify.com/track/3qMR5oiGKLfZZeVJmOiUKx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chakalon",
-        "url": "https://open.spotify.com/album/52Kz1huANKD4x4mI3AiPMg"
-      },
-      "artists": [
-        {
-          "name": "Los C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/5VWS9FUu81CLfq7i7tLHXn"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 170100,
-      "name": "Chakalon",
-      "url": "https://open.spotify.com/track/7xhbeQ6a8nDIcoGCbUzzxJ"
     },
     {
       "added_at": null,
@@ -791,6 +791,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bank Robbery (feat. Herencia de Patrones)",
+        "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "The Bank Robbery",
+      "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HP Everything",
         "url": "https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr"
       },
@@ -823,34 +851,6 @@
       "duration_ms": 209911,
       "name": "Yo, Billetes y Damas",
       "url": "https://open.spotify.com/track/1ybkixLiM92Wgbp72m6Ddt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bank Robbery (feat. Herencia de Patrones)",
-        "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "The Bank Robbery",
-      "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
     },
     {
       "added_at": null,

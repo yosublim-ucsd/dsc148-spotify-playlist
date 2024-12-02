@@ -15372,7 +15372,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 239437,
       "name": "Handwriting",
       "url": "https://open.spotify.com/track/5l5ipU5WbGDaSoq3tfhyD9"
@@ -21298,7 +21298,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 163248,
       "name": "Liar Liar",
       "url": "https://open.spotify.com/track/6dEjBAewIpcx2ROKYkcrKM"
@@ -25312,7 +25312,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 123055,
       "name": "Name of The One",
       "url": "https://open.spotify.com/track/7iWB4nrEL2ZvbasQCMUMl5"
@@ -37549,6 +37549,28 @@
     },
     {
       "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/2fm58Lz3dMweBl9o04stCy"
+      },
+      "artists": [
+        {
+          "name": "Aaron Malik",
+          "url": "https://open.spotify.com/artist/4naWZfbx1c3Lb9k9d1op1I"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163968,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/3kda5qs0jI8BdU0JW09FQI"
+    },
+    {
+      "album": {
         "name": "Girls5eva Season 3 (Music From The Netflix Original Series)",
         "url": "https://open.spotify.com/album/0lOoFKyv1oX6wUp6Jqi5pS"
       },
@@ -43398,10 +43420,32 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 179780,
       "name": "You & Me - KC Lights Remix",
       "url": "https://open.spotify.com/track/1BfXSIOyRHZcdqnZ1EziAI"
+    },
+    {
+      "album": {
+        "name": "You & Me (Remixes)",
+        "url": "https://open.spotify.com/album/3CjbKEzQRFUknYkWqkq08p"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216616,
+      "name": "You & Me - Moby's Jungle Remix",
+      "url": "https://open.spotify.com/track/77yMAVqlzazpoQCNqQBaAa"
     },
     {
       "album": {

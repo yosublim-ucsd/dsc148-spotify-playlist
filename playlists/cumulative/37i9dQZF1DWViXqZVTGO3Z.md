@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-424 songs - 1 day 3 hr 38 min
+425 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [MARY DID YOU KNOW](https://open.spotify.com/track/45I3HDHgs2lXnuhA5pBO2p) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR) | [MARY DID YOU KNOW](https://open.spotify.com/album/6068cDzDC3VHlcbsEcfbZM) | 4:03 | 2024-11-17 |  |
 | [Mary Did You Know](https://open.spotify.com/track/0caycY1j83fvhTO05jmtdK) | [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF) | [Mary Did You Know](https://open.spotify.com/album/7bppzq8dWxhamFF1T1sbpE) | 2:55 | 2024-11-17 |  |
 | [Mary Did You Know](https://open.spotify.com/track/6KLBLbycBR3gTKIJGYTVBN) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Christmas: God With Us](https://open.spotify.com/album/4lif7qdfFAsjGkyCL83gNU) | 4:04 | 2021-12-24 |  |
+| [Mary Did You Know](https://open.spotify.com/track/3kuht2yVxbhmtUiT3ixGoJ) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Mary Did You Know](https://open.spotify.com/album/5ajcHzGBbwZfycAcaWvlgD) | 3:26 | 2024-11-29 |  |
 | [Mary Did You Know? \- Radio Version](https://open.spotify.com/track/3msuA22zBie3qiCG7BVf9L) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [Mary Did You Know? \(Radio Version\)](https://open.spotify.com/album/0I7r8bytAaTnRtjukX0MJ5) | 2:54 | 2022-12-11 |  |
 | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/track/3GdoDVNfc732wPoMQ3ovBx) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Mary Was The First One To Carry The Gospel](https://open.spotify.com/album/3OW9iY1xb1YZgAc98v0bZP) | 4:47 | 2024-07-31 |  |
 | [Mary, Did You Know?](https://open.spotify.com/track/6nFuUr2GSTpEj9yHWpXbDk) | [Alive Gospel](https://open.spotify.com/artist/2ZPwCNjdfmR4U9jsBpLy0o), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Mary, Did You Know?](https://open.spotify.com/album/7rmTpuDKjKtuCXvQT3LAV6) | 3:35 | 2024-11-29 |  |
@@ -410,7 +411,7 @@
 | [Welcome to Our World](https://open.spotify.com/track/1wAMMKFVZJ3AHgGCvYMBpK) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Welcome To Our World](https://open.spotify.com/album/2Xl3s1pssq11jtDsQYOEdm) | 4:07 | 2021-12-24 | 2022-12-03 |
 | [Welcome To Our World](https://open.spotify.com/track/4ybX0cCvhzMVv60ABK8r8Y) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Christmastime](https://open.spotify.com/album/6galMAWgz7RjZThYdCdesP) | 3:28 | 2021-12-11 |  |
 | [What A Surprise](https://open.spotify.com/track/4bFK7ppWmFNxwN7ZbE8o55) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Let It Be So](https://open.spotify.com/album/7k74Mi8GdYiCgl8L6lzKdg) | 4:18 | 2021-12-24 | 2022-07-24 |
-| [What Child Is This](https://open.spotify.com/track/1JhBRZ8wA3Yt9BYK3D9ulU) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tennessee Christmas](https://open.spotify.com/album/3ayqZlchbAWIYa8q0qbHgT) | 3:16 | 2021-12-11 |  |
+| [What Child Is This](https://open.spotify.com/track/1JhBRZ8wA3Yt9BYK3D9ulU) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tennessee Christmas](https://open.spotify.com/album/3ayqZlchbAWIYa8q0qbHgT) | 3:16 | 2021-12-11 | 2024-12-02 |
 | [What Child Is This](https://open.spotify.com/track/3vrVY4myVxJgAIAVOtkY41) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold \(Deluxe\)](https://open.spotify.com/album/2pUDUet97GvfDELqwTnMFo) | 3:15 | 2021-12-11 | 2022-07-29 |
 | [What Child Is This?](https://open.spotify.com/track/5rM3dXlmgy5BtkamHPxdQl) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Morgan Ranney](https://open.spotify.com/artist/4NAuhahng7kSZqvfIXHFR9) | [What Child Is This?](https://open.spotify.com/album/2ZbATgq2AqrhhftlpkC0eb) | 2:16 | 2021-12-11 | 2024-08-01 |
 | [What Child Is This?](https://open.spotify.com/track/0JgLHj8dtZgtd1gvD4TwHP) | [BYU Noteworthy](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) | [What Child Is This?](https://open.spotify.com/album/79Un3uOblNs54iVRPE9eZs) | 4:16 | 2021-12-11 |  |

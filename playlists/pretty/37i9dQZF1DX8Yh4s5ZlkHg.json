@@ -1,6 +1,6 @@
 {
   "description": "Intimate. Cover: Debbie Harry & Chris Stein",
-  "num_followers": 629791,
+  "num_followers": 634117,
   "original_name": "sexy indie",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-11-26 02:40:48",
       "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 292110,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
+    },
+    {
+      "added_at": "2024-11-26 02:40:48",
+      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2024-11-26 02:40:48",
       "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 292110,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
-    },
-    {
-      "added_at": "2024-11-26 02:40:48",
-      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
+    },
+    {
+      "added_at": "2024-11-26 02:40:48",
+      "album": {
+        "name": "I.",
+        "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 286293,
+      "name": "Nothing's Gonna Hurt You Baby",
+      "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
     },
     {
       "added_at": "2024-11-26 02:40:48",
@@ -339,22 +355,6 @@
       "duration_ms": 180902,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
-    },
-    {
-      "added_at": "2024-11-26 02:40:48",
-      "album": {
-        "name": "I.",
-        "url": "https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 286293,
-      "name": "Nothing's Gonna Hurt You Baby",
-      "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
     },
     {
       "added_at": "2024-11-26 02:40:48",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-11-26 02:40:48",
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
+    },
+    {
+      "added_at": "2024-11-26 02:40:48",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/36P07bti6xD99o7S1acmin"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
-    },
-    {
-      "added_at": "2024-11-26 02:40:48",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2024-11-26 02:40:48",
@@ -727,54 +727,6 @@
     {
       "added_at": "2024-11-26 02:40:48",
       "album": {
-        "name": "dirty dancer",
-        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "dirty dancer",
-      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
-    },
-    {
-      "added_at": "2024-11-26 02:40:48",
-      "album": {
-        "name": "In the End It Always Does",
-        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Touching Yourself",
-      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
-    },
-    {
-      "added_at": "2024-11-26 02:40:48",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 166179,
-      "name": "Are You Looking Up",
-      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
-    },
-    {
-      "added_at": "2024-11-26 02:40:48",
-      "album": {
         "name": "The Moon and the Melodies",
         "url": "https://open.spotify.com/album/5v2I3i4RPD8T1XV0pjvPNo"
       },
@@ -795,6 +747,70 @@
     {
       "added_at": "2024-11-26 02:40:48",
       "album": {
+        "name": "dirty dancer",
+        "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "dirty dancer",
+      "url": "https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en"
+    },
+    {
+      "added_at": "2024-11-26 02:40:48",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 166179,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
+    },
+    {
+      "added_at": "2024-11-26 02:40:48",
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Touching Yourself",
+      "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
+    },
+    {
+      "added_at": "2024-11-26 02:40:48",
+      "album": {
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 290213,
+      "name": "Reckoner",
+      "url": "https://open.spotify.com/track/02ppMPbg1OtEdHgoPqoqju"
+    },
+    {
+      "added_at": "2024-11-26 02:40:48",
+      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
@@ -811,34 +827,18 @@
     {
       "added_at": "2024-11-26 02:40:48",
       "album": {
-        "name": "Sexy to Someone",
-        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+        "name": "Heaven or Las Vegas",
+        "url": "https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
         }
       ],
-      "duration_ms": 207795,
-      "name": "Sexy to Someone",
-      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
-    },
-    {
-      "added_at": "2024-11-26 02:40:48",
-      "album": {
-        "name": "Moveys",
-        "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 166033,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/2b7zdV4i5vEaRlZAkiIAR5"
+      "duration_ms": 298400,
+      "name": "Heaven or Las Vegas",
+      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok"
     }
   ],
   "unique_name": "sexy indie",

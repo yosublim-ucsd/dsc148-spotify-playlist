@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Taiwan.",
-  "num_followers": 216233,
+  "num_followers": 216266,
   "original_name": "Top 50 - Taiwan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lt6EUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lt/RIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -25,7 +25,43 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
@@ -49,43 +85,7 @@
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -101,7 +101,7 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -121,23 +121,7 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "FRI(END)S",
-        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 148082,
-      "name": "FRI(END)S",
-      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "number one girl",
         "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
@@ -153,7 +137,23 @@
       "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "FRI(END)S",
+        "url": "https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 148082,
+      "name": "FRI(END)S",
+      "url": "https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "Happy - :D (Remixes)",
         "url": "https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69"
@@ -169,26 +169,10 @@
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "DRIP",
-      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/7J41hCLBI2kEwL6RVSxfNx"
+        "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
       },
       "artists": [
         {
@@ -198,46 +182,10 @@
       ],
       "duration_ms": 183226,
       "name": "Whiplash",
-      "url": "https://open.spotify.com/track/3coRPMnFg2dJcPu5RMloa9"
+      "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
@@ -257,23 +205,43 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
-        "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
       "artists": [
         {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 240461,
-      "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
-      "url": "https://open.spotify.com/track/1sl9O7VLwGwdw4iXqnkbDP"
+      "duration_ms": 180845,
+      "name": "DRIP",
+      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
@@ -289,7 +257,7 @@
       "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v"
@@ -309,7 +277,23 @@
       "url": "https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "POWER",
         "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
@@ -325,7 +309,7 @@
       "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "\u60c5\u6b4c\u624b",
         "url": "https://open.spotify.com/album/2Oqw9GtKcsHbjbL7OXNpO5"
@@ -341,7 +325,7 @@
       "url": "https://open.spotify.com/track/30slz6D2PtbwDimGJaEVsH"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "SYNK : PARALLEL LINE - Special Digital Single",
         "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
@@ -357,7 +341,7 @@
       "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -373,23 +357,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "\u6211\u60f3\u8981\u64c1\u6709\u4f60 (Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/5GIQZuQ2trxmbwPk0I1I1O"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u7537\u5b69\u6a02\u5718",
-          "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
-        }
-      ],
-      "duration_ms": 222244,
-      "name": "\u6211\u60f3\u8981\u64c1\u6709\u4f60 - Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/3Xkh1A1o9ecexZDpspT9Va"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "\u534a\u719f\u7406\u60f3",
         "url": "https://open.spotify.com/album/1qE3IWG3xPJZdLkAXB1rAs"
@@ -405,23 +373,23 @@
       "url": "https://open.spotify.com/track/1NoDTQhJsrd5rnpb6PQthK"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "Cherish (My Love) (Remixes)",
-        "url": "https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4"
+        "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
+        "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
       },
       "artists": [
         {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 176854,
-      "name": "Cherish (My Love)",
-      "url": "https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8"
+      "duration_ms": 240461,
+      "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
+      "url": "https://open.spotify.com/track/1sl9O7VLwGwdw4iXqnkbDP"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -437,10 +405,10 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "Hey Girl (Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/0zjat7kW5egfijiLoWZ43j"
+        "name": "\u6211\u60f3\u8981\u64c1\u6709\u4f60 (Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/5GIQZuQ2trxmbwPk0I1I1O"
       },
       "artists": [
         {
@@ -448,15 +416,15 @@
           "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
         }
       ],
-      "duration_ms": 230769,
-      "name": "Hey Girl - Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/2kLuVbzpjnRAOwaTnp7C2J"
+      "duration_ms": 222244,
+      "name": "\u6211\u60f3\u8981\u64c1\u6709\u4f60 - Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/3Xkh1A1o9ecexZDpspT9Va"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
+        "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
       },
       "artists": [
         {
@@ -466,62 +434,10 @@
       ],
       "duration_ms": 178880,
       "name": "Supernova",
-      "url": "https://open.spotify.com/track/5lKnZbdGCBViitE1Ce5TZh"
+      "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
-        "url": "https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a"
-      },
-      "artists": [
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        },
-        {
-          "name": "DIOR \u5927\u7a4e",
-          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
-      "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "\u5931\u7720\u75c7\u5019\u7fa4",
-        "url": "https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN"
-      },
-      "artists": [
-        {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
-        }
-      ],
-      "duration_ms": 229523,
-      "name": "\u6709\u4e9b",
-      "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "Falling (feat. Taka)",
         "url": "https://open.spotify.com/album/4W7cA18z4TfyRKgnrAD0Sm"
@@ -541,103 +457,27 @@
       "url": "https://open.spotify.com/track/7HaUkQ34NYlOXFFspHeoG6"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "abouTZU",
-        "url": "https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy"
-      },
-      "artists": [
-        {
-          "name": "TZUYU",
-          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "\u5f9e\u672a\u898b\u904e\u7684\u6d77",
-        "url": "https://open.spotify.com/album/5e28mgD5TjknzurCXeQU7X"
-      },
-      "artists": [
-        {
-          "name": "\u544a\u4e94\u4eba",
-          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
-        }
-      ],
-      "duration_ms": 301826,
-      "name": "\u5f9e\u672a\u898b\u904e\u7684\u6d77 (Netflix \u5f71\u96c6\u300a\u5f71\u540e\u300b\u5e8f\u66f2)",
-      "url": "https://open.spotify.com/track/3agPPRZPNOhbCwm2026EN6"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "\u4e03\u91cc\u9999",
-        "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "\u64f1\u6dfa",
-      "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 131786,
-      "name": "Igloo",
-      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
-        "url": "https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S"
+        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
+        "url": "https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a"
       },
       "artists": [
         {
           "name": "Firdhaus",
           "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
         }
       ],
-      "duration_ms": 229655,
-      "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
-      "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
+      "duration_ms": 261000,
+      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
+      "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "\u4e0d\u662f\u56e0\u70ba\u5929\u6c23\u6674\u6717\u624d\u611b\u4f60",
         "url": "https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI"
@@ -653,107 +493,55 @@
       "url": "https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "\u5b57\u5b57\u53e5\u53e5",
-        "url": "https://open.spotify.com/album/5aQMO1ltAoQotkfPCOy0jn"
+        "name": "Cherish (My Love) (Remixes)",
+        "url": "https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4"
       },
       "artists": [
         {
-          "name": "\u5362\u5362\u5feb\u95ed\u5634",
-          "url": "https://open.spotify.com/artist/4wUR1NviIGE01yEfeLNkeV"
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 200000,
-      "name": "\u5b57\u5b57\u53e5\u53e5",
-      "url": "https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu"
+      "duration_ms": 176854,
+      "name": "Cherish (My Love)",
+      "url": "https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/4SboBpuYojDm02qS4iFeJC"
+        "name": "\u5931\u7720\u75c7\u5019\u7fa4",
+        "url": "https://open.spotify.com/album/1XD00QTaV6BAcPdsmGzyyN"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
         }
       ],
-      "duration_ms": 196466,
-      "name": "Armageddon",
-      "url": "https://open.spotify.com/track/4b2fMv44GAYpsDSK4ihbsI"
+      "duration_ms": 229523,
+      "name": "\u6709\u4e9b",
+      "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
+        "name": "Hey Girl (Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/0zjat7kW5egfijiLoWZ43j"
       },
       "artists": [
         {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+          "name": "\u5c0f\u7537\u5b69\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
         }
       ],
-      "duration_ms": 212734,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/6b6KXDbDn0s0Jepxm8a3nr"
+      "duration_ms": 230769,
+      "name": "Hey Girl - Netflix\u5f71\u96c6\u300a\u5f71\u540e\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/2kLuVbzpjnRAOwaTnp7C2J"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "Letter To Myself - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 184060,
-      "name": "Letter To Myself",
-      "url": "https://open.spotify.com/track/1Uxr0oBXAZRuLkAz27TkLc"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
-      "album": {
-        "name": "\u8449\u60e0\u7f8e",
-        "url": "https://open.spotify.com/album/0E5yojmnEdbs68b1wM6Kla"
-      },
-      "artists": [
-        {
-          "name": "Jay Chou",
-          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-        }
-      ],
-      "duration_ms": 269746,
-      "name": "\u6674\u5929",
-      "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
-    },
-    {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "\u6211\u5011\u4ee5\u5f8c\u8981\u7d50\u5a5a",
         "url": "https://open.spotify.com/album/0mnRDacFJUE7YDLLIUwTbL"
@@ -769,23 +557,103 @@
       "url": "https://open.spotify.com/track/1IS0WFyiVpwsATeSzjEvpI"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "Amazing Show\u540c\u540d\u5c08\u8f2f",
-        "url": "https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau"
+        "name": "\u4e03\u91cc\u9999",
+        "url": "https://open.spotify.com/album/7vSaodFzUYCexkKXeEhkpc"
       },
       "artists": [
         {
-          "name": "Amazing Show",
-          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
         }
       ],
-      "duration_ms": 187266,
-      "name": "\u611b\u60c5\u7684\u5927\u58de\u86cb",
-      "url": "https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4"
+      "duration_ms": 238133,
+      "name": "\u64f1\u6dfa",
+      "url": "https://open.spotify.com/track/56mzU03ZesV0iRroHR2K04"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/3gHhPm8z8tid1kvpniUKuK"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 196466,
+      "name": "Armageddon",
+      "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+        "url": "https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 229655,
+      "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+      "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "abouTZU",
+        "url": "https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy"
+      },
+      "artists": [
+        {
+          "name": "TZUYU",
+          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -805,23 +673,55 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+        "name": "\u5f9e\u672a\u898b\u904e\u7684\u6d77",
+        "url": "https://open.spotify.com/album/5e28mgD5TjknzurCXeQU7X"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "\u544a\u4e94\u4eba",
+          "url": "https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8"
         }
       ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+      "duration_ms": 301826,
+      "name": "\u5f9e\u672a\u898b\u904e\u7684\u6d77 (Netflix \u5f71\u96c6\u300a\u5f71\u540e\u300b\u5e8f\u66f2)",
+      "url": "https://open.spotify.com/track/3agPPRZPNOhbCwm2026EN6"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "\u5b57\u5b57\u53e5\u53e5",
+        "url": "https://open.spotify.com/album/5aQMO1ltAoQotkfPCOy0jn"
+      },
+      "artists": [
+        {
+          "name": "\u5362\u5362\u5feb\u95ed\u5634",
+          "url": "https://open.spotify.com/artist/4wUR1NviIGE01yEfeLNkeV"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "\u5b57\u5b57\u53e5\u53e5",
+      "url": "https://open.spotify.com/track/7fAdinC2UTc0Y9GiKrkTtu"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "\u8449\u60e0\u7f8e",
+        "url": "https://open.spotify.com/album/2RdWEfazJrGTiIA1x97y1v"
+      },
+      "artists": [
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 269746,
+      "name": "\u6674\u5929",
+      "url": "https://open.spotify.com/track/2zjo2j5j3S0Nk21LKCgc8L"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
       "album": {
         "name": "\u6709\u5929\u6703\u518d\u76f8\u898b",
         "url": "https://open.spotify.com/album/3euhcHkOosfai4FG0UXzp1"
@@ -837,20 +737,120 @@
       "url": "https://open.spotify.com/track/4BZlQdwkgUuaj5xbUHwUl8"
     },
     {
-      "added_at": "2024-11-30 12:51:36",
+      "added_at": "2024-12-01 12:42:02",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk"
+        "name": "DRIP",
+        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
       },
       "artists": [
         {
-          "name": "MEOVV",
-          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
         }
       ],
-      "duration_ms": 190187,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/1H9C0PyfQAxiMBKvvDZK9N"
+      "duration_ms": 212734,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/6b6KXDbDn0s0Jepxm8a3nr"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Amazing Show\u540c\u540d\u5c08\u8f2f",
+        "url": "https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau"
+      },
+      "artists": [
+        {
+          "name": "Amazing Show",
+          "url": "https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "\u611b\u60c5\u7684\u5927\u58de\u86cb",
+      "url": "https://open.spotify.com/track/5HVq8nS0pbM6G7YK8M7DY4"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2024-12-01 12:42:02",
+      "album": {
+        "name": "\u4e3a\u4f55\u79bb\u5f00",
+        "url": "https://open.spotify.com/album/3bDRe5CwhS5NGuZS0trZw7"
+      },
+      "artists": [
+        {
+          "name": "\u7f57\u68ee\u6d9b",
+          "url": "https://open.spotify.com/artist/546mgYEW9y8zAt4u7SHxzi"
+        }
+      ],
+      "duration_ms": 219865,
+      "name": "\u5c0f\u5b69",
+      "url": "https://open.spotify.com/track/6kyH1z6IdLo1GH3EcZXHMa"
     }
   ],
   "unique_name": "Top 50 - Taiwan",

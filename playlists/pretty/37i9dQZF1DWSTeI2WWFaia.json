@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1591195,
+  "num_followers": 1591212,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Brick Fees",
+      "url": "https://open.spotify.com/track/375ioxOx42RJEbfE5mo4Dy"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Still Praying",
         "url": "https://open.spotify.com/album/6Y4gDBghxCfpGkQKc9czVQ"
       },
@@ -363,18 +379,34 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "You Only Die 1nce",
-        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Brick Fees",
-      "url": "https://open.spotify.com/track/375ioxOx42RJEbfE5mo4Dy"
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 157853,
+      "name": "3001",
+      "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -419,18 +451,18 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "meet the grahams",
-        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+        "name": "SSX Tricky",
+        "url": "https://open.spotify.com/album/0oYTCnSK1D8GYfWUzrpxLa"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 392138,
-      "name": "meet the grahams",
-      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+      "duration_ms": 167000,
+      "name": "SSX Tricky",
+      "url": "https://open.spotify.com/track/36sJSi1dMErvXeLDT5TWAa"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -459,34 +491,18 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 157853,
-      "name": "3001",
-      "url": "https://open.spotify.com/track/7JRwdwgeTrYkJvwmecrPSW"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "SSX Tricky",
-        "url": "https://open.spotify.com/album/0oYTCnSK1D8GYfWUzrpxLa"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "SSX Tricky",
-      "url": "https://open.spotify.com/track/36sJSi1dMErvXeLDT5TWAa"
+      "duration_ms": 174000,
+      "name": "Steel Doors",
+      "url": "https://open.spotify.com/track/2GygHVLLlzbWVHlejhSIZU"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -507,42 +523,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "You Only Die 1nce",
-        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Steel Doors",
-      "url": "https://open.spotify.com/track/2GygHVLLlzbWVHlejhSIZU"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Define My Name",
         "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
       },
@@ -559,6 +539,46 @@
       "duration_ms": 190693,
       "name": "Define My Name",
       "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "BRAVADO + INTiMO",
+        "url": "https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        }
+      ],
+      "duration_ms": 210729,
+      "name": "SWiTCH (i)",
+      "url": "https://open.spotify.com/track/2RzRgSOR4joxfzW7zj0b2K"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/57pOyrIbZjxLqRbME7haSW"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -587,22 +607,18 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "BRAVADO + INTiMO",
-        "url": "https://open.spotify.com/album/6QfICnbrJhdEwyM4Hd0n3R"
+        "name": "You Only Die 1nce",
+        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
       },
       "artists": [
         {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 210729,
-      "name": "SWiTCH (i)",
-      "url": "https://open.spotify.com/track/2RzRgSOR4joxfzW7zj0b2K"
+      "duration_ms": 218630,
+      "name": "On The Set",
+      "url": "https://open.spotify.com/track/5LUShL5oF7n4all1pqSauD"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -623,38 +639,6 @@
       "duration_ms": 157880,
       "name": "Diego Maradona",
       "url": "https://open.spotify.com/track/384lbjCji1ciQLiKRIMHiK"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "You Only Die 1nce",
-        "url": "https://open.spotify.com/album/67LTX4flSRbvRopq6mja0h"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 218630,
-      "name": "On The Set",
-      "url": "https://open.spotify.com/track/5LUShL5oF7n4all1pqSauD"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 225760,
-      "name": "Palaces",
-      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -703,6 +687,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1O6d4cNuUV78GeXv7hgr4e"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 225760,
+      "name": "Palaces",
+      "url": "https://open.spotify.com/track/4ZMkvjr7y8M9Jv3lN87lff"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Ecstasy (Freestyle)",
         "url": "https://open.spotify.com/album/4l5ytI2ykKixML9AQwbL9X"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 117562,
       "name": "Ecstasy (Freestyle)",
       "url": "https://open.spotify.com/track/6L0wTexrFhQJqOt0dV0lik"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "You're the Only One Watching",
+        "url": "https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9"
+      },
+      "artists": [
+        {
+          "name": "MIKE",
+          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "You're the Only One Watching",
+      "url": "https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -775,6 +791,26 @@
       "duration_ms": 147138,
       "name": "Harvey Grant",
       "url": "https://open.spotify.com/track/3q9NyNkRJjiEfosJoGjMh3"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "SS2 Freestyle",
+        "url": "https://open.spotify.com/album/21jFKB3oTYa8IsJ9oRSsFT"
+      },
+      "artists": [
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "SS2 Freestyle",
+      "url": "https://open.spotify.com/track/3WJfh8zPcjOLj0SNJTWy1u"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -859,58 +895,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "SS2 Freestyle",
-        "url": "https://open.spotify.com/album/21jFKB3oTYa8IsJ9oRSsFT"
-      },
-      "artists": [
-        {
-          "name": "Benny The Butcher",
-          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "SS2 Freestyle",
-      "url": "https://open.spotify.com/track/3WJfh8zPcjOLj0SNJTWy1u"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Squeeze 1St 2",
-        "url": "https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2"
-      },
-      "artists": [
-        {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Squeeze 1St 2",
-      "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "You're the Only One Watching",
-        "url": "https://open.spotify.com/album/4tYKeBJ3XanBC6NFM5U8H9"
-      },
-      "artists": [
-        {
-          "name": "MIKE",
-          "url": "https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "You're the Only One Watching",
-      "url": "https://open.spotify.com/track/0MHwK2TUKhnaitQqH5ntXq"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "The Bricktionary",
         "url": "https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 189850,
       "name": "Fish Grease",
       "url": "https://open.spotify.com/track/4lqcL32AkuxcTSQyuLp4s5"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Squeeze 1St 2",
+        "url": "https://open.spotify.com/album/4tYbkBUHjeuuaMJaamtnM2"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Squeeze 1St 2",
+      "url": "https://open.spotify.com/track/42QrROgQkcQRFqyfRzonXs"
     },
     {
       "added_at": "2024-11-29 04:00:00",

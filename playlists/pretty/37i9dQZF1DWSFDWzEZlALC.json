@@ -1,12 +1,12 @@
 {
-  "description": "Indie, Pop und Rap mit deutschen Texten. bac",
-  "num_followers": 441719,
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: bac",
+  "num_followers": 441778,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0l7NgAAAAB9v83e7dCqM18XfXeg9Tpg",
+  "snapshot_id": "Z0x1nQAAAACDVfrnNNvmpU8ksu7hrAfk",
   "tracks": [
     {
       "added_at": "2024-11-29 08:28:38",
@@ -75,6 +75,38 @@
     {
       "added_at": "2024-11-29 08:28:38",
       "album": {
+        "name": "Ich hab Angst",
+        "url": "https://open.spotify.com/album/1hUaelyLAfs3iyb0gJfwIZ"
+      },
+      "artists": [
+        {
+          "name": "RAUM27",
+          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Ich hab Angst",
+      "url": "https://open.spotify.com/track/39laCiQUfz9UO7E2gHWoVy"
+    },
+    {
+      "added_at": "2024-11-29 08:28:38",
+      "album": {
+        "name": "halbes herz",
+        "url": "https://open.spotify.com/album/6BhcbDHEvSVvKYrd4z98iy"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "duration_ms": 126900,
+      "name": "halbes herz",
+      "url": "https://open.spotify.com/track/69LgQSF4ZNUaY0t7omohPB"
+    },
+    {
+      "added_at": "2024-11-29 08:28:38",
+      "album": {
         "name": "Richtung Sonne (OSWALD Remix)",
         "url": "https://open.spotify.com/album/3ypykdBTksF0I61XbEdb3m"
       },
@@ -127,34 +159,18 @@
     {
       "added_at": "2024-11-29 08:28:38",
       "album": {
-        "name": "Ich hab Angst",
-        "url": "https://open.spotify.com/album/1hUaelyLAfs3iyb0gJfwIZ"
+        "name": "redest",
+        "url": "https://open.spotify.com/album/1BVFlWGV3UUV74XZZG3oKT"
       },
       "artists": [
         {
-          "name": "RAUM27",
-          "url": "https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr"
+          "name": "rosmarin",
+          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Ich hab Angst",
-      "url": "https://open.spotify.com/track/39laCiQUfz9UO7E2gHWoVy"
-    },
-    {
-      "added_at": "2024-11-29 08:28:38",
-      "album": {
-        "name": "halbes herz",
-        "url": "https://open.spotify.com/album/6BhcbDHEvSVvKYrd4z98iy"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "duration_ms": 126900,
-      "name": "halbes herz",
-      "url": "https://open.spotify.com/track/69LgQSF4ZNUaY0t7omohPB"
+      "duration_ms": 172320,
+      "name": "redest",
+      "url": "https://open.spotify.com/track/2Zt9I3FeTu9MSoa7GXwepw"
     },
     {
       "added_at": "2024-11-29 08:28:38",
@@ -203,22 +219,6 @@
       "duration_ms": 184530,
       "name": "Enten & Schweine",
       "url": "https://open.spotify.com/track/6BuJNZ1yxmHUSuQKiSp8RG"
-    },
-    {
-      "added_at": "2024-11-29 08:28:38",
-      "album": {
-        "name": "redest",
-        "url": "https://open.spotify.com/album/1BVFlWGV3UUV74XZZG3oKT"
-      },
-      "artists": [
-        {
-          "name": "rosmarin",
-          "url": "https://open.spotify.com/artist/1uvUgsd70vqSzaF4bl3kZK"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "redest",
-      "url": "https://open.spotify.com/track/2Zt9I3FeTu9MSoa7GXwepw"
     },
     {
       "added_at": "2024-11-29 08:28:38",
@@ -1175,7 +1175,7 @@
     {
       "added_at": "2024-11-29 08:28:38",
       "album": {
-        "name": "Du fehlst mir nicht",
+        "name": "du fehlst mir nicht",
         "url": "https://open.spotify.com/album/506n9WJjn11a2SykIjt4Qk"
       },
       "artists": [
@@ -1185,7 +1185,7 @@
         }
       ],
       "duration_ms": 145989,
-      "name": "Du fehlst mir nicht",
+      "name": "du fehlst mir nicht",
       "url": "https://open.spotify.com/track/3FNlyLuJsg9Nmy3OtlhLsP"
     },
     {

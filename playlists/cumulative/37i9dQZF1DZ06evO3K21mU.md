@@ -4,7 +4,7 @@
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-83 songs - 5 hr 3 min
+84 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-11-10 |  |
 | [Apparently](https://open.spotify.com/track/5O59s7bCgTFsXDXlWecyQ1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:52 | 2023-11-10 |  |
 | [Back to the Topic](https://open.spotify.com/track/0HwVkiEvW3yTFbUQ45RXPB) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 3:00 | 2024-12-01 |  |
+| [Before I'm Gone](https://open.spotify.com/track/5isZz9H9yWJgOjFxrTeZm6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 4:23 | 2024-12-02 |  |
 | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S) | 3:30 | 2024-09-29 |  |
 | [Can I Live](https://open.spotify.com/track/54MLcMDmAwCkRB50bFdpSi) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Warm Up](https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY) | 3:21 | 2024-11-27 |  |
 | [Can't Get Enough](https://open.spotify.com/track/3mTpegrOwRn0oJjv4TSbEE) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:45 | 2023-11-10 |  |
@@ -39,7 +40,7 @@
 | [Home Alone \(with J\. Cole\)](https://open.spotify.com/track/0Fg88OWOdERXLMDcTWYwjf) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:29 | 2023-12-20 | 2024-04-06 |
 | [Huntin’ Wabbitz](https://open.spotify.com/track/2cH8wHImerFokgmhjyhCTU) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 2:42 | 2024-04-07 |  |
 | [i n t e r l u d e](https://open.spotify.com/track/08LwMWf5Tcfsd752EPzFV0) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:13 | 2023-11-10 | 2024-11-20 |
-| [I'm The Man](https://open.spotify.com/track/2E84A67xGL7tMSgRNUm5fO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 2:58 | 2024-11-23 |  |
+| [I'm The Man](https://open.spotify.com/track/2E84A67xGL7tMSgRNUm5fO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 2:58 | 2024-11-23 | 2024-12-02 |
 | [In The Morning](https://open.spotify.com/track/4OkiWfrZKmmVoILXk8JEtl) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:54 | 2023-11-10 |  |
 | [Intro](https://open.spotify.com/track/6wXUgYeIJznRMh1F6OBVB1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 0:54 | 2024-11-23 | 2024-11-29 |
 | [January 28th](https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:02 | 2023-11-10 |  |

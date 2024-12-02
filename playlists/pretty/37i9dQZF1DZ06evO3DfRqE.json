@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAAC5fBKLtyKZoR/m+xupa6R1",
+  "snapshot_id": "Z0pVgAAAAAC5jVqhjYJbZx7L2wkhMpP/",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "\u30aa\u30fc\u30d0\u30fc\u30fb\u30b6\u30fb\u30ec\u30a4\u30f3\u30dc\u30fc",
-      "url": "https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peace Love Ukulele",
         "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 264426,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/5K4mmfc7f1ZxFYkLimQK3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "\u30aa\u30fc\u30d0\u30fc\u30fb\u30b6\u30fb\u30ec\u30a4\u30f3\u30dc\u30fc",
+      "url": "https://open.spotify.com/track/7zZwioPblgmN6N9sn5pJ4P"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "\u30bf\u30a4\u30e0\u30fb\u30a2\u30d5\u30bf\u30fc\u30fb\u30bf\u30a4\u30e0",
-      "url": "https://open.spotify.com/track/232vMbFWbfON2ZS0I2S4RI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HandPicked",
         "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 485586,
       "name": "Hotel California (Duet with Jake Shimabukuro)",
       "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "\u30bf\u30a4\u30e0\u30fb\u30a2\u30d5\u30bf\u30fc\u30fb\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/232vMbFWbfON2ZS0I2S4RI"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Henry Kapono",
+          "url": "https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E"
+        }
+      ],
+      "duration_ms": 339546,
+      "name": "Sailin'",
+      "url": "https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peace Love Ukulele",
         "url": "https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy"
       },
@@ -483,30 +503,6 @@
       "duration_ms": 354213,
       "name": "Bohemian Rhapsody",
       "url": "https://open.spotify.com/track/1FNW6pTw6US1YHi0miBlto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trio",
-        "url": "https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Nolan Verner",
-          "url": "https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl"
-        },
-        {
-          "name": "Dave Preston",
-          "url": "https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/4fnqyECBu3t2V7EnRxf8pl"
     },
     {
       "added_at": null,
@@ -531,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/46y9A8jOZER0IDa3Q8wJDc"
+        "name": "Trio",
+        "url": "https://open.spotify.com/album/3uLfTpSX4QuFWqAkcHQBz4"
       },
       "artists": [
         {
@@ -540,13 +536,17 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         },
         {
-          "name": "Henry Kapono",
-          "url": "https://open.spotify.com/artist/2TdVVYXzvi5eAPq156DT2E"
+          "name": "Nolan Verner",
+          "url": "https://open.spotify.com/artist/1mIyn2K6MfgmwrkoMNAaRl"
+        },
+        {
+          "name": "Dave Preston",
+          "url": "https://open.spotify.com/artist/3UkHwtr4k4cCQRHZfKsGpk"
         }
       ],
-      "duration_ms": 339546,
-      "name": "Sailin'",
-      "url": "https://open.spotify.com/track/5HjXPn273UhYAC5ELFrUZJ"
+      "duration_ms": 202400,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/4fnqyECBu3t2V7EnRxf8pl"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 277813,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time For Three",
         "url": "https://open.spotify.com/album/7x67Bz5XSc28ABOm3SUfYF"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 239906,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/5VywuMtwbWgXHw6RXDyDWj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travels",
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 277813,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
-        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 222266,
-      "name": "\u30b9\u30ed\u30fc\u30fb\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30c9\u30e9\u30b4\u30f3",
         "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 214533,
       "name": "\u30bf\u30c3\u30c1",
       "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30de\u30a4\u30fb\u30e9\u30a4\u30d5",
+        "url": "https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u30b9\u30ed\u30fc\u30fb\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Experience",
+        "url": "https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        }
+      ],
+      "duration_ms": 313386,
+      "name": "Whiter Shade Of Pale",
+      "url": "https://open.spotify.com/track/6lWAHVsfTiO6WFGv4qy6Ba"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30a6\u30a9\u30fc\u30ad\u30f3\u30b0\u30fb\u30c0\u30a6\u30f3\u30fb\u30ec\u30a4\u30f3\u30d2\u30eb",
         "url": "https://open.spotify.com/album/5UouzqwCT3k6kOvAI3HtC6"
       },
@@ -795,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9 - Solo",
+      "url": "https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blues Experience",
         "url": "https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0"
       },
@@ -811,22 +847,6 @@
       "duration_ms": 273120,
       "name": "I Wanna Get Funky",
       "url": "https://open.spotify.com/track/1xK95CjHv5jCcNBEdLrVEP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "\u30db\u30ef\u30a4\u30eb\u30fb\u30de\u30a4\u30fb\u30ae\u30bf\u30fc\u30fb\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9 - Solo",
-      "url": "https://open.spotify.com/track/1fI9vslIQpY8PYSbO5tlL9"
     },
     {
       "added_at": null,
@@ -863,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues Experience",
-        "url": "https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        },
-        {
-          "name": "Mick Fleetwood",
-          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
-        }
-      ],
-      "duration_ms": 313386,
-      "name": "Whiter Shade Of Pale",
-      "url": "https://open.spotify.com/track/6lWAHVsfTiO6WFGv4qy6Ba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
         "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
       },
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Experience",
+        "url": "https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        }
+      ],
+      "duration_ms": 275546,
+      "name": "Kula Blues",
+      "url": "https://open.spotify.com/track/2FOCUiF0bSZdj1iH7GWqsx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live in Japan",
         "url": "https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL"
       },
@@ -908,25 +928,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Hula Girl(LIVE)",
-      "url": "https://open.spotify.com/track/19nr74Chrn65xHbdmDfInV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nashville Sessions",
-        "url": "https://open.spotify.com/album/0BOfytlIqA5WlJNcNN5J5o"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 142506,
-      "name": "Celtic Tune",
-      "url": "https://open.spotify.com/track/7oR07ngXeGVfsQihGsaHd6"
+      "duration_ms": 232466,
+      "name": "NADA SOUSOU(LIVE)",
+      "url": "https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys"
     }
   ],
   "unique_name": "This Is Jake Shimabukuro",

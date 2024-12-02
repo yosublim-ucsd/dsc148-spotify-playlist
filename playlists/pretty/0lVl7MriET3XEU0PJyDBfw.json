@@ -6,7 +6,7 @@
     "name": "Houseium Playlists",
     "url": "https://open.spotify.com/user/jayke0108"
   },
-  "snapshot_id": "AAAadNRVNL/VhlNXLi0h7ui+q0+oyJXn",
+  "snapshot_id": "AAAafHkLOpdSlqSWnGeow8ReglE5ANhP",
   "tracks": [
     {
       "added_at": "2024-06-21 05:39:46",
@@ -23,6 +23,74 @@
       "duration_ms": 199687,
       "name": "Mind Games",
       "url": "https://open.spotify.com/track/2bfXCTfLhgTuWEQUSlYGEe"
+    },
+    {
+      "added_at": "2024-12-01 23:27:44",
+      "album": {
+        "name": "Late Night Talks",
+        "url": "https://open.spotify.com/album/438inawhNtzNDJVbaqKcFk"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 165581,
+      "name": "Came To The Club",
+      "url": "https://open.spotify.com/track/5sNBD1isXDlrmcpEEw0jZ0"
+    },
+    {
+      "added_at": "2024-12-01 23:29:46",
+      "album": {
+        "name": "Housewrecker",
+        "url": "https://open.spotify.com/album/0BN64yo6ikbnqSIBCxKKK4"
+      },
+      "artists": [
+        {
+          "name": "SKILAH",
+          "url": "https://open.spotify.com/artist/0ILzznvRwQsrGX7BsaDer0"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Housewrecker",
+      "url": "https://open.spotify.com/track/5nH8mtSvwNfkomfI2LLz9r"
+    },
+    {
+      "added_at": "2024-12-01 23:24:39",
+      "album": {
+        "name": "Neo Disco 4 remixes",
+        "url": "https://open.spotify.com/album/24vmyPwzBo6MuSnnVnoPU1"
+      },
+      "artists": [
+        {
+          "name": "Mercer",
+          "url": "https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF"
+        },
+        {
+          "name": "Lokmann",
+          "url": "https://open.spotify.com/artist/5EXpa7wQUGtoAaWgJXpll4"
+        }
+      ],
+      "duration_ms": 211384,
+      "name": "Dancefloor Queen - Lokmann Remix",
+      "url": "https://open.spotify.com/track/1lqxrMy6jaPYxmims8mPz5"
+    },
+    {
+      "added_at": "2024-12-01 23:28:38",
+      "album": {
+        "name": "Know Ur Down",
+        "url": "https://open.spotify.com/album/2q9Aeewf3VfSsQyNkf7heF"
+      },
+      "artists": [
+        {
+          "name": "HAI-LIFE",
+          "url": "https://open.spotify.com/artist/12i3Fuy843h7dY8wKp51u2"
+        }
+      ],
+      "duration_ms": 220394,
+      "name": "Know Ur Down",
+      "url": "https://open.spotify.com/track/5zl5pRRbKSTituTyjqihT0"
     },
     {
       "added_at": "2024-11-25 04:40:14",

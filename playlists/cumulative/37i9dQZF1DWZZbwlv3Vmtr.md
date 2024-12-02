@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-987 songs - 1 day 14 hr 14 min
+988 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [Forest For Rest](https://open.spotify.com/track/6eQmbEMHQYPkRj44AWf04J) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Forest For Rest](https://open.spotify.com/album/62FAt5TMcVFgsj6mFP4RzC) | 2:44 | 2024-02-23 |  |
 | [Forever](https://open.spotify.com/track/21zRahHVewQL1Auzm64pd2) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/55Q1Osijq5pFwpFHio0s8S) | 1:58 | 2022-07-01 | 2022-11-20 |
 | [Forever](https://open.spotify.com/track/7mgyF0MVvFzvWhrGlR3YUn) | [Rytmdesign](https://open.spotify.com/artist/3PhgDl4rf3FDsQL7Bu4wyI) | [Forever](https://open.spotify.com/album/1LM5SvKdVqLsFa1T3di8x2) | 1:58 | 2022-11-11 | 2023-11-17 |
-| [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 | 2022-11-11 |  |
+| [Forget Me](https://open.spotify.com/track/2wcYsFNK8fcukgzHheFala) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [Forget Me](https://open.spotify.com/album/6YAYbUJ6GveB0hSgXBBcFZ) | 1:40 | 2022-11-11 | 2024-12-02 |
 | [Forgiveness](https://open.spotify.com/track/72MhlqX4Eb1IyMJq486XRN) | [Pabzzz](https://open.spotify.com/artist/1cqhGlKnyF5Fhl5juBFduj) | [Forgiveness](https://open.spotify.com/album/41pBXLIfbweKQn6S9KSywT) | 3:43 | 2022-06-03 | 2022-08-19 |
 | [Fresher Scents](https://open.spotify.com/track/2AyGe2TYtgvJ7xyM3db0jH) | [Nokawa](https://open.spotify.com/artist/2oEffj6YkFOVSxj6uiK8g7) | [Fresher Scents](https://open.spotify.com/album/2MRysprtYZtG0PxCRS2gVj) | 1:51 | 2022-04-15 |  |
 | [Freudian slippin](https://open.spotify.com/track/6jpavG7oEpooPjo5nRl43f) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Freudian slippin](https://open.spotify.com/album/3fzxL7jknEjy02Edxp9UDo) | 2:52 | 2023-10-27 |  |
@@ -448,6 +448,7 @@
 | [Lights](https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Lights](https://open.spotify.com/album/7jVcGM3AMu2z9yRs6TEO0R) | 2:34 | 2023-07-19 |  |
 | [Lightzone](https://open.spotify.com/track/6RWd8uKY4Fp7IfVpJjjOgp) | [Ble0](https://open.spotify.com/artist/6WmPnJPGUdHOZAmDIY9GIo) | [Lightzone](https://open.spotify.com/album/4NKxtQjQiUir9MJMIkdPJi) | 2:21 | 2022-04-15 | 2022-05-20 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2022-04-15 | 2022-08-12 |
+| [lille dyp](https://open.spotify.com/track/3QXdIjTThCZP2r2ed3XEiZ) | [Cozy Nordic](https://open.spotify.com/artist/5bXNQJuvFUMikwDTTOg5ou) | [lille dyp](https://open.spotify.com/album/5h0YmsuW4dOrt1ZISmqgrn) | 2:31 | 2024-11-27 |  |
 | [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 |  |
 | [Liquorice](https://open.spotify.com/track/34gmdxjVoCAQIDixBNhYda) | [Push & Play](https://open.spotify.com/artist/7zWFDTGDhv8Ftdxd6Y6Eng) | [Supreme](https://open.spotify.com/album/1aq0krXC5rXL0SoOPOBkIC) | 1:54 | 2022-04-15 | 2022-05-27 |
 | [little memories](https://open.spotify.com/track/5cGpQgmRf14jnkfxAqOi3U) | [joe macchiato](https://open.spotify.com/artist/5BmTJhUH8SPiSGwv00pr19) | [little memories](https://open.spotify.com/album/6tTknlybqIFY34JNMJS0CU) | 2:00 | 2024-09-27 | 2024-11-29 |

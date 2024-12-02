@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-554 songs - 22 hr 55 min
+555 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 | 2023-10-19 | 2024-08-30 |
 | [Awesome City](https://open.spotify.com/track/5tmItGDYOoSnA44DZKLFU1) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/5zXZG6idXS00IwMztd621i) | 2:40 | 2023-10-19 | 2024-04-19 |
 | [Baby, It's Over](https://open.spotify.com/track/2VOpnswDATUVkyLA4FNO2C) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU), [Pure Colors](https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql) | [Baby, It's Over](https://open.spotify.com/album/30gtureHZGCuC3g0WoCxyP) | 2:28 | 2020-07-18 |  |
-| [Back & Forth](https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV) | [The Other Guys](https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X) | [Back & Forth](https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa) | 2:11 | 2020-11-06 |  |
+| [Back & Forth](https://open.spotify.com/track/6LDYOZ1ZEDNwsPbbA3ShnV) | [The Other Guys](https://open.spotify.com/artist/0FRkEQ2lzu4ZSPV1Yv5g8X) | [Back & Forth](https://open.spotify.com/album/2np06G3wE3BOHhVm1WiMRa) | 2:11 | 2020-11-06 | 2024-12-02 |
 | [Back in a day](https://open.spotify.com/track/1IBRiarB9kjiU0TtUhZbBP) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/4atci2khIlJisfCFMmjcUf) | 1:54 | 2023-01-12 | 2023-01-14 |
 | [Back in a day](https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Back in a day](https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N) | 1:54 | 2023-01-12 | 2023-06-06 |
 | [Bapelujah](https://open.spotify.com/track/52Hm0VKu1rFGiTU1GxYVkh) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Bapelujah](https://open.spotify.com/album/7wQMP5OKSDcA3sUO4AJrGj) | 1:17 | 2021-06-12 | 2022-07-28 |
@@ -102,6 +102,7 @@
 | [Coquettish Definition](https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Coquettish Definition](https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj) | 3:13 | 2024-07-04 |  |
 | [Cosmic](https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Cosmic](https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs) | 1:34 | 2021-07-04 |  |
 | [Cosmic Thoughts](https://open.spotify.com/track/4lSsjJQ7DPJkcnvLqiuRcs) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Cosmic Thoughts](https://open.spotify.com/album/0RIxRPbo7BrvTSfJlTFIXE) | 2:32 | 2019-05-26\* | 2019-06-15 |
+| [Cove](https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:01 | 2024-11-29 |  |
 | [Cows In The Distance](https://open.spotify.com/track/5UD0l9bmyi6cILD4nxIcYV) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v) | [Dissociation](https://open.spotify.com/album/6QLfHxAS5bmPCNAzfILoEy) | 1:56 | 2020-06-19 | 2024-11-23 |
 | [Crooklyn](https://open.spotify.com/track/05HYP7Ty7Fv8quT1lJDuFa) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Jazzterfield](https://open.spotify.com/album/2vaZwb3u3gQPkDOsDmDx5r) | 1:52 | 2022-12-01 | 2023-01-18 |
 | [Crooklyn](https://open.spotify.com/track/0kfpJ6L0Ipw5crz3AaMt5C) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Crooklyn](https://open.spotify.com/album/0cPoqkLyH0M6HZmQf5wYzR) | 1:52 | 2020-08-30 | 2022-07-17 |

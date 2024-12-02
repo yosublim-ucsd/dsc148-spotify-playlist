@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rPSy.md) - [plain]
 | 38 | [La Española](https://open.spotify.com/track/5eBYOK11r072v8FSQGDpq9) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Play](https://open.spotify.com/album/7huVX9xQKmsWtRQrS7LCbB) | 4:03 |
 | 39 | [Hoy Me Llenaré de Valor \(Tema de Tereso\)](https://open.spotify.com/track/5DUMbxThKMFAyDpoq6rjJw) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 3:13 |
 | 40 | [Se Te Pararían los Pelos](https://open.spotify.com/track/68mNPUTCzdOt9KvKoGachr) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas \(Uncut\)](https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8) | 3:58 |
-| 41 | [Hay un modo](https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
+| 41 | [Ella y él](https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:57 |
 | 42 | [El Triunfo Tan Soñado](https://open.spotify.com/track/1v59pqs9mVGBH6eW4yFP70) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Talk Show](https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N) | 4:22 |
-| 43 | [Ella y él](https://open.spotify.com/track/4mpLVOQTCxJDfRj0I1XESA) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:57 |
+| 43 | [Hay un modo](https://open.spotify.com/track/36cnhbhrWisHZdWmcr5WtP) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
 | 44 | [Estoy cansado de llorar](https://open.spotify.com/track/0F56YBp7upYaoHaN4VfzMn) | [Pedro Suárez\-Vértiz](https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg) | [Amazonas](https://open.spotify.com/album/5Wb51Re0iEMPBKCT1uFDRa) | 3:35 |
 
-Snapshot ID: `Z0kEAAAAAAAFLcoYUL1ube2zMOOmNrmC`
+Snapshot ID: `Z0pVgAAAAAC8SrfwLxeDJ3D4qWEmRSM8`

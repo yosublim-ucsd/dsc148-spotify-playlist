@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 5976,
+  "num_followers": 5977,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAACQ2ViFoRSZb2WO/vEv9R+3",
+  "snapshot_id": "Z0pVgAAAAAA1QQz+roiOTjJz4JWhXSYp",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos de Rigo Tovar Con Banda",
-        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
+        "name": "Nuestra Historia, Vol. 2",
+        "url": "https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4"
       },
       "artists": [
         {
           "name": "Banda Toro",
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 163000,
-      "name": "El Pajaro Chogui",
-      "url": "https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6"
+      "duration_ms": 163986,
+      "name": "Como Paloma Errante",
+      "url": "https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk"
     },
     {
       "added_at": null,
@@ -175,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia, Vol. 2",
-        "url": "https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4"
+        "name": "Exitos de Rigo Tovar Con Banda",
+        "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
       "artists": [
         {
           "name": "Banda Toro",
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 163986,
-      "name": "Como Paloma Errante",
-      "url": "https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk"
+      "duration_ms": 163000,
+      "name": "El Pajaro Chogui",
+      "url": "https://open.spotify.com/track/3erRFQimltb5P71eCYrlh6"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cantando a Mexico",
-        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "La Tiznada",
-      "url": "https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exitos de Rigo Tovar Con Banda",
         "url": "https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra"
       },
@@ -483,38 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Estilo Tierra Caliente",
-        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 197066,
-      "name": "Carta Perdida - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vamos a la Playa, Recordando los Exitos",
-        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantando a Mexico",
         "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
@@ -524,9 +476,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 145466,
-      "name": "Los Gringos",
-      "url": "https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo"
+      "duration_ms": 195760,
+      "name": "La Tiznada",
+      "url": "https://open.spotify.com/track/5lORVjqvmOmgsd3MvplIW2"
     },
     {
       "added_at": null,
@@ -547,22 +499,82 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 Aniversario Grandes Exitos",
-        "url": "https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan"
+        "name": "Vamos a la Playa, Recordando los Exitos",
+        "url": "https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo"
       },
       "artists": [
         {
           "name": "Banda Toro",
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        },
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 178453,
-      "name": "El Cotorro Enamorado - Banda Sinaloense",
-      "url": "https://open.spotify.com/track/1uILZKZfISEwXkysM6HXSR"
+      "duration_ms": 148093,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/3hjU0dV58noafui2zYVnts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 197066,
+      "name": "Carta Perdida - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cantando a Mexico",
+        "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 145466,
+      "name": "Los Gringos",
+      "url": "https://open.spotify.com/track/5THe92rKJkK1Gu4UVtO9Zo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "El Cantador - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "El Parrandero",
+      "url": "https://open.spotify.com/track/1OLk8kkjWQfaqQIxT5hq9d"
     },
     {
       "added_at": null,
@@ -583,18 +595,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Caminante Recordando los Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
+        "name": "25 Aniversario Grandes Exitos",
+        "url": "https://open.spotify.com/album/7vKKJNKYZyzpfeykqlhQan"
       },
       "artists": [
         {
           "name": "Banda Toro",
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        },
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 207053,
-      "name": "El Parrandero",
-      "url": "https://open.spotify.com/track/1OLk8kkjWQfaqQIxT5hq9d"
+      "duration_ms": 178453,
+      "name": "El Cotorro Enamorado - Banda Sinaloense",
+      "url": "https://open.spotify.com/track/1uILZKZfISEwXkysM6HXSR"
     },
     {
       "added_at": null,
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ecuaro",
-        "url": "https://open.spotify.com/album/2uRdvRRlHrwIzGuBCVf2aT"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "La Vida Alegre",
-      "url": "https://open.spotify.com/track/5zT0IoSZ32APqIAUmTO1kk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantando a Mexico",
         "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 146520,
       "name": "El Pescuezo del Pollo",
       "url": "https://open.spotify.com/track/5JjQCDBEc9XHfTrjR1rAOO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Ecuaro",
+        "url": "https://open.spotify.com/album/2uRdvRRlHrwIzGuBCVf2aT"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 171466,
+      "name": "La Vida Alegre",
+      "url": "https://open.spotify.com/track/5zT0IoSZ32APqIAUmTO1kk"
     },
     {
       "added_at": null,
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 206880,
-      "name": "El Cantador - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
+      "duration_ms": 140920,
+      "name": "El Remedio - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7"
     },
     {
       "added_at": null,
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 140920,
-      "name": "El Remedio - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7"
+      "duration_ms": 168733,
+      "name": "La Calandria - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
     },
     {
       "added_at": null,
@@ -775,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tamborazos Zacatecanos , Vol. 1",
-        "url": "https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX"
+        "name": "Con Mariachi y Banda",
+        "url": "https://open.spotify.com/album/4zUkt7O3RBbFdXGN14konK"
       },
       "artists": [
         {
@@ -784,9 +800,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 184226,
-      "name": "Derecho A La Vida",
-      "url": "https://open.spotify.com/track/3DH6NS5XWRZmSTDm2roTQl"
+      "duration_ms": 162000,
+      "name": "Te Quejas Pero Te Dejas - Con Mariachi",
+      "url": "https://open.spotify.com/track/7DJ9i5qw5Lvo2lTFqe5Y5n"
     },
     {
       "added_at": null,
@@ -803,22 +819,6 @@
       "duration_ms": 236626,
       "name": "El Herradero",
       "url": "https://open.spotify.com/track/7msq2GlVEvc8TgnOdI0RGo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "La Calandria - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I"
     }
   ],
   "unique_name": "This Is Banda Toro",

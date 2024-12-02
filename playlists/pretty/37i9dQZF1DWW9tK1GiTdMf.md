@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica da gridare 🗣️ chiello in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,845 likes - 65 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,842 likes - 65 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

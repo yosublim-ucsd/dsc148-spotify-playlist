@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: shego.",
-  "num_followers": 27630,
+  "num_followers": 27634,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -131,18 +131,38 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "La fiesta",
-        "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
+        "name": "En Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97"
       },
       "artists": [
         {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        },
+        {
+          "name": "Zaira",
+          "url": "https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5"
         }
       ],
-      "duration_ms": 158870,
-      "name": "La fiesta",
-      "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
+      "duration_ms": 192244,
+      "name": "En Sue\u00f1os",
+      "url": "https://open.spotify.com/track/3YFfdub6AUsrzdcBTeWIQL"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Mala Vida",
+        "url": "https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 169381,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3IT1XT70SguZjuUiKiUu89"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -159,6 +179,42 @@
       "duration_ms": 173748,
       "name": "Tirando Balas",
       "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/6EYpdrkCw5yb5ltJc9S9gw"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 158870,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/1xus48hrSAzqjkjnhwtDnl"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "En El Aire",
+        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "En El Aire",
+      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -187,26 +243,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "En Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        },
-        {
-          "name": "Zaira",
-          "url": "https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5"
-        }
-      ],
-      "duration_ms": 192244,
-      "name": "En Sue\u00f1os",
-      "url": "https://open.spotify.com/track/3YFfdub6AUsrzdcBTeWIQL"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Me da igual",
         "url": "https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8"
       },
@@ -219,58 +255,6 @@
       "duration_ms": 171871,
       "name": "Me da igual",
       "url": "https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Mala Vida",
-        "url": "https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 169381,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3IT1XT70SguZjuUiKiUu89"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "En El Aire",
-        "url": "https://open.spotify.com/album/36j4M30i172PFNQSiBNfv6"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "En El Aire",
-      "url": "https://open.spotify.com/track/4OWEhp5U22R6rDBM9Y6Q4j"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "arghHhh!",
-        "url": "https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "arghHhh!",
-      "url": "https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -291,30 +275,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "No m'estima +",
-        "url": "https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1"
-      },
-      "artists": [
-        {
-          "name": "Mushkaa",
-          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
-        },
-        {
-          "name": "Julieta",
-          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
-        },
-        {
-          "name": "roots",
-          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "No m'estima +",
-      "url": "https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Esa Morena",
         "url": "https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc"
       },
@@ -327,6 +287,22 @@
       "duration_ms": 172040,
       "name": "Esa Morena",
       "url": "https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "arghHhh!",
+        "url": "https://open.spotify.com/album/6Dj3CKv0eUqTF2JmUa3gBH"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 253106,
+      "name": "arghHhh!",
+      "url": "https://open.spotify.com/track/5OC8qeRYNbU03Qnthifu0n"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -367,6 +343,30 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "No m'estima +",
+        "url": "https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1"
+      },
+      "artists": [
+        {
+          "name": "Mushkaa",
+          "url": "https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp"
+        },
+        {
+          "name": "Julieta",
+          "url": "https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj"
+        },
+        {
+          "name": "roots",
+          "url": "https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No m'estima +",
+      "url": "https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Estamos a un beso",
         "url": "https://open.spotify.com/album/7Gf9kJXYIaRwbgnbG0vHxM"
       },
@@ -399,6 +399,38 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "fumas?",
+        "url": "https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 178111,
+      "name": "fumas?",
+      "url": "https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "ME DUELE QUERERTE",
+        "url": "https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ"
+      },
+      "artists": [
+        {
+          "name": "Luis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "ME DUELE QUERERTE",
+      "url": "https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "LOEWE",
         "url": "https://open.spotify.com/album/1T2Kjbx42YRxuKFukJYACe"
       },
@@ -423,54 +455,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Otra Vida",
-        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Otra Vida",
-      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "ME DUELE QUERERTE",
-        "url": "https://open.spotify.com/album/3ltONa8Qqs0FM5v2xeuhoJ"
-      },
-      "artists": [
-        {
-          "name": "Luis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "ME DUELE QUERERTE",
-      "url": "https://open.spotify.com/track/6x8ft5OkZJon6um838FaZA"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "fumas?",
-        "url": "https://open.spotify.com/album/1p6vHLfbxtblsutqSeWTDI"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 178111,
-      "name": "fumas?",
-      "url": "https://open.spotify.com/track/7AltFl3cm57Qq2cW70ieXM"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Semanas",
         "url": "https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 176587,
       "name": "Semanas",
       "url": "https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Otra Vida",
+        "url": "https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Otra Vida",
+      "url": "https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "La \u00daltima",
+        "url": "https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "duration_ms": 203528,
+      "name": "La \u00daltima",
+      "url": "https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "SUERTE, CHICA",
         "url": "https://open.spotify.com/album/7wEZoRihqkS2JgKsvAewnQ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 146880,
       "name": "steak tar tar",
       "url": "https://open.spotify.com/track/1VMkIjiscNSY0fuzJDI0bi"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "La \u00daltima",
-        "url": "https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU"
-      },
-      "artists": [
-        {
-          "name": "Charlie USG",
-          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
-        }
-      ],
-      "duration_ms": 203528,
-      "name": "La \u00daltima",
-      "url": "https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW"
     },
     {
       "added_at": "2024-11-28 23:00:00",

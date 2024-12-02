@@ -1617,6 +1617,24 @@
     },
     {
       "album": {
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Hard Livin'",
+      "url": "https://open.spotify.com/track/6SYasTzcB2CZlJfkEO7ZrS"
+    },
+    {
+      "album": {
         "name": "Early Morning Shakes",
         "url": "https://open.spotify.com/album/153JmAA3a2Rf9ms6W1dEiR"
       },
@@ -1650,6 +1668,24 @@
       "duration_ms": 233952,
       "name": "Hey Delilah",
       "url": "https://open.spotify.com/track/7gjm3Z4LAGaypHTe58Iz1P"
+    },
+    {
+      "album": {
+        "name": "Larry Fleet - The Live Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/1jgfbaEDQK3WCAZ6tBoKaV"
+      },
+      "artists": [
+        {
+          "name": "Larry Fleet",
+          "url": "https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210852,
+      "name": "Highway Feet (Live)",
+      "url": "https://open.spotify.com/track/6PTb2dKVMu8o6sViB3df7Z"
     },
     {
       "album": {

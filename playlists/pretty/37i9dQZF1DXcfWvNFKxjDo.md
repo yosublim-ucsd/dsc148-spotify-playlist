@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Repiet
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,148 likes - 79 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,144 likes - 79 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [Faded](https://open.spotify.com/track/5HUcdWBPlXRQXBTW2XnfKM) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Faded](https://open.spotify.com/album/0drD49MS1Um3TlYdJS9Ib3) | 4:09 |
 | 74 | [Kimwenga](https://open.spotify.com/track/3kxfIS2n4rWZ9GT4hS0vCD) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q), [Kanu](https://open.spotify.com/artist/7qGg5f7GRoEEDsjhetcseQ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kimwenga](https://open.spotify.com/album/2Qy1SYvP9v2SoX6kPnq3Hc) | 3:01 |
 | 75 | [Fade Away](https://open.spotify.com/track/2lSd2ef3473gxZjXtYpvFd) | [LUDVIC](https://open.spotify.com/artist/3M9AjYpwhRL3wjlg0GZkVO), [Jan David](https://open.spotify.com/artist/2L1QwCnxUMHukbDmPoKwVb) | [Fade Away](https://open.spotify.com/album/5rSe8IkrqMurenPiubMGmS) | 2:45 |
-| 76 | [W4U \(feat\. Jen\)](https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [W4U \(feat\. Jen\)](https://open.spotify.com/album/39syP387YYwH46TnrvcpbP) | 3:59 |
+| 76 | [W4U \(feat\. Jen\)](https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [JEN](https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE) | [W4U \(feat\. Jen\)](https://open.spotify.com/album/39syP387YYwH46TnrvcpbP) | 3:59 |
 | 77 | [Body & Soul](https://open.spotify.com/track/51QxtmrougiduFNMtvDdtE) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [SCURO BLACK](https://open.spotify.com/artist/1FWnnLX2D3DAVkrcKJNz66) | [Body & Soul](https://open.spotify.com/album/7FmHtoUh7jAHUySJhzXwAM) | 2:30 |
 | 78 | [RATATA](https://open.spotify.com/track/4HzAtulFJBpDKRuJ6qGT1H) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [RATATA](https://open.spotify.com/album/251D5KToQ1R7yDB4crZEkN) | 2:40 |
 | 79 | [ACID](https://open.spotify.com/track/775eafpx4eURXTbsHxoxYw) | [Diego Miranda](https://open.spotify.com/artist/58La32UtamIpPg8Ajm6FE6), [André Salvador](https://open.spotify.com/artist/3ieULZmqvg3YedEXM2GmZ7) | [ACID](https://open.spotify.com/album/6kQ3vV06ArlgnM26fuqGcD) | 3:42 |

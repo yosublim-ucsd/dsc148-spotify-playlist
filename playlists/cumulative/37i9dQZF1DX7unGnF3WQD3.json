@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-02",
       "duration_ms": 202000,
       "name": "Fancys",
       "url": "https://open.spotify.com/track/2AXzmijK5XGp27edG4VMyJ"
@@ -5698,6 +5698,24 @@
       "duration_ms": 186183,
       "name": "Que Nadie Se Entere - Remix",
       "url": "https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp"
+    },
+    {
+      "album": {
+        "name": "Que Todo",
+        "url": "https://open.spotify.com/album/7qisRmx60mvtn2yWhtwfn8"
+      },
+      "artists": [
+        {
+          "name": "Elee Bermudez",
+          "url": "https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW"
+        }
+      ],
+      "date_added": "2024-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302832,
+      "name": "Que Todo",
+      "url": "https://open.spotify.com/track/70i9IQXt2ECmLbFStHI9kK"
     },
     {
       "album": {

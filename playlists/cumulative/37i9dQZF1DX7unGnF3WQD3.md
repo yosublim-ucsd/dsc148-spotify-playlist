@@ -4,7 +4,7 @@
 
 > tírate un paso y saca los prohibidos
 
-327 songs - 17 hr 55 min
+328 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2024-09-30 |  |
 | [Estamos Melos](https://open.spotify.com/track/4tLmwT4ROfj9lhfZk6ky3f) | [Fumaratto](https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw), [Raulito Fabregas](https://open.spotify.com/artist/23Qf2vgfc9GpE9ARjqoVME), [Mauricio Palacio](https://open.spotify.com/artist/167JIg1eJCyrDs0tYqToiY), [Kairy](https://open.spotify.com/artist/7gOyXV1syW81D8WcEZCMmM) | [Estamos Melos](https://open.spotify.com/album/2wFJF1vsU1M4yFEISRvTkh) | 3:24 | 2024-09-30 |  |
 | [EXCESO](https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [EXCESO](https://open.spotify.com/album/2j9oqldlB7MHc3MTjV3YSb) | 2:22 | 2024-09-30 |  |
-| [Fancys](https://open.spotify.com/track/2AXzmijK5XGp27edG4VMyJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:22 | 2024-09-30 |  |
+| [Fancys](https://open.spotify.com/track/2AXzmijK5XGp27edG4VMyJ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:22 | 2024-09-30 | 2024-12-02 |
 | [Felicítalo](https://open.spotify.com/track/34nGrSL3eyH5KOg7AQEAjd) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Felicítalo](https://open.spotify.com/album/1yuJDBp4QY5KFIXBQfyZW7) | 3:06 | 2024-05-14 | 2024-10-01 |
 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 | 2024-09-30 |  |
 | [FIRST LOVE](https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [FIRST LOVE](https://open.spotify.com/album/4NNAc6EF4agYuWUqZ5OZr0) | 2:49 | 2024-05-14 | 2024-10-01 |
@@ -268,6 +268,7 @@
 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 | 2023-08-14 | 2024-10-01 |
 | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z) | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe) | 2:21 | 2023-08-14 | 2024-05-15 |
 | [Que Nadie Se Entere \- Remix](https://open.spotify.com/track/5qedxsxuH7owySXk4LHZNp) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Que Nadie Se Entere \(Remix\)](https://open.spotify.com/album/5UUhwDh5I27Gq0bB8MvLWM) | 3:06 | 2023-08-14 | 2024-05-15 |
+| [Que Todo](https://open.spotify.com/track/70i9IQXt2ECmLbFStHI9kK) | [Elee Bermudez](https://open.spotify.com/artist/3XL83JdrAA1BDV1yVTcskW) | [Que Todo](https://open.spotify.com/album/7qisRmx60mvtn2yWhtwfn8) | 5:02 | 2024-09-30 |  |
 | [Que Vuelva](https://open.spotify.com/track/0ndYI8UT0PMaJzKLJbFr35) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Corazón Duro](https://open.spotify.com/album/3C5eb62kdgXXv8ZLzfGkiB) | 4:47 | 2023-08-14 | 2024-05-15 |
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-08-14 | 2024-10-01 |
 | [Quemando Papel](https://open.spotify.com/track/3tiaqn4MVRX9prDxiBNgHA) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [Quemando Papel](https://open.spotify.com/album/16v3PmkpQZjdbnq6SIwsH9) | 3:14 | 2024-09-30 |  |

@@ -4,7 +4,7 @@
 
 > y nada más que pop ✨✨✨<br/>📷  Rocío Igarzabal y Zenón Pereyra
 
-307 songs - 16 hr 33 min
+308 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Poblado \- Remix](https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Natan & Shander](https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE) | [Poblado \(Remix\)](https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7) | 6:33 | 2023-07-14 | 2023-10-24 |
 | [Poco A Poco](https://open.spotify.com/track/17PNScmIfgnuToGVq5zM6U) | [Beruti](https://open.spotify.com/artist/4Ozcco9RkNmJtg7qkCy8zI) | [Poco A Poco](https://open.spotify.com/album/1eMxYPZxOFhKKXmXp2JXDr) | 3:08 | 2024-05-31 | 2024-07-19 |
 | [Por Segunda Vez](https://open.spotify.com/track/0V5W6b9lMaW1QijnTUxl76) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Por Segunda Vez](https://open.spotify.com/album/6k6CYagE7PFxVEaeqhUBZx) | 3:02 | 2023-12-07 | 2024-03-09 |
-| [posta](https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [posta](https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z) | 2:01 | 2024-04-05 |  |
+| [posta](https://open.spotify.com/track/7gmATHjiYdt4s9lNdji8nj) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [posta](https://open.spotify.com/album/40qHcVnx8VFQxi9uVzVa4Z) | 2:01 | 2024-04-05 | 2024-12-02 |
 | [POV: te ghostean pero lejos de deprimirte te pones recontra toro](https://open.spotify.com/track/21Vr8nLZHhXETZItj0IeJS) | [Robleis](https://open.spotify.com/artist/32AuV4BxATEf2i7YVhIjht) | [POV: te ghostean pero lejos de deprimirte te pones recontra toro](https://open.spotify.com/album/146vpPZNzlfTEVNEE1xCNw) | 2:35 | 2024-10-25 |  |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2023-07-14 | 2023-10-24 |
 | [Péndulo \(feat\. Juan Pablo Vega\)](https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Herminia](https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5) | 3:05 | 2023-10-23 | 2023-11-11 |
@@ -286,6 +286,7 @@
 | [Tormento de Amor](https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Eclipse](https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS) | 3:45 | 2023-10-23 | 2024-05-11 |
 | [Tranquila](https://open.spotify.com/track/1v5QhGtlv2bkpUz2kAXTCq) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Desde el Espacio](https://open.spotify.com/album/2C9O39yyriTfCN5IN0gngg) | 3:03 | 2023-07-14 | 2023-10-24 |
 | [Tres Días](https://open.spotify.com/track/4kWqcOfHbdCtEnkzm8Um0W) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Tres Días](https://open.spotify.com/album/40xduCFvsHWuw17lPEAwEv) | 3:10 | 2024-05-17 | 2024-05-25 |
+| [Tristeza de la Ciudad](https://open.spotify.com/track/0kS2kK00A0WD3E8cNKcBEL) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Tristeza de la Ciudad](https://open.spotify.com/album/0SPOj10F2jllZqDwGcZ4ZZ) | 2:44 | 2024-11-29 |  |
 | [Tu Cárcel](https://open.spotify.com/track/5TcXg6bqwSRie14IVZPkvb) | [Franco Rizzaro](https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB) | [Tu Cárcel](https://open.spotify.com/album/7KeZdOVChkHwhosu4lAWCn) | 2:39 | 2024-09-20 | 2024-10-05 |
 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 | 2024-03-08 |  |
 | [Tu Misterioso Alguien](https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Miranda Es Imposible!](https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO) | 4:04 | 2023-10-23 |  |

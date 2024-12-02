@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 97087,
+  "num_followers": 97160,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
         "name": "Harlem Street Singer",
         "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Bring It On Home",
-      "url": "https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Mississippi Blues",
         "url": "https://open.spotify.com/album/0xF8Z3nP5KdFtLfnfg49D6"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 152076,
       "name": "Jumper Hanging Out On the Line",
       "url": "https://open.spotify.com/track/5uErxUghBfF0UliaoLlFBj"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "My Home Is In The Delta",
+      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -231,22 +247,6 @@
       "duration_ms": 185853,
       "name": "Hear My Train A Comin' (Acoustic)",
       "url": "https://open.spotify.com/track/5H7FF15O9yujsj79WGSF3w"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "My Home Is In The Delta",
-      "url": "https://open.spotify.com/track/5IMCtjbZEd5L22AeRNC4FI"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Boneyard",
-        "url": "https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Boneyard - Edit",
-      "url": "https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Martin Scorsese Presents The Blues: Keb' Mo'",
         "url": "https://open.spotify.com/album/1El1ZLtpLoUpQHjUdXtLxc"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 195226,
       "name": "Perpetual Blues Machine",
       "url": "https://open.spotify.com/track/2CgFNet99tzGTEIxYrYbuN"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Boneyard",
+        "url": "https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Boneyard - Edit",
+      "url": "https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145204,
-      "name": "This is Hip - Remastered",
-      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 360480,
       "name": "Blue River Rising",
       "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145204,
+      "name": "This is Hip - Remastered",
+      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Dirtiest Little Darling / Railroad Bill",
-        "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
-      },
-      "artists": [
-        {
-          "name": "Jerron Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Dirtiest Little Darling",
-      "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Make Myself Me Again",
         "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 169826,
       "name": "Small Town Nashville Blues",
       "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Dirtiest Little Darling / Railroad Bill",
+        "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
+      },
+      "artists": [
+        {
+          "name": "Jerron Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Dirtiest Little Darling",
+      "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Strange Time To Be Alive",
-        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Dance In The Fire",
-      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Yellow Peril",
         "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 204986,
       "name": "Yellow Peril",
       "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 231373,
+      "name": "Dance In The Fire",
+      "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "In Too Deep",
         "url": "https://open.spotify.com/album/3ptdoPUdZaNSVAZSdEYeeZ"
       },
@@ -1087,22 +1071,6 @@
       "duration_ms": 183896,
       "name": "Please Take My Hand",
       "url": "https://open.spotify.com/track/2wWvmScZdELY3qBA4d22Kc"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 179293,
-      "name": "Tough Times",
-      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1143,6 +1111,22 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 179293,
+      "name": "Tough Times",
+      "url": "https://open.spotify.com/track/22KJtWQzwvCeKBzOBcp7hi"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
         "name": "Great God Almighty (Demo, Summer 2018)",
         "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 178276,
       "name": "Great God Almighty - Demo, Summer 2018",
       "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Elemental",
-        "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
-      },
-      "artists": [
-        {
-          "name": "R\u012b Wolf",
-          "url": "https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n"
-        },
-        {
-          "name": "Justin Johnson",
-          "url": "https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z"
-        }
-      ],
-      "duration_ms": 247630,
-      "name": "Another Weary Soul",
-      "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Traveling Medicine Man",
         "url": "https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 241946,
       "name": "If You Go",
       "url": "https://open.spotify.com/track/1YLLWrUeR99ztUaGGn355R"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Elemental",
+        "url": "https://open.spotify.com/album/3lkWqGeZOq0cZwvjmXBVlz"
+      },
+      "artists": [
+        {
+          "name": "R\u012b Wolf",
+          "url": "https://open.spotify.com/artist/1XDa8n7FHrWuRxvzZvmi7n"
+        },
+        {
+          "name": "Justin Johnson",
+          "url": "https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z"
+        }
+      ],
+      "duration_ms": 247630,
+      "name": "Another Weary Soul",
+      "url": "https://open.spotify.com/track/7MyvG8lmIMQw0nKFTpCI3x"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "I\u2019m Leaving (The Circle Session, 2023)",
-        "url": "https://open.spotify.com/album/3pKl41Jxd2TLvWFSqsDRM7"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 319011,
-      "name": "I'm Leaving - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/21BrIxmHjrYiLrzIDP3kNI"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 188306,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "I\u2019m Leaving (The Circle Session, 2023)",
+        "url": "https://open.spotify.com/album/3pKl41Jxd2TLvWFSqsDRM7"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 319011,
+      "name": "I'm Leaving - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/21BrIxmHjrYiLrzIDP3kNI"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Today!",
-        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Louis Collins",
-      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Mean Ole Frisco",
         "url": "https://open.spotify.com/album/7flULFzyNizeGByE4WDgnr"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 159360,
       "name": "Blues Chase up a Rabbit",
       "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Today!",
+        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Louis Collins",
+      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Holding Court",
-        "url": "https://open.spotify.com/album/2lqQLEtZ46XMtWNymL5fCV"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 208012,
-      "name": "Hobo Blues",
-      "url": "https://open.spotify.com/track/3dish93LmeKpVtE5DNNi2p"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Circle Of Lies",
         "url": "https://open.spotify.com/album/587AGksXRFKQ9JikfDaH2L"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 232887,
       "name": "Circle Of Lies",
       "url": "https://open.spotify.com/track/6M8KpTVYG0ZqgZosDxg9HG"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Holding Court",
+        "url": "https://open.spotify.com/album/2lqQLEtZ46XMtWNymL5fCV"
+      },
+      "artists": [
+        {
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
+        }
+      ],
+      "duration_ms": 208012,
+      "name": "Hobo Blues",
+      "url": "https://open.spotify.com/track/3dish93LmeKpVtE5DNNi2p"
     },
     {
       "added_at": "2024-05-28 18:42:18",

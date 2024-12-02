@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-289 songs - 17 hr 50 min
+290 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [Portal](https://open.spotify.com/track/64KjiKPJkgmb44IRYVXLJ0) | [Satl](https://open.spotify.com/artist/6OwnHoDYszPivlUgbApZbR) | [Lucid Dreams](https://open.spotify.com/album/6SVAHUGTdZTCeLYTog2mfQ) | 5:01 | 2021-12-21 | 2022-06-28 |
 | [Power](https://open.spotify.com/track/2tO19fnOEkxZYSAeez4nSY) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Power](https://open.spotify.com/album/2HX3wYrMqUacbssXHi5G47) | 3:28 | 2024-09-12 |  |
 | [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/track/3NvttPtSmUTY0EHZiF9fgs) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237) | [Pray For Me \(feat\. Joe Killington\)](https://open.spotify.com/album/7hG2MhIyTEPSf5zZV3FaBW) | 4:05 | 2024-04-04 | 2024-11-22 |
-| [Punching Holes](https://open.spotify.com/track/0IX0Pj2FKvvWrZUz26J3ZB) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Punching Holes](https://open.spotify.com/album/0T13CQoXqmhaZ8gHvjBAp5) | 3:13 | 2024-08-22 |  |
+| [Punching Holes](https://open.spotify.com/track/0IX0Pj2FKvvWrZUz26J3ZB) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Punching Holes](https://open.spotify.com/album/0T13CQoXqmhaZ8gHvjBAp5) | 3:13 | 2024-08-22 | 2024-12-02 |
 | [Punk](https://open.spotify.com/track/729B5zjWEZ1GPow5IzTJhJ) | [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Punk](https://open.spotify.com/album/5KRYfMMz8GEFXU1vDt4hiy) | 2:33 | 2024-10-24 | 2024-11-01 |
 | [Push The Tempo](https://open.spotify.com/track/2dkUsfpsB0c394cmFe18Ih) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Push The Tempo](https://open.spotify.com/album/0XfYZGlEQ7KNK8Pcuqh9AN) | 2:41 | 2024-11-15 |  |
 | [Radio \- Remix](https://open.spotify.com/track/68kvypOTqfhvq4Se0HUIjN) | [James Hiraeth](https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi) | [Radio Remix](https://open.spotify.com/album/5t0y40M7XhW0V5PgYsKpXP) | 3:14 | 2024-09-12 | 2024-10-25 |
@@ -248,6 +248,7 @@
 | [Silence Is Loud](https://open.spotify.com/track/1LqFMtMW44W8XQ1OtV43gg) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Silence Is Loud](https://open.spotify.com/album/1QdwmjHJVOXZe9gs6NCkTe) | 2:37 | 2024-05-17 | 2024-05-18 |
 | [Silverlined](https://open.spotify.com/track/2Cg6f0J6nIK46GvOZSkQ8n) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Subsonic](https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j) | [Silverlined](https://open.spotify.com/album/0UYxnluenY9kvPIhH2gAXy) | 3:42 | 2022-11-25 | 2023-09-21 |
 | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/track/160BnJrlHjlswLWBmi8mOz) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Sleepwalking \(feat\. Songer\)](https://open.spotify.com/album/0bkRVje5m0kIefrwE4eY7M) | 2:58 | 2024-08-22 |  |
+| [Slumber](https://open.spotify.com/track/4lGEf5Lfh2T5MYT4H5Atr6) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Confz](https://open.spotify.com/artist/0rDKqHGVAr2uveD7FEyVCE) | [Slumber](https://open.spotify.com/album/4iX57BmbUQ6UyFvZ18YTdI) | 3:00 | 2024-11-15 |  |
 | [Solar System](https://open.spotify.com/track/5cRDn5aGMLvWsldoRmOOz0) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Solar System / Siren](https://open.spotify.com/album/3b4pq3F6MCKrIr6Pug0iYG) | 4:48 | 2021-12-21 | 2024-01-26 |
 | [Soul Sista](https://open.spotify.com/track/5gqN4RHveL1NS8ZMDt7FAB) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Frank H\. Carter III.](https://open.spotify.com/artist/0KF1BbR119cPjacAxMkeKL) | [Soul Sista](https://open.spotify.com/album/5w0xw1KxVmD8erYQJbgzIl) | 3:25 | 2021-12-21 | 2022-06-27 |
 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 | 2022-07-05 | 2022-09-26 |

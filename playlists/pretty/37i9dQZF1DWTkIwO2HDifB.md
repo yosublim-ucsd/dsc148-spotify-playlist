@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkIwO2HDifB.md) - [plain]
 
 > Let's Go 5 e os funks mais 🔑 do Brasil\. Foto: Mc IG, Ja Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,408,127 likes - 51 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,409,268 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

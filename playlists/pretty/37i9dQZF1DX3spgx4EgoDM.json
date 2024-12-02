@@ -1,6 +1,6 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 165622,
+  "num_followers": 165654,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
-      },
-      "artists": [
-        {
-          "name": "Grupo Jalado",
-          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "Entrega De Amor",
         "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
       },
@@ -243,18 +227,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Te Voy A Enamorar",
-        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+          "name": "Grupo Jalado",
+          "url": "https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM"
         }
       ],
-      "duration_ms": 237093,
-      "name": "Me Volv\u00ed A Acordar De Ti",
-      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
+      "duration_ms": 217586,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -271,6 +255,22 @@
       "duration_ms": 283240,
       "name": "Rumba Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "Te Voy A Enamorar",
+        "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Me Volv\u00ed A Acordar De Ti",
+      "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "Un Sentimiento",
+        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 203933,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -455,18 +471,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Un Sentimiento",
-        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
+        "name": "De Plaza en Plaza",
+        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
         }
       ],
-      "duration_ms": 203933,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
+      "duration_ms": 194146,
+      "name": "Mi Ni\u00f1a Mujer",
+      "url": "https://open.spotify.com/track/2g01YW6oOqqzUfb4iOsBNt"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -499,26 +519,6 @@
       "duration_ms": 184733,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "De Plaza en Plaza",
-        "url": "https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Mi Ni\u00f1a Mujer",
-      "url": "https://open.spotify.com/track/2g01YW6oOqqzUfb4iOsBNt"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -591,18 +591,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Los Reyes De Los Sonidos",
-        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC"
       },
       "artists": [
         {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 216613,
-      "name": "El Paso Del Gigante",
-      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
+      "duration_ms": 198720,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -619,6 +623,22 @@
       "duration_ms": 127973,
       "name": "Dime si eres feliz",
       "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "Los Reyes De Los Sonidos",
+        "url": "https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "El Paso Del Gigante",
+      "url": "https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -671,26 +691,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Otra Noche",
-        "url": "https://open.spotify.com/album/2b4wYjErjhZ0U05XpOnsoC"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/2nwHN5TM4OBdrwCUSx0wnE"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "No Est\u00e1 en la Flecha Sino en el Indio",
         "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
       },
@@ -723,26 +723,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "ADI\u00d3S (Live Version)",
-        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 164547,
-      "name": "ADI\u00d3S (Live Version)",
-      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "Para Que La Cu\u00f1a Apriete",
         "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 270506,
       "name": "Las Mujers No Se Acaban",
       "url": "https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "ADI\u00d3S (Live Version)",
+        "url": "https://open.spotify.com/album/4kl31TLRY80ZsAGSAFn282"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 164547,
+      "name": "ADI\u00d3S (Live Version)",
+      "url": "https://open.spotify.com/track/3jrn71DBQDQsenUUNspQwe"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "Latino",
         "url": "https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "TOCO Y ME VOY",
         "url": "https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj"
       },
@@ -883,50 +883,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
       "artists": [
         {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
         }
       ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "Con La Cumbia En La Sangre",
-        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "No Me Vuelvo A Enamorar",
-      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "Lo Nuevo Y\u2026Lo Mejor",
-        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "La Cumbia De La Cerveza",
-      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -947,6 +915,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "Con La Cumbia En La Sangre",
+        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "No Me Vuelvo A Enamorar",
+      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "Sue\u00f1o Cumplido",
         "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
@@ -959,6 +943,38 @@
       "duration_ms": 190800,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "Lo Nuevo Y\u2026Lo Mejor",
+        "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sonador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "La Cumbia De La Cerveza",
+      "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "El Santo Del Amor",
+      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -979,22 +995,6 @@
       "duration_ms": 203470,
       "name": "No Me Digas Que No",
       "url": "https://open.spotify.com/track/3DINASfl27t6yqfTwQEJtD"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 193760,
-      "name": "El Santo Del Amor",
-      "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "Flasheaste Amor",
         "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 175263,
       "name": "Flasheaste Amor",
       "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Super Grupo Colombia",
-        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
+        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
       },
       "artists": [
         {
-          "name": "Super Grupo Colombia",
-          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "duration_ms": 248857,
-      "name": "Coraz\u00f3n Enamorado",
-      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Los Reyes de la Cumbia Sonidera (En M\u00e9xico)",
-        "url": "https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "Cumbia A La Gente",
         "url": "https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 208400,
       "name": "Cumbia A La Gente",
       "url": "https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "Super Grupo Colombia",
+        "url": "https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK"
+      },
+      "artists": [
+        {
+          "name": "Super Grupo Colombia",
+          "url": "https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi"
+        }
+      ],
+      "duration_ms": 248857,
+      "name": "Coraz\u00f3n Enamorado",
+      "url": "https://open.spotify.com/track/54PSHIY4nF4CxtwBpSOqW6"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/03dzTYCKFMjo7qwbYec61S"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "#Tocoparavos",
         "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/03dzTYCKFMjo7qwbYec61S"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
         "name": "El Soltero",
         "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 184680,
-      "name": "El Noveno Mandamiento",
-      "url": "https://open.spotify.com/track/1lPfWjLceD6DH2HbRqHFy4"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "Mujer Que Mal Me Pagas",
         "url": "https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 218720,
       "name": "Mujer Que Mal Me Pagas",
       "url": "https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 184680,
+      "name": "El Noveno Mandamiento",
+      "url": "https://open.spotify.com/track/1lPfWjLceD6DH2HbRqHFy4"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1463,22 +1463,6 @@
       "duration_ms": 245933,
       "name": "Todo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
-        "name": "La Del Vestido Rojo",
-        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
-      },
-      "artists": [
-        {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
-        }
-      ],
-      "duration_ms": 221733,
-      "name": "La del Vestido Rojo",
-      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+        "name": "La Del Vestido Rojo",
+        "url": "https://open.spotify.com/album/6BLCRfawi0B0rwezVC8hiS"
       },
       "artists": [
         {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
         }
       ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+      "duration_ms": 221733,
+      "name": "La del Vestido Rojo",
+      "url": "https://open.spotify.com/track/5oJNIP34E9aE7rAKpGqyZp"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1571,22 +1555,6 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Los Extranos",
-        "url": "https://open.spotify.com/album/2h77JnCvPzKX5Oovrb93tr"
-      },
-      "artists": [
-        {
-          "name": "Los Extra\u00f1os",
-          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/7kWbSoOh7bs3ZkahpomJl8"
-    },
-    {
-      "added_at": "2024-08-15 20:11:04",
-      "album": {
         "name": "18 Exitos",
         "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
       },
@@ -1603,18 +1571,50 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Ritmo, Sol y Arena",
-        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
+        "name": "Los Extranos",
+        "url": "https://open.spotify.com/album/2h77JnCvPzKX5Oovrb93tr"
       },
       "artists": [
         {
-          "name": "Acapulco Tropical",
-          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+          "name": "Los Extra\u00f1os",
+          "url": "https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK"
         }
       ],
-      "duration_ms": 147866,
-      "name": "Acapulco Tropical",
-      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
+      "duration_ms": 223426,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/7kWbSoOh7bs3ZkahpomJl8"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
+    },
+    {
+      "added_at": "2024-08-15 20:11:04",
+      "album": {
+        "name": "Iconos Kitsch",
+        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
+      },
+      "artists": [
+        {
+          "name": "Los Vikings 5",
+          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
+        }
+      ],
+      "duration_ms": 209005,
+      "name": "Boquita De Caramelo",
+      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
     },
     {
       "added_at": "2024-08-15 20:11:04",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-08-15 20:11:04",
       "album": {
-        "name": "Iconos Kitsch",
-        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
+        "name": "Ritmo, Sol y Arena",
+        "url": "https://open.spotify.com/album/6GNCUK92o0O92UgV14oI6H"
       },
       "artists": [
         {
-          "name": "Los Vikings 5",
-          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
         }
       ],
-      "duration_ms": 209005,
-      "name": "Boquita De Caramelo",
-      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
+      "duration_ms": 147866,
+      "name": "Acapulco Tropical",
+      "url": "https://open.spotify.com/track/3gs1Vacn6b0kc67zLYilY9"
     },
     {
       "added_at": "2024-08-15 20:11:04",

@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 412753,
+  "num_followers": 412823,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -375,38 +375,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Forest Floor",
-        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
-      },
-      "artists": [
-        {
-          "name": "Fergus McCreadie",
-          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Glade",
-      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "Cloudland",
         "url": "https://open.spotify.com/album/0fm7uQgAG7FIMzrKZfKMng"
       },
@@ -435,6 +403,38 @@
       "duration_ms": 274802,
       "name": "Cloudland",
       "url": "https://open.spotify.com/track/32GV4ifruoiDEoLVe0c1k7"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Forest Floor",
+        "url": "https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi"
+      },
+      "artists": [
+        {
+          "name": "Fergus McCreadie",
+          "url": "https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Glade",
+      "url": "https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Let Love Be Genuine",
-        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
-      },
-      "artists": [
-        {
-          "name": "Nuvole",
-          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
-        }
-      ],
-      "duration_ms": 318620,
-      "name": "Let Love Be Genuine",
-      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Pure Imagination",
-        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
+        "name": "Let Love Be Genuine",
+        "url": "https://open.spotify.com/album/13yjw0qb0yqrU1s7xkOPRi"
       },
       "artists": [
         {
-          "name": "Rob Barron",
-          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
+          "name": "Nuvole",
+          "url": "https://open.spotify.com/artist/5X65Iv1V1AcOZhFM1AzjJ1"
         }
       ],
-      "duration_ms": 358853,
-      "name": "Pure Imagination",
-      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
+      "duration_ms": 318620,
+      "name": "Let Love Be Genuine",
+      "url": "https://open.spotify.com/track/4VQAmkNpIfBNQCTrz5yEA0"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -691,18 +675,18 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "These Foolish Things",
-        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
+        "name": "Pure Imagination",
+        "url": "https://open.spotify.com/album/1a2ltY23XnBtmf47BRtKVK"
       },
       "artists": [
         {
-          "name": "Charles Chen",
-          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+          "name": "Rob Barron",
+          "url": "https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd"
         }
       ],
-      "duration_ms": 341695,
-      "name": "These Foolish Things",
-      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
+      "duration_ms": 358853,
+      "name": "Pure Imagination",
+      "url": "https://open.spotify.com/track/1EcSvZ9Kq0EAohVfPcHToh"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -719,6 +703,22 @@
       "duration_ms": 319706,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/58XU0SbMcLJIFzrNXYhlX4"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "These Foolish Things",
+        "url": "https://open.spotify.com/album/2tXtAN2qOrJcfglYkTLYqQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Chen",
+          "url": "https://open.spotify.com/artist/0y3jAU26eNmcPsCAPx2pgY"
+        }
+      ],
+      "duration_ms": 341695,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/5HKgNwcH9JrDyBiJ6jCc49"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Colour Yes (Special Edition)",
-        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 521373,
-      "name": "Colour Yes - Special Edition",
-      "url": "https://open.spotify.com/track/4B46C7e9iptaLvlaKysH3A"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "A Ballad Moment",
         "url": "https://open.spotify.com/album/4BZYDP8KgpeIXAmvcj2Tyl"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 317545,
       "name": "Moonlight in Vermont",
       "url": "https://open.spotify.com/track/6zGtpBL97XawYikYkQe4sG"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Colour Yes (Special Edition)",
+        "url": "https://open.spotify.com/album/5Pdyuk0PEwXvPUKgAwMP46"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 521373,
+      "name": "Colour Yes - Special Edition",
+      "url": "https://open.spotify.com/track/4B46C7e9iptaLvlaKysH3A"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "In the Mountains",
         "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 496933,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Waltz for Hal Willner",
+        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 167906,
+      "name": "Waltz for Hal Willner",
+      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Our Songs",
         "url": "https://open.spotify.com/album/6cbxatO4U8vB68x9IZW2XF"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Waltz for Hal Willner",
-        "url": "https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK"
+        "name": "Nothing Happens Here",
+        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
       },
       "artists": [
         {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
         }
       ],
-      "duration_ms": 167906,
-      "name": "Waltz for Hal Willner",
-      "url": "https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1"
+      "duration_ms": 254560,
+      "name": "Nothing Happens Here",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1067,34 +1083,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Nothing Happens Here",
-        "url": "https://open.spotify.com/album/1b1WrvvhpxD794cnkbes4K"
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
       },
       "artists": [
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Nothing Happens Here",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Visitor",
-        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
-      },
-      "artists": [
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
         {
-          "name": "Carl Bagge",
-          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
         }
       ],
-      "duration_ms": 330213,
-      "name": "To Mr K.K.",
-      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
+      "duration_ms": 275200,
+      "name": "Going Up",
+      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1115,22 +1119,42 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst"
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
       },
       "artists": [
         {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+          "name": "Carl Bagge",
+          "url": "https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF"
         }
       ],
-      "duration_ms": 275200,
-      "name": "Going Up",
-      "url": "https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP"
+      "duration_ms": 330213,
+      "name": "To Mr K.K.",
+      "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        },
+        {
+          "name": "Anders Mogensen",
+          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
+        },
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 301783,
+      "name": "June 2nd",
+      "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1159,30 +1183,6 @@
       "duration_ms": 371120,
       "name": "The Great Belonging",
       "url": "https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        },
-        {
-          "name": "Anders Mogensen",
-          "url": "https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik"
-        },
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 301783,
-      "name": "June 2nd",
-      "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1235,6 +1235,38 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "The Rumor",
+        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
+      },
+      "artists": [
+        {
+          "name": "Ron Miles",
+          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
+        }
+      ],
+      "duration_ms": 270613,
+      "name": "The Rumor",
+      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Boo's Blues",
+        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 205094,
+      "name": "Boo's Blues",
+      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
         "url": "https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV"
       },
@@ -1267,38 +1299,6 @@
       "duration_ms": 354000,
       "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
       "url": "https://open.spotify.com/track/4kIgbvan6se7EOYlTh64fL"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "The Rumor",
-        "url": "https://open.spotify.com/album/5ggTgwB1dzyPFuzgUOz09G"
-      },
-      "artists": [
-        {
-          "name": "Ron Miles",
-          "url": "https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP"
-        }
-      ],
-      "duration_ms": 270613,
-      "name": "The Rumor",
-      "url": "https://open.spotify.com/track/4UypFLbSI1Mqq52RvOSq5u"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Boo's Blues",
-        "url": "https://open.spotify.com/album/7cLgwx3J525qJrIbYOohuU"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 205094,
-      "name": "Boo's Blues",
-      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1487,6 +1487,30 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
+      },
+      "artists": [
+        {
+          "name": "Robert Ke\u00dfler",
+          "url": "https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0"
+        },
+        {
+          "name": "Andreas Henze",
+          "url": "https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39"
+        },
+        {
+          "name": "Tobias Backhaus",
+          "url": "https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg"
+        }
+      ],
+      "duration_ms": 359982,
+      "name": "Theo",
+      "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Bye Bye Blackbird (Live)",
         "url": "https://open.spotify.com/album/7MvX7YVbUIvaIqUJi4wQnE"
       },
@@ -1559,54 +1583,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/4ErrMUDXuRoVxuxxJW58XG"
-      },
-      "artists": [
-        {
-          "name": "Robert Ke\u00dfler",
-          "url": "https://open.spotify.com/artist/2YYgntmXUMYTCEnzmQdfE0"
-        },
-        {
-          "name": "Andreas Henze",
-          "url": "https://open.spotify.com/artist/7vYXviS5LR5bizeQNg2O39"
-        },
-        {
-          "name": "Tobias Backhaus",
-          "url": "https://open.spotify.com/artist/1SbtLqjHHsRkMzCseem0Rg"
-        }
-      ],
-      "duration_ms": 359982,
-      "name": "Theo",
-      "url": "https://open.spotify.com/track/7nkBgHk9BmewU7ZowAfGdD"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Afternoon Conversations",
-        "url": "https://open.spotify.com/album/5ZQdJ3xqZQXoYClA67Od1b"
-      },
-      "artists": [
-        {
-          "name": "Battista Lena",
-          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
-        },
-        {
-          "name": "Andrea Ambrosi",
-          "url": "https://open.spotify.com/artist/4fpoxB9jbNj0QrJywnpZPL"
-        },
-        {
-          "name": "Giovanni Paolo Liguori",
-          "url": "https://open.spotify.com/artist/5DPOW734zE6ksQIIKN9qIb"
-        }
-      ],
-      "duration_ms": 323296,
-      "name": "Freddie Freeloader",
-      "url": "https://open.spotify.com/track/1cMJXSb5eCpd4AU7zByvN5"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "Diane / Estemporaneo",
         "url": "https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA"
       },
@@ -1631,6 +1607,30 @@
       "duration_ms": 329693,
       "name": "Diane",
       "url": "https://open.spotify.com/track/56jpavn98L7tkcOZ3dnI6D"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Afternoon Conversations",
+        "url": "https://open.spotify.com/album/5ZQdJ3xqZQXoYClA67Od1b"
+      },
+      "artists": [
+        {
+          "name": "Battista Lena",
+          "url": "https://open.spotify.com/artist/6tSsm1i1CJCa7A8UVD2KpO"
+        },
+        {
+          "name": "Andrea Ambrosi",
+          "url": "https://open.spotify.com/artist/4fpoxB9jbNj0QrJywnpZPL"
+        },
+        {
+          "name": "Giovanni Paolo Liguori",
+          "url": "https://open.spotify.com/artist/5DPOW734zE6ksQIIKN9qIb"
+        }
+      ],
+      "duration_ms": 323296,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/1cMJXSb5eCpd4AU7zByvN5"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
+        "name": "Love Is in the Air",
+        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        }
+      ],
+      "duration_ms": 225707,
+      "name": "Love Is in the Air",
+      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/1sYm78ZyaQtJESPtajIdze"
       },
@@ -1835,22 +1851,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Love Is in the Air",
-        "url": "https://open.spotify.com/album/5iFLmNdX0VX4rYi5jILm8y"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        }
-      ],
-      "duration_ms": 225707,
-      "name": "Love Is in the Air",
-      "url": "https://open.spotify.com/track/1W0WiHXopNzkDW5bqXpbmn"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "Sun of June",
         "url": "https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm"
       },
@@ -1863,6 +1863,58 @@
       "duration_ms": 306086,
       "name": "Let Me Take You for a Walk",
       "url": "https://open.spotify.com/track/12OrCaKyaaigMeFxCsHqxV"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Peaceful Paranoia",
+        "url": "https://open.spotify.com/album/3kNuLBmAPGG41sQtAj29Ph"
+      },
+      "artists": [
+        {
+          "name": "Niclas Knudsen Trio",
+          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
+        },
+        {
+          "name": "Kresten Osgood",
+          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        },
+        {
+          "name": "Niclas Knudsen",
+          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
+        }
+      ],
+      "duration_ms": 265826,
+      "name": "Peaceful Paranoia",
+      "url": "https://open.spotify.com/track/2oTKvPW7xQCJArXNDDfJd6"
+    },
+    {
+      "added_at": "2024-11-22 09:27:14",
+      "album": {
+        "name": "Lookin' Up",
+        "url": "https://open.spotify.com/album/6iwnBjHSdWUuCCCmlXpeHk"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx"
+        }
+      ],
+      "duration_ms": 182412,
+      "name": "Lookin' Up",
+      "url": "https://open.spotify.com/track/3wvWXBrtNOSjf3LOZhpfNX"
     },
     {
       "added_at": "2024-11-22 09:27:14",
@@ -1903,34 +1955,6 @@
     {
       "added_at": "2024-11-22 09:27:14",
       "album": {
-        "name": "Peaceful Paranoia",
-        "url": "https://open.spotify.com/album/3kNuLBmAPGG41sQtAj29Ph"
-      },
-      "artists": [
-        {
-          "name": "Niclas Knudsen Trio",
-          "url": "https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn"
-        },
-        {
-          "name": "Kresten Osgood",
-          "url": "https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN"
-        },
-        {
-          "name": "Anders Christensen",
-          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
-        },
-        {
-          "name": "Niclas Knudsen",
-          "url": "https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5"
-        }
-      ],
-      "duration_ms": 265826,
-      "name": "Peaceful Paranoia",
-      "url": "https://open.spotify.com/track/2oTKvPW7xQCJArXNDDfJd6"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
         "name": "Dardanella",
         "url": "https://open.spotify.com/album/0k7ZC0mA9k5HfPONZzbJTh"
       },
@@ -1943,22 +1967,6 @@
       "duration_ms": 324696,
       "name": "Dardanella",
       "url": "https://open.spotify.com/track/6ASQ9b6KAHrwKcfgBIeTQw"
-    },
-    {
-      "added_at": "2024-11-22 09:27:14",
-      "album": {
-        "name": "Velvet Gloves & Spit",
-        "url": "https://open.spotify.com/album/4xAd50gOzhbIldhrmYAJWK"
-      },
-      "artists": [
-        {
-          "name": "Michael Wollny",
-          "url": "https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Velvet Gloves & Spit",
-      "url": "https://open.spotify.com/track/28nqRn3qpWokvnhGfXwbEf"
     }
   ],
   "unique_name": "Good Morning Jazz",

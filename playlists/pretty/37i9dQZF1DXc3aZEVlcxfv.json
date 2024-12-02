@@ -1,6 +1,6 @@
 {
   "description": "I am blessed!",
-  "num_followers": 1924,
+  "num_followers": 1930,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 349586,
-      "name": "O Come to the Altar (Live)",
-      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
         "name": "THIS YEAR (Blessings)",
         "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
@@ -245,30 +229,6 @@
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Firm Foundation (He Won't)",
-        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)",
-      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
-    },
-    {
       "added_at": "2024-09-27 00:01:00",
       "album": {
         "name": "Rise Up",
@@ -283,6 +243,22 @@
       "duration_ms": 175630,
       "name": "I'm So Blessed",
       "url": "https://open.spotify.com/track/2C0CRs9cwkD8VABHxrBkEd"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -321,6 +297,30 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
+    },
+    {
       "added_at": "2024-09-27 00:01:00",
       "album": {
         "name": "Hallelujah Again (Revelation 19:3)",
@@ -343,34 +343,6 @@
       "duration_ms": 436321,
       "name": "Olorun Agbaye - You Are Mighty",
       "url": "https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 598994,
-      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -407,6 +379,34 @@
       "duration_ms": 127824,
       "name": "He Is Enough",
       "url": "https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 598994,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+        "name": "Spirit Chant",
+        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
         }
       ],
-      "duration_ms": 398333,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
+      "duration_ms": 610103,
+      "name": "Spirit Chant",
+      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Spirit Chant",
-        "url": "https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf"
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
       "artists": [
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 610103,
-      "name": "Spirit Chant",
-      "url": "https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln"
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -585,30 +585,6 @@
       "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 507306,
-      "name": "The Blessing (Live)",
-      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
-    },
-    {
       "added_at": "2024-10-04 00:01:00",
       "album": {
         "name": "The Hill",
@@ -641,22 +617,6 @@
       "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
-      },
-      "artists": [
-        {
-          "name": "Eben",
-          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
-        }
-      ],
-      "duration_ms": 230505,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
-    },
-    {
       "added_at": "2024-11-15 00:01:00",
       "album": {
         "name": "Holy Spirit",
@@ -671,6 +631,22 @@
       "duration_ms": 351666,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6"
+      },
+      "artists": [
+        {
+          "name": "Eben",
+          "url": "https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm"
+        }
+      ],
+      "duration_ms": 230505,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -695,18 +671,26 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+      "duration_ms": 507306,
+      "name": "The Blessing (Live)",
+      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -723,6 +707,22 @@
       "duration_ms": 126315,
       "name": "Find Me Here (Blessings Find Me)",
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
     },
     {
       "added_at": "2024-11-15 00:01:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
         "name": "Nara",
         "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 296320,
       "name": "Nara",
       "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -917,6 +917,22 @@
       "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
     },
     {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
+    },
+    {
       "added_at": "2024-10-11 00:01:00",
       "album": {
         "name": "Malaika x Fridayy",
@@ -955,22 +971,6 @@
       "duration_ms": 282000,
       "name": "Game Changer",
       "url": "https://open.spotify.com/track/6x13BD1Qx46yEPcwu31QtS"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     }
   ],
   "unique_name": "Blessed",

@@ -1,29 +1,13 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 33741,
+  "num_followers": 33806,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kEAAAAAABmagwr3kkPr3s+kEISllpF",
+  "snapshot_id": "Z0pVgAAAAABfP/vA6mWKfnN8nzho/BPG",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "delusional",
-        "url": "https://open.spotify.com/album/0RU126IVz2iAQhsnnshBYJ"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 131274,
-      "name": "delusional",
-      "url": "https://open.spotify.com/track/2lTf1QFYGEOYM31PVtQhEW"
-    },
     {
       "added_at": null,
       "album": {
@@ -75,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "delusional",
+        "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 131274,
+      "name": "delusional",
+      "url": "https://open.spotify.com/track/5116BQqgzOZ24Dx0ZKkagU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -87,22 +87,6 @@
       "duration_ms": 138319,
       "name": "Freestyle 2",
       "url": "https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project X",
-        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 148808,
-      "name": "Rock N Roll",
-      "url": "https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf"
     },
     {
       "added_at": null,
@@ -139,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project X",
+        "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 148808,
+      "name": "Rock N Roll",
+      "url": "https://open.spotify.com/track/7sdHMJvhKib3ReVPsZFbrf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Teen Bean",
         "url": "https://open.spotify.com/album/5khW9rcdd32i7nCJlTXzqB"
       },
@@ -151,26 +151,6 @@
       "duration_ms": 119248,
       "name": "Teen Bean",
       "url": "https://open.spotify.com/track/4jx9GqqVMPacAOKHaFlsLb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 173195,
-      "name": "Fell In Love (with Ken Carson)",
-      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
     },
     {
       "added_at": null,
@@ -207,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 173195,
+      "name": "Fell In Love (with Ken Carson)",
+      "url": "https://open.spotify.com/track/302EsF6DE70LfngVNLlqo5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "RICK OWENS (feat. Ken Carson)",
         "url": "https://open.spotify.com/album/7bf7m2qiQ2EhNSnAQfgwOb"
       },
@@ -227,26 +227,6 @@
       "duration_ms": 130136,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/7qAyWILStEa7VkjF00kXas"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO STYLIST",
-        "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 176326,
-      "name": "VETERAN (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4"
     },
     {
       "added_at": null,
@@ -303,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVE LASTS FOREVER",
-        "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
+        "name": "NO STYLIST",
+        "url": "https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2"
       },
       "artists": [
         {
@@ -316,9 +296,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 252636,
-      "name": "THRILL (with Ken Carson)",
-      "url": "https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN"
+      "duration_ms": 176326,
+      "name": "VETERAN (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4"
     },
     {
       "added_at": null,
@@ -355,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 252636,
+      "name": "THRILL (with Ken Carson)",
+      "url": "https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 169889,
       "name": "New",
       "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 142287,
-      "name": "Freestyle 3",
-      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
     },
     {
       "added_at": null,
@@ -452,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 152368,
-      "name": "Swag Overload",
-      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
+      "duration_ms": 142287,
+      "name": "Freestyle 3",
+      "url": "https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c"
     },
     {
       "added_at": null,
@@ -519,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 152368,
+      "name": "Swag Overload",
+      "url": "https://open.spotify.com/track/6XfdWZJTAv750YyMGSjO3y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Project X",
         "url": "https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 150318,
-      "name": "Lookbook",
-      "url": "https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teen X : Relapsed",
         "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 104544,
       "name": "Teenager Rager",
       "url": "https://open.spotify.com/track/0MwOpzSByFjvmgjeY0It4a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 150318,
+      "name": "Lookbook",
+      "url": "https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XTENDED",
-        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 166863,
-      "name": "Shoot",
-      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teen X",
         "url": "https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd"
       },
@@ -655,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teen X : Relapsed",
-        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
+        "name": "XTENDED",
+        "url": "https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK"
       },
       "artists": [
         {
@@ -664,9 +648,25 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 93413,
-      "name": "High as Sh!T",
-      "url": "https://open.spotify.com/track/3CukfJ1zvUEcq84AM89hxj"
+      "duration_ms": 166863,
+      "name": "Shoot",
+      "url": "https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 135419,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+        "name": "Teen X : Relapsed",
+        "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 135419,
-      "name": "The End",
-      "url": "https://open.spotify.com/track/5tqzMWoUJrCLESpGKROHQ3"
+      "duration_ms": 93413,
+      "name": "High as Sh!T",
+      "url": "https://open.spotify.com/track/3CukfJ1zvUEcq84AM89hxj"
     },
     {
       "added_at": null,

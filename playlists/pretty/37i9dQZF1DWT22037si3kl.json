@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Dudu",
-  "num_followers": 145474,
+  "num_followers": 145470,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -275,38 +275,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Vida Cara (Deluxe)",
-        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
+        "name": "Direto da Selva",
+        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
         },
         {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "Ribb",
-          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Amor Eu T\u00f4 no Est\u00fadio",
-      "url": "https://open.spotify.com/track/6WgbUmH1yKA2YJ5NY2upOA"
+      "duration_ms": 202282,
+      "name": "Mente Al\u00e9m",
+      "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -339,22 +323,38 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Direto da Selva",
-        "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
+        "name": "Vida Cara (Deluxe)",
+        "url": "https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Raflow",
-          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
         }
       ],
-      "duration_ms": 202282,
-      "name": "Mente Al\u00e9m",
-      "url": "https://open.spotify.com/track/3bTEMXxB5Ok3llsmCoPbs7"
+      "duration_ms": 164571,
+      "name": "Amor Eu T\u00f4 no Est\u00fadio",
+      "url": "https://open.spotify.com/track/6WgbUmH1yKA2YJ5NY2upOA"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
         "name": "Direto da Selva",
         "url": "https://open.spotify.com/album/0BLV2fhIeGJmvzBxwz3NxV"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 200757,
       "name": "Amanheceu",
       "url": "https://open.spotify.com/track/2goHxXjG4BLibbnzapH8ow"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -707,30 +707,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Niink",
-          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
-        },
-        {
-          "name": "Liam Fenti",
-          "url": "https://open.spotify.com/artist/1xn0u925Z25C7ZW8FstGRX"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "Hostil",
-      "url": "https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "IAMBINHU",
         "url": "https://open.spotify.com/album/7BpvuVN4bsFdncN2KLkBLU"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 120000,
       "name": "Academia de Jugg",
       "url": "https://open.spotify.com/track/6vg2QOZtkhIGHoMIcJ1qB8"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Niink",
+          "url": "https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn"
+        },
+        {
+          "name": "Liam Fenti",
+          "url": "https://open.spotify.com/artist/1xn0u925Z25C7ZW8FstGRX"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "Hostil",
+      "url": "https://open.spotify.com/track/0i6gPQcHSl1nwjBtFOXDQW"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -831,6 +831,70 @@
       "duration_ms": 157868,
       "name": "Casa Bomba",
       "url": "https://open.spotify.com/track/1o8OibQkhsMFXRc7xfJfN9"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Na Minha Blunt",
+        "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Na Minha Blunt",
+      "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Unique",
+        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "Pr\u00f3ximo Passo",
+      "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -915,42 +979,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Na Minha Blunt",
-        "url": "https://open.spotify.com/album/57lNHVtrf0nAijRYg9KRdp"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        },
-        {
-          "name": "Ayo Th",
-          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
-        },
-        {
-          "name": "MATHINVOKER",
-          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Na Minha Blunt",
-      "url": "https://open.spotify.com/track/22c34TVqA1nkCZrjtPLjmJ"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "IRRASTRE\u00c1VEL",
         "url": "https://open.spotify.com/album/02xKTYrVQ1gSN8Lo4w7JmG"
       },
@@ -979,34 +1007,6 @@
     {
       "added_at": "2024-11-08 03:01:00",
       "album": {
-        "name": "Unique",
-        "url": "https://open.spotify.com/album/2GDpipX0hCd3BWwIaXG7YL"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "Pr\u00f3ximo Passo",
-      "url": "https://open.spotify.com/track/58r4xh2mRnLOGpCd8SJFvO"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
         "name": "O Cen\u00e1rio Certo para o Teatro Perfeito",
         "url": "https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D"
       },
@@ -1027,30 +1027,6 @@
       "duration_ms": 138305,
       "name": "Famigerado",
       "url": "https://open.spotify.com/track/5JZvsdxvWhe1Q9Cb1KgsVr"
-    },
-    {
-      "added_at": "2024-11-08 03:01:00",
-      "album": {
-        "name": "Diesel Dior",
-        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
-      },
-      "artists": [
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 189197,
-      "name": "Diesel Dior",
-      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
     },
     {
       "added_at": "2024-11-08 03:01:00",
@@ -1231,6 +1207,30 @@
       "duration_ms": 284138,
       "name": "Esqueceu seu brinco",
       "url": "https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF"
+    },
+    {
+      "added_at": "2024-11-08 03:01:00",
+      "album": {
+        "name": "Diesel Dior",
+        "url": "https://open.spotify.com/album/6MNqs3AyrgaxCTzY0VubqW"
+      },
+      "artists": [
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 189197,
+      "name": "Diesel Dior",
+      "url": "https://open.spotify.com/track/1ilQOr4WSuduqsRJ9UOLYW"
     },
     {
       "added_at": "2024-11-08 03:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 16014,
+  "num_followers": 16035,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -203,30 +203,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Estrellas de Rock",
-        "url": "https://open.spotify.com/album/3Z7eblvspGL5UJw10UWOpu"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        },
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 155272,
-      "name": "Estrellas de Rock",
-      "url": "https://open.spotify.com/track/6mqTaUbA5TeTJBw3g9Xegg"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Tributos",
         "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
@@ -247,6 +223,30 @@
       "duration_ms": 213097,
       "name": "Tributos",
       "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Estrellas de Rock",
+        "url": "https://open.spotify.com/album/3Z7eblvspGL5UJw10UWOpu"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 155272,
+      "name": "Estrellas de Rock",
+      "url": "https://open.spotify.com/track/6mqTaUbA5TeTJBw3g9Xegg"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "NASSY",
+        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Dr. Ryo",
+          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
+        }
+      ],
+      "duration_ms": 142767,
+      "name": "NASSY",
+      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Orgullo Rolo",
         "url": "https://open.spotify.com/album/14FDrpL3A4iOvG3o4W7p9G"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 224426,
       "name": "Orgullo Rolo",
       "url": "https://open.spotify.com/track/43L9Q1jIDLzeaL1J8klKgI"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "NASSY",
-        "url": "https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Dr. Ryo",
-          "url": "https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp"
-        }
-      ],
-      "duration_ms": 142767,
-      "name": "NASSY",
-      "url": "https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Voy tranquilo",
-        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
-      },
-      "artists": [
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        }
-      ],
-      "duration_ms": 142921,
-      "name": "Voy tranquilo",
-      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "UFC",
         "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 230000,
       "name": "UFC",
       "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Voy tranquilo",
+        "url": "https://open.spotify.com/album/2sODnDNsxbIF8snIvBiR8b"
+      },
+      "artists": [
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 142921,
+      "name": "Voy tranquilo",
+      "url": "https://open.spotify.com/track/1YBLxv6oT9SGuxwwmE6w88"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/4bVTrw3H76rKi0BbmLBVsN"
-      },
-      "artists": [
-        {
-          "name": "Villax",
-          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/02SouKKkQikm8xEOCT4e3U"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "El Sol",
         "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 224521,
       "name": "El Sol",
       "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/4bVTrw3H76rKi0BbmLBVsN"
+      },
+      "artists": [
+        {
+          "name": "Villax",
+          "url": "https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/02SouKKkQikm8xEOCT4e3U"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "El Humito",
+        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "El Humito",
+      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Tatequieto",
         "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 152210,
       "name": "Tatequieto",
       "url": "https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "El Humito",
-        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "El Humito",
-      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Corazon Blanco",
-        "url": "https://open.spotify.com/album/13gsMrmQcEwbKnVUpTUeJF"
-      },
-      "artists": [
-        {
-          "name": "Big Stan",
-          "url": "https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd"
-        },
-        {
-          "name": "Logetmay",
-          "url": "https://open.spotify.com/artist/1Q52IrHBmdN3ioy3XNIAeI"
-        }
-      ],
-      "duration_ms": 168710,
-      "name": "Corazon Blanco",
-      "url": "https://open.spotify.com/track/1ijISWzGtdSyMZOCZ2FR13"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "La pr\u00e1ctica",
         "url": "https://open.spotify.com/album/6jTRyRI7EFAOHlQJNWdIeS"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 222053,
       "name": "Disparo",
       "url": "https://open.spotify.com/track/48WIOq6Rji75sRruneWI7X"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Corazon Blanco",
+        "url": "https://open.spotify.com/album/13gsMrmQcEwbKnVUpTUeJF"
+      },
+      "artists": [
+        {
+          "name": "Big Stan",
+          "url": "https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd"
+        },
+        {
+          "name": "Logetmay",
+          "url": "https://open.spotify.com/artist/1Q52IrHBmdN3ioy3XNIAeI"
+        }
+      ],
+      "duration_ms": 168710,
+      "name": "Corazon Blanco",
+      "url": "https://open.spotify.com/track/1ijISWzGtdSyMZOCZ2FR13"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1027,26 +1027,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
       },
       "artists": [
         {
-          "name": "Teeam Revolver",
-          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
         },
         {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Ervin River",
-          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         }
       ],
-      "duration_ms": 188600,
-      "name": "Cicatrices",
-      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
+      "duration_ms": 232320,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1075,22 +1071,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/5CJGLdMZxYbGuPGxcJzjev"
       },
       "artists": [
         {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
         },
         {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Ervin River",
+          "url": "https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL"
         }
       ],
-      "duration_ms": 232320,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
+      "duration_ms": 188600,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/1MIJ50wwMXAbnQOtrkU2Cn"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Con la Frente en Alto",
+        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Con la Frente en Alto",
+      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Just in Case",
         "url": "https://open.spotify.com/album/6wsdi0LpS2DAf7Nky6kH83"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 209490,
       "name": "Just in Case",
       "url": "https://open.spotify.com/track/2XFR8LdBWQtY7pBWwGpEMX"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Con la Frente en Alto",
-        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Aguilar",
-          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Con la Frente en Alto",
-      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
     },
     {
       "added_at": "2024-10-11 06:00:00",

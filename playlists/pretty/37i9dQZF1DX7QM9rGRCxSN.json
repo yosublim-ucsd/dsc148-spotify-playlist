@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Vesica Piscis en portada.",
-  "num_followers": 32967,
+  "num_followers": 32970,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -203,38 +203,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Nubes",
-        "url": "https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd"
-      },
-      "artists": [
-        {
-          "name": "Policias y Ladrones",
-          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "Nubes",
-      "url": "https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Los Movimientos",
-        "url": "https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 302602,
-      "name": "Viajar en Metro",
-      "url": "https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -247,6 +215,22 @@
       "duration_ms": 194640,
       "name": "tdbn",
       "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Nubes",
+        "url": "https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd"
+      },
+      "artists": [
+        {
+          "name": "Policias y Ladrones",
+          "url": "https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Nubes",
+      "url": "https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -267,18 +251,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "violeta",
-        "url": "https://open.spotify.com/album/5W3qIQqIHXeWUXMyQhIveI"
+        "name": "Los Movimientos",
+        "url": "https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja"
       },
       "artists": [
         {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
         }
       ],
-      "duration_ms": 165557,
-      "name": "violeta",
-      "url": "https://open.spotify.com/track/1v0kFBmouOBzmOiNQfwswb"
+      "duration_ms": 302602,
+      "name": "Viajar en Metro",
+      "url": "https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -331,6 +315,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "violeta",
+        "url": "https://open.spotify.com/album/5W3qIQqIHXeWUXMyQhIveI"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "violeta",
+      "url": "https://open.spotify.com/track/1v0kFBmouOBzmOiNQfwswb"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Sintetica",
         "url": "https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe"
       },
@@ -367,6 +367,38 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu"
+      },
+      "artists": [
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 550600,
+      "name": "La Caja Del Diablo",
+      "url": "https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
+      },
+      "artists": [
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 195500,
+      "name": "Todo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Duramos M\u00e1s Cuando Menos Nos Conocemos",
         "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
       },
@@ -399,34 +431,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw"
+        "name": "BILLY",
+        "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
       },
       "artists": [
         {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+          "name": "Dominiko",
+          "url": "https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD"
         }
       ],
-      "duration_ms": 195500,
-      "name": "Todo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu"
-      },
-      "artists": [
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 550600,
-      "name": "La Caja Del Diablo",
-      "url": "https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P"
+      "duration_ms": 252633,
+      "name": "BILLY",
+      "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -443,22 +459,6 @@
       "duration_ms": 328040,
       "name": "Hasta Que el Tiempo No Nos Separe",
       "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "BILLY",
-        "url": "https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7"
-      },
-      "artists": [
-        {
-          "name": "Dominiko",
-          "url": "https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD"
-        }
-      ],
-      "duration_ms": 252633,
-      "name": "BILLY",
-      "url": "https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Sur La Terre",
         "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 196331,
       "name": "Sur la terre",
       "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Estrella Fugaz",
-        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
-      },
-      "artists": [
-        {
-          "name": "Se\u00f1or Kino",
-          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
-        }
-      ],
-      "duration_ms": 262955,
-      "name": "Estrella Fugaz",
-      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 381868,
       "name": "The Sound of all Things",
       "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Estrella Fugaz",
+        "url": "https://open.spotify.com/album/1zlpHqJLyYmfqzSOytAT5D"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1or Kino",
+          "url": "https://open.spotify.com/artist/2W0kFBz6nHARNF7A5KlWYG"
+        }
+      ],
+      "duration_ms": 262955,
+      "name": "Estrella Fugaz",
+      "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
-      },
-      "artists": [
-        {
-          "name": "Myun\u00e9",
-          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Boni Nait\u00f3",
-      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "reina de primavera",
         "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 245840,
       "name": "reina de primavera",
       "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
+      },
+      "artists": [
+        {
+          "name": "Myun\u00e9",
+          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Boni Nait\u00f3",
+      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
     },
     {
       "added_at": "2024-09-27 06:00:00",

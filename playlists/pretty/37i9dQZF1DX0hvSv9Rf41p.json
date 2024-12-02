@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Subtronics & Alison Wonderland",
-  "num_followers": 980060,
+  "num_followers": 980079,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1241,6 +1241,26 @@
       "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
+      "added_at": "2024-11-01 05:42:18",
+      "album": {
+        "name": "Fired Up",
+        "url": "https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 188689,
+      "name": "Fired Up",
+      "url": "https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "SEE YOU DROP",
@@ -1275,26 +1295,6 @@
       "duration_ms": 211120,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0yVNtNWZshsOXu0GLWp07P"
-    },
-    {
-      "added_at": "2024-11-01 05:42:18",
-      "album": {
-        "name": "Fired Up",
-        "url": "https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        }
-      ],
-      "duration_ms": 188689,
-      "name": "Fired Up",
-      "url": "https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1339,6 +1339,42 @@
       "duration_ms": 205241,
       "name": "I'll Wait For You",
       "url": "https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Swerve it",
+        "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Camo & Krooked",
+          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
+        },
+        {
+          "name": "Mefjus",
+          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "duration_ms": 167314,
+      "name": "Swerve It",
+      "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1409,40 +1445,24 @@
       "url": "https://open.spotify.com/track/4ISgMfSWEuwVRj76YPVopn"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
+      "added_at": "2024-06-14 04:00:00",
       "album": {
-        "name": "Swerve it",
-        "url": "https://open.spotify.com/album/5o9bTDEWsJpTReXH4LuoME"
+        "name": "Sploinky Dub",
+        "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
       },
       "artists": [
         {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
         },
         {
-          "name": "Camo & Krooked",
-          "url": "https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU"
-        },
-        {
-          "name": "Mefjus",
-          "url": "https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        },
-        {
-          "name": "P Money",
-          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
-        },
-        {
-          "name": "D Double E",
-          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+          "name": "Grech",
+          "url": "https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd"
         }
       ],
-      "duration_ms": 167314,
-      "name": "Swerve It",
-      "url": "https://open.spotify.com/track/3IwA24jZLqPW3tFCWpkr7S"
+      "duration_ms": 171428,
+      "name": "Sploinky Dub",
+      "url": "https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL"
     },
     {
       "added_at": "2024-11-01 05:42:18",
@@ -1481,26 +1501,6 @@
       "url": "https://open.spotify.com/track/2fga4JgHuq91W9HiTfo9GC"
     },
     {
-      "added_at": "2024-06-14 04:00:00",
-      "album": {
-        "name": "Sploinky Dub",
-        "url": "https://open.spotify.com/album/2iAmSibpvHukTA7VHWsQbP"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Grech",
-          "url": "https://open.spotify.com/artist/6z1We817VZisHPTNCJi2cd"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sploinky Dub",
-      "url": "https://open.spotify.com/track/0b8WrzU0hzr5WH2uEpMlcL"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Brain Tickler",
@@ -1515,26 +1515,6 @@
       "duration_ms": 144134,
       "name": "Brain Tickler",
       "url": "https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc"
-    },
-    {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Ganja Tape",
-        "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
-      },
-      "artists": [
-        {
-          "name": "Ganja White Night",
-          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 254488,
-      "name": "Ganja Tape",
-      "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1565,28 +1545,24 @@
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "Not Even Love (MUZZ Remix)",
-        "url": "https://open.spotify.com/album/1SduTEJxRmJSEdQSuPHLwJ"
+        "name": "Ganja Tape",
+        "url": "https://open.spotify.com/album/5IQLxycKQTlS80OtUITihw"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+          "name": "Ganja White Night",
+          "url": "https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3"
         },
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
         }
       ],
-      "duration_ms": 191234,
-      "name": "Not Even Love - MUZZ Remix",
-      "url": "https://open.spotify.com/track/4C6BVbsJTydFx5moRR71Q3"
+      "duration_ms": 254488,
+      "name": "Ganja Tape",
+      "url": "https://open.spotify.com/track/2pZkX6yyPuF8UdRqGXsDci"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1627,6 +1603,30 @@
       "duration_ms": 179142,
       "name": "PROXIMATE",
       "url": "https://open.spotify.com/track/7hxIAhvAlQ5n2YbaaQmRMv"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Not Even Love (MUZZ Remix)",
+        "url": "https://open.spotify.com/album/1SduTEJxRmJSEdQSuPHLwJ"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 191234,
+      "name": "Not Even Love - MUZZ Remix",
+      "url": "https://open.spotify.com/track/4C6BVbsJTydFx5moRR71Q3"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -1821,38 +1821,6 @@
       "url": "https://open.spotify.com/track/6aTN1V5VCHjn8q73XsXTCT"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Front to Back",
-        "url": "https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3"
-      },
-      "artists": [
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 147107,
-      "name": "Front to Back",
-      "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "i promise",
-        "url": "https://open.spotify.com/album/2OVEvHiQnDI3vBFhy0XAxd"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 204193,
-      "name": "i promise",
-      "url": "https://open.spotify.com/track/2TGTJGfiCiIjP3OBjTrGaO"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Like That (Tape B Remix)",
@@ -1875,6 +1843,54 @@
       "duration_ms": 216000,
       "name": "Like That - Tape B Remix",
       "url": "https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "F______ LOVE YOU",
+        "url": "https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 140999,
+      "name": "F______ LOVE YOU",
+      "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "i promise",
+        "url": "https://open.spotify.com/album/2OVEvHiQnDI3vBFhy0XAxd"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 204193,
+      "name": "i promise",
+      "url": "https://open.spotify.com/track/2TGTJGfiCiIjP3OBjTrGaO"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Front to Back",
+        "url": "https://open.spotify.com/album/2RNeEPPKorasuMrEU6vFS3"
+      },
+      "artists": [
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 147107,
+      "name": "Front to Back",
+      "url": "https://open.spotify.com/track/1QsB0PQFWEZDy1Q5W2qbjP"
     },
     {
       "added_at": "2024-02-23 05:00:30",
@@ -1939,22 +1955,6 @@
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "F______ LOVE YOU",
-        "url": "https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 140999,
-      "name": "F______ LOVE YOU",
-      "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
     },
     {
       "added_at": "2024-08-16 04:00:00",

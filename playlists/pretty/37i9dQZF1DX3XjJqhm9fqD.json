@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Rutshelle, John Legend and Micha\u00ebl Brun",
-  "num_followers": 91306,
+  "num_followers": 91336,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Calypso : Winter Edition",
+        "url": "https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
+          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Fem voy\u00e9",
+      "url": "https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Fridayy",
         "url": "https://open.spotify.com/album/3J0B3BYdp5fRKHYn3N4Awf"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 235842,
       "name": "Done For Me (feat. Adekunle Gold)",
       "url": "https://open.spotify.com/track/3zvdunLVg4aZN1xo9PqOxF"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Calypso : Winter Edition",
-        "url": "https://open.spotify.com/album/2BHdR3I4rELAUgjfUfmv9y"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e9 Dw\u00e8t Fil\u00e9",
-          "url": "https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Fem voy\u00e9",
-      "url": "https://open.spotify.com/track/19sesLqKhLkzkFVYOh4wSD"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -259,26 +259,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Kabe",
-        "url": "https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh"
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Oswald",
+          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
         },
         {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        },
-        {
-          "name": "Nomis (FR)",
-          "url": "https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V"
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Kabe",
-      "url": "https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe"
+      "duration_ms": 209811,
+      "name": "Pedi kontwol",
+      "url": "https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -299,22 +295,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM"
+        "name": "Kabe",
+        "url": "https://open.spotify.com/album/4qNEPCKNBzuvJuo7MjqUuh"
       },
       "artists": [
         {
-          "name": "Oswald",
-          "url": "https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
         },
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        },
+        {
+          "name": "Nomis (FR)",
+          "url": "https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V"
         }
       ],
-      "duration_ms": 209811,
-      "name": "Pedi kontwol",
-      "url": "https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG"
+      "duration_ms": 212000,
+      "name": "Kabe",
+      "url": "https://open.spotify.com/track/7Kid813yq5ev5IZ6cyjqXe"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Lost in Parad\u00efse, Pt. 2",
-        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
-      },
-      "artists": [
-        {
-          "name": "Na\u00efka",
-          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
-        }
-      ],
-      "duration_ms": 203023,
-      "name": "For Gerard",
-      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Goumin",
         "url": "https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 154773,
       "name": "Abim\u00e9",
       "url": "https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Lost in Parad\u00efse, Pt. 2",
+        "url": "https://open.spotify.com/album/0C4vvGEY9q6eUYBqfknbkv"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 203023,
+      "name": "For Gerard",
+      "url": "https://open.spotify.com/track/1gDKjutKc25dm5VZKNq79W"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -511,26 +511,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Egyptian Sun",
-        "url": "https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Kiesza",
-          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
-        }
-      ],
-      "duration_ms": 257677,
-      "name": "Egyptian Sun",
-      "url": "https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 183773,
       "name": "$payforhaiti (feat. Mach-Hommy)",
       "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Egyptian Sun",
+        "url": "https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa"
+      },
+      "artists": [
+        {
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 257677,
+      "name": "Egyptian Sun",
+      "url": "https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -603,62 +603,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Quoi qu'il advienne (QQA)",
-        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 303725,
-      "name": "Rete La",
-      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Clueless (with Oxlade)",
-        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
-      },
-      "artists": [
-        {
-          "name": "Micha\u00ebl Brun",
-          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Clueless (with Oxlade)",
-      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Hustla",
-        "url": "https://open.spotify.com/album/4oofnyX49L9k555nOKILFI"
-      },
-      "artists": [
-        {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
-        },
-        {
-          "name": "Emmanuel Jal",
-          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
-        }
-      ],
-      "duration_ms": 161652,
-      "name": "Hustla",
-      "url": "https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "40 %",
         "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
       },
@@ -687,6 +631,42 @@
       "duration_ms": 174216,
       "name": "Hello",
       "url": "https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Clueless (with Oxlade)",
+        "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
+      },
+      "artists": [
+        {
+          "name": "Micha\u00ebl Brun",
+          "url": "https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Clueless (with Oxlade)",
+      "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Quoi qu'il advienne (QQA)",
+        "url": "https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 303725,
+      "name": "Rete La",
+      "url": "https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -731,18 +711,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "K\u00e8 m Nan Men w",
-        "url": "https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76"
+        "name": "Hustla",
+        "url": "https://open.spotify.com/album/4oofnyX49L9k555nOKILFI"
       },
       "artists": [
         {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
         }
       ],
-      "duration_ms": 275797,
-      "name": "K\u00e8 m Nan Men w",
-      "url": "https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ"
+      "duration_ms": 161652,
+      "name": "Hustla",
+      "url": "https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 234248,
       "name": "Crush la",
       "url": "https://open.spotify.com/track/4ciS4HvKpAntCCfBNpZNGP"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "K\u00e8 m Nan Men w",
+        "url": "https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 275797,
+      "name": "K\u00e8 m Nan Men w",
+      "url": "https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Ti Kabrit",
+        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 161717,
+      "name": "Ti Kabrit",
+      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Premye Fwa",
         "url": "https://open.spotify.com/album/7oP8VD7qj1UGeFyrlMGJQB"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 253208,
       "name": "Bay Vag",
       "url": "https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Ti Kabrit",
-        "url": "https://open.spotify.com/album/126HZ3Ggm1f7300inNCydK"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 161717,
-      "name": "Ti Kabrit",
-      "url": "https://open.spotify.com/track/2JBYTiyA2K0cakWqqzZ4mR"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1367,26 +1367,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Sol\u00e8y",
-        "url": "https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r"
+        "name": "Love a Plein Temps",
+        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
       },
       "artists": [
         {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        },
-        {
-          "name": "Maureen Boyer",
-          "url": "https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr"
-        },
-        {
-          "name": "SamTRax",
-          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 284991,
-      "name": "HOLLOW.",
-      "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
+      "duration_ms": 200816,
+      "name": "Love a Plein Temps",
+      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1407,18 +1399,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Love a Plein Temps",
-        "url": "https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0"
+        "name": "Sol\u00e8y",
+        "url": "https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r"
       },
       "artists": [
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        },
+        {
+          "name": "Maureen Boyer",
+          "url": "https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr"
+        },
+        {
+          "name": "SamTRax",
+          "url": "https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2"
         }
       ],
-      "duration_ms": 200816,
-      "name": "Love a Plein Temps",
-      "url": "https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B"
+      "duration_ms": 284991,
+      "name": "HOLLOW.",
+      "url": "https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Bal Tout",
+        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+      },
+      "artists": [
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Bal Tout",
+      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Manyen'l",
         "url": "https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu"
       },
@@ -1487,26 +1503,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "PA KRIYE",
-        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
-      },
-      "artists": [
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "PA KRIYE",
-      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Se Ou M Chwazi",
         "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
       },
@@ -1527,6 +1523,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "PA KRIYE",
+        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "PA KRIYE",
+      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Regr\u00e8",
         "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
       },
@@ -1543,8 +1559,8 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Bal Tout",
-        "url": "https://open.spotify.com/album/0SePosVqUHGqxxjG6vMHyn"
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
       },
       "artists": [
         {
@@ -1552,9 +1568,9 @@
           "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
         }
       ],
-      "duration_ms": 191067,
-      "name": "Bal Tout",
-      "url": "https://open.spotify.com/track/6ZBZ0q3WXLK9VAszMLenAU"
+      "duration_ms": 227142,
+      "name": "Tou Limen",
+      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov"
-      },
-      "artists": [
-        {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
-        }
-      ],
-      "duration_ms": 227142,
-      "name": "Tou Limen",
-      "url": "https://open.spotify.com/track/5aAS1IwdIIdIF09CTioY0z"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Ram 6: Manmanm Se Ginen",
         "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
       },
@@ -1707,38 +1707,6 @@
       "duration_ms": 183333,
       "name": "Mpral D\u00f2mi Nan Simity\u00e8",
       "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Say It Like",
-        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
-      },
-      "artists": [
-        {
-          "name": "Sarina",
-          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Say It Like",
-      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Sote",
-        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Sote",
-      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1767,6 +1735,38 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Sote",
+        "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Sote",
+      "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Say It Like",
+        "url": "https://open.spotify.com/album/2J5VDmV2Dh0LG17yC5KVsX"
+      },
+      "artists": [
+        {
+          "name": "Sarina",
+          "url": "https://open.spotify.com/artist/1JGPYVfDN3c5GrD0Sbj8Ku"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Say It Like",
+      "url": "https://open.spotify.com/track/1NAvaS1hS4dcI6IrSlZHZh"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Te revoir",
         "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
       },
@@ -1779,22 +1779,6 @@
       "duration_ms": 205030,
       "name": "Te revoir",
       "url": "https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "JWAYE NW\u00c8L",
-        "url": "https://open.spotify.com/album/2Zwa7esu6EZoV1lZBTOYec"
-      },
-      "artists": [
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        }
-      ],
-      "duration_ms": 189714,
-      "name": "JWAYE NW\u00c8L",
-      "url": "https://open.spotify.com/track/0JnJOtvhBY7SGCCb3fpsKE"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1815,6 +1799,22 @@
       "duration_ms": 210857,
       "name": "U.F.O.",
       "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "JWAYE NW\u00c8L",
+        "url": "https://open.spotify.com/album/2Zwa7esu6EZoV1lZBTOYec"
+      },
+      "artists": [
+        {
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
+        }
+      ],
+      "duration_ms": 189714,
+      "name": "JWAYE NW\u00c8L",
+      "url": "https://open.spotify.com/track/0JnJOtvhBY7SGCCb3fpsKE"
     },
     {
       "added_at": "2024-11-22 05:00:00",

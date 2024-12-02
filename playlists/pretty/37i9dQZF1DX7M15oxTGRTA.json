@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 144622,
+  "num_followers": 144695,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -363,22 +347,6 @@
       "duration_ms": 299120,
       "name": "Love T.K.O.",
       "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -435,18 +403,34 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -463,6 +447,38 @@
       "duration_ms": 251333,
       "name": "I Want to Be Your Man - Remastered Version",
       "url": "https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "You've Got It Bad Girl",
+        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Summer In The City",
+      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -535,38 +551,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "You've Got It Bad Girl",
-        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Summer In The City",
-      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Rope A Dope Style",
         "url": "https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta"
       },
@@ -631,6 +615,42 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "duration_ms": 373266,
+      "name": "You Put A Move On My Heart",
+      "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "Diana & Marvin (Expanded Edition)",
         "url": "https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC"
       },
@@ -679,26 +699,6 @@
       "duration_ms": 250266,
       "name": "Caught Up in the Rapture",
       "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Q's Jook Joint",
-        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        },
-        {
-          "name": "Tamia",
-          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
-        }
-      ],
-      "duration_ms": 373266,
-      "name": "You Put A Move On My Heart",
-      "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Harvest for the World",
+        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 323306,
+      "name": "(At Your Best) You Are Love",
+      "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "Patti LaBelle's Greatest Hits",
         "url": "https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R"
       },
@@ -1007,18 +1023,18 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Harvest for the World",
-        "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "Isley, Jasper, Isley",
+          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
         }
       ],
-      "duration_ms": 323306,
-      "name": "(At Your Best) You Are Love",
-      "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr"
+      "duration_ms": 341973,
+      "name": "Caravan of Love",
+      "url": "https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1039,22 +1055,6 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "Isley, Jasper, Isley",
-          "url": "https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0"
-        }
-      ],
-      "duration_ms": 341973,
-      "name": "Caravan of Love",
-      "url": "https://open.spotify.com/track/6IuoGXChH84tF9CT9PCN1h"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Giving You the Best That I Got",
-        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 333533,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Injoy",
         "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Propositions",
-        "url": "https://open.spotify.com/album/0ma0R91MtPMQ7mFj5OgY9j"
+        "name": "Giving You the Best That I Got",
+        "url": "https://open.spotify.com/album/2X4C9NBLaFtUSZLPqTC50W"
       },
       "artists": [
         {
-          "name": "The Bar-Kays",
-          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 347560,
-      "name": "Anticipation",
-      "url": "https://open.spotify.com/track/2Q9ED4G5mwlAaxvmkYmvLJ"
+      "duration_ms": 333533,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/2MJl8m9AbWgXLq4Ku7wWCX"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1311,6 +1295,22 @@
       "duration_ms": 216333,
       "name": "Pensando Nela",
       "url": "https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Propositions",
+        "url": "https://open.spotify.com/album/0ma0R91MtPMQ7mFj5OgY9j"
+      },
+      "artists": [
+        {
+          "name": "The Bar-Kays",
+          "url": "https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5"
+        }
+      ],
+      "duration_ms": 347560,
+      "name": "Anticipation",
+      "url": "https://open.spotify.com/track/2Q9ED4G5mwlAaxvmkYmvLJ"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Nossa Imagina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
+      },
+      "artists": [
+        {
+          "name": "Don Beto",
+          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Num Para\u00edso",
+      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
       },
@@ -1427,38 +1443,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 300133,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Nossa Imagina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
-      },
-      "artists": [
-        {
-          "name": "Don Beto",
-          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Num Para\u00edso",
-      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 290933,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 300133,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Me d\u00ea motivos",
-      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/3CEqEdl8uZkcsQA3GQSgk3"
       },
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/4Vx3zpym2018sqfXlZrotJ"
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
       },
       "artists": [
         {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Betcha By Golly Wow",
-      "url": "https://open.spotify.com/track/76oVHMIHm1UNWLEcCnrNG8"
+      "duration_ms": 291106,
+      "name": "Me d\u00ea motivos",
+      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1651,6 +1635,22 @@
       "duration_ms": 428240,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4Vx3zpym2018sqfXlZrotJ"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Betcha By Golly Wow",
+      "url": "https://open.spotify.com/track/76oVHMIHm1UNWLEcCnrNG8"
     },
     {
       "added_at": "2024-07-09 17:06:54",
