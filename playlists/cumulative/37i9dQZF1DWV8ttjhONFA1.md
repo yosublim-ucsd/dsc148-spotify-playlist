@@ -4,7 +4,7 @@
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: María Morgade
 
-320 songs - 17 hr 32 min
+321 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Imán](https://open.spotify.com/track/6Vj1uUX2vs393dbNnrR6E7) | [Rayos Láser](https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs) | [Imán](https://open.spotify.com/album/1sKMiYWHncPbOFtXLjod3v) | 3:14 | 2024-08-23 |  |
 | [Ir derecho](https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Hola Precioso](https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty) | 3:26 | 2023-12-15 | 2024-04-06 |
 | [Isita Querida](https://open.spotify.com/track/7Ga52DoqpLS1ZaGbMmBk6J) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey) | [Isita Querida](https://open.spotify.com/album/3DbxApzAXepZFisQtRLVqB) | 3:32 | 2024-09-13 |  |
+| [Jacuzzi](https://open.spotify.com/track/4SJ8b1hPttGLLzazwZo3vW) | [Tom Vin](https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc) | [Jacuzzi](https://open.spotify.com/album/70UID2Smd0NBuZewBcAYvN) | 3:37 | 2024-11-29 |  |
 | [JE NE SAIS QUOI](https://open.spotify.com/track/4tUn9uj21MoT5FppBWvE74) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [JE NE SAIS QUOI](https://open.spotify.com/album/3iNCBXsKMQ4SBKXu3Exb0s) | 2:59 | 2024-11-08 |  |
 | [la barrera](https://open.spotify.com/track/7MTx6v0rWL7SNGmUgZGXcD) | [planta](https://open.spotify.com/artist/5RdWxvvyhOcNMva8aeqb9E) | [la barrera](https://open.spotify.com/album/403S7pC3epOSAZsi8iccLH) | 3:12 | 2024-06-28 | 2024-08-03 |
 | [La Celebración](https://open.spotify.com/track/3lVRUt7knZi7KnHbrc8GIy) | [Muñecas](https://open.spotify.com/artist/0907nps0W3zhaeP01nR2a8) | [La Celebración](https://open.spotify.com/album/2pgLTKuvi57ychKC5LMbnM) | 3:44 | 2024-01-05 | 2024-04-06 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 413236,
+  "num_followers": 413329,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Lowdown",
-        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 195070,
-      "name": "Lowdown (part i)",
-      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 312066,
       "name": "Delicate",
       "url": "https://open.spotify.com/track/6MY1xABxoZATrEr4FeUhEM"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Lowdown",
+        "url": "https://open.spotify.com/album/3zAcB7KWAlpwoykugIGlcS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 195070,
+      "name": "Lowdown (part i)",
+      "url": "https://open.spotify.com/track/0gzP9UNr5OlCZWXhbsUaRs"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Un Cielo Azul",
-        "url": "https://open.spotify.com/album/1sIMLCiNQY9KbN2G0SbuDI"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "Un Cielo Azul",
-      "url": "https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 231000,
       "name": "Jesus, Etc.",
       "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Un Cielo Azul",
+        "url": "https://open.spotify.com/album/1sIMLCiNQY9KbN2G0SbuDI"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 177920,
+      "name": "Un Cielo Azul",
+      "url": "https://open.spotify.com/track/09LcdYR2CzdPromG5h9BQ5"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Aqua",
-        "url": "https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm"
-      },
-      "artists": [
-        {
-          "name": "DJ Suzy",
-          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
-        }
-      ],
-      "duration_ms": 153887,
-      "name": "Aqua",
-      "url": "https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Everyday Life",
         "url": "https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+        "name": "Aqua",
+        "url": "https://open.spotify.com/album/3yzdTUPD1Q8gInAZkHP3lm"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "DJ Suzy",
+          "url": "https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+      "duration_ms": 153887,
+      "name": "Aqua",
+      "url": "https://open.spotify.com/track/4iKJ7hwSzVdoI8MhnS6nAP"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -983,6 +967,22 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1215,38 +1215,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "donde van los perros",
-        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
-      },
-      "artists": [
-        {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        }
-      ],
-      "duration_ms": 124365,
-      "name": "yo as\u00ed",
-      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
-      },
-      "artists": [
-        {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Unspoken",
-      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
       },
@@ -1263,6 +1231,22 @@
       "duration_ms": 240622,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt"
+      },
+      "artists": [
+        {
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+        "name": "donde van los perros",
+        "url": "https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O"
       },
       "artists": [
         {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
         }
       ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+      "duration_ms": 124365,
+      "name": "yo as\u00ed",
+      "url": "https://open.spotify.com/track/0vqPCb8rLArvG8kvHLX2WG"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1315,6 +1299,22 @@
       "duration_ms": 205577,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3aseGyj0Q3XysLiHkv6Mwd"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Equilibri",
-        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
-      },
-      "artists": [
-        {
-          "name": "Guillem Roma",
-          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
-        }
-      ],
-      "duration_ms": 236462,
-      "name": "Equilibri",
-      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "La ventanita",
         "url": "https://open.spotify.com/album/1OP7vJmHVQJZRwjwdjEtoS"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 255168,
       "name": "La ventanita",
       "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Equilibri",
+        "url": "https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR"
+      },
+      "artists": [
+        {
+          "name": "Guillem Roma",
+          "url": "https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro"
+        }
+      ],
+      "duration_ms": 236462,
+      "name": "Equilibri",
+      "url": "https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp"
     },
     {
       "added_at": "2024-11-21 11:24:52",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-11-21 11:24:52",
       "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
-      },
-      "artists": [
-        {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
-    },
-    {
-      "added_at": "2024-11-21 11:24:52",
-      "album": {
         "name": "Ojos de Miel",
         "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 202886,
       "name": "Ojos de Miel",
       "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
+    },
+    {
+      "added_at": "2024-11-21 11:24:52",
+      "album": {
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2024-11-21 11:24:52",

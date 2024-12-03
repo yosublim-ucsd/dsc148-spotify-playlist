@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jacqui\(재키\)\)
 
-449 songs - 1 day 0 hr 28 min
+450 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [On Television](https://open.spotify.com/track/3DDxYH9abbGUXUeUwVVluA) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [On Television](https://open.spotify.com/album/2X6AqA8wXcPAVHrxW1mMlF) | 3:06 | 2022-05-28 | 2022-06-15 |
 | [Once \(feat\. J.O.Y\)](https://open.spotify.com/track/5DKXbkV2NsCOFBOWZILA2L) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Once](https://open.spotify.com/album/6LqHI2g0taFCS72SOZFXDP) | 3:10 | 2022-10-04 | 2023-03-28 |
 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 | 2022-06-18 | 2022-10-05 |
-| [Orange Clouds \(feat\. JUNNY\)](https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Orange Clouds](https://open.spotify.com/album/5aU6IDEb4SFEokay09FxXD) | 2:26 | 2024-08-21 |  |
+| [Orange Clouds \(feat\. JUNNY\)](https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Orange Clouds](https://open.spotify.com/album/5aU6IDEb4SFEokay09FxXD) | 2:26 | 2024-08-21 | 2024-12-03 |
 | [Ordinary](https://open.spotify.com/track/7eNqw8m9YmTgcKLeJU8WQr) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [That](https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL) | [Ordinary](https://open.spotify.com/album/1TexFuMSAaTiaxUqKxZBo6) | 3:27 | 2023-10-20 | 2024-01-09 |
 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 | 2022-09-17 | 2023-02-15 |
 | [Out of My Intention](https://open.spotify.com/track/4pU3FwCWErzsqHs4LnzpHi) | [WEN](https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE) | [Out of My Intention](https://open.spotify.com/album/3iTSukxhxuCtvyPkkBENLn) | 3:11 | 2022-07-27 | 2022-12-14 |
@@ -355,6 +355,7 @@
 | [Song For You](https://open.spotify.com/track/3crzIsiwlNfd7KsQ0NDSuY) | [Meijee](https://open.spotify.com/artist/4c1XgZSY8wkkEWeqb4bSHF) | [Song For You](https://open.spotify.com/album/05oeV9MVUR4vWtRQj7Ur7T) | 3:21 | 2024-01-08 | 2024-05-24 |
 | [Song for You](https://open.spotify.com/track/4U2KRmw8c5BA3P1uoheA2F) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Thanks For Nothing](https://open.spotify.com/album/6bHtQUErD1RD9NWYWsyGBk) | 3:11 | 2023-11-14 | 2024-05-01 |
 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-08 | 2023-01-21 |
+| [Sorry \(Feat\. Skinny Brown\)](https://open.spotify.com/track/0vONqdc0gHme3GxX6ySs80) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [Sorry \(Feat\. Skinny Brown\)](https://open.spotify.com/album/7wOVIDIXPWP5CbpB8nCxCI) | 2:59 | 2024-12-02 |  |
 | [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/track/0UaFnYtyBYf1DX6oiVtG3n) | [ONLEE](https://open.spotify.com/artist/673y8xDyKRPiixhztTAOIR), [Soo\-Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [Spi\-cy \(feat\. Soo\-Yeony\)](https://open.spotify.com/album/5wSgsjV4Wb93tcuM75oIEC) | 3:09 | 2024-02-13 | 2024-06-18 |
 | [Squat](https://open.spotify.com/track/2tAxxd0meQYAe9RV41J3fJ) | [SUMMER CAKE](https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm) | [Squat](https://open.spotify.com/album/3LB7rCViWkPB7fQhRNwiOR) | 2:40 | 2024-08-05 | 2024-09-21 |
 | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/track/1KD8juWhiZFJv0gcSpZVSQ) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [Start To Shine \(feat\. Gaeko\)](https://open.spotify.com/album/1J5q0SEeWRwm81k5dQS4nb) | 3:12 | 2023-11-06 | 2024-04-05 |

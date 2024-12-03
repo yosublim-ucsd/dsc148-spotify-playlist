@@ -4,7 +4,7 @@
 
 > Every legend has a beginning\. Listen to music from Arcane, now streaming on Netflix.
 
-118 songs - 5 hr 28 min
+119 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Promised Land](https://open.spotify.com/track/5KVmu1HZ7tBvqtMEVyv7dx) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis 75 \- Good Rockin' Tonight](https://open.spotify.com/album/34EYk8vvJHCUlNrpGxepea) | 2:53 | 2023-03-17 | 2024-08-11 |
 | [Promised Land](https://open.spotify.com/track/0SSKHTfyUmL8JUQtfpKcfB) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Promised Land](https://open.spotify.com/album/47pECKZZzoUQ2aug4zJLGv) | 2:53 | 2023-03-17 | 2024-04-19 |
 | [Rebel Heart \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5xvjnyg8FHPGRSkbAhjJh6) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 2:51 | 2024-11-23 |  |
-| [Remember Me \(Intro\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2pRtNNLoD4Ei1ELyzp3ATg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 1:40 | 2024-11-23 |  |
+| [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere) | 2:02 | 2024-12-02 |  |
+| [Remember Me \(Intro\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2pRtNNLoD4Ei1ELyzp3ATg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 1:40 | 2024-11-23 | 2024-12-03 |
 | [Renegade \(We Never Run\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3EV36iJa1lmFNutg3H7sUL) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Arcane League of Legends: Season 2 \(from the series Arcane League of Legends\)](https://open.spotify.com/album/6Db8Sq5w6Brg7lkpg7Y9ls) | 2:41 | 2024-11-12 |  |
 | [Return to Sender \- From "Girls! Girls! Girls!"](https://open.spotify.com/track/3uwIoa2emQILz6BmH6MtiW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Girls! Girls! Girls!](https://open.spotify.com/album/6wH0jlf2q1yCprUO5XWSdz) | 2:06 | 2023-03-17 | 2024-08-11 |
 | [Rock\-A\-Hula Baby](https://open.spotify.com/track/65ndJdPZmiV8egz8h3kPuf) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 1:59 | 2023-03-17 | 2024-08-11 |

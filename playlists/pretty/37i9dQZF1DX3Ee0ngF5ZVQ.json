@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Jenna Paulette",
-  "num_followers": 410750,
+  "num_followers": 410744,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Two Way Drive",
-        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
-      },
-      "artists": [
-        {
-          "name": "Hudson Westbrook",
-          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
-        }
-      ],
-      "duration_ms": 222275,
-      "name": "Two Way Drive",
-      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Diamondhead",
         "url": "https://open.spotify.com/album/3PH84CGXxf8KMw2r9JKvzc"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 187375,
       "name": "Diamondhead",
       "url": "https://open.spotify.com/track/1y76vWynOdnIbixqJvxD3e"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Two Way Drive",
+        "url": "https://open.spotify.com/album/2MdoS7jIyhi2WhQGKIjz1H"
+      },
+      "artists": [
+        {
+          "name": "Hudson Westbrook",
+          "url": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ"
+        }
+      ],
+      "duration_ms": 222275,
+      "name": "Two Way Drive",
+      "url": "https://open.spotify.com/track/46wzMJ7krzWFCVHyygJyas"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Angels & Heathens",
-        "url": "https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 198089,
-      "name": "Angels & Heathens",
-      "url": "https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Here's To You. Here's To Me.",
         "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 182318,
       "name": "Tennessee Drinkin'",
       "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Angels & Heathens",
+        "url": "https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 198089,
+      "name": "Angels & Heathens",
+      "url": "https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Times Are Changing",
-        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "Dylan Wheeler",
-          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 219481,
-      "name": "Shines Through",
-      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Settle for a Beer (with Triston Marez)",
-        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
+        "name": "Times Are Changing",
+        "url": "https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Dylan Wheeler",
+          "url": "https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87"
         }
       ],
-      "duration_ms": 174327,
-      "name": "Settle for a Beer (with Triston Marez)",
-      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
+      "duration_ms": 219481,
+      "name": "Shines Through",
+      "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Buy The World A Round",
-        "url": "https://open.spotify.com/album/6QJwRfuTj1e6V0c550goov"
+        "name": "That's What You Get",
+        "url": "https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
         }
       ],
-      "duration_ms": 167349,
-      "name": "Buy The World A Round",
-      "url": "https://open.spotify.com/track/3ywrTTUfMe5ZE7C9YypvbZ"
+      "duration_ms": 159841,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "That's What You Get",
-        "url": "https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT"
+        "name": "Buy The World A Round",
+        "url": "https://open.spotify.com/album/6QJwRfuTj1e6V0c550goov"
       },
       "artists": [
         {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 159841,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU"
+      "duration_ms": 167349,
+      "name": "Buy The World A Round",
+      "url": "https://open.spotify.com/track/3ywrTTUfMe5ZE7C9YypvbZ"
     },
     {
       "added_at": "2024-11-08 05:00:00",

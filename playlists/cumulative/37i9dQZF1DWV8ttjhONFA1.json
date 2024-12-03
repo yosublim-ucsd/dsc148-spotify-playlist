@@ -2891,6 +2891,24 @@
     },
     {
       "album": {
+        "name": "Jacuzzi",
+        "url": "https://open.spotify.com/album/70UID2Smd0NBuZewBcAYvN"
+      },
+      "artists": [
+        {
+          "name": "Tom Vin",
+          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217419,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/4SJ8b1hPttGLLzazwZo3vW"
+    },
+    {
+      "album": {
         "name": "JE NE SAIS QUOI",
         "url": "https://open.spotify.com/album/3iNCBXsKMQ4SBKXu3Exb0s"
       },

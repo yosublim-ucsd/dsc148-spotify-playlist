@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,752 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,755 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 60 | [Wonderland In Alice \- Big Band Live](https://open.spotify.com/track/6jdwA0zXqEaui8aezzT9He) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Big Band Live](https://open.spotify.com/album/5FUb1oEB1tVVnMM7dvb3hy) | 3:34 |
 | 61 | [W Ogniu Świat](https://open.spotify.com/track/48pnK9EaWQsRqKoULssa7h) | [Łysa Góra](https://open.spotify.com/artist/6Xg17Thy6fCXBdDUIBGhxb) | [W Ogniu Świat](https://open.spotify.com/album/7ulDdrMaeZ98frINLWfGOP) | 7:51 |
 | 62 | [IMAGO SWAN](https://open.spotify.com/track/1L80n5Kwmx1gCqMMJPH8wY) | [Smolik](https://open.spotify.com/artist/3QyqTTQgSUaa449m8u6vpR), [Y \(BOKKA\)](https://open.spotify.com/artist/4RJYkHAe8ApeuIHWYkWCWy) | [IMAGO \(Original Soundtrack\)](https://open.spotify.com/album/4yb4DjGDqV6u2T8i5vzQln) | 2:52 |
-| 63 | [Czas Nie Leczy Ran](https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj) | [CARNAL](https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Horyzont Zdarzeń](https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE) | 4:48 |
-| 64 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
+| 63 | [Most](https://open.spotify.com/track/3yqkdKHD11qU1RAe5PQffz) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Miłość w czasach](https://open.spotify.com/album/3VCM06D5AsitYLlsnLjxEU) | 2:55 |
+| 64 | [Czas Nie Leczy Ran](https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj) | [CARNAL](https://open.spotify.com/artist/4yquXnzIaiXlaAM1IwrFoN), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Horyzont Zdarzeń](https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE) | 4:48 |
 | 65 | [Patataj](https://open.spotify.com/track/0FXzxYSvqtuYVo2eby0sKd) | [Marika](https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR) | [Cykl](https://open.spotify.com/album/4E4u0bpAPC0XebcqwQB2U7) | 2:37 |
 | 66 | [Początek](https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup) | [Miuosh](https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX) | [Początek](https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY) | 4:31 |
 | 67 | [Fight First](https://open.spotify.com/track/1EtbFBabv9aemgBfvh3aY1) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH) | [Mother's Day \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5shDcdQoul4VBhEizLGRgf) | 2:43 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 69 | [Nucę, gwiżdżę sobie \(Canto Canto\)](https://open.spotify.com/track/4i4jC0dkDV7lTGjUGuEzQU) | [Dorota Miskiewicz](https://open.spotify.com/artist/28mPXJrs2VyZ6Phm1JBeaF), [Toninho Horta](https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk) | [Bons Amigos](https://open.spotify.com/album/3Jw4AYdB8n1eREIDwQSpwa) | 4:17 |
 | 70 | [Alkohol i miłość](https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5) | [Jan Emil Mlynarski](https://open.spotify.com/artist/798arzkDX7o9m093xCgLqw), [Brass Federacja](https://open.spotify.com/artist/0wXF2aKtDRH1IxDMQUrYq8), [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Narkotyki](https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp) | 3:30 |
 | 71 | [Pieśń baby](https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V) | [Same Suki](https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd) | [Dziadoskie piosenki o miłości](https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU) | 1:39 |
-| 72 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
-| 73 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
+| 72 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
+| 73 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
 | 74 | [Klucz](https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Piosenki domowe](https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV) | 2:16 |
 | 75 | [Kruszysz \(Szatt Remix\)](https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [p@Ran0j3](https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu) | 3:30 |
 | 76 | [Summerland](https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H) | [Matecki](https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w) | [Matecki](https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe) | 3:01 |

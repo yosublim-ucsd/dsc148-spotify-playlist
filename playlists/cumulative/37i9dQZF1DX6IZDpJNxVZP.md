@@ -4,7 +4,7 @@
 
 > Celebrate the season with these fun tracks
 
-313 songs - 13 hr 45 min
+317 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Christmas Magic Is Real](https://open.spotify.com/track/2FjDZXnhsnKnFgY1Juwdmw) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Christmas Magic Is Real](https://open.spotify.com/album/3wRPH0AezxzaVgQiUHJB4R) | 3:09 | 2024-11-21 |  |
 | [Christmas Time](https://open.spotify.com/track/3dEcwdMkpGKBqikwgjGXXv) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Christmas Time](https://open.spotify.com/album/3jOlSmUriGAdcDeSwZjgEH) | 2:42 | 2024-11-21 |  |
 | [Christmas Time](https://open.spotify.com/track/7zaBeDLJCht8KSvkvGIRje) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Pj Panda Christmas Party 2](https://open.spotify.com/album/4xIEYSi2W8tIE3O8km7GJ3) | 2:01 | 2024-11-21 |  |
+| [Christmas Time](https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg) | [The Fixies](https://open.spotify.com/artist/1GmIrV9vwP3OqwrvUI64nm) | [Christmas Time](https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC) | 2:05 | 2024-12-02 |  |
 | [Christmas with you](https://open.spotify.com/track/6jjAQS6XXVmVDUqpyOgs4v) | [Jools TV](https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN) | [Jools TV Christmas](https://open.spotify.com/album/355T45LxWwMhANrNznc4ZB) | 3:01 | 2024-11-21 |  |
 | [Costume Party](https://open.spotify.com/track/752gzqJYvYKjGfPOiGzEPS) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [The Pop Ups Essentials](https://open.spotify.com/album/0N4h5AoSW7S6u9KGeZ6N2H) | 4:25 | 2023-10-27 | 2024-04-19 |
 | [Costume Party](https://open.spotify.com/track/1Gac8490Qd6yH90MEYIRB3) | [Tps](https://open.spotify.com/artist/20uljvju3dv59k8Oz9dOtl) | [The Pop Ups Essentials](https://open.spotify.com/album/1OdJqRSvQ6RpVo85s17FCf) | 4:25 | 2021-09-10 | 2024-10-05 |
@@ -51,6 +52,7 @@
 | [December](https://open.spotify.com/track/0ldDNBNLg6qcoYSnWCAh0n) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [What Rhymes with Christmas?](https://open.spotify.com/album/572SOvoRt1WapSCxJDn4Mc) | 3:31 | 2024-11-21 |  |
 | [Deck The Halls](https://open.spotify.com/track/57BVt9b2z7W2Ih2TxfdNqs) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt) | [Dora's Christmas](https://open.spotify.com/album/06d3icNwTGKGMOP7SDsXaF) | 2:54 | 2024-11-21 |  |
 | [Deck the Halls](https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Holiday Classics](https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk) | 1:24 | 2024-11-26 |  |
+| [Deck The Halls](https://open.spotify.com/track/4gP2ESQlBm0drE6UUhmAr5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Deck the Halls with MusicClubKids!](https://open.spotify.com/album/6VwAB01urKaj2iAUNklGRZ) | 2:04 | 2024-12-02 |  |
 | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/track/2CByDfanNXrPwv6KRihe83) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Dem Bones \(The Skeleton Song\)](https://open.spotify.com/album/1xwaYpB7sL80dl0WOoXZRi) | 2:20 | 2024-10-18 | 2024-11-23 |
 | [Ding Dong The Witch Is Dead](https://open.spotify.com/track/5mkjplHZNNa8ebq0ZEucBh) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Halloween y diversión para peques](https://open.spotify.com/album/3l7nn2ZoTDBGnMrOzsB6dT) | 2:41 | 2022-10-11 | 2022-11-13 |
 | [Ding Dong The Witch Is Dead](https://open.spotify.com/track/0HtwOTyMC27b6I9xY3b5OH) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:54 | 2021-08-30 | 2023-10-03 |
@@ -147,8 +149,9 @@
 | [Jingle Bell Rock](https://open.spotify.com/track/5EhMLJgjf1vASv0X87iNWn) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Christmas Time](https://open.spotify.com/album/3ySm7zy9MAvDikteDQJ1wM) | 2:03 | 2024-11-21 |  |
 | [Jingle Bell Rock](https://open.spotify.com/track/4UUA9qltzLq1nCMXioOQTH) | [The Rock & Roll Playhouse](https://open.spotify.com/artist/22gB5FsgmeZI79hG1E5wal) | [HOLIDAYS ROCK!](https://open.spotify.com/album/0tEMmsMMWCsPNosJanxsbV) | 1:50 | 2024-11-21 |  |
 | [Jingle Bells](https://open.spotify.com/track/3Nzb7Hkh68YNf2NZxrmwbm) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Holiday Songs](https://open.spotify.com/album/6y7JyluWt7LUZ87vpwwhPq) | 2:34 | 2024-11-21 |  |
-| [Jingle Bells](https://open.spotify.com/track/2Bx7S1vltFwSWagtEjfNZ0) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Deck the Halls with MusicClubKids!](https://open.spotify.com/album/6VwAB01urKaj2iAUNklGRZ) | 2:01 | 2024-11-21 |  |
+| [Jingle Bells](https://open.spotify.com/track/2Bx7S1vltFwSWagtEjfNZ0) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Deck the Halls with MusicClubKids!](https://open.spotify.com/album/6VwAB01urKaj2iAUNklGRZ) | 2:01 | 2024-11-21 | 2024-12-03 |
 | [Jingle Bells](https://open.spotify.com/track/3GbvyzhCVaQq0grfcD9Y7O) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a), [Noodle & Pals](https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf) | [Jingle Bells](https://open.spotify.com/album/24QblNX1JE7KUBFrVhVvIQ) | 2:26 | 2024-11-21 |  |
+| [Jingle Meows](https://open.spotify.com/track/5sAxRoAmdnxftcCq7gIjkC) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Meowy Christmas](https://open.spotify.com/album/0k7nPAfUSUnmnUss7IwoBu) | 2:06 | 2024-12-02 |  |
 | [Joy to the World](https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Fall and Winter Holiday Songs for Kids](https://open.spotify.com/album/0pUwuW2CPzA7AmMcFwGOPU) | 2:32 | 2024-11-21 |  |
 | [Joy to the World](https://open.spotify.com/track/3cFuSTypYJO8LF2TYz8Ass) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Joy to the World](https://open.spotify.com/album/6e5Hmvy9OWlcAq8ucP7iS9) | 2:07 | 2024-11-21 |  |
 | [Just A Little Bit Scary](https://open.spotify.com/track/5rNp0eh9KNCRzZM85TzccP) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Peppa Pig Halloween Songs](https://open.spotify.com/album/73yMY9nSxq9bW3k4N3EGK6) | 2:40 | 2024-10-04 | 2024-11-23 |
@@ -160,6 +163,7 @@
 | [Little Ghost](https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:18 | 2021-09-10 | 2024-04-19 |
 | [Little Robin](https://open.spotify.com/track/4SJPaflFvYjlQlpVX5Rr9X) | [Tiny Totz Kidz](https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst), [Marc & Katt](https://open.spotify.com/artist/2xngCNPOK7JnX9yqEeThoC) | [Little Robin](https://open.spotify.com/album/0BmSWtUrRy0moqs5ZLGp1a) | 2:16 | 2024-11-21 |  |
 | [Little Shop Of Horrors](https://open.spotify.com/track/7iWCPjc2yyewvw9P188RKn) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween Party!](https://open.spotify.com/album/6CpueN14uwF290ufghdCgT) | 2:45 | 2021-09-10 | 2024-09-21 |
+| [LOCA NAVIDAD](https://open.spotify.com/track/2dVg3aNxEyDqHaj4VL7uTY) | [Picus](https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [LOCA NAVIDAD](https://open.spotify.com/album/59RAxEjafry6sNP6CPw06b) | 2:36 | 2024-12-02 |  |
 | [Love Potion No\. 9](https://open.spotify.com/track/2OQV5Wvz9b3POilgYoX7A6) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Trick or Treat! Halloween Party Hits for Kids](https://open.spotify.com/album/22PbJHM4CqBVq2X0auxQ00) | 2:03 | 2022-10-11 | 2022-11-13 |
 | [Love Potion No\. 9](https://open.spotify.com/track/39iy7IwDAcxziFZoOW3SDE) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Halloween for Kids: Party Songs and Sound Effects](https://open.spotify.com/album/25e7mAmvjKtrgM6K3eVxnt) | 2:03 | 2021-08-30 | 2024-09-21 |
 | [Love Potion No\. 9](https://open.spotify.com/track/6cxhVMUVolU0x2LfSeUpGe) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Kids Bop to the Oldies](https://open.spotify.com/album/5rYazUsuP7KAhK4DSNwwyz) | 2:03 | 2021-08-30 | 2024-04-19 |

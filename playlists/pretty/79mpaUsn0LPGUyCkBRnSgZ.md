@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 530 songs - 1 day 11 hr 39 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 529 songs - 1 day 11 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -529,14 +529,13 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 519 | [This Is Why](https://open.spotify.com/track/1EZWqtdpu8nw0uKGmWPz5a) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 2:55 |
 | 520 | [New Low](https://open.spotify.com/track/6Y2bJ2mjDB2zXmVBtVqdXf) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Two Star & The Dream Police](https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7) | 2:06 |
 | 521 | [I\. The Sun](https://open.spotify.com/track/3shp7WxHTjIWGTPf3Pww7c) | [The Microphones](https://open.spotify.com/artist/7Ht57YadlBXcFJDK3plmhO) | [Mount Eerie](https://open.spotify.com/album/5qvuDzzdqHFID4IlUMGZcb) | 17:11 |
-| 522 | [Hours Were the Birds](https://open.spotify.com/track/4IRrvuLi0cGNg3XED8H98j) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:11 |
-| 523 | [Secret History](https://open.spotify.com/track/3JXmhHzljGagSdPuCmqBpp) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Foxing](https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3) | 4:01 |
-| 524 | [Laughing Hieroglyphic](https://open.spotify.com/track/0YVDEtkT2SjdR5w7uIFcrj) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Down There](https://open.spotify.com/album/6ttLfw2Z9Wbxu3paarz6h0) | 6:49 |
-| 525 | [STANKA POOH](https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 |
-| 526 | [Phoenix](https://open.spotify.com/track/59NeiWt9ngaQQ9556Qy6vR) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 4:35 |
-| 527 | [Bop Gun \(Endangered Species\)](https://open.spotify.com/track/3fHrnF1MxAZaiGVkGIxM9h) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 8:35 |
-| 528 | [Introduction \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/42quL9yU8hlWW2w4oaxLGF) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 0:47 |
-| 529 | [I\. Midnight Moon Pool \(Womb Of The Soul\)](https://open.spotify.com/track/0hIIMnXX29I6IoJiKKWmFp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6), [Jamal Shakeri](https://open.spotify.com/artist/3B193UMTjl6fyV4ShzC4ve), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:25 |
-| 530 | [Silver](https://open.spotify.com/track/5fHQo2XBn6gQjlI7YbbVhl) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 3:19 |
+| 522 | [Secret History](https://open.spotify.com/track/3JXmhHzljGagSdPuCmqBpp) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Foxing](https://open.spotify.com/album/7wtRnGjfT3JMeseYGVzDy3) | 4:01 |
+| 523 | [Laughing Hieroglyphic](https://open.spotify.com/track/0YVDEtkT2SjdR5w7uIFcrj) | [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu) | [Down There](https://open.spotify.com/album/6ttLfw2Z9Wbxu3paarz6h0) | 6:49 |
+| 524 | [STANKA POOH](https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:01 |
+| 525 | [Phoenix](https://open.spotify.com/track/59NeiWt9ngaQQ9556Qy6vR) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Birdie](https://open.spotify.com/album/7BOqKE9agoJs91LXKd1pNy) | 4:35 |
+| 526 | [Bop Gun \(Endangered Species\)](https://open.spotify.com/track/3fHrnF1MxAZaiGVkGIxM9h) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 8:35 |
+| 527 | [Introduction \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/42quL9yU8hlWW2w4oaxLGF) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live At The Jazz Cafe, London](https://open.spotify.com/album/6CJecR5ViEgD3KxVGMmiRi) | 0:47 |
+| 528 | [I\. Midnight Moon Pool \(Womb Of The Soul\)](https://open.spotify.com/track/0hIIMnXX29I6IoJiKKWmFp) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [MIZU](https://open.spotify.com/artist/1ocXUwcqDsN6p6zRpAXOl6), [Jamal Shakeri](https://open.spotify.com/artist/3B193UMTjl6fyV4ShzC4ve), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:25 |
+| 529 | [Silver](https://open.spotify.com/track/5fHQo2XBn6gQjlI7YbbVhl) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | 3:19 |
 
-Snapshot ID: `AAAGwIuK4OJHvhEZW/T+/LYKrHPCv9cb`
+Snapshot ID: `AAAGwcgs2qmMQoW8CicQB86tRSeJ2gmi`

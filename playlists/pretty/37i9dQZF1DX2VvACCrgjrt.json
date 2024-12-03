@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
-  "num_followers": 450489,
+  "num_followers": 450542,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -893,26 +893,6 @@
       "url": "https://open.spotify.com/track/7pZJ7jGR6skYEkIYpjIE8b"
     },
     {
-      "added_at": "2024-08-16 14:10:04",
-      "album": {
-        "name": "Deeper Underground",
-        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 190476,
-      "name": "Deeper Underground",
-      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "4EVR",
@@ -939,6 +919,26 @@
       "duration_ms": 209785,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/6GbhVYLX4gDu3v5Tx2cnIH"
+    },
+    {
+      "added_at": "2024-08-16 14:10:04",
+      "album": {
+        "name": "Deeper Underground",
+        "url": "https://open.spotify.com/album/7FAxa5LoYrhF0WG900qKVO"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        },
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "Deeper Underground",
+      "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1641,6 +1641,26 @@
       "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Move It (with Luciana)",
+        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "duration_ms": 135238,
+      "name": "Move It (with Luciana)",
+      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Take Me Home",
@@ -1655,26 +1675,6 @@
       "duration_ms": 203760,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "DRENCH",
-        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
-        }
-      ],
-      "duration_ms": 197893,
-      "name": "DRENCH",
-      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Move It (with Luciana)",
-        "url": "https://open.spotify.com/album/7FpUw6piWqVDumd2HjnVT8"
+        "name": "DRENCH",
+        "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
       "artists": [
         {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
         },
         {
-          "name": "Luciana",
-          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
         }
       ],
-      "duration_ms": 135238,
-      "name": "Move It (with Luciana)",
-      "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
+      "duration_ms": 197893,
+      "name": "DRENCH",
+      "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1749,6 +1749,22 @@
       "url": "https://open.spotify.com/track/4KqaqznKWEHQPed6LHSvP8"
     },
     {
+      "added_at": "2024-08-30 20:19:56",
+      "album": {
+        "name": "CAN'T GET ENOUGH",
+        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "CANT GET ENOUGH",
+      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Take Control",
@@ -1767,22 +1783,6 @@
       "duration_ms": 169783,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/0zaa2DnLFJHgP6YmtKAh0K"
-    },
-    {
-      "added_at": "2024-08-30 20:19:56",
-      "album": {
-        "name": "CAN'T GET ENOUGH",
-        "url": "https://open.spotify.com/album/3iICcwqP3stzRSJ4cQjpYe"
-      },
-      "artists": [
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "CANT GET ENOUGH",
-      "url": "https://open.spotify.com/track/7glLHoodwXrILK4AP3de2k"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -1857,22 +1857,6 @@
       "url": "https://open.spotify.com/track/5BqlPcXL7312zS0r6nr1nZ"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Feel (Real Love)",
-        "url": "https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt"
-      },
-      "artists": [
-        {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
-        }
-      ],
-      "duration_ms": 161503,
-      "name": "Feel (Real Love)",
-      "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Mysterious World",
@@ -1895,6 +1879,22 @@
       "duration_ms": 180800,
       "name": "Mysterious World",
       "url": "https://open.spotify.com/track/1LmBykQ16lapbZCe6EJtAS"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Feel (Real Love)",
+        "url": "https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 161503,
+      "name": "Feel (Real Love)",
+      "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1949,38 +1949,6 @@
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/1NnmJZxlu6SJDYoW4ZUN5j"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 189214,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Certified",
-        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 175492,
-      "name": "Certified",
-      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "A Prayer",
@@ -1999,6 +1967,38 @@
       "duration_ms": 210000,
       "name": "A Prayer",
       "url": "https://open.spotify.com/track/0z5RBNQiOmQgGDiT8jnuiB"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/0TyvVgpxn616G6DGoA25VK"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 175492,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/6ZvL9vA6ZbSCNdpgdYjW12"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/1NnmJZxlu6SJDYoW4ZUN5j"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 189214,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/77WJjvXF8XVavIPXicIYW2"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2049,38 +2049,6 @@
       "url": "https://open.spotify.com/track/2I1B2f7SqXlL7oNdr2vTA4"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "THE VIBE",
-        "url": "https://open.spotify.com/album/6hyrYszbG7L821jwIw8CLK"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 157086,
-      "name": "THE VIBE",
-      "url": "https://open.spotify.com/track/2QS2ALpoBU65F4Du9umVXf"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Oldskool",
-        "url": "https://open.spotify.com/album/1z8f4TO7hSS6ZIVzQR3QZ3"
-      },
-      "artists": [
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        }
-      ],
-      "duration_ms": 181874,
-      "name": "Oldskool",
-      "url": "https://open.spotify.com/track/2eEhqIjo81t9CrLFbvSOhK"
-    },
-    {
       "added_at": "2024-06-24 15:40:12",
       "album": {
         "name": "The Power",
@@ -2099,6 +2067,22 @@
       "duration_ms": 197841,
       "name": "The Power",
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Oldskool",
+        "url": "https://open.spotify.com/album/1z8f4TO7hSS6ZIVzQR3QZ3"
+      },
+      "artists": [
+        {
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Oldskool",
+      "url": "https://open.spotify.com/track/2eEhqIjo81t9CrLFbvSOhK"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2137,6 +2121,26 @@
       "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Consume It",
+        "url": "https://open.spotify.com/album/5QkNAL0C8a1dnnAzAZCx07"
+      },
+      "artists": [
+        {
+          "name": "Where It's ATT",
+          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+        },
+        {
+          "name": "Veste",
+          "url": "https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O"
+        }
+      ],
+      "duration_ms": 183979,
+      "name": "Consume It",
+      "url": "https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Just Like You",
@@ -2153,24 +2157,20 @@
       "url": "https://open.spotify.com/track/6MjMhJwAjpz95raLuqncfD"
     },
     {
-      "added_at": "2024-09-13 04:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/4ExTMZjGWqX489ZxwDcUZJ"
+        "name": "THE VIBE",
+        "url": "https://open.spotify.com/album/6hyrYszbG7L821jwIw8CLK"
       },
       "artists": [
         {
-          "name": "zuezeu",
-          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
-        },
-        {
-          "name": "Maximo",
-          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
         }
       ],
-      "duration_ms": 182798,
-      "name": "Play Hard",
-      "url": "https://open.spotify.com/track/0Qi4jN9cFN7KNK538tFfQ2"
+      "duration_ms": 157086,
+      "name": "THE VIBE",
+      "url": "https://open.spotify.com/track/2QS2ALpoBU65F4Du9umVXf"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -2205,40 +2205,24 @@
       "url": "https://open.spotify.com/track/49AyVq86hvLmS2oljUiVDo"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Consume It",
-        "url": "https://open.spotify.com/album/5QkNAL0C8a1dnnAzAZCx07"
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/4ExTMZjGWqX489ZxwDcUZJ"
       },
       "artists": [
         {
-          "name": "Where It's ATT",
-          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+          "name": "zuezeu",
+          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
         },
         {
-          "name": "Veste",
-          "url": "https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O"
+          "name": "Maximo",
+          "url": "https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG"
         }
       ],
-      "duration_ms": 183979,
-      "name": "Consume It",
-      "url": "https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa"
-    },
-    {
-      "added_at": "2024-06-28 14:01:45",
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 172246,
-      "name": "Burnin'",
-      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
+      "duration_ms": 182798,
+      "name": "Play Hard",
+      "url": "https://open.spotify.com/track/0Qi4jN9cFN7KNK538tFfQ2"
     },
     {
       "added_at": "2024-08-09 04:00:00",
@@ -2275,6 +2259,22 @@
       "duration_ms": 173571,
       "name": "BAD",
       "url": "https://open.spotify.com/track/79rtchRTWKO4AjVKzIAgMy"
+    },
+    {
+      "added_at": "2024-06-28 14:01:45",
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/268RkyN1r2leuCx8VDzAmn"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 172246,
+      "name": "Burnin'",
+      "url": "https://open.spotify.com/track/0U7GpThxNI1BK3MzTVWl9e"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -2317,22 +2317,6 @@
       "url": "https://open.spotify.com/track/1n7TLaImP9HxG4FkfuLmT9"
     },
     {
-      "added_at": "2024-06-07 04:00:00",
-      "album": {
-        "name": "Underground Bass",
-        "url": "https://open.spotify.com/album/7s7xPtkRUBwwd1hng1mFtu"
-      },
-      "artists": [
-        {
-          "name": "zuezeu",
-          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
-        }
-      ],
-      "duration_ms": 139077,
-      "name": "Underground Bass",
-      "url": "https://open.spotify.com/track/2zkbb3hoLa8o1wPn2LfjN5"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "OVERDOSE",
@@ -2367,22 +2351,6 @@
       "duration_ms": 142857,
       "name": "Run It Now",
       "url": "https://open.spotify.com/track/51RyFJOz0BbV979nxqDgvq"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Nightcap",
-        "url": "https://open.spotify.com/album/6V5qLt3QspYLRe9Nz8dZ1K"
-      },
-      "artists": [
-        {
-          "name": "Cheyenne Giles",
-          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Nightcap",
-      "url": "https://open.spotify.com/track/5rh7fPHVG6Te556mfPeRUp"
     },
     {
       "added_at": "2024-08-16 14:00:00",
@@ -2423,6 +2391,38 @@
       "duration_ms": 196533,
       "name": "Out Past 2",
       "url": "https://open.spotify.com/track/636DZcUk6YMmdG0rliLJ9H"
+    },
+    {
+      "added_at": "2024-06-07 04:00:00",
+      "album": {
+        "name": "Underground Bass",
+        "url": "https://open.spotify.com/album/7s7xPtkRUBwwd1hng1mFtu"
+      },
+      "artists": [
+        {
+          "name": "zuezeu",
+          "url": "https://open.spotify.com/artist/3dEV8wac1UcsWRFAK3u2vQ"
+        }
+      ],
+      "duration_ms": 139077,
+      "name": "Underground Bass",
+      "url": "https://open.spotify.com/track/2zkbb3hoLa8o1wPn2LfjN5"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Nightcap",
+        "url": "https://open.spotify.com/album/6V5qLt3QspYLRe9Nz8dZ1K"
+      },
+      "artists": [
+        {
+          "name": "Cheyenne Giles",
+          "url": "https://open.spotify.com/artist/2FoyDZAnGzikijRdXrocmj"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Nightcap",
+      "url": "https://open.spotify.com/track/5rh7fPHVG6Te556mfPeRUp"
     }
   ],
   "unique_name": "Nasty Bits",

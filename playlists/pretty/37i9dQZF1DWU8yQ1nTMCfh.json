@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Samura\u00ef & Leo Rizzi",
-  "num_followers": 298352,
+  "num_followers": 298349,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
+        "name": "Escombros",
+        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "Todo Se Detiene Aqu\u00ed",
+      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
         "name": "LUNA 18",
         "url": "https://open.spotify.com/album/2lkLkEzDpDpGjIUHH7kavU"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 176160,
       "name": "MALAVIDA (feat. Evlay)",
       "url": "https://open.spotify.com/track/27nzBHeQnDC8WvJlHdbEr9"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
-        "name": "Escombros",
-        "url": "https://open.spotify.com/album/1YOyvYS2KAjRYHOydkvt61"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "Todo Se Detiene Aqu\u00ed",
-      "url": "https://open.spotify.com/track/2PoTLpuxPRcpMh5vou5clV"
     },
     {
       "added_at": "2024-11-22 04:55:21",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-11-22 04:55:21",
       "album": {
-        "name": "Una noche m\u00e1s (feat. Bruses)",
-        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
-      },
-      "artists": [
-        {
-          "name": "Walls",
-          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
-        },
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 183353,
-      "name": "Una noche m\u00e1s (feat. Bruses)",
-      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
-    },
-    {
-      "added_at": "2024-11-22 04:55:21",
-      "album": {
         "name": "Abismo",
         "url": "https://open.spotify.com/album/405HPdCPF2cZc2DM1PWda8"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 203438,
       "name": "INVESTIDO",
       "url": "https://open.spotify.com/track/2BJS8zYnk91hYVpX2m9OMz"
+    },
+    {
+      "added_at": "2024-11-22 04:55:21",
+      "album": {
+        "name": "Una noche m\u00e1s (feat. Bruses)",
+        "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
+      },
+      "artists": [
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 183353,
+      "name": "Una noche m\u00e1s (feat. Bruses)",
+      "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
     },
     {
       "added_at": "2024-11-22 04:55:21",

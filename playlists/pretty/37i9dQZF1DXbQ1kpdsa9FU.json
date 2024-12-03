@@ -1,6 +1,6 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always. Cover: <a href=\"spotify:artist:4sdhhi6q1Ez9l5PagQsykC\">Katy Nichole</a>",
-  "num_followers": 623406,
+  "num_followers": 623522,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Adoration",
-        "url": "https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "He Reigns",
-      "url": "https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Anything Worth Saying",
         "url": "https://open.spotify.com/album/5DVEKAMgnuDTdY1A0iRJJz"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 291986,
       "name": "My Savior My God",
       "url": "https://open.spotify.com/track/1syFMBjjRvL3uReOM8yWEb"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Adoration",
+        "url": "https://open.spotify.com/album/5F4yNhrLTICVqV3hMKdfig"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "He Reigns",
+      "url": "https://open.spotify.com/track/29CXyxlvSPr0DXDQmoxz8d"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Trial & Triumph",
-        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "No Impossible with You",
-      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/4E2bKrxenWFwywQT3h1VBc"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 298226,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/6lV8cAancMB859zfBUqpPZ"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Trial & Triumph",
+        "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "No Impossible with You",
+      "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "That Was Then, This Is Now",
-        "url": "https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "That Was Then, This Is Now",
-      "url": "https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Healer (Deluxe)",
         "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 227813,
       "name": "All Because of Mercy",
       "url": "https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "That Was Then, This Is Now",
+        "url": "https://open.spotify.com/album/1a2cVtWsamtbng2W0mgLPq"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 197880,
+      "name": "That Was Then, This Is Now",
+      "url": "https://open.spotify.com/track/3ji2WLLlpJmvvSOlAyqB6p"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
+        "name": "Peace Like A River: The Hymns Project",
+        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
+      },
+      "artists": [
+        {
+          "name": "Chris Rice",
+          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
+        }
+      ],
+      "duration_ms": 281866,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/4RwUojlT27f9qSH3W3Rm5O"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 256782,
       "name": "Greater Than All My Regrets",
       "url": "https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
-        "name": "Peace Like A River: The Hymns Project",
-        "url": "https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE"
-      },
-      "artists": [
-        {
-          "name": "Chris Rice",
-          "url": "https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2"
-        }
-      ],
-      "duration_ms": 281866,
-      "name": "Great Is Thy Faithfulness",
-      "url": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8"
     },
     {
       "added_at": "2024-06-23 01:51:00",

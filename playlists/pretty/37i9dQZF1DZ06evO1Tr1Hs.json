@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 33806,
+  "num_followers": 33862,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABfP/vA6mWKfnN8nzho/BPG",
+  "snapshot_id": "Z0unAAAAAAAVIO9Uc/u0KlQELB+qQP1M",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 95687,
-      "name": "It\u2019s Over",
-      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
+      "duration_ms": 158515,
+      "name": "Jennifer\u2019s Body",
+      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
     },
     {
       "added_at": null,
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 158515,
-      "name": "Jennifer\u2019s Body",
-      "url": "https://open.spotify.com/track/04hgBWsBDEyVP8pH0BCZbG"
+      "duration_ms": 95687,
+      "name": "It\u2019s Over",
+      "url": "https://open.spotify.com/track/6dhLnWxKnrrCszvUKRPkNq"
     },
     {
       "added_at": null,

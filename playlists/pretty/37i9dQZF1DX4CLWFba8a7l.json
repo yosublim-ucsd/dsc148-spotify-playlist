@@ -1,6 +1,6 @@
 {
   "description": "The home of Australian music. Cover: Royel Otis",
-  "num_followers": 124375,
+  "num_followers": 124385,
   "original_name": "The Local List",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 183377,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/3fdSaSpVjuR85yKGiGivd3"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/2QhqQtwYBua9polldlrK8W"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 124401,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
         "name": "Stop Thinking Start Feeling",
         "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 161562,
       "name": "And We",
       "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/4h5y3RQfceyaCLCjDAYZuo"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 124401,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"
     },
     {
       "added_at": "2024-08-30 00:24:34",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
     },
     {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Zorb",
-        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
-      },
-      "artists": [
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "duration_ms": 148689,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
-    },
-    {
       "added_at": "2024-09-05 14:00:00",
       "album": {
         "name": "The Second Act",
@@ -1255,6 +1239,38 @@
     {
       "added_at": "2024-08-30 00:24:34",
       "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "duration_ms": 156924,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2"
+    },
+    {
+      "added_at": "2024-08-30 00:24:34",
+      "album": {
         "name": "Caught in a Reverie",
         "url": "https://open.spotify.com/album/57mCFDpG3DjTa7LeD89Dsr"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 255000,
       "name": "Train Left The Station",
       "url": "https://open.spotify.com/track/2MRxpNwr8fccjiRMpa9zFA"
-    },
-    {
-      "added_at": "2024-08-30 00:24:34",
-      "album": {
-        "name": "Enough Of The Sweet Talk",
-        "url": "https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        }
-      ],
-      "duration_ms": 240137,
-      "name": "Enough Of The Sweet Talk",
-      "url": "https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x"
     }
   ],
   "unique_name": "The Local List",

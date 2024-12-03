@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-872 songs - 2 day 1 hr 37 min
+873 songs - 2 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,6 +580,7 @@
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-14 | 2022-09-27 |
 | [Phases Of The Moon](https://open.spotify.com/track/4V7J0Au7NmhmPV9WwKcr48) | [Embliss](https://open.spotify.com/artist/5MSK0EcJzGYAEgTCY7EIAa), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Phases Of The Moon](https://open.spotify.com/album/4KE7wS3749LiK3LZFjBVSW) | 4:18 | 2022-07-13 | 2022-09-27 |
 | [Pirate King](https://open.spotify.com/track/1NV11avfn4LPdPfncHxqE2) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [Pirate King](https://open.spotify.com/album/7gBalqzr8I5dFqHpdaxzid) | 3:37 | 2023-05-31 | 2023-08-28 |
+| [PLAY \- VIP](https://open.spotify.com/track/5aR1RuL4EFsiYFl99lkdbR) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PLAY \(VIP\)](https://open.spotify.com/album/1oQ70ZgRQdGhvGEzI45v2q) | 3:55 | 2024-12-02 |  |
 | [Play It Twice](https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Play It Twice](https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO) | 2:40 | 2024-06-12 | 2024-09-05 |
 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 | 2023-11-23 | 2024-03-07 |
 | [Portal](https://open.spotify.com/track/7Ifj94OvitrEBJolFPeBTN) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Portal](https://open.spotify.com/album/0oSIeNRjMe5z6wAJ0AB5xs) | 2:34 | 2024-02-12 | 2024-05-07 |
@@ -748,7 +749,7 @@
 | [Tell Me Why](https://open.spotify.com/track/3wAeOcZ8kILTJyUzFFuXjS) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG) | [Tell Me Why](https://open.spotify.com/album/307NaDYAnzReoOlpGLQwMz) | 3:21 | 2023-08-08 | 2023-12-14 |
 | [Tender](https://open.spotify.com/track/1Wb6hywune5SXJTczRgSk7) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV) | [Inner Voices](https://open.spotify.com/album/3YpG3KwKKLRjyJezGvSN3Z) | 3:14 | 2023-04-24 | 2023-07-22 |
 | [Tension](https://open.spotify.com/track/5fsPCB4c74rgxBtZI38DCE) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Jnathyn](https://open.spotify.com/artist/1zThDYJbVAPulAkfGTkcLk) | [Tension](https://open.spotify.com/album/5jAVsqobvDn8gH9DgMeyZU) | 3:41 | 2023-04-10 | 2023-07-05 |
-| [Terminal](https://open.spotify.com/track/5UiBPe2tMACirmcdSpjP13) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Terminal](https://open.spotify.com/album/4BtoDXCj6ktolMeu3Okxma) | 3:10 | 2024-09-09 |  |
+| [Terminal](https://open.spotify.com/track/5UiBPe2tMACirmcdSpjP13) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3), [SpaceYeti](https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ) | [Terminal](https://open.spotify.com/album/4BtoDXCj6ktolMeu3Okxma) | 3:10 | 2024-09-09 | 2024-12-03 |
 | [Tether](https://open.spotify.com/track/4DMLxt7joaC4OzbBKCC8I0) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Tether](https://open.spotify.com/album/0nP5bOmiy9MUhv8Gl6Vmqa) | 3:04 | 2024-11-05 |  |
 | [The Banana Song](https://open.spotify.com/track/1fTxD2WAaESaaXJqg2av2X) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [The Banana Song](https://open.spotify.com/album/3Z64U9gwzFb0CNy7bTC0Fs) | 2:45 | 2024-04-01 | 2024-06-18 |
 | [The Beginning](https://open.spotify.com/track/1U35E62tdlFBq983eG1Doc) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Beginning](https://open.spotify.com/album/5l9DDw8bohU7Ng6adq3OQ5) | 4:11 | 2024-06-26 | 2024-09-20 |
@@ -868,7 +869,7 @@
 | [Words Left Unsaid](https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Words Left Unsaid](https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG) | 4:08 | 2022-09-07 | 2022-11-08 |
 | [World Wide Web](https://open.spotify.com/track/65XS0xY3RjsXdn0Qzy3isF) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [World Wide Web](https://open.spotify.com/album/6gEqtjzCl19g1SjJu09MgT) | 2:38 | 2024-06-04 | 2024-08-24 |
 | [Worst Night of My Life](https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Worst Night of My Life](https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY) | 2:55 | 2024-05-20 | 2024-08-14 |
-| [Worthy](https://open.spotify.com/track/5UPI2X8D7949HFbRHoyYAe) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS) | [Silk Selections 01](https://open.spotify.com/album/5iIXHLFmPol8ATbxEuLQ87) | 2:56 | 2024-09-10 |  |
+| [Worthy](https://open.spotify.com/track/5UPI2X8D7949HFbRHoyYAe) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS) | [Silk Selections 01](https://open.spotify.com/album/5iIXHLFmPol8ATbxEuLQ87) | 2:56 | 2024-09-10 | 2024-12-03 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |
 | [Yesterday](https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Yesterday](https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM) | 4:33 | 2022-09-02 | 2022-11-05 |
 | [Yesterday \- Voicians Remix](https://open.spotify.com/track/7Mr4FBVQtgiv92xG2S8H68) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Yesterday \(Voicians Remix\)](https://open.spotify.com/album/5sbwe27UyyTgGl77szrT86) | 3:52 | 2023-12-11 | 2024-03-23 |

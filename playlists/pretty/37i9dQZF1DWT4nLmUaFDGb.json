@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 535003,
+  "num_followers": 535207,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "My Romance",
+        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
+      },
+      "artists": [
+        {
+          "name": "Lara Louise",
+          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
+        }
+      ],
+      "duration_ms": 170767,
+      "name": "My Romance",
+      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "My Romance",
-        "url": "https://open.spotify.com/album/6AvSqSUra3xOiwS6Y30Ztb"
-      },
-      "artists": [
-        {
-          "name": "Lara Louise",
-          "url": "https://open.spotify.com/artist/0rwgLdQ7uMiqUxEpMLOGyI"
-        }
-      ],
-      "duration_ms": 170767,
-      "name": "My Romance",
-      "url": "https://open.spotify.com/track/6YkOwCo6FUsyKTU8LcH1SY"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 208266,
       "name": "What a Difference a Day Makes",
       "url": "https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Dreaming Wide Awake",
+        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "I'm Confessin'",
+      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -731,22 +747,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Dreaming Wide Awake",
-        "url": "https://open.spotify.com/album/7AhMtlYN5CdfxJPVYzbjA9"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "I'm Confessin'",
-      "url": "https://open.spotify.com/track/5mgx7i86Ei9kDDrbm9LrRn"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Reawakened",
         "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 212323,
       "name": "Make You Feel My Love",
       "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "Soul Eyes",
-        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
-      },
-      "artists": [
-        {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
-        }
-      ],
-      "duration_ms": 224460,
-      "name": "Place To Hide",
-      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
+        "name": "Soul Eyes",
+        "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
+      },
+      "artists": [
+        {
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+        }
+      ],
+      "duration_ms": 224460,
+      "name": "Place To Hide",
+      "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 329306,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "Guitar Man",
-        "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "Since I Fell For You",
-      "url": "https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -871,8 +855,24 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "First Song",
-        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
+        "name": "Guitar Man",
+        "url": "https://open.spotify.com/album/4EW0ST9Wo4fpgqQsTqHrBe"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "Since I Fell For You",
+      "url": "https://open.spotify.com/track/2fcmS6jBbfEIzyubu8LuFb"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 283586,
-      "name": "First Song",
-      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -899,6 +899,22 @@
       "duration_ms": 196250,
       "name": "Lumi\u00e9re",
       "url": "https://open.spotify.com/track/18tXiBFeqeoNe3f8Ehwp2U"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "The Very Best Of Diana Krall",
+        "url": "https://open.spotify.com/album/6V0wO3QCv5hk6Y2ZAIICV4"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/7FJNoj4PwKGfkQJJu7I5GG"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -923,22 +939,6 @@
       "duration_ms": 204213,
       "name": "C'est si bon",
       "url": "https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
-        "name": "The Very Best Of Diana Krall",
-        "url": "https://open.spotify.com/album/6V0wO3QCv5hk6Y2ZAIICV4"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/7FJNoj4PwKGfkQJJu7I5GG"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+        "name": "First Song",
+        "url": "https://open.spotify.com/album/1pEd3r6P0ndDFIsKVTOMlA"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
         }
       ],
-      "duration_ms": 288693,
-      "name": "From Paris With Love - Single Version",
-      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
+      "duration_ms": 283586,
+      "name": "First Song",
+      "url": "https://open.spotify.com/track/5oJrUTDfQw5B8XHwPOudVn"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1591,18 +1591,22 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "I'll Be Seeing You",
-        "url": "https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy"
+        "name": "Wild Is Love",
+        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
       },
       "artists": [
         {
-          "name": "Lauren Coleman",
-          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
+          "name": "Naama",
+          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
         }
       ],
-      "duration_ms": 150349,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01"
+      "duration_ms": 222533,
+      "name": "Wild Is Love",
+      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -1627,22 +1631,18 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Wild Is Love",
-        "url": "https://open.spotify.com/album/1KaPoOODukFswUMyjlK2ec"
+        "name": "I'll Be Seeing You",
+        "url": "https://open.spotify.com/album/2OsdUvKFnHmZcPE0aSH6Fy"
       },
       "artists": [
         {
-          "name": "Naama",
-          "url": "https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg"
-        },
-        {
-          "name": "Peter Bernstein",
-          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+          "name": "Lauren Coleman",
+          "url": "https://open.spotify.com/artist/5JOlU2tPubDKg4i4W5ixek"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Wild Is Love",
-      "url": "https://open.spotify.com/track/1DKnLQHPxHB7bMgewS3JSk"
+      "duration_ms": 150349,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/0sGzxxnh6MTgrfP8zQjW01"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Mr Bojangles",
-        "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
-      },
-      "artists": [
-        {
-          "name": "Kareen Guiock-Thuram",
-          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
-        }
-      ],
-      "duration_ms": 283413,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/0qZdZ0QoQbmGa0Tlk9U8Wj"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 236367,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/70QKAYi7qsHlug2lYFiMi2"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Mr Bojangles",
+        "url": "https://open.spotify.com/album/0afzBbT854T6FpmF3IYU5g"
+      },
+      "artists": [
+        {
+          "name": "Kareen Guiock-Thuram",
+          "url": "https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER"
+        }
+      ],
+      "duration_ms": 283413,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/3vUiGKmDz5Nef45PoYvrgh"
     },
     {
       "added_at": "2024-11-15 04:00:00",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2024-11-15 04:00:00",
       "album": {
-        "name": "Fly Baby",
-        "url": "https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 340906,
-      "name": "Fly Baby",
-      "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
-    },
-    {
-      "added_at": "2024-11-15 04:00:00",
-      "album": {
         "name": "I Need Your Love",
         "url": "https://open.spotify.com/album/7FiZVylKJmgNbDXsz5VBav"
       },
@@ -2267,6 +2251,22 @@
       "duration_ms": 260377,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/68uxsEa7j2Y4c0bj9aITND"
+    },
+    {
+      "added_at": "2024-11-15 04:00:00",
+      "album": {
+        "name": "Fly Baby",
+        "url": "https://open.spotify.com/album/2IQrPYvg1qzeCgQzu2yoRR"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 340906,
+      "name": "Fly Baby",
+      "url": "https://open.spotify.com/track/76d3gxECEq5FO4qeUaOW9I"
     },
     {
       "added_at": "2024-11-15 04:00:00",

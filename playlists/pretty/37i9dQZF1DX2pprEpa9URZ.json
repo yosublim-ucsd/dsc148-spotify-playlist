@@ -1,6 +1,6 @@
 {
   "description": "Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 796422,
+  "num_followers": 796555,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Above",
+        "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "Writings",
+      "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "MILLONARIO",
         "url": "https://open.spotify.com/album/6UXi1QSobQHrBzIhhcJnC3"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 180863,
       "name": "MILLONARIO",
       "url": "https://open.spotify.com/track/7w1P7RrOvQf9MX7XQ2nYDF"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/18lMSHn83ZSakMsR80Or3I"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Writings",
-      "url": "https://open.spotify.com/track/0dZ8mcRlvdvHfUEwxPkb5B"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Secreto",
-        "url": "https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT"
-      },
-      "artists": [
-        {
-          "name": "Saive",
-          "url": "https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ"
-        },
-        {
-          "name": "MUTA",
-          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
-        }
-      ],
-      "duration_ms": 321760,
-      "name": "Secreto",
-      "url": "https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Experiencing a Significant Gravitas Shortfall",
         "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 292000,
       "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
       "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Secreto",
+        "url": "https://open.spotify.com/album/5FmgMaL2u61aYGCp9E7PwT"
+      },
+      "artists": [
+        {
+          "name": "Saive",
+          "url": "https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ"
+        },
+        {
+          "name": "MUTA",
+          "url": "https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9"
+        }
+      ],
+      "duration_ms": 321760,
+      "name": "Secreto",
+      "url": "https://open.spotify.com/track/5KjqHWEssr7QRnRnTZfOQN"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -903,26 +903,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Isoc\u00e8le",
-        "url": "https://open.spotify.com/album/7eefzhk8CMOVNa1PmRTCuM"
-      },
-      "artists": [
-        {
-          "name": "Kora (CA)",
-          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
-        },
-        {
-          "name": "Wuachuma",
-          "url": "https://open.spotify.com/artist/6aD1s6Aopus9Yguowm39qJ"
-        }
-      ],
-      "duration_ms": 408750,
-      "name": "Isoc\u00e8le",
-      "url": "https://open.spotify.com/track/1vTA55KnE5wEsI8E5tp5jc"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 391511,
       "name": "Jendayi",
       "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Isoc\u00e8le",
+        "url": "https://open.spotify.com/album/7eefzhk8CMOVNa1PmRTCuM"
+      },
+      "artists": [
+        {
+          "name": "Kora (CA)",
+          "url": "https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9"
+        },
+        {
+          "name": "Wuachuma",
+          "url": "https://open.spotify.com/artist/6aD1s6Aopus9Yguowm39qJ"
+        }
+      ],
+      "duration_ms": 408750,
+      "name": "Isoc\u00e8le",
+      "url": "https://open.spotify.com/track/1vTA55KnE5wEsI8E5tp5jc"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Magic Workout",
         "url": "https://open.spotify.com/album/3Pxw0B2kNOVpHs4A0xaIY7"
       },
@@ -1011,42 +1027,26 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Searching for God",
-        "url": "https://open.spotify.com/album/10O5gRr7y9K9F9JGB8CH7Y"
+        "name": "Serbet",
+        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
       "artists": [
         {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+          "name": "Dim Angelo",
+          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
         },
         {
-          "name": "David Satori",
-          "url": "https://open.spotify.com/artist/7B0gYSjdSuAYoQB0REnkhF"
+          "name": "Christos Papadopoulos",
+          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
         },
         {
-          "name": "GLITTER COWBOY",
-          "url": "https://open.spotify.com/artist/1Yy5RYgVvNZRA6ghwpxTuZ"
+          "name": "Meditelectro",
+          "url": "https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Searching for God",
-      "url": "https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+      "duration_ms": 312000,
+      "name": "Serbet",
+      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1087,26 +1087,26 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Serbet",
-        "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
+        "name": "Searching for God",
+        "url": "https://open.spotify.com/album/10O5gRr7y9K9F9JGB8CH7Y"
       },
       "artists": [
         {
-          "name": "Dim Angelo",
-          "url": "https://open.spotify.com/artist/2HN3iAUI25PURpr57IivF2"
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
         },
         {
-          "name": "Christos Papadopoulos",
-          "url": "https://open.spotify.com/artist/0OM0XQMApr269J1w5y6FEn"
+          "name": "David Satori",
+          "url": "https://open.spotify.com/artist/7B0gYSjdSuAYoQB0REnkhF"
         },
         {
-          "name": "Meditelectro",
-          "url": "https://open.spotify.com/artist/4ht1IrZ4XwPooQ7C4rUNvg"
+          "name": "GLITTER COWBOY",
+          "url": "https://open.spotify.com/artist/1Yy5RYgVvNZRA6ghwpxTuZ"
         }
       ],
-      "duration_ms": 312000,
-      "name": "Serbet",
-      "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
+      "duration_ms": 192786,
+      "name": "Searching for God",
+      "url": "https://open.spotify.com/track/4SZWmVyhFYzpYt0NYmsVFR"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1131,42 +1131,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
-        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
-      },
-      "artists": [
-        {
-          "name": "David Rausch",
-          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
-        },
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 431565,
-      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
-      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Patika",
-        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
-      },
-      "artists": [
-        {
-          "name": "Hezarfen",
-          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
-        }
-      ],
-      "duration_ms": 333818,
-      "name": "Patika",
-      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Bem a Tempo (Yemanjo Remix)",
         "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
       },
@@ -1187,6 +1151,42 @@
       "duration_ms": 337714,
       "name": "Bem a Tempo - Yemanjo Remix",
       "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Patika",
+        "url": "https://open.spotify.com/album/0TG92bm0MKdGNIsuPWNwzJ"
+      },
+      "artists": [
+        {
+          "name": "Hezarfen",
+          "url": "https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx"
+        }
+      ],
+      "duration_ms": 333818,
+      "name": "Patika",
+      "url": "https://open.spotify.com/track/0enM3iefQE7ad53N2wLnl5"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Hands (Santi & Tu\u011f\u00e7e Remix)",
+        "url": "https://open.spotify.com/album/58wM4X24As1sjTJGQBAj77"
+      },
+      "artists": [
+        {
+          "name": "David Rausch",
+          "url": "https://open.spotify.com/artist/2rGVkwUEaofowUjyWnQMXG"
+        },
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 431565,
+      "name": "Hands - Santi & Tu\u011f\u00e7e Remix",
+      "url": "https://open.spotify.com/track/1LLhIi8oYXPWYbRp0JdaU6"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
-        "name": "Astavakra",
-        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
-      },
-      "artists": [
-        {
-          "name": "Sadhu Sensi",
-          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
-        }
-      ],
-      "duration_ms": 420215,
-      "name": "Astavakra",
-      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
@@ -1299,26 +1283,6 @@
       "duration_ms": 401815,
       "name": "Wawanko",
       "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Barullo",
-        "url": "https://open.spotify.com/album/0DX3e9I4Y5xz0HwGEawcLF"
-      },
-      "artists": [
-        {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
-        },
-        {
-          "name": "Ant\u00eda Ameixeiras",
-          "url": "https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh"
-        }
-      ],
-      "duration_ms": 206533,
-      "name": "S\u00edsamo",
-      "url": "https://open.spotify.com/track/5scy2sjWAZWgTyPRvPUCRg"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1339,6 +1303,42 @@
       "duration_ms": 193306,
       "name": "La Isla - Radio Version",
       "url": "https://open.spotify.com/track/2bwr0a2bbCfx3txaJ1uGro"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Astavakra",
+        "url": "https://open.spotify.com/album/1UjQXx7W5aoyUJi0wBgHZo"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Sensi",
+          "url": "https://open.spotify.com/artist/3Muhm9HEowEpdC0i6NuW3P"
+        }
+      ],
+      "duration_ms": 420215,
+      "name": "Astavakra",
+      "url": "https://open.spotify.com/track/2vW8K1C2Vj81beuKOvBdf9"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
+        "name": "Barullo",
+        "url": "https://open.spotify.com/album/0DX3e9I4Y5xz0HwGEawcLF"
+      },
+      "artists": [
+        {
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+        },
+        {
+          "name": "Ant\u00eda Ameixeiras",
+          "url": "https://open.spotify.com/artist/20l9cWx7i3D25HB47521qh"
+        }
+      ],
+      "duration_ms": 206533,
+      "name": "S\u00edsamo",
+      "url": "https://open.spotify.com/track/5scy2sjWAZWgTyPRvPUCRg"
     },
     {
       "added_at": "2024-11-15 10:17:57",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-11-15 10:17:57",
       "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
+    },
+    {
+      "added_at": "2024-11-15 10:17:57",
+      "album": {
         "name": "Gotta Let You Go (Radio Mix)",
         "url": "https://open.spotify.com/album/6IZC0cWRcb6v1dODpZevqA"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 178536,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/61zy0ub0pLKsqwtpoXjCyh"
-    },
-    {
-      "added_at": "2024-11-15 10:17:57",
-      "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2024-11-15 10:17:57",

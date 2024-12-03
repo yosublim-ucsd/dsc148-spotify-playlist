@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 101166,
+  "num_followers": 101208,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,26 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Aqui Vou Eu",
+        "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
+      },
+      "artists": [
+        {
+          "name": "Ipalpha Nova",
+          "url": "https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM"
+        },
+        {
+          "name": "Ipalpha",
+          "url": "https://open.spotify.com/artist/4L2uFeD7eBwcr6HVanlvNg"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Aqui Vou Eu",
+      "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "minha vida",
         "url": "https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY"
       },
@@ -803,26 +823,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Aqui Vou Eu",
-        "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
-      },
-      "artists": [
-        {
-          "name": "Ipalpha Nova",
-          "url": "https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM"
-        },
-        {
-          "name": "Ipalpha",
-          "url": "https://open.spotify.com/artist/4L2uFeD7eBwcr6HVanlvNg"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Aqui Vou Eu",
-      "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Deixar para Tr\u00e1s",
         "url": "https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ"
       },
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Todo Meu Viver (Ac\u00fastico) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw"
-      },
-      "artists": [
-        {
-          "name": "Margem Norte",
-          "url": "https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1"
-        },
-        {
-          "name": "Cristiano Halabi",
-          "url": "https://open.spotify.com/artist/6UbiNQAO1m9RvbBx9dSF0M"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
-      "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Faltava Voc\u00ea",
         "url": "https://open.spotify.com/album/2VRthZpnrLNcoM9gvy5717"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 194643,
       "name": "Faltava Voc\u00ea",
       "url": "https://open.spotify.com/track/2p9hwoULyrP14ccQmIMqFO"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Todo Meu Viver (Ac\u00fastico) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1tUx1ptJZcFhPsWjGu6igw"
+      },
+      "artists": [
+        {
+          "name": "Margem Norte",
+          "url": "https://open.spotify.com/artist/1qRtV6ebPkjaHAxXM4Mzi1"
+        },
+        {
+          "name": "Cristiano Halabi",
+          "url": "https://open.spotify.com/artist/6UbiNQAO1m9RvbBx9dSF0M"
+        }
+      ],
+      "duration_ms": 197120,
+      "name": "Todo Meu Viver (Ac\u00fastico) - Ao Vivo",
+      "url": "https://open.spotify.com/track/7yjp2QATsMpOhxj7lY4ywv"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Rota",
+        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lopes",
+          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
+        }
+      ],
+      "duration_ms": 196032,
+      "name": "Rota",
+      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Esque\u00e7o At\u00e9 o Tempo",
         "url": "https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 160050,
       "name": "Esque\u00e7o At\u00e9 o Tempo",
       "url": "https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Rota",
-        "url": "https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lopes",
-          "url": "https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds"
-        }
-      ],
-      "duration_ms": 196032,
-      "name": "Rota",
-      "url": "https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 199864,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Casulo",
         "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 219903,
       "name": "Casulo",
       "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        }
+      ],
+      "duration_ms": 199864,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
     },
     {
       "added_at": "2024-11-29 03:01:00",

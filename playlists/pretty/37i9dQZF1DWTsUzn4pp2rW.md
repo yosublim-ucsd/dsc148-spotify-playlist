@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,792 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,853 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,11 +85,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 75 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
 | 76 | [Softer Than You Know](https://open.spotify.com/track/24zUpGZ4tPI7gdkHiiv2xS) | [Frans Bak](https://open.spotify.com/artist/4KyULSYP9ZU6WBnUfvudjG), [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw) | [Softer Than You Know](https://open.spotify.com/album/7gIixEPeXj189Kzw4PHCXu) | 3:28 |
 | 77 | [Loneliness](https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Loneliness](https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd) | 3:05 |
-| 78 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 |
-| 79 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 |
-| 80 | [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 |
-| 81 | [Snowflakes](https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf) | [Jorunn Westeraas](https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18), [Hege Saugstad](https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT), [Monika Gellein Mathisen](https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym) | [Snowflakes](https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI) | 3:44 |
-| 82 | [Best Time Of The Year](https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW) | [Budbud](https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF) | [Best Time Of The Year](https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq) | 3:09 |
+| 78 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 |
+| 79 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 |
+| 80 | [Best Time Of The Year](https://open.spotify.com/track/3hM4XcR3YV4YvF77FhqYXW) | [Budbud](https://open.spotify.com/artist/6nuMsxPeVPwxtuApXX53zF) | [Best Time Of The Year](https://open.spotify.com/album/1t9PkXJNNyLWCMUtE7fIgq) | 3:09 |
+| 81 | [The Light](https://open.spotify.com/track/32vvYSbLEh6ArgrO14b05N) | [A Blue Flame](https://open.spotify.com/artist/38HZpPrz1oAtH4g0pq1oUo) | [Love Rushes Past](https://open.spotify.com/album/50bndooKOa7btzN0Y4vNC0) | 2:40 |
+| 82 | [Snowflakes](https://open.spotify.com/track/3Hbylm12DZXnOJQBdBkOaf) | [Jorunn Westeraas](https://open.spotify.com/artist/6h4qPRsCLMPKVrW7nbLn18), [Hege Saugstad](https://open.spotify.com/artist/5qsnbEMK2eQMFSAyP6BsNT), [Monika Gellein Mathisen](https://open.spotify.com/artist/4ItYdjOC69BL5Y6yETcTym) | [Snowflakes](https://open.spotify.com/album/7M6CJaL7NXBG7EWRnsizuI) | 3:44 |
 | 83 | [Peace \- First Sessions Demo](https://open.spotify.com/track/3vRI7xtLs0VT1qSmUPp2GT) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Midnight Jones](https://open.spotify.com/album/3kpeKSfKLSGSH8xeYjayfg) | 3:53 |
 | 84 | [forever](https://open.spotify.com/track/5XHkF1XgwokzNEr7t3DWaY) | [Jol!e](https://open.spotify.com/artist/4PtqczgLjMiM0hO0zUQqkq) | [forever](https://open.spotify.com/album/3YNCXsidsTFYglcWYLIZLh) | 3:39 |
 | 85 | [Do It Anyway](https://open.spotify.com/track/7aolyumzZqw1og9ztMmNZG) | [Keith Cuts](https://open.spotify.com/artist/0h4NIiGxZcD1K0Vu6pO0rN) | [Do It Anyway](https://open.spotify.com/album/02MwUDPORy0V7VNQsaCyZa) | 3:35 |

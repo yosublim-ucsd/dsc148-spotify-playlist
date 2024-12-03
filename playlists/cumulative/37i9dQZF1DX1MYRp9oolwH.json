@@ -4408,7 +4408,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 395000,
       "name": "Premisthunna",
       "url": "https://open.spotify.com/track/7AsXXnob7TO0xfVkjXM88Q"
@@ -4522,6 +4522,32 @@
       "duration_ms": 199072,
       "name": "Sammohanuda (From \"Rules Ranjann\")",
       "url": "https://open.spotify.com/track/0kB5Nih2zCKYAhgszQbp35"
+    },
+    {
+      "album": {
+        "name": "Sanchari Sanchari (From \"Sarangapani Jathakam\")",
+        "url": "https://open.spotify.com/album/6YtmBnsaymyixG6hsnNS9m"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230833,
+      "name": "Sanchari Sanchari (From \"Sarangapani Jathakam\")",
+      "url": "https://open.spotify.com/track/4eobR9FwEKJQzOara1xhjb"
     },
     {
       "album": {

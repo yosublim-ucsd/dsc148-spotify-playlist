@@ -4,7 +4,7 @@
 
 > Your chill anime soundtrack\. Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-110 songs - 7 hr 38 min
+111 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Kawaikute Gomen \- Jersey Ver.](https://open.spotify.com/track/50Y3pemX2Q9zAdrml1IoJt) | [MachiChunky](https://open.spotify.com/artist/2wDiLp8j4n3HWvhT5WmXGf), [Ales](https://open.spotify.com/artist/6HfUTsn7MNw2QfpyGYXQzE) | [Kawaikute Gomen \(Jersey Ver.\)](https://open.spotify.com/album/1EVB68wQKxfyOuNylSL81z) | 1:55 | 2023-10-18 | 2023-11-16 |
 | [know me...](https://open.spotify.com/track/2E5ysbHpbYGmJvwyhQubaG) | [Kairi Yagi](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [know me...](https://open.spotify.com/album/36lFXBqcHUeZAW9Cij58xE) | 3:30 | 2023-11-16 | 2024-02-02 |
 | [Lemon](https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:15 | 2023-01-05 |  |
+| [lemonade](https://open.spotify.com/track/0EyViwXzoKDRKUtLczjJwL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:06 | 2024-12-03 |  |
 | [Let There Be Light Again](https://open.spotify.com/track/0YCz0CKKxSx1Ezk0HsYnHI) | [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/2T9PfTuP5ovbfpM7wv6nez) | 3:47 | 2023-01-05 | 2023-04-29 |
 | [Let There Be Light Again](https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Let There Be Light Again](https://open.spotify.com/album/6uQ4JRkPUIbk757knVVIZS) | 3:47 | 2023-04-18 | 2024-01-11 |
 | [Lil Bit \(feat\. Asako Toki\)](https://open.spotify.com/track/5B9pSYUOuY2CMaLedqpvXI) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Connection](https://open.spotify.com/album/3iFigjuA451SneLjONrGiK) | 3:44 | 2024-09-27 |  |
@@ -74,7 +75,7 @@
 | [Where the Wind Blows](https://open.spotify.com/track/51iiBOpcbxJQWf1cI8kSf6) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 4:32 | 2023-01-05 | 2024-04-19 |
 | [Why](https://open.spotify.com/track/4rRjyhJb6dysfPM8QYsct0) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Why / Life](https://open.spotify.com/album/59uiaEUK0EFBw2NeepYpLz) | 4:10 | 2024-02-01 | 2024-04-02 |
 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 | 2023-01-05 |  |
-| [いい湯だな](https://open.spotify.com/track/2CB5Cqj4j5RaUJRw8U4KpG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [いい湯だな](https://open.spotify.com/album/51pzkf8OJNPjGHHN8uyqnW) | 2:11 | 2024-10-25 |  |
+| [いい湯だな](https://open.spotify.com/track/2CB5Cqj4j5RaUJRw8U4KpG) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [いい湯だな](https://open.spotify.com/album/51pzkf8OJNPjGHHN8uyqnW) | 2:11 | 2024-10-25 | 2024-12-03 |
 | [こまりわらい](https://open.spotify.com/track/2n3VVGO20mQskqGRUu4T1w) | [Toshiki Kondo](https://open.spotify.com/artist/47mtfnpiYoo0J3dFIvYUVp) | [こまりわらい](https://open.spotify.com/album/00DeFhBiMsWTraxBRxu7PZ) | 3:25 | 2024-11-05 |  |
 | [すずめ](https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 3:58 | 2024-04-02 |  |
 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 | 2023-11-16 |  |

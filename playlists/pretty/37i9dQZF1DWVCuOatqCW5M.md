@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Jonita Gandhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,669 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,707 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Noorie \(Two Sides\)](https://open.spotify.com/track/6anbGnPg1pnNRMlnNPMRa7) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm), [Khayyam](https://open.spotify.com/artist/4T2mXoFdZeElsR7yoeKUbi), [Jan Nisar Akhtar](https://open.spotify.com/artist/6caDRdsPQP2fU1tpgrsQfi) | [Noorie \(Two Sides\)](https://open.spotify.com/album/7Hfnkeqs2bRNUWchMhlyq7) | 3:32 |
 | 2 | [Homa Dol](https://open.spotify.com/track/5zESOpfyevtuiHio0fKQLI) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Homa Dol](https://open.spotify.com/album/4ALhNQBe5d7ldWlmzyxAQ1) | 4:05 |
 | 3 | [Tum Ho Toh](https://open.spotify.com/track/2LUY01YYiSU1LxoyX1ERwQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Tum Ho Toh](https://open.spotify.com/album/5TUa65Q467b458wmCXw1wb) | 2:51 |
-| 4 | [Afghaani Afeem Hai](https://open.spotify.com/track/1yIcqvOuIPik618W3keOhi) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Afghaani Afeem Hai](https://open.spotify.com/album/5vXSOWaQIFaEqmJ9IHi8Mg) | 2:41 |
+| 4 | [Afghani Afeem Hai](https://open.spotify.com/track/1yIcqvOuIPik618W3keOhi) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Afghani Afeem Hai](https://open.spotify.com/album/5vXSOWaQIFaEqmJ9IHi8Mg) | 2:41 |
 | 5 | [Hadh Se](https://open.spotify.com/track/65TcKwxfrWZuKZs1W5OfQj) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Hadh Se](https://open.spotify.com/album/4wa3zwD2WpY9ArvSoeM66f) | 4:08 |
 | 6 | [Tu Hi Meri Manzil](https://open.spotify.com/track/6uANApp4MD0VtM6Cdy27Ct) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Tu Hi Meri Manzil](https://open.spotify.com/album/0QjT7tujN5VlzjK85QlUPi) | 3:12 |
 | 7 | [Rozaana](https://open.spotify.com/track/1oGSv6ohmyxzoLkS65Heic) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Rozaana](https://open.spotify.com/album/0LZ0J0uxtSPbBbW05n42gZ) | 3:20 |

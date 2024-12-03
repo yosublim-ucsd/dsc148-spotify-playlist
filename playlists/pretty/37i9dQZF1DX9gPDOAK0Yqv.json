@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 126937,
+  "num_followers": 126963,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
-        }
-      ],
-      "duration_ms": 255257,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Beyond Us (Hatshepsut Version)",
         "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
       },
@@ -1527,22 +1507,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "I Will Find You",
-        "url": "https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv"
-      },
-      "artists": [
-        {
-          "name": "Mathame",
-          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "I Will Find You",
-      "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Friend Of Mine",
         "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
       },
@@ -1559,6 +1523,42 @@
       "duration_ms": 213333,
       "name": "Friend Of Mine",
       "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
+        }
+      ],
+      "duration_ms": 255257,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "I Will Find You",
+        "url": "https://open.spotify.com/album/1XxDcTMBN3ag8yHjusNpIv"
+      },
+      "artists": [
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "duration_ms": 209090,
+      "name": "I Will Find You",
+      "url": "https://open.spotify.com/track/74XpVeIclja8aFEtCQq1Y5"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
-      },
-      "artists": [
-        {
-          "name": "Innellea",
-          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
-        }
-      ],
-      "duration_ms": 238125,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "The Pledge",
         "url": "https://open.spotify.com/album/1HKLAFY8fdSVaHGYF1cR7i"
       },
@@ -1683,6 +1667,38 @@
       "duration_ms": 215693,
       "name": "The World Is Yours",
       "url": "https://open.spotify.com/track/6K9pYyxTDqXWXxGJbzxGAM"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1SL5y9nXB0monY11oF6x4u"
+      },
+      "artists": [
+        {
+          "name": "Innellea",
+          "url": "https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e"
+        }
+      ],
+      "duration_ms": 238125,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6m1B316ZF6UpDQwhz34Zfr"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 470400,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1707,38 +1723,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 470400,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Are We Truly Free?",
-        "url": "https://open.spotify.com/album/1L0FGABuXR9XRQiducXXps"
-      },
-      "artists": [
-        {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
-        }
-      ],
-      "duration_ms": 216850,
-      "name": "Are We Truly Free?",
-      "url": "https://open.spotify.com/track/1Bkckgr1RGncOvWDn5Ar3h"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4LJhKUgLG4w4uM99XyAkMz"
       },
@@ -1759,22 +1743,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Friends (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/3sTdQoIdHfjxVLGtb3I3FL"
+        "name": "Are We Truly Free?",
+        "url": "https://open.spotify.com/album/1L0FGABuXR9XRQiducXXps"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
         }
       ],
-      "duration_ms": 260307,
-      "name": "Friends - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
+      "duration_ms": 216850,
+      "name": "Are We Truly Free?",
+      "url": "https://open.spotify.com/track/1Bkckgr1RGncOvWDn5Ar3h"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1791,6 +1771,26 @@
       "duration_ms": 342626,
       "name": "Aran",
       "url": "https://open.spotify.com/track/1smaJguPb8Psb3t4Jkds9X"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Friends (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/3sTdQoIdHfjxVLGtb3I3FL"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 260307,
+      "name": "Friends - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/1dtNRzHMtDS3TtIzxNdyag"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1859,6 +1859,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Atomic Heart",
+        "url": "https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Yana Blinder",
+          "url": "https://open.spotify.com/artist/79EE54kxCNXUGNtEkgo12R"
+        }
+      ],
+      "duration_ms": 433920,
+      "name": "Atomic Heart",
+      "url": "https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "In And Out Of Love (Innellea Remix)",
         "url": "https://open.spotify.com/album/0usEDxtDCBWHx3cfPceoYD"
       },
@@ -1879,26 +1899,6 @@
       "duration_ms": 218004,
       "name": "In And Out Of Love - Innellea Remix",
       "url": "https://open.spotify.com/track/13z0WuyNhDPQlwXSr8EY4S"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Atomic Heart",
-        "url": "https://open.spotify.com/album/0luQU7YFJBr05uS279ifqf"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Yana Blinder",
-          "url": "https://open.spotify.com/artist/79EE54kxCNXUGNtEkgo12R"
-        }
-      ],
-      "duration_ms": 433920,
-      "name": "Atomic Heart",
-      "url": "https://open.spotify.com/track/2IDz0jj2IrqSjkB3SCcDn8"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -2055,26 +2055,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "The Turn",
-        "url": "https://open.spotify.com/album/02bP8IHWtLIK5wvHp3FZHv"
-      },
-      "artists": [
-        {
-          "name": "MRAK",
-          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
-        },
-        {
-          "name": "19:26",
-          "url": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
-        }
-      ],
-      "duration_ms": 346209,
-      "name": "Reserva",
-      "url": "https://open.spotify.com/track/1XQ7cb5Ta5XDXAnX2eF52I"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "See You In Dreams",
         "url": "https://open.spotify.com/album/3C3KUYrEI6XYlwf0n4h2Wz"
       },
@@ -2091,6 +2071,26 @@
       "duration_ms": 271519,
       "name": "See You In Dreams",
       "url": "https://open.spotify.com/track/3Qpu1wWIAot60NJc2gbUUW"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "The Turn",
+        "url": "https://open.spotify.com/album/02bP8IHWtLIK5wvHp3FZHv"
+      },
+      "artists": [
+        {
+          "name": "MRAK",
+          "url": "https://open.spotify.com/artist/4JLXtk9bdFy9xkslFY91dY"
+        },
+        {
+          "name": "19:26",
+          "url": "https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX"
+        }
+      ],
+      "duration_ms": 346209,
+      "name": "Reserva",
+      "url": "https://open.spotify.com/track/1XQ7cb5Ta5XDXAnX2eF52I"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
-        "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
-      },
-      "artists": [
-        {
-          "name": "RY X",
-          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Len\u00e7\u00f3is (Love Me) - Cassian Remix",
-      "url": "https://open.spotify.com/track/3sh22HAcptCRsS0clVlc81"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Hellbound",
         "url": "https://open.spotify.com/album/3Laz09fHvm5f5lRPkkaJ6E"
       },
@@ -2379,18 +2359,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Staccato EP",
-        "url": "https://open.spotify.com/album/7spnKhXad9bHLh86iTfExK"
+        "name": "Len\u00e7\u00f3is (Love Me) [Cassian Remix]",
+        "url": "https://open.spotify.com/album/5b9ZVkXeCwJ8v6NB0Bi77b"
       },
       "artists": [
         {
-          "name": "Goom Gum",
-          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
         }
       ],
-      "duration_ms": 266123,
-      "name": "Staccato",
-      "url": "https://open.spotify.com/track/0oPWzgGBqUxVvqQBXaiOu8"
+      "duration_ms": 254400,
+      "name": "Len\u00e7\u00f3is (Love Me) - Cassian Remix",
+      "url": "https://open.spotify.com/track/3sh22HAcptCRsS0clVlc81"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -2419,26 +2403,38 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/56zyADMd3QWQAl1CTVLR1y"
+        "name": "Staccato EP",
+        "url": "https://open.spotify.com/album/7spnKhXad9bHLh86iTfExK"
       },
       "artists": [
         {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
-        },
-        {
-          "name": "widerberg",
-          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
-        },
-        {
-          "name": "Dean Fraiser",
-          "url": "https://open.spotify.com/artist/4q1NW0f0ApUEcPDiIrnsHI"
+          "name": "Goom Gum",
+          "url": "https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec"
         }
       ],
-      "duration_ms": 188031,
-      "name": "Flame",
-      "url": "https://open.spotify.com/track/2U1pAsmISPGuRUZAfSLNFF"
+      "duration_ms": 266123,
+      "name": "Staccato",
+      "url": "https://open.spotify.com/track/0oPWzgGBqUxVvqQBXaiOu8"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Transmission (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 224274,
+      "name": "Transmission - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/08T5Ibykp5D758EGSAFJb8"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -2467,42 +2463,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Headrush",
-        "url": "https://open.spotify.com/album/2updjCHOE9KFhZgiZKD6P2"
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/56zyADMd3QWQAl1CTVLR1y"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Headrush",
-      "url": "https://open.spotify.com/track/0Bf9IX8gZR56GhldKbiCn1"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Transmission (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/3fDdHLp8KrslUHQ4S1WRPJ"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+          "name": "widerberg",
+          "url": "https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn"
         },
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "Dean Fraiser",
+          "url": "https://open.spotify.com/artist/4q1NW0f0ApUEcPDiIrnsHI"
         }
       ],
-      "duration_ms": 224274,
-      "name": "Transmission - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/08T5Ibykp5D758EGSAFJb8"
+      "duration_ms": 188031,
+      "name": "Flame",
+      "url": "https://open.spotify.com/track/2U1pAsmISPGuRUZAfSLNFF"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -2527,6 +2507,26 @@
       "duration_ms": 211612,
       "name": "WHISPERS",
       "url": "https://open.spotify.com/track/0f6oK62DN8UqVHZzR2JKwr"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Headrush",
+        "url": "https://open.spotify.com/album/2updjCHOE9KFhZgiZKD6P2"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/0Bf9IX8gZR56GhldKbiCn1"
     },
     {
       "added_at": "2024-11-28 23:00:00",

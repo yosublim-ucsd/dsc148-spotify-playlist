@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 61221,
+  "num_followers": 61237,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAADgTdzLkYoqhtaygqG7mQP+",
+  "snapshot_id": "Z0unAAAAAAAKqVhf11PpU17UBnqWtRbo",
   "tracks": [
     {
       "added_at": null,
@@ -823,18 +823,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
-        "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3ioAkBCcr9y8ClSMNDSSaV"
       },
       "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 168773,
-      "name": "Bajo Mil Llaves - En Vivo",
-      "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
+      "duration_ms": 195506,
+      "name": "Me Llega, Me Llega (En Vivo)",
+      "url": "https://open.spotify.com/track/7xHx5S7Sd6ruj6syWrwljS"
     },
     {
       "added_at": null,
@@ -871,26 +879,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3ioAkBCcr9y8ClSMNDSSaV"
+        "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
+        "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
       },
       "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
-        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 195506,
-      "name": "Me Llega, Me Llega (En Vivo)",
-      "url": "https://open.spotify.com/track/7xHx5S7Sd6ruj6syWrwljS"
+      "duration_ms": 168773,
+      "name": "Bajo Mil Llaves - En Vivo",
+      "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 696706,
+  "num_followers": 696731,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAADMM7oDZWxMWIn9D5IW8E1M",
+  "snapshot_id": "Z0unAAAAAAAKQb/4LN0kBYb2lSe+QrV2",
   "tracks": [
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock In A Hard Place",
-        "url": "https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9"
+        "name": "Rocks",
+        "url": "https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 266749,
-      "name": "Lightning Strikes",
-      "url": "https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q"
+      "duration_ms": 252115,
+      "name": "Sick As A Dog",
+      "url": "https://open.spotify.com/track/3HiIGUTiUaEpdagPy3MWUk"
     }
   ],
   "unique_name": "This Is Aerosmith",

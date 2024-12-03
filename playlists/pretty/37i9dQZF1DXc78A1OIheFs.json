@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Corrella",
-  "num_followers": 18619,
+  "num_followers": 18624,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -587,18 +587,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Slo Mo",
-        "url": "https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j"
+        "name": "Under One Roof",
+        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
       },
       "artists": [
         {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+          "name": "Flowidus",
+          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
+        },
+        {
+          "name": "Sam Welch",
+          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
         }
       ],
-      "duration_ms": 494760,
-      "name": "Slo Mo",
-      "url": "https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF"
+      "duration_ms": 254281,
+      "name": "Under One Roof",
+      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -635,22 +639,18 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Under One Roof",
-        "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
+        "name": "Slo Mo",
+        "url": "https://open.spotify.com/album/6E7lYZDv7THQckJhCAdu2j"
       },
       "artists": [
         {
-          "name": "Flowidus",
-          "url": "https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC"
-        },
-        {
-          "name": "Sam Welch",
-          "url": "https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K"
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
         }
       ],
-      "duration_ms": 254281,
-      "name": "Under One Roof",
-      "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
+      "duration_ms": 494760,
+      "name": "Slo Mo",
+      "url": "https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "pinky boy",
-        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 285153,
-      "name": "pinky boy",
-      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "In The Shade",
         "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 193987,
       "name": "Don't You Die",
       "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "pinky boy",
+        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 285153,
+      "name": "pinky boy",
+      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
-      },
-      "artists": [
-        {
-          "name": "Fat Freddy's Drop",
-          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
-        },
-        {
-          "name": "MC Slave",
-          "url": "https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Next Stop",
-      "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "I Want More",
         "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
       },
@@ -903,6 +883,22 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/4tvUEkPUzDWY4rhLo7iKGW"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 213611,
+      "name": "Rubicon",
+      "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -947,6 +943,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH"
+      },
+      "artists": [
+        {
+          "name": "Drax Project",
+          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+        }
+      ],
+      "duration_ms": 197328,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Bigger",
         "url": "https://open.spotify.com/album/7aXDUqk6CbuAzaik31OGHl"
       },
@@ -963,18 +975,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Upside",
-        "url": "https://open.spotify.com/album/3DJIsKB1vlhdn0hDAwqiTH"
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9"
       },
       "artists": [
         {
-          "name": "Drax Project",
-          "url": "https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8"
+          "name": "Fat Freddy's Drop",
+          "url": "https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS"
+        },
+        {
+          "name": "MC Slave",
+          "url": "https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1"
         }
       ],
-      "duration_ms": 197328,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/7AJn6nHmWouUAdd7bJAheL"
+      "duration_ms": 371200,
+      "name": "Next Stop",
+      "url": "https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1075,6 +1091,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 149234,
+      "name": "Time Of My Life",
+      "url": "https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "GO!",
         "url": "https://open.spotify.com/album/1G57wFuySUQ5H33inqfD7V"
       },
@@ -1127,22 +1159,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 149234,
-      "name": "Time Of My Life",
-      "url": "https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Handyman.",
         "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 161559,
       "name": "Handyman.",
       "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
-    },
-    {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Rubicon",
-        "url": "https://open.spotify.com/album/4tvUEkPUzDWY4rhLo7iKGW"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 213611,
-      "name": "Rubicon",
-      "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
     },
     {
       "added_at": "2024-10-24 13:00:00",

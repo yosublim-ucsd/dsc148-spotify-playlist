@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Manuel Turizo",
-  "num_followers": 53571,
+  "num_followers": 53567,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAS/l7kC9xLmBIn9h6Grkt45aDxyM/3",
+  "snapshot_id": "AAATAwkp0mFMQ7e3DMyXjdONBFJcR2dW",
   "tracks": [
     {
       "added_at": "2024-11-22 01:32:47",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
     },
     {
+      "added_at": "2024-11-15 05:12:36",
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 240179,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C"
+    },
+    {
       "added_at": "2024-11-22 01:26:24",
       "album": {
         "name": "Cosas Pendientes",
@@ -39,6 +59,38 @@
       "duration_ms": 184462,
       "name": "Cosas Pendientes",
       "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
+    },
+    {
+      "added_at": "2024-12-02 17:24:19",
+      "album": {
+        "name": "ASI ES LA VIDA (feat. Descemer Bueno & Omi Hernandez) [Remix]",
+        "url": "https://open.spotify.com/album/6xgbZ7SdlBQKBSzVl8GZZu"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Omi Hernandez",
+          "url": "https://open.spotify.com/artist/5TrKkrhYUxkSScH0LzgeqA"
+        }
+      ],
+      "duration_ms": 215825,
+      "name": "ASI ES LA VIDA (feat. Descemer Bueno & Omi Hernandez) - Remix",
+      "url": "https://open.spotify.com/track/0jj0Hf63LdLDgoy73YS352"
     },
     {
       "added_at": "2024-11-22 14:43:26",
@@ -111,26 +163,6 @@
       "duration_ms": 180725,
       "name": "Palmeras en el jard\u00edn",
       "url": "https://open.spotify.com/track/5MMEQLCzl9GsknyH42xFOX"
-    },
-    {
-      "added_at": "2024-11-15 05:12:36",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 240179,
-      "name": "Se Fue",
-      "url": "https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C"
     },
     {
       "added_at": "2024-11-01 02:56:28",

@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 16948,
+  "num_followers": 16982,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "El Canario",
-          "url": "https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT"
-        }
-      ],
-      "duration_ms": 349493,
-      "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
-      "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "En Vivo Desde Bellas Artes",
         "url": "https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 278866,
       "name": "Tu Loco, Loco, Y Yo Tranquilo",
       "url": "https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
+      },
+      "artists": [
+        {
+          "name": "El Canario",
+          "url": "https://open.spotify.com/artist/3te6qVFESJxuhRHAXmQUDT"
+        }
+      ],
+      "duration_ms": 349493,
+      "name": "Disc\u00falpeme Se\u00f1ora - Live Version",
+      "url": "https://open.spotify.com/track/2gxnUnxHh0QDuJFIaFEUeS"
     },
     {
       "added_at": "2024-09-24 20:35:55",

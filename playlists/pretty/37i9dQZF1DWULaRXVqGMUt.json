@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 55157,
+  "num_followers": 55187,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -135,18 +135,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
       "artists": [
         {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
         }
       ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+      "duration_ms": 218626,
+      "name": "Pauly's Birthday Boogie",
+      "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -167,22 +171,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Pauly's Birthday Boogie",
-      "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Nasty Boogie",
-      "url": "https://open.spotify.com/track/3rzNjo8hXkNlMRsyl6Vwif"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Junco Partner",
         "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 310040,
       "name": "Junco Partner",
       "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "Nasty Boogie",
+      "url": "https://open.spotify.com/track/3rzNjo8hXkNlMRsyl6Vwif"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "New Way",
-        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
-      },
-      "artists": [
-        {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
-        }
-      ],
-      "duration_ms": 332400,
-      "name": "Laci's Boogie",
-      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Piano-Blues & Boogie-Woogie",
         "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
       },
@@ -475,18 +459,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Rock and Rollin' With Fats",
-        "url": "https://open.spotify.com/album/02ygc0A5WNjd5HnDI1xzs0"
+        "name": "New Way",
+        "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
         }
       ],
-      "duration_ms": 171613,
-      "name": "Swanee River Hop",
-      "url": "https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2"
+      "duration_ms": 332400,
+      "name": "Laci's Boogie",
+      "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -503,6 +487,22 @@
       "duration_ms": 171106,
       "name": "Roll 'Em, Pete (12-30-38)",
       "url": "https://open.spotify.com/track/48yPw9QpyvTcQwZYoq2rzc"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Rock and Rollin' With Fats",
+        "url": "https://open.spotify.com/album/02ygc0A5WNjd5HnDI1xzs0"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "Swanee River Hop",
+      "url": "https://open.spotify.com/track/0ijsopIPvMuvuk0pOeTtb2"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "No Hats",
+        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Caroline's Boogie",
+      "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Boogie Stomp",
         "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 139626,
       "name": "Boogie Woogie Baby",
       "url": "https://open.spotify.com/track/4fiD2HdUWxJFhZ6uViHDze"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "No Hats",
-        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Caroline's Boogie",
-      "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "Yancey Special",
+        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Yancey",
+          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
+        }
+      ],
+      "duration_ms": 172460,
+      "name": "Yancey Stomp",
+      "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "Capitol Collectors Series",
         "url": "https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 173293,
       "name": "The House of Blue Lights",
       "url": "https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Yancey Special",
-        "url": "https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Yancey",
-          "url": "https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD"
-        }
-      ],
-      "duration_ms": 172460,
-      "name": "Yancey Stomp",
-      "url": "https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "No Hats",
-        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
-      },
-      "artists": [
-        {
-          "name": "Caroline Dahl",
-          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Bluegrass Boogie Woogie",
-      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "Keep It Coming",
         "url": "https://open.spotify.com/album/169PS1pKQBPMCszDnERktt"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 146346,
       "name": "Blueberry Hill",
       "url": "https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "No Hats",
+        "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
+      },
+      "artists": [
+        {
+          "name": "Caroline Dahl",
+          "url": "https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Bluegrass Boogie Woogie",
+      "url": "https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6"
     },
     {
       "added_at": "2024-05-30 16:27:59",

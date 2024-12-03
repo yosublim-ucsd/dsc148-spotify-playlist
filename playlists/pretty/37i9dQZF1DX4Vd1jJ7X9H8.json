@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 324115,
+  "num_followers": 324141,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -807,30 +807,6 @@
     {
       "added_at": "2024-10-25 15:24:56",
       "album": {
-        "name": "Gypsy Woman",
-        "url": "https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u"
-      },
-      "artists": [
-        {
-          "name": "Stolen Gin",
-          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
-        },
-        {
-          "name": "ADLR",
-          "url": "https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr"
-        },
-        {
-          "name": "Different Hits",
-          "url": "https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK"
-        }
-      ],
-      "duration_ms": 200823,
-      "name": "Gypsy Woman",
-      "url": "https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX"
-    },
-    {
-      "added_at": "2024-10-25 15:24:56",
-      "album": {
         "name": "Electric Photograph",
         "url": "https://open.spotify.com/album/0yCpeH8KWCQYACEAc4qk2u"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 175381,
       "name": "Electric Photograph",
       "url": "https://open.spotify.com/track/4aMExui9zpbQZNhAmMsHPB"
+    },
+    {
+      "added_at": "2024-10-25 15:24:56",
+      "album": {
+        "name": "Gypsy Woman",
+        "url": "https://open.spotify.com/album/5VzSfeb30ZJPPlxaganX9u"
+      },
+      "artists": [
+        {
+          "name": "Stolen Gin",
+          "url": "https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG"
+        },
+        {
+          "name": "ADLR",
+          "url": "https://open.spotify.com/artist/5cZLyaniFhNXP85TzKEJqr"
+        },
+        {
+          "name": "Different Hits",
+          "url": "https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK"
+        }
+      ],
+      "duration_ms": 200823,
+      "name": "Gypsy Woman",
+      "url": "https://open.spotify.com/track/5Xex2XN8l1dOLwaXwmdyHX"
     },
     {
       "added_at": "2024-10-25 15:24:56",

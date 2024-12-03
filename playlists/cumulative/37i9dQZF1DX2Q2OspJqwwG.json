@@ -605,6 +605,28 @@
     },
     {
       "album": {
+        "name": "Bota",
+        "url": "https://open.spotify.com/album/48v8Py1aFLsqFpFx8xJqlP"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        },
+        {
+          "name": "DOMINO",
+          "url": "https://open.spotify.com/artist/0Rg9UULSXa86viiw917YaL"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "Bota",
+      "url": "https://open.spotify.com/track/2iGi9pmdmL6G1Pt48CKyfB"
+    },
+    {
+      "album": {
         "name": "Burj Khalifa",
         "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
       },
@@ -784,7 +806,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 146548,
       "name": "Compromis",
       "url": "https://open.spotify.com/track/2iUFBWn0r43yVWxS99R8Lz"
@@ -904,7 +926,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 173470,
       "name": "Dansez Plangand",
       "url": "https://open.spotify.com/track/2NwTDWyCkEAsNFWh4JGlAp"
@@ -1010,7 +1032,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 166426,
       "name": "Dientes",
       "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
@@ -1122,7 +1144,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 199672,
       "name": "Dudadu Flip",
       "url": "https://open.spotify.com/track/2043vlZdKiT2Sbzj9kKnGP"
@@ -2056,7 +2078,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/0k2CKGR3pccvOTJZougMPd"
@@ -2366,7 +2388,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-26",
+      "date_removed": null,
       "duration_ms": 165269,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL"
@@ -2458,7 +2480,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 164596,
       "name": "Miss Romania",
       "url": "https://open.spotify.com/track/0Rm4rDf1wjOPf6rVLdv4AH"
@@ -3319,6 +3341,36 @@
     },
     {
       "album": {
+        "name": "Show Paris Worldwide",
+        "url": "https://open.spotify.com/album/6kt4YkrFp3R9kiGZQ7tQ8I"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        },
+        {
+          "name": "Naz Dej",
+          "url": "https://open.spotify.com/artist/7KZXpvPsjnXIEyzOTVL7we"
+        },
+        {
+          "name": "Costi",
+          "url": "https://open.spotify.com/artist/5nlhxXs2Lgr8nH98jC26pw"
+        },
+        {
+          "name": "Aymane Serhani",
+          "url": "https://open.spotify.com/artist/2EAzv92ciNtTm5DkGSYXH2"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204094,
+      "name": "Show Paris Worldwide",
+      "url": "https://open.spotify.com/track/40Gf6OGR4hJ57uvkcDR6Ml"
+    },
+    {
+      "album": {
         "name": "Si Ai",
         "url": "https://open.spotify.com/album/7JRTgBc4mvX7CfkfDhaLMK"
       },
@@ -3693,6 +3745,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "album": {
         "name": "The Code",
         "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
       },
@@ -3762,7 +3832,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 202409,
       "name": "Topeste-mi iarna",
       "url": "https://open.spotify.com/track/4VM9HfG2RY9qdyMXvb6Qpb"
@@ -4014,6 +4084,40 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233406,
+      "name": "WE PRAY",
+      "url": "https://open.spotify.com/track/7xrEnNo99wrmIs8ZK3RZMK"
     },
     {
       "album": {

@@ -454,7 +454,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -2264,7 +2264,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -6098,7 +6098,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-30",
+      "date_removed": null,
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -7570,7 +7570,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 155757,
       "name": "Moonlit Floor (Kiss Me)",
       "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
@@ -12989,6 +12989,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u767e\u500b\u672a\u8001\u5148\u8870\u7684\u65b9\u6cd5",
+        "url": "https://open.spotify.com/album/3rMaeLPzHfg3GcNjqA2AgG"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253821,
+      "name": "\u4e00\u767e\u500b\u672a\u8001\u5148\u8870\u7684\u65b9\u6cd5",
+      "url": "https://open.spotify.com/track/33zXfdqtSYhvfdoRrEdiRH"
+    },
+    {
+      "album": {
         "name": "\u4e00\u865f\u7a2e\u7c7d",
         "url": "https://open.spotify.com/album/5vdDXo15V2KaVH8lDpY0SI"
       },
@@ -13902,7 +13920,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 201800,
       "name": "\u50b7\u5fc3\u7684\u6642\u5019\u5225\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/0XU1HkOQwgAmuvkiJwAMcp"

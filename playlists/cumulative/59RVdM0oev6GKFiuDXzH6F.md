@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-766 songs - 1 day 14 hr 24 min
+767 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,6 +723,7 @@
 | [Voodoo Ass](https://open.spotify.com/track/1MMrT4bXrtdpfUJfsRIZU7) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Voodoo Ass](https://open.spotify.com/album/7A5dRgOqwvqE4iBrKPUgv0) | 3:00 | 2024-05-17 |  |
 | [Wait A Minute](https://open.spotify.com/track/0UAK0qiRTIPUnMzjwKk2PF) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Wait A Minute](https://open.spotify.com/album/7bEV9C1I27kJqPO53JqTBP) | 3:22 | 2023-02-12 | 2023-03-25 |
 | [Waiting For You](https://open.spotify.com/track/6VtbMBWi4sVVlTeZK5gOvD) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [MAGNUS \(B\-Side\)](https://open.spotify.com/artist/5Y9lg0qkPvXCH8903RFC4J) | [Waiting For You](https://open.spotify.com/album/0MaWoxutAivbJbvMELQ7LJ) | 2:29 | 2023-05-05 | 2023-12-23 |
+| [Waking Up](https://open.spotify.com/track/06kKoATyACR7jzJSSixrej) | [Christian Corsi](https://open.spotify.com/artist/3JlSc5y4TTi8H0mszwjKPk), [Brittney Bouchard](https://open.spotify.com/artist/4iyRlrtLkoUNq48bOWdyqm) | [Waking Up](https://open.spotify.com/album/32W5YpYzSW6vlemjHoxc1W) | 4:44 | 2024-12-02 |  |
 | [Want Me \- Radio Edit](https://open.spotify.com/track/0hTt3P29K4eXCfR8pn69Q6) | [Vito V](https://open.spotify.com/artist/0xcfx1bbm3GNYmGBHT2hRg) | [Want Me \(Radio Edit\)](https://open.spotify.com/album/736QHJu5sdgroO4krjj61l) | 3:17 | 2023-03-24 | 2023-04-15 |
 | [Warp](https://open.spotify.com/track/6fPxp5gyANF9jIPJWJBILo) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Warp](https://open.spotify.com/album/0RnRDlV1qQnS9mAL9dQWHT) | 2:23 | 2023-03-24 | 2023-12-14 |
 | [Wasted Youth](https://open.spotify.com/track/7i5tBVaBU5Z4Va6XK0L5mm) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Wasted Youth](https://open.spotify.com/album/7BXCwPeAm4m1KFabsvCTuy) | 2:27 | 2024-01-05 | 2024-09-26 |

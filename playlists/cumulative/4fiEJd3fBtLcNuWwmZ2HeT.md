@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-256 songs - 14 hr 37 min
+257 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Nemurasareta Lineage](https://open.spotify.com/track/0yRoUHkP4ts76WpUhzybUd) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [Nemurasareta Lineage](https://open.spotify.com/album/1S4GpGs85seHZTLMaLyOE8) | 4:28 | 2024-06-17 |  |
 | [Nonsense Bungaku](https://open.spotify.com/track/4PaZP3ZPHCl6IpFUSuY1Rn) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:23 | 2023-02-25 |  |
 | [Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Moe Moe](https://open.spotify.com/album/4cQMG9J5WiIDMYaWf5axzy) | 3:09 | 2022-10-29 |  |
+| [NOX LUX](https://open.spotify.com/track/69gjQpIkp1ZA4XlCRAm67T) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [NOX LUX](https://open.spotify.com/album/2W1fq9AQtzxztLOm5AfEq0) | 4:33 | 2024-12-02 |  |
 | [ODD NUMBER](https://open.spotify.com/track/26gnN7LjvFo6Bwsmcu0mx1) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [ODD NUMBER](https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO) | 3:09 | 2024-11-18 |  |
 | [Only Wonder](https://open.spotify.com/track/66gqGFhqcoEjiCcp02rsir) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Frederhythm](https://open.spotify.com/album/47CP4H5sU69fTUPyI0SD4S) | 4:43 | 2023-12-24 |  |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-06-25 |  |
@@ -112,7 +113,7 @@
 | [Phony](https://open.spotify.com/track/0easKsHTKz3x4OayMKoZET) | [Xiulan Long](https://open.spotify.com/artist/4rUM4AisHJilVENH56wqCY) | [Phony](https://open.spotify.com/album/1ndZLzQ1XDrFz2Lq4S2TCV) | 3:09 | 2024-03-25 |  |
 | [Pink](https://open.spotify.com/track/5KI8zXj9lxLr1goQoGYaIA) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Pink](https://open.spotify.com/album/51KEnPmInGx4cXyBIISzgj) | 3:42 | 2022-11-11 |  |
 | [PINK](https://open.spotify.com/track/3KhODlXNFUONL8CdqEmd1d) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [BIPOLAR](https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9) | 2:56 | 2023-10-23 |  |
-| [Por Que](https://open.spotify.com/track/7hNdWx6prYB4xmpG25eTAT) | [Amilcar Boscan](https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L) | [Realidades](https://open.spotify.com/album/5grCaFumwBjBTbEgxKwqLm) | 4:48 | 2024-11-30 |  |
+| [Por Que](https://open.spotify.com/track/7hNdWx6prYB4xmpG25eTAT) | [Amilcar Boscan](https://open.spotify.com/artist/4xrEN4FSoIGzynaT06oB6L) | [Realidades](https://open.spotify.com/album/5grCaFumwBjBTbEgxKwqLm) | 4:48 | 2024-11-30 | 2024-12-03 |
 | [QUEEN OF THE NIGHT](https://open.spotify.com/track/1gO9SZTzqUOdCpGaU6eRlS) | [The Vanished People](https://open.spotify.com/artist/3EogvEV9nc7Av6ngy8CIeJ) | [QUEEN OF THE NIGHT](https://open.spotify.com/album/6kKMUex64mP35JZpbRp3Ma) | 2:44 | 2024-04-06 |  |
 | [R.I.P\. Gossip Sea](https://open.spotify.com/track/7xz8uuhmnW80qujTXrtX2N) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [Gossip Sea](https://open.spotify.com/album/2shWfyRGHT8C3k5NeygiWU) | 3:39 | 2022-11-11 |  |
 | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/track/5vR8dVVGrEBYoso2InjuKo) | [ミコ吉](https://open.spotify.com/artist/1Q9WuPC9wFV6V8BBeR7GEF), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Radio Noise \(feat\. Ado\)](https://open.spotify.com/album/3d2gch75FvpDfumKzaojoo) | 4:48 | 2023-11-27 |  |

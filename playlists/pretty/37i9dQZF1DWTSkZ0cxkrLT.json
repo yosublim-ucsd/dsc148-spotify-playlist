@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 423217,
+  "num_followers": 423260,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
-        "name": "Destilar",
-        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 260523,
-      "name": "La Luna de Neuqu\u00e9n",
-      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
         "name": "Chica Acuario",
         "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 207163,
       "name": "Chica Acuario",
       "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
+        "name": "Destilar",
+        "url": "https://open.spotify.com/album/0RpJ96qNoqzpjvh0xrPdrh"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 260523,
+      "name": "La Luna de Neuqu\u00e9n",
+      "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
+      },
+      "artists": [
+        {
+          "name": "Jorge Fandermole",
+          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
+        }
+      ],
+      "duration_ms": 306586,
+      "name": "Oraci\u00f3n del remanso",
+      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
         "name": "Un Amor Que Se Termina",
         "url": "https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 156056,
       "name": "Un Amor Que Se Termina",
       "url": "https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/6EnBUygxpoTiTTA6z0xhCx"
-      },
-      "artists": [
-        {
-          "name": "Jorge Fandermole",
-          "url": "https://open.spotify.com/artist/4l6qncc7ne4yU7z9i1Mtet"
-        }
-      ],
-      "duration_ms": 306586,
-      "name": "Oraci\u00f3n del remanso",
-      "url": "https://open.spotify.com/track/2RJgedUGuVZTMRRjQzRnWd"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
-        "name": "No me Arrepiento de este Amor",
-        "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        },
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "No me Arrepiento de este Amor",
-      "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
         "name": "Ojitos de Md (Remix)",
         "url": "https://open.spotify.com/album/3gYti5PmUFrV9NnJim60Ik"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 170192,
       "name": "Ojitos de Md - Remix",
       "url": "https://open.spotify.com/track/6otnCYlQqNYVZqNrSHn1AF"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
+        "name": "No me Arrepiento de este Amor",
+        "url": "https://open.spotify.com/album/6mFNSXSvSCFLPytptCC5IT"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        },
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "No me Arrepiento de este Amor",
+      "url": "https://open.spotify.com/track/3TCtf7MkkCBywzS35f5UP2"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
+        "name": "1990",
+        "url": "https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 162004,
+      "name": "Mi Grito",
+      "url": "https://open.spotify.com/track/7HX7bXbRptXWopjpUf9Upn"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
         "name": "Sampa",
         "url": "https://open.spotify.com/album/1koawHnVGULixrX3oMtJxf"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 269540,
       "name": "Sampa",
       "url": "https://open.spotify.com/track/4Hlo0rzrgIOCcj84LFDa8n"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/4oBEsetdltXNnOMT1t61QU"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 162004,
-      "name": "Mi Grito",
-      "url": "https://open.spotify.com/track/7HX7bXbRptXWopjpUf9Upn"
     },
     {
       "added_at": "2024-11-05 12:55:46",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
+        "name": "\u00bfA D\u00f3nde Van? (Versi\u00f3n \"La Memoria Infinita\")",
+        "url": "https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj"
+      },
+      "artists": [
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 277351,
+      "name": "\u00bfA D\u00f3nde Van? - Versi\u00f3n \"La Memoria Infinita\"",
+      "url": "https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF"
+    },
+    {
+      "added_at": "2024-11-05 12:55:46",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
-        "name": "\u00bfA D\u00f3nde Van? (Versi\u00f3n \"La Memoria Infinita\")",
-        "url": "https://open.spotify.com/album/6ilAycx8DiZ1VOYyJOB3Rj"
-      },
-      "artists": [
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 277351,
-      "name": "\u00bfA D\u00f3nde Van? - Versi\u00f3n \"La Memoria Infinita\"",
-      "url": "https://open.spotify.com/track/6ZOj0FvyZOAWUAFxaqSEnF"
-    },
-    {
-      "added_at": "2024-11-05 12:55:46",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
       },
@@ -1547,22 +1547,22 @@
     {
       "added_at": "2024-11-05 12:55:46",
       "album": {
-        "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
+        "name": "OTRX",
+        "url": "https://open.spotify.com/album/6AS4KbrYma83kDn1WORqly"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
         },
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
         }
       ],
-      "duration_ms": 227375,
-      "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
+      "duration_ms": 175412,
+      "name": "Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/6lqD2TljGW0XoWTxhYs5Yj"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

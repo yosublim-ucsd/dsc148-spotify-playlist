@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating 25 years of Faith Hill's timeless album \"Breathe\" on 90s Country! ",
-  "num_followers": 1948096,
+  "num_followers": 1948274,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "Every Light In The House",
-      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
-    },
-    {
-      "added_at": "2024-11-08 16:48:06",
-      "album": {
         "name": "Hard Workin' Man",
         "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 178493,
       "name": "Hard Workin' Man",
       "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
+    },
+    {
+      "added_at": "2024-11-08 16:48:06",
+      "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "Every Light In The House",
+      "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Six Days On The Road",
-        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Brown",
-          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
-    },
-    {
-      "added_at": "2024-11-08 16:48:06",
-      "album": {
         "name": "On the Other Hand - All the Number Ones",
         "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 186746,
       "name": "If I Didn't Have You",
       "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
+    },
+    {
+      "added_at": "2024-11-08 16:48:06",
+      "album": {
+        "name": "Six Days On The Road",
+        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Brown",
+          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "The Way That I Am",
-        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
-    },
-    {
-      "added_at": "2024-11-08 16:48:06",
-      "album": {
         "name": "Here In The Real World",
         "url": "https://open.spotify.com/album/7aKsH9D0ud6MzGTjnrwM3e"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 185373,
       "name": "Chasin' That Neon Rainbow",
       "url": "https://open.spotify.com/track/6QP8JgHuOi0itWXuZ6wdTM"
+    },
+    {
+      "added_at": "2024-11-08 16:48:06",
+      "album": {
+        "name": "The Way That I Am",
+        "url": "https://open.spotify.com/album/4E9bN3hTA7ZN4ECVfevF7d"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/1nVoLxz8C0uGgMKfywy0vf"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+        "name": "Always & Forever",
+        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 147026,
-      "name": "You Ain't Much Fun",
-      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
+      "duration_ms": 219506,
+      "name": "I Told You So",
+      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Always & Forever",
-        "url": "https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv"
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 219506,
-      "name": "I Told You So",
-      "url": "https://open.spotify.com/track/6QUEB3DDAD7oJhbIZF2v4Y"
+      "duration_ms": 147026,
+      "name": "You Ain't Much Fun",
+      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Thinkin' Problem",
-        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
-      },
-      "artists": [
-        {
-          "name": "David Ball",
-          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Thinkin' Problem",
-      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
-    },
-    {
-      "added_at": "2024-11-08 16:48:06",
-      "album": {
         "name": "Used To Want To Be A Cowboy",
         "url": "https://open.spotify.com/album/0TvkeMhg5jqTfqF1Wp0VOY"
       },
@@ -1471,18 +1455,34 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
+        "name": "Thinkin' Problem",
+        "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
       },
       "artists": [
         {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+          "name": "David Ball",
+          "url": "https://open.spotify.com/artist/7y9COUDxusQXRjW95vOubE"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+      "duration_ms": 181133,
+      "name": "Thinkin' Problem",
+      "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
+    },
+    {
+      "added_at": "2024-11-08 16:48:06",
+      "album": {
+        "name": "Clay Walker",
+        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "What's It to You",
+      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Clay Walker",
-        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
       },
       "artists": [
         {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
         }
       ],
-      "duration_ms": 166626,
-      "name": "What's It to You",
-      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
+      "duration_ms": 186066,
+      "name": "The Way You Love Me",
+      "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -1695,8 +1695,8 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
       },
       "artists": [
         {
@@ -1704,9 +1704,9 @@
           "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
         }
       ],
-      "duration_ms": 186066,
-      "name": "The Way You Love Me",
-      "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
     },
     {
       "added_at": "2024-11-08 16:48:06",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2024-11-08 16:48:06",
       "album": {
-        "name": "Homeward Looking Angel",
-        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Shake The Sugar Tree",
-      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
-    },
-    {
-      "added_at": "2024-11-08 16:48:06",
-      "album": {
         "name": "Michael Peterson",
         "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 182306,
       "name": "Drink, Swear, Steal & Lie",
       "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+    },
+    {
+      "added_at": "2024-11-08 16:48:06",
+      "album": {
+        "name": "Homeward Looking Angel",
+        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Shake The Sugar Tree",
+      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
     },
     {
       "added_at": "2024-11-08 16:48:06",

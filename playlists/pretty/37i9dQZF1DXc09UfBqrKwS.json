@@ -1,6 +1,6 @@
 {
   "description": "hora d hacer la meme",
-  "num_followers": 107962,
+  "num_followers": 107989,
   "original_name": "mimir",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Touches",
-        "url": "https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP"
-      },
-      "artists": [
-        {
-          "name": "Somnum Magnam",
-          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
-        }
-      ],
-      "duration_ms": 144750,
-      "name": "Touches",
-      "url": "https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "The Morning Star",
         "url": "https://open.spotify.com/album/099dNi0f8CBPlICkiw04Cf"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 154074,
       "name": "The Morning Star",
       "url": "https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Touches",
+        "url": "https://open.spotify.com/album/0gr42nFesHmvHP2rihBldP"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "duration_ms": 144750,
+      "name": "Touches",
+      "url": "https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Expectancy",
-        "url": "https://open.spotify.com/album/2zYNtZBAUbiE3ZBJoxeTMn"
-      },
-      "artists": [
-        {
-          "name": "Aveni\u00f3s",
-          "url": "https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1"
-        }
-      ],
-      "duration_ms": 171671,
-      "name": "Expectancy",
-      "url": "https://open.spotify.com/track/13c21xph1VSr6Nxc5JSMeP"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "For a moment",
         "url": "https://open.spotify.com/album/3HehNoOYCGkTWlZiQ3MBLC"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 178909,
       "name": "Stardust Memories",
       "url": "https://open.spotify.com/track/72PXvumKV3t0Eip3D8vkM4"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Expectancy",
+        "url": "https://open.spotify.com/album/2zYNtZBAUbiE3ZBJoxeTMn"
+      },
+      "artists": [
+        {
+          "name": "Aveni\u00f3s",
+          "url": "https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1"
+        }
+      ],
+      "duration_ms": 171671,
+      "name": "Expectancy",
+      "url": "https://open.spotify.com/track/13c21xph1VSr6Nxc5JSMeP"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Altitude",
-        "url": "https://open.spotify.com/album/2g8YMB3eMQVfkfmhxuQI6j"
-      },
-      "artists": [
-        {
-          "name": "Obviame",
-          "url": "https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr"
-        }
-      ],
-      "duration_ms": 182860,
-      "name": "Altitude",
-      "url": "https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Turtle tear",
         "url": "https://open.spotify.com/album/3seQAGD75K3qac1otkGSbT"
       },
@@ -555,6 +539,22 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/2g8YMB3eMQVfkfmhxuQI6j"
+      },
+      "artists": [
+        {
+          "name": "Obviame",
+          "url": "https://open.spotify.com/artist/5O2OGECehpgmmdVmWInftr"
+        }
+      ],
+      "duration_ms": 182860,
+      "name": "Altitude",
+      "url": "https://open.spotify.com/track/4oMMgWfDl9k3FUIL6BltNs"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
         "name": "Overcome",
         "url": "https://open.spotify.com/album/1iA61n9CWRIdgDa8ZFx6XZ"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 183090,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/754SxJuLBc50w8O5lc1VqQ"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
-        "name": "Unseen Paths",
-        "url": "https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY"
-      },
-      "artists": [
-        {
-          "name": "Amphose",
-          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
-        }
-      ],
-      "duration_ms": 164989,
-      "name": "Unseen Paths",
-      "url": "https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -619,18 +603,18 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Essence",
-        "url": "https://open.spotify.com/album/3r12O5MUpkRuv3rABTy6zG"
+        "name": "Unseen Paths",
+        "url": "https://open.spotify.com/album/41jHy4flhub9NfBogTMGXY"
       },
       "artists": [
         {
-          "name": "Rufus Ziegler",
-          "url": "https://open.spotify.com/artist/3al3f0Fd8OQ3OJj4GfpE2f"
+          "name": "Amphose",
+          "url": "https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz"
         }
       ],
-      "duration_ms": 144560,
-      "name": "Essence",
-      "url": "https://open.spotify.com/track/0KXcQySPBhAvDT5c6J1KxH"
+      "duration_ms": 164989,
+      "name": "Unseen Paths",
+      "url": "https://open.spotify.com/track/50pIZ35Js7jJdwknaGARLm"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -715,34 +699,18 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Verdensrommet",
-        "url": "https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0"
+        "name": "Essence",
+        "url": "https://open.spotify.com/album/3r12O5MUpkRuv3rABTy6zG"
       },
       "artists": [
         {
-          "name": "Aksel M\u00f8ller",
-          "url": "https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS"
+          "name": "Rufus Ziegler",
+          "url": "https://open.spotify.com/artist/3al3f0Fd8OQ3OJj4GfpE2f"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Verdensrommet",
-      "url": "https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
-        "name": "Translucent night",
-        "url": "https://open.spotify.com/album/1VEHWNHa2RMzIGXIlDWFVd"
-      },
-      "artists": [
-        {
-          "name": "Olivia Line",
-          "url": "https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA"
-        }
-      ],
-      "duration_ms": 162098,
-      "name": "Translucent night",
-      "url": "https://open.spotify.com/track/7GKuF5uVs0dGmjWzoA5VW5"
+      "duration_ms": 144560,
+      "name": "Essence",
+      "url": "https://open.spotify.com/track/0KXcQySPBhAvDT5c6J1KxH"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -763,6 +731,22 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
+        "name": "Verdensrommet",
+        "url": "https://open.spotify.com/album/2VwVc76UbyMhPSiUfUnkR0"
+      },
+      "artists": [
+        {
+          "name": "Aksel M\u00f8ller",
+          "url": "https://open.spotify.com/artist/2jVswK0TYMQNByLwsyYeaS"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Verdensrommet",
+      "url": "https://open.spotify.com/track/3IVrwyHQPdZBchIDkPHfZf"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
         "name": "Stabilize",
         "url": "https://open.spotify.com/album/27ZSlh6IgrmEoDIP5LKrM5"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
+        "name": "Translucent night",
+        "url": "https://open.spotify.com/album/1VEHWNHa2RMzIGXIlDWFVd"
+      },
+      "artists": [
+        {
+          "name": "Olivia Line",
+          "url": "https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA"
+        }
+      ],
+      "duration_ms": 162098,
+      "name": "Translucent night",
+      "url": "https://open.spotify.com/track/7GKuF5uVs0dGmjWzoA5VW5"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
         "name": "Return Home",
         "url": "https://open.spotify.com/album/0cyoMdXb1G4J9pBfY0y0ML"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 183700,
       "name": "Return Home",
       "url": "https://open.spotify.com/track/2d0qDRQAsyxsEPr6671Y9X"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Respective",
+        "url": "https://open.spotify.com/album/3KbZDAf3Vc9OZP15LKnoku"
+      },
+      "artists": [
+        {
+          "name": "different spaces",
+          "url": "https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K"
+        }
+      ],
+      "duration_ms": 177251,
+      "name": "Respective",
+      "url": "https://open.spotify.com/track/4CFdKTed1DOl04HkT5yFl9"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -823,22 +839,6 @@
       "duration_ms": 151486,
       "name": "Serendipity",
       "url": "https://open.spotify.com/track/2y2u04LUbceXkEcUndxo1N"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
-        "name": "Respective",
-        "url": "https://open.spotify.com/album/3KbZDAf3Vc9OZP15LKnoku"
-      },
-      "artists": [
-        {
-          "name": "different spaces",
-          "url": "https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K"
-        }
-      ],
-      "duration_ms": 177251,
-      "name": "Respective",
-      "url": "https://open.spotify.com/track/4CFdKTed1DOl04HkT5yFl9"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
+        "name": "Ad Astra",
+        "url": "https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ"
+      },
+      "artists": [
+        {
+          "name": "Volta Celeste",
+          "url": "https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI"
+        }
+      ],
+      "duration_ms": 158253,
+      "name": "Ad Astra",
+      "url": "https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
         "name": "Slumber",
         "url": "https://open.spotify.com/album/4O2LD8nIKfma74ymQ9qDtF"
       },
@@ -971,22 +987,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Ad Astra",
-        "url": "https://open.spotify.com/album/1LR1BYVE2XyzNqI2YMFjsQ"
-      },
-      "artists": [
-        {
-          "name": "Volta Celeste",
-          "url": "https://open.spotify.com/artist/6dQx2H9bZ0X8UdyjkNAmNI"
-        }
-      ],
-      "duration_ms": 158253,
-      "name": "Ad Astra",
-      "url": "https://open.spotify.com/track/0v7I8fgIlTNg3MSk4osm1j"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Pegasus Prism",
         "url": "https://open.spotify.com/album/7wBtN4fXTEnVVK61JRJctc"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 174000,
       "name": "Pegasus Prism",
       "url": "https://open.spotify.com/track/2WFNWNsGT2DXFLJMdC5eDG"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
-        "name": "Celestial Serenity",
-        "url": "https://open.spotify.com/album/2uO2aY0fJuJwA1fglKA6Aw"
-      },
-      "artists": [
-        {
-          "name": "Elysia Adler",
-          "url": "https://open.spotify.com/artist/2h1JbJb38it4V14TTHwkha"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Celestial Serenity",
-      "url": "https://open.spotify.com/track/10qAwjxWsZCrnHwrHcxJh9"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Harvest Moon",
-        "url": "https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd"
-      },
-      "artists": [
-        {
-          "name": "Ursae Minoris",
-          "url": "https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo"
-        }
-      ],
-      "duration_ms": 188710,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Joys",
         "url": "https://open.spotify.com/album/3NWkkOHzbGUFecxZyIbBeB"
       },
@@ -1063,6 +1031,38 @@
       "duration_ms": 160000,
       "name": "Joys",
       "url": "https://open.spotify.com/track/2O2qcDFG5UHfwPdlzlU5Ez"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Celestial Serenity",
+        "url": "https://open.spotify.com/album/2uO2aY0fJuJwA1fglKA6Aw"
+      },
+      "artists": [
+        {
+          "name": "Elysia Adler",
+          "url": "https://open.spotify.com/artist/2h1JbJb38it4V14TTHwkha"
+        }
+      ],
+      "duration_ms": 182933,
+      "name": "Celestial Serenity",
+      "url": "https://open.spotify.com/track/10qAwjxWsZCrnHwrHcxJh9"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Harvest Moon",
+        "url": "https://open.spotify.com/album/0QU5tC1BhoRXa9vbe88QQd"
+      },
+      "artists": [
+        {
+          "name": "Ursae Minoris",
+          "url": "https://open.spotify.com/artist/6AaoxXuj5Iwi9Tm1BATmFo"
+        }
+      ],
+      "duration_ms": 188710,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/1rJg3BtPS7AuK2oKJKS0Ds"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Aeternus",
-        "url": "https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad"
-      },
-      "artists": [
-        {
-          "name": "Sonic Waterfall",
-          "url": "https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Aeternus",
-      "url": "https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Lighthouse",
         "url": "https://open.spotify.com/album/0NiwXfCPPctznzw3f3rOkH"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 147946,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/0LNiw2LKUcJG80ciSFQnLu"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Aeternus",
+        "url": "https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad"
+      },
+      "artists": [
+        {
+          "name": "Sonic Waterfall",
+          "url": "https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Aeternus",
+      "url": "https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/0zeZuh7s0PugfanmMyWBpN"
-      },
-      "artists": [
-        {
-          "name": "Ocean Pulse",
-          "url": "https://open.spotify.com/artist/6gQD4JqqcAJWvbWObCMCTX"
-        }
-      ],
-      "duration_ms": 196842,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/0GRyPs3q2ywZWnUFyc1yUb"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Deep Under",
         "url": "https://open.spotify.com/album/1aKq8VxKXbd53QhabHk8r0"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 149750,
       "name": "Deep Under",
       "url": "https://open.spotify.com/track/4nEprHHwdUBLPprFIZD18B"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/0zeZuh7s0PugfanmMyWBpN"
+      },
+      "artists": [
+        {
+          "name": "Ocean Pulse",
+          "url": "https://open.spotify.com/artist/6gQD4JqqcAJWvbWObCMCTX"
+        }
+      ],
+      "duration_ms": 196842,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/0GRyPs3q2ywZWnUFyc1yUb"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
+        "name": "Enigmus",
+        "url": "https://open.spotify.com/album/10kWRgddUgZdJ96qITHnYx"
+      },
+      "artists": [
+        {
+          "name": "luminique Revox",
+          "url": "https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Enigmus",
+      "url": "https://open.spotify.com/track/7Cw2C3KEvbcXVEBERuAWzt"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
         "name": "Zuma",
         "url": "https://open.spotify.com/album/2P57DtH6zC5Pbi5bx1byAK"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Enigmus",
-        "url": "https://open.spotify.com/album/10kWRgddUgZdJ96qITHnYx"
+        "name": "Enhance",
+        "url": "https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay"
       },
       "artists": [
         {
-          "name": "luminique Revox",
-          "url": "https://open.spotify.com/artist/1x102Y2kSACtCX5MsNyIGX"
+          "name": "E\u00f4ne",
+          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
         }
       ],
-      "duration_ms": 203733,
-      "name": "Enigmus",
-      "url": "https://open.spotify.com/track/7Cw2C3KEvbcXVEBERuAWzt"
+      "duration_ms": 172732,
+      "name": "Enhance",
+      "url": "https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1415,22 +1431,6 @@
       "duration_ms": 158000,
       "name": "Gruis Silentium",
       "url": "https://open.spotify.com/track/30XdBC7802TJIsTurWWI7T"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
-        "name": "Enhance",
-        "url": "https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay"
-      },
-      "artists": [
-        {
-          "name": "E\u00f4ne",
-          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
-        }
-      ],
-      "duration_ms": 172732,
-      "name": "Enhance",
-      "url": "https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Fulfilled",
-        "url": "https://open.spotify.com/album/6oX4wwwqlA1hi4ELRlkOHV"
+        "name": "Buoyed",
+        "url": "https://open.spotify.com/album/0zg3nYsefBVwq4ebNfm0qW"
       },
       "artists": [
         {
-          "name": "ZIWA",
-          "url": "https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf"
+          "name": "Earthbound",
+          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
         }
       ],
-      "duration_ms": 179166,
-      "name": "Fulfilled",
-      "url": "https://open.spotify.com/track/6MyMsRVJSk0lplNc2S1ib1"
+      "duration_ms": 150000,
+      "name": "Buoyed",
+      "url": "https://open.spotify.com/track/5G5SUZpvIXZX5PvKNqruvU"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1563,18 +1563,18 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Buoyed",
-        "url": "https://open.spotify.com/album/0zg3nYsefBVwq4ebNfm0qW"
+        "name": "Fulfilled",
+        "url": "https://open.spotify.com/album/6oX4wwwqlA1hi4ELRlkOHV"
       },
       "artists": [
         {
-          "name": "Earthbound",
-          "url": "https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03"
+          "name": "ZIWA",
+          "url": "https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Buoyed",
-      "url": "https://open.spotify.com/track/5G5SUZpvIXZX5PvKNqruvU"
+      "duration_ms": 179166,
+      "name": "Fulfilled",
+      "url": "https://open.spotify.com/track/6MyMsRVJSk0lplNc2S1ib1"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Resort To Nature",
-        "url": "https://open.spotify.com/album/3cfeMFlrZhj48l1V1kpr3c"
-      },
-      "artists": [
-        {
-          "name": "Relaxatron",
-          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
-        }
-      ],
-      "duration_ms": 178968,
-      "name": "Resort To Nature",
-      "url": "https://open.spotify.com/track/7x5R8CCs2hpUWdReDxsQYZ"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Ancient Calm",
         "url": "https://open.spotify.com/album/39muA5z5ivtLfO1qOnzOlI"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 170000,
       "name": "Ancient Calm",
       "url": "https://open.spotify.com/track/61Nh3AZTeyO41688TfNmw7"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Resort To Nature",
+        "url": "https://open.spotify.com/album/3cfeMFlrZhj48l1V1kpr3c"
+      },
+      "artists": [
+        {
+          "name": "Relaxatron",
+          "url": "https://open.spotify.com/artist/0ytd7vbPhVQGueImkqm76d"
+        }
+      ],
+      "duration_ms": 178968,
+      "name": "Resort To Nature",
+      "url": "https://open.spotify.com/track/7x5R8CCs2hpUWdReDxsQYZ"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Tenebrosity",
-        "url": "https://open.spotify.com/album/1o7rR5YfL1DKQvpawLpRHj"
-      },
-      "artists": [
-        {
-          "name": "Ambient Renaissance",
-          "url": "https://open.spotify.com/artist/0QrVCAg5EvbIo1KfsKH25y"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "Tenebrosity",
-      "url": "https://open.spotify.com/track/6Lm0g6IMfnjpWQb3TddwyZ"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Rare Lights",
         "url": "https://open.spotify.com/album/6UQVAkdfBQy3w90s6daUZY"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 178722,
       "name": "Calmness",
       "url": "https://open.spotify.com/track/3ZjO9JL84czoWKZLmeIqU2"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Tenebrosity",
+        "url": "https://open.spotify.com/album/1o7rR5YfL1DKQvpawLpRHj"
+      },
+      "artists": [
+        {
+          "name": "Ambient Renaissance",
+          "url": "https://open.spotify.com/artist/0QrVCAg5EvbIo1KfsKH25y"
+        }
+      ],
+      "duration_ms": 144300,
+      "name": "Tenebrosity",
+      "url": "https://open.spotify.com/track/6Lm0g6IMfnjpWQb3TddwyZ"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 152144,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/6aP3k8Oo4BWQo4BsZTdCS8"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 185250,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/6UGDOLRjEkgUrS3Y8aLLK8"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/470XfNnFrJcwGRcz2d7vP7"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 152144,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5g5GzjSjGD4UoA1vOemVLu"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Chatoyante",
-        "url": "https://open.spotify.com/album/3GZVKjtELGJ2EXNZsAl4Y2"
-      },
-      "artists": [
-        {
-          "name": "R\u00eaveuse",
-          "url": "https://open.spotify.com/artist/0DeHCKY9cIUwGMZuyIWCe1"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Chatoyante",
-      "url": "https://open.spotify.com/track/5s3iXfS57ezUNi6M1McDDp"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Expired Thoughts",
         "url": "https://open.spotify.com/album/43fkNRsNLSGji8aC8TwZPE"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 185000,
       "name": "Expired Thoughts",
       "url": "https://open.spotify.com/track/16tv70QfvbOzdpPrjt0MKP"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Chatoyante",
+        "url": "https://open.spotify.com/album/3GZVKjtELGJ2EXNZsAl4Y2"
+      },
+      "artists": [
+        {
+          "name": "R\u00eaveuse",
+          "url": "https://open.spotify.com/artist/0DeHCKY9cIUwGMZuyIWCe1"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Chatoyante",
+      "url": "https://open.spotify.com/track/5s3iXfS57ezUNi6M1McDDp"
     },
     {
       "added_at": "2024-11-21 12:31:44",
@@ -2723,22 +2723,6 @@
     {
       "added_at": "2024-11-21 12:31:44",
       "album": {
-        "name": "Coastline",
-        "url": "https://open.spotify.com/album/6MUO96TQJtIvvguAqzD1gp"
-      },
-      "artists": [
-        {
-          "name": "Peaceful Storm",
-          "url": "https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm"
-        }
-      ],
-      "duration_ms": 165750,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/56ovbPD58pnbowpTbVP6u7"
-    },
-    {
-      "added_at": "2024-11-21 12:31:44",
-      "album": {
         "name": "Antares",
         "url": "https://open.spotify.com/album/2eDkjQZjSEWKZ6oZ1G60zb"
       },
@@ -2751,6 +2735,22 @@
       "duration_ms": 183294,
       "name": "Antares",
       "url": "https://open.spotify.com/track/3PsBjzhmyOU2SRlQpozoc4"
+    },
+    {
+      "added_at": "2024-11-21 12:31:44",
+      "album": {
+        "name": "Coastline",
+        "url": "https://open.spotify.com/album/6MUO96TQJtIvvguAqzD1gp"
+      },
+      "artists": [
+        {
+          "name": "Peaceful Storm",
+          "url": "https://open.spotify.com/artist/1F9BGQRXydW5pf28ukNEkm"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/56ovbPD58pnbowpTbVP6u7"
     },
     {
       "added_at": "2024-11-21 12:31:44",

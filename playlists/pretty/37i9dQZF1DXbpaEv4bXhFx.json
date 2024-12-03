@@ -1,6 +1,6 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04. (Listen to K-Pop rainy day songs.)",
-  "num_followers": 15549,
+  "num_followers": 15548,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-08-09 09:24:09",
       "album": {
+        "name": "HOW YOU FEEL?",
+        "url": "https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW"
+      },
+      "artists": [
+        {
+          "name": "cott (\ucf67)",
+          "url": "https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs"
+        }
+      ],
+      "duration_ms": 164575,
+      "name": "HOW YOU FEEL?",
+      "url": "https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o"
+    },
+    {
+      "added_at": "2024-08-09 09:24:09",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 262394,
       "name": "Sad ending (Feat. george)",
       "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2024-08-09 09:24:09",
-      "album": {
-        "name": "HOW YOU FEEL?",
-        "url": "https://open.spotify.com/album/33emNvcuVWa2vHpeHYFvsW"
-      },
-      "artists": [
-        {
-          "name": "cott (\ucf67)",
-          "url": "https://open.spotify.com/artist/3LEYZADVQJLFNHzCf4qxzs"
-        }
-      ],
-      "duration_ms": 164575,
-      "name": "HOW YOU FEEL?",
-      "url": "https://open.spotify.com/track/4F6NF7HAOSBVlX5RFHdV5o"
     },
     {
       "added_at": "2024-08-09 09:24:09",

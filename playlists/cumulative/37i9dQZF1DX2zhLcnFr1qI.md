@@ -4,7 +4,7 @@
 
 > Baby, it's cold outside 🎁🌲 here's some EDM to keep warm!
 
-122 songs - 6 hr 24 min
+123 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Somewhere In My Memory \(Home Alone Theme\)](https://open.spotify.com/track/5myPiuaHzvdFCIp8wO6NTQ) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Jaxx & Vega](https://open.spotify.com/artist/7bdZVVcdyFjxVRj6vCVk9w) | [Home Alone \(On the Night Before Christmas\)](https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ) | 3:13 | 2021-12-17 | 2024-04-19 |
 | [Still Still Still](https://open.spotify.com/track/5KZjGGlnhMHQpVoMhbSX01) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [hOMe for the Holidays](https://open.spotify.com/album/4fNaFBB1r1HrjH9f0Btoxk) | 4:06 | 2021-12-17 | 2022-07-28 |
 | [Taste like Christmas Time](https://open.spotify.com/track/12DDf86PRKoQwwv5SXZIFB) | [OFF KEY JUNIOR](https://open.spotify.com/artist/41mD8iGiM0QCM3l6NwhyxW), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Taste like Christmas Time](https://open.spotify.com/album/3PQpKypwpmomqBsGGLqJI3) | 3:01 | 2023-12-08 |  |
-| [THANK YOU MARIAH](https://open.spotify.com/track/2V2oqrlk22uH9Cjv8CICn8) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [THANK YOU MARIAH](https://open.spotify.com/album/2E33FQocDCN66wMxncziqW) | 3:30 | 2021-12-17 |  |
+| [THANK YOU MARIAH](https://open.spotify.com/track/2V2oqrlk22uH9Cjv8CICn8) | [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [THANK YOU MARIAH](https://open.spotify.com/album/2E33FQocDCN66wMxncziqW) | 3:30 | 2021-12-17 | 2024-12-03 |
 | [The First Noel \(feat\. Gabrielle Current\)](https://open.spotify.com/track/56iX5gfP8z8fhPiYNNysjF) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Gabrielle Current](https://open.spotify.com/artist/7efkoQb7dW8884GCnykYKW) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:53 | 2021-12-17 | 2022-07-28 |
 | [The Snowman \(Walking In The Air\) \[feat\. Mingue\]](https://open.spotify.com/track/0zCwYJPSR5tHyqlB70q5Mb) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [The Snowman \(Walking In The Air\) \[feat\. Mingue\]](https://open.spotify.com/album/3qeaSUEHDtlUOfRxo9HDcJ) | 2:29 | 2023-12-22 |  |
 | [This Christmas Night \(feat\. Dia Frampton\)](https://open.spotify.com/track/0ce4QrpcsOWkMpkami5Ts0) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:19 | 2021-12-17 | 2022-07-27 |
@@ -120,6 +120,7 @@
 | [Winter Wonderland](https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Kaskade Christmas](https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY) | 3:14 | 2021-12-17 | 2024-10-04 |
 | [Winter Wonderland](https://open.spotify.com/track/4kIEyU0Jnp4lNUibWJ7teg) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [July](https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz) | [Winter Wonderland](https://open.spotify.com/album/1iRgpbqUkSsntQR3GV76H4) | 2:46 | 2023-12-07 |  |
 | [Winter Wonderland](https://open.spotify.com/track/6RU4NdFcF1BsXR7PvHIdb0) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Winter Wonderland](https://open.spotify.com/album/3ldwzSF4n5lGOphBYoVZL9) | 3:03 | 2023-12-22 |  |
+| [Winter Wonderland](https://open.spotify.com/track/0nbeg7UUXdyAs1MBUhi9B4) | [Santa is a DJ](https://open.spotify.com/artist/2O9QzlyJoRwJZnz7vggoYy) | [Jul Dance Musik 2023](https://open.spotify.com/album/0UoOFxwkmbQidy3xoCwbNm) | 2:03 | 2024-11-25 |  |
 | [Winter Wonderland](https://open.spotify.com/track/2XU4sTuAJ882jJnimHyvVZ) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Winter Wonderland](https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr) | 2:44 | 2022-12-16 |  |
 | [Winter Wonderland ^Bsiide](https://open.spotify.com/track/3o61WoISh2MzY6FDB3G5ZE) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Winter Wonderland ^Bsiide](https://open.spotify.com/album/6pcKxl4tKNedCa0n5jmJ3a) | 2:58 | 2021-12-17 |  |
 | [wish ✮⋆˙](https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [wish ✮⋆˙](https://open.spotify.com/album/0OI5jimIAjOVUfFiNcE5QM) | 2:11 | 2023-12-08 | 2024-04-19 |

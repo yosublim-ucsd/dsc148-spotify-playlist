@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 
 ### [Cozy Christmas Pop](https://open.spotify.com/playlist/37i9dQZF1DWSFWSTYGmXDl)
 
-> Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
+> Soft and warm Christmas songs from recent years\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,343 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,847 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
-| 2 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx) | 3:55 |
-| 3 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
-| 4 | [Snowman \- Slowed Down](https://open.spotify.com/track/6Ob0vkoBVpja3yLQkjCdpK) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Snowman \(Slowed Down & Snowed In Remix\)](https://open.spotify.com/album/7Ktba0IWwrAyFpoUNc0bL8) | 3:00 |
-| 5 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
+| 1 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
+| 2 | [Glow](https://open.spotify.com/track/4nEJzW7MkSF8ojY7WJnoPt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 3:18 |
+| 3 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0jPnNZS9IJ0awbpFLZr3EY) | [Kate Hudson](https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7qZx1FWE5Li3mAPmUlyCHx) | 3:55 |
+| 4 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/2gciS7UJjv59l7608DFGNl) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/album/0gmojjrEnKs0BoN1WnYh8x) | 2:46 |
+| 5 | [Snowman \- Slowed Down](https://open.spotify.com/track/6Ob0vkoBVpja3yLQkjCdpK) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Snowman \(Slowed Down & Snowed In Remix\)](https://open.spotify.com/album/7Ktba0IWwrAyFpoUNc0bL8) | 3:00 |
 | 6 | [blame it on the snow](https://open.spotify.com/track/1QZbfQMzfDqWoyAEvXi1jQ) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [winter wishes](https://open.spotify.com/album/75CXdCIqKbAa4y8lfFc4qo) | 2:35 |
 | 7 | [I'll Be Home](https://open.spotify.com/track/0YupMLYOYz6lZDbN3kRt7A) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 3:39 |
 | 8 | [Winter Things](https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Christmas & Chill](https://open.spotify.com/album/6yi7FjzeCHGVJJAdWRYAmk) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFWSTYGmXDl.md) - [plain]
 | 99 | [Loneliest Time Of Year](https://open.spotify.com/track/7dfWGm8f6joB6tLnZN2avh) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Loneliest Time Of Year](https://open.spotify.com/album/4AKesH5kCVXdZKeWuAHVUQ) | 3:22 |
 | 100 | [Christmas Through Your Eyes](https://open.spotify.com/track/01ZUp6PoqFuRtMTMODnPOf) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [On This Winter's Night \(Deluxe\)](https://open.spotify.com/album/6ww6efJkv3ytQfbEyMosPu) | 3:59 |
 
-Snapshot ID: `Z0nkTAAAAAAKxRZ9LcoUs6c5pW5nAoFp`
+Snapshot ID: `Z03rvAAAAAB4/mxZczycMUcjeHb1m1oi`

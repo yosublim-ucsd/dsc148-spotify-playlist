@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "All new music with an Indie twist. Cover: Sarah Julia",
+  "description": "All new music with an Indie twist. Cover: Nana Adjoa",
   "name": "Indie Update",
   "tracks": [
     {
@@ -330,6 +330,24 @@
       "duration_ms": 203839,
       "name": "Ascend to Heaven",
       "url": "https://open.spotify.com/track/6zHSlc8G9xnrueRFYyLGqS"
+    },
+    {
+      "album": {
+        "name": "Asphalt",
+        "url": "https://open.spotify.com/album/5FMvxZocKUrvCVRhoQlbf0"
+      },
+      "artists": [
+        {
+          "name": "Dominique Way",
+          "url": "https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Asphalt",
+      "url": "https://open.spotify.com/track/3fAqHozWFRgns0CAFEbekC"
     },
     {
       "album": {
@@ -804,7 +822,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 205318,
       "name": "confused",
       "url": "https://open.spotify.com/track/5mVD6EqHjznlT9vjOQV2bA"
@@ -1216,7 +1234,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 176208,
       "name": "Fuzzy Feeling",
       "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
@@ -1443,6 +1461,28 @@
     },
     {
       "album": {
+        "name": "How Does It Feel To Be You (feat. n\u00e9om\u00ed)",
+        "url": "https://open.spotify.com/album/28p8sVDSRlD2QuAwwxy9GZ"
+      },
+      "artists": [
+        {
+          "name": "Melle",
+          "url": "https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp"
+        },
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256062,
+      "name": "How Does It Feel To Be You (feat. n\u00e9om\u00ed)",
+      "url": "https://open.spotify.com/track/6MttUJkeC861ei3huiHewG"
+    },
+    {
+      "album": {
         "name": "I Dream of An Island",
         "url": "https://open.spotify.com/album/1XKOOMZRIN7hCbwm1hwDRs"
       },
@@ -1606,7 +1646,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 183088,
       "name": "In My House",
       "url": "https://open.spotify.com/track/29IImCkTjioBd7YEDmvQDS"
@@ -1700,6 +1740,24 @@
       "duration_ms": 275533,
       "name": "it takes a long time to feel free",
       "url": "https://open.spotify.com/track/4zgjMTwle0M00Oz4ZJvvDo"
+    },
+    {
+      "album": {
+        "name": "Jaouad",
+        "url": "https://open.spotify.com/album/5ffS5umIscQePcvQf9ToCD"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301277,
+      "name": "Jaouad",
+      "url": "https://open.spotify.com/track/7D5Qln7h4TYCjR37s8RyvB"
     },
     {
       "album": {
@@ -2258,7 +2316,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 212530,
       "name": "Model, Actress, Whatever",
       "url": "https://open.spotify.com/track/2GxyLVk70vblDcloX4mJsi"
@@ -2348,7 +2406,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 301053,
       "name": "Nanalou",
       "url": "https://open.spotify.com/track/1BKn39VqcRuKF2DsbRJydU"
@@ -2370,6 +2428,24 @@
       "duration_ms": 252211,
       "name": "Nearness of You",
       "url": "https://open.spotify.com/track/2G6U94s65dWkZPj7dr9vJ1"
+    },
+    {
+      "album": {
+        "name": "Never Again",
+        "url": "https://open.spotify.com/album/4ThezZScitRuZONCfkJewe"
+      },
+      "artists": [
+        {
+          "name": "Thomas Azier",
+          "url": "https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172920,
+      "name": "Never Again",
+      "url": "https://open.spotify.com/track/0KwMTCtE9g1K3e6VoOjf0A"
     },
     {
       "album": {
@@ -2499,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "One of Us",
+        "url": "https://open.spotify.com/album/2whZgGM2nRFzNSaiH9AUle"
+      },
+      "artists": [
+        {
+          "name": "Nana Adjoa",
+          "url": "https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "One of Us",
+      "url": "https://open.spotify.com/track/2QOliionpGeW9UDnguKX52"
+    },
+    {
+      "album": {
         "name": "Overdue",
         "url": "https://open.spotify.com/album/2ykUyBsX93ruS03b21aZpT"
       },
@@ -2622,7 +2716,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 183780,
       "name": "Pinch Me",
       "url": "https://open.spotify.com/track/4zjg3PG8mgaerssPLkP83v"
@@ -2770,6 +2864,24 @@
       "duration_ms": 204634,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU"
+    },
+    {
+      "album": {
+        "name": "Rust.",
+        "url": "https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215652,
+      "name": "Rust.",
+      "url": "https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N"
     },
     {
       "album": {
@@ -3671,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "You (A Burden)",
+        "url": "https://open.spotify.com/album/0Z7Vydr2bEAo6BsHqbzwCh"
+      },
+      "artists": [
+        {
+          "name": "Zo Lief",
+          "url": "https://open.spotify.com/artist/655lv153aeepabVfhjnGwq"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183917,
+      "name": "You (A Burden)",
+      "url": "https://open.spotify.com/track/1ATi24AFtfiCZ5P9xLaYHE"
+    },
+    {
+      "album": {
         "name": "The Greatest Love",
         "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
       },
@@ -3682,7 +3812,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 300432,
       "name": "You And I",
       "url": "https://open.spotify.com/track/248XJMcsowzZrF1APvILhF"

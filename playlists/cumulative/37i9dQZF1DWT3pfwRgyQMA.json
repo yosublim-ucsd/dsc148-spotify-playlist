@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Ritual De Lo Habitual",
+        "url": "https://open.spotify.com/album/2Jkbi83HTSfqEd0CBdYwpU"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Been Caught Stealing",
+      "url": "https://open.spotify.com/track/4Qievb8Mqy0qxdLNVl02zt"
+    },
+    {
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 241920,
       "name": "Burning Down the House",
       "url": "https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT"
@@ -550,6 +568,24 @@
       "duration_ms": 218920,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/2RsAajgo0g7bMCHxwH3Sk0"
+    },
+    {
+      "album": {
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
+      },
+      "artists": [
+        {
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250573,
+      "name": "Come Back To What You Know",
+      "url": "https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy"
     },
     {
       "album": {
@@ -1000,7 +1036,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 255733,
       "name": "Freak On a Leash",
       "url": "https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu"
@@ -1180,7 +1216,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 204733,
       "name": "Helena",
       "url": "https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9"
@@ -1310,6 +1346,24 @@
       "duration_ms": 180640,
       "name": "Highway Tune",
       "url": "https://open.spotify.com/track/7aOor99o8NNLZYElOXlBG1"
+    },
+    {
+      "album": {
+        "name": "Fresh Fruit For Rotting Vegetables (Expanded Edition)",
+        "url": "https://open.spotify.com/album/41ZBxW5kNgSlZeVvXpkJWG"
+      },
+      "artists": [
+        {
+          "name": "Dead Kennedys",
+          "url": "https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226640,
+      "name": "Holiday in Cambodia - Single Version",
+      "url": "https://open.spotify.com/track/6ZR7gzHIvcj4qvo5q4kqXN"
     },
     {
       "album": {
@@ -1782,7 +1836,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 287000,
       "name": "Jane Says",
       "url": "https://open.spotify.com/track/7c1Dar0pIAW7w5TzaGjt9t"
@@ -1962,7 +2016,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 276866,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
@@ -2168,6 +2222,24 @@
       "duration_ms": 174067,
       "name": "Monsters (feat. blackbear)",
       "url": "https://open.spotify.com/track/0tyR7Bu9P086aWBFZ4QJoo"
+    },
+    {
+      "album": {
+        "name": "Forever Delayed",
+        "url": "https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305706,
+      "name": "Motorcycle Emptiness",
+      "url": "https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY"
     },
     {
       "album": {
@@ -2438,7 +2510,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257399,
       "name": "Only One",
       "url": "https://open.spotify.com/track/0gZp88SA5OcujHLDGkxtI3"
@@ -2460,6 +2532,24 @@
       "duration_ms": 204853,
       "name": "Over You",
       "url": "https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI"
+    },
+    {
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365826,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
       "album": {
@@ -3273,6 +3363,24 @@
     },
     {
       "album": {
+        "name": "Dog Man Star (Remastered)",
+        "url": "https://open.spotify.com/album/1LgpJjBJIRQhkJ01oZR3Cn"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "date_added": "2024-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271693,
+      "name": "The Power (Remastered)",
+      "url": "https://open.spotify.com/track/7uOzeMnVu3i6rS7kNXPQJL"
+    },
+    {
+      "album": {
         "name": "Echoes, Silence, Patience & Grace",
         "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
       },
@@ -3320,7 +3428,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 162186,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P"
@@ -3392,7 +3500,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-15",
+      "date_removed": null,
       "duration_ms": 232466,
       "name": "Til I Hear It From You",
       "url": "https://open.spotify.com/track/5TKuf1mxDlHdXcvdIDViUR"
@@ -3410,7 +3518,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
@@ -3428,7 +3536,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 254626,
       "name": "Tonight, Tonight - Remastered 2012",
       "url": "https://open.spotify.com/track/7bu0znpSbTks0O6I98ij0W"
@@ -3518,7 +3626,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 201640,
       "name": "Vindicated",
       "url": "https://open.spotify.com/track/4vGVxKlQdecXgSRv5kJ2Yb"
@@ -3770,7 +3878,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"

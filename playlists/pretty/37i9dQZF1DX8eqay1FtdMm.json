@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Yang Da-il(\uc591\ub2e4\uc77c)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 378305,
+  "num_followers": 378282,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 193321,
-      "name": "200%",
-      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 205120,
       "name": "For You",
       "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 193321,
+      "name": "200%",
+      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
-      },
-      "artists": [
-        {
-          "name": "DOYOUNG",
-          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "17",
-      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Officially Cool",
         "url": "https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 177253,
       "name": "Officially Cool",
       "url": "https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "duration_ms": 170533,
+      "name": "17",
+      "url": "https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 174676,
-      "name": "Still LOVE",
-      "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "\uae34 \ubc24 (feat. GIRIBOY)",
         "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Stroll",
-        "url": "https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG"
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/4VVZOp0EcshGXio3BB4umf"
       },
       "artists": [
         {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
         }
       ],
-      "duration_ms": 306733,
-      "name": "Stroll",
-      "url": "https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK"
+      "duration_ms": 174676,
+      "name": "Still LOVE",
+      "url": "https://open.spotify.com/track/3qg62gQfOoDs6ILGmcYjUp"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -991,6 +975,22 @@
       "duration_ms": 244173,
       "name": "The Eternal Moment",
       "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Stroll",
+        "url": "https://open.spotify.com/album/72LyvyO7wpv7ADawbJqHTG"
+      },
+      "artists": [
+        {
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+        }
+      ],
+      "duration_ms": 306733,
+      "name": "Stroll",
+      "url": "https://open.spotify.com/track/1ksogiV5AnuwcejwfKpNKK"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1023,6 +1023,22 @@
       "duration_ms": 223546,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
+      },
+      "artists": [
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Because of You",
+      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Eyebrow Moon",
-        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 236693,
-      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
-      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Alley",
         "url": "https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Eyebrow Moon",
+        "url": "https://open.spotify.com/album/4s8nM5eaEQW2j57M4GUWBA"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 236693,
+      "name": "\ubc14\ub78c\uc774 \ubd84\ub2e4",
+      "url": "https://open.spotify.com/track/4TlKVrK0TnVlwvVSbUbbM4"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1179,22 +1195,6 @@
       "duration_ms": 221586,
       "name": "Alone",
       "url": "https://open.spotify.com/track/3rNzZNNxqtzgAEIzNaQpku"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
-        "name": "Rookie Cops (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn"
-      },
-      "artists": [
-        {
-          "name": "Chancellor",
-          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Because of You",
-      "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Burn Like A Star",
-        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
-      },
-      "artists": [
-        {
-          "name": "Ahn Ye Eun",
-          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
-        },
-        {
-          "name": "Woo Ye Rin",
-          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Burn Like A Star",
-      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
         "name": "Walk With Me",
         "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
       },
@@ -1387,6 +1367,22 @@
       "duration_ms": 246320,
       "name": "Walk With Me",
       "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
+        "name": "Love Playlist3 Part.1",
+        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 237224,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1427,18 +1423,22 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
-        "name": "Love Playlist3 Part.1",
-        "url": "https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI"
+        "name": "Burn Like A Star",
+        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
       "artists": [
         {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        },
+        {
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
         }
       ],
-      "duration_ms": 237224,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI"
+      "duration_ms": 188253,
+      "name": "Burn Like A Star",
+      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
     },
     {
       "added_at": "2024-11-29 09:12:24",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-11-29 09:12:24",
       "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+    },
+    {
+      "added_at": "2024-11-29 09:12:24",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/7hBDAgfWPOEWnJVgB3Adr6"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
-    },
-    {
-      "added_at": "2024-11-29 09:12:24",
-      "album": {
-        "name": "my life",
-        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
-      },
-      "artists": [
-        {
-          "name": "Mark Tuan",
-          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
-        }
-      ],
-      "duration_ms": 174990,
-      "name": "my life",
-      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
     }
   ],
   "unique_name": "v o K a l",

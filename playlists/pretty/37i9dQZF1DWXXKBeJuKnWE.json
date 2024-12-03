@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Architects",
-  "num_followers": 507623,
+  "num_followers": 507592,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Karma Police",
-        "url": "https://open.spotify.com/album/0lsE84fafmngJgIwvVcr8S"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 268005,
-      "name": "Karma Police",
-      "url": "https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "TANGK",
         "url": "https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 249586,
       "name": "Gift Horse",
       "url": "https://open.spotify.com/track/67CrKLE8d3Qhm4gcltiKs1"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Karma Police",
+        "url": "https://open.spotify.com/album/0lsE84fafmngJgIwvVcr8S"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 268005,
+      "name": "Karma Police",
+      "url": "https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "the garden",
-        "url": "https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg"
-      },
-      "artists": [
-        {
-          "name": "unpeople",
-          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
-        }
-      ],
-      "duration_ms": 203770,
-      "name": "the garden",
-      "url": "https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Out Of Style",
         "url": "https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 205897,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "the garden",
+        "url": "https://open.spotify.com/album/4iHuwtCHVOlMC4u09kbIYg"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "duration_ms": 203770,
+      "name": "the garden",
+      "url": "https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "DARKER WHITE",
-        "url": "https://open.spotify.com/album/0UWEX5Hrmapw4CJOOeBStP"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 181613,
-      "name": "PIN DROP",
-      "url": "https://open.spotify.com/track/5JX5jI1UUzwxHyRapkE5CW"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "When She Told Me",
         "url": "https://open.spotify.com/album/6r3emSLfF17MpkJAXzd5Tt"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 281800,
       "name": "When She Told Me",
       "url": "https://open.spotify.com/track/1uRF3CIh24PY17wR5v5k6Q"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "DARKER WHITE",
+        "url": "https://open.spotify.com/album/0UWEX5Hrmapw4CJOOeBStP"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 181613,
+      "name": "PIN DROP",
+      "url": "https://open.spotify.com/track/5JX5jI1UUzwxHyRapkE5CW"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "We Could Be Heaven",
-        "url": "https://open.spotify.com/album/6olZb6eZFBI9xpmPDAwqOR"
-      },
-      "artists": [
-        {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "We Could Be Heaven",
-      "url": "https://open.spotify.com/track/7qsCOBgSNp8SOOV9UfHnJD"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "The Echoes of Disparity",
         "url": "https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI"
       },
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "We Could Be Heaven",
+        "url": "https://open.spotify.com/album/6olZb6eZFBI9xpmPDAwqOR"
+      },
+      "artists": [
+        {
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "We Could Be Heaven",
+      "url": "https://open.spotify.com/track/7qsCOBgSNp8SOOV9UfHnJD"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Whatever The Weather",
         "url": "https://open.spotify.com/album/4AGDYW1rAzimrnrahLHF6p"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 168786,
       "name": "No Shame",
       "url": "https://open.spotify.com/track/7tEOucZMfYd1hnW1lN8dMd"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "LEAVE ME ALONE",
+        "url": "https://open.spotify.com/album/4Vg8DFy3xrNpXXPiPremXH"
+      },
+      "artists": [
+        {
+          "name": "While She Sleeps",
+          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
+        }
+      ],
+      "duration_ms": 215796,
+      "name": "LEAVE ME ALONE",
+      "url": "https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1743,22 +1759,6 @@
       "duration_ms": 219195,
       "name": "Feral",
       "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "LEAVE ME ALONE",
-        "url": "https://open.spotify.com/album/4Vg8DFy3xrNpXXPiPremXH"
-      },
-      "artists": [
-        {
-          "name": "While She Sleeps",
-          "url": "https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a"
-        }
-      ],
-      "duration_ms": 215796,
-      "name": "LEAVE ME ALONE",
-      "url": "https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "CREEP HEAT",
-        "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
-      },
-      "artists": [
-        {
-          "name": "VUKOVI",
-          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
-        }
-      ],
-      "duration_ms": 205962,
-      "name": "CREEP HEAT",
-      "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/2gJfVLm0zyL1Oe4SNaUPhK"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 206000,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/37hRWS6pTYGQrTL00MwQwo"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "CREEP HEAT",
+        "url": "https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5"
+      },
+      "artists": [
+        {
+          "name": "VUKOVI",
+          "url": "https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt"
+        }
+      ],
+      "duration_ms": 205962,
+      "name": "CREEP HEAT",
+      "url": "https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Blinding Faith",
-        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 171090,
-      "name": "Blinding Faith",
-      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "HIGHER POWER",
         "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
       },
@@ -2031,6 +2015,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Heretic (feat. Loz Taylor)",
         "url": "https://open.spotify.com/album/4GuxQZOki4NdCKpn9kW9xn"
       },
@@ -2043,6 +2043,22 @@
       "duration_ms": 212878,
       "name": "Heretic (feat. Loz Taylor)",
       "url": "https://open.spotify.com/track/2mTi7e03FygOF0bds32848"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Speech Patterns",
+        "url": "https://open.spotify.com/album/6TZzdquYz6LlNEiF5SlCAJ"
+      },
+      "artists": [
+        {
+          "name": "Cut Short",
+          "url": "https://open.spotify.com/artist/5Xgr1ntsFfSigqgpcoqRnn"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "Speech Patterns",
+      "url": "https://open.spotify.com/track/61F6fTAzAMgeHq5RcNtAfm"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -2103,22 +2119,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Speech Patterns",
-        "url": "https://open.spotify.com/album/6TZzdquYz6LlNEiF5SlCAJ"
-      },
-      "artists": [
-        {
-          "name": "Cut Short",
-          "url": "https://open.spotify.com/artist/5Xgr1ntsFfSigqgpcoqRnn"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "Speech Patterns",
-      "url": "https://open.spotify.com/track/61F6fTAzAMgeHq5RcNtAfm"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Victim",
         "url": "https://open.spotify.com/album/57iJrD3IJIynpbTsYLS44t"
       },
@@ -2167,6 +2167,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "MURDERER + NOSEBLEEDS",
+        "url": "https://open.spotify.com/album/0rMT2kcpRVeTNDXK4I4Zw8"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 198212,
+      "name": "MURDERER",
+      "url": "https://open.spotify.com/track/5hu9tUuV1KtxYV5Hx8OeLG"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "unpeople",
         "url": "https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI"
       },
@@ -2195,22 +2211,6 @@
       "duration_ms": 221932,
       "name": "The Worst in Me",
       "url": "https://open.spotify.com/track/2kTsI1xJyJa1Oiw7jdibwN"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "MURDERER + NOSEBLEEDS",
-        "url": "https://open.spotify.com/album/0rMT2kcpRVeTNDXK4I4Zw8"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 198212,
-      "name": "MURDERER",
-      "url": "https://open.spotify.com/track/5hu9tUuV1KtxYV5Hx8OeLG"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -2263,38 +2263,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "The Perfume of Decay",
-        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
-      },
-      "artists": [
-        {
-          "name": "Tigercub",
-          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Show Me My Maker",
-      "url": "https://open.spotify.com/track/7gbI3OM7q2nKCAjlTfuTGD"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
-        "name": "Everlasting Gaze",
-        "url": "https://open.spotify.com/album/1ZAJRYcsaTLco5cLFMHqh9"
-      },
-      "artists": [
-        {
-          "name": "The Armed",
-          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
-        }
-      ],
-      "duration_ms": 256898,
-      "name": "Martyr Song",
-      "url": "https://open.spotify.com/track/7j3vyFqTC6TCI9DWOBOayN"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "smother",
         "url": "https://open.spotify.com/album/05NqH0AXhKrCSes5CQJdYk"
       },
@@ -2311,6 +2279,22 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
+        "name": "The Perfume of Decay",
+        "url": "https://open.spotify.com/album/2ZRUCUx9ZFhwbXqyMeoR6y"
+      },
+      "artists": [
+        {
+          "name": "Tigercub",
+          "url": "https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw"
+        }
+      ],
+      "duration_ms": 220440,
+      "name": "Show Me My Maker",
+      "url": "https://open.spotify.com/track/7gbI3OM7q2nKCAjlTfuTGD"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
         "name": "Today's My Day",
         "url": "https://open.spotify.com/album/3sMegfJ3u6Uj9ZhYs01aNV"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 215833,
       "name": "Today's My Day",
       "url": "https://open.spotify.com/track/4nAMZBsMJNxRT9SKs3bOOr"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "Everlasting Gaze",
+        "url": "https://open.spotify.com/album/1ZAJRYcsaTLco5cLFMHqh9"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "duration_ms": 256898,
+      "name": "Martyr Song",
+      "url": "https://open.spotify.com/track/7j3vyFqTC6TCI9DWOBOayN"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "The Return Of Tomorrow",
-        "url": "https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX"
-      },
-      "artists": [
-        {
-          "name": "Fu Manchu",
-          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Roads Of The Lowly",
-      "url": "https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Break You",
         "url": "https://open.spotify.com/album/7DcUOc7DA2zHoQVudHCPaR"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 139593,
       "name": "Break You",
       "url": "https://open.spotify.com/track/3lp0POJTRk9qFKF2keDpJV"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "The Return Of Tomorrow",
+        "url": "https://open.spotify.com/album/3iQnDyZOXW8xaMxWEXvomX"
+      },
+      "artists": [
+        {
+          "name": "Fu Manchu",
+          "url": "https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Roads Of The Lowly",
+      "url": "https://open.spotify.com/track/4VyrZgmNUfnNIZh16wuhGG"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -2731,18 +2731,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Idiot Box",
-        "url": "https://open.spotify.com/album/6JWMghtrHlYLNYOp45X7Qe"
+        "name": "Liar Liar",
+        "url": "https://open.spotify.com/album/1Aaa6h3XcLOWxJ0ST6aQMs"
       },
       "artists": [
         {
-          "name": "Frost*",
-          "url": "https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7"
+          "name": "Trash Boat",
+          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
         }
       ],
-      "duration_ms": 298914,
-      "name": "Idiot Box",
-      "url": "https://open.spotify.com/track/015kSVnGm0KHrcHFf5o1ND"
+      "duration_ms": 177668,
+      "name": "Liar Liar",
+      "url": "https://open.spotify.com/track/4pQvb7EKACWR2tRjjSaL5w"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -2763,18 +2763,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Liar Liar",
-        "url": "https://open.spotify.com/album/1Aaa6h3XcLOWxJ0ST6aQMs"
+        "name": "Idiot Box",
+        "url": "https://open.spotify.com/album/6JWMghtrHlYLNYOp45X7Qe"
       },
       "artists": [
         {
-          "name": "Trash Boat",
-          "url": "https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh"
+          "name": "Frost*",
+          "url": "https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7"
         }
       ],
-      "duration_ms": 177668,
-      "name": "Liar Liar",
-      "url": "https://open.spotify.com/track/4pQvb7EKACWR2tRjjSaL5w"
+      "duration_ms": 298914,
+      "name": "Idiot Box",
+      "url": "https://open.spotify.com/track/015kSVnGm0KHrcHFf5o1ND"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -3007,22 +3007,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "MILF",
-        "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
-      },
-      "artists": [
-        {
-          "name": "Scene Queen",
-          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "MILF",
-      "url": "https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Weird Punx",
         "url": "https://open.spotify.com/album/404OOBBDIsU6wiu5scQw7L"
       },
@@ -3035,6 +3019,22 @@
       "duration_ms": 154582,
       "name": "Weird Punx",
       "url": "https://open.spotify.com/track/5hK5nfKniPWE0JZdhRZphz"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "MILF",
+        "url": "https://open.spotify.com/album/3FgmJByJ2eCaZwbFXoHdsO"
+      },
+      "artists": [
+        {
+          "name": "Scene Queen",
+          "url": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "MILF",
+      "url": "https://open.spotify.com/track/4KrukUctcQveDcPFxXvI0M"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -3071,22 +3071,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "COLLAPSE",
-        "url": "https://open.spotify.com/album/0nzdD1BY9vYHzoSMrtlG2R"
-      },
-      "artists": [
-        {
-          "name": "LOVELOST",
-          "url": "https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6"
-        }
-      ],
-      "duration_ms": 253935,
-      "name": "WITHER BELOW",
-      "url": "https://open.spotify.com/track/0aPa8xNPbvi5HXBqJXVW6g"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Ceremonia",
         "url": "https://open.spotify.com/album/5HQvmkIIS9p9usaySiXESE"
       },
@@ -3099,6 +3083,22 @@
       "duration_ms": 178679,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/0Wh5hRYITjXnNsmfrcInyc"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "COLLAPSE",
+        "url": "https://open.spotify.com/album/0nzdD1BY9vYHzoSMrtlG2R"
+      },
+      "artists": [
+        {
+          "name": "LOVELOST",
+          "url": "https://open.spotify.com/artist/4Ty1GcAd0AQ6xwuE6P9Zi6"
+        }
+      ],
+      "duration_ms": 253935,
+      "name": "WITHER BELOW",
+      "url": "https://open.spotify.com/track/0aPa8xNPbvi5HXBqJXVW6g"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Pathetic Apathetic",
-        "url": "https://open.spotify.com/album/6idGcmlGvvwJaE778FO6UX"
-      },
-      "artists": [
-        {
-          "name": "Indoor Pets",
-          "url": "https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84"
-        }
-      ],
-      "duration_ms": 215967,
-      "name": "Pathetic Apathetic",
-      "url": "https://open.spotify.com/track/5OcMcGcKszTIqQCL5Ibx1Y"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "Still Sickness",
         "url": "https://open.spotify.com/album/6J3Wbt9tz90adM5nALLzVP"
       },
@@ -3167,18 +3151,34 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "Nuclear Boy Scout",
-        "url": "https://open.spotify.com/album/2lmSKXcV1MkDYaKli47ICz"
+        "name": "Pathetic Apathetic",
+        "url": "https://open.spotify.com/album/6idGcmlGvvwJaE778FO6UX"
       },
       "artists": [
         {
-          "name": "Blanket",
-          "url": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
+          "name": "Indoor Pets",
+          "url": "https://open.spotify.com/artist/5abBw7CgjR22S31JWg0g84"
         }
       ],
-      "duration_ms": 219978,
-      "name": "Nuclear Boy Scout",
-      "url": "https://open.spotify.com/track/4MarIUdPF8riTeoEi00xao"
+      "duration_ms": 215967,
+      "name": "Pathetic Apathetic",
+      "url": "https://open.spotify.com/track/5OcMcGcKszTIqQCL5Ibx1Y"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "How To Disappear",
+        "url": "https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR"
+      },
+      "artists": [
+        {
+          "name": "Casey",
+          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+        }
+      ],
+      "duration_ms": 236181,
+      "name": "For Katie",
+      "url": "https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -3199,18 +3199,18 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "How To Disappear",
-        "url": "https://open.spotify.com/album/1zwEmwHMjcL6eFesggCTOR"
+        "name": "Nuclear Boy Scout",
+        "url": "https://open.spotify.com/album/2lmSKXcV1MkDYaKli47ICz"
       },
       "artists": [
         {
-          "name": "Casey",
-          "url": "https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck"
+          "name": "Blanket",
+          "url": "https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6"
         }
       ],
-      "duration_ms": 236181,
-      "name": "For Katie",
-      "url": "https://open.spotify.com/track/0WMnzSVA3SKdGHJCtu87nb"
+      "duration_ms": 219978,
+      "name": "Nuclear Boy Scout",
+      "url": "https://open.spotify.com/track/4MarIUdPF8riTeoEi00xao"
     },
     {
       "added_at": "2024-11-22 00:00:00",
@@ -3419,22 +3419,6 @@
     {
       "added_at": "2024-11-22 00:00:00",
       "album": {
-        "name": "War",
-        "url": "https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 174283,
-      "name": "War",
-      "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
-    },
-    {
-      "added_at": "2024-11-22 00:00:00",
-      "album": {
         "name": "vol.2",
         "url": "https://open.spotify.com/album/66RoiMDXjnOpKoVzHVqWvg"
       },
@@ -3459,6 +3443,22 @@
       "duration_ms": 200500,
       "name": "Lye solution (feat. Loathe, BVDLVD & Hail The Sun)",
       "url": "https://open.spotify.com/track/7tRZ9xUlwdpEkRyew9Sk5v"
+    },
+    {
+      "added_at": "2024-11-22 00:00:00",
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 174283,
+      "name": "War",
+      "url": "https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS"
     },
     {
       "added_at": "2024-11-22 00:00:00",

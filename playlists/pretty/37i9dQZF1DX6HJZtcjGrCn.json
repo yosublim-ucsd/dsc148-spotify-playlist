@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Milhanas",
-  "num_followers": 33595,
+  "num_followers": 33596,
   "original_name": "Cena Indie",
   "owner": {
     "name": "Spotify",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Bright Lights",
-        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+      "duration_ms": 138532,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Bright Lights",
+        "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/6Nd4WPRscBW9wGi2l7K1Ot"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/0hFd6V0ZXX6R3c0NOpAMbn"
       },
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH"
+        "name": "Amor De Ganga",
+        "url": "https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT"
       },
       "artists": [
         {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+          "name": "Miguel Luz",
+          "url": "https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm"
         }
       ],
-      "duration_ms": 138532,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5"
+      "duration_ms": 206908,
+      "name": "Amor De Ganga",
+      "url": "https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Amor De Ganga",
-        "url": "https://open.spotify.com/album/2RzgoRYV8G4b2caFS030UT"
+        "name": "Mahashmashana",
+        "url": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
       },
       "artists": [
         {
-          "name": "Miguel Luz",
-          "url": "https://open.spotify.com/artist/1jE8NLRTyT22UKfZ8AGRDm"
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
         }
       ],
-      "duration_ms": 206908,
-      "name": "Amor De Ganga",
-      "url": "https://open.spotify.com/track/2y5mEYDDPoQCgz55sP3eUz"
+      "duration_ms": 312326,
+      "name": "Josh Tillman and the Accidental Dose",
+      "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1207,22 +1223,6 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Mahashmashana",
-        "url": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 312326,
-      "name": "Josh Tillman and the Accidental Dose",
-      "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
     },
     {
       "added_at": "2024-11-29 00:00:00",

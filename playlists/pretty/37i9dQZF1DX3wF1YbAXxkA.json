@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 87654,
+  "num_followers": 87794,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        },
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
-      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Dance No More (with Kaleena Zanders)",
         "url": "https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 202657,
       "name": "Dance No More (with Kaleena Zanders)",
       "url": "https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
+        "url": "https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "God Gave Me Feet For Dancing - feat. Yazmin Lacey",
+      "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/7p4PLlIurk63ErUi6pErra"
     },
     {
-      "added_at": "2024-09-16 18:33:06",
-      "album": {
-        "name": "FORMIDABLE",
-        "url": "https://open.spotify.com/album/0SMGp4F2NJH7sX2s4wv6HY"
-      },
-      "artists": [
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "FORMIDABLE",
-      "url": "https://open.spotify.com/track/5CIu7QMbF0cdalpFsZbkDT"
-    },
-    {
       "added_at": "2024-09-16 11:00:00",
       "album": {
         "name": "Did It First (with Central Cee)",
@@ -571,6 +555,22 @@
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/5dEcxWlWnxbcumVEddVCUC"
+    },
+    {
+      "added_at": "2024-09-16 18:33:06",
+      "album": {
+        "name": "FORMIDABLE",
+        "url": "https://open.spotify.com/album/0SMGp4F2NJH7sX2s4wv6HY"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "FORMIDABLE",
+      "url": "https://open.spotify.com/track/5CIu7QMbF0cdalpFsZbkDT"
     },
     {
       "added_at": "2024-10-09 21:20:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Cards On The Table",
-        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
-      },
-      "artists": [
-        {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
-        }
-      ],
-      "duration_ms": 176913,
-      "name": "Cards On The Table",
-      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "PAPI",
         "url": "https://open.spotify.com/album/5FomfAbIMMLUIfe9fTQi9A"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 155100,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/4CGGFdzBK2fp8QN9GxWwia"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Cards On The Table",
+        "url": "https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 176913,
+      "name": "Cards On The Table",
+      "url": "https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "What Do You Believe In?",
-        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 190474,
-      "name": "What Do You Believe In?",
-      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Call",
         "url": "https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 150005,
       "name": "Call",
       "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "What Do You Believe In?",
+        "url": "https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 190474,
+      "name": "What Do You Believe In?",
+      "url": "https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 165244,
+      "name": "Ancora, Ancora, Ancora",
+      "url": "https://open.spotify.com/track/3Ipfe6NFwCvTtfBMl4NbBh"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Dola re Dola",
         "url": "https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 125538,
       "name": "Dola re Dola",
       "url": "https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 165244,
-      "name": "Ancora, Ancora, Ancora",
-      "url": "https://open.spotify.com/track/3Ipfe6NFwCvTtfBMl4NbBh"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "NOBODY // ME",
-        "url": "https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4"
-      },
-      "artists": [
-        {
-          "name": "Boston Bun",
-          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "NOBODY // ME",
-      "url": "https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Dark Times",
         "url": "https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 198630,
       "name": "Black&Blue",
       "url": "https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "NOBODY // ME",
+        "url": "https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "NOBODY // ME",
+      "url": "https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Garden State Vampire",
+        "url": "https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 240917,
+      "name": "Everybody's Different",
+      "url": "https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Silence Of Love",
         "url": "https://open.spotify.com/album/00UQmxp15bECetcjau5hTO"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 250000,
       "name": "Silence Of Love",
       "url": "https://open.spotify.com/track/4oqrBk9A3WoouuMTDKGERh"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Garden State Vampire",
-        "url": "https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 240917,
-      "name": "Everybody's Different",
-      "url": "https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "BABE",
-        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
-      },
-      "artists": [
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        }
-      ],
-      "duration_ms": 147920,
-      "name": "BABE",
-      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "THE FUTURE IS ANCESTRAL",
         "url": "https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 141943,
       "name": "JARAHA",
       "url": "https://open.spotify.com/track/6tZKAwKAHLlmqBRgbGcygk"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "BABE",
+        "url": "https://open.spotify.com/album/1Vx91NJIhFxWNe5TLe8Hzn"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "duration_ms": 147920,
+      "name": "BABE",
+      "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
     },
     {
       "added_at": "2024-09-16 11:00:00",

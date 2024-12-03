@@ -539,6 +539,24 @@
     },
     {
       "album": {
+        "name": "Feels Like Christmas",
+        "url": "https://open.spotify.com/album/6egjmIejK5PFjc5iMOBc1e"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Feels Like Christmas",
+      "url": "https://open.spotify.com/track/4s4GAKfmRRgnttXZFAAODm"
+    },
+    {
+      "album": {
         "name": "Follow That Star",
         "url": "https://open.spotify.com/album/19USTGFVfbU8zrR77imn8M"
       },
@@ -1132,6 +1150,24 @@
       "duration_ms": 245110,
       "name": "Home With You (feat. Chant\u00e9 Moore)",
       "url": "https://open.spotify.com/track/6vXINx2IM1WpPYMm3xb816"
+    },
+    {
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/7mJS0Lu5ot98hsEWBK8Oqv"
+      },
+      "artists": [
+        {
+          "name": "Caylea",
+          "url": "https://open.spotify.com/artist/7rFRcnh52T0pnVJ4e4JMWT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238035,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/4M5GbodfdvyNQVM07mxnzb"
     },
     {
       "album": {
@@ -1896,7 +1932,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 259026,
       "name": "Merry Christ-Mas (feat. Cory Condrey, Vashawn Mitchell, William Mcdowell, Zebulon Ellis, Joann Rosario Condrey & Erica Cumbo)",
       "url": "https://open.spotify.com/track/2m1QvyW8nEGt8lvd460ol1"
@@ -3136,7 +3172,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 252306,
       "name": "Yes It's Christmas",
       "url": "https://open.spotify.com/track/3T8eTfnvbDKKfCKaN3TsOF"

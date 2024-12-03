@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Addison Rae",
-  "num_followers": 4092059,
+  "num_followers": 4092003,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,30 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Ferrari (Oliver Heldens Remix)",
+        "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 188640,
+      "name": "Ferrari - Oliver Heldens Remix",
+      "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "How Will I Know",
         "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Ferrari (Oliver Heldens Remix)",
-        "url": "https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 188640,
-      "name": "Ferrari - Oliver Heldens Remix",
-      "url": "https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "The Cruelest Summer",
-        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Cruel Summer - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Barbie Girl (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
       },
@@ -715,6 +695,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Peru (Peace Control Remix)",
         "url": "https://open.spotify.com/album/1BscUG4h8ZyAhQAdmAkJgw"
       },
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Hide Away (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
-      },
-      "artists": [
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 137538,
-      "name": "Hide Away - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
         "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 229586,
       "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hide Away (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N"
+      },
+      "artists": [
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 137538,
+      "name": "Hide Away - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Austin (Boots Stop Workin') [Distant Matter Remix]",
-        "url": "https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        },
-        {
-          "name": "Distant Matter",
-          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
-        }
-      ],
-      "duration_ms": 176670,
-      "name": "Austin (Boots Stop Workin') - Distant Matter Remix",
-      "url": "https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Satisfaction",
         "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
       },
@@ -893,24 +873,24 @@
       "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
     },
     {
-      "added_at": "2024-09-13 18:27:00",
+      "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
-        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+        "name": "Austin (Boots Stop Workin') [Distant Matter Remix]",
+        "url": "https://open.spotify.com/album/35gz5TLdUbb0JxSzfKLiHc"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
         },
         {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+          "name": "Distant Matter",
+          "url": "https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn"
         }
       ],
-      "duration_ms": 189391,
-      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
-      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
+      "duration_ms": 176670,
+      "name": "Austin (Boots Stop Workin') - Distant Matter Remix",
+      "url": "https://open.spotify.com/track/0gkTJziolVNOmmdwgaRMho"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -939,6 +919,26 @@
       "duration_ms": 274141,
       "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "added_at": "2024-09-13 18:27:00",
+      "album": {
+        "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
+        "url": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "I Can Do It With a Broken Heart - Dombresky Remix",
+      "url": "https://open.spotify.com/track/0hFF0aqyjDwDh6SQwRbTyx"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Houdini (Adam Port Mix)",
-        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Houdini - Adam Port Mix",
-      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Players",
         "url": "https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 117026,
       "name": "Players - DJ Smallz 732 - Jersey Club Remix",
       "url": "https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Houdini (Adam Port Mix)",
+        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Houdini - Adam Port Mix",
+      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Skin and Bones (MEDUZA REMIX)",
-        "url": "https://open.spotify.com/album/1aeYa1dEoya8dCrS3vMNrV"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        },
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        }
-      ],
-      "duration_ms": 160975,
-      "name": "Skin and Bones - MEDUZA REMIX",
-      "url": "https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
         "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 222800,
       "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
       "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Skin and Bones (MEDUZA REMIX)",
+        "url": "https://open.spotify.com/album/1aeYa1dEoya8dCrS3vMNrV"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        },
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        }
+      ],
+      "duration_ms": 160975,
+      "name": "Skin and Bones - MEDUZA REMIX",
+      "url": "https://open.spotify.com/track/3Zu3htXTRwwIcozD31XdrO"
     },
     {
       "added_at": "2024-07-26 04:00:00",

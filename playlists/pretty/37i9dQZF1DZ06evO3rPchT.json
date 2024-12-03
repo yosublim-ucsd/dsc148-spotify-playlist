@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 73652,
+  "num_followers": 73673,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAADcpajj8JYRDGRS8htLyFhZ",
+  "snapshot_id": "Z0unAAAAAACzh4/kjOhif+PSyQ3XVHn/",
   "tracks": [
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BETTER DAYS",
-        "url": "https://open.spotify.com/album/36efke4P7aeYMDmKArAEBe"
-      },
-      "artists": [
-        {
-          "name": "Niko Moon",
-          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "AIN'T NO BETTER PLACE (feat. HARDY)",
-      "url": "https://open.spotify.com/track/6bxTngeAL2GGRLJa0wa2SA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Body Language (Deluxe)",
         "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 192466,
       "name": "Fire up the Night (feat. HARDY)",
       "url": "https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BETTER DAYS",
+        "url": "https://open.spotify.com/album/36efke4P7aeYMDmKArAEBe"
+      },
+      "artists": [
+        {
+          "name": "Niko Moon",
+          "url": "https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "AIN'T NO BETTER PLACE (feat. HARDY)",
+      "url": "https://open.spotify.com/track/6bxTngeAL2GGRLJa0wa2SA"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 203674,
+      "name": "THROWBACK",
+      "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 189336,
       "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
       "url": "https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 203674,
-      "name": "THROWBACK",
-      "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
     },
     {
       "added_at": null,

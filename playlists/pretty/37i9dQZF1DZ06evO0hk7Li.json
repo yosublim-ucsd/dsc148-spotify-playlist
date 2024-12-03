@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 38343,
+  "num_followers": 38352,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAAAYal3sh/eJkGeD12JaW5S2",
+  "snapshot_id": "Z0unAAAAAAAxPCYuKOwmqnT8DUSJl9Pi",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 147386,
       "name": "You Might Find Me",
       "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Boy Who Cried Freedom",
-        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Yonder: Book I",
+        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 98023,
+      "name": "A Tree Never Waters Itself",
+      "url": "https://open.spotify.com/track/7yuDZRLymVMwVSycLdA2rB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
         "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 250826,
       "name": "Be Good To Me (feat. Seinabo Sey)",
       "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yonder: Book I",
-        "url": "https://open.spotify.com/album/4S8qjpWwtNIFhD85SqEQ4v"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 98023,
-      "name": "A Tree Never Waters Itself",
-      "url": "https://open.spotify.com/track/7yuDZRLymVMwVSycLdA2rB"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 276605,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Village",
         "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 241573,
       "name": "Kumbaya (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 276605,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 249049,
+  "num_followers": 249077,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAAD9yalv/9CAQg44szwpyaeu",
+  "snapshot_id": "Z0unAAAAAACZxGzvDrvM/gpdIE4a9GdL",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+        "name": "The Baddest",
+        "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 440946,
-      "name": "Sure Got Cold After the Rain Fell",
-      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
+      "duration_ms": 211773,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Baddest",
-        "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 211773,
-      "name": "Gimme All Your Lovin'",
-      "url": "https://open.spotify.com/track/08Yy8YGHv1lSDiKZzVPuTn"
+      "duration_ms": 440946,
+      "name": "Sure Got Cold After the Rain Fell",
+      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
     },
     {
       "added_at": null,

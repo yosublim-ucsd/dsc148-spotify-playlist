@@ -4,7 +4,7 @@
 
 > 🍂
 
-135 songs - 6 hr 52 min
+136 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Sjå på oss nå](https://open.spotify.com/track/0iar93sQmCYUyTMavCzAsU) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Sjå på oss nå](https://open.spotify.com/album/7EROkbDNF25Kr9Ncnc24CQ) | 3:15 | 2024-06-27 | 2024-09-30 |
 | [Skyfri himmel](https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Skyfri himmel](https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN) | 3:45 | 2024-07-11 |  |
 | [Slutet av sommarn](https://open.spotify.com/track/0mfzkwz6c0sb5qpkk79ZDO) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Slutet av sommarn](https://open.spotify.com/album/23N7yAh7S74g7Pjm32yz7I) | 2:17 | 2024-06-27 |  |
-| [Som sommaren](https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Som sommaren](https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa) | 3:48 | 2024-06-27 |  |
+| [Som sommaren](https://open.spotify.com/track/5xDDfIvWw8td3jtA1icOsZ) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Som sommaren](https://open.spotify.com/album/4mXd1AbfVlHDZYdo0YfVGa) | 3:48 | 2024-06-27 | 2024-12-03 |
 | [Some Type Of Skin \- Acoustic](https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin \(Acoustic\)](https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr) | 3:20 | 2024-06-27 | 2024-09-10 |
 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-19 |  |
 | [Something Like This \(feat\. Dagny\)](https://open.spotify.com/track/2GtHpx7Q1xlmLBRx70i6oa) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Mad Women](https://open.spotify.com/album/53Fb80eoXfCbPF9DTaPXJk) | 3:23 | 2024-07-18 | 2024-11-24 |
@@ -130,6 +130,7 @@
 | [The Last Sad Song](https://open.spotify.com/track/3zBcpaW23w9yC8yXiW0rx8) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [The Last Sad Song](https://open.spotify.com/album/7K7im2jRJSRnzJsBEUM5L6) | 2:58 | 2024-09-19 | 2024-10-25 |
 | [Thunder in my heart \(music from the series\)](https://open.spotify.com/track/3uv4Ypn1ZTT8Su05A8q0l6) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Thunder in my heart \(music from the series\)](https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B) | 2:49 | 2024-06-27 |  |
 | [Ti tusen](https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Ti tusen](https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X) | 3:00 | 2024-06-27 |  |
+| [Tilbake til start](https://open.spotify.com/track/35rznN12zBJXS0CROlBJbj) | [Jesper Jenset](https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv) | [Tilbake til start](https://open.spotify.com/album/2lUwGjDdXQVYeNwnrCFLRI) | 2:53 | 2024-11-28 |  |
 | [tivoli](https://open.spotify.com/track/0gk22wsPwMBTr3hAOaZDTM) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [tivoli](https://open.spotify.com/album/12eDNbE85r05o5lu8HY8eT) | 2:37 | 2024-06-27 |  |
 | [Tjue år](https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Tjue år](https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh) | 4:19 | 2024-10-10 |  |
 | [To Be Alright](https://open.spotify.com/track/2XQAoWy82t8LtVTpRKdepd) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [To Be Alright](https://open.spotify.com/album/4j8V43kmmEB6z8H6axjDcn) | 4:05 | 2024-06-27 | 2024-10-14 |

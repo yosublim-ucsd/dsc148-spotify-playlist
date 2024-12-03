@@ -1,12 +1,12 @@
 {
   "description": "This is Neck Deep. The essential tracks, all in one playlist.",
-  "num_followers": 68313,
+  "num_followers": 68357,
   "original_name": "This Is Neck Deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAADspQVu7Q5DOV2mscIaoSyK",
+  "snapshot_id": "Z0unAAAAAACcl1j2PERMegjWALG8DFQH",
   "tracks": [
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Tell Me It\u2019s Over",
-        "url": "https://open.spotify.com/album/1GNtqzWi7abSqeagV7eEDd"
+        "name": "Rain In July / A History Of Bad Decisions",
+        "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Don\u2019t Tell Me It\u2019s Over",
-      "url": "https://open.spotify.com/track/17px1Xc6wfPnhHWM84njQP"
+      "duration_ms": 203822,
+      "name": "Tables Turned",
+      "url": "https://open.spotify.com/track/0sZgeU7tMuB7QfQMVUKLbb"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rain In July / A History Of Bad Decisions",
-        "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
+        "name": "Don\u2019t Tell Me It\u2019s Over",
+        "url": "https://open.spotify.com/album/1GNtqzWi7abSqeagV7eEDd"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 203822,
-      "name": "Tables Turned",
-      "url": "https://open.spotify.com/track/0sZgeU7tMuB7QfQMVUKLbb"
+      "duration_ms": 149250,
+      "name": "Don\u2019t Tell Me It\u2019s Over",
+      "url": "https://open.spotify.com/track/17px1Xc6wfPnhHWM84njQP"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wishful Thinking",
-        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "Staircase Wit",
-      "url": "https://open.spotify.com/track/0rQybU8pbJFcaUU7Mqju0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rain In July / A History Of Bad Decisions",
         "url": "https://open.spotify.com/album/13xBAYqsGgjXnoawJEMkr8"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 42047,
       "name": "All Hype, No Heart",
       "url": "https://open.spotify.com/track/2aMm7yVRfx4VdPr6dRnsp7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wishful Thinking",
+        "url": "https://open.spotify.com/album/7GZW60VRzrKiVNZDmzZiz1"
+      },
+      "artists": [
+        {
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "Staircase Wit",
+      "url": "https://open.spotify.com/track/0rQybU8pbJFcaUU7Mqju0z"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,214 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,340 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 15 | [African Queen \- Remastered Version](https://open.spotify.com/track/5WrrKyhWgHbqelmd2ENpSf) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:20 |
 | 16 | [Joromi](https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU) | [Big Sound](https://open.spotify.com/album/7Kb9xyU8IIbyTBk4hwXvYV) | 3:07 |
 | 17 | [One Naira \(feat\. Waje\)](https://open.spotify.com/track/3LlkLlNseWG7fhcx9h32zW) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Waje](https://open.spotify.com/artist/5GmW6T8IndFL45lifEqpEv) | [MI 2: The Movie](https://open.spotify.com/album/7pkfTolBN0Msk96o77wsU7) | 4:30 |
-| 18 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
-| 19 | [Buga](https://open.spotify.com/track/4kre5jC1AncY14Ra2gzmR0) | [Jesse King & The Queens In The Palace](https://open.spotify.com/artist/098qOt76s46NMCahJbGxZL) | [Buga](https://open.spotify.com/album/03m61gb4oqfDamdrmwvl13) | 6:50 |
+| 18 | [Buga](https://open.spotify.com/track/4kre5jC1AncY14Ra2gzmR0) | [Jesse King & The Queens In The Palace](https://open.spotify.com/artist/098qOt76s46NMCahJbGxZL) | [Buga](https://open.spotify.com/album/03m61gb4oqfDamdrmwvl13) | 6:50 |
+| 19 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
 | 20 | [Zombie](https://open.spotify.com/track/3yoSHWIvtNQ52Jf3bCoaBa) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Anthology 2](https://open.spotify.com/album/6RJulnlIwiLw1xz0Jc63Wd) | 12:23 |
 | 21 | [Ife Si Na Chi](https://open.spotify.com/track/6jKk72CeCmtCG1KaJyaxRB) | [Celestine Ukwu](https://open.spotify.com/artist/2XX5UnnAfyUaPTNsYZWLzB) | [Igede](https://open.spotify.com/album/7dxh76o90e3XcCbTW74WuO) | 5:10 |
 | 22 | [Why Me \[Remix\]](https://open.spotify.com/track/5DQszLTIK8USpirqOxk1n5) | [Mo' Hits All Stars](https://open.spotify.com/artist/3kTUr1CJjfkESn31Xk6tij) | [51Lex Presents Stop The Violence](https://open.spotify.com/album/0vCvdBdudeVkm1OrqE53yx) | 5:14 |

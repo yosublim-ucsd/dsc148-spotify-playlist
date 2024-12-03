@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno & La K\u00b4onga.",
-  "num_followers": 725276,
+  "num_followers": 725378,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
-      },
-      "artists": [
-        {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
-    },
-    {
-      "added_at": "2024-11-29 18:50:04",
-      "album": {
         "name": "Bien Ah\u00ed !",
         "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 331160,
       "name": "Ramito de violetas",
       "url": "https://open.spotify.com/track/4sVEoWwh0kjipzZ9UGvSz9"
+    },
+    {
+      "added_at": "2024-11-29 18:50:04",
+      "album": {
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
+        "name": "Son De Amores",
+        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
       },
       "artists": [
         {
-          "name": "Monada",
-          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        },
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
         }
       ],
-      "duration_ms": 162253,
-      "name": "Fina",
-      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
+      "duration_ms": 181600,
+      "name": "Son De Amores",
+      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -1251,6 +1255,22 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg"
+      },
+      "artists": [
+        {
+          "name": "Monada",
+          "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
+        }
+      ],
+      "duration_ms": 162253,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC"
+    },
+    {
+      "added_at": "2024-11-29 18:50:04",
+      "album": {
         "name": "Ya No Llora (En Vivo)",
         "url": "https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 178431,
       "name": "Ya No Llora - En Vivo",
       "url": "https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb"
-    },
-    {
-      "added_at": "2024-11-29 18:50:04",
-      "album": {
-        "name": "Son De Amores",
-        "url": "https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        },
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Son De Amores",
-      "url": "https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
+        "name": "Libre al Fin",
+        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
+      },
+      "artists": [
+        {
+          "name": "Walter Romero",
+          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
+    },
+    {
+      "added_at": "2024-11-29 18:50:04",
+      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 199445,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
-    },
-    {
-      "added_at": "2024-11-29 18:50:04",
-      "album": {
-        "name": "Libre al Fin",
-        "url": "https://open.spotify.com/album/5VJPNtW5mNlUN9J8QznTMb"
-      },
-      "artists": [
-        {
-          "name": "Walter Romero",
-          "url": "https://open.spotify.com/artist/1IdEyhu7jbsFcwnvUrdOad"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/7hMNLoHdTNEQhw22R0RpRF"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -1755,8 +1755,24 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "Chachach\u00e1",
-        "url": "https://open.spotify.com/album/2V0O7HPYdlxCdEr4m7AZ3e"
+        "name": "No Es Lo Que Dices",
+        "url": "https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 192103,
+      "name": "No Es Lo Que Dices",
+      "url": "https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9"
+    },
+    {
+      "added_at": "2024-11-29 18:50:04",
+      "album": {
+        "name": "Me Voy",
+        "url": "https://open.spotify.com/album/6PYk6EfSUUqIbU9QLXvxGV"
       },
       "artists": [
         {
@@ -1764,25 +1780,9 @@
           "url": "https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD"
         }
       ],
-      "duration_ms": 232269,
-      "name": "Chachach\u00e1",
-      "url": "https://open.spotify.com/track/5eO1kn8BVM6YFiXdMHDxsE"
-    },
-    {
-      "added_at": "2024-11-29 18:50:04",
-      "album": {
-        "name": "La Pupera",
-        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez / los caligaris",
-          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
-        }
-      ],
-      "duration_ms": 148797,
-      "name": "La Pupera",
-      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
+      "duration_ms": 145088,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/23mG1foGJKjBmAgVMfVZ0Z"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "No Es Lo Que Dices",
-        "url": "https://open.spotify.com/album/7wD751cbpMxpXPwJriTfJi"
+        "name": "La Pupera",
+        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
       },
       "artists": [
         {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+          "name": "La Mona Jimenez / los caligaris",
+          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
         }
       ],
-      "duration_ms": 192103,
-      "name": "No Es Lo Que Dices",
-      "url": "https://open.spotify.com/track/1pWmkpmMmzuiFBSY5A4Tb9"
+      "duration_ms": 148797,
+      "name": "La Pupera",
+      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
     }
   ],
   "unique_name": "100% Cuarteto",

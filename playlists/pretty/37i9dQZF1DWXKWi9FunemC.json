@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 346052,
+  "num_followers": 346184,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Wide Place",
-        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
-      },
-      "artists": [
-        {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
-        }
-      ],
-      "duration_ms": 262889,
-      "name": "Wide Place",
-      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "L E P E R S",
         "url": "https://open.spotify.com/album/2H0tX8aY7tv7oEZIUElWBg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 250555,
       "name": "L E P E R S",
       "url": "https://open.spotify.com/track/2HWybNOk657p30rPcjBDK7"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Wide Place",
+        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 262889,
+      "name": "Wide Place",
+      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "How Can I",
-        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
+        "name": "I See It Now",
+        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
       },
       "artists": [
         {
-          "name": "Senna",
-          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
+          "name": "Rock City Worship",
+          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
         }
       ],
-      "duration_ms": 274373,
-      "name": "How Can I",
-      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+      "duration_ms": 189292,
+      "name": "I See It Now",
+      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "I See It Now",
-        "url": "https://open.spotify.com/album/3DsswlTLXLTt7VSosshz5D"
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
       },
       "artists": [
         {
-          "name": "Rock City Worship",
-          "url": "https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB"
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/052ZztbHMDTofTKgYI2Y2K"
         }
       ],
-      "duration_ms": 189292,
-      "name": "I See It Now",
-      "url": "https://open.spotify.com/track/6xdGfuz1ZET9CxPGwhdSFW"
+      "duration_ms": 274373,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "God of the Breakthrough (Live)",
-        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
-      },
-      "artists": [
-        {
-          "name": "Milestone Worship",
-          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
-        }
-      ],
-      "duration_ms": 353478,
-      "name": "God of the Breakthrough (Live)",
-      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Stained Glass",
         "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 317509,
       "name": "Stained Glass",
       "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "God of the Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/7CRcUGs2g6haLWjZN5Vcza"
+      },
+      "artists": [
+        {
+          "name": "Milestone Worship",
+          "url": "https://open.spotify.com/artist/5NHwVYlsN0C3iBrfzfj3lo"
+        }
+      ],
+      "duration_ms": 353478,
+      "name": "God of the Breakthrough (Live)",
+      "url": "https://open.spotify.com/track/3IgJjNxYRp86Jqkl3BXmys"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
-        "name": "Conquering Eden",
-        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
-      },
-      "artists": [
-        {
-          "name": "Cam Sakkara",
-          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
-        }
-      ],
-      "duration_ms": 240337,
-      "name": "One Too Many Reasons",
-      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/1gQS21Tf0ahs1o0jhX7Fbz"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 229617,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/569CqUlVdNPKC5FOfiXiwJ"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
+        "name": "Conquering Eden",
+        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
+      },
+      "artists": [
+        {
+          "name": "Cam Sakkara",
+          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
+        }
+      ],
+      "duration_ms": 240337,
+      "name": "One Too Many Reasons",
+      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
     },
     {
       "added_at": "2024-08-03 00:38:12",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-08-03 00:38:12",
       "album": {
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw"
+      },
+      "artists": [
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "duration_ms": 277853,
+      "name": "Get Your Hopes Up",
+      "url": "https://open.spotify.com/track/1axUIOWOLCGMJkGwTKgzda"
+    },
+    {
+      "added_at": "2024-08-03 00:38:12",
+      "album": {
         "name": "Goodness",
         "url": "https://open.spotify.com/album/16a0mCgRA5HPmk86U4UJ3I"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 144000,
       "name": "Carry Me",
       "url": "https://open.spotify.com/track/2kW2LAlMohQNsroYSIXncM"
-    },
-    {
-      "added_at": "2024-08-03 00:38:12",
-      "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6Br4yEtoV8RmArmLIAvEgw"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 277853,
-      "name": "Get Your Hopes Up",
-      "url": "https://open.spotify.com/track/1axUIOWOLCGMJkGwTKgzda"
     },
     {
       "added_at": "2024-08-03 00:38:12",

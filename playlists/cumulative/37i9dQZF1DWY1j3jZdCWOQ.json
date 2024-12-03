@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 161091,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA"
@@ -4012,6 +4012,24 @@
       "duration_ms": 198080,
       "name": "Sarcasm",
       "url": "https://open.spotify.com/track/40i81AcCCxiVEFUWElcjZC"
+    },
+    {
+      "album": {
+        "name": "Best Buds",
+        "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239597,
+      "name": "Scott Pilgrim vs. My GPA",
+      "url": "https://open.spotify.com/track/4yXKLDrHYrffSVmQOFdbDA"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 30171,
+  "num_followers": 30177,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAAAp8/PkMFJDd8TaJ+sj/rGa",
+  "snapshot_id": "Z0unAAAAAADmssbs7cfuTIIC06Odj+UJ",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acelera e Pisa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 e Felipe",
-          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 363733,
-      "name": "\u00c9 Milagre (feat. Damares) - Ao Vivo",
-      "url": "https://open.spotify.com/track/38dPxKE0tOrddwKiMy7I48"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 286400,
       "name": "Escondido Nele",
       "url": "https://open.spotify.com/track/6ETboA32KhqdiuaQFym7jb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acelera e Pisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 363733,
+      "name": "\u00c9 Milagre (feat. Damares) - Ao Vivo",
+      "url": "https://open.spotify.com/track/38dPxKE0tOrddwKiMy7I48"
     },
     {
       "added_at": null,

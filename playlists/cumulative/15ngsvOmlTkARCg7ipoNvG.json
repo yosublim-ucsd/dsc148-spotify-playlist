@@ -32291,6 +32291,24 @@
     },
     {
       "album": {
+        "name": "Winter Glow",
+        "url": "https://open.spotify.com/album/5XzXMSWAfERr87Bzqj05p3"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60398,
+      "name": "Winter Glow",
+      "url": "https://open.spotify.com/track/2RU5WXHBQiWEgyQyIzscBS"
+    },
+    {
+      "album": {
         "name": "Winter Hymn",
         "url": "https://open.spotify.com/album/2uE5riXkppeBRxf1gAuqnj"
       },

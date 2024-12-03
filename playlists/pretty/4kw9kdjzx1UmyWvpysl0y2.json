@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125692,
+  "num_followers": 125686,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATYhNPjJBsggxdfgXvqf2lD4rTH4GK",
+  "snapshot_id": "AAATZEO073xerCQ3zLi3oZ0Kfd0k4KKo",
   "tracks": [
+    {
+      "added_at": "2024-12-02 14:51:25",
+      "album": {
+        "name": "PLAY (VIP)",
+        "url": "https://open.spotify.com/album/1oQ70ZgRQdGhvGEzI45v2q"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "PLAY - VIP",
+      "url": "https://open.spotify.com/track/5aR1RuL4EFsiYFl99lkdbR"
+    },
     {
       "added_at": "2024-11-29 17:08:05",
       "album": {
@@ -1135,46 +1151,6 @@
       "duration_ms": 193146,
       "name": "Rocka",
       "url": "https://open.spotify.com/track/1C0PPfiAjOukLff0ucmzsn"
-    },
-    {
-      "added_at": "2024-09-10 13:18:23",
-      "album": {
-        "name": "Silk Selections 01",
-        "url": "https://open.spotify.com/album/5iIXHLFmPol8ATbxEuLQ87"
-      },
-      "artists": [
-        {
-          "name": "LTN",
-          "url": "https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3"
-        },
-        {
-          "name": "Ghostbeat",
-          "url": "https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS"
-        }
-      ],
-      "duration_ms": 176624,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/5UPI2X8D7949HFbRHoyYAe"
-    },
-    {
-      "added_at": "2024-09-09 15:48:51",
-      "album": {
-        "name": "Terminal",
-        "url": "https://open.spotify.com/album/4BtoDXCj6ktolMeu3Okxma"
-      },
-      "artists": [
-        {
-          "name": "Skybreak",
-          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
-        },
-        {
-          "name": "SpaceYeti",
-          "url": "https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Terminal",
-      "url": "https://open.spotify.com/track/5UiBPe2tMACirmcdSpjP13"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

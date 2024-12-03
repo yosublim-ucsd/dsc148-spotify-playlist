@@ -2951,6 +2951,32 @@
     },
     {
       "album": {
+        "name": "King Of The Mischievous South Vol. 2",
+        "url": "https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218813,
+      "name": "COLE PIMP (with Ty Dolla $ign & Juicy J)",
+      "url": "https://open.spotify.com/track/4vdDAdLtmTqFR1J4AO4cBf"
+    },
+    {
+      "album": {
         "name": "DR. EV4L",
         "url": "https://open.spotify.com/album/4emCVXg7Sd9tFn0DEf8B1L"
       },

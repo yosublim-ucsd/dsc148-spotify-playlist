@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \bKYUHYUN(\uaddc\ud604)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: Baek Ji Young(\ubc31\uc9c0\uc601)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -3801,6 +3801,24 @@
     },
     {
       "album": {
+        "name": "Love Your Enemy OST Part 2",
+        "url": "https://open.spotify.com/album/49xddz6nqaZ1Rn9bb0cV0R"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225817,
+      "name": "Day after day",
+      "url": "https://open.spotify.com/track/66lJ4IajLbS87o11xp5Ik2"
+    },
+    {
+      "album": {
         "name": "day by day",
         "url": "https://open.spotify.com/album/6sV3dw34ZviqiY4GyzcwrP"
       },
@@ -7390,7 +7408,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 343071,
       "name": "Hitomio Tojite",
       "url": "https://open.spotify.com/track/3Hf14iQ8Yx9feBxGEeMGlO"
@@ -7950,6 +7968,24 @@
       "duration_ms": 274881,
       "name": "Hug Me",
       "url": "https://open.spotify.com/track/1dAN9YSEram61KezA9X8lx"
+    },
+    {
+      "album": {
+        "name": "The Tale of Lady Ok (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/0riQ4lsX6mFk9DKDx8WLnE"
+      },
+      "artists": [
+        {
+          "name": "WINTER",
+          "url": "https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263800,
+      "name": "HUNJUNG YEONSUH",
+      "url": "https://open.spotify.com/track/08Pvcb7tO6Ac2TRB9zr4Wa"
     },
     {
       "album": {
@@ -10236,6 +10272,24 @@
       "duration_ms": 272386,
       "name": "INCOMPLETE",
       "url": "https://open.spotify.com/track/1YI04hmMPhmcutJm1bpp0c"
+    },
+    {
+      "album": {
+        "name": "Ordinary Grace",
+        "url": "https://open.spotify.com/album/48CdV9kVXIXXNEvcUV3qmJ"
+      },
+      "artists": [
+        {
+          "name": "Baek Ji Young",
+          "url": "https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250048,
+      "name": "Indeed, It Was Love",
+      "url": "https://open.spotify.com/track/6ghLeCbuqka7yOEkaQDdDA"
     },
     {
       "album": {
@@ -16004,6 +16058,24 @@
       "duration_ms": 240626,
       "name": "Please Don't forget me (WEBTOON 'Discovery of Love' X GB9)",
       "url": "https://open.spotify.com/track/6mj9CHo8FmFSsDH9VaOfD8"
+    },
+    {
+      "album": {
+        "name": "Please don't hate me",
+        "url": "https://open.spotify.com/album/36GJ8RigvD51QVlOcit9LC"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205089,
+      "name": "Please don't hate me",
+      "url": "https://open.spotify.com/track/7pWfugxsy7Sdm063H5GaR5"
     },
     {
       "album": {
@@ -24190,7 +24262,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 247660,
       "name": "\ub2e8 \ud55c\ubc88\ub9cc",
       "url": "https://open.spotify.com/track/5Ac4FUabMG7nYBA2bHETLj"
@@ -24804,7 +24876,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 245353,
       "name": "\uc815\uae00\ud53c\uc26c \uc2dc\uc98c2 (Original Television Soundtrack) Pt.5 - \uc2ac\ud508 \uc608\uac10",
       "url": "https://open.spotify.com/track/1ZlUjS9wtDXIx6tfy6LLkt"
@@ -24930,7 +25002,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 227453,
       "name": "\ucde8\ud55c\ub2e4",
       "url": "https://open.spotify.com/track/16D2V14oOC6ATvbrWFF8Xa"

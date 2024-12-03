@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 187518,
       "name": "Change Your Mind",
       "url": "https://open.spotify.com/track/66vsd3ks4Y0kfoSV6Upi8h"
@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 173437,
       "name": "COMMUNICATE (feat. Jevin Julian) [Max Glyde Remix]",
       "url": "https://open.spotify.com/track/3NRHTJE6fbJOYIuqxFc8mP"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 218181,
       "name": "Ego Slide",
       "url": "https://open.spotify.com/track/6UtnOjQCpJyNyjmQjwxCCn"
@@ -2640,7 +2640,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 110773,
       "name": "Finest",
       "url": "https://open.spotify.com/track/1TRGdHdRkRv5ukCferu1D0"
@@ -3362,7 +3362,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 113720,
       "name": "HEHEHE",
       "url": "https://open.spotify.com/track/5oUDNEJSEjsVT7LeWya4Gv"
@@ -3978,7 +3978,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 219577,
       "name": "Jordan 1s - Effy Rework",
       "url": "https://open.spotify.com/track/1PsmJW9eYuXY7zRtYxRzMI"
@@ -4144,7 +4144,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 101558,
       "name": "Keep It Playa (feat. 8ae)",
       "url": "https://open.spotify.com/track/4H7keLEwnjlpYHqV2HxwiL"
@@ -5772,7 +5772,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 168226,
       "name": "Peak",
       "url": "https://open.spotify.com/track/0g3GwtbGrSZOJaGmHpQdEA"
@@ -5812,7 +5812,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 143376,
       "name": "PHASES",
       "url": "https://open.spotify.com/track/4HihdOraRzAVksckm2rCzc"
@@ -6435,6 +6435,28 @@
     },
     {
       "album": {
+        "name": "Risk It All (feat. Maverick Sabre)",
+        "url": "https://open.spotify.com/album/1CjMIMDADSu9lKwYtHfCrc"
+      },
+      "artists": [
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Risk It All (feat. Maverick Sabre)",
+      "url": "https://open.spotify.com/track/21zPoJIGxEwNUfMRsdFTJp"
+    },
+    {
+      "album": {
         "name": "BLOCKBUSTA",
         "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
       },
@@ -7000,7 +7022,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 171345,
       "name": "Sky High (with Anycia)",
       "url": "https://open.spotify.com/track/0GxSqTiwmtULDL5QwVszFo"
@@ -7160,7 +7182,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 156572,
       "name": "Spit (feat. BEAM & Lady Lykez)",
       "url": "https://open.spotify.com/track/6mTnBa2d0DLbXKckEh7fM8"
@@ -7420,7 +7442,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 234285,
       "name": "Surreal",
       "url": "https://open.spotify.com/track/0SbYDOUU3VA1TWvH7eb8vU"
@@ -7546,6 +7568,28 @@
       "duration_ms": 134844,
       "name": "take your vibes and go",
       "url": "https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg"
+    },
+    {
+      "album": {
+        "name": "Taken",
+        "url": "https://open.spotify.com/album/1Lc8ZMyKj4eN66C3TUtJK9"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170093,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/0luRXW2hbGTMJ7QZgr5Tap"
     },
     {
       "album": {

@@ -1823,6 +1823,28 @@
     },
     {
       "album": {
+        "name": "Te Amo Cada Vez Mais (Duas Vozes)",
+        "url": "https://open.spotify.com/album/2PJENalb6VmoT0Slugd89q"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347672,
+      "name": "Te Amo Cada Vez Mais (Duas Vozes)",
+      "url": "https://open.spotify.com/track/6PkD5UbpneV73smkeHuQT2"
+    },
+    {
+      "album": {
         "name": "\u00c9 da Pista",
         "url": "https://open.spotify.com/album/28YyV8yp2I9KWrsgDR5HpN"
       },

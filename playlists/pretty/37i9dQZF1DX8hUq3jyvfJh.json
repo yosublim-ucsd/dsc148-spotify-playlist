@@ -1,6 +1,6 @@
 {
   "description": "Escute T\u00e1ssia Reis e mais mulheres no volume m\u00e1ximo! Co-curadoria com  <a href=\"spotify:artist:0kc1BjcLHaXhZVzCp0HeAl\">T\u00e1ssia Reis</a>",
-  "num_followers": 186869,
+  "num_followers": 186857,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -72,13 +72,33 @@
           "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         },
         {
-          "name": "Tibery",
-          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         }
       ],
-      "duration_ms": 177902,
-      "name": "Linha De Frente",
-      "url": "https://open.spotify.com/track/16FWFYPYQupfw8H8G9tHOB"
+      "duration_ms": 205000,
+      "name": "N\u00e3o Adianta Me Ligar",
+      "url": "https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE"
+    },
+    {
+      "added_at": "2024-11-06 20:37:39",
+      "album": {
+        "name": "Amar\u00edssima",
+        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 201962,
+      "name": "Cacau",
+      "url": "https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA"
     },
     {
       "added_at": "2024-11-06 20:37:39",
@@ -103,22 +123,6 @@
       "duration_ms": 179824,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
-    },
-    {
-      "added_at": "2024-11-06 20:37:39",
-      "album": {
-        "name": "Amar\u00edssima",
-        "url": "https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 201962,
-      "name": "Cacau",
-      "url": "https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA"
     },
     {
       "added_at": "2024-11-06 20:37:39",
@@ -256,17 +260,13 @@
           "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
         }
       ],
-      "duration_ms": 205000,
-      "name": "N\u00e3o Adianta Me Ligar",
-      "url": "https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE"
+      "duration_ms": 177902,
+      "name": "Linha De Frente",
+      "url": "https://open.spotify.com/track/16FWFYPYQupfw8H8G9tHOB"
     },
     {
       "added_at": "2024-11-06 20:37:39",

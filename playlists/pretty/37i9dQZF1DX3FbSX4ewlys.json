@@ -1,6 +1,6 @@
 {
   "description": "la generaci\u00f3n del discman y el walkman",
-  "num_followers": 42649,
+  "num_followers": 42693,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
+        "name": "De Piel Negra",
+        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
+      },
+      "artists": [
+        {
+          "name": "Alejandra Guzman",
+          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
+        }
+      ],
+      "duration_ms": 206440,
+      "name": "Eternamente Bella",
+      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 164280,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/43z6scIZU2QcEieMQFAJRG"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
-        "name": "De Piel Negra",
-        "url": "https://open.spotify.com/album/4i0eMiYUxt1ESu6SrHQpVg"
-      },
-      "artists": [
-        {
-          "name": "Alejandra Guzman",
-          "url": "https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO"
-        }
-      ],
-      "duration_ms": 206440,
-      "name": "Eternamente Bella",
-      "url": "https://open.spotify.com/track/3pIgumKqXX7ge7lT9rCvNy"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "Viento A Favor",
-        "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
-      },
-      "artists": [
-        {
-          "name": "Sentidos Opuestos",
-          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Amor De Papel",
-      "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 232066,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "Viento A Favor",
+        "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
+      },
+      "artists": [
+        {
+          "name": "Sentidos Opuestos",
+          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "Amor De Papel",
+      "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
     },
     {
       "added_at": "2024-07-05 01:24:37",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-05 01:24:37",
       "album": {
-        "name": "'N Sync",
-        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Tearin' up My Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
-    },
-    {
-      "added_at": "2024-07-05 01:24:37",
-      "album": {
         "name": "Tu Angel De La Guarda",
         "url": "https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 206600,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1H8aAoRO817bygKpgvAcpf"
+    },
+    {
+      "added_at": "2024-07-05 01:24:37",
+      "album": {
+        "name": "'N Sync",
+        "url": "https://open.spotify.com/album/0CADmCXbIx4F9m6TBwLtFd"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Tearin' up My Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
     },
     {
       "added_at": "2024-07-05 01:24:37",

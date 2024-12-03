@@ -1,6 +1,6 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Sue\u00f1o A Marte \u2728",
-  "num_followers": 53144,
+  "num_followers": 53147,
   "original_name": "dreamy ",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
+        "name": "Weyes",
+        "url": "https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV"
+      },
+      "artists": [
+        {
+          "name": "Luisa Almaguer",
+          "url": "https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq"
+        }
+      ],
+      "duration_ms": 339969,
+      "name": "Nube",
+      "url": "https://open.spotify.com/track/3dNMnVXjn1RZ2fQzGvphul"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
         "name": "En Todas Partes",
         "url": "https://open.spotify.com/album/5jV6AmV4Gpg8GSe3WhSjof"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 217636,
       "name": "En Todas Partes",
       "url": "https://open.spotify.com/track/3e0oTmzpggchmvDpUgEgbL"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
-        "name": "Weyes",
-        "url": "https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV"
-      },
-      "artists": [
-        {
-          "name": "Luisa Almaguer",
-          "url": "https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq"
-        }
-      ],
-      "duration_ms": 339969,
-      "name": "Nube",
-      "url": "https://open.spotify.com/track/3dNMnVXjn1RZ2fQzGvphul"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+      },
+      "artists": [
+        {
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+        }
+      ],
+      "duration_ms": 180236,
+      "name": "2000nunca",
+      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
         "name": "100m",
         "url": "https://open.spotify.com/album/18xOhrxNNHE7MNVj6VNiyY"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 126720,
       "name": "Stuck in California",
       "url": "https://open.spotify.com/track/2p4rM1zKE2lK5tFVBd7Bik"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
-      },
-      "artists": [
-        {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
-        }
-      ],
-      "duration_ms": 180236,
-      "name": "2000nunca",
-      "url": "https://open.spotify.com/track/2HJdRebzIISmN4n00jtuRj"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
-        "name": "cartulinas de colores",
-        "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
-      },
-      "artists": [
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 159765,
-      "name": "cartulinas de colores",
-      "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
         "name": "GARZA",
         "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 183056,
       "name": "Amantes Astrales",
       "url": "https://open.spotify.com/track/0dRTLMldDfPopHHYw9FzyA"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
+        "name": "cartulinas de colores",
+        "url": "https://open.spotify.com/album/62r1JOXim0HDI909Vl0QiC"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 159765,
+      "name": "cartulinas de colores",
+      "url": "https://open.spotify.com/track/2wEfLzvEWrSWmi63CeNDSO"
     },
     {
       "added_at": "2024-10-11 19:33:46",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-10-11 19:33:46",
       "album": {
+        "name": "Una noche que nunca termina",
+        "url": "https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 181987,
+      "name": "Una noche que nunca termina",
+      "url": "https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE"
+    },
+    {
+      "added_at": "2024-10-11 19:33:46",
+      "album": {
         "name": "VOLVER A INTENTARLO CUANDO EST\u00c9S DELANTE",
         "url": "https://open.spotify.com/album/5E27KX2EJwPGdsXDNKNHBs"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 178541,
       "name": "tus mensajes",
       "url": "https://open.spotify.com/track/2fiIr0wRXwxWojsCDIsy6h"
-    },
-    {
-      "added_at": "2024-10-11 19:33:46",
-      "album": {
-        "name": "Una noche que nunca termina",
-        "url": "https://open.spotify.com/album/0xcepcn70088Fgal5hLnsi"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 181987,
-      "name": "Una noche que nunca termina",
-      "url": "https://open.spotify.com/track/5FsobFWmtzBqmUw9qNkVhE"
     }
   ],
   "unique_name": "dreamy ",

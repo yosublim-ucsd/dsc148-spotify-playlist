@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Nesk Only, Brenno",
-  "num_followers": 176108,
+  "num_followers": 176133,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Autenticidade",
-        "url": "https://open.spotify.com/album/5sN1q4B4RQGM2ZXFMCwEyo"
-      },
-      "artists": [
-        {
-          "name": "Nesk Only",
-          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
-        }
-      ],
-      "duration_ms": 141678,
-      "name": "Autenticidade",
-      "url": "https://open.spotify.com/track/23e0RaEumYDQGlLxzPnvpm"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Doming\u00e3o",
         "url": "https://open.spotify.com/album/5hIXpAB9pVwGALuLDtqH3v"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 143114,
       "name": "Doming\u00e3o",
       "url": "https://open.spotify.com/track/1HDLBb0pV7Y6INvZKp7Ss1"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Autenticidade",
+        "url": "https://open.spotify.com/album/5sN1q4B4RQGM2ZXFMCwEyo"
+      },
+      "artists": [
+        {
+          "name": "Nesk Only",
+          "url": "https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00"
+        }
+      ],
+      "duration_ms": 141678,
+      "name": "Autenticidade",
+      "url": "https://open.spotify.com/track/23e0RaEumYDQGlLxzPnvpm"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Solid\u00e3o e Arte",
-        "url": "https://open.spotify.com/album/7sBg6h4UTxEnEWwkcNxT8m"
-      },
-      "artists": [
-        {
-          "name": "BIG THE KIID",
-          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
-        },
-        {
-          "name": "Ryam Beatz",
-          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "Solid\u00e3o e Arte",
-      "url": "https://open.spotify.com/track/4uI1L4sII6bvqMrdHIerWw"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Arca de No\u00e9",
         "url": "https://open.spotify.com/album/3C6zDgnNsusSDOHTLJX5oX"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 176425,
       "name": "Arca de No\u00e9",
       "url": "https://open.spotify.com/track/6uPp6ZFJI1aMr2DoM5e1JF"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Solid\u00e3o e Arte",
+        "url": "https://open.spotify.com/album/7sBg6h4UTxEnEWwkcNxT8m"
+      },
+      "artists": [
+        {
+          "name": "BIG THE KIID",
+          "url": "https://open.spotify.com/artist/69XcYfPUsCuJ7RwrVRxty1"
+        },
+        {
+          "name": "Ryam Beatz",
+          "url": "https://open.spotify.com/artist/1e4gxT06EhPqmgWEUoxxzY"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "Solid\u00e3o e Arte",
+      "url": "https://open.spotify.com/track/4uI1L4sII6bvqMrdHIerWw"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -935,6 +935,46 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Sangue",
+        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "Sangue",
+      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Gratid\u00e3o",
         "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
       },
@@ -959,22 +999,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 142622,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Sangue",
-        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "Sangue",
-      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
     },
     {
       "added_at": "2024-11-29 03:01:00",

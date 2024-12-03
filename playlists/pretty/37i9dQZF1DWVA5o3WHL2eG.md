@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Naomi Lareine
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,520 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,522 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Küss dein Herz](https://open.spotify.com/track/29XhSOvXu5snR24ovAE9Rv) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e), [arella](https://open.spotify.com/artist/3Rhzf8qzrQb7yr0qUMEahd), [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Küss dein Herz](https://open.spotify.com/album/4YqGFPTOau8gKHe5dT7kym) | 2:42 |
 | 12 | [Sweat](https://open.spotify.com/track/7xzQCX7zR9shiyMtSFF2cc) | [FILLY](https://open.spotify.com/artist/78lCJYozxlzWtocLnPKZ0f) | [Sweat](https://open.spotify.com/album/0IOUZGjCamqdOUxwC4GrWR) | 2:31 |
 | 13 | [Brenne](https://open.spotify.com/track/2fv5ZNriD458IXRR9qffTu) | [ILO](https://open.spotify.com/artist/6DGJCqeSYkItszdXCTR4dP) | [Brenne](https://open.spotify.com/album/7vMoDNGKcNbriWELFzZZV5) | 2:51 |
-| 14 | [Pberg](https://open.spotify.com/track/3fUuGfJmvc4p8NXlLgWI5o) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Pberg](https://open.spotify.com/album/0J7CtWfxGVROwIDi8ARBd3) | 1:39 |
-| 15 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
+| 14 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
+| 15 | [Pberg](https://open.spotify.com/track/3fUuGfJmvc4p8NXlLgWI5o) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Pberg](https://open.spotify.com/album/0J7CtWfxGVROwIDi8ARBd3) | 1:39 |
 | 16 | [Egal](https://open.spotify.com/track/18YTS2XAqUdgB1KFzCY0Z1) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Egal](https://open.spotify.com/album/3IM7qu8zGm1Fx1FeQoyJ8k) | 2:19 |
 | 17 | [Seifenspender](https://open.spotify.com/track/3i4JuEQQ9EuSzWH8QIjZHy) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Seifenspender](https://open.spotify.com/album/5S3Sinq4pawxn7jzTkXwi6) | 2:44 |
 | 18 | [the melody](https://open.spotify.com/track/61J7lYjF9oUeM7p4HRlnGv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [the melody](https://open.spotify.com/album/7BS4O9X6FegZiBr2DwcXyX) | 2:25 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 27 | [smile](https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 3:02 |
 | 28 | [This Summer](https://open.spotify.com/track/1UKf3GCnrZgchYbNOnfF2g) | [Anna Reusch](https://open.spotify.com/artist/0BMS6AqoDN4Fu7QOruxHjh) | [This Summer](https://open.spotify.com/album/1HZk8E4kfqAyDVGTTwTedZ) | 4:02 |
 | 29 | [echo](https://open.spotify.com/track/0jklwASgujfNjubQ6O3O7n) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [echo](https://open.spotify.com/album/2llIzlRhG7iFLtiK5hR0mw) | 3:33 |
-| 30 | [Innenhof](https://open.spotify.com/track/3P1n2hER712EytnjX2Z2Pt) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Innenhof](https://open.spotify.com/album/4Re5MEQNMz5tP327a4WU1C) | 2:47 |
-| 31 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
+| 30 | [say yes](https://open.spotify.com/track/2DCX9FyvpcKYFne1Y6a97I) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [say yes](https://open.spotify.com/album/5V60AxTn9bppXrHMhSLveB) | 1:54 |
+| 31 | [Innenhof](https://open.spotify.com/track/3P1n2hER712EytnjX2Z2Pt) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Innenhof](https://open.spotify.com/album/4Re5MEQNMz5tP327a4WU1C) | 2:47 |
 | 32 | [Nenn Es Liebe](https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Ich Kann's Nicht Glauben](https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy) | 3:22 |
 | 33 | [Multiplying My Absurdities](https://open.spotify.com/track/0smWCCXSYAs8E5Y2Yg7mda) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Multiplying My Absurdities](https://open.spotify.com/album/7Fg9gARKM7VC7lpCH2zmam) | 6:22 |
 | 34 | [Not Crazy](https://open.spotify.com/track/1kGfr3GtO2ly4kAUVNLzRY) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Not Crazy](https://open.spotify.com/album/1FxRjP3ie1tcEo2Y14Wu9I) | 3:10 |

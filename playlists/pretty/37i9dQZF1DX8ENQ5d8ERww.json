@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12189,
+  "num_followers": 12196,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,26 @@
     {
       "added_at": "2024-10-10 15:53:12",
       "album": {
+        "name": "Churer Dame K\u00f6nig Gras",
+        "url": "https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq"
+      },
+      "artists": [
+        {
+          "name": "LIV",
+          "url": "https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA"
+        },
+        {
+          "name": "DJ Babon",
+          "url": "https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41"
+        }
+      ],
+      "duration_ms": 205242,
+      "name": "Tagebuach",
+      "url": "https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF"
+    },
+    {
+      "added_at": "2024-10-10 15:53:12",
+      "album": {
         "name": "Mier macheds",
         "url": "https://open.spotify.com/album/6ENZfDZhR1toEjwcK1npvb"
       },
@@ -183,22 +203,18 @@
     {
       "added_at": "2024-10-10 15:53:12",
       "album": {
-        "name": "Churer Dame K\u00f6nig Gras",
-        "url": "https://open.spotify.com/album/3chLYTAznowVTDoIZByBVq"
+        "name": "Discochugle",
+        "url": "https://open.spotify.com/album/2kOnkk5f7NHrXDZT0CQHjK"
       },
       "artists": [
         {
-          "name": "LIV",
-          "url": "https://open.spotify.com/artist/4pw7Mbk0DDfe90FRWlXIzA"
-        },
-        {
-          "name": "DJ Babon",
-          "url": "https://open.spotify.com/artist/0wc6XBZwfrVIKFxJkhxm41"
+          "name": "Dabu Fantastic",
+          "url": "https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24"
         }
       ],
-      "duration_ms": 205242,
-      "name": "Tagebuach",
-      "url": "https://open.spotify.com/track/53hEa3yzWEKm7ft3EG7cVF"
+      "duration_ms": 220186,
+      "name": "Min Ort 2010",
+      "url": "https://open.spotify.com/track/3HkMfKwvdCLtTblUfJFnDq"
     },
     {
       "added_at": "2024-10-10 15:53:12",
@@ -223,22 +239,6 @@
       "duration_ms": 400120,
       "name": "Track 05",
       "url": "https://open.spotify.com/track/7ojgCkJNhgFw7y5C7WlA3h"
-    },
-    {
-      "added_at": "2024-10-10 15:53:12",
-      "album": {
-        "name": "Discochugle",
-        "url": "https://open.spotify.com/album/2kOnkk5f7NHrXDZT0CQHjK"
-      },
-      "artists": [
-        {
-          "name": "Dabu Fantastic",
-          "url": "https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Min Ort 2010",
-      "url": "https://open.spotify.com/track/3HkMfKwvdCLtTblUfJFnDq"
     },
     {
       "added_at": "2024-10-10 15:53:12",

@@ -16047,6 +16047,28 @@
     },
     {
       "album": {
+        "name": "morning haze",
+        "url": "https://open.spotify.com/album/21kcqvPyKvTenNZieCjAXQ"
+      },
+      "artists": [
+        {
+          "name": "chasing clouds.",
+          "url": "https://open.spotify.com/artist/5LDKOzebjXcTFpZALsiVZ6"
+        },
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128731,
+      "name": "morning haze",
+      "url": "https://open.spotify.com/track/4jEpT0wPpnTzWlsyNJ2492"
+    },
+    {
+      "album": {
         "name": "As The Sun Rises",
         "url": "https://open.spotify.com/album/4OGfkftDPq4gOqtKCf1G2y"
       },
@@ -25042,7 +25064,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 139436,
       "name": "thankful",
       "url": "https://open.spotify.com/track/0nyqWzGxfKw9k30MK0rXZQ"

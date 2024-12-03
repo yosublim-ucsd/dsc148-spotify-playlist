@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh\_89rmgqQ">Bonnie &quot;Prince&quot; Billy</a>
 
-1,157 songs - 3 day 7 hr 10 min
+1,158 songs - 3 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [A Ghost In The Weed Garden](https://open.spotify.com/track/1fKNZgza6MFW1WbkplcMIg) | [Dwen](https://open.spotify.com/artist/6HBC1vvrpaB0Zg9944uRCk) | [A Ghost In The Weed Garden](https://open.spotify.com/album/7ygpAZedWTikPn8PtNJbGU) | 3:52 | 2022-12-07 | 2023-01-26 |
 | [A Landlord's Death](https://open.spotify.com/track/6h11pnlL67Z0HnHsUzikCt) | [One True Pairing](https://open.spotify.com/artist/5Ijj1CZ7i0VFZ6Ghrmij2K) | [A Landlord's Death](https://open.spotify.com/album/10CsPEdJOHo0p8FvV4cPQb) | 3:21 | 2024-08-13 | 2024-10-03 |
 | [A Matter Of Fact](https://open.spotify.com/track/5OrTeeOw67AK6iBmpAuHaw) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Sunbursting EP](https://open.spotify.com/album/5klM7eDsW550jwU1DXTxpV) | 3:00 | 2023-09-27 | 2023-11-09 |
+| [A Matter of Taste](https://open.spotify.com/track/5gev7xyonIkZsLlu2RmM0O) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Mountain out of a Molehill / A Matter of Taste](https://open.spotify.com/album/1NwbriFwipEAAtD0bDOC2u) | 3:11 | 2024-12-02 |  |
 | [Abandon All Hope](https://open.spotify.com/track/1nKwN2fypWq43r0OUeJ5kx) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Abandon All Hope](https://open.spotify.com/album/4ylZeG92GetC46n8gU0o0l) | 3:46 | 2023-06-28 | 2023-08-10 |
 | [Abigail](https://open.spotify.com/track/75NgXlkXMMtUI9611uR5kX) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Inner World Peace](https://open.spotify.com/album/60UAUb98BH6Z0ezRUAMJrz) | 1:53 | 2022-10-26 | 2022-12-08 |
 | [Accidental Momentary Blur](https://open.spotify.com/track/5J5oJAE95Es8IZfN5umlqr) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Compact Trauma](https://open.spotify.com/album/6ADAOhSIu5dIJqBN2rxMtz) | 2:43 | 2023-03-29 | 2023-05-04 |

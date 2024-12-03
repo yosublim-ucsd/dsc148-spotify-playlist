@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAACrqyd+pI85NVBsvU7cWiWL",
+  "snapshot_id": "Z0unAAAAAAAFW7fxo1ejfEOjTHlTU5kC",
   "tracks": [
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 407626,
+      "name": "Vale a Pena ser Profeta - Ao Vivo",
+      "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 407626,
-      "name": "Vale a Pena ser Profeta - Ao Vivo",
-      "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "S\u00f3 o Senhor \u00e9 Deus",
+      "url": "https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sopra Esp\u00edrito - Na Igreja (In Memoriam Ludmila Ferber)",
         "url": "https://open.spotify.com/album/66pj0nSZDWBLGr6htD3P6i"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 326547,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/6eFKpkeizLNEbipXtuL9AO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Um Novo Come\u00e7o",
-        "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
-      },
-      "artists": [
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "S\u00f3 o Senhor \u00e9 Deus",
-      "url": "https://open.spotify.com/track/0iIpBvZapfG7Cq3DNDBW3S"
     },
     {
       "added_at": null,

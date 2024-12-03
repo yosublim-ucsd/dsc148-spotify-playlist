@@ -207,6 +207,32 @@
     },
     {
       "album": {
+        "name": "Brussel",
+        "url": "https://open.spotify.com/album/57PclOxkYeM34Xr0oGV62z"
+      },
+      "artists": [
+        {
+          "name": "Bolle Tito",
+          "url": "https://open.spotify.com/artist/20768ncxf9ouMj8IKAB6nc"
+        },
+        {
+          "name": "Keizer",
+          "url": "https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW"
+        },
+        {
+          "name": "Rene Karst",
+          "url": "https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170024,
+      "name": "Brussel",
+      "url": "https://open.spotify.com/track/1UOymAhcklZlgfa8k1BUUB"
+    },
+    {
+      "album": {
         "name": "Campari Soda",
         "url": "https://open.spotify.com/album/4vXWhQGukziiGb92GnRgx7"
       },
@@ -406,10 +432,32 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 186182,
       "name": "Garden of Eden",
       "url": "https://open.spotify.com/track/2u109kLlyAdp5Kidcwi8HP"
+    },
+    {
+      "album": {
+        "name": "Gedoofde Kaarsen",
+        "url": "https://open.spotify.com/album/15AYGpQaVyf2lagv9LaAtY"
+      },
+      "artists": [
+        {
+          "name": "Engel",
+          "url": "https://open.spotify.com/artist/5t6ULwzhz2zTzSMIe10DCs"
+        },
+        {
+          "name": "Paul de Munnik",
+          "url": "https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154782,
+      "name": "Gedoofde Kaarsen",
+      "url": "https://open.spotify.com/track/4Fs5mKmpdqlTAHyeWPjB91"
     },
     {
       "album": {
@@ -482,7 +530,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 214186,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/0aw9eYHRnhcOCKRGUmg8mB"
@@ -753,6 +801,24 @@
     },
     {
       "album": {
+        "name": "Jij Was Alles Voor Mij",
+        "url": "https://open.spotify.com/album/5BWvQ5dsckUjysCBJnQZeX"
+      },
+      "artists": [
+        {
+          "name": "Ray Benjamin",
+          "url": "https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181455,
+      "name": "Jij Was Alles Voor Mij",
+      "url": "https://open.spotify.com/track/4FvK8IX6o58SuLSvDWVLU7"
+    },
+    {
+      "album": {
         "name": "Kan Ik Iets Voor Je Doen?",
         "url": "https://open.spotify.com/album/2G5idixK1zfPctvTeRtCfU"
       },
@@ -768,6 +834,24 @@
       "duration_ms": 169491,
       "name": "Kan Ik Iets Voor Je Doen?",
       "url": "https://open.spotify.com/track/6K1xfSVsfGLvvcCCQjFRMy"
+    },
+    {
+      "album": {
+        "name": "Klaar Voor Wat Er Komt",
+        "url": "https://open.spotify.com/album/3nDUUpZK89esI3MkJfxnM7"
+      },
+      "artists": [
+        {
+          "name": "Guus Hulshof",
+          "url": "https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206642,
+      "name": "Klaar Voor Wat Er Komt",
+      "url": "https://open.spotify.com/track/74oGstwGCWwsxlM5cwz7ge"
     },
     {
       "album": {
@@ -1482,7 +1566,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 164966,
       "name": "Sweet, Salt, Sour",
       "url": "https://open.spotify.com/track/4wBIyPFm5WKg72pa1qz5Oq"
@@ -1736,7 +1820,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 171211,
       "name": "Weg",
       "url": "https://open.spotify.com/track/4TPdpRvrDAdJjJ72yThfn5"

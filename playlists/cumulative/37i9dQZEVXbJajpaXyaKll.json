@@ -6447,6 +6447,24 @@
     },
     {
       "album": {
+        "name": "FELIZ SIN TI",
+        "url": "https://open.spotify.com/album/52SyweT1N6s6D46d8mjczF"
+      },
+      "artists": [
+        {
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167053,
+      "name": "FELIZ SIN TI",
+      "url": "https://open.spotify.com/track/6UNXOLtqnS7HboLvFQl2e5"
+    },
+    {
+      "album": {
         "name": "Femme Fatale",
         "url": "https://open.spotify.com/album/1EYk3E8HDqF2vn6AviJW7k"
       },
@@ -18274,7 +18292,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 172502,
       "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
       "url": "https://open.spotify.com/track/6CjV7qCrV3HvZ6NE0xLySS"

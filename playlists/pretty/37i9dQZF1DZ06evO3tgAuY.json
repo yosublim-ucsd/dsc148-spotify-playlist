@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2085,
+  "num_followers": 2087,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAAAKlP5g32q71nYfzUrKxTI/",
+  "snapshot_id": "Z0unAAAAAACezQF/DMokmnosiaH4QaIm",
   "tracks": [
     {
       "added_at": null,
@@ -331,26 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vino Rosa",
-        "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 199384,
-      "name": "Vino Rosa",
-      "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RUMBA",
         "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 181818,
       "name": "RUMBA",
       "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vino Rosa",
+        "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "Vino Rosa",
+      "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
     },
     {
       "added_at": null,
@@ -763,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Hice Mal",
+        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "Que Hice Mal",
+      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Brillo de Mis Ojos",
         "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
       },
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Hice Mal",
-        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
+        "name": "Jaimito El De California",
+        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
       },
       "artists": [
         {
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 205237,
-      "name": "Que Hice Mal",
-      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
+      "duration_ms": 151018,
+      "name": "Jaimito El De California",
+      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 134184,
       "name": "Ac\u00e1 Por Tijuana - En Vivo",
       "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jaimito El De California",
-        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 151018,
-      "name": "Jaimito El De California",
-      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde CLN Banda Edition (En Vivo)",
+        "url": "https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 139332,
+      "name": "Hay Les Encargo - En Vivo",
+      "url": "https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Al Modo Freson",
         "url": "https://open.spotify.com/album/0ap31DRjLT0wrlKoNbtTji"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 154666,
       "name": "Al Modo Freson",
       "url": "https://open.spotify.com/track/6NTdPXhCsgW9KRA8q9zjLm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde CLN Banda Edition (En Vivo)",
-        "url": "https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 139332,
-      "name": "Hay Les Encargo - En Vivo",
-      "url": "https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 186051,
+  "num_followers": 186126,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABHVkAf9d1zv7NTx4wYlhlq",
+  "snapshot_id": "Z0unAAAAAAAWaqj5qlveA2l9MccZxT2t",
   "tracks": [
     {
       "added_at": null,
@@ -507,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadpool",
-        "url": "https://open.spotify.com/album/2qL2in6zVsO6Hxm8CH7tKs"
-      },
-      "artists": [
-        {
-          "name": "Heretic Klick",
-          "url": "https://open.spotify.com/artist/6Jqut9RUUIl7KksiQ6omuU"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 111888,
-      "name": "Deadpool",
-      "url": "https://open.spotify.com/track/7gw9HXq83fuwCiD343QwZD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jackman.",
         "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
       },
@@ -931,22 +911,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
+        "name": "Deadpool",
+        "url": "https://open.spotify.com/album/2qL2in6zVsO6Hxm8CH7tKs"
+      },
+      "artists": [
+        {
+          "name": "Heretic Klick",
+          "url": "https://open.spotify.com/artist/6Jqut9RUUIl7KksiQ6omuU"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 111888,
+      "name": "Deadpool",
+      "url": "https://open.spotify.com/track/7gw9HXq83fuwCiD343QwZD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Action",
+        "url": "https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY"
       },
       "artists": [
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "CyHi",
-          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
         }
       ],
-      "duration_ms": 203612,
-      "name": "DRIP DROP (feat. Cyhi The Prynce)",
-      "url": "https://open.spotify.com/track/19wtw9FEDtbf5z9p5KDCy9"
+      "duration_ms": 178968,
+      "name": "OUT FRONT",
+      "url": "https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq"
     }
   ],
   "unique_name": "This Is Jack Harlow",

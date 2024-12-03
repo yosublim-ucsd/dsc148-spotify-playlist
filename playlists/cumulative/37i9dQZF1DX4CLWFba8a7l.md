@@ -4,7 +4,7 @@
 
 > The home of Australian music\. Cover: Royel Otis
 
-140 songs - 7 hr 45 min
+141 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Ahead Of Myself](https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Lustre](https://open.spotify.com/album/4476oK9dDwXluywz166CT1) | 3:44 | 2024-07-11 | 2024-07-27 |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-05-31 |  |
 | [All Your Life](https://open.spotify.com/track/2ciyr1bH7Hs3eRwk4tCVBW) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [All Your Life](https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu) | 3:41 | 2024-07-11 |  |
+| [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 | 2024-11-28 |  |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2024-05-31 |  |
 | [Archaeology](https://open.spotify.com/track/5cobXWU7WBgPCg7Ct9JHZh) | [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha), [Marques Toliver](https://open.spotify.com/artist/5zrD2ZqM6SB5XRJJwTroAu), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Archaeology](https://open.spotify.com/album/1CM763zbcbSqqnP0yNKDwM) | 4:12 | 2024-09-05 | 2024-10-08 |
 | [Atmosphere](https://open.spotify.com/track/4R9TqikCVqX6EbLVEvtYLs) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/2iyg8tyZThPkpe5j7ou0gU) | 3:02 | 2024-05-31 |  |
@@ -45,7 +46,7 @@
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2024-05-31 |  |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-31 |  |
 | [Electric Feel \- Spotify Singles](https://open.spotify.com/track/0OZezI7eAOWAF2ntBNn5Sy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Electric Feel \(Spotify Singles\)](https://open.spotify.com/album/6SSUyG0rMITj4m4o1E1A8B) | 2:56 | 2024-09-19 |  |
-| [Enough Of The Sweet Talk](https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Enough Of The Sweet Talk](https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B) | 4:00 | 2024-07-25 |  |
+| [Enough Of The Sweet Talk](https://open.spotify.com/track/3QOV1bCaYukb1rUAVP2f6x) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Enough Of The Sweet Talk](https://open.spotify.com/album/7Cmagko6o1A7RXCWkauw2B) | 4:00 | 2024-07-25 | 2024-12-03 |
 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 | 2024-05-31 | 2024-07-24 |
 | [Fall Back](https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Fall Back / Selfish Game](https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR) | 2:09 | 2024-05-31 |  |
 | [Field of Vision](https://open.spotify.com/track/1DXFQFDYeOW3cZPam0LXTd) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Field of Vision](https://open.spotify.com/album/1WzXtuf2SaxT3CsPFrf8d0) | 3:35 | 2024-08-08 | 2024-09-25 |

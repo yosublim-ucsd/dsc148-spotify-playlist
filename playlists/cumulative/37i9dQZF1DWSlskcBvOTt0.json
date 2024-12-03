@@ -9842,7 +9842,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 283278,
       "name": "Mogolu - Major Lazer Remix",
       "url": "https://open.spotify.com/track/2cOC8gWaJmFb6z1uo8OyfX"
@@ -16348,6 +16348,28 @@
       "duration_ms": 247933,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/1KDmLC2qkMVpXcNr4KZ8rg"
+    },
+    {
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     },
     {
       "album": {

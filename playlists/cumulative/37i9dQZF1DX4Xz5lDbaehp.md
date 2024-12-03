@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX4Xz5lDbaehp.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX4Xz5lDbaehp) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX4Xz5lDbaehp)
 
-### [Fresh Finds Presents..\. Fresh Finds Class of 2021](https://open.spotify.com/playlist/37i9dQZF1DX4Xz5lDbaehp)
+### [Fresh Finds: Class of 2021](https://open.spotify.com/playlist/37i9dQZF1DX4Xz5lDbaehp)
 
-> Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
+> The Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
 211 songs - 10 hr 58 min
 

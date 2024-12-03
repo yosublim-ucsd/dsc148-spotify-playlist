@@ -1,6 +1,6 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 5880,
+  "num_followers": 5905,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Chernobyl",
-        "url": "https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn"
-      },
-      "artists": [
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        },
-        {
-          "name": "Estani",
-          "url": "https://open.spotify.com/artist/3LFsnZBpBCNTonHfGsW9HJ"
-        }
-      ],
-      "duration_ms": 143709,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "Yin Yang",
         "url": "https://open.spotify.com/album/2ScvjoJeA6lghwwUe8THfb"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 162869,
       "name": "Yin Yang",
       "url": "https://open.spotify.com/track/73bYmcjXfPUo39Fb8xWMJh"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Chernobyl",
+        "url": "https://open.spotify.com/album/6suJodk5P0pTEwVZJlEISn"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Estani",
+          "url": "https://open.spotify.com/artist/3LFsnZBpBCNTonHfGsW9HJ"
+        }
+      ],
+      "duration_ms": 143709,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5cuxRosukMRtUZUG4pbr0A"
     },
     {
       "added_at": "2024-07-26 04:59:00",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2024-07-26 04:59:00",
       "album": {
-        "name": "Adicto",
-        "url": "https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2"
-      },
-      "artists": [
-        {
-          "name": "Zizzy",
-          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
-        },
-        {
-          "name": "Adrian Be",
-          "url": "https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Adicto",
-      "url": "https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe"
-    },
-    {
-      "added_at": "2024-07-26 04:59:00",
-      "album": {
         "name": "No Lo Se",
         "url": "https://open.spotify.com/album/60CojhteCCRDrHyEggr75i"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 224556,
       "name": "No Lo Se",
       "url": "https://open.spotify.com/track/2AzgvH7QJkq4nXBLQeLhuD"
+    },
+    {
+      "added_at": "2024-07-26 04:59:00",
+      "album": {
+        "name": "Adicto",
+        "url": "https://open.spotify.com/album/3hsVpi0akF0YplUrrwIId2"
+      },
+      "artists": [
+        {
+          "name": "Zizzy",
+          "url": "https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS"
+        },
+        {
+          "name": "Adrian Be",
+          "url": "https://open.spotify.com/artist/1cvIlWofyBJLLrxQfX6ZtF"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Adicto",
+      "url": "https://open.spotify.com/track/44bbiqusWRVrq2SUasYvQe"
     },
     {
       "added_at": "2024-07-26 04:59:00",

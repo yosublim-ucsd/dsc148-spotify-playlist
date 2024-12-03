@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: pau",
-  "num_followers": 121662,
+  "num_followers": 121663,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Volver a Llorar",
-        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
-      },
-      "artists": [
-        {
-          "name": "Javiera Mena",
-          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
-        }
-      ],
-      "duration_ms": 160533,
-      "name": "Volver a Llorar",
-      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
         "url": "https://open.spotify.com/album/787WYgcOHnslKVi5jXlX9j"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 282060,
       "name": "T\u00fa, Yo y Otra Dimensi\u00f3n",
       "url": "https://open.spotify.com/track/1WTSQryXy1H1DpZ9RgjB2a"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Volver a Llorar",
+        "url": "https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW"
+      },
+      "artists": [
+        {
+          "name": "Javiera Mena",
+          "url": "https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp"
+        }
+      ],
+      "duration_ms": 160533,
+      "name": "Volver a Llorar",
+      "url": "https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Una Mitad de M\u00ed",
-        "url": "https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8"
-      },
-      "artists": [
-        {
-          "name": "Era de Oro",
-          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 221625,
-      "name": "Una Mitad de M\u00ed",
-      "url": "https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "Abducida (Remix)",
         "url": "https://open.spotify.com/album/0Cg2PqBsAUtcMFHKph7TvX"
       },
@@ -687,18 +667,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Quiebra el Tiempo",
-        "url": "https://open.spotify.com/album/2OsKOLvBmA7nEdzEje7TkN"
+        "name": "Una Mitad de M\u00ed",
+        "url": "https://open.spotify.com/album/5CqhXaK5UZoArCo1xMFhZ8"
       },
       "artists": [
         {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+          "name": "Era de Oro",
+          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
         }
       ],
-      "duration_ms": 230557,
-      "name": "Quiebra el Tiempo",
-      "url": "https://open.spotify.com/track/0BzgcI1nTL32Ygl1Jnhnb5"
+      "duration_ms": 221625,
+      "name": "Una Mitad de M\u00ed",
+      "url": "https://open.spotify.com/track/38bIIeg1Dcjnry2PhkvPdo"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -719,6 +703,22 @@
       "duration_ms": 187554,
       "name": "Herida",
       "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Quiebra el Tiempo",
+        "url": "https://open.spotify.com/album/2OsKOLvBmA7nEdzEje7TkN"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "duration_ms": 230557,
+      "name": "Quiebra el Tiempo",
+      "url": "https://open.spotify.com/track/0BzgcI1nTL32Ygl1Jnhnb5"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 163885,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
         "name": "aterrizar",
         "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
       },
@@ -1163,30 +1179,6 @@
       "duration_ms": 178285,
       "name": "aterrizar",
       "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
-        "name": "Cool & Casual",
-        "url": "https://open.spotify.com/album/3z1lTlNi3AQ7g9Sh1TyPMD"
-      },
-      "artists": [
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        },
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        },
-        {
-          "name": "Bronko Yotte",
-          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Cool & Casual",
-      "url": "https://open.spotify.com/track/6wPZXjtuTS5qUiJuMXGrrv"
     },
     {
       "added_at": "2024-10-14 19:19:40",
@@ -1215,22 +1207,6 @@
     {
       "added_at": "2024-10-14 19:19:40",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 163885,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
-    },
-    {
-      "added_at": "2024-10-14 19:19:40",
-      "album": {
         "name": "quiero creer que tienes un buen coraz\u00f3n",
         "url": "https://open.spotify.com/album/2zzufzmGi2DhSSopXrjXlw"
       },
@@ -1243,6 +1219,30 @@
       "duration_ms": 216443,
       "name": "quiero creer que tienes un buen coraz\u00f3n",
       "url": "https://open.spotify.com/track/62qBQeXsGkn2fytlmvUUvr"
+    },
+    {
+      "added_at": "2024-10-14 19:19:40",
+      "album": {
+        "name": "Cool & Casual",
+        "url": "https://open.spotify.com/album/3z1lTlNi3AQ7g9Sh1TyPMD"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        },
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        },
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Cool & Casual",
+      "url": "https://open.spotify.com/track/6wPZXjtuTS5qUiJuMXGrrv"
     },
     {
       "added_at": "2024-10-14 19:19:40",

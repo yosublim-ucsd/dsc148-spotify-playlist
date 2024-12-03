@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW?si=O1q5UOPpQZqX6mZJtreZdw">Tellaman</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,371 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,403 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 45227,
+  "num_followers": 45237,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
-        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
+        "name": "Rain Forest",
+        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
       "artists": [
         {
-          "name": "Gene Ammons",
-          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
-        },
-        {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Walter Wanderley",
+          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
         }
       ],
-      "duration_ms": 394173,
-      "name": "There Is No Greater Love",
-      "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
+      "duration_ms": 186960,
+      "name": "Summer Samba (So Nice)",
+      "url": "https://open.spotify.com/track/3EpJ36yrwkPvlUXKeQa7ca"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -483,18 +479,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Rain Forest",
-        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
+        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
+        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
       },
       "artists": [
         {
-          "name": "Walter Wanderley",
-          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 186960,
-      "name": "Summer Samba (So Nice)",
-      "url": "https://open.spotify.com/track/3EpJ36yrwkPvlUXKeQa7ca"
+      "duration_ms": 394173,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
     },
     {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "Soul Sauce",
-        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
-      },
-      "artists": [
-        {
-          "name": "Cal Tjader",
-          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
-        }
-      ],
-      "duration_ms": 147266,
-      "name": "Soul Sauce",
-      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
-    },
-    {
       "added_at": "2019-10-04 16:01:14",
       "album": {
         "name": "Nocturne",
@@ -771,6 +755,22 @@
       "duration_ms": 457186,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "duration_ms": 147266,
+      "name": "Soul Sauce",
+      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "You Gotta Pay The Band",
-        "url": "https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP"
-      },
-      "artists": [
-        {
-          "name": "Abbey Lincoln",
-          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
-        }
-      ],
-      "duration_ms": 405226,
-      "name": "Brother? Can You Spare A Dime?",
-      "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
-    },
-    {
-      "added_at": "2019-10-04 16:01:14",
-      "album": {
         "name": "The Decca Singles 1949-1958",
         "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 186760,
       "name": "Dream A Little Dream Of Me",
       "url": "https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ"
+    },
+    {
+      "added_at": "2019-10-04 16:01:14",
+      "album": {
+        "name": "You Gotta Pay The Band",
+        "url": "https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "Brother? Can You Spare A Dime?",
+      "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
     },
     {
       "added_at": "2019-10-04 16:01:14",

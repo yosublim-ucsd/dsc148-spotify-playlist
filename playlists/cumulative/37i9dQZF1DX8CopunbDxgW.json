@@ -1689,6 +1689,24 @@
     },
     {
       "album": {
+        "name": "Any Signs of Love",
+        "url": "https://open.spotify.com/album/2IUlfvXdJwL9TCklFvV3f6"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362261,
+      "name": "Any Signs of Love",
+      "url": "https://open.spotify.com/track/6DcxP7RQyfWQRODJ5OlqSC"
+    },
+    {
+      "album": {
         "name": "anywhere but here",
         "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
       },
@@ -12660,7 +12678,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 193555,
       "name": "Hocus Pocus",
       "url": "https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn"
@@ -30976,7 +30994,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 217473,
       "name": "When U Wake",
       "url": "https://open.spotify.com/track/46AUSSE2ZCSvlmvcwwyvD6"
@@ -32086,6 +32104,24 @@
       "duration_ms": 246823,
       "name": "Your Skin",
       "url": "https://open.spotify.com/track/6wejq4291nzIEdKS4iu76l"
+    },
+    {
+      "album": {
+        "name": "Your Such A Dream",
+        "url": "https://open.spotify.com/album/7ybj9KFUg16f96sOZUo8OE"
+      },
+      "artists": [
+        {
+          "name": "GREETINGS",
+          "url": "https://open.spotify.com/artist/4YtLycETOsIeMxLwPpGHNz"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270094,
+      "name": "Your Such A Dream",
+      "url": "https://open.spotify.com/track/65N6BWBccGYSYw0ysIklJX"
     },
     {
       "album": {

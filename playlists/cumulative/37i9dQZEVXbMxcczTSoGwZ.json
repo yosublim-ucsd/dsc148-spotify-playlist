@@ -3846,7 +3846,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 155612,
       "name": "BOSSMAN",
       "url": "https://open.spotify.com/track/5ZdTneUDYgjrg4ZoYb3loz"
@@ -9132,7 +9132,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -13954,7 +13954,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 170880,
       "name": "Ihan v\u00e4h\u00e4n sua",
       "url": "https://open.spotify.com/track/2a4cjRKZCV3HnJavEDVLLx"
@@ -14901,6 +14901,24 @@
     },
     {
       "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/4dcJHxlOJwtyypL7sx1qch"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151933,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
+    },
+    {
+      "album": {
         "name": "Italia",
         "url": "https://open.spotify.com/album/7FmnNsINdI92aApGrd4vcT"
       },
@@ -15126,7 +15144,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -17788,7 +17806,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 184647,
       "name": "Kiireinen nainen (feat. ibe)",
       "url": "https://open.spotify.com/track/14wiEbecEf1jSWiflaxHvA"
@@ -20536,7 +20554,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -32250,7 +32268,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 159236,
       "name": "Rich Man (feat. Turisti)",
       "url": "https://open.spotify.com/track/7ixwvAH5KCIvMM9RU2ZQtU"
@@ -33400,7 +33418,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -35794,7 +35812,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 142584,
       "name": "Stadi (Alicia)",
       "url": "https://open.spotify.com/track/7gHubaWZNQNvLieogqkVmA"
@@ -39944,7 +39962,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 277493,
       "name": "Tulkoon joulu",
       "url": "https://open.spotify.com/track/1K0ZirzQ9KtHAKOLB5efXs"
@@ -41080,7 +41098,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
@@ -41578,7 +41596,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 161138,
       "name": "V!ttu",
       "url": "https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e"
@@ -42904,7 +42922,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 222439,
       "name": "Viimeinen tanssi",
       "url": "https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk"

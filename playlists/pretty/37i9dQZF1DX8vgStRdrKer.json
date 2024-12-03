@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=iMXNw6ajR7CLOUWYr1j2YQ>Malcolm Rue</a>",
-  "num_followers": 11645,
+  "num_followers": 11652,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -97,24 +97,20 @@
       "url": "https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9"
     },
     {
-      "added_at": "2024-06-07 00:01:00",
+      "added_at": "2024-11-15 00:01:00",
       "album": {
-        "name": "Give Me Chance",
-        "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
       },
       "artists": [
         {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 255735,
-      "name": "Give Me Chance",
-      "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
+      "duration_ms": 195124,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
     },
     {
       "added_at": "2024-09-13 00:01:00",
@@ -165,20 +161,24 @@
       "url": "https://open.spotify.com/track/3WQqOfbWCiVSbJebeqdvxx"
     },
     {
-      "added_at": "2024-11-15 00:01:00",
+      "added_at": "2024-06-07 00:01:00",
       "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
+        "name": "Give Me Chance",
+        "url": "https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q"
       },
       "artists": [
         {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+          "name": "Bidemi Olaoba",
+          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 195124,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
+      "duration_ms": 255735,
+      "name": "Give Me Chance",
+      "url": "https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -441,22 +441,6 @@
       "url": "https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr"
     },
     {
-      "added_at": "2024-10-18 00:01:00",
-      "album": {
-        "name": "At\u025b\u025bne (Overturned)",
-        "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
-      },
-      "artists": [
-        {
-          "name": "Piesie Esther",
-          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "At\u025b\u025bne - Overturned",
-      "url": "https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS"
-    },
-    {
       "added_at": "2024-02-02 00:01:00",
       "album": {
         "name": "Amazing Grace",
@@ -477,22 +461,6 @@
       "url": "https://open.spotify.com/track/2SEEL3BHJyJFesm5X5OotI"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
-    },
-    {
       "added_at": "2024-08-30 00:01:00",
       "album": {
         "name": "Yes Sir",
@@ -511,6 +479,38 @@
       "duration_ms": 288280,
       "name": "Yes Sir",
       "url": "https://open.spotify.com/track/1WzjcfHXNhbmR5pouHQUeH"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
+    },
+    {
+      "added_at": "2024-10-18 00:01:00",
+      "album": {
+        "name": "At\u025b\u025bne (Overturned)",
+        "url": "https://open.spotify.com/album/5Gd51I4NMFyutpwZe0M5ju"
+      },
+      "artists": [
+        {
+          "name": "Piesie Esther",
+          "url": "https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "At\u025b\u025bne - Overturned",
+      "url": "https://open.spotify.com/track/6QBZ7vR6VVWD9AhlJoyNNS"
     },
     {
       "added_at": "2024-09-06 00:01:00",
@@ -673,54 +673,6 @@
       "url": "https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1"
     },
     {
-      "added_at": "2024-07-26 00:01:00",
-      "album": {
-        "name": "Anointing",
-        "url": "https://open.spotify.com/album/6L29vxHk81JWQMORz8e1Y3"
-      },
-      "artists": [
-        {
-          "name": "Emandiong",
-          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Anointing",
-      "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
-    },
-    {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg"
-      },
-      "artists": [
-        {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        }
-      ],
-      "duration_ms": 268830,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "El-Roi",
-        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 224070,
-      "name": "El-Roi",
-      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
-    },
-    {
       "added_at": "2024-11-22 00:01:00",
       "album": {
         "name": "Praise The Lord",
@@ -743,6 +695,54 @@
       "duration_ms": 176037,
       "name": "Praise The Lord",
       "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3CFs1r2mE6fxKunYkTwfHg"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "duration_ms": 268830,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/3DnJJUC203F4Ax9UIXyBWB"
+    },
+    {
+      "added_at": "2024-07-26 00:01:00",
+      "album": {
+        "name": "Anointing",
+        "url": "https://open.spotify.com/album/6L29vxHk81JWQMORz8e1Y3"
+      },
+      "artists": [
+        {
+          "name": "Emandiong",
+          "url": "https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Anointing",
+      "url": "https://open.spotify.com/track/3lykT4QOj7vAKAnpuoTsux"
+    },
+    {
+      "added_at": "2024-05-03 00:01:00",
+      "album": {
+        "name": "El-Roi",
+        "url": "https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 224070,
+      "name": "El-Roi",
+      "url": "https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG"
     },
     {
       "added_at": "2024-10-25 00:01:00",
@@ -857,6 +857,22 @@
       "url": "https://open.spotify.com/track/6RatjnXFpxZJUIm4GJh124"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "God Is",
+        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
+      },
+      "artists": [
+        {
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+        }
+      ],
+      "duration_ms": 185999,
+      "name": "God Is",
+      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
+    },
+    {
       "added_at": "2024-10-18 00:01:00",
       "album": {
         "name": "REDEEMED",
@@ -879,22 +895,6 @@
       "duration_ms": 197938,
       "name": "Never Go Back",
       "url": "https://open.spotify.com/track/6p2JFd5je1ulXf2xE9Zmft"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "God Is",
-        "url": "https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 185999,
-      "name": "God Is",
-      "url": "https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO"
     },
     {
       "added_at": "2024-06-14 00:01:00",

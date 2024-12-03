@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Inés Errandonea.
 
-708 songs - 1 day 18 hr 12 min
+709 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Ay Madrid](https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Ay Madrid](https://open.spotify.com/album/2ZoSeQVAi8w3FkGsOV7BF8) | 3:01 | 2024-06-28 |  |
 | [Azul de mar](https://open.spotify.com/track/1yg9Dsc7nBuMjDnqEIxqsH) | [Adri Stuven](https://open.spotify.com/artist/4DXUWdscqbjGNbrGwgxuYn) | [Azul de mar](https://open.spotify.com/album/5pz13mxTE5VVuQxKx4dXMA) | 2:49 | 2024-01-26 | 2024-02-10 |
 | [Añada de lea](https://open.spotify.com/track/6XM7pJJhWqpxwgShVMi8ka) | [Nacho Vegas](https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn) | [Añada de lea](https://open.spotify.com/album/3FyQhJHpCaIcI7FmcPOSy5) | 3:05 | 2023-01-06 | 2023-01-28 |
+| [Añoranza](https://open.spotify.com/track/4nDfOW4UZPIEpeNLe9eYrU) | [Soleado](https://open.spotify.com/artist/6GxANftnqrZYaBRulKsov8) | [Soleado](https://open.spotify.com/album/0xqeIkRYYyeeDjbT2Aq2Fg) | 3:37 | 2024-11-22 |  |
 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 | 2022-10-28 | 2022-11-27 |
 | [Baguala de Salta, Chicoana](https://open.spotify.com/track/3hyT4UMWIgUJv1qCQ311p5) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Baguala de Salta, Chicoana](https://open.spotify.com/album/3C74MQh8Th2meP4fI6Egxn) | 1:43 | 2024-01-19 | 2024-02-03 |
 | [Bajo el Sol](https://open.spotify.com/track/1NRdxh5Zl1Az79W9Z9NO5X) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Bajo el Sol](https://open.spotify.com/album/4WWqEiDQgLONs0riUE0jw7) | 4:16 | 2021-12-24 | 2022-06-04 |
@@ -702,7 +703,7 @@
 | [Vuelve](https://open.spotify.com/track/5BsKfH1KSogiWBUA93Ovbp) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [Vuelve](https://open.spotify.com/album/523A7IjwBmOfIAk0xh3DUx) | 4:35 | 2024-06-28 |  |
 | [Vuelvo](https://open.spotify.com/track/21gHC3HUcfc2OJRHhiHQvo) | [Fran Fernández](https://open.spotify.com/artist/7biwp0gZCdbh55JhL4NTHe) | [Vuelvo](https://open.spotify.com/album/3RLOj7QqN1Krsej9ek5FFr) | 3:21 | 2022-06-03 | 2022-06-06 |
 | [Y Arderán](https://open.spotify.com/track/1OlodnuRTxve00lxntQVqC) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Y Arderán](https://open.spotify.com/album/1JP5OfpKeJxfj7DeQ2dZI1) | 3:16 | 2021-12-24 | 2022-09-24 |
-| [Y tu compañía \- canción original para la película "Voy a desaparecer"](https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW) | [Gabriel Vidanauta](https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ) | [Y tu compañía \(canción original para la película "Voy a desaparecer"\)](https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8) | 2:13 | 2024-04-12 |  |
+| [Y tu compañía \- canción original para la película "Voy a desaparecer"](https://open.spotify.com/track/3fxahF4LqeH1Jcs9WTMEBW) | [Gabriel Vidanauta](https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ) | [Y tu compañía \(canción original para la película "Voy a desaparecer"\)](https://open.spotify.com/album/27OlaeVGKFWzZqgA9alrO8) | 2:13 | 2024-04-12 | 2024-12-03 |
 | [Ya no sigo esperando por ti](https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Ya no sigo esperando por ti](https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN) | 3:02 | 2023-12-22 | 2024-01-20 |
 | [Yemaya](https://open.spotify.com/track/2HVjSBp66ZdDoJ3r0oryOQ) | [Sibila](https://open.spotify.com/artist/32oM4BbE1zXFs0wZV6O0ZT) | [Yemaya](https://open.spotify.com/album/2EUCdSAaYYQjYku6FsDNw7) | 4:32 | 2024-06-21 | 2024-10-02 |
 | [Yo Canto](https://open.spotify.com/track/2nnTebR8wLANK80hXnxSai) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [Yo Canto](https://open.spotify.com/album/65xr20VjHKAGc7Nna1a18v) | 3:45 | 2022-06-10 | 2022-07-15 |

@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 465639,
+  "num_followers": 465753,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Sadness As A Gift",
         "url": "https://open.spotify.com/album/38DuzlEMGxWPcE3PXEHKhD"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 259015,
       "name": "Sadness As A Gift",
       "url": "https://open.spotify.com/track/6oBIzNjrQ7ibErxk1ZbdfA"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 174373,
       "name": "Stay With Me - Live From Spotify Berlin",
       "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
+        "name": "Years On",
+        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
+      "duration_ms": 242906,
+      "name": "Years On",
+      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Years On",
-        "url": "https://open.spotify.com/album/2JF61Lh95FnWScGBXFdhv8"
+        "name": "Puxico",
+        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
       },
       "artists": [
         {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
         }
       ],
-      "duration_ms": 242906,
-      "name": "Years On",
-      "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
+      "duration_ms": 179306,
+      "name": "Cairo, IL",
+      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1363,38 +1363,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
-      },
-      "artists": [
-        {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
-        }
-      ],
-      "duration_ms": 247253,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "No Place Like You",
-      "url": "https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "The Trek",
         "url": "https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj"
       },
@@ -1407,6 +1375,22 @@
       "duration_ms": 282253,
       "name": "The Trek",
       "url": "https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 247253,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "Radio Silence",
-        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
       "artists": [
         {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
         }
       ],
-      "duration_ms": 222760,
-      "name": "Radio Silence",
-      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
+      "duration_ms": 175293,
+      "name": "No Place Like You",
+      "url": "https://open.spotify.com/track/2ZcVl0rG4CFi7KHNeUxvFa"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1455,6 +1439,22 @@
       "duration_ms": 241973,
       "name": "Same Old Eyes",
       "url": "https://open.spotify.com/track/0x2xErt1R95NpZPNjccGnu"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "Radio Silence",
+        "url": "https://open.spotify.com/album/7sMuzKOhf0sQFNRVmgvHVe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "Radio Silence",
+      "url": "https://open.spotify.com/track/06kZnASR1tSP8Vb9I5WobH"
     },
     {
       "added_at": "2024-08-26 14:21:45",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "The Tree of Forgiveness",
-        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 209047,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "How Did It Seem To You?",
         "url": "https://open.spotify.com/album/7JJ4Iz9RUdXMzaakBCnlwA"
       },
@@ -1795,6 +1779,22 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
         "name": "Stones & Waves",
         "url": "https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ"
       },
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-08-26 14:21:45",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/6OyLz1K6f82RCgcbsQ6jwv"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/3cPWXpjXPPW8LIs27Bxv5c"
-    },
-    {
-      "added_at": "2024-08-26 14:21:45",
-      "album": {
         "name": "Carrie",
         "url": "https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 242193,
       "name": "Carrie",
       "url": "https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S"
+    },
+    {
+      "added_at": "2024-08-26 14:21:45",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/6OyLz1K6f82RCgcbsQ6jwv"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/3cPWXpjXPPW8LIs27Bxv5c"
     },
     {
       "added_at": "2024-08-26 14:21:45",

@@ -1,6 +1,6 @@
 {
   "description": "Explore the stellar corners of the genre's expansive and marvelous universe.",
-  "num_followers": 38739,
+  "num_followers": 38736,
   "original_name": "Cosmic Country",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
+        "name": "Mendocino (feat. Duane Eddy)",
+        "url": "https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Fetzer",
+          "url": "https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Mendocino (feat. Duane Eddy)",
+      "url": "https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
         "name": "Southern Galactic",
         "url": "https://open.spotify.com/album/2m1aVZ8rrNN3LhNoCfkNCy"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 294286,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Mendocino (feat. Duane Eddy)",
-        "url": "https://open.spotify.com/album/5QN1GDtbO2Mp3G358g84HX"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Fetzer",
-          "url": "https://open.spotify.com/artist/5Lp7RZsXfgf2qjIqCqnQ4r"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Mendocino (feat. Duane Eddy)",
-      "url": "https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X"
     },
     {
       "added_at": "2024-08-23 04:00:00",

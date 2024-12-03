@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 58698,
+  "num_followers": 58708,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABuDwadpl5ScwulXaV3Ah/m",
+  "snapshot_id": "Z0unAAAAAABJ1nybUuUP7mm3Yl/spIcy",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 130906,
-      "name": "El Magnate",
-      "url": "https://open.spotify.com/track/22uW5mLiatfm466E6tNLvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos, Rancheras Y Caballos En Vivo",
         "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 136213,
       "name": "El Pistolero - En Vivo",
       "url": "https://open.spotify.com/track/5LO8ZNqDLAKtqhTlHoQEQo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 130906,
+      "name": "El Magnate",
+      "url": "https://open.spotify.com/track/22uW5mLiatfm466E6tNLvQ"
     },
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vamos De Nuevo",
-        "url": "https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR"
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
       },
       "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 215813,
-      "name": "Y Ahora Te Vas",
-      "url": "https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs"
+      "duration_ms": 196106,
+      "name": "Volver\u00e1s A Ser Feliz",
+      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
     },
     {
       "added_at": null,
@@ -839,18 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segunda Temporada",
-        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+        "name": "Vamos De Nuevo",
+        "url": "https://open.spotify.com/album/3BAwuS5HqCNysuh7qpNreR"
       },
       "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        },
         {
           "name": "Banda Carnaval",
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 196106,
-      "name": "Volver\u00e1s A Ser Feliz",
-      "url": "https://open.spotify.com/track/2wusyy7MlbPm94ER4NQZHh"
+      "duration_ms": 215813,
+      "name": "Y Ahora Te Vas",
+      "url": "https://open.spotify.com/track/3H7mu3MU4kBuV6JukzL7Vs"
     },
     {
       "added_at": null,

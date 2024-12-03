@@ -6664,7 +6664,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 344000,
       "name": "Dhinam Dhinamum (From \"Viduthalai 2\")",
       "url": "https://open.spotify.com/track/5ny5kJpw1FLIDGMkUVuD5P"
@@ -12776,7 +12776,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 208800,
       "name": "Kadhal Theeradha (From \"Lara\")",
       "url": "https://open.spotify.com/track/2fINys1MvsrE7odj7MsBGn"
@@ -24943,6 +24943,40 @@
     },
     {
       "album": {
+        "name": "Peelings (From \"Pushpa 2 The Rule\") [TAMIL]",
+        "url": "https://open.spotify.com/album/1IZDDMXUo8dMHnlvjTi9Tc"
+      },
+      "artists": [
+        {
+          "name": "Senthil Ganesh",
+          "url": "https://open.spotify.com/artist/4tJdetTsMFHnS8UzgopPzn"
+        },
+        {
+          "name": "Rajalakshmi",
+          "url": "https://open.spotify.com/artist/041Z1VBL5OaPTlrlLTH7Pb"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        },
+        {
+          "name": "Siju Thuravoor",
+          "url": "https://open.spotify.com/artist/6UtEvO4Sbr0uooYqdpFTDI"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247188,
+      "name": "Peelings (From \"Pushpa 2 The Rule\") [TAMIL]",
+      "url": "https://open.spotify.com/track/20OAzzMq5q3oM6ejboOW0Y"
+    },
+    {
+      "album": {
         "name": "Pennin Nilai Idhu Dhaana (From \"Banaras\")",
         "url": "https://open.spotify.com/album/0hZM5GFWvWPmKNBE1nRitH"
       },
@@ -35492,7 +35526,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 250312,
       "name": "Vada Vada Raja",
       "url": "https://open.spotify.com/track/5pZlNhAW2lnHa7stvoMTmI"

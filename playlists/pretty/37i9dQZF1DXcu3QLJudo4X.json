@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 106252,
+  "num_followers": 106343,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 177306,
-      "name": "Farther Up The Road",
-      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "East West",
         "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 199960,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "duration_ms": 177306,
+      "name": "Farther Up The Road",
+      "url": "https://open.spotify.com/track/2hPyG7NMpHAmOrmlSziAx2"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Blues With A Feeling",
-      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Fragments - Time Out of Mind Sessions (1996-1997): The Bootleg Series, Vol. 17",
         "url": "https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 214320,
       "name": "Dirt Road Blues - 2022 Remix",
       "url": "https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Blues With A Feeling",
+      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Blues With A Feeling",
-        "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "(You've Got To) Love Her With A Feeling",
-      "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 175466,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Blues With A Feeling",
+        "url": "https://open.spotify.com/album/7l6XVI97Qxjt0KPJEiYFjB"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "(You've Got To) Love Her With A Feeling",
+      "url": "https://open.spotify.com/track/1lEbKg3mNA97wDSAXj2xsY"
     },
     {
       "added_at": "2024-06-02 16:42:51",

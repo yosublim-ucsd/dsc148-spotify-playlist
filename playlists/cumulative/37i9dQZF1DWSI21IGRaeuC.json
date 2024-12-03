@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-14",
+      "date_removed": null,
       "duration_ms": 222923,
       "name": "Cold",
       "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 271200,
       "name": "Fakez",
       "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
@@ -3090,7 +3090,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 198750,
       "name": "Hooky - LDN Dub Mix",
       "url": "https://open.spotify.com/track/2pmiDdLR1JaQxGjxfktsPg"
@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 210000,
       "name": "Nuthin' On",
       "url": "https://open.spotify.com/track/2iSKzMK0aNxmNAzdBVN6jp"
@@ -4804,7 +4804,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 365458,
       "name": "Nutralize",
       "url": "https://open.spotify.com/track/3dmCMsu4EvIKhExHIjiRBp"
@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 253141,
       "name": "Oostport",
       "url": "https://open.spotify.com/track/3Zi4tzfvJKrB3mqYo9RCgM"
@@ -5524,6 +5524,24 @@
       "duration_ms": 173926,
       "name": "Rebola (feat. DoFlow)",
       "url": "https://open.spotify.com/track/0FLhTpx3k2uU1qVGxpiLhs"
+    },
+    {
+      "album": {
+        "name": "Red Alert",
+        "url": "https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203182,
+      "name": "Red Alert",
+      "url": "https://open.spotify.com/track/7F5cUAijc9EjGxjcgMfXph"
     },
     {
       "album": {
@@ -6089,6 +6107,24 @@
     },
     {
       "album": {
+        "name": "Red Alert",
+        "url": "https://open.spotify.com/album/6JkS9FNwfAb5YAfRq2CzWN"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211732,
+      "name": "She Wants Bass",
+      "url": "https://open.spotify.com/track/539nhBaI2YCKDG3qPCs5vu"
+    },
+    {
+      "album": {
         "name": "Shoot the Shot",
         "url": "https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT"
       },
@@ -6484,7 +6520,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 219927,
       "name": "Star - Original Mix",
       "url": "https://open.spotify.com/track/7AMuTN6ke5btnP4HBI9K05"
@@ -6998,7 +7034,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 378437,
       "name": "TellMe",
       "url": "https://open.spotify.com/track/11HkvgmPu7vb42DcTNlvwP"
@@ -7328,6 +7364,24 @@
       "duration_ms": 384115,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/6hqwG0LqDmEgsAQvaIF945"
+    },
+    {
+      "album": {
+        "name": "The Way I Like It EP",
+        "url": "https://open.spotify.com/album/5or9Wn5yIGMLW8waFsbKEM"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "The Way I Like It",
+      "url": "https://open.spotify.com/track/2iAIllzzMRPryiRdebB9fi"
     },
     {
       "album": {
@@ -7668,7 +7722,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-23",
+      "date_removed": null,
       "duration_ms": 225029,
       "name": "Un Beso",
       "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
@@ -7686,7 +7740,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 331958,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/2YAPGKvFL0PrMrIL7McdMU"
@@ -8154,7 +8208,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 344186,
       "name": "Wish Star",
       "url": "https://open.spotify.com/track/2PAw1tXuyFtvxYwIJonSd0"

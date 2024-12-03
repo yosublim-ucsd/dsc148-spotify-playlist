@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Hi Nanna",
-  "num_followers": 367189,
+  "num_followers": 367343,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -245,26 +245,6 @@
       "url": "https://open.spotify.com/track/3Chq3BCsBaK3VHX7yPtAC4"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Nenu Local",
-        "url": "https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7"
-      },
-      "artists": [
-        {
-          "name": "Naresh Iyer",
-          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
-        },
-        {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
-        }
-      ],
-      "duration_ms": 236617,
-      "name": "Arere Yekkada",
-      "url": "https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND"
-    },
-    {
       "added_at": "2022-08-03 09:42:51",
       "album": {
         "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
@@ -287,6 +267,26 @@
       "duration_ms": 223325,
       "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Nenu Local",
+        "url": "https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7"
+      },
+      "artists": [
+        {
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        },
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        }
+      ],
+      "duration_ms": 236617,
+      "name": "Arere Yekkada",
+      "url": "https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND"
     },
     {
       "added_at": "2023-08-07 09:11:28",

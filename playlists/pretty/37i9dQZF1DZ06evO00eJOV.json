@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36034,
+  "num_followers": 36035,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAAC7OaYS1DdCepw08HwupTcM",
+  "snapshot_id": "Z0unAAAAAABb1X39Hfeq6MC9OrG5arYK",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memeza",
+        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 265866,
+      "name": "Memeza",
+      "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soon And Very Soon",
         "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 261333,
       "name": "Soon And Very Soon",
       "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memeza",
-        "url": "https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 265866,
-      "name": "Memeza",
-      "url": "https://open.spotify.com/track/3PCKM1x8qKIMjApmC6u2Ze"
     },
     {
       "added_at": null,

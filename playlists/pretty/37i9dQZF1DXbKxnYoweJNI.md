@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 粉內 \(Fi\-Né\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,180 likes - 144 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,187 likes - 144 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

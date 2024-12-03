@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Non-stop een goed gevoel met Happy Tunes",
+  "description": "Non-stop een goed gevoel!",
   "name": "Happy Tunes",
   "tracks": [
     {
@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Up From Below",
+        "url": "https://open.spotify.com/album/4EBtalKeisyblXwox9mMXf"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "date_added": "2024-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303200,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6ZapsNk1ZpaebNXAIohP9R"
+    },
+    {
+      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -2346,7 +2364,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 242200,
       "name": "Karma Chameleon",
       "url": "https://open.spotify.com/track/4NH4xiPQ7TqNGqj6pZV4ki"

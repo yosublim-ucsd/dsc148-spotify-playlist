@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Moy Bobadilla en portada.
 
-427 songs - 22 hr 34 min
+428 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Amigos Con Beneficio](https://open.spotify.com/track/5LoB3vdJ2C8rHbCHh1wMAl) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Querer Es Poder](https://open.spotify.com/album/1G3HMEwdPV2ovKDR4ZsO4J) | 3:10 | 2022-02-01 | 2022-10-31 |
 | [Amigos ¿De Quién?](https://open.spotify.com/track/472RYrDoNry11jkmJIWeat) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Amigos ¿De Quién?](https://open.spotify.com/album/3RNl5xBdlJA02tSLV3fSeL) | 2:45 | 2022-03-11 | 2022-10-13 |
 | [Amor Bonito](https://open.spotify.com/track/1kwwncWogyLzeZMQahQqwC) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Amor Bonito](https://open.spotify.com/album/0xjGi60nUqjScTmuhGM31H) | 2:51 | 2024-09-20 |  |
-| [Amor Clandestino \- Versión Regional Mexicano](https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:47 | 2023-08-25 |  |
+| [Amor Clandestino \- Versión Regional Mexicano](https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Amor Clandestino](https://open.spotify.com/album/7yjF8BA8QCEg6w5zcklYLA) | 3:47 | 2023-08-25 | 2024-12-03 |
 | [Amor De Madre](https://open.spotify.com/track/5pjaJt8dwBADOI2wh8UlJd) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Amor De Madre](https://open.spotify.com/album/64eew81dvSrmbbHeTzMhMj) | 3:50 | 2024-05-10 | 2024-06-07 |
 | [Amor En Exceso](https://open.spotify.com/track/25utpSxh8ONIp2JC0GUDd5) | [Nano machado y los keridos](https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL) | [Amor En Exceso](https://open.spotify.com/album/6kwt2RLCMUOtewv5L7Zjk0) | 3:17 | 2024-02-16 | 2024-03-23 |
 | [Amor Limosnero \(En Vivo\)](https://open.spotify.com/track/2tqmeTpYtfTMxofTVUBADN) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Amor Limosnero \(En Vivo\)](https://open.spotify.com/album/2sjyHriIMVMWAGbgdvVo90) | 3:49 | 2023-01-16 | 2023-03-11 |
@@ -295,6 +295,7 @@
 | [Por Culpa De Tu Amor](https://open.spotify.com/track/3YSgBGYK61LCNvrtfmFEMQ) | [Jr Salazar](https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP), [Banda Los Plebes De Sinaloa](https://open.spotify.com/artist/7IqZR0FebL4lfPenucU5y9) | [Por Culpa De Tu Amor](https://open.spotify.com/album/09kRmSAsc8KeRkvM7QmFFH) | 2:35 | 2022-08-26 | 2022-09-24 |
 | [Por Si Me Adelanto \- Banda](https://open.spotify.com/track/58fd41sZyZGnyS0XXwj8AO) | [Indalfer Ochoa](https://open.spotify.com/artist/32eMbHNJ7S17YKRycVbR80) | [De Corazón Cabal](https://open.spotify.com/album/0YmBUlD9ACR65vEp7SoqtY) | 3:24 | 2022-04-15 | 2022-07-24 |
 | [Por Si Me Les Adelanto](https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Por Si Me Les Adelanto](https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p) | 2:37 | 2023-12-15 |  |
+| [Por una Mujer Casada](https://open.spotify.com/track/0Pzp1jw4YqVXGdiN6KHccC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Con Banda](https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0) | 2:08 | 2024-11-29 |  |
 | [PORQUE SOY ABEJA REINA](https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Porque Soy Abeja Reina](https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD) | 2:38 | 2023-01-20 |  |
 | [Positivo \- Versión Banda](https://open.spotify.com/track/7xBaj7vkjg8MveG4qMlUNh) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Positivo \(Versión Banda\)](https://open.spotify.com/album/2vnOjqiTU5nvrwey17bjIE) | 3:08 | 2022-07-01 | 2022-10-25 |
 | [Prefiero Empedarme](https://open.spotify.com/track/0x2DmQvuFXVNHBlPrs4cYC) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Prefiero Empedarme](https://open.spotify.com/album/5CxAtFbcNiBzdeSr1RSx0l) | 3:12 | 2022-12-03 | 2023-02-18 |

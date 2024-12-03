@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 445415,
+  "num_followers": 445440,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "As\u00ed Es el Calor",
+        "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
+      },
+      "artists": [
+        {
+          "name": "Cachorro Lopez",
+          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 180017,
+      "name": "As\u00ed Es el Calor",
+      "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "costas de coral",
         "url": "https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps"
       },
@@ -343,22 +363,6 @@
       "duration_ms": 188841,
       "name": "costas de coral",
       "url": "https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "\u00c1nimo",
-        "url": "https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "\u00c1nimo",
-      "url": "https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -379,22 +383,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "As\u00ed Es el Calor",
-        "url": "https://open.spotify.com/album/5AIeThdtQJ8U6W2o88bpwo"
+        "name": "\u00c1nimo",
+        "url": "https://open.spotify.com/album/4wVGGSFFjp7AhOs7LsdquC"
       },
       "artists": [
         {
-          "name": "Cachorro Lopez",
-          "url": "https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x"
-        },
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 180017,
-      "name": "As\u00ed Es el Calor",
-      "url": "https://open.spotify.com/track/5nFTy6FXjPG9rJOY6tp6cP"
+      "duration_ms": 157880,
+      "name": "\u00c1nimo",
+      "url": "https://open.spotify.com/track/7ze0MX6Gwoosk1QPia2GGZ"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -455,18 +455,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
+        "name": "Bailando mal",
+        "url": "https://open.spotify.com/album/2dYBQ2eqTzaRf7gAV7bA5W"
       },
       "artists": [
         {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "ELYELLA",
+          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
+        },
+        {
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 165120,
-      "name": "Fresh",
-      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
+      "duration_ms": 204193,
+      "name": "Bailando mal",
+      "url": "https://open.spotify.com/track/0rXu31eAk32F9QA7ZIBCM1"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -487,22 +491,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Bailando mal",
-        "url": "https://open.spotify.com/album/2dYBQ2eqTzaRf7gAV7bA5W"
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/6RGWxCMX5GEKPgjP7gi6zD"
       },
       "artists": [
         {
-          "name": "ELYELLA",
-          "url": "https://open.spotify.com/artist/7JrMDzLZQ25BJwc4tD8jl8"
-        },
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 204193,
-      "name": "Bailando mal",
-      "url": "https://open.spotify.com/track/0rXu31eAk32F9QA7ZIBCM1"
+      "duration_ms": 165120,
+      "name": "Fresh",
+      "url": "https://open.spotify.com/track/6sRfgwJVZZnMo92SaEAaY4"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Un d\u00eda m\u00e1s",
-        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 202126,
-      "name": "Un d\u00eda m\u00e1s",
-      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Santo Domingo",
         "url": "https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "maracuy\u00e1",
-        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
+        "name": "Un d\u00eda m\u00e1s",
+        "url": "https://open.spotify.com/album/3JqQExIwMGkaMcitZoN2TT"
       },
       "artists": [
         {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
         }
       ],
-      "duration_ms": 138500,
-      "name": "maracuy\u00e1",
-      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
+      "duration_ms": 202126,
+      "name": "Un d\u00eda m\u00e1s",
+      "url": "https://open.spotify.com/track/5mXYPoqiOCab0lTbHqbYTO"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "maracuy\u00e1",
+        "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "maracuy\u00e1",
+      "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Flower Moon",
-        "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
-      },
-      "artists": [
-        {
-          "name": "Luna Luna",
-          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
-        }
-      ],
-      "duration_ms": 173374,
-      "name": "Feel it Now",
-      "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 178285,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Flower Moon",
+        "url": "https://open.spotify.com/album/4McPKoA8FJkn283QeWctx7"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "duration_ms": 173374,
+      "name": "Feel it Now",
+      "url": "https://open.spotify.com/track/4iJLyZWHDIAXxyb7vcT7dM"
     }
   ],
   "unique_name": "indie feliz",

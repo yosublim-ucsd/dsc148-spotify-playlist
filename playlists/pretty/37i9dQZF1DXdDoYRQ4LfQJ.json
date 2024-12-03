@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la privada con Natanael Cano, Gabito Ballesteros, Luis R Conriquez, Neton Vega & the hottest corridos in the U.S.",
-  "num_followers": 281476,
+  "num_followers": 281686,
   "original_name": "La Privada",
   "owner": {
     "name": "Spotify",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
         "name": "Soy VIP",
         "url": "https://open.spotify.com/album/3sIb7P0k12l1IaThmLPzkV"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 181109,
       "name": "Soy VIP",
       "url": "https://open.spotify.com/track/4Kn7o7LfvnQS9khdDgm05a"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "Hay Niveles",
-        "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 122111,
-      "name": "Hay Niveles",
-      "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
         "name": "Es Dificil Ser Un Santo",
         "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 185756,
       "name": "Es Dificil Ser Un Santo",
       "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
+        "name": "Hay Niveles",
+        "url": "https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 122111,
+      "name": "Hay Niveles",
+      "url": "https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -2267,26 +2267,6 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -2323,6 +2303,26 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "La Mera Vena (El 7)",
-        "url": "https://open.spotify.com/album/2putW0ANe1COoMzhr7MKWJ"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        }
-      ],
-      "duration_ms": 178160,
-      "name": "La Mera Vena (El 7)",
-      "url": "https://open.spotify.com/track/6ssd0JjjuKylwDIOn4lP6K"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
         "name": "LEALTAD",
         "url": "https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 137750,
       "name": "Lealtad",
       "url": "https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
+        "name": "La Mera Vena (El 7)",
+        "url": "https://open.spotify.com/album/2putW0ANe1COoMzhr7MKWJ"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "duration_ms": 178160,
+      "name": "La Mera Vena (El 7)",
+      "url": "https://open.spotify.com/track/6ssd0JjjuKylwDIOn4lP6K"
     },
     {
       "added_at": "2024-11-20 18:53:04",
@@ -2535,26 +2535,6 @@
     {
       "added_at": "2024-11-20 18:53:04",
       "album": {
-        "name": "Arriba Las Manos",
-        "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 135960,
-      "name": "Arriba Las Manos",
-      "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
-    },
-    {
-      "added_at": "2024-11-20 18:53:04",
-      "album": {
         "name": "El Gordo Trae El Mando",
         "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
       },
@@ -2583,6 +2563,26 @@
       "duration_ms": 197500,
       "name": "Vasito Rojo",
       "url": "https://open.spotify.com/track/7mzUUkd8RTfA9EeHxzfmlD"
+    },
+    {
+      "added_at": "2024-11-20 18:53:04",
+      "album": {
+        "name": "Arriba Las Manos",
+        "url": "https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 135960,
+      "name": "Arriba Las Manos",
+      "url": "https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5"
     },
     {
       "added_at": "2024-11-20 18:53:04",

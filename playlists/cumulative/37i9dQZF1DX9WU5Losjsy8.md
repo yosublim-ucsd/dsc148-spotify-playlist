@@ -4,7 +4,7 @@
 
 > Von Ischgl bis Obertauern\. Après\-Ski ist nur einmal im Jahr!
 
-155 songs - 7 hr 53 min
+156 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Herzbeben](https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Helene Fischer \(Deluxe Version\)](https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR) | 3:25 | 2023-07-14 |  |
 | [Heute nicht!](https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar) | [Ben Zucker](https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS) | [Heute nicht!](https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm) | 3:14 | 2023-07-14 | 2024-01-30 |
 | [Hoch die Hände Wochenende](https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Hoch die Hände Wochenende](https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ) | 2:54 | 2023-07-14 |  |
-| [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 |  |
+| [Holterdiepolter](https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ) | [Anstandslos & Durchgeknallt](https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO), [Georg Stengel](https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU) | [Holterdiepolter](https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J) | 3:12 | 2023-11-14 | 2024-12-03 |
 | [Hulapalu](https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK) | [Andreas Gabalier](https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD) | [Mountain Man](https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a) | 3:00 | 2023-07-14 |  |
 | [Hurra die Gams](https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV) | [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Hurra die Gams](https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y) | 3:24 | 2023-07-14 |  |
 | [Ich bleib hier](https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Ich bleib hier](https://open.spotify.com/album/2whxURNncAj78xYqErLbFP) | 2:42 | 2023-07-14 | 2024-11-13 |
@@ -142,6 +142,7 @@
 | [Saufen aufm Spielplatz](https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG) | [BroyS](https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO), [Pbb Yea](https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9) | [Saufen aufm Spielplatz](https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67) | 4:00 | 2023-07-14 | 2024-04-19 |
 | [Saufi saufi](https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9) | [Tobee](https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r) | [Saufi saufi](https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7) | 3:26 | 2023-07-14 |  |
 | [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 | 2023-09-24 |
+| [Schaf](https://open.spotify.com/track/0wD53LCFE5T7wnvu9nohaW) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Chris Tall](https://open.spotify.com/artist/0exB6UwclmlyA9gRpitxTZ) | [Schaf](https://open.spotify.com/album/40wVAvHCbmwu0NHGUumOro) | 2:26 | 2024-11-29 |  |
 | [Scheiss auf Schickimicki \- Video Edit](https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL) | [Stefan Stürmer](https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Scheiss auf Schickimicki \(Video Edit\)](https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I) | 3:18 | 2023-09-18 |  |
 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 | 2023-07-14 |  |
 | [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2023-12-19 |  |

@@ -4,7 +4,7 @@
 
 > Tananai in cover della più grande playlist in Italia! 🏆
 
-115 songs - 5 hr 50 min
+116 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-28 | 2024-10-02 |
 | [Eva \(feat\. Tedua\)](https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:40 | 2024-06-28 | 2024-07-19 |
 | [Feeling](https://open.spotify.com/track/2fwe8oxvNUUvvEDAth54jN) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Feeling](https://open.spotify.com/album/4sNOezg86EAOcM3iAEHy3d) | 2:40 | 2024-11-07 |  |
-| [FENTANYL \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:08 | 2024-09-20 |  |
+| [FENTANYL \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/4kDi7X5sgqF0aM74aPBWSc) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 3:08 | 2024-09-20 | 2024-12-03 |
 | [Fino All'Alba](https://open.spotify.com/track/5nvVV6XRIWs4DNVAQfxElX) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [Fino All'Alba](https://open.spotify.com/album/38LPofTed054HS3S5VyoeT) | 2:37 | 2024-07-18 | 2024-11-16 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-06-28 | 2024-11-08 |
 | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/track/5JEAwqy2UQebOWrE0Sc4Fs) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GHETTO LOVE \(feat\. CLARA\)](https://open.spotify.com/album/79TRrzyyW28JYQ9eNIeHey) | 2:24 | 2024-06-28 | 2024-09-11 |
@@ -72,6 +72,7 @@
 | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [L'ULTIMA POESIA \(feat\. Ultimo\)](https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG) | 3:48 | 2024-06-28 | 2024-09-06 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 | 2024-07-12 |
 | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI) | 3:46 | 2024-06-28 | 2024-09-14 |
+| [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-12-02 |  |
 | [MAI PER SEMPRE](https://open.spotify.com/track/7u4Y70JYM5AO3Q45whDJbB) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [MAI PER SEMPRE](https://open.spotify.com/album/4OwHctFxCYeak7VrPSLXjV) | 3:40 | 2024-11-21 |  |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-28 |  |
 | [MAMMAMÌ](https://open.spotify.com/track/5ewubv7hwvNzi43bQ191Ix) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [MAMMAMÌ](https://open.spotify.com/album/4GQgb01NvO5hV7qgLe5Bc9) | 3:03 | 2024-06-28 | 2024-09-21 |

@@ -1,33 +1,13 @@
 {
   "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Quevedo",
-  "num_followers": 15349365,
+  "num_followers": 15350151,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lKUAAAAADXlvj7cfHjoivh5O/lwUvs",
+  "snapshot_id": "Z03WUgAAAABCDr0qbbL6tYLaUA15SFHI",
   "tracks": [
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "BUENAS NOCHES",
-        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 213528,
-      "name": "GRAN V\u00cdA",
-      "url": "https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh"
-    },
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
@@ -119,6 +99,26 @@
       "duration_ms": 191018,
       "name": "Qu\u00e9 Pasar\u00eda...",
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "BUENAS NOCHES",
+        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 213528,
+      "name": "GRAN V\u00cdA",
+      "url": "https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh"
     },
     {
       "added_at": "2024-11-29 05:00:00",

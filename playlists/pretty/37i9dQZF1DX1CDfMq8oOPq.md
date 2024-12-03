@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 2d é o vulgo, você pensa ela faz!
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,148 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,164 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 37 | [Nega Doce](https://open.spotify.com/track/2IFsSIVR7eZlm9lB3tUzCR) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Nega Doce](https://open.spotify.com/album/0BMzLRaKY8LtPR2wEYuaAZ) | 2:16 |
 | 38 | [Olha Para Mim](https://open.spotify.com/track/4LIHUoSZRlnYjA1RU8MjkB) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Little Lion Sound](https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj) | [Olha Para Mim](https://open.spotify.com/album/1Qb34lDKXxZ1BhYL7g2Uzy) | 2:21 |
 | 39 | [Verdinha Criminosa](https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4) | [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Hugão](https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Verdinha Criminosa](https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX) | 2:39 |
-| 40 | [Regras](https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Plvco](https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV) | [Regras](https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH) | 2:02 |
-| 41 | [Black Money](https://open.spotify.com/track/0tdN7Mu6qMMXCWysIUdPAW) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Black Money](https://open.spotify.com/album/3selatJU19sQ9pJGRdBRsC) | 3:02 |
+| 40 | [Black Money](https://open.spotify.com/track/0tdN7Mu6qMMXCWysIUdPAW) | [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn) | [Black Money](https://open.spotify.com/album/3selatJU19sQ9pJGRdBRsC) | 3:02 |
+| 41 | [Regras](https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Plvco](https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV) | [Regras](https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH) | 2:02 |
 | 42 | [Mais Uma Vadia](https://open.spotify.com/track/54z9A5QU3cxsEZLMqNhXQW) | [Baby Kysha](https://open.spotify.com/artist/27h8nOl2zDSbrtvmIiyvqK), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Mais Uma Vadia](https://open.spotify.com/album/1k4hdTrjul21G5KQnNzi41) | 2:52 |
 | 43 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 44 | [Preta Classe A](https://open.spotify.com/track/2uI42avrqy1JJOJVoYAfev) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [Encruzilhada](https://open.spotify.com/album/2zDnQA4s9S567Jc2EP14bq) | 3:13 |

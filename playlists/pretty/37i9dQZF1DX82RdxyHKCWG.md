@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > mais uma na vibe do verdinho / foto: Charlie XCX, Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,682 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,676 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 64 | [Crash](https://open.spotify.com/track/3O3qQvEttagauEZruP1gtB) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CRASH](https://open.spotify.com/album/6GF5uzX2s0GsS4eGlM4h3m) | 2:36 |
 | 65 | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/track/4FtJXKZofhG9jt9reeahSg) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chasin' \(feat\. Meghan Trainor\)](https://open.spotify.com/album/5GzcpXxpQsBKJGPX2oDvvj) | 3:17 |
 | 66 | [Candy Paint](https://open.spotify.com/track/2hZQJequTwkaizRM0NZRa1) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Candy Paint](https://open.spotify.com/album/3s8zCKO76ch2Lff9swRjtN) | 2:50 |
-| 67 | [Sweat](https://open.spotify.com/track/3Zps8PNjvaapLmUM63mQ3Q) | [Any Gabrielly](https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje) | [Sweat](https://open.spotify.com/album/0OlaUpNPhRm8mnEcOwEcfK) | 2:42 |
-| 68 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 |
+| 67 | [Big Man](https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Big Man](https://open.spotify.com/album/5yW6Sr7FABZxe95FEEKEkb) | 4:13 |
+| 68 | [Sweat](https://open.spotify.com/track/3Zps8PNjvaapLmUM63mQ3Q) | [Any Gabrielly](https://open.spotify.com/artist/7Exa8X6gyaqkug3tLGVKje) | [Sweat](https://open.spotify.com/album/0OlaUpNPhRm8mnEcOwEcfK) | 2:42 |
 | 69 | [Next 2 U](https://open.spotify.com/track/3qV20sy8VPyt5R8aminfhA) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Next 2 U](https://open.spotify.com/album/5AkuoilPAkKfzfm2nIF7KA) | 2:41 |
 | 70 | [GORGEOUS \(feat\. Kim Petras\)](https://open.spotify.com/track/2S80V07FaYjuQebMJ0UQPV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [143](https://open.spotify.com/album/2bMqL9AA5j69OKVabi51FU) | 3:17 |
 

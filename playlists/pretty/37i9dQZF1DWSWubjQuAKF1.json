@@ -1,6 +1,6 @@
 {
   "description": "nasze brzmienie \u2728 Cover: Artur Sikorski",
-  "num_followers": 20995,
+  "num_followers": 21001,
   "original_name": "gen z ",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "My\u015bl\u0119 o Tobie przed snem",
-        "url": "https://open.spotify.com/album/6Hkegvu8DbNmV8KfVkZsbd"
-      },
-      "artists": [
-        {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "My\u015bl\u0119 o Tobie przed snem",
-      "url": "https://open.spotify.com/track/3rOeJECNSOOU8LZCXhyu0X"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Daj Mi Zna\u0107",
         "url": "https://open.spotify.com/album/5cCz3TGg6Md3Yv9qj0FjtF"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 146982,
       "name": "Daj Mi Zna\u0107",
       "url": "https://open.spotify.com/track/5TwGHj8i48jbLa3Vwd5OF1"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "My\u015bl\u0119 o Tobie przed snem",
+        "url": "https://open.spotify.com/album/6Hkegvu8DbNmV8KfVkZsbd"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 172258,
+      "name": "My\u015bl\u0119 o Tobie przed snem",
+      "url": "https://open.spotify.com/track/3rOeJECNSOOU8LZCXhyu0X"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -419,6 +419,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "taki nawyk",
+        "url": "https://open.spotify.com/album/3Kq5ViGpn1ATJzFjmyzT3k"
+      },
+      "artists": [
+        {
+          "name": "PK sisters",
+          "url": "https://open.spotify.com/artist/0i9jmvTbFQK9JFPSwO1X1P"
+        },
+        {
+          "name": "Jakub Laszuk",
+          "url": "https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ"
+        }
+      ],
+      "duration_ms": 154462,
+      "name": "taki nawyk",
+      "url": "https://open.spotify.com/track/31mLz6royKD4dlmDYj8HDY"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Tylko Lepiej EP",
         "url": "https://open.spotify.com/album/40hXd3kTwv8wF9iVxQLKHC"
       },
@@ -431,22 +451,6 @@
       "duration_ms": 147804,
       "name": "A\u017c B\u0119dziesz Wiedzie\u0107",
       "url": "https://open.spotify.com/track/4AvHEHhWzVYtda38KLWEkM"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "It\u2019s All About The Changes",
-        "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
-      },
-      "artists": [
-        {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
-        }
-      ],
-      "duration_ms": 160002,
-      "name": "M&M\u2019s",
-      "url": "https://open.spotify.com/track/0V0odMIAaJA16UCtjlPGU0"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -467,22 +471,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "taki nawyk",
-        "url": "https://open.spotify.com/album/3Kq5ViGpn1ATJzFjmyzT3k"
+        "name": "It\u2019s All About The Changes",
+        "url": "https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE"
       },
       "artists": [
         {
-          "name": "PK sisters",
-          "url": "https://open.spotify.com/artist/0i9jmvTbFQK9JFPSwO1X1P"
-        },
-        {
-          "name": "Jakub Laszuk",
-          "url": "https://open.spotify.com/artist/6UATsPpXnCc5h12How5xvQ"
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
         }
       ],
-      "duration_ms": 154462,
-      "name": "taki nawyk",
-      "url": "https://open.spotify.com/track/31mLz6royKD4dlmDYj8HDY"
+      "duration_ms": 160002,
+      "name": "M&M\u2019s",
+      "url": "https://open.spotify.com/track/0V0odMIAaJA16UCtjlPGU0"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7"
+      },
+      "artists": [
+        {
+          "name": "Agata \u015awiderska",
+          "url": "https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC"
+        }
+      ],
+      "duration_ms": 126835,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "epicentrum",
         "url": "https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 155330,
       "name": "chc\u0119 ci\u0119 wi\u0119cej",
       "url": "https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Candy",
-        "url": "https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7"
-      },
-      "artists": [
-        {
-          "name": "Agata \u015awiderska",
-          "url": "https://open.spotify.com/artist/414dGfJGuwiD326ebm9dfC"
-        }
-      ],
-      "duration_ms": 126835,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/0I2Ma5SzwI4MXxvCoVL6lx"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Nagie Cia\u0142a",
+        "url": "https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR"
+      },
+      "artists": [
+        {
+          "name": "KONRAD",
+          "url": "https://open.spotify.com/artist/1TgEw7mL5WngIOffVvNuAn"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "Nagie Cia\u0142a",
+      "url": "https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Instalacja IV",
         "url": "https://open.spotify.com/album/32s2rZJpchsmEcr1dYteKN"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 171776,
       "name": "ksi\u0119\u017cniczka type beat",
       "url": "https://open.spotify.com/track/7zJuTk0G6CYUIAK7UIgJtj"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Nagie Cia\u0142a",
-        "url": "https://open.spotify.com/album/3AmfPnMvKlZ5zTu6C58TOR"
-      },
-      "artists": [
-        {
-          "name": "KONRAD",
-          "url": "https://open.spotify.com/artist/1TgEw7mL5WngIOffVvNuAn"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "Nagie Cia\u0142a",
-      "url": "https://open.spotify.com/track/2oSEUSC3loQDRYsyFJuxoE"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -923,26 +923,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "A\u017c tyle",
-        "url": "https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV"
-      },
-      "artists": [
-        {
-          "name": "the small town kids",
-          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
-        },
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "A\u017c tyle",
-      "url": "https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "D\u0142ugie Spacery",
         "url": "https://open.spotify.com/album/4NtdplntD8TeKTki9Y9mIB"
       },
@@ -975,18 +955,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "z papieru",
-        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
+        "name": "A\u017c tyle",
+        "url": "https://open.spotify.com/album/3Lg2ZQ0qbLM9zr1e85ZabV"
       },
       "artists": [
         {
-          "name": "Livka",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+          "name": "the small town kids",
+          "url": "https://open.spotify.com/artist/1cUvJtU1uL59tjCScnbUUk"
+        },
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
         }
       ],
-      "duration_ms": 142336,
-      "name": "Gadu\u0142a",
-      "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
+      "duration_ms": 136500,
+      "name": "A\u017c tyle",
+      "url": "https://open.spotify.com/track/5hp9lT0MmUOB7EwDVhNMQL"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1023,6 +1007,22 @@
       "duration_ms": 168967,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/7EDpeJwPBFxem2fES0gx6c"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "z papieru",
+        "url": "https://open.spotify.com/album/7uQvbQsog1LioDPDODHOqx"
+      },
+      "artists": [
+        {
+          "name": "Livka",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+        }
+      ],
+      "duration_ms": 142336,
+      "name": "Gadu\u0142a",
+      "url": "https://open.spotify.com/track/0PW79OISoSCzmPwoqyphnV"
     },
     {
       "added_at": "2024-11-28 23:00:00",

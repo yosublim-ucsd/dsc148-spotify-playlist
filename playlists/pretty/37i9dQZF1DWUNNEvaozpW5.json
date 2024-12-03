@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
-  "num_followers": 587578,
+  "num_followers": 587649,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Flores de Trinchera",
-        "url": "https://open.spotify.com/album/09zUPBZdo5rK7gvVil5qj9"
-      },
-      "artists": [
-        {
-          "name": "Rupatrupa",
-          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
-        },
-        {
-          "name": "Robe",
-          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
-        }
-      ],
-      "duration_ms": 480750,
-      "name": "Flores de Trinchera",
-      "url": "https://open.spotify.com/track/5nEbSbGi12XatVVjeoTUU8"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 400480,
       "name": "Por verte sonre\u00edr",
       "url": "https://open.spotify.com/track/6tGUkobti5ztrb9aQ0UDEx"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Flores de Trinchera",
+        "url": "https://open.spotify.com/album/09zUPBZdo5rK7gvVil5qj9"
+      },
+      "artists": [
+        {
+          "name": "Rupatrupa",
+          "url": "https://open.spotify.com/artist/4NMzrymQlZzpXs0LT3Arei"
+        },
+        {
+          "name": "Robe",
+          "url": "https://open.spotify.com/artist/3WQRkINylwwkw1Ya07ToRK"
+        }
+      ],
+      "duration_ms": 480750,
+      "name": "Flores de Trinchera",
+      "url": "https://open.spotify.com/track/5nEbSbGi12XatVVjeoTUU8"
     },
     {
       "added_at": "2024-11-28 23:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18386,
+  "num_followers": 18391,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Wish You Hell - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 170360,
-      "name": "Wish You Hell",
-      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "W.A.Y",
         "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 177973,
       "name": "WE ARE YOUNG",
       "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "Wish You Hell - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3f8n88uX0tNvA8HTROgSkr"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 170360,
+      "name": "Wish You Hell",
+      "url": "https://open.spotify.com/track/7b8SkcdeiTuo6FQXdPgPWW"
     },
     {
       "added_at": "2024-10-08 11:00:53",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-10-08 11:00:53",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Freaky (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
-    },
-    {
-      "added_at": "2024-10-08 11:00:53",
-      "album": {
         "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 176000,
       "name": "Drink it, Girls!",
       "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
+    },
+    {
+      "added_at": "2024-10-08 11:00:53",
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Freaky (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
     },
     {
       "added_at": "2024-10-08 11:00:53",

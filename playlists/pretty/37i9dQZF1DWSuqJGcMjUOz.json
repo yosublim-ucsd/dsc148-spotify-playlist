@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche de l\u2019\u00e9dition 2024 des Francos de Montr\u00e9al.",
-  "num_followers": 6566,
+  "num_followers": 6567,
   "original_name": "Francos de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "R\u00e9silience",
-        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
-      },
-      "artists": [
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "On s'fait du mal (feat. Dadju)",
-      "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Non conventionnel",
         "url": "https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 210840,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4uUHWmCZYw49Ssd7de6Wwq"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "R\u00e9silience",
+        "url": "https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2"
+      },
+      "artists": [
+        {
+          "name": "Zaho",
+          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "On s'fait du mal (feat. Dadju)",
+      "url": "https://open.spotify.com/track/0wzYG3c6CaroEAz4wTPNVD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "XS",
-        "url": "https://open.spotify.com/album/52JamK8WdjuILo8uhev83g"
+        "name": "Survivant",
+        "url": "https://open.spotify.com/album/4Wi38v5VLNOnKjpLebg7e0"
       },
       "artists": [
         {
-          "name": "ANA\u00cfS MVA",
-          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
         }
       ],
-      "duration_ms": 156477,
-      "name": "XS",
-      "url": "https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i"
+      "duration_ms": 216360,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/7JtZ96DZ5WJEhF4ppZfrIN"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -451,18 +451,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Pr\u00e9sence d'esprit",
-        "url": "https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl"
+        "name": "XS",
+        "url": "https://open.spotify.com/album/52JamK8WdjuILo8uhev83g"
       },
       "artists": [
         {
-          "name": "Les Trois Accords",
-          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
         }
       ],
-      "duration_ms": 208059,
-      "name": "Vol \u00e0 l'\u00e9talage",
-      "url": "https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V"
+      "duration_ms": 156477,
+      "name": "XS",
+      "url": "https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Survivant",
-        "url": "https://open.spotify.com/album/4Wi38v5VLNOnKjpLebg7e0"
+        "name": "Pr\u00e9sence d'esprit",
+        "url": "https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl"
       },
       "artists": [
         {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
         }
       ],
-      "duration_ms": 216360,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/7JtZ96DZ5WJEhF4ppZfrIN"
+      "duration_ms": 208059,
+      "name": "Vol \u00e0 l'\u00e9talage",
+      "url": "https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -659,22 +659,18 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "QUI A VOL\u00c9 LE SOLEIL ?",
-        "url": "https://open.spotify.com/album/0CNZ1e0NtRpjdf2JMSMTg9"
+        "name": "Aliocha Schneider",
+        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
       },
       "artists": [
         {
-          "name": "Slimka",
-          "url": "https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN"
-        },
-        {
-          "name": "Mairo",
-          "url": "https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg"
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
         }
       ],
-      "duration_ms": 161920,
-      "name": "Zepe & Zada",
-      "url": "https://open.spotify.com/track/5mZaPZO8w4e3dCQbtpR3Q2"
+      "duration_ms": 200360,
+      "name": "Avant Elle",
+      "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -695,18 +691,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Aliocha Schneider",
-        "url": "https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO"
+        "name": "QUI A VOL\u00c9 LE SOLEIL ?",
+        "url": "https://open.spotify.com/album/0CNZ1e0NtRpjdf2JMSMTg9"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+          "name": "Slimka",
+          "url": "https://open.spotify.com/artist/3JudvZnY94AkCzfAVXzawN"
+        },
+        {
+          "name": "Mairo",
+          "url": "https://open.spotify.com/artist/1BosUoykMJzWNTXM4Qfblg"
         }
       ],
-      "duration_ms": 200360,
-      "name": "Avant Elle",
-      "url": "https://open.spotify.com/track/313L5l9abg2UJMq0FRccMD"
+      "duration_ms": 161920,
+      "name": "Zepe & Zada",
+      "url": "https://open.spotify.com/track/5mZaPZO8w4e3dCQbtpR3Q2"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Grafignes",
-        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
-      },
-      "artists": [
-        {
-          "name": "Gab Bouchard",
-          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
-        }
-      ],
-      "duration_ms": 190906,
-      "name": "D\u00e9potoir",
-      "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Jaune (Version originale remasteris\u00e9e)",
         "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 253720,
       "name": "Le petit roi",
       "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Grafignes",
+        "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
+      },
+      "artists": [
+        {
+          "name": "Gab Bouchard",
+          "url": "https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP"
+        }
+      ],
+      "duration_ms": 190906,
+      "name": "D\u00e9potoir",
+      "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "DEUIL(S)",
-        "url": "https://open.spotify.com/album/2RbMQsEyyWE0WWik6Gv3wY"
-      },
-      "artists": [
-        {
-          "name": "Martin Luminet",
-          "url": "https://open.spotify.com/artist/3DziNI4JX4VMQQOkuAq24y"
-        }
-      ],
-      "duration_ms": 198181,
-      "name": "MONDE",
-      "url": "https://open.spotify.com/track/439n0UuRVlJKRxGKH8XqWw"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Temp\u00eate",
         "url": "https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 209680,
       "name": "Coin coin",
       "url": "https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "DEUIL(S)",
+        "url": "https://open.spotify.com/album/2RbMQsEyyWE0WWik6Gv3wY"
+      },
+      "artists": [
+        {
+          "name": "Martin Luminet",
+          "url": "https://open.spotify.com/artist/3DziNI4JX4VMQQOkuAq24y"
+        }
+      ],
+      "duration_ms": 198181,
+      "name": "MONDE",
+      "url": "https://open.spotify.com/track/439n0UuRVlJKRxGKH8XqWw"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "Du feu dans les lilas",
+        "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        },
+        {
+          "name": "Albin de la Simone",
+          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Derri\u00e8re le jour",
+      "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "Comme Avant",
         "url": "https://open.spotify.com/album/4GapYXkrjk7Zur6AX4Lr3w"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 216146,
       "name": "Polymorphe",
       "url": "https://open.spotify.com/track/2A8mCfjcGkxaAqnSEhCkwJ"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "Du feu dans les lilas",
-        "url": "https://open.spotify.com/album/2gpYjjb2JFM6B6VwHQNE5V"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        },
-        {
-          "name": "Albin de la Simone",
-          "url": "https://open.spotify.com/artist/4VuZOySa9AIegZZzNIjPLC"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Derri\u00e8re le jour",
-      "url": "https://open.spotify.com/track/24Wd3taBrCp1XibT2sr6Kp"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
+        "name": "\u00c0 demain peut-\u00eatre",
+        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
+      },
+      "artists": [
+        {
+          "name": "Galaxie",
+          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
+        }
+      ],
+      "duration_ms": 179706,
+      "name": "Anomie",
+      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
         "name": "SAC \u00c0 SURPRISE",
         "url": "https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 169567,
       "name": "\u00c7A APPELLE",
       "url": "https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
-        "name": "\u00c0 demain peut-\u00eatre",
-        "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
-      },
-      "artists": [
-        {
-          "name": "Galaxie",
-          "url": "https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Anomie",
-      "url": "https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "AlgeVita",
-        "url": "https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt"
-      },
-      "artists": [
-        {
-          "name": "S\u2019tano",
-          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "AlgeVita",
-      "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "Erreur",
         "url": "https://open.spotify.com/album/7gSEB3vnrlRPctu8XaxoS7"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 199415,
       "name": "Erreur",
       "url": "https://open.spotify.com/track/7q9nfKCHF04wOtCnFVnJSa"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "AlgeVita",
+        "url": "https://open.spotify.com/album/5cH69HuM6EUg7Onj2rMzbt"
+      },
+      "artists": [
+        {
+          "name": "S\u2019tano",
+          "url": "https://open.spotify.com/artist/5K3ZdxXGFBy0mQXdLA4oIc"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "AlgeVita",
+      "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
     },
     {
       "added_at": "2024-06-19 20:38:05",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2024-06-19 20:38:05",
       "album": {
-        "name": "Fluxus",
-        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
-      },
-      "artists": [
-        {
-          "name": "Bobo Ono",
-          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
-        }
-      ],
-      "duration_ms": 156904,
-      "name": "OnO Song",
-      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
-    },
-    {
-      "added_at": "2024-06-19 20:38:05",
-      "album": {
         "name": "O\u00f9 est pass\u00e9 mon contour",
         "url": "https://open.spotify.com/album/14179pvxliO47am5SkoCLw"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 181994,
       "name": "O\u00f9 est pass\u00e9 mon contour",
       "url": "https://open.spotify.com/track/21nOADtle90zRJ13y4Poy1"
+    },
+    {
+      "added_at": "2024-06-19 20:38:05",
+      "album": {
+        "name": "Fluxus",
+        "url": "https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu"
+      },
+      "artists": [
+        {
+          "name": "Bobo Ono",
+          "url": "https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC"
+        }
+      ],
+      "duration_ms": 156904,
+      "name": "OnO Song",
+      "url": "https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t"
     },
     {
       "added_at": "2024-06-19 20:38:05",

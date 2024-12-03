@@ -1,6 +1,6 @@
 {
   "description": "Please stand for your personal anthems. Cover: blink-182",
-  "num_followers": 3016465,
+  "num_followers": 3016389,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Folie \u00e0 Deux",
-        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
+        "name": "Too Weird to Live, Too Rare to Die!",
+        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
       },
       "artists": [
         {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
         }
       ],
-      "duration_ms": 214493,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
+      "duration_ms": 187186,
+      "name": "This Is Gospel",
+      "url": "https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Too Weird to Live, Too Rare to Die!",
-        "url": "https://open.spotify.com/album/1hxraaWEf3wFnJxADf8Dge"
+        "name": "Folie \u00e0 Deux",
+        "url": "https://open.spotify.com/album/6LMC7ZuVNDUQ0tHpGKdd9K"
       },
       "artists": [
         {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 187186,
-      "name": "This Is Gospel",
-      "url": "https://open.spotify.com/track/3yZQk5PC52CCmT4ZaTIKvv"
+      "duration_ms": 214493,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/26VG1uCazw9xtVnq8A1vtd"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1153,20 +1153,20 @@
       "url": "https://open.spotify.com/track/4uVjbl6daCwjhDur7qLddu"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
+      "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+        "name": "December",
+        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
       },
       "artists": [
         {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+          "name": "Neck Deep",
+          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+      "duration_ms": 213034,
+      "name": "December (again) [feat. Mark Hoppus]",
+      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1183,6 +1183,22 @@
       "duration_ms": 191373,
       "name": "Grand Theft Autumn / Where Is Your Boy",
       "url": "https://open.spotify.com/track/3JOdLCIBzQYwHIvpN3isVf"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1215,22 +1231,6 @@
       "duration_ms": 168226,
       "name": "Minority",
       "url": "https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw"
-      },
-      "artists": [
-        {
-          "name": "Neck Deep",
-          "url": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-        }
-      ],
-      "duration_ms": 213034,
-      "name": "December (again) [feat. Mark Hoppus]",
-      "url": "https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T"
     },
     {
       "added_at": "2023-02-10 16:26:23",
@@ -1477,22 +1477,6 @@
       "url": "https://open.spotify.com/track/5TjwiYZVMHVrGvRzbeCaV7"
     },
     {
-      "added_at": "2023-02-10 16:26:23",
-      "album": {
-        "name": "Punk In Drublic",
-        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
-      },
-      "artists": [
-        {
-          "name": "NOFX",
-          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
-        }
-      ],
-      "duration_ms": 130266,
-      "name": "Linoleum",
-      "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
-    },
-    {
       "added_at": "2023-01-25 14:57:38",
       "album": {
         "name": "All Killer No Filler",
@@ -1507,6 +1491,22 @@
       "duration_ms": 206999,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI"
+    },
+    {
+      "added_at": "2023-02-10 16:26:23",
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "duration_ms": 130266,
+      "name": "Linoleum",
+      "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
     },
     {
       "added_at": "2023-01-25 14:57:38",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-01-25 14:57:38",
       "album": {
-        "name": "All Killer No Filler",
-        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 178320,
-      "name": "Fat Lip",
-      "url": "https://open.spotify.com/track/3tWudnj1NK7YUfnR91nezW"
-    },
-    {
-      "added_at": "2023-01-25 14:57:38",
-      "album": {
         "name": "Lovely Little Lonely",
         "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 203057,
       "name": "Black Butterflies and D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx"
+    },
+    {
+      "added_at": "2023-01-25 14:57:38",
+      "album": {
+        "name": "On Your Side",
+        "url": "https://open.spotify.com/album/6VH5MF1nAVOTGbRyHdYDtV"
+      },
+      "artists": [
+        {
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Like We Used To",
+      "url": "https://open.spotify.com/track/1fkYmLPG2Oi2AkUmcspWKl"
     }
   ],
   "unique_name": "Pure Pop Punk",

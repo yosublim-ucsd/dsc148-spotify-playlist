@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: أميمة طالب
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,063 likes - 40 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,100 likes - 40 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 39 | [Qeiam](https://open.spotify.com/track/6gHhZKa9F7WqCVXkj29Qss) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Marhaba](https://open.spotify.com/album/0SwI39bKzHkorStj3SHDV8) | 4:04 |
 | 40 | [Thaag El Ghamaam](https://open.spotify.com/track/7CJTam1agxsYHmlByF1sa0) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Fouad Abdulwahed 2024](https://open.spotify.com/album/5rh03DFJueGrJqjQHPJXSK) | 4:23 |
 
-Snapshot ID: `Z0jliwAAAAAR4WAt1o+namuSKx467K1n`
+Snapshot ID: `Z02oUQAAAACXOzWf1mWaJnrirjJhOGCZ`

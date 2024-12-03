@@ -1,6 +1,6 @@
 {
   "description": "2d \u00e9 o vulgo, voc\u00ea pensa ela faz!",
-  "num_followers": 61148,
+  "num_followers": 61164,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Black Money",
+        "url": "https://open.spotify.com/album/3selatJU19sQ9pJGRdBRsC"
+      },
+      "artists": [
+        {
+          "name": "Negra Li",
+          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
+        }
+      ],
+      "duration_ms": 182745,
+      "name": "Black Money",
+      "url": "https://open.spotify.com/track/0tdN7Mu6qMMXCWysIUdPAW"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Regras",
         "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 122500,
       "name": "Regras",
       "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Black Money",
-        "url": "https://open.spotify.com/album/3selatJU19sQ9pJGRdBRsC"
-      },
-      "artists": [
-        {
-          "name": "Negra Li",
-          "url": "https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn"
-        }
-      ],
-      "duration_ms": 182745,
-      "name": "Black Money",
-      "url": "https://open.spotify.com/track/0tdN7Mu6qMMXCWysIUdPAW"
     },
     {
       "added_at": "2024-11-29 03:01:00",

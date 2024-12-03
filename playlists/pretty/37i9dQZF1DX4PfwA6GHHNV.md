@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,560 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,570 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 27 | [Chá](https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K) | [Juyè](https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [Taleko](https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz) | [Chá](https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y) | 2:35 |
 | 28 | [1 a 1.](https://open.spotify.com/track/4NgTv7ivT6mXUFw8Q8IVtU) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [1 a 1.](https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB) | 3:17 |
 | 29 | [Fora do Normal](https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs) | [THIFREE](https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv), [VGNL](https://open.spotify.com/artist/6auZy2TITJClAy9JiCNwHT), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Fora do Normal](https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5) | 2:54 |
-| 30 | [Só Você](https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j) | [Lifee](https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Só Você](https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j) | 2:24 |
+| 30 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
 | 31 | [TocToc](https://open.spotify.com/track/452FBQWeQfbivI4APRWld6) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [TocToc](https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT) | 2:35 |
-| 32 | [Ciumenta](https://open.spotify.com/track/35fWcHV5Q9KQtaPN7n9Djl) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Ciumenta](https://open.spotify.com/album/3gifZCkuuSjonKk7YVcR3b) | 2:30 |
-| 33 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
+| 32 | [Só Você](https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j) | [Lifee](https://open.spotify.com/artist/0r4C1Ww5TXFfdbPa7b7IEc), [VND](https://open.spotify.com/artist/1XxGXIW0xJuiW267WuDgNP), [Gabriel Maré](https://open.spotify.com/artist/1biHMI6ghANuhdOWKRcwJL) | [Só Você](https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j) | 2:24 |
+| 33 | [Ciumenta](https://open.spotify.com/track/35fWcHV5Q9KQtaPN7n9Djl) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Ciumenta](https://open.spotify.com/album/3gifZCkuuSjonKk7YVcR3b) | 2:30 |
 | 34 | [Afasta](https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Afasta](https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k) | 2:55 |
 | 35 | [Deixa Eu Te Contar](https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX) | [Deixa Eu Te Contar](https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY) | 3:13 |
 | 36 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |

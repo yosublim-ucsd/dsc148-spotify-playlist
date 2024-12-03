@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Lara Somogyi.
 
-328 songs - 23 hr 34 min
+329 songs - 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Deteketei Lambert](https://open.spotify.com/track/0tT7d3m0STxsg21oYWL0T8) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Positive](https://open.spotify.com/album/11v2rfvLADbhkMVVf6RFYJ) | 2:41 | 2021-12-10 | 2022-07-24 |
 | [Diamonds](https://open.spotify.com/track/297ZF3Zp0VFLY21qZ4bQ6W) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Diamonds](https://open.spotify.com/album/2wz27a9CrwZf9Kgu6PgWq2) | 2:04 | 2022-03-25 |  |
 | [Diane](https://open.spotify.com/track/4qs3tltfZPFrzOBl5FsMda) | [Daniel Pioro](https://open.spotify.com/artist/4ZrHyIxtzxZC1yIot7S7qM) | [Diane](https://open.spotify.com/album/3j8npZa0TYmbkfsFWTnHvi) | 3:57 | 2022-02-25 |  |
-| [Discovery](https://open.spotify.com/track/2ML2LRXbX2JfFZzeoqs7PH) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Discovery](https://open.spotify.com/album/2HbLl2KDzOMW3TtcliEKqx) | 3:32 | 2024-03-01 |  |
+| [Discovery](https://open.spotify.com/track/2ML2LRXbX2JfFZzeoqs7PH) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp) | [Discovery](https://open.spotify.com/album/2HbLl2KDzOMW3TtcliEKqx) | 3:32 | 2024-03-01 | 2024-12-03 |
 | [Divenire \- Reimagined by Mercan Dede & Kora](https://open.spotify.com/track/6hX4lTpGKrxvyFy2HKVJT6) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY), [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Alp Akmaz](https://open.spotify.com/artist/3rUklV20Ft3YvJPETNw3aC) | [Reimagined\. Volume 2, Chapter 1](https://open.spotify.com/album/2jWp0xr6af3jFV9oOTteO7) | 7:18 | 2022-06-24 | 2022-08-26 |
 | [Double Sky](https://open.spotify.com/track/1Bs8JK94zPJ7UgJ16clWmx) | [Meredi](https://open.spotify.com/artist/3JIwUwScCrI3OUwj50CT1H), [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Philipp Johann Thimm](https://open.spotify.com/artist/7v8RCL7y8b8I9J9rSMIN96) | [Double Sky](https://open.spotify.com/album/0ADGUhzdeqidQRGFpfOHFs) | 6:43 | 2024-07-12 |  |
 | [Drang](https://open.spotify.com/track/1ew7P0XkQRdBFHEnVxrCow) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe), [Ruben Jeyasundaram](https://open.spotify.com/artist/4FgCaEkgBLDRxRsKpxc3Q2), [Vocaal Ensemble Cordier](https://open.spotify.com/artist/6NygXaRWfywdXsaafqqoQr) | [Elv](https://open.spotify.com/album/2AYkX2u0YNy42CPu0Pgqnu) | 2:41 | 2023-02-10 |  |
@@ -95,6 +95,7 @@
 | [Finding solace in the stars](https://open.spotify.com/track/3RF3QEGZwyQFHl6KICwnN5) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [VOISART](https://open.spotify.com/artist/4Cex5KVd3OTzZ7mQILdNEE) | [Finding solace in the stars](https://open.spotify.com/album/17twwmQ7sZhUQ4rG5Eg71h) | 2:58 | 2021-12-10 | 2022-04-02 |
 | [Flame \- Edit](https://open.spotify.com/track/650KMeGMULRMpcKUz1duOQ) | [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [Flame](https://open.spotify.com/album/78Iy1BiGfXAP7RzVGhy8B3) | 4:04 | 2022-09-09 |  |
 | [Fly \- Reimagined by Mercan Dede and Dexter Crowe](https://open.spotify.com/track/1yiS9iXNPZIlwE0zBNe106) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Mercan Dede](https://open.spotify.com/artist/1rwDpyhfCIGcutXf9kmLkY), [Dexter Crowe](https://open.spotify.com/artist/2MdTMSsrjQTTvP1Jc5g0Zk) | [Reimagined\. Volume 1, Chapter 1](https://open.spotify.com/album/3BOArV9ude9rgHwqhMWqO3) | 8:06 | 2021-12-10 | 2022-01-17 |
+| [Forest Mystique \(Woodland Passage\)](https://open.spotify.com/track/2fh5QC6JG70vALfIA9ltUC) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [The Sonic Orchestra](https://open.spotify.com/artist/0aISNBByRLFmedVLCnnapu), [Sonic Apothecary](https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr) | [Forest Mystique \(Woodland Passage\)](https://open.spotify.com/album/1WxbBnuZJNfdVWKHO4ptUs) | 2:58 | 2024-10-16 |  |
 | [Fractured Light](https://open.spotify.com/track/0QEbD9ZfzG6Ay1EyIkuhGx) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Fractured Light](https://open.spotify.com/album/79r2JD7Dqz9inxKujrwFHK) | 3:22 | 2023-10-20 | 2024-04-19 |
 | [Fractured Light](https://open.spotify.com/track/4XUGZJBkx8OQSayvUfRasb) | [AVAWAVES](https://open.spotify.com/artist/0n6xMAwakXiGBh8glsuYG1) | [Fractured Light](https://open.spotify.com/album/2c1yB6ttUGq2y7QcWdYDAc) | 3:22 | 2023-08-18 | 2023-10-28 |
 | [G\-Minor](https://open.spotify.com/track/0kZo2kJ2j7Mk6JfoqHBoj8) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Venice \- Infinitely Avantgarde \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9) | 3:55 | 2022-07-22 | 2024-04-19 |

@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 780202,
+  "num_followers": 780307,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "O Tempo \u00c9 Agora",
-        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Ai, Amor",
-      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "Semente",
         "url": "https://open.spotify.com/album/5ankef7uixssXhd76nE2Aw"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 194240,
       "name": "Outra Vida",
       "url": "https://open.spotify.com/track/1tqNjCuAIoG1kyBfs8DfZE"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
+        "name": "O Tempo \u00c9 Agora",
+        "url": "https://open.spotify.com/album/0yiQu0POzXcfjEB6qBuhtj"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 220566,
+      "name": "Ai, Amor",
+      "url": "https://open.spotify.com/track/3bR8wBqLky6b61ROJlaBEF"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "A Banda Mais Bonita da Cidade",
-        "url": "https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO"
-      },
-      "artists": [
-        {
-          "name": "A Banda Mais Bonita da Cidade",
-          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
-        }
-      ],
-      "duration_ms": 301346,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "Nando Reis - Voz e Viol\u00e3o - No Recreio, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5w3LIWPOW8U9QNkBBF3ViX"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 233613,
       "name": "All Star - Ao Vivo",
       "url": "https://open.spotify.com/track/3g5FrnRdbmDQyWNiDIprts"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
+        "name": "A Banda Mais Bonita da Cidade",
+        "url": "https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO"
+      },
+      "artists": [
+        {
+          "name": "A Banda Mais Bonita da Cidade",
+          "url": "https://open.spotify.com/artist/2vyvksxB1aCmd0vl2geGYR"
+        }
+      ],
+      "duration_ms": 301346,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "Banda do Mar",
-        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
-      },
-      "artists": [
-        {
-          "name": "Banda do Mar",
-          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Mais Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "Toda Forma De Amor",
         "url": "https://open.spotify.com/album/4WXHWxOTHQM2VHwlIoe4vJ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 225760,
       "name": "Toda Forma de Amor",
       "url": "https://open.spotify.com/track/2ma8V5vEOfCuyqZ0V8HAq3"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
+        "name": "Banda do Mar",
+        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
+      },
+      "artists": [
+        {
+          "name": "Banda do Mar",
+          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Mais Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Quero Acordar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
       },
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "Entre o Nada e o Infinito",
-        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
-      },
-      "artists": [
-        {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
-        }
-      ],
-      "duration_ms": 175080,
-      "name": "acende essa ponta",
-      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "Ac\u00fastico Em Trancoso (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4"
       },
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL"
+        "name": "Entre o Nada e o Infinito",
+        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
       },
       "artists": [
         {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
         }
       ],
-      "duration_ms": 182325,
-      "name": "Quero Acordar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx"
+      "duration_ms": 175080,
+      "name": "acende essa ponta",
+      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
     },
     {
       "added_at": "2024-11-29 03:00:00",

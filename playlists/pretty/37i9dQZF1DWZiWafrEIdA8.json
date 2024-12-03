@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9900,
+  "num_followers": 9910,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,26 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "AURA (feat. pH-1)",
-        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
+        "name": "Rainy day",
+        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
       },
       "artists": [
         {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
         },
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
         }
       ],
-      "duration_ms": 206640,
-      "name": "AURA (feat. pH-1) (Prod. GXXD)",
-      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
+      "duration_ms": 218250,
+      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -295,26 +299,22 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Rainy day",
-        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
+        "name": "AURA (feat. pH-1)",
+        "url": "https://open.spotify.com/album/4P52Fw6ZiYcSL5rT4p3fc9"
       },
       "artists": [
         {
-          "name": "PATEKO",
-          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         },
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         }
       ],
-      "duration_ms": 218250,
-      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
-      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
+      "duration_ms": 206640,
+      "name": "AURA (feat. pH-1) (Prod. GXXD)",
+      "url": "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
-      },
-      "artists": [
-        {
-          "name": "YOUHA",
-          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "ISLAND",
-      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -699,18 +683,38 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "HANGANG",
-        "url": "https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/252HrrsALUd5ysKCJuRCur"
       },
       "artists": [
         {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
         }
       ],
-      "duration_ms": 200488,
-      "name": "HANGANG",
-      "url": "https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb"
+      "duration_ms": 197938,
+      "name": "ISLAND",
+      "url": "https://open.spotify.com/track/7imQKCdSF67V65uMplJMy1"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 249317,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -795,22 +799,18 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Show Me the Money 4 Episode 5",
-        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+        "name": "HANGANG",
+        "url": "https://open.spotify.com/album/6Fnj40x1kkxtHK3icGVsqg"
       },
       "artists": [
         {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
         }
       ],
-      "duration_ms": 249317,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+      "duration_ms": 200488,
+      "name": "HANGANG",
+      "url": "https://open.spotify.com/track/6nSHtgTH5a959xPucs6Ilb"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -899,22 +899,26 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
+        "name": "EVERYWHERE",
+        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
       "artists": [
         {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 195942,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
+      "duration_ms": 182300,
+      "name": "Sunday (feat. HEIZE, Jay Park)",
+      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
     },
     {
       "added_at": "2024-11-29 09:19:47",
@@ -967,6 +971,26 @@
     {
       "added_at": "2024-11-29 09:19:47",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/4MolsOrmb3pU7jKghkFZyr"
+      },
+      "artists": [
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 195942,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/2LLkJ46RvmYlkqduRgK1Nn"
+    },
+    {
+      "added_at": "2024-11-29 09:19:47",
+      "album": {
         "name": "And July",
         "url": "https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E"
       },
@@ -983,30 +1007,6 @@
       "duration_ms": 199281,
       "name": "Shut Up & Groove",
       "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"
-    },
-    {
-      "added_at": "2024-11-29 09:19:47",
-      "album": {
-        "name": "EVERYWHERE",
-        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
-      },
-      "artists": [
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 182300,
-      "name": "Sunday (feat. HEIZE, Jay Park)",
-      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
     }
   ],
   "unique_name": "\uac10\uc131\ud799\ud569",

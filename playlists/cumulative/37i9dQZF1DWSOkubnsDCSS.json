@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4Y3vUk3MmlqPFNzrYicR6Q"
+      },
+      "artists": [
+        {
+          "name": "Ferrenzo",
+          "url": "https://open.spotify.com/artist/1vLtMvP47FxY9Z7rptx2FJ"
+        },
+        {
+          "name": "DeeRiginal",
+          "url": "https://open.spotify.com/artist/7MkdDRirzB2d9UZh6ZMb8p"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125505,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1qKFKUlr1RTmcwJkIxemv2"
+    },
+    {
+      "album": {
         "name": "Always Gonna Be",
         "url": "https://open.spotify.com/album/3IH8xZ12Glor4xjAF19Q6r"
       },
@@ -254,6 +276,36 @@
       "duration_ms": 128000,
       "name": "Back on Smoke",
       "url": "https://open.spotify.com/track/05veVlexxRBQslZSFIak3E"
+    },
+    {
+      "album": {
+        "name": "Back2Back",
+        "url": "https://open.spotify.com/album/5QyFo2mJ58MW1OVyM0Xp7D"
+      },
+      "artists": [
+        {
+          "name": "Lil Shakz",
+          "url": "https://open.spotify.com/artist/6NTFw23TXLxIhJaBokrhIG"
+        },
+        {
+          "name": "YaroAlways",
+          "url": "https://open.spotify.com/artist/7wykSIfmDzQ6QiRkzXwLl5"
+        },
+        {
+          "name": "Silencer",
+          "url": "https://open.spotify.com/artist/11wflxoa3fmGng1xTbZ8LE"
+        },
+        {
+          "name": "The Heavytrackerz",
+          "url": "https://open.spotify.com/artist/6aTCNF8JTH5TFs9rheknQB"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Back2Back",
+      "url": "https://open.spotify.com/track/1JEpTpdCF5CuM9qhH7JAkr"
     },
     {
       "album": {
@@ -971,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Check Dis",
+        "url": "https://open.spotify.com/album/5BW7q1epzfJ3JWplkTqk6m"
+      },
+      "artists": [
+        {
+          "name": "Twenty'8",
+          "url": "https://open.spotify.com/artist/0rQFPuJq7wkvQny90lguiu"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149188,
+      "name": "Check Dis",
+      "url": "https://open.spotify.com/track/1lyIwetPEavr3TuSVwaHxN"
+    },
+    {
+      "album": {
         "name": "Cheque",
         "url": "https://open.spotify.com/album/5kDlQTVAUh3nNu2AG2pmHR"
       },
@@ -1182,7 +1252,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 152908,
       "name": "Come Off It",
       "url": "https://open.spotify.com/track/3aBbmuItelzZOxhPTuN9l6"
@@ -1724,7 +1794,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 152819,
       "name": "Ease",
       "url": "https://open.spotify.com/track/6PMWIWbHAS6kpfViRuixTs"
@@ -3453,6 +3523,28 @@
     },
     {
       "album": {
+        "name": "Numbers Game",
+        "url": "https://open.spotify.com/album/62aq3R5eNgC9z2GEBbxvqa"
+      },
+      "artists": [
+        {
+          "name": "Kruz Leone",
+          "url": "https://open.spotify.com/artist/2pXOtGRpnXJJfzEUddqKcC"
+        },
+        {
+          "name": "Hayzee",
+          "url": "https://open.spotify.com/artist/5rNdhxHoMhz6vbSpHLDoFc"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Numbers Game",
+      "url": "https://open.spotify.com/track/3hQoUZ6VVKWnJiLkLq7k1i"
+    },
+    {
+      "album": {
         "name": "Big Slide Tackle",
         "url": "https://open.spotify.com/album/1tSrfr93nQw8zSfGR6a648"
       },
@@ -3472,7 +3564,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 195428,
       "name": "O.T Trips",
       "url": "https://open.spotify.com/track/56bPo1Gx7Gs9vYhshsjVsK"
@@ -4485,7 +4577,7 @@
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 150857,
+      "duration_ms": 125142,
       "name": "Stand On Business",
       "url": "https://open.spotify.com/track/345pLSIrBK565YTprarmiS"
     },
@@ -4550,10 +4642,32 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 199500,
       "name": "Street Fighter",
       "url": "https://open.spotify.com/track/6kSfmcGrDLsWkQuf4iMhY8"
+    },
+    {
+      "album": {
+        "name": "Streets Of Rage",
+        "url": "https://open.spotify.com/album/7JSFtsnMVxEfk4gToZYM1t"
+      },
+      "artists": [
+        {
+          "name": "Drone",
+          "url": "https://open.spotify.com/artist/0shWQ9M3KOAHMv2W9lMecN"
+        },
+        {
+          "name": "Kyeza",
+          "url": "https://open.spotify.com/artist/1WviCphVQaAq8iYfr52967"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251292,
+      "name": "Streets Of Rage",
+      "url": "https://open.spotify.com/track/4o1fiAhnayXFvxwHNmxlcB"
     },
     {
       "album": {
@@ -4786,7 +4900,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 206117,
       "name": "Test This",
       "url": "https://open.spotify.com/track/3cxryw4IRMSTToRUUIwmlJ"

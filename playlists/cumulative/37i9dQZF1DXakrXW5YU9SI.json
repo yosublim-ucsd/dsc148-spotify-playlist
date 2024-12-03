@@ -2750,7 +2750,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 159752,
       "name": "Mr. Believer",
       "url": "https://open.spotify.com/track/51zWdMMHdddlM7SevmSzZ6"
@@ -3690,6 +3690,24 @@
       "duration_ms": 228369,
       "name": "Powiedz mi jak?",
       "url": "https://open.spotify.com/track/4RKILntw38FZRyfOU6VGUt"
+    },
+    {
+      "album": {
+        "name": "Poznajmy si\u0119",
+        "url": "https://open.spotify.com/album/0UMXfWzWNE3igHGxOPbDXt"
+      },
+      "artists": [
+        {
+          "name": "Kacper Andrzejewski",
+          "url": "https://open.spotify.com/artist/7ctFnHDhMOyVORjHPsUf0N"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Poznajmy si\u0119",
+      "url": "https://open.spotify.com/track/0jyyqdqmA5ycu3FRXc86ZL"
     },
     {
       "album": {

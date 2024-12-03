@@ -4,7 +4,7 @@
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-252 songs - 14 hr 42 min
+253 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [10 Ngàn Năm](https://open.spotify.com/track/76KYaCx7UjHwlnrqzcovLZ) | [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0) | [10 Ngàn Năm](https://open.spotify.com/album/1LkA7FjIQpuZBgxdd3nNvF) | 4:00 | 2023-10-19 | 2024-10-10 |
 | [12345 \(feat\. JGKiD\)](https://open.spotify.com/track/0R2MTQjHh6lmOCiVgnHiFW) | [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW), [JGKiD \(Da LAB\)](https://open.spotify.com/artist/3mYnd5Nlmdpg4D9rbAqNUD) | [12345 \(feat\. JGKiD\)](https://open.spotify.com/album/6RqGKs0rcnoY9bos3Oi3fb) | 3:35 | 2023-12-08 | 2024-02-12 |
 | [2014](https://open.spotify.com/track/5juq95pMEYdSzCXKYR5J69) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [2014](https://open.spotify.com/album/0yQFVTaw2VtsxsudX9JmFr) | 3:34 | 2024-05-23 | 2024-06-04 |
-| [29](https://open.spotify.com/track/5AsZiMkbxLlR68WM3HHKWZ) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Mason Nguyen](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 2:38 | 2024-11-21 |  |
+| [29](https://open.spotify.com/track/5AsZiMkbxLlR68WM3HHKWZ) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Mason Nguyen](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 2:38 | 2024-11-21 | 2024-12-03 |
 | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nâu](https://open.spotify.com/artist/5zifyPCJIZxUBhVq7AydsT) | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK) | 3:52 | 2023-10-19 | 2024-04-19 |
 | [5050](https://open.spotify.com/track/7aELHm28pobrp3RyazUjmw) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [5050](https://open.spotify.com/album/6gJOJVYAeaJ9F8rvrs1vpz) | 3:06 | 2024-03-11 | 2024-03-21 |
 | [A Veil of Mist](https://open.spotify.com/track/37PyxXH5vlbNcYwxOHbfFn) | [SPACESPEAKERS](https://open.spotify.com/artist/23jUmiOyAG9Dzq6Ayp9LUG), [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw), [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [KOSMIK](https://open.spotify.com/album/22YHa0g0LTJ9kjQ03me248) | 5:02 | 2023-10-19 | 2023-11-03 |
@@ -207,6 +207,7 @@
 | [Thanh Xuân](https://open.spotify.com/track/3b34161QoxLwsqhWSPy9i5) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thanh Xuân](https://open.spotify.com/album/2S83wtOFg3NgQbyo3Lswkw) | 3:40 | 2023-10-19 | 2024-10-04 |
 | [Thay Đổi](https://open.spotify.com/track/3tJC3m7HJ6Y5XoKGEkc5vt) | [Lil Wuyn](https://open.spotify.com/artist/3Wj34lTDJnPp70u4YCl4jz) | [An](https://open.spotify.com/album/0J9ZJ2vnTHm4NpzKVE779w) | 3:15 | 2024-06-12 | 2024-06-18 |
 | [Thiêu Thân](https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r) | [B Ray](https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9), [Sofia](https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thiêu Thân](https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9) | 3:18 | 2024-06-12 |  |
+| [Thèn Chóa](https://open.spotify.com/track/1wG0HYACxdu3Kdz3mI4ca6) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [KayC](https://open.spotify.com/artist/3EkXXkwTWhJpPDJR4ME3D8) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 4:04 | 2024-11-28 |  |
 | [Thích Chơi Hong?](https://open.spotify.com/track/0KTBczlyQ93sWe4T1DGjnH) | [Gill](https://open.spotify.com/artist/5Hv9MhUFvGlYurce5BDRUh) | [Thích Chơi Hong?](https://open.spotify.com/album/7K2OqXtLOw35RI2cIc79wD) | 2:55 | 2024-06-30 | 2024-07-12 |
 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 | 2023-10-19 |  |
 | [Thư Gửi Mẹ](https://open.spotify.com/track/6l17suq4g7v7n7oeT4f2nw) | [Tez](https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9) | [Thư Gửi Mẹ](https://open.spotify.com/album/4jVzsgaxE1y5dGbQ3QzOKB) | 3:33 | 2024-02-11 | 2024-02-16 |

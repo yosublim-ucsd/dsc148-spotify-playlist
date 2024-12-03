@@ -1,6 +1,6 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 211541,
+  "num_followers": 211543,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Lunch Money",
-        "url": "https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH"
-      },
-      "artists": [
-        {
-          "name": "Stefan Sands",
-          "url": "https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Lunch Money",
-      "url": "https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Every Kind Of Mood (Randy, Randi, Randee)",
         "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 270760,
       "name": "Almaz",
       "url": "https://open.spotify.com/track/5iXdDUmuxBVQwECctRzn5z"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Lunch Money",
+        "url": "https://open.spotify.com/album/7qHDGVGFUcvHQXTJk8nJbH"
+      },
+      "artists": [
+        {
+          "name": "Stefan Sands",
+          "url": "https://open.spotify.com/artist/63iNYBnrXorH2RsjM1KOfv"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Lunch Money",
+      "url": "https://open.spotify.com/track/10S01uv0T98EkLDtZgohhm"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Friends In Love",
-        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 298946,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Black Diamond (Deluxe Edition)",
         "url": "https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 200174,
       "name": "Heaven Help",
       "url": "https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Friends In Love",
+        "url": "https://open.spotify.com/album/2cTcWY4AibpkqpwbUjJmuK"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 298946,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5LvUhG3juSj0TnCoHifKd7"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Chill Factor",
-        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "This Could Be Real",
-      "url": "https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 333133,
       "name": "New York State Of Mind",
       "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Chill Factor",
+        "url": "https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "This Could Be Real",
+      "url": "https://open.spotify.com/track/7HKEVy7TpNKIAZ9o79KSOC"
     },
     {
       "added_at": "2024-07-03 15:11:44",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-07-03 15:11:44",
       "album": {
-        "name": "Lovin' you Is Easy",
-        "url": "https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa"
-      },
-      "artists": [
-        {
-          "name": "Maysa",
-          "url": "https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC"
-        }
-      ],
-      "duration_ms": 245159,
-      "name": "Lovin' you Is Easy",
-      "url": "https://open.spotify.com/track/591hJcYCBItu3Io608n5fv"
-    },
-    {
-      "added_at": "2024-07-03 15:11:44",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 205868,
       "name": "Changes",
       "url": "https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn"
+    },
+    {
+      "added_at": "2024-07-03 15:11:44",
+      "album": {
+        "name": "Lovin' you Is Easy",
+        "url": "https://open.spotify.com/album/79fVfipQ1lVzNCmbhBOiKa"
+      },
+      "artists": [
+        {
+          "name": "Maysa",
+          "url": "https://open.spotify.com/artist/6XGfdDOtv4mLiHnHwrZhDC"
+        }
+      ],
+      "duration_ms": 245159,
+      "name": "Lovin' you Is Easy",
+      "url": "https://open.spotify.com/track/591hJcYCBItu3Io608n5fv"
     },
     {
       "added_at": "2024-07-03 15:11:44",

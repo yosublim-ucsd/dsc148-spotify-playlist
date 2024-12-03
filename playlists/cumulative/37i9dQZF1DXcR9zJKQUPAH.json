@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "Airplane Mode",
       "url": "https://open.spotify.com/track/69GQG5cXGUFq4dqCbExWui"
@@ -320,7 +320,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 204208,
       "name": "Beige",
       "url": "https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 158474,
       "name": "Down the Line",
       "url": "https://open.spotify.com/track/15eduSFXnQfnQvcmWHDBPi"
@@ -2296,7 +2296,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 205586,
       "name": "Ran",
       "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"

@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 149195,
       "name": "1900's",
       "url": "https://open.spotify.com/track/79XRUITVajhW5Snn7WF3YQ"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 148053,
       "name": "ALL RED",
       "url": "https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 163533,
       "name": "Another Life (Marcus & Martinus vs VIZE)",
       "url": "https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 195573,
       "name": "Autiomaa",
       "url": "https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 203960,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -1226,7 +1226,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 205400,
       "name": "Bouquet",
       "url": "https://open.spotify.com/track/2enUDT2dlL5o3NXB7f7L8E"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 131203,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/3AyUhZkvbQ8ZBSq3hbWrhp"
@@ -1439,7 +1439,7 @@
     },
     {
       "album": {
-        "name": "Cats On The Ceiling",
+        "name": "Cats on the Ceiling",
         "url": "https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow"
       },
       "artists": [
@@ -1450,9 +1450,9 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 213080,
-      "name": "Cats On The Ceiling",
+      "name": "Cats on the Ceiling",
       "url": "https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P"
     },
     {
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 157937,
       "name": "Darkerside",
       "url": "https://open.spotify.com/track/3b1s3Ywg0laGsNHCpUBhrl"
@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 181716,
       "name": "Dead Presidents",
       "url": "https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA"
@@ -2588,7 +2588,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-19",
+      "date_removed": null,
       "duration_ms": 184500,
       "name": "Empire",
       "url": "https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH"
@@ -2792,7 +2792,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 165079,
       "name": "Eurostar",
       "url": "https://open.spotify.com/track/6uDqKkOeYnE7W1KZMMBPve"
@@ -2998,8 +2998,8 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
-      "duration_ms": 172339,
+      "date_removed": null,
+      "duration_ms": 172712,
       "name": "Filthy Rich",
       "url": "https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM"
     },
@@ -3020,7 +3020,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 215583,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
@@ -3269,6 +3269,24 @@
     },
     {
       "album": {
+        "name": "Freedom Of The Night",
+        "url": "https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192466,
+      "name": "Freedom Of The Night",
+      "url": "https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu"
+    },
+    {
+      "album": {
         "name": "Freestyler (Rock The Microphone)",
         "url": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc"
       },
@@ -3284,7 +3302,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 174000,
       "name": "Freestyler (Rock The Microphone)",
       "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
@@ -3640,7 +3658,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 245435,
       "name": "Happy Mistake",
       "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
@@ -4046,7 +4064,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 279429,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
@@ -4414,7 +4432,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-20",
+      "date_removed": null,
       "duration_ms": 249530,
       "name": "I Never Loved You",
       "url": "https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l"
@@ -4458,7 +4476,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 184560,
       "name": "I'd Rather Pretend (with d4vd)",
       "url": "https://open.spotify.com/track/1NHflT1W5O7fntEXN9rfe9"
@@ -4636,7 +4654,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 196837,
       "name": "Iha miten vaa",
       "url": "https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC"
@@ -4902,7 +4920,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 156521,
       "name": "It's ok I'm ok",
       "url": "https://open.spotify.com/track/24XihnoVPWXlKJ4BgXqjVM"
@@ -5112,7 +5130,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 260997,
       "name": "just stand there",
       "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
@@ -5912,7 +5930,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
@@ -6952,7 +6970,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 180058,
       "name": "Miten sut mielest poistetaan",
       "url": "https://open.spotify.com/track/2FMNFfVVGy7ntA0fbBb4n1"
@@ -7298,7 +7316,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 203650,
       "name": "My World",
       "url": "https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF"
@@ -7440,7 +7458,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-15",
+      "date_removed": null,
       "duration_ms": 170021,
       "name": "Ne oli v\u00e4\u00e4r\u00e4s (feat. Turisti)",
       "url": "https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb"
@@ -7484,7 +7502,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
@@ -7920,7 +7938,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 169500,
       "name": "Omega (feat. Ralphie Choo)",
       "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
@@ -8264,7 +8282,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 167148,
       "name": "passenger side",
       "url": "https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU"
@@ -8304,6 +8322,28 @@
       "duration_ms": 172719,
       "name": "People Still Show Up",
       "url": "https://open.spotify.com/track/6RifRYhCPJhpNXTr8iCkpA"
+    },
+    {
+      "album": {
+        "name": "Perhosii",
+        "url": "https://open.spotify.com/album/7HZ2zhxQNNumIGPaanLevu"
+      },
+      "artists": [
+        {
+          "name": "James-J",
+          "url": "https://open.spotify.com/artist/26bXkdCOQ0zRgxWgGOkkg1"
+        },
+        {
+          "name": "Jennika Vikman",
+          "url": "https://open.spotify.com/artist/7GVpPjlP6LVjlTZXvDmRFU"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168163,
+      "name": "Perhosii",
+      "url": "https://open.spotify.com/track/3ws6TcBv56ckxojpxoDjNA"
     },
     {
       "album": {
@@ -9252,7 +9292,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 209077,
       "name": "S P E Y S I D E",
       "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
@@ -9342,7 +9382,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 145053,
       "name": "Sata shottii",
       "url": "https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO"
@@ -9472,7 +9512,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 197542,
       "name": "Silverlines - prod. Labrinth",
       "url": "https://open.spotify.com/track/1BK1d7b9bhlbKpQPbYGsol"
@@ -9570,7 +9610,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
@@ -9606,7 +9646,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 179854,
       "name": "SOMEONE TO YOU",
       "url": "https://open.spotify.com/track/5TRueIWflmHqxe997vpwJY"
@@ -9642,7 +9682,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 187507,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU"
@@ -9722,7 +9762,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 167621,
       "name": "Spot a Fake",
       "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
@@ -9740,7 +9780,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
@@ -9816,7 +9856,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
@@ -10140,7 +10180,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 172282,
       "name": "Sweet Delusion",
       "url": "https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h"
@@ -10270,7 +10310,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 176788,
       "name": "Taikuri",
       "url": "https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3"
@@ -10328,7 +10368,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 173076,
       "name": "Talk talk featuring troye sivan",
       "url": "https://open.spotify.com/track/2LUD3874dlzeRa34Hi7ohW"
@@ -10422,7 +10462,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
@@ -10614,7 +10654,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 154841,
       "name": "this is what forever feels like (with Nick Jonas)",
       "url": "https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D"
@@ -11228,7 +11268,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 239986,
       "name": "Una Velita",
       "url": "https://open.spotify.com/track/059qzhNaJb8tsqpdl2bHfF"
@@ -11546,7 +11586,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 191250,
       "name": "VHS RAVE",
       "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
@@ -11846,7 +11886,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 131612,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY"

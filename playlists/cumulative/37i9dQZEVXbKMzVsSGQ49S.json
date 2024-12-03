@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 135000,
       "name": "Aldrei of seint",
       "url": "https://open.spotify.com/track/64G6LcehgioFPs03gzbIv0"
@@ -2979,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "J\u00f3lasn\u00e6r",
+        "url": "https://open.spotify.com/album/7ag5VU73uXExD4lFeCalxb"
+      },
+      "artists": [
+        {
+          "name": "\u00de\u00fa og \u00e9g",
+          "url": "https://open.spotify.com/artist/6dHnoL2eDy2jdtEPmDf8w5"
+        },
+        {
+          "name": "\u00c9g",
+          "url": "https://open.spotify.com/artist/3nHx96DWe1AV86Vb49vbIA"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222725,
+      "name": "A\u00f0fangadagskv\u00f6ld",
+      "url": "https://open.spotify.com/track/2ifjjqtgjsn0xDiQ4u2LZZ"
+    },
+    {
+      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -4350,7 +4372,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -14986,7 +15008,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 224072,
       "name": "Gle\u00f0i og fri\u00f0arj\u00f3l",
       "url": "https://open.spotify.com/track/7znHeSOkpkYNF3FhiHwFta"
@@ -18417,6 +18439,24 @@
     },
     {
       "album": {
+        "name": "J\u00f3lastrengir",
+        "url": "https://open.spotify.com/album/5Dnajp93zScyAWst6QYRAY"
+      },
+      "artists": [
+        {
+          "name": "Egill \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/4EYftd8N7pujRjEkIxAZbE"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124180,
+      "name": "H\u00e1t\u00ed\u00f0 \u00ed b\u00e6",
+      "url": "https://open.spotify.com/track/215PRYb4XK5OHe0lD7Hajj"
+    },
+    {
+      "album": {
         "name": "S\u00f6ngvakeppnin 2022",
         "url": "https://open.spotify.com/album/1SZxfKraoJgUaqcxT3xdvi"
       },
@@ -20074,7 +20114,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -20092,7 +20132,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 151933,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/5hslUAKq9I9CG2bAulFkHN"
@@ -20360,7 +20400,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -20378,7 +20418,7 @@
       ],
       "date_added": "2024-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 133426,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/6TkXViJUO3SA6FMcrNwlD9"
@@ -20814,6 +20854,24 @@
       "duration_ms": 227091,
       "name": "J\u00f3lastund",
       "url": "https://open.spotify.com/track/3k3JOzKAMqaVjYFXf2Oglg"
+    },
+    {
+      "album": {
+        "name": "Rokk og j\u00f3l",
+        "url": "https://open.spotify.com/album/1j2YBhkaejLYwljXCIcmjC"
+      },
+      "artists": [
+        {
+          "name": "Stu\u00f0kompan\u00edi\u00f0",
+          "url": "https://open.spotify.com/artist/3YGM4VIDzK3XhMfd9acCXC"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229506,
+      "name": "J\u00f3lastund",
+      "url": "https://open.spotify.com/track/5uz4WfdEWnvqwEPXxYk05m"
     },
     {
       "album": {
@@ -21630,6 +21688,24 @@
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "album": {
+        "name": "Komdu um j\u00f3lin",
+        "url": "https://open.spotify.com/album/3iJixDJYLkG6jxwkgVlajk"
+      },
+      "artists": [
+        {
+          "name": "Gunnar \u00d3lason",
+          "url": "https://open.spotify.com/artist/1TwnyOTSWJl910xTFZwJUk"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233824,
+      "name": "Komdu um j\u00f3lin",
+      "url": "https://open.spotify.com/track/6zN8LsOE6lMq73nXAgVHMw"
     },
     {
       "album": {
@@ -24566,7 +24642,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -30664,7 +30740,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 168040,
       "name": "POPPSTIRNI",
       "url": "https://open.spotify.com/track/6BSGXVXtz8EMyyoSMcA1z8"
@@ -31054,7 +31130,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 151034,
       "name": "prettyboi um j\u00f3lin",
       "url": "https://open.spotify.com/track/1b5uWFxqByS6LvcXIMQBrz"
@@ -33280,7 +33356,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -46716,6 +46792,24 @@
       "duration_ms": 203373,
       "name": "\u00deEGAR ALLIR ERU FARNIR",
       "url": "https://open.spotify.com/track/3bfMkmcW0hMUCRYNbkC7AY"
+    },
+    {
+      "album": {
+        "name": "\u00deegar J\u00f3lin Koma",
+        "url": "https://open.spotify.com/album/1JkWNZPoyTysAu2zO0j9Pe"
+      },
+      "artists": [
+        {
+          "name": "ICEGUYS",
+          "url": "https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212989,
+      "name": "\u00deegar J\u00f3lin Koma",
+      "url": "https://open.spotify.com/track/2vHxw3Mne6cZqCbWxyXVit"
     },
     {
       "album": {

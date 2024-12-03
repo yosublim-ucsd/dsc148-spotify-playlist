@@ -1,53 +1,13 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 115593,
+  "num_followers": 115606,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAAApbuUMI4E1Xv4fhcP5xBqc",
+  "snapshot_id": "Z0unAAAAAAB4Ajydzv6gAVmc3NWj/P2n",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00eddia",
-        "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Viper",
-          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        },
-        {
-          "name": "A$IX",
-          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
-        }
-      ],
-      "duration_ms": 233181,
-      "name": "M\u00eddia",
-      "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
-    },
     {
       "added_at": null,
       "album": {
@@ -111,6 +71,46 @@
       "duration_ms": 783117,
       "name": "Let's Go 5",
       "url": "https://open.spotify.com/track/1noFyrFs89ASUPka2azbD9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00eddia",
+        "url": "https://open.spotify.com/album/38bex60lwknBwpKgm5UftQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Viper",
+          "url": "https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+        },
+        {
+          "name": "A$IX",
+          "url": "https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP"
+        }
+      ],
+      "duration_ms": 233181,
+      "name": "M\u00eddia",
+      "url": "https://open.spotify.com/track/50pwAhCkMmqM16ZeTx6I1y"
     },
     {
       "added_at": null,
@@ -1219,26 +1219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me D\u00e1 Sua M\u00e3o",
-        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "Me D\u00e1 Sua M\u00e3o",
-      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
         "url": "https://open.spotify.com/album/4l6121oWYQpNwTDUL95wuy"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 155611,
       "name": "Puxando Lan\u00e7a no Barco Cheio de Piranha",
       "url": "https://open.spotify.com/track/4X2CzIGItTPTwJpAmT32Mb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me D\u00e1 Sua M\u00e3o",
+        "url": "https://open.spotify.com/album/2TPngKT3Xh3JMDpwcPrwqB"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "Me D\u00e1 Sua M\u00e3o",
+      "url": "https://open.spotify.com/track/3by89k8zGClgmQgz9SbtKp"
     },
     {
       "added_at": null,
@@ -1395,6 +1395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Novinha Gostosa",
+        "url": "https://open.spotify.com/album/5Ud3mT8253HW0NfeVheEjG"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        }
+      ],
+      "duration_ms": 149002,
+      "name": "Novinha Gostosa",
+      "url": "https://open.spotify.com/track/48IZMU43BfTfdT8KijmYk5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Falc\u00e3o do Morro",
         "url": "https://open.spotify.com/album/7dAgNIIV8VVzZFCDSbpnlG"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 244000,
       "name": "Blogueira",
       "url": "https://open.spotify.com/track/5BuFyXTbnTxhR0WlztMjww"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Novinha Gostosa",
-        "url": "https://open.spotify.com/album/5Ud3mT8253HW0NfeVheEjG"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        }
-      ],
-      "duration_ms": 149002,
-      "name": "Novinha Gostosa",
-      "url": "https://open.spotify.com/track/48IZMU43BfTfdT8KijmYk5"
     },
     {
       "added_at": null,

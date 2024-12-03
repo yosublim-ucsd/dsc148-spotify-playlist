@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-131 songs - 6 hr 51 min
+132 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Gidha Kiwe Payida 2.0](https://open.spotify.com/track/4K4kGoqdM1XToFMtoOL1Gf) | [Ammie Papra](https://open.spotify.com/artist/3yi9bsstNojIMIDvCeBZMs) | [Gidha Kiwe Payida 2.0](https://open.spotify.com/album/6iQxUOMj3H7hyr5yVwnkYL) | 3:32 | 2024-09-28 | 2024-11-12 |
 | [Glassy](https://open.spotify.com/track/0IeIYYW7KFt5sKbAVAwuyX) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6) | [RESUME](https://open.spotify.com/album/46JNBkfOGwjJ5HS39wNWrX) | 3:03 | 2024-10-24 |  |
 | [Gutt](https://open.spotify.com/track/6WwlMsdEoHYH6cM9SLGmTF) | [Sippy G](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Circus](https://open.spotify.com/album/1JvUk6aapPqW8fgFLpDJCc) | 3:00 | 2024-10-16 |  |
+| [Haal Chal \- From "Bapu Ni Manda Mera"](https://open.spotify.com/track/0N4nLyKvsllypMWLVELxzV) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm) | [Haal Chal \(From "Bapu Ni Manda Mera"\)](https://open.spotify.com/album/0ePWEKhCdb0nEo9nY6zQcn) | 3:34 | 2024-12-02 |  |
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 | 2023-12-19 |
 | [It Ain't Legal](https://open.spotify.com/track/0i7w67qCK2iCDtraKCshXZ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [B.T.F.U](https://open.spotify.com/album/1qH7e7TaKxpHxu4mGxofDs) | 3:34 | 2022-07-05 | 2024-04-19 |
 | [It Ain't Legal](https://open.spotify.com/track/3Fr1WmziIKmhU9s5fNKZrQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 3:34 | 2021-12-18 |  |
@@ -121,7 +122,7 @@
 | [Surma](https://open.spotify.com/track/2EKPi0tqWGoCMRUm0OimC1) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N), [Raj Shoker](https://open.spotify.com/artist/1Na1S8hKokfgUHipxLLx59) | [Surma](https://open.spotify.com/album/0mynneCJOCqAWYEW8Eg6JM) | 3:38 | 2021-12-18 | 2022-01-11 |
 | [Talent](https://open.spotify.com/track/0EeKOCYS9jaOLaqYyWvq9N) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3), [Mahi](https://open.spotify.com/artist/2d8qE6GstnxgGtOd36VVrs) | [Talent](https://open.spotify.com/album/5dismcE2Q67SiWDKJegivO) | 3:12 | 2024-04-05 | 2024-05-17 |
 | [Talja](https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:12 | 2021-12-18 |  |
-| [Taur](https://open.spotify.com/track/36rHMZtn1m5BsBkOOCf7l0) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Taur](https://open.spotify.com/album/4qT64NdvLkejlbqsJvZs5T) | 2:46 | 2023-07-26 |  |
+| [Taur](https://open.spotify.com/track/36rHMZtn1m5BsBkOOCf7l0) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Taur](https://open.spotify.com/album/4qT64NdvLkejlbqsJvZs5T) | 2:46 | 2023-07-26 | 2024-12-03 |
 | [Tera Canada](https://open.spotify.com/track/7ghypi2mLGlUPzwbcfPTNe) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Jang Dhillon](https://open.spotify.com/artist/04h37X9hVdRuKEbl2y9naq) | [Tera Canada](https://open.spotify.com/album/01bK2JE8QRNyNA6Tb79j3Z) | 3:20 | 2023-09-01 | 2024-02-01 |
 | [These Days \(feat\. Bohemia\)](https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:29 | 2021-12-18 | 2023-09-02 |
 | [Throughout India](https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Throughout India](https://open.spotify.com/album/1ttVBeIUtxc9tL0aYcCUgG) | 2:25 | 2023-12-18 | 2024-10-05 |

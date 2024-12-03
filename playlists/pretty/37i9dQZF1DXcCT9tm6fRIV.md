@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,936 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,966 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 25 | [Adiós Nonino](https://open.spotify.com/track/5vpv1rlqDVfhC5A65XraAN) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg) | [Astor Piazzolla en el Colón](https://open.spotify.com/album/0UIKbjYqLwBMZL08aPtmZr) | 10:55 |
 | 26 | [Valsecito Criollo](https://open.spotify.com/track/4ssSpLiLyPMpd7vKb6Pi6z) | [Juan D'Arienzo](https://open.spotify.com/artist/46beGPwcX2QEZcmuvrMqp4) | [Tango Collection](https://open.spotify.com/album/1PVv7CoAyEKcXdTigwDzQ6) | 2:20 |
 | 27 | [Por una Cabeza](https://open.spotify.com/track/3Z34yqQzVeD8wExZGCw9po) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 1: Gardel y Le Pera](https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ) | 2:34 |
-| 28 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 |
-| 29 | [Anclao En Paris](https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [20 Grandes Exitos](https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu) | 2:20 |
-| 30 | [El Gordo Triste \- En Vivo Teatro Regina 1982](https://open.spotify.com/track/4NCwFtSg0LkfOvqZ0pLIco) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A) | [Astor Piazzolla/ Roberto Goyeneche](https://open.spotify.com/album/5kDCvZPwvMMLZvHmGWo8dr) | 4:00 |
-| 31 | [Romance de barrio](https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Manzi, caminos de barro y pampa](https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG) | 3:36 |
+| 28 | [Anclao En Paris](https://open.spotify.com/track/7GjdsIX9ScWku6wCsZsfIM) | [Rubén Juárez](https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p) | [20 Grandes Exitos](https://open.spotify.com/album/0oFTFL7uMIMgPsFEjB3Aqu) | 2:20 |
+| 29 | [Los Mareados](https://open.spotify.com/track/03bPLvobYz452ePAEksJgY) | [Raúl Lavié](https://open.spotify.com/artist/2GFIX098sqpvCSY9ZQHI4D) | [Raul Lavié\-Los Elegidos](https://open.spotify.com/album/1AztB8HKYIcxdDSgPte8SV) | 2:38 |
+| 30 | [Romance de barrio](https://open.spotify.com/track/7xqxRNSEGMhdsVMmxLq36e) | [Lidia Borda](https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt) | [Manzi, caminos de barro y pampa](https://open.spotify.com/album/04xMcitxnH4R1eoBImqVKG) | 3:36 |
+| 31 | [El Gordo Triste \- En Vivo Teatro Regina 1982](https://open.spotify.com/track/4NCwFtSg0LkfOvqZ0pLIco) | [Astor Piazzolla](https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg), [Roberto Goyeneche](https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A) | [Astor Piazzolla/ Roberto Goyeneche](https://open.spotify.com/album/5kDCvZPwvMMLZvHmGWo8dr) | 4:00 |
 | 32 | [Flor de lino \- Live](https://open.spotify.com/track/2tRGXFttLgMv9MoSiODPBc) | [Horacio Molina](https://open.spotify.com/artist/68swBzVNVKLgWAPFOFkeWs) | [A Pedido](https://open.spotify.com/album/32ccNydgpz3UnkkCMzEMY9) | 3:31 |
 | 33 | [Como Dos Extraños](https://open.spotify.com/track/2KjkU7YZX04oml0VRr9kqj) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD) | [..\. Tangamente](https://open.spotify.com/album/4B60jIPooAY6gTBMkUwfCu) | 2:44 |
 | 34 | [Yuyo Verde](https://open.spotify.com/track/7AYunCgwVKF1oh2k7f653e) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [En El Underground](https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o) | 3:25 |

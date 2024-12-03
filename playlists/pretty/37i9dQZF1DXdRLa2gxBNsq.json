@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: RADIOCRIMEN.",
-  "num_followers": 108869,
+  "num_followers": 108889,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Ladr\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
-      },
-      "artists": [
-        {
-          "name": "Arpaviejas",
-          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
-        }
-      ],
-      "duration_ms": 194192,
-      "name": "El Mes\u00edas",
-      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Ni Descanso, Ni Paz!",
         "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 137102,
       "name": "Ni Descanso, Ni Paz!",
       "url": "https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Ladr\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/6NxQYmLaVay641q8RtK37A"
+      },
+      "artists": [
+        {
+          "name": "Arpaviejas",
+          "url": "https://open.spotify.com/artist/3p4ATdrRNiaczZdnPeZlqA"
+        }
+      ],
+      "duration_ms": 194192,
+      "name": "El Mes\u00edas",
+      "url": "https://open.spotify.com/track/22M4EmsybRYNbrlOSFffG7"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "A Cara de Perro",
-        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Escupir\u00e9 Jodidos",
-      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Confrontaci\u00f3n",
         "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 195049,
       "name": "Enemigo a las Puertas",
       "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "A Cara de Perro",
+        "url": "https://open.spotify.com/album/1KS57v7kUcLPK0M0Jv70nN"
+      },
+      "artists": [
+        {
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Escupir\u00e9 Jodidos",
+      "url": "https://open.spotify.com/track/1FB1Kk4ZmkNu11toR5BWwm"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Habitamos el vertedero",
-        "url": "https://open.spotify.com/album/1SQkzdMFNhbRdCCIw6PMv3"
+        "name": "Ansiedad",
+        "url": "https://open.spotify.com/album/36ftqyQD5p80hNZz2fBcB4"
       },
       "artists": [
         {
-          "name": "El Destello",
-          "url": "https://open.spotify.com/artist/5wD750GwDjY6P7zAYKKSof"
+          "name": "En Vano",
+          "url": "https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc"
         }
       ],
-      "duration_ms": 125769,
-      "name": "Habitamos el vertedero",
-      "url": "https://open.spotify.com/track/3KGHL7QRZxHuc478F9mBCO"
+      "duration_ms": 192147,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/4AjArGDik0KI3XaLG1Z8Xt"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1319,34 +1319,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Ansiedad",
-        "url": "https://open.spotify.com/album/36ftqyQD5p80hNZz2fBcB4"
+        "name": "Habitamos el vertedero",
+        "url": "https://open.spotify.com/album/1SQkzdMFNhbRdCCIw6PMv3"
       },
       "artists": [
         {
-          "name": "En Vano",
-          "url": "https://open.spotify.com/artist/6D7YCAhBO7dD77ld8CkbDc"
+          "name": "El Destello",
+          "url": "https://open.spotify.com/artist/5wD750GwDjY6P7zAYKKSof"
         }
       ],
-      "duration_ms": 192147,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/4AjArGDik0KI3XaLG1Z8Xt"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Vieja Guardia",
-        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 170585,
-      "name": "Vieja Guardia",
-      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
+      "duration_ms": 125769,
+      "name": "Habitamos el vertedero",
+      "url": "https://open.spotify.com/track/3KGHL7QRZxHuc478F9mBCO"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 232307,
       "name": "Lev\u00e1ntate",
       "url": "https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Vieja Guardia",
+        "url": "https://open.spotify.com/album/2AjGjQVm6mEf7WHrV3AdNl"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 170585,
+      "name": "Vieja Guardia",
+      "url": "https://open.spotify.com/track/3CQUCe0b3Aw3JAHe8Lax8s"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Cien Colores",
-        "url": "https://open.spotify.com/album/6PgFqXwfJPQcJ5gQlK2V4L"
-      },
-      "artists": [
-        {
-          "name": "La Inquisici\u00f3n",
-          "url": "https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ"
-        }
-      ],
-      "duration_ms": 170471,
-      "name": "Cien Colores",
-      "url": "https://open.spotify.com/track/6pEb4CdkThMdqD0g0MXSik"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Sabor a Plomo",
         "url": "https://open.spotify.com/album/4CR0loWGYTsMyIgY8kybeh"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 199832,
       "name": "Sabor a Plomo",
       "url": "https://open.spotify.com/track/4hc7wJtn6lWgD6eAmcfjq0"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Cien Colores",
+        "url": "https://open.spotify.com/album/6PgFqXwfJPQcJ5gQlK2V4L"
+      },
+      "artists": [
+        {
+          "name": "La Inquisici\u00f3n",
+          "url": "https://open.spotify.com/artist/4aDrkFWtl83fnLRJ0SWXtJ"
+        }
+      ],
+      "duration_ms": 170471,
+      "name": "Cien Colores",
+      "url": "https://open.spotify.com/track/6pEb4CdkThMdqD0g0MXSik"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Corre, Escapa",
+        "url": "https://open.spotify.com/album/0kZpl5AB8bgJePAlpZH1br"
+      },
+      "artists": [
+        {
+          "name": "Belial",
+          "url": "https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28"
+        }
+      ],
+      "duration_ms": 180257,
+      "name": "Corre, Escapa",
+      "url": "https://open.spotify.com/track/23qJwmWJysiJYky8U5zpaS"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Humanos",
         "url": "https://open.spotify.com/album/1HWIcVUKJkWpZ5IF2RsRzy"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Corre, Escapa",
-        "url": "https://open.spotify.com/album/0kZpl5AB8bgJePAlpZH1br"
-      },
-      "artists": [
-        {
-          "name": "Belial",
-          "url": "https://open.spotify.com/artist/2SDf1CeFMHEop1lzdpvS28"
-        }
-      ],
-      "duration_ms": 180257,
-      "name": "Corre, Escapa",
-      "url": "https://open.spotify.com/track/23qJwmWJysiJYky8U5zpaS"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Sombra y Luz",
         "url": "https://open.spotify.com/album/0sTzX1wBi75FyQhzYmLAZm"
       },
@@ -1587,26 +1587,6 @@
       "duration_ms": 157991,
       "name": "Sombra y Luz - Sombra y Luz",
       "url": "https://open.spotify.com/track/4tBjhicwmWAxDDblcDHbN0"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Mundo Muerto",
-        "url": "https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei"
-      },
-      "artists": [
-        {
-          "name": "Akritud",
-          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
-        },
-        {
-          "name": "EtsaiakEroak",
-          "url": "https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6"
-        }
-      ],
-      "duration_ms": 157482,
-      "name": "Mundo Muerto",
-      "url": "https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1639,6 +1619,26 @@
       "duration_ms": 233000,
       "name": "La locura - original",
       "url": "https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Mundo Muerto",
+        "url": "https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei"
+      },
+      "artists": [
+        {
+          "name": "Akritud",
+          "url": "https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX"
+        },
+        {
+          "name": "EtsaiakEroak",
+          "url": "https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6"
+        }
+      ],
+      "duration_ms": 157482,
+      "name": "Mundo Muerto",
+      "url": "https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1"
     },
     {
       "added_at": "2024-11-21 23:00:00",

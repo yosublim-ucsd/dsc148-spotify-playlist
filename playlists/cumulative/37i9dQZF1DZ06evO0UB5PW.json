@@ -1017,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "The Hunter",
+        "url": "https://open.spotify.com/album/1PadLnQYelMqqSlPbSEWZ1"
+      },
+      "artists": [
+        {
+          "name": "Mastodon",
+          "url": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "Spectrelight",
+      "url": "https://open.spotify.com/track/1MTuSPR63Sm149T8vgE8xF"
+    },
+    {
+      "album": {
         "name": "Stairway to Nick John",
         "url": "https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e"
       },

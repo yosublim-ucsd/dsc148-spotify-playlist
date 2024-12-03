@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 29068,
+  "num_followers": 29084,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-08-14 15:56:44",
       "album": {
-        "name": "Aziz Maraka",
-        "url": "https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 247041,
-      "name": "Ya Bay",
-      "url": "https://open.spotify.com/track/25dpNlHr9GTVBvIcUr9cWu"
-    },
-    {
-      "added_at": "2024-08-14 15:56:44",
-      "album": {
         "name": "Laysa",
         "url": "https://open.spotify.com/album/77k4juG5fkQ0oT9zrmNA1m"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 204533,
       "name": "Nater",
       "url": "https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC"
+    },
+    {
+      "added_at": "2024-08-14 15:56:44",
+      "album": {
+        "name": "Konna Sghar",
+        "url": "https://open.spotify.com/album/6wlJNQtXLY3ypYXVsayxnV"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 136151,
+      "name": "Konna Sghar",
+      "url": "https://open.spotify.com/track/55ExdRqYPtqMOweJaWqwbX"
     },
     {
       "added_at": "2024-08-14 15:56:44",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-08-14 15:56:44",
       "album": {
-        "name": "Mabsoot Bhali",
-        "url": "https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl"
-      },
-      "artists": [
-        {
-          "name": "Luay Hijazeen",
-          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Mabsoot Bhali",
-      "url": "https://open.spotify.com/track/39efRQpfCpC418qhWOwE41"
-    },
-    {
-      "added_at": "2024-08-14 15:56:44",
-      "album": {
         "name": "Nasi",
         "url": "https://open.spotify.com/album/5DOX782glZw5iU8P5Wp6iy"
       },
@@ -903,22 +887,6 @@
       "duration_ms": 224000,
       "name": "Nasi",
       "url": "https://open.spotify.com/track/4nNtxadiv73l4zDaSok9Q0"
-    },
-    {
-      "added_at": "2024-08-14 15:56:44",
-      "album": {
-        "name": "Konna Sghar",
-        "url": "https://open.spotify.com/album/6wlJNQtXLY3ypYXVsayxnV"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 136151,
-      "name": "Konna Sghar",
-      "url": "https://open.spotify.com/track/55ExdRqYPtqMOweJaWqwbX"
     },
     {
       "added_at": "2024-08-14 15:56:44",
@@ -939,6 +907,22 @@
     {
       "added_at": "2024-08-14 15:56:44",
       "album": {
+        "name": "Mabsoot Bhali",
+        "url": "https://open.spotify.com/album/1HKy7sOwF0qCUIKLlSluNl"
+      },
+      "artists": [
+        {
+          "name": "Luay Hijazeen",
+          "url": "https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Mabsoot Bhali",
+      "url": "https://open.spotify.com/track/39efRQpfCpC418qhWOwE41"
+    },
+    {
+      "added_at": "2024-08-14 15:56:44",
+      "album": {
         "name": "Hada Ma Byentasa",
         "url": "https://open.spotify.com/album/2BR05zm7GhqfI9G0k6jmvp"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 278351,
       "name": "Hada Ma Byentasa",
       "url": "https://open.spotify.com/track/2YSeUVN3O3t8PeK1sGtRFQ"
+    },
+    {
+      "added_at": "2024-08-14 15:56:44",
+      "album": {
+        "name": "Aziz Maraka",
+        "url": "https://open.spotify.com/album/5FCww0KdMiP4lKUzm4wEXY"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 247041,
+      "name": "Ya Bay",
+      "url": "https://open.spotify.com/track/25dpNlHr9GTVBvIcUr9cWu"
     },
     {
       "added_at": "2024-08-14 15:56:44",

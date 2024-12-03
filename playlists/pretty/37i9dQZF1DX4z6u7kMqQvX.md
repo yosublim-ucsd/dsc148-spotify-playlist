@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,055 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,067 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 38 | [Te Dejé una Carta](https://open.spotify.com/track/7vKUZpHXiwMx3NvJyJC0MC) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Martes 13](https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq) | 4:10 |
 | 39 | [Panamericana](https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Todo vuelve al punto de partida](https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW) | 3:15 |
 | 40 | [Pedazo de Cielo](https://open.spotify.com/track/4XnRvw9vNKN9tGolXFDZrR) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Pensamientos](https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6) | 3:29 |
-| 41 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 |
-| 42 | [Que te hizo ir](https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Que te hizo ir](https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb) | 3:41 |
+| 41 | [Que te hizo ir](https://open.spotify.com/track/318miXWdK50Nqu2onTsOiO) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Que te hizo ir](https://open.spotify.com/album/7yNGmtpwKnOGypQH0fKpSb) | 3:41 |
+| 42 | [Volver a Llorar](https://open.spotify.com/track/5fH16NuT1OPJcqz4evTFXi) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Volver a Llorar](https://open.spotify.com/album/0L2mbl8kNcTqVjYw4I8CeW) | 2:40 |
 | 43 | [Máquinas de hacer todo al mismo tiempo](https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [NUNCA DA IGUAL](https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu) | 3:39 |
 | 44 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 |
 | 45 | [Conexión de Almas](https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb) | [Conexión de Almas](https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ) | 3:15 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 85 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 |
 | 86 | [TODO LO QUE HICIMOS.](https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [TODO LO QUE HICIMOS.](https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK) | 3:37 |
 | 87 | [Corazón](https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Corazón](https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g) | 2:43 |
-| 88 | [Reina](https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Reina](https://open.spotify.com/album/64uweRga2ScsdB8Nf77yjg) | 3:03 |
-| 89 | [John & Yoko](https://open.spotify.com/track/2vgAXpwMCMEx0WHBpKhy0a) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:52 |
+| 88 | [John & Yoko](https://open.spotify.com/track/2vgAXpwMCMEx0WHBpKhy0a) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:52 |
+| 89 | [Reina](https://open.spotify.com/track/4deE2RmG4R1N1mlHJABUeW) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Reina](https://open.spotify.com/album/64uweRga2ScsdB8Nf77yjg) | 3:03 |
 | 90 | [La Puerta](https://open.spotify.com/track/6v988u9uCkXho3hvjqom1s) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP), [nan Q](https://open.spotify.com/artist/578d5z2sr0foSBFuoRaiPc) | [La Puerta](https://open.spotify.com/album/6aEKqi158pdsZCKcMjiHlP) | 2:57 |
 | 91 | [Voy a Seguir \- Acústico](https://open.spotify.com/track/6b76aAcQltcNWyJD9LODpc) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [A Veces](https://open.spotify.com/album/1XPf26pSAJpcvxYr3pOgfz) | 2:20 |
 | 92 | [Pangal](https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Pangal](https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp) | 2:54 |

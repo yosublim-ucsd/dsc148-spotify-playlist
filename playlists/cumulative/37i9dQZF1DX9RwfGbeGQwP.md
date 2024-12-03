@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,497 songs - 2 day 8 hr 21 min
+1,498 songs - 2 day 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -845,6 +845,7 @@
 | [Morning Coffee](https://open.spotify.com/track/1uo9OToT1FDYSVWfWpwhO8) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Morning Coffee & Slow Start](https://open.spotify.com/album/1fv1gsqEW2wfxJENizIocA) | 2:36 | 2022-01-27 | 2024-05-14 |
 | [Morning Coffee](https://open.spotify.com/track/6fco1FnIJmQMjS2ANU0s86) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Morning Coffee](https://open.spotify.com/album/4ckV7B73berfpdY8o4ZCh1) | 2:04 | 2022-12-09 | 2023-10-06 |
 | [Morning Coffee](https://open.spotify.com/track/5PPvrpo03nW7lFxvHD3Lkc) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Morning Coffee](https://open.spotify.com/album/2P5FT29hFlmYWIOVaYvYPy) | 2:09 | 2022-05-27 | 2022-07-01 |
+| [morning haze](https://open.spotify.com/track/4jEpT0wPpnTzWlsyNJ2492) | [chasing clouds.](https://open.spotify.com/artist/5LDKOzebjXcTFpZALsiVZ6), [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [morning haze](https://open.spotify.com/album/21kcqvPyKvTenNZieCjAXQ) | 2:08 | 2024-11-29 |  |
 | [Morning Stretch](https://open.spotify.com/track/4BfOkMlyoev0VEN5ClXMby) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [As The Sun Rises](https://open.spotify.com/album/4OGfkftDPq4gOqtKCf1G2y) | 2:24 | 2022-04-08 | 2023-11-17 |
 | [Morning Sun](https://open.spotify.com/track/2HiqbtpYcQcuWTDRbfLLD5) | [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [Morning Sun](https://open.spotify.com/album/0SL8oqPqcQ5kgzLF00UN0o) | 1:58 | 2022-06-24 | 2022-12-10 |
 | [Mosaic](https://open.spotify.com/track/3rDpqMkNK2YLWlGF8bKBmh) | [Lipstick Fest](https://open.spotify.com/artist/3b8kyF1PeVIOlo16gJUee1) | [Mosaic](https://open.spotify.com/album/3F1uxNrHxx5BMb7qUzFWpA) | 3:16 | 2022-01-27 | 2024-05-14 |
@@ -1317,7 +1318,7 @@
 | [Tender Mind](https://open.spotify.com/track/04DplA83rbqQVqWjPFYSpC) | [lukayo](https://open.spotify.com/artist/3AhFxqxCwraIIUrUiVx4d1), [LW Beats](https://open.spotify.com/artist/2pZgcPhuBA3i0OVDj9Aog3), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Tender Mind](https://open.spotify.com/album/2TEZN8nwRNnom7KG3xc3hP) | 1:53 | 2023-06-05 |  |
 | [Terminal](https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj) | [Yumeoka](https://open.spotify.com/artist/2QO9MfQwz3oGySq5Tiuo4Q) | [Terminal](https://open.spotify.com/album/77Nlb4di9sHZu0mNB5isSR) | 2:05 | 2023-11-17 |  |
 | [Terzo](https://open.spotify.com/track/1EXS0FNpWbCjlYY5LKCqer) | [Robomani](https://open.spotify.com/artist/2iXcdZRffRnlBjzqcWEXKA) | [Terzo](https://open.spotify.com/album/1ZtZwyMm2P4ujY02crKMIV) | 2:55 | 2022-01-27 | 2024-05-14 |
-| [thankful](https://open.spotify.com/track/0nyqWzGxfKw9k30MK0rXZQ) | [loku](https://open.spotify.com/artist/4syA0zfcvPMsZ6Fzw6MGHc) | [thankful](https://open.spotify.com/album/7r3eEEKheLFzti21hYnZ8L) | 2:19 | 2024-01-12 |  |
+| [thankful](https://open.spotify.com/track/0nyqWzGxfKw9k30MK0rXZQ) | [loku](https://open.spotify.com/artist/4syA0zfcvPMsZ6Fzw6MGHc) | [thankful](https://open.spotify.com/album/7r3eEEKheLFzti21hYnZ8L) | 2:19 | 2024-01-12 | 2024-12-03 |
 | [That FULLness](https://open.spotify.com/track/4chATeCAyWRsO7PEptGM41) | [Stay Nice](https://open.spotify.com/artist/0e0CMuJm0h7Dl1pFGb7MUD) | [That FULLness](https://open.spotify.com/album/1eRPL8SVCLThFHOWYRWgXD) | 3:00 | 2022-01-27 | 2022-09-03 |
 | [that old lick](https://open.spotify.com/track/01pPzpTbSyIqi9vgVjDqpO) | [efedrin](https://open.spotify.com/artist/0XghY48i09UXnmTiQcnE1p) | [it came from the desert](https://open.spotify.com/album/69AKTWMJ44wbayjX4vjaUb) | 1:24 | 2022-01-27 | 2022-07-08 |
 | [That Soft Touch](https://open.spotify.com/track/4WlUSXIpr4Y0j1q1xd2auf) | [John McEnflow](https://open.spotify.com/artist/6RSrTS0uvEaiL6ytgRuf6d) | [That Soft Touch](https://open.spotify.com/album/7o7MzmgbO3kxkrHuUFG7Uf) | 2:24 | 2022-01-27 | 2022-09-09 |

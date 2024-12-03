@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Ninho x Niska au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,536,817 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,537,031 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 25 | [I'M SORRY](https://open.spotify.com/track/2ynH9ETEo4OgLxNLJrcMKP) | [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [I'M SORRY](https://open.spotify.com/album/2h3yOY17ak9LUJs57SPdn6) | 2:32 |
 | 26 | [T.I.A \- A COLORS SHOW](https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [T.I.A \- A COLORS SHOW](https://open.spotify.com/album/5bZnJCwm9vRanQPpGbMW5B) | 3:41 |
 | 27 | [911](https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [911](https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv) | 4:21 |
-| 28 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 |
-| 29 | [TOKA](https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [TOKA](https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g) | 2:55 |
+| 28 | [TOKA](https://open.spotify.com/track/21YPieevMdQW57QSU9vHEl) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [TOKA](https://open.spotify.com/album/0HlEoKZA4pKYoae4zRWu7g) | 2:55 |
+| 29 | [Hakayet](https://open.spotify.com/track/5bww9Wf6TszHmZVooMR5um) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Hakayet](https://open.spotify.com/album/7Hd8VNqE8T9eK13RUSsWQC) | 2:35 |
 | 30 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 |
 | 31 | [barcelona92](https://open.spotify.com/track/0ex0EZnrO2mMPIkYp3ewZX) | [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [SAUDADE](https://open.spotify.com/album/5ORwfRIZBQiJ1dQ2cQDIFO) | 2:52 |
 | 32 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Dougie](https://open.spotify.com/track/2dh4i6rwmQ5qsoRafiylo6) | [K2S](https://open.spotify.com/artist/5a9tCrOZBHyFC1LhydD704) | [Dougie](https://open.spotify.com/album/0WdAEGM93b6WNp9rVSNeih) | 2:21 |
 | 40 | [CRF \- Nouvelle École](https://open.spotify.com/track/1HQQbaepsGB5uyTAGmSZxj) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 2:09 |
 
-Snapshot ID: `Z0j18AAAAAA/oURNSMI6EWHdv1auU7Pp`
+Snapshot ID: `Z03t6wAAAACTcH8VdixkeeJq3GMlk+Sk`

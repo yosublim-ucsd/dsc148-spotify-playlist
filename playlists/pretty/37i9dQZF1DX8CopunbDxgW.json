@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment \ud83e\udd1d with DJ Koze & Damon Albarn",
-  "num_followers": 876219,
+  "num_followers": 876215,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0liqQAAAACONB+5mybDElqDo2xMQZEx",
+  "snapshot_id": "Z04X9wAAAABDF8Hce5mFYyMwUYODtv3/",
   "tracks": [
     {
       "added_at": "2024-11-29 06:43:52",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
+      "added_at": "2024-12-02 20:26:31",
+      "album": {
+        "name": "Any Signs of Love",
+        "url": "https://open.spotify.com/album/2IUlfvXdJwL9TCklFvV3f6"
+      },
+      "artists": [
+        {
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
+        }
+      ],
+      "duration_ms": 362261,
+      "name": "Any Signs of Love",
+      "url": "https://open.spotify.com/track/6DcxP7RQyfWQRODJ5OlqSC"
+    },
+    {
       "added_at": "2024-11-29 06:43:52",
       "album": {
         "name": "ma\u00f1ana s\u00e9",
@@ -273,6 +289,66 @@
       "url": "https://open.spotify.com/track/0ELDx5nFZjleMn2tDUvlfG"
     },
     {
+      "added_at": "2024-12-02 20:11:57",
+      "album": {
+        "name": "Your Such A Dream",
+        "url": "https://open.spotify.com/album/7ybj9KFUg16f96sOZUo8OE"
+      },
+      "artists": [
+        {
+          "name": "GREETINGS",
+          "url": "https://open.spotify.com/artist/4YtLycETOsIeMxLwPpGHNz"
+        }
+      ],
+      "duration_ms": 270094,
+      "name": "Your Such A Dream",
+      "url": "https://open.spotify.com/track/65N6BWBccGYSYw0ysIklJX"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Seafood Salad in France",
+        "url": "https://open.spotify.com/album/1E0FPuLyed1HVMLQ2zb0j1"
+      },
+      "artists": [
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        },
+        {
+          "name": "ayrtn",
+          "url": "https://open.spotify.com/artist/6bI4QlfGPaqabHlHwcXLg3"
+        },
+        {
+          "name": "honey",
+          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
+        }
+      ],
+      "duration_ms": 257006,
+      "name": "Seafood Salad in France",
+      "url": "https://open.spotify.com/track/38UWBNedLOm1ey42NWOeyG"
+    },
+    {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Stunt Like This",
+        "url": "https://open.spotify.com/album/5rKDQr1fJQgcReFaouMiTe"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "duration_ms": 166774,
+      "name": "Stunt Like This",
+      "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Being With You",
@@ -309,26 +385,6 @@
       "url": "https://open.spotify.com/track/1uGvxm9aFt0oyUolJt8ooi"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Stunt Like This",
-        "url": "https://open.spotify.com/album/5rKDQr1fJQgcReFaouMiTe"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Kah-Lo",
-          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
-        }
-      ],
-      "duration_ms": 166774,
-      "name": "Stunt Like This",
-      "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
-    },
-    {
       "added_at": "2024-11-29 06:43:52",
       "album": {
         "name": "Water Pistol (Killen. Remix)",
@@ -347,30 +403,6 @@
       "duration_ms": 176074,
       "name": "Water Pistol - Killen. Remix",
       "url": "https://open.spotify.com/track/7F1YGJLMXM9T5kiRQ6JPdX"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Seafood Salad in France",
-        "url": "https://open.spotify.com/album/1E0FPuLyed1HVMLQ2zb0j1"
-      },
-      "artists": [
-        {
-          "name": "GEE LEE",
-          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
-        },
-        {
-          "name": "ayrtn",
-          "url": "https://open.spotify.com/artist/6bI4QlfGPaqabHlHwcXLg3"
-        },
-        {
-          "name": "honey",
-          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
-        }
-      ],
-      "duration_ms": 257006,
-      "name": "Seafood Salad in France",
-      "url": "https://open.spotify.com/track/38UWBNedLOm1ey42NWOeyG"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1305,26 +1337,6 @@
       "url": "https://open.spotify.com/track/6cTeBB2HaCgPR4dJoZ3wb8"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Hocus Pocus",
-        "url": "https://open.spotify.com/album/5IJCDI2kPavM9i8x3P8bET"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        },
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        }
-      ],
-      "duration_ms": 193555,
-      "name": "Hocus Pocus",
-      "url": "https://open.spotify.com/track/00i7lDi06DTNJJRmciIJOn"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Believe",
@@ -1519,22 +1531,6 @@
       "duration_ms": 261111,
       "name": "Touch",
       "url": "https://open.spotify.com/track/5kEEmoch60p0sXWNjMOHTJ"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "When U Wake",
-        "url": "https://open.spotify.com/album/53p3nEpHuWEGGIJYIrmD9h"
-      },
-      "artists": [
-        {
-          "name": "TIBASKO",
-          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
-        }
-      ],
-      "duration_ms": 217473,
-      "name": "When U Wake",
-      "url": "https://open.spotify.com/track/46AUSSE2ZCSvlmvcwwyvD6"
     },
     {
       "added_at": "2024-10-11 04:00:00",

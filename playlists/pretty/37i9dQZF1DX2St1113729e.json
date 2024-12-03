@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. tarchi",
-  "num_followers": 215677,
+  "num_followers": 215674,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0j18AAAAABEOV22m7Rdy7oyJhOEibOJ",
+  "snapshot_id": "Z02gFgAAAACdPVjQi7ntu+lqkdY+zwyO",
   "tracks": [
     {
       "added_at": "2024-11-28 23:00:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "coraz\u00f3n part\u00edo",
-        "url": "https://open.spotify.com/album/0Qy7BUbS7rD4VaIYm3QwvL"
-      },
-      "artists": [
-        {
-          "name": "tarchi",
-          "url": "https://open.spotify.com/artist/3hQ7aT3GTzf9jNYh80UBo3"
-        }
-      ],
-      "duration_ms": 102047,
-      "name": "coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/2iGlLyQBdzt319UImwEmm7"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "BABASONICO",
         "url": "https://open.spotify.com/album/74rfiKnITSdktvbgqi5Kut"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 106500,
       "name": "BABASONICO",
       "url": "https://open.spotify.com/track/45JcbGAWOaqL8X7DFAMeP3"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "coraz\u00f3n part\u00edo",
+        "url": "https://open.spotify.com/album/0Qy7BUbS7rD4VaIYm3QwvL"
+      },
+      "artists": [
+        {
+          "name": "tarchi",
+          "url": "https://open.spotify.com/artist/3hQ7aT3GTzf9jNYh80UBo3"
+        }
+      ],
+      "duration_ms": 102047,
+      "name": "coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/2iGlLyQBdzt319UImwEmm7"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -267,18 +267,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "SCARYHOT",
-        "url": "https://open.spotify.com/album/5cBry92oiYAS2CmcCRXzbU"
+        "name": "FAMILY MART",
+        "url": "https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA"
       },
       "artists": [
         {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+          "name": "evilgiane",
+          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
+        },
+        {
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
         }
       ],
-      "duration_ms": 129000,
-      "name": "SCARYHOT",
-      "url": "https://open.spotify.com/track/0CGubjzk4lT6gqaomfcKxy"
+      "duration_ms": 118936,
+      "name": "FAMILY MART",
+      "url": "https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -339,22 +343,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "10percs",
-        "url": "https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE"
+        "name": "SCARYHOT",
+        "url": "https://open.spotify.com/album/5cBry92oiYAS2CmcCRXzbU"
       },
       "artists": [
         {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
         }
       ],
-      "duration_ms": 126810,
-      "name": "10percs",
-      "url": "https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8"
+      "duration_ms": 129000,
+      "name": "SCARYHOT",
+      "url": "https://open.spotify.com/track/0CGubjzk4lT6gqaomfcKxy"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -431,6 +431,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "10percs",
+        "url": "https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 126810,
+      "name": "10percs",
+      "url": "https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Un Poco M\u00e1s",
         "url": "https://open.spotify.com/album/6Mimyb90IbsDdpdES0BHoC"
       },
@@ -455,22 +475,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "^^7^ 24",
-        "url": "https://open.spotify.com/album/1rld2nBapWTBxFL4vgBE7K"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        }
-      ],
-      "duration_ms": 194884,
-      "name": "Revel\u00aaciones (M\u00aarcos intro)",
-      "url": "https://open.spotify.com/track/3i7XS3ryqE7aavHuC9lJUV"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "HELLO PITI",
         "url": "https://open.spotify.com/album/57qRNanR544Lq3kOxDDl3p"
       },
@@ -491,38 +495,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "FAMILY MART",
-        "url": "https://open.spotify.com/album/1n7QLajUkTxq7ALGYAq7cA"
+        "name": "^^7^ 24",
+        "url": "https://open.spotify.com/album/1rld2nBapWTBxFL4vgBE7K"
       },
       "artists": [
         {
-          "name": "evilgiane",
-          "url": "https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV"
-        },
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
         }
       ],
-      "duration_ms": 118936,
-      "name": "FAMILY MART",
-      "url": "https://open.spotify.com/track/0pYEH3gVBoVPdwPKy3Ijc7"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "boomerang hyperpop (remix)",
-        "url": "https://open.spotify.com/album/3uoGTltaD9Tar4h7FQkm8I"
-      },
-      "artists": [
-        {
-          "name": "Amalia tal vez",
-          "url": "https://open.spotify.com/artist/5vK4kTUNQKnY6bEE9XWtUN"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "boomerang hyperpop - remix",
-      "url": "https://open.spotify.com/track/7AQWK0gXNDi7h0FOjABf3E"
+      "duration_ms": 194884,
+      "name": "Revel\u00aaciones (M\u00aarcos intro)",
+      "url": "https://open.spotify.com/track/3i7XS3ryqE7aavHuC9lJUV"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -559,46 +543,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Fuera de CTRL",
-        "url": "https://open.spotify.com/album/5JgmjLXuyWeW1r4BarnIAt"
-      },
-      "artists": [
-        {
-          "name": "Faxu",
-          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
-        },
-        {
-          "name": "Albert Rei",
-          "url": "https://open.spotify.com/artist/3Ys59AxzZx9UN6o6Q9yyw3"
-        }
-      ],
-      "duration_ms": 157971,
-      "name": "Fuera de CTRL",
-      "url": "https://open.spotify.com/track/3uM9fKZ84dMCPHA4PW7Xsf"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Floren",
-        "url": "https://open.spotify.com/album/2KPrLmZmcNQtmfaSGItI2h"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "damnpablo",
-          "url": "https://open.spotify.com/artist/4Ifc7Y6zo9tcnPVALBXjVI"
-        }
-      ],
-      "duration_ms": 198501,
-      "name": "Floren",
-      "url": "https://open.spotify.com/track/5LiInUHBbi9BOBH7bDYg3Y"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Nunca Volver\u00e1",
         "url": "https://open.spotify.com/album/0fUpATJfQ07qZX7PqKNkQa"
       },
@@ -615,6 +559,26 @@
       "duration_ms": 177391,
       "name": "Nunca Volver\u00e1",
       "url": "https://open.spotify.com/track/5WdgPdIyyZoFztGaYKH1DY"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Fuera de CTRL",
+        "url": "https://open.spotify.com/album/5JgmjLXuyWeW1r4BarnIAt"
+      },
+      "artists": [
+        {
+          "name": "Faxu",
+          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
+        },
+        {
+          "name": "Albert Rei",
+          "url": "https://open.spotify.com/artist/3Ys59AxzZx9UN6o6Q9yyw3"
+        }
+      ],
+      "duration_ms": 157971,
+      "name": "Fuera de CTRL",
+      "url": "https://open.spotify.com/track/3uM9fKZ84dMCPHA4PW7Xsf"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -679,6 +643,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Salud Mental",
+        "url": "https://open.spotify.com/album/4n4C9mf3PtE9qEGBawFp1I"
+      },
+      "artists": [
+        {
+          "name": "Brai",
+          "url": "https://open.spotify.com/artist/3tmTU2K3wyM0x0XRTHOAcH"
+        }
+      ],
+      "duration_ms": 174196,
+      "name": "Salud Mental",
+      "url": "https://open.spotify.com/track/4v1b1Cr66DOLDhTpMLDYjc"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "MET\u00c1LICA",
         "url": "https://open.spotify.com/album/38HfIhRHHwmmnVAA37WL8W"
       },
@@ -699,18 +679,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Salud Mental",
-        "url": "https://open.spotify.com/album/4n4C9mf3PtE9qEGBawFp1I"
+        "name": "Floren",
+        "url": "https://open.spotify.com/album/2KPrLmZmcNQtmfaSGItI2h"
       },
       "artists": [
         {
-          "name": "Brai",
-          "url": "https://open.spotify.com/artist/3tmTU2K3wyM0x0XRTHOAcH"
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        },
+        {
+          "name": "damnpablo",
+          "url": "https://open.spotify.com/artist/4Ifc7Y6zo9tcnPVALBXjVI"
         }
       ],
-      "duration_ms": 174196,
-      "name": "Salud Mental",
-      "url": "https://open.spotify.com/track/4v1b1Cr66DOLDhTpMLDYjc"
+      "duration_ms": 198501,
+      "name": "Floren",
+      "url": "https://open.spotify.com/track/5LiInUHBbi9BOBH7bDYg3Y"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -771,26 +755,6 @@
       "duration_ms": 188903,
       "name": "Lejos del ruido",
       "url": "https://open.spotify.com/track/3fqfkvTBREX3tMumY4d6bb"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "ADEL^NTOS ^^7^ 24",
-        "url": "https://open.spotify.com/album/0zpibo9izCAhRcnxE71HdZ"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        },
-        {
-          "name": "1adaaaan",
-          "url": "https://open.spotify.com/artist/15QI4MM8AddXriohJwHHo4"
-        }
-      ],
-      "duration_ms": 117986,
-      "name": "SOY TU MAM\u00c1",
-      "url": "https://open.spotify.com/track/30ZrnkSH9Hkw6uLBr5LBjs"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -883,8 +847,8 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Big Fish",
-        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
+        "name": "ADEL^NTOS ^^7^ 24",
+        "url": "https://open.spotify.com/album/0zpibo9izCAhRcnxE71HdZ"
       },
       "artists": [
         {
@@ -892,13 +856,13 @@
           "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
         },
         {
-          "name": "Kabasaki",
-          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
+          "name": "1adaaaan",
+          "url": "https://open.spotify.com/artist/15QI4MM8AddXriohJwHHo4"
         }
       ],
-      "duration_ms": 139200,
-      "name": "Big Fish",
-      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
+      "duration_ms": 117986,
+      "name": "SOY TU MAM\u00c1",
+      "url": "https://open.spotify.com/track/30ZrnkSH9Hkw6uLBr5LBjs"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -915,6 +879,30 @@
       "duration_ms": 168750,
       "name": "ME DUELE TANTO",
       "url": "https://open.spotify.com/track/2XDhKrxadd2eZ8VJYKKEs3"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/5mxGCBOZQ6Lwq8n8QawYTp"
+      },
+      "artists": [
+        {
+          "name": "Nevo Angel",
+          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
+        },
+        {
+          "name": "Faxu",
+          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        }
+      ],
+      "duration_ms": 149230,
+      "name": "SUPERBETA",
+      "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -979,26 +967,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Versus",
-        "url": "https://open.spotify.com/album/5mxGCBOZQ6Lwq8n8QawYTp"
+        "name": "Vaciador_remixes",
+        "url": "https://open.spotify.com/album/3q9JQQR59X2dsVKgBKfgOM"
       },
       "artists": [
         {
-          "name": "Nevo Angel",
-          "url": "https://open.spotify.com/artist/32QXlAgEc8RDhZvZGipVyw"
+          "name": "VVV [Trippin'you]",
+          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
         },
         {
-          "name": "Faxu",
-          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
+          "name": "DJ Final Boss",
+          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
         },
         {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+          "name": "LVL1",
+          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
         }
       ],
-      "duration_ms": 149230,
-      "name": "SUPERBETA",
-      "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
+      "duration_ms": 270000,
+      "name": "KLF_remix x [DJ Final Boss, LVL1]",
+      "url": "https://open.spotify.com/track/0s1CXdq9bgLeRbjDjAtUXy"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1027,26 +1015,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Vaciador_remixes",
-        "url": "https://open.spotify.com/album/3q9JQQR59X2dsVKgBKfgOM"
+        "name": "Big Fish",
+        "url": "https://open.spotify.com/album/0alF5dX6vmk8WaAEa2EWFT"
       },
       "artists": [
         {
-          "name": "VVV [Trippin'you]",
-          "url": "https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU"
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
         },
         {
-          "name": "DJ Final Boss",
-          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
-        },
-        {
-          "name": "LVL1",
-          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
+          "name": "Kabasaki",
+          "url": "https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX"
         }
       ],
-      "duration_ms": 270000,
-      "name": "KLF_remix x [DJ Final Boss, LVL1]",
-      "url": "https://open.spotify.com/track/0s1CXdq9bgLeRbjDjAtUXy"
+      "duration_ms": 139200,
+      "name": "Big Fish",
+      "url": "https://open.spotify.com/track/37CK6tuEnqZjIPLpuyS0pv"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1063,30 +1047,6 @@
       "duration_ms": 170000,
       "name": "T\u00fa y Yo",
       "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Lo Que Dijiste",
-        "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        },
-        {
-          "name": "DRAAH",
-          "url": "https://open.spotify.com/artist/1gSCLldOtzjxpMdYx29pXZ"
-        },
-        {
-          "name": "Prxfanity",
-          "url": "https://open.spotify.com/artist/2x7Zj3YMeXnttrMbXQ9BVy"
-        }
-      ],
-      "duration_ms": 208182,
-      "name": "Lo Que Dijiste",
-      "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1111,6 +1071,30 @@
       "duration_ms": 201624,
       "name": "RUIDO",
       "url": "https://open.spotify.com/track/1D4M14uj2mFZKgq5Hro3qw"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Lo Que Dijiste",
+        "url": "https://open.spotify.com/album/4SFnQz1uY6X5wJzrGrPwIl"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        },
+        {
+          "name": "DRAAH",
+          "url": "https://open.spotify.com/artist/1gSCLldOtzjxpMdYx29pXZ"
+        },
+        {
+          "name": "Prxfanity",
+          "url": "https://open.spotify.com/artist/2x7Zj3YMeXnttrMbXQ9BVy"
+        }
+      ],
+      "duration_ms": 208182,
+      "name": "Lo Que Dijiste",
+      "url": "https://open.spotify.com/track/3xDPpinMbfjZOo00OAyZhD"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1427,6 +1411,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "q va",
+        "url": "https://open.spotify.com/album/13ok1B7al93YHrV9oigsz2"
+      },
+      "artists": [
+        {
+          "name": "Serehiio",
+          "url": "https://open.spotify.com/artist/4V9TMF0bpvEOg3ZpygwyrZ"
+        },
+        {
+          "name": "Mariete",
+          "url": "https://open.spotify.com/artist/1HMgcN78ihS1AsXaPBwSTx"
+        }
+      ],
+      "duration_ms": 106187,
+      "name": "q va",
+      "url": "https://open.spotify.com/track/5kSqeEBSagTzrtVAsOPfN5"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "ALTER EGO",
         "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
       },
@@ -1439,22 +1443,6 @@
       "duration_ms": 124478,
       "name": "L\u00edmites",
       "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "AERIAL DISPLAY",
-        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
-      },
-      "artists": [
-        {
-          "name": "NICO B.",
-          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
-        }
-      ],
-      "duration_ms": 106071,
-      "name": "GALGO",
-      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1479,22 +1467,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "q va",
-        "url": "https://open.spotify.com/album/13ok1B7al93YHrV9oigsz2"
+        "name": "AERIAL DISPLAY",
+        "url": "https://open.spotify.com/album/5zcFR9B9NWmrW9jwX3Fy1G"
       },
       "artists": [
         {
-          "name": "Serehiio",
-          "url": "https://open.spotify.com/artist/4V9TMF0bpvEOg3ZpygwyrZ"
-        },
-        {
-          "name": "Mariete",
-          "url": "https://open.spotify.com/artist/1HMgcN78ihS1AsXaPBwSTx"
+          "name": "NICO B.",
+          "url": "https://open.spotify.com/artist/7uOl97JPQ7S3Tb6vW8WgMe"
         }
       ],
-      "duration_ms": 106187,
-      "name": "q va",
-      "url": "https://open.spotify.com/track/5kSqeEBSagTzrtVAsOPfN5"
+      "duration_ms": 106071,
+      "name": "GALGO",
+      "url": "https://open.spotify.com/track/76k17bHB4HGkrQ66CSJB7Z"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Hard Cor",
+        "url": "https://open.spotify.com/album/5z836qOs6n6Dr68vNpzXwc"
+      },
+      "artists": [
+        {
+          "name": "Anna Ralb",
+          "url": "https://open.spotify.com/artist/6H0RNTjgdZz2qYXpJgyfc8"
+        }
+      ],
+      "duration_ms": 150856,
+      "name": "bcn love y hate",
+      "url": "https://open.spotify.com/track/4oxQfcaWs44ChwcRR6X9GB"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "No Llores",
         "url": "https://open.spotify.com/album/3jE3SmkDb7IAArledefwFN"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 178091,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "FOREVER YOUNG",
+        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
+      },
+      "artists": [
+        {
+          "name": "Mejiias",
+          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
+        }
+      ],
+      "duration_ms": 235384,
+      "name": "Im Forever",
+      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1555,22 +1571,6 @@
       "duration_ms": 171764,
       "name": "Perra Alfa - Neukrapsio Remix",
       "url": "https://open.spotify.com/track/4PFM0ds7hIRea4bsKqEgWw"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "FOREVER YOUNG",
-        "url": "https://open.spotify.com/album/1iyOFSTB5eJbYzkCP4lCMl"
-      },
-      "artists": [
-        {
-          "name": "Mejiias",
-          "url": "https://open.spotify.com/artist/7pPXGzCvbBcNABfCfb66bL"
-        }
-      ],
-      "duration_ms": 235384,
-      "name": "Im Forever",
-      "url": "https://open.spotify.com/track/20hUK4PUGuKTPJNoBmUwF4"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1647,22 +1647,6 @@
       "duration_ms": 155200,
       "name": "Rituales",
       "url": "https://open.spotify.com/track/7vZ4cZWrkapkEP31EobmyU"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Hard Cor",
-        "url": "https://open.spotify.com/album/5z836qOs6n6Dr68vNpzXwc"
-      },
-      "artists": [
-        {
-          "name": "Anna Ralb",
-          "url": "https://open.spotify.com/artist/6H0RNTjgdZz2qYXpJgyfc8"
-        }
-      ],
-      "duration_ms": 150856,
-      "name": "bcn love y hate",
-      "url": "https://open.spotify.com/track/4oxQfcaWs44ChwcRR6X9GB"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1755,6 +1739,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Vivir De M\u00e1s",
+        "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
+      },
+      "artists": [
+        {
+          "name": "Mydros",
+          "url": "https://open.spotify.com/artist/6yHQRBUIaw2KhNxXZOZiD8"
+        },
+        {
+          "name": "G3D3R",
+          "url": "https://open.spotify.com/artist/6g4mTp47bWzc0qEc8Nbmp1"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Vivir De M\u00e1s",
+      "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "OTRA MANERA",
         "url": "https://open.spotify.com/album/2kcQwmHV0CsYDdN43wJshu"
       },
@@ -1791,26 +1795,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Vivir De M\u00e1s",
-        "url": "https://open.spotify.com/album/7CxjPuuWonyOvxHsanVIBG"
-      },
-      "artists": [
-        {
-          "name": "Mydros",
-          "url": "https://open.spotify.com/artist/6yHQRBUIaw2KhNxXZOZiD8"
-        },
-        {
-          "name": "G3D3R",
-          "url": "https://open.spotify.com/artist/6g4mTp47bWzc0qEc8Nbmp1"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Vivir De M\u00e1s",
-      "url": "https://open.spotify.com/track/7kIsYsfrY0JhVSSVOysbWx"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Tantas Maneras de Morir",
         "url": "https://open.spotify.com/album/2wd82K5p6RB5v9QAzB3SfH"
       },
@@ -1843,6 +1827,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "ALAS Y GARRAS",
+        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
+      },
+      "artists": [
+        {
+          "name": "Andrea Mir",
+          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "TE MISSEO",
+      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "M\u00cdRAME",
         "url": "https://open.spotify.com/album/2Lj138QhbBsAN9CE6bCGho"
       },
@@ -1859,22 +1859,6 @@
       "duration_ms": 153528,
       "name": "M\u00cdRAME",
       "url": "https://open.spotify.com/track/700g28J73EOD1uPGlowABj"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "ALAS Y GARRAS",
-        "url": "https://open.spotify.com/album/1jGCunUecbzbpPS0vyJdbt"
-      },
-      "artists": [
-        {
-          "name": "Andrea Mir",
-          "url": "https://open.spotify.com/artist/6i4kEOvhG0iB0JhqY2r4vf"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "TE MISSEO",
-      "url": "https://open.spotify.com/track/3bi8iYbc7r3cfiAJWc4INV"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1923,6 +1907,26 @@
       "duration_ms": 207995,
       "name": "Cartier",
       "url": "https://open.spotify.com/track/02sruOvCKNX0PrbYcDdfnG"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/6cEMr3FM14TSi6zxpI3LpU"
+      },
+      "artists": [
+        {
+          "name": "Yanzzy",
+          "url": "https://open.spotify.com/artist/0VLCbsJSSF7F7cqWOWbkxG"
+        },
+        {
+          "name": "Marcos Naide",
+          "url": "https://open.spotify.com/artist/0w2oYmjQYOPqe74dZ5LuwF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
     }
   ],
   "unique_name": "helium",

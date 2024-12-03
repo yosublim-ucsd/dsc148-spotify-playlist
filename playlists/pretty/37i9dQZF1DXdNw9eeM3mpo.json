@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Dancing Mood en portada.",
-  "num_followers": 470621,
+  "num_followers": 470690,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -887,6 +887,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Flores para los Muertos",
+        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "La Boni",
         "url": "https://open.spotify.com/album/60i8eJW5Cqf68eRBUg1t5F"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 209311,
       "name": "La Boni",
       "url": "https://open.spotify.com/track/60F2wMMzrcTCFWNIlCXDSZ"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Flores para los Muertos",
-        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Jaula De Grillos",
-        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
-      },
-      "artists": [
-        {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
-        }
-      ],
-      "duration_ms": 257959,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Frecuencia Extrema",
         "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Jaula De Grillos",
+        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
+      },
+      "artists": [
+        {
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+        }
+      ],
+      "duration_ms": 257959,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Sonora Skandalera",
         "url": "https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n"
       },
@@ -1091,26 +1091,6 @@
       "duration_ms": 254589,
       "name": "Algo De Suerte",
       "url": "https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "TEM CORAGEM",
-        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
-      },
-      "artists": [
-        {
-          "name": "Bells",
-          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
-        },
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        }
-      ],
-      "duration_ms": 244487,
-      "name": "TEM CORAGEM",
-      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1135,18 +1115,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Nunca Nos Compusimos",
-        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
+        "name": "TEM CORAGEM",
+        "url": "https://open.spotify.com/album/7d2d1U9WXWm4pcEwtiAP93"
       },
       "artists": [
         {
-          "name": "La Parranda Magna",
-          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
+          "name": "Bells",
+          "url": "https://open.spotify.com/artist/3zl0R9GYjgPiS74kSz6kvN"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
         }
       ],
-      "duration_ms": 230573,
-      "name": "Envenenen a Mis Labios",
-      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
+      "duration_ms": 244487,
+      "name": "TEM CORAGEM",
+      "url": "https://open.spotify.com/track/4m1rIYJfM2R9EMH7YeqSsQ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 181870,
       "name": "Cuando Salga El Sol",
       "url": "https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Nunca Nos Compusimos",
+        "url": "https://open.spotify.com/album/6I9M5LkuP3I8ZlxFTQU4Up"
+      },
+      "artists": [
+        {
+          "name": "La Parranda Magna",
+          "url": "https://open.spotify.com/artist/1mfVKBLO3fW0P0A72HvBIH"
+        }
+      ],
+      "duration_ms": 230573,
+      "name": "Envenenen a Mis Labios",
+      "url": "https://open.spotify.com/track/0g6fuc3xiIsYVVkfqUNua6"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Sound System",
-        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 187385,
-      "name": "Sue\u00f1os",
-      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Antih\u00e9roes",
         "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 199106,
       "name": "Criminales Sudamericanos",
       "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Sue\u00f1os",
+      "url": "https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Segunda Entrega de Versiones Conmemorativas",
-        "url": "https://open.spotify.com/album/00BKyFR8WRyGQs9nFu0HNL"
+        "name": "El \u00c1tico",
+        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
       "artists": [
         {
-          "name": "Chino y su Gala",
-          "url": "https://open.spotify.com/artist/46RKlE0Lg8gsmglaMTNRSM"
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
         }
       ],
-      "duration_ms": 265142,
-      "name": "Bateo Llor\u00e9",
-      "url": "https://open.spotify.com/track/4PY6RFuPknAxAyn98HhSxZ"
+      "duration_ms": 242813,
+      "name": "El \u00c1tico",
+      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "El \u00c1tico",
-        "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
+        "name": "Segunda Entrega de Versiones Conmemorativas",
+        "url": "https://open.spotify.com/album/00BKyFR8WRyGQs9nFu0HNL"
       },
       "artists": [
         {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+          "name": "Chino y su Gala",
+          "url": "https://open.spotify.com/artist/46RKlE0Lg8gsmglaMTNRSM"
         }
       ],
-      "duration_ms": 242813,
-      "name": "El \u00c1tico",
-      "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+      "duration_ms": 265142,
+      "name": "Bateo Llor\u00e9",
+      "url": "https://open.spotify.com/track/4PY6RFuPknAxAyn98HhSxZ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Todo Alg\u00fan D\u00eda Termina",
-        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 248014,
-      "name": "Todo Alg\u00fan D\u00eda Termina",
-      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "El ataque de la nueva ola",
         "url": "https://open.spotify.com/album/3MQaTzbx6u7KwbAmqEMGdy"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 220620,
       "name": "Esc\u00e1pate conmigo",
       "url": "https://open.spotify.com/track/03o4ypJBzm4LS5Fv6Zc5Gt"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Todo Alg\u00fan D\u00eda Termina",
+        "url": "https://open.spotify.com/album/6ee0nmx2mLFnanzvX32pSK"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 248014,
+      "name": "Todo Alg\u00fan D\u00eda Termina",
+      "url": "https://open.spotify.com/track/45YYcOVAIAFxGV0kR4pMq0"
     }
   ],
   "unique_name": "Ska Latino ",

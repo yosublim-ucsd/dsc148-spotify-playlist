@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,288 songs - 6 day 19 hr 31 min
+4,289 songs - 6 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,7 +625,7 @@
 | [Chairoplane](https://open.spotify.com/track/10xzu4qkvJCZbam89OSzGv) | [Jakspin](https://open.spotify.com/artist/3PLqmSa29zyLdTGINzLqCZ) | [Chairoplane](https://open.spotify.com/album/3YWbRuH3qktEH3ufhbskm8) | 2:08 | 2020-12-11 | 2021-01-31 |
 | [Chambre D'Or](https://open.spotify.com/track/45K3LHna1Jnz8y9FPj6WAv) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Chambre D'Or](https://open.spotify.com/album/6Wz0mopqfMtILsriUaoXHf) | 2:27 | 2020-12-11 | 2021-02-16 |
 | [Champagne Blvd.](https://open.spotify.com/track/5bJTIF2UDOf4qymqSGxLv7) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Champagne Blvd.](https://open.spotify.com/album/1uGljn1b5IhjoJVlmcV8Aq) | 2:06 | 2020-04-03 | 2020-06-09 |
-| [Champagne Skin](https://open.spotify.com/track/0dLpPCykk6uY1NYW59kt07) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Champagne Skin](https://open.spotify.com/album/7rLDnlDJuGapIAPcZRqN3R) | 1:52 | 2023-10-05 |  |
+| [Champagne Skin](https://open.spotify.com/track/0dLpPCykk6uY1NYW59kt07) | [serifONE](https://open.spotify.com/artist/2U5Rpg2KnZYrlqYetk2N92) | [Champagne Skin](https://open.spotify.com/album/7rLDnlDJuGapIAPcZRqN3R) | 1:52 | 2023-10-05 | 2024-12-03 |
 | [Chancla](https://open.spotify.com/track/3PEejUFo8k6OqolbIvtIJp) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Chancla](https://open.spotify.com/album/3QXFdvZUiJF6Aws2ocTn5p) | 3:43 | 2022-07-21 | 2022-09-09 |
 | [Change Of Mind](https://open.spotify.com/track/4jjgquNZozqOeInKtThW6W) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [riviwi](https://open.spotify.com/artist/4gMvYRYoBpT6za0kEtwgXb), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Change Of Mind](https://open.spotify.com/album/65IbmvL1O4onC9eDI9X5E0) | 2:28 | 2021-04-19 | 2021-08-27 |
 | [Change Places](https://open.spotify.com/track/5iP2hsG9DtT3dUHUteGWlJ) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Change Places](https://open.spotify.com/album/5ydC7NmBjDQkKJRTbckrea) | 2:55 | 2020-09-25 | 2021-03-14 |
@@ -3465,6 +3465,7 @@
 | [Steadyme](https://open.spotify.com/track/6U374P7SqFo42pRrZZJkWx) | [Seaspray](https://open.spotify.com/artist/1Okty0KbID5pnDTfNKB7mO) | [Steadyme](https://open.spotify.com/album/682AYVHvi48jFoXy2zzULL) | 2:19 | 2023-06-01 | 2023-11-24 |
 | [Stella](https://open.spotify.com/track/0QOqZlaCnEZ8fJ6eiKXLIl) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Stella](https://open.spotify.com/album/7ptqwGZGDdiTSJmSYNSFfF) | 1:46 | 2023-12-14 | 2023-12-22 |
 | [Stellar](https://open.spotify.com/track/43BxBNEHqevxjmBwQCyJy0) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Stellar](https://open.spotify.com/album/35VKSCNAHqOGf5fEH3lVW5) | 2:15 | 2021-10-30 | 2022-10-22 |
+| [Stellar Swing](https://open.spotify.com/track/3XCIcRyYOQIrzh24k2Kzev) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Stellar Swing](https://open.spotify.com/album/5pSr6V1Q5OGcezxMoTqPwR) | 2:04 | 2024-11-11 |  |
 | [Stena](https://open.spotify.com/track/4DQYzPc7yDSLNSv5vVo3NM) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Stena](https://open.spotify.com/album/4X3lAxGZvedE2J1vpuA2mG) | 1:37 | 2021-10-22 | 2024-04-26 |
 | [Step By Step](https://open.spotify.com/track/4FJXaaxCpZeTtCfzou4fJ6) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Step By Step](https://open.spotify.com/album/3pxUYntdM7Qy4d5UHd1ubn) | 2:30 | 2021-10-29 | 2022-07-08 |
 | [Step Up G](https://open.spotify.com/track/42YOigSc3yJG7sTsBIHNal) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Step Up G](https://open.spotify.com/album/7wzIf8KXglZxkgV78famZf) | 1:46 | 2021-04-04 | 2021-08-06 |

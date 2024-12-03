@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,173 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,272 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 47 | [EGODEATH](https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo) | [GHENGHIS OTT](https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO), [6HRS](https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0) | [EGODEATH](https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4) | 3:12 |
 | 48 | [Sick Of The Chatter](https://open.spotify.com/track/44XDzqSWbBfKHs8WKhwVm0) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [JayaHadADream](https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo) | [Sick Of The Chatter](https://open.spotify.com/album/7j7zHWt0MsgnXnGkr90rRp) | 3:27 |
 | 49 | [Give Me Your Love \(Baby\) \(Zero Remix\)](https://open.spotify.com/track/5Qmto687964VIdsAsfmV5n) | [Christian Rogers](https://open.spotify.com/artist/1u3pcQukI3TVcrs8YuhGIE), [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH) | [Give Me Your Love \(Baby\) \(Zero Remix\)](https://open.spotify.com/album/5wKVgLmw73r4bEslj3t7wy) | 2:47 |
-| 50 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
-| 51 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
+| 50 | [One Ting](https://open.spotify.com/track/0kxVhuTPJMtAP3dj9Q7tuG) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [One Ting](https://open.spotify.com/album/51lQCt9KSngVbAqR4Qvc8E) | 3:52 |
+| 51 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 |
 | 52 | [The Streets](https://open.spotify.com/track/1Znm2edTuEhuuvaGtOPksn) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Stop Dawdling / The Streets](https://open.spotify.com/album/4dsnR0F7Kp082CmG1wQAzX) | 4:25 |
 | 53 | [Circadian](https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Gloom EP](https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y) | 4:45 |
 | 54 | [Anytime](https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4) | [Ashton Adams](https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [Anytime](https://open.spotify.com/album/6hokp0VzU4epNFbI03Z943) | 2:03 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 64 | [Songs Of Praise \- Radio Edit](https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Songs Of Praise](https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv) | 2:56 |
 | 65 | [Badda \- Sinais VIP](https://open.spotify.com/track/2586qpfMle1fZxOkzffOjU) | [Bianca Oblivion](https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94), [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Badda \(Sinais VIP\)](https://open.spotify.com/album/4cFwI8Adp03Ecaw9CEhUtz) | 2:34 |
 | 66 | [Boom](https://open.spotify.com/track/7yirE0xFWR7JN22M5skZn5) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Boom](https://open.spotify.com/album/1TJ4JWlQEteSkfMaYOc5cA) | 3:02 |
-| 67 | [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 |
-| 68 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
+| 67 | [Get Out](https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL) | [Gecha](https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC), [3000 Bass](https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM) | [Get Out](https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2) | 4:28 |
+| 68 | [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 |
 | 69 | [The Grind](https://open.spotify.com/track/67Uex8KnYkPmE5lamgKNR7) | [Duckworthsound](https://open.spotify.com/artist/3swJXxJ2hVoZoHZVj855A0), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Duckplates](https://open.spotify.com/artist/579dZYX6XzHaxmk2oGdUwu) | [The Grind](https://open.spotify.com/album/3RgbT5ZV3F1lhCPfiOuPo2) | 3:45 |
 | 70 | [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV">Felo Le Tee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,770 likes - 65 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,778 likes - 65 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

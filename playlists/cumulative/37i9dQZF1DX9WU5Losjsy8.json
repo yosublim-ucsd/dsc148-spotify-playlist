@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 192600,
       "name": "Holterdiepolter",
       "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
@@ -2786,6 +2786,28 @@
       "duration_ms": 170944,
       "name": "Sauftourist",
       "url": "https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL"
+    },
+    {
+      "album": {
+        "name": "Schaf",
+        "url": "https://open.spotify.com/album/40wVAvHCbmwu0NHGUumOro"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Chris Tall",
+          "url": "https://open.spotify.com/artist/0exB6UwclmlyA9gRpitxTZ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146826,
+      "name": "Schaf",
+      "url": "https://open.spotify.com/track/0wD53LCFE5T7wnvu9nohaW"
     },
     {
       "album": {

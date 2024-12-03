@@ -1,24 +1,20 @@
 {
   "description": "Your daily update of the most viral tracks right now - Bulgaria.",
-  "num_followers": 6915,
+  "num_followers": 6914,
   "original_name": "Viral 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lt/RIAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LuEioAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
-        "name": "Sucker (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
       "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        },
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
@@ -26,14 +22,18 @@
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
       "duration_ms": 224293,
-      "name": "Sucker (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3"
+      "name": "Sucker - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/2aF78CWbNOyppg49sCZ4Cm"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
         "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
@@ -53,16 +53,12 @@
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
-        "name": "To Ashes and Blood (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/3tm2lX4PPpYX1aRAJrgl2R"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
       "artists": [
-        {
-          "name": "Woodkid",
-          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
-        },
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
@@ -70,14 +66,18 @@
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Woodkid",
+          "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
         }
       ],
       "duration_ms": 245626,
-      "name": "To Ashes and Blood (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk"
+      "name": "To Ashes and Blood - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/2MAk9ErHJIxgBZRXocHhly"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "G\u20acI",
         "url": "https://open.spotify.com/album/3uLSGfhQVupY8nKVa7aV3Q"
@@ -93,16 +93,12 @@
       "url": "https://open.spotify.com/track/5hkHqC0v2ViGRGBgfz02ns"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
-        "name": "Hellfire (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
       "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        },
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
@@ -110,14 +106,38 @@
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
         }
       ],
       "duration_ms": 164773,
-      "name": "Hellfire (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC"
+      "name": "Hellfire - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6n484S6vV8IUenkz43YzTt"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Paint The Town Blue (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
@@ -141,27 +161,83 @@
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         },
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2o5bktFpbunEjytnfqryWc"
         }
       ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+      "duration_ms": 101533,
+      "name": "Heavy Is The Crown - Original Score / from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/2M1DKFIBC7JbtJCPFkqY0a"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Jarina De Marco",
+          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Renegade (We Never Run) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1g6pDk9hvdVC08Qw2Sm4kX"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "G\u20acI",
+        "url": "https://open.spotify.com/album/3uLSGfhQVupY8nKVa7aV3Q"
+      },
+      "artists": [
+        {
+          "name": "Purjeni Pukanki",
+          "url": "https://open.spotify.com/artist/4yq11aXIyj66R3O925HAxZ"
+        }
+      ],
+      "duration_ms": 220449,
+      "name": "DOLEN",
+      "url": "https://open.spotify.com/track/4lcldJ4pOzDGPeJKenKAHh"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Come Play (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
@@ -193,71 +269,23 @@
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
-        "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/43WadbDjTaVOZamDGPkRqV"
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
       },
       "artists": [
         {
-          "name": "Raja Kumari",
-          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Jarina De Marco",
-          "url": "https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL"
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/7dqTJ7Ba3VtBtGTXHRK8N8"
+      "duration_ms": 215481,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/2Iu5auPZp12ftZiNv0eZP5"
-      },
-      "artists": [
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        },
-        {
-          "name": "Emily Armstrong",
-          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        }
-      ],
-      "duration_ms": 101533,
-      "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/0i77506epd8NgmHxZwMOwS"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "G\u20acI",
-        "url": "https://open.spotify.com/album/3uLSGfhQVupY8nKVa7aV3Q"
-      },
-      "artists": [
-        {
-          "name": "Purjeni Pukanki",
-          "url": "https://open.spotify.com/artist/4yq11aXIyj66R3O925HAxZ"
-        }
-      ],
-      "duration_ms": 220449,
-      "name": "DOLEN",
-      "url": "https://open.spotify.com/track/4lcldJ4pOzDGPeJKenKAHh"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
@@ -273,23 +301,7 @@
       "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
-      },
-      "artists": [
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
-      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "\u041a\u0430\u043a \u0415\u0441\u0435\u043d\u0438\u043d",
         "url": "https://open.spotify.com/album/1aNxDCQgv3lq1oGAj4j8nQ"
@@ -309,23 +321,23 @@
       "url": "https://open.spotify.com/track/0mM9pAcHb228EyEgDtdJZb"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
-        "name": "Speak for Yourself",
-        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
       },
       "artists": [
         {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
         }
       ],
-      "duration_ms": 215481,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+      "duration_ms": 243133,
+      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
@@ -345,7 +357,23 @@
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "SLUT SZN",
+        "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 138180,
+      "name": "Gang Baby",
+      "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6r8UT9MVb36K5XeGVUCqVA"
@@ -369,7 +397,7 @@
       "url": "https://open.spotify.com/track/0ftoT1YpcxirRkamObuop0"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "\u0412\u044f\u0442\u044a\u0440\u0430",
         "url": "https://open.spotify.com/album/5GghhqIxx10U65WCYa6LCE"
@@ -389,16 +417,12 @@
       "url": "https://open.spotify.com/track/2KBXfG7eaVy22lc3YgsBlh"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
-        "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
       "artists": [
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        },
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
@@ -406,30 +430,34 @@
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
         }
       ],
-      "duration_ms": 161040,
-      "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby"
+      "duration_ms": 161039,
+      "name": "I Can't Hear It Now - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/4l4J1USPK4D1yTdMtOifQ2"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
-        "name": "SLUT SZN",
-        "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
+        "name": "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
+        "url": "https://open.spotify.com/album/1XLdikkaCcsEjBkqroz5PG"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+          "name": "SABINA",
+          "url": "https://open.spotify.com/artist/7gA8Yf9qX1FT8hMwaz64D9"
         }
       ],
-      "duration_ms": 138180,
-      "name": "Gang Baby",
-      "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
+      "duration_ms": 220264,
+      "name": "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
+      "url": "https://open.spotify.com/track/1p0t3TjhW0ncmYWYDrCmOI"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "QATAR",
         "url": "https://open.spotify.com/album/2jSaas51h7T9gw5G8Uey4r"
@@ -449,39 +477,23 @@
       "url": "https://open.spotify.com/track/6DT28qnXNfyOqoVxWcjXbX"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
-        "name": "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
-        "url": "https://open.spotify.com/album/1XLdikkaCcsEjBkqroz5PG"
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
       "artists": [
         {
-          "name": "SABINA",
-          "url": "https://open.spotify.com/artist/7gA8Yf9qX1FT8hMwaz64D9"
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 220264,
-      "name": "\u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d",
-      "url": "https://open.spotify.com/track/1p0t3TjhW0ncmYWYDrCmOI"
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Ulitsata",
-        "url": "https://open.spotify.com/album/3K29avyMeoqqBU0urUoR18"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Pismo",
-      "url": "https://open.spotify.com/track/3slJa7NhnfEsmH3DZW7iHd"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -497,7 +509,23 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "Ulitsata",
+        "url": "https://open.spotify.com/album/3K29avyMeoqqBU0urUoR18"
+      },
+      "artists": [
+        {
+          "name": "Preslava",
+          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Pismo",
+      "url": "https://open.spotify.com/track/3slJa7NhnfEsmH3DZW7iHd"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Nu Delhi",
         "url": "https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa"
@@ -513,7 +541,39 @@
       "url": "https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "Lose Yourself",
+        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 131786,
+      "name": "Igloo",
+      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "Revolutionary, Vol. 1",
+        "url": "https://open.spotify.com/album/5oSeZDMpbXW5E9v13kDicA"
+      },
+      "artists": [
+        {
+          "name": "Immortal Technique",
+          "url": "https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa"
+        }
+      ],
+      "duration_ms": 579293,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -533,7 +593,27 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "088",
+        "url": "https://open.spotify.com/album/1sF7DEJq86bQ2zgkKJxaHm"
+      },
+      "artists": [
+        {
+          "name": "Martin",
+          "url": "https://open.spotify.com/artist/4Gk9vGkSFLeNOdom4P0t8N"
+        },
+        {
+          "name": "Mirela",
+          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
+        }
+      ],
+      "duration_ms": 161086,
+      "name": "088",
+      "url": "https://open.spotify.com/track/2keBOP6Rp3PfbLXrFjNDKq"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Bad Dreams",
         "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
@@ -549,7 +629,39 @@
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
+      },
+      "artists": [
+        {
+          "name": "Stepz",
+          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
+        }
+      ],
+      "duration_ms": 144113,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Menina de Vermelho",
         "url": "https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s"
@@ -573,7 +685,7 @@
       "url": "https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -593,71 +705,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Revolutionary, Vol. 1",
-        "url": "https://open.spotify.com/album/5oSeZDMpbXW5E9v13kDicA"
-      },
-      "artists": [
-        {
-          "name": "Immortal Technique",
-          "url": "https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa"
-        }
-      ],
-      "duration_ms": 579293,
-      "name": "Dance With The Devil",
-      "url": "https://open.spotify.com/track/4LCzEYKPFcd2FCOmZdVDnM"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq"
-      },
-      "artists": [
-        {
-          "name": "Stepz",
-          "url": "https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P"
-        }
-      ],
-      "duration_ms": 144113,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke (Opening Theme to DAN DA DAN)",
         "url": "https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H"
@@ -673,151 +721,7 @@
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 147146,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
-      },
-      "artists": [
-        {
-          "name": "Ati242",
-          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Italy Forma",
-      "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Lose Yourself",
-        "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 131786,
-      "name": "Igloo",
-      "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "088",
-        "url": "https://open.spotify.com/album/1sF7DEJq86bQ2zgkKJxaHm"
-      },
-      "artists": [
-        {
-          "name": "Martin",
-          "url": "https://open.spotify.com/artist/4Gk9vGkSFLeNOdom4P0t8N"
-        },
-        {
-          "name": "Mirela",
-          "url": "https://open.spotify.com/artist/4aPsL8sPDTXIR11gYfAb0i"
-        }
-      ],
-      "duration_ms": 161086,
-      "name": "088",
-      "url": "https://open.spotify.com/track/2keBOP6Rp3PfbLXrFjNDKq"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 301623,
-      "name": "S\u00e3o Paulo (feat. Anitta)",
-      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "GELME \u0130STEMEM",
-        "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "GELME \u0130STEMEM",
-      "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "S'AGAPAO",
-        "url": "https://open.spotify.com/album/6gpOEYOf3fXqhCUZ1QGICs"
-      },
-      "artists": [
-        {
-          "name": "Pashata",
-          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
-        },
-        {
-          "name": "Torino",
-          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
-        },
-        {
-          "name": "Kyriacos Georgiou",
-          "url": "https://open.spotify.com/artist/7ggnflhZFj5JgeLONFQlFv"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "S'AGAPAO",
-      "url": "https://open.spotify.com/track/57uzkNgvgECZ1WIXPcDVnJ"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "If I Should Fall from Grace with God (Expanded Edition)",
         "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
@@ -837,35 +741,7 @@
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 255915,
-      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
-      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Our Love (From the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1tIhcMv442xiVxVs9ryq62"
@@ -893,7 +769,75 @@
       "url": "https://open.spotify.com/track/58JG1aDmXbh6CNt2kaePz1"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "GELME \u0130STEMEM",
+        "url": "https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "GELME \u0130STEMEM",
+      "url": "https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/44MHvpU3h9Wp6SxhsC9GOK"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 301623,
+      "name": "S\u00e3o Paulo (feat. Anitta)",
+      "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "SPOOKY",
         "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
@@ -913,7 +857,75 @@
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "S'AGAPAO",
+        "url": "https://open.spotify.com/album/6gpOEYOf3fXqhCUZ1QGICs"
+      },
+      "artists": [
+        {
+          "name": "Pashata",
+          "url": "https://open.spotify.com/artist/2YAAnLogLeNYzffelkG6lF"
+        },
+        {
+          "name": "Torino",
+          "url": "https://open.spotify.com/artist/47WAtpqR2af9uiq2HWwWNM"
+        },
+        {
+          "name": "Kyriacos Georgiou",
+          "url": "https://open.spotify.com/artist/7ggnflhZFj5JgeLONFQlFv"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "S'AGAPAO",
+      "url": "https://open.spotify.com/track/57uzkNgvgECZ1WIXPcDVnJ"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "CHROMAKOPIA",
+        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 255915,
+      "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+      "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "6:45",
+        "url": "https://open.spotify.com/album/0LifwlCqALAbqvSx2fRSXR"
+      },
+      "artists": [
+        {
+          "name": "Na\u00efka",
+          "url": "https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT"
+        }
+      ],
+      "duration_ms": 202134,
+      "name": "6:45",
+      "url": "https://open.spotify.com/track/6LH1KKXEw1K8UEKMK75qyz"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "In Excellent Order",
         "url": "https://open.spotify.com/album/30lqUcHnBNxCseddTVrXIU"
@@ -929,7 +941,39 @@
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
     },
     {
-      "added_at": "2024-12-01 15:21:52",
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "\u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0413\u043b\u043e\u0431\u0443\u0441",
+        "url": "https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u043d\u0441\u0430\u043c\u0431\u043b\u044c \u0412\u0435\u0441\u0451\u043b\u044b\u0435 \u0440\u0435\u0431\u044f\u0442\u0430",
+          "url": "https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
+      "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
+      "album": {
+        "name": "Ama Yine Sen",
+        "url": "https://open.spotify.com/album/2fizaOAFU7kItJMC944eAj"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "duration_ms": 134946,
+      "name": "Ama Yine Sen",
+      "url": "https://open.spotify.com/track/0Kg4pWKYkIIgjNOSaQdqJQ"
+    },
+    {
+      "added_at": "2024-12-02 14:14:54",
       "album": {
         "name": "Mevzu Derin",
         "url": "https://open.spotify.com/album/7uErRgriSGAo5uk8viwQR7"
@@ -943,42 +987,6 @@
       "duration_ms": 209866,
       "name": "Mevzu Derin",
       "url": "https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "Cum n Cocaine",
-        "url": "https://open.spotify.com/album/7l7A0JXx3s5pEdOPv9X7mk"
-      },
-      "artists": [
-        {
-          "name": "BJ Lips",
-          "url": "https://open.spotify.com/artist/22jHNXFZFhbCjUcEAm5xl9"
-        },
-        {
-          "name": "princess paparazzi",
-          "url": "https://open.spotify.com/artist/2avrAiKHyEOuZq92O1yIxV"
-        }
-      ],
-      "duration_ms": 173168,
-      "name": "Love Potions",
-      "url": "https://open.spotify.com/track/4yMMsS5QaEcsHZkKwdEyLv"
-    },
-    {
-      "added_at": "2024-12-01 15:21:52",
-      "album": {
-        "name": "DRIP",
-        "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 180845,
-      "name": "DRIP",
-      "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     }
   ],
   "unique_name": "Viral 50 - Bulgaria",

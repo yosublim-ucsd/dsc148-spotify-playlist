@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 82035,
+  "num_followers": 82062,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "luv stuck",
-        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "piri",
-          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
-        }
-      ],
-      "duration_ms": 160440,
-      "name": "luv stuck",
-      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "PUT THE PHONE DOWN",
         "url": "https://open.spotify.com/album/4xpV5tPofSJkLtGXnMiNss"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 234857,
       "name": "PUT THE PHONE DOWN",
       "url": "https://open.spotify.com/track/6xD5w6rmy22iyMbO8jEpGH"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "luv stuck",
+        "url": "https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "piri",
+          "url": "https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s"
+        }
+      ],
+      "duration_ms": 160440,
+      "name": "luv stuck",
+      "url": "https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Run It",
+        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "duration_ms": 211714,
+      "name": "Run It",
+      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Ooh",
         "url": "https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 192724,
       "name": "Ooh",
       "url": "https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Run It",
-        "url": "https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF"
-      },
-      "artists": [
-        {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
-        }
-      ],
-      "duration_ms": 211714,
-      "name": "Run It",
-      "url": "https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO"
     },
     {
       "added_at": "2024-11-29 00:00:00",

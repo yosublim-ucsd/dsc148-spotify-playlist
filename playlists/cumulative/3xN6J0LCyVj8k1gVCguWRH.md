@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Summer 23 edition &amp; bonus tracks.
 
-4,232 songs - 9 day 21 hr 25 min
+4,233 songs - 9 day 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4188,6 +4188,7 @@
 | [You & Me](https://open.spotify.com/track/3ZnYpheZpuAIiRdWSJQxNF) | [Adam Rom](https://open.spotify.com/artist/4oOcOSicmBDeT6JfIWnCbf), [àB](https://open.spotify.com/artist/0Ki8IJ8C17peRsgYPa78q1) | [You & Me](https://open.spotify.com/album/5H1S2KWJWxPhBcaNsAeGU7) | 2:31 | 2020-04-22 | 2020-05-24 |
 | [You & Me](https://open.spotify.com/track/0j8Czyl6iYqRiQn1feRtsh) | [Steph Devine](https://open.spotify.com/artist/6ZOjeqFeVNL0cPgouVRcHd) | [You & Me](https://open.spotify.com/album/2mAh6k3S7CISqRa7HanmhN) | 3:02 | 2021-11-24 | 2021-12-18 |
 | [you + I + our cat](https://open.spotify.com/track/4W0BbcNBFeqQfiauf3QXaO) | [Alexi Fehlman](https://open.spotify.com/artist/4ARvgAdqg94Xby2NzrYblp) | [1998](https://open.spotify.com/album/4YjFZ32iJRUp0fvWobBpEh) | 2:03 | 2024-08-03 | 2024-08-15 |
+| [You + Me](https://open.spotify.com/track/5RNlGFKrQJyjTyEjbi9zaR) | [Juliana Hale](https://open.spotify.com/artist/7akw9Bd9xFiidnx2ZfNQxw) | [You + Me](https://open.spotify.com/album/74fGPsog8j5HQzl98NauC9) | 2:17 | 2024-12-02 |  |
 | [You Ain't Got Me](https://open.spotify.com/track/2LhRZFpsFCgLu0DnvsMiOG) | [Marty O'Neill](https://open.spotify.com/artist/3tIkLvNAAQfZdJwbDASQsz) | [You Ain't Got Me](https://open.spotify.com/album/2uwdZ2fwxDSz3XrEUPn9FT) | 3:21 | 2024-02-25 | 2024-03-08 |
 | [You Ain't The Problem](https://open.spotify.com/track/3zJ5RDG0bLQAV2rntFgUtb) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [KIWANUKA](https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ) | 4:09 | 2021-07-11 | 2024-04-21 |
 | [You and I](https://open.spotify.com/track/3iVLIQ2ClqhIRTovJmGD5N) | [Karmacoda](https://open.spotify.com/artist/4X45nKUBNLpHB92NUo3TQE) | [You And I](https://open.spotify.com/album/6vTdjz4RfvsQLeVxz4wkfD) | 4:06 | 2024-07-30 | 2024-08-11 |

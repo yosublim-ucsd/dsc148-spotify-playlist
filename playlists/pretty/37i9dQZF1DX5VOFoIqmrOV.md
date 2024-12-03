@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,189 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,343 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 10 | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG) | 3:24 |
 | 11 | [Maate Vinadhuga](https://open.spotify.com/track/15tihU7QrnhaBvE7hXGDwa) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Taxiwaala](https://open.spotify.com/album/287bcBsBqqod9rNEsITpJN) | 4:56 |
 | 12 | [Urike Urike](https://open.spotify.com/track/3Chq3BCsBaK3VHX7yPtAC4) | [MM Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Urike Urike \(From "Hit 2"\)](https://open.spotify.com/album/7r8A3HBoG7OvQUEBjecUe1) | 4:35 |
-| 13 | [Arere Yekkada](https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:56 |
-| 14 | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 |
+| 13 | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 |
+| 14 | [Arere Yekkada](https://open.spotify.com/track/1SbK7OHdqsTUfzPVKylwND) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Nenu Local](https://open.spotify.com/album/7D1e4SHtUU145PYbUiZ4F7) | 3:56 |
 | 15 | [Oosupodu](https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:33 |
 | 16 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 |
 | 17 | [Tillu Anna DJ Pedithe](https://open.spotify.com/track/4ZNIkO2j6K2c0Nm8zWXmdn) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [DJ Tillu](https://open.spotify.com/album/3loo3ZQ43Rsu0FdtorNZE0) | 3:03 |

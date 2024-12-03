@@ -14062,7 +14062,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 262674,
       "name": "Jeevakkintha",
       "url": "https://open.spotify.com/track/6gnmSnNX4ycJbqy39wC52F"
@@ -26257,6 +26257,40 @@
     },
     {
       "album": {
+        "name": "Peelings (From \"Pushpa 2 The Rule\") [KANNADA]",
+        "url": "https://open.spotify.com/album/4ehV7lNdx9rbjCC8eVhd3T"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Amala Chebolu",
+          "url": "https://open.spotify.com/artist/0DdlrGRKjpM9Mqon7dHVm8"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        },
+        {
+          "name": "Siju Thuravoor",
+          "url": "https://open.spotify.com/artist/6UtEvO4Sbr0uooYqdpFTDI"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247159,
+      "name": "Peelings (From \"Pushpa 2 The Rule\") [KANNADA]",
+      "url": "https://open.spotify.com/track/1KZSnDdPhkh1oXe5Vog74i"
+    },
+    {
+      "album": {
         "name": "Mr. Madimaye",
         "url": "https://open.spotify.com/album/2exhsxVgCKRR6PAKOxbqlr"
       },
@@ -28458,6 +28492,32 @@
       "duration_ms": 226975,
       "name": "Sadaa Neene (From \"Ibbani Tabbida Ileyali\")",
       "url": "https://open.spotify.com/track/0LNLgN8Prqzm7OsMO88e3L"
+    },
+    {
+      "album": {
+        "name": "Sadhaa (From \"Nimma Vasthugalige Neeve Javaabdaararu\")",
+        "url": "https://open.spotify.com/album/1N13mE9k3HPqVMS8QRCEvq"
+      },
+      "artists": [
+        {
+          "name": "Prasad K Shetty",
+          "url": "https://open.spotify.com/artist/20uxeH7uGGbhMA8RqEjUf4"
+        },
+        {
+          "name": "Keshav Moorthy",
+          "url": "https://open.spotify.com/artist/79xBEVnseG23fDs12xWsAi"
+        },
+        {
+          "name": "Padmaja Sreenivasan",
+          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198399,
+      "name": "Sadhaa (From \"Nimma Vasthugalige Neeve Javaabdaararu\")",
+      "url": "https://open.spotify.com/track/127oMYKnLPYUQlRfWi5jLa"
     },
     {
       "album": {

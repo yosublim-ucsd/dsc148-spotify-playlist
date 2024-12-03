@@ -1,6 +1,6 @@
 {
   "description": "Ancient North African rhythms.",
-  "num_followers": 63289,
+  "num_followers": 63317,
   "original_name": "Gnawa Music",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
-        "name": "Gnawa Or Never",
-        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
-      },
-      "artists": [
-        {
-          "name": "Maalem Said Damir & Gnawa Allstars",
-          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
-        }
-      ],
-      "duration_ms": 617000,
-      "name": "La Ilaha Illa Allah",
-      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
         "name": "Sidi Kmmy",
         "url": "https://open.spotify.com/album/4R9ejsPkbyxzaPvuGS8MTR"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 241320,
       "name": "Goumari",
       "url": "https://open.spotify.com/track/3JDC2CqjkLvuRTNFelfZks"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
+        "name": "Gnawa Or Never",
+        "url": "https://open.spotify.com/album/1RNkQnZN4hfzpglvXZYOiT"
+      },
+      "artists": [
+        {
+          "name": "Maalem Said Damir & Gnawa Allstars",
+          "url": "https://open.spotify.com/artist/1eW4hySgxJo9LUIX2m16iS"
+        }
+      ],
+      "duration_ms": 617000,
+      "name": "La Ilaha Illa Allah",
+      "url": "https://open.spotify.com/track/25hCkE9Tf3jMcYGiRgUpwf"
     },
     {
       "added_at": "2024-10-14 07:27:16",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-10-14 07:27:16",
       "album": {
-        "name": "The Fire Within: Gnawa Music of Morocco",
-        "url": "https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk"
-      },
-      "artists": [
-        {
-          "name": "Hassan Hakmoun",
-          "url": "https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Sidi Musa",
-      "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
-    },
-    {
-      "added_at": "2024-10-14 07:27:16",
-      "album": {
         "name": "Africa Soyo",
         "url": "https://open.spotify.com/album/0TS8sECdyoJTL0n7aKozrx"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 388466,
       "name": "Arabiato",
       "url": "https://open.spotify.com/track/2THND2AOdM0UKRIi5RJNZk"
+    },
+    {
+      "added_at": "2024-10-14 07:27:16",
+      "album": {
+        "name": "The Fire Within: Gnawa Music of Morocco",
+        "url": "https://open.spotify.com/album/2wE418tzzMYCA4feuDvGJk"
+      },
+      "artists": [
+        {
+          "name": "Hassan Hakmoun",
+          "url": "https://open.spotify.com/artist/2eYnBrgHAUt4OopbZjzZur"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Sidi Musa",
+      "url": "https://open.spotify.com/track/0Fxaf2KMQl9JJHIxoXL7Xn"
     },
     {
       "added_at": "2024-10-14 07:27:16",

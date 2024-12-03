@@ -1,73 +1,13 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12484,
+  "num_followers": 12487,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zxq0JgAAAAA9yoHTBkwcEVSDp+ORoHkV",
+  "snapshot_id": "Z05QugAAAADNMAd+zTlgblKkCooJYF8g",
   "tracks": [
-    {
-      "added_at": "2024-10-24 00:41:11",
-      "album": {
-        "name": "Reassemblage",
-        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
-      },
-      "artists": [
-        {
-          "name": "Visible Cloaks",
-          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
-        },
-        {
-          "name": "Motion Graphics",
-          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Terrazzo",
-      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
-    },
-    {
-      "added_at": "2024-08-19 20:55:28",
-      "album": {
-        "name": "Continuum 1",
-        "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 433750,
-      "name": "Continuum 1",
-      "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
-    },
-    {
-      "added_at": "2024-06-19 16:43:41",
-      "album": {
-        "name": "three",
-        "url": "https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO"
-      },
-      "artists": [
-        {
-          "name": "Black Decelerant",
-          "url": "https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo"
-        },
-        {
-          "name": "Contour",
-          "url": "https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF"
-        },
-        {
-          "name": "Omari Jazz",
-          "url": "https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT"
-        }
-      ],
-      "duration_ms": 350000,
-      "name": "three",
-      "url": "https://open.spotify.com/track/5PscXPqV4pst0hyzQwEveE"
-    },
     {
       "added_at": "2022-11-17 23:02:33",
       "album": {
@@ -85,40 +25,20 @@
       "url": "https://open.spotify.com/track/0nWOYmDaMsM7uJChu8zspP"
     },
     {
-      "added_at": "2024-08-29 04:26:03",
+      "added_at": "2024-12-03 00:28:42",
       "album": {
-        "name": "Soft Power",
-        "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
+        "name": "Denial, Creation",
+        "url": "https://open.spotify.com/album/6BPxwe4Eit3VEPCfVwnmUZ"
       },
       "artists": [
         {
-          "name": "Ezra Feinberg",
-          "url": "https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J"
-        },
-        {
-          "name": "David Lackner",
-          "url": "https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS"
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
         }
       ],
-      "duration_ms": 358826,
-      "name": "Soft Power",
-      "url": "https://open.spotify.com/track/3PPBJ6mj7Tzze05XGCCW07"
-    },
-    {
-      "added_at": "2024-08-29 04:26:03",
-      "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 277042,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
+      "duration_ms": 219960,
+      "name": "Denial, Creation",
+      "url": "https://open.spotify.com/track/6IheMaJSyIfRpXgMDE1Ajw"
     },
     {
       "added_at": "2023-01-03 03:48:53",
@@ -139,62 +59,6 @@
       "duration_ms": 396066,
       "name": "Journey In Satchidananda",
       "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
-    },
-    {
-      "added_at": "2024-06-27 20:04:51",
-      "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
-      },
-      "artists": [
-        {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 466420,
-      "name": "that love",
-      "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
-    },
-    {
-      "added_at": "2024-07-29 22:29:35",
-      "album": {
-        "name": "Yo No Soy Marinero",
-        "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
-      },
-      "artists": [
-        {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        }
-      ],
-      "duration_ms": 153249,
-      "name": "La Cuna del Cisne",
-      "url": "https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0"
-    },
-    {
-      "added_at": "2024-07-05 03:19:52",
-      "album": {
-        "name": "Onda tropical, I. Rebajado",
-        "url": "https://open.spotify.com/album/2p1DKUbDsLovwhPvhnghYO"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Mart\u00ednez Torres",
-          "url": "https://open.spotify.com/artist/6ShKSeyhrhCraDsF8V6lQK"
-        },
-        {
-          "name": "La Corea\u00f1era",
-          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
-        },
-        {
-          "name": "Dartmouth College Wind Ensemble",
-          "url": "https://open.spotify.com/artist/1YOqrJCb5IRzdBUKc9rAon"
-        }
-      ],
-      "duration_ms": 357705,
-      "name": "Onda tropical, I. Rebajado",
-      "url": "https://open.spotify.com/track/1eZkkqimRQ4rZx1TqRsYsl"
     },
     {
       "added_at": "2024-07-05 03:19:52",
@@ -321,20 +185,20 @@
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Black Earth",
-        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "Hidden Orchestra",
+          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
         }
       ],
-      "duration_ms": 387666,
-      "name": "Constant Fear",
-      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
+      "duration_ms": 344640,
+      "name": "Spoken",
+      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
       "added_at": "2022-05-18 00:18:47",
@@ -355,22 +219,6 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
-      },
-      "artists": [
-        {
-          "name": "Hidden Orchestra",
-          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
-        }
-      ],
-      "duration_ms": 344640,
-      "name": "Spoken",
-      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
         "name": "Don't Shy Away",
         "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
@@ -383,6 +231,38 @@
       "duration_ms": 290053,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Black Earth",
+        "url": "https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 387666,
+      "name": "Constant Fear",
+      "url": "https://open.spotify.com/track/3KJeOdlwj5W0c9XIrjqzY0"
+    },
+    {
+      "added_at": "2024-08-19 20:55:28",
+      "album": {
+        "name": "Continuum 1",
+        "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
+      },
+      "artists": [
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 433750,
+      "name": "Continuum 1",
+      "url": "https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -453,52 +333,36 @@
       "url": "https://open.spotify.com/track/2Wag0xzd7wPBzPjyo4lpGL"
     },
     {
-      "added_at": "2024-10-24 20:55:02",
+      "added_at": "2024-08-29 04:26:03",
       "album": {
-        "name": "Moon Kin",
-        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
       },
       "artists": [
         {
-          "name": "Emanuele Triglia",
-          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
-        },
-        {
-          "name": "Davide Savarese",
-          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
-        },
-        {
-          "name": "QWALE",
-          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
-        },
-        {
-          "name": "Francesco Fratini",
-          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
-        },
-        {
-          "name": "Vincenzo Lato",
-          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
         }
       ],
-      "duration_ms": 156838,
-      "name": "Samo",
-      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
+      "duration_ms": 277042,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/5EfkwvbIj8lGTUCppaKcL1"
     },
     {
-      "added_at": "2022-09-03 03:50:05",
+      "added_at": "2024-07-29 22:29:35",
       "album": {
-        "name": "Sunset Mission",
-        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+        "name": "Yo No Soy Marinero",
+        "url": "https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5"
       },
       "artists": [
         {
-          "name": "Bohren & Der Club Of Gore",
-          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         }
       ],
-      "duration_ms": 351120,
-      "name": "Black City Skyline",
-      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+      "duration_ms": 153249,
+      "name": "La Cuna del Cisne",
+      "url": "https://open.spotify.com/track/5YTa4iuyMjso4skLWLYRe0"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -517,6 +381,42 @@
       "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
     },
     {
+      "added_at": "2022-09-03 03:50:05",
+      "album": {
+        "name": "Sunset Mission",
+        "url": "https://open.spotify.com/album/3CrWNG2oqbEBHKAqfZP6CO"
+      },
+      "artists": [
+        {
+          "name": "Bohren & Der Club Of Gore",
+          "url": "https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf"
+        }
+      ],
+      "duration_ms": 351120,
+      "name": "Black City Skyline",
+      "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+    },
+    {
+      "added_at": "2024-08-29 04:26:03",
+      "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
+      },
+      "artists": [
+        {
+          "name": "Ezra Feinberg",
+          "url": "https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J"
+        },
+        {
+          "name": "David Lackner",
+          "url": "https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS"
+        }
+      ],
+      "duration_ms": 358826,
+      "name": "Soft Power",
+      "url": "https://open.spotify.com/track/3PPBJ6mj7Tzze05XGCCW07"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Hex",
@@ -531,6 +431,26 @@
       "duration_ms": 593866,
       "name": "Pendulum Man",
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+    },
+    {
+      "added_at": "2024-10-24 00:41:11",
+      "album": {
+        "name": "Reassemblage",
+        "url": "https://open.spotify.com/album/5YMsM8N0PVicGhnDiFO3NK"
+      },
+      "artists": [
+        {
+          "name": "Visible Cloaks",
+          "url": "https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG"
+        },
+        {
+          "name": "Motion Graphics",
+          "url": "https://open.spotify.com/artist/0vmZnQdyuSYbU9F61oApmi"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Terrazzo",
+      "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -633,22 +553,6 @@
       "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
-      "added_at": "2024-01-05 03:52:17",
-      "album": {
-        "name": "Ultramarine",
-        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
-      },
-      "artists": [
-        {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
-        }
-      ],
-      "duration_ms": 189067,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
-    },
-    {
       "added_at": "2022-09-03 03:50:05",
       "album": {
         "name": "Black Earth",
@@ -681,6 +585,38 @@
       "url": "https://open.spotify.com/track/1uJHtmLkOTQuCJ5AGKjLQU"
     },
     {
+      "added_at": "2024-06-27 20:04:51",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 466420,
+      "name": "that love",
+      "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
+    },
+    {
+      "added_at": "2024-01-05 03:52:17",
+      "album": {
+        "name": "Ultramarine",
+        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 189067,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
+    },
+    {
       "added_at": "2023-01-12 02:08:10",
       "album": {
         "name": "Antidotes 2",
@@ -695,6 +631,38 @@
       "duration_ms": 200724,
       "name": "An Avalanche",
       "url": "https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl"
+    },
+    {
+      "added_at": "2024-10-24 20:55:02",
+      "album": {
+        "name": "Moon Kin",
+        "url": "https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm"
+      },
+      "artists": [
+        {
+          "name": "Emanuele Triglia",
+          "url": "https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp"
+        },
+        {
+          "name": "Davide Savarese",
+          "url": "https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf"
+        },
+        {
+          "name": "QWALE",
+          "url": "https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh"
+        },
+        {
+          "name": "Francesco Fratini",
+          "url": "https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB"
+        },
+        {
+          "name": "Vincenzo Lato",
+          "url": "https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV"
+        }
+      ],
+      "duration_ms": 156838,
+      "name": "Samo",
+      "url": "https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H"
     },
     {
       "added_at": "2024-04-15 14:39:19",
@@ -933,26 +901,6 @@
       "url": "https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8"
     },
     {
-      "added_at": "2024-04-23 00:31:13",
-      "album": {
-        "name": "Hell To The Liars (feat. NATURE)",
-        "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 571168,
-      "name": "Hell To The Liars (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
-    },
-    {
       "added_at": "2022-01-07 01:30:59",
       "album": {
         "name": "Mountains, Go",
@@ -983,6 +931,26 @@
       "duration_ms": 519893,
       "name": "Management Of Sorrows",
       "url": "https://open.spotify.com/track/1E2ShBrH7M8h4GLKrLWYa6"
+    },
+    {
+      "added_at": "2024-04-23 00:31:13",
+      "album": {
+        "name": "Hell To The Liars (feat. NATURE)",
+        "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 571168,
+      "name": "Hell To The Liars (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1035,6 +1003,30 @@
       "duration_ms": 244773,
       "name": "The Last Retention",
       "url": "https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l"
+    },
+    {
+      "added_at": "2024-07-05 03:19:52",
+      "album": {
+        "name": "Onda tropical, I. Rebajado",
+        "url": "https://open.spotify.com/album/2p1DKUbDsLovwhPvhnghYO"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Mart\u00ednez Torres",
+          "url": "https://open.spotify.com/artist/6ShKSeyhrhCraDsF8V6lQK"
+        },
+        {
+          "name": "La Corea\u00f1era",
+          "url": "https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7"
+        },
+        {
+          "name": "Dartmouth College Wind Ensemble",
+          "url": "https://open.spotify.com/artist/1YOqrJCb5IRzdBUKc9rAon"
+        }
+      ],
+      "duration_ms": 357705,
+      "name": "Onda tropical, I. Rebajado",
+      "url": "https://open.spotify.com/track/1eZkkqimRQ4rZx1TqRsYsl"
     },
     {
       "added_at": "2022-09-03 03:31:24",
@@ -1145,6 +1137,22 @@
       "url": "https://open.spotify.com/track/4zVsCgH8X9n8GcJDkAIoda"
     },
     {
+      "added_at": "2024-04-12 00:43:48",
+      "album": {
+        "name": "Sharko III",
+        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
+      },
+      "artists": [
+        {
+          "name": "Sharko",
+          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
+        }
+      ],
+      "duration_ms": 76013,
+      "name": "Stuck T",
+      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Odin's Raven Magic (with Steind\u00f3r Andersen, Hilmar \u00d6rn Hilmarsson and Mar\u00eda Huld Markan Sigf\u00fasd\u00f3ttir)",
@@ -1187,22 +1195,6 @@
       "duration_ms": 316285,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
-    },
-    {
-      "added_at": "2024-04-12 00:43:48",
-      "album": {
-        "name": "Sharko III",
-        "url": "https://open.spotify.com/album/3H6BhpPQlClUmtmWU64Nf8"
-      },
-      "artists": [
-        {
-          "name": "Sharko",
-          "url": "https://open.spotify.com/artist/5veoEV952L2RgoVqspFtJ5"
-        }
-      ],
-      "duration_ms": 76013,
-      "name": "Stuck T",
-      "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
     },
     {
       "added_at": "2021-10-06 04:38:12",

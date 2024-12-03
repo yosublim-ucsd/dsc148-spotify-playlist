@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 19021,
+  "num_followers": 19022,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABz+HXP+cEa+EHrWm8Q7aud",
+  "snapshot_id": "Z0unAAAAAAD9dRlBDmFmXN3Un3tDZOJU",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 250906,
-      "name": "Exploration (Ruins)",
-      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
+      "duration_ms": 178468,
+      "name": "Sansee (Day)",
+      "url": "https://open.spotify.com/track/7oz2bT45ONhG22djgJnskz"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 178468,
-      "name": "Sansee (Day)",
-      "url": "https://open.spotify.com/track/7oz2bT45ONhG22djgJnskz"
+      "duration_ms": 250906,
+      "name": "Exploration (Ruins)",
+      "url": "https://open.spotify.com/track/6TWyBecuHVquzKm4kPN0Jw"
     },
     {
       "added_at": null,

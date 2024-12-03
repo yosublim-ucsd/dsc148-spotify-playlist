@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 76248,
       "name": "Campo De Morango",
       "url": "https://open.spotify.com/track/4T88uzmAghjSBhABSz7jcB"
@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 129399,
       "name": "fetiche",
       "url": "https://open.spotify.com/track/1wZDEMcxsjIxRJmbxsKgMV"
@@ -4048,7 +4048,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 154023,
       "name": "Mil Veces",
       "url": "https://open.spotify.com/track/307kaV2BoOC4pRRzwJUJxf"
@@ -4864,6 +4864,28 @@
       "duration_ms": 150731,
       "name": "Passando o Rodo (feat. Tain\u00e1 Costa)",
       "url": "https://open.spotify.com/track/6z7CbJhWEVXZyFv2Y0CjCs"
+    },
+    {
+      "album": {
+        "name": "Busco Romance Love Show",
+        "url": "https://open.spotify.com/album/2zyFX1ugXaACO1jRktn1l1"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "passarela",
+      "url": "https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz"
     },
     {
       "album": {
@@ -6490,7 +6512,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 190834,
       "name": "solto (hist\u00f3rias de amor)",
       "url": "https://open.spotify.com/track/56RKGwqSeMhb8qSBJLOMSx"
@@ -6648,7 +6670,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 190451,
       "name": "Sussurro",
       "url": "https://open.spotify.com/track/2MG5nzRpNoM16BXGE3tjeL"

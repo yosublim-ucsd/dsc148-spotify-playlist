@@ -1,6 +1,6 @@
 {
   "description": "La nuova scena indie italiana! Cover: Angelica Bove",
-  "num_followers": 33857,
+  "num_followers": 33864,
   "original_name": "Scuola Indie",
   "owner": {
     "name": "Spotify",
@@ -219,26 +219,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Un giorno in pi\u00f9",
-        "url": "https://open.spotify.com/album/5naocJae1Ge8LQNWVXt98T"
+        "name": "Quasi A Casa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5"
       },
       "artists": [
         {
-          "name": "Hanami",
-          "url": "https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe"
-        },
-        {
-          "name": "Vincenzo Cairo",
-          "url": "https://open.spotify.com/artist/7m8h6rBSH8EjDRXvb6fhjh"
-        },
-        {
-          "name": "kOkeshi",
-          "url": "https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj"
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
         }
       ],
-      "duration_ms": 138588,
-      "name": "Un giorno in pi\u00f9",
-      "url": "https://open.spotify.com/track/5N7RhiNe0ieZb7WB40jFWP"
+      "duration_ms": 309447,
+      "name": "Quasi a casa",
+      "url": "https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -263,18 +255,26 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Quasi A Casa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5"
+        "name": "Un giorno in pi\u00f9",
+        "url": "https://open.spotify.com/album/5naocJae1Ge8LQNWVXt98T"
       },
       "artists": [
         {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+          "name": "Hanami",
+          "url": "https://open.spotify.com/artist/7EQFBKivi3POpo2NLiEEOe"
+        },
+        {
+          "name": "Vincenzo Cairo",
+          "url": "https://open.spotify.com/artist/7m8h6rBSH8EjDRXvb6fhjh"
+        },
+        {
+          "name": "kOkeshi",
+          "url": "https://open.spotify.com/artist/1kbU8ryKGu6DDvcI0Hy8uj"
         }
       ],
-      "duration_ms": 309447,
-      "name": "Quasi a casa",
-      "url": "https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX"
+      "duration_ms": 138588,
+      "name": "Un giorno in pi\u00f9",
+      "url": "https://open.spotify.com/track/5N7RhiNe0ieZb7WB40jFWP"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Farla Facile",
-        "url": "https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8"
-      },
-      "artists": [
-        {
-          "name": "Anna and Vulkan",
-          "url": "https://open.spotify.com/artist/338OK54trmorxC1704hKpD"
-        }
-      ],
-      "duration_ms": 234908,
-      "name": "Farla Facile",
-      "url": "https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Occhi Blu",
         "url": "https://open.spotify.com/album/0CKpLdO3jBGHtgd6pvaOLW"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 222087,
       "name": "Occhi Blu",
       "url": "https://open.spotify.com/track/5hJVI6mBxRZQakUsBm3QRn"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Farla Facile",
+        "url": "https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8"
+      },
+      "artists": [
+        {
+          "name": "Anna and Vulkan",
+          "url": "https://open.spotify.com/artist/338OK54trmorxC1704hKpD"
+        }
+      ],
+      "duration_ms": 234908,
+      "name": "Farla Facile",
+      "url": "https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "bimbapazza",
+        "url": "https://open.spotify.com/album/3tIIq6OK443MUrCOTJK5Yg"
+      },
+      "artists": [
+        {
+          "name": "sonoalaska",
+          "url": "https://open.spotify.com/artist/3lxioj9FChaR6qaLUJqNvP"
+        }
+      ],
+      "duration_ms": 141855,
+      "name": "bimbapazza",
+      "url": "https://open.spotify.com/track/6p8XR211R3TGLFUkS8YxO1"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "BELLA BALLA",
         "url": "https://open.spotify.com/album/5Q9yRedzMdCKKYDoIJe8jp"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "bimbapazza",
-        "url": "https://open.spotify.com/album/3tIIq6OK443MUrCOTJK5Yg"
+        "name": "TUFFO",
+        "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
       },
       "artists": [
         {
-          "name": "sonoalaska",
-          "url": "https://open.spotify.com/artist/3lxioj9FChaR6qaLUJqNvP"
+          "name": "PUGNI",
+          "url": "https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa"
         }
       ],
-      "duration_ms": 141855,
-      "name": "bimbapazza",
-      "url": "https://open.spotify.com/track/6p8XR211R3TGLFUkS8YxO1"
+      "duration_ms": 214670,
+      "name": "Trentasette denti",
+      "url": "https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -567,22 +583,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "TUFFO",
-        "url": "https://open.spotify.com/album/04lXMprxBDiuRTCkewUZvS"
-      },
-      "artists": [
-        {
-          "name": "PUGNI",
-          "url": "https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa"
-        }
-      ],
-      "duration_ms": 214670,
-      "name": "Trentasette denti",
-      "url": "https://open.spotify.com/track/3SHAVr1ZV5UCDtdPDEcRTb"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Sott'acqua",
         "url": "https://open.spotify.com/album/6yqqyHFUmgjTcHGf7EvxsF"
       },
@@ -599,6 +599,38 @@
       "duration_ms": 191250,
       "name": "Sott'acqua",
       "url": "https://open.spotify.com/track/3tub5MMUOAAGddDAgmOCGx"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Campari",
+        "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
+      },
+      "artists": [
+        {
+          "name": "Kate",
+          "url": "https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Campari",
+      "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Scarpe",
+        "url": "https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1"
+      },
+      "artists": [
+        {
+          "name": "SANTACHIARA",
+          "url": "https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Scarpe",
+      "url": "https://open.spotify.com/track/7MvxCM3k9mdhCTMRB7I6Vz"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -635,50 +667,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Campari",
-        "url": "https://open.spotify.com/album/5oRRCCgXEn2cJzUqvphxlp"
+        "name": "Cemento",
+        "url": "https://open.spotify.com/album/2Xg5FWrpaZIB3lG5MYyqez"
       },
       "artists": [
         {
-          "name": "Kate",
-          "url": "https://open.spotify.com/artist/3hAqBoFKRvW1ZsUvZzurkv"
+          "name": "VV",
+          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
         }
       ],
-      "duration_ms": 161500,
-      "name": "Campari",
-      "url": "https://open.spotify.com/track/0GZwO7DcVxLZdKagyAatuw"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Anche i Cowboy Piangono",
-        "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
-      },
-      "artists": [
-        {
-          "name": "nonpiangere",
-          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
-        }
-      ],
-      "duration_ms": 174300,
-      "name": "Anche i Cowboy Piangono",
-      "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Settembre",
-        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
-      },
-      "artists": [
-        {
-          "name": "Nuela",
-          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
-        }
-      ],
-      "duration_ms": 181978,
-      "name": "Settembre",
-      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
+      "duration_ms": 188639,
+      "name": "Cemento",
+      "url": "https://open.spotify.com/track/5VQI1dj40QV6Gwtakup12U"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -699,6 +699,38 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "Settembre",
+        "url": "https://open.spotify.com/album/0C4Yadhn7f2NgtSFsuKQa5"
+      },
+      "artists": [
+        {
+          "name": "Nuela",
+          "url": "https://open.spotify.com/artist/7nAlVysgaD9U8Ys4D8WNIP"
+        }
+      ],
+      "duration_ms": 181978,
+      "name": "Settembre",
+      "url": "https://open.spotify.com/track/1IvmmcluFY1biohRwZqITX"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Anche i Cowboy Piangono",
+        "url": "https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2"
+      },
+      "artists": [
+        {
+          "name": "nonpiangere",
+          "url": "https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "Anche i Cowboy Piangono",
+      "url": "https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "PARTITA A SCACCHI",
         "url": "https://open.spotify.com/album/2AOEGNHSwRybUAGugVxN49"
       },
@@ -711,22 +743,6 @@
       "duration_ms": 188933,
       "name": "PARTITA A SCACCHI",
       "url": "https://open.spotify.com/track/2dnBEqnqA5I82IhcUCODi0"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Quel che eravamo",
-        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
-      },
-      "artists": [
-        {
-          "name": "Alma",
-          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
-        }
-      ],
-      "duration_ms": 177320,
-      "name": "Quel che eravamo",
-      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -747,6 +763,22 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "Quel che eravamo",
+        "url": "https://open.spotify.com/album/3JFgbuPO0sEht5lFwqrT5k"
+      },
+      "artists": [
+        {
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/7epvheVlqCydbScEM57mV6"
+        }
+      ],
+      "duration_ms": 177320,
+      "name": "Quel che eravamo",
+      "url": "https://open.spotify.com/track/1DQeXngkIzbBRSMOS51a1Z"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "Perdo Il Tuo Amore",
         "url": "https://open.spotify.com/album/736rTLSkJaCjhRmYwu7ttL"
       },
@@ -759,38 +791,6 @@
       "duration_ms": 164514,
       "name": "Perdo Il Tuo Amore",
       "url": "https://open.spotify.com/track/3HHhJGYxGTyyv6qiziryL3"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Scarpe",
-        "url": "https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1"
-      },
-      "artists": [
-        {
-          "name": "SANTACHIARA",
-          "url": "https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Scarpe",
-      "url": "https://open.spotify.com/track/7MvxCM3k9mdhCTMRB7I6Vz"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Cemento",
-        "url": "https://open.spotify.com/album/2Xg5FWrpaZIB3lG5MYyqez"
-      },
-      "artists": [
-        {
-          "name": "VV",
-          "url": "https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh"
-        }
-      ],
-      "duration_ms": 188639,
-      "name": "Cemento",
-      "url": "https://open.spotify.com/track/5VQI1dj40QV6Gwtakup12U"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "sconosciuti",
+        "url": "https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv"
+      },
+      "artists": [
+        {
+          "name": "nube",
+          "url": "https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i"
+        }
+      ],
+      "duration_ms": 170880,
+      "name": "sconosciuti",
+      "url": "https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "Sotto",
         "url": "https://open.spotify.com/album/3RUMwK1D8bUQyzFOmoq5f7"
       },
@@ -887,42 +903,6 @@
       "duration_ms": 152000,
       "name": "Sotto",
       "url": "https://open.spotify.com/track/3EE6RWL2kGPSqc4LggjfDD"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
-        "url": "https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ"
-      },
-      "artists": [
-        {
-          "name": "ETT",
-          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
-        },
-        {
-          "name": "dNoise",
-          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
-        }
-      ],
-      "duration_ms": 151636,
-      "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
-      "url": "https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "tutte le tue onde",
-        "url": "https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1"
-        }
-      ],
-      "duration_ms": 144970,
-      "name": "tutte le tue onde",
-      "url": "https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -947,6 +927,26 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
+        "url": "https://open.spotify.com/album/5EHQltfEEdO4jgLG6QyoPZ"
+      },
+      "artists": [
+        {
+          "name": "ETT",
+          "url": "https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS"
+        },
+        {
+          "name": "dNoise",
+          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
+        }
+      ],
+      "duration_ms": 151636,
+      "name": "PSICHE .\ud80c\udda9\u2661\ud80c\uddaa.",
+      "url": "https://open.spotify.com/track/104Gk7WJkwOWrjPW7LGWtl"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "BRONCIO",
         "url": "https://open.spotify.com/album/4b85jG8dhfsMaSQeChdSQ5"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 139826,
       "name": "BRONCIO",
       "url": "https://open.spotify.com/track/2Gn6bZ72AmbPrG0eueI3Hs"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "tutte le tue onde",
+        "url": "https://open.spotify.com/album/6G5IxcL8FjeqPCbnvkZHLi"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/0wKiiAbA6C1mMZAak8Epv1"
+        }
+      ],
+      "duration_ms": 144970,
+      "name": "tutte le tue onde",
+      "url": "https://open.spotify.com/track/1Zzblhk9FuohKwNRTj8HlU"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": ") ) ) echo ( ( ( (",
-        "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
-      },
-      "artists": [
-        {
-          "name": "Memento",
-          "url": "https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR"
-        }
-      ],
-      "duration_ms": 127049,
-      "name": "( ARIA )",
-      "url": "https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Sette di Cuori",
         "url": "https://open.spotify.com/album/2DucDNz1pRJo11XUJyxQoG"
       },
@@ -1071,22 +1071,6 @@
       "duration_ms": 201253,
       "name": "Siviglia",
       "url": "https://open.spotify.com/track/2WomXJlkco1OzDYWxksYV6"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "tuxtu",
-        "url": "https://open.spotify.com/album/1Hn3LEFxNGeKc4Y5ZJKoXu"
-      },
-      "artists": [
-        {
-          "name": "Parrelle",
-          "url": "https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "tuxtu",
-      "url": "https://open.spotify.com/track/1ozRgtql9Q9bi3HCv3q7L2"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1107,6 +1091,54 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": ") ) ) echo ( ( ( (",
+        "url": "https://open.spotify.com/album/1VlMacT6VojUdWYnQgUZVB"
+      },
+      "artists": [
+        {
+          "name": "Memento",
+          "url": "https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR"
+        }
+      ],
+      "duration_ms": 127049,
+      "name": "( ARIA )",
+      "url": "https://open.spotify.com/track/6cGfmikL06aSeiIUltKd5T"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Grazie",
+        "url": "https://open.spotify.com/album/6yaWr4a1XS8pKSqkOfszKC"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Toscano",
+          "url": "https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM"
+        }
+      ],
+      "duration_ms": 174314,
+      "name": "Grazie",
+      "url": "https://open.spotify.com/track/43nQ9dmbJzcIFgOcxTCbVJ"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "tuxtu",
+        "url": "https://open.spotify.com/album/1Hn3LEFxNGeKc4Y5ZJKoXu"
+      },
+      "artists": [
+        {
+          "name": "Parrelle",
+          "url": "https://open.spotify.com/artist/6AJOaOcW007r6QNjChDntx"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "tuxtu",
+      "url": "https://open.spotify.com/track/1ozRgtql9Q9bi3HCv3q7L2"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "CALICE",
         "url": "https://open.spotify.com/album/09aUNBdiMCqrnCOLn5mYRC"
       },
@@ -1119,38 +1151,6 @@
       "duration_ms": 171176,
       "name": "CALICE",
       "url": "https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Ancora",
-        "url": "https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v"
-      },
-      "artists": [
-        {
-          "name": "Mediterraneo",
-          "url": "https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "Ancora",
-      "url": "https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Piramidi",
-        "url": "https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X"
-      },
-      "artists": [
-        {
-          "name": "Paul Giorgi",
-          "url": "https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG"
-        }
-      ],
-      "duration_ms": 192846,
-      "name": "Piramidi",
-      "url": "https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj"
     }
   ],
   "unique_name": "Scuola Indie",

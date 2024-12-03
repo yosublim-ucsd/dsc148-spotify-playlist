@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,320 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,322 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 19 | [I Can Be Somebody \(feat\. Erin McCarley\)](https://open.spotify.com/track/0sxvPuybHVMwEvCSfbJDM6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Erin McCarley](https://open.spotify.com/artist/6Y4bCmUNPDKqc7dHkVvgim) | [I Can Be Somebody \(feat\. Erin McCarley\)](https://open.spotify.com/album/3uhSkzqs0XFuG9J6pueblf) | 4:37 |
 | 20 | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/track/3On0xk67ckVLs1qEpTF8mY) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Bring It Back \(feat\. Max Styler\)](https://open.spotify.com/album/6orvX1pLBGiiHQiSc1eEr8) | 2:45 |
 | 21 | [Keep It Goin'](https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Keep It Goin'](https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8) | 2:55 |
-| 22 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 |
-| 23 | [Si Tú No Estás Aquí \(feat\. LÚA\)](https://open.spotify.com/track/0a95aNz4gEBw9zqR0zZIIH) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 4:03 |
+| 22 | [Si Tú No Estás Aquí \(feat\. LÚA\)](https://open.spotify.com/track/0a95aNz4gEBw9zqR0zZIIH) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 4:03 |
+| 23 | [LIV \- Spotify Singles](https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [LIV \- Spotify Singles](https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM) | 2:45 |
 | 24 | [Se Te Olvidó](https://open.spotify.com/track/61Ftf1b9VHXHvBxdLzKQ4s) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Se Te Olvidó](https://open.spotify.com/album/6OXrs7AD0MaJ0HZM9B6eBY) | 2:39 |
 | 25 | [RBS](https://open.spotify.com/track/4EEXF3lBvayzmIOuDKwC9p) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [RBS](https://open.spotify.com/album/0mHTnOkXGzACUKonSwZSsP) | 2:53 |
 | 26 | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/track/0tI7SJjaezftm7xOaaIG2u) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Nobody Like You \(feat\. Lost Boy\)](https://open.spotify.com/album/6ZLME08avWNb8HM2nGGCHv) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [Que Es Eso \(feat\. Young Eiby\)](https://open.spotify.com/track/6bqEoOPcNwwsvzT86sC0e3) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Young Eiby](https://open.spotify.com/artist/7pkbJcC4tdrBehOaqGMQbx) | [ORRO](https://open.spotify.com/album/05DvB52So1wX0F8txvQDHB) | 3:40 |
 | 50 | [Esta Vida \- Deorro Remix](https://open.spotify.com/track/2HRa9MR7Sqy3T6WbdpF3Rj) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Esta Vida \(Deorro Remix\)](https://open.spotify.com/album/44YcxUjkh3CAQlTJAFtIAl) | 3:59 |
 
-Snapshot ID: `Z0pVgAAAAABbG+2PoBggLDFz6BZ9U++S`
+Snapshot ID: `Z0unAAAAAABNLlqVJIy4ruQBfM1/G6uf`

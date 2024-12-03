@@ -1,6 +1,6 @@
 {
   "description": "Feel the warmth of the spa, treat your body and mind to a wellness experience. ",
-  "num_followers": 41088,
+  "num_followers": 41156,
   "original_name": "Wellness",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Intrinsic Silence",
-        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
-      },
-      "artists": [
-        {
-          "name": "Hatha Priya",
-          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
-        }
-      ],
-      "duration_ms": 164017,
-      "name": "Intrinsic Silence",
-      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "Clear Mind - 432 Hz",
         "url": "https://open.spotify.com/album/6HKa2Okr1EpZfHFBTrtqTM"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 171750,
       "name": "Clear Mind - 432 Hz",
       "url": "https://open.spotify.com/track/7w5rZvkQ9OH6aW0uKvD4xA"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Intrinsic Silence",
+        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
+      },
+      "artists": [
+        {
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+        }
+      ],
+      "duration_ms": 164017,
+      "name": "Intrinsic Silence",
+      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Vents Calmes",
-        "url": "https://open.spotify.com/album/5EreJDjpJ2xyQgbuBLdc22"
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
       },
       "artists": [
         {
-          "name": "Ellis Atkins",
-          "url": "https://open.spotify.com/artist/7yLAqQCxad1jK9tcwxgNzL"
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
         }
       ],
-      "duration_ms": 147428,
-      "name": "Vents Calmes",
-      "url": "https://open.spotify.com/track/3EncJvevg44zzvocmBI6kg"
+      "duration_ms": 182361,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
+        "name": "Vents Calmes",
+        "url": "https://open.spotify.com/album/5EreJDjpJ2xyQgbuBLdc22"
       },
       "artists": [
         {
-          "name": "Luna's Garden",
-          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+          "name": "Ellis Atkins",
+          "url": "https://open.spotify.com/artist/7yLAqQCxad1jK9tcwxgNzL"
         }
       ],
-      "duration_ms": 182361,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3TkZrmBF7h2klM21d9j9Bt"
+      "duration_ms": 147428,
+      "name": "Vents Calmes",
+      "url": "https://open.spotify.com/track/3EncJvevg44zzvocmBI6kg"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Dawn Of Day",
-        "url": "https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe"
-      },
-      "artists": [
-        {
-          "name": "Bansuri Tribe",
-          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Dawn Of Day",
-      "url": "https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "Tonal Calmness",
         "url": "https://open.spotify.com/album/3UIe0Q2nz2FJOPKj01Kiut"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 225517,
       "name": "Tonal Calmness",
       "url": "https://open.spotify.com/track/3PDE4uafLyorNaIWTos0MA"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Dawn Of Day",
+        "url": "https://open.spotify.com/album/4oHYUmGNklzslLCviMZexe"
+      },
+      "artists": [
+        {
+          "name": "Bansuri Tribe",
+          "url": "https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Dawn Of Day",
+      "url": "https://open.spotify.com/track/7LQ2UvA5P0Jz11iyIox3S1"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/41BmCymTJ6prw6c8lae8b5"
-      },
-      "artists": [
-        {
-          "name": "re:inhabit",
-          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
-        }
-      ],
-      "duration_ms": 153010,
-      "name": "Bask",
-      "url": "https://open.spotify.com/track/4U4PSgvQHPAvJz1f8MRiQ0"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "Treetop Whisperer",
         "url": "https://open.spotify.com/album/0M8YvEoSYX5WXvk29XApUN"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 190687,
       "name": "Soil",
       "url": "https://open.spotify.com/track/0dy1qrmvBmk1QOJHSHSJsA"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/41BmCymTJ6prw6c8lae8b5"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "duration_ms": 153010,
+      "name": "Bask",
+      "url": "https://open.spotify.com/track/4U4PSgvQHPAvJz1f8MRiQ0"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "U\u0219\u0101 Dhy\u0101na",
-        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
-      },
-      "artists": [
-        {
-          "name": "RE:LX",
-          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
-        }
-      ],
-      "duration_ms": 147272,
-      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
-      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "741 Hz Detox",
         "url": "https://open.spotify.com/album/3XvuwtMjebQGFL7KL97RPd"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 171991,
       "name": "741 Hz Detox",
       "url": "https://open.spotify.com/track/60i0X2xmPVXLwanR9Fj79y"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "U\u0219\u0101 Dhy\u0101na",
+        "url": "https://open.spotify.com/album/6ntR1xq7XY3sRvsHVuFoGt"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "\u0100tmik S\u0101m\u0101njasya / Harmony of the Soul",
+      "url": "https://open.spotify.com/track/5Iepwl8RXDqAmw1EKdenCe"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Shimmering Forest",
-        "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
-      },
-      "artists": [
-        {
-          "name": "Ashcan Johansen",
-          "url": "https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh"
-        }
-      ],
-      "duration_ms": 187169,
-      "name": "Shimmering Forest",
-      "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "All Love 432 Hz",
         "url": "https://open.spotify.com/album/1Oze9JvFoFm7mG7XfGq2pa"
       },
@@ -1847,22 +1831,6 @@
       "duration_ms": 187202,
       "name": "All Love 432 Hz",
       "url": "https://open.spotify.com/track/4F3vEHACpu26azg1x8TDJX"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
-        "name": "Coastal Route",
-        "url": "https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG"
-      },
-      "artists": [
-        {
-          "name": "Voices Of The Ocean",
-          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
-        }
-      ],
-      "duration_ms": 195913,
-      "name": "Coastal Route",
-      "url": "https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1883,18 +1851,34 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Night Bells (432 Hz)",
-        "url": "https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr"
+        "name": "Shimmering Forest",
+        "url": "https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2"
       },
       "artists": [
         {
-          "name": "Tsuchida Kasumi",
-          "url": "https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT"
+          "name": "Ashcan Johansen",
+          "url": "https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh"
         }
       ],
-      "duration_ms": 175500,
-      "name": "Night Bells (432 Hz)",
-      "url": "https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc"
+      "duration_ms": 187169,
+      "name": "Shimmering Forest",
+      "url": "https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Coastal Route",
+        "url": "https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG"
+      },
+      "artists": [
+        {
+          "name": "Voices Of The Ocean",
+          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Coastal Route",
+      "url": "https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -1915,6 +1899,22 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
+        "name": "Night Bells (432 Hz)",
+        "url": "https://open.spotify.com/album/3awJzQg6vbV9tckTaY9apr"
+      },
+      "artists": [
+        {
+          "name": "Tsuchida Kasumi",
+          "url": "https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Night Bells (432 Hz)",
+      "url": "https://open.spotify.com/track/4fW7JLrMCSkPHKg6QmxfGc"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
         "name": "Lotus Garden & Healing Serenade",
         "url": "https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ"
       },
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Messiah Silica",
-        "url": "https://open.spotify.com/album/7xAHXVwAJDpeXlckASpuI9"
-      },
-      "artists": [
-        {
-          "name": "D/S/T/N/C/E",
-          "url": "https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT"
-        }
-      ],
-      "duration_ms": 154786,
-      "name": "Messiah Silica",
-      "url": "https://open.spotify.com/track/00dKAndxIdVhbJv0f2IKi7"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "Somniloquy",
         "url": "https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 112999,
       "name": "Polysomnography",
       "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Messiah Silica",
+        "url": "https://open.spotify.com/album/7xAHXVwAJDpeXlckASpuI9"
+      },
+      "artists": [
+        {
+          "name": "D/S/T/N/C/E",
+          "url": "https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT"
+        }
+      ],
+      "duration_ms": 154786,
+      "name": "Messiah Silica",
+      "url": "https://open.spotify.com/track/00dKAndxIdVhbJv0f2IKi7"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Flute Meditation",
-        "url": "https://open.spotify.com/album/6aUDq4zL1OTaaSS2m2oWOb"
-      },
-      "artists": [
-        {
-          "name": "Buddha's Lounge",
-          "url": "https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb"
-        }
-      ],
-      "duration_ms": 224407,
-      "name": "Flute Meditation",
-      "url": "https://open.spotify.com/track/6Maz4hkQivpTkktc4hriCI"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "The Calm",
         "url": "https://open.spotify.com/album/4KpVWzvBCkPYxA8scBMn99"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 171867,
       "name": "The Calm",
       "url": "https://open.spotify.com/track/0W1mdLK6rMWfuYbXWqufLd"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Flute Meditation",
+        "url": "https://open.spotify.com/album/6aUDq4zL1OTaaSS2m2oWOb"
+      },
+      "artists": [
+        {
+          "name": "Buddha's Lounge",
+          "url": "https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb"
+        }
+      ],
+      "duration_ms": 224407,
+      "name": "Flute Meditation",
+      "url": "https://open.spotify.com/track/6Maz4hkQivpTkktc4hriCI"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -2651,22 +2651,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
-      },
-      "artists": [
-        {
-          "name": "Jenna Talenti",
-          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "Aeonian Hope",
         "url": "https://open.spotify.com/album/3LZYp5sPMmJKpQLKHJgpLH"
       },
@@ -2679,6 +2663,22 @@
       "duration_ms": 202409,
       "name": "Aeonian Hope",
       "url": "https://open.spotify.com/track/0sVpToGNlU7Y7KfuxCGP1J"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/1tmd6JBEya6uODJHRbzbbp"
+      },
+      "artists": [
+        {
+          "name": "Jenna Talenti",
+          "url": "https://open.spotify.com/artist/2TxLRhRwH3hU4CVooipJbo"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/5UTW5AuwEZOLTlDR6DGMCI"
     },
     {
       "added_at": "2024-11-14 13:48:43",
@@ -2699,22 +2699,6 @@
     {
       "added_at": "2024-11-14 13:48:43",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
-      },
-      "artists": [
-        {
-          "name": "Tonalie",
-          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
-        }
-      ],
-      "duration_ms": 143755,
-      "name": "Renaissance",
-      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
-    },
-    {
-      "added_at": "2024-11-14 13:48:43",
-      "album": {
         "name": "Essence of Mind",
         "url": "https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y"
       },
@@ -2727,6 +2711,22 @@
       "duration_ms": 240000,
       "name": "Sparrow Cloud",
       "url": "https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX"
+    },
+    {
+      "added_at": "2024-11-14 13:48:43",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/22qO0N4uQ1LifMZkBJsUSy"
+      },
+      "artists": [
+        {
+          "name": "Tonalie",
+          "url": "https://open.spotify.com/artist/0YnZJRRAXYitAp9ksU9O7X"
+        }
+      ],
+      "duration_ms": 143755,
+      "name": "Renaissance",
+      "url": "https://open.spotify.com/track/3ezescL9H4NALmkrXYMTr0"
     }
   ],
   "unique_name": "Wellness (2)",

@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,565 likes - 263 songs - 15 hr 19 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,566 likes - 263 songs - 15 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Two Faced](https://open.spotify.com/track/6i5qhmmF9UNUBRyrPSGn4m) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:03 |
 | 2 | [Sin City](https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:42 |
-| 3 | [On Show](https://open.spotify.com/track/0dSmwYPN87nX17aHlocHkt) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Guilt Is Good](https://open.spotify.com/album/6svzoqghdKgjRJTtcm3Kvg) | 3:19 |
-| 4 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:25 |
-| 5 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
-| 6 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
-| 7 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 |
-| 8 | [Runner](https://open.spotify.com/track/0aMKaYfkzcwh14WfpoPy48) | [Raintalker](https://open.spotify.com/artist/4F1DTiHCQnuKW8PDPSNzOC) | [Runner](https://open.spotify.com/album/7A0r7W56B7rgoE0xmAoBhr) | 3:47 |
-| 9 | [Vapes](https://open.spotify.com/track/4U3APnURFGyG3Z3kM3EaJB) | [Brashs](https://open.spotify.com/artist/1GBjCQqhEPn3vWsQYDi90Z) | [Vapes](https://open.spotify.com/album/0qy4lAf7UWei3c40jfLWBN) | 1:53 |
+| 3 | [Vapes](https://open.spotify.com/track/4U3APnURFGyG3Z3kM3EaJB) | [Brashs](https://open.spotify.com/artist/1GBjCQqhEPn3vWsQYDi90Z) | [Vapes](https://open.spotify.com/album/0qy4lAf7UWei3c40jfLWBN) | 1:53 |
+| 4 | [On Show](https://open.spotify.com/track/0dSmwYPN87nX17aHlocHkt) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Guilt Is Good](https://open.spotify.com/album/6svzoqghdKgjRJTtcm3Kvg) | 3:19 |
+| 5 | [Stay The Same](https://open.spotify.com/track/1b4gM8Anj0piC4hcNUZwE9) | [Beddy Rays](https://open.spotify.com/artist/4qn6hSO1qLlaAW8jiyOw18) | [Stay The Same](https://open.spotify.com/album/5Ki28cE9svnGJdBbSuBT71) | 4:25 |
+| 6 | [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 |
+| 7 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
+| 8 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 |
+| 9 | [Runner](https://open.spotify.com/track/0aMKaYfkzcwh14WfpoPy48) | [Raintalker](https://open.spotify.com/artist/4F1DTiHCQnuKW8PDPSNzOC) | [Runner](https://open.spotify.com/album/7A0r7W56B7rgoE0xmAoBhr) | 3:47 |
 | 10 | [The Way It Goes](https://open.spotify.com/track/6SUVOI04xjnLWEm8KQfNgE) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [The Way It Goes](https://open.spotify.com/album/48bPxZj78IQWlsu2ynIhWg) | 2:34 |
 | 11 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 |
 | 12 | [Shouldn’t Leave It Like That](https://open.spotify.com/track/3h1ezpaRGhg0gvol24o1Qq) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Last Of The Lonely Gods](https://open.spotify.com/album/7vFlnnryjfOq4ktTOOc12f) | 3:29 |
@@ -272,4 +272,4 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 262 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 |
 | 263 | [SUPERSTAR](https://open.spotify.com/track/6Fu8XQBoFjNP4zcoYMAOcF) | [Matilda Pearl](https://open.spotify.com/artist/4UwWCi0aYGKsyVgCKf20tw), [Hey! Astro](https://open.spotify.com/artist/1kqvSaPRrMEjWr4wEi9pfl) | [SUPERSTAR](https://open.spotify.com/album/4HWScXOs4y1fUrwGzrlgzg) | 3:03 |
 
-Snapshot ID: `AAAHCkVmdUCSQFGwA1vc9fHus2qpWwwP`
+Snapshot ID: `AAAHCxgFgiloC/izpK6yD27jEcqFL9Op`

@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 37186,
+  "num_followers": 37199,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABJH/savFZKNsGgSf31wzFc",
+  "snapshot_id": "Z0unAAAAAAA1EYzPIyqDOyKqpNuSpqjt",
   "tracks": [
     {
       "added_at": null,
@@ -294,15 +294,11 @@
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 268280,
-      "name": "Adelante",
-      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
+      "duration_ms": 222573,
+      "name": "Baila",
+      "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
     },
     {
       "added_at": null,
@@ -370,11 +366,15 @@
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
         }
       ],
-      "duration_ms": 222573,
-      "name": "Baila",
-      "url": "https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt"
+      "duration_ms": 268280,
+      "name": "Adelante",
+      "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailando Por Ti",
-        "url": "https://open.spotify.com/album/69eUUgCWiR86DCzjWCQbY0"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Bailando Por Ti",
-      "url": "https://open.spotify.com/track/36o3tX1dcTJ5rwFRk5aOPx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todos Quieren Ser Un Gato Jazz",
         "url": "https://open.spotify.com/album/2p5JOVWwNGDUOFsf6WKDRT"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 276933,
       "name": "Todos Quieren Ser Un Gato Jazz",
       "url": "https://open.spotify.com/track/7JFMaCszgik6Ay4WWeG1i3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailando Por Ti",
+        "url": "https://open.spotify.com/album/69eUUgCWiR86DCzjWCQbY0"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Bailando Por Ti",
+      "url": "https://open.spotify.com/track/36o3tX1dcTJ5rwFRk5aOPx"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 235466,
-      "name": "Burkina Faso",
-      "url": "https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ca\u00f3tica Belleza",
         "url": "https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 212066,
       "name": "Frenes\u00ed",
       "url": "https://open.spotify.com/track/6xLUhTLKjdDrfbiTOonT6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "Burkina Faso",
+      "url": "https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR"
     },
     {
       "added_at": null,

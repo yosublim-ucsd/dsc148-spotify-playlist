@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59170,
+  "num_followers": 59165,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
+        "name": "imsochillandcool",
+        "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
+      },
+      "artists": [
+        {
+          "name": "Alessi Rose",
+          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
+        }
+      ],
+      "duration_ms": 206095,
+      "name": "imsochillandcool",
+      "url": "https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
         "name": "The Pre-Party",
         "url": "https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 192130,
       "name": "Lightyears (with Young Thug)",
       "url": "https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
-        "name": "imsochillandcool",
-        "url": "https://open.spotify.com/album/5U8T5ogRHcVvYY7M5R4yXu"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 206095,
-      "name": "imsochillandcool",
-      "url": "https://open.spotify.com/track/1wHNgavXjxrkP2EdCdx0wF"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "\u201c&\u201d (Ampersand), Part Two",
-        "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Blue Sky & The Painter",
-      "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 205146,
       "name": "Younger",
       "url": "https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "\u201c&\u201d (Ampersand), Part Two",
+        "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Blue Sky & The Painter",
+      "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Ge inte upp p\u00e5 mig",
-        "url": "https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Ge inte upp p\u00e5 mig",
-      "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Thee Unknown",
         "url": "https://open.spotify.com/album/2Jkcr5p1FkmY1vYM5WPJtk"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 204613,
       "name": "Thee Unknown",
       "url": "https://open.spotify.com/track/7wmfbVFElNhyBsJnOAGbJf"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Ge inte upp p\u00e5 mig",
+        "url": "https://open.spotify.com/album/5lYpVz7zexN4WgKD7udNkZ"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Ge inte upp p\u00e5 mig",
+      "url": "https://open.spotify.com/track/6v6vzP7YmOl0Xkmmi7WWVw"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "DETOX",
-        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "DETOX",
-      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "KALLAX CARGO",
         "url": "https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 223853,
       "name": "99 fel",
       "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "DETOX",
+        "url": "https://open.spotify.com/album/6E2Xs9Hy9ZAXmquNIsiM00"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "DETOX",
+      "url": "https://open.spotify.com/track/1vpbdWBrf1enMiVHHICPk0"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 166043,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Kyss mig snabbt i otakt",
         "url": "https://open.spotify.com/album/2vy7VEefdqEVG458oaDGr6"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 189613,
       "name": "F\u00f6rlora",
       "url": "https://open.spotify.com/track/3ZkV52G1vRvVJRY0jgNY0S"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/5eq8VZ9uOInt7pIE9bIFt8"
+      },
+      "artists": [
+        {
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
+        }
+      ],
+      "duration_ms": 166043,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/53v7VYAmBEmH7ju6zSGhc4"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Figure Out",
-        "url": "https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2"
-      },
-      "artists": [
-        {
-          "name": "Then Argus",
-          "url": "https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB"
-        }
-      ],
-      "duration_ms": 183843,
-      "name": "Figure Out",
-      "url": "https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "P\u00e5 v\u00e4g",
         "url": "https://open.spotify.com/album/7mcVMcxukeuxXEKbKf1ijG"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 189599,
       "name": "P\u00e5 v\u00e4g",
       "url": "https://open.spotify.com/track/7GRJpXiYXZe4JXoUB29BzQ"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Figure Out",
+        "url": "https://open.spotify.com/album/0zsCcDD4dmZfVeZ5ZX24I2"
+      },
+      "artists": [
+        {
+          "name": "Then Argus",
+          "url": "https://open.spotify.com/artist/60Rap5PmLfAvGbx10vytgB"
+        }
+      ],
+      "duration_ms": 183843,
+      "name": "Figure Out",
+      "url": "https://open.spotify.com/track/7gZxG7pi9UV6Z8Cqx1tSG9"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Yine A\u015f\u0131k Oldum Sana",
-        "url": "https://open.spotify.com/album/73gHXKxN8SoaX6UAIUXjq4"
-      },
-      "artists": [
-        {
-          "name": "Bahoz & Baran",
-          "url": "https://open.spotify.com/artist/4cP6d9sa9B21WHO3MvtOP6"
-        }
-      ],
-      "duration_ms": 155346,
-      "name": "Yine A\u015f\u0131k Oldum Sana",
-      "url": "https://open.spotify.com/track/2sxpcczGEHIUXep8leghgk"
-    },
-    {
-      "added_at": "2024-11-08 09:13:14",
-      "album": {
         "name": "Innerst Inne",
         "url": "https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2024-11-08 09:13:14",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
+        "name": "Yine A\u015f\u0131k Oldum Sana",
+        "url": "https://open.spotify.com/album/73gHXKxN8SoaX6UAIUXjq4"
       },
       "artists": [
         {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+          "name": "Bahoz & Baran",
+          "url": "https://open.spotify.com/artist/4cP6d9sa9B21WHO3MvtOP6"
         }
       ],
-      "duration_ms": 224401,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
+      "duration_ms": 155346,
+      "name": "Yine A\u015f\u0131k Oldum Sana",
+      "url": "https://open.spotify.com/track/2sxpcczGEHIUXep8leghgk"
     },
     {
       "added_at": "2024-11-08 09:13:14",
@@ -1523,6 +1507,22 @@
       "duration_ms": 202733,
       "name": "Sockerdricka",
       "url": "https://open.spotify.com/track/0BRiFaYDS7IbM2YO0DFvrP"
+    },
+    {
+      "added_at": "2024-11-08 09:13:14",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/5uxKAFGxOeWPRmbga9sRHE"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 224401,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/5NncZVh6eDXNFjIZF7oYKK"
     }
   ],
   "unique_name": "p\u00e5 repeat",

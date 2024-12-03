@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Thierry von der Warth &amp; Kassidy
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: KREAM
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,383 likes - 20 songs - 56 min 36 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,394 likes - 20 songs - 56 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 19 | [Famous](https://open.spotify.com/track/5YeGkY9mBzAjoueyTRoYnf) | [Oomloud](https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P), [Thando](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX), [JusSke](https://open.spotify.com/artist/5izfHinGlwLVd87Lp9wOzu) | [Famous](https://open.spotify.com/album/2I0uwgE0jhsxSO5PBlxFrW) | 2:51 |
 | 20 | [Kench](https://open.spotify.com/track/5sOdcxMAWtSU0KgWtKkSjY) | [illusionize](https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L), [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Kench](https://open.spotify.com/album/1ROQb64ctG2N45KG3W6StH) | 2:49 |
 
-Snapshot ID: `AAAeeJJWGeRKbVMGb84nICR7Y/LTuf9r`
+Snapshot ID: `AAAeecZQ6EybVcb8Yw1RJ2nxuxbddhUe`

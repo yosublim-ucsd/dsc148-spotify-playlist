@@ -1995,6 +1995,28 @@
     },
     {
       "album": {
+        "name": "Las 12",
+        "url": "https://open.spotify.com/album/0jvKjTTr1R4IdNFKGWTu0z"
+      },
+      "artists": [
+        {
+          "name": "Mackie",
+          "url": "https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2024-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211243,
+      "name": "Las 12",
+      "url": "https://open.spotify.com/track/1cjfzBSIYHFuV9I7bq7Z0X"
+    },
+    {
+      "album": {
         "name": "Talento de Barrio",
         "url": "https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6"
       },
@@ -2246,7 +2268,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 232000,
       "name": "Me Arrepent\u00ed",
       "url": "https://open.spotify.com/track/40w8JmvwYUP2HUiXPxjy99"

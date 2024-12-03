@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 > This is Elaine Martins\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,871 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,868 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 28 | [Minha Alma Canta](https://open.spotify.com/track/5vgZp2mXu7M9YbbRLr30zU) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:54 |
 | 29 | [Bastidores da Alma](https://open.spotify.com/track/2Sd6m3jTSpw2KjlddLThWD) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Bastidores da Alma](https://open.spotify.com/album/3QfkwGrA68xYYcZbfPB7nv) | 4:03 |
 | 30 | [Coração de Amor](https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração de Amor](https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB) | 3:57 |
-| 31 | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p) | 4:15 |
-| 32 | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj) | 4:13 |
+| 31 | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/track/5fW9C9umBX7lTh9y8ksAMi) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ninguém Pode Impedir \(Ao Vivo\)](https://open.spotify.com/album/6QowG4tkRC3lBEYzgk5Guj) | 4:13 |
+| 32 | [O Preço da Chamada](https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:50 |
 | 33 | [Vasos Quebrados](https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:57 |
-| 34 | [O Preço da Chamada](https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:50 |
+| 34 | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/track/39sd8fIrOMJUrCwdydVd7D) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/album/0nG1qDL5qF4BeCfbnyzr4p) | 4:15 |
 | 35 | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Página em Branco \(Ao Vivo\)](https://open.spotify.com/album/075EOV324SMWzffd3uO7QX) | 5:09 |
 | 36 | [Palavras Líquidas](https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Palavras Líquidas](https://open.spotify.com/album/633KAVSvTRywDez2dhipDp) | 4:27 |
 | 37 | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Oceano de Lágrimas \(Ao Vivo\)](https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Colhendo Frutos \(Ao Vivo\)](https://open.spotify.com/track/5YQRkkXA0efmfBgd5cmoGf) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 3:23 |
 | 50 | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/track/6z5qIFmSaW3LX8oYq0Ixjw) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/6R8NTbSxAwvlIuGx1WIZtt) | 4:37 |
 
-Snapshot ID: `Z0pVgAAAAADRUA0Dm5WJd7VC+VbT/Xx7`
+Snapshot ID: `Z0unAAAAAAC9weUda6JKSGFGj1mZBLFa`

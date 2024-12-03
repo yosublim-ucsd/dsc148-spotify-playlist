@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4P0ijJK5lUv.md) - [plain]
 
 > Heartwarming carols and classical Christmas favourites, guaranteed to make any festive occasion merry and bright.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,885 likes - 152 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,569 likes - 152 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

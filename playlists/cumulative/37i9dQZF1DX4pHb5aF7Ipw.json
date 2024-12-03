@@ -263,6 +263,28 @@
     },
     {
       "album": {
+        "name": "Addiction",
+        "url": "https://open.spotify.com/album/6IAcOAoiDp8x5qUdr0YyqU"
+      },
+      "artists": [
+        {
+          "name": "Shooter Kahlon",
+          "url": "https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS"
+        },
+        {
+          "name": "Shevv",
+          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127659,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/6TYZu7oyO4cVHaYP9QJyAt"
+    },
+    {
+      "album": {
         "name": "After Death",
         "url": "https://open.spotify.com/album/0RirvxfQFNY5HIgI3aNTp3"
       },
@@ -2057,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Fortune Flow",
+        "url": "https://open.spotify.com/album/5ekbJghLmnTKUh1esfdEte"
+      },
+      "artists": [
+        {
+          "name": "Sagar Bhatoa",
+          "url": "https://open.spotify.com/artist/63l0cVf3XrP2qcTNVjuhS5"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144566,
+      "name": "Fortune Flow",
+      "url": "https://open.spotify.com/track/2mpPbUicGRYOXVif9TMYiI"
+    },
+    {
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/3NQgwqRiApcEdpuwFyFNxV"
       },
@@ -2222,7 +2262,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 125000,
       "name": "Gaddi",
       "url": "https://open.spotify.com/track/5mncLIF5R5QKJu0IxsnYuJ"
@@ -2684,7 +2724,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 142440,
       "name": "Howdy Hommies",
       "url": "https://open.spotify.com/track/5KZv0p9MQ2QGuSZeoPOnbe"
@@ -4587,6 +4627,28 @@
     },
     {
       "album": {
+        "name": "Ranjha Criminal",
+        "url": "https://open.spotify.com/album/00HLcnCuuB0fDm4gPJFisX"
+      },
+      "artists": [
+        {
+          "name": "Hanjra",
+          "url": "https://open.spotify.com/artist/3VEL26TczJVl4rkS1xtTjp"
+        },
+        {
+          "name": "Dilmaan",
+          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122552,
+      "name": "Ranjha Criminal",
+      "url": "https://open.spotify.com/track/4HvZjBDXmrSKSVHODa43Qa"
+    },
+    {
+      "album": {
         "name": "Never Before",
         "url": "https://open.spotify.com/album/3VcnKT1oIoOmEvxhfqcoDD"
       },
@@ -5712,7 +5774,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 153000,
       "name": "Two Door",
       "url": "https://open.spotify.com/track/7xHqhtZNUonVBREtrCMHCT"

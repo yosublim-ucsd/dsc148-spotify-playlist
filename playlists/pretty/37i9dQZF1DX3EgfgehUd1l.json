@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 170830,
+  "num_followers": 170844,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        }
-      ],
-      "duration_ms": 124640,
-      "name": "Whatever Will Be, Will Be (Que Sera, Sera)",
-      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
         "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 185051,
       "name": "True Love",
       "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "duration_ms": 124640,
+      "name": "Whatever Will Be, Will Be (Que Sera, Sera)",
+      "url": "https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -639,22 +639,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Calamity Jane / The Pajama Game",
-        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
+        "name": "Just a little Love",
+        "url": "https://open.spotify.com/album/4uI7l9lBNI3rzpW9V0OAif"
       },
       "artists": [
         {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Paul Weston And His Orchestra",
-          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
         }
       ],
-      "duration_ms": 178933,
-      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
-      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
+      "duration_ms": 158506,
+      "name": "Outside of Heaven",
+      "url": "https://open.spotify.com/track/5me6syYRQFgzMXGV3sK9Nr"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -675,18 +671,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Just a little Love",
-        "url": "https://open.spotify.com/album/4uI7l9lBNI3rzpW9V0OAif"
+        "name": "Calamity Jane / The Pajama Game",
+        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
       },
       "artists": [
         {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
         }
       ],
-      "duration_ms": 158506,
-      "name": "Outside of Heaven",
-      "url": "https://open.spotify.com/track/5me6syYRQFgzMXGV3sK9Nr"
+      "duration_ms": 178933,
+      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
+      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Hits and More",
+        "url": "https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ"
+      },
+      "artists": [
+        {
+          "name": "Tommy Edwards",
+          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 169560,
       "name": "If I Give My Heart to You (with The Mellomen)",
       "url": "https://open.spotify.com/track/3EuT9Db7LX4no2y4XTUc53"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Hits and More",
-        "url": "https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ"
-      },
-      "artists": [
-        {
-          "name": "Tommy Edwards",
-          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Frankie Laine's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
-      },
-      "artists": [
-        {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Moonlight Gambler",
-      "url": "https://open.spotify.com/track/27jaiKKAGY0HXVXkOGnUJW"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/6a1HKhBFbyAz1Wxlemw2Cg"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 118840,
       "name": "It's Late - Remastered 2001",
       "url": "https://open.spotify.com/track/4TAKO1uPQfnbioLdXUCUvY"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Frankie Laine's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Moonlight Gambler",
+      "url": "https://open.spotify.com/track/27jaiKKAGY0HXVXkOGnUJW"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Pure... '50s",
-        "url": "https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb"
-      },
-      "artists": [
-        {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        }
-      ],
-      "duration_ms": 157586,
-      "name": "High Noon (Do Not Forsake Me)",
-      "url": "https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Summer Holiday",
         "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Pure... '50s",
+        "url": "https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "High Noon (Do Not Forsake Me)",
+      "url": "https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Very Best Of",
         "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
       },
@@ -1067,6 +1067,22 @@
       "duration_ms": 185466,
       "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
       "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Street Of Memories",
+        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 143506,
+      "name": "Walking My Baby Back Home",
+      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Street Of Memories",
-        "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 143506,
-      "name": "Walking My Baby Back Home",
-      "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Rock & Roll 50s & 60s Mix",
         "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "My Special\u00a0Angel",
-      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Climb Every Mountain",
         "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 169080,
       "name": "Finger of Suspicion",
       "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "My Special\u00a0Angel",
+      "url": "https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Original Hits - Country",
-        "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
-      },
-      "artists": [
-        {
-          "name": "Slim Whitman",
-          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
-        }
-      ],
-      "duration_ms": 142426,
-      "name": "Rose Marie",
-      "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Essential - Easy Listening",
         "url": "https://open.spotify.com/album/6tLbWFq5usheMkHZwmMFaY"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 165826,
       "name": "Half As Much (with Percy Faith & His Orchestra)",
       "url": "https://open.spotify.com/track/28vTOD76XR7tx6RonEpZc2"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Original Hits - Country",
+        "url": "https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n"
+      },
+      "artists": [
+        {
+          "name": "Slim Whitman",
+          "url": "https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0"
+        }
+      ],
+      "duration_ms": 142426,
+      "name": "Rose Marie",
+      "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
     },
     {
       "added_at": "2023-10-17 16:18:55",

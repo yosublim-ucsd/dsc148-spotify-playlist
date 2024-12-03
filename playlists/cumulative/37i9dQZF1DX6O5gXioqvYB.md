@@ -4,7 +4,7 @@
 
 > La nuova scena indie italiana! Cover: Angelica Bove
 
-233 songs - 11 hr 27 min
+235 songs - 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [AMORE DISPERATO](https://open.spotify.com/track/2ghQwXaYq4nembNG5vhN4X) | [Fettuccine](https://open.spotify.com/artist/2ObpF6jimPBMsJuD7UHn7m) | [PUTTO](https://open.spotify.com/album/0OUhI3GBCCVIbzezqJDL54) | 2:10 | 2024-06-27 | 2024-07-05 |
 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 | 2024-07-04 | 2024-10-25 |
 | [Anche i Cowboy Piangono](https://open.spotify.com/track/7MY4uayDaekTxoAjS80qyA) | [nonpiangere](https://open.spotify.com/artist/5dFOJC7QiBUU4SfpLi3gj7) | [Anche i Cowboy Piangono](https://open.spotify.com/album/1qcwYxQJMOMTOELcoR7JS2) | 2:54 | 2024-09-26 |  |
-| [Ancora](https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW) | [Mediterraneo](https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489) | [Ancora](https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v) | 2:59 | 2024-10-24 |  |
+| [Ancora](https://open.spotify.com/track/6vW57S8SKU1AfZb7DeeFEW) | [Mediterraneo](https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489) | [Ancora](https://open.spotify.com/album/5fOa7FsXk0hiyJAP8uLr3v) | 2:59 | 2024-10-24 | 2024-12-03 |
 | [Andando Molto Piano](https://open.spotify.com/track/5cxkweImoqytdiJ2GF3SB4) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys) | [Andando Molto Piano](https://open.spotify.com/album/7uW2mwzJ2fvg8iFWRLWJPg) | 2:41 | 2024-06-27 | 2024-07-12 |
 | [andateafanculotutti](https://open.spotify.com/track/17TBj8gZYSBGSeoD9TBKpo) | [bhadmari](https://open.spotify.com/artist/22byg3Xzd14XU81AgdRvOG) | [TUTTOSBAGLIATO](https://open.spotify.com/album/74x1PwNA0C6CrMb74PhSd6) | 2:37 | 2024-06-27 | 2024-07-05 |
 | [Appeso](https://open.spotify.com/track/7oQ5HBhVM1u5qsoyPkenGh) | [tellynonpiangere](https://open.spotify.com/artist/2n8rCH14DAnaBWMdkfj9hv) | [Appeso](https://open.spotify.com/album/3NcnHCFnHCbZcUO6bglpqn) | 2:05 | 2024-06-27 | 2024-07-12 |
@@ -89,6 +89,7 @@
 | [Giornata vuota](https://open.spotify.com/track/21mU3hgMOlsBY51Ns7tO19) | [Cloudì](https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82) | [Giornata vuota](https://open.spotify.com/album/5O4q3gA9yOLHZbB2nINGz3) | 2:54 | 2024-06-27 | 2024-07-12 |
 | [Godspeed / Fili d'Erba](https://open.spotify.com/track/40z3WjRVlKZoOxRnhtcWeF) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Ora](https://open.spotify.com/album/43kNAmmsEiA0eCwV06vpbn) | 1:50 | 2024-11-21 |  |
 | [GRANDINE](https://open.spotify.com/track/4lIE6Dy3VjYYQPZm2AOuAB) | [Solisumarte](https://open.spotify.com/artist/09dA9aVkD0LYj4B7PqVbkP) | [GRANDINE](https://open.spotify.com/album/6cpT9wRwLim05N0uSHm9hZ) | 2:42 | 2024-09-26 | 2024-11-30 |
+| [Grazie](https://open.spotify.com/track/43nQ9dmbJzcIFgOcxTCbVJ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Grazie](https://open.spotify.com/album/6yaWr4a1XS8pKSqkOfszKC) | 2:54 | 2024-11-28 |  |
 | [GRIGIO PANTONE](https://open.spotify.com/track/6YvQIcxCVDItc6zsiBfe6y) | [SESTO](https://open.spotify.com/artist/2kjGCtYf3V4FXS97OiQhTp) | [GRIGIO PANTONE](https://open.spotify.com/album/0T3x3tsIiRirjAicMB3L0d) | 2:21 | 2024-09-05 | 2024-09-27 |
 | [i miei fiumi](https://open.spotify.com/track/1G9e6Ge1iEApp2QKH7qH8r) | [Adelasia](https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw) | [i miei fiumi](https://open.spotify.com/album/5OqAfiOugii6FdqxyhgDk6) | 3:04 | 2024-09-19 |  |
 | [I mostri sotto al letto](https://open.spotify.com/track/7zql0DcBVZh95ozfvEd1PP) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SCUSA X IL DISORDINE](https://open.spotify.com/album/2N7C1CNutpky17Mc2isnlX) | 2:32 | 2024-06-27 | 2024-10-21 |
@@ -165,7 +166,7 @@
 | [piangerepiangerepiangere](https://open.spotify.com/track/1te6dJOM0uRlv4OvWTF0V0) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [le stelle\* il sole; l'arcobaleno\)\)](https://open.spotify.com/album/1AZSZ1CM8Xen3FmviWh1y7) | 4:21 | 2024-06-27 | 2024-10-25 |
 | [Piccolo Tornado](https://open.spotify.com/track/6DHbFV8VtthSD6brpfmmRQ) | [Giovanni Toscano](https://open.spotify.com/artist/1FNMcZG4mg6w5sfpTYQ2eM) | [Piccolo Tornado](https://open.spotify.com/album/1RyXXN2FM54OhAzRXqU54I) | 3:18 | 2024-10-10 |  |
 | [PIENSE A T’ANNAMMURÁ](https://open.spotify.com/track/1pRctZZmX9tVE330JUDN9U) | [Gabriele Esposito](https://open.spotify.com/artist/6KBX0GZAeEOYSgONCtcwFL) | [accurdammece vol.1](https://open.spotify.com/album/0qO5npHZs0SCchqgpFLI43) | 3:03 | 2024-06-27 | 2024-07-05 |
-| [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 |  |
+| [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 | 2024-12-03 |
 | [Polpastrelli](https://open.spotify.com/track/7ujJ9c0LozCmL0gEh5uFcK) | [GIROTTI](https://open.spotify.com/artist/2MIjG40Nta91vk0nG7Rkak) | [Polpastrelli](https://open.spotify.com/album/6q3emqCWz6naRFoKweiQJ7) | 3:31 | 2024-07-25 | 2024-09-27 |
 | [Polvere](https://open.spotify.com/track/3NgtBfIj16hsQdCgTlz4u1) | [VIOLANTE](https://open.spotify.com/artist/5ysxGtfqUnLuYBdKpMqmhu) | [Polvere](https://open.spotify.com/album/59DvlwV0AP3itvkMtmZwiR) | 2:41 | 2024-11-21 |  |
 | [Portami via](https://open.spotify.com/track/0apbAqwbO4vs35a3tVBaCw) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Portami via](https://open.spotify.com/album/3Izoj2GQMMxLcDUlLTpGNt) | 2:55 | 2024-10-24 | 2024-11-24 |
@@ -188,6 +189,7 @@
 | [Sassi](https://open.spotify.com/track/26OptEgY9h0hwHFEQy3uWo) | [Meli](https://open.spotify.com/artist/64Z6UXWQgg7R9HvgQuzW3q) | [Sassi](https://open.spotify.com/album/3zcEYoS9SWPk4V3bzJL2lp) | 3:04 | 2024-06-27 | 2024-07-05 |
 | [Scarpe](https://open.spotify.com/track/7MvxCM3k9mdhCTMRB7I6Vz) | [SANTACHIARA](https://open.spotify.com/artist/5lQwH3yb4bvUNnFG5DXMRW) | [Scarpe](https://open.spotify.com/album/5ZMknWUrGlTm5UutF48iv1) | 3:12 | 2024-11-28 |  |
 | [Scatoloni](https://open.spotify.com/track/66jgjmSQPsjZcUUg9eOz4J) | [Lost Kids](https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [Scatoloni](https://open.spotify.com/album/5d3kZvPSoQQvkfB5DzLrls) | 3:01 | 2024-06-27 | 2024-07-05 |
+| [sconosciuti](https://open.spotify.com/track/1GpewqxFLNIUwtKU6K6Ped) | [nube](https://open.spotify.com/artist/12sVY50PY6w3GTo0FapO4i) | [sconosciuti](https://open.spotify.com/album/2b3pVOTBafGfmraGRybkEv) | 2:50 | 2024-11-28 |  |
 | [Se crolla il mondo poi ti salvo io](https://open.spotify.com/track/0mqC0ZUnfyzfN6IN3PtNE4) | [Destro](https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT) | [Se crolla il mondo poi ti salvo io](https://open.spotify.com/album/3SYOrz4zKgRN4FnRg3cYma) | 3:22 | 2024-10-03 | 2024-11-22 |
 | [se io morissi per stanotte?](https://open.spotify.com/track/1IehxLziYrNEF9QUxa6b5o) | [Dae](https://open.spotify.com/artist/6O1IK4RD34brPW8hT1JgyQ) | [se io morissi per stanotte?](https://open.spotify.com/album/6GAZFkm6RH8LYPEMQ14MUf) | 2:41 | 2024-11-07 | 2024-11-17 |
 | [Se non passasse aria](https://open.spotify.com/track/1KYm3VmTG8jXvRzYsQ7Ft5) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Se non passasse aria](https://open.spotify.com/album/2QamJXYhdVkK1uJAUcf2yu) | 3:22 | 2024-10-03 |  |

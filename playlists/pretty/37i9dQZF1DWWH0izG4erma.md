@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country music that rocks\. Cover: Ryan Hurd
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,498 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,526 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 87 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 |
 | 88 | [Made For This](https://open.spotify.com/track/7FR7CofCQiuyt75srjwhER) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Made For This](https://open.spotify.com/album/2oILhqKBizkC5tfTvh3J8T) | 3:43 |
 | 89 | [SPITCUP](https://open.spotify.com/track/3wfuUtDoysuURJHblPxbQM) | [Ryan Jesse](https://open.spotify.com/artist/3D8Amh1jMYCSSj6aq9pxtl) | [SPITCUP](https://open.spotify.com/album/3vwD4qQv0v1LIcaUAXm0iQ) | 2:47 |
-| 90 | [Livin’ My Life Like a Country Song](https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Livin’ My Life Like a Country Song](https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL) | 3:19 |
-| 91 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
+| 90 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 |
+| 91 | [Livin’ My Life Like a Country Song](https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ), [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Livin’ My Life Like a Country Song](https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL) | 3:19 |
 | 92 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 |
 | 93 | [Whiskey For Sale](https://open.spotify.com/track/4qkgLpKFYOsePL2HaOCCZ8) | [Cory Marks](https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv) | [Whiskey For Sale](https://open.spotify.com/album/4zFP8lZxnNYAncMcNTbjYG) | 3:11 |
 | 94 | [What I Know Now](https://open.spotify.com/track/77uUGdoehrjJPP9IZlVq5F) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [What I Know Now](https://open.spotify.com/album/2djQN7IpTj79iHIFWR8iLl) | 2:53 |

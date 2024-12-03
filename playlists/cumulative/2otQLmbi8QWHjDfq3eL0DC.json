@@ -68,7 +68,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 143448,
       "name": "1:1",
       "url": "https://open.spotify.com/track/2lyR4sKecLAbtboEg11ouu"
@@ -148,10 +148,44 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 130391,
       "name": "8 Days",
       "url": "https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz"
+    },
+    {
+      "album": {
+        "name": "96 (feat. Shapes & Dada Jones)",
+        "url": "https://open.spotify.com/album/7hyrq5IHLwnjBLvo9ZV7Cx"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        },
+        {
+          "name": "Dada Jones",
+          "url": "https://open.spotify.com/artist/0cWFj6zZkVsQ4KzXRdgRtW"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150408,
+      "name": "96 (feat. Shapes & Dada Jones)",
+      "url": "https://open.spotify.com/track/7dYnsb6ZIhKaxcrxgLnpHR"
     },
     {
       "album": {
@@ -386,10 +420,32 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 198178,
       "name": "AwStopBro",
       "url": "https://open.spotify.com/track/35z4D3pVq6sTkWrEkvJDMy"
+    },
+    {
+      "album": {
+        "name": "AwStopBro (with Dizzee Rascal)",
+        "url": "https://open.spotify.com/album/4FNH9CF6bra34wW8l6H4x5"
+      },
+      "artists": [
+        {
+          "name": "Belters Only",
+          "url": "https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA"
+        },
+        {
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188971,
+      "name": "AwStopBro (with Dizzee Rascal)",
+      "url": "https://open.spotify.com/track/22J84Pk8YIi7OusnvPBZtw"
     },
     {
       "album": {
@@ -686,7 +742,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 155076,
       "name": "Born To Love Ya",
       "url": "https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt"
@@ -1034,7 +1090,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
@@ -1638,7 +1694,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 118000,
       "name": "Feelings For You",
       "url": "https://open.spotify.com/track/1QjyTgDJlacwLKUGfTJBt4"
@@ -2258,7 +2314,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 167880,
       "name": "Hot Honey",
       "url": "https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp"
@@ -2452,7 +2508,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 167023,
       "name": "Into The Blue (feat. kamille)",
       "url": "https://open.spotify.com/track/5Rmd86LHDR1FYVRMjkEZNh"
@@ -2496,7 +2552,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 127825,
       "name": "It's Morning Girl (Coffee Coffee)",
       "url": "https://open.spotify.com/track/45ksU3O41xm6HeWLNaaimz"
@@ -2718,7 +2774,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 153442,
       "name": "Lay Low",
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
@@ -2890,7 +2946,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-12",
+      "date_removed": null,
       "duration_ms": 191487,
       "name": "Locked Away",
       "url": "https://open.spotify.com/track/0eQnK7e4DXG70OUehk8JIf"
@@ -3216,7 +3272,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 187365,
       "name": "Misleading",
       "url": "https://open.spotify.com/track/6yozk84rHLypCWk50d5mTE"
@@ -3480,6 +3536,28 @@
       "duration_ms": 131433,
       "name": "Numb",
       "url": "https://open.spotify.com/track/7zjm4MakxzCAZa3wHXezO8"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
     },
     {
       "album": {
@@ -3874,7 +3952,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 186997,
       "name": "Rain",
       "url": "https://open.spotify.com/track/15z2xOc2TLj1ljQK1Bo5S6"
@@ -4010,7 +4088,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 170875,
       "name": "Run",
       "url": "https://open.spotify.com/track/2dLX7oFZNYraHNtBwRWci5"
@@ -4294,7 +4372,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-09",
+      "date_removed": null,
       "duration_ms": 191166,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/1WumDA51R5dHvmRVhmoP6t"
@@ -4836,7 +4914,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 137250,
       "name": "Talk About Us",
       "url": "https://open.spotify.com/track/49WJ1FRGxmgFO09nOjENf3"
@@ -4858,7 +4936,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 146341,
       "name": "Tantalizing",
       "url": "https://open.spotify.com/track/799db91cR00On6N158VLHS"
@@ -4902,7 +4980,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-02",
+      "date_removed": null,
       "duration_ms": 135484,
       "name": "Tempo (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/4uwsAqmo4kzk5SLGag7XRb"
@@ -4920,7 +4998,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 189193,
       "name": "Temptation",
       "url": "https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U"
@@ -5062,7 +5140,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-18",
+      "date_removed": null,
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
@@ -5182,7 +5260,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 145326,
       "name": "Turn Around",
       "url": "https://open.spotify.com/track/3aSdp4rrcCXa1omO9rzDrV"

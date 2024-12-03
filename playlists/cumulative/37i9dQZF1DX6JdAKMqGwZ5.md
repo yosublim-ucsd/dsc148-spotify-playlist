@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: rusowsky, Bb trickz.
 
-260 songs - 13 hr 32 min
+261 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Mis Tías](https://open.spotify.com/track/0j9azcT9Rj85v2PKLulWfs) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Mis Tías](https://open.spotify.com/album/1yaPRCa4pcJpYHQzDTFtaD) | 2:38 | 2024-07-18 | 2024-08-09 |
 | [MonteViso](https://open.spotify.com/track/4BHIEJeMunK0SyugD0UxjE) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [MonteViso](https://open.spotify.com/album/7syDLWoTf6jFAynblMby7o) | 4:11 | 2024-09-05 | 2024-11-08 |
 | [Morir en otra habitación](https://open.spotify.com/track/5edvbrdzSYTOunsFgog4xq) | [Wild Honey](https://open.spotify.com/artist/1RLwfTeuQPUkU6z1JQiE4P) | [Morir en otra habitación](https://open.spotify.com/album/37HCFcqoKad0SKBsnamidN) | 3:19 | 2024-10-31 | 2024-11-15 |
+| [más que eso](https://open.spotify.com/track/0M0q7YYdSsaZH4DzUWqLxs) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [más que eso](https://open.spotify.com/album/03yM5Am9k6INvtdhh76CtJ) | 3:07 | 2024-11-28 |  |
 | [Nada Nuevo](https://open.spotify.com/track/4DcWD1rC1xRGNxig8kYwgX) | [Janire](https://open.spotify.com/artist/4sD4ggYulUsZmOxGyQK0Sj) | [Las Huidas](https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD) | 2:57 | 2024-10-31 | 2024-11-22 |
 | [Nadie Sabe](https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE) | [Ciutat](https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Nadie Sabe](https://open.spotify.com/album/3IoYLb8LhxNQj5fczxJx1w) | 4:12 | 2024-06-27 | 2024-07-12 |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-08-22 | 2024-09-20 |
@@ -210,7 +211,7 @@
 | [rachel y ross](https://open.spotify.com/track/7bCc9z9MMr447KrWR1jjYY) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [rachel y ross](https://open.spotify.com/album/6cYDCCaorLnGcJSBiRwk2v) | 3:18 | 2024-09-05 | 2024-10-11 |
 | [Rayito de Luz](https://open.spotify.com/track/1WmMIhHYDgetAn0dpx68Qn) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [SOMOS JAVYPABLO](https://open.spotify.com/album/57ry9jXPJLWl5tDNwdxlDq) | 3:45 | 2024-08-01 |  |
 | [Regalao](https://open.spotify.com/track/67Kif1sbSGb7gHmnN0tRUf) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Carlangas](https://open.spotify.com/album/3HnyyrsxIqgCB2dZw8q9gC) | 2:06 | 2024-06-27 | 2024-07-05 |
-| [relevante](https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [relevante](https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ) | 3:55 | 2024-06-27 |  |
+| [relevante](https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [relevante](https://open.spotify.com/album/0crdvXNF6hemAWuVLAIdeQ) | 3:55 | 2024-06-27 | 2024-12-03 |
 | [Rendición](https://open.spotify.com/track/6gDvSHXwWyJYtQ3LvoCmN7) | [Delaporte](https://open.spotify.com/artist/1GDip5phlxYzeZ36vnf9kJ), [bruno](https://open.spotify.com/artist/3zLCzDGv99EaxNIxk94Yna) | [Rendición](https://open.spotify.com/album/2DXRoJ8Hh4ERUQm80wnl0s) | 3:44 | 2024-11-22 |  |
 | [Ressaca a sa platja](https://open.spotify.com/track/09HzKgLwCBBIyyG8bPS3rn) | [Maria Jaume](https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO) | [Ressaca a sa platja](https://open.spotify.com/album/5BVovxgoK6T5bN8Q5hNReZ) | 2:56 | 2024-06-27 | 2024-11-22 |
 | [Reventarme](https://open.spotify.com/track/637HLsAIU5NCKr4mMssOj1) | [trashi](https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ) | [Reventarme](https://open.spotify.com/album/5uPGlDtsU8HOG5wktQdJjX) | 3:06 | 2024-06-27 |  |

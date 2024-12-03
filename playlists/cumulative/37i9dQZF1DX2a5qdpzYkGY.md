@@ -4,7 +4,7 @@
 
 > a journey through ephemeral moments
 
-284 songs - 23 hr 9 min
+285 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Continuum 1](https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Continuum 1](https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4) | 7:13 | 2024-08-19 |  |
 | [Crusoe Takes a Trip](https://open.spotify.com/track/1UsDy5L70wlg0aCtlqO0Dr) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey \(Expanded Version\)](https://open.spotify.com/album/3sO8WNFbXBj9uPos7BlXaV) | 6:39 | 2021-10-06 | 2024-04-19 |
 | [Crusoe Takes a Trip](https://open.spotify.com/track/4G2ghZczj9HjGvUTEpn62d) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey](https://open.spotify.com/album/4ZaedkRcNzuoavBWJXF2ha) | 6:39 | 2021-10-06 | 2023-02-02 |
+| [Denial, Creation](https://open.spotify.com/track/6IheMaJSyIfRpXgMDE1Ajw) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Denial, Creation](https://open.spotify.com/album/6BPxwe4Eit3VEPCfVwnmUZ) | 3:39 | 2024-12-03 |  |
 | [Después de un Dia](https://open.spotify.com/track/01ps6dUKJ3r3VbZBuj6qmk) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Sebastian Mondragon](https://open.spotify.com/artist/4cr4e93QLD5J9pWXAoDKFe), [Erik Deutsch](https://open.spotify.com/artist/4K6X9Dc8oVPZ3hPEH4IRYG) | [Después de un Día](https://open.spotify.com/album/7dhGvxvETBIoWeLEOb61FT) | 4:04 | 2021-10-26 | 2022-10-25 |
 | [Dimensioni](https://open.spotify.com/track/5PyuNTJsfks0Ub77EvdOQ5) | [Ai!](https://open.spotify.com/artist/5BmWr6brwfMjs2J8lFwEEQ) | [Manuale Illusione](https://open.spotify.com/album/5mbSRdkta9YJNrE5enrRQp) | 10:12 | 2023-03-06 | 2023-05-13 |
 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 | 2023-12-12 |  |
@@ -262,7 +263,7 @@
 | [They Call Me Magic \(Main Title Theme\)](https://open.spotify.com/track/2eeF4YCraIqJ5t6vP80DAt) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [They Call Me Magic \(Main Title Theme\)](https://open.spotify.com/album/1IB5VhDtp17iJXnNmvWWKm) | 1:04 | 2022-04-23 | 2022-10-01 |
 | [Thomas The Fib](https://open.spotify.com/track/24BUtbyeWfHzL0SDCdnywp) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey \(Expanded Version\)](https://open.spotify.com/album/3sO8WNFbXBj9uPos7BlXaV) | 5:41 | 2021-10-06 | 2023-06-01 |
 | [Thomas The Fib](https://open.spotify.com/track/7aWDd1MdZrgOb0W2DyAKq9) | [Red Snapper](https://open.spotify.com/artist/1BQtFnxZvAvTCZgTMlED0Q) | [Prince Blimey](https://open.spotify.com/album/4ZaedkRcNzuoavBWJXF2ha) | 5:41 | 2021-10-06 | 2023-01-28 |
-| [three](https://open.spotify.com/track/5PscXPqV4pst0hyzQwEveE) | [Black Decelerant](https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo), [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF), [Omari Jazz](https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT) | [three](https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO) | 5:50 | 2024-06-19 |  |
+| [three](https://open.spotify.com/track/5PscXPqV4pst0hyzQwEveE) | [Black Decelerant](https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo), [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF), [Omari Jazz](https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT) | [three](https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO) | 5:50 | 2024-06-19 | 2024-12-03 |
 | [Thunder Perfect \- Album Mix](https://open.spotify.com/track/5Zvf7vZgafQ0P4DarGV4dp) | [The Cromagnon Band](https://open.spotify.com/artist/6ciUBm4vVIvDAI03LOaqwB) | [Dismantle](https://open.spotify.com/album/0Urx0JytNiBlup4qFQEzJ3) | 5:30 | 2023-06-02 | 2023-10-11 |
 | [Tide](https://open.spotify.com/track/2v2ZostkiMcb5EB9iRY8Ae) | [Kumi Takahara](https://open.spotify.com/artist/061SWysWFkpgQ2h5Q3oaK5), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Tide](https://open.spotify.com/album/0jFeqRTJcqVjsFq1XEyw9Y) | 6:02 | 2021-10-06 | 2022-07-29 |
 | [Tloque Nahuaque](https://open.spotify.com/track/4439dBPyNcwW7Vt9vKdQl5) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu), [Orquesta Invisible de Lagos de Moreno](https://open.spotify.com/artist/4uCE0x1AQV3x4VGBV18WRW) | [Tloque Nahuaque](https://open.spotify.com/album/4Jb0KPq6u9VcGkGPuaio7N) | 6:31 | 2022-05-24 | 2024-11-04 |

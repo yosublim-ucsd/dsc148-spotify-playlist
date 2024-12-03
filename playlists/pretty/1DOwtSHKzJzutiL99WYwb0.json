@@ -1,13 +1,165 @@
 {
   "description": "Collections made with EVERY kind of newly released 'K-Pop Bias' all over the world. Cover: G-DRAGON",
-  "num_followers": 757,
+  "num_followers": 756,
   "original_name": "K-Pop Bias : KPOP ESSENTIAL",
   "owner": {
     "name": "K-Pop Bias",
     "url": "https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta"
   },
-  "snapshot_id": "AAAHSTGJqMOfmDwmNzT0mjkjoiemRCxC",
+  "snapshot_id": "AAAHVATprI4N9lVUAm2D0cme7X5o1LRo",
   "tracks": [
+    {
+      "added_at": "2024-12-02 07:43:48",
+      "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/0PwtzRZxpKmozYdYQdcAgp"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "Unending Days",
+      "url": "https://open.spotify.com/track/3XZJZvwp6B6NFJYsrNAchp"
+    },
+    {
+      "added_at": "2024-12-02 07:43:58",
+      "album": {
+        "name": "Archive 1: [Road Runner]",
+        "url": "https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/407McLuQjC5zfnmYmhwimy"
+    },
+    {
+      "added_at": "2024-12-02 07:44:05",
+      "album": {
+        "name": "Like A Flower - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7wf9YjsrbjqPq8orPOW2Rw"
+      },
+      "artists": [
+        {
+          "name": "IRENE",
+          "url": "https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Like A Flower",
+      "url": "https://open.spotify.com/track/2ivhjourUwztR3kmz575KV"
+    },
+    {
+      "added_at": "2024-12-02 07:44:19",
+      "album": {
+        "name": "FREQUENCY - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K"
+      },
+      "artists": [
+        {
+          "name": "WayV",
+          "url": "https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz"
+        }
+      ],
+      "duration_ms": 160146,
+      "name": "FREQUENCY - Korean Version",
+      "url": "https://open.spotify.com/track/6a6jytQm8K7FNgPM1xrwEb"
+    },
+    {
+      "added_at": "2024-12-02 07:44:31",
+      "album": {
+        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
+    },
+    {
+      "added_at": "2024-12-02 07:44:43",
+      "album": {
+        "name": "Let's get it",
+        "url": "https://open.spotify.com/album/5j5xsAxydMKjFl9WPkAY1L"
+      },
+      "artists": [
+        {
+          "name": "NOWADAYS",
+          "url": "https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg"
+        }
+      ],
+      "duration_ms": 177186,
+      "name": "Let's get it",
+      "url": "https://open.spotify.com/track/3y1WqHNtavO87z6oSuFmaL"
+    },
+    {
+      "added_at": "2024-12-02 07:44:53",
+      "album": {
+        "name": "Letter To Myself - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/47f7hcYu2nGCYcRx5d8zCM"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 184060,
+      "name": "Letter To Myself",
+      "url": "https://open.spotify.com/track/1Uxr0oBXAZRuLkAz27TkLc"
+    },
+    {
+      "added_at": "2024-12-02 07:45:06",
+      "album": {
+        "name": "DREAMSCAPE",
+        "url": "https://open.spotify.com/album/4CbiijbtjdFusL6uXiZJ2k"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 211400,
+      "name": "When I'm With You",
+      "url": "https://open.spotify.com/track/2wzhZgSDjWgwB618a6eeua"
+    },
+    {
+      "added_at": "2024-12-02 07:45:20",
+      "album": {
+        "name": "The 5th Mini Album 'VOYAGE'",
+        "url": "https://open.spotify.com/album/7xqdkXDwZiVOkdZZlKxjEL"
+      },
+      "artists": [
+        {
+          "name": "VIVIZ",
+          "url": "https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Shhh!",
+      "url": "https://open.spotify.com/track/3L87s9RtB0V6MmcBNLY7N6"
+    },
     {
       "added_at": "2024-11-01 01:49:04",
       "album": {
@@ -1491,150 +1643,6 @@
       "duration_ms": 188373,
       "name": "Baila Conmigo",
       "url": "https://open.spotify.com/track/3KXqLK4qPxr6qlrfzVVmNY"
-    },
-    {
-      "added_at": "2023-10-06 06:32:49",
-      "album": {
-        "name": "NEW TOMORROW",
-        "url": "https://open.spotify.com/album/3H3lbA7Dn1BVIflkUqfYUU"
-      },
-      "artists": [
-        {
-          "name": "FANTASY BOYS",
-          "url": "https://open.spotify.com/artist/4IAcb0MN1CCHpwUaq5iEUU"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "New Tomorrow",
-      "url": "https://open.spotify.com/track/2ayD6EPasDViEQa4bwat0c"
-    },
-    {
-      "added_at": "2023-09-15 07:28:10",
-      "album": {
-        "name": "SUN SEEKER",
-        "url": "https://open.spotify.com/album/1FdVBP7g9FfMa7ifgyY4iA"
-      },
-      "artists": [
-        {
-          "name": "CRAVITY",
-          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Ready or Not",
-      "url": "https://open.spotify.com/track/5ArnumzuZkiaSmZaxPsQfh"
-    },
-    {
-      "added_at": "2023-09-15 07:29:37",
-      "album": {
-        "name": "YOUR CITY",
-        "url": "https://open.spotify.com/album/2ey8EdjglcK5i167dwLCLp"
-      },
-      "artists": [
-        {
-          "name": "Jung Yong Hwa",
-          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Your City",
-      "url": "https://open.spotify.com/track/3nLUsvRPY4vQfTYFk9uEVp"
-    },
-    {
-      "added_at": "2023-09-15 07:29:02",
-      "album": {
-        "name": "Good Day (Special Daileee)",
-        "url": "https://open.spotify.com/album/5iTWeHExLbtaLJPPFFD3Xq"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 168920,
-      "name": "Good Day (Special Daileee)",
-      "url": "https://open.spotify.com/track/2bxQoEPkVPlCNTUACMnEbh"
-    },
-    {
-      "added_at": "2023-09-04 01:25:17",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/3yshBMkBoK9HZ5KbKz2lHj"
-      },
-      "artists": [
-        {
-          "name": "CRAVITY",
-          "url": "https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn"
-        }
-      ],
-      "duration_ms": 206773,
-      "name": "Cheese",
-      "url": "https://open.spotify.com/track/4pJONzTRaCfshJdrN051lr"
-    },
-    {
-      "added_at": "2023-08-21 09:03:19",
-      "album": {
-        "name": "TEENFRESH",
-        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
-      },
-      "artists": [
-        {
-          "name": "STAYC",
-          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
-        }
-      ],
-      "duration_ms": 179275,
-      "name": "Bubble",
-      "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
-    },
-    {
-      "added_at": "2023-08-21 09:03:13",
-      "album": {
-        "name": "LOVElution <\u2180>",
-        "url": "https://open.spotify.com/album/4hXAHIWkBpmSskQ8MccyZf"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Girls\u2019 Capitalism",
-      "url": "https://open.spotify.com/track/2ivVS2ageitCQqnmmMaWoH"
-    },
-    {
-      "added_at": "2023-08-21 09:03:04",
-      "album": {
-        "name": "THE BOYZ 2ND ALBUM [PHANTASY] Pt.1 Christmas In August",
-        "url": "https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "LIP GLOSS",
-      "url": "https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as"
-    },
-    {
-      "added_at": "2023-08-21 09:02:55",
-      "album": {
-        "name": "HOUSE OF TRICKY : HOW TO PLAY",
-        "url": "https://open.spotify.com/album/4JoVx1AssR7dcAZrtwFVfW"
-      },
-      "artists": [
-        {
-          "name": "xikers",
-          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
-        }
-      ],
-      "duration_ms": 210811,
-      "name": "DO or DIE",
-      "url": "https://open.spotify.com/track/6brb7SXjhqHOxsj0jkyQVH"
     }
   ],
   "unique_name": "K-Pop Bias : KPOP ESSENTIAL",

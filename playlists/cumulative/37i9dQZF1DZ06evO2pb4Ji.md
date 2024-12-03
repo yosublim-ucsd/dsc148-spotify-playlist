@@ -4,7 +4,7 @@
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-95 songs - 5 hr 17 min
+96 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Worlds Collide](https://open.spotify.com/track/6KMgPewrVRxzeFzRwkFa0M) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Nicki Taylor](https://open.spotify.com/artist/40eCNuH12cyxEcIVObqFrG) | [Worlds Collide](https://open.spotify.com/album/3UNDTCRbmguMxaPzcNpbSn) | 3:36 | 2024-01-29 |  |
 | [You & Me Makes Us](https://open.spotify.com/track/3aKtLbH0NTqqJQDKouqM3Q) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [DEEGAN](https://open.spotify.com/artist/70KADh6rh0ljLJZtvH8LYi) | [You & Me Makes Us](https://open.spotify.com/album/2zrvozRqPgBnoP6TQEoAcg) | 2:56 | 2024-01-29 | 2024-04-19 |
 | [Zeri, the Spark of Zaun](https://open.spotify.com/track/6q7tXbbAOFY9qMT6LMKHnA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX) | [Zeri, the Spark of Zaun](https://open.spotify.com/album/5Cco6XUss3Ws0CMyPUaLOQ) | 3:33 | 2024-01-29 | 2024-11-16 |
-| [这样很好 \(Isha's Song\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3mVU7NvtY6OYslKyAnDkD4) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 \(from the series Arcane League of Legends\)](https://open.spotify.com/album/23kFyuuRMapEZv6ReQUEit) | 4:24 | 2024-11-19 |  |
+| [这样很好 \(Isha's Song\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/3mVU7NvtY6OYslKyAnDkD4) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Arcane League of Legends: Season 2 \(from the series Arcane League of Legends\)](https://open.spotify.com/album/23kFyuuRMapEZv6ReQUEit) | 4:24 | 2024-11-19 | 2024-12-03 |
+| [这样很好 \(Isha's Song\) \(from the series Arcane League of Legends\)](https://open.spotify.com/track/355ygyd1nLXeJAz7Zbapwj) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [这样很好 \(Isha's Song\) \(from the series Arcane League of Legends\)](https://open.spotify.com/album/2ZIqGTUu9YpNm8R6cKfdJV) | 4:24 | 2024-12-03 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

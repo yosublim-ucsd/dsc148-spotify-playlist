@@ -1,6 +1,6 @@
 {
   "description": "have fun with it.",
-  "num_followers": 1503325,
+  "num_followers": 1503289,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Can We Please Have Fun",
-        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 220584,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/0jfgGNDWmjcBLPKMyIMLYP"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 175720,
       "name": "can't slow down",
       "url": "https://open.spotify.com/track/15IF4wSCMrAo2Rq0eytARR"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Can We Please Have Fun",
+        "url": "https://open.spotify.com/album/2FKCYNTlVVub7yPDncWamQ"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 220584,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/44R1ZALac20AijYr5TtPgr"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "I've Got Some Living To Do",
         "url": "https://open.spotify.com/album/73ct5rK9qShCYdzBR8C8PX"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 186324,
       "name": "Stella Brown",
       "url": "https://open.spotify.com/track/6n6dqOk5vLiqYaa9Fw5ylH"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Clueless",
-        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
-      },
-      "artists": [
-        {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-        }
-      ],
-      "duration_ms": 208298,
-      "name": "Clueless",
-      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3"
+      },
+      "artists": [
+        {
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+        }
+      ],
+      "duration_ms": 208298,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP"
-      },
-      "artists": [
-        {
-          "name": "Culture Wars",
-          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
-        }
-      ],
-      "duration_ms": 190490,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Modern Girl",
         "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 223100,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/1fGz20GixDffHCqGjg1bjP"
+      },
+      "artists": [
+        {
+          "name": "Culture Wars",
+          "url": "https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf"
+        }
+      ],
+      "duration_ms": 190490,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4tgikaa2iJTVUreVxW2Us6"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
-      },
-      "artists": [
-        {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Oh No :: He Said What?",
         "url": "https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 228138,
       "name": "Oh No :: He Said What?",
       "url": "https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "WHEN THE MUSIC STOPS",
-        "url": "https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Chris Black Changed My Life",
         "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 159241,
       "name": "Summer of Luv (feat. Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/2PKbC4uFUY1tcBABpGZ8GQ"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "WHEN THE MUSIC STOPS",
+        "url": "https://open.spotify.com/album/1HU7wSsEM83drfgiAZP9PL"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/3E3s4xXjmt43Bl1SIC3ij7"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm"
-      },
-      "artists": [
-        {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
-        }
-      ],
-      "duration_ms": 253698,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 222297,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/4wCx7hQCIOVtuN3DkNGhYm"
+      },
+      "artists": [
+        {
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+        }
+      ],
+      "duration_ms": 253698,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/2TvwhdrUqEDUg0Z7LOmUOd"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Dead Club City (Deluxe)",
-        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 183849,
-      "name": "Time :: Fate :: Karma :: God",
-      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "adios",
         "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
       },
@@ -1595,22 +1579,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 211946,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "Birthday Boy",
         "url": "https://open.spotify.com/album/05eCZ53ezt3hInqJu980ro"
       },
@@ -1623,6 +1591,38 @@
       "duration_ms": 184768,
       "name": "Control",
       "url": "https://open.spotify.com/track/6TDl9RlC2udRlAyxDwEm7H"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Dead Club City (Deluxe)",
+        "url": "https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 183849,
+      "name": "Time :: Fate :: Karma :: God",
+      "url": "https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/3TstA7Or7ds5kL4bNWvRok"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 211946,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/6ZiETe7uxVBocdajCwhAHn"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Talker",
-        "url": "https://open.spotify.com/album/1CPOzsnaDG487fMP34wKW3"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 200613,
-      "name": "Higher Than Most",
-      "url": "https://open.spotify.com/track/3UfiB7OvlXL2RFmkQuqO5q"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/2vVVdpXVsEKwChwFpuTWqZ"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 231408,
       "name": "My Love",
       "url": "https://open.spotify.com/track/3leQLTAf9btWYR0bbIiHeZ"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Talker",
+        "url": "https://open.spotify.com/album/1CPOzsnaDG487fMP34wKW3"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 200613,
+      "name": "Higher Than Most",
+      "url": "https://open.spotify.com/track/3UfiB7OvlXL2RFmkQuqO5q"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
-        "name": "Ground Control",
-        "url": "https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 203908,
-      "name": "Ground Control",
-      "url": "https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
         "name": "run away girl",
         "url": "https://open.spotify.com/album/4xQRkjMaZOd86l11TKj1D2"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 230552,
       "name": "run away girl",
       "url": "https://open.spotify.com/track/1uMo2HFIfKc3NJVl73L1zj"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
+        "name": "Ground Control",
+        "url": "https://open.spotify.com/album/1dvGoaIzAkcrpnPOUeJzUk"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "duration_ms": 203908,
+      "name": "Ground Control",
+      "url": "https://open.spotify.com/track/4d3QWnT6shcTiVJem6zEuz"
     },
     {
       "added_at": "2024-10-18 18:01:14",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2024-10-18 18:01:14",
       "album": {
+        "name": "Vandalist",
+        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        }
+      ],
+      "duration_ms": 208374,
+      "name": "Vandalist",
+      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
+    },
+    {
+      "added_at": "2024-10-18 18:01:14",
+      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/1gTEZ7CcBi2TCXz0mvLca1"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 190533,
       "name": "Out Of My Head",
       "url": "https://open.spotify.com/track/3GfF24z5aHM8idyueXywno"
-    },
-    {
-      "added_at": "2024-10-18 18:01:14",
-      "album": {
-        "name": "Zombie (Wild Coming Out)",
-        "url": "https://open.spotify.com/album/4vGlG1585GRyZeInnoq7UE"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 276076,
-      "name": "Zombie (Wild Coming Out)",
-      "url": "https://open.spotify.com/track/21k6owSOcKiNOwzmq69wTn"
     }
   ],
   "unique_name": "it's alt good",

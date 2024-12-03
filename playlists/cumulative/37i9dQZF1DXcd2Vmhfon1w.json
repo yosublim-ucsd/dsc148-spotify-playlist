@@ -1846,7 +1846,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 285670,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/7E59kEbDTN7kEqiU93zJ1I"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 169907,
       "name": "El Retorno del Doc",
       "url": "https://open.spotify.com/track/61cit0bKCjmCDtwlM3T3bm"
@@ -5078,6 +5078,24 @@
       "duration_ms": 199550,
       "name": "Lesson 1",
       "url": "https://open.spotify.com/track/4kwJDniaK1v6Xu64lVidgM"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/3T9FiQDKhwvU4wecr84bZf"
+      },
+      "artists": [
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126066,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/2FNfjickrps120O9KB7vJr"
     },
     {
       "album": {
@@ -7109,6 +7127,36 @@
     },
     {
       "album": {
+        "name": "PA SIEMPRE",
+        "url": "https://open.spotify.com/album/2dxv9G1VWUcENOfLmahglJ"
+      },
+      "artists": [
+        {
+          "name": "Nazek J",
+          "url": "https://open.spotify.com/artist/66zyN0ipkRvUDVC61XF8tj"
+        },
+        {
+          "name": "GRECAS",
+          "url": "https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4"
+        },
+        {
+          "name": "Vupp",
+          "url": "https://open.spotify.com/artist/2iUPXJJ8UZfMhEjfoeYB7q"
+        },
+        {
+          "name": "G. Griffin",
+          "url": "https://open.spotify.com/artist/0IfjhSehWYJfPC34XV2PKJ"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232897,
+      "name": "PA SIEMPRE",
+      "url": "https://open.spotify.com/track/6Ud4Vr1zAwJRnJkDKUHliu"
+    },
+    {
+      "album": {
         "name": "Palabra de Pobre",
         "url": "https://open.spotify.com/album/3J1gVZCquwt1JtMzBBStDH"
       },
@@ -7314,6 +7362,28 @@
       "duration_ms": 142000,
       "name": "Prada",
       "url": "https://open.spotify.com/track/1AI5VwRYiI0g3Pll2l7o9d"
+    },
+    {
+      "album": {
+        "name": "Prefiero no pensarlo",
+        "url": "https://open.spotify.com/album/6NB1SrHfFnValcfXnFjhVU"
+      },
+      "artists": [
+        {
+          "name": "Kaze",
+          "url": "https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg"
+        },
+        {
+          "name": "Toni Anzis",
+          "url": "https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181831,
+      "name": "Prefiero no pensarlo",
+      "url": "https://open.spotify.com/track/2B1NHncfObu77oLouGac1P"
     },
     {
       "album": {
@@ -7633,6 +7703,28 @@
     },
     {
       "album": {
+        "name": "Mi propio peor enemigo",
+        "url": "https://open.spotify.com/album/1rdiQu3AiYJAGI1VlYtTXB"
+      },
+      "artists": [
+        {
+          "name": "Israel B",
+          "url": "https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B"
+        },
+        {
+          "name": "LOWLIGHT",
+          "url": "https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101034,
+      "name": "Reina y soldado",
+      "url": "https://open.spotify.com/track/51tXdLA296fXk8bBx7coim"
+    },
+    {
+      "album": {
         "name": "4NGELITO",
         "url": "https://open.spotify.com/album/5IOrh719ln2wBeIXdntTPS"
       },
@@ -7670,7 +7762,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 147885,
       "name": "Replay",
       "url": "https://open.spotify.com/track/69bkxL92sOLeEh6waaridp"
@@ -7936,7 +8028,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 141979,
       "name": "Saltos de Fe",
       "url": "https://open.spotify.com/track/4EPt0yv2tZjYs2ekkoaHaE"
@@ -8310,7 +8402,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 219605,
       "name": "Si Vuelves Tarde",
       "url": "https://open.spotify.com/track/20u2zomBmzbAI85bP9vkYj"
@@ -8874,6 +8966,24 @@
       "duration_ms": 158863,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/1tP1RLd5jdBAIaeWpiJm1P"
+    },
+    {
+      "album": {
+        "name": "SUPER SAIYAN",
+        "url": "https://open.spotify.com/album/4ANsJ3xZPErfsWtyKUoaCz"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152938,
+      "name": "SUPER SAIYAN",
+      "url": "https://open.spotify.com/track/6uqdHGzu5QRzybEoPXEvz9"
     },
     {
       "album": {

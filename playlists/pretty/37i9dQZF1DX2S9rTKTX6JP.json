@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 702826,
+  "num_followers": 703033,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "The Predator",
-        "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 275968,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Origin of Symmetry",
         "url": "https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198800,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "The Predator",
+        "url": "https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 275968,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 252355,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "**** Live In Phoenix",
         "url": "https://open.spotify.com/album/2JA03Yv9LA7rRxHvZ15WXh"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 227880,
       "name": "Beat It - Studio Version",
       "url": "https://open.spotify.com/track/3C65zQ69c8RMiJ3wqB1ogp"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 252355,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/65mnqRK6fcQWpgNV2UibqM"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Flagpole Sitta",
-        "url": "https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 223003,
-      "name": "Flagpole Sitta",
-      "url": "https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Wild Card/A Word To The Wise",
         "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 291440,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/0Xq7FPQaLJgIHSB605YUMy"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Flagpole Sitta",
+        "url": "https://open.spotify.com/album/33B1muI2GbTX7NWyHK1lwm"
+      },
+      "artists": [
+        {
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+        }
+      ],
+      "duration_ms": 223003,
+      "name": "Flagpole Sitta",
+      "url": "https://open.spotify.com/track/4d1WMnL8dMh37ZZnMGvG59"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Mississippi Queen/Slow Hand",
-        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
-      },
-      "artists": [
-        {
-          "name": "Joyous Wolf",
-          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
-        }
-      ],
-      "duration_ms": 152973,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 293732,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Mississippi Queen/Slow Hand",
+        "url": "https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp"
+      },
+      "artists": [
+        {
+          "name": "Joyous Wolf",
+          "url": "https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp"
+        }
+      ],
+      "duration_ms": 152973,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Comandante",
-        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 312262,
-      "name": "Voodoo Child",
-      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 184417,
       "name": "Hey Ya! - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Comandante",
+        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 312262,
+      "name": "Voodoo Child",
+      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2"
-      },
-      "artists": [
-        {
-          "name": "The Kills",
-          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
-        }
-      ],
-      "duration_ms": 262967,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Holding Out for a Hero (Stripped)",
         "url": "https://open.spotify.com/album/03v7PCLu8jomBjLh96hPG4"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 169411,
       "name": "Holding Out for a Hero - Stripped",
       "url": "https://open.spotify.com/track/5N9LUibd7Fwxa7y2hEzGU6"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6pEgAKOang7GFsELVK6IG2"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 262967,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/6Nhs9AGiApHVmgABL52CP4"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2283,6 +2283,22 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/1OMEu56fo3rz6Oo0e0vYxQ"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "duration_ms": 233596,
+      "name": "Blank Generation - Studio Version - Recorded at Electric Lady Studios",
+      "url": "https://open.spotify.com/track/1cHKubFP60htes9wa4Y5JO"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
         "name": "When Doves Cry",
         "url": "https://open.spotify.com/album/302wtl4vr5C1SsCTfBFMsJ"
       },
@@ -2299,22 +2315,6 @@
       "duration_ms": 196938,
       "name": "When Doves Cry",
       "url": "https://open.spotify.com/track/7umzok5rx1Lctwa2pb03OR"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/1OMEu56fo3rz6Oo0e0vYxQ"
-      },
-      "artists": [
-        {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
-        }
-      ],
-      "duration_ms": 233596,
-      "name": "Blank Generation - Studio Version - Recorded at Electric Lady Studios",
-      "url": "https://open.spotify.com/track/1cHKubFP60htes9wa4Y5JO"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
-      },
-      "artists": [
-        {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Lovesong - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "The Kingdom (Deluxe)",
         "url": "https://open.spotify.com/album/2GQc28K68aHREbSgRPo7uo"
       },
@@ -2443,6 +2427,22 @@
       "duration_ms": 248571,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3lmOamtAvijhSI7BbJz83C"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+      },
+      "artists": [
+        {
+          "name": "Welles",
+          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Lovesong - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
     },
     {
       "added_at": "2024-11-08 21:08:22",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2024-11-08 21:08:22",
       "album": {
-        "name": "The Best Of Us For The Rest Of Us",
-        "url": "https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI"
-      },
-      "artists": [
-        {
-          "name": "Reel Big Fish",
-          "url": "https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN"
-    },
-    {
-      "added_at": "2024-11-08 21:08:22",
-      "album": {
         "name": "Addicted to Love",
         "url": "https://open.spotify.com/album/4XjiLfkxDeGgOamI6hccCl"
       },
@@ -2527,6 +2511,22 @@
       "duration_ms": 227673,
       "name": "Addicted to Love",
       "url": "https://open.spotify.com/track/7EVqaT1bzmFdUfnynRQDPc"
+    },
+    {
+      "added_at": "2024-11-08 21:08:22",
+      "album": {
+        "name": "Greatest Hitz",
+        "url": "https://open.spotify.com/album/1RylctYsdF1nIN4Vn916Tc"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 146706,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/3zZQg2DLezm194cTeGQuOD"
     }
   ],
   "unique_name": "Rock Covers",

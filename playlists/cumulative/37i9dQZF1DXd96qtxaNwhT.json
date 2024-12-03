@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "All There Is",
+        "url": "https://open.spotify.com/album/57BqI7ioPCm0XsOcyVPxbo"
+      },
+      "artists": [
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143240,
+      "name": "All There Is",
+      "url": "https://open.spotify.com/track/2HHyINNaWkOq05vI2UvPX3"
+    },
+    {
+      "album": {
         "name": "Almost (Sweet Music)",
         "url": "https://open.spotify.com/album/5kOg8fegfvEEb83tDy8gUH"
       },
@@ -2083,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "Dream On",
+        "url": "https://open.spotify.com/album/3fXM1TfNBpDAs3GaJTwS2Y"
+      },
+      "artists": [
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231471,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/6BCGPXXC8gfZUZfVSz7KtW"
+    },
+    {
+      "album": {
         "name": "Drunk Sleeping In Taxis",
         "url": "https://open.spotify.com/album/0SHth88PCHEHHhf2nysItm"
       },
@@ -2152,6 +2188,24 @@
       "duration_ms": 231573,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/6e7Eudq88wcygOphhtQnrN"
+    },
+    {
+      "album": {
+        "name": "Edge of Surrender",
+        "url": "https://open.spotify.com/album/12ss4gOADhZxmtPjVS0dyf"
+      },
+      "artists": [
+        {
+          "name": "Mi-kaisha",
+          "url": "https://open.spotify.com/artist/2nDEgpZ9zmM7cqkdUab6Tr"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256900,
+      "name": "Edge of Surrender",
+      "url": "https://open.spotify.com/track/6kuS8eAII4AdddzXU5irsW"
     },
     {
       "album": {
@@ -4979,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "Left In Your Love",
+        "url": "https://open.spotify.com/album/6arzu8DvG6JH3m48ieuCNt"
+      },
+      "artists": [
+        {
+          "name": "Loi",
+          "url": "https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183021,
+      "name": "Left In Your Love",
+      "url": "https://open.spotify.com/track/5dIW2ogrgeDlOPIEM0dNcb"
+    },
+    {
+      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/24lCE3skRS14egP6xhAIjr"
       },
@@ -5681,6 +5753,28 @@
     },
     {
       "album": {
+        "name": "Lovesick",
+        "url": "https://open.spotify.com/album/3vDrncFDua5nz0kGyiLtsB"
+      },
+      "artists": [
+        {
+          "name": "Jack Robertson",
+          "url": "https://open.spotify.com/artist/447mQxabcNPTEqS8jr2i2T"
+        },
+        {
+          "name": "Anderson Rocio",
+          "url": "https://open.spotify.com/artist/7kyApKxTvtwfH2t917AD6P"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224056,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/1MbSfzHuHrwdyYDZTq2tKs"
+    },
+    {
+      "album": {
         "name": "Loving Me",
         "url": "https://open.spotify.com/album/6jbLAuax1kADoBgc7of7Vi"
       },
@@ -6252,6 +6346,28 @@
       "duration_ms": 208000,
       "name": "Never Not",
       "url": "https://open.spotify.com/track/4fFfyouye6vrX9o9z4PVMu"
+    },
+    {
+      "album": {
+        "name": "Never Too Late (From The Film \u201cElton John: Never Too Late\")",
+        "url": "https://open.spotify.com/album/37x06uOcZyKmalh6ZsDoJH"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216596,
+      "name": "Never Too Late - From The Film \u201cElton John: Never Too Late\u201d",
+      "url": "https://open.spotify.com/track/6AzQ8MNzUOh5vpMUMGlBtQ"
     },
     {
       "album": {
@@ -8735,6 +8851,24 @@
     },
     {
       "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Tears",
+      "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
+    },
+    {
+      "album": {
         "name": "Tell Me About It",
         "url": "https://open.spotify.com/album/10yraezHmuWHzLrJK5qEls"
       },
@@ -8956,6 +9090,24 @@
       "duration_ms": 185422,
       "name": "The Joker And The Queen (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6N1K5OVVCopBjGViHs2IvP"
+    },
+    {
+      "album": {
+        "name": "The Line (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/5c9hDoE3GzvRYvv7rFXKBN"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "The Line (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/6stXkGStcYr3Cu5nBKczEi"
     },
     {
       "album": {
@@ -9592,6 +9744,24 @@
       "duration_ms": 234053,
       "name": "Want Me Back",
       "url": "https://open.spotify.com/track/62ThvHsujqV9sMr1V7yAJr"
+    },
+    {
+      "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/5dCQvmy45qliQlRjMOMUyQ"
+      },
+      "artists": [
+        {
+          "name": "Cap Carter",
+          "url": "https://open.spotify.com/artist/6tlZOlraBrfKljvD2O6wTV"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202009,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4zNoXBUdKdxlfsjIUV28LW"
     },
     {
       "album": {

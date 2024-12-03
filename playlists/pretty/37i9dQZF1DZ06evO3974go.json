@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19589,
+  "num_followers": 19595,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABcfN+0yGcf9boPh9S8WQqx",
+  "snapshot_id": "Z0unAAAAAABuWmGwbK82/51C0EU0WUjS",
   "tracks": [
     {
       "added_at": null,
@@ -559,22 +559,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Thru",
-        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
+        "name": "Private Room (feat. Rich Homie Quan) - Single",
+        "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
       },
       "artists": [
         {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "Tony Michael",
+          "url": "https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8"
         },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Come Thru",
-      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
+      "duration_ms": 197720,
+      "name": "Private Room",
+      "url": "https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE"
     },
     {
       "added_at": null,
@@ -599,26 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Private Room (feat. Rich Homie Quan) - Single",
-        "url": "https://open.spotify.com/album/1EZPtQxaaD648L0RXVBUXZ"
+        "name": "Come Thru",
+        "url": "https://open.spotify.com/album/5WNxh5zG6G5KtxAPkmPK1X"
       },
       "artists": [
         {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "Tony Michael",
-          "url": "https://open.spotify.com/artist/5DVMoEqGsSj3jFCIR2inf8"
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
         },
         {
           "name": "Rich Homie Quan",
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 197720,
-      "name": "Private Room",
-      "url": "https://open.spotify.com/track/6NtUvEqIOgO1rRkQk6F0aE"
+      "duration_ms": 240133,
+      "name": "Come Thru",
+      "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 210409,
-      "name": "Stressed",
-      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
+      "duration_ms": 114385,
+      "name": "Friday Night",
+      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 114385,
-      "name": "Friday Night",
-      "url": "https://open.spotify.com/track/6PXNkTD5k1atKFDOF03YId"
+      "duration_ms": 210409,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Basics",
-        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Heart Cold",
-      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Got Yo Wingz",
         "url": "https://open.spotify.com/album/4jdQt9s1NisPjtryGLSzqa"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 155000,
       "name": "Got Yo Wingz",
       "url": "https://open.spotify.com/track/6EqyEmLrxlmEB1iBxRVMjZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Heart Cold",
+      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
     }
   ],
   "unique_name": "This Is Rich Homie Quan",

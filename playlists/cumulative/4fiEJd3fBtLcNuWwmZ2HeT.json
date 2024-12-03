@@ -1897,6 +1897,24 @@
     },
     {
       "album": {
+        "name": "NOX LUX",
+        "url": "https://open.spotify.com/album/2W1fq9AQtzxztLOm5AfEq0"
+      },
+      "artists": [
+        {
+          "name": "MYTH & ROID",
+          "url": "https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273065,
+      "name": "NOX LUX",
+      "url": "https://open.spotify.com/track/69gjQpIkp1ZA4XlCRAm67T"
+    },
+    {
+      "album": {
         "name": "ODD NUMBER",
         "url": "https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 288340,
       "name": "Por Que",
       "url": "https://open.spotify.com/track/7hNdWx6prYB4xmpG25eTAT"

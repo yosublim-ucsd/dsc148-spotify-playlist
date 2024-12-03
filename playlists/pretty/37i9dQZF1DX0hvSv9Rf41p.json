@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Subtronics & Alison Wonderland",
-  "num_followers": 980079,
+  "num_followers": 980097,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1181,26 +1181,6 @@
       "url": "https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Nervous System",
-        "url": "https://open.spotify.com/album/2xoCvCKhj0dIyZz8bXdLnI"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Nervous System",
-      "url": "https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb"
-    },
-    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Nan Slapper",
@@ -1221,24 +1201,40 @@
       "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
+      "added_at": "2024-09-27 04:00:00",
       "album": {
-        "name": "ONE FOR YOU",
-        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
+        "name": "Nervous System",
+        "url": "https://open.spotify.com/album/2xoCvCKhj0dIyZz8bXdLnI"
       },
       "artists": [
         {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
         },
         {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 152516,
-      "name": "ONE FOR YOU",
-      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
+      "duration_ms": 220689,
+      "name": "Nervous System",
+      "url": "https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "SEE YOU DROP",
+        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 157600,
+      "name": "SEE YOU DROP",
+      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
     },
     {
       "added_at": "2024-11-01 05:42:18",
@@ -1261,20 +1257,24 @@
       "url": "https://open.spotify.com/track/69Wvx3nyfr7ggd2C3pCx1m"
     },
     {
-      "added_at": "2024-03-01 05:00:00",
+      "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "SEE YOU DROP",
-        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
+        "name": "ONE FOR YOU",
+        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
       },
       "artists": [
         {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
         }
       ],
-      "duration_ms": 157600,
-      "name": "SEE YOU DROP",
-      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+      "duration_ms": 152516,
+      "name": "ONE FOR YOU",
+      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -1629,30 +1629,6 @@
       "url": "https://open.spotify.com/track/4C6BVbsJTydFx5moRR71Q3"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Lean Onto Me",
-        "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Lean Onto Me",
-      "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
-    },
-    {
       "added_at": "2024-04-05 04:00:45",
       "album": {
         "name": "Waves",
@@ -1677,6 +1653,30 @@
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
     },
     {
+      "added_at": "2024-10-25 04:00:00",
+      "album": {
+        "name": "Lean Onto Me",
+        "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Lean Onto Me",
+      "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Escapism Vol. 1",
@@ -1691,26 +1691,6 @@
       "duration_ms": 186213,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/4nECx74TstNdhoE9sO0j78"
-    },
-    {
-      "added_at": "2024-10-18 04:15:34",
-      "album": {
-        "name": "KGM(irl)*",
-        "url": "https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "fussy",
-          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "STARsound (pt2)",
-      "url": "https://open.spotify.com/track/5dsOyRsaC8y7tQ9IXtuXca"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1731,6 +1711,26 @@
       "duration_ms": 178285,
       "name": "ACID",
       "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
+    },
+    {
+      "added_at": "2024-10-18 04:15:34",
+      "album": {
+        "name": "KGM(irl)*",
+        "url": "https://open.spotify.com/album/69HD49w55iopcQVFsjSrBX"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "STARsound (pt2)",
+      "url": "https://open.spotify.com/track/5dsOyRsaC8y7tQ9IXtuXca"
     },
     {
       "added_at": "2024-07-05 04:16:33",
@@ -1845,22 +1845,6 @@
       "url": "https://open.spotify.com/track/0DGC66VWaB2tamRaOEvRLe"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "F______ LOVE YOU",
-        "url": "https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        }
-      ],
-      "duration_ms": 140999,
-      "name": "F______ LOVE YOU",
-      "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
-    },
-    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "i promise",
@@ -1911,6 +1895,22 @@
       "duration_ms": 181621,
       "name": "Conquer",
       "url": "https://open.spotify.com/track/38xfZGIHjdZnSfMuJu7R1Z"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "F______ LOVE YOU",
+        "url": "https://open.spotify.com/album/7EX3l2dzNag3J6IP0UfiZP"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        }
+      ],
+      "duration_ms": 140999,
+      "name": "F______ LOVE YOU",
+      "url": "https://open.spotify.com/track/2LNZWTaw7gf1hZTjOXvZQC"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2073,24 +2073,20 @@
       "url": "https://open.spotify.com/track/6HS7p2KZcrJ7IGREGdIgwN"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
+      "added_at": "2023-10-20 04:01:00",
       "album": {
-        "name": "LSZEE",
-        "url": "https://open.spotify.com/album/3hzUq786dmch2KTVixU9Tb"
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
       },
       "artists": [
         {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
         }
       ],
-      "duration_ms": 186857,
-      "name": "NIGHTHAWK",
-      "url": "https://open.spotify.com/track/78gdoEw0f0uIaOsS2F51lP"
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     }
   ],
   "unique_name": "Bass Arcade",

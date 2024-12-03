@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 139337,
+  "num_followers": 139361,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABLJLz9kPBjqiUZQ/KG4I62",
+  "snapshot_id": "Z0unAAAAAACoAXUH2/sG+8LlkVFRO9/d",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play Dead",
-        "url": "https://open.spotify.com/album/7204VGDwNIF4yKgUChWE2R"
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
       },
       "artists": [
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        },
-        {
-          "name": "David Arnold",
-          "url": "https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE"
         }
       ],
-      "duration_ms": 240040,
-      "name": "Play Dead - Tim Simenon 7\" Remix",
-      "url": "https://open.spotify.com/track/732341mjCR7zodzYa5IEQf"
+      "duration_ms": 312666,
+      "name": "Bachelorette",
+      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
     },
     {
       "added_at": null,
@@ -179,18 +175,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homogenic",
-        "url": "https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT"
+        "name": "Play Dead",
+        "url": "https://open.spotify.com/album/7204VGDwNIF4yKgUChWE2R"
       },
       "artists": [
         {
           "name": "Bj\u00f6rk",
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "David Arnold",
+          "url": "https://open.spotify.com/artist/0mCdmt2O8dd8jJWv7m24EE"
         }
       ],
-      "duration_ms": 312666,
-      "name": "Bachelorette",
-      "url": "https://open.spotify.com/track/6txguGr32i8SpgZ4KEKQQG"
+      "duration_ms": 240040,
+      "name": "Play Dead - Tim Simenon 7\" Remix",
+      "url": "https://open.spotify.com/track/732341mjCR7zodzYa5IEQf"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bachelorette",
+        "url": "https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Scary",
+      "url": "https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fossora",
         "url": "https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 286903,
       "name": "Atopos",
       "url": "https://open.spotify.com/track/3EdZdybDWDlGC0KumeGrqc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bachelorette",
-        "url": "https://open.spotify.com/album/39Fb88UfdYfcWayWsMgfmb"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 157426,
-      "name": "Scary",
-      "url": "https://open.spotify.com/track/2O5D1JQwfukgpqTmDmROER"
     },
     {
       "added_at": null,

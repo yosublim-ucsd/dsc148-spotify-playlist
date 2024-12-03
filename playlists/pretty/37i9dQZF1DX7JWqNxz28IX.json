@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 46910,
+  "num_followers": 46912,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -1327,22 +1327,26 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "ONIRO",
-        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
+        "name": "MUSICA ALTA E STRESS",
+        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
       "artists": [
         {
-          "name": "Faster",
-          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
+          "name": "UkuLele",
+          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
         },
         {
-          "name": "JXN",
-          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
+          "name": "Delta",
+          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
         }
       ],
-      "duration_ms": 174720,
-      "name": "DOVE SEI",
-      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
+      "duration_ms": 165714,
+      "name": "SEMBREREMO DISTANTI",
+      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1375,26 +1379,22 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "MUSICA ALTA E STRESS",
-        "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
+        "name": "ONIRO",
+        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
       "artists": [
         {
-          "name": "UkuLele",
-          "url": "https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L"
+          "name": "Faster",
+          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
         },
         {
-          "name": "Delta",
-          "url": "https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
         }
       ],
-      "duration_ms": 165714,
-      "name": "SEMBREREMO DISTANTI",
-      "url": "https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h"
+      "duration_ms": 174720,
+      "name": "DOVE SEI",
+      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "Dimmi se sbaglio",
-        "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
-      },
-      "artists": [
-        {
-          "name": "Bada1",
-          "url": "https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb"
-        },
-        {
-          "name": "Matris",
-          "url": "https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL"
-        }
-      ],
-      "duration_ms": 135374,
-      "name": "Dimmi se sbaglio",
-      "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "Letto grande",
         "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 211500,
       "name": "Letto grande",
       "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "Dimmi se sbaglio",
+        "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
+      },
+      "artists": [
+        {
+          "name": "Bada1",
+          "url": "https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb"
+        },
+        {
+          "name": "Matris",
+          "url": "https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL"
+        }
+      ],
+      "duration_ms": 135374,
+      "name": "Dimmi se sbaglio",
+      "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
     },
     {
       "added_at": "2024-10-17 22:01:00",

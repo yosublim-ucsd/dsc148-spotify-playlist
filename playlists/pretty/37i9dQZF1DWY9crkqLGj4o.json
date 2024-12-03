@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 424196,
+  "num_followers": 424250,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2024-11-29 01:02:00",
       "album": {
-        "name": "Entre Amigos",
-        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3o L\u00e1zaro",
-          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
-        },
-        {
-          "name": "Marquinhos Gomes",
-          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
-      "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
-    },
-    {
-      "added_at": "2024-11-29 01:02:00",
-      "album": {
         "name": "Maranata",
         "url": "https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 384760,
       "name": "Maranata - Ao Vivo",
       "url": "https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N"
+    },
+    {
+      "added_at": "2024-11-29 01:02:00",
+      "album": {
+        "name": "Entre Amigos",
+        "url": "https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3o L\u00e1zaro",
+          "url": "https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG"
+        },
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Eu Te Amo Tanto (feat. Marquinhos Gomes)",
+      "url": "https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l"
     },
     {
       "added_at": "2024-11-29 01:02:00",
@@ -495,6 +495,30 @@
     {
       "added_at": "2024-11-29 01:02:00",
       "album": {
+        "name": "Abra\u00e7a-me (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE"
+      },
+      "artists": [
+        {
+          "name": "BRASAS",
+          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "duration_ms": 652307,
+      "name": "Abra\u00e7a-me - Ao Vivo",
+      "url": "https://open.spotify.com/track/65qcNFxcUWaElan6H81c2X"
+    },
+    {
+      "added_at": "2024-11-29 01:02:00",
+      "album": {
         "name": "Uma Coisa (Ao Vivo)",
         "url": "https://open.spotify.com/album/5apwTXXwp74piToPxH30dE"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 348364,
       "name": "Aba - Ao Vivo",
       "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
-    },
-    {
-      "added_at": "2024-11-29 01:02:00",
-      "album": {
-        "name": "Abra\u00e7a-me (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE"
-      },
-      "artists": [
-        {
-          "name": "BRASAS",
-          "url": "https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        }
-      ],
-      "duration_ms": 652307,
-      "name": "Abra\u00e7a-me - Ao Vivo",
-      "url": "https://open.spotify.com/track/65qcNFxcUWaElan6H81c2X"
     },
     {
       "added_at": "2024-11-29 01:02:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-29 01:02:00",
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 259691,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
-    },
-    {
-      "added_at": "2024-11-29 01:02:00",
-      "album": {
         "name": "Alfa e \u00d4mega",
         "url": "https://open.spotify.com/album/2zFxoq9gamojSN5gIoh1Fo"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 364878,
       "name": "Alfa e \u00d4mega",
       "url": "https://open.spotify.com/track/2crjmyGUfpWOeOPAnTqCN6"
+    },
+    {
+      "added_at": "2024-11-29 01:02:00",
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 259691,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
     },
     {
       "added_at": "2024-11-29 01:02:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-11-29 01:02:00",
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
-    },
-    {
-      "added_at": "2024-11-29 01:02:00",
-      "album": {
         "name": "Profeta da Esperan\u00e7a",
         "url": "https://open.spotify.com/album/3oBk0frkoQ28ueSzWY8OsF"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 280125,
       "name": "Vou Deixar na Cruz",
       "url": "https://open.spotify.com/track/3CbPjnoNaOh07rbJxI9IBW"
+    },
+    {
+      "added_at": "2024-11-29 01:02:00",
+      "album": {
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": "2024-11-29 01:02:00",

@@ -4,7 +4,7 @@
 
 > Lo mejor de noviembre 2024\. Cover: Rauw Alejandro
 
-1,074 songs - 2 day 9 hr 9 min
+1,076 songs - 2 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [Esta noche](https://open.spotify.com/track/1uGo2lMGJ1OKNol5fCXsBM) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Esta noche](https://open.spotify.com/album/1SRBVQbGEIpHoN6YwFrYZn) | 4:36 | 2024-11-25 |  |
 | [Esta Noche](https://open.spotify.com/track/6Cq2kHZvrhnTT4y1gYhdhR) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Esta Noche](https://open.spotify.com/album/0KBdP0GlfYcRB6PNHexlEd) | 2:31 | 2022-05-24 | 2022-06-28 |
 | [Estar sin ti me quema](https://open.spotify.com/track/2JJJsI8Js2RemEpGpib2UY) | [Milton McDonald](https://open.spotify.com/artist/0Nydj18tqAJPtKtioy200q), [Jotabarrioz](https://open.spotify.com/artist/5IhomfuVzQaE29lfaBFFYF) | [Estar sin ti me quema](https://open.spotify.com/album/50tFmTf9GkByhvUbwIzCfg) | 2:39 | 2024-08-26 | 2024-09-11 |
+| [ESTOY PUTIAO](https://open.spotify.com/track/0lhcaiGyAkmZg5RaC99ZbH) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [LOS 9 DE FERXXO Y SKY ROMPIENDO](https://open.spotify.com/album/5L3PAo50R75rOZLlEvokZZ) | 3:43 | 2024-12-02 |  |
 | [Estrella](https://open.spotify.com/track/1qemIcMb4YrHfxtSmnQ4y9) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Estrella](https://open.spotify.com/album/5ZxTdt8ek2Mr5VyxIfhykS) | 3:29 | 2022-12-19 | 2023-03-08 |
 | [Estrella](https://open.spotify.com/track/4RshAnDX9hgShBo4wKwKu3) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Estrella](https://open.spotify.com/album/2ODmW3LBiS3zX8Plhodpoz) | 2:14 | 2023-12-05 | 2024-02-03 |
 | [Estrellita](https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony) | [Zhamira Zambrano](https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3) | [Estrellita](https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW) | 2:37 | 2023-11-07 | 2024-01-10 |
@@ -583,7 +584,7 @@
 | [Mbappe](https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:27 | 2022-11-28 | 2023-02-22 |
 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 | 2022-09-19 | 2022-10-25 |
 | [Me EnRD](https://open.spotify.com/track/3GkctxmZmeGmW4K5Oya0Z1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Me EnRD](https://open.spotify.com/album/3BumcT1ophGlEOHCi1fzoW) | 3:05 | 2023-05-08 | 2023-06-24 |
-| [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 | 2024-10-21 |  |
+| [ME FUI DE LA FIESTA](https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [ME FUI DE LA FIESTA](https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN) | 2:38 | 2024-10-21 | 2024-12-03 |
 | [Me Gustas Tu](https://open.spotify.com/track/5NF8FAe3INIXOnTJuo3ngL) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Me Gustas Tu](https://open.spotify.com/album/1WWkPIDdO1PWxIl36eymzE) | 3:25 | 2023-10-12 | 2024-01-10 |
 | [Me Llora](https://open.spotify.com/track/3wBjPIuvGSBRRdeKIlDW5K) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Me Llora](https://open.spotify.com/album/3hPegMvlQyAGGxY1Dxw84i) | 2:07 | 2023-05-08 | 2023-06-24 |
 | [Me Quieres Mal](https://open.spotify.com/track/6FgjyWp67Z4p3VMtR18cod) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Me Quieres Mal](https://open.spotify.com/album/0QDjsCyrCA0Imvb1HziKd9) | 3:13 | 2023-12-15 | 2024-02-23 |
@@ -874,7 +875,7 @@
 | [Si Yo Estoy Loco](https://open.spotify.com/track/4IK4EszBJ2wzMuwNGh1YzF) | [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW), [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Si Yo Estoy Loco](https://open.spotify.com/album/26Bn7ZYhbejXkNV32jQLk5) | 3:33 | 2021-12-14 | 2022-01-21 |
 | [Si Yo Me Muero](https://open.spotify.com/track/4qpTCXnBSPtkMEmdE4Dzi8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [MVSIS](https://open.spotify.com/artist/5RQ2olZAe54DeVrpdOdkBm) | [Si Yo Me Muero](https://open.spotify.com/album/0qoyE1dUs4lVj1g0QMV4KH) | 3:21 | 2022-11-28 | 2023-02-01 |
 | [siempre te pienso](https://open.spotify.com/track/5N4LejUzOmy6nLe3k8nQvt) | [Lujavo](https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL) | [siempre te pienso](https://open.spotify.com/album/1UF21skVI2b9qHbud1Sd0r) | 3:02 | 2024-09-17 | 2024-10-22 |
-| [Siempre Vuelve](https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Bailódromo, Vol\. 1](https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL) | 4:28 | 2024-10-21 |  |
+| [Siempre Vuelve](https://open.spotify.com/track/2YfIRRiYGUxcgPCa7nGNOb) | [CARLANGAS](https://open.spotify.com/artist/3R86hCl02kzzvB48oIyEVs) | [Bailódromo, Vol\. 1](https://open.spotify.com/album/17szCsgV96nnKQnMNUT8DL) | 4:28 | 2024-10-21 | 2024-12-03 |
 | [Sigo Feliz](https://open.spotify.com/track/3xw2pT79X8xgCzivqeLXnb) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sigo Feliz](https://open.spotify.com/album/5gaIGETcYdjX2XdBFJRGEZ) | 3:40 | 2022-10-13 | 2022-11-15 |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-04-01 | 2022-05-24 |
 | [Sigueme Besando Asi](https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Sigueme Besando Asi](https://open.spotify.com/album/5MPSuZogYylwnlEZLNN12f) | 3:05 | 2024-11-25 |  |
@@ -1029,6 +1030,7 @@
 | [Velero](https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Velero](https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4) | 2:16 | 2023-04-06 | 2023-06-06 |
 | [VELOZzzz](https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [VELOZzzz](https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN) | 3:04 | 2022-10-13 | 2022-11-29 |
 | [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-17 | 2023-11-08 |
+| [Verano 23](https://open.spotify.com/track/33D8RI7wFKjzh8zvbSE1mN) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Mis Traumas, Mis Chistes](https://open.spotify.com/album/25Gsw8B8ZpFFhOlx9fF1LR) | 3:14 | 2024-12-02 |  |
 | [Versions of Me](https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:04 | 2022-05-23 | 2022-06-29 |
 | [VICE](https://open.spotify.com/track/5cEKOjsX3RhJZ5PM6SUSei) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [VICE](https://open.spotify.com/album/3KdT1P24jy6A1n8N6juvxy) | 2:41 | 2023-03-07 | 2023-04-07 |
 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 | 2023-04-06 | 2023-06-24 |

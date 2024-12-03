@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 22654,
+  "num_followers": 22675,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,34 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Confete e serpentina",
+        "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
+      },
+      "artists": [
+        {
+          "name": "LOFI LAND",
+          "url": "https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe"
+        },
+        {
+          "name": "FaOut",
+          "url": "https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V"
+        },
+        {
+          "name": "Ricardo Schneider",
+          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
+        },
+        {
+          "name": "BOSSIFY",
+          "url": "https://open.spotify.com/artist/7mhQk7Ki9ccyooQpecDQkR"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Confete e serpentina",
+      "url": "https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "spirits",
         "url": "https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm"
       },
@@ -139,34 +167,6 @@
       "duration_ms": 147786,
       "name": "Moonlight Juice",
       "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Confete e serpentina",
-        "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
-      },
-      "artists": [
-        {
-          "name": "LOFI LAND",
-          "url": "https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe"
-        },
-        {
-          "name": "FaOut",
-          "url": "https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V"
-        },
-        {
-          "name": "Ricardo Schneider",
-          "url": "https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv"
-        },
-        {
-          "name": "BOSSIFY",
-          "url": "https://open.spotify.com/artist/7mhQk7Ki9ccyooQpecDQkR"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Confete e serpentina",
-      "url": "https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 175156,
+      "name": "Cat\u00e1 Surf",
+      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "De La Selva",
         "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 240981,
       "name": "Chipek",
       "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
-      },
-      "artists": [
-        {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
-        }
-      ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Sunset on Vallarta",
+        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 145200,
+      "name": "Sunset on Vallarta",
+      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 115714,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Sunset on Vallarta",
-        "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 145200,
-      "name": "Sunset on Vallarta",
-      "url": "https://open.spotify.com/track/5ZNrrgjATjnKl5z1urH5Eg"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Break",
-        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
-      },
-      "artists": [
-        {
-          "name": "Anto Pla",
-          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
-        }
-      ],
-      "duration_ms": 116624,
-      "name": "Break",
-      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Monte Nativo",
         "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 146933,
       "name": "Rambla Sur",
       "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
+      },
+      "artists": [
+        {
+          "name": "Anto Pla",
+          "url": "https://open.spotify.com/artist/2JVeD3vQo6G80qOlmPW0ee"
+        }
+      ],
+      "duration_ms": 116624,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/5PgfttEzQ6ZJeGKwtzEoZK"
     },
     {
       "added_at": "2024-10-04 04:00:00",

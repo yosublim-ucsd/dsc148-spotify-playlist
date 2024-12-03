@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-380 songs - 20 hr 36 min
+383 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Himmel](https://open.spotify.com/track/2VSkFvTEK9R7AsrWRLp8ON) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Himmel / Swarm](https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd) | 3:29 | 2024-09-08 | 2024-11-14 |
 | [Home Before Dark](https://open.spotify.com/track/5w7hp3eB2fpRSIxKgRfpXg) | [Nora Guthrie](https://open.spotify.com/artist/3XDzVXu9qPOYMcxvN8Qq7t) | [Sky Girl](https://open.spotify.com/album/26KwR2FDMoA6OgYPtPy0U9) | 2:36 | 2024-05-16 | 2024-07-12 |
 | [Home Is in Your Head](https://open.spotify.com/track/1RLbifxzeiRb4VazXCn0H8) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Home Is in Your Head](https://open.spotify.com/album/7I0VFFotoizHk2FoNP3V9F) | 2:23 | 2024-07-29 | 2024-09-08 |
+| [Homme \(萌夢\)](https://open.spotify.com/track/7JV4O8Lh5zb62U4lyll4Ew) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 16:49 | 2024-12-02 |  |
 | [HOV](https://open.spotify.com/track/62ik7tuPPdoFrDMkpBC7yt) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 3:48 | 2024-09-20 | 2024-11-14 |
 | [How](https://open.spotify.com/track/7iq5isJ5Y9ya3QTqPV4G6A) | [Nicholas Krgovich](https://open.spotify.com/artist/68QhSfYuqyiT1KPoHlCvSv) | [Ducks](https://open.spotify.com/album/7uwe7Gx9cmqQbOfAN8BeTz) | 1:57 | 2024-03-09 | 2024-05-16 |
 | [How To Teleport](https://open.spotify.com/track/45oY7hPnh7KvH7lGfVehsb) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Magic I Want U](https://open.spotify.com/album/6eNdafiqQJJmyrXFDoTWiM) | 3:26 | 2024-09-07 | 2024-11-14 |
@@ -173,7 +174,9 @@
 | [Ingrown](https://open.spotify.com/track/7n8Ttf94YjrqnoViRt1OCM) | [Smudge](https://open.spotify.com/artist/4wc3ixM7PquP8TPkBK3bXJ) | [Manilow](https://open.spotify.com/album/4sdDcy0acdFql67SxVddjQ) | 3:11 | 2024-10-06 | 2024-11-14 |
 | [Inside the Golden Days of Missing You](https://open.spotify.com/track/068xIt3dOCHgyUGPn8EUqy) | [Silver Jews](https://open.spotify.com/artist/4ePunOqQbOYoQwd1298g3Z) | [The Natural Bridge](https://open.spotify.com/album/53s93tksSeBis2gL50AQPJ) | 2:26 | 2024-07-25 | 2024-07-29 |
 | [Invitation](https://open.spotify.com/track/6lkqdn2pUnmeicxiwRcWwF) | [The Fascinating Chimera Project](https://open.spotify.com/artist/29qJiOeOdn9hshHzBlIoZA) | [Song for the Moon](https://open.spotify.com/album/038JMT70Tsfm1VhVHJ40e5) | 4:22 | 2024-11-17 |  |
+| [Ire Feelings](https://open.spotify.com/track/30NY14bbHimQWNNmj3dIYd) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Rupie Edwards Presents Success Archives \- From Kingston Jamaica to London UK](https://open.spotify.com/album/1wgGd8RNVNAR6zT9AuttJI) | 3:48 | 2024-12-02 |  |
 | [It Can Feel So Good](https://open.spotify.com/track/1CVK1udYLWWqoJ0pSdtk3j) | [Zammuto](https://open.spotify.com/artist/1aolDYgNWRTDQWUZ8C7jZu) | [Veryone](https://open.spotify.com/album/3tjeakbcyy8YGjuJ88S1dX) | 4:04 | 2024-09-07 | 2024-11-14 |
+| [It's Only Obvious](https://open.spotify.com/track/20KuHxOYcv1OtrjjUAidEX) | [The Orchids](https://open.spotify.com/artist/6W8VbSclDd31QHMBwoC84H) | [Who Needs Tomorrow](https://open.spotify.com/album/690g8u725awKpCdZNX7iYG) | 2:29 | 2024-12-02 |  |
 | [Italian Movie Theme \- Remastered](https://open.spotify.com/track/3sfv08MyrU9umiLipkeC6x) | [Pylon](https://open.spotify.com/artist/0eLbmh14uMx3VB0MPM1r4L) | [Chomp \(Remastered\)](https://open.spotify.com/album/0QOaUj1Rs96z0RMF5dSgE7) | 2:01 | 2024-10-01 | 2024-11-14 |
 | [Ivy](https://open.spotify.com/track/0lZz50Je4AoRsUSy7BrzAh) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Lily of the Valley](https://open.spotify.com/album/5Xl8RTXQgTwt4IJdP6G2sq) | 4:26 | 2024-11-21 |  |
 | [Jamais Pars](https://open.spotify.com/track/5EWODrhxDCGt2NbkCpawQa) | [Black Tape For A Blue Girl](https://open.spotify.com/artist/2LM56NUYjaQzmYyQkZjBlZ) | [Mesmerized By The Sirens](https://open.spotify.com/album/6KT9A3E9daKXl1N2FJNbLg) | 2:09 | 2024-03-11 | 2024-05-16 |

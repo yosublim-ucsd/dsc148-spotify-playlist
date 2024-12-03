@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:6dxSlnodoLHLVoeiQ602RM\">DIMoN</a>",
-  "num_followers": 42938,
+  "num_followers": 42922,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "NIE ZNASZ JEJ",
-        "url": "https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1"
-      },
-      "artists": [
-        {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
-        }
-      ],
-      "duration_ms": 154698,
-      "name": "NIE ZNASZ JEJ",
-      "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "nie pow\u00f3d do p\u0142aczu",
         "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 209706,
       "name": "dotkliwie",
       "url": "https://open.spotify.com/track/3i8HGoWPINUw33Ig9Cu8eS"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "NIE ZNASZ JEJ",
+        "url": "https://open.spotify.com/album/5Lz3RAlx009Pp3PfYGMmb1"
+      },
+      "artists": [
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/27cGum5CmUlUoCKxaiKqnn"
+        }
+      ],
+      "duration_ms": 154698,
+      "name": "NIE ZNASZ JEJ",
+      "url": "https://open.spotify.com/track/6h3tQYd7SQ5R24y4BSNld8"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Zrobi\u0142am bardzo",
-        "url": "https://open.spotify.com/album/5Aaf3cDS2I74Vaccn8I1A0"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Zrobi\u0142am bardzo",
-      "url": "https://open.spotify.com/track/4Z3x2f3nKE26ol24cIM7Uv"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "Noc",
         "url": "https://open.spotify.com/album/4VRsOPNYWyOBqaG02BDVEf"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 252113,
       "name": "Miasto",
       "url": "https://open.spotify.com/track/0weYBSmvIBpSgwfNECBjzn"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "Zrobi\u0142am bardzo",
+        "url": "https://open.spotify.com/album/5Aaf3cDS2I74Vaccn8I1A0"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Zrobi\u0142am bardzo",
+      "url": "https://open.spotify.com/track/4Z3x2f3nKE26ol24cIM7Uv"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "bulletproof",
-        "url": "https://open.spotify.com/album/5AnzlgR3wzsG7Yn4REMS5m"
-      },
-      "artists": [
-        {
-          "name": "Nosgov",
-          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
-        }
-      ],
-      "duration_ms": 146181,
-      "name": "bulletproof",
-      "url": "https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "maybe someday",
         "url": "https://open.spotify.com/album/1k4kqCQl0RAM8gMxpRDC7S"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Oprawieni Idole",
-        "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
+        "name": "bulletproof",
+        "url": "https://open.spotify.com/album/5AnzlgR3wzsG7Yn4REMS5m"
       },
       "artists": [
         {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
         }
       ],
-      "duration_ms": 239000,
-      "name": "Oprawieni Idole",
-      "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
+      "duration_ms": 146181,
+      "name": "bulletproof",
+      "url": "https://open.spotify.com/track/4DRVf1eh2KhaxdfiQFk5NG"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -559,6 +543,22 @@
       "duration_ms": 196750,
       "name": "Fool",
       "url": "https://open.spotify.com/track/61sjvigGC35wcL622wYK9M"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "IV!II",
+        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
+      },
+      "artists": [
+        {
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        }
+      ],
+      "duration_ms": 194418,
+      "name": "Mosty",
+      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "IV!II",
-        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
+        "name": "Oprawieni Idole",
+        "url": "https://open.spotify.com/album/3tzpTWcA4jLEOqzUNSaZdN"
       },
       "artists": [
         {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 194418,
-      "name": "Mosty",
-      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
+      "duration_ms": 239000,
+      "name": "Oprawieni Idole",
+      "url": "https://open.spotify.com/track/0g05ozy4yvX3pMLSFMEctT"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Pani Baudelaire",
-        "url": "https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6"
-      },
-      "artists": [
-        {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        }
-      ],
-      "duration_ms": 177846,
-      "name": "Pani Baudelaire",
-      "url": "https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "Once or Twice",
         "url": "https://open.spotify.com/album/3jw76MTX5cY9nJGWfzmEde"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 194893,
       "name": "Once or Twice",
       "url": "https://open.spotify.com/track/4LThfO3v9lOyfgxhDz0Nz0"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "Pani Baudelaire",
+        "url": "https://open.spotify.com/album/4DrgyKUeUcho4KbposE5V6"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        }
+      ],
+      "duration_ms": 177846,
+      "name": "Pani Baudelaire",
+      "url": "https://open.spotify.com/track/7csGhaDyjxYEnyP2tgRqf8"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Inspiracje",
-        "url": "https://open.spotify.com/album/4asBYPR1ZZyBhW01Cbv1vh"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 158030,
-      "name": "Inspiracje",
-      "url": "https://open.spotify.com/track/5nRpR5MEp8sz6f6M83rtA2"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/5ogmBRaKh9KkVRZycRnP1u"
       },
@@ -759,30 +743,18 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Spicy (Lulu x Uaziuk Remix)",
-        "url": "https://open.spotify.com/album/2clwWQQcD6CTDJK6wSm94L"
+        "name": "Inspiracje",
+        "url": "https://open.spotify.com/album/4asBYPR1ZZyBhW01Cbv1vh"
       },
       "artists": [
         {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
-        },
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        },
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        },
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
         }
       ],
-      "duration_ms": 202727,
-      "name": "Spicy (Lulu x Uaziuk Remix)",
-      "url": "https://open.spotify.com/track/4wz4d6QxhgN4GfiN3bFjfA"
+      "duration_ms": 158030,
+      "name": "Inspiracje",
+      "url": "https://open.spotify.com/track/5nRpR5MEp8sz6f6M83rtA2"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -843,6 +815,34 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
+        "name": "Spicy (Lulu x Uaziuk Remix)",
+        "url": "https://open.spotify.com/album/2clwWQQcD6CTDJK6wSm94L"
+      },
+      "artists": [
+        {
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+        },
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        },
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "duration_ms": 202727,
+      "name": "Spicy (Lulu x Uaziuk Remix)",
+      "url": "https://open.spotify.com/track/4wz4d6QxhgN4GfiN3bFjfA"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
         "name": "Nie m\u00f3j typ",
         "url": "https://open.spotify.com/album/3dVeCcsSnCTQZsNHysUSme"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 145370,
       "name": "Nie m\u00f3j typ",
       "url": "https://open.spotify.com/track/0R8CXA2R06LBzMSby2mz34"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
-        "name": "Sabota\u017cysta",
-        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kempi\u0144ski",
-          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Sabota\u017cysta",
-      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -891,22 +875,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Bezsens",
-        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
-      },
-      "artists": [
-        {
-          "name": "Izabela Zabielska",
-          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
-        }
-      ],
-      "duration_ms": 163076,
-      "name": "Bezsens",
-      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "1986",
         "url": "https://open.spotify.com/album/4Y5MQvSJeCXB9fIrMs8Zs6"
       },
@@ -919,6 +887,38 @@
       "duration_ms": 307146,
       "name": "Dziewczyny",
       "url": "https://open.spotify.com/track/3Ismbhh9YTgRZgXKzCKvri"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "Sabota\u017cysta",
+        "url": "https://open.spotify.com/album/4VbtUJcMmWyCZgZ9jy9V6G"
+      },
+      "artists": [
+        {
+          "name": "Kamil Kempi\u0144ski",
+          "url": "https://open.spotify.com/artist/4GUR4UKtbNQiAV2h5qV2df"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Sabota\u017cysta",
+      "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "Bezsens",
+        "url": "https://open.spotify.com/album/5EncNKYnNabcgchchBYRc8"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "duration_ms": 163076,
+      "name": "Bezsens",
+      "url": "https://open.spotify.com/track/0NLrg1VRaqlb65kvm1dnKw"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
+        "name": "Bolt",
+        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 216860,
+      "name": "Bolt",
+      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
         "name": "Straty",
         "url": "https://open.spotify.com/album/3nx2oHLmlr03XkXdJ71wBb"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
-        "name": "Bolt",
-        "url": "https://open.spotify.com/album/5Alc4ujo7Q3ISxeKd9gV62"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 216860,
-      "name": "Bolt",
-      "url": "https://open.spotify.com/track/2cdwgNThDAVnQxqzPwtpSY"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Kot Schr\u00f6dingera",
-        "url": "https://open.spotify.com/album/6UXHdo1mibLUki7oB0CtHx"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Kot Schr\u00f6dingera",
-      "url": "https://open.spotify.com/track/5YdQeXesb70ZOr6OrHB82S"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "nie pow\u00f3d do p\u0142aczu",
         "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 194880,
       "name": "bia\u0142y szum",
       "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "Kot Schr\u00f6dingera",
+        "url": "https://open.spotify.com/album/6UXHdo1mibLUki7oB0CtHx"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Kot Schr\u00f6dingera",
+      "url": "https://open.spotify.com/track/5YdQeXesb70ZOr6OrHB82S"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Przed siebie",
-        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
+        "name": "IKONA",
+        "url": "https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg"
       },
       "artists": [
         {
-          "name": "Oskar Kucmann",
-          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
+          "name": "Shady Lady",
+          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
         }
       ],
-      "duration_ms": 183178,
-      "name": "Przed siebie",
-      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+      "duration_ms": 180983,
+      "name": "IKONA",
+      "url": "https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1195,34 +1195,18 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "IKONA",
-        "url": "https://open.spotify.com/album/37WqxMNlOurhOAEi9iPuDg"
+        "name": "Przed siebie",
+        "url": "https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi"
       },
       "artists": [
         {
-          "name": "Shady Lady",
-          "url": "https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0"
+          "name": "Oskar Kucmann",
+          "url": "https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK"
         }
       ],
-      "duration_ms": 180983,
-      "name": "IKONA",
-      "url": "https://open.spotify.com/track/6MqFb9iP01VR5dLZf2Bl5o"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
-        "name": "DOM",
-        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
-      },
-      "artists": [
-        {
-          "name": "Kamil Kowalski",
-          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
-        }
-      ],
-      "duration_ms": 243979,
-      "name": "Cie\u0144",
-      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
+      "duration_ms": 183178,
+      "name": "Przed siebie",
+      "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1243,34 +1227,18 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Rozkosz",
-        "url": "https://open.spotify.com/album/3qr5MOBJoaEnG0iic6jegX"
+        "name": "DOM",
+        "url": "https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH"
       },
       "artists": [
         {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+          "name": "Kamil Kowalski",
+          "url": "https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk"
         }
       ],
-      "duration_ms": 184218,
-      "name": "Rozkosz",
-      "url": "https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
-      },
-      "artists": [
-        {
-          "name": "Lesbijski Groove",
-          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
+      "duration_ms": 243979,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1291,6 +1259,22 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
+        "name": "Rozkosz",
+        "url": "https://open.spotify.com/album/3qr5MOBJoaEnG0iic6jegX"
+      },
+      "artists": [
+        {
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
+        }
+      ],
+      "duration_ms": 184218,
+      "name": "Rozkosz",
+      "url": "https://open.spotify.com/track/4bymysBJGx0jxLDb47dVYO"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
         "name": "K\u00f3\u0142ko I Krzy\u017cyk",
         "url": "https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 169090,
       "name": "Po Szkole",
       "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/0NGJx0HX2do5UEU3XhOsnP"
+      },
+      "artists": [
+        {
+          "name": "Lesbijski Groove",
+          "url": "https://open.spotify.com/artist/0dN7WMen8j3aHyHRrUh8eC"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/4KPgzeIwciL6boNbMUfHwu"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
-      },
-      "artists": [
-        {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        }
-      ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "psychodynamiczne",
         "url": "https://open.spotify.com/album/2Jp3mZywGkxMFB5Wu2p5s9"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 190000,
       "name": "priorytetem",
       "url": "https://open.spotify.com/track/1AEjEwTDNB0nZkQFHtbZux"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        }
+      ],
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1387,38 +1387,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "stolen clout (edits)",
-        "url": "https://open.spotify.com/album/6S3XRybPkxrYeIQZj3g6jp"
-      },
-      "artists": [
-        {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
-        }
-      ],
-      "duration_ms": 230332,
-      "name": "znajd\u0119 ci\u0119",
-      "url": "https://open.spotify.com/track/0RdhX683ne0rUUYnO6QHw9"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
-        "name": "BSoD (Bluescreen)",
-        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
-      },
-      "artists": [
-        {
-          "name": "Dawid Grzelak",
-          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "BSoD (Bluescreen)",
-      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "Wi\u0119cej empatii (Muzyka z filmu \u201eNie jeste\u015b sama\u201d)",
         "url": "https://open.spotify.com/album/3bF6Pc10GocYSCiEMlOg3O"
       },
@@ -1439,6 +1407,22 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
+        "name": "stolen clout (edits)",
+        "url": "https://open.spotify.com/album/6S3XRybPkxrYeIQZj3g6jp"
+      },
+      "artists": [
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+        }
+      ],
+      "duration_ms": 230332,
+      "name": "znajd\u0119 ci\u0119",
+      "url": "https://open.spotify.com/track/0RdhX683ne0rUUYnO6QHw9"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
         "name": "Priorytety",
         "url": "https://open.spotify.com/album/2B46Wx88prs5gPWMnvFMVO"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 267000,
       "name": "Priorytety",
       "url": "https://open.spotify.com/track/3Q3U0azD3REhtU7nLrhabj"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "BSoD (Bluescreen)",
+        "url": "https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag"
+      },
+      "artists": [
+        {
+          "name": "Dawid Grzelak",
+          "url": "https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "BSoD (Bluescreen)",
+      "url": "https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "J\u0119zyk",
-        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
-      },
-      "artists": [
-        {
-          "name": "sedguy",
-          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
-        }
-      ],
-      "duration_ms": 186468,
-      "name": "J\u0119zyk",
-      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
-    },
-    {
-      "added_at": "2024-11-11 23:00:00",
-      "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 224706,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
+    },
+    {
+      "added_at": "2024-11-11 23:00:00",
+      "album": {
+        "name": "Ocal mnie",
+        "url": "https://open.spotify.com/album/1cRdFSqZmPeXGGs0krzWDW"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Ocal mnie",
+      "url": "https://open.spotify.com/track/3Fg0uofccKstiOvIvMczGs"
     },
     {
       "added_at": "2024-11-11 23:00:00",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-11-11 23:00:00",
       "album": {
-        "name": "Ocal mnie",
-        "url": "https://open.spotify.com/album/1cRdFSqZmPeXGGs0krzWDW"
+        "name": "J\u0119zyk",
+        "url": "https://open.spotify.com/album/4jXACqJX7PjEVuHV8SvEJn"
       },
       "artists": [
         {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "sedguy",
+          "url": "https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf"
         }
       ],
-      "duration_ms": 149500,
-      "name": "Ocal mnie",
-      "url": "https://open.spotify.com/track/3Fg0uofccKstiOvIvMczGs"
+      "duration_ms": 186468,
+      "name": "J\u0119zyk",
+      "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
     }
   ],
   "unique_name": "GLOW Polska",

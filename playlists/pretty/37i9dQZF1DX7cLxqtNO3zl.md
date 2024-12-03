@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,498 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,494 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 45 | [Urvashi](https://open.spotify.com/track/5w99VDAT9vFmcEiOGG2eYU) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Best Of Indian Pop 2018](https://open.spotify.com/album/2oJZbv4jn5rlVw6CNganYn) | 3:35 |
 | 46 | [Yalla Yalla](https://open.spotify.com/track/6IKDI3h0vjvOdwllJtp4lX) | [Miraya Varma](https://open.spotify.com/artist/4FhmGc9lD5PO3ZrPPDGiRV), [Zeus](https://open.spotify.com/artist/46vVY0199R2mAXHkayL5mG) | [Yalla Yalla](https://open.spotify.com/album/2m6iGaVxOvvS1UcdNfNakp) | 3:49 |
 | 47 | [Nasha](https://open.spotify.com/track/3YytmBvKHJ77tLC6N3pxO7) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Nasha](https://open.spotify.com/album/0skLeastcOZ0H6ZUmTfAiY) | 3:33 |
-| 48 | [You're Gold \(feat\. Grini\)](https://open.spotify.com/track/0IyBqp1dLXqn5tQPk7rAXv) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [You're Gold \(feat\. Grini\)](https://open.spotify.com/album/49cjJDVqwheDN16PYjcdiq) | 3:13 |
-| 49 | [Aqbil Arwh Wayak](https://open.spotify.com/track/5Rk2fqUd9Be51v2RGCH4fP) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Aqbil Arwh Wayak](https://open.spotify.com/album/21cNclONW67PlEiEtMT81I) | 3:43 |
+| 48 | [Aqbil Arwh Wayak](https://open.spotify.com/track/5Rk2fqUd9Be51v2RGCH4fP) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Aqbil Arwh Wayak](https://open.spotify.com/album/21cNclONW67PlEiEtMT81I) | 3:43 |
+| 49 | [You're Gold \(feat\. Grini\)](https://open.spotify.com/track/0IyBqp1dLXqn5tQPk7rAXv) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [You're Gold \(feat\. Grini\)](https://open.spotify.com/album/49cjJDVqwheDN16PYjcdiq) | 3:13 |
 | 50 | [Radio \(Douzi \- Arabic Version\) \[From "Tubelight"\]](https://open.spotify.com/track/6H9Qo8MsTUPm6FpbIa081X) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Radio \(Douzi \- Arabic Version\) \[From "Tubelight"\]](https://open.spotify.com/album/6xcfoDf2wcvUuEeUP8UZAJ) | 4:50 |
 
 Snapshot ID: `ZfFamAAAAABhivMi48hwCF3ohjtCaq2X`

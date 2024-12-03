@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Booka Shade, JOPLYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 677,091 likes - 90 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 677,207 likes - 90 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

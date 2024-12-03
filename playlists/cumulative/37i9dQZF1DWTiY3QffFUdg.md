@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-237 songs - 12 hr 40 min
+238 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Diamonds On My Mind](https://open.spotify.com/track/5AWGyFvWNof3Knq7QrN3jD) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Diamonds On My Mind](https://open.spotify.com/album/4igCnwKUaJNezJWHlWv8Bs) | 2:48 | 2023-08-25 | 2024-08-24 |
 | [Direct Dizko](https://open.spotify.com/track/2L0G811PkI9e8vr1YZir2T) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [S.O\. Project](https://open.spotify.com/artist/6NJ6jCt44aupOI2ECwo2zN) | [Direct Dizko](https://open.spotify.com/album/6RvM8Eu3uDTonjyetFmWd0) | 3:19 | 2024-11-21 |  |
 | [Don't You Want Me \- KI/KI Remix](https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk), [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Don't You Want Me \(KI/KI Remix\)](https://open.spotify.com/album/7xADCLcpIhA57Qc1sW8SmJ) | 3:47 | 2024-08-02 |  |
+| [Drip Down](https://open.spotify.com/track/3okPoXUrOcyGeY6gxx3fZ8) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [Drip Down](https://open.spotify.com/album/4KhHKbf2EkoIFSYyRLwKNe) | 2:06 | 2024-11-29 |  |
 | [Drop It Down](https://open.spotify.com/track/6euR4VW88wRwG6TTXI8YEE) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Joyhauser](https://open.spotify.com/artist/59a1Bp0JQfL2mGnpL0lW2Y) | [Drop It Down](https://open.spotify.com/album/7u26VusojvClzoCafHyzcV) | 3:26 | 2024-01-26 | 2024-02-01 |
 | [Drugs From Amsterdam \- Reinier Zonneveld Remix](https://open.spotify.com/track/3lBsiMe2z1zIrXz3xcUxhs) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam \(Reinier Zonneveld Remix\)](https://open.spotify.com/album/4hdHSpgwZ89L8c4q2oaoco) | 3:53 | 2023-08-11 | 2023-10-27 |
 | [Dudadu \- Remix](https://open.spotify.com/track/1v7IYDSkzrw3dHm89nS54V) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu \(Remix\)](https://open.spotify.com/album/59MJX4jPYt1zzNWvOc4J7m) | 3:02 | 2024-07-26 | 2024-09-18 |
@@ -157,7 +158,7 @@
 | [OPEN YOUR MIND](https://open.spotify.com/track/6zQ2emOrf68vYJiaQxwJNV) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [CRESCENDO](https://open.spotify.com/album/2WAxjTUkv403ujorGiYcOE) | 3:25 | 2023-08-11 | 2023-08-30 |
 | [ORION](https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [ORION](https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A) | 3:21 | 2024-03-15 | 2024-11-05 |
 | [Otherside](https://open.spotify.com/track/3rIMVg0NW2mq3eokTdyXXz) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Otherside](https://open.spotify.com/album/3tgBxVouYUu3PMOmyhoHsG) | 3:30 | 2023-08-18 | 2023-09-04 |
-| [Oui mais Non \- Nicolas Julian Remix](https://open.spotify.com/track/36ZvYgWivlGx3G11YXReLL) | [SM:LY](https://open.spotify.com/artist/51mRBkF1rU3x37NMHJ5teX), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Oui mais Non \(Nicolas Julian Remix\)](https://open.spotify.com/album/0lkocvL7as5pbxEVzm83lD) | 2:42 | 2023-10-26 |  |
+| [Oui mais Non \- Nicolas Julian Remix](https://open.spotify.com/track/36ZvYgWivlGx3G11YXReLL) | [SM:LY](https://open.spotify.com/artist/51mRBkF1rU3x37NMHJ5teX), [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Oui mais Non \(Nicolas Julian Remix\)](https://open.spotify.com/album/0lkocvL7as5pbxEVzm83lD) | 2:42 | 2023-10-26 | 2024-12-03 |
 | [Out of Control](https://open.spotify.com/track/78GFKnGSRPUIKG1huKpIyh) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [7 SKIES](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5) | [Out of Control](https://open.spotify.com/album/09WB6ev1KyKXszq0kCvK9q) | 2:50 | 2024-08-16 | 2024-11-01 |
 | [Overdose Of Bass](https://open.spotify.com/track/3UnDvoDHicV3e2YLAeiTj5) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Overdose Of Bass](https://open.spotify.com/album/25e0jOmd5wkq3DrJJRIaDN) | 3:14 | 2024-11-22 |  |
 | [Overdrive \- Edit](https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Overdrive EP](https://open.spotify.com/album/6L9vJcQPmdPQC7KYAgpk3k) | 4:14 | 2023-08-11 |  |

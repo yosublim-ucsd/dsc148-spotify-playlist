@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 111014,
+  "num_followers": 111029,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAADuZHp+sDM1Ot1MQhrQM2dN",
+  "snapshot_id": "Z0unAAAAAAC+jutHXAZSWrqbFN5GHxQf",
   "tracks": [
     {
       "added_at": null,
@@ -187,6 +187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Novedad",
+        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 209157,
+      "name": "La Novedad",
+      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Se\u00f1or De La Monta\u00f1a",
         "url": "https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 145600,
       "name": "El Se\u00f1or De La Monta\u00f1a",
       "url": "https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Novedad",
-        "url": "https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 209157,
-      "name": "La Novedad",
-      "url": "https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1Etiiw8agT.md) - [plain]
 
 > Continuous brown noise to sleep longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,133 likes - 238 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,165 likes - 238 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,36 +4,36 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa Haloo Helsinki!
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,471 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,473 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ihan vähän sua](https://open.spotify.com/track/2a4cjRKZCV3HnJavEDVLLx) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Ihan vähän sua](https://open.spotify.com/album/1FyivtsWLHas4iXj9cavH5) | 2:50 |
 | 2 | [Valitsen sut uudestaan](https://open.spotify.com/track/7cg8ofhgWu6NnXfHdtYURF) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9) | [Valitsen sut uudestaan](https://open.spotify.com/album/5sXnkmYd7sxE9jaa67pzcB) | 3:37 |
 | 3 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
-| 4 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
-| 5 | [Punasel](https://open.spotify.com/track/4OsVnfvjA1Obfmz7I5iKyK) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Punasel](https://open.spotify.com/album/34szKylJ0hcuzrvgqfvQ2v) | 2:54 |
+| 4 | [Punasel](https://open.spotify.com/track/4OsVnfvjA1Obfmz7I5iKyK) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Punasel](https://open.spotify.com/album/34szKylJ0hcuzrvgqfvQ2v) | 2:54 |
+| 5 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
 | 6 | [Täs mä oon](https://open.spotify.com/track/5tfW3t4zAZoeftsKQI0jD0) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Kunpa oisin kertonut](https://open.spotify.com/album/7wiZKnQuxCFGIMoZjhQ9kU) | 3:02 |
 | 7 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
 | 8 | [Ylpee](https://open.spotify.com/track/0YiG81JSChnCxKCk5CoRD1) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ylpee](https://open.spotify.com/album/2XWl2i4w4RDGOCAe8bEU4o) | 3:09 |
-| 9 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 |
-| 10 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
-| 11 | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/album/0JbkWkTx8NyAQnKtxNQuwL) | 3:03 |
+| 9 | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/album/0JbkWkTx8NyAQnKtxNQuwL) | 3:03 |
+| 10 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 |
+| 11 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
 | 12 | [Ilmaa](https://open.spotify.com/track/0aPEp3qLmKjXvDllQ5QwLQ) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Ilmaa](https://open.spotify.com/album/0DMZ5UVQ0He31eGtyehiJC) | 3:16 |
 | 13 | [Sun luokse](https://open.spotify.com/track/4OUdNzrfhl2AVu0qTNUIkz) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [AHTI](https://open.spotify.com/album/3mGX81bLEfQDOMh8G296RO) | 2:54 |
 | 14 | [Miten sut mielest poistetaan](https://open.spotify.com/track/2FMNFfVVGy7ntA0fbBb4n1) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Miten sut mielest poistetaan](https://open.spotify.com/album/1p73kuTshEB83c1lN8zeBc) | 3:00 |
 | 15 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 |
 | 16 | [Noitanainen](https://open.spotify.com/track/778YD2Oojx8S17w0r9GqMY) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Noitanainen](https://open.spotify.com/album/6lz1cmhjE1NrucvvXZCQ1Y) | 3:07 |
 | 17 | [Viimeinen tanssi](https://open.spotify.com/track/643oAKTJRrWg6sd7Npc0Qk) | [BEHM](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Merkittävät erot](https://open.spotify.com/album/4NJkTWOSCA5b4I7HwgNuwK) | 3:42 |
-| 18 | [Mee jo](https://open.spotify.com/track/4YkYQAFfd46Xti7X6o5HXj) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Mee jo](https://open.spotify.com/album/4hxJUh15L25r80zETNkFdZ) | 3:22 |
-| 19 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 |
+| 18 | [Viimeiset häät](https://open.spotify.com/track/1l4Nc7WQjivhZtehTVImWz) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Viimeiset häät](https://open.spotify.com/album/7gQckz8H2R6MUdYENUsa2v) | 2:58 |
+| 19 | [Mee jo](https://open.spotify.com/track/4YkYQAFfd46Xti7X6o5HXj) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Mee jo](https://open.spotify.com/album/4hxJUh15L25r80zETNkFdZ) | 3:22 |
 | 20 | [Ympyrää](https://open.spotify.com/track/0M6h2AOJ6YjnkdGfeJEmuo) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Ympyrää](https://open.spotify.com/album/53Z3cU90vVY3vAsH8ll3kj) | 2:25 |
 | 21 | [Syttynyt sammumaan](https://open.spotify.com/track/116aJLV5ffatPjAZ7h8U5R) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T) | [Sadekehä](https://open.spotify.com/album/3pBo0FJ6Y1hrWe53pXNEdk) | 4:13 |
 | 22 | [Ratiriti](https://open.spotify.com/track/4DJ7vFjUxx58Ud2hzvabUN) | [Faija](https://open.spotify.com/artist/4gwcqP9KI7qqpvKGLKBY6k) | [Ratiriti](https://open.spotify.com/album/6tCqsBO5xV0zupQPOFejNn) | 2:36 |
-| 23 | [Talviuni](https://open.spotify.com/track/1g1SPkB4o2RYpoHrD6TNjA) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Talviuni](https://open.spotify.com/album/4MuUNi9HdZVMje4ivNSwmk) | 2:49 |
-| 24 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 |
-| 25 | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 |
-| 26 | [Viimeiset häät](https://open.spotify.com/track/1l4Nc7WQjivhZtehTVImWz) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Viimeiset häät](https://open.spotify.com/album/7gQckz8H2R6MUdYENUsa2v) | 2:58 |
+| 23 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 |
+| 24 | [Talviuni](https://open.spotify.com/track/1g1SPkB4o2RYpoHrD6TNjA) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm) | [Talviuni](https://open.spotify.com/album/4MuUNi9HdZVMje4ivNSwmk) | 2:49 |
+| 25 | [Encore](https://open.spotify.com/track/3tL63sIiQeAbuAlK1SOszo) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Encore](https://open.spotify.com/album/7cMAENdfa3iVtcbfhJo6aQ) | 3:22 |
+| 26 | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/track/0NdnLmxqqQZ8hNntW42L9y) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra), [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw) | [Miten ihmiset löytää toisiaan \(feat\. Överi\)](https://open.spotify.com/album/4IJcslK1fUBCIDrIBFxUsn) | 3:19 |
 | 27 | [RANDOM](https://open.spotify.com/track/05e4kdlalqyXn9FhpYJQ9F) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [RANDOM](https://open.spotify.com/album/7AF9dwF6qTEZ5RRdsgiENM) | 3:01 |
 | 28 | [Täysikuu](https://open.spotify.com/track/6S6puJe1fAQf6jo7fSbi8Y) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Täysikuu](https://open.spotify.com/album/5PqmGy70sbEsAkNOu0r1i6) | 3:13 |
 | 29 | [While Your Lips Are Still Red \(Vain elämää kausi 15\)](https://open.spotify.com/track/17wu4wGbxdfdH7xkqcMt5U) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [While Your Lips Are Still Red \(Vain elämää kausi 15\)](https://open.spotify.com/album/55ucWx00U8mVBaPpU7gC44) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 74 | [Joku, jonka luo palata](https://open.spotify.com/track/1XYPk1AGMeJ4wOfkudWsXb) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Joku, jonka luo palata](https://open.spotify.com/album/1kuWX6YfOl9tnpEHMf8i5r) | 3:10 |
 | 75 | [Elina](https://open.spotify.com/track/2wlcMM4bMkdl0UZPclmqLP) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Elina](https://open.spotify.com/album/0TXSaiioO53QlKnuePS0Zt) | 2:48 |
 
-Snapshot ID: `Z0joHAAAAADddNbMFy0nvyi7O082vMwI`
+Snapshot ID: `Z01ldwAAAAAF/UPRO4kfujXJmBWrByhQ`

@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 272838,
+  "num_followers": 272962,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "C\u00f3mo Le Gusta A Mi Gente",
-        "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
-      },
-      "artists": [
-        {
-          "name": "Coty",
-          "url": "https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Que Precio Tiene El Cielo",
-      "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
         "name": "No se va",
         "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 258937,
       "name": "No se va",
       "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
+        "name": "C\u00f3mo Le Gusta A Mi Gente",
+        "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
+      },
+      "artists": [
+        {
+          "name": "Coty",
+          "url": "https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Que Precio Tiene El Cielo",
+      "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
+        "name": "Respetando un Estilo",
+        "url": "https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "duration_ms": 241705,
+      "name": "Esta Noche Quiero Brandy",
+      "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
+    },
+    {
+      "added_at": "2024-11-15 12:04:19",
+      "album": {
         "name": "A Pura Sangre",
         "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "Respetando un Estilo",
-        "url": "https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC"
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
       "artists": [
         {
-          "name": "La San Francisco",
-          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
         }
       ],
-      "duration_ms": 241705,
-      "name": "Esta Noche Quiero Brandy",
-      "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
+      "duration_ms": 204000,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -1219,22 +1235,6 @@
       "duration_ms": 228565,
       "name": "No Fue Culpa Mia",
       "url": "https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2"
-    },
-    {
-      "added_at": "2024-11-15 12:04:19",
-      "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/4qYjpBTZvr6AWlmbUzd224"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "A Pura Sangre",
-        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
+        "name": "Dime Quien",
+        "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
       },
       "artists": [
         {
-          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
-          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Tu C\u00f3mo Est\u00e1s",
-      "url": "https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx"
+      "duration_ms": 163800,
+      "name": "Dime Quien",
+      "url": "https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz"
     },
     {
       "added_at": "2024-11-15 12:04:19",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-11-15 12:04:19",
       "album": {
-        "name": "Dime Quien",
-        "url": "https://open.spotify.com/album/5JGEI3LM5WuF2EIbSS4JQw"
+        "name": "A Pura Sangre",
+        "url": "https://open.spotify.com/album/6aK9E9vV53gVuZjzF2wnWz"
       },
       "artists": [
         {
-          "name": "La San Francisco",
-          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+          "name": "Sergio Torres y Los Due\u00f1os Del Swing",
+          "url": "https://open.spotify.com/artist/61wjkDrxSXXH1yUOczhJmT"
         }
       ],
-      "duration_ms": 163800,
-      "name": "Dime Quien",
-      "url": "https://open.spotify.com/track/7AKR1lkC72e7oD722zkKbz"
+      "duration_ms": 218373,
+      "name": "Tu C\u00f3mo Est\u00e1s",
+      "url": "https://open.spotify.com/track/3ys4ck9oSE5NvxGdvVVKXx"
     }
   ],
   "unique_name": "Cumbia Santafesina",

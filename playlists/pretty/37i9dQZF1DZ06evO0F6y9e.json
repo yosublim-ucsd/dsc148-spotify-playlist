@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
-  "num_followers": 1007675,
+  "num_followers": 1007836,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAAD7zXDf5dnb9KiuScjkheVq",
+  "snapshot_id": "Z0unAAAAAAC0sZflqkMpGOF9uWVmXA0B",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Anaheim, CA",
+        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 264832,
+      "name": "Pideme (En Vivo)",
+      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decide T\u00fa",
         "url": "https://open.spotify.com/album/6lapM6uMQXvBBDu5Zky2d4"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 232611,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/3HtNPv4uWc7MSk7hpu2pwA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde Anaheim, CA",
-        "url": "https://open.spotify.com/album/4D44ytY7f3XZaOrZ1cAmi1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 264832,
-      "name": "Pideme (En Vivo)",
-      "url": "https://open.spotify.com/track/77XkGdcroOIcaekrKJUwvq"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chula",
-        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 150724,
-      "name": "Chula",
-      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Ve\u00eda Venir",
         "url": "https://open.spotify.com/album/7xr2h5VxJyJA6oDLaPYovk"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 226815,
       "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6jwctT0wtZdG0fbLNVq5Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chula",
+        "url": "https://open.spotify.com/album/787xYgCwrcOi8f6wCWCCI4"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 150724,
+      "name": "Chula",
+      "url": "https://open.spotify.com/track/40fgKOnq3hxu4HqEbq40CZ"
     },
     {
       "added_at": null,

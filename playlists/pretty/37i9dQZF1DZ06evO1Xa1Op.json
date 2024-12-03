@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20770,
+  "num_followers": 20776,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAAA8aVivfvOOSgrUq9tWUivG",
+  "snapshot_id": "Z0unAAAAAABOorKF4peUHXaKn/bFhFhh",
   "tracks": [
     {
       "added_at": null,
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 259826,
-      "name": "Cousins",
-      "url": "https://open.spotify.com/track/0kGYs4cJEQ9yHv0uyXQzgl"
+      "duration_ms": 253226,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 197880,
-      "name": "Ali's Here",
-      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
+      "duration_ms": 259826,
+      "name": "Cousins",
+      "url": "https://open.spotify.com/track/0kGYs4cJEQ9yHv0uyXQzgl"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 239866,
-      "name": "Malahani",
-      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 253226,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
+      "duration_ms": 197880,
+      "name": "Ali's Here",
+      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 348760,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+      "duration_ms": 239866,
+      "name": "Malahani",
+      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radio Mali",
+        "url": "https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "Yer Mali Gakoyoyo",
+      "url": "https://open.spotify.com/track/2Wy19zQQAwnOykhdA5RZzI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M'bif\u00e9",
         "url": "https://open.spotify.com/album/1X0p0tWvrdMn3nPxnmQW8g"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 233983,
       "name": "M'bif\u00e9",
       "url": "https://open.spotify.com/track/3fRRBdnMRGsfdAzH9CSzql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radio Mali",
-        "url": "https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "Yer Mali Gakoyoyo",
-      "url": "https://open.spotify.com/track/2Wy19zQQAwnOykhdA5RZzI"
     },
     {
       "added_at": null,

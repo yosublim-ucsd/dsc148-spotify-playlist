@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sandhya Chari",
-  "num_followers": 13784,
+  "num_followers": 13798,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0QZdAAAAABukE4eSGUUSUitz86YZQUP",
+  "snapshot_id": "Z02dwwAAAAC7dngfW9JXtER3oZZtnSuh",
   "tracks": [
     {
       "added_at": "2024-10-18 04:57:06",
@@ -155,6 +155,50 @@
       "duration_ms": 75200,
       "name": "Junjujukum Bojalo - Bb Vox",
       "url": "https://open.spotify.com/track/5EzdwQAb4mY3Lkm29lgHeT"
+    },
+    {
+      "added_at": "2024-12-02 11:27:29",
+      "album": {
+        "name": "Adi Sandaali",
+        "url": "https://open.spotify.com/album/7CS85ZJ3MljrtPgcCRoVDa"
+      },
+      "artists": [
+        {
+          "name": "Victor Dhayananth V G",
+          "url": "https://open.spotify.com/artist/1xzYBSGf5ABxPbFXaIAxRY"
+        },
+        {
+          "name": "Sriram Srinivasan",
+          "url": "https://open.spotify.com/artist/6GjXk1OtCOsH0c4nF8o5xQ"
+        }
+      ],
+      "duration_ms": 148453,
+      "name": "Adi Sandaali",
+      "url": "https://open.spotify.com/track/35z9tsJtY9sXW6A7Pr6Rnc"
+    },
+    {
+      "added_at": "2024-12-02 11:45:07",
+      "album": {
+        "name": "Oda Oda",
+        "url": "https://open.spotify.com/album/7q8CiEr5N4aBlGA99G6zEP"
+      },
+      "artists": [
+        {
+          "name": "Kishawn",
+          "url": "https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0"
+        },
+        {
+          "name": "Jo Perera",
+          "url": "https://open.spotify.com/artist/6vTGYmGkzg5rm6HzRV4BjU"
+        },
+        {
+          "name": "Cozzy",
+          "url": "https://open.spotify.com/artist/5wbotL8r54GNzca15JjKa5"
+        }
+      ],
+      "duration_ms": 133124,
+      "name": "Oda Oda",
+      "url": "https://open.spotify.com/track/0kjVpJoZwlSQW9Xr2alwc2"
     },
     {
       "added_at": "2024-11-21 13:15:52",
@@ -1467,22 +1511,6 @@
       "duration_ms": 153229,
       "name": "Aneram Andhaneram",
       "url": "https://open.spotify.com/track/2vu0tf9BIbwwrP9JMYQAsA"
-    },
-    {
-      "added_at": "2024-05-03 06:13:25",
-      "album": {
-        "name": "Ohh baby",
-        "url": "https://open.spotify.com/album/5sFnKxanj2GfkBDYylVdpB"
-      },
-      "artists": [
-        {
-          "name": "Pakeecbala",
-          "url": "https://open.spotify.com/artist/7CiXx6zWGKJBrQgbnSNQAa"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Ohh baby",
-      "url": "https://open.spotify.com/track/3OFcjtynBhxIo7bqicTMHI"
     },
     {
       "added_at": "2024-05-03 05:40:22",

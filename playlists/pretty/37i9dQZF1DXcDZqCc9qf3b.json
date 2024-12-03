@@ -1,13 +1,41 @@
 {
   "description": "Groove to music from your Netflix Kids favorites! Cover: Spellbound",
-  "num_followers": 68102,
+  "num_followers": 68145,
   "original_name": "Netflix Kids Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0SVrwAAAAB1mejPrTUnWDUV6nMempee",
+  "snapshot_id": "Z04igQAAAABCdMbSIaNwGgKSfqIyigDr",
   "tracks": [
+    {
+      "added_at": "2024-12-02 21:11:29",
+      "album": {
+        "name": "Spellbound (Soundtrack from the Netflix Film by Skydance Animation)",
+        "url": "https://open.spotify.com/album/4W9D1e11uPzQRJ8CuL8z6p"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        },
+        {
+          "name": "John Lithgow",
+          "url": "https://open.spotify.com/artist/1KApqVthworS08PUownIe3"
+        },
+        {
+          "name": "Jenifer Lewis",
+          "url": "https://open.spotify.com/artist/6e28WiPlKSu1ukkhHCZEnF"
+        }
+      ],
+      "duration_ms": 250809,
+      "name": "My Parents are Monsters",
+      "url": "https://open.spotify.com/track/7GBYmPAsTL2VF1TLPIumoe"
+    },
     {
       "added_at": "2024-11-21 21:31:13",
       "album": {
@@ -63,6 +91,26 @@
       "duration_ms": 126146,
       "name": "My Name Is Sandy Cheeks",
       "url": "https://open.spotify.com/track/2JHCWXFacFcaWW8VNnaHPe"
+    },
+    {
+      "added_at": "2024-12-02 21:11:29",
+      "album": {
+        "name": "Spellbound (Soundtrack from the Netflix Film by Skydance Animation)",
+        "url": "https://open.spotify.com/album/4W9D1e11uPzQRJ8CuL8z6p"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Rachel Zegler",
+          "url": "https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3"
+        }
+      ],
+      "duration_ms": 223114,
+      "name": "The Way It Was Before",
+      "url": "https://open.spotify.com/track/2xv8hI4EUhHCNSNOK9JoXu"
     },
     {
       "added_at": "2024-04-19 04:01:00",

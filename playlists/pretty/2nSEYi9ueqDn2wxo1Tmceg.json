@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV?si=o1jPo2rhTaaOjh_89rmgqQ\">Bonnie &quot;Prince&quot; Billy</a>",
-  "num_followers": 67608,
+  "num_followers": 67606,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAQQDdGi6M8zidCbBLbkTyFwkghuJZX",
+  "snapshot_id": "AAAQTSCdlHG6rFNZqZJmKMnHh5Wnpekl",
   "tracks": [
+    {
+      "added_at": "2024-12-02 09:23:53",
+      "album": {
+        "name": "Mountain out of a Molehill / A Matter of Taste",
+        "url": "https://open.spotify.com/album/1NwbriFwipEAAtD0bDOC2u"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "A Matter of Taste",
+      "url": "https://open.spotify.com/track/5gev7xyonIkZsLlu2RmM0O"
+    },
     {
       "added_at": "2024-11-27 12:02:09",
       "album": {

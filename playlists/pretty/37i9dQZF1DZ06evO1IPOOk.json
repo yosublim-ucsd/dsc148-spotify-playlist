@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1599422,
+  "num_followers": 1600189,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABtx32vFchFprwmUs9oh+6L",
+  "snapshot_id": "Z0unAAAAAAA91coKZe6sKyZr3S+k+WbF",
   "tracks": [
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 161137,
+      "name": "Chapter Six",
+      "url": "https://open.spotify.com/track/3DBFOXJKitLKUjlyOCX7ow"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HUMBLE. (SKRILLEX REMIX)",
         "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 156800,
       "name": "HUMBLE. - SKRILLEX REMIX",
       "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 161137,
-      "name": "Chapter Six",
-      "url": "https://open.spotify.com/track/3DBFOXJKitLKUjlyOCX7ow"
     },
     {
       "added_at": null,

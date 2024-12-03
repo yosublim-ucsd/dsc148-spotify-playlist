@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Libra: El regalo de caer",
+        "url": "https://open.spotify.com/album/0wVkfYe4JblunuhapydUlK"
+      },
+      "artists": [
+        {
+          "name": "Sonido Desconocido 2",
+          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237500,
+      "name": "Libra: El regalo de caer",
+      "url": "https://open.spotify.com/track/27JUG3bFWkYfUol22y0x1P"
+    },
+    {
+      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
       },
@@ -782,7 +800,7 @@
       ],
       "date_added": "2024-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 231574,
       "name": "Tu Mente En Papel",
       "url": "https://open.spotify.com/track/6E3f1qJzNUcs4lN8Xna17Y"

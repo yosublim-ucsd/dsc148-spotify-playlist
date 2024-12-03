@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 95584,
+  "num_followers": 95738,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAAAzVybSpQ5sUkdxDtCu8IBp",
+  "snapshot_id": "Z0unAAAAAADQjkEmb13sqnCOUj4Q16Jb",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+      "duration_ms": 198600,
+      "name": "You\u2019re here that\u2019s the thing",
+      "url": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 198600,
-      "name": "You\u2019re here that\u2019s the thing",
-      "url": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe"
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": null,

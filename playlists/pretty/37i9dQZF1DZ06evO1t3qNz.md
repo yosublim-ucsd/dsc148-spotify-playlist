@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 
 > This is Jessie Murph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,954 likes - 22 songs - 59 min 50 sec
+[Spotify](https://open.spotify.com/user/spotify) - 31,981 likes - 22 songs - 59 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 | 21 | [If I Died Last Night](https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:44 |
 | 22 | [I Would've](https://open.spotify.com/track/78xK2f5glgIqGeTGDmW8yk) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:30 |
 
-Snapshot ID: `Z0pVgAAAAAAKKNvyunB57KWb8cSIh6mD`
+Snapshot ID: `Z0unAAAAAAADcrLUKzXzZNLEsYDTi4vS`

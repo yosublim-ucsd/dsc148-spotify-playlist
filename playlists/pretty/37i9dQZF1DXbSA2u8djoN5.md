@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Guess Who
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,431 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,438 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 24 | [Vise La Plic](https://open.spotify.com/track/4f5Vs65RAPuAOrNrRrKcgA) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Vise La Plic](https://open.spotify.com/album/2rBedZhrwkQ1k41clHtX7m) | 2:46 |
 | 25 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 |
 | 26 | [Meditez](https://open.spotify.com/track/22Sol4wqPwnl0DdSQWw3P7) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Cruz](https://open.spotify.com/artist/4EWzcAe7ZkhBJXL3f6b18f) | [Meditez](https://open.spotify.com/album/4WS4dyqzhQfQBoA94OHsfm) | 2:29 |
-| 27 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 |
-| 28 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 |
+| 27 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 |
+| 28 | [SPARGEM](https://open.spotify.com/track/3pLP7SbHC2qatQduBdgEc4) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [NOTSOZEN](https://open.spotify.com/album/0oAlEarGdHNBAUbkWwnhjK) | 2:56 |
 | 29 | [Cand Nimeni Nu Te Vede](https://open.spotify.com/track/3uloTbf9BGYUG2xVx5P5Ze) | [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [DJ Wicked](https://open.spotify.com/artist/5RKrZeSaUkCFy3DlCMXxl9) | [Cand Nimeni Nu Te Vede](https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz) | 2:48 |
 | 30 | [Dernière Cigarette](https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1) | [Francis On My Mind](https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc), [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [Dernière Cigarette](https://open.spotify.com/album/7rU1pJ3SlmgdVMBoyIeaDy) | 2:54 |
 | 31 | [ZERO](https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [ZERO](https://open.spotify.com/album/6I5JKDtiXS8HvlLznCRfcY) | 2:40 |

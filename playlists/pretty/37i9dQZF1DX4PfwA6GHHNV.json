@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19560,
+  "num_followers": 19570,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,42 @@
     {
       "added_at": "2024-11-22 14:13:23",
       "album": {
+        "name": "T\u00f4 Aqui de Novo",
+        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+      },
+      "artists": [
+        {
+          "name": "Vinijoe",
+          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "duration_ms": 215572,
+      "name": "T\u00f4 Aqui de Novo",
+      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "added_at": "2024-11-22 14:13:23",
+      "album": {
+        "name": "TocToc",
+        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "TocToc",
+      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
+    },
+    {
+      "added_at": "2024-11-22 14:13:23",
+      "album": {
         "name": "S\u00f3 Voc\u00ea",
         "url": "https://open.spotify.com/album/08Ixz1AGeGG2fJgFhuuL1j"
       },
@@ -687,22 +723,6 @@
     {
       "added_at": "2024-11-22 14:13:23",
       "album": {
-        "name": "TocToc",
-        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "TocToc",
-      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
-    },
-    {
-      "added_at": "2024-11-22 14:13:23",
-      "album": {
         "name": "Ciumenta",
         "url": "https://open.spotify.com/album/3gifZCkuuSjonKk7YVcR3b"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 150465,
       "name": "Ciumenta",
       "url": "https://open.spotify.com/track/35fWcHV5Q9KQtaPN7n9Djl"
-    },
-    {
-      "added_at": "2024-11-22 14:13:23",
-      "album": {
-        "name": "T\u00f4 Aqui de Novo",
-        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
-      },
-      "artists": [
-        {
-          "name": "Vinijoe",
-          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
-        },
-        {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
-        }
-      ],
-      "duration_ms": 215572,
-      "name": "T\u00f4 Aqui de Novo",
-      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
     },
     {
       "added_at": "2024-11-22 14:13:23",

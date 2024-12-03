@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 160266,
       "name": "how you did that (feat. Kodak Black)",
       "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
@@ -1730,6 +1730,24 @@
       "duration_ms": 142369,
       "name": "Never See Me",
       "url": "https://open.spotify.com/track/30CIKWOJ564yIpVXefrud9"
+    },
+    {
+      "album": {
+        "name": "Trill Bill",
+        "url": "https://open.spotify.com/album/7t2ToFb8NXJsP5XKHGV5gO"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169324,
+      "name": "News Matt",
+      "url": "https://open.spotify.com/track/2Cg37BOBhTuJLaSX2HhhJx"
     },
     {
       "album": {

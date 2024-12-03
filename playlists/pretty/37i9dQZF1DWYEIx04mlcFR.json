@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Kendall Pe\u00f1a en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79170,
+  "num_followers": 79164,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-11-29 09:49:13",
       "album": {
-        "name": "Dicen Que Eres Arte",
-        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 164736,
-      "name": "Dicen Que Eres Arte",
-      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
-    },
-    {
-      "added_at": "2024-11-29 09:49:13",
-      "album": {
         "name": "L\u00e1grimas de Oro",
         "url": "https://open.spotify.com/album/1VHV2NUVzgNVL6ENq0zZ6d"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 163776,
       "name": "L\u00e1grimas de Oro",
       "url": "https://open.spotify.com/track/4On7o3GG2Ng9AWgbLqKGED"
+    },
+    {
+      "added_at": "2024-11-29 09:49:13",
+      "album": {
+        "name": "Dicen Que Eres Arte",
+        "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 164736,
+      "name": "Dicen Que Eres Arte",
+      "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
       "added_at": "2024-11-29 09:49:13",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-11-29 09:49:13",
       "album": {
+        "name": "Tengo Que Hacer Esto Por M\u00ed",
+        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 150347,
+      "name": "Tengo Que Hacer Esto Por Mi",
+      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+    },
+    {
+      "added_at": "2024-11-29 09:49:13",
+      "album": {
         "name": "Mientras tanto cantar\u00e9",
         "url": "https://open.spotify.com/album/3kYtEbf0M5b5C1ypmgZSvP"
       },
@@ -983,18 +999,22 @@
     {
       "added_at": "2024-11-29 09:49:13",
       "album": {
-        "name": "Tengo Que Hacer Esto Por M\u00ed",
-        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
+        "name": "aunque digas que lo sientes (og)",
+        "url": "https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML"
       },
       "artists": [
         {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "Yakashi X",
+          "url": "https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ"
         }
       ],
-      "duration_ms": 150347,
-      "name": "Tengo Que Hacer Esto Por Mi",
-      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
+      "duration_ms": 115105,
+      "name": "aunque digas que lo sientes (og)",
+      "url": "https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4"
     },
     {
       "added_at": "2024-11-29 09:49:13",
@@ -1015,26 +1035,6 @@
       "duration_ms": 210187,
       "name": "El Principal",
       "url": "https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640"
-    },
-    {
-      "added_at": "2024-11-29 09:49:13",
-      "album": {
-        "name": "aunque digas que lo sientes (og)",
-        "url": "https://open.spotify.com/album/2GjHVm8LJRjSGtLbFj7bML"
-      },
-      "artists": [
-        {
-          "name": "katsu energy",
-          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
-        },
-        {
-          "name": "Yakashi X",
-          "url": "https://open.spotify.com/artist/5Q8PN3cHZ3eTMrS3z8oXlZ"
-        }
-      ],
-      "duration_ms": 115105,
-      "name": "aunque digas que lo sientes (og)",
-      "url": "https://open.spotify.com/track/1zqE3D6IOZSowj7rm4PHJ4"
     },
     {
       "added_at": "2024-11-29 09:49:13",

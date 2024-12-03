@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 
 > 最新K\-POP楽曲で彩られたミュージックロマンスドラマ『サウンドトラック \#1』<a href="https://disneyplus.disney.co.jp/program/soundtrack\-1">Disney+で全話独占配信中</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,943 likes - 24 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,938 likes - 24 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DC6dl7R20G.md) - [plain]
 | 10 | [Love Love Love](https://open.spotify.com/track/06ToLlpbTVILh8Pwh2KdRX) | [SEOBIN](https://open.spotify.com/artist/5wIb1NVEsm3RR9hSrYXjDr) | [Love Love Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6b0RI9sLF9braqpMYCVQwm) | 3:16 |
 | 11 | [Prettiest One](https://open.spotify.com/track/5jxBIft0pEtB3rJKs06dwv) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Prettiest One \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/1saFQAJ9to9vbnggAleSfm) | 3:08 |
 | 12 | [Love beyond words](https://open.spotify.com/track/1pPwl2q0bFgGh8l8ssRVEW) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/38kBeYr1NaLzclPCJGipMM) | 3:53 |
-| 13 | [A little more \- Instrumental](https://open.spotify.com/track/26iTiFmpxJTEKqZXhIvRit) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 |
-| 14 | [We'll shine brighter than any other stars \- Instrumental](https://open.spotify.com/track/45Xb5LOFmd2iPILc8gH95k) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 |
+| 13 | [We'll shine brighter than any other stars \- Instrumental](https://open.spotify.com/track/45Xb5LOFmd2iPILc8gH95k) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 |
+| 14 | [A little more \- Instrumental](https://open.spotify.com/track/26iTiFmpxJTEKqZXhIvRit) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [A little more \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0FW5ce3s0jz6k4RJfoBBhd) | 3:32 |
 | 15 | [Love beyond words \- Instrumental](https://open.spotify.com/track/4Ip9YxkOkti0Og4CjZNeqC) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love beyond words \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/7e1IQJXFhJ8WgMt2t22oJ9) | 3:53 |
 | 16 | [My Love \- Instrumental](https://open.spotify.com/track/08rkSTgPYGaAGbjVDSS483) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [My Love \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6DCtAzGInnSIffWpJhG7bO) | 3:28 |
 | 17 | [Your tender heart hurts me \- Instrumental](https://open.spotify.com/track/6Dbk8sNFxJDAVdvNBAvYkZ) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Your tender heart hurts me \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/0nYKIodS7tmti2YiFUlRS5) | 3:40 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 ### [New Dance Music Friday](https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr)
 
-> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: Lucas &amp; Steve
+> New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: David Guetta x Kiko x Olivier Giacomotto
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,546 likes - 15 songs - 41 min 51 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,548 likes - 15 songs - 41 min 51 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,4 +24,4 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 14 | [BANG BANG POW!](https://open.spotify.com/track/6SI5la9CBnw4UbcdnarkfF) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [I.D.O.](https://open.spotify.com/artist/2QYVp9xsJhOywap7dQMWHe) | [BANG BANG POW!](https://open.spotify.com/album/73sdRnqkCqKqH5XtiianPO) | 2:13 |
 | 15 | [Turn It Off \(feat\. Z3LLA\)](https://open.spotify.com/track/1dshcx1FgshcyQiC5gKkQO) | [JustLuke](https://open.spotify.com/artist/5BYp3tFELy8TjfQMd0S3Nh), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Turn It Off \(feat\. Z3LLA\)](https://open.spotify.com/album/1HOnxjFRY3Vo8hcYrmugr5) | 2:18 |
 
-Snapshot ID: `AAArpIYom89Fob2E8oioCzaH2w8uEQOi`
+Snapshot ID: `AAArpWqGHIqYwgg5uAJupSRukrRKsc4t`

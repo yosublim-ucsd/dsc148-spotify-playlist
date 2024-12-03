@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Meaningful Stones\(김뜻돌\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-831 songs - 2 day 2 hr 33 min
+833 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -379,7 +379,7 @@
 | [Jungle Bike](https://open.spotify.com/track/58NiYwHiOAsrl9ayiRYQXE) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Jungle Bike](https://open.spotify.com/album/1FkXoPtPNwDUN1Ow5iwWSW) | 2:46 | 2022-08-04 | 2022-08-24 |
 | [Just a Friend](https://open.spotify.com/track/4cRXmzPshRDVuL1NTGk5c0) | [The Night Of Seokyo](https://open.spotify.com/artist/6vrBuDdSYNTK6CwCVflTnx), [simsong](https://open.spotify.com/artist/51MWzTgAg8ZIxqyO2Zz0c9) | [Just a Friend](https://open.spotify.com/album/4o5z8EULkN1q4wmNH6qI8W) | 3:36 | 2022-03-31 | 2022-05-13 |
 | [Just As A Lie 거짓말처럼](https://open.spotify.com/track/12rpCeScvPRFTcnKU8Md18) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Short Film 'Sequence \#3'](https://open.spotify.com/album/4N9NQQsJIVX3ftDiFfYJdr) | 4:17 | 2022-03-31 | 2022-04-18 |
-| [Just as We Were](https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Just as We Were](https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR) | 4:08 | 2024-06-18 |  |
+| [Just as We Were](https://open.spotify.com/track/1gNkZGi3evYz8NNWox7SRS) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Just as We Were](https://open.spotify.com/album/1weCtwUO67iYwytGnHZGfR) | 4:08 | 2024-06-18 | 2024-12-03 |
 | [Just Can't Say 차마](https://open.spotify.com/track/5KnfD0WLGxFUTcsRpz9w2w) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [LOG 일지](https://open.spotify.com/album/05FPOh1ujz9nUhiKTQmKQZ) | 3:23 | 2022-03-31 | 2022-04-17 |
 | [JUST KOREAN POP](https://open.spotify.com/track/28tTv9ZOz2eYWNv2arkzWU) | [Hoochus](https://open.spotify.com/artist/3bEQ3MsehZrVvM6vNKQTmF) | [JUST KOREAN POP](https://open.spotify.com/album/13s4xolZv7TTUI5JImwMNB) | 3:30 | 2022-08-18 | 2022-09-06 |
 | [Just thinking about you](https://open.spotify.com/track/13z0tjS1JNelA2fEdxRcET) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 3:37 | 2023-04-18 | 2023-07-06 |
@@ -438,6 +438,7 @@
 | [Lustre](https://open.spotify.com/track/4XnUCJTdssEkFj1NiIQAp7) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/0zsXyoBNYf3hRMaSu5zdEj) | 3:34 | 2022-04-27 | 2022-04-30 |
 | [MAGENTA](https://open.spotify.com/track/3WH4pZy0DBK3HzmQRny2Eq) | [JANE POP](https://open.spotify.com/artist/79IrVkcarWCAkfjuO17QVj) | [MAGENTA](https://open.spotify.com/album/76Vx0jlhzNLGSF3wftVdId) | 3:51 | 2022-03-31 | 2022-04-21 |
 | [MAGIC](https://open.spotify.com/track/3IwGQoFbpFbSAS8FiTPVH4) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Living the moment of love](https://open.spotify.com/album/6bMMVgG0lVRmoGaeJ6J2Vi) | 3:34 | 2022-07-12 | 2022-07-16 |
+| [Make My Sadness a Cloud](https://open.spotify.com/track/6ow8tgEnUParRV3jltPcYW) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [Make My Sadness a Cloud](https://open.spotify.com/album/7bOoPZZa4Ztb5CBHU04sqC) | 5:43 | 2024-12-02 |  |
 | [maldivian night](https://open.spotify.com/track/75kuXEhMGPeiv8fhiU4z2h) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [maldivian night](https://open.spotify.com/album/184u2TOIGw3XN21212Wp1j) | 3:11 | 2022-03-31 | 2022-04-06 |
 | [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 | 2024-04-30 | 2024-05-10 |
 | [Mattress](https://open.spotify.com/track/7f5P2kfP16dELU9TOB53pL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Mattress](https://open.spotify.com/album/0w3iZw82n1QCdMq6H4BKBZ) | 2:50 | 2022-03-31 | 2022-04-16 |
@@ -575,6 +576,7 @@
 | [Reminiscence](https://open.spotify.com/track/0dGJsHDjZiQBCpAoKf9XAR) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [Sanullim 50th Anniversary full length album, Vol\. 1](https://open.spotify.com/album/544JzJsgzf1hNIygvWN26P) | 3:59 | 2024-10-04 | 2024-10-16 |
 | [reminiscence](https://open.spotify.com/track/2KAtg9W0pKiJh94jaQ5jDT) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [reminiscence](https://open.spotify.com/album/472g6HVeObaEweJ5RyNRtX) | 4:52 | 2021-12-21 | 2022-05-19 |
 | [Reminisces of A 10\-year\-old Journal](https://open.spotify.com/track/5uXV40HNeBMOvz7v3g6I5w) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Eco Bridge](https://open.spotify.com/artist/7yBoreZbMa2ljEwG76ZmNp) | [The Way You Keep Friendship \- SSaW Tribute Vol.5](https://open.spotify.com/album/10chjryncMprk7PAjttH67) | 4:36 | 2022-03-31 | 2022-04-19 |
+| [Requiem](https://open.spotify.com/track/7DUQT1Y2dtcptqGvuLtdQY) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Synopsis](https://open.spotify.com/album/3TsPGtAg9IG6hHQoXamU8L) | 4:09 | 2024-12-02 |  |
 | [Respect](https://open.spotify.com/track/2b8wiA0rT5h1ONtW9HsXUt) | [Shinae An](https://open.spotify.com/artist/5lt17V0z9fzfwRDFCZVWIQ) | [Respect](https://open.spotify.com/album/3oikuOBybmjw4rW7SBFWwD) | 3:01 | 2023-09-22 | 2024-05-10 |
 | [Ribbon Love ∞](https://open.spotify.com/track/7o8BCyeBH2fZLut4gW2IAd) | [Yeyoung Kang](https://open.spotify.com/artist/6xtXjfsGpDliughhzrv7OA) | [Ribbon Love ∞](https://open.spotify.com/album/7LlhQhqEwDajm63r6wmEbc) | 3:03 | 2024-04-30 | 2024-05-10 |
 | [Right Time and Right Place](https://open.spotify.com/track/3nYIZUYzPEgyGNjhQZvlx9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Chocolate,Pt.10\(Original Television Soundtrack\)](https://open.spotify.com/album/0YYLtuin5Xf0MB1vXHNtpD) | 3:53 | 2022-03-31 | 2022-04-11 |
@@ -719,7 +721,7 @@
 | [To Be Wise](https://open.spotify.com/track/1PdC6WkGQgM0hwQp8nXND8) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [We've Sobered Up \(Remastered 2018\)](https://open.spotify.com/album/6JIlLd16XVzAMl3VEAbqeV) | 3:42 | 2022-03-31 | 2022-04-15 |
 | [To Him](https://open.spotify.com/track/2WH59CCJ7KMVRIRyG7za66) | [e\_so](https://open.spotify.com/artist/1KsLHf4SObKZZUWrENllYL) | [To Him](https://open.spotify.com/album/55TJJh7LpVS3XFPO62vh1F) | 4:06 | 2022-04-12 | 2022-04-14 |
 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2022-03-31 | 2022-04-19 |
-| [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 | 2024-08-08 |  |
+| [To\. the Moon](https://open.spotify.com/track/25br9uGcaMMLu6YTl2xF00) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [To\. the Moon](https://open.spotify.com/album/2BURnvXS4WlAgj7IsTuc7D) | 3:08 | 2024-08-08 | 2024-12-03 |
 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 | 2021-12-21 | 2024-06-01 |
 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 | 2024-04-24 |
 | [Treat You Right 사랑해줄래](https://open.spotify.com/track/4czJNPeQ4afZ00Vf779e2b) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Treat You Right 사랑해줄래](https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7) | 3:25 | 2022-03-31 | 2022-04-29 |

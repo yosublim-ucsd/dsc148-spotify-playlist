@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Mrs\. GREEN APPLE, なとり, Ed Sheeran, Kendrick Lamar, Kesha and more! cover: Mrs\. GREEN APPLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,871 likes - 73 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,893 likes - 73 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > 
 
-814 songs - 1 day 15 hr 9 min
+815 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Closing The Book](https://open.spotify.com/track/6ApgXre9x2tVCzuwPPdZ0o) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:07 | 2023-01-27 | 2023-04-24 |
 | [Clutch](https://open.spotify.com/track/0imyZ4t0WqFq6oRbFZNfxw) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 2:11 | 2024-11-19 |  |
 | [Codeine Dreamz \(feat\. OsamaSon\)](https://open.spotify.com/track/6vhyk04jHbrtKEXcyLdKsL) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [After TTBR](https://open.spotify.com/album/6VyWxik4npLtHuYKJ66zsa) | 2:07 | 2024-03-04 | 2024-04-24 |
+| [COLE PIMP \(with Ty Dolla $ign & Juicy J\)](https://open.spotify.com/track/4vdDAdLtmTqFR1J4AO4cBf) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 3:38 | 2024-12-02 |  |
 | [Colombian Necktie](https://open.spotify.com/track/4wYu5bgBXctjSov4QUJxzZ) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [DR\. EV4L](https://open.spotify.com/album/4emCVXg7Sd9tFn0DEf8B1L) | 4:06 | 2022-09-08 | 2024-11-06 |
 | [Come Catch Me](https://open.spotify.com/track/6CVRKPKIQawSt3Uh1eOoBi) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:03 | 2023-01-03 | 2023-12-14 |
 | [Confessions](https://open.spotify.com/track/6Tm2931jP5r0yN3EZ0xbfQ) | [Maitchhh](https://open.spotify.com/artist/265iWAcdttWU3gFXjrcbbh) | [Confessions](https://open.spotify.com/album/5GDRXm5vahoRbkSiqXrGi3) | 3:25 | 2022-06-26 | 2023-12-14 |

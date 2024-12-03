@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,616 likes - 50 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,662 likes - 50 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 32 | [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Crazy](https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH) | 7:46 |
 | 33 | [Someday](https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:42 |
 | 34 | [Love On Fire \(feat\. Lungi Naidoo & Ribatone\)](https://open.spotify.com/track/2Yy3BzdOdn9uqMpeVePtL1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Lungi Naidoo](https://open.spotify.com/artist/66qfrvIX87ukAaAgxE5inz), [Ribatone](https://open.spotify.com/artist/2DmNrE4gjmMEzL2jIvswrR) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 8:10 |
-| 35 | [Gratitude](https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok) | [Marie Joly](https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Rebecca Murray](https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T) | [Best of 2016](https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN) | 6:31 |
-| 36 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 |
+| 35 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 |
+| 36 | [Gratitude](https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok) | [Marie Joly](https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Rebecca Murray](https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T) | [Best of 2016](https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN) | 6:31 |
 | 37 | [The Chameleon](https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Black Moses](https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 |
 | 38 | [We Are One \- Black Coffee Original Dub](https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Hugh Masekela](https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp) | [We Are One](https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz) | 7:58 |
 | 39 | [Extra Time On You \(feat\. Portia Monique\)](https://open.spotify.com/track/61ZwhDqqQCMoK29InoEdKD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Portia Monique](https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 7:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 49 | [Take It All Off](https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:37 |
 | 50 | [Never Saw You Coming \(feat\. Tsepo\) \- DJ Spinna Galactic Vocal Mix](https://open.spotify.com/track/12NDXliaBBgklpBNkUlyVI) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Tsepo](https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt), [DJ Spinna](https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc) | [Never Saw You Coming \(feat\. Tsepo\)](https://open.spotify.com/album/7o2ey4eoyW8t7H9dHux8He) | 8:28 |
 
-Snapshot ID: `Z0pVgAAAAAA6pwWfoXF0f1+Pr03OPMDe`
+Snapshot ID: `Z0unAAAAAABYOViT2vpu8w2hAng4drUM`

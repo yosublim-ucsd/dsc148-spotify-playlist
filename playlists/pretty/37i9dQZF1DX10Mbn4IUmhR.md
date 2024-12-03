@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/1wcrZQfy4Ou1dB30VESaO0?si=UNWXGvVySP28VceNXSj1Zw">Ben Rodrigues</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,469 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,467 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

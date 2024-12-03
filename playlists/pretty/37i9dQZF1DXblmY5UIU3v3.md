@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,662 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,921 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 6 | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Takura](https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ) | [Lowkey \(LDN Drift\) \[feat\. Takura\]](https://open.spotify.com/album/5rGnxRc5WOwevqYSLNMdkp) | 2:37 |
 | 7 | [leavemealone](https://open.spotify.com/track/6QbVPP02QcJICAo7giDqwh) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone \(Nia Archives Remix\)](https://open.spotify.com/album/6y2wI0mDStpCnKGjdkFxQZ) | 3:42 |
 | 8 | [SNEAKY](https://open.spotify.com/track/7sorNP9VLdnIRIjIwUq5g7) | [WYR GEMI](https://open.spotify.com/artist/3Qubu5zXcOh0EIb2bDwMdB) | [SNEAKY](https://open.spotify.com/album/5LEr15ggG2zjjQm7KrASpj) | 2:05 |
-| 9 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 |
-| 10 | [BAD OMENS](https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [BAD OMENS](https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0) | 2:27 |
+| 9 | [BAD OMENS](https://open.spotify.com/track/4EZvIph0m6dAAhUZqIGscv) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [BAD OMENS](https://open.spotify.com/album/2TnRMOKYUDygY2LYqCAzi0) | 2:27 |
+| 10 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 |
 | 11 | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY) | [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [MHITR \(Semi\-Automatic\) \[feat\. Eksman\]](https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio) | 2:54 |
 | 12 | [Just A Lil Bit](https://open.spotify.com/track/6Wwi5V7VAR9KOo8c9gksh1) | [Murdbrain](https://open.spotify.com/artist/1uJZAXeNu4zmrwkjHwUysn), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv), [Flyn Stoned](https://open.spotify.com/artist/0O7upj4KBKaTdQJ6WM0m9k) | [Just A Lil Bit](https://open.spotify.com/album/4XjtQUIBZEkOiGLXbUwEoe) | 2:08 |
 | 13 | [Get Low](https://open.spotify.com/track/6o2FQGObDH7kCpYlvJH2ai) | [Butch U](https://open.spotify.com/artist/6OwRAMGY105QbVOJqNHk0o) | [Get Low](https://open.spotify.com/album/7vjky38QfkVvkXF1ueWyZT) | 3:41 |

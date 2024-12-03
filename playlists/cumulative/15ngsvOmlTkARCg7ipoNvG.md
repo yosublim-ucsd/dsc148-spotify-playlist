@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,841 songs - 1 day 13 hr 46 min
+1,842 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1797,6 +1797,7 @@
 | [Winter Dreamscape](https://open.spotify.com/track/7o01Hme8cCzNcFPqUcFC7K) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Resting For Now](https://open.spotify.com/album/0EZX5YZrwunVI1jToSLK0P) | 1:04 | 2022-02-21 | 2024-01-30 |
 | [Winter Evening Light](https://open.spotify.com/track/4C454dT8H6304vfpYC79UD) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Winter Evening Light](https://open.spotify.com/album/1KdQAdJDeBsivhyRDJTFKf) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Winter Evening Light Arr\. For Strings](https://open.spotify.com/track/30yltltRNLE3X4tXPSnNqz) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Winter Evening Light Arr\. For Strings](https://open.spotify.com/album/2JT7rn7QYaRpYNmuGjEU7T) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Winter Glow](https://open.spotify.com/track/2RU5WXHBQiWEgyQyIzscBS) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Winter Glow](https://open.spotify.com/album/5XzXMSWAfERr87Bzqj05p3) | 1:00 | 2024-12-02 |  |
 | [Winter Hymn](https://open.spotify.com/track/6cfarOqiDmfn5V4TMJ0Pk6) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Winter Hymn](https://open.spotify.com/album/2uE5riXkppeBRxf1gAuqnj) | 1:02 | 2023-11-06 |  |
 | [Winter Hymn \- Cello Version](https://open.spotify.com/track/1zRigHCVNfE0qlHg894iLd) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Winter Hymn \(Cello Version\)](https://open.spotify.com/album/68g5P5t7lW6eaZQztOPMa1) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Winter Joy \- Cello Version](https://open.spotify.com/track/3lSCFg0RTevXxghYTTyMoI) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Winter Joy \(Cello Version\)](https://open.spotify.com/album/3aKy1dE8T76fPsnpNKVItx) | 1:01 | 2023-10-06 |  |

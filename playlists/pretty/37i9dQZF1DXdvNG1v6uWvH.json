@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 9148,
+  "num_followers": 9149,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Thunderball",
-        "url": "https://open.spotify.com/album/1CBBCAIQqdeNS1k3k6UNky"
-      },
-      "artists": [
-        {
-          "name": "Art Nation",
-          "url": "https://open.spotify.com/artist/6V8nNGRYy1tDMxWUX0w32H"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Thunderball",
-      "url": "https://open.spotify.com/track/1Flof4ybztZnkfhcvqcwed"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Loose Ends",
         "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
       },
@@ -407,18 +391,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "One Foot",
-        "url": "https://open.spotify.com/album/0hFYSnZsr8fzTWHUyGU45k"
+        "name": "Thunderball",
+        "url": "https://open.spotify.com/album/1CBBCAIQqdeNS1k3k6UNky"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Art Nation",
+          "url": "https://open.spotify.com/artist/6V8nNGRYy1tDMxWUX0w32H"
         }
       ],
-      "duration_ms": 156690,
-      "name": "One Foot",
-      "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
+      "duration_ms": 248746,
+      "name": "Thunderball",
+      "url": "https://open.spotify.com/track/1Flof4ybztZnkfhcvqcwed"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -443,6 +427,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "One Foot",
+        "url": "https://open.spotify.com/album/0hFYSnZsr8fzTWHUyGU45k"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 156690,
+      "name": "One Foot",
+      "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Interstellar",
         "url": "https://open.spotify.com/album/2ho3nPmkmeKJkpJkT3tU9A"
       },
@@ -455,26 +455,6 @@
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Pure Love",
-        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        },
-        {
-          "name": "Damon Albarn",
-          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
-        }
-      ],
-      "duration_ms": 264176,
-      "name": "Pure Love",
-      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -499,66 +479,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Found Ourselves",
-        "url": "https://open.spotify.com/album/6gQ1L1nRRetrcLF1riF2Rc"
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
       },
       "artists": [
         {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 293913,
-      "name": "Found Ourselves",
-      "url": "https://open.spotify.com/track/6gQoKQoVI4UZw9F8Q1UTPs"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt"
-      },
-      "artists": [
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
         {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
         }
       ],
-      "duration_ms": 203876,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Game of Faces",
-        "url": "https://open.spotify.com/album/4BsHur1DtAVOm4rvjrK7mZ"
-      },
-      "artists": [
-        {
-          "name": "Dynazty",
-          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Game of Faces",
-      "url": "https://open.spotify.com/track/49loMZxyVpQJZCX0O1sSwV"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Now That I'm Gone",
-        "url": "https://open.spotify.com/album/5719mUavSnpK65Vr317xbK"
-      },
-      "artists": [
-        {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-        }
-      ],
-      "duration_ms": 150399,
-      "name": "Now That I'm Gone",
-      "url": "https://open.spotify.com/track/17dmcmAu7h2coDto5sNHeT"
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -583,22 +519,66 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Leaveyourlove (with King Stingray)",
-        "url": "https://open.spotify.com/album/6ZgW8yTdHeXBjI71pfoYFR"
+        "name": "Found Ourselves",
+        "url": "https://open.spotify.com/album/6gQ1L1nRRetrcLF1riF2Rc"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        },
-        {
-          "name": "King Stingray",
-          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         }
       ],
-      "duration_ms": 220408,
-      "name": "Leaveyourlove (with King Stingray)",
-      "url": "https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo"
+      "duration_ms": 293913,
+      "name": "Found Ourselves",
+      "url": "https://open.spotify.com/track/6gQoKQoVI4UZw9F8Q1UTPs"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Game of Faces",
+        "url": "https://open.spotify.com/album/4BsHur1DtAVOm4rvjrK7mZ"
+      },
+      "artists": [
+        {
+          "name": "Dynazty",
+          "url": "https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Game of Faces",
+      "url": "https://open.spotify.com/track/49loMZxyVpQJZCX0O1sSwV"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt"
+      },
+      "artists": [
+        {
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 203876,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Now That I'm Gone",
+        "url": "https://open.spotify.com/album/5719mUavSnpK65Vr317xbK"
+      },
+      "artists": [
+        {
+          "name": "ALT\u00c9GO",
+          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
+        }
+      ],
+      "duration_ms": 150399,
+      "name": "Now That I'm Gone",
+      "url": "https://open.spotify.com/track/17dmcmAu7h2coDto5sNHeT"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -623,18 +603,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Under Blue",
-        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
+        "name": "Leaveyourlove (with King Stingray)",
+        "url": "https://open.spotify.com/album/6ZgW8yTdHeXBjI71pfoYFR"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
         }
       ],
-      "duration_ms": 155626,
-      "name": "lazy cat",
-      "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
+      "duration_ms": 220408,
+      "name": "Leaveyourlove (with King Stingray)",
+      "url": "https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -655,18 +639,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Go to the Sun",
-        "url": "https://open.spotify.com/album/6OXhqk3yCVp79X7XjwB7Tw"
+        "name": "Under Blue",
+        "url": "https://open.spotify.com/album/075Vbnc2FMi37EjO2tkypd"
       },
       "artists": [
         {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 176621,
-      "name": "Go to the Sun",
-      "url": "https://open.spotify.com/track/69sXm8i1Pk7sKPpx5wmstO"
+      "duration_ms": 155626,
+      "name": "lazy cat",
+      "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -683,6 +667,22 @@
       "duration_ms": 174150,
       "name": "Old Devil Moon",
       "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Go to the Sun",
+        "url": "https://open.spotify.com/album/6OXhqk3yCVp79X7XjwB7Tw"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 176621,
+      "name": "Go to the Sun",
+      "url": "https://open.spotify.com/track/69sXm8i1Pk7sKPpx5wmstO"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Right Now (P.I.N. 4)",
-        "url": "https://open.spotify.com/album/3pqCakSXrXfI9ol3nxwt8b"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        },
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 192383,
-      "name": "Right Now (P.I.N. 4)",
-      "url": "https://open.spotify.com/track/6ofI3DMdeP8jk8Fyu1NeHF"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Hello Goodbye",
         "url": "https://open.spotify.com/album/28HSCHXEfmFyf5rgtQpKKV"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 147600,
       "name": "Hello Goodbye",
       "url": "https://open.spotify.com/track/0GtFAE4tVGqKyUhNrD5kWA"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Right Now (P.I.N. 4)",
+        "url": "https://open.spotify.com/album/3pqCakSXrXfI9ol3nxwt8b"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 192383,
+      "name": "Right Now (P.I.N. 4)",
+      "url": "https://open.spotify.com/track/6ofI3DMdeP8jk8Fyu1NeHF"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -827,22 +827,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Pretty Boy, Pt. 2 (feat. Zino Vinci)",
-        "url": "https://open.spotify.com/album/3APB1ROZYZdC57LzEwudNM"
+        "name": "Here To You",
+        "url": "https://open.spotify.com/album/3Kblmsa6gyxnRA22cg7TJD"
       },
       "artists": [
         {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        },
-        {
-          "name": "Zino Vinci",
-          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
         }
       ],
-      "duration_ms": 277741,
-      "name": "Pretty Boy, Pt. 2 (feat. Zino Vinci)",
-      "url": "https://open.spotify.com/track/76uL7x7Ar7WurNG7WsuLIG"
+      "duration_ms": 178124,
+      "name": "Here To You",
+      "url": "https://open.spotify.com/track/3gloP281U2NLzSlDHymlbY"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -879,18 +875,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Here To You",
-        "url": "https://open.spotify.com/album/3Kblmsa6gyxnRA22cg7TJD"
+        "name": "Pretty Boy, Pt. 2 (feat. Zino Vinci)",
+        "url": "https://open.spotify.com/album/3APB1ROZYZdC57LzEwudNM"
       },
       "artists": [
         {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        },
+        {
+          "name": "Zino Vinci",
+          "url": "https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK"
         }
       ],
-      "duration_ms": 178124,
-      "name": "Here To You",
-      "url": "https://open.spotify.com/track/3gloP281U2NLzSlDHymlbY"
+      "duration_ms": 277741,
+      "name": "Pretty Boy, Pt. 2 (feat. Zino Vinci)",
+      "url": "https://open.spotify.com/track/76uL7x7Ar7WurNG7WsuLIG"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Am I Too Good For You, Baby ?",
-        "url": "https://open.spotify.com/album/0iUKKortl6H8N3my0oFYtw"
-      },
-      "artists": [
-        {
-          "name": "Ed Mount",
-          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
-        },
-        {
-          "name": "M.I.L.K.",
-          "url": "https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx"
-        }
-      ],
-      "duration_ms": 198151,
-      "name": "Am I Too Good For You, Baby ?",
-      "url": "https://open.spotify.com/track/4KZjNKHc5Q6QLCUj6akI8U"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Telephone",
         "url": "https://open.spotify.com/album/4k9RC4zvHzwV1f1HSuT8ra"
       },
@@ -1083,6 +1063,22 @@
       "duration_ms": 221484,
       "name": "Telephone",
       "url": "https://open.spotify.com/track/1zrPP3d5HZQE2G9z1oIPQn"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/1YxxLfUFpTJyzF96s6MPxF"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/4RBbIPUGgYBKiExshxMN9c"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1103,22 +1099,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Luv 4 Granted",
-        "url": "https://open.spotify.com/album/7llbECZjmg74HzHCVZaJ8n"
-      },
-      "artists": [
-        {
-          "name": "Zhuli",
-          "url": "https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz"
-        }
-      ],
-      "duration_ms": 212144,
-      "name": "Luv 4 Granted",
-      "url": "https://open.spotify.com/track/2AVr3Ij0En6ieP2ZIrLAsG"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "orange moon",
         "url": "https://open.spotify.com/album/7D5ov4OZ7x6s1JPDKRyH7y"
       },
@@ -1135,18 +1115,38 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/1YxxLfUFpTJyzF96s6MPxF"
+        "name": "Am I Too Good For You, Baby ?",
+        "url": "https://open.spotify.com/album/0iUKKortl6H8N3my0oFYtw"
       },
       "artists": [
         {
-          "name": "Hypaton",
-          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+          "name": "Ed Mount",
+          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
+        },
+        {
+          "name": "M.I.L.K.",
+          "url": "https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx"
         }
       ],
-      "duration_ms": 142153,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/4RBbIPUGgYBKiExshxMN9c"
+      "duration_ms": 198151,
+      "name": "Am I Too Good For You, Baby ?",
+      "url": "https://open.spotify.com/track/4KZjNKHc5Q6QLCUj6akI8U"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Luv 4 Granted",
+        "url": "https://open.spotify.com/album/7llbECZjmg74HzHCVZaJ8n"
+      },
+      "artists": [
+        {
+          "name": "Zhuli",
+          "url": "https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz"
+        }
+      ],
+      "duration_ms": 212144,
+      "name": "Luv 4 Granted",
+      "url": "https://open.spotify.com/track/2AVr3Ij0En6ieP2ZIrLAsG"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Club Stranger",
-        "url": "https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI"
-      },
-      "artists": [
-        {
-          "name": "Prof. Stranger",
-          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
-        }
-      ],
-      "duration_ms": 164629,
-      "name": "One Last Dance With You",
-      "url": "https://open.spotify.com/track/2G34bn0Q30DpQMYdEXjRLq"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Tore Me Up",
         "url": "https://open.spotify.com/album/13QC7gtblaL6HDfPGEejIu"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 173477,
       "name": "Tore Me Up",
       "url": "https://open.spotify.com/track/2lzE9brm1tR9gCv1Ibbo9g"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Club Stranger",
+        "url": "https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI"
+      },
+      "artists": [
+        {
+          "name": "Prof. Stranger",
+          "url": "https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp"
+        }
+      ],
+      "duration_ms": 164629,
+      "name": "One Last Dance With You",
+      "url": "https://open.spotify.com/track/2G34bn0Q30DpQMYdEXjRLq"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Paper, Scissors & Rock n Roll",
-        "url": "https://open.spotify.com/album/7cBULiuGU6Bx9bsUTVp9PX"
-      },
-      "artists": [
-        {
-          "name": "Jack Moy",
-          "url": "https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU"
-        }
-      ],
-      "duration_ms": 204428,
-      "name": "Long Walk To Get Back",
-      "url": "https://open.spotify.com/track/4R1BX648FslJYO3JUFkOev"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Far Lies",
-        "url": "https://open.spotify.com/album/6KNYGYY1YTf0qfpN8iOwI0"
-      },
-      "artists": [
-        {
-          "name": "Jack Elliot",
-          "url": "https://open.spotify.com/artist/67gNiFsBm6t9Cq31B2fIms"
-        }
-      ],
-      "duration_ms": 209989,
-      "name": "Far Lies",
-      "url": "https://open.spotify.com/track/4ofIgw402aKyfjQVdbxOvC"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Pick & Choose",
         "url": "https://open.spotify.com/album/6hsHuXzJ60F1vJwMmPEbse"
       },
@@ -1355,38 +1323,34 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/2JcWwmyL0gDebUT18fZLnV"
+        "name": "Paper, Scissors & Rock n Roll",
+        "url": "https://open.spotify.com/album/7cBULiuGU6Bx9bsUTVp9PX"
       },
       "artists": [
         {
-          "name": "SANDY",
-          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
-        },
-        {
-          "name": "Amanda Alexander",
-          "url": "https://open.spotify.com/artist/0up2JtB84IcFEDUa8lAhr2"
+          "name": "Jack Moy",
+          "url": "https://open.spotify.com/artist/58tNZRHNf5ScIAo7zBZDbU"
         }
       ],
-      "duration_ms": 204853,
-      "name": "Just Yours (Your Hell)",
-      "url": "https://open.spotify.com/track/6IINIwPsWoF5kEwCIcsA0N"
+      "duration_ms": 204428,
+      "name": "Long Walk To Get Back",
+      "url": "https://open.spotify.com/track/4R1BX648FslJYO3JUFkOev"
     },
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Expectations EP",
-        "url": "https://open.spotify.com/album/64W25Fz86zVz7pGEUHepV7"
+        "name": "Far Lies",
+        "url": "https://open.spotify.com/album/6KNYGYY1YTf0qfpN8iOwI0"
       },
       "artists": [
         {
-          "name": "Fig Tape",
-          "url": "https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z"
+          "name": "Jack Elliot",
+          "url": "https://open.spotify.com/artist/67gNiFsBm6t9Cq31B2fIms"
         }
       ],
-      "duration_ms": 164705,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/2ECNSB7Fd6cE8LcKiRSO3s"
+      "duration_ms": 209989,
+      "name": "Far Lies",
+      "url": "https://open.spotify.com/track/4ofIgw402aKyfjQVdbxOvC"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1411,18 +1375,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "DADDY'S MONEY",
-        "url": "https://open.spotify.com/album/25T3Lv0ZKaj4dvskLJkfRz"
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/2JcWwmyL0gDebUT18fZLnV"
       },
       "artists": [
         {
-          "name": "Emma H\u00e5\u00e5rd",
-          "url": "https://open.spotify.com/artist/7efUZcMGY04yOrQbW7fpRI"
+          "name": "SANDY",
+          "url": "https://open.spotify.com/artist/5twIPSpy3iyEBW2PmC4chL"
+        },
+        {
+          "name": "Amanda Alexander",
+          "url": "https://open.spotify.com/artist/0up2JtB84IcFEDUa8lAhr2"
         }
       ],
-      "duration_ms": 229216,
-      "name": "YOU CAN'T HAVE IT",
-      "url": "https://open.spotify.com/track/3J6v27Xcqk6r9NSXBXpDMf"
+      "duration_ms": 204853,
+      "name": "Just Yours (Your Hell)",
+      "url": "https://open.spotify.com/track/6IINIwPsWoF5kEwCIcsA0N"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1443,22 +1411,34 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/3fOWWJIKk1YuHajpt0Okqc"
+        "name": "Expectations EP",
+        "url": "https://open.spotify.com/album/64W25Fz86zVz7pGEUHepV7"
       },
       "artists": [
         {
-          "name": "LOFY",
-          "url": "https://open.spotify.com/artist/37LVfSRgP4s0jiRUd3X9hk"
-        },
-        {
-          "name": "OCEANS9",
-          "url": "https://open.spotify.com/artist/7M3pSXBluDUu0HkcTJYvQc"
+          "name": "Fig Tape",
+          "url": "https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z"
         }
       ],
-      "duration_ms": 197746,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/0Ebfbfb92pC5VbxX4fvP6Y"
+      "duration_ms": 164705,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/2ECNSB7Fd6cE8LcKiRSO3s"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "DADDY'S MONEY",
+        "url": "https://open.spotify.com/album/25T3Lv0ZKaj4dvskLJkfRz"
+      },
+      "artists": [
+        {
+          "name": "Emma H\u00e5\u00e5rd",
+          "url": "https://open.spotify.com/artist/7efUZcMGY04yOrQbW7fpRI"
+        }
+      ],
+      "duration_ms": 229216,
+      "name": "YOU CAN'T HAVE IT",
+      "url": "https://open.spotify.com/track/3J6v27Xcqk6r9NSXBXpDMf"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1475,6 +1455,26 @@
       "duration_ms": 193593,
       "name": "Nightfall",
       "url": "https://open.spotify.com/track/79vtUcQxwcYqpNnShTixM3"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "My Mind",
+        "url": "https://open.spotify.com/album/3fOWWJIKk1YuHajpt0Okqc"
+      },
+      "artists": [
+        {
+          "name": "LOFY",
+          "url": "https://open.spotify.com/artist/37LVfSRgP4s0jiRUd3X9hk"
+        },
+        {
+          "name": "OCEANS9",
+          "url": "https://open.spotify.com/artist/7M3pSXBluDUu0HkcTJYvQc"
+        }
+      ],
+      "duration_ms": 197746,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/0Ebfbfb92pC5VbxX4fvP6Y"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "K\u00e1ntr\u00fd J\u00f3l",
-        "url": "https://open.spotify.com/album/17ehi4CPi5nDPBnqInJJBe"
-      },
-      "artists": [
-        {
-          "name": "Arn\u00fe\u00f3r & Bjarki",
-          "url": "https://open.spotify.com/artist/48ZkNUjUuvp3vL4N2DIm3E"
-        },
-        {
-          "name": "Egill Ploder",
-          "url": "https://open.spotify.com/artist/24jUmgKOax5kRqZyVZmpjI"
-        }
-      ],
-      "duration_ms": 205130,
-      "name": "K\u00e1ntr\u00fd J\u00f3l",
-      "url": "https://open.spotify.com/track/3IsYxGMZndiIWiCtDA1qkw"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "FAKE HOPE",
         "url": "https://open.spotify.com/album/5kcXJYdyOFfLATndFLzRfV"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 214064,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0wsGBYdn4Yl5f1otYZ8Ao9"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "K\u00e1ntr\u00fd J\u00f3l",
+        "url": "https://open.spotify.com/album/17ehi4CPi5nDPBnqInJJBe"
+      },
+      "artists": [
+        {
+          "name": "Arn\u00fe\u00f3r & Bjarki",
+          "url": "https://open.spotify.com/artist/48ZkNUjUuvp3vL4N2DIm3E"
+        },
+        {
+          "name": "Egill Ploder",
+          "url": "https://open.spotify.com/artist/24jUmgKOax5kRqZyVZmpjI"
+        }
+      ],
+      "duration_ms": 205130,
+      "name": "K\u00e1ntr\u00fd J\u00f3l",
+      "url": "https://open.spotify.com/track/3IsYxGMZndiIWiCtDA1qkw"
     },
     {
       "added_at": "2024-11-29 00:00:00",

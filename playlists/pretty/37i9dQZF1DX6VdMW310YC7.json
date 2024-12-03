@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3918865,
+  "num_followers": 3918926,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Yebba's Heartbreak (I Do)",
         "url": "https://open.spotify.com/album/55dNSUfwBV8DMySlCpFtn1"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 145000,
       "name": "Yebba's Heartbreak (I Do)",
       "url": "https://open.spotify.com/track/4AfGJPK64DlMAy86TtTVUa"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 177206,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Not Giving You Up",
         "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 172939,
       "name": "Not Giving You Up",
       "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
+        "name": "Sweet Release",
+        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
       },
       "artists": [
         {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+          "name": "Nu Aspect",
+          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
         }
       ],
-      "duration_ms": 224140,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
+      "duration_ms": 226101,
+      "name": "Sweet Release",
+      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -759,6 +759,22 @@
       "duration_ms": 199450,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0qnX8aubq2jjTHnmS4q7Pz"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 224140,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0K6vzSQFh3aBwwm241oqiE"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -799,26 +815,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "U REALLY HURT ME",
-        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
-      },
-      "artists": [
-        {
-          "name": "LUV HRTS",
-          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
-        },
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 162406,
-      "name": "U REALLY HURT ME",
-      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "The Sun",
         "url": "https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK"
       },
@@ -835,6 +831,26 @@
       "duration_ms": 184280,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "U REALLY HURT ME",
+        "url": "https://open.spotify.com/album/0sEsTyGtFhgTWxwIofbeC5"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        },
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "U REALLY HURT ME",
+      "url": "https://open.spotify.com/track/1g6CSA2mlxKShnuNbUsLmy"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1015,18 +1031,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Sweet Release",
-        "url": "https://open.spotify.com/album/4zTXYBo17dUAANAVmiJLtO"
+        "name": "Circle In Time: Bonus Tracks",
+        "url": "https://open.spotify.com/album/4GSP5gbqCUpGwLz0BtbmEC"
       },
       "artists": [
         {
-          "name": "Nu Aspect",
-          "url": "https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 226101,
-      "name": "Sweet Release",
-      "url": "https://open.spotify.com/track/0C6Sbwuo42ebcvGWeWCSEq"
+      "duration_ms": 273624,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1051,22 +1071,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Circle In Time: Bonus Tracks",
-        "url": "https://open.spotify.com/album/4GSP5gbqCUpGwLz0BtbmEC"
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 273624,
-      "name": "No Way Back",
-      "url": "https://open.spotify.com/track/0klunNsJiM2FZDDLQsDNUt"
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1099,26 +1119,6 @@
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Falling Apart",
-        "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
-      },
-      "artists": [
-        {
-          "name": "ERIICE",
-          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
-        },
-        {
-          "name": "Adlin",
-          "url": "https://open.spotify.com/artist/2CajdJ3ifpA7VEWcfNuUwT"
-        }
-      ],
-      "duration_ms": 172622,
-      "name": "Falling Apart",
-      "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Under The Surface",
         "url": "https://open.spotify.com/album/57n89DMDCnJg2pY6uszUv1"
       },
@@ -1247,18 +1227,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
+        "name": "Falling Apart",
+        "url": "https://open.spotify.com/album/5D2GjMDraXQrdHtSflss9h"
       },
       "artists": [
         {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+          "name": "ERIICE",
+          "url": "https://open.spotify.com/artist/3DVYnBKNeZTLLPvMaEbmzC"
+        },
+        {
+          "name": "Adlin",
+          "url": "https://open.spotify.com/artist/2CajdJ3ifpA7VEWcfNuUwT"
         }
       ],
-      "duration_ms": 199682,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
+      "duration_ms": 172622,
+      "name": "Falling Apart",
+      "url": "https://open.spotify.com/track/7hQYzC3SHw1Xe6yiGV4IRr"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 199682,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Lost Home / Solitude",
+        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
+      },
+      "artists": [
+        {
+          "name": "Keanler",
+          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Lost Home",
+      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC"
       },
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Lost Home / Solitude",
-        "url": "https://open.spotify.com/album/6hJExzBylXcKb3F7fb0Wju"
-      },
-      "artists": [
-        {
-          "name": "Keanler",
-          "url": "https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK"
-        }
-      ],
-      "duration_ms": 226115,
-      "name": "Lost Home",
-      "url": "https://open.spotify.com/track/3UcquXPl3pmUgKdVjxAIxy"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "WORRY.",
         "url": "https://open.spotify.com/album/687CLrjAQcz01r18Eo9bXn"
       },
@@ -1391,42 +1391,6 @@
       "duration_ms": 243282,
       "name": "WORRY.",
       "url": "https://open.spotify.com/track/4tb0xoNHvIhUsrx7GFcxzf"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "It's Ok It's Alright",
-        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "It's Ok It's Alright",
-      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB"
-      },
-      "artists": [
-        {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Richard Walters",
-          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
-        }
-      ],
-      "duration_ms": 294624,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1451,22 +1415,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Fresh Air",
-        "url": "https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu"
+        "name": "It's Ok It's Alright",
+        "url": "https://open.spotify.com/album/2ovRBF21M5o6ixVXp1Rt0h"
       },
       "artists": [
         {
-          "name": "Iaco",
-          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
-        },
-        {
-          "name": "HNE",
-          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
         }
       ],
-      "duration_ms": 136615,
-      "name": "Fresh Air",
-      "url": "https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns"
+      "duration_ms": 243934,
+      "name": "It's Ok It's Alright",
+      "url": "https://open.spotify.com/track/2m6Q1VvahMAzTJxw6350Ow"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1491,18 +1451,42 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0fjzbTzODNc6ftWJSWmyFB"
       },
       "artists": [
         {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Richard Walters",
+          "url": "https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F"
         }
       ],
-      "duration_ms": 215000,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
+      "duration_ms": 294624,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3m65dYYsiYw3rZRrivyBhq"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Fresh Air",
+        "url": "https://open.spotify.com/album/40O7KABpAdLlrywin1e6pu"
+      },
+      "artists": [
+        {
+          "name": "Iaco",
+          "url": "https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg"
+        },
+        {
+          "name": "HNE",
+          "url": "https://open.spotify.com/artist/2AR90aUsAcUfWSUtBCktSP"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Fresh Air",
+      "url": "https://open.spotify.com/track/4FqhSA57eeAEsofECTkXns"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 221707,
       "name": "Heartburn",
       "url": "https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1767,26 +1767,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Rabbit Hole",
-        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "ALLKNIGHT",
-          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
-        }
-      ],
-      "duration_ms": 251303,
-      "name": "Rabbit Hole",
-      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "LIFELINE",
         "url": "https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo"
       },
@@ -1803,6 +1783,26 @@
       "duration_ms": 206017,
       "name": "LIFELINE",
       "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Rabbit Hole",
+        "url": "https://open.spotify.com/album/4DRQYxf3qpxyiMkKuPIcU2"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "ALLKNIGHT",
+          "url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c"
+        }
+      ],
+      "duration_ms": 251303,
+      "name": "Rabbit Hole",
+      "url": "https://open.spotify.com/track/7IdzWFKqSfRJnWesOlaeuW"
     },
     {
       "added_at": "2024-11-29 05:00:00",

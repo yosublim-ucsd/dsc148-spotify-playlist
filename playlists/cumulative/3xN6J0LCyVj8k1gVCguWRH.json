@@ -79613,6 +79613,24 @@
     },
     {
       "album": {
+        "name": "You + Me",
+        "url": "https://open.spotify.com/album/74fGPsog8j5HQzl98NauC9"
+      },
+      "artists": [
+        {
+          "name": "Juliana Hale",
+          "url": "https://open.spotify.com/artist/7akw9Bd9xFiidnx2ZfNQxw"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137001,
+      "name": "You + Me",
+      "url": "https://open.spotify.com/track/5RNlGFKrQJyjTyEjbi9zaR"
+    },
+    {
+      "album": {
         "name": "You Ain't Got Me",
         "url": "https://open.spotify.com/album/2uwdZ2fwxDSz3XrEUPn9FT"
       },

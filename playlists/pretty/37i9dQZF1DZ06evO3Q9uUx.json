@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15037,
+  "num_followers": 15038,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABRr0AKZ6i9qV1VuX3dOq65",
+  "snapshot_id": "Z0unAAAAAAAtL8ExRzXenglBn9CRki2G",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life's A Gamble",
-        "url": "https://open.spotify.com/album/6wScYhNN09rl5Sc4XfL9ru"
+        "name": "The End of an Era",
+        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
       },
       "artists": [
         {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 160775,
-      "name": "Like Yoga",
-      "url": "https://open.spotify.com/track/0nea1dubr2tYkSb9Fo7pkE"
+      "duration_ms": 170899,
+      "name": "Is That Right",
+      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
     },
     {
       "added_at": null,
@@ -711,22 +711,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The End of an Era",
-        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
+        "name": "Life's A Gamble",
+        "url": "https://open.spotify.com/album/6wScYhNN09rl5Sc4XfL9ru"
       },
       "artists": [
         {
-          "name": "Iggy Azalea",
-          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 170899,
-      "name": "Is That Right",
-      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
+      "duration_ms": 160775,
+      "name": "Like Yoga",
+      "url": "https://open.spotify.com/track/0nea1dubr2tYkSb9Fo7pkE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\.  Merry Christmas, Happy Holidays, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-125 songs - 6 hr 34 min
+126 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,8 +86,9 @@
 | [Merry Xmas Everybody](https://open.spotify.com/track/4dBQWyoZmmgvFBlALGlqZi) | [Slade](https://open.spotify.com/artist/10n5lhNDoSMUHWLlnST1yw) | [Merry Xmas Everybody](https://open.spotify.com/album/05p2SZoivHg20xFgM0ibTy) | 3:43 | 2023-12-09 | 2023-12-20 |
 | [Might Ruin Christmas](https://open.spotify.com/track/4ySQAwFvKldxXphT7VdoQt) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Might Ruin Christmas](https://open.spotify.com/album/1hJBU4t7IAFrHRG9qQeLHZ) | 2:39 | 2023-12-09 | 2024-11-15 |
 | [Mistletoe and Wine](https://open.spotify.com/track/6z5poUMwOJIQID5wAfZUjQ) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 4:05 | 2023-12-09 |  |
-| [Must Mean It's Christmas](https://open.spotify.com/track/0VMBFz9yMt9L81uzTKLj92) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Learning To Dance \(Lanigan’s Ball\)](https://open.spotify.com/album/7iMnWMLVJNky9Mrdzr0aiC) | 3:05 | 2023-12-09 |  |
+| [Must Mean It's Christmas](https://open.spotify.com/track/0VMBFz9yMt9L81uzTKLj92) | [Chasing Abbey](https://open.spotify.com/artist/6toMXnM9tcozz7OmgxWtZg) | [Learning To Dance \(Lanigan’s Ball\)](https://open.spotify.com/album/7iMnWMLVJNky9Mrdzr0aiC) | 3:05 | 2023-12-09 | 2024-12-03 |
 | [My Only Wish \(feat\. Christopher\)](https://open.spotify.com/track/0zavRY9lIR1UZIX0vRZImx) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [My Only Wish \(feat\. Christopher\)](https://open.spotify.com/album/4EYmRuwHd0urc6gLA2JNYJ) | 2:31 | 2023-12-09 | 2023-12-25 |
+| [oíche chiúin \(silent night\)](https://open.spotify.com/track/5BhPAnwbjJkbIE3zMgCQoH) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [oíche chiúin \(silent night\)](https://open.spotify.com/album/5LkCo3rdSCJGLqIAOzQQSY) | 2:55 | 2024-12-02 |  |
 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 | 2023-12-09 |  |
 | [Presents for Christmas](https://open.spotify.com/track/4TH7c6LlwcnFPqdi23gA5I) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:13 | 2023-12-09 |  |
 | [Pure Imagination](https://open.spotify.com/track/56mgK7OVdzQCAku9ro5GPj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Pure Imagination](https://open.spotify.com/album/1e1k5dvhUv0qmLPhJepLyA) | 1:57 | 2024-11-04 |  |

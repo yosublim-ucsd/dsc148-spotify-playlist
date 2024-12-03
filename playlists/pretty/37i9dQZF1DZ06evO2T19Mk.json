@@ -1,12 +1,12 @@
 {
   "description": "This is Fall Out Boy. The essential tracks, all in one playlist.",
-  "num_followers": 575989,
+  "num_followers": 576021,
   "original_name": "This Is Fall Out Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0pVgAAAAABdUiYKSeV9e2kVAFUdnMpP",
+  "snapshot_id": "Z0unAAAAAABMasfLfYlbE7qKDge2VZkg",
   "tracks": [
     {
       "added_at": null,
@@ -75,18 +75,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Infinity On High",
-        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
       },
       "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 212040,
-      "name": "This Ain't A Scene, It's An Arms Race",
-      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
+      "duration_ms": 156287,
+      "name": "Best Friend (with Fall Out Boy)",
+      "url": "https://open.spotify.com/track/6YIUVlNppbizkWnme87kAY"
     },
     {
       "added_at": null,
@@ -139,22 +143,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+        "name": "Infinity On High",
+        "url": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g"
       },
       "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
         {
           "name": "Fall Out Boy",
           "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
         }
       ],
-      "duration_ms": 156287,
-      "name": "Best Friend (with Fall Out Boy)",
-      "url": "https://open.spotify.com/track/6YIUVlNppbizkWnme87kAY"
+      "duration_ms": 212040,
+      "name": "This Ain't A Scene, It's An Arms Race",
+      "url": "https://open.spotify.com/track/1oagRT7LfpVlNJN6FSZDGp"
     },
     {
       "added_at": null,

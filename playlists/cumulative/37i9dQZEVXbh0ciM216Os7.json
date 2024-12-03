@@ -2099,6 +2099,32 @@
     },
     {
       "album": {
+        "name": "Another Part Of Me (feat. Sting)",
+        "url": "https://open.spotify.com/album/0LDHZuFv4QNHSQwWUo4vqw"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206773,
+      "name": "Another Part Of Me (feat. Sting)",
+      "url": "https://open.spotify.com/track/50u1vw4DS6QQxJNXiMuWed"
+    },
+    {
+      "album": {
         "name": "Live In Tokyo",
         "url": "https://open.spotify.com/album/4lituQ1x0A5NXh7dmEHS3S"
       },
@@ -13487,6 +13513,24 @@
     },
     {
       "album": {
+        "name": "East Rutherford, New Jersey 1987 (HQ Remastered)",
+        "url": "https://open.spotify.com/album/0TSbHnhn58NpuKY2GumzKj"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618603,
+      "name": "Friend Of The Devil",
+      "url": "https://open.spotify.com/track/5tivCHuGJBA3YGGFiRS8FK"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
       },
@@ -15372,7 +15416,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 239437,
       "name": "Handwriting",
       "url": "https://open.spotify.com/track/5l5ipU5WbGDaSoq3tfhyD9"
@@ -22520,7 +22564,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 204584,
       "name": "Low Mood Season",
       "url": "https://open.spotify.com/track/2z8ZLHcbWsHwRZeGeRSPSl"
@@ -25312,7 +25356,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 123055,
       "name": "Name of The One",
       "url": "https://open.spotify.com/track/7iWB4nrEL2ZvbasQCMUMl5"
@@ -26452,7 +26496,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 427979,
       "name": "Not Fade Away",
       "url": "https://open.spotify.com/track/7pufTM7648pVzv8Ls9CCuk"
@@ -34250,7 +34294,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
@@ -39754,6 +39798,28 @@
       "duration_ms": 208010,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/3JSMcfE12mfwC6mc6jlfrG"
+    },
+    {
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
       "album": {

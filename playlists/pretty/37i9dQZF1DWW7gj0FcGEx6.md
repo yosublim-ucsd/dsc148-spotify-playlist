@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,223 likes - 215 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,266 likes - 215 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 5 | [The Piano Lesson](https://open.spotify.com/track/1CcqtG3Tj4SzDDlTVMVie2) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [The Piano Lesson \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4wwkB9uplG3M2JKzqeyti4) | 3:53 |
 | 6 | [Dear Mr\. Killian](https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:21 |
 | 7 | [Nautilus \(Main Theme\)](https://open.spotify.com/track/4pplhMGtpKepmvK9D5bdWK) | [Nainita Desai](https://open.spotify.com/artist/6yyzlTFjuZqptozK4Q9wHO) | [Nautilus \(Original Soundtrack\)](https://open.spotify.com/album/5ARUsf2j40jSo9zTJjCqyO) | 3:05 |
-| 8 | [To Santa](https://open.spotify.com/track/4PydCZcrYDS66GuCl2Yfqc) | [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG) | [Dear Santa \(Music from the Paramount+ Original Movie\)](https://open.spotify.com/album/2koKM0TAKy4Skvsvy6NZg6) | 1:14 |
-| 9 | [Los Nińos Perdidos](https://open.spotify.com/track/0ShSye63tULDJrTsifdzlE) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Los Niños Perdidos \(Banda Sonora del Documental de Netflix\)](https://open.spotify.com/album/2e3ELtpBouHaxm56HwBMBm) | 1:42 |
-| 10 | [First Place](https://open.spotify.com/track/0s4SV8pzzie6jAYs7LWlti) | [Anne Chmelewsky](https://open.spotify.com/artist/3pGdXOQpuV54kI3K1cBkHq), [Ilona Dobszay\-Meskó](https://open.spotify.com/artist/2oKQcrUAHEqJv1S8yXCmkr) | [Maestra \(Original Film Soundtrack\)](https://open.spotify.com/album/6E3ZY8kwSakkJPezprUcUh) | 3:16 |
-| 11 | [A Dangerous Orange](https://open.spotify.com/track/3mooJgs5miTAKdh954ng8J) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Paddington in Peru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OzOSwO7SjTkGhYzx3o07t) | 2:56 |
-| 12 | [Area 51 to 55](https://open.spotify.com/track/5cawJJYjXYXgnVXXlDbOta) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [Venom: The Last Dance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7573cAzn5Ro3w2OPEPUtxH) | 2:35 |
-| 13 | [Strength And Honor](https://open.spotify.com/track/0ZQaBlh43TG4X9Pr5NcALS) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Strength And Honor](https://open.spotify.com/album/34NEsQ9jea9FQQWfxtZoas) | 3:21 |
-| 14 | [L' Affrontement Final](https://open.spotify.com/track/7yTryTpFgSPUe6pBfIndCi) | [Yalçın Konuk](https://open.spotify.com/artist/2RhT0oEbjSwTzHMpBCt1nC) | [Le Soleil Noir \(Bande Originale Du Film\)](https://open.spotify.com/album/6HpPFAgIH7d9oQxjveqp2d) | 4:18 |
-| 15 | [Endurance](https://open.spotify.com/track/6CSTaZVO2cbdmEqJuO3p5h) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Endurance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wTe4VGa505UfU4U0R6GMj) | 2:51 |
+| 8 | [Los Nińos Perdidos](https://open.spotify.com/track/0ShSye63tULDJrTsifdzlE) | [Patrick Jonsson](https://open.spotify.com/artist/5wedfwksIuL9RVB3VpGxcl) | [Los Niños Perdidos \(Banda Sonora del Documental de Netflix\)](https://open.spotify.com/album/2e3ELtpBouHaxm56HwBMBm) | 1:42 |
+| 9 | [First Place](https://open.spotify.com/track/0s4SV8pzzie6jAYs7LWlti) | [Anne Chmelewsky](https://open.spotify.com/artist/3pGdXOQpuV54kI3K1cBkHq), [Ilona Dobszay\-Meskó](https://open.spotify.com/artist/2oKQcrUAHEqJv1S8yXCmkr) | [Maestra \(Original Film Soundtrack\)](https://open.spotify.com/album/6E3ZY8kwSakkJPezprUcUh) | 3:16 |
+| 10 | [A Dangerous Orange](https://open.spotify.com/track/3mooJgs5miTAKdh954ng8J) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Paddington in Peru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OzOSwO7SjTkGhYzx3o07t) | 2:56 |
+| 11 | [Area 51 to 55](https://open.spotify.com/track/5cawJJYjXYXgnVXXlDbOta) | [Dan Deacon](https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh) | [Venom: The Last Dance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7573cAzn5Ro3w2OPEPUtxH) | 2:35 |
+| 12 | [Strength And Honor](https://open.spotify.com/track/0ZQaBlh43TG4X9Pr5NcALS) | [Harry Gregson\-Williams](https://open.spotify.com/artist/1BxqJ6pOCi8mkSjCbFYjpW) | [Strength And Honor](https://open.spotify.com/album/34NEsQ9jea9FQQWfxtZoas) | 3:21 |
+| 13 | [L' Affrontement Final](https://open.spotify.com/track/7yTryTpFgSPUe6pBfIndCi) | [Yalçın Konuk](https://open.spotify.com/artist/2RhT0oEbjSwTzHMpBCt1nC) | [Le Soleil Noir \(Bande Originale Du Film\)](https://open.spotify.com/album/6HpPFAgIH7d9oQxjveqp2d) | 4:18 |
+| 14 | [Endurance](https://open.spotify.com/track/6CSTaZVO2cbdmEqJuO3p5h) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [Endurance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3wTe4VGa505UfU4U0R6GMj) | 2:51 |
+| 15 | [To Santa](https://open.spotify.com/track/4PydCZcrYDS66GuCl2Yfqc) | [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG) | [Dear Santa \(Music from the Paramount+ Original Movie\)](https://open.spotify.com/album/2koKM0TAKy4Skvsvy6NZg6) | 1:14 |
 | 16 | [Opening Titles](https://open.spotify.com/track/4P9zRWLpzj5Arbn0FcErVF) | [Alberto Iglesias](https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2) | [The Room Next Door \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6JDpsgYpOF3vNviR6CaCGS) | 1:50 |
 | 17 | [Dear Aunt Lucy](https://open.spotify.com/track/1SFKbBmSRYaKx6pXUfYpYz) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Paddington in Peru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OzOSwO7SjTkGhYzx3o07t) | 2:38 |
 | 18 | [The Chase](https://open.spotify.com/track/6BJZJs7qfVdrr7wzevwHXz) | [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Attacca Quartet](https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF) | [Disclaimer \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/5pPzwAJD6VmXtSDoclwuJK) | 8:28 |
@@ -224,4 +224,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 214 | ["I Just Hope She's Alright"](https://open.spotify.com/track/7BZHB6hhlQDP6epkc3ayZK) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Poor Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO) | 0:53 |
 | 215 | [There Is No Joker \- from "Joker: Folie à Deux"](https://open.spotify.com/track/53N9QpKnRLosiJ0oPkmb0j) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [There Is No Joker \(from "Joker: Folie à Deux"\)](https://open.spotify.com/album/7d1gzheOL14PQCI1xxUkGb) | 1:49 |
 
-Snapshot ID: `Z0nrxAAAAABevi24MQA5ztr3WXbD58cF`
+Snapshot ID: `Z02K0QAAAAC1Rnpvxm6XDJIVddYcRnW1`

@@ -6,7 +6,7 @@
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAALeQHuuOerLYWW01IXxwX1H3DE7tH/",
+  "snapshot_id": "AAALfEOrpTSqjPGrZAwTfNuOelYJpNai",
   "tracks": [
     {
       "added_at": "2024-11-13 12:27:22",
@@ -643,6 +643,54 @@
       "duration_ms": 149741,
       "name": "Nail in a Wooden Trunk",
       "url": "https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN"
+    },
+    {
+      "added_at": "2024-12-02 17:00:54",
+      "album": {
+        "name": "Oscilation Circuit - S\u00e9rie R\u00e9flexion 1",
+        "url": "https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc"
+      },
+      "artists": [
+        {
+          "name": "Oscilation Circuit",
+          "url": "https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5"
+        }
+      ],
+      "duration_ms": 1009749,
+      "name": "Homme (\u840c\u5922)",
+      "url": "https://open.spotify.com/track/7JV4O8Lh5zb62U4lyll4Ew"
+    },
+    {
+      "added_at": "2024-12-02 17:06:38",
+      "album": {
+        "name": "Rupie Edwards Presents Success Archives - From Kingston Jamaica to London UK",
+        "url": "https://open.spotify.com/album/1wgGd8RNVNAR6zT9AuttJI"
+      },
+      "artists": [
+        {
+          "name": "Rupie Edwards",
+          "url": "https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA"
+        }
+      ],
+      "duration_ms": 228310,
+      "name": "Ire Feelings",
+      "url": "https://open.spotify.com/track/30NY14bbHimQWNNmj3dIYd"
+    },
+    {
+      "added_at": "2024-12-02 17:18:10",
+      "album": {
+        "name": "Who Needs Tomorrow",
+        "url": "https://open.spotify.com/album/690g8u725awKpCdZNX7iYG"
+      },
+      "artists": [
+        {
+          "name": "The Orchids",
+          "url": "https://open.spotify.com/artist/6W8VbSclDd31QHMBwoC84H"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "It's Only Obvious",
+      "url": "https://open.spotify.com/track/20KuHxOYcv1OtrjjUAidEX"
     }
   ],
   "unique_name": "thoughts never said aloud",

@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28372,
+  "num_followers": 28368,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Standard",
-        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
       },
       "artists": [
         {
-          "name": "Ein\u00e1r",
-          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
-        },
-        {
-          "name": "A36",
-          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
         }
       ],
-      "duration_ms": 127209,
-      "name": "Standard",
-      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
+      "duration_ms": 186123,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -707,18 +703,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+        "name": "Standard",
+        "url": "https://open.spotify.com/album/3klHl3l7VxUautqwwQc678"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Ein\u00e1r",
+          "url": "https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ"
+        },
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
         }
       ],
-      "duration_ms": 182973,
-      "name": "Superhelt Steez",
-      "url": "https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w"
+      "duration_ms": 127209,
+      "name": "Standard",
+      "url": "https://open.spotify.com/track/5GUfpSrOmyK35dOm2LA10V"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
       "artists": [
         {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 186123,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+      "duration_ms": 182973,
+      "name": "Superhelt Steez",
+      "url": "https://open.spotify.com/track/4FoRpi0ILF4DEj8rAP578w"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Ledare",
+        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
+      },
+      "artists": [
+        {
+          "name": "Jireel",
+          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
+        },
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Ledare",
+      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "2 Trekk",
         "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
       },
@@ -875,42 +895,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Matrisen",
-        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 195577,
-      "name": "Matrisen",
-      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Ledare",
-        "url": "https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA"
-      },
-      "artists": [
-        {
-          "name": "Jireel",
-          "url": "https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6"
-        },
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Ledare",
-      "url": "https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Norge Elsker Rap",
         "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 110373,
       "name": "Schnogodidougudugidoubudibow",
       "url": "https://open.spotify.com/track/5p92TOuIaqTprq7BcTa3x3"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Matrisen",
+        "url": "https://open.spotify.com/album/3dk3EKB9BAgMnIoI8lEDYj"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 195577,
+      "name": "Matrisen",
+      "url": "https://open.spotify.com/track/7BZ3S5F0IRzzrC7ecSqYO2"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -967,6 +967,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Det Regner Penger (Allez Allez)",
+        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
+      },
+      "artists": [
+        {
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
+        }
+      ],
+      "duration_ms": 93830,
+      "name": "Det Regner Penger (Allez Allez)",
+      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "V\u00c5GA",
         "url": "https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 153053,
       "name": "Uno Dos Tres",
       "url": "https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "MEST ELSKET & Hatet - Deluxe",
+        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
+      },
+      "artists": [
+        {
+          "name": "Kamelen",
+          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
+        }
+      ],
+      "duration_ms": 111214,
+      "name": "Hel/Halv",
+      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "MANDANA",
         "url": "https://open.spotify.com/album/3j78jRSPIZyFPt8GkXLHAl"
       },
@@ -1103,22 +1119,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "MEST ELSKET & Hatet - Deluxe",
-        "url": "https://open.spotify.com/album/4VyshA76GkIjxfp44aXtCk"
-      },
-      "artists": [
-        {
-          "name": "Kamelen",
-          "url": "https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61"
-        }
-      ],
-      "duration_ms": 111214,
-      "name": "Hel/Halv",
-      "url": "https://open.spotify.com/track/0kiq7XS5IArAc4trTpW9Q0"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Whina",
         "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
       },
@@ -1151,22 +1151,6 @@
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 179480,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1211,22 +1195,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "TIL DEG",
-        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
       },
       "artists": [
         {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 157217,
-      "name": "TIL DEG",
-      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
+      "duration_ms": 179480,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1251,6 +1231,26 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "TIL DEG",
+        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        }
+      ],
+      "duration_ms": 157217,
+      "name": "TIL DEG",
+      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1359,18 +1359,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Det var aldri meg",
-        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
+        "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
+        "url": "https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76"
       },
       "artists": [
         {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+          "name": "Benocchio",
+          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
+        },
+        {
+          "name": "2J",
+          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
+        },
+        {
+          "name": "Siyab\u00e5ng",
+          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
         }
       ],
-      "duration_ms": 194526,
-      "name": "Ment for hverandre",
-      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
+      "duration_ms": 140775,
+      "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
+      "url": "https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1399,26 +1407,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
-        "url": "https://open.spotify.com/album/6VKHkLVwJS47V9FxnHVy76"
+        "name": "Det var aldri meg",
+        "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
       "artists": [
         {
-          "name": "Benocchio",
-          "url": "https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs"
-        },
-        {
-          "name": "2J",
-          "url": "https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw"
-        },
-        {
-          "name": "Siyab\u00e5ng",
-          "url": "https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK"
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
         }
       ],
-      "duration_ms": 140775,
-      "name": "Suger\u00f8r (2J x Siyab\u00e5ng)",
-      "url": "https://open.spotify.com/track/1AnLS6achsaYqsR1kU4Ytv"
+      "duration_ms": 194526,
+      "name": "Ment for hverandre",
+      "url": "https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo"
     },
     {
       "added_at": "2024-11-28 23:00:00",

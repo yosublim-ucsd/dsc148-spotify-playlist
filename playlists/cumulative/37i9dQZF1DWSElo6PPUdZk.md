@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-154 songs - 7 hr 58 min
+155 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,10 +132,11 @@
 | [Sajjan Chale Gaye](https://open.spotify.com/track/29RfARPUckT0h2VwaCG8jb) | [Jenny Johal](https://open.spotify.com/artist/7wM3DMc1NCh9sjDrUf3QOd), [Little Boi](https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh) | [Sajjan Chale Gaye](https://open.spotify.com/album/578cr7TmZADIGksSb46Omo) | 3:54 | 2024-11-21 |  |
 | [Sau Sau Gallan](https://open.spotify.com/track/0V3Hnajwu7cpaKRtg3VVjT) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 4:11 | 2023-10-12 | 2024-09-21 |
 | [Sheesha](https://open.spotify.com/track/1pVQtACumdjLJt2ChcyIJf) | [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U), [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm) | [Sheesha](https://open.spotify.com/album/1cUkKKUDmycMkQhA88gyLG) | 3:15 | 2024-09-06 | 2024-10-09 |
-| [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-03-18 |  |
+| [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-03-18 | 2024-12-03 |
 | [So Toxic](https://open.spotify.com/track/3Hdy2hhpz7oRPJ6keQbslz) | [SHATAKSHI SHARMA](https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO) | [So Toxic](https://open.spotify.com/album/04e1U06TRC5ZecmA4hwbUL) | 3:32 | 2024-11-22 |  |
 | [Sohna Lagda](https://open.spotify.com/track/3DIHLEEI2qMVvUi7HNFUWF) | [Divya Sharma](https://open.spotify.com/artist/6JbAd8GIWUoAwKjJfKx3oR) | [Sohna Lagda](https://open.spotify.com/album/50wVYIfIIi0TssIiqHcCxH) | 2:50 | 2023-03-18 | 2023-10-10 |
 | [Sohne Lagde](https://open.spotify.com/track/6bS5auVyy9XwoBi1AOr6xq) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Juss Musik](https://open.spotify.com/artist/0ORf1J39MnmYnM3Q8d6tCs) | [Sohne Lagde](https://open.spotify.com/album/7ei0BisjSCAEGShnf6KUtM) | 2:25 | 2024-08-30 | 2024-10-08 |
+| [Sohneya](https://open.spotify.com/track/0tWNV0VUiKRqaY2qt1v61x) | [Jaskiran](https://open.spotify.com/artist/64IqjXuiYufItWOummzCVL) | [Sohneya](https://open.spotify.com/album/43MiyD2v5kbnakfz8DVJF1) | 2:55 | 2024-12-02 |  |
 | [Suhagan](https://open.spotify.com/track/2UN5ayAAWWfdHI6I33eehA) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Maanmatti](https://open.spotify.com/album/3ZlSPTVK5KbBHcOCDB3e8P) | 5:14 | 2023-10-12 | 2023-11-18 |
 | [Sukoon](https://open.spotify.com/track/4tYzK8WBdYB609O0jKRVGC) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Eemaan](https://open.spotify.com/artist/5LolCWDYhmwWp7mfmbF4XX), [Love Jeet Singh Bhullar](https://open.spotify.com/artist/0pEvJdl0b4YNdMRYiQPBvg) | [Sukoon](https://open.spotify.com/album/3DIeuVx4Sqw1HDty8t5qsg) | 3:20 | 2024-10-22 | 2024-11-26 |
 | [Supna Laavan Da](https://open.spotify.com/track/3tXRp4vdz8lFQNI3r2RAFM) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Supna Laavan Da](https://open.spotify.com/album/1QYyTRzohDG1fi1eUQzOGZ) | 3:32 | 2023-03-18 | 2024-10-02 |

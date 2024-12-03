@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Mountain out of a Molehill / A Matter of Taste",
+        "url": "https://open.spotify.com/album/1NwbriFwipEAAtD0bDOC2u"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191976,
+      "name": "A Matter of Taste",
+      "url": "https://open.spotify.com/track/5gev7xyonIkZsLlu2RmM0O"
+    },
+    {
+      "album": {
         "name": "Abandon All Hope",
         "url": "https://open.spotify.com/album/4ylZeG92GetC46n8gU0o0l"
       },

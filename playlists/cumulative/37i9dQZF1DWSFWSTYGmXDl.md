@@ -2,7 +2,7 @@
 
 ### [Cozy Christmas Pop](https://open.spotify.com/playlist/37i9dQZF1DWSFWSTYGmXDl)
 
-> Soft and warm Christmas songs from recent years\. Cover: Kelly Clarkson
+> Soft and warm Christmas songs from recent years\. Cover: Laufey
 
 230 songs - 12 hr 31 min
 

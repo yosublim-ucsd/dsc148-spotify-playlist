@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Manuel Turizo
 
-854 songs - 1 day 21 hr 34 min
+855 songs - 1 day 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-03-10 | 2023-06-03 |
 | [Arte](https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Arte](https://open.spotify.com/album/531LZb17gcTf6iu8wIc7kt) | 3:12 | 2023-02-24 | 2023-06-01 |
 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 | 2023-09-29 |  |
+| [ASI ES LA VIDA \(feat\. Descemer Bueno & Omi Hernandez\) \- Remix](https://open.spotify.com/track/0jj0Hf63LdLDgoy73YS352) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Omi Hernandez](https://open.spotify.com/artist/5TrKkrhYUxkSScH0LzgeqA) | [ASI ES LA VIDA \(feat\. Descemer Bueno & Omi Hernandez\) \[Remix\]](https://open.spotify.com/album/6xgbZ7SdlBQKBSzVl8GZZu) | 3:35 | 2024-12-02 |  |
 | [Aurora \- Remix](https://open.spotify.com/track/7nHtmtk2wtQoRTBA8tEMWy) | [Jhosy](https://open.spotify.com/artist/2qMUSKJxNaBsISPyYretDo), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Aurora \(Remix\)](https://open.spotify.com/album/3dgoNFp7Rdw1KBH3n5YIAO) | 4:02 | 2022-09-30 | 2023-06-03 |
 | [AVENTURA](https://open.spotify.com/track/02vuof1sWGshy5yJG3HylY) | [ZABDIEL](https://open.spotify.com/artist/3L6TeR5LqiJDpwQQScSuw5), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [AVENTURA](https://open.spotify.com/album/3j7rNxfmagpw3RlQjBJ1Pf) | 3:13 | 2023-09-05 |  |
 | [Awolowo \- Remix](https://open.spotify.com/track/3thJbDC01YXiNLlYV3r4UO) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Awolowo \(Remix\)](https://open.spotify.com/album/4Lr4EVsSt7N4r3IrPBdXJ8) | 2:32 | 2024-11-22 |  |

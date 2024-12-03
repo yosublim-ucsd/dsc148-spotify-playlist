@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 775313,
+  "num_followers": 775526,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
       },
       "artists": [
         {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Sun Colored Eyes",
-      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
+      "duration_ms": 159443,
+      "name": "Pingpxng",
+      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
         }
       ],
-      "duration_ms": 159443,
-      "name": "Pingpxng",
-      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -639,18 +639,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Miniatures de auto rhythm",
-        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
+        "name": "McCartney III Imagined",
+        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
       },
       "artists": [
         {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 143617,
-      "name": "Faux savage",
-      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
+      "duration_ms": 348859,
+      "name": "Pretty Boys (feat. Khruangbin)",
+      "url": "https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -703,22 +707,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "McCartney III Imagined",
-        "url": "https://open.spotify.com/album/0tgO7MMVIhpUMV3YZQ1GYT"
+        "name": "Miniatures de auto rhythm",
+        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
       },
       "artists": [
         {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        },
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 348859,
-      "name": "Pretty Boys (feat. Khruangbin)",
-      "url": "https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6"
+      "duration_ms": 143617,
+      "name": "Faux savage",
+      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Alegr\u00eda (Yuksek Remix) - Single",
         "url": "https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 258235,
       "name": "Alegr\u00eda - Yuksek Remix",
       "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "duration_ms": 257019,
+      "name": "Nisyan",
+      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "La Matanza",
         "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Compilation",
-        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Fakroun",
-          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
-        }
-      ],
-      "duration_ms": 257019,
-      "name": "Nisyan",
-      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Road Of The Lonely Ones",
-        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
-      },
-      "artists": [
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Road Of The Lonely Ones",
-      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Mal\u00eca",
         "url": "https://open.spotify.com/album/3tm3bhYRjEQ4pig97SQNvu"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Road Of The Lonely Ones",
+        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Road Of The Lonely Ones",
+      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Ajala",
         "url": "https://open.spotify.com/album/1kAexOnDyQcgwvMM3mFkjX"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 261733,
       "name": "Ajala - Single Edit",
       "url": "https://open.spotify.com/track/7vRQeQcvAuf35fgKMou99k"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Maledetta Quella Notte",
-        "url": "https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 230250,
-      "name": "Maledetta Quella Notte",
-      "url": "https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 181427,
       "name": "Ginga",
       "url": "https://open.spotify.com/track/2KDF5lrsQNBN0a89SwkwDg"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Maledetta Quella Notte",
+        "url": "https://open.spotify.com/album/53rZDVzeELEDGg9XSfoYym"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 230250,
+      "name": "Maledetta Quella Notte",
+      "url": "https://open.spotify.com/track/2Wz8vQMgkpnUallH0caj1r"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Psych\u00e9",
-        "url": "https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT"
-      },
-      "artists": [
-        {
-          "name": "Psych\u00e9",
-          "url": "https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5"
-        }
-      ],
-      "duration_ms": 221582,
-      "name": "Cumbia Mah\u00e0re",
-      "url": "https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Frente Cumbiero Meets Mad Professor",
         "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 263933,
       "name": "Chucusteady",
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Psych\u00e9",
+        "url": "https://open.spotify.com/album/2reVfEaxKuDfrvMx5HwtZT"
+      },
+      "artists": [
+        {
+          "name": "Psych\u00e9",
+          "url": "https://open.spotify.com/artist/3dJYYbVWTtMBsYktGL8uO5"
+        }
+      ],
+      "duration_ms": 221582,
+      "name": "Cumbia Mah\u00e0re",
+      "url": "https://open.spotify.com/track/6TPlBBLFOCQ8hPwIntQvKG"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Existe Uma Voz",
-        "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
-      },
-      "artists": [
-        {
-          "name": "Rog\u00ea",
-          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
-        }
-      ],
-      "duration_ms": 225826,
-      "name": "Existe Uma Voz",
-      "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Calentita",
         "url": "https://open.spotify.com/album/4NycotM0tlCFNtXd6JCzce"
       },
@@ -1751,18 +1735,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+        "name": "Existe Uma Voz",
+        "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
         }
       ],
-      "duration_ms": 175632,
-      "name": "Lo Siento",
-      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
+      "duration_ms": 225826,
+      "name": "Existe Uma Voz",
+      "url": "https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1783,6 +1767,22 @@
       "duration_ms": 293999,
       "name": "Homo Sapiens",
       "url": "https://open.spotify.com/track/7237Rc0OgaozeyigB1VPn0"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 175632,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/44jJprZA3rKSrDIq31opcQ"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
-        "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
+        "name": "Music Save Me (One More Time)",
+        "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
       },
       "artists": [
         {
-          "name": "Charif Megarbane",
-          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
+          "name": "Mocky",
+          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
         }
       ],
-      "duration_ms": 171333,
-      "name": "Souk el Ahad",
-      "url": "https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd"
+      "duration_ms": 256490,
+      "name": "How It Goes",
+      "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Music Save Me (One More Time)",
-        "url": "https://open.spotify.com/album/2EULAjFh61Hr4VorEQLCZU"
+        "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
+        "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
       },
       "artists": [
         {
-          "name": "Mocky",
-          "url": "https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG"
+          "name": "Charif Megarbane",
+          "url": "https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4"
         }
       ],
-      "duration_ms": 256490,
-      "name": "How It Goes",
-      "url": "https://open.spotify.com/track/2rIzolYxlQr9JoitK2BeC4"
+      "duration_ms": 171333,
+      "name": "Souk el Ahad",
+      "url": "https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -2039,6 +2039,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Mentallogenic",
+        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+      },
+      "artists": [
+        {
+          "name": "Alex Figueira",
+          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Silky",
+      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Look at My Soul: The Latin Shade of Texas Soul",
         "url": "https://open.spotify.com/album/4VGl3MuJnLbgLrHqPxArX8"
       },
@@ -2063,38 +2079,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Mentallogenic",
-        "url": "https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym"
+        "name": "Topical Dancer",
+        "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
       "artists": [
         {
-          "name": "Alex Figueira",
-          "url": "https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Silky",
-      "url": "https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+          "name": "Charlotte Adig\u00e9ry",
+          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
         },
         {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+          "name": "Bolis Pupul",
+          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
         }
       ],
-      "duration_ms": 301723,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
+      "duration_ms": 351280,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -2119,6 +2119,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 301723,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
         "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
       },
@@ -2131,26 +2151,6 @@
       "duration_ms": 154000,
       "name": "Pas de Dialogue",
       "url": "https://open.spotify.com/track/1NuiERHsqb9DVrSXOzKpQ7"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Topical Dancer",
-        "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Adig\u00e9ry",
-          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
-        },
-        {
-          "name": "Bolis Pupul",
-          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
-        }
-      ],
-      "duration_ms": 351280,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/024X0CCgxFHrgGKY1WTFcA"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -2187,26 +2187,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Dekmantel 10 Years 10.2",
-        "url": "https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF"
-      },
-      "artists": [
-        {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
-        },
-        {
-          "name": "Motor City Drum Ensemble",
-          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
-        }
-      ],
-      "duration_ms": 443989,
-      "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
-      "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Tropical Man",
         "url": "https://open.spotify.com/album/1vCmWn5jPAyvENTVPzUUXW"
       },
@@ -2227,6 +2207,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Dekmantel 10 Years 10.2",
+        "url": "https://open.spotify.com/album/1mkdFuyDtgISvmK1jHfquF"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Motor City Drum Ensemble",
+          "url": "https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf"
+        }
+      ],
+      "duration_ms": 443989,
+      "name": "Asiko (In a Silent Mix) - Motor City Drum Ensemble Remix",
+      "url": "https://open.spotify.com/track/6VJxaWAaMSKZsZNtZxpVan"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "La Bomba",
         "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
       },
@@ -2239,26 +2239,6 @@
       "duration_ms": 134720,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Soy Una Nube (Bosq Remix) - Single",
-        "url": "https://open.spotify.com/album/1SPKVznHu8hYWHhNNUaSmT"
-      },
-      "artists": [
-        {
-          "name": "Elia y Elizabeth",
-          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 347284,
-      "name": "Soy Una Nube - Bosq Remix",
-      "url": "https://open.spotify.com/track/3il9P7OQ9VJKoo3w1hpDoy"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -2299,22 +2279,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Tu Tak Tu Tak Tutiyan (Elado's Gulab Jamum Rework)",
-        "url": "https://open.spotify.com/album/0bs6BiBkRGI2issxUrBMsy"
+        "name": "Soy Una Nube (Bosq Remix) - Single",
+        "url": "https://open.spotify.com/album/1SPKVznHu8hYWHhNNUaSmT"
       },
       "artists": [
         {
-          "name": "Nadeem Khan",
-          "url": "https://open.spotify.com/artist/5KFEhzBYzfSOOWM6wpBSfK"
+          "name": "Elia y Elizabeth",
+          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
         },
         {
-          "name": "Elado",
-          "url": "https://open.spotify.com/artist/6tOqXU5tewaxqFtYCw9NlI"
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
         }
       ],
-      "duration_ms": 247647,
-      "name": "Tu Tak Tu Tak Tutiyan - Elado\u2019s Gulab Jamun Rework",
-      "url": "https://open.spotify.com/track/5mhyXRdaxcfSZS6RgghJom"
+      "duration_ms": 347284,
+      "name": "Soy Una Nube - Bosq Remix",
+      "url": "https://open.spotify.com/track/3il9P7OQ9VJKoo3w1hpDoy"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -2367,6 +2347,26 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Tu Tak Tu Tak Tutiyan (Elado's Gulab Jamum Rework)",
+        "url": "https://open.spotify.com/album/0bs6BiBkRGI2issxUrBMsy"
+      },
+      "artists": [
+        {
+          "name": "Nadeem Khan",
+          "url": "https://open.spotify.com/artist/5KFEhzBYzfSOOWM6wpBSfK"
+        },
+        {
+          "name": "Elado",
+          "url": "https://open.spotify.com/artist/6tOqXU5tewaxqFtYCw9NlI"
+        }
+      ],
+      "duration_ms": 247647,
+      "name": "Tu Tak Tu Tak Tutiyan - Elado\u2019s Gulab Jamun Rework",
+      "url": "https://open.spotify.com/track/5mhyXRdaxcfSZS6RgghJom"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "The Age of Aquarius",
         "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
       },
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Letter to the Martyrs",
-        "url": "https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5"
-      },
-      "artists": [
-        {
-          "name": "cacique'97",
-          "url": "https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc"
-        }
-      ],
-      "duration_ms": 254291,
-      "name": "Letter to the Martyrs",
-      "url": "https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Afande",
         "url": "https://open.spotify.com/album/4vYCv3i9i3jSe0EyZDsy5F"
       },
@@ -2431,6 +2415,22 @@
       "duration_ms": 323163,
       "name": "Afande",
       "url": "https://open.spotify.com/track/43m8rKCOHn5WIFnPLorqdI"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Letter to the Martyrs",
+        "url": "https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5"
+      },
+      "artists": [
+        {
+          "name": "cacique'97",
+          "url": "https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc"
+        }
+      ],
+      "duration_ms": 254291,
+      "name": "Letter to the Martyrs",
+      "url": "https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
-      },
-      "artists": [
-        {
-          "name": "Il Mago Del Gelato",
-          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Pandora",
-      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "ELCANO",
         "url": "https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 298826,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/7bxC71HV7HEyhFbpJkLHKk"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/3gAKkrKCi1tmDozOpVckVL"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        }
+      ],
+      "duration_ms": 211818,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/0tR48664h2XserXZXARvf7"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -2575,6 +2575,22 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
+        "name": "Nigeria 70 - Funky Lagos",
+        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
+      },
+      "artists": [
+        {
+          "name": "Shina Williams & His African Percussionists",
+          "url": "https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe"
+        }
+      ],
+      "duration_ms": 693600,
+      "name": "Agboju Logun",
+      "url": "https://open.spotify.com/track/0urbfRnnXk7raHj8B0SWDu"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
         "name": "Exotic Other",
         "url": "https://open.spotify.com/album/3rUHG38e2nqtUqQIlrgAJ9"
       },
@@ -2595,22 +2611,6 @@
     {
       "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "Nigeria 70 - Funky Lagos",
-        "url": "https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0"
-      },
-      "artists": [
-        {
-          "name": "Shina Williams & His African Percussionists",
-          "url": "https://open.spotify.com/artist/3LMmWHeU0PGvCcD5gelFfe"
-        }
-      ],
-      "duration_ms": 693600,
-      "name": "Agboju Logun",
-      "url": "https://open.spotify.com/track/0urbfRnnXk7raHj8B0SWDu"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
         "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
         "url": "https://open.spotify.com/album/3kzzsWSctX6CVegsmQB1cx"
       },
@@ -2627,6 +2627,22 @@
       "duration_ms": 220452,
       "name": "Et ta m\u00e8re (Solar Remix) [feat. Reyna Tropical]",
       "url": "https://open.spotify.com/track/6GMd54cabubG2fdz438cmF"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Felony / Rile 'Em Up",
+        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
+      },
+      "artists": [
+        {
+          "name": "The Allergies",
+          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
+        }
+      ],
+      "duration_ms": 197172,
+      "name": "Felony",
+      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
     },
     {
       "added_at": "2024-11-22 00:01:00",
@@ -2663,22 +2679,6 @@
       "duration_ms": 305106,
       "name": "Crache La Douleur",
       "url": "https://open.spotify.com/track/6K4mkIv9jq5khtrDLXRhI4"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Felony / Rile 'Em Up",
-        "url": "https://open.spotify.com/album/1HoSYQY4tA3ocVTJ4jSvg0"
-      },
-      "artists": [
-        {
-          "name": "The Allergies",
-          "url": "https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY"
-        }
-      ],
-      "duration_ms": 197172,
-      "name": "Felony",
-      "url": "https://open.spotify.com/track/2vz6J5AmYo6Te8qWbUOQRD"
     }
   ],
   "unique_name": "Global Groove",

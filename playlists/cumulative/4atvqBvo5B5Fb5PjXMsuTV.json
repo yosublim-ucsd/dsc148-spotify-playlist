@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Dec 14:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Dec 23:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1590,7 +1590,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 207000,
       "name": "Abril",
       "url": "https://open.spotify.com/track/68wjsGsoZp2okiqMqgj8jT"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 222647,
       "name": "ALL MY LOVE",
       "url": "https://open.spotify.com/track/3PpIWOUaPwDxu0ysEaFfAr"
@@ -7767,6 +7767,24 @@
     },
     {
       "album": {
+        "name": "Body Organic Disco Electronic",
+        "url": "https://open.spotify.com/album/1sat7HT0WjqPVnMTWYeTbI"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Body Organic Disco Electronic",
+      "url": "https://open.spotify.com/track/61x4U9nM693hq6DiHBJ6N4"
+    },
+    {
+      "album": {
         "name": "Bogota",
         "url": "https://open.spotify.com/album/1rvZibf8hsAYjaaGdGP82A"
       },
@@ -9080,6 +9098,32 @@
       "duration_ms": 168038,
       "name": "Burdened by Solar Mass",
       "url": "https://open.spotify.com/track/1KzOIiqSqlRrFYqbBQEdok"
+    },
+    {
+      "album": {
+        "name": "Burgerpommes 2",
+        "url": "https://open.spotify.com/album/3lv5pXqA46mgcbRhZG5S2W"
+      },
+      "artists": [
+        {
+          "name": "LukasBS",
+          "url": "https://open.spotify.com/artist/6UXLYfkcd2st5enW3bxvlQ"
+        },
+        {
+          "name": "Marvin Vlogt",
+          "url": "https://open.spotify.com/artist/0lJCrlh8MQ4qGpLV0NMvAo"
+        },
+        {
+          "name": "Canselguel",
+          "url": "https://open.spotify.com/artist/7xsSqPJSdYSj17KJKGGYTR"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Burgerpommes 2",
+      "url": "https://open.spotify.com/track/3SGNRhjDFRsjYqswl3Zptq"
     },
     {
       "album": {
@@ -34956,7 +35000,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 175556,
       "name": "Losing Daylight",
       "url": "https://open.spotify.com/track/2PhjeIbklHKDrlSNREDFnQ"
@@ -37476,7 +37520,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 220566,
       "name": "Mieszane Uczucia",
       "url": "https://open.spotify.com/track/2zw8q69N81ZiK0BG7EIQU5"
@@ -44701,6 +44745,24 @@
     },
     {
       "album": {
+        "name": "PLAY (VIP)",
+        "url": "https://open.spotify.com/album/1oQ70ZgRQdGhvGEzI45v2q"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "PLAY - VIP",
+      "url": "https://open.spotify.com/track/5aR1RuL4EFsiYFl99lkdbR"
+    },
+    {
+      "album": {
         "name": "PLAY DEAD! PLAY DEAD!",
         "url": "https://open.spotify.com/album/6UPsDxXGtwTSbOVzCD2UCN"
       },
@@ -45418,6 +45480,24 @@
       "duration_ms": 143198,
       "name": "Postlude - After Seven Winters",
       "url": "https://open.spotify.com/track/4fwb3VZKAdJwqwGQXG7lNh"
+    },
+    {
+      "album": {
+        "name": "POSTURADAS",
+        "url": "https://open.spotify.com/album/7pAshqKtrygnmOtBxr11j0"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "POSTURADAS",
+      "url": "https://open.spotify.com/track/6XenU1cZzUrZ168hUxEjlN"
     },
     {
       "album": {
@@ -57634,7 +57714,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 397994,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/6EXvYZuBEsh2J4rKkGMXIV"
@@ -64340,6 +64420,24 @@
       "duration_ms": 159121,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf"
+    },
+    {
+      "album": {
+        "name": "Wild Long Lie",
+        "url": "https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364533,
+      "name": "Wild Long Lie",
+      "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
     },
     {
       "album": {

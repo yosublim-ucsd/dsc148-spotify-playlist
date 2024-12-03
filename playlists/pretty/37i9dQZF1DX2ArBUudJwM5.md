@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen, con La Valenti en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,548 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,550 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 17 | [Caminar en Cristal](https://open.spotify.com/track/4YlHkunt4qLnQy1Gtvivlb) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Caminar en Cristal](https://open.spotify.com/album/3VurkmLzOWr3KDCUbTSC5S) | 2:24 |
 | 18 | [Buena Moza](https://open.spotify.com/track/5V6GFrJ7hKEyxik8yJgH6P) | [Júpiter en Casa](https://open.spotify.com/artist/2FtkAsOkCkHCUbUj0Us8Wd) | [Buena Moza](https://open.spotify.com/album/21rx7vRolwU9mNDPC1KRdH) | 2:10 |
 | 19 | [Es Hora](https://open.spotify.com/track/7aCZBkMatjmECHHuoVS3KE) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk) | [Sean Felices](https://open.spotify.com/album/0D9mV5BEMT3UfDy1jottO6) | 3:21 |
-| 20 | [Nadena](https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Nadena](https://open.spotify.com/album/7F9Ax05KBTwkGl2nBAwVZh) | 2:25 |
-| 21 | [Cenicero](https://open.spotify.com/track/6fYkAyjLl8Xy6sdUagjrvq) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Cenicero](https://open.spotify.com/album/46EAKQv5PqOFXEEaRw8rwx) | 3:28 |
+| 20 | [Cenicero](https://open.spotify.com/track/6fYkAyjLl8Xy6sdUagjrvq) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Cenicero](https://open.spotify.com/album/46EAKQv5PqOFXEEaRw8rwx) | 3:28 |
+| 21 | [Nadena](https://open.spotify.com/track/7xqtL9F50uY78Od2YW0vqE) | [INE](https://open.spotify.com/artist/6ipS4LV3wt9uKWEm8q6gcB) | [Nadena](https://open.spotify.com/album/7F9Ax05KBTwkGl2nBAwVZh) | 2:25 |
 | 22 | [En una](https://open.spotify.com/track/0riyx1sdujDzzDaHghveJN) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [OTRA MANERA](https://open.spotify.com/album/3EbAvw4gcs1kaZ0esTQDSo) | 3:39 |
 | 23 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |
 | 24 | [Esa Morena](https://open.spotify.com/track/76kwOCNPsGRkGWweVDDSkp) | [SOLUNA](https://open.spotify.com/artist/6sIsLfY5y0OFtBSbSNEjmW), [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0), [risko](https://open.spotify.com/artist/76S9tWvZEynS5QanzUkkjw) | [Esa Morena](https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1) | 3:40 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 29 | [Aforismos](https://open.spotify.com/track/1xlNttatz94ku8vVjH7OMS) | [Maria Codino](https://open.spotify.com/artist/7zuaGTLVm6z97wydRCyUdj), [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Tiene Que Haber Un Mapa](https://open.spotify.com/album/4Nurj8APmgekx15HgXOyYB) | 3:28 |
 | 30 | [Admiración](https://open.spotify.com/track/1u2ynu6W6dTlHXUdTdrwzV) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Ezequiel Kronenberg](https://open.spotify.com/artist/6jE1b5c4opfPzbks4xlqUx), [Nicolas Btesh](https://open.spotify.com/artist/59cMFtA14UADX5IMmEap2p) | [Admiración](https://open.spotify.com/album/2Q9k7iuX832oPOLUorm0Bl) | 3:27 |
 | 31 | [Ahí voy](https://open.spotify.com/track/0VksMOX15AZxwOH75UVpNU) | [Micaela Basadoni](https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU) | [Árboles](https://open.spotify.com/album/723CHSqVq5WP5MBgmKrtbA) | 2:42 |
-| 32 | [cariño](https://open.spotify.com/track/3vjA2YS5WwCbcydMf3t2UN) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [querido diario:](https://open.spotify.com/album/4e5h1N7LWzK5ECyZKLtpge) | 3:07 |
-| 33 | [Una canastita](https://open.spotify.com/track/1XEPXduN6cbB8C8A23qF9s) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [CUERO](https://open.spotify.com/album/3P0PpCDh5mEtgcrqAKlDq7) | 2:16 |
+| 32 | [Una canastita](https://open.spotify.com/track/1XEPXduN6cbB8C8A23qF9s) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN) | [CUERO](https://open.spotify.com/album/3P0PpCDh5mEtgcrqAKlDq7) | 2:16 |
+| 33 | [cariño](https://open.spotify.com/track/3vjA2YS5WwCbcydMf3t2UN) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [querido diario:](https://open.spotify.com/album/4e5h1N7LWzK5ECyZKLtpge) | 3:07 |
 | 34 | [INFLEXIÓN](https://open.spotify.com/track/0QTklhlD3bQz6vq1QcPKjc) | [Evlay](https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A), [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [INFLEXIÓN](https://open.spotify.com/album/4q3w1YExFuQ0uXEWd9wFMo) | 3:37 |
 | 35 | [Los Inviernos](https://open.spotify.com/track/6cWrd3lPNcieTKWw1Fj0Ls) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Los Inviernos](https://open.spotify.com/album/3K8Yy900INpISxrEGQP1uB) | 2:52 |
 | 36 | [Alquiler](https://open.spotify.com/track/1HZX3eFozWLoYwOMLVIjx1) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [CIUDAD FRENESÍ](https://open.spotify.com/album/1JLruKm7iOA1lZAL3ffZ1V) | 2:35 |

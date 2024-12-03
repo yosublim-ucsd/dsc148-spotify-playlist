@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: nov\-dec 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,181 likes - 39 songs - 2 hr 27 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,181 likes - 42 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,8 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 37 | [Flash in the Pan](https://open.spotify.com/track/6XuQzFKU3rJNNEEs6lyIuQ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Flash in the Pan](https://open.spotify.com/album/5CgiC1Q1hhTpyXWH7w0yDt) | 3:43 |
 | 38 | [Fall](https://open.spotify.com/track/0vrCyUnCmMcUNGIA5GKgZD) | [Sway](https://open.spotify.com/artist/1bElSTQqO1Vd1pia2t7JeS) | [The Millia Pink And Green](https://open.spotify.com/album/7EHablbY72TGgPQb3FGN9h) | 6:35 |
 | 39 | [Nail in a Wooden Trunk](https://open.spotify.com/track/78Km8xh3kOHSQkRTJsswcN) | [Tapir!](https://open.spotify.com/artist/7dYpljfleToKnSmBFqjqkd) | [Nail in a Wooden Trunk](https://open.spotify.com/album/6458nxrJP9ulxGp6tSIUyf) | 2:29 |
+| 40 | [Homme \(萌夢\)](https://open.spotify.com/track/7JV4O8Lh5zb62U4lyll4Ew) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 16:49 |
+| 41 | [Ire Feelings](https://open.spotify.com/track/30NY14bbHimQWNNmj3dIYd) | [Rupie Edwards](https://open.spotify.com/artist/1UxYrIRzYsrxv8EYrmoRXA) | [Rupie Edwards Presents Success Archives \- From Kingston Jamaica to London UK](https://open.spotify.com/album/1wgGd8RNVNAR6zT9AuttJI) | 3:48 |
+| 42 | [It's Only Obvious](https://open.spotify.com/track/20KuHxOYcv1OtrjjUAidEX) | [The Orchids](https://open.spotify.com/artist/6W8VbSclDd31QHMBwoC84H) | [Who Needs Tomorrow](https://open.spotify.com/album/690g8u725awKpCdZNX7iYG) | 2:29 |
 
-Snapshot ID: `AAALeQHuuOerLYWW01IXxwX1H3DE7tH/`
+Snapshot ID: `AAALfEOrpTSqjPGrZAwTfNuOelYJpNai`

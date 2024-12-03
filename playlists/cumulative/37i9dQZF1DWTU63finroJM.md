@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Berre.
 
-1,757 songs - 3 day 23 hr 29 min
+1,758 songs - 3 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 | 2022-03-24 | 2022-06-27 |
 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 | 2023-09-15 | 2024-03-30 |
 | [A Good Life](https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [A Good Life](https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ) | 4:00 | 2024-03-15 | 2024-04-06 |
-| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 |  |
+| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 | 2024-12-03 |
 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 | 2022-03-24 | 2022-04-14 |
 | [a quien culpar](https://open.spotify.com/track/4nSXOnB7mY9gw8Rtd8v1SN) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2), [husa.](https://open.spotify.com/artist/4rCSPhgFKs3vWVOnpcuWBa) | [a quien culpar](https://open.spotify.com/album/3V14MXZOAbr2QGXFyEgtp8) | 4:10 | 2022-06-29 | 2023-05-09 |
 | [a Testa in giù](https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [a Testa in giù](https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J) | 2:46 | 2023-04-12 | 2023-10-21 |
@@ -1264,6 +1264,7 @@
 | [SENSATION](https://open.spotify.com/track/0pIWSS7xmChrYzfNFEfdzn) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:27 | 2023-08-18 | 2024-03-09 |
 | [SENSATION](https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:27 | 2023-08-18 | 2023-11-29 |
 | [Sepasang Mata Bola](https://open.spotify.com/track/4jRX03skpItE7YzxVjaPZX) | [Shanna Shannon](https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2) | [Sepasang Mata Bola](https://open.spotify.com/album/7AKPjfIbnFsKHV6rdKb2El) | 3:44 | 2022-04-29 | 2022-06-01 |
+| [Sepatu Untuk Kakimu](https://open.spotify.com/track/0XQG49Kna4pWxIrj2qTiTo) | [Gery Gany](https://open.spotify.com/artist/4zw9fpiPphR8PBEiMLVT2e) | [Sepatu Untuk Kakimu](https://open.spotify.com/album/5sZq5UP7xmRWDtBh1WU8oD) | 3:59 | 2024-11-29 |  |
 | [Sepertiga](https://open.spotify.com/track/5G5ZeAfOfDpNu3ky3NsVy0) | [FML](https://open.spotify.com/artist/0fUa0Fw2rm0HCRtKYmBJ1N) | [Sepertiga](https://open.spotify.com/album/0GeXNw5XA7QnMZlsWsWNaB) | 3:00 | 2022-02-03 | 2022-08-02 |
 | [Seribu Kali Cinta](https://open.spotify.com/track/3SrbdfVE2DGOUaHG3kd7rZ) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Seribu Kali Cinta](https://open.spotify.com/album/2D3Hb8Wge3s71MyapmTiNz) | 4:30 | 2022-02-10 | 2022-04-06 |
 | [Serio](https://open.spotify.com/track/4yVbrHSbzkPPPpvjpJFaj7) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Nicolai Fella](https://open.spotify.com/artist/4Os4fMrqioV1yr2joj1Tvo) | [Serio](https://open.spotify.com/album/0SMiYEDMX3hjIzCXg01rAD) | 2:57 | 2023-10-27 | 2024-01-20 |

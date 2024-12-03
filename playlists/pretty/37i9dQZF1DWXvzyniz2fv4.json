@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158934,
+  "num_followers": 158926,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-11-29 02:30:56",
       "album": {
-        "name": "De Peito Aberto",
-        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
-      },
-      "artists": [
-        {
-          "name": "Tx\u00e9llo",
-          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
-        }
-      ],
-      "duration_ms": 121429,
-      "name": "Copacabana",
-      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
-    },
-    {
-      "added_at": "2024-11-29 02:30:56",
-      "album": {
         "name": "Passa a Bola (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 188319,
       "name": "Passa a Bola (Ao Vivo em Noronha)",
       "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
+    },
+    {
+      "added_at": "2024-11-29 02:30:56",
+      "album": {
+        "name": "De Peito Aberto",
+        "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
+      },
+      "artists": [
+        {
+          "name": "Tx\u00e9llo",
+          "url": "https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU"
+        }
+      ],
+      "duration_ms": 121429,
+      "name": "Copacabana",
+      "url": "https://open.spotify.com/track/4h0HYqFb5w2CUm7fbLTn8z"
     },
     {
       "added_at": "2024-11-29 02:30:56",
@@ -383,6 +383,26 @@
       "duration_ms": 208485,
       "name": "4 da Manh\u00e3 - Ac\u00fastico",
       "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2024-11-29 02:30:56",
+      "album": {
+        "name": "Oriente Ac\u00fastico",
+        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 215936,
+      "name": "Luz da Lua",
+      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
     },
     {
       "added_at": "2024-11-29 02:30:56",
@@ -463,26 +483,6 @@
       "duration_ms": 264547,
       "name": "Original MTK #2 - Se Voc\u00ea Vier",
       "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
-    },
-    {
-      "added_at": "2024-11-29 02:30:56",
-      "album": {
-        "name": "Oriente Ac\u00fastico",
-        "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 215936,
-      "name": "Luz da Lua",
-      "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
     },
     {
       "added_at": "2024-11-29 02:30:56",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-11-29 02:30:56",
       "album": {
+        "name": "Me Acostumei - Dread Session, Vol. 1",
+        "url": "https://open.spotify.com/album/1PcgusYCw8Sck5wPzL9vSP"
+      },
+      "artists": [
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 186301,
+      "name": "Me Acostumei - Dread Session, Vol. 1",
+      "url": "https://open.spotify.com/track/573JkvQ34ID2a2u0oPxQs7"
+    },
+    {
+      "added_at": "2024-11-29 02:30:56",
+      "album": {
         "name": "Certo pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 169472,
       "name": "Fica",
       "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
-    },
-    {
-      "added_at": "2024-11-29 02:30:56",
-      "album": {
-        "name": "Me Acostumei - Dread Session, Vol. 1",
-        "url": "https://open.spotify.com/album/1PcgusYCw8Sck5wPzL9vSP"
-      },
-      "artists": [
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 186301,
-      "name": "Me Acostumei - Dread Session, Vol. 1",
-      "url": "https://open.spotify.com/track/573JkvQ34ID2a2u0oPxQs7"
     },
     {
       "added_at": "2024-11-29 02:30:56",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-11-29 02:30:56",
       "album": {
-        "name": "Poseidon",
-        "url": "https://open.spotify.com/album/408vTULsOGuZc8BvZ6wqAz"
-      },
-      "artists": [
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        },
-        {
-          "name": "Beats By Hyden",
-          "url": "https://open.spotify.com/artist/2cUGt8RNoJuc6NOEIlqSDi"
-        }
-      ],
-      "duration_ms": 178144,
-      "name": "Poseidon",
-      "url": "https://open.spotify.com/track/7bDg5jVkv41akvlmzTUYvv"
-    },
-    {
-      "added_at": "2024-11-29 02:30:56",
-      "album": {
         "name": "Vento Bom",
         "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 169409,
       "name": "Vento Bom",
       "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+    },
+    {
+      "added_at": "2024-11-29 02:30:56",
+      "album": {
+        "name": "Poseidon",
+        "url": "https://open.spotify.com/album/408vTULsOGuZc8BvZ6wqAz"
+      },
+      "artists": [
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        },
+        {
+          "name": "Beats By Hyden",
+          "url": "https://open.spotify.com/artist/2cUGt8RNoJuc6NOEIlqSDi"
+        }
+      ],
+      "duration_ms": 178144,
+      "name": "Poseidon",
+      "url": "https://open.spotify.com/track/7bDg5jVkv41akvlmzTUYvv"
     },
     {
       "added_at": "2024-11-29 02:30:56",

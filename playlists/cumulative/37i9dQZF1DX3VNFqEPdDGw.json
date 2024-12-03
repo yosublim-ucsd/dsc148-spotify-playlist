@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Haal Chal (From \"Bapu Ni Manda Mera\")",
+        "url": "https://open.spotify.com/album/0ePWEKhCdb0nEo9nY6zQcn"
+      },
+      "artists": [
+        {
+          "name": "Hunar Sidhu",
+          "url": "https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214367,
+      "name": "Haal Chal - From \"Bapu Ni Manda Mera\"",
+      "url": "https://open.spotify.com/track/0N4nLyKvsllypMWLVELxzV"
+    },
+    {
+      "album": {
         "name": "GLOBAL WARNING",
         "url": "https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p"
       },
@@ -2446,7 +2464,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 166762,
       "name": "Taur",
       "url": "https://open.spotify.com/track/36rHMZtn1m5BsBkOOCf7l0"

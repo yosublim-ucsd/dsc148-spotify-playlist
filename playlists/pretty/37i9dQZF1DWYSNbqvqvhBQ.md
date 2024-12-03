@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > De mooiste liedjes van het moment\. Cover: Lenny Kravitz
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,164 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,123 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Honey \- Single Version](https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Honey](https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS) | 3:15 |
 | 2 | [Love Somebody](https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Love Somebody](https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep) | 3:24 |
-| 3 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
-| 4 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
-| 5 | [Till the Morning](https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Wide Awake](https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81) | 3:34 |
-| 6 | [People Watching \- Edit](https://open.spotify.com/track/6KUypF1l9fVmXoU7MdtYPg) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Edit\)](https://open.spotify.com/album/7B55XuKBJVtYjKzOF6R4CB) | 4:02 |
+| 3 | [People Watching \- Edit](https://open.spotify.com/track/6KUypF1l9fVmXoU7MdtYPg) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching \(Edit\)](https://open.spotify.com/album/7B55XuKBJVtYjKzOF6R4CB) | 4:02 |
+| 4 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
+| 5 | [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 |
+| 6 | [Till the Morning](https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Wide Awake](https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81) | 3:34 |
 | 7 | [Dancing On My Feelings](https://open.spotify.com/track/59KTcLNAkcoNs9EHoDHbdT) | [The Indien](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Dancing On My Feelings](https://open.spotify.com/album/7wclxbfcMy8Luc0iDxBvaE) | 3:28 |
-| 8 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
-| 9 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
-| 10 | [matter](https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the side\-effects of living in a fantasy](https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh) | 3:05 |
-| 11 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 |
-| 12 | [Where Do You Go](https://open.spotify.com/track/1fIt37a7s0wj1OvQY7KCB7) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Where Do You Go](https://open.spotify.com/album/6nOTgMbtPFVxNWdHam8dTm) | 3:09 |
-| 13 | [Carry You](https://open.spotify.com/track/7f1vgZPMtOj8g8V85pa3ld) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/1lsjasOLDY9fe5MSAC1amY) | 3:22 |
-| 14 | [This Isn’t Really Love](https://open.spotify.com/track/3WCQYl8CSsiPQxV3qWh1JK) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [This Isn’t Really Love](https://open.spotify.com/album/3hZ4C5FqLTM9yvSxWuTTby) | 3:24 |
-| 15 | [Il Mare Calmo della Sera \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Duets \(30th Anniversary\)](https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C) | 4:35 |
-| 16 | [Forbidden Road \- From Better Man: Original Motion Picture Soundtrack](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 |
+| 8 | [Forbidden Road \- From Better Man: Original Motion Picture Soundtrack](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 |
+| 9 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
+| 10 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 |
+| 11 | [matter](https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [the side\-effects of living in a fantasy](https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh) | 3:05 |
+| 12 | [Blue Sky & The Painter](https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part Two](https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352) | 3:52 |
+| 13 | [Where Do You Go](https://open.spotify.com/track/1fIt37a7s0wj1OvQY7KCB7) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Where Do You Go](https://open.spotify.com/album/6nOTgMbtPFVxNWdHam8dTm) | 3:09 |
+| 14 | [Carry You](https://open.spotify.com/track/7f1vgZPMtOj8g8V85pa3ld) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [A Little Light in the Dark](https://open.spotify.com/album/1lsjasOLDY9fe5MSAC1amY) | 3:22 |
+| 15 | [This Isn’t Really Love](https://open.spotify.com/track/3WCQYl8CSsiPQxV3qWh1JK) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [This Isn’t Really Love](https://open.spotify.com/album/3hZ4C5FqLTM9yvSxWuTTby) | 3:24 |
+| 16 | [Il Mare Calmo della Sera \(feat\. Chris Stapleton\)](https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Duets \(30th Anniversary\)](https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C) | 4:35 |
 | 17 | [I Wasn’t Gonna](https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp) | [Jana Mila](https://open.spotify.com/artist/1roi4E4kE3vXaKxQ2n5aKB) | [Chameleon](https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI) | 3:23 |
 | 18 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 19 | [Wonderful World](https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Wonderful World](https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4) | 4:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 | 59 | [Changing Colors](https://open.spotify.com/track/6ud0JHI4L7O5wXYsxXsmpQ) | [Sloper](https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber) | [Changing Colors](https://open.spotify.com/album/4UZeGiooq573yVWCAB4gu4) | 3:40 |
 | 60 | [Start a Fire](https://open.spotify.com/track/7lX2NUl49sK7IRcSaDvyW2) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Start A Fire](https://open.spotify.com/album/0yIsfDWJU6NNtvQVIxUs0O) | 3:20 |
 
-Snapshot ID: `Z0j18AAAAADSdZd7GtqYly06cf+cR04z`
+Snapshot ID: `Z02JMwAAAAANRr/vqoyGbS0MfTOqdmbo`

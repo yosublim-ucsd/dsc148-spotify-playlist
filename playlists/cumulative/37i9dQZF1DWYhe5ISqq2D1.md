@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: LEX
 
-290 songs - 18 hr 25 min
+291 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [もういいよ](https://open.spotify.com/track/3uTffiZnTs9Zwfg0uIQ4Zw) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [もういいよ](https://open.spotify.com/album/2O6Ndu8lo4d1Ov7wz7bNGO) | 2:57 | 2024-11-05 |  |
 | [アイ](https://open.spotify.com/track/1FxhpxQzghrFjwJiF2GhXh) | [Motohiro Hata](https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q) | [Documentary](https://open.spotify.com/album/6RJ8dTBDiLHZb2tSb76Pdt) | 5:34 | 2024-07-02 | 2024-07-10 |
 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 | 2024-07-02 |  |
+| [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 | 2024-11-26 |  |
 | [アイワナ](https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [アイワナ](https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM) | 3:50 | 2024-07-02 | 2024-10-31 |
 | [アーミ](https://open.spotify.com/track/66YOQ3cFmgQfXpfl08yRyM) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [アーミ](https://open.spotify.com/album/7g30B1GkIbYJtmUXH5weK1) | 2:10 | 2024-10-01 | 2024-10-09 |
 | [エトセトラ](https://open.spotify.com/track/0ZL8UiHXyxztWWPVeGzfKp) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [GOLD HOUR \-EP\-](https://open.spotify.com/album/2uVBidHfAWmjNEJaWluiLl) | 4:48 | 2024-10-01 | 2024-10-09 |
@@ -179,7 +180,7 @@
 | [ギリギリガール](https://open.spotify.com/track/3l5PqJmUaIxzKTex48pfiT) | [ゆうやけしはす](https://open.spotify.com/artist/3CwuIn6tAOwZiPt8e0ydoi) | [ギリギリガール](https://open.spotify.com/album/5BeUOqlFuZiacNLBWAuIrw) | 3:00 | 2024-07-30 | 2024-08-07 |
 | [グッバイバイ](https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [グッバイバイ](https://open.spotify.com/album/2qpbGbndqRvyxQp1qYiUnv) | 3:21 | 2024-07-02 |  |
 | [コズミックランデヴー](https://open.spotify.com/track/2ZRCKkUtZucYkBnescrtvP) | [楓 幸枝](https://open.spotify.com/artist/2VCpkbUqhSU1FmZFmtozdn) | [コズミックランデヴー](https://open.spotify.com/album/0WQ5cbgonaFywVnvmYPDdi) | 3:38 | 2024-07-30 | 2024-08-07 |
-| [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-07-02 |  |
+| [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 | 2024-07-02 | 2024-12-03 |
 | [サラダステーション](https://open.spotify.com/track/2l0Mtli9Vi9JyXpcMdAjlk) | [kiss the gambler](https://open.spotify.com/artist/2b7i2PuYkVMs9fAbKpLlCZ) | [サラダステーション](https://open.spotify.com/album/7woGN0kSv27obF3sbopRu7) | 5:19 | 2024-07-30 | 2024-08-07 |
 | [ジェラシー](https://open.spotify.com/track/1D8CQdoa0S86dLwbSXkHq9) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [ジェラシー](https://open.spotify.com/album/0XDavETO2DCvqnciTzdwMj) | 2:46 | 2024-07-26 | 2024-09-12 |
 | [スイートメモリー](https://open.spotify.com/track/1ogO3SlbAhuba46ecZ05v8) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [スイートメモリー](https://open.spotify.com/album/5Zxr5RKkTWrkrMmSULCNQD) | 3:19 | 2024-07-09 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Bils",
-  "num_followers": 57529,
+  "num_followers": 57542,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,22 @@
     {
       "added_at": "2024-11-29 08:10:45",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
+        "name": "Pawon Boy Vol.1",
+        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Dj 4kerty",
+          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
+      "duration_ms": 135652,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
     },
     {
       "added_at": "2024-11-29 08:10:45",
@@ -227,22 +227,22 @@
     {
       "added_at": "2024-11-29 08:10:45",
       "album": {
-        "name": "Pawon Boy Vol.1",
-        "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         },
         {
-          "name": "Dj 4kerty",
-          "url": "https://open.spotify.com/artist/0xJqq4oOJVpnnUv8h7dOwG"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 135652,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
+      "duration_ms": 205263,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
       "added_at": "2024-11-29 08:10:45",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-11-29 08:10:45",
       "album": {
-        "name": "Logba",
-        "url": "https://open.spotify.com/album/2a7nu2JTVltWK2HPN9i34z"
-      },
-      "artists": [
-        {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
-        },
-        {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        }
-      ],
-      "duration_ms": 135706,
-      "name": "Logba",
-      "url": "https://open.spotify.com/track/7AP9pu6RfGxLDOZQNLdVhp"
-    },
-    {
-      "added_at": "2024-11-29 08:10:45",
-      "album": {
         "name": "Fire & Ice",
         "url": "https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 211485,
       "name": "Woman of Virtue (feat. Ajebo Hustlers)",
       "url": "https://open.spotify.com/track/3dL9z0AKrbYD17VH4owfXH"
+    },
+    {
+      "added_at": "2024-11-29 08:10:45",
+      "album": {
+        "name": "Logba",
+        "url": "https://open.spotify.com/album/2a7nu2JTVltWK2HPN9i34z"
+      },
+      "artists": [
+        {
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "Logba",
+      "url": "https://open.spotify.com/track/7AP9pu6RfGxLDOZQNLdVhp"
     },
     {
       "added_at": "2024-11-29 08:10:45",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2024-11-29 08:10:45",
       "album": {
-        "name": "Te Button",
-        "url": "https://open.spotify.com/album/4mL10441YojtOmgogaMlzG"
-      },
-      "artists": [
-        {
-          "name": "Oladips",
-          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
-        },
-        {
-          "name": "Rexxie",
-          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Te Button",
-      "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
-    },
-    {
-      "added_at": "2024-11-29 08:10:45",
-      "album": {
         "name": "BETELGEUSE",
         "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 208432,
       "name": "BETELGEUSE",
       "url": "https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd"
+    },
+    {
+      "added_at": "2024-11-29 08:10:45",
+      "album": {
+        "name": "Te Button",
+        "url": "https://open.spotify.com/album/4mL10441YojtOmgogaMlzG"
+      },
+      "artists": [
+        {
+          "name": "Oladips",
+          "url": "https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won"
+        },
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Te Button",
+      "url": "https://open.spotify.com/track/0z2knWPwd0ersERolm2o77"
     },
     {
       "added_at": "2024-11-29 08:10:45",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-11-29 08:10:45",
       "album": {
-        "name": "BIG CHIEF",
-        "url": "https://open.spotify.com/album/739Mu88Ai8sLeRaZS1yi4S"
-      },
-      "artists": [
-        {
-          "name": "LAYCON",
-          "url": "https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "BIG CHIEF",
-      "url": "https://open.spotify.com/track/4LKn9gJAmNkcGJydMf2jjM"
-    },
-    {
-      "added_at": "2024-11-29 08:10:45",
-      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/28CwDxrjgiiRREUROkq2RV"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 86557,
       "name": "Burn",
       "url": "https://open.spotify.com/track/43MLiJ282su6RaUz6HIUJZ"
+    },
+    {
+      "added_at": "2024-11-29 08:10:45",
+      "album": {
+        "name": "BIG CHIEF",
+        "url": "https://open.spotify.com/album/739Mu88Ai8sLeRaZS1yi4S"
+      },
+      "artists": [
+        {
+          "name": "LAYCON",
+          "url": "https://open.spotify.com/artist/3ge7WahzUrMDAIdlIcchQP"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "BIG CHIEF",
+      "url": "https://open.spotify.com/track/4LKn9gJAmNkcGJydMf2jjM"
     },
     {
       "added_at": "2024-11-29 08:10:45",

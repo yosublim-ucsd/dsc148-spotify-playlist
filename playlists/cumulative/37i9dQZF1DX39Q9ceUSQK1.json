@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe indie, rock en alternative. Cover: Mood Bored",
+  "description": "Nieuwe indie, rock en alternative. Cover: Sam Fender",
   "name": "New Alternative",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 187686,
       "name": "A Hole In The Ground",
       "url": "https://open.spotify.com/track/5K6UDDSQrr4SPyLTpMw4wP"
@@ -319,6 +319,24 @@
     },
     {
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x"
+      },
+      "artists": [
+        {
+          "name": "total tommy",
+          "url": "https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156924,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2"
+    },
+    {
+      "album": {
         "name": "Anyone, Anything",
         "url": "https://open.spotify.com/album/2le1dcsSTG2r8wSh3vsHhB"
       },
@@ -384,10 +402,28 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 203692,
       "name": "Audacious",
       "url": "https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq"
+    },
+    {
+      "album": {
+        "name": "Punch the clock, smile and wave",
+        "url": "https://open.spotify.com/album/12J3q62nNerYGgv1CZgw7I"
+      },
+      "artists": [
+        {
+          "name": "John Coffey",
+          "url": "https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "Baby, if it\u2019s toxic",
+      "url": "https://open.spotify.com/track/51lu9OVGbmv4ptXQjzDZ55"
     },
     {
       "album": {
@@ -568,7 +604,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 204469,
       "name": "Boom Boom Back",
       "url": "https://open.spotify.com/track/6oMscBxiNQ9vYRqNuTXhg5"
@@ -604,7 +640,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 143600,
       "name": "Busman",
       "url": "https://open.spotify.com/track/5AIJbLjMulhq1IT8Do7Aep"
@@ -1155,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "Fig Tree",
+        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221394,
+      "name": "Fig Tree",
+      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
+    },
+    {
+      "album": {
         "name": "Flea",
         "url": "https://open.spotify.com/album/74lpr1ZRBpTMV7dU5qyjTN"
       },
@@ -1602,6 +1656,24 @@
       "duration_ms": 217776,
       "name": "If You Would Prove Me Wrong Now",
       "url": "https://open.spotify.com/track/1Z1Z33mYJe4z2XT9FFYB76"
+    },
+    {
+      "album": {
+        "name": "IGNORED",
+        "url": "https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n"
+      },
+      "artists": [
+        {
+          "name": "Boko Yout",
+          "url": "https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166322,
+      "name": "IGNORED",
+      "url": "https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN"
     },
     {
       "album": {
@@ -2163,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Night Or Day",
+        "url": "https://open.spotify.com/album/0AMKqFMsJRi3092NMEneaJ"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201929,
+      "name": "Night Or Day",
+      "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
+    },
+    {
+      "album": {
         "name": "No Obligation",
         "url": "https://open.spotify.com/album/1HVe5wBBPAASqbV4j6qhQg"
       },
@@ -2217,6 +2307,28 @@
     },
     {
       "album": {
+        "name": "Nom Nom Nom / Cat Burglar",
+        "url": "https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Nom Nom Nom",
+      "url": "https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/60fqRyu5oxkvMGBPlDqpH5"
       },
@@ -2228,7 +2340,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 147271,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/1ybPhPFDBLiWZiDbtUufH9"
@@ -2336,7 +2448,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 146153,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/1FmgTAoC16gigHr2mx1cmC"
@@ -2668,7 +2780,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 257000,
       "name": "Schmetterling",
       "url": "https://open.spotify.com/track/1FdKU2jBVHNlsY5SdT5v9N"
@@ -3356,7 +3468,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 212133,
       "name": "Til The Morning",
       "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
@@ -3374,7 +3486,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 259583,
       "name": "Tiny Tears",
       "url": "https://open.spotify.com/track/0m9i9RHKwLKUYaUYLC6ENk"
@@ -3482,7 +3594,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 177306,
       "name": "TV People",
       "url": "https://open.spotify.com/track/2r4UjCOVKaot2Oz6ywlD1f"
@@ -3522,6 +3634,24 @@
       "duration_ms": 263160,
       "name": "Undertow",
       "url": "https://open.spotify.com/track/1xjSa52OsjBnsMhQgeQ3pm"
+    },
+    {
+      "album": {
+        "name": "Until Now",
+        "url": "https://open.spotify.com/album/54mtvRH7CUzuGS8T9DZB2y"
+      },
+      "artists": [
+        {
+          "name": "Eelke",
+          "url": "https://open.spotify.com/artist/0e0T8BLxbBdC4LjjS1urjO"
+        }
+      ],
+      "date_added": "2024-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347069,
+      "name": "Until Now",
+      "url": "https://open.spotify.com/track/3KzKmr4BqWTj4ipgJ75h8r"
     },
     {
       "album": {
@@ -3716,7 +3846,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-03",
       "duration_ms": 196098,
       "name": "Wonderful Nothing - Edit",
       "url": "https://open.spotify.com/track/11GTpqJD4ycsqCfw8KIJt9"

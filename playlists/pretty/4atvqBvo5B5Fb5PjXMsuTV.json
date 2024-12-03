@@ -1,13 +1,133 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 01 Dec 14:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Dec 23:03 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAANcZn6Qzn35b2m8bZyL7aKiTguAJ+W",
+  "snapshot_id": "AAANdrE1RVRS38Pwjtt8K0Z6bgtjdggJ",
   "tracks": [
+    {
+      "added_at": "2024-12-02 19:07:08",
+      "album": {
+        "name": "Wild Long Lie",
+        "url": "https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 364533,
+      "name": "Wild Long Lie",
+      "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
+    },
+    {
+      "added_at": "2024-12-02 19:07:08",
+      "album": {
+        "name": "PLAY (VIP)",
+        "url": "https://open.spotify.com/album/1oQ70ZgRQdGhvGEzI45v2q"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "PLAY - VIP",
+      "url": "https://open.spotify.com/track/5aR1RuL4EFsiYFl99lkdbR"
+    },
+    {
+      "added_at": "2024-12-02 23:03:38",
+      "album": {
+        "name": "POSTURADAS",
+        "url": "https://open.spotify.com/album/7pAshqKtrygnmOtBxr11j0"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "POSTURADAS",
+      "url": "https://open.spotify.com/track/6XenU1cZzUrZ168hUxEjlN"
+    },
+    {
+      "added_at": "2024-12-02 19:07:08",
+      "album": {
+        "name": "Body Organic Disco Electronic",
+        "url": "https://open.spotify.com/album/1sat7HT0WjqPVnMTWYeTbI"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Body Organic Disco Electronic",
+      "url": "https://open.spotify.com/track/61x4U9nM693hq6DiHBJ6N4"
+    },
+    {
+      "added_at": "2024-12-01 14:05:31",
+      "album": {
+        "name": "Underwater Reflection",
+        "url": "https://open.spotify.com/album/21dQzuC2gzIxEQhwKwapgq"
+      },
+      "artists": [
+        {
+          "name": "\u7f8e\u6ce2",
+          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
+        }
+      ],
+      "duration_ms": 388016,
+      "name": "Underwater Reflection",
+      "url": "https://open.spotify.com/track/1RgGi33UgdVP5a1lWPcK8x"
+    },
+    {
+      "added_at": "2024-12-01 14:05:31",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb"
+      },
+      "artists": [
+        {
+          "name": "Joeyy",
+          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
+        }
+      ],
+      "duration_ms": 115230,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE"
+    },
+    {
+      "added_at": "2024-12-02 19:07:08",
+      "album": {
+        "name": "Burgerpommes 2",
+        "url": "https://open.spotify.com/album/3lv5pXqA46mgcbRhZG5S2W"
+      },
+      "artists": [
+        {
+          "name": "LukasBS",
+          "url": "https://open.spotify.com/artist/6UXLYfkcd2st5enW3bxvlQ"
+        },
+        {
+          "name": "Marvin Vlogt",
+          "url": "https://open.spotify.com/artist/0lJCrlh8MQ4qGpLV0NMvAo"
+        },
+        {
+          "name": "Canselguel",
+          "url": "https://open.spotify.com/artist/7xsSqPJSdYSj17KJKGGYTR"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Burgerpommes 2",
+      "url": "https://open.spotify.com/track/3SGNRhjDFRsjYqswl3Zptq"
+    },
     {
       "added_at": "2024-11-30 23:05:16",
       "album": {
@@ -117,22 +237,6 @@
       "url": "https://open.spotify.com/track/36sJSi1dMErvXeLDT5TWAa"
     },
     {
-      "added_at": "2024-11-30 09:04:11",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV"
-      },
-      "artists": [
-        {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
-        }
-      ],
-      "duration_ms": 172055,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV"
-    },
-    {
       "added_at": "2024-11-29 18:36:07",
       "album": {
         "name": "ManDarE TuTto All'aRIA",
@@ -147,6 +251,22 @@
       "duration_ms": 169738,
       "name": "ManDarE TuTto All'aRIA",
       "url": "https://open.spotify.com/track/3ztQCUpdLcXDP8eMXb1Ljq"
+    },
+    {
+      "added_at": "2024-11-30 09:04:11",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6rqhYGB9okEjw3KuciklEV"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "duration_ms": 172055,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4660UGjHeuUS1wvNwa2aVV"
     },
     {
       "added_at": "2024-11-30 14:07:35",
@@ -787,118 +907,6 @@
       "duration_ms": 117791,
       "name": "BREAKTHESOUND",
       "url": "https://open.spotify.com/track/0XgKaZxMHBnNNGkz7n7Pz8"
-    },
-    {
-      "added_at": "2024-11-30 23:05:16",
-      "album": {
-        "name": "The Labyrinth",
-        "url": "https://open.spotify.com/album/2H97NjkNcAMNUfVfofYOKx"
-      },
-      "artists": [
-        {
-          "name": "Starkey",
-          "url": "https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK"
-        }
-      ],
-      "duration_ms": 397994,
-      "name": "The Labyrinth",
-      "url": "https://open.spotify.com/track/6EXvYZuBEsh2J4rKkGMXIV"
-    },
-    {
-      "added_at": "2024-11-29 18:36:07",
-      "album": {
-        "name": "Mieszane Uczucia",
-        "url": "https://open.spotify.com/album/3ibZA1MhUoV4YNX5N0hYor"
-      },
-      "artists": [
-        {
-          "name": "Bluszcz",
-          "url": "https://open.spotify.com/artist/4QUfzPnzzNf93Y6VKxZVlD"
-        }
-      ],
-      "duration_ms": 220566,
-      "name": "Mieszane Uczucia",
-      "url": "https://open.spotify.com/track/2zw8q69N81ZiK0BG7EIQU5"
-    },
-    {
-      "added_at": "2024-11-29 18:36:07",
-      "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/7cdklPYtqUEdnOen3rZTfG"
-      },
-      "artists": [
-        {
-          "name": "Astronom\u00eda Interior",
-          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Abril",
-      "url": "https://open.spotify.com/track/68wjsGsoZp2okiqMqgj8jT"
-    },
-    {
-      "added_at": "2024-11-29 18:36:07",
-      "album": {
-        "name": "Losing Daylight",
-        "url": "https://open.spotify.com/album/0Vwkni2UzObnj2cQiUBBNU"
-      },
-      "artists": [
-        {
-          "name": "Alice Shone",
-          "url": "https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ"
-        }
-      ],
-      "duration_ms": 175556,
-      "name": "Losing Daylight",
-      "url": "https://open.spotify.com/track/2PhjeIbklHKDrlSNREDFnQ"
-    },
-    {
-      "added_at": "2024-11-29 18:36:07",
-      "album": {
-        "name": "ALL MY LOVE",
-        "url": "https://open.spotify.com/album/3lTIRKV7awuSSd53FrFWwH"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 222647,
-      "name": "ALL MY LOVE",
-      "url": "https://open.spotify.com/track/3PpIWOUaPwDxu0ysEaFfAr"
-    },
-    {
-      "added_at": "2024-12-01 14:05:31",
-      "album": {
-        "name": "Underwater Reflection",
-        "url": "https://open.spotify.com/album/21dQzuC2gzIxEQhwKwapgq"
-      },
-      "artists": [
-        {
-          "name": "\u7f8e\u6ce2",
-          "url": "https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G"
-        }
-      ],
-      "duration_ms": 388016,
-      "name": "Underwater Reflection",
-      "url": "https://open.spotify.com/track/1RgGi33UgdVP5a1lWPcK8x"
-    },
-    {
-      "added_at": "2024-12-01 14:05:31",
-      "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/6eWlitVfgq4RsD8ZhzSGmb"
-      },
-      "artists": [
-        {
-          "name": "Joeyy",
-          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
-        }
-      ],
-      "duration_ms": 115230,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/0fw83rSEAVNp8jQRH2bfAE"
     }
   ],
   "unique_name": "New Singles Now",
