@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Adi\u00f3s Amor",
+      "url": "https://open.spotify.com/track/6KfMaLSdCCHy8DwjlMjxqu"
+    },
+    {
+      "album": {
         "name": "Algo De Mi",
         "url": "https://open.spotify.com/album/3B9MzXXUxN220d67ev3g6R"
       },
@@ -496,7 +514,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 169973,
       "name": "Arturo Garza Trevino",
       "url": "https://open.spotify.com/track/124rsyrZdIRjZlbL40PoAt"
@@ -1800,10 +1818,28 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 184106,
       "name": "Hay Unos Ojos",
       "url": "https://open.spotify.com/track/5qWXKWK2m1w949LMpQoeRz"
+    },
+    {
+      "album": {
+        "name": "No Vengas A Rogarme",
+        "url": "https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Hay Unos Ojos",
+      "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
     },
     {
       "album": {
@@ -2330,7 +2366,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 178600,
       "name": "Mi Golondrina - En Vivo",
       "url": "https://open.spotify.com/track/1oXTiFmljKee2o6tmOO8sR"
@@ -2474,7 +2510,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-08",
+      "date_removed": null,
       "duration_ms": 168293,
       "name": "Mujer Paseada",
       "url": "https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx"
@@ -3645,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
+    },
+    {
+      "album": {
         "name": "En Vivo... El Hombre Y Su Musica",
         "url": "https://open.spotify.com/album/6CQHDMfFOGqspVTHRBZugx"
       },
@@ -4124,7 +4178,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 220499,
       "name": "Un Rinconcito En El Cielo",
       "url": "https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt"

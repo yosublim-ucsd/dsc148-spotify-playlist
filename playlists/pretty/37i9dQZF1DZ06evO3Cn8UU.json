@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 35920,
+  "num_followers": 35928,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAABFNenH1+MClz3ze+mPl0Ti",
+  "snapshot_id": "Z0z4gAAAAACuzSvlOkbEIHi5hNC9O+Hm",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 377466,
+      "name": "Love Is the Power",
+      "url": "https://open.spotify.com/track/5yHIHTCmT4Y5XdmUFUjX5r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 518000,
       "name": "I Miss You (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/5y0yvFr9dAsT1ycNUYSRPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 377466,
-      "name": "Love Is the Power",
-      "url": "https://open.spotify.com/track/5yHIHTCmT4Y5XdmUFUjX5r"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 388960,
+      "name": "This Is the Last Time",
+      "url": "https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 213853,
       "name": "The Love I Lost (feat. Teddy Pendergrass) - Single Version",
       "url": "https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 388960,
-      "name": "This Is the Last Time",
-      "url": "https://open.spotify.com/track/3QGvS8MsPrXMc7BoGiN9DM"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 376066,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 199480,
       "name": "Where Are All My Friends (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/1h6KiZutaBzWoWvMXB8sg0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/7gfiD81y32DpG9zPn0Cmwu"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 376066,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/2Qv5EUATFNebcFGq3rN8O6"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
       "duration_ms": 264573,
       "name": "The More I Get, the More I Want",
       "url": "https://open.spotify.com/track/6nkhaYvdho2vRH5JTrJX7f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 279426,
-      "name": "To Be True (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
     },
     {
       "added_at": null,
@@ -587,6 +567,26 @@
       "duration_ms": 272773,
       "name": "Cold, Cold World",
       "url": "https://open.spotify.com/track/2JeGn2P5XAoyFegt3zfNIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 279426,
+      "name": "To Be True (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
     },
     {
       "added_at": null,
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 245493,
-      "name": "You Can't Hide from Yourself",
-      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+      "duration_ms": 311933,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 311933,
-      "name": "Somebody Told Me",
-      "url": "https://open.spotify.com/track/6gdqSzaRWOOgFnWUvsGb0d"
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Is It Still Good to Ya",
-      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teddy (Expanded Edition)",
         "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 273000,
       "name": "All I Need Is You",
       "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Is It Still Good to Ya",
+      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
     },
     {
       "added_at": null,

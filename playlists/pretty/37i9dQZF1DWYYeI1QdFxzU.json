@@ -1,6 +1,6 @@
 {
   "description": "A soundscape of chilled electronic and compositional ambient music, to help you unwind.",
-  "num_followers": 680272,
+  "num_followers": 680287,
   "original_name": "The Wind Down",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Closer (feat. Biishop)",
-        "url": "https://open.spotify.com/album/1LnoDz0b3v2PsfvEBBXYrs"
-      },
-      "artists": [
-        {
-          "name": "Von Boch",
-          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
-        },
-        {
-          "name": "Biishop",
-          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
-        }
-      ],
-      "duration_ms": 364958,
-      "name": "Closer (feat. Biishop)",
-      "url": "https://open.spotify.com/track/3pScJqnbEt2M4UwwgxhgaS"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
         "name": "Love In Our Hands (Omfeel Remix)",
         "url": "https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 218118,
       "name": "Love In Our Hands - Omfeel Remix",
       "url": "https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh"
+    },
+    {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "Closer (feat. Biishop)",
+        "url": "https://open.spotify.com/album/1LnoDz0b3v2PsfvEBBXYrs"
+      },
+      "artists": [
+        {
+          "name": "Von Boch",
+          "url": "https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0"
+        },
+        {
+          "name": "Biishop",
+          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
+        }
+      ],
+      "duration_ms": 364958,
+      "name": "Closer (feat. Biishop)",
+      "url": "https://open.spotify.com/track/3pScJqnbEt2M4UwwgxhgaS"
     },
     {
       "added_at": "2024-11-01 00:01:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2024-11-01 00:01:00",
       "album": {
-        "name": "Opals [Strings]",
-        "url": "https://open.spotify.com/album/0rQAG1x8En0pK6ibB57C5h"
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/5MeltqrIcaTDQzfJAunW6m"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Thomas James White",
+          "url": "https://open.spotify.com/artist/6Tn5oQhfKwtNMsOmV8Mzgy"
         }
       ],
-      "duration_ms": 166813,
-      "name": "Opals [Strings]",
-      "url": "https://open.spotify.com/track/3sXfYyVPU8qUk6s0ptba63"
+      "duration_ms": 222653,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/6X8rafA2jNs00EYtlao12t"
     }
   ],
   "unique_name": "The Wind Down",

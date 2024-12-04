@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 
 > This is Adrianne Lenker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,375 likes - 38 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,394 likes - 38 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rdzeb.md) - [plain]
 | 34 | [what can you say](https://open.spotify.com/track/3WZWhKFFfIrs6ykt8kO9Ua) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 2:28 |
 | 35 | [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 |
 | 36 | [Carolina](https://open.spotify.com/track/2wEFuTCFRBvUTet1gomQGa) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [b\-sides](https://open.spotify.com/album/7skmDXP36SNveM5XKFoLuK) | 2:30 |
-| 37 | [To Violet](https://open.spotify.com/track/3oVNHBpsS6W704YXbIoZaN) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 0:57 |
+| 37 | [Snow Song](https://open.spotify.com/track/0Cb1Ltn7Gc84D8x0SKmAZX) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Hours Were the Birds](https://open.spotify.com/album/3ZQoTj4ttmoO45QUE6StBW) | 3:56 |
 | 38 | [blue and red horses](https://open.spotify.com/track/4N2LdRzYxtWKTkHH3G9d1L) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [abysskiss](https://open.spotify.com/album/1Bff8eaWt2o058OQIq2OPa) | 3:17 |
 
-Snapshot ID: `Z0unAAAAAAD8i8x49q3pyHA532l77wmD`
+Snapshot ID: `Z0z4gAAAAABGenlhY5iAcUZ9IuuL9zln`

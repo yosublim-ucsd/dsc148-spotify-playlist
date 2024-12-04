@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,864 songs - 4 day 3 hr 38 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 15 likes - 1,864 songs - 4 day 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

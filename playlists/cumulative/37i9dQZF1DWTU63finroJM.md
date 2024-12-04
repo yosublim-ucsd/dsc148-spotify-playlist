@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Berre.
 
-1,758 songs - 3 day 23 hr 33 min
+1,759 songs - 3 day 23 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [21 de septiembre](https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [21 de septiembre](https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko) | 2:07 | 2024-05-03 | 2024-05-22 |
 | [24 Hours in Paris](https://open.spotify.com/track/669mVgiLz39msLj9dDsGBK) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [24 Hours in Paris](https://open.spotify.com/album/3qK46m8uJIkTlIG1ZhZwha) | 3:00 | 2024-06-07 | 2024-11-09 |
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-02-03 | 2022-12-15 |
+| [30,000](https://open.spotify.com/track/2d0JouNdQsX6rFzaWlRtkD) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [30,000](https://open.spotify.com/album/4BvAGJTpHcxLjcIC9t6OTg) | 3:07 | 2024-11-29 |  |
 | [35.mm](https://open.spotify.com/track/1JjEdM4PzGEUXxttBXsOW1) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [no\-vacancy](https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq) | 3:24 | 2023-05-30 | 2024-03-09 |
 | [3:01am](https://open.spotify.com/track/0Ou5YCTpsk5rZoe3d8ihrO) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [3:01am](https://open.spotify.com/album/1xoWprZRhecJvQk5xssnkk) | 4:10 | 2022-03-24 | 2022-04-19 |
 | [4BULLDOG](https://open.spotify.com/track/0o34eUWYUM35IB20gxXqFd) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz) | [4BULLDOG](https://open.spotify.com/album/56Ajzc7c2e4ckRuGbVSaXX) | 2:31 | 2024-06-28 | 2024-11-09 |
@@ -246,7 +247,7 @@
 | [Cachemire](https://open.spotify.com/track/4oKvj7JpbW6YDoC9lVF1MK) | [Smeels](https://open.spotify.com/artist/6FyY3mlFrDdKUX35GrzeOZ) | [Toujours pas rappeur.](https://open.spotify.com/album/4KStzhPjqdg6DsBvz8HWQu) | 3:15 | 2022-03-24 | 2022-08-05 |
 | [Cafeliko](https://open.spotify.com/track/1ke6DDQfH9iW2g1abrUdua) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:07 | 2022-09-08 | 2023-05-31 |
 | [California](https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:46 | 2024-05-10 | 2024-09-24 |
-| [CALL ME WHEN YOU GET HOME](https://open.spotify.com/track/6ntx8S1rMyvbydeSvNUtmJ) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/album/07CbkGl1YOymwyeWb4Nug9) | 2:48 | 2024-10-25 |  |
+| [CALL ME WHEN YOU GET HOME](https://open.spotify.com/track/6ntx8S1rMyvbydeSvNUtmJ) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [CALL ME WHEN YOU GET HOME](https://open.spotify.com/album/07CbkGl1YOymwyeWb4Nug9) | 2:48 | 2024-10-25 | 2024-12-04 |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-03-21 | 2022-06-26 |
 | [Call of Valhalla](https://open.spotify.com/track/6hShO2ZZ0bFO1SNfpfkHOD) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [ELOWI](https://open.spotify.com/album/49TUnWv5swURA9osAyLHI2) | 2:53 | 2023-10-27 | 2024-04-27 |
 | [Call You Mine](https://open.spotify.com/track/2mK80eNz1IrJh2Yyi2glRe) | [FML](https://open.spotify.com/artist/0fUa0Fw2rm0HCRtKYmBJ1N), [Seachains](https://open.spotify.com/artist/6UiKZD9yB7Gxjol62s431k), [Nhat Hoang](https://open.spotify.com/artist/12rPv2DR0Jq0dKp7Rz0iZK) | [Call You Mine](https://open.spotify.com/album/0qVrL3DlsGeJn7prR1e07a) | 2:38 | 2022-02-03 | 2023-01-21 |

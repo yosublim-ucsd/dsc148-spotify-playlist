@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Aspect of Mind",
+        "url": "https://open.spotify.com/album/2H1MlDVqpEgDhtIkDfkct0"
+      },
+      "artists": [
+        {
+          "name": "Kunushevci",
+          "url": "https://open.spotify.com/artist/2Etal9cBcsTP6maAdJEWZl"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177297,
+      "name": "Aspect of Mind",
+      "url": "https://open.spotify.com/track/6onduIvF4Ypci4LvhfHjBq"
+    },
+    {
+      "album": {
         "name": "At last",
         "url": "https://open.spotify.com/album/24NHRvgtq3lBESZ98LLDdd"
       },
@@ -3892,6 +3910,24 @@
       "duration_ms": 211020,
       "name": "Sitar Sunshine",
       "url": "https://open.spotify.com/track/1BrUISehjHjDiXNvnDUzJI"
+    },
+    {
+      "album": {
+        "name": "sky's prism",
+        "url": "https://open.spotify.com/album/79IfSE230dJCmv3c2wVUAf"
+      },
+      "artists": [
+        {
+          "name": "AstroAether",
+          "url": "https://open.spotify.com/artist/1Sy04vJvcc5VSae7QTvFUn"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199365,
+      "name": "sky's prism",
+      "url": "https://open.spotify.com/track/3KZCjN8f07tgMPQ83dECWq"
     },
     {
       "album": {

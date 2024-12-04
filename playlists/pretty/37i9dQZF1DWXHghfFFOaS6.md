@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,038 likes - 90 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,118 likes - 90 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 39 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 |
 | 40 | [Mama Said](https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf) | [Carleen Anderson](https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6) | [True Spirit](https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp) | 4:07 |
 | 41 | [We Have Love](https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh) | [Amnesty](https://open.spotify.com/artist/13clnHtI56jEGjzqeD0Q1o) | [Free Your Mind](https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj) | 4:32 |
-| 42 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
-| 43 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
+| 42 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
+| 43 | [Evil Vibrations](https://open.spotify.com/track/2kKP6f4FdVxOHvUG8ctLKY) | [The Rebirth](https://open.spotify.com/artist/69Jz3OjR3kdhCoJoAY8PSL) | [Rewind, Vol\. 4](https://open.spotify.com/album/7FGy6XcQ4v0sP56LWbg6gp) | 5:33 |
 | 44 | [Feel The Real](https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm) | [David Bendeth](https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe) | [Adrenalin](https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe) | 6:50 |
 | 45 | [Free Your Mind](https://open.spotify.com/track/6YjqkGsBgRHqdnbCS4pbjs) | [James Taylor Quartet](https://open.spotify.com/artist/4yJ5JaEQvtAynbcucAiN0R) | [In the Hand of the Inevitable](https://open.spotify.com/album/4XTXpbLvjAvzyzInkgK992) | 4:54 |
 | 46 | [Be Thankful](https://open.spotify.com/track/2bULDC7iIk43NXgGKA4vPB) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [William DeVaughan](https://open.spotify.com/artist/1Ti8l2zXtTyMRi37I4mSK4) | [Best by Far](https://open.spotify.com/album/4HRoAeVyVORkenqpt9oXIk) | 4:12 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 64 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
 | 65 | [Walk That Walk, Talk That Talk](https://open.spotify.com/track/5j67zBPrFyvQPvdZP9qYMp) | [Weldon Irvine](https://open.spotify.com/artist/05BX9gTvlalkzuFVg3CqyL) | [Cosmic Vortex \(Justice Divine\)](https://open.spotify.com/album/0dLKIaUvIDgBtvndoOvz52) | 7:50 |
 | 66 | [Life In Paradise](https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK) | [Ronnie Laws](https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC) | [Friends & Strangers](https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a) | 7:00 |
-| 67 | [House of the Rising Sun](https://open.spotify.com/track/71hiblgY44Xeo11ajThYz6) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [House of the Rising Sun](https://open.spotify.com/album/6pC0QxD8NR7f1R5HzJ4q5U) | 4:42 |
-| 68 | [Playing my piano](https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Playing my piano](https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV) | 6:21 |
+| 67 | [Playing my piano](https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Playing my piano](https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV) | 6:21 |
+| 68 | [House of the Rising Sun](https://open.spotify.com/track/71hiblgY44Xeo11ajThYz6) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [House of the Rising Sun](https://open.spotify.com/album/6pC0QxD8NR7f1R5HzJ4q5U) | 4:42 |
 | 69 | [Niassam](https://open.spotify.com/track/0XhBxYFy31XAUdVHDGUDJU) | [Zoe's Shanghai](https://open.spotify.com/artist/36T1dKV85iiOQQUl3WF0F5) | [Lava Love](https://open.spotify.com/album/15WYJCGGKm3PiepYR2QWUT) | 4:58 |
 | 70 | [Peer Pressure](https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o) | [The Whole Thing](https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM) | [The Whole Thing](https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc) | 3:48 |
 | 71 | [Check The Pulse](https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Check The Pulse](https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5) | 2:34 |
 | 72 | [Black Rhythm Happening](https://open.spotify.com/track/1OBGwJ6cCv4QYRcPlb67IQ) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Black Rhythm Happening](https://open.spotify.com/album/5L1apjgVkSAKuWQZyuqmRz) | 3:34 |
-| 73 | [Dream Waves](https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD) | [New Jersey Kings](https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp) | [Stratosphere Breakdown](https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K) | 4:55 |
-| 74 | [Don't Let It Go to Your Head](https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [The Best of Acid Jazz Vol\. 2](https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f) | 3:51 |
+| 73 | [Don't Let It Go to Your Head](https://open.spotify.com/track/0NQ61HS437hTIsl57U0GNw) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14) | [The Best of Acid Jazz Vol\. 2](https://open.spotify.com/album/5TagkuIHtwtdmDKqdMdv9f) | 3:51 |
+| 74 | [Dream Waves](https://open.spotify.com/track/60tYJYZU9TwT39TlRd2ekD) | [New Jersey Kings](https://open.spotify.com/artist/6g81T9O07sCvu1uYzzOVIp) | [Stratosphere Breakdown](https://open.spotify.com/album/15ZDZluZWWoORCxA5XQz3K) | 4:55 |
 | 75 | [C'était un rendez\-vous](https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j) | [Arms and Sleepers](https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP) | [C'était un rendez\-vous](https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W) | 5:20 |
 | 76 | [In The Breaks](https://open.spotify.com/track/34IBYWXWppPwRJa9mCuPtc) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [In The Breaks](https://open.spotify.com/album/0NprC2Nx1OAmDaUChFAvMm) | 4:49 |
 | 77 | [Pete's Sake](https://open.spotify.com/track/0CrzPm81c6W4uwXWSu1rB8) | [All Good Funk Alliance](https://open.spotify.com/artist/73Qym52gV9q9oJuZMZZv0s) | [On The One](https://open.spotify.com/album/2wxTaM1mg8J6T5lQgOugGk) | 5:32 |

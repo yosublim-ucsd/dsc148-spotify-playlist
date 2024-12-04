@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. CoCo in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,502 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,528 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

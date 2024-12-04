@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 348800,
       "name": "DREAM JOURNEY",
       "url": "https://open.spotify.com/track/0OqwFNeojF4vgjE7FFptcZ"
@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -05 Jupiter",
+        "url": "https://open.spotify.com/album/3zBCmvg7DUOCEaIbTY8xOt"
+      },
+      "artists": [
+        {
+          "name": "\u5fa1\u624b\u6d17\u7fd4\u592a (CV.\u677e\u5ca1\u798e\u4e1e)",
+          "url": "https://open.spotify.com/artist/27EIW2zgQENFON94CmfVOs"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215960,
+      "name": "GREETING CHARM",
+      "url": "https://open.spotify.com/track/3YZNMXF3H3MMaOEfoBFolv"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM GROWING SIGN@L 01 Growing Smiles\uff01",
         "url": "https://open.spotify.com/album/5iYeTsCLiHZtPCjyG3Qi6T"
       },
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 221400,
       "name": "Hungry?",
       "url": "https://open.spotify.com/track/2tbKrlz5rUmjZKBzT4A4lu"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 303266,
       "name": "Learning Message",
       "url": "https://open.spotify.com/track/5ICy98VAWQfVgBialQdD6s"
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 305186,
       "name": "Never end \"Opus\"",
       "url": "https://open.spotify.com/track/69YcmR3rldSdriAJMghwPj"
@@ -2090,6 +2108,32 @@
       "duration_ms": 248240,
       "name": "Secret Ornament",
       "url": "https://open.spotify.com/track/6nSVJPehM47RC9E4IjI4qg"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 05",
+        "url": "https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J"
+      },
+      "artists": [
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        },
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/52IGSjUEcspJeDbIeLIzve"
+        },
+        {
+          "name": "High\u00d7Joker",
+          "url": "https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262213,
+      "name": "Singing Explorers",
+      "url": "https://open.spotify.com/track/75Ir3kKNf3SASig0St0gFW"
     },
     {
       "album": {
@@ -3437,12 +3481,12 @@
         },
         {
           "name": "High Joker",
-          "url": "https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec"
+          "url": "https://open.spotify.com/artist/72dLwkFLqecJWmcMtWF8ZX"
         }
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-06",
+      "date_removed": null,
       "duration_ms": 298600,
       "name": "\u591c\u7a7a\u3092\u714c\u3081\u304f\u661f\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/5UKLEjFhNV3EeP7UjpL2nD"
@@ -3784,7 +3828,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 286053,
       "name": "\u7fbd\u3070\u305f\u304d\u306eMy Soul",
       "url": "https://open.spotify.com/track/7dbJHWEPrDikiGbG6kBQPV"

@@ -4,7 +4,7 @@
 
 > Popun sevilen isimleri\. Kapak: Işıl Ayman
 
-169 songs - 8 hr 25 min
+171 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Meleğim](https://open.spotify.com/track/6qjpvoOyxCl2DoLalk1DBV) | [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Meleğim](https://open.spotify.com/album/444lQ55RAdFaSf4CQLb0i7) | 2:45 | 2024-07-25 | 2024-08-28 |
 | [MESELA](https://open.spotify.com/track/2K2jYYM9W8ndtP6PUxy2pc) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [MESELA](https://open.spotify.com/album/1BryKb39CgLCKiXkw7z5Iu) | 3:00 | 2024-06-27 |  |
 | [Mevzu Derin](https://open.spotify.com/track/5VGWEPtPUKqjQwGO1Pyz2r) | [İkilem](https://open.spotify.com/artist/4hjJDrv2KkIEW1AslTEtv3) | [Mevzu Derin](https://open.spotify.com/album/1NVVh17oO9OQDmja5mPMTV) | 2:55 | 2024-10-24 |  |
-| [Müdavim](https://open.spotify.com/track/53VNTMgC3ERPW8k4rgXYE4) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Müdavim](https://open.spotify.com/album/1nnTqKDTO9fQjkFyzxnv5j) | 3:34 | 2024-11-28 |  |
+| [Müdavim](https://open.spotify.com/track/53VNTMgC3ERPW8k4rgXYE4) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Müdavim](https://open.spotify.com/album/1nnTqKDTO9fQjkFyzxnv5j) | 3:34 | 2024-11-28 | 2024-12-04 |
+| [Müptelanım Bilgine](https://open.spotify.com/track/1jypLgDWOBOJe6BgO8FWzo) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP) | [Müptelanım Bilgine](https://open.spotify.com/album/0wnXAeVnoF5hmh3kqKq4ka) | 3:44 | 2024-11-28 |  |
 | [Nadide](https://open.spotify.com/track/5qhr709zn63OZeb4y73vEI) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Nadide](https://open.spotify.com/album/3j5e1mWKw37259eLdXPJYh) | 2:49 | 2024-07-04 | 2024-08-16 |
 | [Nanik](https://open.spotify.com/track/2czKxc4zNI4LWBAkOq2bg9) | [Gülben Ergen](https://open.spotify.com/artist/6hypPYDPSsgioRRfBXve38) | [Nanik](https://open.spotify.com/album/3YXOLFTeVUTprhtcq7VGyG) | 2:37 | 2024-07-11 | 2024-08-10 |
 | [Ne Gereği Var](https://open.spotify.com/track/5yKZcdCdGBfcXaMFFb0WBH) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Ne Gereği Var](https://open.spotify.com/album/4o8eNCF5csXrQnCVvAmaM6) | 2:11 | 2024-06-27 |  |
@@ -138,7 +139,7 @@
 | [sevmedin mi?](https://open.spotify.com/track/3kJO0DXiNoKSKmCPLXqGpU) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [sevmedin mi?](https://open.spotify.com/album/1HLm6LRxuUDmDB2tAR90je) | 4:07 | 2024-07-31 | 2024-11-18 |
 | [Sevmek Değil](https://open.spotify.com/track/682SkNDZsp9QvfqK7PM9FQ) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Sevmek Değil](https://open.spotify.com/album/47TmV0OJmizaoPU4Wdobq9) | 3:16 | 2024-07-18 | 2024-09-07 |
 | [sga](https://open.spotify.com/track/3wxylsVa0oe4zNmWiD5xFt) | [Berrin Keklikler](https://open.spotify.com/artist/64Cq76lbrG6XZOZPo5Giwl) | [sga](https://open.spotify.com/album/4uLmsJzWa3hzkWJCZN6rMY) | 2:23 | 2024-06-27 |  |
-| [Sonbahar](https://open.spotify.com/track/7G2I1NgAdOFGVM2e6x2P15) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Sonbahar](https://open.spotify.com/album/1SBVjvWr5bVfEAokA9TrLs) | 3:55 | 2024-07-25 |  |
+| [Sonbahar](https://open.spotify.com/track/7G2I1NgAdOFGVM2e6x2P15) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Sonbahar](https://open.spotify.com/album/1SBVjvWr5bVfEAokA9TrLs) | 3:55 | 2024-07-25 | 2024-12-04 |
 | [Tavan](https://open.spotify.com/track/5sv3lmlUBl6A8A7W9H3ZEg) | [Evdeki Saat](https://open.spotify.com/artist/0w92tV1EQp7sxly7UjGR4P) | [Tavan](https://open.spotify.com/album/4n9WkOP2pL03tFdRCgidvb) | 3:43 | 2024-08-22 | 2024-08-27 |
 | [Teselli](https://open.spotify.com/track/5k43UsKtxkZNaHHBnqNk1R) | [Cem Yenel](https://open.spotify.com/artist/1DjFVFew6nQ21YObywl92Z) | [Teselli](https://open.spotify.com/album/6z6X2q7CXRAm3YAj44oLHf) | 3:06 | 2024-10-24 | 2024-12-02 |
 | [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 | 2024-06-27 | 2024-07-27 |
@@ -176,6 +177,7 @@
 | [Ömrüm](https://open.spotify.com/track/0ergOoWEYjObq6mVvLDXNU) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Ömrüm](https://open.spotify.com/album/0YVFUfwpTi8pjznxuyuGyz) | 2:33 | 2024-10-03 | 2024-11-15 |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-06-27 |  |
 | [Üzgünüm](https://open.spotify.com/track/0B8qH6UPs4dwXAVOBLhpsV) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Üzgünüm](https://open.spotify.com/album/7isCAPK9fbeeQjTcCzHdfh) | 4:01 | 2024-11-14 |  |
+| [Şehir Uyumaz](https://open.spotify.com/track/5neDaxItqF4c3BLDmrwcN6) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Şehir Uyumaz](https://open.spotify.com/album/65WTiIQ7hpECDFr2r239C9) | 2:26 | 2024-11-28 |  |
 | [Şerbetli](https://open.spotify.com/track/0tUu5krJnjTs3ebdeHP3uL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Kuantum 51](https://open.spotify.com/album/7jra0F6rSOJ36HIsTmwFfC) | 3:14 | 2024-06-27 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

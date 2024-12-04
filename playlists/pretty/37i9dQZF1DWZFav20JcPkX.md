@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain]
 
 > Big rock tracks from 2018\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,694 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,725 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,25 +30,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFav20JcPkX.md) - [plain]
 | 20 | [She's Kerosene](https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 2:50 |
 | 21 | [The Greatest Show](https://open.spotify.com/track/55PZSFcKQxXH5BOOcDA6yI) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [The Greatest Show](https://open.spotify.com/album/5C8a48NKuieqX1XlJvHzCs) | 2:54 |
 | 22 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
-| 23 | [No More](https://open.spotify.com/track/0IdNBZt0O8R9qBgezYFGOi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 3:52 |
-| 24 | [The Fear](https://open.spotify.com/track/2cppGOIz0cuDnKoGzrDsJQ) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Pressure](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE) | 3:03 |
+| 23 | [The Fear](https://open.spotify.com/track/2cppGOIz0cuDnKoGzrDsJQ) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Pressure](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE) | 3:03 |
+| 24 | [No More](https://open.spotify.com/track/0IdNBZt0O8R9qBgezYFGOi) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 3:52 |
 | 25 | [Nico and the Niners](https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:45 |
 | 26 | [Sham Pain](https://open.spotify.com/track/0nqIqABZcujg05mkixJV60) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 3:29 |
 | 27 | [When The Curtain Falls](https://open.spotify.com/track/2ZMI0QNoqU9fQZFirR9WpK) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Anthem Of The Peaceful Army](https://open.spotify.com/album/7zeCZY6rQRufc8IHGKyXGX) | 3:42 |
 | 28 | [Roaring 20s](https://open.spotify.com/track/0wdV94AXGRphrbkDWLNzVC) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:06 |
 | 29 | [Red Cold River](https://open.spotify.com/track/6ZfPmIbwzz6fopTNwAJTPs) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Ember](https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr) | 3:20 |
-| 30 | [Thought Contagion](https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:26 |
-| 31 | [Give Yourself A Try](https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:16 |
+| 30 | [Stronger](https://open.spotify.com/track/0VeoSHlgashtg5JYPJjl15) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Pressure](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE) | 3:10 |
+| 31 | [Thought Contagion](https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:26 |
 | 32 | [The Hype](https://open.spotify.com/track/7I3skNaQdvZSS7zXY2VHId) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 4:25 |
-| 33 | [Guiding Light](https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 3:37 |
-| 34 | [Stronger](https://open.spotify.com/track/0VeoSHlgashtg5JYPJjl15) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Pressure](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE) | 3:10 |
-| 35 | [Are You Ready](https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 4:21 |
+| 33 | [Give Yourself A Try](https://open.spotify.com/track/4rmIfFUZhhi9sS5IYtpkXw) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:16 |
+| 34 | [Are You Ready](https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 4:21 |
+| 35 | [Guiding Light](https://open.spotify.com/track/3W3RQneS2yhA7E5l1dJW18) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/0Wmnkh4lzGy5rgkUPOjYbg) | 3:37 |
 | 36 | [Body Talks](https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:58 |
-| 37 | [Despicable](https://open.spotify.com/track/5IPT4Noqvo7bsfbWUOHcG4) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:43 |
-| 38 | [I Hope You're Happy](https://open.spotify.com/track/2YJNoQKf1MPwlInwFPw28P) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [I Hope You're Happy](https://open.spotify.com/album/7J16CoUqYghD05b9cc4kZ9) | 3:52 |
-| 39 | [Heat of the Summer](https://open.spotify.com/track/649o53ULWYN1y7V2OI5kgo) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:31 |
-| 40 | [Dangerous Night](https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:19 |
-| 41 | [Glory](https://open.spotify.com/track/6hypt8VPJxeMXTTcRUHS86) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Pressure](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE) | 2:46 |
+| 37 | [Glory](https://open.spotify.com/track/6hypt8VPJxeMXTTcRUHS86) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Pressure](https://open.spotify.com/album/4enE8eppWJ9fQXLqTP2TDE) | 2:46 |
+| 38 | [Despicable](https://open.spotify.com/track/5IPT4Noqvo7bsfbWUOHcG4) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:43 |
+| 39 | [I Hope You're Happy](https://open.spotify.com/track/2YJNoQKf1MPwlInwFPw28P) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [I Hope You're Happy](https://open.spotify.com/album/7J16CoUqYghD05b9cc4kZ9) | 3:52 |
+| 40 | [Heat of the Summer](https://open.spotify.com/track/649o53ULWYN1y7V2OI5kgo) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:31 |
+| 41 | [Dangerous Night](https://open.spotify.com/track/7793p4ZXhtbW5RpeRK7rid) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:19 |
 | 42 | [\(Fuck A\) Silver Lining](https://open.spotify.com/track/3BDxv4ORzOpXAsa4lWVl4i) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 2:48 |
 | 43 | [Quarter Past Midnight](https://open.spotify.com/track/1etiUDkISHELzQGMY79ryt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Quarter Past Midnight](https://open.spotify.com/album/70p5NvBOkvaxU1UeIxhE1Z) | 3:21 |
 | 44 | [All My Friends Are Falling In Love](https://open.spotify.com/track/0JAQUGJudVlhRoAqqhVoYX) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [All My Friends Are Falling In Love](https://open.spotify.com/album/36dPTCQrHjXgcgKhHi6jcV) | 3:30 |

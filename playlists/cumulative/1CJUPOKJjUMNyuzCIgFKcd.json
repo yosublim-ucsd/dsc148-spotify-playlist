@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Alabama Don",
+        "url": "https://open.spotify.com/album/5oUaD0eObdJmanpxCaTtC5"
+      },
+      "artists": [
+        {
+          "name": "Eldorado Red",
+          "url": "https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149681,
+      "name": "Alabama Don",
+      "url": "https://open.spotify.com/track/6GdtQWDXpwBr1rWgbDIY3v"
+    },
+    {
+      "album": {
         "name": "ALBEE FOR PRESIDENT",
         "url": "https://open.spotify.com/album/4s3rqqDuNBasYtxtNTluys"
       },
@@ -1314,6 +1332,24 @@
       "duration_ms": 195000,
       "name": "Different",
       "url": "https://open.spotify.com/track/55lXPhDmmXp0GwhzJL32VS"
+    },
+    {
+      "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/5gibeid5X7B2lzcNHaUzLO"
+      },
+      "artists": [
+        {
+          "name": "Siete7x",
+          "url": "https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/0cLaX5oX4WStIu9tVO7fC4"
     },
     {
       "album": {
@@ -3239,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/59FGkniUZXQJ7qC1JMYD0S"
+      },
+      "artists": [
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/45y9nLedAVUP55j71MS2Gl"
+    },
+    {
+      "album": {
         "name": "MADE BY RICH GOD",
         "url": "https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ"
       },
@@ -5144,6 +5198,24 @@
       "duration_ms": 157583,
       "name": "Understand",
       "url": "https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/5UGcaqt4vWNGpMrnXafOtX"
+      },
+      "artists": [
+        {
+          "name": "Neemz",
+          "url": "https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140016,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6dMj1G2mkCNF7UpE5Xhks8"
     },
     {
       "album": {

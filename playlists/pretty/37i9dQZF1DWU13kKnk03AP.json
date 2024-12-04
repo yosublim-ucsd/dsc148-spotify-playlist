@@ -1,6 +1,6 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2159075,
+  "num_followers": 2159429,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -593,6 +593,30 @@
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
     },
     {
+      "added_at": "2024-12-02 18:56:21",
+      "album": {
+        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "DAESUNG",
+          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
+      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
+    },
+    {
       "added_at": "2024-11-18 00:42:13",
       "album": {
         "name": "Born With a Broken Heart",
@@ -623,30 +647,6 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove - Single Version",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2024-12-02 18:56:21",
-      "album": {
-        "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-        "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        },
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "DAESUNG",
-          "url": "https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
-      "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "GIRLS",
-        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 152979,
-      "name": "GIRLS",
-      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "GIRLS",
+        "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 152979,
+      "name": "GIRLS",
+      "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
         "name": "Slow It Down",
         "url": "https://open.spotify.com/album/5UI2uTwSWoS6NmlxurwElQ"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 157173,
       "name": "FLY",
       "url": "https://open.spotify.com/track/5CJ3DQPUmrtI2lqRjPk4K6"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 163228,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Glow",
         "url": "https://open.spotify.com/album/5cmCT8H9mFi0EmJIalBh7k"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 187077,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6XaRzGJgCgh7XHl5vnYbEW"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 163228,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "KID AGAIN",
-        "url": "https://open.spotify.com/album/3WOOLxbV3VQ1EqejiL6W5d"
-      },
-      "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        }
-      ],
-      "duration_ms": 199572,
-      "name": "KID AGAIN",
-      "url": "https://open.spotify.com/track/0FcVZWtHJ0XoHhbT8fiyAg"
-    },
-    {
-      "added_at": "2024-11-18 00:42:13",
-      "album": {
         "name": "Flowers Need Rain",
         "url": "https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 168126,
       "name": "Flowers Need Rain",
       "url": "https://open.spotify.com/track/079mntueS2KWjxVqOHjG70"
+    },
+    {
+      "added_at": "2024-11-18 00:42:13",
+      "album": {
+        "name": "KID AGAIN",
+        "url": "https://open.spotify.com/album/3WOOLxbV3VQ1EqejiL6W5d"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        }
+      ],
+      "duration_ms": 199572,
+      "name": "KID AGAIN",
+      "url": "https://open.spotify.com/track/0FcVZWtHJ0XoHhbT8fiyAg"
     },
     {
       "added_at": "2024-11-18 00:42:13",
@@ -1647,8 +1647,8 @@
     {
       "added_at": "2024-11-18 00:42:13",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+        "name": "Eat Your Young",
+        "url": "https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt"
       },
       "artists": [
         {
@@ -1656,9 +1656,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+      "duration_ms": 242293,
+      "name": "Eat Your Young",
+      "url": "https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP"
     },
     {
       "added_at": "2024-11-18 00:42:13",

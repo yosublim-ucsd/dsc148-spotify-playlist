@@ -4,7 +4,7 @@
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: אודיה
 
-142 songs - 7 hr 39 min
+143 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-06-20 |  |
 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2024-06-20 |  |
 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2024-06-20 |  |
-| [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 | 2024-06-20 |  |
+| [Vandalist](https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Vandalist](https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ) | 3:28 | 2024-06-20 | 2024-12-04 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw) | 3:48 | 2024-06-20 |  |
 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2024-06-20 |  |
 | [Why Why Why](https://open.spotify.com/track/52A0oY4u5ufxrHC85JGf4x) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE) | 2:49 | 2024-08-15 |  |
@@ -144,6 +144,7 @@
 | [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 | 2024-06-20 |  |
 | [רק אני יודע](https://open.spotify.com/track/0NdV41q6lBoO4WyCaZmIJU) | [Stephane Legar](https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk) | [רק אני יודע](https://open.spotify.com/album/1lclZGan78IHDPYl6p8iJ2) | 2:44 | 2024-06-20 |  |
 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 | 2024-06-20 |  |
+| [שינויי מזג האוויר](https://open.spotify.com/track/5VYhL1H2kAoXjWt8m2MKVl) | [התזמורת האנדלוסית הישראלית אשדוד](https://open.spotify.com/artist/27svI1Ul7GlWKNL8wYhDLf), [Patrick Sebag](https://open.spotify.com/artist/7HVUcMJ2KO1lmcscDae1LC), [Benaia Barabi](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [שינויי מזג האוויר](https://open.spotify.com/album/2sfnexzH9BCh3gmFhRW8f1) | 4:39 | 2024-11-07 |  |
 | [שיר ללא שם](https://open.spotify.com/track/2L2vg2n4bU1CVLlpKbQhef) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [עוגן במים](https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD) | 3:38 | 2024-06-20 |  |
 | [שיר לנטע](https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [שיר לנטע](https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l) | 3:48 | 2024-06-20 |  |
 | [שמלה](https://open.spotify.com/track/5fa8pf8RcgYabA8GIwCKzc) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [ילד.](https://open.spotify.com/album/3pXBVP6C43OfcXzIvBGUKG) | 3:37 | 2024-06-20 |  |

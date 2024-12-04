@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 
 > Buen indie rock para contar historietas...
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,313 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,316 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 44 | [Reaching Out To You](https://open.spotify.com/track/3UpfG8XzDRo2u5rxhmmOYO) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [The Saturday Songwriters](https://open.spotify.com/artist/4BDzWTj09kazVbiVCdwQI3) | [Reaching Out To You](https://open.spotify.com/album/4vzG02RceY6JR8ytO0qEwa) | 3:30 |
 | 45 | [Caesar](https://open.spotify.com/track/1MQeShIRRYCcaSs4XzWldh) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Melted](https://open.spotify.com/album/5P0LN9xrnLY1By7mlkKtkx) | 3:30 |
 | 46 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 |
-| 47 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
-| 48 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
+| 47 | [Ur Mum](https://open.spotify.com/track/7CLIr0lZ4GWeHTaj9lNkXM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Ur Mum](https://open.spotify.com/album/30Q55cfZGvp8AZJqUM4BzG) | 3:21 |
+| 48 | [Awkward \- EP Version](https://open.spotify.com/track/3qjF2EzZ7Kx0VD1AooRFjy) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0) | [Awkward](https://open.spotify.com/album/6llioHYeMH1V9LUM6QRnbX) | 2:33 |
 | 49 | [The Great Divide](https://open.spotify.com/track/1zNrtAQhwbRyFmsf3yoBqT) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [The Great Divide](https://open.spotify.com/album/0Q4XHh5ceXXhotebiCJYDp) | 4:00 |
 | 50 | [A Lucid Dream](https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [A Hero's Death](https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd) | 3:53 |
 | 51 | [Sing](https://open.spotify.com/track/0kqSGKnMo3JDbzaW0QrXmA) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Meet Glen Campbell](https://open.spotify.com/album/3DmfyjtfDRxMUCdoTgEWoz) | 3:45 |
@@ -63,12 +63,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 53 | [Tasmania](https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Tasmania](https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6) | 4:04 |
 | 54 | [Valentine](https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv) | 3:16 |
 | 55 | [Move to San Francisco](https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Move to San Francisco](https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw) | 3:01 |
-| 56 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Hugo Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
-| 57 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
+| 56 | [En Tu Orilla](https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [En Tu Orilla](https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0) | 3:25 |
+| 57 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Hugo Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
 | 58 | [The Ceiling](https://open.spotify.com/track/6EprgVYMTXhotXNEBi4qr2) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [The Ceiling / Border \(CH\. III\)](https://open.spotify.com/album/5iznNh84frPAAx1fLffZa4) | 2:54 |
 | 59 | [Fading Like A Picture](https://open.spotify.com/track/4SWJLsevxubDCwM8RTLZT9) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Fading Like A Picture](https://open.spotify.com/album/2WfT0hWX7QSG4KlRtXjoDw) | 3:56 |
-| 60 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 |
-| 61 | [Favor](https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Favor](https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9) | 4:38 |
+| 60 | [Favor](https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Favor](https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9) | 4:38 |
+| 61 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 |
 | 62 | [Verano En Espiral](https://open.spotify.com/track/0f5qo7mMapxEZ0Py10vp4T) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [:3](https://open.spotify.com/album/6RmsOgYMg3kwjgcGFOo6Ke) | 3:02 |
 | 63 | [Waterfall](https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr) | [The Fresh & Onlys](https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1) | [Play It Strange](https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX) | 3:12 |
 | 64 | [One + One](https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [One + One](https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt) | 3:46 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYx3tuFhwUtY.md) - [plain]
 | 67 | [MYSTERY](https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [TURNSTILE LOVE CONNECTION](https://open.spotify.com/album/4Dx7TI0kECk72u90341I25) | 2:35 |
 | 68 | [Loaded](https://open.spotify.com/track/7eKUG8l9jlGeZ7hh0DA036) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Loaded](https://open.spotify.com/album/7zhP9dkXyi10UUv4YGosEs) | 3:18 |
 | 69 | [Fukushima](https://open.spotify.com/track/4nE1FtwspcXO6jJ4D5f5Bv) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 5:44 |
-| 70 | [Why Must A Building Burn?](https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Nature Always Wins](https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4) | 3:02 |
-| 71 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 |
+| 70 | [Me Olvido / Te Sigo](https://open.spotify.com/track/3QRQMXFPLmtq2KzSREjnZs) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Me Olvido / Te Sigo](https://open.spotify.com/album/6qDykJWNBv8mXubUrWgAwP) | 3:38 |
+| 71 | [Why Must A Building Burn?](https://open.spotify.com/track/2hR8cb1GFqK3BUYWke7P70) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Nature Always Wins](https://open.spotify.com/album/0QW5e9dUljhZyzU0sAtfA4) | 3:02 |
 | 72 | [Prisoners](https://open.spotify.com/track/6U8ShBOpMZRz4g5yia9Uo0) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Prisoners](https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7) | 4:26 |
 | 73 | [Cosas que probablemente no van a pasar](https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Cosas Que Probablemente No Van a Pasar](https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw) | 2:40 |
 | 74 | [Worthy Girl](https://open.spotify.com/track/3yK73VxfoiDT1hCex7X09X) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Kills Birds](https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF) | 2:36 |

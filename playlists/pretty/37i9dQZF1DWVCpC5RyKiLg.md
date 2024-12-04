@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 
 > Pagode e Sertanejo pura sofrência para te acompanhar na faxina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,710 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,758 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCpC5RyKiLg.md) - [plain]
 | 71 | [Foi Pá Pum](https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Debaixo Do Meu Telhado](https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg) | 3:03 |
 | 72 | [Vidro Fumê \- Ao Vivo](https://open.spotify.com/track/4JHeRGCG7AZeaplGFQIarO) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Pela Porta da Frente](https://open.spotify.com/album/5a792NJrWn34jwktaRAewS) | 3:30 |
 | 73 | [Nem Tchum \- Ao Vivo](https://open.spotify.com/track/4oRI9c4EmcKo9kbgVM8zWP) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Reflexo \- Deluxe \(ao Vivo\)](https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7) | 3:22 |
-| 74 | [Energia Surreal \- Ao Vivo](https://open.spotify.com/track/2P5Hd3ghYMY5PT9yR73gR3) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Só Vem! \(ao Vivo\) \- Deluxe](https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV) | 3:35 |
-| 75 | [Pretexto](https://open.spotify.com/track/3UdSoJBgl0EG3MlHpelYRC) | [Imaginasamba](https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB) | [Proposta Indecente](https://open.spotify.com/album/7HN7sy4AsU7zEdt9L4Db6X) | 3:29 |
+| 74 | [Pretexto](https://open.spotify.com/track/3UdSoJBgl0EG3MlHpelYRC) | [Imaginasamba](https://open.spotify.com/artist/1DEukDFi4pMT4Y0bfGxJTB) | [Proposta Indecente](https://open.spotify.com/album/7HN7sy4AsU7zEdt9L4Db6X) | 3:29 |
+| 75 | [Energia Surreal \- Ao Vivo](https://open.spotify.com/track/2P5Hd3ghYMY5PT9yR73gR3) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [Só Vem! \(ao Vivo\) \- Deluxe](https://open.spotify.com/album/04tzF0EuVB13cbdgH0d9iV) | 3:35 |
 
 Snapshot ID: `ZvYf7AAAAAAGwji8e7hoUuw70KUtMexY`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now!  Cover: BURNOUT SYNDROMES",
+  "description": "The biggest rock artists in Japan right now!  Cover: Hanabie.",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 256674,
       "name": "All We Have feat. Masato(coldrain)",
       "url": "https://open.spotify.com/track/2Ie1vfWEVt63G0FIGETwe0"
@@ -1896,7 +1896,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 153257,
       "name": "cyber",
       "url": "https://open.spotify.com/track/693HhHvefKWGnMSoyoYlZs"
@@ -2325,6 +2325,28 @@
     },
     {
       "album": {
+        "name": "Don't make love vow",
+        "url": "https://open.spotify.com/album/7f8pXcJau1rJur5app8nTW"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        },
+        {
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189566,
+      "name": "Don't make love vow",
+      "url": "https://open.spotify.com/track/58IJSMPsjN4CWrXUOMd969"
+    },
+    {
+      "album": {
         "name": "Les Mis\u00e9 blue",
         "url": "https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs"
       },
@@ -2410,6 +2432,24 @@
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "album": {
+        "name": "Awakening:Sleeping",
+        "url": "https://open.spotify.com/album/69kkRyjNtPLNrW5VmKGtvX"
+      },
+      "artists": [
+        {
+          "name": "MASS OF THE FERMENTING DREGS",
+          "url": "https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Dramatic",
+      "url": "https://open.spotify.com/track/2o37BY1RBpsdralFIjRG91"
     },
     {
       "album": {
@@ -2778,6 +2818,24 @@
       "duration_ms": 299936,
       "name": "EPISODE 7",
       "url": "https://open.spotify.com/track/0UkJuv4tuSYAq07KW2XUUL"
+    },
+    {
+      "album": {
+        "name": "blue night",
+        "url": "https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "escape",
+      "url": "https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW"
     },
     {
       "album": {
@@ -3174,7 +3232,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 274878,
       "name": "Forbidden tale",
       "url": "https://open.spotify.com/track/2yRRbMy2Qw4IXrfrZ5sedm"
@@ -3210,7 +3268,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 152711,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1yGEIIMUatyH7gpClnvoUA"
@@ -4584,6 +4642,24 @@
       "duration_ms": 238500,
       "name": "INSOMNIAC",
       "url": "https://open.spotify.com/track/2EzDDlGlwTPNPQPojXvKty"
+    },
+    {
+      "album": {
+        "name": "invader",
+        "url": "https://open.spotify.com/album/0QC4l7nVzdOKsucnXFJkhU"
+      },
+      "artists": [
+        {
+          "name": "MUCC",
+          "url": "https://open.spotify.com/artist/2OfxY8WbbZZu7GiRJLb0P5"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245933,
+      "name": "invader",
+      "url": "https://open.spotify.com/track/5BDRb5DIChQXBLlZOH6O4L"
     },
     {
       "album": {
@@ -6563,6 +6639,24 @@
     },
     {
       "album": {
+        "name": "MMH",
+        "url": "https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213853,
+      "name": "MMH",
+      "url": "https://open.spotify.com/track/1Q3lBgDsR5gRlGcJtyPhxY"
+    },
+    {
+      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
@@ -7014,6 +7108,28 @@
       "duration_ms": 232190,
       "name": "Natsu Tenshi",
       "url": "https://open.spotify.com/track/6ChVqC6I8TbLkbHez0bRwq"
+    },
+    {
+      "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/39Qc4XckBaGHSqOPtQuRFT"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310133,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
     },
     {
       "album": {
@@ -8110,7 +8226,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 284186,
       "name": "Raijin Fujin - Resonance",
       "url": "https://open.spotify.com/track/3YcAM9259Tq8GAjH8qHoXc"
@@ -8388,7 +8504,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 252385,
       "name": "Re\u65b9\u7a0b\u5f0f",
       "url": "https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH"
@@ -9265,6 +9381,24 @@
     },
     {
       "album": {
+        "name": "shhhhh",
+        "url": "https://open.spotify.com/album/2IV6aWGd8ZAsEtYWo9KB5A"
+      },
+      "artists": [
+        {
+          "name": "Taffy",
+          "url": "https://open.spotify.com/artist/1yVqLRlRVVJhIfS9aVium0"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163249,
+      "name": "shhhhh",
+      "url": "https://open.spotify.com/track/1etYENnqOZMpOzwdYWn4ky"
+    },
+    {
+      "album": {
         "name": "Tsuki no Maboroshi ~ Remix works ~",
         "url": "https://open.spotify.com/album/677gGniYchInGseMSycVKe"
       },
@@ -9316,7 +9450,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 235820,
       "name": "Shussou",
       "url": "https://open.spotify.com/track/05cArZuv1f0fErj6aAkuhe"
@@ -9388,7 +9522,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 215700,
       "name": "Ska Fandango!",
       "url": "https://open.spotify.com/track/6mqLEDj098UYHbpc87WaI8"
@@ -9626,7 +9760,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 347333,
       "name": "Someone's Dream",
       "url": "https://open.spotify.com/track/6uFXWOU6GDP8HLxxFI7Nmy"
@@ -9644,7 +9778,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 218233,
       "name": "Song 4 You",
       "url": "https://open.spotify.com/track/3bb3WAQyfRwoohP51uOOJY"
@@ -11915,6 +12049,24 @@
     },
     {
       "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/1LR4rH18eBZ9KgPQRARRal"
+      },
+      "artists": [
+        {
+          "name": "Ichika Nito",
+          "url": "https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/4tERIq3TiKh2ryd7nbyT5d"
+    },
+    {
+      "album": {
         "name": "VOX",
         "url": "https://open.spotify.com/album/7G3Gkn2mfKJuhTCtk0R8U1"
       },
@@ -12034,7 +12186,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 265426,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/73EjXctX8rGZoIO3glFa8d"
@@ -13744,7 +13896,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 217470,
       "name": "\u3070\u3051\u3082\u306e",
       "url": "https://open.spotify.com/track/4Xf2FDvrKNUquto5p6DCg5"
@@ -13766,6 +13918,24 @@
       "duration_ms": 250960,
       "name": "\u3072\u305f\u3080\u304d",
       "url": "https://open.spotify.com/track/0JtDUkqOV5cRxTdHMXGP3t"
+    },
+    {
+      "album": {
+        "name": "\u3076\u3063\u3061\u304e\u308a\u6771\u4eac",
+        "url": "https://open.spotify.com/album/0g7BacE5bE3ScvHzmQqbFq"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161253,
+      "name": "\u3076\u3063\u3061\u304e\u308a\u6771\u4eac",
+      "url": "https://open.spotify.com/track/6VDXr0B4vE7QpcfJTfAv2K"
     },
     {
       "album": {
@@ -20820,6 +20990,24 @@
       "duration_ms": 191219,
       "name": "\u96c0\u306e\u5b50",
       "url": "https://open.spotify.com/track/3CnqHdUx0nEZ6Sq4rFFmBL"
+    },
+    {
+      "album": {
+        "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30e6\u30a2\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/32nGxwasSzebXuZiVUfxDl"
+      },
+      "artists": [
+        {
+          "name": "MASS OF THE FERMENTING DREGS",
+          "url": "https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282173,
+      "name": "\u9752\u3044\u3001\u6fc3\u3044\u3001\u6a59\u8272\u306e\u65e5",
+      "url": "https://open.spotify.com/track/7uiQ13BUmIi3nGauGXhmM6"
     },
     {
       "album": {

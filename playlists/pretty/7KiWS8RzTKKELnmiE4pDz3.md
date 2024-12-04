@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 127 songs - 6 hr 13 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 132 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,5 +135,10 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 125 | [Change Me](https://open.spotify.com/track/1AKXrejQiFURJnr9UKIjDb) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [TAKE CARE](https://open.spotify.com/album/6LU7SYL9BWAt3TgEK4DdAc) | 2:16 |
 | 126 | [All Alone](https://open.spotify.com/track/5aPxRnBDFJLTHPBMk2B76R) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [The Crossroads](https://open.spotify.com/album/7oZOlyOhZSUn1zfojIzMHR) | 1:53 |
 | 127 | [COLE PIMP \(with Ty Dolla $ign & Juicy J\)](https://open.spotify.com/track/4vdDAdLtmTqFR1J4AO4cBf) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 3:38 |
+| 128 | [Hardly](https://open.spotify.com/track/7EtAE242kivzlxxOAL29bS) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 2:37 |
+| 129 | [Oooooh \(feat\. Young Scooter\)](https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:09 |
+| 130 | [DX](https://open.spotify.com/track/4UtpOsZxxFv1iSuTQ6RS0B) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Hardwood Classic](https://open.spotify.com/album/2SPrPcmFf9505xgGEp2h2k) | 1:45 |
+| 131 | [Never Gon Lose](https://open.spotify.com/track/3XsiyMcsbIBazeYFb5SFxh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 3:07 |
+| 132 | [Real Sisters](https://open.spotify.com/track/5GhJq5J9ZWIEDZdyw7EWzt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 2:53 |
 
-Snapshot ID: `AAAdoHbFWw9UWvICjZelh4O7TyUkP6IO`
+Snapshot ID: `AAAdpTGZMy+KsjYBYiP9k+dhMfeLzAP5`

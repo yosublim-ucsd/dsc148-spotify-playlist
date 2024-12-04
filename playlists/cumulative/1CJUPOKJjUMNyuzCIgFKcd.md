@@ -4,7 +4,7 @@
 
 > The freshest Hip Hop and R&amp;B.
 
-275 songs - 12 hr 6 min
+279 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Million Ways](https://open.spotify.com/track/66iPYsczgPvysER7d8aQdn) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [A Million Ways](https://open.spotify.com/album/4JK1Zeh8ywO8NObikA0IqA) | 3:04 | 2024-09-23 |  |
 | [act bad twin! \(feat\. Cash Cobain & Bay Swag\)](https://open.spotify.com/track/10wJbqe8V4UkqsP8tQnhLg) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 3:37 | 2024-09-23 |  |
 | [act bad twin! \(feat\. Cash Cobain & Bay Swag\)](https://open.spotify.com/track/1cLjq1FaPI8naEB5xElkFk) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [act bad twin! \(feat\. Cash Cobain & Bay Swag\)](https://open.spotify.com/album/50fHLT2601AXZyUCfOosVB) | 3:37 | 2024-06-14 | 2024-11-19 |
+| [Alabama Don](https://open.spotify.com/track/6GdtQWDXpwBr1rWgbDIY3v) | [Eldorado Red](https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc) | [Alabama Don](https://open.spotify.com/album/5oUaD0eObdJmanpxCaTtC5) | 2:29 | 2024-12-03 |  |
 | [ALBEE FOR PRESIDENT](https://open.spotify.com/track/3IvKy7X21KOm3cpiOSH7RJ) | [Albee Al](https://open.spotify.com/artist/6fmSsRvvca423KnYLKabTd) | [ALBEE FOR PRESIDENT](https://open.spotify.com/album/4s3rqqDuNBasYtxtNTluys) | 2:18 | 2024-01-19 | 2024-05-21 |
 | [All Black Trucks](https://open.spotify.com/track/4BRcukyn9Kcb8YhKScnu0y) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [All Black Trucks](https://open.spotify.com/album/5m7ACE2vtWTrgx88h47dcm) | 3:17 | 2024-09-23 |  |
 | [alone \- Remix](https://open.spotify.com/track/2GSK9VfsKWpVOV6ZzKiMA4) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [alone \(Remix\)](https://open.spotify.com/album/1bE7lrP5TzEIX3UHiwMhKR) | 2:34 | 2024-10-10 |  |
@@ -72,6 +73,7 @@
 | [Diamonds](https://open.spotify.com/track/2KQyKySN96K4KJx0sPNvkL) | [MRG](https://open.spotify.com/artist/6eqLAUIm0u7CgcbjX9O5fb) | [Diamonds](https://open.spotify.com/album/65hLZ69ZOJhr4zaB5QJeBn) | 1:37 | 2024-11-25 |  |
 | [Dickie Set](https://open.spotify.com/track/61jLuXgdLfS6CTxHQqzOIU) | [Jay Fizzle](https://open.spotify.com/artist/1vxMyjYYKghLsYaIbeEHPP) | [Dickie Set](https://open.spotify.com/album/04tAcUoMqGX8foe1y6J2PT) | 2:51 | 2023-09-28 | 2024-01-13 |
 | [Different](https://open.spotify.com/track/55lXPhDmmXp0GwhzJL32VS) | [BERNA](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed), [Glizz](https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML) | [Different](https://open.spotify.com/album/596jKXysp9NH8BNS30Lnw1) | 3:15 | 2024-05-20 | 2024-11-19 |
+| [Dive In](https://open.spotify.com/track/0cLaX5oX4WStIu9tVO7fC4) | [Siete7x](https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ) | [Dive In](https://open.spotify.com/album/5gibeid5X7B2lzcNHaUzLO) | 2:08 | 2024-12-03 |  |
 | [Do It For Yo Section](https://open.spotify.com/track/0TRB0EJ6u0gMJ6XeQMo6Kg) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [4THECULTURE2](https://open.spotify.com/album/5al53Znt8DCLtPe6rjcszX) | 2:18 | 2023-09-05 | 2024-01-13 |
 | [Don't Be Fooled](https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 3:14 | 2024-11-18 |  |
 | [Don't Play With Me](https://open.spotify.com/track/23j7u8QDwbDOHwzYABBeBT) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Round 1](https://open.spotify.com/album/5iZCoMi1cQPyxprCCD2aJb) | 3:08 | 2024-11-18 |  |
@@ -167,6 +169,7 @@
 | [Low Ball \- Remix](https://open.spotify.com/track/3gATPSCZYSJ9iV2yFB616z) | [Mgm Lett](https://open.spotify.com/artist/0IVKVUhWVCVX8jyHXN6IOb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Don't Do Dat](https://open.spotify.com/album/6w0ZhVuFb7LgKxXmRqXPqF) | 3:43 | 2024-01-19 | 2024-05-21 |
 | [Luv the Sound](https://open.spotify.com/track/5zBlhAyJQlLt88lOVmPpUT) | [Eldorado Red](https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc), [G.T.](https://open.spotify.com/artist/7LPqtwClp78XM85lJWaiKQ) | [Luv the Sound](https://open.spotify.com/album/1WpJ8gUajW01wd0f21WEYr) | 3:02 | 2024-03-15 | 2024-07-23 |
 | [Luv To A Fck Song](https://open.spotify.com/track/6qDNh0axas6ZxjnMraUasM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [7](https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY) | 3:18 | 2023-10-06 | 2024-01-20 |
+| [Mad](https://open.spotify.com/track/45y9nLedAVUP55j71MS2Gl) | [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [Mad](https://open.spotify.com/album/59FGkniUZXQJ7qC1JMYD0S) | 2:18 | 2024-12-03 |  |
 | [MADE BY RICH GOD](https://open.spotify.com/track/24Qa5EPrnrbvHoiEfbzf02) | [Sauce Walka](https://open.spotify.com/artist/42yf4QkiE9a252krn9OUCb) | [MADE BY RICH GOD](https://open.spotify.com/album/5S9y8ypcsF1gncyr6fQ1mJ) | 1:54 | 2024-06-18 | 2024-07-23 |
 | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/track/0Jfh9rhwPoegyTVul05yR4) | [DaeMoney](https://open.spotify.com/artist/33IGJSFbZplSbhXcqtZTDg), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MAFIA & MILITIA \(feat\. BabyTron\)](https://open.spotify.com/album/3yIPZjDDMqsnxze575vzbF) | 2:26 | 2024-01-12 | 2024-05-21 |
 | [MAKE IT HOT](https://open.spotify.com/track/1ETvswRlijobMKkLKTfHvJ) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [MAKE IT HOT](https://open.spotify.com/album/6nho8M9Q3oqB5rV7dZfeH7) | 1:45 | 2023-09-28 | 2024-01-13 |
@@ -261,6 +264,7 @@
 | [Typa](https://open.spotify.com/track/3HYyYI3aG9zM7meu1xUsdu) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Typa](https://open.spotify.com/album/19i3q2ZR7m8wAqpBodN6IR) | 2:13 | 2024-11-18 |  |
 | [UHN UHN](https://open.spotify.com/track/1Enl7olSB7gy5UKkLIh7Ez) | [Kenny Muney](https://open.spotify.com/artist/5noIMRg61zRD7KhynZLmFX) | [UHN UHN](https://open.spotify.com/album/4q39sUFDo0CBaerE3KlYeb) | 2:14 | 2023-09-05 | 2024-01-13 |
 | [Understand](https://open.spotify.com/track/3bXhP62kGbcZIhArHtmUqx) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Understand](https://open.spotify.com/album/1BBJ9k38MYZvpWPrTH1Ex7) | 2:37 | 2024-03-15 | 2024-07-23 |
+| [Upside Down](https://open.spotify.com/track/6dMj1G2mkCNF7UpE5Xhks8) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Upside Down](https://open.spotify.com/album/5UGcaqt4vWNGpMrnXafOtX) | 2:20 | 2024-12-03 |  |
 | [Vacuum Seals & Money Counters](https://open.spotify.com/track/0gR11UbCTTx8ycCNFXj697) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Vacuum Seals & Money Counters](https://open.spotify.com/album/22VahKJmWjnyiQOWlBMVIr) | 1:43 | 2024-05-20 | 2024-11-19 |
 | [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:01 | 2024-03-15 | 2024-07-23 |
 | [Vertino](https://open.spotify.com/track/5RL5b8Pj1Fp7BehQH6YzSo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Vertino](https://open.spotify.com/album/5sVyLTNrY5i8PJa8tImE5R) | 5:33 | 2024-02-20 | 2024-07-23 |

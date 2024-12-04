@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEL3nCqEywi1lOx/reBRNe6snnWA2y",
+  "snapshot_id": "AAAEQeE6af0L4PP6LfUexrLHTXsTcaE9",
   "tracks": [
+    {
+      "added_at": "2024-12-03 08:19:42",
+      "album": {
+        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3"
+    },
+    {
+      "added_at": "2024-12-03 08:21:00",
+      "album": {
+        "name": "Dream Road",
+        "url": "https://open.spotify.com/album/4trc9Sawbi4odG7rmPjgyD"
+      },
+      "artists": [
+        {
+          "name": "TKP",
+          "url": "https://open.spotify.com/artist/0r5kij6fA4UbUbpnfJHAd2"
+        },
+        {
+          "name": "\u5c0f\u6625\u516d\u82b1",
+          "url": "https://open.spotify.com/artist/7rE0Qc348DdkkLCV81rNce"
+        }
+      ],
+      "duration_ms": 219473,
+      "name": "Dream Road (feat. \u5c0f\u6625\u516d\u82b1)",
+      "url": "https://open.spotify.com/track/5GMZNNK8XNOlcg2wRGcW58"
+    },
+    {
+      "added_at": "2024-12-03 08:20:03",
+      "album": {
+        "name": "\u30e9\u30b9\u30c8\u30da\u30a4\u30b8",
+        "url": "https://open.spotify.com/album/0xU5Kb5LzN8PTm55h1RrMJ"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3052\u3074\u30fc\u307c\u30fc\u308b",
+          "url": "https://open.spotify.com/artist/2c3O1pPolwSURN7uZQa4lL"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "duration_ms": 154354,
+      "name": "\u30e9\u30b9\u30c8\u30da\u30a4\u30b8 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/20bvWAQR5L1hENkQ34PI0o"
+    },
+    {
+      "added_at": "2024-12-03 08:21:34",
+      "album": {
+        "name": "FLAIR",
+        "url": "https://open.spotify.com/album/0OMFMqgJNtzYF18QusmvV7"
+      },
+      "artists": [
+        {
+          "name": "Mwk",
+          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "FLAIR",
+      "url": "https://open.spotify.com/track/0LRJbwGmidAp9ymIroir79"
+    },
+    {
+      "added_at": "2024-12-03 08:21:44",
+      "album": {
+        "name": "painT",
+        "url": "https://open.spotify.com/album/5W0cpJhnaYXU7WjTKoJoKj"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3053\u306b\u3053\u3082\u304b\u308c\u30fc",
+          "url": "https://open.spotify.com/artist/0Sfql4L2dw8C7YqQTw3CkZ"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "painT (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/0dKZfVdjwA7900QkNYFkPb"
+    },
     {
       "added_at": "2024-11-26 08:28:42",
       "album": {
@@ -699,110 +795,6 @@
       "duration_ms": 230992,
       "name": "injured pride (feat. Nakumo)",
       "url": "https://open.spotify.com/track/2rM9md7scSpE2uJZh9xXCA"
-    },
-    {
-      "added_at": "2024-09-24 08:16:56",
-      "album": {
-        "name": "\u30af\u30ec\u30a4\u30b8\u30fc0\u6642Play\u30af\u30ec\u30a4\u30b8\u30fc",
-        "url": "https://open.spotify.com/album/0tDNhFNLwjqDLoU3fMEqeP"
-      },
-      "artists": [
-        {
-          "name": "Camellia",
-          "url": "https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 242321,
-      "name": "\u30af\u30ec\u30a4\u30b8\u30fc0\u6642Play\u30af\u30ec\u30a4\u30b8\u30fc (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0dc1UwcMi9xn7qo0XrVVqg"
-    },
-    {
-      "added_at": "2024-09-24 08:17:07",
-      "album": {
-        "name": "\u9b3c\u306e\u9996",
-        "url": "https://open.spotify.com/album/4rcZZH2N5eUK1xEB31Y1TR"
-      },
-      "artists": [
-        {
-          "name": "\u6cab\u5c3e",
-          "url": "https://open.spotify.com/artist/3xiRtHEkgQZINconT2YCPA"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 202816,
-      "name": "\u9b3c\u306e\u9996 (feat. KAITO&\u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/5Gu6OJQOypUgy062M4hnWJ"
-    },
-    {
-      "added_at": "2024-09-24 08:17:37",
-      "album": {
-        "name": "Northern Lights",
-        "url": "https://open.spotify.com/album/7q4pMCA9erc6lU69zyTkSv"
-      },
-      "artists": [
-        {
-          "name": "Mwk",
-          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Only Way",
-      "url": "https://open.spotify.com/track/7rCHbhVRjTC1ThtWlUVgfR"
-    },
-    {
-      "added_at": "2024-09-24 08:17:58",
-      "album": {
-        "name": "31th Summer",
-        "url": "https://open.spotify.com/album/0cZDMT6t23MylVUMPiXMUQ"
-      },
-      "artists": [
-        {
-          "name": "Rulmry.",
-          "url": "https://open.spotify.com/artist/5AVRmAGc8Z21NXZ1UUxySt"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 167888,
-      "name": "31th Summer (feat. \u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/37LFnlOPz6nLPi4SeWSrlT"
-    },
-    {
-      "added_at": "2024-09-24 08:18:26",
-      "album": {
-        "name": "Vanguard",
-        "url": "https://open.spotify.com/album/7ppK1kchyFh7wf52sLD1v4"
-      },
-      "artists": [
-        {
-          "name": "Yunosuke",
-          "url": "https://open.spotify.com/artist/2JVKMrMR8PZohnjTIhY3Ks"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 205781,
-      "name": "\u30d7\u30e9\u30a4\u30aa\u30ea\u30c6\u30a3 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/2SNdoGhLbg75PcH49vxqbU"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

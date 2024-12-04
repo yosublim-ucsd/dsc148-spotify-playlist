@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > pura morra rifada\. RPLK en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,529 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,538 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 22 | [yes, and?](https://open.spotify.com/track/5D34wRmbFS29AjtTOP2QJe) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:34 |
 | 23 | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Young Miko: Bzrp Music Sessions, Vol\. 58](https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo) | 3:07 |
 | 24 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 25 | [OKI DOKI](https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:23 |
-| 26 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
+| 25 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 |
+| 26 | [OKI DOKI](https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:23 |
 | 27 | [Genesis](https://open.spotify.com/track/0yljUudXzjVcGEoYmLB17X) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/7aPolrSqVawIhC7iTo2b5F) | 4:15 |
 | 28 | [Nunca Es Suficiente](https://open.spotify.com/track/2niUiaoJDCzNldW0pV66zb) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:57 |
 | 29 | [Padam Padam](https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:46 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 71 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
 | 72 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 73 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 |
-| 74 | [Quiero](https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Quiero](https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x) | 3:33 |
-| 75 | [Paralizado](https://open.spotify.com/track/3hLwTsuqKBakewprxOK1b4) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 3:07 |
+| 74 | [Paralizado](https://open.spotify.com/track/3hLwTsuqKBakewprxOK1b4) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [me da miedo que escuches esto](https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw) | 3:07 |
+| 75 | [Quiero](https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Quiero](https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x) | 3:33 |
 | 76 | [Dimensión 3000](https://open.spotify.com/track/2fAqFthuQMx8GLYZ7STM7x) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dimensión 3000](https://open.spotify.com/album/6RpSAyKtW4MorocKI0aV2z) | 3:22 |
 | 77 | [Órdenes para Mí](https://open.spotify.com/track/7qeEHOZM2fVxT0UugDPAiW) | [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx), [Manuel Mendoza Coe](https://open.spotify.com/artist/0D4Y2sisCzcc4cAwf0dApi) | [Pequeñas Profecías](https://open.spotify.com/album/0effiGLvyrWGhDdLGMXptt) | 3:57 |
 | 78 | [Agujas](https://open.spotify.com/track/3eMnL4Yec1hCJzs8G6sXET) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Agujas](https://open.spotify.com/album/4anUE93QCEG04QAiWDzz8m) | 1:31 |

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 > This is Sofía Reyes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,548 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,555 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Marte](https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:38 |
 | 2 | [Mal de Amores](https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:08 |
 | 3 | [COBARDE](https://open.spotify.com/track/0R2cYqQ0pwNJ3Ii1kzj0kF) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Beéle](https://open.spotify.com/artist/4Dx4Nil4fH76FqRgEEWjwD) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:46 |
-| 4 | [Siempre Llegas Tarde](https://open.spotify.com/track/3kn0PVkaeJQ0yxtemQRJ6D) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Siempre Llegas Tarde](https://open.spotify.com/album/51vlzBXDLGLc1St5xOc8hr) | 2:38 |
-| 5 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 |
+| 4 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 |
+| 5 | [Siempre Llegas Tarde](https://open.spotify.com/track/3kn0PVkaeJQ0yxtemQRJ6D) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Siempre Llegas Tarde](https://open.spotify.com/album/51vlzBXDLGLc1St5xOc8hr) | 2:38 |
 | 6 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:21 |
 | 7 | [¿Qué Ha Pasao'?](https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sigo a Lo Mío](https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ) | 3:18 |
 | 8 | [Lo siento \(feat\. Sofía Reyes\)](https://open.spotify.com/track/6mvhi5xZsGJeWyf1uyiW0r) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:52 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 50 | [Goofy, Pt\. 2 \- Remix](https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Goofy, Pt\. 2 \(Remix\)](https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC) | 3:21 |
 | 51 | [1, 2, 3 \- Sped Up](https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX) | [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Sped Up Songs Vol\. 1](https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L) | 2:50 |
 
-Snapshot ID: `Z0unAAAAAAB3U0YTN39xYb1vGRvYfzgj`
+Snapshot ID: `Z0z4gAAAAABV3YJ3ekO7eFLHdcaF6zGk`

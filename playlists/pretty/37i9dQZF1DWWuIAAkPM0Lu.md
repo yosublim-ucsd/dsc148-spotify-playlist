@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ❤️‍🔥<a href="spotify:artist:1GKN1Js8fa19K23eIhOMhg">Annika</a>❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,720 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,717 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

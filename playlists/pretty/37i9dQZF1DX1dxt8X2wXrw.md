@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 
 > catch a vibe 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,443 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,450 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 29 | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/track/6NlCxCDyNBtjwXw2sa9gkU) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Hmm \(feat\. Popcaan\)](https://open.spotify.com/album/4srn3PA7GARSVBnOZ9lM1c) | 2:43 |
 | 30 | [For You](https://open.spotify.com/track/7tbNKCzFhCZANduSwaRYwf) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [For You](https://open.spotify.com/album/5yir0QnXLpVD6RAgNYXTQ5) | 2:34 |
 | 31 | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [THOUGHT YOU WERE THE ONE](https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm) | 2:58 |
-| 32 | [Sweet Lies](https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Sweet Lies](https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q) | 3:41 |
-| 33 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
+| 32 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
+| 33 | [Sweet Lies](https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Sweet Lies](https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q) | 3:41 |
 | 34 | [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 |
 | 35 | [Comin’ Around Again](https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Comin’ Around Again](https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv) | 3:06 |
 | 36 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dxt8X2wXrw.md) - [plain]
 | 49 | [Endless Night](https://open.spotify.com/track/0YQ3pxSWszXRbPHZHSvlqU) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Endless Night](https://open.spotify.com/album/2K7BcBLomfzKDCL9uHr8VY) | 3:27 |
 | 50 | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Waiting For You \(feat\. Naomi Sharon\)](https://open.spotify.com/album/09l5EnCPP1AKIqaozUT6LQ) | 3:39 |
 | 51 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
-| 52 | [Si Llorarás](https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [For You / Si Llorarás](https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2) | 2:56 |
-| 53 | [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 |
+| 52 | [VOYCONTODO](https://open.spotify.com/track/7ptBBtnObytjTYLLZ78aZf) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [VOYCONTODO](https://open.spotify.com/album/26hgcWKuQDN9SFca7Tekgy) | 2:17 |
+| 53 | [Si Llorarás](https://open.spotify.com/track/5y9GhMhhR06Qelkvf9j7tC) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS) | [For You / Si Llorarás](https://open.spotify.com/album/76agE40iN5g6fh1rPi7lv2) | 2:56 |
 | 54 | [Prettier](https://open.spotify.com/track/6LhKOUggIjsl0P0xiFUAxd) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi) | [Sorry I'm Late](https://open.spotify.com/album/5RwiKT6WcqmEEPcV23yt4U) | 2:57 |
 | 55 | [Suffice](https://open.spotify.com/track/2gy2UTbkgMVai4uB2oqeqh) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Suffice](https://open.spotify.com/album/0QGs0Fg2Ao50fFxetJuhyq) | 2:42 |
 | 56 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 |

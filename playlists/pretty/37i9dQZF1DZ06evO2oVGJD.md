@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,056 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,107 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 23 | [Maldita Suerte](https://open.spotify.com/track/4kcMWe9I1GY4aTu2wx1OiE) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 2:56 |
 | 24 | [Me equivoqué](https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:25 |
 | 25 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
-| 26 | [Tú No Necesitas A Carlo \(En Vivo\)](https://open.spotify.com/track/2yewS2E25wqjIU8KEJUs9v) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Tú No Necesitas A Carlo \(En Vivo\)](https://open.spotify.com/album/5dektyMhi6cSpokSKsHIH3) | 3:29 |
-| 27 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
+| 26 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
+| 27 | [Tú No Necesitas A Carlo \(En Vivo\)](https://open.spotify.com/track/2yewS2E25wqjIU8KEJUs9v) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Tú No Necesitas A Carlo \(En Vivo\)](https://open.spotify.com/album/5dektyMhi6cSpokSKsHIH3) | 3:29 |
 | 28 | [Mi corazón y yo](https://open.spotify.com/track/6ALYG2LeuuLis4Yjnrnx2t) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 2:54 |
 | 29 | [Desnudos](https://open.spotify.com/track/3yFUto83tuhUqsNsmGS6s3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns) | 3:17 |
 | 30 | [Tu Castigo](https://open.spotify.com/track/32csFAG5BL1HtQBm6Dypk1) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 49 | [Lo Que Soñé](https://open.spotify.com/track/7LpnnmmXpFRFCq0XjjdqSp) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 4:14 |
 | 50 | [Aléjate](https://open.spotify.com/track/5gA6AozRJFIACL3IDyKC05) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:48 |
 
-Snapshot ID: `Z0unAAAAAAAso5Se9vR6GcFN4zDvdv8S`
+Snapshot ID: `Z0z4gAAAAABulozWEK+EH6AoKTNmtrhM`

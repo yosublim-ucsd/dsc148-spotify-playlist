@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh?si=KCTIZdhsQ2WXyDzypHf8ag">WESLEYFRANKLIN</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,729 likes - 350 songs - 17 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,775 likes - 350 songs - 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

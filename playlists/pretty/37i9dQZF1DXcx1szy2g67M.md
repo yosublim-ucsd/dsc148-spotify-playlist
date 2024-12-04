@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 ### [Winter 2024](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> De december maand beleef je hier! 🍁
+> De decembermaand beleef je hier! 🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,606 likes - 90 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,605 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 89 | [You & Me](https://open.spotify.com/track/36qaKbHr8XkihBq9TcoGGN) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 4:42 |
 | 90 | [What If I Want You Now](https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If I Want You Now](https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq) | 3:10 |
 
-Snapshot ID: `Z03BWQAAAAAqNqigAnN2SCy5SEe6Ek75`
+Snapshot ID: `Z08tAwAAAAD+p2UHkXpvlknXaKLyW2Lf`

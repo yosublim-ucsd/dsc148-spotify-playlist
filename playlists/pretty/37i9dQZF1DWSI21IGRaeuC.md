@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of tech house ⛏️⛏️  with Michael Bibi
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,446 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,519 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 72 | [Whatchagonnado](https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Whatchagonnado EP](https://open.spotify.com/album/2xUbwZP3JL9hhUgyVNrPoV) | 4:37 |
 | 73 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
 | 74 | [Work It](https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [Work It EP](https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT) | 3:14 |
-| 75 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
-| 76 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
+| 75 | [FUTUR](https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Journey LP](https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW) | 3:25 |
+| 76 | [Lay Back](https://open.spotify.com/track/2ZduBkSGzXxnGMaZAvOusA) | [AG Swifty](https://open.spotify.com/artist/5ryO0Jb1Lgr8knFXONHld2), [Brad Brunner](https://open.spotify.com/artist/3VuRBWq60RkNH59fbf60SL) | [Lay Back EP](https://open.spotify.com/album/1Lm2udPWgVbpmzojgzbKLB) | 3:54 |
 | 77 | [Break It Down](https://open.spotify.com/track/5o73OVgK6juFXhIZiP4yKf) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Fascinator EP](https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR) | 6:09 |
 | 78 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
 | 79 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 87 | [I Am Somebody](https://open.spotify.com/track/75EaT3OH1MdJxKT1ZUsNK0) | [Technasia](https://open.spotify.com/artist/0rnKlPis7AQgoIe2NEVWa5) | [I Am Somebody](https://open.spotify.com/album/1G3BKcXKXfUaZ3qz8lNsWv) | 6:57 |
 | 88 | [Tribal Badman](https://open.spotify.com/track/6Fvzozbq17iFwej6D0vuOE) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Tribal Badman](https://open.spotify.com/album/6RhN7hwwVezdN1tlOz7sZs) | 3:32 |
 | 89 | [Who Is That Guy?](https://open.spotify.com/track/4e1yMRmbQgImcm5ue58y4D) | [ALISHA](https://open.spotify.com/artist/1zUgvtlUR6jXtCUCF0j3fe) | [Who Is That Guy?](https://open.spotify.com/album/2BzDvz4ZGq8abo22wP4Vyj) | 4:18 |
-| 90 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
-| 91 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
+| 90 | [Wake Up](https://open.spotify.com/track/6QtKYHsFWJvBUBmoxHabsD) | [Bastian Bux](https://open.spotify.com/artist/6K6JhQaED2RUjMyhBtR9eD), [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [Wake Up](https://open.spotify.com/album/25f1FggBA5ONTSmjJGTvxf) | 3:27 |
+| 91 | [ROCK THIS](https://open.spotify.com/track/00mf2mmLQqvB1jx06Y2MXV) | [Sergio Saffe](https://open.spotify.com/artist/2qPuQhV7c2QJ5jV7EUVtnT) | [ROCK THIS](https://open.spotify.com/album/4Ncr4S3UCnxr95LSGFVKnE) | 3:24 |
 | 92 | [How the Story Goes](https://open.spotify.com/track/76tzY5YVsAa8kKEVdr1ZI8) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [How the Story Goes](https://open.spotify.com/album/1sRsh8lpMEwq9OXmSkcxiE) | 3:04 |
 | 93 | [TRY](https://open.spotify.com/track/5TIJovxYDOWg1PZgg1U72L) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6) | [TRY](https://open.spotify.com/album/4SHzItVpwXBI1C4EDvXdxn) | 2:47 |
 | 94 | [Wyle Up](https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [Wyle Up](https://open.spotify.com/album/0ypxGTI46Pk72LJh527jsX) | 2:30 |

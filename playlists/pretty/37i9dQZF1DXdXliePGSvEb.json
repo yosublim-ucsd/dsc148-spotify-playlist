@@ -1,6 +1,6 @@
 {
   "description": "Our favorite electronic songs from around the world this year. Cover: Anyma",
-  "num_followers": 63619,
+  "num_followers": 63627,
   "original_name": "Best Electronic Songs of 2023",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Combinations EP",
-        "url": "https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9"
-      },
-      "artists": [
-        {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
-        }
-      ],
-      "duration_ms": 371803,
-      "name": "El Tiempo",
-      "url": "https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Fold",
         "url": "https://open.spotify.com/album/3xReYX6louXtp8C6Lxf8bx"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 335383,
       "name": "Fold",
       "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Combinations EP",
+        "url": "https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9"
+      },
+      "artists": [
+        {
+          "name": "Grigor\u00e9",
+          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+        }
+      ],
+      "duration_ms": 371803,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
-      },
-      "artists": [
-        {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
         "name": "Sweet Moment",
         "url": "https://open.spotify.com/album/56BDudw4Ep7daFvo9tsd10"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 174193,
       "name": "Sweet Moment",
       "url": "https://open.spotify.com/track/5CoUL7T9706eA3BIG2KbNA"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi"
     },
     {
       "added_at": "2023-11-29 12:16:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-11-29 12:16:00",
       "album": {
+        "name": "Turn The Lights",
+        "url": "https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5"
+      },
+      "artists": [
+        {
+          "name": "Spada",
+          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
+        }
+      ],
+      "duration_ms": 247519,
+      "name": "Turn The Lights",
+      "url": "https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ"
+    },
+    {
+      "added_at": "2023-11-29 12:16:00",
+      "album": {
         "name": "The Abyss",
         "url": "https://open.spotify.com/album/2qqXh9MaZzgaGfw4PCGtOS"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 438750,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/6YUnruRH7cz1pe1YruJrdR"
-    },
-    {
-      "added_at": "2023-11-29 12:16:00",
-      "album": {
-        "name": "Turn The Lights",
-        "url": "https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5"
-      },
-      "artists": [
-        {
-          "name": "Spada",
-          "url": "https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw"
-        }
-      ],
-      "duration_ms": 247519,
-      "name": "Turn The Lights",
-      "url": "https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ"
     },
     {
       "added_at": "2023-11-29 12:16:00",

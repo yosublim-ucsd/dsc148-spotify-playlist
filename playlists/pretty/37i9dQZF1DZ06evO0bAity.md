@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 
 > This is DZ Deathrays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,273 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273 likes - 44 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [First Night Fever](https://open.spotify.com/track/5mrS231CkYfC7eazO5H1pA) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [First Night Fever](https://open.spotify.com/album/0YNMoXT9Cxp5BJcA33NLfo) | 3:07 |
-| 2 | [Gina Works At Hearts](https://open.spotify.com/track/3kq7FM2Ot4S1y4Gh5IPpii) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:37 |
+| 1 | [Gina Works At Hearts](https://open.spotify.com/track/3kq7FM2Ot4S1y4Gh5IPpii) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:37 |
+| 2 | [First Night Fever](https://open.spotify.com/track/5mrS231CkYfC7eazO5H1pA) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [First Night Fever](https://open.spotify.com/album/0YNMoXT9Cxp5BJcA33NLfo) | 3:07 |
 | 3 | [Like People](https://open.spotify.com/track/4Pa9lwNySYtucuHEsCyA1R) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 4:01 |
 | 4 | [Daybreak \(with DZ Deathrays\)](https://open.spotify.com/track/3URWgobZp0BviTbfuxtuib) | [Hellcat Speedracer](https://open.spotify.com/artist/6lvertBSQwUlKgo9ZGPbZV), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Daybreak](https://open.spotify.com/album/0kYX3kcnzxoyG8mRCurZuf) | 2:49 |
 | 5 | [IN\-TO\-IT](https://open.spotify.com/track/6PMapmhT9QjSC3X4h0tgEX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising \(Pt\. 1\)](https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN) | 3:15 |
@@ -21,16 +21,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 11 | [Total Meltdown](https://open.spotify.com/track/4FggQNqaC7ZVzfIWRLv2N5) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:04 |
 | 12 | [King B](https://open.spotify.com/track/6xqUpuxqktp3eLQEPUDHyM) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:20 |
 | 13 | [Less Out Of Sync](https://open.spotify.com/track/5q4MPKCtF5IlDQgxSvQwmX) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:07 |
-| 14 | [Snakes](https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:09 |
-| 15 | [Safe and Warm](https://open.spotify.com/track/70MbAE7OErx7JAIE1jSw1G) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Safe and Warm](https://open.spotify.com/album/1egZuBv32dHu4lipkduCbK) | 2:39 |
+| 14 | [Safe and Warm](https://open.spotify.com/track/70MbAE7OErx7JAIE1jSw1G) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Safe and Warm](https://open.spotify.com/album/1egZuBv32dHu4lipkduCbK) | 2:39 |
+| 15 | [Snakes](https://open.spotify.com/track/05vvAUSJ1MJxO1Z831dIlT) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:09 |
 | 16 | [Shadow Walk](https://open.spotify.com/track/7eyh4ltUdCpwsgFcnyYFuc) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 2:16 |
 | 17 | [Keep Myself on Edge](https://open.spotify.com/track/7KZbJBjcUE0x4rHbk0fQU0) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:34 |
 | 18 | [MURDER ME \- DZ Deathrays Remix](https://open.spotify.com/track/7eCn4VV1zyhpoirclsM5zs) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR), [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [MURDER ME \(DZ Deathrays Remix\)](https://open.spotify.com/album/2pweLGsYYpzyy56gETkLPl) | 4:05 |
 | 19 | [Kerosene](https://open.spotify.com/track/13nIVQX1UgXlQkpQEjwaoC) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 2](https://open.spotify.com/album/1B4VIXuLqgBbd8oS0awqZs) | 3:35 |
 | 20 | [Hope for the Best](https://open.spotify.com/track/3nQI4mYa0NPQ89dK8OKHyW) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 3:07 |
 | 21 | [Reflective Skull](https://open.spotify.com/track/65Xbss8BBrwYSpcIQXSCTa) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 3:31 |
-| 22 | [Fired Up](https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Fired Up](https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4) | 3:11 |
-| 23 | [Still No Change](https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:32 |
+| 22 | [Still No Change](https://open.spotify.com/track/7evhmpAOrk9f9Ecl2HRUwl) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Positive Rising: Part 1](https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa) | 3:32 |
+| 23 | [Fired Up](https://open.spotify.com/track/2hDuoERoV2umWbV2RBKNaP) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Fired Up](https://open.spotify.com/album/4KH2ofz92acvYpdAi0ylb4) | 3:11 |
 | 24 | [Eat You Up](https://open.spotify.com/track/4IdkJYJlNwXydIMR7VeYF9) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [R.I.F.F](https://open.spotify.com/album/49Cehn5bDHXflF8WGegArb) | 2:55 |
 | 25 | [Ocean Exploder](https://open.spotify.com/track/249tkfoGJ8fvMbRITqa7Wk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Black Rat](https://open.spotify.com/album/2k9I0F0nvtEyFko1pl2Qux) | 4:04 |
 | 26 | [Afterglow](https://open.spotify.com/track/2wDPr4OAaQRskL3Qjx8d8P) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloody Lovely](https://open.spotify.com/album/39Ax1ljxVnhuC4BTVcXWNU) | 3:30 |
@@ -52,6 +52,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bAity.md) - [plain]
 | 42 | [All Or Nothing](https://open.spotify.com/track/67iASH0fHqwSDx8oncwTRk) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [All Or Nothing](https://open.spotify.com/album/2ysCUWGrCt6kxvLfAEqKqG) | 3:23 |
 | 43 | [Gebbie Street](https://open.spotify.com/track/02v5ggYAHVdQYMzbfq5Y2Q) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 3:55 |
 | 44 | [No Sleep](https://open.spotify.com/track/7K2EiQPCwiaWjXiWXl8dzu) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/1PtUEGMscPJp6ZkFFoMWUX) | 2:51 |
-| 45 | [Dumb It Down](https://open.spotify.com/track/3flaoSMm3t1rGv0JChT5pR) | [DZ Deathrays](https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu) | [Bloodstreams](https://open.spotify.com/album/5CrFxu32NCoavIYGKZRcuQ) | 4:36 |
 
-Snapshot ID: `Z0unAAAAAABF5Cnjg64hy1ZRXbfYzBNt`
+Snapshot ID: `Z0z4gAAAAADDKJKjhP33F9DBeEZv0CnA`

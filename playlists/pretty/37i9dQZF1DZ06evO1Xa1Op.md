@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 
 > This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,776 likes - 46 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,780 likes - 45 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xa1Op.md) - [plain]
 | 34 | [Malahani](https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 3:59 |
 | 35 | [Penda Yoro](https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 5:21 |
 | 36 | [La drogue](https://open.spotify.com/track/5NzlmSiu5DxjQKorGGI8OB) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Red & Green](https://open.spotify.com/album/7ouohH6WOvyQODD0RYMpLi) | 5:34 |
-| 37 | [Cinquante six](https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 5:31 |
+| 37 | [Allah Uya](https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq) | 4:31 |
 | 38 | [Bandolobourou \(feat\. Oumou Sangaré\)](https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 6:32 |
-| 39 | [Allah Uya](https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Niafunké](https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq) | 4:31 |
+| 39 | [Cinquante six](https://open.spotify.com/track/45WDIUdujy0kzuDTBs3wyq) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Source](https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3) | 5:31 |
 | 40 | [The Secret](https://open.spotify.com/track/362JdradEO0cX5N7qYhkRE) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [The Secret](https://open.spotify.com/album/0gGinv1UJ9R4wAPhimSjWc) | 6:51 |
 | 41 | [Hanana](https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Savane](https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez) | 2:33 |
 | 42 | [Kombo Galia](https://open.spotify.com/track/0OZENqfFTW8YSuirwg8Fvm) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 4:27 |
 | 43 | [Yer Mali Gakoyoyo](https://open.spotify.com/track/2Wy19zQQAwnOykhdA5RZzI) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r) | 4:50 |
 | 44 | [M'bifé](https://open.spotify.com/track/3fRRBdnMRGsfdAzH9CSzql) | [BJ Sam](https://open.spotify.com/artist/1imLA3R07gkXbRJYM37c1Q), [SAFI DIABATE](https://open.spotify.com/artist/2J5ypufkwkihkREAVcgoF5), [Azaya](https://open.spotify.com/artist/1L5ONbAnVL6ZC8uzHEy6d3), [Djelykaba bintou](https://open.spotify.com/artist/24YDQ10inOvt34cLgOW2LU), [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [M'bifé](https://open.spotify.com/album/1X0p0tWvrdMn3nPxnmQW8g) | 3:53 |
 | 45 | [Sambadio \(Acoustic\)](https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Voyageur](https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj) | 5:12 |
-| 46 | [Soko](https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Radio Mali](https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r) | 5:08 |
 
-Snapshot ID: `Z0unAAAAAABOorKF4peUHXaKn/bFhFhh`
+Snapshot ID: `Z0z4gAAAAACLVMRgKb4w9l3n3fomJ4wG`

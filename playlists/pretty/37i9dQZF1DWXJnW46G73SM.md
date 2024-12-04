@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: أحمد كامل
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,329 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,363 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [كإنك مسكن](https://open.spotify.com/track/0N951bbetOixebVN6fUnyi) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [كإنك مسكن](https://open.spotify.com/album/2ukwdLszuyImuImHrpfyQW) | 4:19 |
 | 2 | [كأنك روح](https://open.spotify.com/track/2cWbuTNS1hFMAm68UckTjF) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [كأنك روح](https://open.spotify.com/album/0HDthNAE3HtbilYhob9PAc) | 4:10 |
-| 3 | [يا رب ترجع](https://open.spotify.com/track/0LFkuniWvlZ405W8BHd1sf) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [يا رب ترجع](https://open.spotify.com/album/44MLGyDz5k3A90BjcF18ER) | 2:51 |
+| 3 | [يارب ترجع](https://open.spotify.com/track/0LFkuniWvlZ405W8BHd1sf) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [يارب ترجع](https://open.spotify.com/album/44MLGyDz5k3A90BjcF18ER) | 2:51 |
 | 4 | [كفاياك](https://open.spotify.com/track/2JbVi1uv2ViF7tLI3z2zwJ) | [Abdelrahman](https://open.spotify.com/artist/06pd7R2YV4jwzkJTFULdn2) | [كفاياك](https://open.spotify.com/album/7rHgANUhOAqja8LEGKydTz) | 3:29 |
 | 5 | [Manalohash](https://open.spotify.com/track/2TkBSrbGw5rxcudMMlF33S) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN), [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ) | [Red Bull Mazzika Salonat](https://open.spotify.com/album/7mglCJlpiCwUfMzBZDJs5K) | 2:50 |
 | 6 | [نومي مخاصمني](https://open.spotify.com/track/0wM19U1JQFNWtSORtIvphd) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [نومي مخاصمني](https://open.spotify.com/album/23jooNVAjQJ5cgWgNgXNUO) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,984 likes - 255 songs - 12 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,039 likes - 255 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 10 | [je t'aime](https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [je t'aime](https://open.spotify.com/album/07My1drlRLs2E87EhyQk3I) | 4:14 |
 | 11 | [In the Way](https://open.spotify.com/track/6p59rsEKwbrlY1jaFcgZHX) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [In the Way](https://open.spotify.com/album/0LGTkqr4Xl6KM3mBJghLsA) | 3:28 |
 | 12 | [Fallin Up](https://open.spotify.com/track/5zzKQkne8IZnwYSn64f58h) | [Elle Varner](https://open.spotify.com/artist/7zmk5lkmCMVvfvwF3H8FWC) | [Fallin Up](https://open.spotify.com/album/0BDU605hqCrMZLfLQJpziG) | 4:24 |
-| 13 | [Laying In The Dark](https://open.spotify.com/track/0OuiyuvOLw1fSxcaX1n8oo) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Laying In The Dark](https://open.spotify.com/album/1IZvYtTisVTr65YcNEqI2p) | 3:18 |
+| 13 | [Laying In The Dark](https://open.spotify.com/track/0OuiyuvOLw1fSxcaX1n8oo) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Laying In The Dark](https://open.spotify.com/album/1IZvYtTisVTr65YcNEqI2p) | 2:18 |
 | 14 | [Can't Wait](https://open.spotify.com/track/2tS3PopXI5ECG1E1AQGlai) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Can't Wait](https://open.spotify.com/album/2mGdw7yFDkid8TGma9Sesa) | 3:23 |
 | 15 | [Supernova](https://open.spotify.com/track/7CkJjuOltz9jJhDpeJIeZT) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Supernova](https://open.spotify.com/album/4Se6xhKWKu1Qo5ooCPSXwM) | 3:12 |
 | 16 | [California Trash](https://open.spotify.com/track/61LhSOCYMNEGedpacz61X2) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m) | [California Trash](https://open.spotify.com/album/5J0aVIgfEX4tScTFLU46kV) | 3:25 |

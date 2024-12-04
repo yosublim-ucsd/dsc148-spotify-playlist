@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,712 likes - 75 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,723 likes - 75 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 31 | [Rag Jainjhoti \- Alap & Gat in Teental](https://open.spotify.com/track/06b1A7Hm76A8v2wirNWdEN) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P), [Abhijit Banerjee](https://open.spotify.com/artist/25meY1P3KyepIBDfWuEmz4) | [Lady Astride the Tiger](https://open.spotify.com/album/60L5IrIJBtz9G6OoVkuqNV) | 9:08 |
 | 32 | [Inner Peace](https://open.spotify.com/track/2YMUsN8bE7GfGBxCdnT1ox) | [Krishna's Flute](https://open.spotify.com/artist/7jMDi9AqHrx7jrxZ9f9mwz) | [Inner Peace](https://open.spotify.com/album/4FoTmbikEtF6Jj4mzvpWQD) | 6:40 |
 | 33 | [Taaja Shaanti](https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 4:22 |
-| 34 | [Shiva Medicine](https://open.spotify.com/track/5e1m5IOaefA2QOzl9ADGEm) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX) | [Shiva Medicine](https://open.spotify.com/album/47FfjcwJOPkJa59P9IgwZe) | 2:59 |
-| 35 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 |
+| 34 | [Raga Navel](https://open.spotify.com/track/64PFSlID3y1Pm3gqM6RUiG) | [Harsh Marwah](https://open.spotify.com/artist/1OTNhpMTizcJQibzfrT5tV) | [Raga Rasa](https://open.spotify.com/album/4bVOOvwB7z5RiGrdRSAwyG) | 5:00 |
+| 35 | [Shiva Medicine](https://open.spotify.com/track/5e1m5IOaefA2QOzl9ADGEm) | [Namaste Music](https://open.spotify.com/artist/3Y7yaPgysXZCuMpe4JjyQX) | [Shiva Medicine](https://open.spotify.com/album/47FfjcwJOPkJa59P9IgwZe) | 2:59 |
 | 36 | [Flute Puriya Dhanashri](https://open.spotify.com/track/25m6wScMul9ga6xH7eo9Md) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:08 |
 | 37 | [Raga Shudh Kalyan Alap](https://open.spotify.com/track/5K56gLQIT9UhXcENzvBr7r) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 5:14 |
 | 38 | [Pahadi Dhun](https://open.spotify.com/track/6y6Cx6ZDFA9qerhxbdzMO4) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Pandit Ronu Majumdar: Master of the Indian Bansuri](https://open.spotify.com/album/4fCwRhix5LmrCTnfGhQSyg) | 8:40 |

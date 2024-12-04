@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Freddie Gibbs",
-  "num_followers": 1591237,
+  "num_followers": 1591273,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,38 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "SSX Tricky",
+        "url": "https://open.spotify.com/album/0oYTCnSK1D8GYfWUzrpxLa"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "SSX Tricky",
+      "url": "https://open.spotify.com/track/36sJSi1dMErvXeLDT5TWAa"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Still Praying",
         "url": "https://open.spotify.com/album/6Y4gDBghxCfpGkQKc9czVQ"
       },
@@ -375,22 +407,6 @@
       "duration_ms": 309678,
       "name": "Dr. Britt Baker",
       "url": "https://open.spotify.com/track/08vyopstusuqW5qtK9EVh2"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "meet the grahams",
-        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 392138,
-      "name": "meet the grahams",
-      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -447,22 +463,6 @@
       "duration_ms": 169560,
       "name": "Ferraris in The Rain Part 2 (feat. ScHoolBoy Q & Freddie Gibbs)",
       "url": "https://open.spotify.com/track/6dD6xEnhXhLWZTZAFVwmQK"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "SSX Tricky",
-        "url": "https://open.spotify.com/album/0oYTCnSK1D8GYfWUzrpxLa"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "SSX Tricky",
-      "url": "https://open.spotify.com/track/36sJSi1dMErvXeLDT5TWAa"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Define My Name",
-        "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "DJ Premier",
-          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
-        }
-      ],
-      "duration_ms": 190693,
-      "name": "Define My Name",
-      "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/5HgjPTY2Sw4yEHrZIl2TWf"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 354773,
       "name": "Pi (feat. Daylyt & Ab-Soul)",
       "url": "https://open.spotify.com/track/0NXRZaUn11do0EzDFlXkbj"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Define My Name",
+        "url": "https://open.spotify.com/album/5nabWI5Yf9uYtDS79CXVHu"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "DJ Premier",
+          "url": "https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7"
+        }
+      ],
+      "duration_ms": 190693,
+      "name": "Define My Name",
+      "url": "https://open.spotify.com/track/4LDx21eeTurv7b1slX4rFl"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Dope Sellers",
-        "url": "https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb"
-      },
-      "artists": [
-        {
-          "name": "Millyz",
-          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
-        },
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Dope Sellers",
-      "url": "https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "SS2 Freestyle",
         "url": "https://open.spotify.com/album/21jFKB3oTYa8IsJ9oRSsFT"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 213250,
       "name": "SS2 Freestyle",
       "url": "https://open.spotify.com/track/3WJfh8zPcjOLj0SNJTWy1u"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Dope Sellers",
+        "url": "https://open.spotify.com/album/5irHqOOBAjst62lNYi9dyb"
+      },
+      "artists": [
+        {
+          "name": "Millyz",
+          "url": "https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg"
+        },
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Dope Sellers",
+      "url": "https://open.spotify.com/track/3cz5RErpG7AyW9fejWTWOk"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -931,18 +931,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Beverly Drive",
-        "url": "https://open.spotify.com/album/6LIdgbrlI7m0IQUB2pyFac"
+        "name": "Peerless",
+        "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
       },
       "artists": [
         {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+          "name": "Stalley",
+          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         }
       ],
-      "duration_ms": 248551,
-      "name": "Beverly Drive",
-      "url": "https://open.spotify.com/track/0OkPSNqgtzOZUiXXQmHKWX"
+      "duration_ms": 161536,
+      "name": "Boiler Room (feat. Benny The Butcher)",
+      "url": "https://open.spotify.com/track/7CFvLWcbqNUlHto2sOuJgE"
     }
   ],
   "unique_name": "Spilled Ink",

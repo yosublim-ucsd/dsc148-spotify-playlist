@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 32540,
+  "num_followers": 32542,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
-        "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
-      },
-      "artists": [
-        {
-          "name": "Valentino Jazz Bazar",
-          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Acto 2",
         "url": "https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 353220,
       "name": "Mi Elemento",
       "url": "https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Jazz Bazar II (feat. Pat\u00e1n Vidal)",
+        "url": "https://open.spotify.com/album/7zFU0yE4XcMWXWSA2kqGLv"
+      },
+      "artists": [
+        {
+          "name": "Valentino Jazz Bazar",
+          "url": "https://open.spotify.com/artist/4k7yksiXsWK7nHHn3H95fm"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/4G9yziRWIvfbrHDAScv4jj"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "En Las Afueras",
-        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
-      },
-      "artists": [
-        {
-          "name": "Pat Nu\u00f1o",
-          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
-        }
-      ],
-      "duration_ms": 230133,
-      "name": "Caminando Con Aud\u00edfonos",
-      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 220532,
       "name": "Lago de Forma Mia",
       "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "En Las Afueras",
+        "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
+      },
+      "artists": [
+        {
+          "name": "Pat Nu\u00f1o",
+          "url": "https://open.spotify.com/artist/273KEzVbjsjzo9q8bb3SiN"
+        }
+      ],
+      "duration_ms": 230133,
+      "name": "Caminando Con Aud\u00edfonos",
+      "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1023,18 +1023,22 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Bye Bye Blackbird",
-        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
+        "name": "I Remember Clifford",
+        "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
       },
       "artists": [
         {
           "name": "Hugo Lobo",
           "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
+        },
+        {
+          "name": "Facundo Canosa",
+          "url": "https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS"
         }
       ],
-      "duration_ms": 188345,
-      "name": "Bye Bye Blackbird",
-      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
+      "duration_ms": 192000,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1127,22 +1131,18 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "I Remember Clifford",
-        "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
+        "name": "Bye Bye Blackbird",
+        "url": "https://open.spotify.com/album/0R1VFMXxny6V8HAull4Y2v"
       },
       "artists": [
         {
           "name": "Hugo Lobo",
           "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
-        },
-        {
-          "name": "Facundo Canosa",
-          "url": "https://open.spotify.com/artist/6MorVkOyr0Yc097YejqTiS"
         }
       ],
-      "duration_ms": 192000,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
+      "duration_ms": 188345,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/6vgRuIXsJCOhmwHqtaQk1C"
     },
     {
       "added_at": "2023-12-08 00:22:41",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2023-12-08 00:22:41",
       "album": {
-        "name": "Apal\u00e1p!",
-        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
-      },
-      "artists": [
-        {
-          "name": "Oscar Giunta Supertr\u00edo!",
-          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
-        },
-        {
-          "name": "Hern\u00e1n Jacinto",
-          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
-        },
-        {
-          "name": "Flavio Romero",
-          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
-        }
-      ],
-      "duration_ms": 495746,
-      "name": "Cabrera's Blues",
-      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
-    },
-    {
-      "added_at": "2023-12-08 00:22:41",
-      "album": {
         "name": "Tr\u00edas",
         "url": "https://open.spotify.com/album/3r9kmsMm2FztYolno45BT2"
       },
@@ -1279,6 +1255,30 @@
       "duration_ms": 640853,
       "name": "Trias",
       "url": "https://open.spotify.com/track/7sTSysRFQYhAW6SqmCUaaw"
+    },
+    {
+      "added_at": "2023-12-08 00:22:41",
+      "album": {
+        "name": "Apal\u00e1p!",
+        "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
+      },
+      "artists": [
+        {
+          "name": "Oscar Giunta Supertr\u00edo!",
+          "url": "https://open.spotify.com/artist/435MNsuWxusdZVe9OGAmoZ"
+        },
+        {
+          "name": "Hern\u00e1n Jacinto",
+          "url": "https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl"
+        },
+        {
+          "name": "Flavio Romero",
+          "url": "https://open.spotify.com/artist/3ijppPVPUI69GgojvRikVl"
+        }
+      ],
+      "duration_ms": 495746,
+      "name": "Cabrera's Blues",
+      "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
     },
     {
       "added_at": "2023-12-08 00:22:41",

@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-146 songs - 6 hr 3 min
+147 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Seasons Flowing](https://open.spotify.com/track/3GF4u2VOhdmr3qTpACIVmm) | [Fleur Bloom](https://open.spotify.com/artist/0jKbA25jr47ARj2fA7CEjR) | [Seasons Flowing](https://open.spotify.com/album/7DGbjC2RBWda7hbD8dE1Hj) | 2:30 | 2024-09-30 |  |
 | [Serene Lullaby](https://open.spotify.com/track/6senBBuEDrhyrtq83mNw8K) | [Michele Nobler](https://open.spotify.com/artist/3c77k7JBsnl7h72xlCuaS2) | [A Second Life](https://open.spotify.com/album/4zfzNeWgluMMQfhXxNOft8) | 2:46 | 2023-05-09 |  |
 | [Serenity](https://open.spotify.com/track/5ul8fmKLEXPOoxI2UB03Cl) | [Peighton](https://open.spotify.com/artist/1YUB5ogOMQkiMfYvaPIEPY) | [Serenity](https://open.spotify.com/album/3H4nRo9aqyV0W0CK0MyaRo) | 2:38 | 2023-05-09 |  |
+| [Silence](https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Silence](https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5) | 2:21 | 2024-12-03 |  |
 | [Silent Steps in the Snow](https://open.spotify.com/track/4hhki0inb5KmXcI3gJGXOv) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Silent Steps in the Snow](https://open.spotify.com/album/052ClOJxN5pEBblLQNISsz) | 2:24 | 2024-11-12 |  |
 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 | 2023-05-09 |  |
 | [Slowdive](https://open.spotify.com/track/2zqiro2tpHZkYVrtdMQAVn) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Slowdive](https://open.spotify.com/album/3kZgD5YMFeOpGlF39LD9VM) | 2:50 | 2024-07-22 |  |

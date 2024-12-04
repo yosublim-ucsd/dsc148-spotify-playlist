@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,987,554 likes - 65 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,987,546 likes - 65 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 17 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 |
 | 18 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
 | 19 | [Me Hace Tanto Bien](https://open.spotify.com/track/2mDLrugtj3r6XpH3SdlLGB) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:08 |
-| 20 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
-| 21 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
+| 20 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
+| 21 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 |
 | 22 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 |
 | 23 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 |
 | 24 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 36 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
 | 37 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 |
 | 38 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
-| 39 | [PLIS](https://open.spotify.com/track/1regh1ryWna3MRTKu401uD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:42 |
+| 39 | [Medialuna](https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:27 |
 | 40 | [La Mujer Perfecta](https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Mujer Perfecta](https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX) | 3:37 |
 | 41 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
 | 42 | [24/7](https://open.spotify.com/track/6nQ3fhwmCWMoEa7m9Vn9du) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:10 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 44 | [Lejos Conmigo](https://open.spotify.com/track/6bEyu7fMzsnP5COEg3RkWn) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Lejos Conmigo](https://open.spotify.com/album/1LofKMQ8ZnMIcghheAXVtM) | 2:55 |
 | 45 | [Hasta Ese Día](https://open.spotify.com/track/6WBkUQoNie4RIY1cFaqUnP) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Hasta Ese Día](https://open.spotify.com/album/6cO7pYatv2CewTgj1ejYPw) | 3:23 |
 | 46 | [Cohete](https://open.spotify.com/track/2P58XhyNkacK1LHSCk5O2t) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cohete](https://open.spotify.com/album/34L6DaZIUkzQvZwDd5Cx9a) | 2:52 |
-| 47 | [Medialuna](https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:27 |
+| 47 | [PLIS](https://open.spotify.com/track/1regh1ryWna3MRTKu401uD) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [un](https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr) | 3:42 |
 | 48 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
 | 49 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
 | 50 | [7 Veces](https://open.spotify.com/track/7iJQk4HvwwIZWrEfnuzTPP) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 |

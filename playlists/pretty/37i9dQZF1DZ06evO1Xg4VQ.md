@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 > This is Lila Downs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,591 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,592 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 11 | [La Cumbia Del Mole](https://open.spotify.com/track/3zZWGXbq4ybpt2ux4c0KXV) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 4:10 |
 | 12 | [Tu Voz \(with Lila Downs\)](https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Grandes Éxitos de las Sonoras, Con la Más Grande, La Sonora Santanera](https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ) | 2:46 |
 | 13 | [Calaveras](https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Marcha de la Vida](https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD) | 4:29 |
-| 14 | [Si Volviera A Nacer](https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:44 |
-| 15 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
+| 14 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
+| 15 | [Si Volviera A Nacer](https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:44 |
 | 16 | [Dios Nunca Muere](https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:55 |
 | 17 | [El Yerbero Moderno \(feat\. Lila Downs\)](https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:00 |
 | 18 | [Paloma Negra](https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 4:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 45 | [Sabor a Mi](https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:20 |
 | 46 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 |
 | 47 | [El Relampago](https://open.spotify.com/track/0x5CGLK5BTGAbn8CZqwidU) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M), [Max Baca](https://open.spotify.com/artist/3mPW79np3VgzYgZPv0LtRW) | [La Cantina](https://open.spotify.com/album/5R7B1EJgSgq0I0jo92098G) | 3:07 |
-| 48 | [Dos Corazones](https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:34 |
-| 49 | [Los Mandamientos de Amor](https://open.spotify.com/track/2yp9Gi0jaCyc0GeBgCvFTd) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Los Mandamientos de Amor](https://open.spotify.com/album/6NtiupRzjzLiQ4kmKQTKxo) | 3:35 |
+| 48 | [Los Mandamientos de Amor](https://open.spotify.com/track/2yp9Gi0jaCyc0GeBgCvFTd) | [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Los Mandamientos de Amor](https://open.spotify.com/album/6NtiupRzjzLiQ4kmKQTKxo) | 3:35 |
+| 49 | [Dos Corazones](https://open.spotify.com/track/7m4kCkv68FyL1Sl1eAzSj6) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:34 |
 | 50 | [Son del Chile Frito](https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:35 |
 
-Snapshot ID: `Z0unAAAAAADuHzLU4jn+AQ7S6M/HCST4`
+Snapshot ID: `Z0z4gAAAAAA+HkpuLrcQaqMhKsrvpdr6`

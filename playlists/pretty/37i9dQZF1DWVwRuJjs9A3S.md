@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > All the highlights from the world of indie! Cover: Mina Okabe
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,365 likes - 124 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,370 likes - 124 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

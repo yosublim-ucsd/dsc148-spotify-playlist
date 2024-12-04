@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,084 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,096 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Balak](https://open.spotify.com/track/5x7LMsSBWbQlLnmxF3U5PC) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf), [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Balak](https://open.spotify.com/album/2I2lamkjFbeLFLUEcH8SAc) | 3:04 |
 | 2 | [Al Forga](https://open.spotify.com/track/6unp5zGcRjIAyeNjiVMLHX) | [Noel Kharman](https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL) | [Al Forga](https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs) | 2:57 |
 | 3 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 |
-| 4 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 |
+| 4 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 |
 | 5 | [Lama Tkooni](https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Lama Tkooni](https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB) | 3:31 |
 | 6 | [Yalli Betiheb Elna'na'](https://open.spotify.com/track/09BqNGf6vca4f2q4P0YkLF) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Yalli Betiheb Elna'na'](https://open.spotify.com/album/4CdEHczQJUHdGhacWYQ6vH) | 3:29 |
 | 7 | [Nostalgia](https://open.spotify.com/track/4ktzD6OYjb2u2kqfecXK79) | [zeyne](https://open.spotify.com/artist/4yuZxu7joQOFtplpMAsxlf) | [Nostalgia](https://open.spotify.com/album/3JNS9fh8RFw3N86GCCbZp6) | 3:19 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 9 | [Mawali](https://open.spotify.com/track/6EGN0RcirTvE4HCrKNXGe0) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Mawali](https://open.spotify.com/album/5ntiX3s1kigHbz9WqQsxyN) | 4:28 |
 | 10 | [The Siren \- Camo & Krooked Remix](https://open.spotify.com/track/588FloU8DCeIsz9NxONjGb) | [Bungle](https://open.spotify.com/artist/0dpCZN6OOu60LZXZpNGsKj), [Ayah Marar](https://open.spotify.com/artist/4xQ2BGOBUXgjxO2PAhrIyS) | [The Siren Remixes](https://open.spotify.com/album/5OQFefkEtKmQnpmXHmHacc) | 4:06 |
 | 11 | [Rahat Wen](https://open.spotify.com/track/4ueBwVQmqlHQ92Whn1vlq8) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Rahat Wen](https://open.spotify.com/album/2zVGJy2Wgq8WrsamstI0qs) | 3:19 |
-| 12 | [Weino](https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ) | [Weino](https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj) | 2:25 |
+| 12 | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/track/524qzN14VG2CCqVgDIiwNA) | [Dana Salah](https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ), [NASIR](https://open.spotify.com/artist/6lNVdJnv3L8A8BsYnfaTD4) | [Dum Tak \(feat\. NASIR\)](https://open.spotify.com/album/12pFrjNH8z7zdZJopRksgy) | 2:36 |
 | 13 | [أوقات](https://open.spotify.com/track/1kNEA479Q065mAaNhaT8Rn) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [أوقات](https://open.spotify.com/album/0IgOIkkKUW98PalSz7W2SB) | 3:42 |
 | 14 | [Zariya](https://open.spotify.com/track/7kWMZ2LZIedqzCgPkGNX81) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY), [Ani Choying Drolma](https://open.spotify.com/artist/4WDdyyr7KmLpJ6Gf65VQwI) | [Coke Studio India Season 3: Episode 1](https://open.spotify.com/album/2CStgaiOhe1w4OXAoqP1gl) | 7:12 |
 | 15 | [Fil Atmeh](https://open.spotify.com/track/4E0PF1tlJgOK23UF03wWyK) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Fil Atmeh](https://open.spotify.com/album/3roVdMcbd4OF7q853JM8Gc) | 3:40 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 28 | [Pedazos de mi vida](https://open.spotify.com/track/5LXmGPStiy83Tnsq96G9V6) | [Farah Siraj](https://open.spotify.com/artist/0blZk3JXQG2roCiO6KCJWY) | [Nomad](https://open.spotify.com/album/0y5vb7o8uCKsA858HIG2dM) | 3:28 |
 | 29 | [Hold Your Ground](https://open.spotify.com/track/0KmiXlCv8005j9o340PW4e) | [47SOUL](https://open.spotify.com/artist/5nxFmhSekt9Acn4tWZxGge), [Lowkey](https://open.spotify.com/artist/2ps77LMRMUCMl5N6uRWOTH) | [Hold Your Ground](https://open.spotify.com/album/6fxuBrz4h4iOuW5hVoiJmc) | 4:35 |
 | 30 | [Khalliha Ala Allah](https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Khalliha Ala Allah](https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0) | 4:12 |
-| 31 | [ضويت الكون](https://open.spotify.com/track/2Mp14EuBWISckdn5vYr7ot) | [سعد الزين](https://open.spotify.com/artist/0c1jfiG9lurrqRQXumwYZe) | [ضويت الكون](https://open.spotify.com/album/3UkjsaDJ2zeu53ZyM6yJjj) | 4:05 |
-| 32 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 |
+| 31 | [Bafaker Kteer](https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD) | [Reina Khoury](https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq) | [Bafaker Kteer](https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi) | 3:20 |
+| 32 | [ضويت الكون](https://open.spotify.com/track/2Mp14EuBWISckdn5vYr7ot) | [سعد الزين](https://open.spotify.com/artist/0c1jfiG9lurrqRQXumwYZe) | [ضويت الكون](https://open.spotify.com/album/3UkjsaDJ2zeu53ZyM6yJjj) | 4:05 |
 | 33 | [OCB](https://open.spotify.com/track/65rWsK4Js9lGAhOQTpPTxM) | [AceQuared](https://open.spotify.com/artist/0KgK0OMTh21OHyab9UDg3r) | [Black Iris](https://open.spotify.com/album/5nBnqvnnQnAsCNxX8q1Xw1) | 2:54 |
 | 34 | [7ai](https://open.spotify.com/track/7lx7KcCLJtHTCFglYQC12y) | [Ayham](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix), [Bader Azem](https://open.spotify.com/artist/75hMrwzTIrdi0SvamLjY9D) | [Xvibe](https://open.spotify.com/album/6W7b9RFrdBE29953myz6b7) | 2:47 |
 | 35 | [OK 3adi](https://open.spotify.com/track/7uvT6cxtmmpLYED0uOaypM) | [Jaafar](https://open.spotify.com/artist/4Svx0xgoS8UA2ldqxmxG4L) | [OK 3adi](https://open.spotify.com/album/4KVKvjqBmoPlYMUsiW7O8v) | 2:46 |

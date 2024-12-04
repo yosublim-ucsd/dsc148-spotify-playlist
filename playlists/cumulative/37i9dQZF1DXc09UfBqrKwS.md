@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-520 songs - 1 day 1 hr 25 min
+525 songs - 1 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Include](https://open.spotify.com/track/0v4OsqxNQmqxaz10teJsWO) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Include](https://open.spotify.com/album/1Hs4Nl5uMnxyn4skV5EIF5) | 2:57 | 2024-05-20 |  |
 | [Inevitability](https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a) | [Fannie Shelton](https://open.spotify.com/artist/3IgG6CQo3mfhUsT1AgNWum) | [Inevitability](https://open.spotify.com/album/6nRr1olpoiH9pky8VQ1eZW) | 3:31 | 2023-03-31 | 2024-02-09 |
 | [Infinitya](https://open.spotify.com/track/3u5XjYs1nfWW53voU5mxpx) | [X\-Genie](https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I) | [Infinitya](https://open.spotify.com/album/0LiNszwKSivaoA3eTQibKn) | 2:31 | 2024-05-04 | 2024-07-16 |
+| [Initially](https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Initially](https://open.spotify.com/album/6Wesmg2ZiQ944z84Gqdm3S) | 3:05 | 2024-12-03 |  |
 | [Inner Guidance](https://open.spotify.com/track/7fhxsFzVhoznTnK7UlbnLv) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Inner Guidance](https://open.spotify.com/album/5dYYm6NNZ5aM8Nxf5Djy29) | 4:01 | 2024-01-13 | 2024-07-16 |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2023-03-31 | 2024-02-09 |
 | [Inner Strength and Courage](https://open.spotify.com/track/5AiDahGjCGvc0zSsU3nz2A) | [Dayonas Dream](https://open.spotify.com/artist/46iZlIvXWYhgSp8geA7Ea3) | [Inner Strength and Courage](https://open.spotify.com/album/5N7hvsSyBmye2JyaQ7UziS) | 3:10 | 2024-08-30 |  |
@@ -272,6 +273,7 @@
 | [Love and Light](https://open.spotify.com/track/4KHtSL1CTl3mLQUmeS0FzZ) | [Etta](https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2) | [Love and Light](https://open.spotify.com/album/0BEXzf1T4SsA7dwfY1gLRz) | 2:52 | 2024-06-18 | 2024-07-16 |
 | [Lo´s Magma](https://open.spotify.com/track/6qSypfhInkt0jQC5aRcrTV) | [Robi Dixie](https://open.spotify.com/artist/5NlnY2fSvi51YebjxNah6F) | [Lo´s Magma](https://open.spotify.com/album/01rQAOOlWABpfJ2CcPOIAb) | 3:06 | 2023-10-02 |  |
 | [Luminescence](https://open.spotify.com/track/5IaT7YXAiWiW6sl2COCOx6) | [Jerzy Stól](https://open.spotify.com/artist/6bBst9TjOI1WYBRjx9LZb1) | [Luminescence](https://open.spotify.com/album/1iYFq98gSd6REc7Pqhzyhu) | 2:08 | 2023-03-31 | 2024-02-09 |
+| [Lumiére Douce](https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69) | [Kaiser Hulenstadt](https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS) | [Lumiére Douce](https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4) | 2:40 | 2024-12-03 |  |
 | [Lunar Dreamscape](https://open.spotify.com/track/5t9XohWGihplq53Gi4lfQE) | [Terra Armoniosa](https://open.spotify.com/artist/0AkcSI557MXz8GvC7fbyVT) | [Lunar Dreamscape](https://open.spotify.com/album/0osy0lravryxj4wRzC6kFU) | 2:58 | 2024-03-06 | 2024-03-21 |
 | [Magical Calmness](https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs) | [Bedtime Muse](https://open.spotify.com/artist/15AGQlNX9Ej332pHcSTUjO) | [Magical Calmness](https://open.spotify.com/album/7yMh6pTahqKNiidicZaVwz) | 2:37 | 2024-07-15 | 2024-09-14 |
 | [Make It Last](https://open.spotify.com/track/3BXxpljx5qawevsOU6UzHY) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Make It Last](https://open.spotify.com/album/0vQymbxDgCdBXGuwVtUsH2) | 2:54 | 2023-03-31 | 2024-02-09 |
@@ -327,6 +329,7 @@
 | [Omegagigia](https://open.spotify.com/track/7bgTGa2DeDTFX8yIbjhl2s) | [Galactica Pivot](https://open.spotify.com/artist/4GwyYAQXedw9Rf6R5lPqiG) | [Omegagigia](https://open.spotify.com/album/64vtZ76endgd7UTXcuOmOU) | 2:53 | 2024-02-08 |  |
 | [Omniscient](https://open.spotify.com/track/3MG6fFcoFduAh2sjRmIYZg) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [Omniscient](https://open.spotify.com/album/4nyurPRXDeFSQl7VYAl979) | 2:37 | 2023-03-31 | 2024-02-09 |
 | [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2023-03-31 | 2024-05-05 |
+| [Opaline Haze](https://open.spotify.com/track/2emLNgm2fFXz9IEKysjoAg) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Opaline Haze](https://open.spotify.com/album/6PKJmrjzGMaitz6Nc68m2S) | 3:09 | 2024-12-03 |  |
 | [Orbital](https://open.spotify.com/track/5dx4dhqbkLFKYPyWSJvu2N) | [Luna Ombro](https://open.spotify.com/artist/772pb8YX7Q28YXDan6bi7M) | [Orbital](https://open.spotify.com/album/5FolWCHTlIbxFi4Q8dPPVu) | 3:02 | 2024-03-06 | 2024-07-16 |
 | [Orejuna](https://open.spotify.com/track/6kNUaKqVjhycEyKT0bDXq9) | [Luna Arkanna](https://open.spotify.com/artist/33lvl5IfjnOGOasGtveIIo) | [Set The Future](https://open.spotify.com/album/1j2Y5Hrhez1jqDlUytbsN4) | 3:22 | 2023-03-31 | 2024-05-21 |
 | [Origami Age](https://open.spotify.com/track/121YyIOmTlu4Da9HgkZrJU) | [De Seu](https://open.spotify.com/artist/1cnFAHOmH9W9QqZYhNSoMs) | [Origami Age](https://open.spotify.com/album/61UXpwigZp7NAAle6sNyLw) | 2:50 | 2023-03-31 | 2024-02-09 |
@@ -357,6 +360,7 @@
 | [Purifier](https://open.spotify.com/track/082BqGRgmiWuoUYwuxbHZ1) | [Sleepwear](https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph) | [Purifier](https://open.spotify.com/album/0ujT7NgBnnsbHxuuChE0Ts) | 3:45 | 2024-10-14 |  |
 | [Qadar](https://open.spotify.com/track/74RJytYYsMkbWTBPjzgZre) | [Noni Ammin](https://open.spotify.com/artist/6mUFb0nVX1RQqNS0jC5D0R) | [Qadar](https://open.spotify.com/album/3dJjBXOomyeqrVAmMIWtnP) | 2:53 | 2024-07-09 | 2024-07-16 |
 | [Quand je te vois](https://open.spotify.com/track/0ydR92kMvsKzbHskETB2QR) | [Delit Quirion](https://open.spotify.com/artist/3Mw8wFkvBzL2syoPuEhM3X) | [Quand je te vois](https://open.spotify.com/album/3ksB8mIeFENkr2Ll6FJFof) | 3:18 | 2023-03-31 | 2023-06-10 |
+| [Quiet](https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Quiet](https://open.spotify.com/album/5lyWODszd0IhEWQb8bVkj8) | 3:05 | 2024-12-03 |  |
 | [Quiet Awareness](https://open.spotify.com/track/395VlKRtLopomEXtjYSDsz) | [Yonah Stana](https://open.spotify.com/artist/6xA4srnsCK7Br48BUr9dOZ) | [Quiet Awareness](https://open.spotify.com/album/181nSoFp5KA9GKmAikQD18) | 3:01 | 2023-03-31 | 2024-02-09 |
 | [Quietness](https://open.spotify.com/track/27ZLSp1tyjQQpm4doIhFCY) | [Coseae](https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09) | [Quietness](https://open.spotify.com/album/7qBTeldiyet58KcNxEgbav) | 2:54 | 2024-07-09 |  |
 | [Quietum](https://open.spotify.com/track/4AYT0x23DPNQJsKGDft1wP) | [Eône](https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7) | [Quietum](https://open.spotify.com/album/2M4jO7NyO4LmMgjNIqXgNX) | 3:00 | 2023-11-10 | 2024-08-31 |
@@ -476,6 +480,7 @@
 | [Tranquilizar el Ser](https://open.spotify.com/track/3HMptEvLblLn7DbyRVaCLw) | [Slower Lover](https://open.spotify.com/artist/77gg1JUo3GX5h3JKWKZKeF), [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Tranquilizar el Ser](https://open.spotify.com/album/6ZhrQdoRXpHnIapIxFfh5O) | 2:07 | 2024-03-06 |  |
 | [Translucent](https://open.spotify.com/track/6qJ3JOEonAm4W3djP5P43E) | [Toarp](https://open.spotify.com/artist/1swZCeKExXzzr6jC754Ubh) | [Translucent](https://open.spotify.com/album/5Lyd7zDR0alPBY6i91b2gI) | 2:53 | 2023-11-10 |  |
 | [Translucent night](https://open.spotify.com/track/7GKuF5uVs0dGmjWzoA5VW5) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Translucent night](https://open.spotify.com/album/1VEHWNHa2RMzIGXIlDWFVd) | 2:42 | 2024-07-15 |  |
+| [Translucide](https://open.spotify.com/track/4oiNgs95r4lBrC3la1D6XF) | [Ethereal Nocturne](https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV) | [Translucide](https://open.spotify.com/album/2qpO9vQKsdwGP8fcdmxzS1) | 2:33 | 2024-12-03 |  |
 | [Transmute](https://open.spotify.com/track/6aUqIwsjJuIfgkltHN23lJ) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Transmute](https://open.spotify.com/album/6DlNcY8tGlAycwR6dayZTK) | 2:48 | 2024-01-13 |  |
 | [Twine](https://open.spotify.com/track/6wjnlFiyEN25XVYCUsR2TU) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Twine](https://open.spotify.com/album/6P86gHi3Y3lmIOCnaN7xMX) | 3:05 | 2024-05-20 |  |
 | [Twinkle](https://open.spotify.com/track/2ycdMVR5v21EEkfm08U9Of) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Twinkle](https://open.spotify.com/album/2RpPkM7oYQ2Zt0TEW7Hs1W) | 2:33 | 2024-01-17 |  |

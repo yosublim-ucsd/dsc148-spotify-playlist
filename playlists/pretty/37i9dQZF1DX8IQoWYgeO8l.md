@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IQoWYgeO8l.md) - [plain]
 
 > Los tracks que escribieron la historia del Hip\-Hop mexicano en 2023\. Lefty SM en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,998 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,999 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IQoWYgeO8l.md) - [plain]
 | 36 | [Traigo El Mando](https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy) | [Traigo El Mando](https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa) | 3:02 |
 | 37 | [LA PARRANDHA](https://open.spotify.com/track/6XFTqMW87jrYBQ3SS8vYpZ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [LA PARRANDHA](https://open.spotify.com/album/2OrhT6OwvY3Hdm3EFoW9iM) | 3:58 |
 | 38 | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/track/7Jo6uG5846H37UrPuuLyO5) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Dormir \(Ya Se Armó\)](https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A) | 2:40 |
-| 39 | [KUMBIA MAKABRA](https://open.spotify.com/track/72BlB9Lok4jD7t1NCdPfAr) | [Tomas Ballardo](https://open.spotify.com/artist/2UilISUP4GdOfkjklDmUaQ), [Santa Fe Klan](https://open.spotify.com/artist/7MeQVdCN7oWdeYtibXFJje), [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R) | [KUMBIA MAKABRA](https://open.spotify.com/album/1oXkI5mJE3WtNJRnYDR2nt) | 2:48 |
+| 39 | [KUMBIA MAKABRA](https://open.spotify.com/track/72BlB9Lok4jD7t1NCdPfAr) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R) | [KUMBIA MAKABRA](https://open.spotify.com/album/1oXkI5mJE3WtNJRnYDR2nt) | 2:48 |
 | 40 | [Una Leyenda Nunca Muere](https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Una Leyenda Nunca Muere](https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg) | 2:46 |
 | 41 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
 | 42 | [Liga Malandra 3](https://open.spotify.com/track/6fAGdSZyZO3uKF0wdVOuVd) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [Sinful El Pecador](https://open.spotify.com/artist/0CtBJEWIKkU8CzxJCBLmSi) | [Liga Malandra 3](https://open.spotify.com/album/6dcUWslTmKR3ymSgSQ1nzy) | 6:11 |

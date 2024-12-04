@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 
 > Once a pogue, always a pogue...Listen to music from and inspired by Outer Banks, new episodes now streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,691 likes - 274 songs - 16 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,824 likes - 274 songs - 16 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 43 | [Get Back](https://open.spotify.com/track/2zqowf7raYe9riQ6IoimUG) | [Greyhounds](https://open.spotify.com/artist/1FcTd89N9ESEOsIDD883Kp) | [Accumulator](https://open.spotify.com/album/6NNTa7v6CjkrzZ1rKn1Gwf) | 2:58 |
 | 44 | [Funky Fire](https://open.spotify.com/track/23ocdrkMsbIT8Y5zYYFGLR) | [The Aggrolites](https://open.spotify.com/artist/5tdgsoMr7dIrcVUVauzuvM) | [The Aggrolites](https://open.spotify.com/album/6kvCoBX2EuVuDtyAdslFUu) | 4:10 |
 | 45 | [Freedom](https://open.spotify.com/track/0DyBgo5cgpW5xcvgrMFNUy) | [Dub Specialist](https://open.spotify.com/artist/2Z6eWhLfvDVcgULunQskjk) | [DUB](https://open.spotify.com/album/5GSYK58IsWCLqMYKHENDK1) | 3:09 |
-| 46 | [Peaceful Man](https://open.spotify.com/track/0e4Wtx9UY0osArTXDGBZUP) | [Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Black Power](https://open.spotify.com/album/5apqfs9GaJvTa0MGXFbtWU) | 3:07 |
+| 46 | [Peaceful Man](https://open.spotify.com/track/0e4Wtx9UY0osArTXDGBZUP) | [The Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Black Power](https://open.spotify.com/album/5apqfs9GaJvTa0MGXFbtWU) | 3:07 |
 | 47 | [Can You Get To That](https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 2:49 |
 | 48 | [Director of Business Development](https://open.spotify.com/track/6iK4QkLIE8fVvFUqGuYE50) | [Genesee Johnny](https://open.spotify.com/artist/7Icj6a13hwK4keWTnrRDTY) | [Saturday in Paradise](https://open.spotify.com/album/2TllJQXQdfztg5nlB5Dtlw) | 3:41 |
 | 49 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/2rxUnZsfZAIuQ9vKO24Ute) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [HEAVY META](https://open.spotify.com/album/2ehHcC26sfvWAQhFTkk6dW) | 3:40 |
@@ -259,7 +259,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MYZm4P2AID.md) - [plain]
 | 249 | [Pub Feed](https://open.spotify.com/track/6Rz6yXr3RWpYdGst26tSYF) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [High Risk Behaviour](https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7) | 2:25 |
 | 250 | [I'm the One](https://open.spotify.com/track/2yV2uQ6uxbdF9JbbKhfuTY) | [Sister John](https://open.spotify.com/artist/7zzr8XDzaXjmHUcwwNgEt5) | [Sister John](https://open.spotify.com/album/6eZ2LX4Aqyu6cOPN4VaXa0) | 3:42 |
 | 251 | [Something That You're Missing](https://open.spotify.com/track/1feFU0PFJYCySHLBxZUZ8V) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [Sol Del Sur](https://open.spotify.com/album/26WIJQq5d9NkiE2mPNvjJ8) | 2:50 |
-| 252 | [I Have Got No Money](https://open.spotify.com/track/7pcNgV4TOctgEErMh0ozNq) | [Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Black Power](https://open.spotify.com/album/5apqfs9GaJvTa0MGXFbtWU) | 4:05 |
+| 252 | [I Have Got No Money](https://open.spotify.com/track/7pcNgV4TOctgEErMh0ozNq) | [The Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Black Power](https://open.spotify.com/album/5apqfs9GaJvTa0MGXFbtWU) | 4:05 |
 | 253 | [Boys in the Better Land](https://open.spotify.com/track/0iJX82OGewFWpyRtB8zzo4) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R) | 5:00 |
 | 254 | [Lake Song](https://open.spotify.com/track/3jlyPvK2T1UYigUIaR3u7K) | [Deeper](https://open.spotify.com/artist/2OdkcNnvSRbVRcziM3OK2S) | [Auto\-Pain](https://open.spotify.com/album/7sM244G1DwSq9Cqvv59xxz) | 3:25 |
 | 255 | [Ideruni \(Help\)](https://open.spotify.com/track/5rhJHP0DlXVvocptvKWk0V) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Aban](https://open.spotify.com/album/2KlF5Rk0eZZbOIwLThaiU1) | 3:42 |

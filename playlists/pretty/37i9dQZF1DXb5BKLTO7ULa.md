@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Douwe Bob & SERA
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,110 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,102 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 22 | [Reflectie](https://open.spotify.com/track/5FK0Juq9j6A5bWptn50zRE) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Grensgebied](https://open.spotify.com/album/2tN5hmNiqAeAKCjrCFJ1ry) | 2:19 |
 | 23 | [CORRUPT us](https://open.spotify.com/track/2fEzzPKdCr9jmy9DPwyBdi) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [CORRUPT us](https://open.spotify.com/album/6nabmonKZ1gDC3fEQnk7Dj) | 2:21 |
 | 24 | [Alive](https://open.spotify.com/track/5CCS7S9pJxDrjYl1cmvZh7) | [OGENE](https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8), [OG3NE](https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo) | [Alive](https://open.spotify.com/album/7ErfdKwwn9bXBfdesT1AoU) | 3:37 |
-| 25 | [How Does It Feel To Be You \(feat\. néomí\)](https://open.spotify.com/track/6MttUJkeC861ei3huiHewG) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [How Does It Feel To Be You \(feat\. néomí\)](https://open.spotify.com/album/28p8sVDSRlD2QuAwwxy9GZ) | 4:16 |
+| 25 | [How Does It Feel To Be You \(ft\. néomí\)](https://open.spotify.com/track/6MttUJkeC861ei3huiHewG) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [How Does It Feel To Be You \(ft\. néomí\)](https://open.spotify.com/album/28p8sVDSRlD2QuAwwxy9GZ) | 4:16 |
 | 26 | [The Middle](https://open.spotify.com/track/0En5cAF06qALBnjXynigJx) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [The Middle](https://open.spotify.com/album/7G9vxuT4YpBgDWYkX0vKrG) | 2:53 |
 | 27 | [Count On Me](https://open.spotify.com/track/37t0GbjVpnXSvl1P4uyNfN) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Count On Me](https://open.spotify.com/album/11TcP4qnRQpaaP1zO6WgL2) | 3:28 |
 | 28 | [Baby, if it’s toxic](https://open.spotify.com/track/51lu9OVGbmv4ptXQjzDZ55) | [John Coffey](https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA) | [Punch the clock, smile and wave](https://open.spotify.com/album/12J3q62nNerYGgv1CZgw7I) | 2:42 |

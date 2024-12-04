@@ -1,12 +1,12 @@
 {
   "description": "This is Green Day. The essential tracks, all in one playlist.",
-  "num_followers": 1079116,
+  "num_followers": 1079268,
   "original_name": "This Is Green Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAACjB2VUXJ72mF3qwrpSbw4u",
+  "snapshot_id": "Z0z4gAAAAAAaX82fBuKkcb4KgXRu1BF9",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 178000,
-      "name": "When I Come Around",
-      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
+      "duration_ms": 178000,
+      "name": "When I Come Around",
+      "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 192360,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt"
+      "duration_ms": 213106,
+      "name": "Macy's Day Parade",
+      "url": "https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 213106,
-      "name": "Macy's Day Parade",
-      "url": "https://open.spotify.com/track/3zca0nsKOLnN28ftZEXAQn"
+      "duration_ms": 192360,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/390SemxFYgPZ3FfGVqiIqt"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 132080,
-      "name": "The Grouch",
-      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
+      "duration_ms": 198093,
+      "name": "Redundant",
+      "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 198093,
-      "name": "Redundant",
-      "url": "https://open.spotify.com/track/0GYTAipuswOBWFtk06kFCL"
+      "duration_ms": 132080,
+      "name": "The Grouch",
+      "url": "https://open.spotify.com/track/3N5wUrnulGRc9LLSz0rQFb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,016 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,026 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 24 | [Búhoz](https://open.spotify.com/track/6cKUV1Aw08ybpV3FM0mDh5) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 4:09 |
 | 25 | [Perro Come Perro](https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [LosPetitFellas](https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv) | [Perro Come Perro](https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A) | 3:17 |
 | 26 | [Cielo](https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado, Pt\. 1](https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt) | 4:36 |
-| 27 | [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 |
-| 28 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
+| 27 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
+| 28 | [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 |
 | 29 | [Las Calles del Mundo](https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Ciudad Faro](https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk) | 3:35 |
 | 30 | [Rock the Casbah](https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Rock the Casbah](https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir) | 3:30 |
 | 31 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,629,678 likes - 120 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629,968 likes - 120 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 47 | [Find Yourself](https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 2:31 |
 | 48 | [Feel Your Love](https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A) | 3:20 |
 | 49 | [Girlfriend \- 2008 Remix](https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Keylime](https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA) | [Girlfriend \(2008 Remix\)](https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9) | 7:15 |
-| 50 | [Every Word \(feat\. Daniella\) \- Wendel Kos Radio Edit](https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X) | [Ercola](https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb), [Daniella](https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY) | [Every Word](https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV) | 3:33 |
-| 51 | [Army Of Two \- Radio Version](https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Beltek](https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG) | [Army Of Two](https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R) | 3:07 |
+| 50 | [Army Of Two \- Radio Version](https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Beltek](https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG) | [Army Of Two](https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R) | 3:07 |
+| 51 | [Every Word \(feat\. Daniella\) \- Wendel Kos Radio Edit](https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X) | [Ercola](https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb), [Daniella](https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY) | [Every Word](https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV) | 3:33 |
 | 52 | [Tracking Treasure Down](https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U) | [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV), [Molly Bancroft](https://open.spotify.com/artist/63gq13UEULICfVjR1ynp0Q) | [50 Trance Tunes, Vol\. 28](https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb) | 3:09 |
 | 53 | [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 |
 | 54 | [Don't Stop! \- X\-Cabs Radio Edit](https://open.spotify.com/track/2U8kSj6bS0IUdMD8JSxOm3) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Don't Stop!](https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6) | 2:43 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 79 | [Freed from Desire](https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ) | [Come into My Life \(10th Anniversary\)](https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag) | 3:33 |
 | 80 | [Call On Me \- Radio Edit](https://open.spotify.com/track/3uLSUZEmTY50H6Kw17lpfW) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Call On Me](https://open.spotify.com/album/4FN8F3aiiUagVSBBGW5ULu) | 2:51 |
 | 81 | [Everything \(feat\. JES\)](https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [JES](https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g) | [Elements of Life](https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is) | 7:00 |
-| 82 | [Heartbroken \- Edit](https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru) | 2:58 |
-| 83 | [Cry for You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry for You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 |
+| 82 | [Cry for You](https://open.spotify.com/track/4s3CHmungRHAI5ho2edqXb) | [September](https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b) | [Cry for You](https://open.spotify.com/album/3E6MKsq5x82lhg7RWXObJD) | 3:31 |
+| 83 | [Heartbroken \- Edit](https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18) | [T2](https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd) | [Heartbroken](https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru) | 2:58 |
 | 84 | [Believer \(feat\. Wynter Gordon\) \- Radio Edit](https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7) | [Freemasons](https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR), [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Believer \(feat\. Wynter Gordon\) \[Club Mixes\]](https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR) | 3:09 |
 | 85 | [Exploration of Space \- Radio Edit](https://open.spotify.com/track/4iLL2yVVG19TAJYssbMeBT) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS) | [Exploration of Space](https://open.spotify.com/album/5ibY1QH7VwnDLnye7mTzvx) | 3:36 |
 | 86 | [In White Rooms](https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Movements](https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r) | 5:26 |

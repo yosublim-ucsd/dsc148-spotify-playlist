@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,272 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,278 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 19 | [DIFERENTE](https://open.spotify.com/track/36VGZ9a6TfuNG4jwivGP44) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [O ROTEIRISTA](https://open.spotify.com/album/5nYb4sMNJGV9gf2IXxCayX) | 2:53 |
 | 20 | [Meu Mundo \(feat\. Baco Exu do Blues\)](https://open.spotify.com/track/6lSzZU3QJsu4x788gfQKNT) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Meu Mundo \(feat\. Baco Exu do Blues\)](https://open.spotify.com/album/5KxcToFlPpKwTDNN82ftTs) | 4:01 |
 | 21 | [Corre Dobrado](https://open.spotify.com/track/4h2ShMcEGnakMABb5bysvZ) | [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [ENOQ](https://open.spotify.com/artist/49EGTw3niUCWrj7CdkzIDx), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [Corre Dobrado](https://open.spotify.com/album/3GW97E7qQIeH38JuHgG0vV) | 3:08 |
-| 22 | [Bala e Fogo](https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Bala e Fogo](https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1) | 3:47 |
+| 22 | [bala e fogo](https://open.spotify.com/track/0uILfJuLX8Sgkrz9FfUswp) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [bala e fogo](https://open.spotify.com/album/2cGGAIsF311yH1tkQt5Qp1) | 3:47 |
 | 23 | [Luz da Lua](https://open.spotify.com/track/3utNVoklJZlu7z5Nir1zEZ) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Traumas e Vícios](https://open.spotify.com/album/6lUCF0fQNUTnVCdTgF8k7K) | 2:54 |
 | 24 | [AlDeia Da Folha/808](https://open.spotify.com/track/5AMdZK3DhxE8Ad2M27DxrV) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [Olha Essa Arte](https://open.spotify.com/album/3VVJ9SJ8yoGI7RJ51Bx5uf) | 2:19 |
 | 25 | [Duas Mulheres](https://open.spotify.com/track/2CcNYXOMvIml8pGwZg2tgY) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Traumas e Vícios](https://open.spotify.com/album/6lUCF0fQNUTnVCdTgF8k7K) | 2:37 |

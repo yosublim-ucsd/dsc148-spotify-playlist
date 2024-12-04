@@ -4,7 +4,7 @@
 
 > the sound of a new generation
 
-380 songs - 23 hr 49 min
+381 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bass Up \(feat\. 666\)](https://open.spotify.com/track/07JmyNE5PImUiiqQqa2Bk5) | [RADAR](https://open.spotify.com/artist/2vSWW48mOUHkwqWZSPgcM2), [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Bass Up \(feat\. 666\)](https://open.spotify.com/album/7fkdNKHZsd6Z95RFrm5E97) | 3:05 | 2024-10-10 | 2024-10-18 |
 | [BEEZ IN THE TRAP](https://open.spotify.com/track/0lgkdXfvjW9XbbkdK9mCmk) | [Promis3](https://open.spotify.com/artist/67klEFn7sTV209voBTSZB8) | [BEEZ IN THE TRAP](https://open.spotify.com/album/5j79Xb6tUJe2FV5T3fhaHu) | 2:46 | 2024-03-22 | 2024-03-30 |
 | [beine spüren \- Paul Seul remix](https://open.spotify.com/track/6oVcJ76iH86cZ5tDx2OiPJ) | [benzii](https://open.spotify.com/artist/2v4qy7Tmy7AcIXZuUH4eJ1), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [beine spüren \(Paul Seul remix\)](https://open.spotify.com/album/1ifWtNI7hW0ybxmoMoAl2W) | 4:15 | 2024-07-04 | 2024-07-13 |
-| [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/track/1O7pI4ybNEMxp4LlHvs3Wt) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/album/5wXSYWE44yMtGpsmsMlW9F) | 1:48 | 2024-03-22 |  |
+| [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/track/1O7pI4ybNEMxp4LlHvs3Wt) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [2 Engel & Charlie](https://open.spotify.com/artist/0XRkZikEumDTaGGE9mW8HA) | [Berghain In Berlin \(with SMACK\)](https://open.spotify.com/album/5wXSYWE44yMtGpsmsMlW9F) | 1:48 | 2024-03-22 | 2024-12-04 |
 | [Berlin](https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Berlin](https://open.spotify.com/album/66WOqWah15Fu8rRxWVAHNf) | 3:14 | 2023-10-20 | 2024-08-23 |
 | [BIKINI GRELL](https://open.spotify.com/track/4vXM3vMsSr8eFcK8HKTcJq) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Robbensohn](https://open.spotify.com/artist/4B4kCbtNX4oFNSelmh0uAf) | [BIKINI GRELL](https://open.spotify.com/album/3HtPLQupfZZwUsULtgLEuM) | 2:03 | 2024-07-04 |  |
 | [Blah Blah Blah \- Lilly Palmer Remix](https://open.spotify.com/track/21aEJ91bw1NPPi0n0oQwOQ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Blah Blah Blah \(Lilly Palmer Remix\)](https://open.spotify.com/album/4qeYTHSRWhb87wSI2RBZz6) | 3:34 | 2024-11-11 |  |
@@ -133,6 +133,7 @@
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Opus III](https://open.spotify.com/artist/1hQuWl1dueM7ChRUZRn05z) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-12 |  |
 | [Flow My Tears](https://open.spotify.com/track/40Wai7PhvLeegNZe9iDJud) | [Simone De Kunovich](https://open.spotify.com/artist/6qEYuBlZWeehY6RxWCpA0r) | [Flow My Tears](https://open.spotify.com/album/2CFhxHIc7rihE0lzqAZYYO) | 6:10 | 2023-07-07 | 2023-07-18 |
 | [Flying](https://open.spotify.com/track/3az4vAsJLnsNlvj786xsIR) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi) | [Flying](https://open.spotify.com/album/0tRIZKUU63SRnbqp9Iu9ZL) | 2:19 | 2023-06-15 | 2023-06-23 |
+| [Forever Melancholia](https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw) | [I Hate Models](https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN) | [Forever Melancholia](https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs) | 7:01 | 2024-11-25 |  |
 | [FORTUNE COOKIE](https://open.spotify.com/track/4bvr5h511GhD4S0rntkMcd) | [RHYME](https://open.spotify.com/artist/5soNcAUPxpWwipU594dlqZ) | [FORTUNE COOKIE](https://open.spotify.com/album/6PwP8KFzCBNeOcznuloC13) | 1:45 | 2024-03-29 | 2024-04-06 |
 | [Freak](https://open.spotify.com/track/4lDNvFbQ00saZ7UhCbqFBD) | [Memento Mori](https://open.spotify.com/artist/4AJdOTtmWuYYElSe07eejR) | [Freak](https://open.spotify.com/album/002DVv7GOJMy4BTrreeLUl) | 2:18 | 2024-08-22 | 2024-10-11 |
 | [Fuerteventura Forever](https://open.spotify.com/track/0NePTW4Zdn6GLW9CxLYe2B) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Fuerteventura Forever](https://open.spotify.com/album/7sAmDL45qjgM10ekWtaMV2) | 3:56 | 2024-09-19 | 2024-10-11 |

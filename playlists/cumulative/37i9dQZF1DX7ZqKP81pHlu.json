@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "ROS\u00c9 et Bruno Mars \u00e0 la une de la playlist num\u00e9ro 1 en Alg\u00e9rie.",
+  "description": "Kader Japonais & Numidia Lezoul \u00e0 la une de la playlist num\u00e9ro 1 en Alg\u00e9rie.",
   "name": "Hot Hits Algeria",
   "tracks": [
     {
@@ -814,7 +814,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -1302,6 +1302,24 @@
       "duration_ms": 246857,
       "name": "Dima Yesrali",
       "url": "https://open.spotify.com/track/4dnlVlHo17KfhKAcetdkPB"
+    },
+    {
+      "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "DIPLOMATICO",
+      "url": "https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og"
     },
     {
       "album": {
@@ -3028,7 +3046,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -3150,6 +3168,24 @@
       "duration_ms": 256601,
       "name": "Nad El Borkan",
       "url": "https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3"
+    },
+    {
+      "album": {
+        "name": "APOCALYPSE",
+        "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "NANANI NANANA",
+      "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
     },
     {
       "album": {

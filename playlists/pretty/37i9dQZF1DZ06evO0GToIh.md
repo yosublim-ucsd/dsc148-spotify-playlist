@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 
 > This is Eden Muñoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,360 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,509 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GToIh.md) - [plain]
 | 49 | [Me Aventé](https://open.spotify.com/track/6DpHzl57bEwsmVa4sbwb1m) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Aventé](https://open.spotify.com/album/2FdUhksLRgWdkZoYKokHuf) | 2:55 |
 | 50 | [¿Cómo Se Supera?](https://open.spotify.com/track/3YVgqw3Qw5GZGSiNXw7sd5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [¿Cómo Se Supera?](https://open.spotify.com/album/2y7fMhpx5uexdebjJEuNzF) | 3:23 |
 
-Snapshot ID: `Z0unAAAAAADtdmvZpd4XyOncWj2aF+Ym`
+Snapshot ID: `Z0z4gAAAAADh5HBxEoyoDsObcERth3Vv`

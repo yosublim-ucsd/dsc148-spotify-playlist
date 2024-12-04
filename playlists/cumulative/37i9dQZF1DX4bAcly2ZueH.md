@@ -4,7 +4,7 @@
 
 > 例えば、部屋で猫と昼寝をするように、ゆったりとしたエレクトロチルで小休憩しませんか？？
 
-179 songs - 9 hr 21 min
+180 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Day of the Moon](https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ) | [Orihusay](https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm) | [Day of the Moon](https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk) | 2:36 | 2023-02-14 |  |
 | [Day Trip](https://open.spotify.com/track/3hrqbiVTLD6L0Q7MhPOmBr) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Sentimental Days](https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1) | 2:17 | 2022-10-11 | 2024-04-19 |
 | [Day Trip](https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ) | [Rui Fujishiro](https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE) | [Day Trip](https://open.spotify.com/album/68omj0PEiKEMHoAttXsV5W) | 2:17 | 2024-03-05 |  |
-| [Daybreak](https://open.spotify.com/track/0pdCW0sYvYdC4GFdFENQ1E) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/5iRvrRfL009SzrwF1gW8eZ) | 3:28 | 2024-03-05 |  |
+| [Daybreak](https://open.spotify.com/track/0pdCW0sYvYdC4GFdFENQ1E) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/5iRvrRfL009SzrwF1gW8eZ) | 3:28 | 2024-03-05 | 2024-12-04 |
 | [Daybreak](https://open.spotify.com/track/5PMMr9QcrnOWf6ZHxYwMrt) | [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Daybreak](https://open.spotify.com/album/3KoIxalt9ie7Kmfy2aFK0K) | 3:28 | 2022-10-11 | 2024-04-19 |
 | [Daylight Blows into One Door](https://open.spotify.com/track/3Vby3xFI5eRyCPWcxYs8Re) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Daylight Blows into One Door](https://open.spotify.com/album/1tLvlUp7uEBV9U1KaKQhr6) | 3:28 | 2024-03-05 |  |
 | [Daylight Blows into One Door](https://open.spotify.com/track/4UUK97XIT1y1TyBLgVi6Xc) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/2Bl07S4w2tGi2F9qK346EW) | 3:28 | 2022-10-11 | 2024-04-19 |
@@ -174,6 +174,7 @@
 | [wait a second](https://open.spotify.com/track/2ikAkH39VoCr9X1Xuf10CZ) | [Charlie](https://open.spotify.com/artist/5kkQK3efFeI8eIp9ck9ygK), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt) | [wait a second](https://open.spotify.com/album/5lMUo3dIPTSojGJfgyOQZv) | 3:22 | 2022-10-11 | 2023-06-29 |
 | [Walk \(Interlude\)](https://open.spotify.com/track/5i6d2nsVO8GTjVEXmylVjU) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY) | [Scenery](https://open.spotify.com/album/25lxQAWZibPwdsEznczNM2) | 2:47 | 2022-10-11 |  |
 | [when i think of you](https://open.spotify.com/track/68hcUgRL0STb26FmTyRSP9) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [smile for me.](https://open.spotify.com/artist/2V89TxaFRKg6P252Nj0FPb) | [when i think of you](https://open.spotify.com/album/7L2pJQGdQH14JCACTRaf0x) | 2:49 | 2022-10-11 |  |
+| [Who.](https://open.spotify.com/track/7FwMwoFxhZPEEAEHxp2bSH) | [SSIR](https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t) | [Who.](https://open.spotify.com/album/3ulL6H4gTjz6Sz0o40qMRB) | 2:00 | 2024-12-03 |  |
 | [Wind](https://open.spotify.com/track/18kpIet027NR4fkxsqpG6R) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/6MNnL9qkX5t3OuVMIDlNy0) | 2:43 | 2024-03-05 |  |
 | [Wind](https://open.spotify.com/track/3LjGELUWmmnJErN3FeQPZL) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/4K7wiPGhUtsuqsSwi01cvG) | 2:43 | 2022-10-11 | 2023-02-24 |
 | [Wind](https://open.spotify.com/track/3lcbXj3b9lMzfuGvQlznmN) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Before We Begin](https://open.spotify.com/album/01BChai4qQGpbKQeDXRi7K) | 2:43 | 2023-02-21 | 2024-04-19 |

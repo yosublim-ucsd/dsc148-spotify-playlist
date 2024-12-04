@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8TNYCX6wdOv.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [the way you wanna be](https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [the way you wanna be](https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN) | 2:37 |
+| 1 | [the way you wanna be](https://open.spotify.com/track/3qjh8pAF0yTYTjzHwQ9WuR) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [Marcus Lee](https://open.spotify.com/artist/4AbOZ5CPwptQhj8RL0rW5S) | [the way you wanna be](https://open.spotify.com/album/3wogxQLPdiF4WmeKx0RFHN) | 2:37 |
 | 2 | [On My Own](https://open.spotify.com/track/4tOBkwkWLVdcpS8KznVcSx) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [On My Own](https://open.spotify.com/album/6P50AXn39btHpVuVymeVHc) | 2:39 |
 | 3 | [Like California \(feat\. DeVita\)](https://open.spotify.com/track/7ouOGLgqPhs5ezGPegOT6t) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Like California \(feat\. DeVita\)](https://open.spotify.com/album/1Q3J1EjS9oEJgVoILiHiTS) | 2:42 |
 | 4 | [Pastrami](https://open.spotify.com/track/4GiTNaoSYL0jRmRLBQ9Y0O) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Pastrami](https://open.spotify.com/album/0xWbGgIWTz1weE0fpXuZHn) | 2:54 |

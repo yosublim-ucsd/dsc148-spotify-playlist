@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock legends from Ireland\. Cover: Sinéad O'Connor
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,014 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,036 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 32 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/7h1YqA5MZrRxmkUFpukRcp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:36 |
 | 33 | [Crazy World](https://open.spotify.com/track/5akihxQPVtNGkZV2uAImMY) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Goodbye Charlie Moonhead](https://open.spotify.com/album/2fCCCqys40hYZqNktMAq3T) | 4:32 |
 | 34 | [Galway Girl](https://open.spotify.com/track/6YSwWeCnDXEbQ7M2SA0GF8) | [Mundy](https://open.spotify.com/artist/5KxKApyBL5ZQaz7bAvGaHR) | [Live at Oxegen 2008](https://open.spotify.com/album/2qdhxp21TFyDklw7vtf6jq) | 4:00 |
-| 35 | [Summer in Dublin](https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO) | [Bagatelle](https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde) | [Twenty Fifth Anniversary Collection](https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq) | 4:54 |
-| 36 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
+| 35 | [Saints & Sinners](https://open.spotify.com/track/3IRw02CzCpjVJj6LQp9nTB) | [Paddy Casey](https://open.spotify.com/artist/3t61q4MDXG8a22cRCv1ghZ) | [Living](https://open.spotify.com/album/13VYQeu8LRH65gZheH7BFw) | 3:36 |
+| 36 | [Summer in Dublin](https://open.spotify.com/track/7mY1GSHaJplKRF8yJOf8iO) | [Bagatelle](https://open.spotify.com/artist/4NlVFd1K2l7eDURUGjXxde) | [Twenty Fifth Anniversary Collection](https://open.spotify.com/album/2OwFueJdLMczXLH0WDptqq) | 4:54 |
 | 37 | [Big Sur](https://open.spotify.com/track/56Zm2mXUv5UJgybEqATQ2t) | [The Thrills](https://open.spotify.com/artist/0tYc0gVOzssZmLpVO6wh7L) | [So Much For The City](https://open.spotify.com/album/6eujHHtDKbcwAeliICWShv) | 3:07 |
 | 38 | [Miracle Drug](https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:54 |
 | 39 | [Haunted](https://open.spotify.com/track/1T1ufH3jSP7uAYKoie68KI) | [Shane MacGowan & The Popes](https://open.spotify.com/artist/2gRhYk5tJ3cGg63VmgUemN) | [The Snake](https://open.spotify.com/album/5IUy3DAYY40WTZFSbi5j5u) | 4:11 |

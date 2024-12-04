@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,467 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,487 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 39 | [James Bond](https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:31 |
 | 40 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
 | 41 | [Chocolate Drops](https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:58 |
-| 42 | [Morning Show](https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:47 |
-| 43 | [Awful Dream feat\. Iggy Pop](https://open.spotify.com/track/56QEhDMBRwTH6YiYVBljrI) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Orgy of the Damned](https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc) | 5:32 |
-| 44 | [TP&TD](https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Daniel Lopatin](https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH) | [Oneohtrix Point Never \- Collaborations](https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI) | 3:02 |
-| 45 | [I'm Bored](https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arista Heritage Series: Iggy Pop](https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo) | 2:47 |
+| 42 | [Awful Dream feat\. Iggy Pop](https://open.spotify.com/track/56QEhDMBRwTH6YiYVBljrI) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Orgy of the Damned](https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc) | 5:32 |
+| 43 | [Morning Show](https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:47 |
+| 44 | [I'm Bored](https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arista Heritage Series: Iggy Pop](https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo) | 2:47 |
+| 45 | [TP&TD](https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Daniel Lopatin](https://open.spotify.com/artist/13PoSkMaBxmC6EeAu2oBhH) | [Oneohtrix Point Never \- Collaborations](https://open.spotify.com/album/71JZqdSHVx9dmyoMPoQdqI) | 3:02 |
 | 46 | [The Pure and the Damned](https://open.spotify.com/track/4HYRYewiGEHaHF9Pfl50PP) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Good Time Original Motion Picture Soundtrack](https://open.spotify.com/album/0m13wlRnDvoHlRiZ9nJBNX) | 4:29 |
 | 47 | [Funtime](https://open.spotify.com/track/3tFQ4Zz3FKz3s6sCdY1mQg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 2:54 |
 | 48 | [Rules of the Game](https://open.spotify.com/track/1CJUsYy3vy9wbdldHPq9lW) | [Warmduscher](https://open.spotify.com/artist/1CWwXncu9sk7EIdbvqcquR), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Tainted Lunch](https://open.spotify.com/album/1OayjjI9jcTkZuliqxYpzJ) | 1:09 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 50 | [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 |
 | 51 | [Sahara](https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C) | 3:03 |
 
-Snapshot ID: `Z0unAAAAAAC1ms0o7Dg6a+Wyk+Al7/dD`
+Snapshot ID: `Z0z4gAAAAACICFd0/FTRPHvpnWPaEwQx`

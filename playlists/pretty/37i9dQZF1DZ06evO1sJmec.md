@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 > This is Metallica\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,994,061 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,994,307 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 37 | [The Unforgiven III](https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:46 |
 | 38 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 |
 | 39 | [The Four Horsemen \- Remastered](https://open.spotify.com/track/2YTwVDQOSGclX2N3AKetOP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Deluxe / Remastered\)](https://open.spotify.com/album/3m69LQokz6DaKB3yw4BH6n) | 7:12 |
-| 40 | [No Leaf Clover \- Live](https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [S&M](https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD) | 5:43 |
-| 41 | [Screaming Suicide](https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:30 |
+| 40 | [Screaming Suicide](https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:30 |
+| 41 | [No Leaf Clover \- Live](https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [S&M](https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD) | 5:43 |
 | 42 | [All Nightmare Long](https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:57 |
 | 43 | [Disposable Heroes](https://open.spotify.com/track/4tPHBRIPsB55nssjvKDbjj) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 8:16 |
-| 44 | [...And Justice For All](https://open.spotify.com/track/0eXz8pS25MoeUguNPR9VvD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 9:46 |
-| 45 | [72 Seasons](https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 7:39 |
+| 44 | [72 Seasons](https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 7:39 |
+| 45 | [...And Justice For All](https://open.spotify.com/track/0eXz8pS25MoeUguNPR9VvD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 9:46 |
 | 46 | [So What](https://open.spotify.com/track/16RFzt9hlQ3OCPQf5AmhpU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 3:08 |
 | 47 | [The Thing That Should Not Be](https://open.spotify.com/track/7vFC68CBMKu99p4tIz6yzx) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 6:36 |
-| 48 | [Fight Fire With Fire \- Remastered](https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 4:44 |
-| 49 | [Shadows Follow](https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 6:11 |
+| 48 | [Shadows Follow](https://open.spotify.com/track/5iG1GycXpheJ5xMW0gNvKv) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 6:11 |
+| 49 | [Fight Fire With Fire \- Remastered](https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Remastered\)](https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc) | 4:44 |
 | 50 | [Jump In The Fire \- Remastered](https://open.spotify.com/track/4fVBFyglBhMf0erfF7pBJp) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:41 |
 
-Snapshot ID: `Z0unAAAAAACUSmsf6RRJ5OCMCFsZoiRO`
+Snapshot ID: `Z0z4gAAAAADU0MRIy2owFwiGTKr8HxT9`

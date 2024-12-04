@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -3802,7 +3802,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -5444,7 +5444,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -12494,7 +12494,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 224946,
       "name": "Gje Meg Handa Di Venn",
       "url": "https://open.spotify.com/track/5Nsnr6aTiNzECvns3OFcFx"
@@ -14388,7 +14388,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 174946,
       "name": "Hey Ho",
       "url": "https://open.spotify.com/track/73bwhA1NxxkBMJAziBgUnX"
@@ -14406,7 +14406,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 174946,
       "name": "Hey Ho (Original Versjon)",
       "url": "https://open.spotify.com/track/1ikAsZ38q8AQ1l7FcOhu5g"
@@ -15200,7 +15200,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "Home for Christmas",
       "url": "https://open.spotify.com/track/3E0fq2gqsNbQo5paAuEcmc"
@@ -15218,7 +15218,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 232000,
       "name": "Home for Christmas",
       "url": "https://open.spotify.com/track/6bzWp9PgSz1CtDVWijf7aa"
@@ -20490,7 +20490,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 126200,
       "name": "Let It Snow, Let It Snow, Let It Snow",
       "url": "https://open.spotify.com/track/74yQRKUunP1sRjnnMks4SG"
@@ -29820,7 +29820,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 163142,
       "name": "Sees Igjen",
       "url": "https://open.spotify.com/track/2QyL2WhZmOfpVSxy2BaI8U"
@@ -30986,7 +30986,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 208192,
       "name": "Snart Jul",
       "url": "https://open.spotify.com/track/3Q4I6aJiDWQ3OBbqz6USJj"
@@ -32886,10 +32886,28 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 156906,
       "name": "Svingensongen",
       "url": "https://open.spotify.com/track/4SxcFcdTrSpYPvANjtdlWY"
+    },
+    {
+      "album": {
+        "name": "Tenn Lys! Julemusikk for barn til adventstiden",
+        "url": "https://open.spotify.com/album/31esWi6Tk525BMqC8WSdDG"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156906,
+      "name": "Svingensongen",
+      "url": "https://open.spotify.com/track/70VQHU7Uf8RceduihCnzqL"
     },
     {
       "album": {
@@ -33972,7 +33990,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -34802,7 +34820,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -35564,7 +35582,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
@@ -35844,7 +35862,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -35862,7 +35880,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 229640,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Vacra
 
-2,992 songs - 6 day 15 hr 8 min
+2,993 songs - 6 day 15 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [C'est Dur](https://open.spotify.com/track/0mmsXfF0UPFMtTNsvMDijb) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [C'est Dur](https://open.spotify.com/album/4PoqfZAe5hpS1fycD98ARO) | 3:44 | 2022-02-18 | 2022-02-26 |
 | [C'est Fini](https://open.spotify.com/track/4NrutV5j76crKVLiV1kPbk) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr) | [Prépare\-toi, j'arrive](https://open.spotify.com/album/0FAvbTRff9FGLruvKFaFmp) | 3:46 | 2022-11-25 | 2022-12-17 |
 | [C'est fou](https://open.spotify.com/track/6tgZW0K8UrxaX3BUGtbYen) | [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [C'est fou](https://open.spotify.com/album/46pIqjkRvy8s63XDMWdOw9) | 2:26 | 2022-04-15 | 2022-04-29 |
+| [C'est l'heure](https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [C'est l'heure](https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5) | 2:29 | 2024-11-29 |  |
 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 | 2022-10-28 | 2022-11-19 |
 | [C'est moi \- Live](https://open.spotify.com/track/2YXhAoFCunWWPuGuFckC0a) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Elle et moi simplement \(Live\)](https://open.spotify.com/album/3yJ3Rq3HLPFrxUe3SlbQna) | 4:38 | 2022-09-09 | 2022-09-24 |
 | [C'est moi la plus belle](https://open.spotify.com/track/7CLlDlH9372wYFarD7xh2k) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [C'est moi la plus belle](https://open.spotify.com/album/33BfmTMvkLKYWPrhxyxW7U) | 3:20 | 2022-05-27 | 2022-06-04 |
@@ -1472,7 +1473,7 @@
 | [Le cadran](https://open.spotify.com/track/4l11yUeN0UrkwFYWiSyyMC) | [Marcus Wilcour](https://open.spotify.com/artist/6fB9PFcHK9nL7j5SnQUWOt) | [Le cadran](https://open.spotify.com/album/6xhSCPGZbGtPK3N3ue48hZ) | 3:10 | 2022-02-25 | 2022-03-05 |
 | [Le calme](https://open.spotify.com/track/2RBRsOhmjwvPY5KcHEQxRV) | [Lucill](https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x) | [Le calme](https://open.spotify.com/album/4T6H2NDFAJcwPIyGcMj4Uz) | 3:54 | 2022-01-28 | 2022-02-12 |
 | [Le chant des cygnes \- Single Version](https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB) | [Le chant des cygnes](https://open.spotify.com/album/66tfL8ySR7cx4YAlGo54a3) | 3:37 | 2024-06-28 | 2024-08-31 |
-| [Le choix](https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 2:48 | 2024-10-04 |  |
+| [Le choix](https://open.spotify.com/track/4tkBNgVQCddAdgY1GDwTLn) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Vivre...](https://open.spotify.com/album/5gpwMpxd66j2WAmGcyiWXQ) | 2:48 | 2024-10-04 | 2024-12-04 |
 | [Le ciel](https://open.spotify.com/track/1T3QVEBWgWXKjnlosNt8Eo) | [Juillet](https://open.spotify.com/artist/5YtpwobYKsNioVYWmI3bBQ) | [Le ciel](https://open.spotify.com/album/0XgmHY9sGkTU2YLXbVoPiP) | 3:42 | 2023-03-31 | 2023-04-09 |
 | [Le ciel où je me terre](https://open.spotify.com/track/4VqutfvLnQYhNn9rPWZ67J) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [La somme des êtres aimés](https://open.spotify.com/album/0eIFLsN3C2p8uYfrGIah1Z) | 3:16 | 2024-01-19 | 2024-01-27 |
 | [Le Ciel Sur La Tête](https://open.spotify.com/track/619m8eazjTsTbSbTO8zrWA) | [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Le Ciel Sur La Tête](https://open.spotify.com/album/5bMQnBg8l1zzuxrlmRR3yo) | 2:58 | 2024-06-21 | 2024-07-06 |

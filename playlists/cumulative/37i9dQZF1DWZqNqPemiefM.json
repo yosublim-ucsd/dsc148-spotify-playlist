@@ -6968,7 +6968,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 261333,
       "name": "Nomozaki",
       "url": "https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp"
@@ -9620,7 +9620,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-11",
+      "date_removed": null,
       "duration_ms": 267183,
       "name": "Still Dreaming",
       "url": "https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU"
@@ -12237,6 +12237,24 @@
     },
     {
       "album": {
+        "name": "\u87ba\u923f\u306e\u7bb1",
+        "url": "https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh"
+      },
+      "artists": [
+        {
+          "name": "\u677e\ufa11\u88d5\u5b50",
+          "url": "https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249525,
+      "name": "\u6708\u3078\u98db\u3076\u60f3\u3072 (Love that Flies to the Moon)",
+      "url": "https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv"
+    },
+    {
+      "album": {
         "name": "\u6728\u970a(echo)",
         "url": "https://open.spotify.com/album/5B68msF53E4Bkmei9YBwxr"
       },
@@ -12554,7 +12572,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 419762,
       "name": "\u9727\u4e2d\u5922",
       "url": "https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY"

@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 44607,
+  "num_followers": 44610,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAAeOFyCYMVBk7rZ9bpnTTft",
+  "snapshot_id": "Z0z4gAAAAABTdXHLIjEP3JbYT6p56576",
   "tracks": [
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 189453,
-      "name": "Ya No Te Creo Nada",
-      "url": "https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nada de Ti",
         "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 223578,
       "name": "Nada de Ti",
       "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 189453,
+      "name": "Ya No Te Creo Nada",
+      "url": "https://open.spotify.com/track/7p2XqGtvXYKRE9mSWytHd6"
     },
     {
       "added_at": null,
@@ -695,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Regalo La Lluvia",
-        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
+        "name": "A Mi Me Respetas",
+        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
       "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 191733,
-      "name": "Eso No Es De Hombres",
-      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
+      "duration_ms": 150148,
+      "name": "A Mi Me Respetas",
+      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
     },
     {
       "added_at": null,
@@ -727,22 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Mi Me Respetas",
-        "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
+        "name": "Te Regalo La Lluvia",
+        "url": "https://open.spotify.com/album/27OJXEuLv7BO55eHhc8FDg"
       },
       "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        },
         {
           "name": "Ana B\u00e1rbara",
           "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
         }
       ],
-      "duration_ms": 150148,
-      "name": "A Mi Me Respetas",
-      "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+      "duration_ms": 191733,
+      "name": "Eso No Es De Hombres",
+      "url": "https://open.spotify.com/track/1ZdEnOa9OCyF2m2LXXz2aj"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Olvido",
-        "url": "https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Al Olvido",
-      "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Volver\u00e9",
         "url": "https://open.spotify.com/album/1homFZjonYY08urvCYkIZv"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 192680,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/6kW4lc3ZoTVqezchbOYqDj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Olvido",
+        "url": "https://open.spotify.com/album/4SEU3UedBgW7TYvCmPYhz2"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Al Olvido",
+      "url": "https://open.spotify.com/track/3KGzELBfeMGnI9tSWyMNgU"
     },
     {
       "added_at": null,

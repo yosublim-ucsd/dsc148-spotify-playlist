@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362977,
+      "name": "Eterno (Con Cuando los Santos Marchen Ya)",
+      "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
+    },
+    {
+      "album": {
         "name": "Citizen of Heaven (Live)",
         "url": "https://open.spotify.com/album/2CSitfTkVN7AkOXKYdF4Sc"
       },
@@ -2414,7 +2432,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 351542,
       "name": "Yo Te Busco",
       "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"

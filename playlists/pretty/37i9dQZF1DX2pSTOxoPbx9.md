@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,394 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,517 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 39 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 |
 | 40 | [Marked for Death](https://open.spotify.com/track/1fLOvLE1XRpvHpLkRHzSym) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [Marked for Death](https://open.spotify.com/album/6e5Hr71kvlsrTaNoiuqWu4) | 3:39 |
 | 41 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 |
-| 42 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Take Me to Church EP](https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY) | 3:38 |
-| 43 | [Esmerelda](https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:44 |
+| 42 | [Esmerelda](https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:44 |
+| 43 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/3wT3WDdQrsST19f1I08Z1N) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Take Me to Church EP](https://open.spotify.com/album/4vPuWtVR7VLGRcdKWVwHBY) | 3:38 |
 | 44 | [Milk & Honey \- Alt Version](https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 4:48 |
 | 45 | [The Place I Left Behind](https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Place I Left Behind](https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU) | 4:04 |
 | 46 | [I Can't Go on Without You](https://open.spotify.com/track/1OtGo99uypkRbMqshBVFnn) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [I Can't Go on Without You](https://open.spotify.com/album/1tZtANVlcwG88Rkdj5dR73) | 6:17 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 64 | [Hymnal](https://open.spotify.com/track/4dSi4VGaDAeknj8E5Q30ZP) | [In The Valley Below](https://open.spotify.com/artist/4WQXRya5np83C21wifjNp9) | [The Belt](https://open.spotify.com/album/4ViGmclVTvJiBYMvPFeXbZ) | 4:26 |
 | 65 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
 | 66 | [White Flag](https://open.spotify.com/track/28U855g6cGv2O3s5KzUcdr) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Hard Believer](https://open.spotify.com/album/1TMJ7yDSSYByO0UjKwnOiX) | 5:03 |
-| 67 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
-| 68 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
+| 67 | [Everything We Do Is Wrong](https://open.spotify.com/track/46RSHHcMv3BhuXobfFfAAT) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Everything We Do Is Wrong](https://open.spotify.com/album/28U4nmmCWwmJstiNkjKxMy) | 4:07 |
+| 68 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
 | 69 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
 | 70 | [Out of the Darkness](https://open.spotify.com/track/5wCbj11DaBaIFpjSVBNiED) | [Sleep Thieves](https://open.spotify.com/artist/2Fr3thQpXvwAH6GzgVUtpY) | [Islands](https://open.spotify.com/album/3731tDAv5Qw8h53BAO7LsB) | 2:03 |
 | 71 | [I'm Tired, You're Lonely](https://open.spotify.com/track/3eOowx1zDomY1YC1UDKDKn) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [I'm Tired, You're Lonely](https://open.spotify.com/album/2AaWRj37SqGDYUpUrol8lm) | 3:25 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 96 | [Stakes](https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz) | 5:11 |
 | 97 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
 | 98 | [Berlin](https://open.spotify.com/track/123W7snVRuONLwn2uMdJB3) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Berlin EP](https://open.spotify.com/album/2d90pcby1VFHjXUGYJNBJc) | 2:50 |
-| 99 | [Sausalito](https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Sausalito](https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj) | 3:42 |
+| 99 | [Depraved](https://open.spotify.com/track/0yxnp7SJtce7IeyKP53dsE) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/2lrQzGKTFCTK9QY7B1JNS8) | 3:53 |
 | 100 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
 
 Snapshot ID: `ZvI5QAAAAADmGLkTXd0lVietQd8PKRPH`

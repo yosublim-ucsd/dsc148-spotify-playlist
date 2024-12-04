@@ -303,6 +303,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Dignidad",
+        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+      },
+      "artists": [
+        {
+          "name": "La M\u00f3rbida",
+          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+        }
+      ],
+      "duration_ms": 248747,
+      "name": "Dignidad",
+      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "LA WE\u00c1",
         "url": "https://open.spotify.com/album/5JYpBK9MW7ia6Nn95jy0Nv"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 153942,
       "name": "All\u00ed Va",
       "url": "https://open.spotify.com/track/7a4vF2iVE2BspL2yRy47nX"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Relatos Falsos De Historias Verdaderas",
-        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
-      },
-      "artists": [
-        {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
-        }
-      ],
-      "duration_ms": 236901,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Relatos Falsos De Historias Verdaderas",
+        "url": "https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 236901,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Como es que no gozas",
         "url": "https://open.spotify.com/album/03odKd6H9wlEQIHmjgBdEv"
       },
@@ -439,26 +455,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Resiste M\u00e1s Que Yo",
-        "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
-        }
-      ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Yo",
-      "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Infiel",
         "url": "https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb"
       },
@@ -475,18 +471,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Dignidad",
-        "url": "https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt"
+        "name": "Resiste M\u00e1s Que Yo",
+        "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
       },
       "artists": [
         {
-          "name": "La M\u00f3rbida",
-          "url": "https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K"
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 248747,
-      "name": "Dignidad",
-      "url": "https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J"
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Yo",
+      "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Carne (En vivo)",
-        "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Claudio Valenzuela",
-          "url": "https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE"
-        }
-      ],
-      "duration_ms": 359233,
-      "name": "Carne - En Vivo",
-      "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Traicionarse",
         "url": "https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 276431,
       "name": "Mujer Primavera",
       "url": "https://open.spotify.com/track/4lOvfLvl7BhAbNKMpVOY51"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Carne (En vivo)",
+        "url": "https://open.spotify.com/album/610BGu4N2Zksxyb6JbuH5p"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Claudio Valenzuela",
+          "url": "https://open.spotify.com/artist/20XFyUIDpgHen9Lxmx6VhE"
+        }
+      ],
+      "duration_ms": 359233,
+      "name": "Carne - En Vivo",
+      "url": "https://open.spotify.com/track/3HwLNLwUY2sicFxkBVbMlx"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
-      },
-      "artists": [
-        {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
-        }
-      ],
-      "duration_ms": 249508,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
         "url": "https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 236084,
       "name": "El Ni\u00f1o Que Viv\u00eda Entre Sombras",
       "url": "https://open.spotify.com/track/4FnpTRCPcc5BkQeGlxrSFL"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt"
+      },
+      "artists": [
+        {
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+        }
+      ],
+      "duration_ms": 249508,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Refugio",
-        "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 249126,
-      "name": "Refugio",
-      "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Lo \u00danico Que Tengo (V\u00edctor Jara)",
         "url": "https://open.spotify.com/album/1mckDYagzYsxFGcgyntT08"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 161510,
       "name": "Lo \u00danico Que Tengo (V\u00edctor Jara)",
       "url": "https://open.spotify.com/track/68rrFLNV5LPjyPsfz24GYj"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Refugio",
+        "url": "https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 249126,
+      "name": "Refugio",
+      "url": "https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Negro",
-        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
+        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
       },
       "artists": [
         {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+          "name": "Crist\u00f3bal Brice\u00f1o",
+          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
         }
       ],
-      "duration_ms": 242166,
-      "name": "Coraz\u00f3n Negro",
-      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
+      "duration_ms": 209579,
+      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
+      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-        "url": "https://open.spotify.com/album/3LA2gnmgO9iz2Jv7zj1nIY"
+        "name": "Coraz\u00f3n Negro",
+        "url": "https://open.spotify.com/album/5UGVjuYlzgYGalIrb4jqPI"
       },
       "artists": [
         {
-          "name": "Crist\u00f3bal Brice\u00f1o",
-          "url": "https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX"
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 209579,
-      "name": "Esta casa hace rato dej\u00f3 de ser un hogar",
-      "url": "https://open.spotify.com/track/63YbNqEhNmyTEkuKeN5wIE"
+      "duration_ms": 242166,
+      "name": "Coraz\u00f3n Negro",
+      "url": "https://open.spotify.com/track/2kacIVCOgeIypJgcsxJomO"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 205765,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
         "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/3gk4kujnDIt6T27Panenvo"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 218735,
       "name": "Un Pedazo M\u00e1s de Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6z042rCDhAXCVZcBwvIOnA"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 205765,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
     },
     {
       "added_at": "2024-10-18 03:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-10-18 03:00:00",
       "album": {
+        "name": "Hacia Ti",
+        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
+      },
+      "artists": [
+        {
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Hacia Ti",
+      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
+    },
+    {
+      "added_at": "2024-10-18 03:00:00",
+      "album": {
         "name": "Shawarma Love",
         "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 205434,
       "name": "La Pelea",
       "url": "https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs"
-    },
-    {
-      "added_at": "2024-10-18 03:00:00",
-      "album": {
-        "name": "Hacia Ti",
-        "url": "https://open.spotify.com/album/10wRR4tgYvTkFijAhuy7S2"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        }
-      ],
-      "duration_ms": 225967,
-      "name": "Hacia Ti",
-      "url": "https://open.spotify.com/track/1FAezqCTrgpec0tRG0PTLG"
     },
     {
       "added_at": "2024-10-18 03:00:00",

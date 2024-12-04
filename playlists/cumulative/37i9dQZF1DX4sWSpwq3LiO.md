@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,756 songs - 3 day 5 hr 57 min
+1,757 songs - 3 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2021-05-12 | 2021-11-24 |
 | [Dans](https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Dans](https://open.spotify.com/album/5Sb7Qg4vPm2ximin3n4ypK) | 2:22 | 2022-01-04 | 2023-05-10 |
 | [Das Versprechen](https://open.spotify.com/track/1QCpwaFTWdn52B1MybBmGJ) | [Alma Klein](https://open.spotify.com/artist/13BmXB0asE1bzPqYfWSTin) | [Das Versprechen](https://open.spotify.com/album/0LgaZhljzonHcCWXVV8zF5) | 2:26 | 2021-09-24 | 2022-05-21 |
+| [day by day](https://open.spotify.com/track/50G6irpZApduau5QFZhicP) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [day by day](https://open.spotify.com/album/3s3vBEGWENJESmsyeDpl4s) | 2:17 | 2024-12-03 |  |
 | [Daybreak](https://open.spotify.com/track/0xOPyF2d1FC6xuBRj3JJxN) | [Francie Stooge](https://open.spotify.com/artist/6G3eQZZG4JQDjKRbO5bZz7) | [Daybreak](https://open.spotify.com/album/63G9tWahtvcvfMbJplDofw) | 2:10 | 2019-10-22 | 2021-10-20 |
 | [Daydreamer](https://open.spotify.com/track/5VWbXmisFDNGzh1kcXouTR) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Daydreamer](https://open.spotify.com/album/4z9N0nfrR9TvL7ycpAxwqb) | 2:36 | 2024-03-04 |  |
 | [Days Gone By](https://open.spotify.com/track/4vDA036RKeQjigYZmANk3Y) | [Tiny Rhino](https://open.spotify.com/artist/7Ma0CST4j0LCd0IYNi5RK4) | [Days Gone By](https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5) | 3:08 | 2020-12-15 | 2022-06-04 |
@@ -992,7 +993,7 @@
 | [New Dawn](https://open.spotify.com/track/3HRRUkWDZ7bCnYMFkkRCsA) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [New Dawn](https://open.spotify.com/album/6g9IrTM1XT6VunienIm2Aw) | 2:54 | 2021-01-26 | 2021-08-05 |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2021-05-22 | 2022-05-13 |
 | [Nibiru](https://open.spotify.com/track/2H5saY4C7YqZiuKED6sAvA) | [Ulrich Volker](https://open.spotify.com/artist/2SCQRaipWsBYaFiNhkFDYY) | [Nibiru](https://open.spotify.com/album/0KTuufd6EhriIPzBnQ3gE7) | 2:39 | 2020-08-04 | 2021-02-17 |
-| [Night](https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Night](https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX) | 2:28 | 2023-04-11 |  |
+| [Night](https://open.spotify.com/track/6gP1lRXjWOCwkwOiuhITvm) | [Coeur](https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd) | [Night](https://open.spotify.com/album/16kvMhddZV5tUTCrVcOdRX) | 2:28 | 2023-04-11 | 2024-12-04 |
 | [Night Hymn](https://open.spotify.com/track/6y9vppkSyxb7m57BKxtaqb) | [Anne Straub](https://open.spotify.com/artist/2Uqeqg9rCtk2ad9BPWpent) | [Night Hymn](https://open.spotify.com/album/4yuteEOLn8qJAMBujcwGbY) | 2:15 | 2021-09-24 | 2022-02-03 |
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-08-05 | 2022-05-21 |
 | [Night Sky](https://open.spotify.com/track/0DXsxu0TJ8TtrOklnsL6nj) | [Regnør](https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq) | [Night Sky](https://open.spotify.com/album/5E6ZKI7FXtjRdLZJ5S3bS5) | 2:26 | 2022-08-08 | 2023-09-23 |

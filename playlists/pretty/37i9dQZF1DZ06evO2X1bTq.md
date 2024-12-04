@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,229,741 likes - 51 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,229,817 likes - 51 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 45 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
 | 46 | [Summer Of Love](https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:24 |
 | 47 | [Numb](https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:19 |
-| 48 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 |
-| 49 | [Original Of The Species](https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 4:34 |
+| 48 | [Original Of The Species](https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 4:34 |
+| 49 | [Happiness](https://open.spotify.com/track/4bMiqeOGu8szuBoJ2SYVCR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Happiness](https://open.spotify.com/album/3DzHyRbyjAQiaFuBq7TjG1) | 4:29 |
 | 50 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:31 |
 | 51 | [Miracle Drug \- Remastered 2024](https://open.spotify.com/track/2FhBsHGHaOgBDYLU1wN5Lk) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb \(Re\-Assemble Edition\)](https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV) | 3:58 |
 
-Snapshot ID: `Z0unAAAAAAApyiybhznO1BttTO7pvi2l`
+Snapshot ID: `Z0z4gAAAAACDpj8aWu7qD+QfCyGuJSzs`

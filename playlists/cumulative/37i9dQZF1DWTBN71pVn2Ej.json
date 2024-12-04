@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with trauma ray (pictured), Present, ASkySoBlack, Superheaven and more.",
+  "description": "The shape of noise to come with Present (pictured), Split Chain, Footballhead, Ivory Daze and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 211034,
       "name": "Allure",
       "url": "https://open.spotify.com/track/0BOSb6XK82MpPdY9cdtPzV"
@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 216237,
       "name": "Bummer",
       "url": "https://open.spotify.com/track/2bsXX12sUES1qD2zX7mgZT"
@@ -2956,7 +2956,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 246231,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN"
@@ -5303,6 +5303,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/0uYuSX7psMG97KxCZuytZW"
+      },
+      "artists": [
+        {
+          "name": "Last Hounds",
+          "url": "https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162909,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/5HDaL1bE43pm8yP2xI1Sj8"
+    },
+    {
+      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa"
       },
@@ -5318,6 +5336,24 @@
       "duration_ms": 186465,
       "name": "Growing Up",
       "url": "https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY"
+    },
+    {
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/5dzgzO0jjIEkEYznHgXolo"
+      },
+      "artists": [
+        {
+          "name": "AIRTIGHT",
+          "url": "https://open.spotify.com/artist/72BcBzR0gYf9yhxaBHmAph"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235009,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/2PZmaMJ0FuK6OkMPwvHNCD"
     },
     {
       "album": {
@@ -5368,7 +5404,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 203395,
       "name": "Half Smile",
       "url": "https://open.spotify.com/track/1WR9nfQquiSD6pZDPj4wxF"
@@ -10443,6 +10479,24 @@
     },
     {
       "album": {
+        "name": "Sliver",
+        "url": "https://open.spotify.com/album/498Sr7Fxlid1v57fhEjBSy"
+      },
+      "artists": [
+        {
+          "name": "Footballhead",
+          "url": "https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198882,
+      "name": "Sliver",
+      "url": "https://open.spotify.com/track/5CzXwnIdde1PNkV3NByQXU"
+    },
+    {
+      "album": {
         "name": "Slow Death",
         "url": "https://open.spotify.com/album/79IZOdWrcaiUOQrpjwwKle"
       },
@@ -13078,6 +13132,24 @@
       "duration_ms": 185206,
       "name": "What Do You Want Me To Be",
       "url": "https://open.spotify.com/track/4xlJuoRCEH8hSDaPa1eoxw"
+    },
+    {
+      "album": {
+        "name": "Winter Promo",
+        "url": "https://open.spotify.com/album/01UUSTH1zGjVp4zsxKLF7I"
+      },
+      "artists": [
+        {
+          "name": "Commoner",
+          "url": "https://open.spotify.com/artist/2NFUarWBEvGVjBe4th2eeS"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197736,
+      "name": "Whatever's Left is Yours",
+      "url": "https://open.spotify.com/track/6AoUnlGn3RpZHXH40A8Rko"
     },
     {
       "album": {

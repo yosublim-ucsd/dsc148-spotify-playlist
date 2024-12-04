@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. : אהוד בנאי
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,903 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,910 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 53 | [warawara](https://open.spotify.com/track/3uLbLFMk7VeOwVdv8J6Y1I) | [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [warawara](https://open.spotify.com/album/5aWXvqxQ0LLRXeGfsvZU55) | 1:53 |
 | 54 | [אהבה עצמית](https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [אהבה עצמית](https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW) | 4:05 |
 | 55 | [בבוקר](https://open.spotify.com/track/4FqYo8GMmSmqE6a0pyJcpJ) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj), [Geva Alon](https://open.spotify.com/artist/1kW6jqgrymK0l58M3OqVMz) | [בבוקר](https://open.spotify.com/album/4q2PHRXZCBvwhyCjTn1b12) | 2:54 |
-| 56 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 |
-| 57 | [לחזור הביתה](https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [לחסד וגאולה המשך ישר](https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8) | 4:17 |
-| 58 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
+| 56 | [לחזור הביתה](https://open.spotify.com/track/0QNp8lFA1mAnf65vncrPQh) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [לחסד וגאולה המשך ישר](https://open.spotify.com/album/62QgS5zmWIcjyRDSPxLTk8) | 4:17 |
+| 57 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 |
+| 58 | [Write About You](https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [Write About You](https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM) | 2:54 |
 | 59 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 |
-| 60 | [Write About You](https://open.spotify.com/track/7wsZdddR3L6NSK0hectauk) | [RGB](https://open.spotify.com/artist/02l0Ie5bgIdWZ4fjaEWCv0) | [Write About You](https://open.spotify.com/album/5RZDCHgKSOP9McLs6fxKwM) | 2:54 |
+| 60 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 |
 
 Snapshot ID: `Z0jn4AAAAACXkORpkawlZ6Beb1Rtg46w`

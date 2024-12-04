@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,211 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,223 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 30 | [Blackout](https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Get Nice!](https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl) | 3:45 |
 | 31 | [Rated "U" For Ugly](https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:01 |
 | 32 | [A Long Way Down](https://open.spotify.com/track/6S3vTxalw2NAru7vT8UnVi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:18 |
-| 33 | [Survivor](https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Panty Raid \(Bonus Edition\)](https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK) | 3:25 |
-| 34 | [Who Brings a Knife to a Gunfight?](https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:51 |
+| 33 | [Who Brings a Knife to a Gunfight?](https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:51 |
+| 34 | [Survivor](https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Panty Raid \(Bonus Edition\)](https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK) | 3:25 |
 | 35 | [Playmate of the Year](https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF) | 2:57 |
 | 36 | [Middle Seat Blues](https://open.spotify.com/track/3TTZSzruGpNwO54bdhjCHO) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:10 |
 | 37 | [Into You](https://open.spotify.com/track/2mZVENOSjFDXtUgWzucYEo) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 3:11 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 50 | [Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole](https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:37 |
 | 51 | [Public Enemy Number One](https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:30 |
 
-Snapshot ID: `Z0unAAAAAAAWlkLTuNkG117paDKl28kd`
+Snapshot ID: `Z0z4gAAAAADmCirEaco1SXyaSLtuD/fo`

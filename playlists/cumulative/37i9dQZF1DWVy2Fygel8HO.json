@@ -1871,6 +1871,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141581,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX"
+    },
+    {
+      "album": {
         "name": "Silent Steps in the Snow",
         "url": "https://open.spotify.com/album/052ClOJxN5pEBblLQNISsz"
       },

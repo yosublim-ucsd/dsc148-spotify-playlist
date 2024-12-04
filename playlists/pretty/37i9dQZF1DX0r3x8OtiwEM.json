@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 968845,
+  "num_followers": 968964,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Chaos in Calm",
+        "url": "https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        }
+      ],
+      "duration_ms": 284102,
+      "name": "Chaos in Calm",
+      "url": "https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Promised Land (Remixes)",
         "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Chaos in Calm",
-        "url": "https://open.spotify.com/album/2j385Ot6ui9hL3PfuZPSam"
-      },
-      "artists": [
-        {
-          "name": "Parra for Cuva",
-          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
-        }
-      ],
-      "duration_ms": 284102,
-      "name": "Chaos in Calm",
-      "url": "https://open.spotify.com/track/3vnyIzDn9iG4j55utsmTFg"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Ascension",
         "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Calmy / Slowly",
+        "url": "https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0"
+      },
+      "artists": [
+        {
+          "name": "Chris Luno",
+          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
+        }
+      ],
+      "duration_ms": 208690,
+      "name": "Calmy",
+      "url": "https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Electric",
         "url": "https://open.spotify.com/album/6aAEMDfaoCNQu1d3EgszPX"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 373750,
       "name": "Free (My Mind)",
       "url": "https://open.spotify.com/track/5awqRl2H9BaEskcwAzcXkq"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Calmy / Slowly",
-        "url": "https://open.spotify.com/album/3UyHlhjnsAOdoxKoA5CpH0"
-      },
-      "artists": [
-        {
-          "name": "Chris Luno",
-          "url": "https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq"
-        }
-      ],
-      "duration_ms": 208690,
-      "name": "Calmy",
-      "url": "https://open.spotify.com/track/4j18Cq3PmR4TmOz9ooec2P"
     },
     {
       "added_at": "2024-11-29 05:00:00",

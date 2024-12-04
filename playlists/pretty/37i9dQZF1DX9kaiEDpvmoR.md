@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 
 > Aktuell musik med etablerade och intressanta artister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,565 likes - 89 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,564 likes - 89 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 28 | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7) | [Melissa Horn](https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5) | [Den jag kunde blivit \- Den jag blev](https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC) | 2:57 |
 | 29 | [Younger](https://open.spotify.com/track/4w3Sq0JfjNPLZsjBxw7dXx) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Younger](https://open.spotify.com/album/6xR58S23eubMHUlwWGOq4E) | 3:25 |
 | 30 | [right person, wrong time](https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [right person, wrong time](https://open.spotify.com/album/42XJitw7O90uwsW9ynvWXk) | 3:40 |
-| 31 | [Det bästa av allt](https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Somliga av oss](https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD) | 3:26 |
-| 32 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 |
+| 31 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 |
+| 32 | [Det bästa av allt](https://open.spotify.com/track/4WFxrUnpVOAL5a3jMNUXgq) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Somliga av oss](https://open.spotify.com/album/3hqJs0VTyrdYVERNsYTwsD) | 3:26 |
 | 33 | [Samma saga](https://open.spotify.com/track/34EnASX8bW5xZTAUIynqoe) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Samma saga](https://open.spotify.com/album/1OnTBU1KrY0MvtpJlXO3NI) | 3:33 |
 | 34 | [Home \(Truckstops and Airports\)](https://open.spotify.com/track/4JiFa6TIB4nDUxKSVZYhf9) | [Jay Smith](https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1) | [Home \(Truckstops and Airports\)](https://open.spotify.com/album/0cdboLJ121JrMns7p0Hm6f) | 3:42 |
 | 35 | [En kväll i tunnelbanan](https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [En kväll i tunnelbanan](https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN) | 3:04 |
@@ -65,17 +65,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 55 | [Vad dom än trodde så trodde dom fel](https://open.spotify.com/track/4wwHNlsshir6XuAYJana1o) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vad dom än trodde så trodde dom fel](https://open.spotify.com/album/0hixYNKkifQOs3ESibKa8h) | 3:00 |
 | 56 | [Ljusare moln](https://open.spotify.com/track/2TvvVfjKB66mdJYI7CCXXA) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Linus Wahlgren](https://open.spotify.com/artist/0AYfmrpYfkwRY1tlatDc2Q) | [Ljusare moln](https://open.spotify.com/album/4vcTwhMZ0INwetdSlTHWWt) | 3:58 |
 | 57 | [No More Blues](https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Portrait](https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4) | 5:46 |
-| 58 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 |
+| 58 | [Living Comes With Dying](https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Living Comes With Dying](https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb) | 3:06 |
 | 59 | [No More You](https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [No More You](https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq) | 2:56 |
-| 60 | [Living Comes With Dying](https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk) | [sixten](https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF) | [Living Comes With Dying](https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb) | 3:06 |
+| 60 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 |
 | 61 | [Afloat](https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Afloat](https://open.spotify.com/album/142If0cEhPJBeEWMstvsqe) | 3:14 |
-| 62 | [Sällskapssjuk](https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Sällskapssjuk](https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4) | 3:34 |
-| 63 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
+| 62 | [Worthy](https://open.spotify.com/track/5SYYkUKQRdi0FuaB9vJfOw) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Worthy](https://open.spotify.com/album/0H4eppHTIk2NwDYfcZsaon) | 3:28 |
+| 63 | [Sällskapssjuk](https://open.spotify.com/track/4ugFejJaVMZsvSMgHX9Fjj) | [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK), [Lena Philipsson](https://open.spotify.com/artist/7rZYHhxGKbe1XepzlpDlKm) | [Sällskapssjuk](https://open.spotify.com/album/32boYR11uVt6E8lAWjrHY4) | 3:34 |
 | 64 | [Fri till slut \- Spotify Singles](https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Fri till slut \- Spotify Singles](https://open.spotify.com/album/0NQ3fcDiX8RIPKElIk0thO) | 4:48 |
-| 65 | [Orkanen](https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Orkanen](https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0) | 3:16 |
-| 66 | [Someone You Used To Know](https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Someone You Used To Know](https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0) | 2:55 |
-| 67 | [Little Human](https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Little Human](https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y) | 3:55 |
-| 68 | [Vårt år](https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vårt år](https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn) | 3:02 |
+| 65 | [Someone You Used To Know](https://open.spotify.com/track/1OlVmZGMSpICl9M78258fv) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Someone You Used To Know](https://open.spotify.com/album/4XFbOH46yjW67UhgfrVSk0) | 2:55 |
+| 66 | [Vårt år](https://open.spotify.com/track/50bJYeCkXBjyRoEKHcpcSg) | [Noice](https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69) | [Vårt år](https://open.spotify.com/album/13l2mQURjHVXLWTAbyi7nn) | 3:02 |
+| 67 | [Orkanen](https://open.spotify.com/track/7AxSlCWEB5vT5FK9RMzOxs) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Orkanen](https://open.spotify.com/album/5xiaYeo3OpWmAYL29ewVj0) | 3:16 |
+| 68 | [Little Human](https://open.spotify.com/track/2n6BhqcTAahU7NgLK7FFEE) | [Andreas Aleman](https://open.spotify.com/artist/5ZHdPTW1cR0FD0HMBY0Zd3) | [Little Human](https://open.spotify.com/album/2TOprA3fQujE2Fb4Yz1j2y) | 3:55 |
 | 69 | [Rör vid mig](https://open.spotify.com/track/26ibetQVrZmdFMILNEkEH7) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Rör vid mig](https://open.spotify.com/album/7GYkWFCvVTvjrLYLZ3SLYE) | 3:10 |
 | 70 | [Ingen annan](https://open.spotify.com/track/6T0osqi96g9nymFKsVXEYq) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Sånger om dig](https://open.spotify.com/album/39Omlw9UP2xAI1Tbf8NQKz) | 2:54 |
 | 71 | [Solen i den vänstra](https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI) | [Thåström](https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H) | [Solen i den vänstra](https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q) | 4:53 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kaiEDpvmoR.md) - [plain]
 | 84 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 |
 | 85 | [Weak Point](https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh) | [Hannes Aitman](https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef) | [Weak Point](https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y) | 4:45 |
 | 86 | [Del av dig \- Edit](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig \(Edit\)](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 |
-| 87 | [Maybe Now](https://open.spotify.com/track/2OpxNvfJwxFpEzNI3DCyD1) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Maybe Now](https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv) | 3:20 |
-| 88 | [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 |
-| 89 | [En vän till mig](https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [En vän till mig](https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg) | 2:37 |
+| 87 | [One More Tequila](https://open.spotify.com/track/0OSl43WoCuCd0CMrZJ28Tm) | [Northlake Shivers](https://open.spotify.com/artist/7sJkU4O3no0nJO7X29gnUb) | [One More Tequila](https://open.spotify.com/album/3uSdcCX368aTFIG8gbrISG) | 3:00 |
+| 88 | [En vän till mig](https://open.spotify.com/track/5LStKqbaUvtExuMI0UUAvm) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [En vän till mig](https://open.spotify.com/album/6tm3Fce6iikdNV4OYQQGqg) | 2:37 |
+| 89 | [Maybe Now](https://open.spotify.com/track/2OpxNvfJwxFpEzNI3DCyD1) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Maybe Now](https://open.spotify.com/album/7eIArT5FbDbGALQ6qIgAqv) | 3:20 |
 
 Snapshot ID: `Zy3WfAAAAABFNx1o7qv4ZpeuCOXmjHkJ`

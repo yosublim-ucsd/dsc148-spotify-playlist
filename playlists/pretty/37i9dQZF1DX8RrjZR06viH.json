@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 93027,
+  "num_followers": 93017,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Beroendeframkallande",
-        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 182995,
-      "name": "Beroendeframkallande",
-      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Mona Lisa, Mona Lisa",
         "url": "https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 172111,
       "name": "Mona Lisa, Mona Lisa",
       "url": "https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Beroendeframkallande",
+        "url": "https://open.spotify.com/album/5yZqX25cUg2PM6LT9PnAO4"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "duration_ms": 182995,
+      "name": "Beroendeframkallande",
+      "url": "https://open.spotify.com/track/1r5nCkDun9Rg73A5KGWZB0"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Tjue \u00e5r",
-        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
-      },
-      "artists": [
-        {
-          "name": "Tobias Sten",
-          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
-        }
-      ],
-      "duration_ms": 259096,
-      "name": "Tjue \u00e5r",
-      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "A Potion For Love",
         "url": "https://open.spotify.com/album/79kiDzdz5iv1aQ68x4PJA0"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 216426,
       "name": "A Potion For Love",
       "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Tjue \u00e5r",
+        "url": "https://open.spotify.com/album/2RLegHXSBddUgpwtsIXmyh"
+      },
+      "artists": [
+        {
+          "name": "Tobias Sten",
+          "url": "https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz"
+        }
+      ],
+      "duration_ms": 259096,
+      "name": "Tjue \u00e5r",
+      "url": "https://open.spotify.com/track/0nmSNf4UsCNGmnPzP4dN7Z"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Learning as I go",
+        "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
+      },
+      "artists": [
+        {
+          "name": "Kristina Moe Hals",
+          "url": "https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Learning as I go",
+      "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Keeps Me Going",
         "url": "https://open.spotify.com/album/2zB2GHP2Su7dGFU4kUPuO2"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 187281,
       "name": "G\u00e5 bli lykkelig, du",
       "url": "https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Hvalfangerbyen",
-        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 200531,
-      "name": "Hvalfangerbyen",
-      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Hvalfangerbyen",
+        "url": "https://open.spotify.com/album/6M2nSOHoe58dDU6dGluvWK"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 200531,
+      "name": "Hvalfangerbyen",
+      "url": "https://open.spotify.com/track/1gWzPGtQeTDbaA1ee8e1Ji"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Har du glemt meg?",
         "url": "https://open.spotify.com/album/2kgi5waGtAaTcu2z8XAGFY"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 147093,
       "name": "Over Deg",
       "url": "https://open.spotify.com/track/5x84ULxcLPCFWHBwEmuGuV"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Learning as I go",
-        "url": "https://open.spotify.com/album/582q1GIAIEpNO2kbJefbXG"
-      },
-      "artists": [
-        {
-          "name": "Kristina Moe Hals",
-          "url": "https://open.spotify.com/artist/3NXTbjiBgCAFlZgl4ISwFj"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Learning as I go",
-      "url": "https://open.spotify.com/track/5ktB8vssJ9jlSFKtxejBB5"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Hollywood Hills",
+        "url": "https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 157791,
+      "name": "Hollywood Hills",
+      "url": "https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Indre liv",
         "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Hollywood Hills",
-        "url": "https://open.spotify.com/album/6NJMVeFDvI0egKuknUyRWH"
+        "name": "B\u00f8lger",
+        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
       },
       "artists": [
         {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+          "name": "3TOS",
+          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
         }
       ],
-      "duration_ms": 157791,
-      "name": "Hollywood Hills",
-      "url": "https://open.spotify.com/track/5jeRRvj8X1DWDrlCG23EI2"
+      "duration_ms": 133875,
+      "name": "B\u00f8lger",
+      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "B\u00f8lger",
-        "url": "https://open.spotify.com/album/1XKnyAAgscwpB0BgzR09TW"
+        "name": "December (honey, honey)",
+        "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
       },
       "artists": [
         {
-          "name": "3TOS",
-          "url": "https://open.spotify.com/artist/4kMHdk4Ci3GoVB1jGZTL4C"
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
         }
       ],
-      "duration_ms": 133875,
-      "name": "B\u00f8lger",
-      "url": "https://open.spotify.com/track/30NBm5D1W1MdfCgDZBuJYY"
+      "duration_ms": 175392,
+      "name": "December (honey, honey)",
+      "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1191,22 +1207,6 @@
       "duration_ms": 165882,
       "name": "25 bare fem \u00e5r til",
       "url": "https://open.spotify.com/track/75gRDppqFWCiMLO7nKqxYL"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "December (honey, honey)",
-        "url": "https://open.spotify.com/album/4gZYxtIzGLlyY8J6p9Of8i"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 175392,
-      "name": "December (honey, honey)",
-      "url": "https://open.spotify.com/track/1DHjMF3lRv2aQwDqXWbHvE"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "D\u00e5rlig id\u00e9",
+        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 132616,
+      "name": "D\u00e5rlig id\u00e9",
+      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Sommer i Norge",
         "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 169248,
       "name": "Sommer i Norge",
       "url": "https://open.spotify.com/track/3EWGpExJwrJxqfXrv8jySH"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "D\u00e5rlig id\u00e9",
-        "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 132616,
-      "name": "D\u00e5rlig id\u00e9",
-      "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1359,38 +1359,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Indre liv",
-        "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
-      },
-      "artists": [
-        {
-          "name": "No. 4",
-          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Dum og lovende",
-      "url": "https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Marilyn Monroe",
-        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 174014,
-      "name": "Marilyn Monroe",
-      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Klisje",
         "url": "https://open.spotify.com/album/50eAohXeP6Tu6hPqCnHkRA"
       },
@@ -1427,6 +1395,54 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Indre liv",
+        "url": "https://open.spotify.com/album/7sixLrfiVtZYR2vVmoaAAb"
+      },
+      "artists": [
+        {
+          "name": "No. 4",
+          "url": "https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "Dum og lovende",
+      "url": "https://open.spotify.com/track/5xKfbK1rSRZVaxRSgkGrey"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Demo",
+        "url": "https://open.spotify.com/album/5gAl4ca58g7eJk5FkP2HuA"
+      },
+      "artists": [
+        {
+          "name": "Randi Oline",
+          "url": "https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV"
+        }
+      ],
+      "duration_ms": 150346,
+      "name": "Demo",
+      "url": "https://open.spotify.com/track/7M0fpWZdYVNQkg5nAurAlG"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Marilyn Monroe",
+        "url": "https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 174014,
+      "name": "Marilyn Monroe",
+      "url": "https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Om du tror p\u00e5 oss",
         "url": "https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 230201,
       "name": "Om du tror p\u00e5 oss",
       "url": "https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Tilbake til start",
-        "url": "https://open.spotify.com/album/2lUwGjDdXQVYeNwnrCFLRI"
-      },
-      "artists": [
-        {
-          "name": "Jesper Jenset",
-          "url": "https://open.spotify.com/artist/4Q6zYbQ2MrKiEWTGB3yrPv"
-        }
-      ],
-      "duration_ms": 173220,
-      "name": "Tilbake til start",
-      "url": "https://open.spotify.com/track/35rznN12zBJXS0CROlBJbj"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

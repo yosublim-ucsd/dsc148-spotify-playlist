@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-427 songs - 1 day 3 hr 48 min
+428 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [Silent Night](https://open.spotify.com/track/5c36yPOfMB9Pq7kdkRxGkd) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Diana Trout](https://open.spotify.com/artist/0NHykv7QVZ6hTpKdPe3qrf), [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [melo](https://open.spotify.com/artist/62KIJc6PBdiVdq7wI7msko) | [Silent Night](https://open.spotify.com/album/6qIpmmge0GlUTpeIgHXPnL) | 4:28 | 2024-11-29 |  |
 | [Silent Night / Jesus We Love You \(feat\. Brandon Lake, Phil Wickham, Kim Walker\-Smith & Mav City Gospel Choir\)](https://open.spotify.com/track/3V8I1b2cuZahTwpfjgpNlL) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD) | [A Very Maverick Christmas](https://open.spotify.com/album/6Z3lZl48YoYESThd0iKkyQ) | 9:12 | 2021-12-11 |  |
 | [Silent Night, Lonely Night](https://open.spotify.com/track/0M9Ohy3DNyfNll9DefBMaQ) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Silent Night, Lonely Night](https://open.spotify.com/album/0l8guZkeeqSux4URW4WlMH) | 4:24 | 2023-11-03 | 2024-08-01 |
-| [Simple Day](https://open.spotify.com/track/21dGCLNg8N6C89uoMvYubx) | [FOUNT](https://open.spotify.com/artist/1XB2yEIY0NycZEX3UCbyIR) | [Simple Day](https://open.spotify.com/album/1llhslC4zliXp4J5v3gtns) | 5:04 | 2021-12-11 |  |
+| [Simple Day](https://open.spotify.com/track/21dGCLNg8N6C89uoMvYubx) | [FOUNT](https://open.spotify.com/artist/1XB2yEIY0NycZEX3UCbyIR) | [Simple Day](https://open.spotify.com/album/1llhslC4zliXp4J5v3gtns) | 5:04 | 2021-12-11 | 2024-12-04 |
 | [Sleigh Ride](https://open.spotify.com/track/4ON9452btc5C7bg8m00xmY) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Sleigh Ride](https://open.spotify.com/album/3qrB6Jf61LOCLyusjSmGa4) | 2:43 | 2022-11-26 |  |
 | [Sleigh Ride](https://open.spotify.com/track/2IwNukSM5QpvnzmLuyKExn) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I Dream of You: CHRISTMAS](https://open.spotify.com/album/1q0OMD6wW0RuA8FxgWMZh8) | 3:49 | 2022-11-26 |  |
 | [Someday At Christmas](https://open.spotify.com/track/608NGSBqPbbmKdser2Fp6B) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d), [Leigh Nash](https://open.spotify.com/artist/0KaOODqnbHxMIZ3qUH5F5n) | [Someday At Christmas](https://open.spotify.com/album/4cu7ooyD4yOwE9zfgAtKXd) | 2:51 | 2021-12-24 | 2022-07-22 |
@@ -415,6 +415,7 @@
 | [What A Surprise](https://open.spotify.com/track/4bFK7ppWmFNxwN7ZbE8o55) | [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Let It Be So](https://open.spotify.com/album/7k74Mi8GdYiCgl8L6lzKdg) | 4:18 | 2021-12-24 | 2022-07-24 |
 | [What Child Is This](https://open.spotify.com/track/1JhBRZ8wA3Yt9BYK3D9ulU) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Tennessee Christmas](https://open.spotify.com/album/3ayqZlchbAWIYa8q0qbHgT) | 3:16 | 2021-12-11 | 2024-12-02 |
 | [What Child Is This](https://open.spotify.com/track/3vrVY4myVxJgAIAVOtkY41) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold \(Deluxe\)](https://open.spotify.com/album/2pUDUet97GvfDELqwTnMFo) | 3:15 | 2021-12-11 | 2022-07-29 |
+| [What Child is This](https://open.spotify.com/track/4KKbPfcERrgrkG2WcsxVFL) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [What Child is This](https://open.spotify.com/album/6N3UHeRjI6Knjr5QKqJckj) | 2:47 | 2024-11-29 |  |
 | [What Child Is This?](https://open.spotify.com/track/5rM3dXlmgy5BtkamHPxdQl) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ), [Morgan Ranney](https://open.spotify.com/artist/4NAuhahng7kSZqvfIXHFR9) | [What Child Is This?](https://open.spotify.com/album/2ZbATgq2AqrhhftlpkC0eb) | 2:16 | 2021-12-11 | 2024-08-01 |
 | [What Child Is This?](https://open.spotify.com/track/0JgLHj8dtZgtd1gvD4TwHP) | [BYU Noteworthy](https://open.spotify.com/artist/1ZknN7FbjjjMTmdU42OEeX) | [What Child Is This?](https://open.spotify.com/album/79Un3uOblNs54iVRPE9eZs) | 4:16 | 2021-12-11 |  |
 | [What Child Is This?](https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 3:15 | 2021-12-24 | 2024-04-19 |

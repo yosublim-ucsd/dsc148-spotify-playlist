@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,839 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,008 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 4 | [Vestido De Seda](https://open.spotify.com/track/15zdm7Jr5dUi0abgkW1d9Z) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Origem](https://open.spotify.com/album/2KKjEHuggCAzRGkIy2kPwE) | 2:33 |
 | 5 | [Um Anjo do Céu](https://open.spotify.com/track/2YgAAAq8h7nPIMVLVVSHtK) | [Maskavo](https://open.spotify.com/artist/4wvAGBushcLkCZ1lEZsYMf) | [Já](https://open.spotify.com/album/6TVsnE10smdfVGIEG5BFbM) | 3:19 |
 | 6 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 |
-| 7 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 |
-| 8 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
+| 7 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
+| 8 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 |
 | 9 | [Liberdade Pra Dentro da Cabeça \- Ao Vivo](https://open.spotify.com/track/0nd6UXkAFXDgaklpsd1Hdu) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 4:13 |
 | 10 | [Envolvidão](https://open.spotify.com/track/51ps6uorlcN8Q7jVJqIkuB) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Diversoficando](https://open.spotify.com/album/2TjXXr70261KZWHACRWEtR) | 3:25 |
 | 11 | [Deixa o Amanhã pra Amanhã](https://open.spotify.com/track/3NPeM6KInz42Ez4rIpAkFF) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Várias Ondas](https://open.spotify.com/album/1LXT8zy44pu8JgWBoK5Tam) | 3:13 |

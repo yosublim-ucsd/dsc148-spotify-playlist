@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,574 likes - 51 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,646 likes - 51 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 38 | [De Pies a Cabeza](https://open.spotify.com/track/7iBioaqKNozrqB88QQVoBD) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Pies a Cabeza](https://open.spotify.com/album/4eXjEM5eGaxmoRBOYti17F) | 3:18 |
 | 39 | [GTO](https://open.spotify.com/track/4McrsoOEGPk3pt7YsmXeJY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [BLANCO Y NEGRO](https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT) | 3:23 |
 | 40 | [Hambre](https://open.spotify.com/track/5YketB6cyT36cjgzc0ldu7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:13 |
-| 41 | [Fotos y Recuerdos](https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fotos y Recuerdos](https://open.spotify.com/album/70d43jUvjO0nwHpv5jy9Qo) | 3:18 |
-| 42 | [Ya Saben La Clave](https://open.spotify.com/track/3YpIqEARQoiSXlg4MmFl9p) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [MALA FAMA](https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7) | 2:19 |
+| 41 | [Ya Saben La Clave](https://open.spotify.com/track/3YpIqEARQoiSXlg4MmFl9p) | [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [MALA FAMA](https://open.spotify.com/album/6H1Hqffcfb36xRrKDQK5h7) | 2:19 |
+| 42 | [Fotos y Recuerdos](https://open.spotify.com/track/1kW9YAt1Tl5xp1fZZZQ4KL) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Fotos y Recuerdos](https://open.spotify.com/album/70d43jUvjO0nwHpv5jy9Qo) | 3:18 |
 | 43 | [SANGRE X SANGRE](https://open.spotify.com/track/4iURr626VPcfRbY0jOdND7) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [BLANCO Y NEGRO](https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT) | 4:03 |
 | 44 | [No Me Arrepiento \(feat\. Gera MX, Neto Peña, Santa Fe Klan\)](https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 4:28 |
 | 45 | [Malvivientes](https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Karlos Loayzat](https://open.spotify.com/artist/3rfra93e0UicabkeHC9NNU) | [Malvivientes](https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI) | 4:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 50 | [Soy Mercenario](https://open.spotify.com/track/1YQf6cJ5XXlF7AgvrI8CRr) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 |
 | 51 | [SEÑORA](https://open.spotify.com/track/3fdNWxt28fmjxYuGnYn6ME) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [BLANCO Y NEGRO](https://open.spotify.com/album/1NNL0Nr5Z9g3XksrNvWRtT) | 3:44 |
 
-Snapshot ID: `Z0unAAAAAACyt8apNg1cH3OHULbMnATg`
+Snapshot ID: `Z0z4gAAAAACL2jA87tb08oVPlMvq8AeO`

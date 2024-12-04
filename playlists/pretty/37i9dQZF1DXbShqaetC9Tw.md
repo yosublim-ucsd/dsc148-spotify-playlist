@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,523 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,514 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 14 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
 | 15 | [11:59 \(feat\. Goopy\)](https://open.spotify.com/track/0Ipe4hZMTTzWyMxBtkcRNq) | [JEY](https://open.spotify.com/artist/2wrI86paHc2IIj6VmGOAMG), [Goopy](https://open.spotify.com/artist/4F4XWiGTifyL39JD8qrslm) | [11:59 \(feat\. Goopy\)](https://open.spotify.com/album/4t9L0wjwVTWEakrmJ2YZvk) | 2:57 |
 | 16 | [bath](https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [bath](https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r) | 4:21 |
-| 17 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 |
-| 18 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
+| 17 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
+| 18 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 |
 | 19 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
 | 20 | [U](https://open.spotify.com/track/6tB91x3oFMbXdQaNNbVoxj) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [OFOSUN](https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky) | 3:46 |
 | 21 | [Flower \(Feat\. Jay Park, Woo, GIRIBOY\)](https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [PEOPLE](https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft) | 4:33 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 36 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
 | 37 | [BLUE MOON](https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:51 |
 | 38 | [flight](https://open.spotify.com/track/05vY4piKAbBXJXaaa4xOCt) | [E SENS](https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH) | [Marigold Tapes](https://open.spotify.com/album/125PdGOGePXb8q7sAwCMLk) | 3:29 |
-| 39 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 |
-| 40 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
+| 39 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
+| 40 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 |
 | 41 | [m o v i e \(Feat\. Jade\)](https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [m o v i e](https://open.spotify.com/album/02XiYEnw92DRIBrfSFoFBP) | 3:17 |
 | 42 | [Forest \(feat\. Claire Young\)](https://open.spotify.com/track/4XAoI087CmHUxZ7UUYcH2G) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Forest](https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe) | 3:28 |
 | 43 | [Mliy](https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 2:53 |

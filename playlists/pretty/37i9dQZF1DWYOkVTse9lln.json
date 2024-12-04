@@ -1,6 +1,6 @@
 {
   "description": "Saca la estrella que llevas dentro \u2b50\ufe0f\ud83c\udfa4",
-  "num_followers": 729634,
+  "num_followers": 729692,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 205160,
       "name": "Mientes",
       "url": "https://open.spotify.com/track/5EhzE6HJaCcLFrf5rPqvpk"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 193826,
-      "name": "Todo Cambi\u00f3",
-      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
         "name": "Limon Y Sal",
         "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 205413,
       "name": "Lim\u00f3n y Sal",
       "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+        "name": "Si",
+        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
       },
       "artists": [
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 252346,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+      "duration_ms": 193373,
+      "name": "Andar Conmigo",
+      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -503,6 +503,22 @@
       "duration_ms": 310813,
       "name": "Clavado en Un Bar",
       "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Vivir Mi Vida",
+      "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -543,22 +559,6 @@
       "duration_ms": 194742,
       "name": "Robarte un Beso",
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
-        "name": "Si",
-        "url": "https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 193373,
-      "name": "Andar Conmigo",
-      "url": "https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 217213,
-      "name": "200 COPAS",
-      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 205373,
       "name": "A Dios Le Pido",
       "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 217213,
+      "name": "200 COPAS",
+      "url": "https://open.spotify.com/track/0aZnyTWJNgdzYoOiaW8HKG"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 279320,
       "name": "Talento De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -739,6 +739,22 @@
       "duration_ms": 247493,
       "name": "Andas En Mi Cabeza",
       "url": "https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -775,22 +791,6 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 245120,
       "name": "La Bilirrubina",
       "url": "https://open.spotify.com/track/6M8horg7h52MPTxY0I3dQJ"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2024-07-12 19:20:28",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-12 19:20:28",
       "album": {
-        "name": "Haw\u00e1i",
-        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 200197,
-      "name": "Haw\u00e1i",
-      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
-    },
-    {
-      "added_at": "2024-07-12 19:20:28",
-      "album": {
         "name": "Reik",
         "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 171320,
       "name": "Qu\u00e9 Vida la M\u00eda",
       "url": "https://open.spotify.com/track/0M6KY0x5u65ybXHZ3IAega"
+    },
+    {
+      "added_at": "2024-07-12 19:20:28",
+      "album": {
+        "name": "Haw\u00e1i",
+        "url": "https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 200197,
+      "name": "Haw\u00e1i",
+      "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
     },
     {
       "added_at": "2024-07-12 19:20:28",

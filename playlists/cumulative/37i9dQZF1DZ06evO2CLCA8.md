@@ -4,7 +4,7 @@
 
 > This is Tom Petty and the Heartbreakers\. The essential tracks, all in one playlist.
 
-117 songs - 7 hr 22 min
+118 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Echo](https://open.spotify.com/track/5BKc1D4DKDRjAg37HT7vLD) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Echo](https://open.spotify.com/album/1lsBEh2R9B39hWfEo4iZSW) | 6:36 | 2022-01-11 | 2022-02-16 |
 | [Even The Losers](https://open.spotify.com/track/5SdMXQmfV4OZx5O05986d3) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Greatest Hits](https://open.spotify.com/album/3q6Bz38jmqRDkXI7j5Hb9Y) | 3:38 | 2022-01-11 |  |
 | [Fault Lines](https://open.spotify.com/track/6EbwtNHHupaiR2tCTNwDFz) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Hypnotic Eye](https://open.spotify.com/album/55dSc0Ry199sq95DwnHFFa) | 4:27 | 2022-01-13 | 2022-10-12 |
-| [Finding Out](https://open.spotify.com/track/7inFhF3HVAyQT4MrllufYO) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark \(Deluxe Edition\)](https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ) | 3:35 | 2024-10-21 |  |
+| [Finding Out](https://open.spotify.com/track/7inFhF3HVAyQT4MrllufYO) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark \(Deluxe Edition\)](https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ) | 3:35 | 2024-10-21 | 2024-12-04 |
 | [Fooled Again \(I Don't Like It\)](https://open.spotify.com/track/4aMymVwENTzVqR9QxZZxCU) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:50 | 2023-12-17 | 2024-03-10 |
 | [For Real](https://open.spotify.com/track/4SazNxh9XSYD65EHiv2ZTx) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/32OhZ2CWxc259H9w52JMTH) | 3:51 | 2022-01-11 | 2022-11-27 |
 | [Free Fallin' \- Live](https://open.spotify.com/track/7GIlNI3ry1HfM5l35pSROT) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [The Live Anthology](https://open.spotify.com/album/1O804nfr6T6BvswqLqd3Lh) | 4:46 | 2022-08-19 | 2022-09-20 |
@@ -100,6 +100,7 @@
 | [Southern Accents](https://open.spotify.com/track/6QUppE7S4HgcfC3jZIcYlV) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 4:44 | 2022-01-11 |  |
 | [Spike](https://open.spotify.com/track/0OynySxoDTVepVdwm0iigw) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Southern Accents](https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4) | 3:32 | 2023-05-12 | 2024-03-02 |
 | [Stop Draggin' My Heart Around \(with Tom Petty and The Heartbreakers\) \- 2016 Remaster](https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Bella Donna \(2016 Remastered\)](https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het) | 4:04 | 2022-01-11 |  |
+| [Stories We Could Tell \- French TV](https://open.spotify.com/track/2SAMbAYw9IRl9hhvw3nj2p) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark \(Deluxe Edition\)](https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ) | 3:36 | 2024-12-04 |  |
 | [Straight Into Darkness](https://open.spotify.com/track/6Cr9cPkaLOryGUbUaPyGMb) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark \(Deluxe Edition\)](https://open.spotify.com/album/1TgxyUIYTkxIMKhJqktzAQ) | 3:48 | 2024-10-23 | 2024-11-24 |
 | [Straight Into Darkness](https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Long After Dark](https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ) | 3:49 | 2022-01-11 | 2024-10-23 |
 | [Supernatural Radio \- Extended Version](https://open.spotify.com/track/4GvvOEM5lQ3jVem8FrtrJ5) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Angel Dream \(Songs and Music From The Motion Picture "She’s The One"\)](https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd) | 6:03 | 2022-01-11 | 2022-10-13 |

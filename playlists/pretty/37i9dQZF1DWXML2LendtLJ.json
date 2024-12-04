@@ -1,6 +1,6 @@
 {
   "description": "The breeziest songs to get you through the day.",
-  "num_followers": 518765,
+  "num_followers": 518831,
   "original_name": "Light & Easy",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Another Day in Paradise - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
-    },
-    {
-      "added_at": "2023-08-09 10:52:35",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 329800,
       "name": "On Bended Knee",
       "url": "https://open.spotify.com/track/4Gmkqn3V7IMTkOmmiX7cbb"
+    },
+    {
+      "added_at": "2023-08-09 10:52:35",
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Another Day in Paradise - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
     },
     {
       "added_at": "2023-08-09 10:52:35",
@@ -343,8 +343,8 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Chicago 17 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 229240,
-      "name": "You're the Inspiration - 2006 Remaster",
-      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2023-08-09 10:52:35",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
-    },
-    {
-      "added_at": "2023-08-09 10:52:35",
-      "album": {
         "name": "The Singles (Expanded)",
         "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
       },
@@ -423,8 +407,24 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+    },
+    {
+      "added_at": "2023-08-09 10:52:35",
+      "album": {
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
     },
     {
       "added_at": "2023-08-09 10:52:35",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2023-08-09 10:52:35",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2023-08-09 10:52:35",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
       "added_at": "2023-08-09 10:52:35",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-08-09 10:52:35",
       "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 296480,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
-    },
-    {
-      "added_at": "2023-08-09 10:52:35",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2023-08-09 10:52:35",
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296480,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
     },
     {
       "added_at": "2023-08-09 10:52:35",

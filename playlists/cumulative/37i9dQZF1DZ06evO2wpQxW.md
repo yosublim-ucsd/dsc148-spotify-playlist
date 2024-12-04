@@ -4,7 +4,7 @@
 
 > This is Calibre 50\. The essential tracks, all in one playlist.
 
-75 songs - 4 hr 0 min
+76 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Aguaje Activado](https://open.spotify.com/track/6kuddZnQSHD81jLGMMcLVn) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:02 | 2024-07-13 | 2024-07-20 |
 | [Amor Del Bueno](https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Desde El Rancho](https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH) | 3:13 | 2023-08-08 |  |
 | [Amor Limosnero](https://open.spotify.com/track/4QaBFS1O4AvlWrqzaYdz4S) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 4:00 | 2024-01-04 | 2024-08-26 |
-| [Aunque Ahora Estés Con Él](https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Aunque Ahora Estés Con Él](https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP) | 3:34 | 2023-08-08 |  |
+| [Aunque Ahora Estés Con Él](https://open.spotify.com/track/49ItgqFP5shdUdK9ggonW0) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Aunque Ahora Estés Con Él](https://open.spotify.com/album/7qS6xf08vzZcHRgwnQsGRP) | 3:34 | 2023-08-08 | 2024-12-04 |
+| [Aunque Ahora Estés Con Él](https://open.spotify.com/track/7unyDZXFwdAMMIMlCeYa8V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Más Escuchado De](https://open.spotify.com/album/5w6UHZIk6AC190aQNFB9pW) | 3:36 | 2024-12-04 |  |
 | [Barquillero](https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Barquillero](https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX) | 3:20 | 2023-08-10 | 2024-04-04 |
 | [Bohemio Loco](https://open.spotify.com/track/75wc3ASRDxuRKpUjUEzjL8) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Lo Mejor De...](https://open.spotify.com/album/3crvxBWvPLb0T9TMwlJKup) | 3:09 | 2024-01-27 |  |
 | [Callejero Y Mujeriego](https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Renovar O Morir](https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A) | 2:28 | 2024-04-23 | 2024-10-14 |

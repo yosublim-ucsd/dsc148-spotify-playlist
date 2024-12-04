@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,435 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,419 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 31 | [Hold On](https://open.spotify.com/track/4FxBG9VPpxPXMDgqLgW5ZD) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:51 |
 | 32 | [Wish I Knew](https://open.spotify.com/track/5Ey48y8f4IuIz80lclnkKT) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Wish I Knew](https://open.spotify.com/album/6yAdVVZIr56KZBUSNVHQsi) | 3:12 |
 | 33 | [Into The Mystery](https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Into The Mystery](https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF) | 3:54 |
-| 34 | [This Ain't It](https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 6:14 |
-| 35 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 |
+| 34 | [Hold On For Dear Life](https://open.spotify.com/track/2qQvRQWSdIzyFK0Uvxh3V1) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Hold On For Dear Life](https://open.spotify.com/album/444WoeLyPkIMYr92NHEcz4) | 3:47 |
+| 35 | [This Ain't It](https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 6:14 |
 | 36 | [Shattered & Hollow](https://open.spotify.com/track/2RuT0bwvNrCOPey7afGpVW) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/6toF7GAattD7gLgqKbY8f9) | 4:04 |
 | 37 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/4ktZEbOKEnx5svwITaKwqK) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 5:19 |
 | 38 | [Waste of Time](https://open.spotify.com/track/1iMzZNgkgw5xITKIgBKh9O) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Waste of Time](https://open.spotify.com/album/7f39VmqaoMuEi30pYKFlh6) | 3:03 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 40 | [Hardlytown](https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Quietly Blowing It](https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa) | 3:17 |
 | 41 | [Miles Away](https://open.spotify.com/track/6wRH2lAr8v0n1prHEwZe85) | [Phil Cook](https://open.spotify.com/artist/3pqmhj6H08f5rGsnVroz9E) | [People Are My Drug](https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl) | 4:01 |
 | 42 | [It's Been a While](https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [It's Been a While](https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf) | 4:06 |
-| 43 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
-| 44 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
+| 43 | [Born To Die](https://open.spotify.com/track/54F7uOTyfsusa19TjEcHW9) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6), [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Born To Die](https://open.spotify.com/album/4P19H9TULgF2zUxNGPkBoK) | 2:52 |
+| 44 | [Ophelia](https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:40 |
 | 45 | [reason to live](https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [reason to live](https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP) | 2:30 |
 | 46 | [If I Was](https://open.spotify.com/track/5n6BdIWBSpkfjZ29JP7WzK) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Ever Since I Lost My Mind](https://open.spotify.com/album/07Lss95oyQ0H0UP5i87G0A) | 4:26 |
 | 47 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 76 | [Oh Dear Brother](https://open.spotify.com/track/27TIWKzBDkahxcjKUmthdw) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Oh Dear Brother](https://open.spotify.com/album/3Pue2ojjST8Vq2m8y2EppZ) | 3:58 |
 | 77 | [Soul In Mind](https://open.spotify.com/track/3tTroIOjnFUeohJqPeb4QB) | [Jared & The Mill](https://open.spotify.com/artist/0GklSybv01PPje5GlXFq2i) | [Soul In Mind](https://open.spotify.com/album/77hh6fk09R9oh9OFGAeCrS) | 3:36 |
 | 78 | [River Wider](https://open.spotify.com/track/3xuE0GvFWLgZIWZAa4PQwy) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [River Wider](https://open.spotify.com/album/4NBpqEDUdimWGmSu3q6zWD) | 3:15 |
-| 79 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
-| 80 | [One Night Show](https://open.spotify.com/track/6GShhhftAwBQitztgKUCPN) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:48 |
+| 79 | [One Night Show](https://open.spotify.com/track/6GShhhftAwBQitztgKUCPN) | [Balto](https://open.spotify.com/artist/0WG7UI4czXYUBCjTzLxnPx) | [Strangers](https://open.spotify.com/album/6Vc3oyDDnxLzT3iB4F40Eh) | 3:48 |
+| 80 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
 | 81 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
 | 82 | [Suffering](https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Suffering](https://open.spotify.com/album/14eVN7m47S442flao2wtFa) | 3:20 |
 | 83 | [Proximity](https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P) | [Blank Range](https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t) | [In Unison](https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w) | 3:17 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 94 | [Starting from Scratch](https://open.spotify.com/track/3pM19Q0sIoPc3SLLAaJrcs) | [Carl Broemel](https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR) | [Starting from Scratch](https://open.spotify.com/album/3ajBFaN4FRuRgmzLrvUFVk) | 3:09 |
 | 95 | [Devil and the Sea](https://open.spotify.com/track/4MvLYfOKCq2iFfANg0WNxR) | [Streets of Laredo](https://open.spotify.com/artist/4gzYX1gPVnAh5YB1MAo60t) | [Devil and the Sea](https://open.spotify.com/album/5XkuCSfJsRRNsBJTfpfLEs) | 3:38 |
 | 96 | [Tomorrow](https://open.spotify.com/track/0U8YpnqPkTeA9v9FRwmomq) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [Tomorrow](https://open.spotify.com/album/1wUPDxnbQCUh3zv6SiAFhI) | 3:30 |
-| 97 | [Over Me](https://open.spotify.com/track/6a4MQYjKSAdN34HEP9s8uM) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Over Me](https://open.spotify.com/album/0xQyYIK2Kzj3Eu2bcs7jbz) | 2:55 |
-| 98 | [Canyonheart](https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:51 |
-| 99 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 |
-| 100 | [Cyclades](https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 4:44 |
+| 97 | [Canyonheart](https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:51 |
+| 98 | [Over Me](https://open.spotify.com/track/6a4MQYjKSAdN34HEP9s8uM) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Over Me](https://open.spotify.com/album/0xQyYIK2Kzj3Eu2bcs7jbz) | 2:55 |
+| 99 | [Cyclades](https://open.spotify.com/track/5bm4mWrTL3LAewRDiTMQel) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Cyclades](https://open.spotify.com/album/09wmCpL3FF2lkOGo3JvFga) | 4:44 |
+| 100 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 |
 
 Snapshot ID: `Zw3owAAAAAB8IsS6dc7+b3PYQtvKF5lD`

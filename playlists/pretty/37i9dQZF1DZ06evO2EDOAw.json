@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4646,
+  "num_followers": 4648,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAD6GwOiy0jDrvOK/T0gj5I/",
+  "snapshot_id": "Z0z4gAAAAADbm+sS6z0BbHUdO8MP0nMz",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Why Me?",
-      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 162295,
       "name": "U.S.A.",
       "url": "https://open.spotify.com/track/1q0agJXvSQOkiU1t7CcBiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Why Me?",
+      "url": "https://open.spotify.com/track/6ItKcRkVTfe9YdKC0zFaB6"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Judge Me (feat. Missy Elliott)",
-        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Don't Judge Me (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 335816,
       "name": "Making A Way (feat. Adia)",
       "url": "https://open.spotify.com/track/4Hif2nRMeMpVIp3p1rMvg8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Judge Me (feat. Missy Elliott)",
+        "url": "https://open.spotify.com/album/4WGsdy6L3dmsgywrFOJomw"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Don't Judge Me (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/12CBn7x2KbYgzCExu1JKyD"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Big Day",
         "url": "https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 281181,
       "name": "I Got You (Always and Forever)",
       "url": "https://open.spotify.com/track/333OkWOgbV6C8I5wRLfuSx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
     },
     {
       "added_at": null,
@@ -904,13 +904,13 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         },
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 287662,
-      "name": "What Matters (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
+      "duration_ms": 276111,
+      "name": "Done For Me (feat. Jekalyn Carr)",
+      "url": "https://open.spotify.com/track/4myxhQ5I0XeClzbRHliMOE"
     },
     {
       "added_at": null,
@@ -992,13 +992,29 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         },
         {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 276111,
-      "name": "Done For Me (feat. Jekalyn Carr)",
-      "url": "https://open.spotify.com/track/4myxhQ5I0XeClzbRHliMOE"
+      "duration_ms": 287662,
+      "name": "What Matters (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/76TyZ3DsTuA6Abls23CoOA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Hear This",
+      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
     },
     {
       "added_at": null,
@@ -1043,8 +1059,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+        "name": "KIERRA (Deluxe)",
+        "url": "https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy"
       },
       "artists": [
         {
@@ -1052,25 +1068,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 289240,
-      "name": "Hear This",
-      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Owe You",
-        "url": "https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "All I Am",
-      "url": "https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z"
+      "duration_ms": 286848,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR"
     },
     {
       "added_at": null,
@@ -1095,8 +1095,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+        "name": "I Owe You",
+        "url": "https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL"
       },
       "artists": [
         {
@@ -1104,25 +1104,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 265089,
-      "name": "Always Win (Live)",
-      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KIERRA (Deluxe)",
-        "url": "https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 286848,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR"
+      "duration_ms": 172693,
+      "name": "All I Am",
+      "url": "https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z"
     },
     {
       "added_at": null,
@@ -1139,6 +1123,22 @@
       "duration_ms": 229840,
       "name": "Praise Him Now",
       "url": "https://open.spotify.com/track/6dzvHYU9p50AWJshDhqZVa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 265089,
+      "name": "Always Win (Live)",
+      "url": "https://open.spotify.com/track/1Ur4Zqu0VxvkNzFCElyHM2"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

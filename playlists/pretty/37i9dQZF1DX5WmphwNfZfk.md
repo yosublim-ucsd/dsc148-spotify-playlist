@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: DoFlame
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,040 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,036 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

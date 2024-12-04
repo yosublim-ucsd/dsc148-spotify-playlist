@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,315 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,344 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 6 | [Back In Black](https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 7 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
 | 8 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
-| 9 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
-| 10 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 |
+| 9 | [Can't Stop](https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 4:29 |
+| 10 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
 | 11 | [The Real Slim Shady](https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Marshall Mathers LP](https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC) | 4:44 |
 | 12 | [Mask Off](https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [FUTURE](https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r) | 3:24 |
 | 13 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 57 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 |
 | 58 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 |
 | 59 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
-| 60 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [NITTI](https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
-| 61 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 |
+| 60 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 |
+| 61 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [NITTI](https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
 | 62 | [Let It Rock](https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [In The City](https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd) | 3:51 |
 | 63 | [Tipsy \- Club Mix](https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Hood Hop](https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv) | 4:03 |
-| 64 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
-| 65 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
+| 64 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
+| 65 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 66 | [Fuck Up Some Commas](https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 3:57 |
 | 67 | [My Chick Bad](https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Battle Of The Sexes \(Deluxe\)](https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew) | 3:36 |
 | 68 | [Let's Go \(feat\. Twista & Lil' Jon\)](https://open.spotify.com/track/1fLibtVj3MrNTwRZq5yUOs) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Thug Matrimony: Married to the Streets](https://open.spotify.com/album/2Ve8rF1LYTRGl3ZAI2z2YT) | 3:42 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 72 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
 | 73 | [Kernkraft 400 \- DJ Gius Mix, Radio Edit](https://open.spotify.com/track/7g8cjrj0sXScNE727685JE) | [Zombie Nation](https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl) | [Kernkraft 400 Single Mixes](https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd) | 3:27 |
 | 74 | [Knuck If You Buck \(feat\. Lil' Scrappy\)](https://open.spotify.com/track/0RZXNlGPvfMo54fd6uCvAT) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo), [Lil Scrappy](https://open.spotify.com/artist/5einkgXXrjhfYCyac1FANB) | [Crime Mob](https://open.spotify.com/album/09stXr7AeoB1PsE3RpMpyU) | 3:25 |
-| 75 | [WIN](https://open.spotify.com/track/69WMdZSqdQwFgLVpbMsZ2J) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:35 |
+| 75 | [All the Above \(feat\. T\-Pain\)](https://open.spotify.com/track/1z667LebVh3DtYNrVJEao0) | [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [If Tomorrow Comes...](https://open.spotify.com/album/1BdMI18B8ZnoHNAYwx8h8h) | 5:19 |
 
 Snapshot ID: `ZpVFiQAAAABZUJ+AOMW6LCixuz4iQHn9`

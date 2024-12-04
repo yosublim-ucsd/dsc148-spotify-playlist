@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 273120,
       "name": "I Wanna Get Funky",
       "url": "https://open.spotify.com/track/1xK95CjHv5jCcNBEdLrVEP"
@@ -860,6 +860,28 @@
       "duration_ms": 346413,
       "name": "Rockin' In The Free World",
       "url": "https://open.spotify.com/track/1aikBqRTEOiBxBZPG4IIaa"
+    },
+    {
+      "album": {
+        "name": "Blues Experience",
+        "url": "https://open.spotify.com/album/4WAq1gvzRrbbcS7LwMGQS0"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        },
+        {
+          "name": "Mick Fleetwood",
+          "url": "https://open.spotify.com/artist/7bRRWmUqERkyOVSSU6MPFu"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299160,
+      "name": "Rollin' N Tumblin'",
+      "url": "https://open.spotify.com/track/4wIGQTAORbmEcAkbP5PFmk"
     },
     {
       "album": {

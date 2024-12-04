@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-671 songs - 2 day 4 hr 12 min
+672 songs - 2 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,7 @@
 | [Nobody knows](https://open.spotify.com/track/79qXqVsJ0aaYXeZ6QoeGjx) | [Akiyoshi Yasuda](https://open.spotify.com/artist/3xQF7Pm26nA6eDFxgqKtRW) | [memento \-day3](https://open.spotify.com/album/2XG3vM8CWIpKvY9ychR9ZA) | 3:37 | 2023-01-26 | 2023-04-21 |
 | [Nocturne](https://open.spotify.com/track/0KM52GC7FVq2dMD6VPhC03) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 6:38 | 2024-02-08 |  |
 | [Nocturne \- New Recording](https://open.spotify.com/track/03IzGkHbZHnQxweVx1V6q8) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Nocturne \- New Recording](https://open.spotify.com/album/3ubWJpP2KOf2HG3zXmCJe8) | 4:55 | 2023-05-11 | 2023-05-26 |
-| [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 | 2024-06-07 |  |
+| [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 | 2024-06-07 | 2024-12-04 |
 | [Nostalgia](https://open.spotify.com/track/1SDCau14XiiaPB67yj9qZ9) | [Ramza](https://open.spotify.com/artist/1Trmp5nqg46a1InSpynV72) | [Whispering Jewels \- ひび割れの鼓動](https://open.spotify.com/album/7ahgNbVn0iLISPEwXU2hJO) | 8:56 | 2022-09-15 | 2022-12-24 |
 | [Nostalgia 2](https://open.spotify.com/track/2v6fUufnDYNvoevK8ILcNy) | [Saito Koji](https://open.spotify.com/artist/0S7H7SA7XfrTqy2gYj4jAS) | [Nostalgia](https://open.spotify.com/album/4c44do7drzjAIJJnOqvZmf) | 5:33 | 2022-04-07 | 2022-04-12 |
 | [Nothing01](https://open.spotify.com/track/5c073vLIWI3dRUSZeGgEkM) | [ass](https://open.spotify.com/artist/1BwcsRjCnhyM3SNZfT4jQy) | [Ymnat](https://open.spotify.com/album/1qs0A3slfbHKdNNtIptkol) | 3:28 | 2022-04-07 | 2022-04-10 |
@@ -522,7 +522,7 @@
 | [Station 2](https://open.spotify.com/track/0qCXR6lzIKES8nbIClOYTt) | [Field Works](https://open.spotify.com/artist/2AMZYRU9gyPG7OEfSYA8Dr), [Hanna Benn](https://open.spotify.com/artist/3f311Nvt0uimtZzFtleUiA), [Janie Cowan](https://open.spotify.com/artist/0Gof2YXoYi1mFZgSrHfMKS), [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT), [Stuart Hyatt](https://open.spotify.com/artist/3bm83rD8JWMvdkSj87RJ1l), [Qasim Naqvi](https://open.spotify.com/artist/3HMjcIM1vwBifTgdYZlv6D), [Pick a Piper](https://open.spotify.com/artist/6so2HBfVIUPwfjZPtXM1DB) | [Stations](https://open.spotify.com/album/3Ex5Lf74vziMVVkP2y6Rwp) | 2:56 | 2022-03-31 | 2022-07-23 |
 | [Stella](https://open.spotify.com/track/3x9kKGucIO4qBhvc3y9qE8) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [PASSION](https://open.spotify.com/album/7zDwBr55zeXkyVTrdU87sC) | 3:47 | 2022-03-31 | 2022-04-27 |
 | [Still](https://open.spotify.com/track/2DtCfVLzprasJJAoMDjNI9) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Yusura](https://open.spotify.com/album/5fRSAdCnY5pSSUKi8pNrU9) | 3:37 | 2022-03-30 | 2022-06-19 |
-| [Still Dreaming](https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:27 | 2024-05-09 | 2024-11-11 |
+| [Still Dreaming](https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Delight](https://open.spotify.com/album/5mymmR4PpiIjJgwZOuhNXU) | 4:27 | 2024-05-09 |  |
 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 | 2022-03-31 |  |
 | [Storm Crystals](https://open.spotify.com/track/3J42xcu8GE5D0kAYfRu4WK) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:40 | 2024-05-09 |  |
 | [Story of Your Life](https://open.spotify.com/track/4euKZ2girgz0uU2yZjSgTl) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Story of Your Life](https://open.spotify.com/album/0lzWuGfDwRhsNuQIChTO4S) | 3:35 | 2024-01-11 | 2024-02-09 |
@@ -658,6 +658,7 @@
 | [時の回廊](https://open.spotify.com/track/3XZtk9qIPLeATir3MdnsQp) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [【DS版】クロノ･トリガー オリジナル･サウンドトラック](https://open.spotify.com/album/43WD2x17uM3LAAgKIxExlZ) | 3:03 | 2024-03-07 |  |
 | [時色](https://open.spotify.com/track/6ar2dSoFWSJm1a5kaxoB6o) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [Sketch](https://open.spotify.com/album/1QKWVflSGIsITHgfChvOwp) | 3:50 | 2022-03-31 | 2022-07-08 |
 | [月の光](https://open.spotify.com/track/0j9BiFY2dWgtyycKZ2HZCw) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [月の光 \(Ultimate Edition\)](https://open.spotify.com/album/3uahEjE95POX11CnbVjBA6) | 5:55 | 2024-06-15 |  |
+| [月へ飛ぶ想ひ \(Love that Flies to the Moon\)](https://open.spotify.com/track/53WFf9EywSA4cuomIfGoLv) | [松﨑裕子](https://open.spotify.com/artist/0TeQGrpPuKgvdCHgVMyM3a) | [螺鈿の箱](https://open.spotify.com/album/18DILpcCu5BdTSPNhauurh) | 4:09 | 2024-11-29 |  |
 | [木霊\(echo\)](https://open.spotify.com/track/5JN5pYDosceMaIOCFg901Y) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [木霊\(echo\)](https://open.spotify.com/album/5B68msF53E4Bkmei9YBwxr) | 2:03 | 2023-04-20 | 2023-12-22 |
 | [柳緑](https://open.spotify.com/track/2UClC38qj5D1dqN23KyqRK) | [相葉不透過](https://open.spotify.com/artist/7GfAoMGn7n3rIck1EkfBbJ) | [柳緑](https://open.spotify.com/album/6AgiFImBZkrdWNZugcNiZt) | 4:30 | 2022-03-31 | 2022-07-12 |
 | [栞日](https://open.spotify.com/track/0c565bGLHUE9pqUDvuT0Eq) | [Ironomi](https://open.spotify.com/artist/62tSwHM7qLhiSDtVSf51Y5) | [琹の葉](https://open.spotify.com/album/0ab2TfwsIFt9RPG9uCMSSa) | 7:05 | 2022-03-31 | 2022-07-28 |
@@ -675,7 +676,7 @@
 | [雪'](https://open.spotify.com/track/4woQoUdx9lDnRK51rRSI7Y) | [Yusuke Kuwahara](https://open.spotify.com/artist/1ZATldh6PN1y032x214J05) | [雪'](https://open.spotify.com/album/1OeeKVcoMg32lSGImOSfAz) | 7:45 | 2022-03-31 | 2022-07-24 |
 | [雪の上の足跡](https://open.spotify.com/track/2OKFk7hSBsjdcfmfEq1eoc) | [Isao Tomita](https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv) | [月の光 \(Ultimate Edition\)](https://open.spotify.com/album/3uahEjE95POX11CnbVjBA6) | 4:41 | 2022-03-31 | 2022-05-22 |
 | [雲の速度](https://open.spotify.com/track/0qwCdemBX1SJ0bHbhd9B5e) | [オノセイゲン](https://open.spotify.com/artist/6v0jbPAxNpiQPnu9MaaRLf) | [SEIGEN](https://open.spotify.com/album/6Pu7wOVVNVNyg3Z0bdJxb2) | 9:57 | 2022-04-07 | 2022-07-11 |
-| [霧中夢](https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 6:59 | 2024-03-07 |  |
+| [霧中夢](https://open.spotify.com/track/3QfKXrXI14fomDcmwYdkOY) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [夢中夢](https://open.spotify.com/album/62kdE7eeVhMWFMvvHPxiBn) | 6:59 | 2024-03-07 | 2024-12-04 |
 | [風に舞うエンジェル](https://open.spotify.com/track/1s5kQcQCD6mF6RKInHR44U) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [ふれあい](https://open.spotify.com/album/0ZCCs6urVebwf2rIeMyVLo) | 5:45 | 2022-04-16 | 2022-07-26 |
 | [風の谷のナウシカ \- 2024 ver.](https://open.spotify.com/track/0Hch2lV9Vk7MfyL0OZLHS2) | [安田成美](https://open.spotify.com/artist/2blJQ4Fnbpk3EPj4dOO9Qs), [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [風の谷のナウシカ \(2024 ver.\)](https://open.spotify.com/album/5V2JKwezZvZsyfLjmMlKjH) | 5:25 | 2024-03-07 |  |
 | [麹室 \- 2020winterMIX](https://open.spotify.com/track/3iRNwztTOICguefJsk9FPQ) | [kibaco](https://open.spotify.com/artist/57cn83HfH33HD5evuQRbch) | [麹室 \(2020winterMIX\)](https://open.spotify.com/album/5FeWSmOPHOTO9kURDYFWJR) | 4:22 | 2022-03-31 | 2022-04-11 |

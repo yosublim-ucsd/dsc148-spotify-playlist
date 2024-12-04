@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. Kannessa ABREU.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,877 likes - 82 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,884 likes - 82 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 3 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |
 | 4 | [Punasel](https://open.spotify.com/track/4OsVnfvjA1Obfmz7I5iKyK) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Punasel](https://open.spotify.com/album/34szKylJ0hcuzrvgqfvQ2v) | 2:54 |
 | 5 | [Kiire \(Vain elämää kausi 15\)](https://open.spotify.com/track/1G5KFkMaAbhfvfzcA7HEZr) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Kiire \(Vain elämää kausi 15\)](https://open.spotify.com/album/0jJ707AXc4OCXFoikKMriF) | 2:49 |
-| 6 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
-| 7 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 |
+| 6 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 |
+| 7 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
 | 8 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 |
 | 9 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 |
 | 10 | [2 hands](https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [2 hands](https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg) | 3:01 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 81 | [unissasi](https://open.spotify.com/track/1AuJHvZaR7v0Q8kXtmEqTi) | [ILON](https://open.spotify.com/artist/40sIqI3UYyunS5uyEVILIa) | [unissasi](https://open.spotify.com/album/3Ybsu2UNx8DNLPP50Kkp4Y) | 2:45 |
 | 82 | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/track/35poFqiiThWrEIc7DGHvyi) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Sitä samaa \(feat\. Bizi & Robin Packalen\)](https://open.spotify.com/album/20JIHmHkQfrffYJgpEi5lX) | 2:56 |
 
-Snapshot ID: `Z01nywAAAADGXyS9mcm4xOrhVqghCaii`
+Snapshot ID: `Z08KwwAAAAD2sM5w8Bk6wIBZ++4vzxsE`

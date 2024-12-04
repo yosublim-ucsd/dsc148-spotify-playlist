@@ -4,11 +4,12 @@
 
 > The ultimate seasonal \(indie\) playlist.
 
-258 songs - 14 hr 5 min
+259 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1999 \- English ver.](https://open.spotify.com/track/3LomOjVZHYS4Blm0K3Lpad) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [1999 \(English ver.\)](https://open.spotify.com/album/4rk52TPD0mltqubePnMexS) | 4:51 | 2021-12-03 | 2022-11-14 |
+| [2000 Miles](https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(US Release\)](https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd) | 3:37 | 2024-11-29 |  |
 | [7 O'Clock News / Silent Night](https://open.spotify.com/track/2Ww0Z9GZY8JeA45v0Bks8C) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [7 O'Clock News / Silent Night](https://open.spotify.com/album/3ye923rMCGCWmMQG2au1k2) | 2:00 | 2021-11-12 | 2022-07-25 |
 | [7 O'Clock News / Silent Night](https://open.spotify.com/track/3sIupwcMw6vCZ3bqMJa0NV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [7 O'Clock News / Silent Night](https://open.spotify.com/album/43copJZSJKuxBmKbOG7lnn) | 2:00 | 2021-11-12 | 2024-04-19 |
 | [7 O'Clock News / Silent Night](https://open.spotify.com/track/5DTKQexc27ZIuZH8SbuYJT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:00 | 2022-11-08 | 2022-11-13 |
@@ -37,7 +38,7 @@
 | [baby jesus is nobody's baby now](https://open.spotify.com/track/3EfTHWezT9vz9Jbx5mIhVA) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody's baby now](https://open.spotify.com/album/7HRyi5FKFHLTJBcHBFOZ3R) | 3:35 | 2021-11-12 | 2022-11-08 |
 | [baby jesus is nobody’s baby now](https://open.spotify.com/track/6HwsLuTeG7W4BYeuvSPTsr) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [baby jesus is nobody’s baby now](https://open.spotify.com/album/1x8xjOeUiVCRZkvIesrdWY) | 3:35 | 2022-12-23 | 2024-04-19 |
 | [Blue Christmas](https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [A Christmas Album](https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1) | 2:19 | 2022-12-23 |  |
-| [Blue Christmas](https://open.spotify.com/track/1zQe0Va7jqkF53HNjJtUu2) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Blue Christmas](https://open.spotify.com/album/6JZKhaBIJbGkl5ba3Wy6PF) | 2:01 | 2024-11-22 |  |
+| [Blue Christmas](https://open.spotify.com/track/1zQe0Va7jqkF53HNjJtUu2) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Blue Christmas](https://open.spotify.com/album/6JZKhaBIJbGkl5ba3Wy6PF) | 2:01 | 2024-11-22 | 2024-12-04 |
 | [Blue Christmas \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/526s5K8K8MP5FG5HkZ6BOa) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Blue Christmas \(Recorded at Electric Lady Studios NYC, 2020\)](https://open.spotify.com/album/6wlrfgJzGa9aU01nSYHI2t) | 2:27 | 2021-11-12 | 2022-07-18 |
 | [Boxing Day Blues](https://open.spotify.com/track/2jNQBuhta3lE0GFOqb4Eo9) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit and Think, and Sometimes I Just Sit](https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX) | 3:02 | 2021-11-15 | 2023-10-31 |
 | [Boxing Day Blues](https://open.spotify.com/track/35v1C5DdDBUEvdAJTEqrfz) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Sometimes I Sit And Think, And Sometimes I Just Sit \(Deluxe Digital Album\)](https://open.spotify.com/album/5hnsoChBkdtGlLrvU3uBAO) | 3:02 | 2021-11-15 | 2022-07-29 |

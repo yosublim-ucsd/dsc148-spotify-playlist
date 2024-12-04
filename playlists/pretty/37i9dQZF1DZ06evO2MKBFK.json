@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 617860,
+  "num_followers": 618055,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAAfj607GWUDSLU73KnnEaHg",
+  "snapshot_id": "Z0z4gAAAAABSny3UvCJzufh9/PjTam7C",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 231626,
-      "name": "FANTASTIC BABY - Japanese ver.",
-      "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
+      "duration_ms": 229120,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/54SpjxPioot7g7hVfbrXHh"
     },
     {
       "added_at": null,
@@ -100,15 +100,15 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 264215,
-      "name": "IF YOU",
-      "url": "https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn"
+      "duration_ms": 211926,
+      "name": "LET'S NOT FALL IN LOVE",
+      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 229120,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/54SpjxPioot7g7hVfbrXHh"
+      "duration_ms": 231626,
+      "name": "FANTASTIC BABY - Japanese ver.",
+      "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 211926,
-      "name": "LET'S NOT FALL IN LOVE",
-      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
+      "duration_ms": 264215,
+      "name": "IF YOU",
+      "url": "https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn"
     },
     {
       "added_at": null,

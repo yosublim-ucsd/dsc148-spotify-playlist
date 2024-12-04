@@ -3553,6 +3553,24 @@
     },
     {
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/7f7BojlN7pow14eayG4UOn"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y"
+    },
+    {
+      "album": {
         "name": "Women In Music Pt. III",
         "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
@@ -8850,7 +8868,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 205026,
       "name": "Summer Girl - Bonus Track",
       "url": "https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy"

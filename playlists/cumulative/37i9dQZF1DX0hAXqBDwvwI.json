@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 231385,
       "name": "BOY",
       "url": "https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID"
@@ -8614,6 +8614,36 @@
       "duration_ms": 231617,
       "name": "\u30b7\u30aa\u30f3",
       "url": "https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
+        "url": "https://open.spotify.com/album/2Hcqkag1iqVc1wAuoIC4gG"
+      },
+      "artists": [
+        {
+          "name": "\u9e7f\u4e43\u5b50\u306e\u3053 (CV.\u6f58\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/7Du39NxqFzjL8LmvlPJEAN"
+        },
+        {
+          "name": "\u864e\u8996\u864e\u5b50 (CV.\u85e4\u7530 \u54b2)",
+          "url": "https://open.spotify.com/artist/6QiTCAQ2JAt94Q7YF9dQNd"
+        },
+        {
+          "name": "\u864e\u8996\u9921\u5b50 (CV.\u7530\u8fba\u7559\u4f9d)",
+          "url": "https://open.spotify.com/artist/7M7GeLY7h8g2URiwv93XsT"
+        },
+        {
+          "name": "\u99ac\u8eca\u82bd\u3081\u3081 (CV.\u548c\u6cc9\u98a8\u82b1)",
+          "url": "https://open.spotify.com/artist/73326vNByOtmvaXTJryL19"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201299,
+      "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD"
     },
     {
       "album": {

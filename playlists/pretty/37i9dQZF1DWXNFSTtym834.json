@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1282550,
+  "num_followers": 1282588,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "War is the Answer",
-        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 262440,
-      "name": "Bad Company",
-      "url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "The End of Heartache (Special Edition)",
         "url": "https://open.spotify.com/album/6NrMjaGIZAKZLMzVnkNY4V"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 298106,
       "name": "The End of Heartache",
       "url": "https://open.spotify.com/track/2nUy0ifVE7UwtOK4rugFsP"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "War is the Answer",
+        "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 262440,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/1UWGkn34CD31VQfdi4D8Zp"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -775,6 +775,22 @@
       "duration_ms": 562706,
       "name": "Lateralus",
       "url": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -843,38 +859,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "St. Anger",
-        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 441132,
-      "name": "St. Anger",
-      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Liebe ist f\u00fcr alle da (Special Edition)",
         "url": "https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 301853,
       "name": "Ich tu dir weh",
       "url": "https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "St. Anger",
+        "url": "https://open.spotify.com/album/0HKpzK9ZoJ0oVA43E5gewM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 441132,
+      "name": "St. Anger",
+      "url": "https://open.spotify.com/track/5JAnXx5BBES4FEf4d4t4CC"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Brave New World (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "The Wicker Man - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Untouchables",
         "url": "https://open.spotify.com/album/32H8ZczfX12FWWODVVr6NQ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 270960,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/66LT15XEqCaWiMG44NGQRE"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Brave New World (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1hDF0QPIHVTnSJtxyQVguB"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "The Wicker Man - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1diuZVsxD74xvtUSABRUoF"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Bleed It Out",
-      "url": "https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 466586,
       "name": "The Unforgiven III",
       "url": "https://open.spotify.com/track/0qbV4e18lWrTTxlswVoLbI"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/7pgs38iLfEqUtwgCRgvbND"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Revolution Revolucion",
-        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
-      },
-      "artists": [
-        {
-          "name": "Ill Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "I Am Loco",
-      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Suicide Season",
         "url": "https://open.spotify.com/album/5gLPHzNPjPb2wfZRx7pwj6"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 302560,
       "name": "Chelsea Smile",
       "url": "https://open.spotify.com/track/3WrJEnn2BDh3QQYdgEyk9Y"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Revolution Revolucion",
+        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
+      },
+      "artists": [
+        {
+          "name": "Ill Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "I Am Loco",
+      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "Through The Eyes",
-        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
-      },
-      "artists": [
-        {
-          "name": "Flaw",
-          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
-        }
-      ],
-      "duration_ms": 176600,
-      "name": "Get Up Again",
-      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Adema",
         "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 302360,
       "name": "Nymphetamine Fix",
       "url": "https://open.spotify.com/track/6WuqJLVZcyJklg7lIozAO8"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "Through The Eyes",
+        "url": "https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM"
+      },
+      "artists": [
+        {
+          "name": "Flaw",
+          "url": "https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Get Up Again",
+      "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
     },
     {
       "added_at": "2024-06-13 12:59:15",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-06-13 12:59:15",
       "album": {
-        "name": "ObZen",
-        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
-      },
-      "artists": [
-        {
-          "name": "Meshuggah",
-          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
-        }
-      ],
-      "duration_ms": 442733,
-      "name": "Bleed",
-      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
-    },
-    {
-      "added_at": "2024-06-13 12:59:15",
-      "album": {
         "name": "Shadows Are Security",
         "url": "https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 238173,
       "name": "Through Struggle",
       "url": "https://open.spotify.com/track/0fmwyv8VP8Jh71e87oCHv1"
+    },
+    {
+      "added_at": "2024-06-13 12:59:15",
+      "album": {
+        "name": "ObZen",
+        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "duration_ms": 442733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
     },
     {
       "added_at": "2024-06-13 12:59:15",

@@ -2,7 +2,7 @@
 
 ### [This Is Coke Studio Pakistan](https://open.spotify.com/playlist/37i9dQZF1DX8D7KQ5MCl7U)
 
-> Mehmaan by Zeb Bangash, Noorima Rehan, Nizam Torwal Out Now\. All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
+> All Coke Studio Pakistan tracks in one place.
 
 413 songs - 1 day 21 hr 9 min
 

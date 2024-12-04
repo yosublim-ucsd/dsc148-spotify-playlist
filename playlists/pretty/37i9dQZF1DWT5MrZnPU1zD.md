@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,677,740 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,677,742 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 25 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 |
 | 26 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
 | 27 | [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 |
-| 28 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
-| 29 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
+| 28 | [Hit List \(with BigXthaPlug & Big Yavo\)](https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Big Yavo](https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF) | [Lonestar Luchador](https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK) | 3:05 |
+| 29 | [NISSAN ALTIMA](https://open.spotify.com/track/0fsgieABBLYkx6rk5N3JUD) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [NISSAN ALTIMA](https://open.spotify.com/album/3P3ODJQfeECySRtPV8cJBZ) | 2:08 |
 | 30 | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/track/4KWeGKChLKcnZsj3sIOSkW) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Tobey \(feat\. Big Sean and BabyTron\)](https://open.spotify.com/album/65iXBHLsOnNVC5C6nVbLYf) | 4:44 |
 | 31 | [sneaky](https://open.spotify.com/track/2K7sv1mno9PvbXVBpqvSKn) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:21 |
 | 32 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |

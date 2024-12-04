@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,695 likes - 51 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,723 likes - 51 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,22 +12,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 2 | [Smoke On The Water \- Remastered 2012](https://open.spotify.com/track/5MMnwYs0hIxkENRsbkWJ2G) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 5:40 |
 | 3 | [Perfect Strangers](https://open.spotify.com/track/2JhJOPGvtqMpj5RQC8cIYf) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 5:28 |
 | 4 | [Soldier Of Fortune \- 2009 Digital Remaster](https://open.spotify.com/track/60ifqqPhbselSwXyGrGyMK) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:24 |
-| 5 | [Hush \- 1998 Remaster](https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 4:26 |
+| 5 | [Black Night \- 1995 Remaster](https://open.spotify.com/track/2c1ccPqUnFYD8W7LY65bKG) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 |
 | 6 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 |
-| 7 | [Black Night \- 1995 Remaster](https://open.spotify.com/track/2c1ccPqUnFYD8W7LY65bKG) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 |
+| 7 | [Hush \- 1998 Remaster](https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 4:26 |
 | 8 | [Burn \- Remastered 2004](https://open.spotify.com/track/1iW2ktyrQHNKZwFTvgP0Ta) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 6:04 |
-| 9 | [Knocking At Your Back Door](https://open.spotify.com/track/1VJBQdDrOblSLmoZMeh1xh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 7:05 |
+| 9 | [Child in Time \- 1995 Remaster](https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 10:13 |
 | 10 | [Highway Star \- Remastered 2012](https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 6:06 |
-| 11 | [Child in Time \- 1995 Remaster](https://open.spotify.com/track/573Z2Dty5epeNgKsgoDOlr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 10:13 |
+| 11 | [Knocking At Your Back Door](https://open.spotify.com/track/1VJBQdDrOblSLmoZMeh1xh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 7:05 |
 | 12 | [Stormbringer \- 2009 Digital Remaster](https://open.spotify.com/track/5xu6aPH06QRtfTqwckG7Pb) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:06 |
-| 13 | [Wasted Sunsets](https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 3:55 |
+| 13 | [Fireball \- 1996 Remaster](https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 3:24 |
 | 14 | [Space Truckin' \- Remastered 2012](https://open.spotify.com/track/5S126DaCBZ8z6yh7B1Lszr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 4:32 |
-| 15 | [Woman From Tokyo \- Remastered 2000](https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Who Do We Think We Are \(Remastered\)](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y) | 5:51 |
-| 16 | [Fireball \- 1996 Remaster](https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Fireball \(25th Anniversary Edition\)](https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6) | 3:24 |
+| 15 | [Wasted Sunsets](https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 3:55 |
+| 16 | [Woman From Tokyo \- Remastered 2000](https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Who Do We Think We Are \(Remastered\)](https://open.spotify.com/album/4xTuiyvyE5Df9JwgXjIY2y) | 5:51 |
 | 17 | [Sail Away \- Remastered 2004](https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 5:52 |
 | 18 | [Lazy \- Remastered 2012](https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 7:22 |
-| 19 | [Sometimes I Feel Like Screaming](https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 7:29 |
-| 20 | [Love Conquers All](https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 3:44 |
+| 19 | [Love Conquers All](https://open.spotify.com/track/0Q7sFMIqfp3eMtjF3w3S6F) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 3:44 |
+| 20 | [Sometimes I Feel Like Screaming](https://open.spotify.com/track/5coxHUKzWOdMXunt7EGDDX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 7:29 |
 | 21 | [A Gypsy's Kiss](https://open.spotify.com/track/2Uh9e3fTZRPBzxqNPaY7zr) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 5:12 |
 | 22 | [Pictures Of Home \- Remastered 2012](https://open.spotify.com/track/5cXKhFw5kjRSfifazrnPbp) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 5:03 |
 | 23 | [Mistreated \- Remastered 2004](https://open.spotify.com/track/34RISamoO5iubsOanSlpQo) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 7:28 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 50 | [The Gypsy \- 2009 Digital Remaster](https://open.spotify.com/track/3I0S6fO1aypYu55X3M2cHL) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 4:05 |
 | 51 | [Kentucky Woman \- 1998 Remaster](https://open.spotify.com/track/3rI5e4tFTlWEwJi4TjLeGT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 4:43 |
 
-Snapshot ID: `Z0unAAAAAADZbQ7ACczuaWuVes7fEhvB`
+Snapshot ID: `Z0z4gAAAAADQqzmlyjZGr6Er7Z/0kNAR`

@@ -4,7 +4,7 @@
 
 > Samara en tête de la playlist numéro un en Tunisie.
 
-238 songs - 14 hr 19 min
+239 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Kberna](https://open.spotify.com/track/3qPuUbEjX7fBcj4WPUkbh4) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 3:24 | 2022-11-26 | 2023-06-28 |
 | [Keema Ena](https://open.spotify.com/track/5WsYnPl5q3qNh3LuyGTuhR) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Keema Ena](https://open.spotify.com/album/1bHxBuCsEYnrYS9kOv21MO) | 3:53 | 2023-12-12 | 2024-08-03 |
 | [Khali Hazzar](https://open.spotify.com/track/4X8wfDqiJvoszsn08O7kBJ) | [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN) | [Khali Hazzar](https://open.spotify.com/album/3KtF6Ut396rlyNgVr71Dfi) | 3:16 | 2023-02-11 | 2023-02-21 |
+| [Khallini](https://open.spotify.com/track/5rT6PJoxqBpqOQpq3k0bNd) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0), [Rana Zarrouk](https://open.spotify.com/artist/04tYosSfS1AAx5yM8vyJLF) | [Khallini](https://open.spotify.com/album/6ytsNCB4Nu6a6tdAwS7Auk) | 3:03 | 2024-12-03 |  |
 | [Khallini](https://open.spotify.com/track/0gJcpURgVWr1p0dCk5Si5i) | [Mehdi Mouelhi](https://open.spotify.com/artist/5ElZnSkmzaDnZykhi1wjj5), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0), [Rana Zarrouk](https://open.spotify.com/artist/04tYosSfS1AAx5yM8vyJLF) | [Khallini](https://open.spotify.com/album/11s7SEvvNazLRiehoHaI3p) | 3:03 | 2023-03-30 | 2023-08-20 |
 | [Khamsa Wekhmis](https://open.spotify.com/track/1WfIwSm6R98vRKPvFol0hN) | [Master Sina](https://open.spotify.com/artist/50YiAJFQLuv0Ncrl9zuhZq), [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kemo](https://open.spotify.com/artist/4LUDVIU6K7ViaJHlFSpPCs) | [Khamsa Wekhmis](https://open.spotify.com/album/2u0bXhsQ5cZgPLpYORW0F2) | 4:05 | 2022-01-24 | 2022-09-13 |
 | [Khir](https://open.spotify.com/track/26Xvxzbj11H9b04kc7RTZ4) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Khir](https://open.spotify.com/album/1XyZvi7vMiQ2bCWNIhOi2z) | 3:36 | 2023-02-08 | 2023-08-16 |
@@ -144,7 +145,7 @@
 | [Merteh \- مرتاح](https://open.spotify.com/track/1cdgSRY4IhYtx7w9QSZaHe) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Merteh \(مرتاح\)](https://open.spotify.com/album/38rvM6WsLXixyKndh2rDEX) | 4:05 | 2023-11-21 | 2024-02-15 |
 | [MESTWI](https://open.spotify.com/track/0mMcpkFCjggJilJZOZUkAj) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [DON PAC](https://open.spotify.com/artist/4pHDepQgiozHdmlY65PJDZ) | [MESTWI](https://open.spotify.com/album/0XGaToEjWwqHU9O2xDdDKt) | 4:13 | 2023-08-19 |  |
 | [Mia Amore](https://open.spotify.com/track/6cSVVeutV5aqIlGf75EdtA) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN) | [Mia Amore](https://open.spotify.com/album/7kpHGEFLS5TX3gmDLJeb1w) | 2:50 | 2023-07-20 | 2023-09-12 |
-| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-07-18 |  |
+| [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-07-18 | 2024-12-04 |
 | [Mouj El Bahar](https://open.spotify.com/track/2SL62n2nNp0dY332iKc8Th) | [Saif ElRezgui](https://open.spotify.com/artist/77oNTNdel3zaotNHdI4x65), [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Mouj El Bahar](https://open.spotify.com/album/1rcEdLVrSG3vaI3RnJqDu4) | 3:29 | 2021-12-10 | 2022-02-23 |
 | [Move](https://open.spotify.com/track/5XnU6fppfaCp8cJCM0SXxe) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Move](https://open.spotify.com/album/717IhcEaucsFqL7YlM3aUa) | 3:03 | 2021-12-10 | 2023-03-10 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-18 |  |

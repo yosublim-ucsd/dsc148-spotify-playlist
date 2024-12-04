@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,078,621 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,078,583 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 7 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 | 8 | [September](https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [September](https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd) | 3:35 |
 | 9 | [Lovin' Each Day](https://open.spotify.com/track/1hq0Lxh8bvLp9f55cybimx) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/6BNUYhhSL5a4yrvrfasKcF) | 3:32 |
-| 10 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
+| 10 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
 | 11 | [Praise You](https://open.spotify.com/track/10yY7i70r9wtllofw0GIpx) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come a Long Way Baby](https://open.spotify.com/album/2ELLu16F9TTREQuU4OuAnN) | 5:24 |
-| 12 | [I Wanna Dance with Somebody \(Who Loves Me\)](https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:51 |
+| 12 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 |
 | 13 | [Valerie \(feat\. Amy Winehouse\) \- Version Revisited](https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Version](https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR) | 3:39 |
 | 14 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 15 | [Call Me Maybe](https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss](https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2) | 3:13 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 55 | [Keep On Movin'](https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW) | 3:18 |
 | 56 | [Sunchyme](https://open.spotify.com/track/2YOuBWIyHgyvHnLMpjzBf2) | [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A) | [Sunchyme](https://open.spotify.com/album/6TtZuP1WRvIScmqLlUwet2) | 3:55 |
 | 57 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
-| 58 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
-| 59 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
+| 58 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
+| 59 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
 | 60 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 61 | [I Wanna Be Your Lover](https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince](https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI) | 5:47 |
 | 62 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 94 | [Are You Ready For Love? \- Remastered](https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Diamonds \(Deluxe\)](https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE) | 3:32 |
 | 95 | [Shake It Off](https://open.spotify.com/track/7n9Q6bXSjm74uCtajkddPt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Shake It Off](https://open.spotify.com/album/2Z51EnLF4Nps4LmulSQPnn) | 3:39 |
 | 96 | [Classic](https://open.spotify.com/track/5x9VIW2fS21JMswOt6AORI) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [Classic](https://open.spotify.com/album/7adKFzloRhHyoBN2JnhHN5) | 2:55 |
-| 97 | [Best Day Of My Life](https://open.spotify.com/track/44AXd3UVaaVYsSQqBpnYO2) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [American Authors](https://open.spotify.com/album/0nPacNPgSycLGJdd2JnH9C) | 3:14 |
-| 98 | [Problem](https://open.spotify.com/track/3cySlItpiPiIAzU3NyHCJf) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Problem](https://open.spotify.com/album/5A6pzfa725ZA3rhDllmX58) | 3:13 |
+| 97 | [Problem](https://open.spotify.com/track/3cySlItpiPiIAzU3NyHCJf) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Problem](https://open.spotify.com/album/5A6pzfa725ZA3rhDllmX58) | 3:13 |
+| 98 | [Best Day Of My Life](https://open.spotify.com/track/44AXd3UVaaVYsSQqBpnYO2) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [American Authors](https://open.spotify.com/album/0nPacNPgSycLGJdd2JnH9C) | 3:14 |
 | 99 | [Inner Smile](https://open.spotify.com/track/6i3kIF4sosXFhkoSLMV7bP) | [Texas](https://open.spotify.com/artist/5JsdVATHNPE0XdMFMRoSuf) | [The Greatest Hits](https://open.spotify.com/album/6pM8nZgJqCrdBGLzjkBey0) | 3:50 |
 | 100 | [You Can Call Me Al](https://open.spotify.com/track/02yw9dohfEmcPWOzFJ30Bs) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Essential Paul Simon \(Standard Version\)](https://open.spotify.com/album/3H7dMVS2PZHdr63Y7brNFE) | 4:36 |
 

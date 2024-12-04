@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,676 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,768 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 21 | [Pro: Lov: Ad](https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 5:46 |
 | 22 | [Counting All The Starfish](https://open.spotify.com/track/1jpeaMkkBI62OYH0z5nAhb) | [Kitty](https://open.spotify.com/artist/6YMeCrTjUKwsXh9yhQJjEV) | [Rose Gold \(Deluxe\)](https://open.spotify.com/album/06IUvNGmc633oFRZpdKXCr) | 3:00 |
 | 23 | [icosa](https://open.spotify.com/track/0cnyHT7ImohCNA6WDGV013) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [THIRTY三十](https://open.spotify.com/album/03CdWrUe6zg8QM9yOosxq4) | 2:43 |
-| 24 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
-| 25 | [nastasia](https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9) | [JVNLIII](https://open.spotify.com/artist/5FbRtOLjDzVlmKm1RnlOz2) | [nastasia](https://open.spotify.com/album/6J1jrUGceVNx72VzemcGe0) | 1:12 |
-| 26 | [Midnight](https://open.spotify.com/track/4vfs5DGaVSnMxbtnzkRL6y) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH) | [Umbrae](https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM) | 2:06 |
+| 24 | [nastasia](https://open.spotify.com/track/5gXpckUFPU8cG04Nl7WzJ9) | [JVNLIII](https://open.spotify.com/artist/5FbRtOLjDzVlmKm1RnlOz2) | [nastasia](https://open.spotify.com/album/6J1jrUGceVNx72VzemcGe0) | 1:12 |
+| 25 | [Midnight](https://open.spotify.com/track/4vfs5DGaVSnMxbtnzkRL6y) | [hxly xo](https://open.spotify.com/artist/4lYqhtjf8WpvRYBeTHKeJH) | [Umbrae](https://open.spotify.com/album/2HOlwyoPNjveiZH9PPhHtM) | 2:06 |
+| 26 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
 | 27 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 |
 | 28 | [Missed Kiss](https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr) | [Digigurl](https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z) | [Missed Kiss](https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8) | 3:22 |
 | 29 | [DesktopBuddy](https://open.spotify.com/track/5QmxtHllxowtR7XYQgrFri) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [TILT](https://open.spotify.com/album/0NzidGgZeCQW934e8LOyYa) | 3:00 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 45 | [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 |
 | 46 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 |
 | 47 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
-| 48 | [Reduplicate](https://open.spotify.com/track/64PKCSw5Jg7grMo9MnlFoO) | [Mayo.](https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX) | [Aether](https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV) | 1:17 |
-| 49 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
-| 50 | [Spirit Gun](https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:10 |
+| 48 | [Rusty's Theme](https://open.spotify.com/track/0O0nfieweDPQqcSMC5cpYv) | [zKevin](https://open.spotify.com/artist/66AZQ2EAXznHftADdXDICb) | [Robot 64 \(Original Game Soundtrack\)](https://open.spotify.com/album/06whO3ukgXDbzLbeXTjJYE) | 2:18 |
+| 49 | [Spirit Gun](https://open.spotify.com/track/3SiHPV0ls0kkJM7L2KKSl8) | [Golden Boy](https://open.spotify.com/artist/1rBWZ8jlALSPgIVPWegPGq) | [Prince of the Cyber Rave](https://open.spotify.com/album/223R6xxwBU1NfAG0DU04ZV) | 3:10 |
+| 50 | [Reduplicate](https://open.spotify.com/track/64PKCSw5Jg7grMo9MnlFoO) | [Mayo.](https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX) | [Aether](https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV) | 1:17 |
 
 Snapshot ID: `ZpGbagAAAACX6kObKIJAbVd6o0tjfZMR`

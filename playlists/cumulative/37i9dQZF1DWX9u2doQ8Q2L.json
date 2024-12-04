@@ -1373,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "AOS",
+        "url": "https://open.spotify.com/album/1rY6739giM1uBqMwc1stBe"
+      },
+      "artists": [
+        {
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220040,
+      "name": "AOS",
+      "url": "https://open.spotify.com/track/7wUXGC5UqNIL8Rj4siTwzr"
+    },
+    {
+      "album": {
         "name": "apart",
         "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
       },
@@ -13839,6 +13857,28 @@
     },
     {
       "album": {
+        "name": "Nightglow Dreamer",
+        "url": "https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        },
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269516,
+      "name": "Nightglow Dreamer",
+      "url": "https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT"
+    },
+    {
+      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa"
       },
@@ -15442,7 +15482,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 200929,
       "name": "plum",
       "url": "https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg"
@@ -25068,7 +25108,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 228913,
       "name": "\u30ab\u30eb\u30c8",
       "url": "https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU"

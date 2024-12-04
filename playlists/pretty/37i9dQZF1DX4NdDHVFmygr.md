@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > Made in Morocco, 100% hits marocains.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,045 likes - 40 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,199 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 7 | [Matgheltech](https://open.spotify.com/track/00c3VyS0fPdFOZa8PNsXgX) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Matgheltech](https://open.spotify.com/album/5WBdOgzrEPdn0TB5GaYSh0) | 3:15 |
 | 8 | [Guardia](https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Guardia](https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa) | 3:18 |
 | 9 | [Ya Mektoubi](https://open.spotify.com/track/2Ylhm1lBkTkn9UAxKL9akH) | [Bilal Assarguini](https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH) | [Ya Mektoubi](https://open.spotify.com/album/4Me68q3TV8r9mPi4nqHI2L) | 3:43 |
-| 10 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 |
-| 11 | [Bla Bla](https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Bla Bla](https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs) | 3:01 |
-| 12 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 |
+| 10 | [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 |
+| 11 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 |
+| 12 | [Bla Bla](https://open.spotify.com/track/1PlZpPgiBtPlB7uCAYa3ov) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Bla Bla](https://open.spotify.com/album/1Bz9d2WJ4nYffksQJ7XTAs) | 3:01 |
 | 13 | [Lmouje](https://open.spotify.com/track/2HQOumI8CH5kHB3V2ZHwnU) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [Lmouje](https://open.spotify.com/album/1ZT3NtshPwxEiPkQrN9KNV) | 3:22 |
 | 14 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 |
 | 15 | [L’Bayda Mon Amour](https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 4:48 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 39 | [Oh qu'elle est belle](https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:40 |
 | 40 | [LA ZONE MAHKOMA](https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [LA ZONE MAHKOMA](https://open.spotify.com/album/3cep6IegTMEPCtnhhzf5T2) | 4:05 |
 
-Snapshot ID: `Z0gGdgAAAABKB4RyCedYTJV2La266Zrn`
+Snapshot ID: `Z08clQAAAAAd/gxbf+g2u6UKGx9bBH+g`

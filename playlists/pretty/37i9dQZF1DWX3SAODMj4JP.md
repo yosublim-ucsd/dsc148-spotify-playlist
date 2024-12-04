@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,322 likes - 69 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,366 likes - 69 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 37 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ) | [Stone Band](https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN) | 2:17 |
 | 38 | [Infinito Amor](https://open.spotify.com/track/3x8ZWtrehlt4W1us1hhFzq) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Central 3](https://open.spotify.com/artist/72Q3HybMPVhG3c9N4A7kTL) | [Infinito Amor](https://open.spotify.com/album/3kDwHwOF0WcZ7bUS6Rcrdv) | 4:03 |
 | 39 | [Louvor IV](https://open.spotify.com/track/6MMr4Yqk7Oa8NsoksmxACf) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD), [Joyce Carnassale](https://open.spotify.com/artist/54IDWdM8TrNpxWiQAL1U3z) | [Louvor IV](https://open.spotify.com/album/4B961hpeGLK1YHTqP0PJp9) | 4:52 |
-| 40 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
-| 41 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 |
+| 40 | [Eu Quero Voltar](https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB) | [Lancellote](https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K) | [Eu Quero Voltar](https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW) | 3:33 |
+| 41 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
 | 42 | [Estou Com Você \- Ao Vivo](https://open.spotify.com/track/3TFQbNmMPAFNHiNhHNuclS) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Estou Com Você \(Ao Vivo\)](https://open.spotify.com/album/49jQMSEkQCZzFtvTAzXHKB) | 4:31 |
 | 43 | [Sonhadora \(Versão Alternativa\) \- Acústico](https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Sonhadora \(Acústico\)](https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7) | 3:56 |
-| 44 | [Asas](https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb) | [Itagon](https://open.spotify.com/artist/1nRBkENa3rDetRoPakipOh), [Renata Calheiros](https://open.spotify.com/artist/3L3jIoTWT58r8Jrc2X8svJ) | [Primeiro](https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6) | 4:42 |
-| 45 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 |
+| 44 | [Descansar em Ti](https://open.spotify.com/track/1lU9L6lPZkp4UAgdxbaJBQ) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Descansar em Ti](https://open.spotify.com/album/0IDeeWZrrYFZUXtSZergef) | 3:45 |
+| 45 | [Asas](https://open.spotify.com/track/0K7p1zxjcAHPGz4w1hTxeb) | [Itagon](https://open.spotify.com/artist/1nRBkENa3rDetRoPakipOh), [Renata Calheiros](https://open.spotify.com/artist/3L3jIoTWT58r8Jrc2X8svJ) | [Primeiro](https://open.spotify.com/album/1uXUyEphU2AxCaWzEgocl6) | 4:42 |
 | 46 | [Filho \- Acústico](https://open.spotify.com/track/4hH9lDQMqXwD7k8fcimLiS) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Leidy Murilho Acústico](https://open.spotify.com/album/2MS6GGTpTl5CcgqkvU0CGu) | 3:47 |
 | 47 | [Clarear](https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa) | [Nós em Um](https://open.spotify.com/artist/42xizszi345HS5i21AR5MT) | [Clarear](https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD) | 5:18 |
 | 48 | [Agora, Aqui](https://open.spotify.com/track/5x5YBX9Pfi5WodeaGYGHdO) | [Ana Heloysa](https://open.spotify.com/artist/57AZPoFXiEjFDMGRt5uTG4), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Filipe da Guia](https://open.spotify.com/artist/7evpKIZ6v0ctYR24lIeQ4a) | [Agora, Aqui](https://open.spotify.com/album/7JVb4GTGgF942VVH0IJ6BR) | 3:25 |

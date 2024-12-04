@@ -1,6 +1,6 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53897,
+  "num_followers": 53909,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Easter Project",
+        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+      },
+      "artists": [
+        {
+          "name": "The Spirituals",
+          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+        }
+      ],
+      "duration_ms": 273963,
+      "name": "The Resurrection",
+      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Revival Is In The Air (RIITA)",
         "url": "https://open.spotify.com/album/0orflQml5JM4Qj6C1OttFB"
       },
@@ -811,18 +827,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Easter Project",
-        "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
+        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
+        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
       },
       "artists": [
         {
-          "name": "The Spirituals",
-          "url": "https://open.spotify.com/artist/1viPlR6yBVRaBcilVZ8yPy"
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        },
+        {
+          "name": "The Love Fellowship Crusade Choir",
+          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
         }
       ],
-      "duration_ms": 273963,
-      "name": "The Resurrection",
-      "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+      "duration_ms": 290026,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -871,26 +891,6 @@
       "duration_ms": 341120,
       "name": "Blood Medley (Part 3) - I Know It Was The Blood",
       "url": "https://open.spotify.com/track/6qCSt56HhlnfPfIHIDYEOR"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Verity Records: The First Decade, A Celebration Of Christmas",
-        "url": "https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx"
-      },
-      "artists": [
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        },
-        {
-          "name": "The Love Fellowship Crusade Choir",
-          "url": "https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1"
-        }
-      ],
-      "duration_ms": 290026,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
-        "name": "Mnini Mandla Onke",
-        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 303050,
-      "name": "Mnini Mandla Onke",
-      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 297040,
       "name": "Redeemed",
       "url": "https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
+        "name": "Mnini Mandla Onke",
+        "url": "https://open.spotify.com/album/2xiGM8C7m3AAqUTfyBIT5Z"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 303050,
+      "name": "Mnini Mandla Onke",
+      "url": "https://open.spotify.com/track/3iUoxbl0P0vhtzQwvYzpVb"
     },
     {
       "added_at": "2024-07-02 01:22:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-07-02 01:22:00",
       "album": {
+        "name": "Bishop Paul Morton - Let It Rain",
+        "url": "https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq"
+      },
+      "artists": [
+        {
+          "name": "Bishop Paul S. Morton, Sr.",
+          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
+        }
+      ],
+      "duration_ms": 509466,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/7DOt5PuuG1cTEEjcDZyc0R"
+    },
+    {
+      "added_at": "2024-07-02 01:22:00",
+      "album": {
         "name": "Way Maker (Live)",
         "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 416213,
       "name": "Endow Me",
       "url": "https://open.spotify.com/track/6BvbwCuCVobHdwOn7I6Orw"
-    },
-    {
-      "added_at": "2024-07-02 01:22:00",
-      "album": {
-        "name": "Bishop Paul Morton - Let It Rain",
-        "url": "https://open.spotify.com/album/5ME0qv2slNj69vuR9U6YKq"
-      },
-      "artists": [
-        {
-          "name": "Bishop Paul S. Morton, Sr.",
-          "url": "https://open.spotify.com/artist/5ktiG2i4Gv54oDKNMJvgmk"
-        }
-      ],
-      "duration_ms": 509466,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/7DOt5PuuG1cTEEjcDZyc0R"
     },
     {
       "added_at": "2024-07-02 01:22:00",

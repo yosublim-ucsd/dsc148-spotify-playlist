@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 134289,
+  "num_followers": 134522,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAABWV4GxFBLhh6GhvRg/kNBF",
+  "snapshot_id": "Z0z4gAAAAACK668QrBCtrUorDEwYrNdU",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Querer Queriendo",
-        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 206077,
-      "name": "Sin Querer Queriendo",
-      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 202000,
       "name": "Tipo Gatsby",
       "url": "https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Querer Queriendo",
+        "url": "https://open.spotify.com/album/6qCMJzrqeb9JPDSRY9A12O"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 206077,
+      "name": "Sin Querer Queriendo",
+      "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
     },
     {
       "added_at": null,
@@ -1015,6 +1015,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las Minitas",
+        "url": "https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Las Minitas",
+      "url": "https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bonus Track",
         "url": "https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 170769,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/1C1kliWhNQlUc057PGjibJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las Minitas",
-        "url": "https://open.spotify.com/album/2MdyomY6LAHUFceb6siJhO"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Las Minitas",
-      "url": "https://open.spotify.com/track/3IZFAhHpBjPkKjub3Lwex6"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

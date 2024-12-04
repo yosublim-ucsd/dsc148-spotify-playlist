@@ -1,6 +1,6 @@
 {
   "description": "The indie viral hits you can't escape. Cover: Gigi Perez",
-  "num_followers": 525171,
+  "num_followers": 525661,
   "original_name": "Indie that hits different ",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-11-25 09:58:47",
       "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 191823,
+      "name": "Tek It",
+      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
+    },
+    {
+      "added_at": "2024-11-25 09:58:47",
+      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/6bkxg2HCORFlB0akEfqJvY"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 158801,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2"
-    },
-    {
-      "added_at": "2024-11-25 09:58:47",
-      "album": {
-        "name": "Running",
-        "url": "https://open.spotify.com/album/2dEf6lN5qYFQQy3Jd3ScHG"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 191823,
-      "name": "Tek It",
-      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
     },
     {
       "added_at": "2024-11-25 09:58:47",

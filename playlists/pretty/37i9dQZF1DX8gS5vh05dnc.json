@@ -1,6 +1,6 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 129779,
+  "num_followers": 129783,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-11-25 01:00:00",
       "album": {
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+    },
+    {
+      "added_at": "2024-11-25 01:00:00",
+      "album": {
         "name": "The Great American Bar Scene",
         "url": "https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 212466,
       "name": "Better Days (feat. John Mayer)",
       "url": "https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv"
-    },
-    {
-      "added_at": "2024-11-25 01:00:00",
-      "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "added_at": "2024-11-25 01:00:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-11-25 01:00:00",
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 202356,
+      "name": "Teach Me How To Love",
+      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
+    },
+    {
+      "added_at": "2024-11-25 01:00:00",
+      "album": {
         "name": "Fuzzy Feeling",
         "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 176208,
       "name": "Fuzzy Feeling",
       "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
-    },
-    {
-      "added_at": "2024-11-25 01:00:00",
-      "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/3Lp4JKk2ZgNkybMRS3eZR5"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 202356,
-      "name": "Teach Me How To Love",
-      "url": "https://open.spotify.com/track/5LZtB6nxvjIhUoElp3Zqk0"
     },
     {
       "added_at": "2024-11-25 01:00:00",

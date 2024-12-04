@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 40438,
+  "num_followers": 40448,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAACSGbXRaehgakk19O8FCVjw",
+  "snapshot_id": "Z0z4gAAAAADIt+HVc/nZ6T8B0dXJSF5P",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sway With Me (with GALXARA)",
-        "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "GALXARA",
-          "url": "https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC"
-        }
-      ],
-      "duration_ms": 168018,
-      "name": "Sway With Me (with GALXARA)",
-      "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faking Love (feat. Saweetie)",
         "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 148577,
       "name": "Faking Love (feat. Saweetie)",
       "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sway With Me (with GALXARA)",
+        "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "GALXARA",
+          "url": "https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC"
+        }
+      ],
+      "duration_ms": 168018,
+      "name": "Sway With Me (with GALXARA)",
+      "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
     },
     {
       "added_at": null,

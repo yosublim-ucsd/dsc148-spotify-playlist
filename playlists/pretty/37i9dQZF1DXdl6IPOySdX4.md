@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 
 > you up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,936,832 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,937,599 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 47 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 |
 | 48 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 49 | [older](https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [older](https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn) | 2:17 |
-| 50 | [Uuuu](https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:30 |
-| 51 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
+| 50 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 |
+| 51 | [Uuuu](https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 1:30 |
 | 52 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 |
 | 53 | [Her Way](https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:36 |
 | 54 | [Bathroom](https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:28 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 71 | [On My Own](https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS) | [Darci](https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx) | [On My Own](https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL) | 2:51 |
 | 72 | [Soaked](https://open.spotify.com/track/65zIby9Z03d1bhGvLNJNrA) | [Shy Smith](https://open.spotify.com/artist/4iIRGaMoqtdigrpCvLMKGb) | [Soaked](https://open.spotify.com/album/6cd80qsoUsGCmHasCswGhW) | 2:59 |
 | 73 | [Navajo](https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Navajo](https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL) | 3:14 |
-| 74 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
-| 75 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 |
+| 74 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 |
+| 75 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 |
 | 76 | [Sail](https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 4:19 |
 | 77 | [Love Is a Bitch](https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4) | [Two Feet](https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH) | [Love Is a Bitch](https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s) | 3:01 |
 | 78 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl6IPOySdX4.md) - [plain]
 | 94 | [So High](https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Purrr!](https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y) | 3:19 |
 | 95 | [PRBLMS](https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [FREE 6LACK](https://open.spotify.com/album/7iwGw8ob3YLqZrbKzGFnHi) | 4:06 |
 | 96 | [Truth or Dare](https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:10 |
-| 97 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
-| 98 | [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 |
+| 97 | [close with desires \(right person wrong timing\)](https://open.spotify.com/track/1yUO5lVnOstziQEz7byXBx) | [teo glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [close with desires \(right person wrong timing\)](https://open.spotify.com/album/6Jdgoq4F3pd02of1peADKM) | 3:23 |
+| 98 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
 | 99 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 |
 | 100 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 |
 

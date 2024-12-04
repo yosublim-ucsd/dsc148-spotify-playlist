@@ -5655,6 +5655,24 @@
     },
     {
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Hahn",
+          "url": "https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147370,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE"
+    },
+    {
+      "album": {
         "name": "Hologram",
         "url": "https://open.spotify.com/album/0TwYyi7Mv0xPXzIeuRztao"
       },
@@ -9033,6 +9051,24 @@
     },
     {
       "album": {
+        "name": "Orchard Moon",
+        "url": "https://open.spotify.com/album/3XMVYJnqmGDYrDAqZ6903y"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Sapphire",
+          "url": "https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177354,
+      "name": "Orchard Moon",
+      "url": "https://open.spotify.com/track/2bqCu2dRdptpsJ8mKeQf79"
+    },
+    {
+      "album": {
         "name": "Ordinary Day",
         "url": "https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg"
       },
@@ -9444,7 +9480,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 149519,
       "name": "Picture Life",
       "url": "https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN"

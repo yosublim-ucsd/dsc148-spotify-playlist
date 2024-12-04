@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Azalea",
+        "url": "https://open.spotify.com/album/6YzdMduoJRWor9B5xqGKUm"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208294,
+      "name": "Azalea",
+      "url": "https://open.spotify.com/track/7kJBYHytiARJlRygfg5VCn"
+    },
+    {
+      "album": {
         "name": "BAE",
         "url": "https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh"
       },
@@ -646,7 +664,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 151015,
       "name": "fake face dance music",
       "url": "https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 146935,
       "name": "it\u2019s okay",
       "url": "https://open.spotify.com/track/4CvQEMeuNttVJuoALqN30U"
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "MASCARA",
       "url": "https://open.spotify.com/track/25uU7huzrh4M91FXJvHWhY"
@@ -3548,7 +3566,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 242912,
       "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
       "url": "https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM"
@@ -4826,7 +4844,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 218834,
       "name": "\u5fd8\u308c\u3066\u304f\u3060\u3055\u3044",
       "url": "https://open.spotify.com/track/7raKnLKyQSatDiVVpiZDds"

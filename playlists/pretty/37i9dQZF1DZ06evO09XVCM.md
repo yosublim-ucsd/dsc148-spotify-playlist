@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,647 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,650 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 46 | [Sunshine \(feat\. RUSL\) \- RUSL Remix](https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [RUSL](https://open.spotify.com/artist/2xubHcmLfIGaulRsuseccA) | [Remixes](https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx) | 3:08 |
 | 47 | [The Lucky One](https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [The Lucky One](https://open.spotify.com/album/78RH18op8dJIMu7zOch288) | 3:39 |
 | 48 | [I Love You Too \(feat\. Rita Marley; Cedella Marley\)](https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Rita Marley](https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3), [Cedella Marley](https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 3:33 |
-| 49 | [Garden Song of Miracles \(feat\. Stephen Marley\)](https://open.spotify.com/track/3Potk2QPnD4Oc9jvgPUYZ5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [More Family Time](https://open.spotify.com/album/2kHooAwZ8twZMTDzzpRvyf) | 3:11 |
-| 50 | [See Dem Fake Leaders](https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:58 |
+| 49 | [See Dem Fake Leaders](https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:58 |
+| 50 | [Garden Song of Miracles \(feat\. Stephen Marley\)](https://open.spotify.com/track/3Potk2QPnD4Oc9jvgPUYZ5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [More Family Time](https://open.spotify.com/album/2kHooAwZ8twZMTDzzpRvyf) | 3:11 |
 
-Snapshot ID: `Z0unAAAAAACaspiaMM/gr0MPO3i5z6gk`
+Snapshot ID: `Z0z4gAAAAAA3wejl9KB+YKgOPLnp5l6F`

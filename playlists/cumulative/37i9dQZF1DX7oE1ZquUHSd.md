@@ -4,7 +4,7 @@
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-482 songs - 1 day 8 hr 53 min
+483 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,9 +110,10 @@
 | [Criados](https://open.spotify.com/track/1Q7CwZpl0sOUf1ayfXXeWN) | [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K), [Ríal Guawankó](https://open.spotify.com/artist/1XLXezcztSQIdEYG9dviXN) | [Criados](https://open.spotify.com/album/1bw1KwgRenQQfnmOBFmAF4) | 4:35 | 2021-11-16 | 2022-07-15 |
 | [Cypher](https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Toser One](https://open.spotify.com/artist/7rpKb1IlFFPINHXghluWTr) | [Cypher](https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f) | 8:02 | 2021-11-16 |  |
 | [Dale Dos](https://open.spotify.com/track/0NPHm8WYfJq1ySlpmlt89N) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [El Astronauta](https://open.spotify.com/album/6IB6qyDcqZdwXq1NQeoHNr) | 4:47 | 2021-11-16 | 2022-07-27 |
-| [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 | 2021-11-16 |  |
+| [Dale Gas](https://open.spotify.com/track/2f71lbjmfueEmrxPTHk11Z) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Dale Gas](https://open.spotify.com/album/3IzttvD3sVv5xZOQWuxpl7) | 3:32 | 2021-11-16 | 2024-12-04 |
 | [De Cacería](https://open.spotify.com/track/17hUQijIaFu6ig1jr8ISKa) | [C.P.V.](https://open.spotify.com/artist/4mrdGltrmXVqaHGl4UXw3k) | [Lo más Bruto de CPV](https://open.spotify.com/album/25KpsnD2mR5AZJjFGQ4TtG) | 7:01 | 2021-11-16 | 2022-05-14 |
 | [De Espaldas](https://open.spotify.com/track/1oz7IUZomvArjLtbQnrCr0) | [Nedman Guerrero](https://open.spotify.com/artist/216EDkKlBGRZUxVVhUwDll), [Rxnde Akozta](https://open.spotify.com/artist/5YO3yQx97KLLE9zJYa4jaU) | [Sampler de Mi Vida](https://open.spotify.com/album/7pekToX4rAl7yzQ64LUNLV) | 2:25 | 2021-11-16 | 2022-07-24 |
+| [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 | 2024-07-12 |  |
 | [De Pe a Pa](https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS) | [Círculo Vicioso](https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1) | 4:23 | 2021-11-16 |  |
 | [De Pie](https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [De Pie](https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY) | 4:28 | 2021-11-16 | 2022-07-19 |
 | [De Que Hablarle a de Quien Hablas \(Virus de Demencia\)](https://open.spotify.com/track/17OrVJbFh6VmmUpnrIA5SQ) | [Coy Sifuentes](https://open.spotify.com/artist/3xFeX3DSIXjXi4BU9syHLb) | [La Reserva](https://open.spotify.com/album/6PGJax5MWg2rPrx0YSxrKR) | 4:00 | 2021-11-16 | 2022-07-16 |

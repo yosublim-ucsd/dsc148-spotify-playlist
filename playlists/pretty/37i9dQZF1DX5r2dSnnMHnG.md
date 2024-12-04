@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,300 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,301 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 33 | [Dream about You](https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Delivery Man, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF) | 2:44 |
 | 34 | [Happiness](https://open.spotify.com/track/4N9NAR5gze1VdTCY9xOUwc) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [The Interest of Love \(Original Television Soundtrack, Pt.1\)](https://open.spotify.com/album/2LEJvE8JDCf8ttruz5sFLm) | 3:24 |
 | 35 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
-| 36 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 |
-| 37 | [Who?](https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Our Spring : Who?](https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB) | 3:10 |
+| 36 | [Who?](https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6), [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [Our Spring : Who?](https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB) | 3:10 |
+| 37 | [Spring](https://open.spotify.com/track/2jqFUiYryAqZRbCNA5D1oM) | [Joob A](https://open.spotify.com/artist/4fiMU9JbjPoMn7PVtYPRWP) | [Spring](https://open.spotify.com/album/1wGIkXzSpJd7VfoGJBkVbs) | 2:53 |
 | 38 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1LHYoqa8tahdIWTUvxb17Y) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 |
 | 39 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
 | 40 | [Cloud](https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah) | [박지원](https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41) | [Racket Boys \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX) | 3:23 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 47 | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/track/0gmBVi8J2Sk18uaNFBtOel) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Spring Song \(feat\. MIYEON \(\(G\)I\-DLE\)\)](https://open.spotify.com/album/3VWzNc9gziv2j5bKauli4q) | 3:05 |
 | 48 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
 | 49 | [Look & Spring \(Feat\. Ko Young Bae of Soran\)](https://open.spotify.com/track/6slTRsKXks38DEsCxRgrVp) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Ko Youngbae](https://open.spotify.com/artist/135TOw1jqM2Bolkngy62nS) | [D\_iary page.2](https://open.spotify.com/album/28ir5sUSxl9dkPD1jjeBKv) | 4:06 |
-| 50 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/1hM9gaPdIoIvYrqS4MbJay) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 |
-| 51 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 |
+| 50 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 |
+| 51 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/1hM9gaPdIoIvYrqS4MbJay) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 |
 | 52 | [Thinking of you \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr) | [Brunch recipe](https://open.spotify.com/artist/1dD0MLYuJ9HuIzBpQSKh0v), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [Thinking of you](https://open.spotify.com/album/1MwHsKCA47rjE8vV9XKLqA) | 3:13 |
 | 53 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 |
 | 54 | [Cliche](https://open.spotify.com/track/3j4S4QDWyHo1pBrhLfUgqM) | [ROJO](https://open.spotify.com/artist/5fb2Jm0wQjvBzc5Wu6RrGl) | [Cliche](https://open.spotify.com/album/0HvDuRpsbzr3ZMewq2zIxE) | 3:06 |

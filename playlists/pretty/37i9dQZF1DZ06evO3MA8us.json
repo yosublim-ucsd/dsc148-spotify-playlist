@@ -1,12 +1,12 @@
 {
   "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 34067,
+  "num_followers": 34069,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAACyNJfinVkTkUqiyjoly71l",
+  "snapshot_id": "Z0z4gAAAAACJsU6WPf/sshmTy8Gh/6xs",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Passion: Let The Future Begin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 508800,
+      "name": "Revelation Song - Live",
+      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
       },
@@ -431,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Let The Future Begin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6FdImKs7ZL5y2pi1x2Kea3"
+        "name": "Passion: Even So Come (Live)",
+        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
       },
       "artists": [
         {
@@ -440,13 +460,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 508800,
-      "name": "Revelation Song - Live",
-      "url": "https://open.spotify.com/track/35msHwn81uKQS5Jn783oSU"
+      "duration_ms": 242840,
+      "name": "Shout Hosanna - Live",
+      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
     },
     {
       "added_at": null,
@@ -475,26 +495,6 @@
       "duration_ms": 217651,
       "name": "What He's Done",
       "url": "https://open.spotify.com/track/2pxyd0ly9E5TEObwOvkedv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Passion: Even So Come (Live)",
-        "url": "https://open.spotify.com/album/5YONtiVkbckPYbUBJ6Q1cG"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Shout Hosanna - Live",
-      "url": "https://open.spotify.com/track/4w5gkpszgPKDdWMjTiHm8Y"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Follow You Anywhere (Live)",
-        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
+        "name": "Passion: A Generation United For His Renown",
+        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
       },
       "artists": [
         {
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 432106,
-      "name": "Bigger Than I Thought - Live",
-      "url": "https://open.spotify.com/track/1t3AJY56yarBeRWzNnUZXk"
+      "duration_ms": 514039,
+      "name": "Amazing Grace (My Chains Are Gone) - Live",
+      "url": "https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J"
     },
     {
       "added_at": null,
@@ -943,8 +943,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: A Generation United For His Renown",
-        "url": "https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T"
+        "name": "Follow You Anywhere (Live)",
+        "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
       },
       "artists": [
         {
@@ -952,13 +952,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
         }
       ],
-      "duration_ms": 514039,
-      "name": "Amazing Grace (My Chains Are Gone) - Live",
-      "url": "https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J"
+      "duration_ms": 432106,
+      "name": "Bigger Than I Thought - Live",
+      "url": "https://open.spotify.com/track/1t3AJY56yarBeRWzNnUZXk"
     },
     {
       "added_at": null,
@@ -987,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Passion: Awakening (Live)",
-        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 368866,
-      "name": "The Stand - Live",
-      "url": "https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chris Tomlin Collection",
         "url": "https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 278452,
       "name": "God Of Wonders - Live",
       "url": "https://open.spotify.com/track/2DfkjvYqfT83ypbjIkBRBp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Passion: Awakening (Live)",
+        "url": "https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 368866,
+      "name": "The Stand - Live",
+      "url": "https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ"
     },
     {
       "added_at": null,

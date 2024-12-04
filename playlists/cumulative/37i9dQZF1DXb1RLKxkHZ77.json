@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 169218,
       "name": "123",
       "url": "https://open.spotify.com/track/31XKpctltJP4KfBjbnkNVq"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 183853,
       "name": "Aiman Tino",
       "url": "https://open.spotify.com/track/0F73vr6lglMPott0iR5yWn"
@@ -1154,7 +1154,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 231005,
       "name": "Bando Chill",
       "url": "https://open.spotify.com/track/6CFo8FEDNtPIMRpo4FnLOZ"
@@ -3016,7 +3016,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 210598,
       "name": "Diam Diam Jatuh Cinta",
       "url": "https://open.spotify.com/track/2dTuI3gIUrxuLp7D1lGszE"
@@ -6521,6 +6521,28 @@
     },
     {
       "album": {
+        "name": "Memori Baik",
+        "url": "https://open.spotify.com/album/4pgRr87CxG6A3eVFv9I5fT"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        },
+        {
+          "name": "Aishameglio",
+          "url": "https://open.spotify.com/artist/3ma4EaXmEoQuzr5UNygA9Q"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263778,
+      "name": "Memori Baik",
+      "url": "https://open.spotify.com/track/78tfcz1aUQlCzd3lkr614r"
+    },
+    {
+      "album": {
         "name": "Memori Mungkin Berulang",
         "url": "https://open.spotify.com/album/1NJavP8R7mz6fsMJ9DZDi0"
       },
@@ -7953,6 +7975,24 @@
     },
     {
       "album": {
+        "name": "IMAJI AINA ABDUL DELUXE EDITION",
+        "url": "https://open.spotify.com/album/4FtBCMuW3rChwxIphRuadt"
+      },
+      "artists": [
+        {
+          "name": "Aina Abdul",
+          "url": "https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281249,
+      "name": "Puas Sudah",
+      "url": "https://open.spotify.com/track/14vyC5MiDiHv8ZIVe4EHRa"
+    },
+    {
+      "album": {
         "name": "Pujaanku (feat. Aisyah Aziz)",
         "url": "https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ"
       },
@@ -8132,7 +8172,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 196415,
       "name": "Rasa",
       "url": "https://open.spotify.com/track/0CQDnC0ovLKqoZDopz45Is"
@@ -8484,7 +8524,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 218400,
       "name": "RISIKO (feat. MK K-Clique, Ghidd, MeerFly, Tuju, Benzooloo)",
       "url": "https://open.spotify.com/track/7sjuNsBeiizGSKPTQv4Sc5"
@@ -8738,6 +8778,24 @@
       "duration_ms": 220632,
       "name": "Salah Hati",
       "url": "https://open.spotify.com/track/3u6QUGEVqlXUNdhMHEiEN0"
+    },
+    {
+      "album": {
+        "name": "Salahkah Aku?",
+        "url": "https://open.spotify.com/album/1vpe9NBN0SN5c0BoEPI8wJ"
+      },
+      "artists": [
+        {
+          "name": "Luqman Podolski",
+          "url": "https://open.spotify.com/artist/3OhGgq6XTlkr8Q99UA12Mh"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244759,
+      "name": "Salahkah Aku?",
+      "url": "https://open.spotify.com/track/4yiWEkos7y6kzqWTZGLF1l"
     },
     {
       "album": {
@@ -9362,6 +9420,24 @@
       "duration_ms": 280305,
       "name": "Selimut Hati",
       "url": "https://open.spotify.com/track/2Nyt9adixzIFRjHcUqS8S3"
+    },
+    {
+      "album": {
+        "name": "Pujangga",
+        "url": "https://open.spotify.com/album/4eqZAmJjpwmfx3Sa0IZZu9"
+      },
+      "artists": [
+        {
+          "name": "Hazama",
+          "url": "https://open.spotify.com/artist/5jKjGIfQbctItoit4X95XI"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222118,
+      "name": "Semacam Pandora",
+      "url": "https://open.spotify.com/track/0aSs0POtkVzsxIqIrHVfSO"
     },
     {
       "album": {
@@ -10442,7 +10518,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 210125,
       "name": "Tapi Bukan Denganmu",
       "url": "https://open.spotify.com/track/61bDItugzAphUO4awP5aHk"
@@ -10544,6 +10620,24 @@
       "duration_ms": 237907,
       "name": "Teman",
       "url": "https://open.spotify.com/track/6OdUXJOghuCjdN8WNK9DBa"
+    },
+    {
+      "album": {
+        "name": "Teman (Alhamdulillah)",
+        "url": "https://open.spotify.com/album/0bteWrHuOCp8y7DKbOhKYK"
+      },
+      "artists": [
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154065,
+      "name": "Teman (Alhamdulillah)",
+      "url": "https://open.spotify.com/track/5t2UKa7JXTeBqsdQbJJqOh"
     },
     {
       "album": {

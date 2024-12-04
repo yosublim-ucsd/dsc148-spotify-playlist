@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Kasia Lins
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,128 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,142 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 10 | [Zaspy](https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Zaspy](https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl) | 3:10 |
 | 11 | [Gdzie jesteś?](https://open.spotify.com/track/6yK1ZycVo0MosTE3lBB29c) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Gdzie jesteś?](https://open.spotify.com/album/3voZHXvAISl9CcTrlKmkKI) | 2:48 |
 | 12 | [Gdybym \- MTV Unplugged \- Live](https://open.spotify.com/track/5O7rOd3fDcR7GU3DipcdnC) | [Wojciech Waglewski](https://open.spotify.com/artist/7JD5zcxm7BuEHC7fUiyVSN), [Voo Voo](https://open.spotify.com/artist/4vC1DrwqCb43puGttDWlwL), [Masha Natanson](https://open.spotify.com/artist/7JpXUkcIxxpvPSbcq8r7A5) | [Gdybym \- MTV Unplugged \(Live\)](https://open.spotify.com/album/5NkR2RPgySlWSbJGorQ0fJ) | 10:06 |
-| 13 | [Pamiętam Cię](https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl) | [Prosta Sprawa](https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT), [KĘPIŃSKI KOWALONEK](https://open.spotify.com/artist/3z84Fsj4Ob6F940y1FwXnk), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Prosta Sprawa \(Muzyka i piosenki z serialu\)](https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr) | 3:16 |
+| 13 | [Pamiętam Cię](https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl) | [KĘPIŃSKI KOWALONEK](https://open.spotify.com/artist/3z84Fsj4Ob6F940y1FwXnk), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK), [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG), [Michał Kowalonek](https://open.spotify.com/artist/3oIZFLMAjPpJjv74YpRl5O), [Prosta Sprawa](https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT) | [Prosta Sprawa \(Muzyka i piosenki z serialu\)](https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr) | 3:16 |
 | 14 | [Rzeka](https://open.spotify.com/track/6q71ueOim8LDoQtg5iZLZd) | [Meek, Oh Why?](https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT), [BIESY](https://open.spotify.com/artist/1NxkFa4Jt6gntxIGXX1Qyr) | [Wszystko w swoim czasie](https://open.spotify.com/album/7qGVkSKMJ4PCOCyA9PJZWn) | 2:29 |
 | 15 | [Limbo](https://open.spotify.com/track/0NxtOVibuKGLZ8iaF4vUJJ) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 3:35 |
 | 16 | [WYJECHAĆ](https://open.spotify.com/track/5AXyWyvqBlxaoH4Upu6RK1) | [Ofelia](https://open.spotify.com/artist/0FbccBQBb69lfv4arbt6kX) | [WYJECHAĆ](https://open.spotify.com/album/4HGTuhODapyKWHtpcx24uh) | 2:59 |
 | 17 | [Puch](https://open.spotify.com/track/6AizyAFaymmBhE1oSilknl) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Puch](https://open.spotify.com/album/5x9Df8HWz68ApKZuqa7VU4) | 2:28 |
-| 18 | [Shreds Of Us](https://open.spotify.com/track/4QZZUuyvuDTwaMKfxIdTev) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [ROUTE](https://open.spotify.com/album/6xVfZVtGzXAl00MP7PW3UK) | 4:48 |
+| 18 | [Shreds Of Us](https://open.spotify.com/track/4QZZUuyvuDTwaMKfxIdTev) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga), [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX) | [ROUTE](https://open.spotify.com/album/6xVfZVtGzXAl00MP7PW3UK) | 4:48 |
 | 19 | [Mieszane Uczucia](https://open.spotify.com/track/2zw8q69N81ZiK0BG7EIQU5) | [Bluszcz](https://open.spotify.com/artist/4QUfzPnzzNf93Y6VKxZVlD) | [Mieszane Uczucia](https://open.spotify.com/album/3ibZA1MhUoV4YNX5N0hYor) | 3:40 |
 | 20 | [Trzykropek \- Radio Edit](https://open.spotify.com/track/168zRxI9gxU30q03lsyIUG) | [Jakub Skorupa](https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ) | [Trzykropek \(Radio Edit\)](https://open.spotify.com/album/0IZeLDI0wHC48ITh4uT13O) | 2:50 |
 | 21 | [Najbardziej lubię ten moment](https://open.spotify.com/track/52wrgDTHHipuBOx6LGXbBC) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Najbardziej lubię ten moment](https://open.spotify.com/album/4XTJXh61QUZlQZvi2c2nTz) | 3:10 |

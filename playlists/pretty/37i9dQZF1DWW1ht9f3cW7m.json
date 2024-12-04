@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Ziggy 2000 \ud83c\udf51",
-  "num_followers": 29410,
+  "num_followers": 29414,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Beach House",
         "url": "https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 197027,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Don't Miss It.",
+        "url": "https://open.spotify.com/album/5VvA1wrLCjFVCaj7jALPPQ"
+      },
+      "artists": [
+        {
+          "name": "milk.",
+          "url": "https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq"
+        }
+      ],
+      "duration_ms": 190272,
+      "name": "Don't Miss It.",
+      "url": "https://open.spotify.com/track/0RayQ84I4gGgPtb0PmZEeY"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx"
       },
@@ -707,18 +723,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Don't Miss It.",
-        "url": "https://open.spotify.com/album/5VvA1wrLCjFVCaj7jALPPQ"
+        "name": "everything about her",
+        "url": "https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk"
       },
       "artists": [
         {
-          "name": "milk.",
-          "url": "https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq"
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
         }
       ],
-      "duration_ms": 190272,
-      "name": "Don't Miss It.",
-      "url": "https://open.spotify.com/track/0RayQ84I4gGgPtb0PmZEeY"
+      "duration_ms": 171033,
+      "name": "everything about her",
+      "url": "https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -751,22 +767,6 @@
       "duration_ms": 156000,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/1FjrTr0IVabwKR93xUR6FS"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "everything about her",
-        "url": "https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 171033,
-      "name": "everything about her",
-      "url": "https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm"
+      },
+      "artists": [
+        {
+          "name": "Erica Manzoli",
+          "url": "https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ"
+        }
+      ],
+      "duration_ms": 209543,
+      "name": "Bunny",
+      "url": "https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Bunny",
-        "url": "https://open.spotify.com/album/00d9EcVVc6UJVrdNtsLUcm"
+        "name": "Quiet & Perfect",
+        "url": "https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn"
       },
       "artists": [
         {
-          "name": "Erica Manzoli",
-          "url": "https://open.spotify.com/artist/23fOuvbhI889XOAcLhvaBJ"
+          "name": "Essence Martins",
+          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
         }
       ],
-      "duration_ms": 209543,
-      "name": "Bunny",
-      "url": "https://open.spotify.com/track/6b7lbc4KsXUBKNtyZTQyaj"
+      "duration_ms": 218367,
+      "name": "Quiet & Perfect",
+      "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -915,22 +931,6 @@
       "duration_ms": 192444,
       "name": "Boys",
       "url": "https://open.spotify.com/track/3wRLsbybqoHVncYouMQvp3"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
-        "name": "Quiet & Perfect",
-        "url": "https://open.spotify.com/album/2lACASAcN0qTsGT9yc9Mbn"
-      },
-      "artists": [
-        {
-          "name": "Essence Martins",
-          "url": "https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec"
-        }
-      ],
-      "duration_ms": 218367,
-      "name": "Quiet & Perfect",
-      "url": "https://open.spotify.com/track/4CL65tRNZjpBwcXjSOVuAR"
     },
     {
       "added_at": "2024-09-20 11:39:59",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-09-20 11:39:59",
       "album": {
-        "name": "Everything Is Beautiful",
-        "url": "https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL"
-      },
-      "artists": [
-        {
-          "name": "Kai Bosch",
-          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
-        }
-      ],
-      "duration_ms": 198986,
-      "name": "Everything Is Beautiful",
-      "url": "https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ"
-    },
-    {
-      "added_at": "2024-09-20 11:39:59",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/03riWRKUyOb4WIpmMRRWnG"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 206067,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2OW2UL12X7vzpd2TRHw5Et"
+    },
+    {
+      "added_at": "2024-09-20 11:39:59",
+      "album": {
+        "name": "Everything Is Beautiful",
+        "url": "https://open.spotify.com/album/1j0QPgBtzyJeqAuLc4pehL"
+      },
+      "artists": [
+        {
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
+        }
+      ],
+      "duration_ms": 198986,
+      "name": "Everything Is Beautiful",
+      "url": "https://open.spotify.com/track/2UKxPSQo5udaY4m4CcJ1JQ"
     },
     {
       "added_at": "2024-09-20 11:39:59",

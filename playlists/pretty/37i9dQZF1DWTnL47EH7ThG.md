@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,350 likes - 148 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,370 likes - 148 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 54 | [BLOOD](https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [BLOOD](https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7) | 2:03 |
 | 55 | [Potential](https://open.spotify.com/track/7apEq9wOCGf5Jjrad5FLkc) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Potential](https://open.spotify.com/album/1Gc5ogOOXhknM8F4JH8bdp) | 1:34 |
 | 56 | [HOLLABACK](https://open.spotify.com/track/6w5YFqXHzzLlv2qUANEUNT) | [Lamsi](https://open.spotify.com/artist/6qdxvGWY0xnOmV8ISg6yjJ), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [HOLLABACK](https://open.spotify.com/album/0YVN33IaMpfQ5HaXJmr6XZ) | 2:13 |
-| 57 | [Miscommunication](https://open.spotify.com/track/3PsRJjl5Igy1eqogoitjyW) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [Sebastian](https://open.spotify.com/artist/7s7Bn4YGNkN1YE4rM6rYwO) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:18 |
+| 57 | [Miscommunication](https://open.spotify.com/track/3PsRJjl5Igy1eqogoitjyW) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [Sebastian](https://open.spotify.com/artist/1WuzD4NNAFNuhhIsiWdZke) | [Shock Value](https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI) | 3:18 |
 | 58 | [WICKED GYAL](https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [WICKED GYAL](https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb) | 3:33 |
 | 59 | [To The Dancefloor](https://open.spotify.com/track/0e9VKGAwZRQXjyiSBPqfIH) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [To The Dancefloor](https://open.spotify.com/album/2FQpzo1CIQwZF0rYm8xMEi) | 3:18 |
 | 60 | [U.F.O](https://open.spotify.com/track/1LGvDKbk0qLtwXzyljS9H5) | [ESG](https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa) | [ESG](https://open.spotify.com/album/4MPTECMxzkr2fu7ZdgI2uc) | 2:57 |

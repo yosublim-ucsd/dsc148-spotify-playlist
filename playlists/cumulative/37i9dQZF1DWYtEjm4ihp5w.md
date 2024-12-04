@@ -4,7 +4,7 @@
 
 > ElGrandeToto f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-328 songs - 17 hr 37 min
+329 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [3ADI JIDAN](https://open.spotify.com/track/2wNNXprT139bOoaBGmc12V) | [Dada](https://open.spotify.com/artist/7prKK2GchmQEkgUsAFXEz0) | [M.I.M](https://open.spotify.com/album/16VwVZ1dFAaCXAeQrsyit8) | 2:52 | 2024-01-06 |  |
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-20 | 2024-05-10 |
 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 | 2024-07-12 |  |
-| [5E ARRONDISSEMENT](https://open.spotify.com/track/4SuqeO3dyNKT9plI4hdxvJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-11-29 |  |
+| [5E ARRONDISSEMENT](https://open.spotify.com/track/4SuqeO3dyNKT9plI4hdxvJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-11-29 | 2024-12-04 |
 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 | 2024-08-01 |  |
 | [6AM](https://open.spotify.com/track/5UguZtOGnt018aCSqIMCIZ) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [6AM](https://open.spotify.com/album/6Asibeu54ypcwXGygbDziA) | 3:05 | 2024-10-30 |  |
 | [7bss Tmout](https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [7bss Tmout](https://open.spotify.com/album/2QcczpbqmQvZI4lCCNyYv2) | 3:10 | 2023-06-01 | 2024-03-02 |
@@ -120,6 +120,7 @@
 | [Gueule tapée](https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gueule tapée](https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM) | 3:26 | 2022-11-14 | 2023-06-23 |
 | [Habitus](https://open.spotify.com/track/0iwBCDnJ3x6OJFgemAm0Q4) | [PAUSE](https://open.spotify.com/artist/0QO3bJ9BmI5WUKG6CSLtJE) | [Habitus](https://open.spotify.com/album/3fbU0kIj3aAD06b9P7qwbK) | 2:53 | 2023-07-11 | 2023-07-23 |
 | [HABITUS](https://open.spotify.com/track/0ZxZXNK4vC6WFitavjSKYT) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [HABITUS](https://open.spotify.com/album/49JVpdUTrQcenJDv5cakM9) | 3:00 | 2023-07-20 | 2023-10-20 |
+| [HACHICH/TOSEINA](https://open.spotify.com/track/5m441qiFI5yqfzG19ZLqIJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:07 | 2024-12-03 |  |
 | [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-11-14 | 2022-12-22 |
 | [Hanya Lwe9te](https://open.spotify.com/track/0MxvfoyHnrhPqcRGH61fvn) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Hanya Lwe9te](https://open.spotify.com/album/17YgJ4bcxu6TFYeVbPoQls) | 3:21 | 2024-06-20 |  |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2022-11-14 | 2023-07-14 |

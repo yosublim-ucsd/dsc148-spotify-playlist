@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-590 songs - 1 day 15 hr 54 min
+591 songs - 1 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Goodbye \(feat\. Soap&Skin\) \[Theme from Dark, A Netflix Original Series\]](https://open.spotify.com/track/3wAEhWSx5GvfCkqJ1SPA5S) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot), [Soap&Skin](https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku) | [Goodbye \(feat\. Soap&Skin\) \[Theme from Dark, A Netflix Original Series\]](https://open.spotify.com/album/04iB0QL1U7VtwMDsbgFlRT) | 4:16 | 2023-01-17 | 2024-04-19 |
 | [Grands Boulevards](https://open.spotify.com/track/6lLw86s4tPBSvF9nZVGoCj) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [EP III](https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q) | 3:34 | 2023-01-17 | 2023-12-24 |
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2023-01-17 |  |
+| [Hallelujah](https://open.spotify.com/track/5fxJc8fxbbM5ZiqaL6Ob6y) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Hallelujah](https://open.spotify.com/album/7f7BojlN7pow14eayG4UOn) | 3:10 | 2023-01-17 |  |
 | [Hallelujah \- Bonus Track](https://open.spotify.com/track/3ag4ODA4AwOhHG5pGcX0Lk) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:10 | 2023-01-17 | 2024-04-19 |
 | [Hard to Let Go](https://open.spotify.com/track/3XBQUmjwquZPzTNtOqj7N7) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/4a3oxtBAgUSzvTjz41L8w5) | 4:07 | 2023-01-17 | 2024-04-19 |
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2023-01-17 |  |
@@ -487,7 +488,7 @@
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2023-01-17 |  |
 | [Sugar](https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP) | 2:56 | 2023-01-17 | 2024-04-19 |
 | [Sugar](https://open.spotify.com/track/366BzkiO6uiLgTYCLPddkJ) | [Ora the Molecule](https://open.spotify.com/artist/6RQoLyY1nkArRcNc3sE86m) | [Human Safari](https://open.spotify.com/album/1XvJINGjwPys8xSK1ThiDJ) | 3:59 | 2023-01-17 | 2023-12-12 |
-| [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2023-01-17 |  |
+| [Summer Girl \- Bonus Track](https://open.spotify.com/track/1GZH9Sv6zCIse2GKihRHKy) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Summer Girl \(Bonus Track\)](https://open.spotify.com/album/2U2dYHLwLrHSQ3m2YQcNHj) | 3:25 | 2023-01-17 | 2024-12-04 |
 | [Summer Girl \- Bonus Track](https://open.spotify.com/track/5pSRBmJhkfZm1eilG3VW3L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:25 | 2023-01-17 | 2024-04-19 |
 | [Summer night \(Bat song\)](https://open.spotify.com/track/5u3MTIrAo8cUZ1nP22ahcB) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [A flame my love, a frequency](https://open.spotify.com/album/4NTqrRWB6JQs8a4AUw1QEp) | 5:14 | 2023-01-17 |  |
 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 | 2024-07-11 |  |

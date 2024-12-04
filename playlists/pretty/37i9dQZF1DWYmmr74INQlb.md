@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 
 > Celebrating 20 years of "Destiny Fulfilled"\. Cover: Destiny's Child
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,729,668 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,729,842 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 38 | [If It's Lovin' That You Want](https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Music Of The Sun](https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz) | 3:28 |
 | 39 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
 | 40 | [Un\-thinkable \(I'm Ready\)](https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:09 |
-| 41 | [Frontin' \(feat\. JAY\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
-| 42 | [Differences](https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt) | 4:25 |
+| 41 | [Differences](https://open.spotify.com/track/0Uyh92tLyb9JawG8lmWCzJ) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [The Life](https://open.spotify.com/album/5IZeegMeRHlyKE6LKrVuYt) | 4:25 |
+| 42 | [Frontin' \(feat\. JAY\-Z\) \- Club Mix](https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Neptunes Present..\. Clones](https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM) | 3:56 |
 | 43 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
 | 44 | [Grind With Me](https://open.spotify.com/track/3B7i9OKRRmIsSBHEbJz58Y) | [Pretty Ricky](https://open.spotify.com/artist/6XwcepfAsPhrvwziGxhwju) | [Bluestars](https://open.spotify.com/album/5Kexjw3aLUrvDNAGrUMAmE) | 3:57 |
 | 45 | [He Wasn't Man Enough](https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [The Heat](https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi) | 4:21 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 60 | [How You Gonna Act Like That](https://open.spotify.com/track/3OUApyz3jDB3syGUNGqB1d) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ) | [I Wanna Go There](https://open.spotify.com/album/3skbBjGnAOqfy6ndwwOT4G) | 4:54 |
 | 61 | [All For You](https://open.spotify.com/track/5X8kkUaUlAyAUr9TYqDFTH) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [All For You](https://open.spotify.com/album/0IfJey7ibEDtWNxAQw2ub9) | 5:29 |
 | 62 | [So Gone](https://open.spotify.com/track/6BIcjFZIVDZxNAcofRFPx4) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [After The Storm](https://open.spotify.com/album/4lSQkGgFffaUOd22Yrc25v) | 4:02 |
-| 63 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
-| 64 | [Rockin' That Shit](https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:41 |
+| 63 | [Rockin' That Shit](https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Love Vs Money](https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw) | 3:41 |
+| 64 | [Say Yes](https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 4:28 |
 | 65 | [Bust Your Windows](https://open.spotify.com/track/56z2qI0gKcPthQF6l8AW3E) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:26 |
 | 66 | [I Should Have Cheated](https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3) | [The Way It Is](https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV) | 5:27 |
 | 67 | [Until The End Of Time \(with Beyoncé\)](https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [FutureSex/LoveSounds Deluxe Edition](https://open.spotify.com/album/0tcExuDWMQdBbwSpqN8Ku2) | 5:22 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 77 | [Say Aah \(feat\. Fabolous\)](https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Ready \(Deluxe\)](https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85) | 3:27 |
 | 78 | [Cater 2 U](https://open.spotify.com/track/6uYAPqxP69zfpCbsTHXgiz) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO) | 4:05 |
 | 79 | [Shawty Is Da Shit](https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6) | [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Love/Hate](https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV) | 4:22 |
-| 80 | [Southside](https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Southside](https://open.spotify.com/album/317R21F7calEn6gpLnHEkb) | 4:37 |
-| 81 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 80 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 81 | [Southside](https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Southside](https://open.spotify.com/album/317R21F7calEn6gpLnHEkb) | 4:37 |
 | 82 | [Shake It Off](https://open.spotify.com/track/4VKnkoNNM6yTb4cXXX3wqD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:52 |
 | 83 | [Just in Case](https://open.spotify.com/track/0YHBvFhfCJHyP5qfgtiX1o) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Ghetto Love](https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM) | 4:23 |
 | 84 | [Oops \(Oh My\) \[feat\. Missy Elliott\]](https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Southern Hummingbird](https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX) | 3:57 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmmr74INQlb.md) - [plain]
 | 96 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
 | 97 | [Spotlight](https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP) | 4:10 |
 | 98 | [Unappreciated](https://open.spotify.com/track/5ZelMPn7vupvsTToUTvcbF) | [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Unappreciated](https://open.spotify.com/album/5nHZP6EqmhfNwxe71tpyKn) | 3:55 |
-| 99 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 |
-| 100 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
+| 99 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
+| 100 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 |
 
 Snapshot ID: `ZzeA8QAAAADtfJ5sVRwpQ8Gmvvmikxfq`

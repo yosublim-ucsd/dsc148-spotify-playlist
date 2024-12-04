@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,798 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,830 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 14 | [Buen Rock Esta Noche \- Good Rockin' Tonight \[Remasterizado\]](https://open.spotify.com/track/6A3rHCtV9sP5aRvBDth3wB) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Serie De Colección 16 Autenticos Exitos](https://open.spotify.com/album/6DB6Osx9qCOSB0wPNbSE2A) | 2:16 |
 | 15 | [Hermosa Laura](https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu) | [Los Loud Jets](https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:42 |
 | 16 | [Anoche Me Enamoré](https://open.spotify.com/track/7zHQkpC5hy5VSPZwdz17ND) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:22 |
-| 17 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
-| 18 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
+| 17 | [Corina, Corina](https://open.spotify.com/track/5CXC1tQRXrLTtRkzVbPTe6) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:35 |
+| 18 | [Se Fue](https://open.spotify.com/track/3LxPolifAA2lfU0cvmOhVQ) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Hermanos Carrion 50 Años, Vol\. 1](https://open.spotify.com/album/1gT2Z4hNEKewsnyZmY4eCH) | 2:42 |
 | 19 | [Sospecha](https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Los Originales](https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a) | 2:29 |
 | 20 | [Cosas](https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E) | [Oscar Madrigal](https://open.spotify.com/artist/1TWdQKKan4cnjG1YTdHW6t) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 2:22 |
 | 21 | [La Llorona Loca](https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB) | [Los Gliders](https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI) | [Éxitos Del Rock](https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D) | 2:18 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 32 | [Vete Con Ella \(Chappel of Love\)](https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [La Fiebre del Rock and Roll](https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l) | 2:53 |
 | 33 | [Vuelve Primavera](https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27) | [Los Blue Caps](https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:30 |
 | 34 | [Y Es Por Ti](https://open.spotify.com/track/26aQy7fgeQuhJm619Z8lgq) | [Los Reno](https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:11 |
-| 35 | [Satisfacción](https://open.spotify.com/track/6TfxcRdNwHzQYTdAj18YAL) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 3:30 |
-| 36 | [Tequila Con Limón](https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:37 |
+| 35 | [Tequila Con Limón](https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:37 |
+| 36 | [Satisfacción](https://open.spotify.com/track/6TfxcRdNwHzQYTdAj18YAL) | [Los Apson](https://open.spotify.com/artist/63MoX25vZtzCSTvRFkAsnW) | [Mexican Garage Rock '66](https://open.spotify.com/album/37QM0NcPwM0ROn1vG2gwSY) | 3:30 |
 | 37 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/5kstxhvKTpuO3A8PYmYeKV) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:13 |
 | 38 | [Es Lupe \(Hang on Sloopy\)](https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX) | [Los Johnny Jets](https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:18 |
 | 39 | [Las Cerezas \(Le Celiege\)](https://open.spotify.com/track/2ZvT2qVY0aOtyCGKyLf6Co) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [Disco de Oro](https://open.spotify.com/album/4bSCPHorq2wwgm05NYw63g) | 3:02 |

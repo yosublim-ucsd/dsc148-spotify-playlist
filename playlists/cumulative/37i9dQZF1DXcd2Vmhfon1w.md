@@ -4,7 +4,7 @@
 
 > Lo mejor del hip hop español\. Feat\. Kidd Keo
 
-461 songs - 1 day 0 hr 20 min
+462 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Calle Pero Fino](https://open.spotify.com/track/0LXWLqWkxAnvdJllVfA2VP) | [El Jhota](https://open.spotify.com/artist/0YX8LuMQAh6ousnyhwXbkz), [El Jincho](https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw), [D Jam Saw](https://open.spotify.com/artist/0aUQapby1rTJ1qTkcyx6XQ) | [Calle Pero Fino](https://open.spotify.com/album/0H2seejz3fvd3qlT9mgAiO) | 3:18 | 2024-11-07 |  |
 | [Canas de Marfil](https://open.spotify.com/track/7ETW4X5QLGjQ0Jg8OCVMUR) | [Luisaker](https://open.spotify.com/artist/6qHDnHoUlA5AhDNg7AHRS9), [Vnder](https://open.spotify.com/artist/0PRBVwG0LpcKJzvrP5oNRb) | [Canas de Marfil](https://open.spotify.com/album/0oGnBVrCFqJCmMz2ohmE7h) | 3:11 | 2024-07-18 | 2024-09-21 |
 | [Cansao de To](https://open.spotify.com/track/7ziZS7Bmrs7vNXqc2aSsOw) | [Nikone](https://open.spotify.com/artist/105iYV1T7lf8Rysxo0KzfD), [Tork](https://open.spotify.com/artist/2gZByjNu2u3Zs9x3BUdCzY), [Baghira](https://open.spotify.com/artist/1M6rXjguUqsqaV0cYsytdY) | [Me Tocó Ganar / Cansao de To](https://open.spotify.com/album/70yk59XUkbvKlP3YV3ZI3u) | 4:09 | 2024-06-27 | 2024-07-12 |
+| [Carmín y Azufre](https://open.spotify.com/track/6tpZvF92sCLJjiv4OUuRmK) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Capricornio](https://open.spotify.com/album/7jKJG9mIRc0BoATP9paXhz) | 3:17 | 2024-12-03 |  |
 | [Caro](https://open.spotify.com/track/361r8vLK0bgSoiKHXPERyR) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Caro](https://open.spotify.com/album/7HeHYUW5xgsVSk5bvUaW6n) | 3:26 | 2024-04-25 | 2024-07-06 |
 | [CASANOVA](https://open.spotify.com/track/2YNtUj9qvvmaSe4DIvJedT) | [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y) | [CASANOVA](https://open.spotify.com/album/5FCBY0PBrrrPLJVyJIVRxt) | 3:06 | 2023-06-07 | 2023-06-27 |
 | [CASAS ROSAS](https://open.spotify.com/track/6miOyimBD4VN4xlPUlNhMs) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q) | [CASAS ROSAS](https://open.spotify.com/album/2HQd9y8Zun9wmPh6EL2fxA) | 2:45 | 2024-10-03 |  |
@@ -160,7 +161,7 @@
 | [Esmeralda](https://open.spotify.com/track/3FPi6QxKTIORgH4KDReY1a) | [Blake](https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF), [Zaidbreak](https://open.spotify.com/artist/4kxv2kGvnge97AbeT7sDGu) | [Esmeralda](https://open.spotify.com/album/1zl5YkFygYKCRZOgQDgNMS) | 3:08 | 2024-06-27 | 2024-08-02 |
 | [Esos Niños](https://open.spotify.com/track/13iOTveZDkdLq9dIAulF6X) | [Haze](https://open.spotify.com/artist/6c4WWQ2PYJlgnxtkQKqI5s) | [Esos Niños](https://open.spotify.com/album/3GIxXfCKwaWZa3shfUvmmN) | 3:23 | 2024-04-11 | 2024-04-19 |
 | [Espejismos](https://open.spotify.com/track/25Y6OAKzaqJoYjIg2KY6H6) | [Anier](https://open.spotify.com/artist/29WHGHkCIlASkOrbKKyvcS), [Dualy](https://open.spotify.com/artist/0XwYf0nSP6fpUCMRjnfiwo) | [Espejismos](https://open.spotify.com/album/7e0AiWdPxw5rtZFb5BrOF1) | 3:39 | 2022-02-04 | 2022-02-23 |
-| [ESPERO QUE PODAMOS SER AMIGOS](https://open.spotify.com/track/5AHr41xqQgTmaFcDHIO304) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW), [Franckvit](https://open.spotify.com/artist/4gBRCPrNVKcPmsLTjIMqDG) | [ESPERO QUE PODAMOS SER AMIGOS](https://open.spotify.com/album/1lTZxpky21ec81VqA03ZBC) | 3:20 | 2024-10-17 |  |
+| [ESPERO QUE PODAMOS SER AMIGOS](https://open.spotify.com/track/5AHr41xqQgTmaFcDHIO304) | [Kadec Santa Anna](https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW), [Franckvit](https://open.spotify.com/artist/4gBRCPrNVKcPmsLTjIMqDG) | [ESPERO QUE PODAMOS SER AMIGOS](https://open.spotify.com/album/1lTZxpky21ec81VqA03ZBC) | 3:20 | 2024-10-17 | 2024-12-04 |
 | [Estamos Bien](https://open.spotify.com/track/6P6n6fL8pNvhKjQhUr4zXQ) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Bigla](https://open.spotify.com/artist/3Nvs2Xf1dhQgjWLJ6Mvd68) | [Estamos Bien](https://open.spotify.com/album/382yQpyCrqYO1tBxcV9Vn1) | 2:31 | 2024-06-20 | 2024-07-12 |
 | [Explícito](https://open.spotify.com/track/0g99Wc6vw9Wnzhb1ORyPub) | [Reality](https://open.spotify.com/artist/0FvRr7kKHIwQJxpRwf5OCw), [Simarro Prods](https://open.spotify.com/artist/3Dw9l7rIlfvWzcuYErEuE1) | [Explícito](https://open.spotify.com/album/0nQUEirtrGnhrokGqQRKdy) | 2:34 | 2023-10-23 | 2024-01-26 |
 | [Extrarradio](https://open.spotify.com/track/06BxQZX22lQE3p6iOVzDV1) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Midas Alonso](https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW) | [Extrarradio](https://open.spotify.com/album/1RS3xDZvmrIk5ILk5yXfm0) | 4:01 | 2024-04-11 | 2024-09-27 |

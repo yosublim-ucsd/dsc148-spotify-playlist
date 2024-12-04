@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: ANARCHY",
+  "description": "J-Hip Hop\u30ab\u30eb\u30c1\u30e3\u30fc\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d\u3092\u7e4b\u3050\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 cover: Charlu",
   "name": "+81 Connect: J-Hip Hop\u306e\u300c\u4eca\u300d\u3068\u300c\u305d\u306e\u5148\u300d",
   "tracks": [
     {
@@ -724,7 +724,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 231860,
       "name": "6 AM - Remix",
       "url": "https://open.spotify.com/track/4MbfCeii95kC6UaEoqK7hs"
@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 222326,
       "name": "BADA BING BADA BOOM",
       "url": "https://open.spotify.com/track/3F7OTN3AIb9ldZmoBs4Inm"
@@ -5835,6 +5835,28 @@
     },
     {
       "album": {
+        "name": "DOGENZAKA (feat. Bene Baby)",
+        "url": "https://open.spotify.com/album/3BS6WEsyFFOVfkEsx6NmtH"
+      },
+      "artists": [
+        {
+          "name": "DJ TATSUKI",
+          "url": "https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5"
+        },
+        {
+          "name": "Bene Baby",
+          "url": "https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214816,
+      "name": "DOGENZAKA (feat. Bene Baby)",
+      "url": "https://open.spotify.com/track/2XytvPolq9rcverevqBl1b"
+    },
+    {
+      "album": {
         "name": "YELLOW CHEDDAR",
         "url": "https://open.spotify.com/album/1nXkyeoVfIGflJNuydV0PL"
       },
@@ -6134,7 +6156,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 155798,
       "name": "Don't stop",
       "url": "https://open.spotify.com/track/1hua9qyCb4iLHejJS4ErOt"
@@ -8575,6 +8597,24 @@
     },
     {
       "album": {
+        "name": "GHETTO SAIYAN",
+        "url": "https://open.spotify.com/album/5P0lSJ38BPZhiGQGNdSteh"
+      },
+      "artists": [
+        {
+          "name": "Kampf",
+          "url": "https://open.spotify.com/artist/3Sg7AKFRL72rX0OXRfSrGK"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Ghetto Saiyan",
+      "url": "https://open.spotify.com/track/6s6Z4n8IVBECW4VpqBAmXz"
+    },
+    {
+      "album": {
         "name": "Gimme Mo (feat. EASTA)",
         "url": "https://open.spotify.com/album/1CwuLfj0zwxCfL8QnRHtpR"
       },
@@ -8590,7 +8630,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 198445,
       "name": "Gimme Mo (feat. EASTA)",
       "url": "https://open.spotify.com/track/79z4VoQWlAtMYLn1o0fbfi"
@@ -9454,7 +9494,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 219658,
       "name": "Hang Out (feat. MonyHorse & dodo)",
       "url": "https://open.spotify.com/track/4NhYX0VhSTSd5S7Y2jVeH1"
@@ -10036,6 +10076,24 @@
       "duration_ms": 171542,
       "name": "HOOD RHYME (feat. FAT D)",
       "url": "https://open.spotify.com/track/5oqmyyaX4XefJgQkcmt9lU"
+    },
+    {
+      "album": {
+        "name": "HOP OUT",
+        "url": "https://open.spotify.com/album/2KXj4gC8HoDS2aYmUj0LKS"
+      },
+      "artists": [
+        {
+          "name": "Young Coco",
+          "url": "https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109221,
+      "name": "HOP OUT",
+      "url": "https://open.spotify.com/track/7wuBJCJfgRwt3kVaUvSyJn"
     },
     {
       "album": {
@@ -12425,6 +12483,24 @@
     },
     {
       "album": {
+        "name": "Windiw",
+        "url": "https://open.spotify.com/album/3phd081w8UMfQLNLFDYLZN"
+      },
+      "artists": [
+        {
+          "name": "ratiff",
+          "url": "https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237633,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/2IkishLgusfYXkBnXJMOR0"
+    },
+    {
+      "album": {
         "name": "LEVELS (feat. TXMIYAMA)",
         "url": "https://open.spotify.com/album/6xQchSsc3V217VrtsQFtBQ"
       },
@@ -12532,6 +12608,28 @@
       "duration_ms": 149142,
       "name": "LIFE STYLE",
       "url": "https://open.spotify.com/track/4jT5blkKD2Kbw1Ll2FzPzw"
+    },
+    {
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/5OsGUY6X5Yb3pN8cKjwSnA"
+      },
+      "artists": [
+        {
+          "name": "Charlu",
+          "url": "https://open.spotify.com/artist/0vVBkhJyOXmRoEnVMg6C77"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209294,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/495KMn84VgvD8HGx7nnxIa"
     },
     {
       "album": {
@@ -13514,7 +13612,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 192857,
       "name": "MANGO - Remix",
       "url": "https://open.spotify.com/track/0El0f2QEiuK55ShBzXbv47"
@@ -15744,7 +15842,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 171678,
       "name": "No Cap The Beanie",
       "url": "https://open.spotify.com/track/6zHS39Ep15WzyRgoSNivS9"
@@ -17442,6 +17540,24 @@
       "duration_ms": 138891,
       "name": "Perfect Night",
       "url": "https://open.spotify.com/track/6lFQpInJCEuop8fLbnwXA5"
+    },
+    {
+      "album": {
+        "name": "I'M A FISHERMAN'S SON... POINT OF NO RETURN",
+        "url": "https://open.spotify.com/album/1Y7QDIZlsUQnJEumub0uW5"
+      },
+      "artists": [
+        {
+          "name": "KMC",
+          "url": "https://open.spotify.com/artist/67YTomPMdKRZNeAMXIDzAY"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213884,
+      "name": "PERFECT STORM",
+      "url": "https://open.spotify.com/track/1toit2xhOHSQh2PPYchuXh"
     },
     {
       "album": {
@@ -22007,6 +22123,28 @@
     },
     {
       "album": {
+        "name": "Telling adults (feat. WILYWNKA)",
+        "url": "https://open.spotify.com/album/7Kc2cF8CJMh2mQe9PyrL0c"
+      },
+      "artists": [
+        {
+          "name": "VIGORMAN",
+          "url": "https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ"
+        },
+        {
+          "name": "WILYWNKA",
+          "url": "https://open.spotify.com/artist/2Ss73LwiIQQRLr9OoLQfuy"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188035,
+      "name": "Telling adults (feat. WILYWNKA)",
+      "url": "https://open.spotify.com/track/293uygbGWaUUqyZSJ40l9l"
+    },
+    {
+      "album": {
         "name": "\u559c\u54c0",
         "url": "https://open.spotify.com/album/2OKqZXUJTOYHY3ADbtHWRk"
       },
@@ -22388,7 +22526,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 119104,
       "name": "This the TJ flow",
       "url": "https://open.spotify.com/track/6c7TybiPxkvoJ2TnQ2PAZC"
@@ -22938,7 +23076,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 174948,
       "name": "TRAUMA (feat. ralph)",
       "url": "https://open.spotify.com/track/49MTwYpaPShEqqn4amf0AE"
@@ -26045,6 +26183,24 @@
     },
     {
       "album": {
+        "name": "\u30c6\u30a3\u30f3\u30b5\u30b0\u30cc\u82b1",
+        "url": "https://open.spotify.com/album/6MeoQM6s7yXrkolMOWL9wd"
+      },
+      "artists": [
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166856,
+      "name": "\u30c6\u30a3\u30f3\u30b5\u30b0\u30cc\u82b1",
+      "url": "https://open.spotify.com/track/1JRC16XSxBMC69BNcT8RbA"
+    },
+    {
+      "album": {
         "name": "\u30ca\u30ea\u30a2\u30ac\u30ea",
         "url": "https://open.spotify.com/album/2GyigZEQ2TdAjrxUKef245"
       },
@@ -26214,6 +26370,24 @@
       "duration_ms": 213357,
       "name": "\u30de\u30a4\u30af\u6301\u3064\u8005\u3088",
       "url": "https://open.spotify.com/track/4xoAuuAsvHADpTVPvvYgaV"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30b7",
+        "url": "https://open.spotify.com/album/2ax0WIFyCBg2bL7Hzwk8iY"
+      },
+      "artists": [
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108025,
+      "name": "\u30de\u30b7",
+      "url": "https://open.spotify.com/track/4xI7zaSpY45SjF21ojBZAX"
     },
     {
       "album": {

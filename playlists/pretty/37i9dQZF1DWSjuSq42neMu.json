@@ -1,6 +1,6 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 716246,
+  "num_followers": 716399,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "Happy Birthday Flakko",
-        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "SIN MIRAR LAS SE\u00d1ALES",
-      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 233333,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "Happy Birthday Flakko",
+        "url": "https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SIN MIRAR LAS SE\u00d1ALES",
+      "url": "https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 142576,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -1103,26 +1087,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "PAPI JUANCHO",
-        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 198569,
-      "name": "Madrid (feat. Myke Towers)",
-      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "No Fue (feat. Brray, Feid) [Remix]",
         "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
       },
@@ -1155,6 +1119,26 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
+        "name": "PAPI JUANCHO",
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 198569,
+      "name": "Madrid (feat. Myke Towers)",
+      "url": "https://open.spotify.com/track/19OXtYzrJyCrQvTbfukt4H"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -1175,8 +1159,8 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "SHORTY QUE TE VAYA BN <3",
-        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ"
       },
       "artists": [
         {
@@ -1184,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 219681,
-      "name": "SHORTY QUE TE VAYA BN <3",
-      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+      "duration_ms": 142576,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -1203,6 +1187,42 @@
       "duration_ms": 162093,
       "name": "CAROLINA",
       "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "M\u00edrame",
+        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 377580,
+      "name": "M\u00edrame - Remix",
+      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -1251,42 +1271,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "M\u00edrame",
-        "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 377580,
-      "name": "M\u00edrame - Remix",
-      "url": "https://open.spotify.com/track/53uKGbcMjEc2gIWbfmvpdS"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
+        "name": "SHORTY QUE TE VAYA BN <3",
+        "url": "https://open.spotify.com/album/2TDCpT7xPs96lKz5yxJ3Hs"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 219681,
+      "name": "SHORTY QUE TE VAYA BN <3",
+      "url": "https://open.spotify.com/track/3CQDFLetMMxD5hzAnUk410"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
         "name": "Mojando Asientos (feat. Feid)",
         "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
       },
@@ -1339,6 +1339,26 @@
       "duration_ms": 252162,
       "name": "Mojando Asientos (feat. Feid)",
       "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "Entre Nosotros",
+        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "Entre Nosotros",
+      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -1363,26 +1383,6 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
-        "name": "Entre Nosotros",
-        "url": "https://open.spotify.com/album/4cEu5VC6QCq4NGYTNvwNCR"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 192352,
-      "name": "Entre Nosotros",
-      "url": "https://open.spotify.com/track/6w8yBI2vthyN9UnwO4UBWb"
     },
     {
       "added_at": "2024-07-09 14:16:39",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-07-09 14:16:39",
       "album": {
-        "name": "+Linda",
-        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "+Linda",
-      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
-    },
-    {
-      "added_at": "2024-07-09 14:16:39",
-      "album": {
         "name": "Ajena",
         "url": "https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 162901,
       "name": "Ajena (with Myke Towers, Dylan Fuentes)",
       "url": "https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX"
+    },
+    {
+      "added_at": "2024-07-09 14:16:39",
+      "album": {
+        "name": "+Linda",
+        "url": "https://open.spotify.com/album/5ka8beHlVQAFdRm6IaZ9JQ"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "+Linda",
+      "url": "https://open.spotify.com/track/5cBrOhKDyiJF9bPGUHKkG0"
     },
     {
       "added_at": "2024-07-09 14:16:39",

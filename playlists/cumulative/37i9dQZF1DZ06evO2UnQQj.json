@@ -760,7 +760,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 161911,
       "name": "Fazendo Dinheiro",
       "url": "https://open.spotify.com/track/3qY3VmHFWbn87ivZgD6fku"
@@ -1482,6 +1482,32 @@
       "duration_ms": 123596,
       "name": "Noite Quente de Ver\u00e3o",
       "url": "https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1"
+    },
+    {
+      "album": {
+        "name": "A LIRA",
+        "url": "https://open.spotify.com/album/2EytQiE1KroK9Bq9d9H4mq"
+      },
+      "artists": [
+        {
+          "name": "Bandolla Records BD2L",
+          "url": "https://open.spotify.com/artist/5e5cOOlUYn0IAMpLBC5eQ4"
+        },
+        {
+          "name": "Braga BD2L",
+          "url": "https://open.spotify.com/artist/5YJ9N78nzojEG1eTlvLvEt"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "N\u00e3o Ta F\u00e1cil Pra Malandro",
+      "url": "https://open.spotify.com/track/2Gam9oDYQ4tc57sZMqZB9c"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Everydaze (Taiwan)",
-  "num_followers": 104823,
+  "num_followers": 104871,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
+        "name": "Rahsia Tuhan",
+        "url": "https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP"
+      },
+      "artists": [
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "duration_ms": 287071,
+      "name": "Rahsia Tuhan",
+      "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
+    },
+    {
+      "added_at": "2024-11-29 02:51:15",
+      "album": {
         "name": "b\u00ecnh y\u00ean",
         "url": "https://open.spotify.com/album/6DeqUBJYtfvtw8pcpEJqna"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 201655,
       "name": "b\u00ecnh y\u00ean",
       "url": "https://open.spotify.com/track/5IZDnmnMBzLnE6APoYL26d"
-    },
-    {
-      "added_at": "2024-11-29 02:51:15",
-      "album": {
-        "name": "Rahsia Tuhan",
-        "url": "https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP"
-      },
-      "artists": [
-        {
-          "name": "Noh Salleh",
-          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
-        }
-      ],
-      "duration_ms": 287071,
-      "name": "Rahsia Tuhan",
-      "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "Putus",
-        "url": "https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp"
-      },
-      "artists": [
-        {
-          "name": "Pamungkas",
-          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-        }
-      ],
-      "duration_ms": 213007,
-      "name": "Putus",
-      "url": "https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3"
-    },
-    {
-      "added_at": "2024-11-29 02:51:15",
-      "album": {
         "name": "\u74e6\u5408",
         "url": "https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "happy endings do exist",
-        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
+        "name": "Putus",
+        "url": "https://open.spotify.com/album/1Qh6C1BoR26xAOVdvZEwqp"
       },
       "artists": [
         {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+          "name": "Pamungkas",
+          "url": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
         }
       ],
-      "duration_ms": 197100,
-      "name": "happy endings do exist",
-      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
+      "duration_ms": 213007,
+      "name": "Putus",
+      "url": "https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1107,6 +1091,22 @@
       "duration_ms": 256000,
       "name": "\u0e19\u0e35\u0e48\u0e09\u0e31\u0e19\u0e40\u0e2d\u0e07\u0e04\u0e19\u0e17\u0e35\u0e48...",
       "url": "https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1"
+    },
+    {
+      "added_at": "2024-11-29 02:51:15",
+      "album": {
+        "name": "happy endings do exist",
+        "url": "https://open.spotify.com/album/5hb3yY4LWxh6Z9cL0h7vCL"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "duration_ms": 197100,
+      "name": "happy endings do exist",
+      "url": "https://open.spotify.com/track/3f3UiKcmfzCkeV0QxOnBK9"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "play with earth! 0.03 (extended)",
-        "url": "https://open.spotify.com/album/4jBFN4Em3PmeTmJLGT2NDQ"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 200943,
-      "name": "annie. (clean)",
-      "url": "https://open.spotify.com/track/5E84ZtPQnMZrsXLhBXn7n6"
-    },
-    {
-      "added_at": "2024-11-29 02:51:15",
-      "album": {
         "name": "Weirdo",
         "url": "https://open.spotify.com/album/3UXtvSzgnZGaPl9w9jnPn2"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 260191,
       "name": "Lia",
       "url": "https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv"
+    },
+    {
+      "added_at": "2024-11-29 02:51:15",
+      "album": {
+        "name": "play with earth! 0.03 (extended)",
+        "url": "https://open.spotify.com/album/4jBFN4Em3PmeTmJLGT2NDQ"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 200943,
+      "name": "annie. (clean)",
+      "url": "https://open.spotify.com/track/5E84ZtPQnMZrsXLhBXn7n6"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "\u4e00\u500b\u773c\u795e",
-        "url": "https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu"
+        "name": "All The Way Home",
+        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
       },
       "artists": [
         {
-          "name": "my little airport",
-          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
         }
       ],
-      "duration_ms": 177214,
-      "name": "\u4e00\u500b\u773c\u795e",
-      "url": "https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn"
+      "duration_ms": 167100,
+      "name": "All The Way Home",
+      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "All The Way Home",
-        "url": "https://open.spotify.com/album/5Trqw7SQqbXfQnXHLzLnEN"
+        "name": "\u4e00\u500b\u773c\u795e",
+        "url": "https://open.spotify.com/album/4fVbAQA7z7qeE3eg5zV6Uu"
       },
       "artists": [
         {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+          "name": "my little airport",
+          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
         }
       ],
-      "duration_ms": 167100,
-      "name": "All The Way Home",
-      "url": "https://open.spotify.com/track/3lNxMw1toz8dCBt0wx9DWf"
+      "duration_ms": 177214,
+      "name": "\u4e00\u500b\u773c\u795e",
+      "url": "https://open.spotify.com/track/6BtPxWB4UsgZraWugItyrn"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
+        "name": "NOICE",
+        "url": "https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7"
+      },
+      "artists": [
+        {
+          "name": "WIM",
+          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
+        }
+      ],
+      "duration_ms": 165769,
+      "name": "Sweetest Potion",
+      "url": "https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH"
+    },
+    {
+      "added_at": "2024-11-29 02:51:15",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 130666,
       "name": "\u623f\u5c4b\u4f9b\u61c9\u554f\u984c",
       "url": "https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw"
-    },
-    {
-      "added_at": "2024-11-29 02:51:15",
-      "album": {
-        "name": "NOICE",
-        "url": "https://open.spotify.com/album/5iSkQWeQWVlnUUkUfjfZQ7"
-      },
-      "artists": [
-        {
-          "name": "WIM",
-          "url": "https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz"
-        }
-      ],
-      "duration_ms": 165769,
-      "name": "Sweetest Potion",
-      "url": "https://open.spotify.com/track/0rGcQmyySw5SfjEFkIwVGH"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
-        "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
-        "url": "https://open.spotify.com/album/6cIC9hz4plOw5m0BKp0d8w"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 172245,
-      "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
-      "url": "https://open.spotify.com/track/1nzyPpKOWjeoTHZuLhXXDC"
-    },
-    {
-      "added_at": "2024-11-29 02:51:15",
-      "album": {
         "name": "Retro-39 - Single",
         "url": "https://open.spotify.com/album/7z3hLL1p2l0XyzjKWK7cKB"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2024-11-29 02:51:15",
       "album": {
+        "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
+        "url": "https://open.spotify.com/album/6cIC9hz4plOw5m0BKp0d8w"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 172245,
+      "name": "\u5df4\u9ece\u7684\u591c\u665a\u8d70\u8d70",
+      "url": "https://open.spotify.com/track/1nzyPpKOWjeoTHZuLhXXDC"
+    },
+    {
+      "added_at": "2024-11-29 02:51:15",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
       },
@@ -1659,22 +1659,6 @@
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
-    },
-    {
-      "added_at": "2024-11-29 02:51:15",
-      "album": {
-        "name": "\u5a01\u58eb\u5fcc",
-        "url": "https://open.spotify.com/album/1uJzvjFpaQWOZpe2H3lfIE"
-      },
-      "artists": [
-        {
-          "name": "my little airport",
-          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
-        }
-      ],
-      "duration_ms": 177335,
-      "name": "\u5a01\u58eb\u5fcc",
-      "url": "https://open.spotify.com/track/0FGkzJY7uDgzN26n6lWHx7"
     },
     {
       "added_at": "2024-11-29 02:51:15",
@@ -1707,6 +1691,22 @@
       "duration_ms": 241317,
       "name": "\u4f60\u7684\u6a23\u5b50",
       "url": "https://open.spotify.com/track/1sMvq3uR6whC43orwSTHCz"
+    },
+    {
+      "added_at": "2024-11-29 02:51:15",
+      "album": {
+        "name": "\u5a01\u58eb\u5fcc",
+        "url": "https://open.spotify.com/album/1uJzvjFpaQWOZpe2H3lfIE"
+      },
+      "artists": [
+        {
+          "name": "my little airport",
+          "url": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0"
+        }
+      ],
+      "duration_ms": 177335,
+      "name": "\u5a01\u58eb\u5fcc",
+      "url": "https://open.spotify.com/track/0FGkzJY7uDgzN26n6lWHx7"
     }
   ],
   "unique_name": ".ORG",

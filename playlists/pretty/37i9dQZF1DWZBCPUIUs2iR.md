@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 
 > A compilation of the all\-time biggest hits in Country Music\. Cover: Dolly Parton
 
-[Spotify](https://open.spotify.com/user/spotify) - 731,561 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 731,685 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 52 | [Love Without End, Amen](https://open.spotify.com/track/4pFNWAU8e8F32NQkMyLAZi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Livin' It Up](https://open.spotify.com/album/56kF3zaRZS3BO1eNiyBLtO) | 3:07 |
 | 53 | [Just To See You Smile](https://open.spotify.com/track/2op0kDNARK2VHWHntEeH4g) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:35 |
 | 54 | [Convoy](https://open.spotify.com/track/6dGWq08LXuIw6T2oUeHECh) | [C.W\. McCall](https://open.spotify.com/artist/0iTkPxRldzi5lmS6qZ70JV) | [C.W\. McCall's Greatest Hits](https://open.spotify.com/album/6XbZ0Hc2LQaLJuUaFrHfTY) | 3:50 |
-| 55 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
+| 55 | [God Gave Me You](https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:49 |
 | 56 | [I Will Always Love You](https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:56 |
-| 57 | [God Gave Me You](https://open.spotify.com/track/0w9LJae3sVlZlH2CnxTInF) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Red River Blue \(Deluxe Edition\)](https://open.spotify.com/album/1WXCjIDp84rJN6Sa1Um9kJ) | 3:49 |
+| 57 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
 | 58 | [I Swear](https://open.spotify.com/track/7wIaLkbQzG6HMnE28etnif) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 4:22 |
 | 59 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 |
 | 60 | [Ain't Nothing 'Bout You](https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 3:19 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBCPUIUs2iR.md) - [plain]
 | 90 | [Should've Been A Cowboy](https://open.spotify.com/track/4EDBgrYqYQ6b50yhJWKsHp) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Greatest Hits](https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u) | 3:29 |
 | 91 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/7b05yUcjnxPDUhWNL4nE3K) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Greatest Hits](https://open.spotify.com/album/2p6Kod7VSlWtuQG5N6K2qF) | 2:47 |
 | 92 | [A Good Hearted Woman \- Live at Western Place, Dallas, Texas \- September 25, 1974](https://open.spotify.com/track/1B3wswoDyVdEbWO9lmEzSk) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Greatest Hits](https://open.spotify.com/album/5Fx4B1UYRtbc3sbhca9OZo) | 2:58 |
-| 93 | [All the Gold In California](https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526) | [Larry Gatlin & The Gatlin Brothers](https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS) | [Straight Ahead \(Expanded Edition\)](https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ) | 2:37 |
-| 94 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
-| 95 | [If We Make It Through December](https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Hag's Christmas](https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8) | 2:43 |
+| 93 | [If We Make It Through December](https://open.spotify.com/track/4sTlOOWxFx5dR7SZmi7S79) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Hag's Christmas](https://open.spotify.com/album/1zV3LT0oE6DW2BWnrNOXf8) | 2:43 |
+| 94 | [All the Gold In California](https://open.spotify.com/track/6yLDMogQVRdVmwlh8uw526) | [Larry Gatlin & The Gatlin Brothers](https://open.spotify.com/artist/0KzlJXg6A3NVSCkRjecKnS) | [Straight Ahead \(Expanded Edition\)](https://open.spotify.com/album/1XNfE0t3kM8zV4XVqPDHNQ) | 2:37 |
+| 95 | [It's Just a Matter of Time](https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [No Holdin' Back](https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP) | 3:55 |
 | 96 | [Is Anybody Goin' to San Antone](https://open.spotify.com/track/2hbrah0o7ppR1HeQkDvLhj) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [The Essential Charley Pride](https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75) | 2:13 |
 | 97 | [Lesson In Leavin'](https://open.spotify.com/track/0xo5dRgtkZlR2zNJwSYB37) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [All\-Time Greatest Hits](https://open.spotify.com/album/2W0uJ9ehsjiInD1CDvVHHX) | 3:40 |
 | 98 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |

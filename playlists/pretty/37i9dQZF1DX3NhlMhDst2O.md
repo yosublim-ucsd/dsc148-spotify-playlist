@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Porque el romance nunca pasará de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,548 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,709 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 5 | [Corazón De Roca](https://open.spotify.com/track/6Ee814wVq9qxN9qW2KGtru) | [Los Fresno](https://open.spotify.com/artist/1SKoHnOYqNnRyPjKiiX7pU) | [Emonciones Sin Limite \(Volumen 5\)](https://open.spotify.com/album/4JdwBtjOiUEPiRfBYT5D42) | 3:15 |
 | 6 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5ozZHuU1nWqq2UaFM9xa5A) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Como Te Extraño Mi Amor](https://open.spotify.com/album/6LT09D1zPnXGS3mLvpReVm) | 2:55 |
 | 7 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
-| 8 | [Supe Perder](https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:57 |
-| 9 | [Nunca Voy a Olvidarte](https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:20 |
+| 8 | [Nunca Voy a Olvidarte](https://open.spotify.com/track/7AbWRB5vMPUYSXeHhdlUSQ) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje y Tierno](https://open.spotify.com/album/5G8bYboLyckwegeBdr7Ati) | 2:20 |
+| 9 | [Supe Perder](https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW) | [Los Caminantes](https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut) | [Nuestras Canciones Romanticas Favoritas "20 Exitazos"](https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM) | 2:57 |
 | 10 | [Amor Querido](https://open.spotify.com/track/28ybanxKBA9n0zUpqVmB03) | [Los Silver](https://open.spotify.com/artist/6Gq2KFKpQgJgoLPDtxdRtD) | [15 Exitos De Los Silver](https://open.spotify.com/album/02AOEqMXKTeyT91mm7VXx1) | 4:23 |
 | 11 | [Mi Vida Eres Tú](https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX) | [Los Temerarios](https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3) | [Mi Vida Eres Tú](https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE) | 4:10 |
 | 12 | [Volveré](https://open.spotify.com/track/350kyj3PwTFlQMOpWzRd3O) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Diego En Los 70](https://open.spotify.com/album/1ohlNZAwfRCOaMQxKsQDIb) | 4:02 |
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 22 | [O Quizás Simplemente Le Regale una Rosa](https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Fuiste Mía un Verano](https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm) | 3:19 |
 | 23 | [Mary Es Mi Amor](https://open.spotify.com/track/7rtaRzuEKom36ZmQSmL6EB) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Triunfador de América](https://open.spotify.com/album/3ugVckz2VVhaPa5XxkFpDF) | 3:12 |
 | 24 | [Lamento De Amor](https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:15 |
-| 25 | [Mi amor es para ti](https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:53 |
+| 25 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
 | 26 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/7fUuC299Gjpe7gkW3pBbZp) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Volveré A Conquistarte](https://open.spotify.com/album/691ZR6kaZeK4JS4tQGPuQf) | 3:56 |
 | 27 | [Murió La Flor](https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 3:22 |
 | 28 | [A Donde Vayas](https://open.spotify.com/track/3yb8pakJMZzfiK7siLZLUM) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs) | 3:28 |
 | 29 | [Qué Tiene la Niña](https://open.spotify.com/track/68tjkySJsysjABJ5HATZLR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [El Fenómeno](https://open.spotify.com/album/7ANVnqecz5GSEmVcYOog6c) | 2:39 |
-| 30 | [Ultimas Noticias](https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I) | [Viento Y Sol](https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s) | [Últimas Noticias](https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177) | 2:53 |
+| 30 | [Mi amor es para ti](https://open.spotify.com/track/7pVViW51vp66dqaBRkmAv7) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Serie Diamante \(USA\)](https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer) | 2:53 |
 | 31 | [Dame Un Beso Y Dime Adiós](https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Serie 32: Yndio](https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE) | 3:27 |
 | 32 | [La Última Canción](https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [El Quinto Trago](https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du) | 4:18 |
 | 33 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 74 | [Ding Dong, Ding Dong, Estas Cosas del Amor](https://open.spotify.com/track/0gWjaiCtTkyssyspHGXYuh) | [Leonardo Favio](https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/1XvQfWQRrpGZPa71q1ZBdh) | 3:31 |
 | 75 | [Porque Nos Dijimos Adios](https://open.spotify.com/track/01GNedXgGbn3vW28rRjnMh) | [Yndio](https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg) | [Lo Basico](https://open.spotify.com/album/4PvLHMuUveLw9A1FpGulDS) | 3:07 |
 | 76 | [Cuatro Lagrimas](https://open.spotify.com/track/2XNyz6up4JxH6m6xmYX8wr) | [Los Polifaceticos](https://open.spotify.com/artist/3OOAJERutoeZax0lNsSWbK) | [Coleccion Suprema Plus\- Los Polifaceticos](https://open.spotify.com/album/5EhuEeRwzgNV4TVLqcDD0i) | 3:07 |
-| 77 | [Tú Eres](https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx) | [Generacion 2000](https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:20 |
-| 78 | [Como Me Gusta Quererte](https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY) | [Los Bondadosos](https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE) | [17 Super Exitos](https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu) | 3:26 |
+| 77 | [Como Me Gusta Quererte](https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY) | [Los Bondadosos](https://open.spotify.com/artist/0YUKqx7Lwb3synsaME2kQE) | [17 Super Exitos](https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu) | 3:26 |
+| 78 | [Tú Eres](https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx) | [Generacion 2000](https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 2:20 |
 | 79 | [Por qué?](https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Sólo para enamorados](https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8) | 3:03 |
 | 80 | [Pecado Mortal](https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5) | [Los Barbaros](https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX) | [Solo Para Ti](https://open.spotify.com/album/3LRXbYxa6LgY8W7jUHYNnk) | 3:26 |
 | 81 | [Tu Con El](https://open.spotify.com/track/0QwRB5Q6nxAN0AsLavgFOa) | [Los Iracundos](https://open.spotify.com/artist/0xpMy6DeMBWX8zTURxB4h5) | [Homenaje](https://open.spotify.com/album/4zTKmaPE1ExcLpq9L5FGYd) | 4:19 |

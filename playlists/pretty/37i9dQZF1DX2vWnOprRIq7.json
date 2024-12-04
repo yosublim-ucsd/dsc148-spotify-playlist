@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring La Valenti",
-  "num_followers": 19475,
+  "num_followers": 19478,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,26 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Hechizao (Pyura Remix)",
+        "url": "https://open.spotify.com/album/3uEpl1UF9dQCItTO8eoVrl"
+      },
+      "artists": [
+        {
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 206620,
+      "name": "Hechizao - Pyura Remix",
+      "url": "https://open.spotify.com/track/1CFQUCHVBjIBGBsPB0Ngg5"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Amor de Verano (Remix)",
         "url": "https://open.spotify.com/album/6ynnVbhwIZWRyuqaMulSgc"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 183663,
       "name": "Lunes Por La Madrugada",
       "url": "https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Hechizao (Pyura Remix)",
-        "url": "https://open.spotify.com/album/3uEpl1UF9dQCItTO8eoVrl"
-      },
-      "artists": [
-        {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 206620,
-      "name": "Hechizao - Pyura Remix",
-      "url": "https://open.spotify.com/track/1CFQUCHVBjIBGBsPB0Ngg5"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Hay que venir al Sur",
-        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
-      },
-      "artists": [
-        {
-          "name": "Ibiza Pareo",
-          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Hay que venir al Sur",
-      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "TODO SOBRE LA NADA",
         "url": "https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9"
       },
@@ -495,6 +479,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Hay que venir al Sur",
+        "url": "https://open.spotify.com/album/79McrtCPCUlgiwEsAppGZC"
+      },
+      "artists": [
+        {
+          "name": "Ibiza Pareo",
+          "url": "https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Hay que venir al Sur",
+      "url": "https://open.spotify.com/track/2rHam5fmV5AFgHJNk80hHi"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Paralelos",
         "url": "https://open.spotify.com/album/546I7TC2jo8xjpQ8wOdYWl"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 232500,
       "name": "Paralelos",
       "url": "https://open.spotify.com/track/5w3HWGK9jV9Q4CJRnpDtCe"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Nuestros Besos",
-        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Nuestros Besos",
-      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -543,6 +527,22 @@
       "duration_ms": 176829,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2IbjTBfzDUwBFVGGi1AbtG"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Nuestros Besos",
+        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Nuestros Besos",
+      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "El Im\u00e1n (Remix)",
+        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        },
+        {
+          "name": "Santiago Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "El Im\u00e1n - Remix",
+      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 178091,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/4mH56106svjYOZy6aZvsGC"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "El Im\u00e1n (Remix)",
-        "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        },
-        {
-          "name": "Santiago Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "El Im\u00e1n - Remix",
-      "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1503,46 +1503,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Los Abismos Negros",
-        "url": "https://open.spotify.com/album/4bcsuLMSxNFcfbR0NelEnd"
-      },
-      "artists": [
-        {
-          "name": "La Danza de las Bestias",
-          "url": "https://open.spotify.com/artist/4j14FazjpzqFRuICpOOwbA"
-        },
-        {
-          "name": "Corresponsal",
-          "url": "https://open.spotify.com/artist/7b9f0rwBf8vv8sgDxutQg0"
-        }
-      ],
-      "duration_ms": 411428,
-      "name": "Los Abismos Negros - Corresponsal Remix",
-      "url": "https://open.spotify.com/track/0G56lwXL8nECeC239CXSu4"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Arde",
-        "url": "https://open.spotify.com/album/5me5lcvtqBcly58BKl6LCX"
-      },
-      "artists": [
-        {
-          "name": "dinastia",
-          "url": "https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp"
-        },
-        {
-          "name": "Halpe",
-          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
-        }
-      ],
-      "duration_ms": 179612,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Suave Vendaval (DJ TOI Remix)",
         "url": "https://open.spotify.com/album/6d8i9h6IISlAXUJ4rLwyE3"
       },
@@ -1583,22 +1543,42 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "fotos\u00edntesis",
-        "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
+        "name": "Arde",
+        "url": "https://open.spotify.com/album/5me5lcvtqBcly58BKl6LCX"
       },
       "artists": [
         {
-          "name": "los romances",
-          "url": "https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J"
+          "name": "dinastia",
+          "url": "https://open.spotify.com/artist/34y6hMib20KsOtCnuXRNgp"
         },
         {
-          "name": "El Chacal & Los Alpes Floreados",
-          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+          "name": "Halpe",
+          "url": "https://open.spotify.com/artist/5fUaIEaRhzIad7C49MqTsy"
         }
       ],
-      "duration_ms": 187826,
-      "name": "fotos\u00edntesis",
-      "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
+      "duration_ms": 179612,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/2t59QBQmAiGuXNjb4jc7Qh"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Los Abismos Negros",
+        "url": "https://open.spotify.com/album/4bcsuLMSxNFcfbR0NelEnd"
+      },
+      "artists": [
+        {
+          "name": "La Danza de las Bestias",
+          "url": "https://open.spotify.com/artist/4j14FazjpzqFRuICpOOwbA"
+        },
+        {
+          "name": "Corresponsal",
+          "url": "https://open.spotify.com/artist/7b9f0rwBf8vv8sgDxutQg0"
+        }
+      ],
+      "duration_ms": 411428,
+      "name": "Los Abismos Negros - Corresponsal Remix",
+      "url": "https://open.spotify.com/track/0G56lwXL8nECeC239CXSu4"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1623,6 +1603,26 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "fotos\u00edntesis",
+        "url": "https://open.spotify.com/album/4hLgPK4dCOyUaE8z6Q9AZB"
+      },
+      "artists": [
+        {
+          "name": "los romances",
+          "url": "https://open.spotify.com/artist/7srAOn17fO00nYRZiJkH0J"
+        },
+        {
+          "name": "El Chacal & Los Alpes Floreados",
+          "url": "https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "fotos\u00edntesis",
+      "url": "https://open.spotify.com/track/6Z161cZhRgJLlmdyLoWyBd"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Butoh iA",
-        "url": "https://open.spotify.com/album/2iirGJgI6LPselOdsVtSTv"
-      },
-      "artists": [
-        {
-          "name": "Estro Pascal",
-          "url": "https://open.spotify.com/artist/5oPmEYoBA6Z5flhejZDjas"
-        },
-        {
-          "name": "nohedormidonada",
-          "url": "https://open.spotify.com/artist/0N9NlW4au3lXD1xrnjhy2K"
-        }
-      ],
-      "duration_ms": 143418,
-      "name": "Butoh iA",
-      "url": "https://open.spotify.com/track/7smS5jmBngHw6BkHuWHRKW"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Bocado a Bocado",
         "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 187433,
       "name": "Bocado a Bocado",
       "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Butoh iA",
+        "url": "https://open.spotify.com/album/2iirGJgI6LPselOdsVtSTv"
+      },
+      "artists": [
+        {
+          "name": "Estro Pascal",
+          "url": "https://open.spotify.com/artist/5oPmEYoBA6Z5flhejZDjas"
+        },
+        {
+          "name": "nohedormidonada",
+          "url": "https://open.spotify.com/artist/0N9NlW4au3lXD1xrnjhy2K"
+        }
+      ],
+      "duration_ms": 143418,
+      "name": "Butoh iA",
+      "url": "https://open.spotify.com/track/7smS5jmBngHw6BkHuWHRKW"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1751,30 +1751,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Carolo",
-        "url": "https://open.spotify.com/album/1z5297VDJ94aS5RZYDQSVN"
-      },
-      "artists": [
-        {
-          "name": "Carolo",
-          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
-        },
-        {
-          "name": "Mariana Michi",
-          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
-        },
-        {
-          "name": "Sof\u00eda Naara",
-          "url": "https://open.spotify.com/artist/1YfbK6k6rXJVRPlqELvtyE"
-        }
-      ],
-      "duration_ms": 170050,
-      "name": "monokel",
-      "url": "https://open.spotify.com/track/2pvXJAGql9fbgoqY80AjUn"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Remaches (DJ TOI Remix)",
         "url": "https://open.spotify.com/album/40sYFAMLosFPZpKVNA7IdK"
       },
@@ -1795,6 +1771,30 @@
       "duration_ms": 225640,
       "name": "Remaches - DJ TOI Remix",
       "url": "https://open.spotify.com/track/5Hq67AkX4vi16riQhN2kgX"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Carolo",
+        "url": "https://open.spotify.com/album/1z5297VDJ94aS5RZYDQSVN"
+      },
+      "artists": [
+        {
+          "name": "Carolo",
+          "url": "https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh"
+        },
+        {
+          "name": "Mariana Michi",
+          "url": "https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR"
+        },
+        {
+          "name": "Sof\u00eda Naara",
+          "url": "https://open.spotify.com/artist/1YfbK6k6rXJVRPlqELvtyE"
+        }
+      ],
+      "duration_ms": 170050,
+      "name": "monokel",
+      "url": "https://open.spotify.com/track/2pvXJAGql9fbgoqY80AjUn"
     },
     {
       "added_at": "2024-11-22 03:00:00",

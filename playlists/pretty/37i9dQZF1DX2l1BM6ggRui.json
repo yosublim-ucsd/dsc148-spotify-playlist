@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6638,
+  "num_followers": 6640,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 195515,
+      "name": "WE NEED LOVE",
+      "url": "https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/2dnjFIjZWbpZKs5JYCBsnh"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 215786,
       "name": "DREAMLIKE",
       "url": "https://open.spotify.com/track/4mBSGhDX6mvp96LJbJpmnq"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 195515,
-      "name": "WE NEED LOVE",
-      "url": "https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -827,6 +827,26 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
+        "name": "For you, my sunshine",
+        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        },
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "For you, my sunshine",
+      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
         "name": "AI (Feat. Loco)",
         "url": "https://open.spotify.com/album/09SjUlWI36jjXjcRx8qjRG"
       },
@@ -859,26 +879,6 @@
       "duration_ms": 182031,
       "name": "CAPTAIN",
       "url": "https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
-        "name": "For you, my sunshine",
-        "url": "https://open.spotify.com/album/3sHLvvjZeU64ialWeVXnOq"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        },
-        {
-          "name": "Kwon Jin Ah",
-          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
-        }
-      ],
-      "duration_ms": 226346,
-      "name": "For you, my sunshine",
-      "url": "https://open.spotify.com/track/54oF8FdfIWO7p5F878iCsS"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 171967,
-      "name": "SKIP (Feat. Wonstein)",
-      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Cat's Nap zzZ",
         "url": "https://open.spotify.com/album/701D0tYv2uuOmTCVSKIkMD"
       },
@@ -1015,18 +995,42 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+        "name": "Seoul Check-in OST Part 10",
+        "url": "https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9"
       },
       "artists": [
         {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        },
+        {
+          "name": "LEE CHANHYUK",
+          "url": "https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl"
         }
       ],
-      "duration_ms": 227866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
+      "duration_ms": 201266,
+      "name": "FREE SMILE",
+      "url": "https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 171967,
+      "name": "SKIP (Feat. Wonstein)",
+      "url": "https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 
 > Vibras rastafari para poner en sintonía el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,100 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,139 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUA2wMxEf.md) - [plain]
 | 31 | [Eres Tú](https://open.spotify.com/track/54PNVT1xT6FDtKUnR7zSsj) | [Raices y Cultura](https://open.spotify.com/artist/1atI7YjIWe7u50rp2CbkCd) | [Mística Raíz](https://open.spotify.com/album/4JStVeGijMSujCyhPs2vAb) | 3:35 |
 | 32 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
 | 33 | [La Mía](https://open.spotify.com/track/62An8eF83X04NLkdnRCIqr) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:46 |
-| 34 | [Te Regalo una Promesa](https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:24 |
-| 35 | [Besándote](https://open.spotify.com/track/4loEDSI6ev2ZAD4tnWOmv4) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Pety](https://open.spotify.com/artist/1KIAFzs3T8c4RanxT9GjZL), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Auténticos Reggaementes](https://open.spotify.com/album/3A4mYFF7YY2mZsucLHdEzr) | 3:24 |
+| 34 | [Besándote](https://open.spotify.com/track/4loEDSI6ev2ZAD4tnWOmv4) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Pety](https://open.spotify.com/artist/1KIAFzs3T8c4RanxT9GjZL), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Auténticos Reggaementes](https://open.spotify.com/album/3A4mYFF7YY2mZsucLHdEzr) | 3:24 |
+| 35 | [Te Regalo una Promesa](https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:24 |
 | 36 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 |
 | 37 | [La Playa](https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [La Playa](https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV) | 3:16 |
 | 38 | [Me Late](https://open.spotify.com/track/04YwRl721VNa4LOaADJ0uS) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Coleccion Suprema](https://open.spotify.com/album/5F7Go5CAykVMnhdnIA8MFZ) | 3:24 |

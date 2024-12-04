@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,754 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,899 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 34 | [mars](https://open.spotify.com/track/6C6aknFp2XtjIq7xuvyfuY) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:01 |
 | 35 | [Dear Agony](https://open.spotify.com/track/0c3fJd2HRi6uHWgTljIae5) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 4:18 |
 | 36 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 |
-| 37 | [Broken](https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:17 |
-| 38 | [Coming Down](https://open.spotify.com/track/22VW5d6k6HT0SQ8MUEXuDz) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe\)](https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy) | 4:01 |
+| 37 | [Coming Down](https://open.spotify.com/track/22VW5d6k6HT0SQ8MUEXuDz) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [American Capitalist \(Deluxe\)](https://open.spotify.com/album/23Zi1sfUFkw4L4TC1vrLdy) | 4:01 |
+| 38 | [Broken](https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:17 |
 | 39 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
 | 40 | [Pain](https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [Letters](https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv) | 2:59 |
 | 41 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 74 | [Biblical](https://open.spotify.com/track/2iA2pnDol3a471EFEBZf7h) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites \(Deluxe\)](https://open.spotify.com/album/4kSwfTpSCG4xVZcEn3OGrY) | 3:57 |
 | 75 | [One Of Us](https://open.spotify.com/track/5LcFvZSd8baqx1StsIitZ1) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [American Noir](https://open.spotify.com/album/4ddTgrLBjiaQbjcDeWtrUg) | 3:23 |
 | 76 | [Heavy Eyes](https://open.spotify.com/track/40aG6bhBSLm7SCIlpQzgBT) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g) | [Heavy Eyes](https://open.spotify.com/album/1BITKMMemDAY9UFLpo3YgX) | 3:55 |
-| 77 | [Great Grief](https://open.spotify.com/track/0mzrTxRfEN2jjP9CCHVY5A) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Great Grief / Atone](https://open.spotify.com/album/5Co6smDpKCGRKiBnQ17Acc) | 4:11 |
-| 78 | [Feel Nothing](https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Violent Pop](https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp) | 3:42 |
+| 77 | [Feel Nothing](https://open.spotify.com/track/26m3OLzCB09qlex7GTZS7h) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Violent Pop](https://open.spotify.com/album/2kVLN2LUjJWEtoCPllEYyp) | 3:42 |
+| 78 | [Great Grief](https://open.spotify.com/track/0mzrTxRfEN2jjP9CCHVY5A) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Great Grief / Atone](https://open.spotify.com/album/5Co6smDpKCGRKiBnQ17Acc) | 4:11 |
 | 79 | [Sunflower](https://open.spotify.com/track/6XNNzEOZP7bhxq5okbHqry) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 4:39 |
 | 80 | [I Heard That You Died](https://open.spotify.com/track/1oZSmPhctg5pEDUrvC1Kpw) | [Secret Keeper](https://open.spotify.com/artist/1PTWE7Ai94DpmZGoZ3I7RA) | [Losing Sleep](https://open.spotify.com/album/46RGSr1CHy2jWrnxt5LFgA) | 3:01 |
 

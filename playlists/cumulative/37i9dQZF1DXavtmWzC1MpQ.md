@@ -4,7 +4,7 @@
 
 > 
 
-59 songs - 2 hr 58 min
+60 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 | 2023-06-19 |  |
 | [Northern UK Forest Birds](https://open.spotify.com/track/00MSSYGZ5IjVBy4JcK3ZYk) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [The Listening Planet](https://open.spotify.com/artist/0ibpxyRfuKDpHxLbMzji2Y) | [Feathers in the Forest](https://open.spotify.com/album/7IWRzEGaJRUpRJLFNhnHYb) | 3:09 | 2024-03-26 |  |
 | [Peaceful Brook](https://open.spotify.com/track/45hVq0jzUJuTBh9f35X2f3) | [Pacific Soundscapes](https://open.spotify.com/artist/7lfs7TkGNBX0j3VO4pK70s) | [Woodland Waters](https://open.spotify.com/album/0bN5MziXZPs1UJC1bP552y) | 2:07 | 2024-08-23 |  |
+| [Piqueros](https://open.spotify.com/track/0APpPwuIGFmDOvZjhOp6iH) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Trópico](https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT) | 2:38 | 2024-12-03 |  |
 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 | 2023-06-19 |  |
 | [Presence of Thor](https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:14 | 2023-06-19 |  |
 | [Pretty Birds](https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1) | [Hinterländer](https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI) | [Country Birds](https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA) | 2:22 | 2023-06-19 |  |
@@ -50,7 +51,7 @@
 | [Rainforest](https://open.spotify.com/track/50wosj4pWpL1QHCB49mbSF) | [Rain Gems](https://open.spotify.com/artist/7nqNjOPOP42fmpwjBxWVQq) | [Rainforest Soundscapes](https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w) | 2:42 | 2023-06-19 |  |
 | [Relaxing Bird Sounds](https://open.spotify.com/track/1Ar63CC2YckvPzXe5OLtPl) | [Nano Sounds](https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7) | [Spring Birds](https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg) | 2:56 | 2023-06-19 |  |
 | [Singing Birds by the Stream](https://open.spotify.com/track/4x01eyysDx5Y4xS1LP6nHK) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 2:55 | 2023-06-19 |  |
-| [Small Waves Hitting Beach](https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 4:37 | 2023-06-19 |  |
+| [Small Waves Hitting Beach](https://open.spotify.com/track/0qLbSqEgFtyLOp1epIw1fa) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Seawaves](https://open.spotify.com/album/2i7LfUCCCko8PQpqsiwcB4) | 4:37 | 2023-06-19 | 2024-12-04 |
 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 | 2023-06-19 |  |
 | [Soul Healing Birds](https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 | 2023-06-19 |  |
 | [Spring Shower Bird Songs](https://open.spotify.com/track/7GQ7Rg1yQPawBeXAlsef7A) | [Zen Master](https://open.spotify.com/artist/21uWwnRDYtnaQC1KLHaS2a) | [Song Birds](https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU) | 2:48 | 2024-03-26 |  |

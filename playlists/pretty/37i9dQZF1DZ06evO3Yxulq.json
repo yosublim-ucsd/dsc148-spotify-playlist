@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 40088,
+  "num_followers": 40099,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAADbPHijiByjGX3JY1Nd9Brr",
+  "snapshot_id": "Z0z4gAAAAADXviU2aixNL2VQ4wiEIav+",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa proveer\u00e1s",
-        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 368020,
-      "name": "T\u00fa proveer\u00e1s",
-      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Libertador",
         "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 491232,
       "name": "Mi Libertador",
       "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa proveer\u00e1s",
+        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 368020,
+      "name": "T\u00fa proveer\u00e1s",
+      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corriente / Un D\u00eda A La Vez (Medley) [En Vivo]",
-        "url": "https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
-        }
-      ],
-      "duration_ms": 271374,
-      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
-      "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Novia",
         "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 245973,
       "name": "Donde Est\u00e1 El Esp\u00edritu de Dios",
       "url": "https://open.spotify.com/track/3ataDpjKHhWEii3cKbdS1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corriente / Un D\u00eda A La Vez (Medley) [En Vivo]",
+        "url": "https://open.spotify.com/album/4wCFnTWliu6Zv0UwweEl3F"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
+        }
+      ],
+      "duration_ms": 271374,
+      "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
+      "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
     },
     {
       "added_at": null,
@@ -959,22 +959,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adoraci\u00f3n Vol. 1",
-        "url": "https://open.spotify.com/album/4GuJtiXSnLq5tHFCWRNCF8"
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
       "artists": [
-        {
-          "name": "Adoraci\u00f3n",
-          "url": "https://open.spotify.com/artist/1TUjfvBVBLetTgJLy29Iz2"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 351542,
-      "name": "Yo Te Busco",
-      "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
+      "duration_ms": 362977,
+      "name": "Eterno (Con Cuando los Santos Marchen Ya)",
+      "url": "https://open.spotify.com/track/6Bg0B8U2GIiLVZhyYkrbPp"
     }
   ],
   "unique_name": "This Is Christine D'Clario",

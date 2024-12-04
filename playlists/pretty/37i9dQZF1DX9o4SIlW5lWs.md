@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 
 > Al corazón! Foto: Natalie Perez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,676 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,736 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9o4SIlW5lWs.md) - [plain]
 | 80 | [Adiós](https://open.spotify.com/track/2besF2Yj2Djnes75vwfVSs) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Gonzalo Castillo](https://open.spotify.com/artist/77xPFPxusAy6VVAXc6pWFg) | [Adiós](https://open.spotify.com/album/36L4sUqaahp3FbF6kQWsgb) | 2:35 |
 | 81 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 | 82 | [Será Porque Te Amo](https://open.spotify.com/track/15IWb2lHx4e7vjCV1Ye1e3) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Comboloco](https://open.spotify.com/album/7yxdbwpOcOAmXZHqEUlNi0) | 3:26 |
-| 83 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
+| 83 | [Elegante](https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Elegante](https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7) | 3:25 |
 | 84 | [Te Juro Que No Es Verdad](https://open.spotify.com/track/2aWgJioTPpqp5LRqmOngYo) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Te Juro Que No Es Verdad](https://open.spotify.com/album/4ZU9H16IMJE4EC44krbayO) | 2:35 |
-| 85 | [Elegante](https://open.spotify.com/track/5jedzAay4LJepkpoJoZ5Gz) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Elegante](https://open.spotify.com/album/2PMenTNiWlWdZzv8LVqrB7) | 3:25 |
+| 85 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
 | 86 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
 | 87 | [Otra Oportunidad](https://open.spotify.com/track/4wWSU0upTTcJ3zfFx37Cun) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Otra Oportunidad](https://open.spotify.com/album/02XPfacvzjTIhbYV2mMolk) | 2:57 |
 | 88 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |

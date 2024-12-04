@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1078621,
+  "num_followers": 1078583,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -171,18 +171,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "The Best Of M People",
-        "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
-      },
-      "artists": [
-        {
-          "name": "M People",
-          "url": "https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf"
-        }
-      ],
-      "duration_ms": 215533,
-      "name": "Moving on Up",
-      "url": "https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Screamadelica",
         "url": "https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 228266,
       "name": "Movin' on Up",
       "url": "https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "The Best Of M People",
+        "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
+      },
+      "artists": [
+        {
+          "name": "M People",
+          "url": "https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf"
+        }
+      ],
+      "duration_ms": 215533,
+      "name": "Moving on Up",
+      "url": "https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
-        "name": "American Authors",
-        "url": "https://open.spotify.com/album/0nPacNPgSycLGJdd2JnH9C"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/44AXd3UVaaVYsSQqBpnYO2"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/5A6pzfa725ZA3rhDllmX58"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 193986,
       "name": "Problem",
       "url": "https://open.spotify.com/track/3cySlItpiPiIAzU3NyHCJf"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
+        "name": "American Authors",
+        "url": "https://open.spotify.com/album/0nPacNPgSycLGJdd2JnH9C"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/44AXd3UVaaVYsSQqBpnYO2"
     },
     {
       "added_at": "2024-03-22 16:40:22",

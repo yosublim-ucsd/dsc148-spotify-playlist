@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "A M\u00ed",
+        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "A M\u00ed",
+      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
+    },
+    {
+      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 357266,
       "name": "Bitter Sweet Symphony - Remastered 2016",
       "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
@@ -2814,7 +2832,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 162204,
       "name": "DURO",
       "url": "https://open.spotify.com/track/18ngz35nTD4rzldysVtN4o"
@@ -5246,7 +5264,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/2HBBM75Xv3o2Mqdyh1NcM0"
@@ -5392,7 +5410,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 183170,
       "name": "Hola, qu\u00e9 tal?",
       "url": "https://open.spotify.com/track/5Z8nG5FVaBbASxtlVBu44v"
@@ -6012,7 +6030,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
@@ -6048,7 +6066,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
@@ -6271,6 +6289,28 @@
     },
     {
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Kh\u00e9?",
+      "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
+    },
+    {
+      "album": {
         "name": "Kilerito",
         "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
       },
@@ -6352,6 +6392,60 @@
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
+    },
+    {
+      "album": {
+        "name": "Cant del 125\u00e8 aniversari del FC Barcelona",
+        "url": "https://open.spotify.com/album/7bYp9Jqq0wgPAEdS4OVOrJ"
+      },
+      "artists": [
+        {
+          "name": "FC Barcelona",
+          "url": "https://open.spotify.com/artist/2zfI0nMFZdaQrFDx9l5OSR"
+        },
+        {
+          "name": "Georgina Blanch",
+          "url": "https://open.spotify.com/artist/43EigKXw7hNmxy22j5xf2u"
+        },
+        {
+          "name": "Miquel Biarn\u00e9s",
+          "url": "https://open.spotify.com/artist/1Ux6nUHn6aQ16ec7Yz4d4U"
+        },
+        {
+          "name": "Joana Subirats",
+          "url": "https://open.spotify.com/artist/0rqZUzv0whfR5QP664QuIZ"
+        },
+        {
+          "name": "Marina Rico",
+          "url": "https://open.spotify.com/artist/7pzObvipHb8ZZtF4U7VNgm"
+        },
+        {
+          "name": "Gemma Planella",
+          "url": "https://open.spotify.com/artist/3HHJWfXRWF1idVFVLKiJXL"
+        },
+        {
+          "name": "Noemi Gallardo",
+          "url": "https://open.spotify.com/artist/30Mn6xigApWWSQ1y91DBP6"
+        },
+        {
+          "name": "Iago Garcia",
+          "url": "https://open.spotify.com/artist/3SQF6tVsYJC8Md2R8tFFzl"
+        },
+        {
+          "name": "Xavi Ben\u00edtez",
+          "url": "https://open.spotify.com/artist/3ClYnwtdzwZcPxS2lBhM2D"
+        },
+        {
+          "name": "Dracs 1991",
+          "url": "https://open.spotify.com/artist/27cWqOnw4x8RLYarLzv7n7"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170172,
+      "name": "L'escut al pit (cant finalista del 125\u00e8 aniversari del Bar\u00e7a)",
+      "url": "https://open.spotify.com/track/4Vn5VasiV1SUGZArly3EsG"
     },
     {
       "album": {
@@ -7125,6 +7219,24 @@
     },
     {
       "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169353,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
+    },
+    {
+      "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
@@ -7386,7 +7498,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 176000,
       "name": "Los Lugares Donde Ir\u00e1s",
       "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
@@ -8264,7 +8376,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello & Malachiii)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
@@ -8730,7 +8842,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-28",
+      "date_removed": null,
       "duration_ms": 187046,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/2MJlcHWfkA651gpiCRJ2TE"
@@ -9228,7 +9340,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 231386,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/4P0osvTXoSYZZC2n8IFH3c"
@@ -9739,6 +9851,24 @@
     },
     {
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "album": {
         "name": "PRIMERA MUSA",
         "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
       },
@@ -9914,6 +10044,28 @@
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/0RD94y2DlYTzEePb4WuVbU"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
       "album": {
@@ -10448,6 +10600,28 @@
       "duration_ms": 159636,
       "name": "Scared To Start",
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240179,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C"
     },
     {
       "album": {
@@ -11238,7 +11412,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-30",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "SOLUCIONS i NO PROBLEMES",
       "url": "https://open.spotify.com/track/4ZwCcWOVTwvKwSuFbhiafN"
@@ -11848,7 +12022,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 139546,
       "name": "TAMBI\u00c9N",
       "url": "https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M"
@@ -12340,7 +12514,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -12362,7 +12536,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
@@ -12808,7 +12982,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 170480,
       "name": "Tu Silueta",
       "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
@@ -12914,6 +13088,24 @@
       "duration_ms": 204746,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/7xX3wvvcZvxGCa06KlgTCp"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289131,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junaid Jamshed
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,777 likes - 70 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,797 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 30 | [Channo](https://open.spotify.com/track/7sVZyeg9O5aMaqikhAH0DM) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 |
 | 31 | [Saari Raat](https://open.spotify.com/track/3mYsmSJruBRGkaw0VGRqhJ) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:24 |
 | 32 | [Parinda](https://open.spotify.com/track/4XtdI2a4MiB6Yk6MPwlSR4) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Parinda](https://open.spotify.com/album/5eWLyDcaKeUYnpcmsCM1Oq) | 4:21 |
-| 33 | [Sanu Tere Nal](https://open.spotify.com/track/3Kfy9WwK8XDhR7bk86Dz9W) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Bay Ja Cycle Tay](https://open.spotify.com/album/6uKjfTWErBupbZzKFr3JQA) | 5:09 |
-| 34 | [Na Ra Na Re](https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:41 |
+| 33 | [Na Ra Na Re](https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:41 |
+| 34 | [Sanu Tere Nal](https://open.spotify.com/track/3Kfy9WwK8XDhR7bk86Dz9W) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Bay Ja Cycle Tay](https://open.spotify.com/album/6uKjfTWErBupbZzKFr3JQA) | 5:09 |
 | 35 | [Maahi Ve](https://open.spotify.com/track/0lgNMu8Ji0P3tLw83q5xgz) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Mantra](https://open.spotify.com/album/6XvUyMCDtDODSxY15yInXC) | 4:47 |
 | 36 | [Mahbooba](https://open.spotify.com/track/33QlB4QT6ch7weJkrziPzZ) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Lagan](https://open.spotify.com/album/0G3x2gvv9mln6cJvCdyML2) | 4:38 |
 | 37 | [Anjane](https://open.spotify.com/track/57Dbp1AR7YQQUO2yuH9Chs) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 4:49 |

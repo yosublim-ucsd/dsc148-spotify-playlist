@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,906 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,931 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 8 | [2 seater](https://open.spotify.com/track/3hU9W3drI6DjpQnvx53osT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [2 seater](https://open.spotify.com/album/67CW3pOkOhn5ugepbhxCJ4) | 1:05 |
 | 9 | [Talk 2 Me](https://open.spotify.com/track/6pPLhloHxLWiMlAT5Xn1gw) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:19 |
 | 10 | [Altitude](https://open.spotify.com/track/5OsHySqSwYLLfot5EswbON) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 2:44 |
-| 11 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 |
-| 12 | [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 |
+| 11 | [i cant tell \(love my money\)](https://open.spotify.com/track/0oZ4efjL1w7SQPAo6ud5lI) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/0Y2zQQCPC9PGa24Jku0rle) | 2:43 |
+| 12 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 |
 | 13 | [And i'd go a thousand miles](https://open.spotify.com/track/4XAAxqgd94HLvDQWc0EkDa) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
 | 14 | [Pretend Lovers](https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:13 |
 | 15 | [Who Did You Touch?](https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Hold](https://open.spotify.com/track/5W8yr9NaKicLrGEtl0KBdh) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/03VAghRQNBLnGT8f8g9wE7) | 2:31 |
 | 50 | [Stay With Me](https://open.spotify.com/track/2rNn1oM0VdMHIGN5YmPDmf) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/13G65Pa4a3yM8pfN8wLrH3) | 4:36 |
 
-Snapshot ID: `Z0unAAAAAACFWhqIfKeHa9eZoeHIu/2b`
+Snapshot ID: `Z0z4gAAAAAC4+YCbgCmkyt/vi/j9+aFN`

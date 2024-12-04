@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,093 songs - 11 day 4 hr 53 min
+7,095 songs - 11 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2257,7 +2257,7 @@
 | [Fountain](https://open.spotify.com/track/4vmULkwdCBWcjA19NEjCD4) | [Perry Goldfish](https://open.spotify.com/artist/4lom5jgcjrLwLQLmdi4gQZ) | [Fountain](https://open.spotify.com/album/5y0JNEwLdrZI5JDjrEJqSB) | 3:07 | 2021-12-17 | 2022-08-19 |
 | [Four Seasons](https://open.spotify.com/track/29kvrLzNSVoRiqE11df09X) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Four Seasons](https://open.spotify.com/album/6ubexppDoj11WHRiTpVHD4) | 1:55 | 2019-12-22 | 2021-02-04 |
 | [Fourteen Books](https://open.spotify.com/track/1JoPAGWFkF7enigf7MtgcT) | [maqhiavelli](https://open.spotify.com/artist/67ww86OQXukoNS13vNhNM2) | [Fourteen Books](https://open.spotify.com/album/0dFrYvV6AYgISLCNpCqtG6) | 2:28 | 2022-07-15 | 2022-10-28 |
-| [fourward](https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [fourward](https://open.spotify.com/album/0zWIxArfQueJrxoLVPGXkJ) | 2:42 | 2022-01-07 |  |
+| [fourward](https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [fourward](https://open.spotify.com/album/0zWIxArfQueJrxoLVPGXkJ) | 2:42 | 2022-01-07 | 2024-12-04 |
 | [Fractures](https://open.spotify.com/track/4vUi7jdRNbJfcKCrkNDbbU) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Fractures](https://open.spotify.com/album/6XgZXPKMqxTt4ScnDZPr6O) | 3:02 | 2022-05-27 | 2022-09-23 |
 | [fragile](https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV) | [frid](https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe) | [fragile](https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd) | 2:31 | 2024-11-15 |  |
 | [Fragments](https://open.spotify.com/track/2QCuFQMtOre4xzLglVQAOP) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf) | [Fragments](https://open.spotify.com/album/6c1f28v4fH9t5lQ4xa1AO2) | 2:00 | 2024-10-25 |  |
@@ -3293,7 +3293,7 @@
 | [Lagoon](https://open.spotify.com/track/5aidF2hCWfajgLcoTSzFn0) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Lagoon](https://open.spotify.com/album/5vfydoxWg2VftZ4QIC8MA3) | 2:37 | 2022-02-14 | 2022-07-22 |
 | [Laguna](https://open.spotify.com/track/16kdntLVpPWh3L1r13Ik7D) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Bluewerks Vol\. 6: Open The Window](https://open.spotify.com/album/0tyoFw0elRFrj1Eahb9qsU) | 2:09 | 2022-02-14 | 2022-07-22 |
 | [Laid Back](https://open.spotify.com/track/4obY44lU6QLfMvmVauZBsy) | [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [Laid Back](https://open.spotify.com/album/34LcvJd6aCAO5b5ElMWSrc) | 2:30 | 2021-01-16 | 2022-01-14 |
-| [Laid\-Back Skylines](https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Laid\-Back Skylines](https://open.spotify.com/album/6BDP79MYOUZsLmq0Gsjuw6) | 2:34 | 2024-02-23 |  |
+| [Laid\-Back Skylines](https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S) | [JAKKARTA](https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk) | [Laid\-Back Skylines](https://open.spotify.com/album/6BDP79MYOUZsLmq0Gsjuw6) | 2:34 | 2024-02-23 | 2024-12-04 |
 | [Laidback Style](https://open.spotify.com/track/7KPAMOtffV17NiiapCPGnh) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Laidback Style](https://open.spotify.com/album/04PobR5vGW2Xam5YBOPpDO) | 2:44 | 2023-02-07 | 2023-02-14 |
 | [Lake Chill](https://open.spotify.com/track/6udhnIBZchcJwtozLrkGM3) | [Debbyh](https://open.spotify.com/artist/7c06MFpUiwnSOIhpxnVzpP), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Lake Chill](https://open.spotify.com/album/0LGHyd5oWjTCRHBB4waK0o) | 2:19 | 2023-07-27 | 2023-08-26 |
 | [Lake Como](https://open.spotify.com/track/2rsG8bOW0GA8VmJm3yVWfv) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Lake Como](https://open.spotify.com/album/2T9omNtyUf9meobuUGPUMh) | 2:17 | 2022-12-16 | 2023-04-06 |
@@ -4624,6 +4624,7 @@
 | [Paper Plane](https://open.spotify.com/track/7C3jWjgrThp6qP0KS6zZwy) | [Kid Kio](https://open.spotify.com/artist/5Y2wHchGaDlDsk9FPC0YSE) | [Paper Plane](https://open.spotify.com/album/4MAjQfYWQYYzkFaVrt7jGD) | 2:08 | 2021-08-22 | 2022-03-21 |
 | [Paperboy](https://open.spotify.com/track/7xbIvop2imUz4ybiLg3PKo) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Paperboy](https://open.spotify.com/album/1bhRzy3izCz3Pl5H1d6MuP) | 2:08 | 2020-06-17 | 2020-06-18 |
 | [Paperplanes](https://open.spotify.com/track/7Ah5dqNBn8OpGpg2YZGzuX) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Paperplanes](https://open.spotify.com/album/5jPiicwHJYFQgr35FIOfJK) | 2:16 | 2019-11-16 | 2021-01-26 |
+| [Parachuuu](https://open.spotify.com/track/0wcezIYbSOCeB5isQAFIeu) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Parachuuu](https://open.spotify.com/album/1IsCSsaVhGgUO9mtWowX90) | 2:51 | 2024-11-29 |  |
 | [Paradise](https://open.spotify.com/track/6VTDiq65BpVKN98vwf5md3) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd) | [Paradise](https://open.spotify.com/album/7xzha6CSPt5GNIqEFxNXbl) | 2:25 | 2022-02-14 | 2022-07-22 |
 | [Paradise](https://open.spotify.com/track/3x1TpxhfkTwQtjWG0AS5kz) | [YetBaby](https://open.spotify.com/artist/1JMG5EOlcQdqcbXz7aoiTb), [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Paradise](https://open.spotify.com/album/7dJIqKTM88m8kmalf43w1M) | 2:30 | 2022-11-11 | 2023-11-24 |
 | [Paradise Landing](https://open.spotify.com/track/4PY8Na1UYtnMhZun7MEGxa) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x), [Daphné](https://open.spotify.com/artist/6s3ZnLuOA2OTJijcjriiOs) | [Green Memory Grass](https://open.spotify.com/album/00ZmLKljHmPHYtB3nJtDFX) | 3:17 | 2022-07-15 | 2022-10-28 |
@@ -6022,6 +6023,7 @@
 | [Susurros en el viento](https://open.spotify.com/track/5i5FWHk2qnkmfjCKG4MVyy) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7), [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ) | [Susurros en el viento](https://open.spotify.com/album/4MR5K6OzdZSUzoaqgrhMLg) | 3:06 | 2022-12-02 | 2023-02-28 |
 | [Suteki](https://open.spotify.com/track/596sWEK46ADG75NHYdg6Ck) | [ONO1](https://open.spotify.com/artist/1wOIZR70O6dxpsUXhjEsAr) | [Suteki](https://open.spotify.com/album/5HriO7apYR75bxqL9XULhC) | 1:46 | 2022-08-19 | 2022-11-25 |
 | [Swamp Little Fish](https://open.spotify.com/track/6jpsvWC0DeDQImRucDBYOz) | [Sawibeatz](https://open.spotify.com/artist/0AD1RbLJZFUruqLENw6wJl) | [Swamp Little Fish](https://open.spotify.com/album/3g3DvXB0rFAyBMhzwuQQu9) | 2:57 | 2022-07-08 | 2022-10-21 |
+| [sway](https://open.spotify.com/track/6Mx40XWfNJrRulCKXckuru) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [sway](https://open.spotify.com/album/72VF3tDhGakBbEhPCuft6B) | 2:39 | 2024-11-29 |  |
 | [Sway](https://open.spotify.com/track/3KpDwmhldQlg8javP9MdK2) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Sway](https://open.spotify.com/album/4syr2ON8NOyuQOuoxqwrfx) | 2:28 | 2020-11-19 | 2021-10-20 |
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |
 | [Sweet](https://open.spotify.com/track/2rnJ2zSgnr31V1lkQRRkCQ) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Sweet](https://open.spotify.com/album/3MnzRhGNGegP8tk63rOQTY) | 1:58 | 2022-08-26 | 2022-12-03 |

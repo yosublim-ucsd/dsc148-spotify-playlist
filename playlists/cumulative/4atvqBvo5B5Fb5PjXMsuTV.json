@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Dec 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Dec 23:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -678,7 +678,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 178285,
       "name": "404_soulnotfound",
       "url": "https://open.spotify.com/track/2nQvTvNv4tWiDxqGtlx72I"
@@ -1110,6 +1110,24 @@
       "duration_ms": 178303,
       "name": "A Better Feeling",
       "url": "https://open.spotify.com/track/2jJqdE5Ug4EtQc5WwoVv7H"
+    },
+    {
+      "album": {
+        "name": "A Broken Man",
+        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509840,
+      "name": "A Broken Man",
+      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
     },
     {
       "album": {
@@ -7496,7 +7514,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 180000,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/2OgQsOSI0UJKhAktzQ95MP"
@@ -8456,7 +8474,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 230666,
       "name": "Breadcrumbs",
       "url": "https://open.spotify.com/track/00oRb8WESKOzFCDiwaiOmP"
@@ -8600,7 +8618,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 117791,
       "name": "BREAKTHESOUND",
       "url": "https://open.spotify.com/track/0XgKaZxMHBnNNGkz7n7Pz8"
@@ -14157,6 +14175,24 @@
     },
     {
       "album": {
+        "name": "dead2me",
+        "url": "https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "dead2me",
+      "url": "https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb"
+    },
+    {
+      "album": {
         "name": "Deadpool X Wolverine",
         "url": "https://open.spotify.com/album/3JaALfvJCUvU559EtyjP1H"
       },
@@ -14262,6 +14298,24 @@
       "duration_ms": 213190,
       "name": "Death Grips",
       "url": "https://open.spotify.com/track/2xXgWlANgNbcuFZhD7NFSc"
+    },
+    {
+      "album": {
+        "name": "Death of me",
+        "url": "https://open.spotify.com/album/1clHWd7EbQ3cR9H8cHto5J"
+      },
+      "artists": [
+        {
+          "name": "msliterate",
+          "url": "https://open.spotify.com/artist/3992qm16HTlVo3TXmegC4h"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214436,
+      "name": "Death of me",
+      "url": "https://open.spotify.com/track/6CsJx2dpKXuWoEOf6YLhOn"
     },
     {
       "album": {
@@ -14836,7 +14890,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 212605,
       "name": "desktop",
       "url": "https://open.spotify.com/track/5l0mHXJ153f8Lo6TPOsQFM"
@@ -17522,7 +17576,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 161924,
       "name": "Ein echtes Lachen",
       "url": "https://open.spotify.com/track/4F9trSkuCXAQ4v0D43YCmr"
@@ -20024,7 +20078,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 221394,
       "name": "Fig Tree",
       "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
@@ -20180,6 +20234,24 @@
       "duration_ms": 161312,
       "name": "Filthy Rabbit Hole",
       "url": "https://open.spotify.com/track/3OmrhenbSvYxoZkcSrjrl3"
+    },
+    {
+      "album": {
+        "name": "Filthy Richmas",
+        "url": "https://open.spotify.com/album/2UMstdR09qKI8u24HPqEIg"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182448,
+      "name": "Filthy Richmas",
+      "url": "https://open.spotify.com/track/6qibTIUB2HSzCgSq0WvUac"
     },
     {
       "album": {
@@ -25059,6 +25131,24 @@
     },
     {
       "album": {
+        "name": "Hard Mode",
+        "url": "https://open.spotify.com/album/0XmUNBQQhPVGP9zToBUmIz"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187733,
+      "name": "Hard Mode",
+      "url": "https://open.spotify.com/track/44GscIpwKhJaVMNN3Jj9h8"
+    },
+    {
+      "album": {
         "name": "Harder to Kill",
         "url": "https://open.spotify.com/album/5oX8qPG4FJm9lPhZtn7gBu"
       },
@@ -25600,6 +25690,24 @@
       "duration_ms": 234600,
       "name": "Heatstroke",
       "url": "https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB"
+    },
+    {
+      "album": {
+        "name": "First December with You",
+        "url": "https://open.spotify.com/album/0D6qtfGRCa4IrVhmXDG4WP"
+      },
+      "artists": [
+        {
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155413,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5JcTFymotnR2xQUe4nZuQn"
     },
     {
       "album": {
@@ -29302,7 +29410,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 198000,
       "name": "Icey Soles",
       "url": "https://open.spotify.com/track/3FRbT1r5Sbk0EGHpJq3hDv"
@@ -30426,7 +30534,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 148148,
       "name": "Inside",
       "url": "https://open.spotify.com/track/1WkMsQWSAmljoLv381oL6m"
@@ -32402,7 +32510,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 140636,
       "name": "KISS ME!",
       "url": "https://open.spotify.com/track/20riOYw5Hx4Szj1p0lVQmX"
@@ -34025,6 +34133,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5VJBkCy9ph3MqPATuPLocE"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254570,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5NAYUq7x7vtUxnBTNUvl9B"
+    },
+    {
+      "album": {
         "name": "Lights Camera Action",
         "url": "https://open.spotify.com/album/0vfm2JsJHRJLlTLpcuX5jf"
       },
@@ -34142,6 +34268,24 @@
       "duration_ms": 133523,
       "name": "Like Her",
       "url": "https://open.spotify.com/track/58CnjRrCU2WPwsJ2isemQb"
+    },
+    {
+      "album": {
+        "name": "Like Honey",
+        "url": "https://open.spotify.com/album/7okzfPuBOWY1q774CvjSfu"
+      },
+      "artists": [
+        {
+          "name": "Dixon Dallas",
+          "url": "https://open.spotify.com/artist/2xmmjD4GfeJ5BRueLvPqec"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167269,
+      "name": "Like Honey",
+      "url": "https://open.spotify.com/track/2CfOTSCzWFllw51O6oWaP1"
     },
     {
       "album": {
@@ -43195,6 +43339,28 @@
     },
     {
       "album": {
+        "name": "Out There - \u5e95 \u306b",
+        "url": "https://open.spotify.com/album/4vQmaCTHuhoAxmxFwHrlxz"
+      },
+      "artists": [
+        {
+          "name": "NateWantsToBattle",
+          "url": "https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky"
+        },
+        {
+          "name": "Neito Han",
+          "url": "https://open.spotify.com/artist/4Y3rxFBx5prd3cAJiyZqVu"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136912,
+      "name": "Out There - \u5e95 \u306b",
+      "url": "https://open.spotify.com/track/4BnNHewp1H7UTFdwDO062X"
+    },
+    {
+      "album": {
         "name": "Outros Corpos",
         "url": "https://open.spotify.com/album/7wIVaMzhi9Rbfh7syq39zb"
       },
@@ -44745,6 +44911,24 @@
     },
     {
       "album": {
+        "name": "Plastic Holdup",
+        "url": "https://open.spotify.com/album/2FTPT8oCyQ8uBXLCTeV2nC"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218823,
+      "name": "Plastic Holdup",
+      "url": "https://open.spotify.com/track/0DGTX6UoYS37TyvFATAlsr"
+    },
+    {
+      "album": {
         "name": "PLAY (VIP)",
         "url": "https://open.spotify.com/album/1oQ70ZgRQdGhvGEzI45v2q"
       },
@@ -45314,7 +45498,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 180660,
       "name": "Por Ti Por Mi",
       "url": "https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v"
@@ -50362,6 +50546,24 @@
       "duration_ms": 213453,
       "name": "She Got Game",
       "url": "https://open.spotify.com/track/4gq0UfMdrlry2Lx1Gp6xW3"
+    },
+    {
+      "album": {
+        "name": "She Wanna Be",
+        "url": "https://open.spotify.com/album/5wqR6tUHzmolH7GwL5Ny9I"
+      },
+      "artists": [
+        {
+          "name": "Dc2trill",
+          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115471,
+      "name": "She Wanna Be",
+      "url": "https://open.spotify.com/track/6vBZGFQ4QNFg07mqrCTdJr"
     },
     {
       "album": {
@@ -59169,6 +59371,24 @@
     },
     {
       "album": {
+        "name": "Those Red Lights",
+        "url": "https://open.spotify.com/album/0vnHqKCZTGzIhQ5V4gEMI6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207786,
+      "name": "Those Red Lights",
+      "url": "https://open.spotify.com/track/4Y7j3Gk2cJgX6CfubfaU2W"
+    },
+    {
+      "album": {
         "name": "Thought I Was Dead",
         "url": "https://open.spotify.com/album/4IUCrwXucmLoVO6geJ3Vjr"
       },
@@ -66244,7 +66464,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 190633,
       "name": "Zaspy",
       "url": "https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl"

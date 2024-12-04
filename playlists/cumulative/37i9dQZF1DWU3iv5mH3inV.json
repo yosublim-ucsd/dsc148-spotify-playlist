@@ -1641,6 +1641,24 @@
     },
     {
       "album": {
+        "name": "Cachorra",
+        "url": "https://open.spotify.com/album/0YbwYxJtqaWuygvF5scTfw"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148370,
+      "name": "Cachorra",
+      "url": "https://open.spotify.com/track/1DnXqeP1IOg9MKVIDE19zQ"
+    },
+    {
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/294ruoBKloLVSccE7WMdbg"
       },
@@ -1988,6 +2006,32 @@
       "duration_ms": 144406,
       "name": "Chikilio",
       "url": "https://open.spotify.com/track/0qkLZiVI69coQ6tNm78wsm"
+    },
+    {
+      "album": {
+        "name": "Chivirican Chiviricon",
+        "url": "https://open.spotify.com/album/4XaLhDMvD2ZhL5G3xHiGZe"
+      },
+      "artists": [
+        {
+          "name": "Sarita",
+          "url": "https://open.spotify.com/artist/1QxkThT4UZIVSv5KS7KS8I"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112744,
+      "name": "Chivirican Chiviricon",
+      "url": "https://open.spotify.com/track/1fAEkQNguJ2Zbm5dG6MdmU"
     },
     {
       "album": {
@@ -2560,6 +2604,28 @@
       "duration_ms": 122528,
       "name": "Con Sonido",
       "url": "https://open.spotify.com/track/2AGfk7IjFHZLJldj5v4FAC"
+    },
+    {
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/61ODk0F7060joWJLorY5zJ"
+      },
+      "artists": [
+        {
+          "name": "Capiry",
+          "url": "https://open.spotify.com/artist/4dSDyLZEErLgy92wliptIn"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100485,
+      "name": "Contento",
+      "url": "https://open.spotify.com/track/0yGw8fESDi7JdyzXnBlnGS"
     },
     {
       "album": {
@@ -3500,6 +3566,28 @@
       "duration_ms": 149760,
       "name": "Descontrol",
       "url": "https://open.spotify.com/track/1746C7akVEAcYsPkZCzUWn"
+    },
+    {
+      "album": {
+        "name": "Despues",
+        "url": "https://open.spotify.com/album/6ySEcib8c88ZJ9NkQNyJub"
+      },
+      "artists": [
+        {
+          "name": "Liro Shaq",
+          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
+        },
+        {
+          "name": "BooBassKing",
+          "url": "https://open.spotify.com/artist/2WuQfqks1V0QGsx7VIHnaF"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163943,
+      "name": "Despues",
+      "url": "https://open.spotify.com/track/3CzVFSdCqTLXvbmYzxJplq"
     },
     {
       "album": {
@@ -5103,6 +5191,28 @@
     },
     {
       "album": {
+        "name": "En Tu Casa",
+        "url": "https://open.spotify.com/album/3t7HTUAQIQFTuyx3t23PcT"
+      },
+      "artists": [
+        {
+          "name": "B One El Productor De Oro",
+          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+        },
+        {
+          "name": "Ceky Viciny",
+          "url": "https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148490,
+      "name": "En Tu Casa",
+      "url": "https://open.spotify.com/track/6t0xqn0QyjMXPtw4FIIg02"
+    },
+    {
+      "album": {
         "name": "Engorilao",
         "url": "https://open.spotify.com/album/3WiRJmN1HBpn4Rd9UX2K2d"
       },
@@ -5578,7 +5688,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 177250,
       "name": "Frisa",
       "url": "https://open.spotify.com/track/7f3S36TfLiQcLfiva9rWeq"
@@ -9729,6 +9839,44 @@
     },
     {
       "album": {
+        "name": "Mueve La Sandunga (Remix)",
+        "url": "https://open.spotify.com/album/5lVeBTalyXnChM7dvSB8Hk"
+      },
+      "artists": [
+        {
+          "name": "La Melma Music",
+          "url": "https://open.spotify.com/artist/3IvmgSO7gS2Vt8dMJ72woK"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        },
+        {
+          "name": "El Sicokario",
+          "url": "https://open.spotify.com/artist/0Iyto0WtZfIQeSHF5k1hun"
+        },
+        {
+          "name": "Pedro El Arquitecto",
+          "url": "https://open.spotify.com/artist/1pZoI1Wz0fA5m0sqLOqMuP"
+        },
+        {
+          "name": "Bigoblin",
+          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
+        },
+        {
+          "name": "Kreizy k",
+          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224397,
+      "name": "Mueve La Sandunga (Remix)",
+      "url": "https://open.spotify.com/track/4gSIaVgdMbJCoCn0WQYCaH"
+    },
+    {
+      "album": {
         "name": "Muevelo",
         "url": "https://open.spotify.com/album/5n1ah7MCNIg24XlkTDCS2C"
       },
@@ -9990,6 +10138,28 @@
       "duration_ms": 304584,
       "name": "Nataly - Remix",
       "url": "https://open.spotify.com/track/3VT90yDEnIxbNWhTkVdiuF"
+    },
+    {
+      "album": {
+        "name": "Nebuleo",
+        "url": "https://open.spotify.com/album/4QiiGcyXv82us3jBjQFFc4"
+      },
+      "artists": [
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "BeezyRD",
+          "url": "https://open.spotify.com/artist/4b3VZrCZqpNSVt9aO9nWll"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125145,
+      "name": "Nebuleo",
+      "url": "https://open.spotify.com/track/5pL8cRJokayv8nXGDMjmWj"
     },
     {
       "album": {
@@ -11016,7 +11186,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 179200,
       "name": "Palo Ajeno",
       "url": "https://open.spotify.com/track/0ABRPWTI7U9Knhmc0pQJuI"
@@ -11828,7 +11998,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 165714,
       "name": "Pisao Pisao - Remix",
       "url": "https://open.spotify.com/track/2EUwijnqKvE0WdnAz7L7dm"
@@ -13139,6 +13309,36 @@
     },
     {
       "album": {
+        "name": "Que Tu Va Se Que (Remix)",
+        "url": "https://open.spotify.com/album/6chZUV8Q0xBKS70wsXC3Mj"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        },
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "Reissel",
+          "url": "https://open.spotify.com/artist/5PBjt4OmB9jEdcuTIUu6Go"
+        },
+        {
+          "name": "Dale Saoco Ponko",
+          "url": "https://open.spotify.com/artist/4doDlcVjfPxTKaNOVfcyeo"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160375,
+      "name": "Que Tu Va Se Que - Remix",
+      "url": "https://open.spotify.com/track/3kA5MWyeqRiXNuXbbpNYvI"
+    },
+    {
+      "album": {
         "name": "Queee Fueee",
         "url": "https://open.spotify.com/album/5yZiA2ItI59sD8BpMaHvvT"
       },
@@ -13470,6 +13670,32 @@
       "duration_ms": 161000,
       "name": "Romo y Pepas (with Angel Dior)",
       "url": "https://open.spotify.com/track/3LGavT7oNZiI5WjdmjPiOo"
+    },
+    {
+      "album": {
+        "name": "TU PATRONA DE LUJO",
+        "url": "https://open.spotify.com/album/44Z2l8T9cvw3SFs35f6PQq"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146436,
+      "name": "ROMPECORA",
+      "url": "https://open.spotify.com/track/7JOXgSI073RHX6tJHetZ8v"
     },
     {
       "album": {
@@ -14368,6 +14594,28 @@
       "duration_ms": 153125,
       "name": "Sopiti",
       "url": "https://open.spotify.com/track/2Ew3NsOj0UYk0tE3tabiEV"
+    },
+    {
+      "album": {
+        "name": "Sosua",
+        "url": "https://open.spotify.com/album/5rqYJCXre4ea49XKgZDGge"
+      },
+      "artists": [
+        {
+          "name": "Wander Love",
+          "url": "https://open.spotify.com/artist/4gPLblkCTiViD8GqD532Nd"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143856,
+      "name": "Sosua",
+      "url": "https://open.spotify.com/track/6g2BJC2jQbxSGYRrh0mKlQ"
     },
     {
       "album": {
@@ -16083,6 +16331,36 @@
     },
     {
       "album": {
+        "name": "TIMIDA (feat. Jowell)",
+        "url": "https://open.spotify.com/album/6SnH0nFX78zZ92GKXk7bk5"
+      },
+      "artists": [
+        {
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Jowell",
+          "url": "https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230774,
+      "name": "TIMIDA (feat. Jowell)",
+      "url": "https://open.spotify.com/track/27u5RlcTPYpR39OAGsvY7w"
+    },
+    {
+      "album": {
         "name": "Tira Puya",
         "url": "https://open.spotify.com/album/5lcHBjJzwvuoE4qcEtlA54"
       },
@@ -16514,7 +16792,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 130153,
       "name": "Toy Prendio",
       "url": "https://open.spotify.com/track/4ZrJKOxL0d9QljsKcLfpWH"
@@ -17484,7 +17762,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 99000,
       "name": "UN VOLAO",
       "url": "https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI"
@@ -18088,7 +18366,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 208129,
       "name": "VOLVIO EL KURRU",
       "url": "https://open.spotify.com/track/1uGlvEh0Sp2EuJNFwVdCXV"

@@ -1,6 +1,6 @@
 {
   "description": "\u5728KTV\u91cc\uff0c\u8fd9\u4e9b\u90fd\u662f\u5fc5\u70b9\u5fc5\u5531\u7684\u534e\u8bedK\u6b4c\u3002\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1f",
-  "num_followers": 145109,
+  "num_followers": 145115,
   "original_name": "\u4eba\u6c14K\u6b4c\u699c",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u98db\u5152\u6a02\u5718",
-        "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
-      },
-      "artists": [
-        {
-          "name": "F.I.R.",
-          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
-        }
-      ],
-      "duration_ms": 287026,
-      "name": "\u6211\u5011\u7684\u611b",
-      "url": "https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/6CGJuQoWMkq1rmStrYbRzr"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 209760,
       "name": "\u9047\u898b",
       "url": "https://open.spotify.com/track/3xJK8ywApYVEYIDhymYMC6"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u98db\u5152\u6a02\u5718",
+        "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
+      },
+      "artists": [
+        {
+          "name": "F.I.R.",
+          "url": "https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu"
+        }
+      ],
+      "duration_ms": 287026,
+      "name": "\u6211\u5011\u7684\u611b",
+      "url": "https://open.spotify.com/track/0Q4YuuiCuxIIKUw2fb1cmV"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u83ef\u8207\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
+        "name": "\u5b64\u52c7\u8005 (\u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp"
       },
       "artists": [
         {
-          "name": "\u9673\u83ef",
-          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
         }
       ],
-      "duration_ms": 233406,
-      "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
-      "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
+      "duration_ms": 256000,
+      "name": "\u5b64\u52c7\u8005 - \u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -563,18 +563,18 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u5b64\u52c7\u8005 (\u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/5AXZCa9l5fESG0jLuaOchp"
+        "name": "\u83ef\u8207\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
       },
       "artists": [
         {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+          "name": "\u9673\u83ef",
+          "url": "https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um"
         }
       ],
-      "duration_ms": 256000,
-      "name": "\u5b64\u52c7\u8005 - \u300a\u82f1\u96c4\u806f\u76df\uff1a\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u5287\u96c6\u4e2d\u6587\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1"
+      "duration_ms": 233406,
+      "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
+      "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
     },
     {
       "added_at": "2024-10-11 05:22:52",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-10-11 05:22:52",
       "album": {
-        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
-        "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 320165,
-      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
-      "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
-    },
-    {
-      "added_at": "2024-10-11 05:22:52",
-      "album": {
         "name": "\u518d\u611b\u4e00\u904d\u2027\u5929\u540e\u9673\u52e2\u5b89",
         "url": "https://open.spotify.com/album/7EYP32Kr9V27MBMdmBkUo0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 289400,
       "name": "\u5929\u540e",
       "url": "https://open.spotify.com/track/4D0KlK4Fl8lotvsoys1bYQ"
+    },
+    {
+      "added_at": "2024-10-11 05:22:52",
+      "album": {
+        "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein)",
+        "url": "https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 320165,
+      "name": "\u523b\u5728\u6211\u5fc3\u5e95\u7684\u540d\u5b57 (Your Name Engraved Herein) - \u96fb\u5f71<\u523b\u5728\u4f60\u5fc3\u5e95\u7684\u540d\u5b57>\u4e3b\u984c\u66f2",
+      "url": "https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i"
     },
     {
       "added_at": "2024-10-11 05:22:52",

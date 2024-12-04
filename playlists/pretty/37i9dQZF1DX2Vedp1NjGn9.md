@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 
 > 2011 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,623 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,662 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 62 | [Get Some](https://open.spotify.com/track/5LbCx9z3eq83JVoJ74tnmt) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:22 |
 | 63 | [Come Home](https://open.spotify.com/track/40DTE6OONWvsNlWNtsjZyj) | [CHAPPO](https://open.spotify.com/artist/0fdMBzQuX9TIF6t6N8fwg6) | [Moonwater \(Deluxe Edition\)](https://open.spotify.com/album/59kCQ8ak5Aarnoz80CPlpo) | 3:27 |
 | 64 | [Helplessness Blues](https://open.spotify.com/track/1b8Zlu3aMVxEbyeospYPrK) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ) | 5:03 |
-| 65 | [Naked Kids](https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:30 |
-| 66 | [Pretty Face](https://open.spotify.com/track/1fBLLpShMpr4DegsUlDWz4) | [Sóley](https://open.spotify.com/artist/7DtlawO7T5bsgq81EeHxwh) | [We Sink](https://open.spotify.com/album/1uh3swPBiSYIzYqVg7H4b7) | 4:40 |
+| 65 | [Pretty Face](https://open.spotify.com/track/1fBLLpShMpr4DegsUlDWz4) | [Sóley](https://open.spotify.com/artist/7DtlawO7T5bsgq81EeHxwh) | [We Sink](https://open.spotify.com/album/1uh3swPBiSYIzYqVg7H4b7) | 4:40 |
+| 66 | [Naked Kids](https://open.spotify.com/track/3awm1x3kGmYIVrkNDBFP6U) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:30 |
 | 67 | [Hold On](https://open.spotify.com/track/1PpfOKfKJR5gVfz7yejNB7) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT](https://open.spotify.com/album/4ncktAfHYJlko5yZgqce3H) | 3:26 |
 | 68 | [Lions in Cages](https://open.spotify.com/track/3Ufbnur2EwjNQoVKyoX1ue) | [Wolf Gang](https://open.spotify.com/artist/6EkvDqOOEX08BotcQppKoD) | [Suego Faults](https://open.spotify.com/album/23pM83jp9nl1325SiAmCwk) | 4:28 |
 | 69 | [Abducted](https://open.spotify.com/track/0OLyp6n6yMwIzzlubXDrsK) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/2jb0zRewft3L2AwCOMx3du) | 2:52 |
@@ -91,17 +91,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Vedp1NjGn9.md) - [plain]
 | 81 | [Hanging On](https://open.spotify.com/track/6o4lFpp8OAFhBqGQbWyAob) | [Active Child](https://open.spotify.com/artist/54KTsBl98buzGkELjGlnuU) | [You Are All I See](https://open.spotify.com/album/0naMIQoMmwqmpXiO7qFqCX) | 5:21 |
 | 82 | [Santa Fe](https://open.spotify.com/track/3gQZdiGlObKaY274Q3lnoH) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz) | 4:14 |
 | 83 | [Lost in My Mind](https://open.spotify.com/track/563iNuGeBdAegSCMRSMjMH) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:19 |
-| 84 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 |
+| 84 | [Balance](https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu) | 4:06 |
 | 85 | [Featherstone](https://open.spotify.com/track/45p0MAVey0dnjZXo8kMUzh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland \- EP](https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF) | 3:49 |
 | 86 | [Perth](https://open.spotify.com/track/7km8eBZqlTKiqlgdl2Zk5u) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 4:22 |
-| 87 | [How Deep Is Your Love?](https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [How Deep Is Your Love?](https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf) | 6:27 |
+| 87 | [Will Do](https://open.spotify.com/track/4d12AjSPP8IQZK1CamEwqp) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/2FW2M39UC029T2tJWbNPef) | 3:44 |
 | 88 | [Bedouin Dress](https://open.spotify.com/track/16vrX58E41OqkWhRbvyEsU) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Helplessness Blues](https://open.spotify.com/album/6SUzec8cWCUMhvdW3KbMYZ) | 4:29 |
 | 89 | [Rivers and Roads](https://open.spotify.com/track/4fN0dQGDaV4Hg7Gd7mBOE0) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 4:44 |
 | 90 | [Landfill](https://open.spotify.com/track/0v51xNSZkeHzRDBirv6KPv) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [His Young Heart](https://open.spotify.com/album/4Yta830PArc3skiC2U7VLC) | 4:23 |
-| 91 | [Will Do](https://open.spotify.com/track/4d12AjSPP8IQZK1CamEwqp) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/2FW2M39UC029T2tJWbNPef) | 3:44 |
-| 92 | [Bizness](https://open.spotify.com/track/78AaMLOriBZuohWdUV3IzE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF) | 4:23 |
-| 93 | [East Harlem](https://open.spotify.com/track/3QaM3srTDYXfPKmBf9ZYMU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz) | 3:58 |
-| 94 | [Balance](https://open.spotify.com/track/189gb58kHUdS5MdLBcz18f) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/14Ft0hbGJbcM9vYVW0RJTu) | 4:06 |
+| 91 | [BTSTU \- Edit](https://open.spotify.com/track/2NRRrr8ylDK38KD3Ffbw4K) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/7srgNVx6TtKJrgNKMJusxb) | 3:30 |
+| 92 | [How Deep Is Your Love?](https://open.spotify.com/track/6DTYwBkGZQxOfqIIeiyEUL) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [How Deep Is Your Love?](https://open.spotify.com/album/2fPp5TSew1Efr8ppshMpdf) | 6:27 |
+| 93 | [Bizness](https://open.spotify.com/track/78AaMLOriBZuohWdUV3IzE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [W H O K I L L](https://open.spotify.com/album/7rBLvpL7ZWi1YCSXSLUZKF) | 4:23 |
+| 94 | [East Harlem](https://open.spotify.com/track/3QaM3srTDYXfPKmBf9ZYMU) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [The Rip Tide](https://open.spotify.com/album/5o6rAfcrvCMOE2Xdu1SHIz) | 3:58 |
 | 95 | [Minnesota, WI](https://open.spotify.com/track/7CLa6x8HlyEcgZhZcADRNO) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3) | 3:52 |
 | 96 | [Down in the Valley](https://open.spotify.com/track/1VwJcYyhfIL45OnOwIC1gi) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head and the Heart](https://open.spotify.com/album/3d7xzl9F5kB5quLHUVI20I) | 5:03 |
 | 97 | [Kaputt](https://open.spotify.com/track/56dIfld2EW00CPbB3zA6GE) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Kaputt](https://open.spotify.com/album/4WtvNVR7QeHUZGtHth9zND) | 6:17 |

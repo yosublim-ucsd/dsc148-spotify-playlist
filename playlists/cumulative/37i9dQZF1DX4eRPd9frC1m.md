@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-380 songs - 20 hr 45 min
+381 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 | 2022-01-07 |  |
 | [Gawdam](https://open.spotify.com/track/35LfVddGN6zR5gE78o0EdU) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8) | [Gawdam](https://open.spotify.com/album/0qSMwW0ZBiZJUuFsxmr3Oj) | 2:36 | 2021-11-19 | 2022-01-08 |
 | [Get Right](https://open.spotify.com/track/53Xsyg5W3LkxOJglyq1l5o) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Get Right](https://open.spotify.com/album/0xejpMLCWbCVEHPivvoQGH) | 2:38 | 2021-11-19 | 2022-01-08 |
+| [GO OFF!](https://open.spotify.com/track/7vSqoQEAHPeRESwGgaZwGO) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Harvey](https://open.spotify.com/artist/137IOw31ZNn88coEW3Ypt5) | [GO OFF!](https://open.spotify.com/album/7y9Mkw8lpYZ6NolcbEL1oI) | 2:53 | 2024-12-03 |  |
 | [Gravity](https://open.spotify.com/track/5qCpcgqwL1Hum85sAQz3W7) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Gravity](https://open.spotify.com/album/6HIUMoRw3A8XEFakdfOTsD) | 6:04 | 2021-11-19 | 2022-12-03 |
 | [Grenade](https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Grenade](https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL) | 4:08 | 2023-04-28 | 2023-09-20 |
 | [Griztronics](https://open.spotify.com/track/6OTClxme7EYRZGO6An3SMc) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Bangers\[2\].Zip](https://open.spotify.com/album/3p52GP73vQ2BlG9rzzyBXe) | 3:18 | 2022-04-22 | 2023-07-15 |
@@ -353,7 +354,7 @@
 | [Trailblazer](https://open.spotify.com/track/19ht9Lhp2fHgQi00izzrKE) | [Chee](https://open.spotify.com/artist/18fX4a2lpLLHmvJO2a5NkA), [Tsuruda](https://open.spotify.com/artist/7CCrWKLbAto1EXI2eoG9Vu) | [Trailblazer](https://open.spotify.com/album/281Xce4HZtECtLwdx57kvK) | 3:24 | 2021-11-19 | 2022-04-27 |
 | [Trampoline \- Jauz Remix](https://open.spotify.com/track/68Rnp6Cev6ESnEwlpQI2Ll) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8) | [Trampoline \(Jauz Remix\)](https://open.spotify.com/album/0zEgfSceFqevzVPCzcQDb0) | 3:56 | 2021-11-19 | 2022-06-04 |
 | [Trap Anthem](https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Trap Anthem](https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P) | 2:27 | 2021-11-19 | 2022-08-30 |
-| [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 | 2021-11-19 |  |
+| [Trenches](https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Trenches](https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4) | 2:49 | 2021-11-19 | 2024-12-04 |
 | [Trials](https://open.spotify.com/track/4YPHrO0jB8nJCrcSckSwie) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 2:13 | 2022-10-07 | 2024-04-19 |
 | [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 | 2022-08-05 | 2022-10-13 |
 | [TROUBLE](https://open.spotify.com/track/3Y0FFtcmxdGkrCKnvuOs5q) | [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37), [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [4EVR](https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB) | 2:50 | 2024-08-02 |  |

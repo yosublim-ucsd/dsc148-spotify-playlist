@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 17132,
+  "num_followers": 17134,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAACwDwOKht/jWCq+g85TEupH",
+  "snapshot_id": "Z0z4gAAAAABdoXSinm9BEgJcUJ5CR5qs",
   "tracks": [
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
+        "name": "COI",
+        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
       "artists": [
         {
@@ -288,13 +288,13 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 208822,
-      "name": "Slide (with Gunna)",
-      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
+      "duration_ms": 135253,
+      "name": "Make My Day (with David Guetta)",
+      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "COI",
-        "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
       },
       "artists": [
         {
@@ -328,13 +328,13 @@
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 135253,
-      "name": "Make My Day (with David Guetta)",
-      "url": "https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS"
+      "duration_ms": 208822,
+      "name": "Slide (with Gunna)",
+      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
     },
     {
       "added_at": null,
@@ -667,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
-        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
-      },
-      "artists": [
-        {
-          "name": "10X",
-          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 231470,
-      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
-      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIG PURR (Prrdd)",
         "url": "https://open.spotify.com/album/4I7EKdVEB8S9LjRfNoOV0o"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 116760,
       "name": "BIG PURR (Prrdd) (feat. Pooh Shiesty)",
       "url": "https://open.spotify.com/track/5byWPNSh2hi0ULmDxBgLyV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything BoZ (feat. Coi Leray) [Slowed Down]",
+        "url": "https://open.spotify.com/album/4wT8Av6zot8E7bb9vtWnre"
+      },
+      "artists": [
+        {
+          "name": "10X",
+          "url": "https://open.spotify.com/artist/4Dm8GgbaqWzgnZeZrxAW0R"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 231470,
+      "name": "Everything BoZ (feat. Coi Leray) - Slowed Down",
+      "url": "https://open.spotify.com/track/1vRuHOpX8lpEnnaYjVJl6r"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 
 > Recuerda los éxitos ochenteros que sonaron en la radio mexicana\. Flans en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,368 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 954,594 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8idxeA9K8sJ.md) - [plain]
 | 84 | [Mentiras](https://open.spotify.com/track/05pV7ZVVTssQgyZN98SHrV) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Daniela Romo](https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153) | 3:54 |
 | 85 | [Costumbres](https://open.spotify.com/track/28ANj8vuad6phtclxhmPYO) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 4:32 |
 | 86 | [Rueda Mi Mente](https://open.spotify.com/track/6lqiIrjtFMYjYRCpHMJFzG) | [Sasha](https://open.spotify.com/artist/7wioKIgol1dnOYfW3pzRso) | [Sasha](https://open.spotify.com/album/30qYT3ZFG5YyodUxuEXcNh) | 3:07 |
-| 87 | [Duri Duri \(Baila Baila\)](https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39) | [Click](https://open.spotify.com/artist/0crIJAch9BFQ3Q3RA9bY8w) | [Duri Duri](https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5) | 4:54 |
-| 88 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
+| 87 | [Qué Te Pasa](https://open.spotify.com/track/7nSgNsvgl5BtjDyysdlWEB) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx) | [Serie 3X4 \(Yuri, Pandora, Daniela Roma\)](https://open.spotify.com/album/5aA1T2eSRBpRDCGuzJWmoV) | 3:03 |
+| 88 | [Duri Duri \(Baila Baila\)](https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39) | [Click](https://open.spotify.com/artist/0crIJAch9BFQ3Q3RA9bY8w) | [Duri Duri](https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5) | 4:54 |
 | 89 | [Dime](https://open.spotify.com/track/14YBXNrQqx6SuHNbG8Awfz) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 3:42 |
 | 90 | [Déjame Volver Contigo](https://open.spotify.com/track/7E0gzXsB0JtYxqvqRwNAEj) | [Dulce](https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2) | [Heridas](https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l) | 4:23 |
 | 91 | [Para Amarnos Más](https://open.spotify.com/track/55JKv6bv8vFE1X1rG4f0g9) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Antología](https://open.spotify.com/album/5t6y82L4VR3GpAqPV6HWWx) | 3:28 |

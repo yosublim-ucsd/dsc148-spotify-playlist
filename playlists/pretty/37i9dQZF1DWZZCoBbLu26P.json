@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 91189,
+  "num_followers": 91199,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Hurt My Feelings",
+        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
+      },
+      "artists": [
+        {
+          "name": "Tatianna",
+          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
+        }
+      ],
+      "duration_ms": 237987,
+      "name": "Hurt My Feelings",
+      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Everybody Hates Linux",
         "url": "https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 254111,
       "name": "Looks (feat. Aquaria)",
       "url": "https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Hurt My Feelings",
-        "url": "https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8"
-      },
-      "artists": [
-        {
-          "name": "Tatianna",
-          "url": "https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a"
-        }
-      ],
-      "duration_ms": 237987,
-      "name": "Hurt My Feelings",
-      "url": "https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -819,8 +819,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
+        "name": "Fight for Love",
+        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
         }
       ],
-      "duration_ms": 202476,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
+      "duration_ms": 176000,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -919,8 +919,8 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Fight for Love",
-        "url": "https://open.spotify.com/album/7z5c2c2cnPBER6cSOc0yiW"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/6jQMDvMwscJjhhXH4go8y9"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/0BspWxbPFXiuH1HwLm83NK"
+      "duration_ms": 202476,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/6ACCpKQ0Ca5VmFaRqdKm9h"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Part 2: The Antidote",
-        "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        },
-        {
-          "name": "Little Boots",
-          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
-        }
-      ],
-      "duration_ms": 169731,
-      "name": "I Specialise In Love",
-      "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 186686,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Part 2: The Antidote",
+        "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        },
+        {
+          "name": "Little Boots",
+          "url": "https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30"
+        }
+      ],
+      "duration_ms": 169731,
+      "name": "I Specialise In Love",
+      "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Part 1: The Damage",
-        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        },
-        {
-          "name": "Billy Cullum",
-          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
-        }
-      ],
-      "duration_ms": 173473,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 235530,
       "name": "Work Mommi Work (feat. Spankrock)",
       "url": "https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Part 1: The Damage",
+        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        },
+        {
+          "name": "Billy Cullum",
+          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
+        }
+      ],
+      "duration_ms": 173473,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
     },
     {
       "added_at": "2024-05-31 17:55:47",

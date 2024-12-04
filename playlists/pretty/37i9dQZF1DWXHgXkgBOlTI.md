@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: Gecko&Tokage Parade
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,996 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,013 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 16 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 17 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 |
 | 18 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |
-| 19 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
-| 20 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
+| 19 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 |
+| 20 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 |
 | 21 | [SignaL](https://open.spotify.com/track/6MpIMu6j9WkLaav0ucKmx5) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [SignaL](https://open.spotify.com/album/5wcdh9GwhmHAdyQmbpwmkd) | 3:37 |
 | 22 | [Blue Eyed Monster](https://open.spotify.com/track/5wG5pbeTBYzAhlT6iE8Ptg) | [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [TVアニメーション「BEM」オリジナルサウンドトラック　OUTSIDE](https://open.spotify.com/album/2kXmIAi8Y1CrvIObUJRMVr) | 4:10 |
 | 23 | [The bell tolls](https://open.spotify.com/track/0cwy8I1xQFXDZ0bMR5BHLp) | [a picture of her](https://open.spotify.com/artist/6vUn7EgNei8hY7jZSV0lsT) | [C](https://open.spotify.com/album/4rQJ0xVXD7OKZmV5hXL4tW) | 5:27 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 41 | [Dancing in the mood](https://open.spotify.com/track/0cZ9z3UbPMflJet2ecMzPn) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [PIANO CRAZE](https://open.spotify.com/album/0thPD1TTASYc8eMaf7sS9B) | 5:50 |
 | 42 | [Nica's Dream](https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Re:Tokage](https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c) | 4:25 |
 | 43 | [The Piano](https://open.spotify.com/track/0VIXQNx9EqGq65L6E7Xdg7) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SET FREE](https://open.spotify.com/album/1OLNstuStcm7aDvh47GsmZ) | 3:48 |
-| 44 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 |
-| 45 | [Golden Forest](https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 5:18 |
+| 44 | [Golden Forest](https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 5:18 |
+| 45 | [ハルシュラ](https://open.spotify.com/track/3cSPVDggJ4QlUcQtXEFExR) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 4:01 |
 | 46 | [Down In The Village](https://open.spotify.com/track/7y8YT71woP61vMze8Lwf4N) | [Quasimode](https://open.spotify.com/artist/5vLyvkGLk9d9hp9LRQ8RqD) | [Oneself Likeness](https://open.spotify.com/album/5gN1A4s7Rb7CSnLzMQ77dG) | 6:30 |
 | 47 | [Hale no sola sita \-LA YELLOW SAMBA\-](https://open.spotify.com/track/2PshJ3niqCAbzdKPtwSa7Z) | [PE'Z](https://open.spotify.com/artist/52uuAX0XAdhMmLLpaSaOig) | [九月の空 \-KUGATSU NO SOLA\-](https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC) | 3:39 |
 | 48 | [Tailwind](https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY) | [Ear Candy Jazz Factory](https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple) | [Tangerine Peel Jam](https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv) | 4:35 |
 | 49 | [Sol Levante](https://open.spotify.com/track/41vry8lPln1IWvC8HJgfDu) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia) | [Defying](https://open.spotify.com/album/2jOCeC0fg8xRCY14tquGMq) | 3:28 |
-| 50 | [ハルカゼ](https://open.spotify.com/track/7tlp9XRwOIjpYNUa82GAyz) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [seed](https://open.spotify.com/album/22fSotV1aM3FopU7cUnnmg) | 3:27 |
+| 50 | [Sakura Flutter](https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Bouquet](https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW) | 4:09 |
 
-Snapshot ID: `Z0XicAAAAADpkwA100c5N+C+W5y+UDKj`
+Snapshot ID: `Z0+KqgAAAAAvTIU9lYUx5Wit2EKRzAHZ`

@@ -4,7 +4,7 @@
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-237 songs - 14 hr 23 min
+238 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/1GHRempxln5XiNEYYvPz7f) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [rose \(feat\. Vaundy\)](https://open.spotify.com/album/4dF1UtRhD4zW3w0h6MXerB) | 3:07 | 2023-11-16 | 2023-12-04 |
 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 | 2023-10-13 | 2023-10-25 |
 | [Runner's High](https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Runner's High](https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia) | 3:42 | 2023-10-13 | 2023-11-08 |
-| [SAY YES](https://open.spotify.com/track/6NTUooWOWjw5A20pm9oyor) | [CHAGE and ASKA](https://open.spotify.com/artist/1jsmqw6pME0Yj47diPFh0C) | [VERY BEST ROLL OVER 20TH](https://open.spotify.com/album/3u9ZFJXLKKZ5ImLzFPtEWW) | 4:43 | 2024-08-24 |  |
+| [SAY YES](https://open.spotify.com/track/6NTUooWOWjw5A20pm9oyor) | [CHAGE and ASKA](https://open.spotify.com/artist/1jsmqw6pME0Yj47diPFh0C) | [VERY BEST ROLL OVER 20TH](https://open.spotify.com/album/3u9ZFJXLKKZ5ImLzFPtEWW) | 4:43 | 2024-08-24 | 2024-12-04 |
 | [Set Sail](https://open.spotify.com/track/3r4kSAvYtaJVwOMZlRbz9r) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Set Sail](https://open.spotify.com/album/47O8KlrVbHaKT72WDG2Vm4) | 3:13 | 2024-03-14 | 2024-06-28 |
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-10-13 |  |
 | [Shinunoga E\-Wa](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 3:05 | 2023-10-13 |  |
@@ -221,6 +221,7 @@
 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 | 2024-04-09 | 2024-06-14 |
 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 | 2023-10-13 |  |
 | [泥だらけの純粋](https://open.spotify.com/track/4FQleqtiBoMcMzztGVXkmP) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [泥だらけの純粋](https://open.spotify.com/album/3g4yqwEncWpu08qEGmzNG3) | 5:01 | 2023-10-13 | 2024-01-11 |
+| [浮気したらあかんで](https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [浮気したらあかんで](https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34) | 3:13 | 2024-12-03 |  |
 | [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 | 2023-10-13 |  |
 | [猫](https://open.spotify.com/track/6sIx7Cn37DGEhjy9hBP8Gx) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [僕たちがやりました](https://open.spotify.com/album/0jf58OGRFXs8NG5hcUCJb0) | 4:36 | 2024-01-10 |  |
 | [白日](https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [CEREMONY](https://open.spotify.com/album/1IYJeRjWNruxAKls5cBtqm) | 4:36 | 2023-10-27 | 2024-04-09 |

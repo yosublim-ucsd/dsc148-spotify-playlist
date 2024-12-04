@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 133839,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/2nSjVyGwkGehPs6yQw1ztC"
@@ -6582,7 +6582,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 163093,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
@@ -10379,7 +10379,7 @@
     },
     {
       "album": {
-        "name": "The Party Never Ends",
+        "name": "The Party Never Ends 2.0",
         "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
       },
       "artists": [
@@ -11844,7 +11844,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -11862,7 +11862,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -14102,7 +14102,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -14714,7 +14714,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -14870,7 +14870,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 206600,
       "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
       "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
@@ -15310,7 +15310,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 150266,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
       "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
@@ -18656,7 +18656,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -18682,7 +18682,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -19048,7 +19048,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -20765,6 +20765,24 @@
     },
     {
       "album": {
+        "name": "Classic Songs",
+        "url": "https://open.spotify.com/album/6JoQfgiN1SQAPBlATJq9cL"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157492,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/3ra4PQCtSVULClEqj2XXf7"
+    },
+    {
+      "album": {
         "name": "Christmas Songs by Sinatra",
         "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
       },
@@ -20802,7 +20820,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 155586,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/0SUKNXEqZnRw7g0NO139FM"
@@ -21390,7 +21408,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 118840,
       "name": "Little Saint Nick - 1991 Remix",
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
@@ -21656,7 +21674,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 210688,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
@@ -22134,7 +22152,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 204828,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
@@ -23408,7 +23426,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 175333,
       "name": "Mele Kalikimaka (Merry Christmas)",
       "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
@@ -24012,7 +24030,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -24030,7 +24048,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -25798,7 +25816,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 86983,
       "name": "NIGHTS LIKE THIS",
       "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
@@ -25946,7 +25964,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
@@ -32328,7 +32346,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
@@ -35180,7 +35198,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -35228,7 +35246,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 255915,
       "name": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
       "url": "https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R"
@@ -40908,7 +40926,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 317092,
       "name": "wacced out murals",
       "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
@@ -42576,7 +42594,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -42706,7 +42724,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
@@ -42866,7 +42884,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

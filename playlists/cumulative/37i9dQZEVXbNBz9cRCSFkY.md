@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-910 songs - 2 day 6 hr 35 min
+911 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2022-01-06 | 2022-08-21 |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-26 | 2022-06-01 |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-16 | 2022-04-22 |
-| [Dating Tayo](https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU) | 3:59 | 2024-05-10 |  |
+| [Dating Tayo](https://open.spotify.com/track/1l7TuyIge9siMw39a0dqXd) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/3BNVpFNizGDG0IxfsEYhXU) | 3:59 | 2024-05-10 | 2024-12-04 |
 | [Dating Tayo](https://open.spotify.com/track/267RumTt5KeLBGl2KWxBL0) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [TJ Monterde](https://open.spotify.com/album/01f1BJjxsFyuX580Fk8Gjk) | 3:59 | 2022-03-20 | 2022-05-08 |
 | [Daylight](https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 4:53 | 2023-06-13 | 2023-07-09 |
 | [Dear John \(Taylor's Version\)](https://open.spotify.com/track/1zU8j1x3yi9xalMF96pzKp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now \(Taylor's Version\)](https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt) | 6:45 | 2023-07-08 | 2023-07-20 |
@@ -471,7 +471,7 @@
 | [Love Grows \(Where My Rosemary Goes\)](https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh) | [Edison Lighthouse](https://open.spotify.com/artist/1NRzxuPpdGushT8YmF5NAa) | [Love Grows \(Where My Rosemary Goes\) & Other Gems](https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y) | 2:54 | 2022-01-14 | 2022-02-02 |
 | [Love Is Gone \- Acoustic](https://open.spotify.com/track/7F1CiKqrY44kh5cDqwHOnx) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Dylan Matthew](https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX) | [Love Is Gone \(Acoustic\)](https://open.spotify.com/album/4sFNNIc9t1SS1FnuVKXR3J) | 2:56 | 2021-03-27\* | 2021-07-17 |
 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 | 2023-08-12 | 2023-09-18 |
-| [Love Me For What I Am](https://open.spotify.com/track/0cRuocQnySYHxzgva3k2ai) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Horizon](https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi) | 3:30 | 2024-11-25 |  |
+| [Love Me For What I Am](https://open.spotify.com/track/0cRuocQnySYHxzgva3k2ai) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Horizon](https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi) | 3:30 | 2024-11-25 | 2024-12-04 |
 | [Love Me Like That](https://open.spotify.com/track/1lhm29o3syw122xynSKaAK) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nevertheless, \(Original Television Soundtrack, Pt\. 6\)](https://open.spotify.com/album/4MLxdCgljBck6ddj3BKFTi) | 3:31 | 2021-07-27 | 2021-11-14 |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2021-11-05 | 2022-01-12 |
 | [Love Story \(Taylor’s Version\)](https://open.spotify.com/track/6YvqWjhGD8mB5QXcbcUKtx) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:55 | 2021-04-11 | 2021-05-03 |
@@ -538,7 +538,7 @@
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7l2tmgUhV7Y2aJHjiszifg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/2MbdQUj7tAaaBBhUwJE3KG) | 4:37 | 2021-04-09 | 2021-04-11 |
 | [Muli](https://open.spotify.com/track/1oYQtNQUxSODedcc5hPmp9) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Muli](https://open.spotify.com/album/3RKZKxaNLwRXw84ruc3f9F) | 4:50 | 2022-05-19 | 2023-04-23 |
 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2023-04-30 | 2023-05-03 |
-| [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-07-07 | 2024-12-02 |
+| [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-07-07 |  |
 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 | 2023-04-12 |  |
 | [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/05msZuGKP3OCUGQnvLBOf4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 3:23 | 2024-04-20 | 2024-04-22 |
 | [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:23 | 2024-04-21 | 2024-04-29 |
@@ -791,6 +791,7 @@
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-01 | 2022-05-15 |
 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 | 2023-06-26 |  |
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-21 | 2021-10-05 |
+| [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-12-03 |  |
 | [That’s When \(feat\. Keith Urban\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:09 | 2021-04-11 | 2021-04-15 |
 | [The Alchemy](https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:16 | 2024-04-20 | 2024-04-24 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-29 | 2022-11-24 |

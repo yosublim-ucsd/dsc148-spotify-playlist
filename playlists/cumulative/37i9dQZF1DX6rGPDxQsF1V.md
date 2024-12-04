@@ -4,7 +4,7 @@
 
 > <a href="spotify:playlist:37i9dQZF1DXayDMsJG9ZBv">Hot Hits Japan</a>、もしくは<a href="spotify:playlist:37i9dQZF1DXafb0IuPwJyF">Tokyo Super Hits</a>に10週以上リスト・インしたメガヒット曲をひとつのプレイリストに。Cover: Taylor Swift
 
-239 songs - 14 hr 23 min
+240 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [オレンジ](https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [オレンジ](https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3) | 3:55 | 2024-07-12 |  |
 | [カナタハルカ](https://open.spotify.com/track/4Fh1CzvLHIUn26tjbZZ1mR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 5:55 | 2024-04-18 | 2024-06-12 |
 | [カメレオン](https://open.spotify.com/track/0J0P8iSE6l3pYHbUdNFYdS) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [カメレオン](https://open.spotify.com/album/2dZ3LDlFGj0D4dvb1iDx7z) | 3:13 | 2023-01-29 | 2024-08-29 |
-| [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 | 2024-01-21 |  |
+| [ケセラセラ](https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ANTENNA](https://open.spotify.com/album/3j7aiYai9ezbvxVCgrd2mb) | 4:32 | 2024-01-21 | 2024-12-04 |
 | [ケセラセラ](https://open.spotify.com/track/406ZlqOP9nLQxJFBY7d9S4) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ケセラセラ](https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN) | 4:32 | 2023-06-25 | 2023-10-23 |
 | [サマータイムシンデレラ](https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [サマータイムシンデレラ](https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2) | 3:48 | 2023-10-22 | 2024-01-29 |
 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 | 2024-04-18 | 2024-08-08 |
@@ -200,6 +200,7 @@
 | [ホムンクルス](https://open.spotify.com/track/3CmVQtVx9KlzOuPhRJRShH) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [ホムンクルス](https://open.spotify.com/album/5bfbjZs5oGKuDcm6n8xXes) | 3:50 | 2024-10-23 |  |
 | [ミズキリ](https://open.spotify.com/track/6T8eKlvqWuPKJT7euIqoxX) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:28 | 2023-01-29 | 2023-06-26 |
 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 | 2023-09-04 | 2024-04-22 |
+| [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 | 2024-12-03 |  |
 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 | 2024-04-18 |  |
 | [ランデヴー](https://open.spotify.com/track/7gSiIKxphi5BGr7SDrSKod) | [shytaupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [誘拐 / ランデヴー](https://open.spotify.com/album/02DXAukxsFb2emkKok8l3n) | 3:57 | 2024-04-18 |  |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-04-23 | 2024-08-14 |

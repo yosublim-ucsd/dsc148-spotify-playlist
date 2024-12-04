@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,928 likes - 100 songs - 10 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,929 likes - 100 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 30 | [Song For The Dead](https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 5:52 |
 | 31 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/2oJi7LuMzftVGKB6wpsBmO) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 |
 | 32 | [I'll Cut You Down](https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R) | [Uncle Acid & The Deadbeats](https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl) | [Blood Lust](https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8) | 5:01 |
-| 33 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
-| 34 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
+| 33 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 |
+| 34 | [Electric Machine](https://open.spotify.com/track/0hH154tuA2DSZT3DiWQL6N) | [Acid King](https://open.spotify.com/artist/0PK6ewFU4DbFB8Eqr58Sct) | [Busse Woods](https://open.spotify.com/album/1EKnUtlrqGQiz44ipzoWvZ) | 6:24 |
 | 35 | [Gemini](https://open.spotify.com/track/0aBBIonGDbOcEyntUARrUV) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Dead Roots Stirring](https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp) | 9:40 |
 | 36 | [God Is In The Radio](https://open.spotify.com/track/1dVWz4VM5QkgzHLjFEKM4u) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 6:04 |
 | 37 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 48 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 |
 | 49 | [Tres Brujas](https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd) | [The Sword](https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY) | [Warp Riders](https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7) | 4:09 |
 | 50 | [Perfect Man](https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X) | [Buffalo Fuzz](https://open.spotify.com/artist/5yl9y5moAeg1uC6miGnOUF) | [Buffalo Fuzz](https://open.spotify.com/album/23lj3u3NTE5KgGvPeWPbrW) | 5:25 |
-| 51 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
+| 51 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 |
 | 52 | [Left Us To Mold](https://open.spotify.com/track/48RCrsAtJ9HIKu95EwWoOt) | [Unida](https://open.spotify.com/artist/3c7hgCjTsDwzaKq0E37EmF) | [High Volume: The Stoner Rock Collection](https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x) | 5:46 |
-| 53 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 |
+| 53 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 |
 | 54 | [To the Center](https://open.spotify.com/track/4zm12OCIf4V602lohbl6TY) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [To the Center](https://open.spotify.com/album/2oUMzuY8FqFzcOa2YqhlsZ) | 6:31 |
 | 55 | [Cabin Fever](https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Cabin Fever](https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s) | 5:17 |
 | 56 | [Drowning on Empty](https://open.spotify.com/track/3g6cNWmxjtHv3cq1v8V3Lg) | [Geezer](https://open.spotify.com/artist/7wEkdwpx7bSDhRexrs94er) | [Groovy](https://open.spotify.com/album/30arspiTdQmIXFL43YuiC1) | 4:17 |
@@ -84,14 +84,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 74 | [Cosmic Ride Of The Crystal Skull](https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [Superskull](https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1) | 3:49 |
 | 75 | [Shifting Winds](https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj) | [Lightning Born](https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate) | [Lightning Born](https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG) | 4:35 |
 | 76 | [Staving off Truth](https://open.spotify.com/track/1NUWMbdZLYixwU5HIDVM7T) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Reflections of a Floating World](https://open.spotify.com/album/3KHAbIF4DHori5AW2nWdUA) | 10:18 |
-| 77 | [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 |
-| 78 | [Neptune's Convoy](https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [In Search Of](https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL) | 5:06 |
+| 77 | [Neptune's Convoy](https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [In Search Of](https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL) | 5:06 |
+| 78 | [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 |
 | 79 | [Riding Shotgun](https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm) | [Lowrider](https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW) | [Ode To IO](https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj) | 6:06 |
 | 80 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
-| 81 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 |
-| 82 | [All My Friends Move Like The Night](https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR) | [Devil Electric](https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA) | [All My Friends Move Like The Night](https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK) | 2:53 |
-| 83 | [Sugar](https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sugar](https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2) | 4:53 |
-| 84 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 |
+| 81 | [All My Friends Move Like The Night](https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR) | [Devil Electric](https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA) | [All My Friends Move Like The Night](https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK) | 2:53 |
+| 82 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 |
+| 83 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 |
+| 84 | [Sugar](https://open.spotify.com/track/6DvOKzkUF8LYNFSLgGtWmn) | [Masters Of Reality](https://open.spotify.com/artist/6I96egIonnFBY26MprKYKb) | [Sugar](https://open.spotify.com/album/0vM3OBPvCoOK38m7hdweb2) | 4:53 |
 | 85 | [Kiss Away](https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Saved by Magic](https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD) | 5:34 |
 | 86 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
 | 87 | [Run Run Run Run Run](https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw) | [Ghost Pipe](https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0) | [Run Run Run Run Run](https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ) | 5:29 |

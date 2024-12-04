@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADvVPEnwBpyqW3K9UedH0z3",
+  "snapshot_id": "AAAAAAAAAAAL0EX31KoKl1wP7ZSJEFVb",
   "tracks": [
     {
       "added_at": "2024-11-29 05:00:00",
@@ -18,15 +18,11 @@
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
         }
       ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -79,26 +75,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "AzChike",
-          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
-        }
-      ],
-      "duration_ms": 155917,
-      "name": "peekaboo (feat. azchike)",
-      "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
       },
@@ -119,6 +95,26 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 155917,
+      "name": "peekaboo (feat. azchike)",
+      "url": "https://open.spotify.com/track/2Uts1QFB4u2YNIMiqcb4de"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -287,26 +283,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "A Christmas Deal",
-        "url": "https://open.spotify.com/album/5DKgen4eQXpDSLxMlioCia"
-      },
-      "artists": [
-        {
-          "name": "AUDG",
-          "url": "https://open.spotify.com/artist/35eWmMW0ZgBUT7375GJtoC"
-        },
-        {
-          "name": "Josh Augustin",
-          "url": "https://open.spotify.com/artist/2dYrni0Ip1lY2KYPzwCCVW"
-        }
-      ],
-      "duration_ms": 164296,
-      "name": "A Christmas Deal",
-      "url": "https://open.spotify.com/track/0VpStwwLCPulSovgFphOgy"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Le c\u0153ur d'abord",
         "url": "https://open.spotify.com/album/7KVcW8IQBy74pevkOqZ6tW"
       },
@@ -331,6 +307,26 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "A Christmas Deal",
+        "url": "https://open.spotify.com/album/5DKgen4eQXpDSLxMlioCia"
+      },
+      "artists": [
+        {
+          "name": "AUDG",
+          "url": "https://open.spotify.com/artist/35eWmMW0ZgBUT7375GJtoC"
+        },
+        {
+          "name": "Josh Augustin",
+          "url": "https://open.spotify.com/artist/2dYrni0Ip1lY2KYPzwCCVW"
+        }
+      ],
+      "duration_ms": 164296,
+      "name": "A Christmas Deal",
+      "url": "https://open.spotify.com/track/0VpStwwLCPulSovgFphOgy"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "But Not For Me (Live)",
         "url": "https://open.spotify.com/album/1h63FW9MPUwJi3jFFOUhrD"
       },
@@ -343,26 +339,6 @@
       "duration_ms": 552447,
       "name": "But Not For Me - Live",
       "url": "https://open.spotify.com/track/0Qn2g6toQjHEnKohttNG0p"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "You & Me (Remixes)",
-        "url": "https://open.spotify.com/album/3CjbKEzQRFUknYkWqkq08p"
-      },
-      "artists": [
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
-        },
-        {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
-        }
-      ],
-      "duration_ms": 216616,
-      "name": "You & Me - Moby's Jungle Remix",
-      "url": "https://open.spotify.com/track/77yMAVqlzazpoQCNqQBaAa"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -395,6 +371,26 @@
       "duration_ms": 158160,
       "name": "Waltz of the Flowers",
       "url": "https://open.spotify.com/track/2jr2d3IKrrKAODvspQMqw6"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "You & Me (Remixes)",
+        "url": "https://open.spotify.com/album/3CjbKEzQRFUknYkWqkq08p"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+        }
+      ],
+      "duration_ms": 363001,
+      "name": "You & Me - Anfisa Letyago Remix",
+      "url": "https://open.spotify.com/track/3BT3X3GQrE1NHSR5XgVUKg"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -535,6 +531,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Miles in France 1963 & 1964 - Miles Davis Quintet: The Bootleg Series, Vol. 8",
+        "url": "https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 663217,
+      "name": "Stella By Starlight - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
+      "url": "https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Quatri\u00e8me mur",
         "url": "https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr"
       },
@@ -559,18 +571,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Miles in France 1963 & 1964 - Miles Davis Quintet: The Bootleg Series, Vol. 8",
-        "url": "https://open.spotify.com/album/69IMyjpYKbsVfVWJXQDYRo"
+        "name": "Inglewood, California 1982",
+        "url": "https://open.spotify.com/album/0lpNEDzo5bNgid8CLJhZsg"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 663217,
-      "name": "Stella By Starlight - Live at Paris, Salle Pleyel, France - October 1, 1964 [1st Concert]",
-      "url": "https://open.spotify.com/track/25osSBdShXOwws7vJAwplJ"
+      "duration_ms": 428225,
+      "name": "Rhiannon",
+      "url": "https://open.spotify.com/track/6Ah07SEeuD9RGtx62PtxCl"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -599,22 +611,6 @@
       "duration_ms": 259750,
       "name": "The Source",
       "url": "https://open.spotify.com/track/5HDOKsCfllv5gOfJAOd9Z7"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Inglewood, California 1982",
-        "url": "https://open.spotify.com/album/0lpNEDzo5bNgid8CLJhZsg"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 428225,
-      "name": "Rhiannon",
-      "url": "https://open.spotify.com/track/6Ah07SEeuD9RGtx62PtxCl"
     },
     {
       "added_at": "2024-11-29 05:00:00",

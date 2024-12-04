@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 633321,
+  "num_followers": 633518,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -963,26 +963,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
         },
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
         }
       ],
-      "duration_ms": 216979,
-      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
+      "duration_ms": 209208,
+      "name": "Headlights (feat. Ilsey)",
+      "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1007,22 +1003,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
       },
       "artists": [
         {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Ilsey",
-          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
         }
       ],
-      "duration_ms": 209208,
-      "name": "Headlights (feat. Ilsey)",
-      "url": "https://open.spotify.com/track/0tDC3KJPPu5eonGTtCURpq"
+      "duration_ms": 216979,
+      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Cruelest Summer",
-        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Cruel Summer - LP Giobbi Remix",
-      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Pacific Standard Time",
         "url": "https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9"
       },
@@ -1191,6 +1171,26 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Exotica",
+        "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Sophie and the Giants",
+          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Settle (Deluxe Version)",
         "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
       },
@@ -1211,22 +1211,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Exotica",
-        "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Sophie and the Giants",
-          "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 195704,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
     },
     {
       "added_at": "2024-11-08 05:00:00",

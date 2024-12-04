@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Arctico",
+        "url": "https://open.spotify.com/album/0GnOZh7LX9k4mRYlzgivKG"
+      },
+      "artists": [
+        {
+          "name": "La Pix",
+          "url": "https://open.spotify.com/artist/6TCo3qRn8NmB5p4xJRn9sD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141708,
+      "name": "Arctico",
+      "url": "https://open.spotify.com/track/4wZTveNZkzoZoBKaiDsyYH"
+    },
+    {
+      "album": {
         "name": "As i am will you be",
         "url": "https://open.spotify.com/album/3Vg1bpN6C9kBEmZyYot5u7"
       },
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 283280,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/5RWA30VaTsYkFrkzxKL3aK"
@@ -2220,7 +2238,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 171080,
       "name": "Montana",
       "url": "https://open.spotify.com/track/7HfApg345Hbu3WKIt8MsKO"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 108927,
       "name": "Persistence Of Lost Time",
       "url": "https://open.spotify.com/track/1tTWdpNyr5tlQpmRSkkWOe"
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 146625,
       "name": "Schouderklopje",
       "url": "https://open.spotify.com/track/75lSZRCyAUovkaOe3r2cdg"
@@ -3042,10 +3060,28 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 141250,
       "name": "Si tu savais",
       "url": "https://open.spotify.com/track/49QAgh5l0nGw2iuWt8bBEE"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n \u00dalfur",
+          "url": "https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141581,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX"
     },
     {
       "album": {

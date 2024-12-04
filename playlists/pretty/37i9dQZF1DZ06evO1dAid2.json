@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 130081,
+  "num_followers": 130093,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAAaQ4eg/F0FcQlu/q/8aDsk",
+  "snapshot_id": "Z0z4gAAAAABfNBfgn/1mrjS4sF19u/w9",
   "tracks": [
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 125106,
-      "name": "Still Got The Blues",
-      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live At Fillmore Auditorium",
         "url": "https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 125106,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 169173,
-      "name": "Downbound Train",
-      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
+      "duration_ms": 177200,
+      "name": "No Money Down",
+      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 177200,
-      "name": "No Money Down",
-      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
+      "duration_ms": 169173,
+      "name": "Downbound Train",
+      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
     },
     {
       "added_at": null,

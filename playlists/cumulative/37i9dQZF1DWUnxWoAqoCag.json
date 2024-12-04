@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 283493,
       "name": "SAY YES",
       "url": "https://open.spotify.com/track/6NTUooWOWjw5A20pm9oyor"
@@ -3972,6 +3972,24 @@
       "duration_ms": 301017,
       "name": "\u6ce5\u3060\u3089\u3051\u306e\u7d14\u7c8b",
       "url": "https://open.spotify.com/track/4FQleqtiBoMcMzztGVXkmP"
+    },
+    {
+      "album": {
+        "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
+        "url": "https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34"
+      },
+      "artists": [
+        {
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "\u6d6e\u6c17\u3057\u305f\u3089\u3042\u304b\u3093\u3067",
+      "url": "https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0"
     },
     {
       "album": {

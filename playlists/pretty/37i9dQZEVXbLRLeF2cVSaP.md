@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,178 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,187 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 12 | [Who \(Acoustic Remix\)](https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE \(WONDER ver.\)](https://open.spotify.com/album/5AQc0yFXRcdUdko4sZ1fW9) | 3:04 |
 | 13 | [На руках](https://open.spotify.com/track/0sxKPcwuIerPCwV8E3Ytww) | [БРЕДИШЬ](https://open.spotify.com/artist/0P9E2MHee0cXNpIeAvFAt1) | [Амальгама](https://open.spotify.com/album/4zuYs8vCPbEYt2YmxDPQmw) | 1:26 |
 | 14 | [DUBTSOVA](https://open.spotify.com/track/260wUp5DqP8RtsUVFK5EJn) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 2:42 |
-| 15 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 |
+| 15 | [Ma Meilleure Ennemie \- from the series Arcane League of Legends](https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ) | 2:27 |
 | 16 | [На луну](https://open.spotify.com/track/2kVQ0vYZEcfnccx6o0imvg) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [Меньше чем три](https://open.spotify.com/album/4Tmr1Q9NKJ6EIhgP2beV8k) | 2:17 |
 | 17 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 |
 | 18 | [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Дай Мне Шанс](https://open.spotify.com/track/5mE3uSxYQu5QfCyPVubftA) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Дай Мне Шанс](https://open.spotify.com/album/4dIIvMWiIevJHJ6d2xWZ0I) | 2:20 |
 | 50 | [Нон стоп](https://open.spotify.com/track/3uMUdlo47oEes3kgL4T4EC) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:33 |
 
-Snapshot ID: `LuEioAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LuJ0IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

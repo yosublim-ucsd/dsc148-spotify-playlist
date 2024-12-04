@@ -1,12 +1,12 @@
 {
   "description": "The hottest 50. Cover: Kendrick Lamar",
-  "num_followers": 35110840,
+  "num_followers": 35111428,
   "original_name": "Today\u2019s Top Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0lKUAAAAAAIu1+2qZBCqsoeNyKFy98q",
+  "snapshot_id": "Z0+cCAAAAAAZDHJaseQv7ZQ40lz0Toe4",
   "tracks": [
     {
       "added_at": "2024-11-29 05:00:00",
@@ -29,58 +29,6 @@
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
     },
     {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Die With A Smile",
@@ -101,6 +49,38 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
+      "added_at": "2024-05-31 04:00:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-11-01 04:00:00",
+      "album": {
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
       "added_at": "2024-08-23 04:00:00",
       "album": {
         "name": "Short n' Sweet",
@@ -115,6 +95,26 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
+    },
+    {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2024-04-19 04:01:02",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
       "added_at": "2024-08-07 00:45:42",
       "album": {
         "name": "Guess featuring Billie Eilish",
@@ -219,22 +235,6 @@
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -285,22 +285,6 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "Love Somebody",
-        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 204828,
-      "name": "Love Somebody",
-      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "The Secret of Us",
@@ -333,20 +317,20 @@
       "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
+      "added_at": "2024-10-25 04:00:00",
       "album": {
-        "name": "number one girl",
-        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
       },
       "artists": [
         {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+      "duration_ms": 204828,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -397,20 +381,20 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
         }
       ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -473,6 +457,22 @@
       "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
     },
     {
+      "added_at": "2024-10-11 04:00:00",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+    },
+    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "I Had Some Help",
@@ -509,6 +509,22 @@
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
+      "added_at": "2024-03-25 12:43:44",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Cosa Nuestra",
@@ -529,22 +545,6 @@
       "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
-      "added_at": "2024-03-25 12:43:44",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Stargazing",
@@ -559,26 +559,6 @@
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Tu Boda",
-        "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "Tu Boda",
-      "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -613,6 +593,26 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
+      "added_at": "2024-10-18 04:00:00",
+      "album": {
+        "name": "Tu Boda",
+        "url": "https://open.spotify.com/album/60cQzWfmdg4hyDXrpW6kOA"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Tu Boda",
+      "url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6"
+    },
+    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Disease",
@@ -627,26 +627,6 @@
       "duration_ms": 229997,
       "name": "Disease",
       "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
-        "url": "https://open.spotify.com/album/2PzoiaGTcK3NfnMgHFd7QC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
-      "url": "https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN"
     },
     {
       "added_at": "2024-11-24 21:53:53",
@@ -679,6 +659,30 @@
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        },
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
     },
     {
       "added_at": "2024-10-25 04:00:00",
@@ -717,30 +721,6 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        },
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
-    },
-    {
       "added_at": "2024-09-06 04:00:03",
       "album": {
         "name": "Touch",
@@ -755,6 +735,26 @@
       "duration_ms": 129882,
       "name": "Touch",
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
+        "url": "https://open.spotify.com/album/2PzoiaGTcK3NfnMgHFd7QC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "WHATCHU KNO ABOUT ME (with Sexyy Red)",
+      "url": "https://open.spotify.com/track/4VI2Y5xg4gYynQqNQNQbTN"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
-    },
-    {
       "added_at": "2024-09-13 04:00:00",
       "album": {
         "name": "The Emptiness Machine",
@@ -891,6 +875,22 @@
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
+      },
+      "artists": [
+        {
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+        }
+      ],
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
     }
   ],
   "unique_name": "Today\u2019s Top Hits",

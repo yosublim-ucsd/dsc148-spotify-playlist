@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 74260,
+  "num_followers": 74286,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Hey, Ma",
-      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Civilian",
         "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 220917,
       "name": "Civilian",
       "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Cold Little Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 269386,
-      "name": "Cold Little Heart - Acoustic",
-      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "After Rain",
         "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Singing Saw",
-        "url": "https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9"
+        "name": "Cold Little Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 194186,
-      "name": "I Have Been to the Mountain",
-      "url": "https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC"
+      "duration_ms": 269386,
+      "name": "Cold Little Heart - Acoustic",
+      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -979,18 +963,18 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+        "name": "Singing Saw",
+        "url": "https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
         }
       ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
+      "duration_ms": 194186,
+      "name": "I Have Been to the Mountain",
+      "url": "https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1007,6 +991,22 @@
       "duration_ms": 264320,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/7DqOEFNBLOfF2X24eXbG2z"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "I Want to See Pulaski at Night",
-        "url": "https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 289093,
-      "name": "Pulaski at Night",
-      "url": "https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Like I Used To (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 233013,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/1ODA4mZMaoBzT1TbPBW8B1"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "I Want to See Pulaski at Night",
+        "url": "https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 289093,
+      "name": "Pulaski at Night",
+      "url": "https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Weather Station",
-        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 220253,
-      "name": "Thirty",
-      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Been Listening",
         "url": "https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 254853,
       "name": "The Water - feat. Laura Marling",
       "url": "https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Weather Station",
+        "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 220253,
+      "name": "Thirty",
+      "url": "https://open.spotify.com/track/2TQXJmPwCgmIXpAtz9dyCI"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "Dark Child",
         "url": "https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 159102,
       "name": "Vedauwoo",
       "url": "https://open.spotify.com/track/7f34NzgqC100aAxrtwurEi"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 365746,
-      "name": "Riding For The Feeling",
-      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Lone Bellow",
-        "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 252853,
-      "name": "Green Eyes and a Heart of Gold",
-      "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/36iznSMpm0zbibJ7TsIUmQ"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 236834,
       "name": "Lost",
       "url": "https://open.spotify.com/track/078kLYfYCjjPMbABqriXT3"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Lone Bellow",
+        "url": "https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 252853,
+      "name": "Green Eyes and a Heart of Gold",
+      "url": "https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "By and By",
-        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 280794,
-      "name": "By and By",
-      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "White Lighter",
         "url": "https://open.spotify.com/album/6wWfPxs1YJO21V4CqgTkCI"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 243224,
       "name": "Prosthetic Love",
       "url": "https://open.spotify.com/track/4w7IW96rTnEQ6ZfnDfOozT"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 280794,
+      "name": "By and By",
+      "url": "https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh"
     },
     {
       "added_at": "2024-08-28 14:05:36",

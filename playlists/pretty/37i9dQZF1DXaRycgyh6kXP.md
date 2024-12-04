@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,046 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,277 likes - 100 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 26 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
 | 27 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
 | 28 | [Always Returning \- Remastered 2005](https://open.spotify.com/track/1ps5sx71OhHiBVmGiKQSne) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:04 |
-| 29 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 |
+| 29 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
 | 30 | [\(Pick Me Up\) Euphoria \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [\(Pick Me Up\) Euphoria \[From "Euphoria" An HBO Original Series\]](https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT) | 3:15 |
-| 31 | [While You Doooo](https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:31 |
+| 31 | [Without](https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Dual](https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc) | 3:49 |
 | 32 | [Madres](https://open.spotify.com/track/0nMVtLxgC3NdnhGamj6cS5) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:56 |
 | 33 | [Storm / Mom](https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO), [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Bee and PuppyCat \(Soundtrack from the Netflix Series\) Vol\. 2](https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb) | 2:31 |
 | 34 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 93 | [Another Girl](https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Another Girl](https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA) | 6:42 |
 | 94 | [Pack Yr Romantic Mind](https://open.spotify.com/track/79vjmzHz7zmXOBzy1w4Zin) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transient Random\-Noise Bursts With Announcements \(Expanded Edition\)](https://open.spotify.com/album/7i6xvTqziHnOBKLxstx9va) | 5:06 |
 | 95 | [All the Way Down](https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO) | 4:28 |
-| 96 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
-| 97 | [Tommib Help Buss](https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs) | 2:10 |
-| 98 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 |
-| 99 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
-| 100 | [Water Music](https://open.spotify.com/track/6PN8bVP6kjAW6UwqileVWR) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Ultraviolet](https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu) | 6:29 |
+| 96 | [♥](https://open.spotify.com/track/3PMyRSdnhCmXeP93bF89XG) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/3luRdv37JrEEOUYw8s9pA4) | 3:17 |
+| 97 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
+| 98 | [Tommib Help Buss](https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs) | 2:10 |
+| 99 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 |
+| 100 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
 
 Snapshot ID: `ZxuhuAAAAABzSbsbaTUZeivGpOAwr1CZ`

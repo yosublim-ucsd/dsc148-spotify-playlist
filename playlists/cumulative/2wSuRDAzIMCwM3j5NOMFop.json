@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Ghana",
+        "url": "https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Golden Boy",
+      "url": "https://open.spotify.com/track/3TDMylLFIdog58gdTjeauu"
+    },
+    {
+      "album": {
         "name": "Counterfeit Arcade",
         "url": "https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux"
       },
@@ -562,6 +580,24 @@
       "duration_ms": 242320,
       "name": "Small Cuts",
       "url": "https://open.spotify.com/track/2vd4ULh4EXAeIyOoe9JZ30"
+    },
+    {
+      "album": {
+        "name": "Undercard",
+        "url": "https://open.spotify.com/album/1WOhneh974qQNY6TGpWN7C"
+      },
+      "artists": [
+        {
+          "name": "The Extra Lens",
+          "url": "https://open.spotify.com/artist/64WVMQetBLvmJi3OVxjt2G"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162186,
+      "name": "Some Other Way",
+      "url": "https://open.spotify.com/track/1nBBKbMeKLqIcRtYLs8wfW"
     },
     {
       "album": {

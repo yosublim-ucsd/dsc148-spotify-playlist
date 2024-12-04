@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 
 > Indie folk that defined the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,701 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,724 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,17 +77,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 67 | [Northern Lights](https://open.spotify.com/track/4r9PnuIGOJOZ6UofWyMdow) | [Bowerbirds](https://open.spotify.com/artist/4MoGkOmfK6oKi1Isc8Iv9m) | [Upper Air](https://open.spotify.com/album/6j7VkUjGahbmwgPchYezpZ) | 2:54 |
 | 68 | [Rooks](https://open.spotify.com/track/2UZnNDCLZHMWR0LCEzFxBB) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Rook](https://open.spotify.com/album/5pYcP11SaCxYKqUAXeBIu2) | 3:21 |
 | 69 | [Mightiest of Guns](https://open.spotify.com/track/0JIx11Ysmmmy0VnV0KwP19) | [A.A\. Bondy](https://open.spotify.com/artist/4l8UbJGiXxbfyDJPvcVH23) | [When the Devil's Loose](https://open.spotify.com/album/3mUX3hUieJOQxmaJLWTuwq) | 3:47 |
-| 70 | [Handshake Drugs](https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 6:03 |
-| 71 | [Strictly Rule](https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 4:28 |
+| 70 | [Strictly Rule](https://open.spotify.com/track/2NftpgOvfV2YCH1lrRP5p8) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Tight Knit](https://open.spotify.com/album/4vS4ELlf7HddnAg5mactkC) | 4:28 |
+| 71 | [Good Man](https://open.spotify.com/track/3gFqVpiJk7pcKzy4aerQrW) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:08 |
 | 72 | [Jezebel](https://open.spotify.com/track/66uRb1ytl0l3PHAAAjqySU) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Woman King](https://open.spotify.com/album/5bD1I8I6SMNoysShNdTJa3) | 5:07 |
-| 73 | [Good Man](https://open.spotify.com/track/3gFqVpiJk7pcKzy4aerQrW) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [The Animal Years](https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw) | 4:08 |
+| 73 | [Handshake Drugs](https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [A Ghost Is Born \(Deluxe Version\)](https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF) | 6:03 |
 | 74 | [Alone Again Or](https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Convict Pool](https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq) | 3:24 |
 | 75 | [Abilene](https://open.spotify.com/track/3NJaTv311TiINuJpRa6UG7) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Where Shall You Take Me? \(Deluxe Reissue\)](https://open.spotify.com/album/5zkvaLpSAbwyu9XjHbpfzs) | 2:26 |
 | 76 | [For Prayer](https://open.spotify.com/track/6Stq4ZHP1XJXbMAmTckQ3d) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [The Knot](https://open.spotify.com/album/14skaJogkbq0YBkQqMEahg) | 3:50 |
-| 77 | [The Orchids](https://open.spotify.com/track/3wgONxKYvwtH1fECL3D810) | [Califone](https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa) | [Roots & Crowns](https://open.spotify.com/album/3Tvn8fHZjGCPX18ldQZ9BJ) | 2:55 |
-| 78 | [Hutterite Mile](https://open.spotify.com/track/6p80ag5QuK3b609DMpD7AM) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Folklore](https://open.spotify.com/album/0zYc9YpWV3n6txRxLjtOef) | 4:04 |
-| 79 | [Since You've Been Around](https://open.spotify.com/track/5SXvXwYx8xpYw0a4A7BKG7) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [If Songs Could Be Held](https://open.spotify.com/album/5VjrAV4Cs0LIbHAI21DS5i) | 3:18 |
-| 80 | [You May Be Blue](https://open.spotify.com/track/7pzSiISHRFQTlMKLZ94Z54) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Find Me Gone](https://open.spotify.com/album/1pqDv5gYGWNrkfb7iFj6NB) | 4:40 |
+| 77 | [You May Be Blue](https://open.spotify.com/track/7pzSiISHRFQTlMKLZ94Z54) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Find Me Gone](https://open.spotify.com/album/1pqDv5gYGWNrkfb7iFj6NB) | 4:40 |
+| 78 | [The Orchids](https://open.spotify.com/track/3wgONxKYvwtH1fECL3D810) | [Califone](https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa) | [Roots & Crowns](https://open.spotify.com/album/3Tvn8fHZjGCPX18ldQZ9BJ) | 2:55 |
+| 79 | [Hutterite Mile](https://open.spotify.com/track/6p80ag5QuK3b609DMpD7AM) | [16 Horsepower](https://open.spotify.com/artist/188gwh9RnRT58ZQPwqwHE3) | [Folklore](https://open.spotify.com/album/0zYc9YpWV3n6txRxLjtOef) | 4:04 |
+| 80 | [Since You've Been Around](https://open.spotify.com/track/5SXvXwYx8xpYw0a4A7BKG7) | [Rosie Thomas](https://open.spotify.com/artist/5Tw6OSRLoU7IHTO8kHGRQr) | [If Songs Could Be Held](https://open.spotify.com/album/5VjrAV4Cs0LIbHAI21DS5i) | 3:18 |
 | 81 | [Mykonos](https://open.spotify.com/track/0zRqVLbBZJrE7AAKrSW1RU) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Sun Giant](https://open.spotify.com/album/5NEop2elZh36TMtGHA9Zrt) | 4:35 |
 | 82 | [So Far Around the Bend](https://open.spotify.com/track/3VBgeexCnoYt5u1iGW7lSf) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 3:42 |
 | 83 | [Between Two Mysteries](https://open.spotify.com/track/1YyRRRrgFCCkVSBsQ3Pc0P) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [Wind's Poem](https://open.spotify.com/album/5GYhXZgCMiQFkck0RREyCJ) | 4:18 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajkNVL0LazE.md) - [plain]
 | 92 | [Cold Discovery](https://open.spotify.com/track/7eP5OpMpDJaUz3DL1LPbDi) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Dongs Of Sevotion](https://open.spotify.com/album/7nmRFyTp3Ybj9QRNFxlT27) | 5:56 |
 | 93 | [Cold and On My Mind](https://open.spotify.com/track/7KQ1WE9cUQcrUjorhP1hGK) | [Edith Frost](https://open.spotify.com/artist/3cmq7YmDFFy99rpgJipF2E) | [Shanti Project Collection 2](https://open.spotify.com/album/7CAuZdJ6sKPX4UUe6tHfCN) | 3:04 |
 | 94 | [Red Sea, Black Sea](https://open.spotify.com/track/2ouxMZsKhP2P32Qge1HdAX) | [Shearwater](https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49) | [Palo Santo \(Expanded Edition\)](https://open.spotify.com/album/66u6ytOmJrm0APoya7mokt) | 3:09 |
-| 95 | [Lull](https://open.spotify.com/track/5ohBqt39l2dSC7fCf80LaN) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Weather Systems](https://open.spotify.com/album/4mpnWLDzpd4Xb8xgDJFHgu) | 5:09 |
-| 96 | [A Stone](https://open.spotify.com/track/4QhtSV2TGKbX5SPM5Y6GJm) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Black Sheep Boy & Appendix](https://open.spotify.com/album/6rYEC1BEkqfSQ6LpDzFoOm) | 5:23 |
+| 95 | [A Stone](https://open.spotify.com/track/4QhtSV2TGKbX5SPM5Y6GJm) | [Okkervil River](https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY) | [Black Sheep Boy & Appendix](https://open.spotify.com/album/6rYEC1BEkqfSQ6LpDzFoOm) | 5:23 |
+| 96 | [Lull](https://open.spotify.com/track/5ohBqt39l2dSC7fCf80LaN) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Weather Systems](https://open.spotify.com/album/4mpnWLDzpd4Xb8xgDJFHgu) | 5:09 |
 | 97 | [A New Binding](https://open.spotify.com/track/4aWYj1nxzJfRldPr6U9QO8) | [Tara Jane O'Neil](https://open.spotify.com/artist/67S18PLepUFPvHhMgCJPZk) | [A Ways Away](https://open.spotify.com/album/1XZjhJx02YRz8z2EMqKaXw) | 3:35 |
 | 98 | [Home](https://open.spotify.com/track/7w5cxTEzp1rfV3KCy0Bd5N) | [Edward Sharpe & The Magnetic Zeros](https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh) | [Up from Below](https://open.spotify.com/album/39xrkt8RILtwa9DMyLkv32) | 5:03 |
 | 99 | [I Was Only Going Out](https://open.spotify.com/track/0Xe1rsTfcVgPf9PJPLX3gA) | [Loney Dear](https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph) | [Dear John](https://open.spotify.com/album/4vURCpWl7MDH9OrihML0c9) | 3:38 |

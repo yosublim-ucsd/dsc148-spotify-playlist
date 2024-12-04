@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2024 🍉
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,823 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,821 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 91 | [Endless Summer](https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Endless Summer](https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE) | 3:07 |
 | 92 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
 | 93 | [Looking for Me](https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Looking for Me](https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o) | 3:31 |
-| 94 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
-| 95 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 |
+| 94 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 |
+| 95 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
 | 96 | [Temptation](https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Temptation](https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ) | 3:12 |
 | 97 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
-| 98 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/6t180YbVeK9MWrj2zjMr5Z) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/0F05CIPVb8qpUAz202ECcc) | 2:58 |
-| 99 | [Bling Bling](https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Bling Bling](https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2) | 1:59 |
+| 98 | [Bling Bling](https://open.spotify.com/track/3KMsGaN1xdoOaNQELy8vR8) | [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Bling Bling](https://open.spotify.com/album/1b3QXIJY3rasdi7fV4gPU2) | 1:59 |
+| 99 | [World Hold On \- FISHER Rework](https://open.spotify.com/track/6t180YbVeK9MWrj2zjMr5Z) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [World Hold On \(FISHER Rework\)](https://open.spotify.com/album/0F05CIPVb8qpUAz202ECcc) | 2:58 |
 | 100 | [How You Samba](https://open.spotify.com/track/3nyebfHIhsgRvUJd9wv3u1) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/7yTCyFCX4y3xymp5q65peJ) | 2:31 |
 
 Snapshot ID: `ZtrBQQAAAAAi+PuoeH5lfV9hC/DilmOh`

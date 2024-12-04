@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Challa",
+        "url": "https://open.spotify.com/album/4vrY5oQa2qYcA21IBPKNlz"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286432,
+      "name": "Challa",
+      "url": "https://open.spotify.com/track/1JDGbbo7p8vTn9telazxNG"
+    },
+    {
+      "album": {
         "name": "Chandigarh Ka Chokra",
         "url": "https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 194562,
       "name": "Gerhe",
       "url": "https://open.spotify.com/track/32vevf8YHQp6YXsX3gcXTd"
@@ -2497,6 +2515,28 @@
     },
     {
       "album": {
+        "name": "Rafflan",
+        "url": "https://open.spotify.com/album/0H24XMNw4pK8lyXrTgHYMD"
+      },
+      "artists": [
+        {
+          "name": "Sahiba Aulakh",
+          "url": "https://open.spotify.com/artist/1dOU4M0v0yeTczwMOhIBWh"
+        },
+        {
+          "name": "Gurbilling",
+          "url": "https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132317,
+      "name": "Rafflan",
+      "url": "https://open.spotify.com/track/64LiKpnfoGb5E6h3TsTnEP"
+    },
+    {
+      "album": {
         "name": "Above All",
         "url": "https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG"
       },
@@ -2626,7 +2666,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 203361,
       "name": "Routine",
       "url": "https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,093 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 20 | [Moola](https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ) | [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl), [Jayms](https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5) | [Moola](https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t) | 3:04 |
 | 21 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
 | 22 | [My testimony](https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [My testimony](https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s) | 4:05 |
-| 23 | [Carefull Wies](https://open.spotify.com/track/3y0aL9TpnDojMhBNYfcwkV) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [YB Benzy](https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm) | [Carefull Wies](https://open.spotify.com/album/0gBgGLy1gl2JKIH3tnEUP1) | 3:21 |
+| 23 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
 | 24 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 |
-| 25 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
+| 25 | [Carefull Wies](https://open.spotify.com/track/3y0aL9TpnDojMhBNYfcwkV) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [YB Benzy](https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm) | [Carefull Wies](https://open.spotify.com/album/0gBgGLy1gl2JKIH3tnEUP1) | 3:21 |
 | 26 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
 | 27 | [Need Her](https://open.spotify.com/track/3bTMH68VT3u8oFniwyIUiq) | [Don Capo](https://open.spotify.com/artist/1sYPQP7hysPwkqjH2n9GHF), [CTT Beats](https://open.spotify.com/artist/1lBgK1F50Kdvho9uaKlWUt) | [Need Her](https://open.spotify.com/album/6reGgktpHIyvE4WMvRpl7A) | 1:47 |
 | 28 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 45 | [Nikes & Jordans \(Original\)](https://open.spotify.com/track/5Jg22KmtTCnFtdKlBO3ENv) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i) | [Nikes & Jordans \(Original\)](https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ) | 3:14 |
 | 46 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 |
 | 47 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |
-| 48 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
+| 48 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
 | 49 | [Nou Wat Nou](https://open.spotify.com/track/5j35dPtFWA3cE0GRu1JNt7) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P), [Bula B](https://open.spotify.com/artist/66bqtPkvO4QP1geGgYt5Rw) | [Nou Wat Nou](https://open.spotify.com/album/1f9Ddgd6IjPpJVNzJaN5mI) | 3:42 |
-| 50 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
+| 50 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
 
 Snapshot ID: `Z0lfeAAAAAA7CaafIHuOFT3+AAVCmGCe`

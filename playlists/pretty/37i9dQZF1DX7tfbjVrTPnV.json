@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Shelby Lynne",
-  "num_followers": 218160,
+  "num_followers": 218197,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Rumor And Sigh",
+        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Thompson",
+          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "1952 Vincent Black Lightning",
+      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Raising Sand",
         "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 255826,
       "name": "Killing the Blues",
       "url": "https://open.spotify.com/track/3KIoiyLwNxqHMfmlPFgDEG"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Rumor And Sigh",
-        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
-      },
-      "artists": [
-        {
-          "name": "Richard Thompson",
-          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "1952 Vincent Black Lightning",
-      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -563,6 +563,26 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Raising Sand",
+        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 212840,
+      "name": "Gone Gone Gone (Done Moved On)",
+      "url": "https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Hickory Wind",
         "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 180760,
       "name": "Out Among the Stars",
       "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Raising Sand",
-        "url": "https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 212840,
-      "name": "Gone Gone Gone (Done Moved On)",
-      "url": "https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Moonshiner",
-      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Crossroads (Original Sountrack)",
         "url": "https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 264200,
       "name": "Crossroads - 2008 Remaster",
       "url": "https://open.spotify.com/track/6mGy6bzPJ6hrgPnVJZCEd4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 263706,
+      "name": "Moonshiner",
+      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
         }
       ],
-      "duration_ms": 169266,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
+      "duration_ms": 170480,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/59kwBSCOkQiV6L6tUxkNjU"
       },
       "artists": [
         {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 170480,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
+      "duration_ms": 169266,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/0AxwGUoC4g9pp2lesuvvg0"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1119,6 +1119,22 @@
       "duration_ms": 222626,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 158834,
+      "name": "Got Your Six",
+      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 158834,
-      "name": "Got Your Six",
-      "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Big Day in a Small Town",
         "url": "https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl"
       },
@@ -1267,38 +1267,6 @@
       "duration_ms": 177560,
       "name": "Drinkin' Smokin' Cheatin'",
       "url": "https://open.spotify.com/track/3uBk6ji6nxUC81ndX2DXsb"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "I Contain Multitudes",
-        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "I Contain Multitudes",
-      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Too Blessed to Be Stressed",
-        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
-      },
-      "artists": [
-        {
-          "name": "Paul Thorn",
-          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
-        }
-      ],
-      "duration_ms": 284253,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1331,6 +1299,38 @@
       "duration_ms": 326746,
       "name": "Oh Soul",
       "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "I Contain Multitudes",
+        "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "I Contain Multitudes",
+      "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Too Blessed to Be Stressed",
+        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
+      },
+      "artists": [
+        {
+          "name": "Paul Thorn",
+          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
+        }
+      ],
+      "duration_ms": 284253,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 248920,
-      "name": "I'll Get Away",
-      "url": "https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "The Damage",
         "url": "https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Robby Hecht",
-        "url": "https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4"
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
       },
       "artists": [
         {
-          "name": "Robby Hecht",
-          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 221213,
-      "name": "New York City",
-      "url": "https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO"
+      "duration_ms": 248920,
+      "name": "I'll Get Away",
+      "url": "https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1739,6 +1723,22 @@
       "duration_ms": 264400,
       "name": "36 Cents",
       "url": "https://open.spotify.com/track/5ZVO59lU0EGA0hlVsE9VBw"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Robby Hecht",
+        "url": "https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4"
+      },
+      "artists": [
+        {
+          "name": "Robby Hecht",
+          "url": "https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk"
+        }
+      ],
+      "duration_ms": 221213,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -2055,6 +2055,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Give the People What They Want",
+        "url": "https://open.spotify.com/album/2gXqj7ah9qGergzhQhkfrf"
+      },
+      "artists": [
+        {
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Stranger to My Happiness",
+      "url": "https://open.spotify.com/track/1Ow1h8ipU0S07gGcJYfVkg"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "Strangers Almanac [Deluxe Edition]",
         "url": "https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 329653,
       "name": "California (Cast Iron Soul)",
       "url": "https://open.spotify.com/track/3y4QaYUb66fCWlP5f9EBNt"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Give the People What They Want",
-        "url": "https://open.spotify.com/album/2gXqj7ah9qGergzhQhkfrf"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Stranger to My Happiness",
-      "url": "https://open.spotify.com/track/1Ow1h8ipU0S07gGcJYfVkg"
     },
     {
       "added_at": "2024-08-30 04:00:00",

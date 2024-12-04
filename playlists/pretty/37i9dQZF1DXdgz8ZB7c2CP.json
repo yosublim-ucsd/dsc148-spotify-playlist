@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Yaeger & Killen.",
-  "num_followers": 778483,
+  "num_followers": 778499,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "The lights on your face. (DROELOE Remix)",
+        "url": "https://open.spotify.com/album/1DmuirmdZ33y065q9ZD962"
+      },
+      "artists": [
+        {
+          "name": "The Caracal Project",
+          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
+        },
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 208555,
+      "name": "The lights on your face. - DROELOE Remix",
+      "url": "https://open.spotify.com/track/4vPR2m9tS4v7F7JXCqgdJU"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Motions",
         "url": "https://open.spotify.com/album/74llMjtisXlfWXgtW6pfGQ"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 193333,
       "name": "Realise",
       "url": "https://open.spotify.com/track/6gJfyZxbUH5xBYBgPRpbCi"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "The lights on your face. (DROELOE Remix)",
-        "url": "https://open.spotify.com/album/1DmuirmdZ33y065q9ZD962"
-      },
-      "artists": [
-        {
-          "name": "The Caracal Project",
-          "url": "https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN"
-        },
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 208555,
-      "name": "The lights on your face. - DROELOE Remix",
-      "url": "https://open.spotify.com/track/4vPR2m9tS4v7F7JXCqgdJU"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "TURN YOUR HEART AROUND",
+        "url": "https://open.spotify.com/album/1HGSs2zPelvBSJ6TCvyUMw"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        }
+      ],
+      "duration_ms": 172305,
+      "name": "TURN YOUR HEART AROUND",
+      "url": "https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Finally (Remixes)",
         "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 196744,
       "name": "Finally (with Alicia Keys) - YARO Remix",
       "url": "https://open.spotify.com/track/2fyGtldDGBOAktZSstQxIM"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "TURN YOUR HEART AROUND",
-        "url": "https://open.spotify.com/album/1HGSs2zPelvBSJ6TCvyUMw"
-      },
-      "artists": [
-        {
-          "name": "SBTRKT",
-          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
-        }
-      ],
-      "duration_ms": 172305,
-      "name": "TURN YOUR HEART AROUND",
-      "url": "https://open.spotify.com/track/3VVNugqkWk3NqCfTfv0N4C"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Finally (Remixes)",
+        "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Killen.",
+          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
+        }
+      ],
+      "duration_ms": 239576,
+      "name": "Finally (with Alicia Keys) - Killen. Remix",
+      "url": "https://open.spotify.com/track/5E93mFDjFxE2R2pHZxBe3t"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Curve 1",
         "url": "https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo"
       },
@@ -1043,30 +1067,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Finally (Remixes)",
-        "url": "https://open.spotify.com/album/0XTZvzer3KdFbsIx7YDgfg"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Killen.",
-          "url": "https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt"
-        }
-      ],
-      "duration_ms": 239576,
-      "name": "Finally (with Alicia Keys) - Killen. Remix",
-      "url": "https://open.spotify.com/track/5E93mFDjFxE2R2pHZxBe3t"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "anywhere but here",
         "url": "https://open.spotify.com/album/5Ivp78PXSv4ljWonz8thzm"
       },
@@ -1079,30 +1079,6 @@
       "duration_ms": 131612,
       "name": "anywhere but here",
       "url": "https://open.spotify.com/track/0uR4Uhv8MiGJOYHPh0ZaB1"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "what is life?",
-        "url": "https://open.spotify.com/album/3GaUmCnvDwAIhH8IvwH6J9"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "it's all happening (feat. Daniel Allan & Evalyn)",
-      "url": "https://open.spotify.com/track/5qKuzoHvzd4POlLCaPIdvb"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1143,6 +1119,30 @@
       "duration_ms": 287447,
       "name": "CHROMA 001 HELIUM",
       "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "what is life?",
+        "url": "https://open.spotify.com/album/3GaUmCnvDwAIhH8IvwH6J9"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "it's all happening (feat. Daniel Allan & Evalyn)",
+      "url": "https://open.spotify.com/track/5qKuzoHvzd4POlLCaPIdvb"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "disappear",
-        "url": "https://open.spotify.com/album/5ux1z2tIfu3AHA6VogGuv3"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "artemis orion",
-          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
-        },
-        {
-          "name": "dobi",
-          "url": "https://open.spotify.com/artist/4QlfcAMb5uq3SwpHVRjace"
-        }
-      ],
-      "duration_ms": 172847,
-      "name": "disappear",
-      "url": "https://open.spotify.com/track/5BzLCBy61N1a6la0MVtueV"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "Push Me",
         "url": "https://open.spotify.com/album/7CKm52JVypwpu4AZUNDcCL"
       },
@@ -1343,6 +1319,30 @@
       "duration_ms": 240454,
       "name": "Lights Go Out",
       "url": "https://open.spotify.com/track/0FJ57QkOsbHFKJxwpiRgNP"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "disappear",
+        "url": "https://open.spotify.com/album/5ux1z2tIfu3AHA6VogGuv3"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "artemis orion",
+          "url": "https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg"
+        },
+        {
+          "name": "dobi",
+          "url": "https://open.spotify.com/artist/4QlfcAMb5uq3SwpHVRjace"
+        }
+      ],
+      "duration_ms": 172847,
+      "name": "disappear",
+      "url": "https://open.spotify.com/track/5BzLCBy61N1a6la0MVtueV"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Tear Me Down",
+        "url": "https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Tear Me Down",
+      "url": "https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "GLOW (feat. Au/Ra)",
         "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 162500,
       "name": "SKYLINE**",
       "url": "https://open.spotify.com/track/6uHRgUYrW8FuudgLLYydjU"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Tear Me Down",
-        "url": "https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW"
-      },
-      "artists": [
-        {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Tear Me Down",
-      "url": "https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2"
+      },
+      "artists": [
+        {
+          "name": "borne",
+          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+        }
+      ],
+      "duration_ms": 156004,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Senseless",
         "url": "https://open.spotify.com/album/2WlnVdiqmlKpu0elP95n02"
       },
@@ -1663,18 +1679,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2"
+        "name": "CONTEXT",
+        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
       },
       "artists": [
         {
-          "name": "borne",
-          "url": "https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB"
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
         }
       ],
-      "duration_ms": 156004,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J"
+      "duration_ms": 137624,
+      "name": "CONTEXT",
+      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1695,26 +1715,6 @@
       "duration_ms": 183453,
       "name": "Break My Heart",
       "url": "https://open.spotify.com/track/7f4Gk0qPZ3kOYLE1Nngilx"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "CONTEXT",
-        "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        }
-      ],
-      "duration_ms": 137624,
-      "name": "CONTEXT",
-      "url": "https://open.spotify.com/track/209naSvFNpkDmJGZ8pVoZ5"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "SLEEPNOMORE",
-        "url": "https://open.spotify.com/album/4FKOeqjwuBAYUc9Kn4V7fF"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        },
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        }
-      ],
-      "duration_ms": 160028,
-      "name": "SLEEPNOMORE",
-      "url": "https://open.spotify.com/track/0bSrY3ZFwZFe72xFghNftZ"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "We Are Making Out",
         "url": "https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 170975,
       "name": "We Are Making Out",
       "url": "https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "SLEEPNOMORE",
+        "url": "https://open.spotify.com/album/4FKOeqjwuBAYUc9Kn4V7fF"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "duration_ms": 160028,
+      "name": "SLEEPNOMORE",
+      "url": "https://open.spotify.com/track/0bSrY3ZFwZFe72xFghNftZ"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "BITE",
-        "url": "https://open.spotify.com/album/0qqr3H73R9OHozm5CVTOl6"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "BITE",
-      "url": "https://open.spotify.com/track/3Zjb9pAq1uTsSscSJk9wsS"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "The Red Eye Home",
         "url": "https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 216513,
       "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
       "url": "https://open.spotify.com/track/6JeDB7vnShGrxmpBT3thpY"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "NOT ANGRY",
+        "url": "https://open.spotify.com/album/3JJC8SfFjR0yKGV2SEOWSF"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "duration_ms": 111483,
+      "name": "NOT ANGRY",
+      "url": "https://open.spotify.com/track/7h0ki5H7W4EUqrAiXm7nFJ"
     }
   ],
   "unique_name": "creamy",

@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1380505,
+  "num_followers": 1381204,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Quaranta (Deluxe)",
-        "url": "https://open.spotify.com/album/5WY7ylzZpMxR43miLR8WB3"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 130895,
-      "name": "Cheaters",
-      "url": "https://open.spotify.com/track/6a742CHToHxyoAghYZOYho"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Metaphorical Music",
         "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 203706,
       "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
       "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Quaranta (Deluxe)",
+        "url": "https://open.spotify.com/album/5WY7ylzZpMxR43miLR8WB3"
+      },
+      "artists": [
+        {
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
+        }
+      ],
+      "duration_ms": 130895,
+      "name": "Cheaters",
+      "url": "https://open.spotify.com/track/6a742CHToHxyoAghYZOYho"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Done By The Forces Of Nature",
-        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
-      },
-      "artists": [
-        {
-          "name": "Jungle Brothers",
-          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "Doin' Our Own Dang",
-      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "GREEN LIGHT",
         "url": "https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 175714,
       "name": "GREEN LIGHT",
       "url": "https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Done By The Forces Of Nature",
+        "url": "https://open.spotify.com/album/5FCNQAQLw46CKYbv0n2H6V"
+      },
+      "artists": [
+        {
+          "name": "Jungle Brothers",
+          "url": "https://open.spotify.com/artist/2iclO3rlyF0YVNE46ctYRj"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "Doin' Our Own Dang",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Double Standards (feat. Sampha)",
+        "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
+      },
+      "artists": [
+        {
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 301800,
+      "name": "Double Standards (feat. Sampha)",
+      "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/4elVYof4cyo6iG2kALE83F"
       },
@@ -1147,26 +1167,6 @@
       "duration_ms": 147666,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/5mLf2FgoMMVHvAOoSwt7Lu"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Double Standards (feat. Sampha)",
-        "url": "https://open.spotify.com/album/7tHZxQL7iGN8iFGMYqHA8i"
-      },
-      "artists": [
-        {
-          "name": "Ghetts",
-          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 301800,
-      "name": "Double Standards (feat. Sampha)",
-      "url": "https://open.spotify.com/track/0eAXtuToazVgRJvKn8Rln9"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Mi Casa, Su Casa",
+        "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
+      },
+      "artists": [
+        {
+          "name": "insyt.",
+          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
+        }
+      ],
+      "duration_ms": 117933,
+      "name": "Truth Serum",
+      "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Peerless",
         "url": "https://open.spotify.com/album/2maCyX9Ug03EyMtdia3j0T"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Mi Casa, Su Casa",
-        "url": "https://open.spotify.com/album/3wQtB5CllwkpIZSJgF52QW"
+        "name": "That Jazz",
+        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
       "artists": [
         {
-          "name": "insyt.",
-          "url": "https://open.spotify.com/artist/6zXrh1uRnN78Wz55OMYV3O"
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
         }
       ],
-      "duration_ms": 117933,
-      "name": "Truth Serum",
-      "url": "https://open.spotify.com/track/0LN4VqDvWyG9XNHLmnMVq0"
+      "duration_ms": 188764,
+      "name": "That Jazz",
+      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 154920,
       "name": "Buddy A Fool",
       "url": "https://open.spotify.com/track/1dX4aE2jUQklKlXIFXHF7K"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "That Jazz",
-        "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
-      },
-      "artists": [
-        {
-          "name": "Coops",
-          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
-        }
-      ],
-      "duration_ms": 188764,
-      "name": "That Jazz",
-      "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Pertenecer",
-        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 207801,
-      "name": "Pertenecer",
-      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "New Day (feat. Illa J)",
         "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
@@ -1611,22 +1595,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "'Pagne Galore",
-        "url": "https://open.spotify.com/album/25uoBQk3rMb6KeYsn05l7A"
+        "name": "Pertenecer",
+        "url": "https://open.spotify.com/album/7yWkvwhrObsFkd25Pcry6T"
       },
       "artists": [
         {
-          "name": "Reaper Mook",
-          "url": "https://open.spotify.com/artist/1v5mFaBga84l2SzddZmP8D"
-        },
-        {
-          "name": "Seafood Sam",
-          "url": "https://open.spotify.com/artist/42i1K4n41jrf6DuIOQW1BY"
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
         }
       ],
-      "duration_ms": 116178,
-      "name": "Reaper Food",
-      "url": "https://open.spotify.com/track/4tL3JhElWB5f0rW4rlMHbK"
+      "duration_ms": 207801,
+      "name": "Pertenecer",
+      "url": "https://open.spotify.com/track/19ytYI7FGxUQQvYxDsVKns"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1643,6 +1623,26 @@
       "duration_ms": 216883,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/38g4mEWyukKL2IZwX5f4jg"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "'Pagne Galore",
+        "url": "https://open.spotify.com/album/25uoBQk3rMb6KeYsn05l7A"
+      },
+      "artists": [
+        {
+          "name": "Reaper Mook",
+          "url": "https://open.spotify.com/artist/1v5mFaBga84l2SzddZmP8D"
+        },
+        {
+          "name": "Seafood Sam",
+          "url": "https://open.spotify.com/artist/42i1K4n41jrf6DuIOQW1BY"
+        }
+      ],
+      "duration_ms": 116178,
+      "name": "Reaper Food",
+      "url": "https://open.spotify.com/track/4tL3JhElWB5f0rW4rlMHbK"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Still Not In Space",
-        "url": "https://open.spotify.com/album/490gSjb9Q1NQ7wy0iGBVFO"
-      },
-      "artists": [
-        {
-          "name": "wnbl",
-          "url": "https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2"
-        },
-        {
-          "name": "Mike Nasa",
-          "url": "https://open.spotify.com/artist/7dA0IZAV5Wr4SjKCnI7Gx3"
-        }
-      ],
-      "duration_ms": 176149,
-      "name": "Still Not In Space",
-      "url": "https://open.spotify.com/track/4toIvyzvBL5Yl44wYpVWsI"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "fusion.",
         "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
@@ -2011,6 +1991,26 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Premium",
+        "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
+      },
+      "artists": [
+        {
+          "name": "Padre T\u00f3xico",
+          "url": "https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Premium",
+      "url": "https://open.spotify.com/track/4d2VRSpCPthFd4UUZdRVTf"
     }
   ],
   "unique_name": "Jazz Rap",

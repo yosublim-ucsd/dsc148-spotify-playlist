@@ -4101,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "What U Need",
+        "url": "https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U"
+      },
+      "artists": [
+        {
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "What U Need",
+      "url": "https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW"
+    },
+    {
+      "album": {
         "name": "When I'm Gone",
         "url": "https://open.spotify.com/album/4oCuzncGTimPrUv61BsXXN"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,063 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,065 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 8 | [Champion \(feat\. Tierra Whack, Kaliii & Jimmy Jolliff\)](https://open.spotify.com/track/4eTa1ZOffRhCQtnM2Ag9cB) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Jimmy Jolliff](https://open.spotify.com/artist/7uzmxsPUTv4bfNtrLhr5jk) | [Reasonable Woman](https://open.spotify.com/album/2JYsCq8rOuQXkwv9BtJEa8) | 2:40 |
 | 9 | [Hot Girl Maybach](https://open.spotify.com/track/5UHGNDDDc7XxGsF6ZcQs9I) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Hot Girl Maybach](https://open.spotify.com/album/7nVTJT6oLE0KEZ7KspkxjC) | 2:20 |
 | 10 | [What's Tea? \- with Kaliii](https://open.spotify.com/track/79Qfwf0duzJhAPhW65apXn) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [What's Tea? \(with Kaliii\)](https://open.spotify.com/album/1229iPo1z4zKGLiruatn7c) | 2:49 |
-| 11 | [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 |
-| 12 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
+| 11 | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Shiesty \(feat\. Kaliii & Sexyy Red\)](https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T) | 3:36 |
+| 12 | [BOZO](https://open.spotify.com/track/1nQAabVphQawZXSNtaFKfK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [BOZO](https://open.spotify.com/album/0dfRkKEoGpigO9kuuYgu5R) | 2:28 |
 | 13 | [Big One \(feat\. Monaleo\)](https://open.spotify.com/track/7vWU5bYJk7uHulIfbQrGZK) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Big One \(feat\. Monaleo\)](https://open.spotify.com/album/1DNP6WXtCNKaF6OFfHotiX) | 2:36 |
 | 14 | [Say Too Much](https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Young Nudy](https://open.spotify.com/artist/2pZtVGPGN64v6qDGnAUguE) | [FCK GIRL SZN](https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV) | 3:13 |
 | 15 | [Do A Bitch](https://open.spotify.com/track/3t7NM4j6pmzJqck5sQdyAF) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 49 | [Run It Up](https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Enchanting](https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [RAP SH!T: The Mixtape \(From the Max Original Series, S2\)](https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX) | 2:18 |
 | 50 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 |
 
-Snapshot ID: `Z0unAAAAAAA+UV+9UrPvs/NF95dkDh8K`
+Snapshot ID: `Z0z4gAAAAABMVGyRC79pUu8rfVguhdzg`

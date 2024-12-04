@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Chloe Slater
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,538 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,544 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,27 +59,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 49 | [The Overload](https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [The Overload](https://open.spotify.com/album/4rXBcuJMRSt4izAwXNrTQu) | 3:16 |
 | 50 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
 | 51 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 |
-| 52 | [Spells](https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Spells](https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN) | 3:14 |
-| 53 | [Always Like This](https://open.spotify.com/track/0H6ABSnWE53gUJIdiadL6e) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Always Like This](https://open.spotify.com/album/5G8PoOaWgopOQRhJlk66tq) | 2:55 |
-| 54 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
-| 55 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
+| 52 | [Love Will Get You There](https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Love Will Get You There](https://open.spotify.com/album/4WXV0n8Gk8TlNJHyXAhyWq) | 4:10 |
+| 53 | [Spells](https://open.spotify.com/track/5eSsvk6nelxQoMYu6tLEM5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Spells](https://open.spotify.com/album/1gcAlm1ulSCN41rVh5jXxN) | 3:14 |
+| 54 | [Tropic Morning News](https://open.spotify.com/track/6TZ6vaiyYeMZzPef9hvnZL) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Tropic Morning News](https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ) | 5:09 |
+| 55 | [Always Like This](https://open.spotify.com/track/0H6ABSnWE53gUJIdiadL6e) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Always Like This](https://open.spotify.com/album/5G8PoOaWgopOQRhJlk66tq) | 2:55 |
 | 56 | [I’m Not Crying, You’re Crying](https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [This Could Be Texas](https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT) | 3:48 |
 | 57 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
 | 58 | [the angel of 8th ave.](https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 3:58 |
 | 59 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
 | 60 | [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 |
 | 61 | [Call It Love \- Edit](https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Call It Love](https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9) | 3:02 |
-| 62 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
-| 63 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
+| 62 | [Never Going Under](https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Never Going Under](https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj) | 2:14 |
+| 63 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
 | 64 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
 | 65 | [Something Blue](https://open.spotify.com/track/1nS8LLMYmVwKggDEviOuM8) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [One Million Love Songs](https://open.spotify.com/album/6ktuNkWlfl4kh4Nf6GLBDP) | 2:42 |
 | 66 | [Struggle \- Single Version](https://open.spotify.com/track/0WPEciMQX7UJTSUc9f8rHG) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [Struggle](https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0) | 3:24 |
 | 67 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 68 | [Tonight, Tonight](https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tonight, Tonight](https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m) | 4:21 |
-| 69 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 |
-| 70 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 |
-| 71 | [M](https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [M](https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ) | 3:51 |
-| 72 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 |
+| 69 | [Heaven \- feat\. Damon Albarn](https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 5:22 |
+| 70 | [Claw Foot](https://open.spotify.com/track/25Ydf3tBonBtvs3NhwYop7) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN](https://open.spotify.com/album/2cNAVNktNuv4fzSLJCuoDE) | 2:46 |
+| 71 | [Theatre](https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Theatre](https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv) | 2:59 |
+| 72 | [M](https://open.spotify.com/track/6VjM2OLqe0Mf7MoismIkyj) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [M](https://open.spotify.com/album/7cnnPqKbkUIMdrf1e8VZAZ) | 3:51 |
 | 73 | [Pedestal](https://open.spotify.com/track/6lKaiRbX5DtGMGNvE4xRbx) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Pedestal](https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj) | 4:21 |
 | 74 | [The Recogniser](https://open.spotify.com/track/417nPuKG03pek6PIuZGtae) | [Terra Twin](https://open.spotify.com/artist/1APkoiZBXf5B3YqPruHouT) | [The Recogniser](https://open.spotify.com/album/4XuEfBwoekw0M0WR5WA2Fs) | 3:26 |
 | 75 | [Follow You Down](https://open.spotify.com/track/6lsKovjmNp7BgNQqubH4EA) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Follow You Down](https://open.spotify.com/album/4Xwu7gra3bfXqfIFObBKNc) | 2:16 |

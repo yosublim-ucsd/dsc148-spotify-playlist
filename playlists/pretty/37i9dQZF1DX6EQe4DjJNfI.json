@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 175890,
+  "num_followers": 175903,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 150031,
-      "name": "Preta",
-      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Rom\u00e2ntico, Pt. 2",
         "url": "https://open.spotify.com/album/4F9PbT5etwnfzSHuNmh8cS"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 104988,
       "name": "Fala a Verdade",
       "url": "https://open.spotify.com/track/6R0shYSjgWuLheHn8l61bj"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 150031,
+      "name": "Preta",
+      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Dejavu",
         "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
       },
@@ -679,6 +695,22 @@
       "duration_ms": 182857,
       "name": "Dejavu",
       "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -703,38 +735,6 @@
       "duration_ms": 185263,
       "name": "Mais Um Pouco",
       "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Blusa da High",
-        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 160338,
-      "name": "Blusa da High",
-      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 161024,
       "name": "1001 Roteiros",
       "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Blusa da High",
+        "url": "https://open.spotify.com/album/5uz1PqQfPIylWKvdomw4SG"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 160338,
+      "name": "Blusa da High",
+      "url": "https://open.spotify.com/track/7b0W2ljnfWlIDhCTVxWJVZ"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -967,26 +967,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Hortel\u00e3",
         "url": "https://open.spotify.com/album/3IPqpPELZJMgd14mUehGug"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Louco inconsequente",
-        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
-      },
-      "artists": [
-        {
-          "name": "Kid Lovi",
-          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
-        }
-      ],
-      "duration_ms": 198728,
-      "name": "Louco inconsequente",
-      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Porto Seguro",
         "url": "https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ"
       },
@@ -1147,26 +1131,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+        "name": "Louco inconsequente",
+        "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+          "name": "Kid Lovi",
+          "url": "https://open.spotify.com/artist/7IVy9xDXn9jhG9f8sdnemG"
         }
       ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+      "duration_ms": 198728,
+      "name": "Louco inconsequente",
+      "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1251,6 +1227,30 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "O BGLH \u00c9 BLACK",
         "url": "https://open.spotify.com/album/0eqg2BczmxS6TivLVbCeXt"
       },
@@ -1307,6 +1307,30 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "SOUL EU",
+        "url": "https://open.spotify.com/album/6suwkMw6GYHti1j5F9gFDw"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Loroza",
+          "url": "https://open.spotify.com/artist/44ejp0LgYiq7kLEUjXiZzR"
+        },
+        {
+          "name": "Gu$t",
+          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
+        },
+        {
+          "name": "Tabatha Aquino",
+          "url": "https://open.spotify.com/artist/1NJmXHZf6n7JSdVEqskl8s"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Sem Nada",
+      "url": "https://open.spotify.com/track/25uqYzPvXS4WqAnWIEcWp4"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "NEM TUDO \u00c9 AMOR",
         "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
       },
@@ -1347,26 +1371,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "SOUL EU",
-        "url": "https://open.spotify.com/album/6suwkMw6GYHti1j5F9gFDw"
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Loroza",
-          "url": "https://open.spotify.com/artist/44ejp0LgYiq7kLEUjXiZzR"
-        },
-        {
-          "name": "Gu$t",
-          "url": "https://open.spotify.com/artist/72JiWyKG5MY6JfrRliaD7p"
-        },
-        {
-          "name": "Tabatha Aquino",
-          "url": "https://open.spotify.com/artist/1NJmXHZf6n7JSdVEqskl8s"
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Sem Nada",
-      "url": "https://open.spotify.com/track/25uqYzPvXS4WqAnWIEcWp4"
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1387,22 +1403,6 @@
       "duration_ms": 140832,
       "name": "Faz Arrepiar",
       "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
     },
     {
       "added_at": "2024-11-29 03:01:00",

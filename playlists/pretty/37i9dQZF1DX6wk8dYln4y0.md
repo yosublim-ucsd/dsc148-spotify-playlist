@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 
 > Music that just \*hits different\* Cover: Ayesha Madon
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,435 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,431 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 46 | [Who’s Afraid of Little Old Me?](https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 5:34 |
 | 47 | [how could u love somebody like me?](https://open.spotify.com/track/7bn5nXdatftk0CHSrd7NHQ) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [how could u love somebody like me?](https://open.spotify.com/album/1lUpGoaGcoPhS0uyzpw3mj) | 2:06 |
 | 48 | [the cutest pair](https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:38 |
-| 49 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 |
+| 49 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 |
 | 50 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 |
-| 51 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 |
+| 51 | [APEROL SPRITZ](https://open.spotify.com/track/3dTcqX8YTH1Hpk2pGHbBbq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [APEROL SPRITZ](https://open.spotify.com/album/6IKQq134LUHY0SNy2rKtSv) | 2:10 |
 | 52 | [IYKYK](https://open.spotify.com/track/2lkhdnz6pWlErZuRLnBXTt) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [IYKYK](https://open.spotify.com/album/7wdkikXCR5G3KhzffeTMCL) | 3:00 |
 | 53 | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/track/35qKr9IAEzgplIjfFePBuM) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Remember Me \(from the series Arcane League of Legends\)](https://open.spotify.com/album/4tQlLOyLfOiXMPOEnh904U) | 2:02 |
 | 54 | [The Mountain](https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn](https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7) | 2:55 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wk8dYln4y0.md) - [plain]
 | 57 | [MUSTANG BABY \(FT\. ARTEMAS\)](https://open.spotify.com/track/31rLeplcJIGfbvUBpPa9f7) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 3:11 |
 | 58 | [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 |
 | 59 | [Never Be Yours](https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Never Be Yours](https://open.spotify.com/album/3KWfY3MZ8PGDfjQSwqIxJF) | 3:16 |
-| 60 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
-| 61 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
+| 60 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
+| 61 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
 | 62 | [act ii: date @ 8](https://open.spotify.com/track/4HMop4Re0iucehmF7mgV27) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [act ii: date @ 8](https://open.spotify.com/album/77SuFKKJ3OY3ZgvuQNBiFA) | 1:53 |
 | 63 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 |
 | 64 | [ella brilla](https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ella brilla](https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD) | 4:23 |

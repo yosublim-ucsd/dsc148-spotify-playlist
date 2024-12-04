@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Jesse Baez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,851 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,857 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 20 | [La Razón](https://open.spotify.com/track/3CmSv76KDKsvtiyrdgHZHH) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Razón](https://open.spotify.com/album/1BfH1Sen3V361yL4Yck3Rg) | 2:42 |
 | 21 | [Enséñame](https://open.spotify.com/track/3eo3Dw5OGSWCzJDVHLKE3v) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:41 |
 | 22 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 |
-| 23 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 |
-| 24 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
+| 23 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
+| 24 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 |
 | 25 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
 | 26 | [no me siento mejor](https://open.spotify.com/track/0cmqX0poMxkZKzEFTafA5o) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [no me siento mejor](https://open.spotify.com/album/30uVuRFF7OVs5oLz1awRmr) | 3:03 |
 | 27 | [No Molestar](https://open.spotify.com/track/2jnJDn6efkVJ99hCQUs1Ea) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Panorama](https://open.spotify.com/album/4ktP2lR8aPjwFORYmyV1bD) | 2:37 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 40 | [Uno los Dos](https://open.spotify.com/track/7Cg58yt6PVyvckydVLRZsp) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Uno los Dos](https://open.spotify.com/album/1HvZ1Cipa88AAshhY1Jfe9) | 3:35 |
 | 41 | [Otro Huevón](https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Otro Huevón](https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU) | 3:26 |
 | 42 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
-| 43 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
-| 44 | [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 |
+| 43 | [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 |
+| 44 | [Drogada de Emociones](https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [PALACIO](https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE) | 2:40 |
 | 45 | [Dame Tu Amor](https://open.spotify.com/track/2aMzvik8mqYmjD0CB6mAix) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Dame Tu Amor](https://open.spotify.com/album/4XNMKxJJbBvcgg3ml5S5Ou) | 2:36 |
 | 46 | [BI](https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [BI](https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3) | 2:29 |
 | 47 | [Te Juro No Te Miento](https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Te Juro No Te Miento](https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT) | 2:35 |
-| 48 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
-| 49 | [Otro Mood](https://open.spotify.com/track/3sBi1AWJPDLGGugGfhRR1v) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Otro Mood](https://open.spotify.com/album/02kufg8vQsGs63dvpyKYcX) | 2:50 |
-| 50 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
+| 48 | [Quién lo diría](https://open.spotify.com/track/1l8QKeG1hH5nF5zpJWEBsR) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Quién lo diría](https://open.spotify.com/album/4PVhiDn8mvSj3aEAwz2ByX) | 2:39 |
+| 49 | [Miel](https://open.spotify.com/track/2Qgy01hjj4t1GMo7Fufbva) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [PERFECTO](https://open.spotify.com/album/0dfUP8W7VNECCpYG1fzkJW) | 3:32 |
+| 50 | [No Disponible](https://open.spotify.com/track/7MuMzPh58s0acf0pCMowSr) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [No Disponible](https://open.spotify.com/album/5u5UYikRR1tFtxIgTuL8E0) | 3:23 |
 
 Snapshot ID: `Z0mQ6QAAAACll2ff/FmoX/gkHVpCAhic`

@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2649526,
+  "num_followers": 2649548,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
-    },
-    {
-      "added_at": "2024-08-23 14:22:20",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2024-08-23 14:22:20",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
       "added_at": "2024-08-23 14:22:20",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
-    },
-    {
-      "added_at": "2024-08-23 14:22:20",
-      "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
@@ -191,6 +175,22 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 340200,
+      "name": "Ordinary World",
+      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+    },
+    {
+      "added_at": "2024-08-23 14:22:20",
+      "album": {
         "name": "Take the World Apart",
         "url": "https://open.spotify.com/album/3rXiySdCNMOD2mB55SpNUd"
       },
@@ -207,18 +207,18 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 340200,
-      "name": "Ordinary World",
-      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2024-08-23 14:22:20",
@@ -680,8 +680,8 @@
       },
       "artists": [
         {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+          "name": "Peter, Paul & Mary",
+          "url": "https://open.spotify.com/artist/2CSihbjcMAb5ew6weNQa0E"
         }
       ],
       "duration_ms": 177360,
@@ -760,8 +760,8 @@
       },
       "artists": [
         {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+          "name": "Peter, Paul & Mary",
+          "url": "https://open.spotify.com/artist/2CSihbjcMAb5ew6weNQa0E"
         }
       ],
       "duration_ms": 196466,
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Living With Ghosts",
-        "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "Let Him Fly",
-      "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
-    },
-    {
-      "added_at": "2024-08-23 14:22:20",
-      "album": {
         "name": "Folksongs & Ballads",
         "url": "https://open.spotify.com/album/2JQDn2wgm2nLVxdWE0GJJa"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 148040,
       "name": "Black Is the Colour",
       "url": "https://open.spotify.com/track/29tvuiMPkb9q56VRoLVQKD"
+    },
+    {
+      "added_at": "2024-08-23 14:22:20",
+      "album": {
+        "name": "Living With Ghosts",
+        "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "Let Him Fly",
+      "url": "https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4"
     },
     {
       "added_at": "2024-08-23 14:22:20",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Funny People (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6zrPKpcz1dKsWWqQGICVrg"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 128853,
-      "name": "Great Day",
-      "url": "https://open.spotify.com/track/6QP9DFKvDjegtwz2HQZFL7"
-    },
-    {
-      "added_at": "2024-08-23 14:22:20",
-      "album": {
         "name": "Dave Van Ronk Sings",
         "url": "https://open.spotify.com/album/34j8rWAn2K4du9ay3WRvmQ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 264440,
       "name": "Tell Old Bill",
       "url": "https://open.spotify.com/track/2ddznUWfrjiPS0cYGGf2jy"
+    },
+    {
+      "added_at": "2024-08-23 14:22:20",
+      "album": {
+        "name": "Funny People (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6zrPKpcz1dKsWWqQGICVrg"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 128853,
+      "name": "Great Day",
+      "url": "https://open.spotify.com/track/6QP9DFKvDjegtwz2HQZFL7"
     },
     {
       "added_at": "2024-08-23 14:22:20",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-08-23 14:22:20",
       "album": {
-        "name": "Fair and Square",
-        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 267133,
-      "name": "Clay Pigeons",
-      "url": "https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos"
-    },
-    {
-      "added_at": "2024-08-23 14:22:20",
-      "album": {
         "name": "Living With Ghosts",
         "url": "https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 272933,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/2SXtIzmLn2a8WHDbxAt6Ai"
+    },
+    {
+      "added_at": "2024-08-23 14:22:20",
+      "album": {
+        "name": "Fair and Square",
+        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos"
     },
     {
       "added_at": "2024-08-23 14:22:20",

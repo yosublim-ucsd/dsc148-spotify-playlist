@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,576 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,669 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 35 | [Golden Gate](https://open.spotify.com/track/0i8ea8zOfRjFSpjcaEy7Zp) | [Miranda Lee Richards](https://open.spotify.com/artist/78zeWQTQM1r7qFCfu2ILZc) | [Existential Beast](https://open.spotify.com/album/4ZDplu8ljG8eGyrtDH7rfd) | 6:07 |
 | 36 | [Just Like Me](https://open.spotify.com/track/0amncKBwEYANfX3OyDTFXk) | [Duff Thompson](https://open.spotify.com/artist/7plKpA9qc63luCHs3aEjfQ) | [Just Like Me](https://open.spotify.com/album/4bDZQ6ol7onKLvAhMEv4Ui) | 3:04 |
 | 37 | [To Who Knows Where](https://open.spotify.com/track/4WmR52KdbGjBNYswu0vCxq) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [To Who Knows Where](https://open.spotify.com/album/5NAczxw7gfuk2RaADp1aMn) | 3:19 |
-| 38 | [About a Stranger](https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Phosphorescent Harvest](https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL) | 5:07 |
-| 39 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
+| 38 | [Saturday](https://open.spotify.com/track/5GATiZMNerk6BLjPJp5aPL) | [Whiskerman](https://open.spotify.com/artist/6TFAeiJq10S8qvN86uS4ta) | [Champions](https://open.spotify.com/album/0hPVwSxwtZ2hktk9pcqa05) | 5:18 |
+| 39 | [About a Stranger](https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Phosphorescent Harvest](https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL) | 5:07 |
 | 40 | [Cosmic American Blues](https://open.spotify.com/track/4S057bezdn8681JCxHCUfc) | [OJR](https://open.spotify.com/artist/3BxLJvBTizcXZfwkydW2oT) | [Cosmic American Blues](https://open.spotify.com/album/5QorcySCg1FnehS2GM7aHA) | 4:09 |
 | 41 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
 | 42 | [The Sorry Sweater](https://open.spotify.com/track/06gBjl6WD3l4ExKfelGkW5) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Sorry Sweater](https://open.spotify.com/album/63uqMPsXQz1BXFi2vHCpiC) | 3:26 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 48 | [Real You](https://open.spotify.com/track/3eDpqXBwKK5AE0blKPpitN) | [Tré Burt](https://open.spotify.com/artist/5e5Zm5z8OPycf55hgDxKIc) | [Caught It from the Rye](https://open.spotify.com/album/2PaV8pGlT02BHgGIQ571Ag) | 2:49 |
 | 49 | [Went for a Ride](https://open.spotify.com/track/4SmAxBuCEOJDx1mbPSq1Kg) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Went for a Ride](https://open.spotify.com/album/1qih4iADyuiyL7HzN38v1h) | 4:49 |
 | 50 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
-| 51 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
-| 52 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
+| 51 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
+| 52 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
 | 53 | [Fireflies](https://open.spotify.com/track/2FaMaqqsh3rYNvcny78PYN) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Fireflies](https://open.spotify.com/album/1LzF7kQRLgvFUiBF0qG8iB) | 4:51 |
 | 54 | [Hanging On](https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Hanging On](https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba) | 3:11 |
 | 55 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 |
 | 56 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 |
 | 57 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
-| 58 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
-| 59 | [Althea](https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Althea](https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ) | 4:12 |
-| 60 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 |
+| 58 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 |
+| 59 | [Some Sunsick Day](https://open.spotify.com/track/54WIS7qug0Gnt65eD9gg8g) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Phase Zero](https://open.spotify.com/album/7wIpbVMqhkkIA4CAEY0fsb) | 5:11 |
+| 60 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
 
 Snapshot ID: `ZohOOwAAAABz+9O441RhpluXXVhe9u9J`

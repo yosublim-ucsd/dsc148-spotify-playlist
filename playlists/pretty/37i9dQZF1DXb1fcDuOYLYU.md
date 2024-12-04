@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 
 > These are the talented women of Latin music\. Cover: Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,299 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,383 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 64 | [princess peach](https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:46 |
 | 65 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 |
 | 66 | [Contigo](https://open.spotify.com/track/2CNpOXQzoJwWC6YMssLmQY) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 3:57 |
-| 67 | [Quiéreme Menos](https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quiéreme Menos](https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic) | 3:33 |
-| 68 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 |
+| 67 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 |
+| 68 | [Quiéreme Menos](https://open.spotify.com/track/08lj7xleA0SBiLhrDZUqIU) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Quiéreme Menos](https://open.spotify.com/album/7wU6rEuPAtlHXFqRnrdWic) | 3:33 |
 | 69 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 |
 | 70 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 71 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1fcDuOYLYU.md) - [plain]
 | 86 | [pesimista](https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pesimista](https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX) | 3:54 |
 | 87 | [BI](https://open.spotify.com/track/3A2h5cSKjTgIVwVsti2EdT) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [BI](https://open.spotify.com/album/5eDuna8HWeNest7b5MVSb3) | 2:29 |
 | 88 | [Tengo Un Trato \- Remastered 2015](https://open.spotify.com/track/13crLwJf5aEt3R8MKcisou) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Lujo Ibérico \(Edición 15 Aniversario\)](https://open.spotify.com/album/0jSaLt79iNOr9ydaF1cMLR) | 2:48 |
-| 89 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 |
-| 90 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
+| 89 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 |
+| 90 | [SOL](https://open.spotify.com/track/4uVrU5XO5MxKbNlfjoBo5Z) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [SOL](https://open.spotify.com/album/7L1I3NJYAHRxX6OKE0S0iS) | 2:51 |
 | 91 | [Coquette \(Remix\)](https://open.spotify.com/track/5HrjBJVKnfPOgDAIo3Wow4) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Coquette \(Remix\)](https://open.spotify.com/album/30WEmCF5a1YNZv5uzBMdvA) | 3:36 |
 | 92 | [ULTRAVIOLETA](https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:41 |
 | 93 | [BOBO](https://open.spotify.com/track/52wspfpsfPcsw7pw8dnQyM) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [BOBO](https://open.spotify.com/album/7nMVMZeaTPsWx8T6BbOHzC) | 3:44 |

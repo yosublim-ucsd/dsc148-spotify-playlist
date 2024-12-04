@@ -1,15 +1,31 @@
 {
   "description": "The best tracks from the world of music. Cover: ROS\u00c9",
-  "num_followers": 174355,
+  "num_followers": 174373,
   "original_name": "Hot Hits Singapore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0kbegAAAAA2TbpUGjNGqH1C40sxh99L",
+  "snapshot_id": "Z0+x7wAAAAAK+QrazXOPrZvXf9AyCuAh",
   "tracks": [
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "\u5760\u5728\u539f\u70b9\u7684\u6211",
         "url": "https://open.spotify.com/album/2FKuMP8oMcAQV2fRvF6i8u"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6Q7IbvSRN9kYK1BCftVv3D"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -65,7 +81,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "fangirl",
         "url": "https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt"
@@ -81,23 +97,7 @@
       "url": "https://open.spotify.com/track/0VVD95cRAppHSOGPYrfIG2"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "number one girl",
-        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        }
-      ],
-      "duration_ms": 216442,
-      "name": "number one girl",
-      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -113,39 +113,23 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+        "name": "Older",
+        "url": "https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS"
       },
       "artists": [
         {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
+      "duration_ms": 191001,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
@@ -165,23 +149,7 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 191001,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -197,23 +165,39 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
-        "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
-        "url": "https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S"
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
       },
       "artists": [
         {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 229655,
-      "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
-      "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "\u6709\u5929\u6703\u518d\u76f8\u898b",
         "url": "https://open.spotify.com/album/3euhcHkOosfai4FG0UXzp1"
@@ -229,7 +213,23 @@
       "url": "https://open.spotify.com/track/4BZlQdwkgUuaj5xbUHwUl8"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+        "url": "https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        }
+      ],
+      "duration_ms": 229655,
+      "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
+      "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
@@ -245,39 +245,7 @@
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "Whiplash - The 5th Mini Album",
-        "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 183226,
-      "name": "Whiplash",
-      "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "\u7231\u60c5\u7684\u540d\u5b57",
         "url": "https://open.spotify.com/album/5uR3Pzbi07ArjB3ktHBec3"
@@ -293,43 +261,39 @@
       "url": "https://open.spotify.com/track/3mPzfTqSoufmb2xDv2K8mQ"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+        "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
+        "url": "https://open.spotify.com/album/7KonHhAjwbnVzzK9B2XCy0"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 229997,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+      "duration_ms": 240461,
+      "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
+      "url": "https://open.spotify.com/track/48shm8jmaY2daKSe4gSKP6"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
-        "name": "time with myself",
-        "url": "https://open.spotify.com/album/1v4C6G5j2UCKyDxb8msCCN"
+        "name": "Happy - :') (Remixes)",
+        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        },
-        {
-          "name": "Benjamin Kheng",
-          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+          "name": "Jin",
+          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
         }
       ],
-      "duration_ms": 184588,
-      "name": "time with myself",
-      "url": "https://open.spotify.com/track/4ffDArfIwz860wAUypa8aL"
+      "duration_ms": 151646,
+      "name": "Running Wild",
+      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "HOME SWEET HOME (feat. TAEYANG & DAESUNG)",
         "url": "https://open.spotify.com/album/5fo3PoBblMOTbg7SXPNspq"
@@ -353,7 +317,155 @@
       "url": "https://open.spotify.com/track/0Cu8JdYvV9DdmzLzhxaZLH"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "time with myself",
+        "url": "https://open.spotify.com/album/1v4C6G5j2UCKyDxb8msCCN"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        },
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        }
+      ],
+      "duration_ms": 184588,
+      "name": "time with myself",
+      "url": "https://open.spotify.com/track/4ffDArfIwz860wAUypa8aL"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "we've been here before",
+        "url": "https://open.spotify.com/album/6MHgBh6b08AKDR6X5TrJZz"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "midnight train",
+      "url": "https://open.spotify.com/track/1tor3qcC8328FTK4NSEbMF"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "Whiplash - The 5th Mini Album",
+        "url": "https://open.spotify.com/album/3OaW4df1SA62k0arNpn6bK"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 183226,
+      "name": "Whiplash",
+      "url": "https://open.spotify.com/track/6uPnrBgweGOcwjFL4ItAvV"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "REALLY IN LOVE",
+        "url": "https://open.spotify.com/album/6eiPfrJaRXoMbibCcTjvn6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "REALLY IN LOVE",
+      "url": "https://open.spotify.com/track/6fDUYcXYVToRP5aMA6tDGm"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 157992,
+      "name": "squabble up",
+      "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 241501,
+      "name": "Popular",
+      "url": "https://open.spotify.com/track/3i8fIJNV0yuC4kXT3SkVBZ"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "Almost \u5e7e\u4e4e\u662f\u611b\u60c5",
+        "url": "https://open.spotify.com/album/579BRjoSe2Xj9dB5gP0D8O"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 253728,
+      "name": "\u5e7e\u4e4e\u662f\u611b\u60c5",
+      "url": "https://open.spotify.com/track/2dbWZvUkVW7ahyIO7UYUxs"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 229997,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "DRIP",
         "url": "https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k"
@@ -369,7 +481,7 @@
       "url": "https://open.spotify.com/track/198zDKzyktXRG1PGpidY9h"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "THE FIRST TIME (DELUXE VERSION)",
         "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
@@ -385,23 +497,7 @@
       "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
@@ -421,23 +517,7 @@
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
-        "url": "https://open.spotify.com/album/7KonHhAjwbnVzzK9B2XCy0"
-      },
-      "artists": [
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        }
-      ],
-      "duration_ms": 240461,
-      "name": "\u60f3\u5ff5\u4f60\u60f3\u6211",
-      "url": "https://open.spotify.com/track/48shm8jmaY2daKSe4gSKP6"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Supernova Love",
         "url": "https://open.spotify.com/album/0LMT3Tdqs2Zy8VIxwuf47X"
@@ -457,7 +537,7 @@
       "url": "https://open.spotify.com/track/5sTLGx6c7YRwnrWm6O091n"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
@@ -473,7 +553,7 @@
       "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj"
@@ -489,7 +569,7 @@
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "\u660e\u5929\u6211\u5728\u4f60\u8eab\u908a (\u96fb\u5f71\u300a\u5371\u6a5f\u822a\u7dda\u300b\u7247\u5c3e\u66f2)",
         "url": "https://open.spotify.com/album/6682vtcZcXjdmx9cZGQLR4"
@@ -505,23 +585,7 @@
       "url": "https://open.spotify.com/track/67KtRQhwhQbSEl9SRHyuoq"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -537,183 +601,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "2 hands",
-        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 181820,
-      "name": "2 hands",
-      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "Dancing In The Flames",
-        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 220036,
-      "name": "Dancing In The Flames",
-      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "SYNK : PARALLEL LINE - Special Digital Single",
-        "url": "https://open.spotify.com/album/4vLGHlTnlIIxMSfefCY0cU"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "UP - KARINA Solo",
-      "url": "https://open.spotify.com/track/5sjnkOfTLCLNfkkchI2re2"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "December 25th",
-        "url": "https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 231245,
-      "name": "December 25th",
-      "url": "https://open.spotify.com/track/1QNPTNaw67BanVtwXKIX1a"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "ROMANCE : UNTOLD -daydream-",
-        "url": "https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 167219,
-      "name": "No Doubt",
-      "url": "https://open.spotify.com/track/44hqFxUWsADWewEJELnncj"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "drunk text",
-        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 187263,
-      "name": "drunk text",
-      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "I'LL LIKE YOU",
-        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        }
-      ],
-      "duration_ms": 176854,
-      "name": "Cherish (My Love)",
-      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
-      },
-      "artists": [
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 143242,
-      "name": "POWER",
-      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Mindset",
         "url": "https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR"
@@ -733,7 +621,7 @@
       "url": "https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Skola Renda",
         "url": "https://open.spotify.com/album/5Wv1NLsSMwNRhZ5T8c9oaJ"
@@ -749,7 +637,7 @@
       "url": "https://open.spotify.com/track/78icpPEa4ENOZEntkb5SGd"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/5sdQ40xdak5s0vyjYyZGXW"
@@ -769,27 +657,151 @@
       "url": "https://open.spotify.com/track/2De3u8CrmCypAp1Ug1bEk0"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
-        "name": "CHROMAKOPIA",
-        "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 197019,
-      "name": "St. Chroma (feat. Daniel Caesar)",
-      "url": "https://open.spotify.com/track/1QoyuMHNBe7lg3YW4Qtll4"
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "2 hands",
+        "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 181820,
+      "name": "2 hands",
+      "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "Dancing In The Flames",
+        "url": "https://open.spotify.com/album/5XsZ5ZTcIHnZxjynaGxA0g"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 220036,
+      "name": "Dancing In The Flames",
+      "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "December 25th",
+        "url": "https://open.spotify.com/album/76xK4t4mW2HvVtA09CLcN6"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 231245,
+      "name": "December 25th",
+      "url": "https://open.spotify.com/track/1QNPTNaw67BanVtwXKIX1a"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "drunk text",
+        "url": "https://open.spotify.com/album/0lcfkucXPJH7zGSHbUXUjZ"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 187263,
+      "name": "drunk text",
+      "url": "https://open.spotify.com/track/0KpWiHVmIFDTvai20likX4"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "I'LL LIKE YOU",
+        "url": "https://open.spotify.com/album/7CBwpeVQ27cWwyEYjByVH1"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        }
+      ],
+      "duration_ms": 176854,
+      "name": "Cherish (My Love)",
+      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3w2XYofMZpf1FA5wkkcBfx"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 143242,
+      "name": "POWER",
+      "url": "https://open.spotify.com/track/4XsJiRJQAK8TWcZCn0Dxlh"
+    },
+    {
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -805,23 +817,7 @@
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "AWE",
-        "url": "https://open.spotify.com/album/1eS784kXLyL0YpDz5E7AuV"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 188702,
-      "name": "HOWLING",
-      "url": "https://open.spotify.com/track/2uaZaTMbYE5KAk8gbdzBgW"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
@@ -837,23 +833,7 @@
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-11-29 01:40:10",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
-    },
-    {
-      "added_at": "2024-11-29 01:40:10",
+      "added_at": "2024-12-04 01:35:43",
       "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/4dhoGa2hqBQ402BaIwBpcn"

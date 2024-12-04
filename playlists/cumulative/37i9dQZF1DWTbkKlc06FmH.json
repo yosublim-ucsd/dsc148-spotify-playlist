@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 204893,
       "name": "F64",
       "url": "https://open.spotify.com/track/5DFi6D7SrYHRIgZbY5MqqE"
@@ -4402,6 +4402,24 @@
       "duration_ms": 179266,
       "name": "FINE LINE (feat. Skaai) (Prod. uin)",
       "url": "https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY"
+    },
+    {
+      "album": {
+        "name": "Fine Love",
+        "url": "https://open.spotify.com/album/3rpSDeLGbg7EejFGR2zTuh"
+      },
+      "artists": [
+        {
+          "name": "brkfstblend",
+          "url": "https://open.spotify.com/artist/3RwELycfOfGHyoKYjH9iWQ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285755,
+      "name": "Fine Love",
+      "url": "https://open.spotify.com/track/1pLzH1jzq4KKPV7hz8g4la"
     },
     {
       "album": {
@@ -7649,6 +7667,24 @@
     },
     {
       "album": {
+        "name": "LIME",
+        "url": "https://open.spotify.com/album/5J1FvWkGaI4ZT6AK8gisU8"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250900,
+      "name": "LIME",
+      "url": "https://open.spotify.com/track/3AlFbHf3ftf9JAiMf1KpOw"
+    },
+    {
+      "album": {
         "name": "Live It Up (High Tide)",
         "url": "https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3"
       },
@@ -8682,7 +8718,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 165292,
       "name": "Mint Cherry Cake",
       "url": "https://open.spotify.com/track/2oRAgGoq3YVCnJZA4lxXgZ"
@@ -9602,6 +9638,28 @@
       "duration_ms": 210451,
       "name": "NIGHT DANCER - BIG Naughty Remix",
       "url": "https://open.spotify.com/track/2QS8VmtgJ40DBQbOfK4W9U"
+    },
+    {
+      "album": {
+        "name": "Nightglow Dreamer",
+        "url": "https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        },
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269516,
+      "name": "Nightglow Dreamer",
+      "url": "https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT"
     },
     {
       "album": {
@@ -16726,7 +16784,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 193383,
       "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
       "url": "https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 
 > This is Noah Kahan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,238 likes - 47 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,403 likes - 46 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 29 | [Your Needs, My Needs](https://open.spotify.com/track/5S9hlmzNQwZuhynLfxZ8Lg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:27 |
 | 30 | [Up All Night \(with The Lumineers & Noah Kahan\)](https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Up All Night](https://open.spotify.com/album/1HHb15TOhnSn5m8UDheP3s) | 3:23 |
 | 31 | [Someone Like You \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:06 |
-| 32 | [Young Blood \- Acoustic](https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Young Blood \(Acoustic\)](https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v) | 3:20 |
-| 33 | [Anyway](https://open.spotify.com/track/5FwlCxV2Q4xjTywLsD3Kxe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 5:12 |
+| 32 | [Anyway](https://open.spotify.com/track/5FwlCxV2Q4xjTywLsD3Kxe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 5:12 |
+| 33 | [Young Blood \- Acoustic](https://open.spotify.com/track/6QPqf4WqwZkxM68bGipzvP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Young Blood \(Acoustic\)](https://open.spotify.com/album/6S5IUKVISP7NycmxpuPr9v) | 3:20 |
 | 34 | [Tidal](https://open.spotify.com/track/2DPI5lHpb0wmjaL222fPdF) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:34 |
 | 35 | [Passenger](https://open.spotify.com/track/7BS6Xfx1NOJbEy4TE9TPAM) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:58 |
-| 36 | [Crazier Things \(with Noah Kahan\)](https://open.spotify.com/track/3K7vPyMCcecKRotnu08MMP) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Crazier Things](https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7) | 4:24 |
-| 37 | [Close Behind](https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:33 |
+| 36 | [Close Behind](https://open.spotify.com/track/3TtKAlue2cQRqx1MMnxrba) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:33 |
+| 37 | [Crazier Things \(with Noah Kahan\)](https://open.spotify.com/track/3K7vPyMCcecKRotnu08MMP) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Crazier Things](https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7) | 4:24 |
 | 38 | [Caves](https://open.spotify.com/track/1Pcz3lqppUM5OROz81qRAa) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:21 |
 | 39 | [Fine](https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6) | 3:25 |
 | 40 | [Catastrophize](https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 3:18 |
@@ -54,6 +54,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Exmrs.md) - [plain]
 | 44 | [Please](https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Hurt Somebody](https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4) | 4:12 |
 | 45 | [MEAN! \(with Noah Kahan\) \- Remix](https://open.spotify.com/track/7vMusXp03B9ydnQl3LGtk7) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [MEAN! \(Remix\) \[with Noah Kahan\]](https://open.spotify.com/album/1pzHmsdosYFjgkV6Xz9Uoz) | 2:23 |
 | 46 | [Bad Luck](https://open.spotify.com/track/05CRP83e1AD3kl6rP1r5aB) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 3:11 |
-| 47 | [Tough \(feat\. Noah Kahan\)](https://open.spotify.com/track/3a1Zmq0P1E6W80x8EOcVNP) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [From Michigan With Love](https://open.spotify.com/album/7zGPSFi3LOIC1L5Dj0oEBx) | 2:58 |
 
-Snapshot ID: `Z0unAAAAAAC6PepIFyPxW8FbfUI+LCTI`
+Snapshot ID: `Z0z4gAAAAAAILkBhjk4pbv9GKcegGLkj`

@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 19595,
+  "num_followers": 19602,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAABuWmGwbK82/51C0EU0WUjS",
+  "snapshot_id": "Z0z4gAAAAABchMT5ucZMf0hId1gBzORV",
   "tracks": [
     {
       "added_at": null,
@@ -35,22 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flex (Ooh, Ooh, Ooh) - Single",
-        "url": "https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 176744,
-      "name": "Flex (Ooh, Ooh, Ooh)",
-      "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "19",
         "url": "https://open.spotify.com/album/7D9fLDGU0A95Y0rIakBJA4"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 259918,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/77geRNo8p4BaEtYPpkeFSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flex (Ooh, Ooh, Ooh) - Single",
+        "url": "https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 176744,
+      "name": "Flex (Ooh, Ooh, Ooh)",
+      "url": "https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP"
     },
     {
       "added_at": null,

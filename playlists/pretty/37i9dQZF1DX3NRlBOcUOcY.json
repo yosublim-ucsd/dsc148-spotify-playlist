@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 442846,
+  "num_followers": 442850,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,18 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 209361,
-      "name": "TOMMY & PAMELA",
-      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -415,18 +411,22 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 209361,
+      "name": "TOMMY & PAMELA",
+      "url": "https://open.spotify.com/track/3GWUv0TDO5E3cHfsxYeptt"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "Una Vida Pasada",
-        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Una Vida Pasada",
-      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
+        "name": "Una Vida Pasada",
+        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
         "name": "ESE VATO",
         "url": "https://open.spotify.com/album/5ddyQMsjuCds4PrcOWf5RO"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 228916,
       "name": "ESE VATO",
       "url": "https://open.spotify.com/track/1eukaqiqtfgQgfKnJlIueO"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
-        "name": "XT4S1S",
-        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 219320,
-      "name": "XT4S1S",
-      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "REFLEXA",
-        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149255,
-      "name": "Si no no",
-      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
         "name": "Traductor",
         "url": "https://open.spotify.com/album/5b4J3ESXsrkLZ3hLcoVVpl"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
+        "name": "REFLEXA",
+        "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149255,
+      "name": "Si no no",
+      "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
         "name": "Bayam\u00f3n",
         "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 180949,
       "name": "Bayam\u00f3n",
       "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1643,22 +1643,6 @@
       "duration_ms": 202551,
       "name": "DESQUITE",
       "url": "https://open.spotify.com/track/7cE3UA7lv4e11ke0Cti5QV"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "PALACIO",
-        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
         }
       ],
-      "duration_ms": 160312,
-      "name": "Drogada de Emociones",
-      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1727,6 +1711,22 @@
       "duration_ms": 145000,
       "name": "curita",
       "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
+        "name": "PALACIO",
+        "url": "https://open.spotify.com/album/7nQEMEmUDb0KRNlbTUi4mE"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Drogada de Emociones",
+      "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1767,6 +1767,22 @@
       "duration_ms": 186366,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/74efdghdFtsNTvaN0b0QYr"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 259250,
+      "name": "Game Over",
+      "url": "https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -1831,22 +1847,6 @@
       "duration_ms": 199357,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/74efdghdFtsNTvaN0b0QYr"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 259250,
-      "name": "Game Over",
-      "url": "https://open.spotify.com/track/554WpDQ7PihlizEmEV0bI0"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
+        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
+        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "RANGOS",
+      "url": "https://open.spotify.com/track/0Zvjkpcw5XJQtdnqFatffM"
+    },
+    {
+      "added_at": "2024-10-21 20:52:03",
+      "album": {
         "name": "GALA Y DAL\u00cd",
         "url": "https://open.spotify.com/album/6Pwm0aU0x9kKrt3doES2tc"
       },
@@ -2143,22 +2159,6 @@
       "duration_ms": 167160,
       "name": "GALA Y DAL\u00cd",
       "url": "https://open.spotify.com/track/2PLAm4ZgIoHJeLTrWHmO7q"
-    },
-    {
-      "added_at": "2024-10-21 20:52:03",
-      "album": {
-        "name": "CVRBON VRMOR [C_DE: G_D.O.N.]",
-        "url": "https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "RANGOS",
-      "url": "https://open.spotify.com/track/0Zvjkpcw5XJQtdnqFatffM"
     },
     {
       "added_at": "2024-10-21 20:52:03",
@@ -2403,34 +2403,22 @@
     {
       "added_at": "2024-10-21 20:52:03",
       "album": {
-        "name": "Ananipenda (feat. Soge Culebra, Marioo) [Remix]",
-        "url": "https://open.spotify.com/album/12rtLcPE9RQYL8e8WqaWY0"
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
       },
       "artists": [
         {
-          "name": "Platform",
-          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
         },
         {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "Soge Culebra",
-          "url": "https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5"
+          "name": "ARON",
+          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
         }
       ],
-      "duration_ms": 289539,
-      "name": "Ananipenda (feat. Soge Culebra, Marioo) - Remix",
-      "url": "https://open.spotify.com/track/2SCK9dHI52spNQDwUCedD0"
+      "duration_ms": 222857,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph"
     }
   ],
   "unique_name": "Buenas Vibras",

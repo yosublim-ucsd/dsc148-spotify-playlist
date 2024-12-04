@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 > This is Bobby Pulido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,062 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,073 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 33 | [The Hits Medley: Desvelado/Enséname/A Tu Lado \- En Vivo](https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [En Vivo Desde las Vegas](https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J) | 6:40 |
 | 34 | [Zona de Peligro](https://open.spotify.com/track/3nvWPw6xafcHBK5Yghf6gk) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Zona de Peligro](https://open.spotify.com/album/3LjISuwDaksJyhnG1iiIgA) | 3:38 |
 | 35 | [La Plancha](https://open.spotify.com/track/0AIZSBwga3mZS7GNJKUVgB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:32 |
-| 36 | [Obsesión](https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:37 |
-| 37 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
+| 36 | [Dias de Ayer](https://open.spotify.com/track/7zSfoStk27KpJLg27Yz2Ba) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:26 |
+| 37 | [Obsesión](https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Vive](https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a) | 3:37 |
 | 38 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Bobby](https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD) | 3:09 |
 | 39 | [Margarita](https://open.spotify.com/track/1qbsrr0AwGgTY2SD5s1qIr) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:57 |
 | 40 | [Medley Bobby Pulido](https://open.spotify.com/track/7cEOxE57doPnSVWArGWu76) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Medley Bobby Pulido](https://open.spotify.com/album/6ntUeB7eJe8NmIOoVRlyZq) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [¿Qué Hago Conmigo?](https://open.spotify.com/track/48k7uKHMKNmyCXvPzdhcvW) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Siempre Pensando en Ti](https://open.spotify.com/album/7qOe8Bc1072Lf2z1tdZTYH) | 3:20 |
 | 50 | [Se Murió de Amor](https://open.spotify.com/track/1f5N7QP1ZNz5sw0ZD34YwD) | [Guardianes Del Amor De Arturo Rodriguez](https://open.spotify.com/artist/5XAMwb7g6jZrLc3iO8ag4G), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Se Murió de Amor](https://open.spotify.com/album/4KGkWwBSQh4i4uT8HWt4vd) | 3:38 |
 
-Snapshot ID: `Z0unAAAAAAA+2EV4JcxQJgq2ou5UWWua`
+Snapshot ID: `Z0z4gAAAAADtvZ1/8g0M0O/1mIsER9qu`

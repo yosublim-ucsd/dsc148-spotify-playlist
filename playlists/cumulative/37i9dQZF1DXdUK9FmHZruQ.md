@@ -4,7 +4,7 @@
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-163 songs - 9 hr 23 min
+165 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 | 2024-11-13 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-11-10 |  |
 | [Heaven](https://open.spotify.com/track/5FQ77Cl1ndljtwwImdtjMy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 3:06 | 2023-11-10 | 2024-04-19 |
-| [History](https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:07 | 2024-04-19 |  |
+| [History](https://open.spotify.com/track/0HMjXBAZmSYOTTi33WpMso) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:07 | 2024-04-19 | 2024-12-04 |
 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 | 2024-02-27 | 2024-10-06 |
 | [Hurt](https://open.spotify.com/track/6eZEuLvZDa5cQy8bX22oZT) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Deluxe\)](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:41 | 2024-07-12 | 2024-07-18 |
 | [I Can Do It With a Broken Heart](https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:38 | 2024-08-05 |  |
@@ -133,6 +133,7 @@
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-11-10 |  |
 | [Soft Spot](https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem](https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm) | 3:24 | 2024-09-18 |  |
 | [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2024-04-19 | 2024-10-19 |
+| [someday, someone](https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [good luck, goodbye \(over nostalgic edition\)](https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0) | 3:37 | 2024-12-03 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-11-10 |  |
 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 | 2024-06-08 | 2024-07-02 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-06-11 |  |
@@ -143,6 +144,7 @@
 | [Take A Chance With Me](https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 5:03 | 2023-11-12 | 2024-07-02 |
 | [TAKE ALL THE LOVE](https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [TAKE ALL THE LOVE](https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb) | 3:26 | 2024-01-10 | 2024-04-19 |
 | [Taste](https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/4B4Elma4nNDUyl6D5PvQkj) | 2:37 | 2024-08-27 | 2024-09-05 |
+| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-12-03 |  |
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2024-10-24 |  |
 | [Things You Said \(feat\. Abby Cates\)](https://open.spotify.com/track/2k8ZdI4C1ox7duEFJN7BgD) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [The End](https://open.spotify.com/album/1gGuLJfZnXUoAs5nk7UXV6) | 3:54 | 2024-03-21 | 2024-04-19 |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2023-11-10 | 2024-04-19 |
@@ -169,7 +171,7 @@
 | [You Are The Reason](https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 3:24 | 2023-11-10 | 2024-04-19 |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2023-11-10 | 2024-01-21 |
 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 | 2024-01-23 | 2024-04-19 |
-| [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2023-11-10 |  |
+| [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2023-11-10 | 2024-12-04 |
 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 | 2024-04-19 | 2024-06-12 |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

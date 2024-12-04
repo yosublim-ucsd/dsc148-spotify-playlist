@@ -1,13 +1,29 @@
 {
   "description": "\ud83d\udd25 All the hottest hip hop tracks in one spot!",
-  "num_followers": 38758,
+  "num_followers": 38757,
   "original_name": "Hip Hop Weekly",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAfJOj1EQRpcGlowU6QO39fuQrX7VIZ",
+  "snapshot_id": "AAAfJqMq1MEx3cwLXdyLuNvkSefCRAZM",
   "tracks": [
+    {
+      "added_at": "2024-12-03 17:34:01",
+      "album": {
+        "name": "SLUT SZN",
+        "url": "https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 138180,
+      "name": "Gang Baby",
+      "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
+    },
     {
       "added_at": "2024-12-02 14:36:38",
       "album": {

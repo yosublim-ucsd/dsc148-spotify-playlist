@@ -1,6 +1,6 @@
 {
   "description": "POV: t\u00e1 fresco y la sombra del fresnito pega bien sabroso.",
-  "num_followers": 155512,
+  "num_followers": 155603,
   "original_name": "qu\u00e9 agusticidad",
   "owner": {
     "name": "Spotify",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-10-23 17:24:42",
       "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177058,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
+    },
+    {
+      "added_at": "2024-10-23 17:24:42",
+      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 275683,
       "name": "Te Equivocaste (En Vivo)",
       "url": "https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL"
-    },
-    {
-      "added_at": "2024-10-23 17:24:42",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
     },
     {
       "added_at": "2024-10-23 17:24:42",

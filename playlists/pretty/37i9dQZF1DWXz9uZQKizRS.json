@@ -1,6 +1,6 @@
 {
   "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Kasia Lins",
-  "num_followers": 125128,
+  "num_followers": 125142,
   "original_name": "Alternatywna Polska",
   "owner": {
     "name": "Spotify",
@@ -224,16 +224,24 @@
       },
       "artists": [
         {
-          "name": "Prosta Sprawa",
-          "url": "https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT"
-        },
-        {
           "name": "K\u0118PI\u0143SKI KOWALONEK",
           "url": "https://open.spotify.com/artist/3z84Fsj4Ob6F940y1FwXnk"
         },
         {
           "name": "Krzysztof Zalewski",
           "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        },
+        {
+          "name": "Miro Kepinski",
+          "url": "https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG"
+        },
+        {
+          "name": "Micha\u0142 Kowalonek",
+          "url": "https://open.spotify.com/artist/3oIZFLMAjPpJjv74YpRl5O"
+        },
+        {
+          "name": "Prosta Sprawa",
+          "url": "https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT"
         }
       ],
       "duration_ms": 196048,
@@ -316,12 +324,12 @@
       },
       "artists": [
         {
-          "name": "Tomasz Mre\u0144ca",
-          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
-        },
-        {
           "name": "Baasch",
           "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
+        },
+        {
+          "name": "Tomasz Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX"
         }
       ],
       "duration_ms": 288000,

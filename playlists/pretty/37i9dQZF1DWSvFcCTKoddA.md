@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 
 > Découvrez les créateurs de demain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,953 likes - 15 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,955 likes - 15 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvFcCTKoddA.md) - [plain]
 | 2 | [Le BookTok nous rend\-il stupide ? ](https://open.spotify.com/episode/1N7RQUQNA569EUgbZpr8uG) | [Livres Laugh Love ](https://open.spotify.com/show/7v8cthhH5O72pXNo7hnhq1) | [Livres Laugh Love ](https://open.spotify.com/album/7v8cthhH5O72pXNo7hnhq1) | 48:49 |
 | 3 | [Et Dieu créa Sally Rooney](https://open.spotify.com/episode/7MWOyUZQ1BbowvwDSx6H9R) | [Livres Laugh Love ](https://open.spotify.com/show/7v8cthhH5O72pXNo7hnhq1) | [Livres Laugh Love ](https://open.spotify.com/album/7v8cthhH5O72pXNo7hnhq1) | 1:11:24 |
 | 4 | [Voici 10 HISTOIRES D'HORREUR que VOUS nous avez raconté !](https://open.spotify.com/episode/7l6J7CSDMKCJqofGVasMV4) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 41:10 |
-| 5 | [Épisode 46 : Ces 3 CÉLÉBRITÉS ont commis des ATROCITÉS..\. \(3 histoires d'HORREUR\)](https://open.spotify.com/episode/0HFIprgb2zdlFdCJMeZ870) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 18:35 |
+| 5 | [Épisode 47 : Ces 3 CÉLÉBRITÉS ont commis des ATROCITÉS..\. \(3 histoires d'HORREUR\)](https://open.spotify.com/episode/0HFIprgb2zdlFdCJMeZ870) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 18:35 |
 | 6 | [Épisode 45 : 3 TUEURS parmi les PIRES que la TERRE ait connu...](https://open.spotify.com/episode/4OXHslnlNBEPdozYzpSqqv) | [HISTOIRES D'HORREUR](https://open.spotify.com/show/7BcivaoKPOWFDXYtp9D5KF) | [HISTOIRES D'HORREUR](https://open.spotify.com/album/7BcivaoKPOWFDXYtp9D5KF) | 20:43 |
 | 7 | [«Nikita»: le film qui ne donne pas envie d'être espion](https://open.spotify.com/episode/5fMXmPLWjkhgh3H2n4H0pB) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 1:07:02 |
 | 8 | [«Le Silence des agneaux»: meurtres, cris et chianti](https://open.spotify.com/episode/2h1zNX8NKwg4mfXKLPe2Nt) | [AMIES](https://open.spotify.com/show/7lIrh4521x9sUmFXyhvcui) | [AMIES](https://open.spotify.com/album/7lIrh4521x9sUmFXyhvcui) | 1:08:14 |

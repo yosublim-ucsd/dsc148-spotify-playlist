@@ -381,6 +381,28 @@
     },
     {
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211918,
+      "name": "2:12 AM",
+      "url": "https://open.spotify.com/track/1UTLq40xh63wMrHELGnKWW"
+    },
+    {
+      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -1316,7 +1338,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 216146,
       "name": "A Veces A Besos - Remix",
       "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
@@ -2773,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268042,
+      "name": "Amar De Nuevo",
+      "url": "https://open.spotify.com/track/4jjFjbqCTkaN1mGb0BMYl2"
+    },
+    {
+      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -2966,7 +3006,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 191465,
       "name": "Amor A Mitad",
       "url": "https://open.spotify.com/track/5yyfFBIoO5KwYd5yJ90VKf"
@@ -3270,6 +3310,24 @@
       "duration_ms": 130298,
       "name": "Angelina",
       "url": "https://open.spotify.com/track/4d1GZHzLa51BDMW8LO9BlW"
+    },
+    {
+      "album": {
+        "name": "ANGELITO",
+        "url": "https://open.spotify.com/album/1wIbAOcYH3TDxkWI1Zcb5K"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140510,
+      "name": "ANGELITO",
+      "url": "https://open.spotify.com/track/0dTMGvsO9YpApxkZQoPi4J"
     },
     {
       "album": {
@@ -4418,6 +4476,32 @@
       "duration_ms": 178579,
       "name": "B2b",
       "url": "https://open.spotify.com/track/4wTvw1dBiPXNiHTh0zzpcI"
+    },
+    {
+      "album": {
+        "name": "Ba Ba Bad",
+        "url": "https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144489,
+      "name": "Ba Ba Bad",
+      "url": "https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt"
     },
     {
       "album": {
@@ -5722,7 +5806,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 132160,
       "name": "Beanie",
       "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
@@ -7104,7 +7188,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -9454,7 +9538,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 189524,
       "name": "Cero Empat\u00eda",
       "url": "https://open.spotify.com/track/03MqlviAY1kvFqdaGl5Mhg"
@@ -9650,7 +9734,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 120052,
       "name": "CHAPA",
       "url": "https://open.spotify.com/track/4uFYkBaLGIhBaLT9KbhyPt"
@@ -10632,6 +10716,32 @@
       "duration_ms": 200816,
       "name": "Cochinae",
       "url": "https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW"
+    },
+    {
+      "album": {
+        "name": "Cocktail Molotov (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/4wrT09KQQ6TV4fv3gIYqvA"
+      },
+      "artists": [
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148520,
+      "name": "Cocktail Molotov (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4zSeX6VgtIZHLgIz2hJT3p"
     },
     {
       "album": {
@@ -13245,6 +13355,32 @@
     },
     {
       "album": {
+        "name": "DEPORTIVO",
+        "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218701,
+      "name": "DEPORTIVO",
+      "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
+    },
+    {
+      "album": {
         "name": "NASTY FLAKO",
         "url": "https://open.spotify.com/album/1viqyajYRv8loNBbacjCdy"
       },
@@ -15804,7 +15940,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 170000,
       "name": "EL STICKER",
       "url": "https://open.spotify.com/track/51fjeEQR84knHbPr7aLZNA"
@@ -17070,7 +17206,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 281522,
       "name": "Esclava - Remix",
       "url": "https://open.spotify.com/track/0fOjPUdkQjLH0aoGa5p5h4"
@@ -18074,7 +18210,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 188181,
       "name": "FDSR",
       "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
@@ -20906,7 +21042,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 209670,
       "name": "Hablarte Claro",
       "url": "https://open.spotify.com/track/1yEpryCuGvdw9QVyIy9W5Y"
@@ -21404,7 +21540,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 101533,
       "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0i77506epd8NgmHxZwMOwS"
@@ -21434,7 +21570,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 101533,
       "name": "Heavy Is The Crown - Original Score / from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2M1DKFIBC7JbtJCPFkqY0a"
@@ -21578,7 +21714,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 164773,
       "name": "Hellfire (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC"
@@ -21604,7 +21740,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 164773,
       "name": "Hellfire - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6n484S6vV8IUenkz43YzTt"
@@ -22892,7 +23028,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 161040,
       "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby"
@@ -22918,7 +23054,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 161039,
       "name": "I Can't Hear It Now - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/4l4J1USPK4D1yTdMtOifQ2"
@@ -23620,7 +23756,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 240000,
       "name": "IA",
       "url": "https://open.spotify.com/track/7lcbpfihslisNObKdHjyLo"
@@ -25066,6 +25202,28 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Kh\u00e9?",
+      "url": "https://open.spotify.com/track/1YYfyJ2yCvGFCxwjsIqEK9"
     },
     {
       "album": {
@@ -31495,6 +31653,28 @@
     },
     {
       "album": {
+        "name": "Mi Calma",
+        "url": "https://open.spotify.com/album/7iUinjoiqvhl1HCYNKiu7t"
+      },
+      "artists": [
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        },
+        {
+          "name": "KAVVO",
+          "url": "https://open.spotify.com/artist/7BxfvnCKOvC4pYttjF1gsO"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193282,
+      "name": "Mi Calma",
+      "url": "https://open.spotify.com/track/34EiUsDP3f1OWXNLCgWxkd"
+    },
+    {
+      "album": {
         "name": "Mi Casi Algo",
         "url": "https://open.spotify.com/album/3fS8FJxewni07MgSvMKOtp"
       },
@@ -34100,7 +34280,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 217298,
       "name": "Nena Moxita",
       "url": "https://open.spotify.com/track/7gG2xMiojQrsTUGa7qeQoo"
@@ -34434,6 +34614,24 @@
       "duration_ms": 235466,
       "name": "New Year\u2019s Day",
       "url": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229787,
+      "name": "Ni Me Conozco",
+      "url": "https://open.spotify.com/track/0xyWkRMb09qdCDhloehCsi"
     },
     {
       "album": {
@@ -41131,6 +41329,28 @@
     },
     {
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Pecao",
         "url": "https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA"
       },
@@ -41735,6 +41955,32 @@
     },
     {
       "album": {
+        "name": "Remember Me (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122053,
+      "name": "Remember Me (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET"
+    },
+    {
+      "album": {
         "name": "REMIX EXCLUSIVO",
         "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
       },
@@ -41772,7 +42018,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 161400,
       "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/7dqTJ7Ba3VtBtGTXHRK8N8"
@@ -41806,7 +42052,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 161400,
       "name": "Renegade (We Never Run) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1g6pDk9hvdVC08Qw2Sm4kX"
@@ -42726,7 +42972,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -43198,6 +43444,28 @@
       "duration_ms": 212293,
       "name": "Se Acabo (feat. Method Man) - Remix",
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240179,
+      "name": "Se Fue",
+      "url": "https://open.spotify.com/track/1uFW6czrHk5PsK3s6gOI7C"
     },
     {
       "album": {
@@ -46518,7 +46786,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
@@ -47150,7 +47418,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 224293,
       "name": "Sucker (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3"
@@ -47176,7 +47444,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 224293,
       "name": "Sucker - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2aF78CWbNOyppg49sCZ4Cm"
@@ -49159,6 +49427,32 @@
     },
     {
       "album": {
+        "name": "The Beast (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/01Jm3RRsLElEzefWJHtTBa"
+      },
+      "artists": [
+        {
+          "name": "Misha Mansoor",
+          "url": "https://open.spotify.com/artist/2RGaw1ZrhxGfoikLAk4wuZ"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "The Beast (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5gnV1vGdGf8FMFn5Fjpu1H"
+    },
+    {
+      "album": {
         "name": "Foreign Affair",
         "url": "https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G"
       },
@@ -50256,7 +50550,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 245626,
       "name": "To Ashes and Blood (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk"
@@ -50282,7 +50576,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 245626,
       "name": "To Ashes and Blood - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/2MAk9ErHJIxgBZRXocHhly"
@@ -51802,6 +52096,24 @@
       "duration_ms": 191020,
       "name": "T\u00edteres - Ft. Nesi",
       "url": "https://open.spotify.com/track/3Zp7EoTbIi4URlTACQJmIv"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289131,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
     },
     {
       "album": {
@@ -53588,7 +53900,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 183315,
       "name": "Vibra Perfecta",
       "url": "https://open.spotify.com/track/25anKrtqXPngMi3IoF5UhC"
@@ -54946,7 +55258,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
@@ -57039,6 +57351,28 @@
     },
     {
       "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3? (Con Joe Jonas)",
+        "url": "https://open.spotify.com/album/5ESnGboIlKYPszlxhqVMyc"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "\u00bfC\u00f3mo Pas\u00f3? - Con Joe Jonas",
+      "url": "https://open.spotify.com/track/627JVMF8exVnAgia5XqNjh"
+    },
+    {
+      "album": {
         "name": "\u00bfEL CHACAL o EL YEYE?",
         "url": "https://open.spotify.com/album/4CfcnsPa1PIBcEUs7KUODu"
       },
@@ -57428,6 +57762,32 @@
       "duration_ms": 223320,
       "name": "\u7d46\u30ce\u5947\u8de1",
       "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"
+    },
+    {
+      "album": {
+        "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/2ZIqGTUu9YpNm8R6cKfdJV"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/355ygyd1nLXeJAz7Zbapwj"
     },
     {
       "album": {

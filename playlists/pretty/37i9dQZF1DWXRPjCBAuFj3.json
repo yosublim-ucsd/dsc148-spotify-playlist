@@ -1,6 +1,6 @@
 {
   "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Cover: Kendrick Lamar",
-  "num_followers": 209009,
+  "num_followers": 209002,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "Cap\u00edtulo 1",
         "url": "https://open.spotify.com/album/0jps45S3BLg0ObqAyboGVb"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Glockoma 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 140106,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Glockoma 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/49vCWZ0yKkRvfetjsYVLnx"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140106,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/5GCU2LJWPzoP8Q6nexs61z"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -911,22 +927,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "gen z luv",
+        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "gen z luv",
+      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "LOCURA",
         "url": "https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj"
       },
@@ -967,38 +983,6 @@
       "duration_ms": 162969,
       "name": "CANZONE D'ODIO (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4CNfC20TImtjdwN3dG0uCF"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "gen z luv",
-        "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "gen z luv",
-      "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1063,6 +1047,22 @@
       "duration_ms": 123890,
       "name": "Just Wanna Rock",
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "UK Rap",
+      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
       },
@@ -1303,22 +1323,38 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
         },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
+      },
+      "artists": [
         {
           "name": "Central Cee",
           "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 198026,
-      "name": "UK Rap",
-      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
+      "duration_ms": 179266,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1343,42 +1379,6 @@
       "duration_ms": 158980,
       "name": "PROMOTION",
       "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "MAMI WATA",
-      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "Might Delete Later",
+        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 229186,
+      "name": "Crocodile Tearz",
+      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "Active",
         "url": "https://open.spotify.com/album/7pjNsxzij0oRzYy1xSSnzP"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 172597,
       "name": "Active",
       "url": "https://open.spotify.com/track/2TOk5OzW5sL83ndKYZJmU7"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "Might Delete Later",
-        "url": "https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 229186,
-      "name": "Crocodile Tearz",
-      "url": "https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
+        "name": "HIND'S HALL",
+        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 168941,
+      "name": "HIND'S HALL",
+      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
         "name": "Johnny Dang (with Paul Wall & DRODi)",
         "url": "https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U"
       },
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "HIND'S HALL",
-        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
+        "name": "AD VITAM \u00c6TERNAM",
+        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
       },
       "artists": [
         {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
         }
       ],
-      "duration_ms": 168941,
-      "name": "HIND'S HALL",
-      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
+      "duration_ms": 194540,
+      "name": "Saga",
+      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1815,22 +1831,6 @@
       "duration_ms": 146890,
       "name": "S.I.P",
       "url": "https://open.spotify.com/track/6MHAoGCcuOxXzfC6KYSlF1"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
-        "name": "AD VITAM \u00c6TERNAM",
-        "url": "https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM"
-      },
-      "artists": [
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 194540,
-      "name": "Saga",
-      "url": "https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Now You See Me",
-        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 115725,
-      "name": "Ick",
-      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "BLUE LIPS",
         "url": "https://open.spotify.com/album/107WsrBqn5xVPgystkziry"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 177260,
       "name": "THank god 4 me",
       "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Now You See Me",
+        "url": "https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 115725,
+      "name": "Ick",
+      "url": "https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe"
     },
     {
       "added_at": "2024-11-28 23:01:00",
@@ -2227,26 +2227,6 @@
     {
       "added_at": "2024-11-28 23:01:00",
       "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 162946,
-      "name": "Replay (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/3Ue2iavxQaLREs76kLaUTD"
-    },
-    {
-      "added_at": "2024-11-28 23:01:00",
-      "album": {
         "name": "Cry No More (feat. Stormzy & Tay Keith)",
         "url": "https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG"
       },
@@ -2267,6 +2247,26 @@
       "duration_ms": 204170,
       "name": "Cry No More (feat. Stormzy & Tay Keith)",
       "url": "https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ"
+    },
+    {
+      "added_at": "2024-11-28 23:01:00",
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 162946,
+      "name": "Replay (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/3Ue2iavxQaLREs76kLaUTD"
     },
     {
       "added_at": "2024-11-28 23:01:00",

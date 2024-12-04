@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > 2017 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,338 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,366 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 95 | [Motion Sickness](https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 3:49 |
 | 96 | [Lost in You](https://open.spotify.com/track/5mkRGTbm3BwPzNQL9oBV9e) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Lost in You](https://open.spotify.com/album/5c9otgSaGE52UfeQ4Eq3zH) | 1:41 |
 | 97 | [Slip Away](https://open.spotify.com/track/3Gda1sTo2ZjbztjjsnAsP3) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [No Shape](https://open.spotify.com/album/7awgq3vvlsIeA7dZduR9x4) | 2:45 |
-| 98 | [Ran](https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Far Field](https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz) | 3:25 |
-| 99 | [Dreams Tonite](https://open.spotify.com/track/0DRvClQbN9znQ295sx76VC) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 3:16 |
-| 100 | [Airplane Mode](https://open.spotify.com/track/69GQG5cXGUFq4dqCbExWui) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/0ygukMYaVzLgjcVM4d7oWk) | 2:44 |
+| 98 | [Airplane Mode](https://open.spotify.com/track/69GQG5cXGUFq4dqCbExWui) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [Holo](https://open.spotify.com/album/0ygukMYaVzLgjcVM4d7oWk) | 2:44 |
+| 99 | [Beige](https://open.spotify.com/track/0FfZudphGgQTGeEV6AhmOs) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0tg6msTvhHx8glztrBii80) | 3:24 |
+| 100 | [Ran](https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Far Field](https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz) | 3:25 |
 
 Snapshot ID: `Zfg8zwAAAACN323FM4cthZEnMRiU4dJr`

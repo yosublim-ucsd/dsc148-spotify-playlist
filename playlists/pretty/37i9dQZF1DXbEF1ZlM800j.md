@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 
 > Get your kids in the holiday spirit with this collection of Hanukkah tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,236 likes - 46 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,265 likes - 46 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbEF1ZlM800j.md) - [plain]
 | 12 | [Hanukkah, Oh Hanukkah](https://open.spotify.com/track/58r8dYXFBGvbw0rZ06gcnT) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, The Christmas Album Vol\. 3](https://open.spotify.com/album/5msQHy2ZV5LjOdeqbYZl9y) | 2:08 |
 | 13 | [Dreidel Song](https://open.spotify.com/track/6R7S3lrAo70FuSqK9ni4Ii) | [The Nick Jr\. Winter Wonderland Cast](https://open.spotify.com/artist/4geFvfo1eZSDbXvIuzBEbJ) | [Nick Jr\. Winter Wonderland](https://open.spotify.com/album/4Dbn6rxHitwy9g0xLPom48) | 2:42 |
 | 14 | [Hanukkah O Hanukkah](https://open.spotify.com/track/0d728Q8nTHHcbXWzVwX5Bj) | [Bossy Bear](https://open.spotify.com/artist/5BgDoOVyINKDIB1B72F0YJ) | [Bestest Season 1 Songs](https://open.spotify.com/album/2QvlweqDUXJUxGHWNfP04X) | 0:42 |
-| 15 | [Light One Candle](https://open.spotify.com/track/2fR5HXuUJzO6IQirsCCDCJ) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 3:15 |
+| 15 | [Light One Candle](https://open.spotify.com/track/2fR5HXuUJzO6IQirsCCDCJ) | [Peter, Paul & Mary](https://open.spotify.com/artist/2CSihbjcMAb5ew6weNQa0E) | [Around the Campfire](https://open.spotify.com/album/2iGp6aL5TSPT0GQDsxJB7l) | 3:15 |
 | 16 | [Puppy for Hanukkah](https://open.spotify.com/track/4BPIETJjROnN2NrOSnAmgR) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P) | [Puppy for Hanukkah](https://open.spotify.com/album/0Oq1q8ai0vY3uwVOpfYnGl) | 3:48 |
 | 17 | [Sivivon Sov Sov Sov](https://open.spotify.com/track/6IyE4cRkwufqk40rgDKbGr) | [Shira Kline](https://open.spotify.com/artist/6ep4Az6YtBXK0Qf6uknKQO) | [ShirLaLa Chanukah!](https://open.spotify.com/album/2h1Yy4sUMmKFsvs7H2WezR) | 2:55 |
 | 18 | [Hanukkah oh Hanukkah](https://open.spotify.com/track/2BF4mJZen0je2likTSE946) | [Erran Baron Cohen](https://open.spotify.com/artist/1CrSNBDckO546hf8QKPd1g), [Jules Brookes](https://open.spotify.com/artist/3gz8x3xWuGQEIqCOxBBgqF), [Y\-Love](https://open.spotify.com/artist/36IXY5wweg2GuvQpv25D2X) | [Erran Baron Cohen Presents: Songs In the Key of Hanukkah](https://open.spotify.com/album/1iQWquieh3HJnOGATSJkIo) | 4:00 |

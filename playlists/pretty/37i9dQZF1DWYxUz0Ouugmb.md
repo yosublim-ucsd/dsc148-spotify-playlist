@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Gery Gany
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,429 likes - 45 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,432 likes - 45 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

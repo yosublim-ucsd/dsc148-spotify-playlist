@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,827 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,835 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 25 | [Cómo Los Vaqueros](https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:18 |
 | 26 | [Polvo Rosita](https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Polvo Rosita](https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz) | 2:39 |
 | 27 | [24/7 Dolido](https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [24/7 Dolido](https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA) | 2:55 |
-| 28 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 |
-| 29 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
+| 28 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
+| 29 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 |
 | 30 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
 | 31 | [Contra Mis Principios \- Bonus Track](https://open.spotify.com/track/0bp7iqBd58Quykcujvd9P3) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [Sin Perder El Estilo](https://open.spotify.com/album/4NKLTN7nQxOfhKtxZo1MLF) | 3:46 |
 | 32 | [The King of Ice](https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 49 | [Recuerdos del R](https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Mi Conquista](https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7) | 3:00 |
 | 50 | [Comandante Tanque](https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Comandante Tanque](https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX) | 3:26 |
 
-Snapshot ID: `Z0unAAAAAAAWEivXuddL1NL65nF0TPE/`
+Snapshot ID: `Z0z4gAAAAAD6V5dws5xC39CWW3IyJSmk`

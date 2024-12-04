@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain]
 
 > Zambia had a huge rock explosion in the 70’s that shook the world! Here are some classic Zamrock jams!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,728 likes - 34 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,743 likes - 34 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain]
 | 25 | [Mpundu](https://open.spotify.com/track/7l9Dk5ZFTonwdGL2z08wQs) | [Tinkles](https://open.spotify.com/artist/1OLWVlrPmm8ENH75RVvPLX) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 3:23 |
 | 26 | [See The Storm](https://open.spotify.com/track/6ZNQDAmGHyRvTLIS9epwAN) | [Salty Dog](https://open.spotify.com/artist/4uREfx5iqmCCxLSIQwDyd4) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 3:42 |
 | 27 | [Umwana Wakusanga Mung'Anda](https://open.spotify.com/track/5twS1GtMoAPTQw6pADqXRm) | [Fire Balls](https://open.spotify.com/artist/4o1zsqWVoV9pbZjiSclwnV) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 3:21 |
-| 28 | [Umbwalwa Ne Chamba](https://open.spotify.com/track/3Zwymos1joMvj1tf2H5ue7) | [Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 7:05 |
+| 28 | [Umbwalwa Ne Chamba](https://open.spotify.com/track/3Zwymos1joMvj1tf2H5ue7) | [The Peace](https://open.spotify.com/artist/5004yOPsD3IERvvTtaRM9h) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 7:05 |
 | 29 | [Request To God](https://open.spotify.com/track/6lHJCrquSg5jlD6U80PLF7) | [Oscillations](https://open.spotify.com/artist/4Lyabh8CUplfWk3xqE6DK7) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 5:42 |
 | 30 | [Katonga](https://open.spotify.com/track/3kCjMaL50VI2UjPYc4oQm7) | [Musi\-O\-Tunya](https://open.spotify.com/artist/5Gl3bhgwrMekOuzkjM5FLq) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 4:48 |
 | 31 | [Hold On](https://open.spotify.com/track/4hnOmuelI0ZD6rGi2bfD2q) | [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol\. 2 \(1972\-1977\)](https://open.spotify.com/album/6qCtWW3buD52Z2yRDSx0QF) | 3:59 |

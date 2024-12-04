@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 
 > This is Latto\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,945 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,973 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 22 | [H&M](https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 2:26 |
 | 23 | [Booty \(feat\. Latto\)](https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Booty \(feat\. Latto\)](https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF) | 2:26 |
 | 24 | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP) | [FTCU \(feat\. GloRilla & Gangsta Boo\)](https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB) | 2:25 |
-| 25 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 |
+| 25 | [FreakyT \- Remix](https://open.spotify.com/track/5jnI4idmgFF1xD93C1yKQb) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(Remix\)](https://open.spotify.com/album/2obxjEOE04EKpltGrarB1H) | 2:29 |
 | 26 | [Blick Sum](https://open.spotify.com/track/1j5MAuywrRiXxnFnEtReG3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:11 |
-| 27 | [FreakyT \- Remix](https://open.spotify.com/track/5jnI4idmgFF1xD93C1yKQb) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [FreakyT \(Remix\)](https://open.spotify.com/album/2obxjEOE04EKpltGrarB1H) | 2:29 |
+| 27 | [It's Givin](https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:33 |
 | 28 | [Didn't Say \(feat\. Latto\)](https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 4:05 |
 | 29 | [Fast Lane](https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Fast Lane](https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT) | 2:52 |
 | 30 | [5'5 \(feat\. Latto\)](https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Thank You For Believing](https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2csqsN.md) - [plain]
 | 49 | [Bitter \(feat\. Mulatto\)](https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 3:04 |
 | 50 | [On God](https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 1:53 |
 
-Snapshot ID: `Z0unAAAAAABee+jWC3e3y5iU6R6DAauh`
+Snapshot ID: `Z0z4gAAAAACM/J3XStKfiVWsTo9gft0i`

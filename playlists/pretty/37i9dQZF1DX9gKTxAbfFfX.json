@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 753414,
+  "num_followers": 753369,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 208386,
-      "name": "No Digas Na",
-      "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "No Digas Na",
+      "url": "https://open.spotify.com/track/2iPoYcC5x7gylwRyCwzFxI"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "OTRA NOCHE",
-        "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 224120,
-      "name": "OTRA NOCHE",
-      "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "EL PANTALON (RUMBAS)",
         "url": "https://open.spotify.com/album/0TtfzOFvZu1xudp1Of4uRa"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "OTRA NOCHE",
+        "url": "https://open.spotify.com/album/5uDy85JsRMpZmcc8RhsZmT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 224120,
+      "name": "OTRA NOCHE",
+      "url": "https://open.spotify.com/track/0zpIdU4Q65JlzyueQQnx7Q"
     },
     {
       "added_at": "2024-09-02 07:47:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 
 > This is Hozier\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,873 likes - 38 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,011 likes - 38 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,17 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 13 | [De Selby \(Part 2\)](https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:47 |
 | 14 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 |
 | 15 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 |
-| 16 | [The Bones \- with Hozier](https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Bones \(with Hozier\)](https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH) | 3:17 |
+| 16 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 |
 | 17 | [Francesca](https://open.spotify.com/track/6QnfsyzifAJJrNHYTO6j9J) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:30 |
-| 18 | [Shrike](https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:58 |
+| 18 | [The Bones \- with Hozier](https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Bones \(with Hozier\)](https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH) | 3:17 |
 | 19 | [From Eden](https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:43 |
-| 20 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
+| 20 | [Talk](https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:26 |
 | 21 | [I, Carrion \(Icarian\)](https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:16 |
-| 22 | [Talk](https://open.spotify.com/track/6ctlpLPyLH3R1V16fxoOWE) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:26 |
+| 22 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
 | 23 | [Cherry Wine \- Live](https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:00 |
-| 24 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |
+| 24 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
 | 25 | [First Time](https://open.spotify.com/track/4LesrBswFnLcHmwDslst1q) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:53 |
-| 26 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
+| 26 | [Blood Upon the Snow](https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War Ragnarök \(Original Soundtrack\)](https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA) | 4:31 |
 | 27 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 |
 | 28 | [Empire Now](https://open.spotify.com/track/6WIctLx62k1gJALmLe7rXj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 2:58 |
 | 29 | [Say My Name \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE) | 4:27 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 37 | [That You Are](https://open.spotify.com/track/4Zayz7dbduel3h0zyYk3qZ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Unaired](https://open.spotify.com/album/3nXgYu1LTKBflY7ES8WEdo) | 4:16 |
 | 38 | [Fare Well](https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:08 |
 
-Snapshot ID: `Z0unAAAAAAC7ZLVVqAPmZ6MdB2tfrxtD`
+Snapshot ID: `Z0z4gAAAAADnVMPJ6KzBTp8g1JEW16TY`

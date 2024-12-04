@@ -132,7 +132,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 196636,
       "name": "A Clean Record",
       "url": "https://open.spotify.com/track/0wyvsAqerhZ4Xoz7mUn49j"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 208937,
       "name": "About Time",
       "url": "https://open.spotify.com/track/2DC3SUlKd9xV04eGFntdv5"
@@ -3526,7 +3526,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 125239,
       "name": "Carey",
       "url": "https://open.spotify.com/track/5KjUmRrLUBDEE9v5aCtIiS"
@@ -5522,7 +5522,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 203500,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK"
@@ -10526,7 +10526,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 214635,
       "name": "I\u2019ll pass it on",
       "url": "https://open.spotify.com/track/0AqWzQ2SwrckgIFTqHNbpM"
@@ -15036,6 +15036,24 @@
       "duration_ms": 184470,
       "name": "Notes and Nights",
       "url": "https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Fake",
+        "url": "https://open.spotify.com/album/7o04S1gm9hZxHBkwGqYJ2B"
+      },
+      "artists": [
+        {
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214091,
+      "name": "Nothing Is Fake",
+      "url": "https://open.spotify.com/track/6DwDpB1EHIPmILeqPcjZhy"
     },
     {
       "album": {
@@ -20685,6 +20703,24 @@
     },
     {
       "album": {
+        "name": "The Shape of Your Thoughts",
+        "url": "https://open.spotify.com/album/1tRRV0o1dciEajUc1o5FRT"
+      },
+      "artists": [
+        {
+          "name": "Dan Evans-Parker",
+          "url": "https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229056,
+      "name": "The Shape of Your Thoughts",
+      "url": "https://open.spotify.com/track/3xRuyJvrb5u0t7YTstD8N1"
+    },
+    {
+      "album": {
         "name": "The Sparkle in Your Eyes",
         "url": "https://open.spotify.com/album/4NUdzaHTQQq8w2oYLBBgc2"
       },
@@ -22093,6 +22129,24 @@
     },
     {
       "album": {
+        "name": "Urban Escape",
+        "url": "https://open.spotify.com/album/5PgTYuJs8AasbROYrzL2ff"
+      },
+      "artists": [
+        {
+          "name": "Two steps in the street",
+          "url": "https://open.spotify.com/artist/6BG94mKYRcBXUoB1id2LdN"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200725,
+      "name": "Urban Escape",
+      "url": "https://open.spotify.com/track/2aSmieZcZRyKahkTfkkKly"
+    },
+    {
+      "album": {
         "name": "Urban Journey",
         "url": "https://open.spotify.com/album/5koJx3NLRbTFaXuBonsY2R"
       },
@@ -22994,6 +23048,24 @@
       "duration_ms": 266192,
       "name": "When in Kreuzberg",
       "url": "https://open.spotify.com/track/1mITPUG6KO1uOXH2bJG0lt"
+    },
+    {
+      "album": {
+        "name": "When January Comes",
+        "url": "https://open.spotify.com/album/6wwTUx8qfCJ1GcKRRbwaBc"
+      },
+      "artists": [
+        {
+          "name": "Ballroom Jazz Collective",
+          "url": "https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "When January Comes",
+      "url": "https://open.spotify.com/track/6Uwiahh2MzSu6nGlHuDxpY"
     },
     {
       "album": {
@@ -24154,6 +24226,24 @@
       "duration_ms": 224000,
       "name": "You Were Always in My Heart",
       "url": "https://open.spotify.com/track/4OUtenkc2ZfVCzYTA5FemC"
+    },
+    {
+      "album": {
+        "name": "You Were There",
+        "url": "https://open.spotify.com/album/0KEgCI0f3ylPU6NhGRIX7A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5ns & Dotter",
+          "url": "https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213738,
+      "name": "You Were There",
+      "url": "https://open.spotify.com/track/2wusJUhMhV7KZFXnHan1V2"
     },
     {
       "album": {

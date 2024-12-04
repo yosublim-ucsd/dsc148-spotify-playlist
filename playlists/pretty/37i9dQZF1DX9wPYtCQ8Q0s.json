@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 329211,
+  "num_followers": 329197,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -71,8 +71,8 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
       "artists": [
         {
@@ -80,13 +80,13 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -267,8 +267,8 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
       "artists": [
         {
@@ -276,13 +276,13 @@
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
         },
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Luca Brasi 2: Gangsta Grillz",
-        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
+        "name": "CREED: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
       },
       "artists": [
         {
-          "name": "Kevin Gates",
-          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
-        },
-        {
-          "name": "August Alsina",
-          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 209707,
-      "name": "I Don't Get Tired (#IDGT) (feat. August Alsina)",
-      "url": "https://open.spotify.com/track/6HMHgBHdLBQ0QYIaOp2gse"
+      "duration_ms": 239800,
+      "name": "Last Breath",
+      "url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "CREED: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6Vl1FiigNmVpKDMXpRVUCA"
+        "name": "Luca Brasi 2: Gangsta Grillz",
+        "url": "https://open.spotify.com/album/4if4IsX36odNlcZF2kqgt3"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        },
+        {
+          "name": "August Alsina",
+          "url": "https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM"
         }
       ],
-      "duration_ms": 239800,
-      "name": "Last Breath",
-      "url": "https://open.spotify.com/track/4Arjo1XR9qXsLstvU9fFV3"
+      "duration_ms": 209707,
+      "name": "I Don't Get Tired (#IDGT) (feat. August Alsina)",
+      "url": "https://open.spotify.com/track/6HMHgBHdLBQ0QYIaOp2gse"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
+        "name": "The New Toronto 3",
+        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
+      },
+      "artists": [
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 174848,
+      "name": "Stupid Again",
+      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
         "name": "La Maquina",
         "url": "https://open.spotify.com/album/35C2QYq4OgkEXETksStyzz"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 209117,
       "name": "Scatter Brain (feat. Ludacris & JID)",
       "url": "https://open.spotify.com/track/4w7lBzX0EcDuy8tQLQvjC2"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
-        "name": "The New Toronto 3",
-        "url": "https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf"
-      },
-      "artists": [
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 174848,
-      "name": "Stupid Again",
-      "url": "https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw"
     },
     {
       "added_at": "2024-09-13 03:01:00",
@@ -2015,30 +2015,6 @@
     {
       "added_at": "2024-09-13 03:01:00",
       "album": {
-        "name": "Starboy (Kygo Remix)",
-        "url": "https://open.spotify.com/album/4rGQxBDZ4hHCKePXaYOTSB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "Starboy - Kygo Remix",
-      "url": "https://open.spotify.com/track/6LJFgCd9wU2VptHEwz2Wl3"
-    },
-    {
-      "added_at": "2024-09-13 03:01:00",
-      "album": {
         "name": "Progresso",
         "url": "https://open.spotify.com/album/3dgya99ntx0TtotTsXnoFN"
       },
@@ -2051,6 +2027,30 @@
       "duration_ms": 161311,
       "name": "Progresso",
       "url": "https://open.spotify.com/track/0tLRlU39HHqJ2BX4DN4qnm"
+    },
+    {
+      "added_at": "2024-09-13 03:01:00",
+      "album": {
+        "name": "Bonde da Rock",
+        "url": "https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "meLLo",
+          "url": "https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm"
+        }
+      ],
+      "duration_ms": 137237,
+      "name": "Bonde da Rock",
+      "url": "https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5"
     },
     {
       "added_at": "2024-09-13 03:01:00",

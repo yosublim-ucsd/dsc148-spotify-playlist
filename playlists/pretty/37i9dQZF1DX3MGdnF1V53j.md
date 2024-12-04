@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Masri on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,591 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,617 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,17 +76,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 66 | [Machi 3adi](https://open.spotify.com/track/5LMlEIZB05DzkNcvvF3WGo) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Machi 3adi](https://open.spotify.com/album/7ds6gFjCD41GxFElWOxGeK) | 2:50 |
 | 67 | [Ya Nari](https://open.spotify.com/track/5oqiOSeSuSIX5aiXI2s8ug) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Ya Nari](https://open.spotify.com/album/1arozXUfxz58RACd4ss2NB) | 2:10 |
 | 68 | [LIKE THAT \(feat\. Oxlade\)](https://open.spotify.com/track/6hqEqrLJwBk5w88Ih7ZfHt) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:12 |
-| 69 | [Biba Lik](https://open.spotify.com/track/0xCCEI4yTTaaTI49eQjlc7) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Biba Lik](https://open.spotify.com/album/6rYWKDsT3UEg5dSRt2TeD4) | 2:06 |
-| 70 | [Solo \(feat\. Tayc\)](https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Solo \(feat\. Tayc\)](https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj) | 2:59 |
+| 69 | [Solo \(feat\. Tayc\)](https://open.spotify.com/track/1TE1TZ7qOLVAcbKh15sxOi) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Solo \(feat\. Tayc\)](https://open.spotify.com/album/4KUc3hsO1GIJ6y8idURzhj) | 2:59 |
+| 70 | [Biba Lik](https://open.spotify.com/track/0xCCEI4yTTaaTI49eQjlc7) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Biba Lik](https://open.spotify.com/album/6rYWKDsT3UEg5dSRt2TeD4) | 2:06 |
 | 71 | [Salam](https://open.spotify.com/track/5CUJniXQzNd6p6fQgRP8FL) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Moha K](https://open.spotify.com/album/1AwiOYudehZhlwbAFDOflJ) | 2:21 |
 | 72 | [Mellit](https://open.spotify.com/track/723Ffq7fx7ZBftW0t0cAYU) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM), [Abdel Mayor](https://open.spotify.com/artist/4gAD9iUlLD75iELCIppQzO), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Mellit](https://open.spotify.com/album/2j56wEQ0W0mrt6EHdfWuup) | 2:52 |
 | 73 | [Ykoun Li Ykoun](https://open.spotify.com/track/6NMJafTjSDcjwX3rYwvSug) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Ykoun Li Ykoun](https://open.spotify.com/album/6ddXQnvwLEAM06VJI51TJ8) | 2:42 |
 | 74 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 |
-| 75 | [Hantouma Choufo](https://open.spotify.com/track/4gavV33vzQoh9agDE0AL53) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Hantouma Choufo](https://open.spotify.com/album/3BgZ3Uu9yIhzOGzkhl1ggC) | 2:18 |
-| 76 | [Zine Enem](https://open.spotify.com/track/2Kd4P1W0MJlSyCuKSWUVbN) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Zine Enem](https://open.spotify.com/album/5mUzblU04RqopziKae00ZY) | 2:08 |
+| 75 | [Zine Enem](https://open.spotify.com/track/2Kd4P1W0MJlSyCuKSWUVbN) | [Riffi](https://open.spotify.com/artist/7rWuImrIbAa8XxwWVFWNoZ) | [Zine Enem](https://open.spotify.com/album/5mUzblU04RqopziKae00ZY) | 2:08 |
+| 76 | [Hantouma Choufo](https://open.spotify.com/track/4gavV33vzQoh9agDE0AL53) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Hantouma Choufo](https://open.spotify.com/album/3BgZ3Uu9yIhzOGzkhl1ggC) | 2:18 |
 | 77 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
-| 78 | [La mienne](https://open.spotify.com/track/2EIFVbGwRujki9qj6YXcPX) | [DJ Hamida](https://open.spotify.com/artist/4xTiWBThjZgo1uZn1WpZm3), [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td) | [À la bien \(Winter edition\)](https://open.spotify.com/album/1QnlsM0yEkm7g70NZHcAPp) | 2:42 |
-| 79 | [Ma Beauté](https://open.spotify.com/track/5LUoVGfKb1eYwVvAIB1RxB) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Ma Beauté](https://open.spotify.com/album/20ADCU0OoQzdlPylKnGepx) | 3:01 |
+| 78 | [Ma Beauté](https://open.spotify.com/track/5LUoVGfKb1eYwVvAIB1RxB) | [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Ma Beauté](https://open.spotify.com/album/20ADCU0OoQzdlPylKnGepx) | 3:01 |
+| 79 | [Moutou Bsem](https://open.spotify.com/track/4xyMI0k4zyWXN8oNui3Xhg) | [Chirin](https://open.spotify.com/artist/78eKt1TmrCJOQywv5VUpEv) | [Moutou Bsem](https://open.spotify.com/album/6anhHh6CZ2YqX3d9Sz11BA) | 2:30 |
 | 80 | [Ya zina](https://open.spotify.com/track/2z40IRNtq5smsWqHeksIPx) | [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Ya zina](https://open.spotify.com/album/5huLEgCa6fmKy9rt5kWyAo) | 2:55 |
 
 Snapshot ID: `Z0c7qgAAAADtFhNfxS036oQb2qZK9NoX`

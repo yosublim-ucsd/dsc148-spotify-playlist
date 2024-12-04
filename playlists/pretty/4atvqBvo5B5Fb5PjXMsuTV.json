@@ -1,13 +1,145 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Dec 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Dec 23:03 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAANdrE1RVRS38Pwjtt8K0Z6bgtjdggJ",
+  "snapshot_id": "AAANgSJRY6Z8CeZpfQkcZuQbQR+if6B1",
   "tracks": [
+    {
+      "added_at": "2024-12-03 09:03:56",
+      "album": {
+        "name": "dead2me",
+        "url": "https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3"
+      },
+      "artists": [
+        {
+          "name": "Ellise",
+          "url": "https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "dead2me",
+      "url": "https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb"
+    },
+    {
+      "added_at": "2024-12-03 19:03:38",
+      "album": {
+        "name": "A Broken Man",
+        "url": "https://open.spotify.com/album/1V0ZQROXd7xky2LObEVAUq"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 509840,
+      "name": "A Broken Man",
+      "url": "https://open.spotify.com/track/5nN5b4w4A3VbFExcU2xnID"
+    },
+    {
+      "added_at": "2024-12-03 09:03:56",
+      "album": {
+        "name": "Out There - \u5e95 \u306b",
+        "url": "https://open.spotify.com/album/4vQmaCTHuhoAxmxFwHrlxz"
+      },
+      "artists": [
+        {
+          "name": "NateWantsToBattle",
+          "url": "https://open.spotify.com/artist/0Vb15td3iKkAzdGD5Sj9Ky"
+        },
+        {
+          "name": "Neito Han",
+          "url": "https://open.spotify.com/artist/4Y3rxFBx5prd3cAJiyZqVu"
+        }
+      ],
+      "duration_ms": 136912,
+      "name": "Out There - \u5e95 \u306b",
+      "url": "https://open.spotify.com/track/4BnNHewp1H7UTFdwDO062X"
+    },
+    {
+      "added_at": "2024-12-03 09:03:56",
+      "album": {
+        "name": "Like Honey",
+        "url": "https://open.spotify.com/album/7okzfPuBOWY1q774CvjSfu"
+      },
+      "artists": [
+        {
+          "name": "Dixon Dallas",
+          "url": "https://open.spotify.com/artist/2xmmjD4GfeJ5BRueLvPqec"
+        }
+      ],
+      "duration_ms": 167269,
+      "name": "Like Honey",
+      "url": "https://open.spotify.com/track/2CfOTSCzWFllw51O6oWaP1"
+    },
+    {
+      "added_at": "2024-12-03 09:03:56",
+      "album": {
+        "name": "Plastic Holdup",
+        "url": "https://open.spotify.com/album/2FTPT8oCyQ8uBXLCTeV2nC"
+      },
+      "artists": [
+        {
+          "name": "Moody Good",
+          "url": "https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "Plastic Holdup",
+      "url": "https://open.spotify.com/track/0DGTX6UoYS37TyvFATAlsr"
+    },
+    {
+      "added_at": "2024-12-03 09:03:56",
+      "album": {
+        "name": "Hard Mode",
+        "url": "https://open.spotify.com/album/0XmUNBQQhPVGP9zToBUmIz"
+      },
+      "artists": [
+        {
+          "name": "Cheekface",
+          "url": "https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Hard Mode",
+      "url": "https://open.spotify.com/track/44GscIpwKhJaVMNN3Jj9h8"
+    },
+    {
+      "added_at": "2024-12-03 09:03:56",
+      "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/5VJBkCy9ph3MqPATuPLocE"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "duration_ms": 254570,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5NAYUq7x7vtUxnBTNUvl9B"
+    },
+    {
+      "added_at": "2024-12-03 04:05:11",
+      "album": {
+        "name": "Filthy Richmas",
+        "url": "https://open.spotify.com/album/2UMstdR09qKI8u24HPqEIg"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 182448,
+      "name": "Filthy Richmas",
+      "url": "https://open.spotify.com/track/6qibTIUB2HSzCgSq0WvUac"
+    },
     {
       "added_at": "2024-12-02 19:07:08",
       "album": {
@@ -23,6 +155,22 @@
       "duration_ms": 364533,
       "name": "Wild Long Lie",
       "url": "https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm"
+    },
+    {
+      "added_at": "2024-12-03 04:05:11",
+      "album": {
+        "name": "Those Red Lights",
+        "url": "https://open.spotify.com/album/0vnHqKCZTGzIhQ5V4gEMI6"
+      },
+      "artists": [
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Those Red Lights",
+      "url": "https://open.spotify.com/track/4Y7j3Gk2cJgX6CfubfaU2W"
     },
     {
       "added_at": "2024-12-02 19:07:08",
@@ -57,6 +205,38 @@
       "url": "https://open.spotify.com/track/6XenU1cZzUrZ168hUxEjlN"
     },
     {
+      "added_at": "2024-12-03 23:03:38",
+      "album": {
+        "name": "She Wanna Be",
+        "url": "https://open.spotify.com/album/5wqR6tUHzmolH7GwL5Ny9I"
+      },
+      "artists": [
+        {
+          "name": "Dc2trill",
+          "url": "https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI"
+        }
+      ],
+      "duration_ms": 115471,
+      "name": "She Wanna Be",
+      "url": "https://open.spotify.com/track/6vBZGFQ4QNFg07mqrCTdJr"
+    },
+    {
+      "added_at": "2024-12-03 19:03:38",
+      "album": {
+        "name": "Death of me",
+        "url": "https://open.spotify.com/album/1clHWd7EbQ3cR9H8cHto5J"
+      },
+      "artists": [
+        {
+          "name": "msliterate",
+          "url": "https://open.spotify.com/artist/3992qm16HTlVo3TXmegC4h"
+        }
+      ],
+      "duration_ms": 214436,
+      "name": "Death of me",
+      "url": "https://open.spotify.com/track/6CsJx2dpKXuWoEOf6YLhOn"
+    },
+    {
       "added_at": "2024-12-02 19:07:08",
       "album": {
         "name": "Body Organic Disco Electronic",
@@ -71,6 +251,22 @@
       "duration_ms": 192000,
       "name": "Body Organic Disco Electronic",
       "url": "https://open.spotify.com/track/61x4U9nM693hq6DiHBJ6N4"
+    },
+    {
+      "added_at": "2024-12-03 09:03:56",
+      "album": {
+        "name": "First December with You",
+        "url": "https://open.spotify.com/album/0D6qtfGRCa4IrVhmXDG4WP"
+      },
+      "artists": [
+        {
+          "name": "Olivia Marsh",
+          "url": "https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5JcTFymotnR2xQUe4nZuQn"
     },
     {
       "added_at": "2024-12-01 14:05:31",
@@ -695,218 +891,6 @@
       "duration_ms": 174935,
       "name": "BOMBAY",
       "url": "https://open.spotify.com/track/7nO8HerWHFoiUxusxTlHzt"
-    },
-    {
-      "added_at": "2024-11-29 18:36:07",
-      "album": {
-        "name": "Icey Soles",
-        "url": "https://open.spotify.com/album/3FSgCX5sW5wyCNLorNSsxK"
-      },
-      "artists": [
-        {
-          "name": "smokedope2016",
-          "url": "https://open.spotify.com/artist/3hGJ4nHdF99Vs0gQdXz5Nw"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Icey Soles",
-      "url": "https://open.spotify.com/track/3FRbT1r5Sbk0EGHpJq3hDv"
-    },
-    {
-      "added_at": "2024-11-30 09:04:11",
-      "album": {
-        "name": "Breadcrumbs",
-        "url": "https://open.spotify.com/album/3mV6tG9257uhmfKtRQz9qy"
-      },
-      "artists": [
-        {
-          "name": "Hatari",
-          "url": "https://open.spotify.com/artist/3yX8kCojnUAJJ1eWGZT38j"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Breadcrumbs",
-      "url": "https://open.spotify.com/track/00oRb8WESKOzFCDiwaiOmP"
-    },
-    {
-      "added_at": "2024-11-29 18:36:07",
-      "album": {
-        "name": "Blossom",
-        "url": "https://open.spotify.com/album/7ByZ7nFM5uVBpDF22tbupV"
-      },
-      "artists": [
-        {
-          "name": "PIKASONIC",
-          "url": "https://open.spotify.com/artist/2hfoi6OmVRrLmZG1huaD1e"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/2OgQsOSI0UJKhAktzQ95MP"
-    },
-    {
-      "added_at": "2024-11-29 18:36:07",
-      "album": {
-        "name": "Inside",
-        "url": "https://open.spotify.com/album/7BcRTefPbw55v2rfOjEio0"
-      },
-      "artists": [
-        {
-          "name": "Jelani Blackman",
-          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
-        },
-        {
-          "name": "Eklipse",
-          "url": "https://open.spotify.com/artist/2ycTuWzeewjBC6SHxF1gID"
-        },
-        {
-          "name": "Niceboy",
-          "url": "https://open.spotify.com/artist/6ITQCtp87jIWIrHDBdkJm6"
-        }
-      ],
-      "duration_ms": 148148,
-      "name": "Inside",
-      "url": "https://open.spotify.com/track/1WkMsQWSAmljoLv381oL6m"
-    },
-    {
-      "added_at": "2024-11-29 19:18:35",
-      "album": {
-        "name": "Zaspy",
-        "url": "https://open.spotify.com/album/2WTzvCEiN5DxH73YCJaAwl"
-      },
-      "artists": [
-        {
-          "name": "Sonbird",
-          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
-        }
-      ],
-      "duration_ms": 190633,
-      "name": "Zaspy",
-      "url": "https://open.spotify.com/track/7x7SrRbXMpqBBGJF3vyIWl"
-    },
-    {
-      "added_at": "2024-11-29 18:36:07",
-      "album": {
-        "name": "Por Ti Por Mi",
-        "url": "https://open.spotify.com/album/7CS99n3NOYshqMOheiw7b2"
-      },
-      "artists": [
-        {
-          "name": "Nebulossa",
-          "url": "https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF"
-        }
-      ],
-      "duration_ms": 180660,
-      "name": "Por Ti Por Mi",
-      "url": "https://open.spotify.com/track/4V8NlCGFnVaAbLExzD5O3v"
-    },
-    {
-      "added_at": "2024-11-29 19:18:35",
-      "album": {
-        "name": "Ein echtes Lachen",
-        "url": "https://open.spotify.com/album/5pdLzUOwcjhEwKJaOEkqTu"
-      },
-      "artists": [
-        {
-          "name": "Oehl",
-          "url": "https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp"
-        }
-      ],
-      "duration_ms": 161924,
-      "name": "Ein echtes Lachen",
-      "url": "https://open.spotify.com/track/4F9trSkuCXAQ4v0D43YCmr"
-    },
-    {
-      "added_at": "2024-11-30 04:04:44",
-      "album": {
-        "name": "Fig Tree",
-        "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 221394,
-      "name": "Fig Tree",
-      "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
-    },
-    {
-      "added_at": "2024-11-29 18:36:07",
-      "album": {
-        "name": "desktop",
-        "url": "https://open.spotify.com/album/28FpZjvoF05dlWmOFiGTAY"
-      },
-      "artists": [
-        {
-          "name": "SOFY",
-          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
-        }
-      ],
-      "duration_ms": 212605,
-      "name": "desktop",
-      "url": "https://open.spotify.com/track/5l0mHXJ153f8Lo6TPOsQFM"
-    },
-    {
-      "added_at": "2024-11-30 04:04:44",
-      "album": {
-        "name": "KISS ME!",
-        "url": "https://open.spotify.com/album/0MjhodGE6inzZVxfOkWzfl"
-      },
-      "artists": [
-        {
-          "name": "MAILPUP",
-          "url": "https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk"
-        },
-        {
-          "name": "Pent Up Pup",
-          "url": "https://open.spotify.com/artist/1fz75r8SBh1ILfSL21UFuy"
-        },
-        {
-          "name": "salv the dog",
-          "url": "https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb"
-        }
-      ],
-      "duration_ms": 140636,
-      "name": "KISS ME!",
-      "url": "https://open.spotify.com/track/20riOYw5Hx4Szj1p0lVQmX"
-    },
-    {
-      "added_at": "2024-11-29 23:04:24",
-      "album": {
-        "name": "404_soulnotfound",
-        "url": "https://open.spotify.com/album/3OQveQ2Yg0rDUmn8vvoMJs"
-      },
-      "artists": [
-        {
-          "name": "Darknet",
-          "url": "https://open.spotify.com/artist/4q0wfu3kKAydX7PSA4H502"
-        },
-        {
-          "name": "Calle Thomer",
-          "url": "https://open.spotify.com/artist/1ZY3kUct2r4k3TgKRsgCLw"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "404_soulnotfound",
-      "url": "https://open.spotify.com/track/2nQvTvNv4tWiDxqGtlx72I"
-    },
-    {
-      "added_at": "2024-11-29 19:18:35",
-      "album": {
-        "name": "BREAKTHESOUND",
-        "url": "https://open.spotify.com/album/1VnLVU1rNDGGLCjd0Sfe3T"
-      },
-      "artists": [
-        {
-          "name": "TURQUOISEDEATH",
-          "url": "https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B"
-        }
-      ],
-      "duration_ms": 117791,
-      "name": "BREAKTHESOUND",
-      "url": "https://open.spotify.com/track/0XgKaZxMHBnNNGkz7n7Pz8"
     }
   ],
   "unique_name": "New Singles Now",

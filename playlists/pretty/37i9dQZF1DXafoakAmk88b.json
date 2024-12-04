@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Foushe\u00e9",
-  "num_followers": 52759,
+  "num_followers": 52782,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -811,18 +811,22 @@
     {
       "added_at": "2024-10-25 16:01:48",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
+        "name": "Outta My Mind pt. 2 (ft. Lola Young)",
+        "url": "https://open.spotify.com/album/2xMIyNXGHO2RJLtcZqnMVn"
       },
       "artists": [
         {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        },
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
+      "duration_ms": 164400,
+      "name": "Outta My Mind pt. 2 (ft. Lola Young)",
+      "url": "https://open.spotify.com/track/1NWaYdISmPkmGaWCIEz6kb"
     },
     {
       "added_at": "2024-10-25 16:01:48",
@@ -843,22 +847,18 @@
     {
       "added_at": "2024-10-25 16:01:48",
       "album": {
-        "name": "Outta My Mind pt. 2 (ft. Lola Young)",
-        "url": "https://open.spotify.com/album/2xMIyNXGHO2RJLtcZqnMVn"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/70L7Lav25m2IILlSSXnN1A"
       },
       "artists": [
         {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        },
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Outta My Mind pt. 2 (ft. Lola Young)",
-      "url": "https://open.spotify.com/track/1NWaYdISmPkmGaWCIEz6kb"
+      "duration_ms": 228040,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6QrQIAcvX1OZ0UrOjj2mrJ"
     }
   ],
   "unique_name": "Indie Frequency",

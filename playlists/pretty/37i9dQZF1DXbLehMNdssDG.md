@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,780 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,817 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 46 | [Star Above Parvati](https://open.spotify.com/track/1v6wDVHNEhAWgQ2ccBHjqg) | [Peyote Level](https://open.spotify.com/artist/4pYUORZCLABNwtzn9kezVd) | [Star Above Parvati](https://open.spotify.com/album/2O7c5JeLgSUTCj3Z403M4k) | 3:04 |
 | 47 | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/track/3mmo00VwW1NzRcK6QsfsF9) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Revitalizing Frequencies \- 285 Hz](https://open.spotify.com/album/4uEYqgYfHUab4CsoioqaAn) | 2:50 |
 | 48 | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/track/1geG3OimV05iMnChjbWdyz) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Vibrating with Calm \- 285 Hz](https://open.spotify.com/album/1KWtye7sNbmjGvqyrJVZEj) | 2:20 |
-| 49 | [My Peaceful Place](https://open.spotify.com/track/2Ob5ISfTg1mv3z7Cw1gKoH) | [Ferdinand Alcindor](https://open.spotify.com/artist/34hLcin0RFl40JtsQ2bzLD) | [My Peaceful Place](https://open.spotify.com/album/3iaHC58x7pJTkc8N3FnTwZ) | 5:24 |
-| 50 | [Courageous Healing \- 174 Hz](https://open.spotify.com/track/4XTFF9BX7qfWjTNSmydBNl) | [Sleep Sound Hub](https://open.spotify.com/artist/0eQbWfd6C8ygIpoWvUQHJY) | [Courageous Healing \- 174 Hz](https://open.spotify.com/album/4Il09onZqCgQ5keq6X1tim) | 2:27 |
+| 49 | [Courageous Healing \- 174 Hz](https://open.spotify.com/track/4XTFF9BX7qfWjTNSmydBNl) | [Sleep Sound Hub](https://open.spotify.com/artist/0eQbWfd6C8ygIpoWvUQHJY) | [Courageous Healing \- 174 Hz](https://open.spotify.com/album/4Il09onZqCgQ5keq6X1tim) | 2:27 |
+| 50 | [My Peaceful Place](https://open.spotify.com/track/2Ob5ISfTg1mv3z7Cw1gKoH) | [Ferdinand Alcindor](https://open.spotify.com/artist/34hLcin0RFl40JtsQ2bzLD) | [My Peaceful Place](https://open.spotify.com/album/3iaHC58x7pJTkc8N3FnTwZ) | 5:24 |
 
 Snapshot ID: `Zs80WgAAAAD6QiW2SSjQuXoNzi6iBCnZ`

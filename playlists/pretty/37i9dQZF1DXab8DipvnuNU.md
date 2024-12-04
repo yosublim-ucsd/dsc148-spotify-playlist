@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Essential tunes for time with the family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,540 likes - 75 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,549 likes - 75 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 47 | [Footsteps in the Dark, Pts\. 1 & 2](https://open.spotify.com/track/1tL5a9jowsWMtn3wkFYsG9) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Go for Your Guns](https://open.spotify.com/album/04nhRulMSOvcRCGRTa7I5l) | 5:06 |
 | 48 | [Just Fine](https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Growing Pains](https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM) | 4:02 |
 | 49 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
-| 50 | [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 |
-| 51 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
-| 52 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
-| 53 | [Alright](https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Alright](https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i) | 3:14 |
+| 50 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
+| 51 | [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 |
+| 52 | [Alright](https://open.spotify.com/track/0ECs7wpW9157Tk5yBUGbE0) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Alright](https://open.spotify.com/album/3VHFFHjes58Bu52Kyec26i) | 3:14 |
+| 53 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
 | 54 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
 | 55 | [Workin' Day and Night](https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 5:13 |
 | 56 | [Could You Be Loved](https://open.spotify.com/track/6ZXmTH4DpP07a2TvHx1EF9) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:57 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 63 | [If It Isn't Love](https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Heart Break](https://open.spotify.com/album/1bTjSqotSDtUjcwFfukTQP) | 5:09 |
 | 64 | [Do I Do](https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection \(Deluxe Edition\)](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 5:03 |
 | 65 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 |
-| 66 | [Casanova](https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [The Best of Gerald Levert](https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82) | 4:22 |
+| 66 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
 | 67 | [Golden](https://open.spotify.com/track/0bHs3ly4Bv5BlzE3KrePfX) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Beautifully Human: Words and Sounds Vol\. 2](https://open.spotify.com/album/21JbNB7qmJoOr03sM9dMeR) | 3:51 |
-| 68 | [Why Don't We Fall in Love](https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 2:39 |
+| 68 | [Casanova](https://open.spotify.com/track/1O7hDH3rrF8eyLxrpeoOfb) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [The Best of Gerald Levert](https://open.spotify.com/album/0WaL0OxrZNxs0sXEwwzs82) | 4:22 |
 | 69 | [Remind Me \- Remastered](https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 5:19 |
 | 70 | [Flash Light](https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Funkentelechy Vs\. The Placebo Syndrome](https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd) | 5:46 |
 | 71 | [Let's Get Down](https://open.spotify.com/track/7qdo6JOOaaY9LadOAhfXq7) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 4:59 |

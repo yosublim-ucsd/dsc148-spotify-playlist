@@ -2458,7 +2458,7 @@
       ],
       "date_added": "2024-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -9653,6 +9653,24 @@
     },
     {
       "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
+      },
+      "artists": [
+        {
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
+    },
+    {
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -12030,7 +12048,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
@@ -12496,7 +12514,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
@@ -13748,7 +13766,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -13810,7 +13828,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -14020,7 +14038,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -14038,7 +14056,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 133426,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/6TkXViJUO3SA6FMcrNwlD9"
@@ -15348,7 +15366,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -16550,7 +16568,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
@@ -16580,7 +16598,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -23684,7 +23702,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -25346,7 +25364,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -33014,7 +33032,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -34324,7 +34342,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 206000,
       "name": "\u041a\u043e\u043d\u0441\u0442\u0430\u043d\u0442\u0438\u043d\u0435",
       "url": "https://open.spotify.com/track/3I4DeXZENnp9txN2za4Lyf"
@@ -36630,7 +36648,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 172235,
       "name": "\u0422\u0430\u043a\u0430 \u0441\u044a\u043c \u0430\u0437, \u0442\u0430\u043a\u0430 \u0441\u0438 \u0442\u0438",
       "url": "https://open.spotify.com/track/7cMp1gzM4aSdbX6vJKmDh4"

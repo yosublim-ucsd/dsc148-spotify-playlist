@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > take the road less traveled
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,484 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,495 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 58 | [$10 Cowboy](https://open.spotify.com/track/77tSuH7nEYx2IWJm9TboDX) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [$10 Cowboy](https://open.spotify.com/album/29H8rVCQG9uXLiT9hlH5za) | 3:35 |
 | 59 | [Worry 'Bout My Wandering](https://open.spotify.com/track/1gKPM0k1iyhwSKnTvIoE1L) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Wandering \(Love Me Back\)](https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE) | 3:06 |
 | 60 | [Daytona Sand](https://open.spotify.com/track/5D9fWPC6JwA8SgksEpO0jC) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Bronco](https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I) | 3:15 |
-| 61 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 |
-| 62 | [Playin' On The Tracks](https://open.spotify.com/track/3xQj5vb8MBhaHctYXILqWl) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 2:39 |
+| 61 | [Playin' On The Tracks](https://open.spotify.com/track/3xQj5vb8MBhaHctYXILqWl) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 2:39 |
+| 62 | [Sweet Symphony \(with Chris Stapleton\)](https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Sweet Symphony](https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7) | 3:48 |
 | 63 | [Crying In The Night](https://open.spotify.com/track/5wyr3mSfFAzLOZF50jEcqt) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Cunningham Bird](https://open.spotify.com/album/7oqmbxce6KT0PZ8manQXJB) | 2:36 |
 | 64 | [Spud Infinity](https://open.spotify.com/track/3Q6VfeIZ1bTjWiNe2Or4LQ) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 5:34 |
 | 65 | [White River](https://open.spotify.com/track/7aPheHQPhcxNxohoVAtB7Q) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [White River](https://open.spotify.com/album/5Wp66bG3fq5gLxcT8T9doG) | 3:33 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 75 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
 | 76 | [Younger Years](https://open.spotify.com/track/6UXVFOpFv2WQSs3RF4OC8E) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:49 |
 | 77 | [Wake Me up to Drive](https://open.spotify.com/track/07C3oEuCStuueA9cBYLRuL) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:43 |
-| 78 | [When You Miss Someone](https://open.spotify.com/track/0WTMkjTjqKy2KnNQYGfQI5) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:05 |
-| 79 | [Gone as It Gets](https://open.spotify.com/track/6pgvh09E3Hdj5rjBHk8LWe) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy), [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Gone as It Gets](https://open.spotify.com/album/20fMYYeUFcB6KQglhdgA4l) | 3:44 |
+| 78 | [Gone as It Gets](https://open.spotify.com/track/6pgvh09E3Hdj5rjBHk8LWe) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy), [Adam Chaffins](https://open.spotify.com/artist/7u8QKSBu9RZDBjCn0H4jlj), [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9) | [Gone as It Gets](https://open.spotify.com/album/20fMYYeUFcB6KQglhdgA4l) | 3:44 |
+| 79 | [When You Miss Someone](https://open.spotify.com/track/0WTMkjTjqKy2KnNQYGfQI5) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Stand in the Joy](https://open.spotify.com/album/2r3IZ2sjXvKm14wZEUZC49) | 3:05 |
 | 80 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 |
 
 Snapshot ID: `ZzOYCwAAAAAc1le+u90bRD/iyg0IGo0c`

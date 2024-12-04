@@ -4,7 +4,7 @@
 
 > Mental illness
 
-48 songs - 2 hr 41 min
+49 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Where Do I Sign?](https://open.spotify.com/track/5Myf2whTzO5haXrfeisXG8) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Are We Having Fun?](https://open.spotify.com/album/1wgbdPdJF3G4EvsA289x5g) | 3:11 | 2024-02-19 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5cOM0fTHceCkJVwuyHdMnk) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 3:20 | 2024-10-08 |  |
 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 | 2024-09-16 |  |
+| [Wrong!](https://open.spotify.com/track/0wc0za6oNYTNWWIa2ZdFB2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 2:17 | 2024-12-03 |  |
 | [You May Be Right](https://open.spotify.com/track/7gMOe0gXYcELUoVugfMmHP) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Glass Houses](https://open.spotify.com/album/5sztejERqpktXEdemlUvU5) | 4:13 | 2024-09-16 |  |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2024-10-14 |  |
 

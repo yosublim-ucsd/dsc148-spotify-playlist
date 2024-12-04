@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,109 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,107 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 35 | [Man Overboard](https://open.spotify.com/track/72iJsJMdTGjshAZdNJbSKU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:46 |
 | 36 | [Heavy](https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 3:27 |
 | 37 | [Me First](https://open.spotify.com/track/72yApMP8fkW15lWdMjerBp) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Composure](https://open.spotify.com/album/574qjeKnYHIU246L4MMNbX) | 3:13 |
-| 38 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
-| 39 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
+| 38 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
+| 39 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
 | 40 | [Mindreader](https://open.spotify.com/track/2hVKFfp7Rmr2XPK31jFCrX) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Mindreader](https://open.spotify.com/album/0jbugiJKa2cibYeQktz5MQ) | 2:53 |
 | 41 | [Dead!](https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:15 |
 | 42 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 44 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 |
 | 45 | [Can EU Hear Me?](https://open.spotify.com/track/7LUVmUWiSvtI2tJvYHFRAs) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [There Goes The Neighbourhood](https://open.spotify.com/album/3o6ih9edQcACGSYAW6eXTb) | 2:58 |
 | 46 | [Degenerates](https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Degenerates](https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ) | 3:04 |
-| 47 | [He's A Man](https://open.spotify.com/track/5hxtsRWVxj1wrAgkJEpvrq) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Humble As The Sun](https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh) | 2:38 |
-| 48 | [The Hell Song](https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 3:18 |
+| 47 | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:26 |
+| 48 | [He's A Man](https://open.spotify.com/track/5hxtsRWVxj1wrAgkJEpvrq) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Humble As The Sun](https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh) | 2:38 |
 | 49 | [Waiting Room](https://open.spotify.com/track/3I9nTUGJ90pe9mDpnSob2g) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Waiting Room](https://open.spotify.com/album/74RDXqY90ZT8zjsgfvZNgS) | 3:14 |
-| 50 | [Jurassic Park](https://open.spotify.com/track/34gFMDaZ1N41KjcUspPUtj) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:26 |
+| 50 | [The Hell Song](https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 3:18 |
 | 51 | [THE FIRST TEST](https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [THE FIRST TEST](https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU) | 2:14 |
 | 52 | [Time\-Bomb Ticking Away](https://open.spotify.com/track/13zFCArzBLIPwvrV6IncpU) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Afraid of Heights \(Deluxe Version\)](https://open.spotify.com/album/2kqjqQneZx935suPAhokuj) | 3:22 |
 | 53 | [Go Down in History](https://open.spotify.com/track/2axAqRd2SSKmbA6fTuoRzM) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:39 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 67 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
 | 68 | [Worries](https://open.spotify.com/track/5YtpGJgS6vBDMMaguVeRDG) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Worries](https://open.spotify.com/album/0lR5SeL2xHTOEHh7a4aDoI) | 2:23 |
 | 69 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
-| 70 | [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 |
-| 71 | [Hit Like A Girl](https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Hit Like A Girl](https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0) | 3:59 |
+| 70 | [Hit Like A Girl](https://open.spotify.com/track/3kfghhJVXyT2W2TlP2Vsw9) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Hit Like A Girl](https://open.spotify.com/album/4l3QmwKvZ9TR1lSnJvT6E0) | 3:59 |
+| 71 | [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 |
 | 72 | [If You Say So](https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [If You Say So](https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego) | 2:31 |
 | 73 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
 | 74 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 96 | [Self Defeated](https://open.spotify.com/track/2oh897TvP4jf38T4P94Nlt) | [Like Pacific](https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH) | [In Spite of Me](https://open.spotify.com/album/7ge6k6ARpyvXqOmMlc0pjS) | 2:57 |
 | 97 | [P.A.W](https://open.spotify.com/track/3Wtc6XdHsI4QdKaGYSbApL) | [Radkey](https://open.spotify.com/artist/1egsOeSvcQyacni1rL6c4C) | [No Strange Cats](https://open.spotify.com/album/2ffrZVJsIs74lIbsMbRtLp) | 2:40 |
 | 98 | [The Perfect Way to Fall Apart](https://open.spotify.com/track/6EbrUOAtVI88FYpKL2s0Zp) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Bad Frequencies](https://open.spotify.com/album/0EYW4EyBEAy7gEEwxN04CH) | 4:09 |
-| 99 | [Nothing](https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Nothing](https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o) | 2:58 |
-| 100 | [Precariat](https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:29 |
+| 99 | [Precariat](https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:29 |
+| 100 | [Nothing](https://open.spotify.com/track/5pS75IaSlSl2uWaP02L1xv) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Nothing](https://open.spotify.com/album/6vRQl7oXLlbETFBfYVJU7o) | 2:58 |
 
 Snapshot ID: `ZppTxgAAAAAm51cWYEj9+bq7a83aN2TF`

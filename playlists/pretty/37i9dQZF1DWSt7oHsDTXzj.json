@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 229876,
+  "num_followers": 240948,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "A Dreamer's Holiday",
         "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 180585,
       "name": "A Dreamer's Holiday",
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/7shC5Rf3b9a2rTEFP0Fel3"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/5ajxIVMf6INoeHqkNjvQ73"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -799,6 +799,74 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
+        "name": "HARK!",
+        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 212120,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
+        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
+      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Happy Xmas (War Is Over)",
+        "url": "https://open.spotify.com/album/0q9qPcq5tk3GQx1r4U65SZ"
+      },
+      "artists": [
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        },
+        {
+          "name": "The Flaming Lips",
+          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
+        }
+      ],
+      "duration_ms": 206994,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/6M3psbHFfLJbYNK0n2Mw1B"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "Darling I Do",
+        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
+      },
+      "artists": [
+        {
+          "name": "Ezra Williams",
+          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
+        }
+      ],
+      "duration_ms": 181094,
+      "name": "Darling I Do",
+      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
         "name": "The Little Drummer Boy",
         "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
       },
@@ -819,54 +887,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "HARK!",
-        "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 212120,
-      "name": "Andalucia",
-      "url": "https://open.spotify.com/track/4TUOVMzSSHZFUO33KDx6EB"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
-      },
-      "artists": [
-        {
-          "name": "Ezra Williams",
-          "url": "https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48"
-        }
-      ],
-      "duration_ms": 181094,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Christmas (live from a restaurant in downtown Los Angeles)",
-        "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
-      "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -883,6 +903,38 @@
       "duration_ms": 213783,
       "name": "This December - slow",
       "url": "https://open.spotify.com/track/4Mt3d7vnaL8R6FilIq9DGi"
+    },
+    {
+      "added_at": "2024-11-22 05:26:31",
+      "album": {
+        "name": "Xmas",
+        "url": "https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0"
+      },
+      "artists": [
+        {
+          "name": "Bartees Strange",
+          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
+        }
+      ],
+      "duration_ms": 202032,
+      "name": "Xmas",
+      "url": "https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "Another Sappy Xmas Love Song",
+        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "duration_ms": 144654,
+      "name": "Another Sappy Xmas Love Song",
+      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -935,58 +987,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Another Sappy Xmas Love Song",
-        "url": "https://open.spotify.com/album/6i3hKwxlvvmvvNwPiYO2hS"
-      },
-      "artists": [
-        {
-          "name": "Maja Francis",
-          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
-        }
-      ],
-      "duration_ms": 144654,
-      "name": "Another Sappy Xmas Love Song",
-      "url": "https://open.spotify.com/track/45dXG5XwdHHVPIngz4VmJc"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Happy Xmas (War Is Over)",
-        "url": "https://open.spotify.com/album/0q9qPcq5tk3GQx1r4U65SZ"
-      },
-      "artists": [
-        {
-          "name": "Yoko Ono",
-          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
-        },
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 206994,
-      "name": "Happy Xmas (War Is Over)",
-      "url": "https://open.spotify.com/track/6M3psbHFfLJbYNK0n2Mw1B"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "White Winter Hymnal",
         "url": "https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 134320,
       "name": "White Winter Hymnal",
       "url": "https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB"
-    },
-    {
-      "added_at": "2024-11-22 05:26:31",
-      "album": {
-        "name": "Xmas",
-        "url": "https://open.spotify.com/album/53oRuhylX4A32ZVGRvFif0"
-      },
-      "artists": [
-        {
-          "name": "Bartees Strange",
-          "url": "https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG"
-        }
-      ],
-      "duration_ms": 202032,
-      "name": "Xmas",
-      "url": "https://open.spotify.com/track/6hX5jTC89bMwnpvD7hLUy1"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
         }
       ],
-      "duration_ms": 139600,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1065,52 +1049,20 @@
       "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
     },
     {
-      "added_at": "2024-11-18 23:12:09",
+      "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Last Christmas",
-        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
+        "name": "Christmas Joy",
+        "url": "https://open.spotify.com/album/6avDqTUUdYbR79ChwhXqsw"
       },
       "artists": [
         {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+          "name": "Henry And The Waiter",
+          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
         }
       ],
-      "duration_ms": 280152,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "Cozy Christmas / December Baby",
-        "url": "https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 237953,
-      "name": "Cozy Christmas",
-      "url": "https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "December '04",
-        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
-      },
-      "artists": [
-        {
-          "name": "The Oh Hellos",
-          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
-        }
-      ],
-      "duration_ms": 206798,
-      "name": "December '04",
-      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
+      "duration_ms": 141733,
+      "name": "Christmas Joy",
+      "url": "https://open.spotify.com/track/3Rs2Fic9WvAyXhMhzpNsLO"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1135,6 +1087,54 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
+        "name": "December '04",
+        "url": "https://open.spotify.com/album/5TyYCFnfgruNiqW6uZbEpY"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 206798,
+      "name": "December '04",
+      "url": "https://open.spotify.com/track/74aou56vHTcDp3aNAbpsvl"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/5wJqsHjlA2jaubK0t3D4n1"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 139600,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/5Tkq8xiWGkcnCoU9itcCBN"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/6CkoecFP3wz56NCfaroT7R"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 280152,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/3SgeZfuLcoSjizulShWC2J"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/0aB5CHO6yf2fJxXziIIOa1"
       },
@@ -1151,34 +1151,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Christmas Joy",
-        "url": "https://open.spotify.com/album/6avDqTUUdYbR79ChwhXqsw"
+        "name": "Learning to Crawl (US Release)",
+        "url": "https://open.spotify.com/album/0pZuMQ6WJm5CWYSPvpyFfd"
       },
       "artists": [
         {
-          "name": "Henry And The Waiter",
-          "url": "https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn"
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
         }
       ],
-      "duration_ms": 141733,
-      "name": "Christmas Joy",
-      "url": "https://open.spotify.com/track/3Rs2Fic9WvAyXhMhzpNsLO"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
-        "name": "ugly xmas sweater party",
-        "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
-      },
-      "artists": [
-        {
-          "name": "girlhouse",
-          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "ugly xmas sweater party",
-      "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
+      "duration_ms": 217733,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/2DK1wbhNHD7HwA7Jpo8xtc"
     },
     {
       "added_at": "2024-11-18 23:12:09",
@@ -1199,6 +1183,38 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
+        "name": "Cozy Christmas / December Baby",
+        "url": "https://open.spotify.com/album/5eDRhqqR5tmiPnrUfCdLRe"
+      },
+      "artists": [
+        {
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
+        }
+      ],
+      "duration_ms": 237953,
+      "name": "Cozy Christmas",
+      "url": "https://open.spotify.com/track/1QnbWxNrVX5IlF7GeWqkZR"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "ugly xmas sweater party",
+        "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
+      },
+      "artists": [
+        {
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "ugly xmas sweater party",
+      "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
         "name": "When I Get Home for Christmas",
         "url": "https://open.spotify.com/album/50ctfjOYbjIn56CfxUxdZD"
       },
@@ -1215,38 +1231,6 @@
     {
       "added_at": "2024-11-18 23:12:09",
       "album": {
-        "name": "Santa Baby (Recorded at Strongroom Studios London)",
-        "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 163741,
-      "name": "Santa Baby - Recorded at Strongroom Studios London",
-      "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
-    },
-    {
-      "added_at": "2024-11-22 05:26:31",
-      "album": {
-        "name": "Blue Christmas",
-        "url": "https://open.spotify.com/album/6JZKhaBIJbGkl5ba3Wy6PF"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 121480,
-      "name": "Blue Christmas",
-      "url": "https://open.spotify.com/track/1zQe0Va7jqkF53HNjJtUu2"
-    },
-    {
-      "added_at": "2024-11-18 23:12:09",
-      "album": {
         "name": "Carol Of The Bells",
         "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 193379,
       "name": "Carol Of The Bells",
       "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
+      "added_at": "2024-11-18 23:12:09",
+      "album": {
+        "name": "Santa Baby (Recorded at Strongroom Studios London)",
+        "url": "https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 163741,
+      "name": "Santa Baby - Recorded at Strongroom Studios London",
+      "url": "https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h"
     }
   ],
   "unique_name": "Indie Christmas",

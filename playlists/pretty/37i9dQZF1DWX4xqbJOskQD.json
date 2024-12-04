@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1937,
+  "num_followers": 1938,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "16 Most Requested Songs Of The 1950s. Volume One",
+        "url": "https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB"
+      },
+      "artists": [
+        {
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+        }
+      ],
+      "duration_ms": 141040,
+      "name": "Istanbul (Not Constantinople)",
+      "url": "https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 188293,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "16 Most Requested Songs Of The 1950s. Volume One",
-        "url": "https://open.spotify.com/album/1EwKI0RoZXgf8ETKYP4WXB"
-      },
-      "artists": [
-        {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
-        }
-      ],
-      "duration_ms": 141040,
-      "name": "Istanbul (Not Constantinople)",
-      "url": "https://open.spotify.com/track/1HKcy2OX5u86O9M1AOCNDE"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -265,22 +265,6 @@
       "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
-      },
-      "artists": [
-        {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "Moments To Remember",
-      "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The Anthology: 1931 - 1968",
@@ -297,22 +281,6 @@
       "url": "https://open.spotify.com/track/35ZobdJK28ivwmMgyubZak"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The Merry Macs Sing Mairzy Doats",
@@ -327,6 +295,38 @@
       "duration_ms": 164600,
       "name": "Mairzy Doats",
       "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+      },
+      "artists": [
+        {
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Moments To Remember",
+      "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -365,22 +365,6 @@
       "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
-      },
-      "artists": [
-        {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Standing On the Corner",
-      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "Jump & Jive 'Til One O'Clock - Anthology, Vol. 2",
@@ -415,22 +399,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Blue Velvet / The Ultimate Collection",
         "url": "https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS"
       },
@@ -443,6 +411,38 @@
       "duration_ms": 169000,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+      },
+      "artists": [
+        {
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Standing On the Corner",
+      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+      },
+      "artists": [
+        {
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "I'm Forever Blowing Bubbles",
+      "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -495,18 +495,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
       "artists": [
         {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 156733,
-      "name": "I'm Forever Blowing Bubbles",
-      "url": "https://open.spotify.com/track/5UhPIWJk8x5YuzoXelnfQi"
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -559,22 +559,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Coed Singles",
-        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
-      },
-      "artists": [
-        {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
-        }
-      ],
-      "duration_ms": 151455,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Teach Me Tonight",
         "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 173133,
       "name": "Love On A Greyhound Bus",
       "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Coed Singles",
+        "url": "https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "duration_ms": 151455,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl"
     },
     {
       "added_at": "2020-08-17 22:49:59",

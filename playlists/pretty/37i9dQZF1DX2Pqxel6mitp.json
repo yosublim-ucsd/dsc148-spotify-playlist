@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 97215,
+  "num_followers": 97283,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Solid Air",
-        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
-      },
-      "artists": [
-        {
-          "name": "John Martyn",
-          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
-        }
-      ],
-      "duration_ms": 201506,
-      "name": "The Easy Blues",
-      "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 206471,
       "name": "The Ballad of Lampshade Ed",
       "url": "https://open.spotify.com/track/7ixLX2F07QhrX4JEOJuFeX"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Solid Air",
+        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
+      },
+      "artists": [
+        {
+          "name": "John Martyn",
+          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "The Easy Blues",
+      "url": "https://open.spotify.com/track/7drMNe3YvNs3KhHIHc6KBk"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -635,18 +635,22 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Call Me King",
-        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
+        "name": "Philadelphia Mississippi",
+        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
       },
       "artists": [
         {
-          "name": "Son Of Dave",
-          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
         }
       ],
-      "duration_ms": 174933,
-      "name": "Call Me King",
-      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
+      "duration_ms": 185640,
+      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -667,22 +671,18 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+        "name": "Call Me King",
+        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
         }
       ],
-      "duration_ms": 185640,
-      "name": "Guitar Man (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/6Ldi3GEqxgHp3GZq7eKTYY"
+      "duration_ms": 174933,
+      "name": "Call Me King",
+      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Heavy Load Blues",
-        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 289786,
-      "name": "Black Horizon",
-      "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "The Midnight Broadcast",
         "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
+        "name": "Heavy Load Blues",
+        "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 289786,
+      "name": "Black Horizon",
+      "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
         "name": "Blues & Gospel (Rare & Unreleased Recordings)",
         "url": "https://open.spotify.com/album/3tUUbZIkGhzmIGLVXP1Fqi"
       },
@@ -811,26 +811,6 @@
       "duration_ms": 216186,
       "name": "Someday Baby Blues",
       "url": "https://open.spotify.com/track/6SH8e1k6ex1Odj6ukZap0L"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
-        "name": "High and Lonesome",
-        "url": "https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K"
-      },
-      "artists": [
-        {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
-        }
-      ],
-      "duration_ms": 273954,
-      "name": "High and Lonesome",
-      "url": "https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -871,6 +851,42 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
+        "name": "High and Lonesome",
+        "url": "https://open.spotify.com/album/1hXu1hzBLLXJLoJgacsc6K"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 273954,
+      "name": "High and Lonesome",
+      "url": "https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Make Myself Me Again",
+        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
+      },
+      "artists": [
+        {
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
+        }
+      ],
+      "duration_ms": 169826,
+      "name": "Small Town Nashville Blues",
+      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
         "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
         "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
       },
@@ -899,38 +915,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "The \"Killer\" Rocks On",
-        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "C.C. Rider",
-      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
-        "name": "Make Myself Me Again",
-        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
-      },
-      "artists": [
-        {
-          "name": "Cristina Vane",
-          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
-        }
-      ],
-      "duration_ms": 169826,
-      "name": "Small Town Nashville Blues",
-      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Dirtiest Little Darling / Railroad Bill",
         "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 211999,
       "name": "Dirtiest Little Darling",
       "url": "https://open.spotify.com/track/4iZMmiAM3X720dVFxGTwu7"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "The \"Killer\" Rocks On",
+        "url": "https://open.spotify.com/album/6vFYcOml32pCUDT7Adp5hW"
+      },
+      "artists": [
+        {
+          "name": "Jerry Lee Lewis",
+          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "C.C. Rider",
+      "url": "https://open.spotify.com/track/2jpyzovZr1zpVVVKck8rlu"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Yellow Peril",
-        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 204986,
-      "name": "Yellow Peril",
-      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Strange Time To Be Alive",
         "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 231373,
       "name": "Dance In The Fire",
       "url": "https://open.spotify.com/track/2kGeYQBWv8QiYRoOo9vQJt"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Yellow Peril",
+        "url": "https://open.spotify.com/album/4OIXuFKd0N1hU41Gbfy0v9"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 204986,
+      "name": "Yellow Peril",
+      "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
         "name": "Racing To A Red Light",
         "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
       },
@@ -1159,22 +1143,18 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Philadelphia Mississippi",
-        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
       },
       "artists": [
         {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        },
-        {
-          "name": "Sharde Turner",
-          "url": "https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz"
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
         }
       ],
-      "duration_ms": 220560,
-      "name": "If My Mind Don't Change (feat. Sharde Thomas)",
-      "url": "https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W"
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1195,6 +1175,26 @@
       "duration_ms": 241946,
       "name": "If You Go",
       "url": "https://open.spotify.com/track/1YLLWrUeR99ztUaGGn355R"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
+        "name": "Philadelphia Mississippi",
+        "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Sharde Turner",
+          "url": "https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "If My Mind Don't Change (feat. Sharde Thomas)",
+      "url": "https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W"
     },
     {
       "added_at": "2024-05-28 18:42:18",
@@ -1927,6 +1927,22 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+    },
+    {
+      "added_at": "2024-05-28 18:42:18",
+      "album": {
         "name": "Neckbone Stew",
         "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
       },
@@ -1995,34 +2011,18 @@
     {
       "added_at": "2024-05-28 18:42:18",
       "album": {
-        "name": "Booker\u2019s Guitar",
-        "url": "https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr"
+        "name": "Somebody Loan Me A Dime",
+        "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
       },
       "artists": [
         {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
         }
       ],
-      "duration_ms": 221120,
-      "name": "With My Maker I Am One",
-      "url": "https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY"
-    },
-    {
-      "added_at": "2024-05-28 18:42:18",
-      "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+      "duration_ms": 230040,
+      "name": "Going To Chicago",
+      "url": "https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le"
     }
   ],
   "unique_name": "Black Coffee Blues",

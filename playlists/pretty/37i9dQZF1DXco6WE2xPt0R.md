@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > longe dos perigos noturnos
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,568 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,564 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 44 | [11th Hour](https://open.spotify.com/track/78LJ7iVGbin0ej1TC1smDS) | [Lynda Dawn](https://open.spotify.com/artist/63xKhLksCsaONI4pUNZJXM) | [11th Hour](https://open.spotify.com/album/6ocq51uZKVrzIXHlS4oCSH) | 4:11 |
 | 45 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
 | 46 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 |
-| 47 | [Anita Valentine](https://open.spotify.com/track/54hEV0SJrVqPi0SePNXKXg) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Dreamsoul Ballads](https://open.spotify.com/album/4YDB8xoCS8aCo93B5SfPCK) | 3:57 |
-| 48 | [GLA](https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:26 |
+| 47 | [GLA](https://open.spotify.com/track/15hiUMS0HDjcyWzVlBEh1y) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Back Home](https://open.spotify.com/album/6tJKIc90Q5FuHbAWsrBPkI) | 3:26 |
+| 48 | [Anita Valentine](https://open.spotify.com/track/54hEV0SJrVqPi0SePNXKXg) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Dreamsoul Ballads](https://open.spotify.com/album/4YDB8xoCS8aCo93B5SfPCK) | 3:57 |
 | 49 | [Slow \(feat\. J Valentine\)](https://open.spotify.com/track/78t5Br2LpRmlisvBzxE4mZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [J\. Valentine](https://open.spotify.com/artist/0YG3fiiee6tHuimu1klAMg) | [Slow \(feat\. J Valentine\)](https://open.spotify.com/album/2URY7aT8Ig8jxhlXK3bWOl) | 3:20 |
 | 50 | [One Night Stand](https://open.spotify.com/track/2CDGP4sWDuaYkRB8C48dJA) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM) | [One Night Stand](https://open.spotify.com/album/3S2wJtXUAyA87jlBVxJMN4) | 4:16 |
 | 51 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 60 | [Wake Up Baby](https://open.spotify.com/track/30c0CcK6RVr8tX8B19M3AW) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach Presents: The Original Jill Scott \- from the vault, Vol\. 1 \(Deluxe\)](https://open.spotify.com/album/1lITHni4gjJUFgpH1J9rng) | 3:55 |
 | 61 | [Crash for a Couple](https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Little Men \(Deluxe\)](https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB) | 4:00 |
 | 62 | [No Love Song](https://open.spotify.com/track/1w51c5zq4Wr2jgGGBeeSbW) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [No Love Song](https://open.spotify.com/album/3wur4O6bZGh647ZJzXSsct) | 3:59 |
-| 63 | [Type Of Day](https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Type Of Day](https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z) | 3:07 |
-| 64 | [dumb luck \(Live at VEVO\)](https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Live at VEVO](https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl) | 2:38 |
+| 63 | [dumb luck \(Live at VEVO\)](https://open.spotify.com/track/0M3zo2dGoxG1hMzOWlJQ8U) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Live at VEVO](https://open.spotify.com/album/1auqYOyeliYPBgTAhBpQsl) | 2:38 |
+| 64 | [Type Of Day](https://open.spotify.com/track/7o71W2N5PUPrzUDqigchCI) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Type Of Day](https://open.spotify.com/album/0d4KTjthlE8DAfaFpteq6z) | 3:07 |
 | 65 | [Come To My Room](https://open.spotify.com/track/1GkOOo0eZng6Q4zZ6rfAvj) | [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [The Beauty Created](https://open.spotify.com/album/5WHjXhxponqkW8TQoNzttR) | 4:31 |
 | 66 | [Let Me See Your Phone](https://open.spotify.com/track/5rBXXZWDsIRsi5Ur2JWTsC) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Let Me See Your Phone](https://open.spotify.com/album/4f6ijLrllKsvvUEhiuqVv4) | 3:22 |
 | 67 | [Last Time](https://open.spotify.com/track/7AvJrRBbe7U4eis5ifjf78) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Starfruit](https://open.spotify.com/album/6BX8c95i5dRgynP9sIzy6K) | 2:41 |
-| 68 | [Make Luv 2 Me](https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v) | [Zo!](https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [SunStorm](https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j) | 10:35 |
-| 69 | [Stay Here Tonight](https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 2:57 |
+| 68 | [Stay Here Tonight](https://open.spotify.com/track/35osWEtUUselhnoFpwA3X2) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Good Life](https://open.spotify.com/album/2aFulxeOIYdakdVXjgaHDz) | 2:57 |
+| 69 | [Make Luv 2 Me](https://open.spotify.com/track/6wSS1PXZcHbjIKHwQK6g1v) | [Zo!](https://open.spotify.com/artist/0XoDNlIZvfQP47lyLBVIsz), [Monica Blaire](https://open.spotify.com/artist/0u7CF9gJzMB7pyzJkW22eK) | [SunStorm](https://open.spotify.com/album/1ssu0v4LiGz7j3y2BUaj2j) | 10:35 |
 | 70 | [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 |
 | 71 | [Stay Down](https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Most Wanted](https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H) | 3:28 |
 | 72 | [ILM](https://open.spotify.com/track/7aiVxe226qNgGf16rsv9Ip) | [MAAD](https://open.spotify.com/artist/01XujQ0Nax028Ufr2jl7vd) | [Eventually Pt\. 1](https://open.spotify.com/album/2lF9k8tmdXYRj36Qwrn3tQ) | 3:56 |

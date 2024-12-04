@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: mxmtoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,688,078 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,688,096 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,23 +90,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 80 | [desire](https://open.spotify.com/track/59IZjbjihzu5wbWKQa3tKS) | [bixby](https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv) | [desire](https://open.spotify.com/album/0ILal2Iymn3PsxiQoDpo1C) | 2:31 |
 | 81 | [Too Much Of A Good Thing](https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Too Much Of A Good Thing](https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84) | 2:51 |
 | 82 | [Juno](https://open.spotify.com/track/7F35nM1uBD2AzkXSYgLenE) | [flipturn](https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH) | [Juno](https://open.spotify.com/album/2Ff77bF2DIy1ry5qZ4yq7o) | 3:03 |
-| 83 | [Occasional Stoner](https://open.spotify.com/track/43avjZf2deGDNuYnnSinij) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Occasional Stoner](https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl) | 3:03 |
-| 84 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 |
+| 83 | [Love at First Sight \- Spotify Singles](https://open.spotify.com/track/6Sgqy8UjLO2ucKaw3hElBT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Spotify Singles](https://open.spotify.com/album/5HFImFXyTV2GbbqN82v1tJ) | 3:59 |
+| 84 | [Occasional Stoner](https://open.spotify.com/track/43avjZf2deGDNuYnnSinij) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Occasional Stoner](https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl) | 3:03 |
 | 85 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 |
-| 86 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 |
-| 87 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
-| 88 | [Purple Teeth, The Bravery](https://open.spotify.com/track/17Az6lQEgxICVvHrr7VbAg) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet \(Deluxe\)](https://open.spotify.com/album/2PpathAsqvsMNCdRrRW9rf) | 3:04 |
+| 86 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
+| 87 | [Purple Teeth, The Bravery](https://open.spotify.com/track/17Az6lQEgxICVvHrr7VbAg) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [I Miss You Already + I Haven’t Left Yet \(Deluxe\)](https://open.spotify.com/album/2PpathAsqvsMNCdRrRW9rf) | 3:04 |
+| 88 | [Summer Song](https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Summer Song](https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL) | 4:05 |
 | 89 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 90 | [Wally](https://open.spotify.com/track/2hsb9d9qzr3KnlgQRzrZX9) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Wally](https://open.spotify.com/album/2NAntlPmxafv0ZvpBhA1lI) | 2:08 |
 | 91 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 |
 | 92 | [Who Said](https://open.spotify.com/track/1ok8sVrOcxSFpuVzygkQLx) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Who Said](https://open.spotify.com/album/5WYNrBJOl1Sm41YS1SPEAM) | 3:07 |
-| 93 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 |
-| 94 | [Along For The Ride](https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 2:57 |
-| 95 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 |
-| 96 | [Take Me to the River](https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Take Me to the River](https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V) | 4:24 |
+| 93 | [Along For The Ride](https://open.spotify.com/track/2CmhmWmCJiGoaN6JvVmM0M) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I'm Not Afraid Of Music Anymore](https://open.spotify.com/album/0iYfLtcJwYEl23TtnwTibd) | 2:57 |
+| 94 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 |
+| 95 | [Take Me to the River](https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Take Me to the River](https://open.spotify.com/album/2uZazZt5CXCpf5KPzSzh2V) | 4:24 |
+| 96 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 |
 | 97 | [Mexico](https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3), [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Mexico](https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9) | 2:56 |
-| 98 | [Cherry Blossom](https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Cherry Blossom](https://open.spotify.com/album/2pHMtiQwLjRt2oCzUfCoqD) | 3:27 |
-| 99 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
-| 100 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 |
+| 98 | [Water the Flowers, Pray for a Garden](https://open.spotify.com/track/0bx0g4s3zy0nfonXqPoJJL) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Water the Flowers, Pray for a Garden](https://open.spotify.com/album/6v6I7JpwdAZ0DqUWsGxR4H) | 3:26 |
+| 99 | [cherry cola](https://open.spotify.com/track/2KiQ23eB0oqyRQ7DoU744k) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [cherry cola / sunburn](https://open.spotify.com/album/5c1ldvSkB4H8frj3G2jmpn) | 2:48 |
+| 100 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 |
 
 Snapshot ID: `Z0AP0AAAAADtNP3Et53u8y4utGtwLZH3`

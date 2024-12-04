@@ -693,6 +693,28 @@
     },
     {
       "album": {
+        "name": "Diantara Kata",
+        "url": "https://open.spotify.com/album/1dgr7AUFb8kbP45M6dhpBe"
+      },
+      "artists": [
+        {
+          "name": "Fariz RM",
+          "url": "https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT"
+        },
+        {
+          "name": "Syahravi",
+          "url": "https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253331,
+      "name": "Diantara Kata",
+      "url": "https://open.spotify.com/track/4LnuU4KBYfy6Cg4CEJ23Pu"
+    },
+    {
+      "album": {
         "name": "Ekspektasi",
         "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
       },
@@ -1538,7 +1560,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 222706,
       "name": "Komang",
       "url": "https://open.spotify.com/track/19GVttbvglsRrRB8FGGM05"
@@ -2080,7 +2102,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 241947,
       "name": "P.S. I LOVE YOU (feat. Yuna)",
       "url": "https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb"
@@ -2434,7 +2456,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 325973,
       "name": "Satu Yang Tak Bisa Lepas",
       "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"

@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 57822,
+  "num_followers": 57858,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -475,42 +475,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Blue Guitar",
-        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 161479,
-      "name": "Blue Guitar",
-      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
-      },
-      "artists": [
-        {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
-        },
-        {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Blues for Nothing",
-      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -539,6 +503,42 @@
       "duration_ms": 197466,
       "name": "Lookin' Good",
       "url": "https://open.spotify.com/track/1Lw0Oi8JapLOIU8bfZV7PW"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
+      },
+      "artists": [
+        {
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+        },
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Blues for Nothing",
+      "url": "https://open.spotify.com/track/6tPZzx5GfGTAG4ehDYnL7b"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "Blue Guitar",
+        "url": "https://open.spotify.com/album/3Ln9Dp42I8Y0GiY6eFSwUP"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 161479,
+      "name": "Blue Guitar",
+      "url": "https://open.spotify.com/track/4W5I9ht9ZzD2uvCTMIuhVG"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Okie Dokie Stomp",
-      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Mile End ll",
         "url": "https://open.spotify.com/album/5qYes0QKG0BY95DanQkzsz"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 217893,
       "name": "Runner",
       "url": "https://open.spotify.com/track/2Dec3RFyyRpZR6eKhA2yaf"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Okie Dokie Stomp",
+      "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "What's The Word?",
-        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Extra Jimmies",
-      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971",
         "url": "https://open.spotify.com/album/09dsUwnIIqRL97qbvGTrjH"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 253733,
       "name": "The Creeper Returns",
       "url": "https://open.spotify.com/track/4nMd04AlsjakO4ADMaOx1c"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "What's The Word?",
+        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Extra Jimmies",
+      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "The Peacock Recordings: 1949-1959",
-        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Ain't That Dandy",
-      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "Night Train",
         "url": "https://open.spotify.com/album/37OzV30qCWV0H5Xn0Q0g9s"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 179440,
       "name": "Night Train",
       "url": "https://open.spotify.com/track/21qi2RxDfFjKBqsVdu64w7"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
+        "name": "The Peacock Recordings: 1949-1959",
+        "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Ain't That Dandy",
+      "url": "https://open.spotify.com/track/1n0WyL1sxkNVE94n3MgPHn"
     },
     {
       "added_at": "2024-05-29 07:23:14",

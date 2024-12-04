@@ -2,7 +2,7 @@
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Da LAB
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Dương Domic
 
 305 songs - 19 hr 22 min
 
@@ -240,12 +240,12 @@
 | [Thấy Chưa](https://open.spotify.com/track/4CjJf5bzvv5ZuLf2FJqlWY) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Thấy Chưa](https://open.spotify.com/album/3QTBFsCemkGKAHoYrqbhUZ) | 3:54 | 2022-09-06 | 2022-09-15 |
 | [Thằng Điên](https://open.spotify.com/track/27Z9T0mSWHYWSj9SNOGvyt) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Thằng Điên](https://open.spotify.com/album/0t2YXNqz7bv7n6mPorj8HC) | 3:54 | 2023-06-22 |  |
 | [Thị Mầu](https://open.spotify.com/track/2Nwi8X3bmgKU1zMQUsDTah) | [Hoà Minzy](https://open.spotify.com/artist/3BWBxpXDxofgji3RKZPIz8), [Masew](https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq) | [Thị Mầu](https://open.spotify.com/album/4cS8GtTlS8Q5SKrITbIvVB) | 3:25 | 2023-03-17 | 2023-03-30 |
-| [Thờ ơ](https://open.spotify.com/track/0SMpkybKsjUeONDdUCW69e) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [Thờ ơ](https://open.spotify.com/album/6dMn8SVS3XBImfPqZ39orV) | 2:45 | 2024-09-03 |  |
+| [Thờ ơ](https://open.spotify.com/track/0SMpkybKsjUeONDdUCW69e) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [Thờ ơ](https://open.spotify.com/album/6dMn8SVS3XBImfPqZ39orV) | 2:45 | 2024-09-03 | 2024-12-04 |
 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 | 2022-05-27 |  |
 | [tiny love](https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [tiny things](https://open.spotify.com/album/4nSOMXIWouesFTEk9vT7eA) | 2:38 | 2022-05-27 | 2024-03-05 |
 | [Tiếp Đất](https://open.spotify.com/track/2tZjAcLcg7k0p0c1wA3Ggk) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Tiếp Đất](https://open.spotify.com/album/1UddUVHgfgI6DuP0DfRLKi) | 3:15 | 2023-07-21 | 2023-08-08 |
 | [To The Moon](https://open.spotify.com/track/1CyYcBdukmFjFibDZaDlHc) | [hooligan.](https://open.spotify.com/artist/4sDsgLXhS6If9HrV2mwuSx) | [To The Moon](https://open.spotify.com/album/4UEbczuNRxEy7SGJTrfEBd) | 3:21 | 2022-05-27 | 2022-06-21 |
-| [Trái đất ôm Mặt trời](https://open.spotify.com/track/2xcWKo7mcj6Rd1z7E5pNzb) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Summeroom](https://open.spotify.com/album/1pBKlPHaXpr0pf6DojEevx) | 3:13 | 2024-07-07 |  |
+| [Trái đất ôm Mặt trời](https://open.spotify.com/track/2xcWKo7mcj6Rd1z7E5pNzb) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Summeroom](https://open.spotify.com/album/1pBKlPHaXpr0pf6DojEevx) | 3:13 | 2024-07-07 | 2024-12-04 |
 | [trên taxi chẳng muốn về nhà](https://open.spotify.com/track/2ZMxSXSMQKXtpEqViQamZh) | [Hoàng Duyên](https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d), [JSOL](https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN) | [trên taxi chẳng muốn về nhà](https://open.spotify.com/album/1UB7MPGcKAmg1coiaWzJ5h) | 3:55 | 2024-05-26 | 2024-06-17 |
 | [Trước Khi Em Tồn Tại](https://open.spotify.com/track/1yo967mk7CpjvruNxBecOY) | [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Cái Đầu Tiên](https://open.spotify.com/album/5jDZKqgoVRbob6A3omYTG5) | 3:14 | 2023-06-22 | 2023-07-22 |
 | [Tình Ca Tình Ta](https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4) | [kis](https://open.spotify.com/artist/6mshB4wc19nPYxpdbtWkz9) | [Tình Ca Tình Ta](https://open.spotify.com/album/3qdtvJBOprlT6VK2j0eest) | 2:55 | 2022-05-27 | 2024-01-03 |

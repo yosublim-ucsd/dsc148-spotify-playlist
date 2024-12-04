@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,731 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,761 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 49 | [Night](https://open.spotify.com/track/305AMS2fhp16LoYxKiYsXF) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 3:00 |
 | 50 | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Dustland \(feat\. Bruce Springsteen\)](https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG) | 4:24 |
 
-Snapshot ID: `Z0unAAAAAADvtUU2Rdv7kcmIINKUhilT`
+Snapshot ID: `Z0z4gAAAAABS+M++yLK8YksX6Sm8Mpwt`

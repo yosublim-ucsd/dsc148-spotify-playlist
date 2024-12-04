@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,756 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,814 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 27 | [The Zephyr Song](https://open.spotify.com/track/1ndGB6rvxKYN9seCYO1dTF) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way \(Deluxe Edition\)](https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1) | 3:51 |
 | 28 | [True Colors](https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [True Colors](https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn) | 3:47 |
 | 29 | [Don't Panic](https://open.spotify.com/track/2QhURnm7mQDxBb5jWkbDug) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 2:16 |
-| 30 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
-| 31 | [Count on Me](https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:17 |
+| 30 | [Count on Me](https://open.spotify.com/track/3B5UbSndRz907IZhhmUfLi) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:17 |
+| 31 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
 | 32 | [Firework](https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 |
 | 33 | [Redemption Song](https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:53 |
 | 34 | [Fiesta Pagana](https://open.spotify.com/track/02dphTJYUQ9pmdNC52iyOz) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Finisterra](https://open.spotify.com/album/3Eubo97y5NcXWz7PsCzHIT) | 4:56 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 70 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 |
 | 71 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 |
 | 72 | [The Cave](https://open.spotify.com/track/33e9HtOfO1ye1h8xQ7Foc9) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7KkiEooAVT3EyqQMOl6Iah) | 3:35 |
-| 73 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
-| 74 | [Tubthumping](https://open.spotify.com/track/5rDsAMjmB4Qa5WNciJPsfK) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Playlist: 90s Pop](https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ) | 3:54 |
+| 73 | [Tubthumping](https://open.spotify.com/track/5rDsAMjmB4Qa5WNciJPsfK) | [Chumbawamba](https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz) | [Playlist: 90s Pop](https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ) | 3:54 |
+| 74 | [What A Wonderful World](https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt) | 2:17 |
 | 75 | [Let It Be \- Remastered](https://open.spotify.com/track/5V1AHQugSTASVez5ffJtFo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/2pCqZLeavM2BMovJXsJEIV) | 4:03 |
 | 76 | [Volare \(Nel Blu di Pinto di Blu\)](https://open.spotify.com/track/5QrHfu4q83HjcFcRi2WlS3) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Mosaïque](https://open.spotify.com/album/6ThFWRqxUKPCaxD5OwPXsC) | 3:38 |
 | 77 | [Spirits](https://open.spotify.com/track/0VhDlpezWuAgOnfOCx2fRv) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Spirits](https://open.spotify.com/album/6YObUrJfBLhs4f2vfRMzqD) | 3:23 |

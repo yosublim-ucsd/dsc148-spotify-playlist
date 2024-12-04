@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 243046,
+  "num_followers": 243277,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -491,18 +491,18 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
         }
       ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
       },
       "artists": [
         {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2024-10-25 13:48:40",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-10-25 13:48:40",
       "album": {
+        "name": "Cerulean",
+        "url": "https://open.spotify.com/album/3luRdv37JrEEOUYw8s9pA4"
+      },
+      "artists": [
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "duration_ms": 197407,
+      "name": "\u2665",
+      "url": "https://open.spotify.com/track/3PMyRSdnhCmXeP93bF89XG"
+    },
+    {
+      "added_at": "2024-10-25 13:48:40",
+      "album": {
         "name": "Ribbons",
         "url": "https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 497500,
       "name": "I Will Make Room for You - Four Tet Remix",
       "url": "https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt"
-    },
-    {
-      "added_at": "2024-10-25 13:48:40",
-      "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/0dfCsSXhtcdAyW7ODD4Aeu"
-      },
-      "artists": [
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
-        }
-      ],
-      "duration_ms": 389681,
-      "name": "Water Music",
-      "url": "https://open.spotify.com/track/6PN8bVP6kjAW6UwqileVWR"
     }
   ],
   "unique_name": "Electronica Romantica",

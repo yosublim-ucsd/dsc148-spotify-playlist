@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: LEMONY
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,936 likes - 55 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,939 likes - 55 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

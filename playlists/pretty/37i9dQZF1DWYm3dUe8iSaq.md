@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,644 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,673 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 43 | [My Baby](https://open.spotify.com/track/3IoknZ5v6SeuCiinT5j7MS) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [My Baby](https://open.spotify.com/album/34U5by0mD1zacluFdEmAoU) | 2:47 |
 | 44 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 | 45 | [to be seen](https://open.spotify.com/track/2cRShN9bomoLuFfeR7CaD0) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [to be seen](https://open.spotify.com/album/5JJnU438NU09ZVv4OuoYCQ) | 3:23 |
-| 46 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
+| 46 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 |
 | 47 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
-| 48 | [I'm Sorry](https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [I'm Sorry](https://open.spotify.com/album/6eKMNdKYc24OCTwHPT5M1L) | 3:04 |
+| 48 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
 | 49 | [Never Give Up](https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Never Give Up](https://open.spotify.com/album/3ABfTrmpeMpvxEJ88A8bEj) | 3:11 |
 | 50 | [I See It Now](https://open.spotify.com/track/7hZjNFPZsglEWpy87XxMXE) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Songs From A Thousand Frames Of Mind](https://open.spotify.com/album/0D0cJqtudEFf6rpe3RJsgS) | 3:27 |
 | 51 | [Mansion](https://open.spotify.com/track/0dPrl278qhdSTxnIy4qsB3) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 3:31 |
 | 52 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 |
 | 53 | [Porcupine Tattoo](https://open.spotify.com/track/68A5pJVydyEjMXMMxzGsyU) | [Everything Is Recorded](https://open.spotify.com/artist/0JYlkNmu76Wu1DgvWNWq7X), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Porcupine Tattoo](https://open.spotify.com/album/7yHTcBmhMU0hRmoFQIDVOf) | 3:26 |
 | 54 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
-| 55 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
-| 56 | [Prayers](https://open.spotify.com/track/2dHZ2wCSMl6gTb4EcKFWHh) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Prayers](https://open.spotify.com/album/7ymmZFjZQ0It3rTophhwuh) | 3:08 |
+| 55 | [Prayers](https://open.spotify.com/track/2dHZ2wCSMl6gTb4EcKFWHh) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Prayers](https://open.spotify.com/album/7ymmZFjZQ0It3rTophhwuh) | 3:08 |
+| 56 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 57 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 | 58 | [Child of Mine](https://open.spotify.com/track/2CShJyrf1JMBYdVBhjuTle) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Child of Mine](https://open.spotify.com/album/0nWkIJZCHME0A12B5qyuYG) | 4:12 |
 | 59 | [Losing You](https://open.spotify.com/track/68LvDxBvNPKsWmbQ8VNkCe) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Losing You](https://open.spotify.com/album/59w7Rg3eP50OaWrVf1UTnP) | 3:35 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 75 | [Canada](https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [Canada](https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV) | 3:10 |
 | 76 | [Tumblin Down](https://open.spotify.com/track/48UCmZuBo7WJLGWAAEYIg2) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Keep Me on Your Mind/See You Free](https://open.spotify.com/album/1Z22z4kTZuFWTMMA7K9N9B) | 3:29 |
 | 77 | [Ocean Breeze](https://open.spotify.com/track/6dAJrQ7NfsKHayPci16l0j) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Ocean Breeze](https://open.spotify.com/album/2brAsWtoiQQosqcPUsNtgs) | 2:29 |
-| 78 | [Love You So](https://open.spotify.com/track/1CBeJZjm49VMbbgBR2lH2O) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq), [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [Love You So](https://open.spotify.com/album/41lHK0vbDNXHAHTKDt9fcl) | 3:22 |
-| 79 | [THE CITY NEVER SLEEPS](https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [THE CITY NEVER SLEEPS](https://open.spotify.com/album/23moFrYISKXivaLiNPT8ai) | 4:10 |
+| 78 | [THE CITY NEVER SLEEPS](https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [THE CITY NEVER SLEEPS](https://open.spotify.com/album/23moFrYISKXivaLiNPT8ai) | 4:10 |
+| 79 | [Love You So](https://open.spotify.com/track/1CBeJZjm49VMbbgBR2lH2O) | [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq), [Rin](https://open.spotify.com/artist/4gSWoSxfOZf7EeuhqlDksA) | [Love You So](https://open.spotify.com/album/41lHK0vbDNXHAHTKDt9fcl) | 3:22 |
 | 80 | [Blame The Moon](https://open.spotify.com/track/5Fg3lWZoVA0XOgLZpjNWW4) | [Alice Shone](https://open.spotify.com/artist/38DN9grOW9tijIsqD7ifGQ) | [Blame The Moon](https://open.spotify.com/album/4Efec8NPLJPMIDGZohypx2) | 2:43 |
 
 Snapshot ID: `Z0iFbwAAAAB5fTkGte0bOyhNu0hoOmtR`

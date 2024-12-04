@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 > This is Muddy Waters\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,965 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,969 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 32 | [Baby Please Don't Go \- Live](https://open.spotify.com/track/0qjCCEKR7Ct3hshyCES99R) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Live At The Checkerboard Lounge](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW) | 11:00 |
 | 33 | [My Babe](https://open.spotify.com/track/0YCj5u72nxNMLdvDQcUdZr) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 3:56 |
 | 34 | [Mad Love \(I Want You To Love Me\) \- Single Version](https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 3:03 |
-| 35 | [The Red Rooster](https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 7:25 |
-| 36 | [Mean Old Frisco Blues](https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx) | 3:45 |
+| 35 | [Mean Old Frisco Blues](https://open.spotify.com/track/47yBPZ5GEDld4CMlsyudCV) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/1jIhZkSMTuyqxbCucVCwyx) | 3:45 |
+| 36 | [The Red Rooster](https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 7:25 |
 | 37 | [Can't Get No Grindin' \(What's The Matter With The Meal\)](https://open.spotify.com/track/3AKs9gBENThKxpSPAGEWgA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Can't Get No Grindin'](https://open.spotify.com/album/4lpsTbPd0zSyBewg5cPfwZ) | 2:46 |
 | 38 | [She Moves Me](https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:57 |
 | 39 | [Train Fare Home \- Paris, 4 Novembre 1968 \(Restauración 2023\)](https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Muddy Waters Blues Band Live Paris 1968 \(Restauración 2023\)](https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 49 | [Who Do You Love](https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:14 |
 | 50 | [I Want to Be Loved \#2](https://open.spotify.com/track/5Q5GJBCmWJo7z7K8g223K1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hard Again](https://open.spotify.com/album/11pwCi0JWNahMuu9ViIx3Q) | 2:21 |
 
-Snapshot ID: `Z0unAAAAAABW/j4vYbq1KzRSjULO5Tw1`
+Snapshot ID: `Z0z4gAAAAABIaoCJ1sXHA7NcxjdpNtMc`

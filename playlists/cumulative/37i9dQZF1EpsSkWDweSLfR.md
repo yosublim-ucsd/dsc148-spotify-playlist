@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-173 songs - 10 hr 7 min
+174 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Play With Me](https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif) | [Pagaehun](https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7), [KKANBYEONGZ](https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt) | [Play With Me](https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd) | 2:49 | 2024-06-27 | 2024-07-01 |
 | [Please Please Please](https://open.spotify.com/track/2tHwzyyOLoWSFqYNjeVMzj) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:06 | 2024-09-07 | 2024-10-02 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-24 | 2024-09-08 |
-| [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 | 2024-11-21 |  |
+| [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 | 2024-11-21 | 2024-12-04 |
 | [Rare](https://open.spotify.com/track/33iba4j2ywXqTQNEpGbfra) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 3:40 | 2024-11-15 | 2024-11-22 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-07-06 | 2024-07-10 |
 | [Renegade](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 | 2024-09-23 |  |
@@ -142,6 +142,7 @@
 | [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 | 2024-09-03 | 2024-09-24 |
 | [So High School](https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:48 | 2024-06-24 |  |
 | [So Long, London](https://open.spotify.com/track/7wAkQFShJ27V8362MqevQr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:22 | 2024-06-24 | 2024-10-02 |
+| [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 | 2024-12-03 |  |
 | [stacy's brother](https://open.spotify.com/track/7aTXnk6qGF8d4pZ51zDcaQ) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [stacy's brother](https://open.spotify.com/album/3T3XGndYk7rJWwYJZLvS68) | 3:02 | 2024-06-24 | 2024-06-28 |
 | [Stoned \- Bonus Track](https://open.spotify.com/track/5M12X6gQDoMMqqlRDg5Bfo) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:17 | 2024-10-04 | 2024-10-08 |
 | [Stupid \(Can’t run from the urge\)](https://open.spotify.com/track/51vRYl0OqozBFkhBzAPzKI) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket \(Director's Cut\)](https://open.spotify.com/album/4gfPAEkUvCJJikyRW9GoSy) | 3:04 | 2024-09-23 |  |

@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 402896,
       "name": "Amabhoza",
       "url": "https://open.spotify.com/track/3Aw4XtR8BopVdvJ1dGnevM"
@@ -5022,7 +5022,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -11628,7 +11628,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 407804,
       "name": "Ebasini (feat. Tman Xpress, Visca, Ceeka RSA, Sjavasdadeejayj & Al Xapo)",
       "url": "https://open.spotify.com/track/3E1PwVodPiDbBHOI85CO9M"
@@ -16474,7 +16474,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 217478,
       "name": "hey now (feat. dody6)",
       "url": "https://open.spotify.com/track/5S8VwnB4sLi6W0lYTWYylu"
@@ -18562,7 +18562,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 351200,
       "name": "Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush)",
       "url": "https://open.spotify.com/track/6Kijtp0DB6VwcoJIw7PJ9W"
@@ -20338,7 +20338,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 395044,
       "name": "Iza Mawala (feat. Dladla Mshunqisi & Goldmax)",
       "url": "https://open.spotify.com/track/0Xc5lXQ1Q1NxGyL7SSXnF9"
@@ -23676,7 +23676,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 249093,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
@@ -23694,7 +23694,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 249120,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/7GaFYUqP2WdR4KTPk7cXoP"
@@ -28788,7 +28788,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 383425,
       "name": "Ngathi Nguye",
       "url": "https://open.spotify.com/track/3bqCtq5RcPzULlyqkFGVJ7"
@@ -37522,7 +37522,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 201800,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
@@ -41372,7 +41372,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 351428,
       "name": "Thola Umuntu",
       "url": "https://open.spotify.com/track/1z9cFQp5CGOAsACK2IWzCG"
@@ -41698,7 +41698,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -45341,6 +45341,28 @@
     },
     {
       "album": {
+        "name": "Vuma Dlozi Lami (feat. Ancestral Rituals)",
+        "url": "https://open.spotify.com/album/5tM3THh1UUzsUiULDPHv0k"
+      },
+      "artists": [
+        {
+          "name": "Issa sisdoh",
+          "url": "https://open.spotify.com/artist/1ccVv6sg5vGPpJ77qAt6yI"
+        },
+        {
+          "name": "Ancestral Rituals",
+          "url": "https://open.spotify.com/artist/00GORbFeDmlAUD96S9joup"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380238,
+      "name": "Vuma Dlozi Lami (feat. Ancestral Rituals)",
+      "url": "https://open.spotify.com/track/0DGP0pRR8yz4OW2xxjIskt"
+    },
+    {
+      "album": {
         "name": "Kurhula",
         "url": "https://open.spotify.com/album/13msT9b5VOsDENyqMX7V1c"
       },
@@ -45396,7 +45418,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 317092,
       "name": "wacced out murals",
       "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
@@ -47192,7 +47214,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

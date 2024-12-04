@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que los temazos no paren.",
-  "num_followers": 132702,
+  "num_followers": 132709,
   "original_name": "Enganchados: Latinos",
   "owner": {
     "name": "Spotify",
@@ -323,18 +323,18 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "Prometo",
+        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 253760,
+      "name": "Saturno",
+      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Prometo",
-        "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Saturno",
-      "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "Des/Amor",
+        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 204173,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "Donde Estan Los Ladrones",
         "url": "https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 194742,
       "name": "Robarte un Beso",
       "url": "https://open.spotify.com/track/0JcNysfWVWaMS7R6vzGB2k"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "Des/Amor",
-        "url": "https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 204173,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/0lPXFrKyl8HkdQ2E6NmNja"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
-        "name": "Tierna La Noche",
-        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Az\u00facar Amargo",
-      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
         "name": "M\u00e1s + Coraz\u00f3n Profundo",
         "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 278626,
       "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
+        "name": "Tierna La Noche",
+        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
     },
     {
       "added_at": "2024-06-12 22:54:20",
@@ -1419,6 +1419,26 @@
     {
       "added_at": "2024-06-12 22:54:20",
       "album": {
+        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
+        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 234985,
+      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
+      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2024-06-12 22:54:20",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2024-06-12 22:54:20",
-      "album": {
-        "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
-        "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 234985,
-      "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
-      "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
     },
     {
       "added_at": "2024-06-12 22:54:20",

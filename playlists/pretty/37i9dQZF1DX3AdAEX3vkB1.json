@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 273832,
+  "num_followers": 273926,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "Surrealistic Pillow",
@@ -263,6 +247,22 @@
       "duration_ms": 174840,
       "name": "Somebody to Love",
       "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -379,34 +379,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Ring Of Fire: The Best Of Johnny Cash",
-        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 158426,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -439,6 +423,22 @@
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Please Mr. Postman",
-        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 148040,
-      "name": "Please Mr. Postman - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Please Mr. Postman",
+        "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 148040,
+      "name": "Please Mr. Postman - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Spirit Of America",
-        "url": "https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 133893,
-      "name": "Barbara Ann",
-      "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Come A Little Bit Closer: The Best Of Jay & The Americans",
         "url": "https://open.spotify.com/album/0LMJo3p9QqRjaap3qvlTY6"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 166666,
       "name": "Come A Little Bit Closer",
       "url": "https://open.spotify.com/track/252YuUdUaC5OojaBU0H1CP"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Spirit Of America",
+        "url": "https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 133893,
+      "name": "Barbara Ann",
+      "url": "https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The House of the Rising Sun: Best of The Animals",
         "url": "https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 269906,
       "name": "The House of the Rising Sun",
       "url": "https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "It's Our Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
@@ -1027,18 +1007,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
       "artists": [
         {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
         }
       ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1119,6 +1103,22 @@
       "duration_ms": 138546,
       "name": "Hello Mary Lou, Goodbye Heart - Remastered",
       "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Tina!",
-        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "River Deep - Mountain High",
-      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "At Abbey Road",
         "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 114986,
       "name": "How Do You Do It? - Mono",
       "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Tina!",
+        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "River Deep - Mountain High",
+      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Along Came Tom Jones",
+        "url": "https://open.spotify.com/album/4qhk3MMtFC8V29bUn9GB5g"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 119800,
+      "name": "It's Not Unusual",
+      "url": "https://open.spotify.com/track/67csrS6po7IyXfwds4azjr"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Twist & Shout",
         "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 173973,
       "name": "Gimme Some Lovin' - Single Mix",
       "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Along Came Tom Jones",
-        "url": "https://open.spotify.com/album/4qhk3MMtFC8V29bUn9GB5g"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 119800,
-      "name": "It's Not Unusual",
-      "url": "https://open.spotify.com/track/67csrS6po7IyXfwds4azjr"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2127,6 +2127,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "I'm A Man / I Can't Get Enough Of It",
+        "url": "https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 106066,
       "name": "The Hippy Hippy Shake",
       "url": "https://open.spotify.com/track/3CQRcM0crUAiZUf1n51ecD"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "I'm A Man / I Can't Get Enough Of It",
-        "url": "https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "With The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 127853,
-      "name": "All My Loving - Remastered",
-      "url": "https://open.spotify.com/track/7cPPyMrSAQY7A686Cn9eUP"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Please Please Me (Remastered)",
         "url": "https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered",
       "url": "https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "With The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/3nkEsxmIX0zRNXGAexaHAn"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 127853,
+      "name": "All My Loving - Remastered",
+      "url": "https://open.spotify.com/track/7cPPyMrSAQY7A686Cn9eUP"
     },
     {
       "added_at": "2022-06-16 22:02:00",

@@ -4,7 +4,7 @@
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-242 songs - 14 hr 17 min
+243 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Homebody](https://open.spotify.com/track/608tsLkHT3wD4VOjvby5ru) | [Authentic](https://open.spotify.com/artist/5HK3BrKsgLVa3XYwPKwfu8), [Bassagong](https://open.spotify.com/artist/7j1lNIjZY1E1drWIgJloMs) | [CLICHE](https://open.spotify.com/album/64ecQuiMbt2TrdvxcwHoGZ) | 3:15 | 2022-06-03 | 2022-07-20 |
 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 | 2023-01-03 |  |
 | [HUG 2021 \(feat\. Im Soo\)](https://open.spotify.com/track/4TRMjJKY9OLJGzacgBbaY4) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [Im Soo](https://open.spotify.com/artist/6fprh9M0YJWsTYBlvbfcwn) | [MANTA BIPOLAR, Pt\. 2](https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd) | 2:07 | 2022-06-03 | 2022-07-24 |
+| [I don't wanna be your hero](https://open.spotify.com/track/0cgMaaaOwqcpkPhknIOQcr) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [I don't wanna be your hero](https://open.spotify.com/album/2SJ4aGleIw90KGxk0ymaw9) | 2:40 | 2024-11-29 |  |
 | [I Hated Myself \(Tablo's Word\)](https://open.spotify.com/track/0I7O7S20w94zngDmDQolW1) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:15 | 2022-06-03 | 2024-07-03 |
 | [I Love You](https://open.spotify.com/track/3GsK0adohjQ5XTShGXSK42) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Upgrade Ⅳ](https://open.spotify.com/album/2yljIHgtOZCQJMJOXQZjQd) | 2:32 | 2022-06-03 | 2022-07-21 |
 | [I said it](https://open.spotify.com/track/4Eix5hlLVmeti1vDCDqmIG) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [GENERATION](https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b) | 3:09 | 2022-05-23 | 2024-07-03 |
@@ -228,7 +229,7 @@
 | [When it rains](https://open.spotify.com/track/4r5VubfzbqVjQHgbgthqAU) | [CHOILB](https://open.spotify.com/artist/02WoRfOhF5nUVpwddshInq), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Show Me the Money 8 Episode 4](https://open.spotify.com/album/1BfyVADByjeX8o6eI1u5Et) | 3:34 | 2022-05-23 | 2022-07-23 |
 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 | 2022-05-23 | 2024-07-03 |
 | [Why](https://open.spotify.com/track/6gGtT4dIKt57gPubAGr9nY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Why](https://open.spotify.com/album/04Z11tnMnSDnbXYHyxid5w) | 3:28 | 2024-07-02 |  |
-| [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 | 2024-07-02 |  |
+| [Why \(Feat\. Hoody\)](https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82) | [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby), [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Why \(Feat\. Hoody\)](https://open.spotify.com/album/00nRSfDSImQs5Y3K0xDO8s) | 2:20 | 2024-07-02 | 2024-12-04 |
 | [Wifey](https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Wifey](https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0) | 2:04 | 2024-07-02 |  |
 | [winter night \(Feat\. DUT2\)](https://open.spotify.com/track/6gIFRFKWuwF0J8maUzh54d) | [Polodared](https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Polodared](https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR) | 2:11 | 2022-05-23 | 2024-04-23 |
 | [wish](https://open.spotify.com/track/1i8Gii2k5VTJqf8UNEve9U) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/3eX0C672y1Y2HQTotIGU8V) | 3:41 | 2022-05-23 | 2022-07-26 |

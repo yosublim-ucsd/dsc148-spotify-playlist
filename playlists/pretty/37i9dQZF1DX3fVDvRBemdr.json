@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollandse hits. Cover: Donnie, Robert van Hemert & Trobi",
-  "num_followers": 149199,
+  "num_followers": 149204,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z03TYwAAAAC3PYIrlHVcu7NGcoZri/71",
+  "snapshot_id": "Z09g3gAAAAC/BpaaawAddT9wZ2WQ4cUo",
   "tracks": [
     {
       "added_at": "2024-11-29 08:17:45",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-11-29 08:17:45",
       "album": {
+        "name": "Samen Niet Alleen",
+        "url": "https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n"
+      },
+      "artists": [
+        {
+          "name": "Gerrit Schneider",
+          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
+        }
+      ],
+      "duration_ms": 170156,
+      "name": "Samen Niet Alleen",
+      "url": "https://open.spotify.com/track/3Vj4WiGxHyArjjxQRLqBZd"
+    },
+    {
+      "added_at": "2024-11-29 08:17:45",
+      "album": {
         "name": "Bedrogen",
         "url": "https://open.spotify.com/album/0aV71TqJlCyBEa1ryYKitJ"
       },
@@ -243,6 +259,22 @@
     {
       "added_at": "2024-11-29 08:17:45",
       "album": {
+        "name": "Gipsy",
+        "url": "https://open.spotify.com/album/35qNQKTgoI2RzPJV29PoMb"
+      },
+      "artists": [
+        {
+          "name": "Robert Pater",
+          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+        }
+      ],
+      "duration_ms": 208263,
+      "name": "Gipsy",
+      "url": "https://open.spotify.com/track/2VKz7PoOPT8bFmcA80vbZe"
+    },
+    {
+      "added_at": "2024-11-29 08:17:45",
+      "album": {
         "name": "Voor Altijd In Ons Hart",
         "url": "https://open.spotify.com/album/1oYeVuKHYEargOpCPTuZFu"
       },
@@ -259,18 +291,34 @@
     {
       "added_at": "2024-11-29 08:17:45",
       "album": {
-        "name": "Gipsy",
-        "url": "https://open.spotify.com/album/35qNQKTgoI2RzPJV29PoMb"
+        "name": "Tot In De Laatste Uurtjes",
+        "url": "https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD"
       },
       "artists": [
         {
-          "name": "Robert Pater",
-          "url": "https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd"
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
         }
       ],
-      "duration_ms": 208263,
-      "name": "Gipsy",
-      "url": "https://open.spotify.com/track/2VKz7PoOPT8bFmcA80vbZe"
+      "duration_ms": 168814,
+      "name": "Tot In De Laatste Uurtjes",
+      "url": "https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb"
+    },
+    {
+      "added_at": "2024-11-29 08:17:45",
+      "album": {
+        "name": "Giga Giga Winter",
+        "url": "https://open.spotify.com/album/3HqDAi4tba3BwAPMmOYqc1"
+      },
+      "artists": [
+        {
+          "name": "Rob Zorn",
+          "url": "https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8"
+        }
+      ],
+      "duration_ms": 197335,
+      "name": "Giga Giga Winter",
+      "url": "https://open.spotify.com/track/5gpzDfWSrpnGPP8rN9G43t"
     },
     {
       "added_at": "2024-11-29 08:17:45",
@@ -323,22 +371,6 @@
       "duration_ms": 155724,
       "name": "Echte Liefde",
       "url": "https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2"
-    },
-    {
-      "added_at": "2024-11-29 08:17:45",
-      "album": {
-        "name": "Tot In De Laatste Uurtjes",
-        "url": "https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 168814,
-      "name": "Tot In De Laatste Uurtjes",
-      "url": "https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb"
     },
     {
       "added_at": "2024-11-29 08:17:45",
@@ -407,22 +439,6 @@
     {
       "added_at": "2024-11-29 08:17:45",
       "album": {
-        "name": "Giga Giga Winter",
-        "url": "https://open.spotify.com/album/3HqDAi4tba3BwAPMmOYqc1"
-      },
-      "artists": [
-        {
-          "name": "Rob Zorn",
-          "url": "https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8"
-        }
-      ],
-      "duration_ms": 197335,
-      "name": "Giga Giga Winter",
-      "url": "https://open.spotify.com/track/5gpzDfWSrpnGPP8rN9G43t"
-    },
-    {
-      "added_at": "2024-11-29 08:17:45",
-      "album": {
         "name": "Aan Van Jou",
         "url": "https://open.spotify.com/album/2E4bDW6YmSI0ti9LQAxTir"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 193694,
       "name": "Alleen Met Jou",
       "url": "https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd"
-    },
-    {
-      "added_at": "2024-11-29 08:17:45",
-      "album": {
-        "name": "Samen Niet Alleen",
-        "url": "https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n"
-      },
-      "artists": [
-        {
-          "name": "Gerrit Schneider",
-          "url": "https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u"
-        }
-      ],
-      "duration_ms": 170156,
-      "name": "Samen Niet Alleen",
-      "url": "https://open.spotify.com/track/3Vj4WiGxHyArjjxQRLqBZd"
     },
     {
       "added_at": "2024-11-29 08:17:45",

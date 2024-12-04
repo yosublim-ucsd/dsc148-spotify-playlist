@@ -1,12 +1,12 @@
 {
   "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 554325,
+  "num_followers": 554741,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAAV+4MFeEgpH0/8oqRGQ9P7",
+  "snapshot_id": "Z0z4gAAAAAC5/BLvQQPpZLsVK2Vf0Vxs",
   "tracks": [
     {
       "added_at": null,
@@ -183,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolido Pero No Arrepentido",
-        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
       },
       "artists": [
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        },
         {
           "name": "Fuerza Regida",
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 169587,
-      "name": "Brillarosa",
-      "url": "https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK"
+      "duration_ms": 178079,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
     },
     {
       "added_at": null,
@@ -219,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
+        "name": "Dolido Pero No Arrepentido",
+        "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
       "artists": [
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        },
         {
           "name": "Fuerza Regida",
           "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 178079,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
+      "duration_ms": 169587,
+      "name": "Brillarosa",
+      "url": "https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK"
     },
     {
       "added_at": null,

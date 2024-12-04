@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,325 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,741 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 7 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
 | 8 | [Cholo 7](https://open.spotify.com/track/06ONHS2cu9I7fvzTz3NQvq) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cholo 7](https://open.spotify.com/album/2DqUzBO8R3Aw4q26PDjV1t) | 2:37 |
 | 9 | [FRESITA](https://open.spotify.com/track/4kB3A1XfiN2Sb4gleEyI7X) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [FRESITA](https://open.spotify.com/album/2OgjZsEsqgnD0JjjyKMQ9Z) | 2:22 |
-| 10 | [Brillarosa](https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:49 |
+| 10 | [ROSONES](https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ROSONES](https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen) | 2:58 |
 | 11 | [UNA CERVEZA](https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 4:39 |
-| 12 | [ROSONES](https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ROSONES](https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen) | 2:58 |
+| 12 | [Brillarosa](https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dolido Pero No Arrepentido](https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv) | 2:49 |
 | 13 | [Fresas Con Crema](https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 2:20 |
 | 14 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
 | 15 | [INMORTAL](https://open.spotify.com/track/3BssiKHkHy0zXZCj1T8TcJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Chuyin](https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [Sonrisa Colgate](https://open.spotify.com/track/1zlbnoJE5NabN9STMIYmf1) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:25 |
 | 50 | [VALERIA \(feat\. Gordo\)](https://open.spotify.com/track/09igpKXUHJFwwJqqTuCvva) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [PERO NO TE ENAMORES](https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv) | 2:34 |
 
-Snapshot ID: `Z0unAAAAAAAV+4MFeEgpH0/8oqRGQ9P7`
+Snapshot ID: `Z0z4gAAAAAC5/BLvQQPpZLsVK2Vf0Vxs`

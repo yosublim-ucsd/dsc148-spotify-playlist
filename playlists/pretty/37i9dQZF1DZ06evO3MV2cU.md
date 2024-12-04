@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,956 likes - 51 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,962 likes - 51 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 50 | [Precious Love \- Live](https://open.spotify.com/track/1sWYM9HHpUX0UMTUETzLMH) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Sing! The Great Commission \- World Tour \(Live\)](https://open.spotify.com/album/1WsOwc3ZE7MvMzube1cPyF) | 5:02 |
 | 51 | [Give Us Clean Hands \- Pour Over Me Album Version](https://open.spotify.com/track/2jjyMzq3pvknVSBeSzjck6) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Pour Over Me \- Worship Together Live 2001](https://open.spotify.com/album/154cvVNb9uaBEqztlz6rmv) | 5:38 |
 
-Snapshot ID: `Z0unAAAAAACECHh86wHPBujnV6iOJtyE`
+Snapshot ID: `Z0z4gAAAAAALR/Sz3an/H3RDQTJG0Uua`

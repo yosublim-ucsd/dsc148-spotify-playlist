@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 
 > ElGrandeToto f l'cover dyal akbar playlist dial rap f l'maghrib.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,373 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,481 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 3 | [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 |
 | 4 | [Lmanetta Khassra](https://open.spotify.com/track/0yfGPJsmXJRojgzN4Nu0PZ) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lmanetta Khassra](https://open.spotify.com/album/0q8bOqBqaQxf8Q6sAHY53N) | 3:34 |
 | 5 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 |
-| 6 | [5E ARRONDISSEMENT](https://open.spotify.com/track/4SuqeO3dyNKT9plI4hdxvJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 |
+| 6 | [HACHICH/TOSEINA](https://open.spotify.com/track/5m441qiFI5yqfzG19ZLqIJ) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 3:07 |
 | 7 | [Papiers](https://open.spotify.com/track/5wlHxud11fPNBjYMMppCAY) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 2:44 |
 | 8 | [W](https://open.spotify.com/track/3WyQmaqMKBHYWLxyFzvbBV) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [W](https://open.spotify.com/album/0Gyj8PmPy4cD2fg0vYuf43) | 2:47 |
 | 9 | [Metapsy](https://open.spotify.com/track/3fgiLAfOwmf99Nz1ym2Udo) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 1:53 |
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 15 | [NDAM!](https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [NDAM!](https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m) | 3:23 |
 | 16 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
 | 17 | [6AM](https://open.spotify.com/track/5UguZtOGnt018aCSqIMCIZ) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [6AM](https://open.spotify.com/album/6Asibeu54ypcwXGygbDziA) | 3:05 |
-| 18 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 |
-| 19 | [LA ZONE MAHKOMA](https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [LA ZONE MAHKOMA](https://open.spotify.com/album/3cep6IegTMEPCtnhhzf5T2) | 4:05 |
-| 20 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 |
+| 18 | [LA ZONE MAHKOMA](https://open.spotify.com/track/73fwmnYlCC3fF9CzEXgtFi) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [LA ZONE MAHKOMA](https://open.spotify.com/album/3cep6IegTMEPCtnhhzf5T2) | 4:05 |
+| 19 | [Lalla w Mali](https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Lalla w Mali](https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl) | 2:56 |
+| 20 | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/0wKhdPK4fHXRnOskjvgWqe) | [SKY](https://open.spotify.com/artist/5yviYTy79A8vuWF8iR6nPS), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Fi Derbi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/51tY4pBj3dgPwBGdgioUQp) | 3:03 |
 | 21 | [3DABI](https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r) | 3:22 |
 | 22 | [CHIRON](https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD) | [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [CHIRON](https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW) | 2:29 |
 | 23 | [Docteur \- Spotify Singles](https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [Docteur \(Spotify Singles\)](https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtEjm4ihp5w.md) - [plain]
 | 49 | [Vvs](https://open.spotify.com/track/0SUlLkixUcXSZeYaCatnZP) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 3:44 |
 | 50 | [Lewandoski](https://open.spotify.com/track/5MVAnYGimyRpWDkTD6qvRB) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [2x1](https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp) | 3:29 |
 
-Snapshot ID: `Z02O8wAAAAC5xp7HumPo78Nx3+KUAQIV`
+Snapshot ID: `Z08bHgAAAADolSmWaitL73UUnQlcwiF2`

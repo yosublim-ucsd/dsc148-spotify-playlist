@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "I don't wanna be your hero",
+        "url": "https://open.spotify.com/album/2SJ4aGleIw90KGxk0ymaw9"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "I don't wanna be your hero",
+      "url": "https://open.spotify.com/track/0cgMaaaOwqcpkPhknIOQcr"
+    },
+    {
+      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -4820,7 +4838,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 140866,
       "name": "Why (Feat. Hoody)",
       "url": "https://open.spotify.com/track/0cIEQ9hmlk2qJFvjZGgS82"

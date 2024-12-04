@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 
 > Classic soft rock for a nice and easy drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,460 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,553 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 53 | [I Was Only Joking](https://open.spotify.com/track/6tUkfUpdIx14aSoKkTxrfa) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Foot Loose & Fancy Free](https://open.spotify.com/album/5WphcZoWlcSvc1ljahqYYg) | 6:07 |
 | 54 | [Smoke from a Distant Fire](https://open.spotify.com/track/62obgbkuUt75nDIiIcLI4T) | [Sanford Townsend Band](https://open.spotify.com/artist/2PblGVYNdrem5ODxxMNhr0) | [Smoke From A Distant Fire](https://open.spotify.com/album/6vUFJM8PgHDhmzTyAzN2PX) | 3:33 |
 | 55 | [Saturday in the Park](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 3:55 |
-| 56 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
-| 57 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 |
+| 56 | [Moonlight Feels Right](https://open.spotify.com/track/7sfMjwBcAatrNH46rn1YsK) | [Starbuck](https://open.spotify.com/artist/0P8YAnEwTGZBkm0IudCZxl) | [Moonlight Feels Right](https://open.spotify.com/album/1ZFb2LKJVptVwrqdXSpVj9) | 3:41 |
+| 57 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
 | 58 | [Any Day Now](https://open.spotify.com/track/30upl1YT1suEgSDpIopSky) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Inside](https://open.spotify.com/album/0fwjRFRzp9GeNSBpRzkiOs) | 3:42 |
 | 59 | [Fool \(If You Think It's Over\)](https://open.spotify.com/track/0UHiH4dy1hXULYl8CgNxRV) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Whatever Happened to Benny Santini](https://open.spotify.com/album/2A2QeagYGmPHhuavSFQXnL) | 4:44 |
 | 60 | [Midnight at the Oasis](https://open.spotify.com/track/5VBcEJ4mtXTmVEJtc7hx2g) | [Maria Muldaur](https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT) | [Maria Muldaur](https://open.spotify.com/album/63Yg3UQS5VcHutEskCmFPC) | 3:49 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TIU4D13lOY.md) - [plain]
 | 71 | [Feel You Now](https://open.spotify.com/track/4DvepM4TNDah4107ZPVHP6) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [The Autumn Defense](https://open.spotify.com/album/3FFHH9ui7Hoit4dBEFdMyc) | 4:33 |
 | 72 | [Hey Nineteen](https://open.spotify.com/track/1tjK9HhmpEfk0ijyIKsoUk) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Gaucho](https://open.spotify.com/album/5fIBtKHWGjbjK9C4i1Z11L) | 5:07 |
 | 73 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 |
-| 74 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 |
-| 75 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
+| 74 | [How Long](https://open.spotify.com/track/4AjKVyNUMdUveKK5OH1OJD) | [Ace](https://open.spotify.com/artist/6QNkSI0c63lCTNXpHDBiqP) | [Five\-A\-Side](https://open.spotify.com/album/5hC1ciYNtewV8gncsKHt1F) | 3:24 |
+| 75 | [Reminiscing \- Remastered](https://open.spotify.com/track/34D6mvDTAPypm92EPs8Rxa) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Sleeper Catcher \(Remastered\)](https://open.spotify.com/album/362Gq4moTnxkud6hQEKsm1) | 4:13 |
 | 76 | [Alone Again \(Naturally\)](https://open.spotify.com/track/6vuEG9sZtC4W2zT64f7zLF) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Back to Front](https://open.spotify.com/album/1INjTJtV8EwpUZF2xgwvAt) | 3:36 |
 | 77 | [Little Jeannie](https://open.spotify.com/track/7pgAdesi3gGZO8lAyzOTvu) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6di4cgOMxTkS0tUx5l07WW) | 5:17 |
 | 78 | [Sometimes When We Touch](https://open.spotify.com/track/2hw2fDtNPkIowTNuQRmlnN) | [Dan Hill](https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa) | [Longer Fuse](https://open.spotify.com/album/68kM51V7P3ys10rx3RDFnH) | 4:12 |

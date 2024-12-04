@@ -4,7 +4,7 @@
 
 > 
 
-815 songs - 1 day 15 hr 12 min
+820 songs - 1 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Drop A Gem On 'Em](https://open.spotify.com/track/4gXFUhyu4fzOgmV28BiJ9s) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 4:17 | 2024-05-23 | 2024-11-06 |
 | [drugs\_over\_love](https://open.spotify.com/track/0Rp8IydDMk6iNIE3wV3ocb) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:59 | 2022-11-07 | 2023-04-24 |
 | [Dsco](https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:11 | 2024-04-30 | 2024-11-06 |
+| [DX](https://open.spotify.com/track/4UtpOsZxxFv1iSuTQ6RS0B) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Hardwood Classic](https://open.spotify.com/album/2SPrPcmFf9505xgGEp2h2k) | 1:45 | 2024-12-03 |  |
 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 | 2023-03-12 | 2024-11-06 |
 | [Eddie Cane](https://open.spotify.com/track/4ayIDD3cOVqsSLblJmmPP1) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Thinking Out Loud](https://open.spotify.com/album/3jNB3NFlcze1sc2BuK4Rlj) | 1:58 | 2024-05-02 | 2024-11-06 |
 | [El Libro](https://open.spotify.com/track/0lHk3B6BOt43VTHJuODZr8) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 2:48 | 2024-02-14 | 2024-11-06 |
@@ -291,6 +292,7 @@
 | [HANG](https://open.spotify.com/track/4E45XbyC1dn7D2cCzeuL9R) | [K Suave](https://open.spotify.com/artist/04a6mc5vUtj2pMzteToeH7), [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Hit Me When You Land](https://open.spotify.com/album/5AZFefxiP690Wn5RapyUQ3) | 2:37 | 2023-03-20 | 2023-05-09 |
 | [Hanukkahween 2](https://open.spotify.com/track/0PYTrLhiNlgOaEPDxbwx3j) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Blp Kosher And The Magic Dreidel](https://open.spotify.com/album/7KP3jfdAFSjRx1HEQkIyyY) | 2:06 | 2023-04-10 | 2024-03-05 |
 | [Hardcore](https://open.spotify.com/track/39xDX63yonTblgoHdTKLtI) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:04 | 2023-10-14 | 2024-03-05 |
+| [Hardly](https://open.spotify.com/track/7EtAE242kivzlxxOAL29bS) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Monster](https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q) | 2:37 | 2024-12-03 |  |
 | [Hardly Breathe](https://open.spotify.com/track/4DRVV7eHuS6NHpPREj1Ieu) | [GrindHard E](https://open.spotify.com/artist/5sVOZzPd1s6nCHb8jncqyF), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Professional Shit Talking](https://open.spotify.com/album/5NZNIulO1bXX1X3CCzvOsD) | 2:44 | 2023-09-20 | 2024-04-24 |
 | [Harlem Shake \(feat\. Young Thug\)](https://open.spotify.com/track/3cFHCXuBZKMJd8Q4Wt8RB3) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 2:28 | 2024-05-18 | 2024-11-06 |
 | [hat4hat](https://open.spotify.com/track/1DWFO7hrTW9TkSLHzyLeGA) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 2:12 | 2022-10-04 | 2023-05-09 |
@@ -479,6 +481,7 @@
 | [Never](https://open.spotify.com/track/0xX2DrW4nMot1KgwvW5ahh) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [ZaySkillz](https://open.spotify.com/artist/5JUrIP5DHSQXe9TF11fjzS), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 2:55 | 2022-07-17 | 2023-12-14 |
 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 | 2024-03-04 | 2024-04-24 |
 | [Never Forget](https://open.spotify.com/track/3haDFkQVqexHwwxVNU5BHh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Purple Reign](https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2) | 3:19 | 2022-12-19 | 2023-08-28 |
+| [Never Gon Lose](https://open.spotify.com/track/3XsiyMcsbIBazeYFb5SFxh) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [56 Nights](https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE) | 3:07 | 2024-12-03 |  |
 | [Never Hating \(feat\. Young Thug\)](https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:40 | 2023-12-15 | 2024-03-05 |
 | [NEVER LAST](https://open.spotify.com/track/7JKwHEhYWjEDiaAVqm0RZd) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:21 | 2024-11-05 |  |
 | [Never Stop](https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP) | [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Valedictorian](https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x) | 2:07 | 2024-06-25 |  |
@@ -532,6 +535,7 @@
 | [ONE WATCH \(feat\. Young Thug\)](https://open.spotify.com/track/60XGm1Hmyx7UliCAYjiCd8) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 3:55 | 2023-12-12 |  |
 | [One Way!](https://open.spotify.com/track/2659CRCrqaXCaYBMtKrdYi) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [One Way!](https://open.spotify.com/album/6hVJx6AudFaeCyHCECXHcy) | 2:46 | 2022-09-04 | 2023-04-12 |
 | [OnMyList](https://open.spotify.com/track/6AQzASAlkQfTGOuoGKpSEf) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [OnMyList](https://open.spotify.com/album/2Vpbvodjmuf7fRnfAnbUNA) | 1:57 | 2023-01-04 | 2023-05-09 |
+| [Oooooh \(feat\. Young Scooter\)](https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Scooter](https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes) | [Beast Mode](https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ) | 3:09 | 2024-12-03 |  |
 | [Opp Pack](https://open.spotify.com/track/2YMZx9eL86ydZ6QxhJcL4w) | [Homixide Osama](https://open.spotify.com/artist/7uFNW0nhoiL4DfaHnujzRi), [R5](https://open.spotify.com/artist/5aptPwTkTKmlPx6csmNJLA) | [Opp Pack](https://open.spotify.com/album/2kVUSMnybUMA4YU9SKk7W3) | 2:43 | 2024-09-13 |  |
 | [Optimistic](https://open.spotify.com/track/4DE6Wkt9fW7R5e9gJGWQim) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Kid A](https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp) | 5:15 | 2023-10-03 | 2024-04-24 |
 | [Options](https://open.spotify.com/track/4tDPPe3u8Y1dTkJZS7ko50) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Watch My Back](https://open.spotify.com/album/75HiFbi0CpCb81uWBPClyD) | 2:22 | 2022-09-01 | 2023-12-14 |
@@ -595,6 +599,7 @@
 | [Ready](https://open.spotify.com/track/0FIfh7eHZImE9PZMk1z6hS) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:48 | 2022-12-15 | 2023-12-14 |
 | [Real Lies](https://open.spotify.com/track/65uvHF5KJxU4KDew9rfAgg) | [ssgkobe archive](https://open.spotify.com/artist/4bHNpONPv4GHtlJUiTsR6F) | [Real Lies](https://open.spotify.com/album/7nvRnkU4lzMAViDO1Gx8K7) | 2:48 | 2022-08-26 | 2023-05-09 |
 | [Real Niggas Don't Rap](https://open.spotify.com/track/0r6uD6Ay1jonQHID1HVlyZ) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Unfuckwitable \(Deluxe Edition\)](https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6) | 2:53 | 2023-02-12 | 2023-04-12 |
+| [Real Sisters](https://open.spotify.com/track/5GhJq5J9ZWIEDZdyw7EWzt) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [DS2 \(Deluxe\)](https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl) | 2:53 | 2024-12-03 |  |
 | [Real Spill](https://open.spotify.com/track/4OkFBMU18NidtaefaTjUq1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 3:18 | 2022-10-14 | 2023-12-14 |
 | [Really Rich](https://open.spotify.com/track/1jV5VZj7T5ZhhB4gygT7w0) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 1:36 | 2022-07-28 |  |
 | [Recollections Of Fame!](https://open.spotify.com/track/5Ysp0AjJdsrEWVJ9dOJfOO) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 2:59 | 2023-01-20 | 2023-08-20 |

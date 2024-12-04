@@ -4,7 +4,7 @@
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-79 songs - 4 hr 37 min
+80 songs - 4 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Adiós \- En Vivo](https://open.spotify.com/track/7a4T12ZnRyt2kxA3NHgLwj) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [MC Davo En Vivo: Parte 1](https://open.spotify.com/album/22nziBYtQx99cuPNviBuB0) | 3:14 | 2024-06-09 | 2024-07-05 |
 | [Andamos De Parranda](https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:41 | 2023-11-10 |  |
 | [Aparentan \(feat\. Adán Zapata\)](https://open.spotify.com/track/1ZBJsZZkxVuTI1fCnk3MsU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:10 | 2023-11-10 |  |
-| [Asi Es La Vida](https://open.spotify.com/track/08KjWadgbSOhp5Lp3r5ApO) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Asi Es La Vida](https://open.spotify.com/album/02oodXzb5WDra68PzPmFV4) | 2:50 | 2024-06-07 |  |
+| [Asi Es La Vida](https://open.spotify.com/track/08KjWadgbSOhp5Lp3r5ApO) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Asi Es La Vida](https://open.spotify.com/album/02oodXzb5WDra68PzPmFV4) | 2:50 | 2024-06-07 | 2024-12-04 |
 | [Asi Es La Vida](https://open.spotify.com/track/3ppRhFagqz5sGQMLOQkhwJ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Asi Es La Vida](https://open.spotify.com/album/4LqqM5mgFRSzNo7iLXvcBj) | 2:50 | 2023-11-10 | 2024-05-13 |
 | [Aunque Ya No Estés](https://open.spotify.com/track/4x5uhfmxxxXlO5LizTFyFm) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:22 | 2023-11-10 |  |
 | [Ay Amor](https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [De Plaza en Plaza](https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o) | 3:42 | 2023-11-10 |  |
@@ -21,6 +21,7 @@
 | [Con Todo Menos Con Miedo](https://open.spotify.com/track/5BWZHBmOTRL2fA0djH3aYZ) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Con Todo Menos Con Miedo](https://open.spotify.com/album/7nJr0EhoIRfakDLlcYNIyi) | 2:36 | 2024-06-21 | 2024-11-15 |
 | [Cuernú \- Remix](https://open.spotify.com/track/54vHQsmoNbitu4ghpbC00x) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Galindo Again](https://open.spotify.com/artist/3e3y36WvzuMeXpTf282KKW), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Maicke Casiano](https://open.spotify.com/artist/1s1kprQ0YxAfGStUKtO3n7) | [Cuernú \(Remix\)](https://open.spotify.com/album/5pdGU20ApbWD65z17UM7aJ) | 7:39 | 2023-11-10 | 2024-12-03 |
 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 | 2023-11-10 |  |
+| [Debut Y Despedida](https://open.spotify.com/track/5D2tEdUibUNSeucsEv5Sjz) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Canciones Mamalonas 4](https://open.spotify.com/album/3M7owdK0xbVIlEvUcKn0QF) | 2:34 | 2024-12-04 |  |
 | [Desde Cero \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Canciones Mamalonas](https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x) | 3:13 | 2023-11-10 |  |
 | [El mañana \(feat\. Meny Méndez\)](https://open.spotify.com/track/7sHbmQpTnRLdXJMCeQGPcv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Meny Mendez](https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:16 | 2023-11-10 |  |
 | [El Más Travieso](https://open.spotify.com/track/0VFG5Ts3TgWl6qPOlG48Cs) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Más Travieso](https://open.spotify.com/album/2K0iuMY13fXHxmwqJoxijO) | 2:42 | 2024-11-24 |  |

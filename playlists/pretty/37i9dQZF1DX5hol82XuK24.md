@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,078 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,083 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ptolemaea](https://open.spotify.com/track/7JqYAVv3OZnaYZ7i9pNdtN) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 6:23 |
 | 2 | [Gjuha](https://open.spotify.com/track/1w5GIyPp7oXKchE3JJ9uiN) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 1:29 |
 | 3 | [Silk](https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 4:03 |
-| 4 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
+| 4 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
 | 5 | [ghost](https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [ghost](https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN) | 4:06 |
-| 6 | [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 |
+| 6 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
 | 7 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 |
 | 8 | [What Would I Do?](https://open.spotify.com/track/5EJA7Rwkeuvm98CZg0XXNO) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [What Would I Do?](https://open.spotify.com/album/5UMCUhNtZ5bkz0Giv0SppV) | 3:54 |
 | 9 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 |
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 51 | [How Are You Feeling?](https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [How Are You Feeling?](https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc) | 4:29 |
 | 52 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
 | 53 | [Turn Off The Noise](https://open.spotify.com/track/633HJNBMLx1CJ2h6fmtMce) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Piggy](https://open.spotify.com/album/7N3POXqNxFtLe4vSKU137z) | 4:24 |
-| 54 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 |
-| 55 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
-| 56 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
+| 54 | [Whole Lotta Nothing](https://open.spotify.com/track/2fJ8qVt2jxBzbJevlnIEvw) | [Ellie Bleach](https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3) | [Whole Lotta Nothing](https://open.spotify.com/album/2pZjqwc0vAhUBINnTmHrd3) | 4:47 |
+| 55 | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/track/4xaQIoPckzCcFQ2e4W7gqR) | [Xowie Jones](https://open.spotify.com/artist/0ZlBHRn2ZsHc1FESUa43ij), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Horror Scene \(feat\. aldn\)](https://open.spotify.com/album/5HHUqHd5DFN8wjAdarGnvX) | 1:59 |
+| 56 | [Coolshit Bullshit](https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet) | [Danika](https://open.spotify.com/artist/4E4URaamJ7aTA4YE2wk9EO) | [Coolshit Bullshit](https://open.spotify.com/album/3NleO73TVi5PyyyENBZ69U) | 4:00 |
 | 57 | [My Cosmos Is Mine](https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [My Cosmos Is Mine](https://open.spotify.com/album/2fpREMvhSct6c0Y52VRbiv) | 5:16 |
 | 58 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
 | 59 | [Tastes Good With The Money](https://open.spotify.com/track/2PVIlhwBem76mLR9qentnl) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Serfs Up!](https://open.spotify.com/album/3rCHThZSo7zO5dmmsPjTtQ) | 5:42 |
-| 60 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
-| 61 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
+| 60 | [Contently Miserable](https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW) | [Rory Ryan](https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk) | [Contently Miserable](https://open.spotify.com/album/5CrEf5anxeDL0nj2CWPMsT) | 3:35 |
+| 61 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 |
 | 62 | [Valley Ghoul](https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9) | [Valley Ghoul](https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW) | 3:02 |
 | 63 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 |
 | 64 | [Guttural Sounds](https://open.spotify.com/track/4uEVO16wTW22chdQffkyaM) | [Okay Kaya](https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb) | [Watch This Liquid Pour Itself](https://open.spotify.com/album/4XKkD3p3SXmeJRcvioWaQQ) | 3:14 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 76 | [Wife Once](https://open.spotify.com/track/0vCtC5xweWwyLl84yfM1iR) | [Memory of Speke](https://open.spotify.com/artist/58pZ02rmQbTbYcpC3O7K78) | [Wife Once](https://open.spotify.com/album/1urkJiWWUJc6IuD5aZMedt) | 3:45 |
 | 77 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 |
 | 78 | [May I Comply](https://open.spotify.com/track/7BCv8kdJnH5NSUL8d4kzh5) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [May I Comply](https://open.spotify.com/album/3tptDsJCV21MvbEdTJl18c) | 4:00 |
-| 79 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
-| 80 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
+| 79 | [My Funny Valentine](https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Covered In Hether](https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas) | 3:11 |
+| 80 | [The Rocky Road to Dublin \- Edit](https://open.spotify.com/track/63RVyGdC323uB3XcEXXyna) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [The Rocky Road to Dublin \(Edit\)](https://open.spotify.com/album/2OPMFDlOpXdAnC95TS9WUh) | 4:06 |
 | 81 | [Exposed to Some Light](https://open.spotify.com/track/6nduEbD1djbA05rXx36hPX) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Exposed to Some Light](https://open.spotify.com/album/4A5Yee0Ah4mNsML5rHhZbH) | 3:59 |
 | 82 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
 | 83 | [Blue May](https://open.spotify.com/track/6vlN4TQsjWS6mQKvJX2ERP) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Within a Dream](https://open.spotify.com/album/4cK5huBF9awOCUrbx3hqNL) | 3:53 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 95 | [Knee Deep](https://open.spotify.com/track/0KKuy8PGYoCLiQ3thjQ54f) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Knee Deep](https://open.spotify.com/album/56SXpaauOVqfgqd8DrJgbg) | 5:17 |
 | 96 | [zi oi 自爱](https://open.spotify.com/track/4Uucg1X9dhLUuRTsRkkI4X) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [a wonderful thing vomits](https://open.spotify.com/album/5IYtAs1OoLPnXbZyX1LBw1) | 4:16 |
 | 97 | [Alps](https://open.spotify.com/track/57cfUHZjRwwrIQaMurSIlJ) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [I Don't Know](https://open.spotify.com/album/2cNtBpejkWMdxrN94XuR8z) | 5:30 |
-| 98 | [Trust U See](https://open.spotify.com/track/7vxfuTRmmLcSQ7g2kOorvL) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Trust U See](https://open.spotify.com/album/4Yho2l6voQJr66p3Au7Rpx) | 5:16 |
-| 99 | [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 |
-| 100 | [i was all over her](https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:41 |
+| 98 | [pile of bones](https://open.spotify.com/track/1CDoOdVozBrccyatQBXM8e) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [through the telescope](https://open.spotify.com/album/0IVSUbIppea7Vq0m4wJ6s3) | 3:25 |
+| 99 | [Hard Candy](https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Hard Candy](https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru) | 1:53 |
+| 100 | [Trust U See](https://open.spotify.com/track/7vxfuTRmmLcSQ7g2kOorvL) | [dust](https://open.spotify.com/artist/1QcbaOVrpo91k6rHnzhMeA) | [Trust U See](https://open.spotify.com/album/4Yho2l6voQJr66p3Au7Rpx) | 5:16 |
 
 Snapshot ID: `ZyjEgAAAAAAUL1oOWG4s9sUeNdwMkbhQ`

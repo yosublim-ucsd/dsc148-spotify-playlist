@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,412,448 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,412,510 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 46 | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Ang Wakas \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n) | 5:04 |
 | 47 | [Sila](https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Sila](https://open.spotify.com/album/0qwujayb77utSpftsXjdP3) | 5:26 |
 | 48 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 |
-| 49 | [panaginip](https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA) | 5:32 |
-| 50 | [Demonyo](https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [JKL](https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC) | 3:38 |
+| 49 | [Demonyo](https://open.spotify.com/track/1WXs4O7mBxXglHJPwYweHq) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [JKL](https://open.spotify.com/album/67vvDiZLNyjNQ1gU6El7GC) | 3:38 |
+| 50 | [panaginip](https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh) | [iluna](https://open.spotify.com/artist/1CFjJMSXKmctvTXBA6uQkE) | [panaginip](https://open.spotify.com/album/1nDqiuWaIdg3553bRee5bA) | 5:32 |
 
 Snapshot ID: `ZxE1MAAAAAB1pbfvMQFw0OORZi9nUisz`

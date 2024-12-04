@@ -1206,12 +1206,12 @@
       },
       "artists": [
         {
-          "name": "MVP Hits",
-          "url": "https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi"
-        },
-        {
           "name": "Thauane",
           "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        },
+        {
+          "name": "MVP Hits",
+          "url": "https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi"
         }
       ],
       "date_added": "2024-11-22",

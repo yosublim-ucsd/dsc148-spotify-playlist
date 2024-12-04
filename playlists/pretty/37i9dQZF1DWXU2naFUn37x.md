@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Il top dello street rap italiano 🔥 Cover: Papa V, Nerissima Serpe
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,963 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,022 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tip Tap](https://open.spotify.com/track/2O8jjjtyEfXliQ6vdtdPvH) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Tip Tap](https://open.spotify.com/album/2tSal9T7uUzWFIGwO4jUN5) | 2:09 |
 | 2 | [Calibro](https://open.spotify.com/track/4Pd8GRxfNPqKWi2NLtvQ03) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Calibro](https://open.spotify.com/album/4KmXO8dmMzd1yXeFVE2uCZ) | 3:30 |
 | 3 | [MI PIACCIONO LE ARMI](https://open.spotify.com/track/3yFgWoossjlaJ919XDCG4C) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ESCI DAL TUNNEL](https://open.spotify.com/album/5fPfDmHygWKgDwknMkKoVo) | 2:09 |
-| 4 | [500K](https://open.spotify.com/track/4oLUnSRNwFhnKj8TkSbCFp) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Murad](https://open.spotify.com/artist/3iWoyjS54tMLxyLdj6yCTv) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 2:36 |
+| 4 | [500K](https://open.spotify.com/track/4oLUnSRNwFhnKj8TkSbCFp) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Murad](https://open.spotify.com/artist/7EzXR09A6dIhmZOVsAGdkV) | [DIO LO SA \- ATTO II](https://open.spotify.com/album/68ZSL5tiTQAN8Sk9Jo4bUu) | 2:36 |
 | 5 | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/track/7cDD6fOmjVI5NN1krdQ9U2) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [COLTELLINO \(feat\. Baby Gang\)](https://open.spotify.com/album/2EuGU65jnjQ6DPPCK6gads) | 3:38 |
 | 6 | [SPENDERE \(feat\. Simba La Rue\)](https://open.spotify.com/track/1CJNj8Qnpoz6lyil9EgqfE) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:04 |
 | 7 | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/64phbsUhT5naqkPA3L0vXz) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Apparecchiato \(feat\. Nerissima Serpe\)](https://open.spotify.com/album/5dSZpDWUqAEZUGTjWpJEgv) | 2:38 |

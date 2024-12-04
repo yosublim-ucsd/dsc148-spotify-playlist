@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Bulgaria.",
-  "num_followers": 662,
+  "num_followers": 664,
   "original_name": "Top Songs - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LuEioAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LuJ0IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2024-11-29 12:52:26",
@@ -63,10 +63,18 @@
     {
       "added_at": "2024-11-29 12:52:26",
       "album": {
-        "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
       },
       "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
         {
           "name": "Stromae",
           "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
@@ -74,15 +82,11 @@
         {
           "name": "Pomme",
           "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         }
       ],
       "duration_ms": 147973,
-      "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
+      "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
     },
     {
       "added_at": "2024-11-29 12:52:26",

@@ -1,6 +1,6 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 160315,
+  "num_followers": 160403,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "1956-1958 Cobra Recordings",
-        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "The Chess Story 1957-1964",
         "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 171266,
       "name": "I'm A Little Mixed Up",
       "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "1956-1958 Cobra Recordings",
+        "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/3JggrSor1wtd74bvF2fsmz"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Chicago Blues Legend",
+        "url": "https://open.spotify.com/album/5ZGbl7pSynpLgc5HV5dxdI"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "All for Business",
+      "url": "https://open.spotify.com/track/6AMdol1lcjmxZIuhU9AUes"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "Double Trouble",
         "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 171946,
       "name": "The Stumble",
       "url": "https://open.spotify.com/track/2t47sX3S0tR3JJeqYADnIN"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
-        "name": "Chicago Blues Legend",
-        "url": "https://open.spotify.com/album/5ZGbl7pSynpLgc5HV5dxdI"
-      },
-      "artists": [
-        {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "All for Business",
-      "url": "https://open.spotify.com/track/6AMdol1lcjmxZIuhU9AUes"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Addressing The Nation With The Blues",
+        "url": "https://open.spotify.com/album/6RVA29Re2JFnjizRSb2OMt"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        }
+      ],
+      "duration_ms": 360067,
+      "name": "I Was Coming Home",
+      "url": "https://open.spotify.com/track/5FQAySazGzq0jIsPG0XJ7H"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "I Put A Spell On You: Best Of",
         "url": "https://open.spotify.com/album/2YK4ndDzRp2zLgf41kXjRW"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 212266,
       "name": "Thelma",
       "url": "https://open.spotify.com/track/5dAvcldgXjPyCeH2euSB6s"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
-        "name": "Live At The BBC Plus Other Innovations",
-        "url": "https://open.spotify.com/album/5yRGO3t9fu88UoPzSq9cA1"
-      },
-      "artists": [
-        {
-          "name": "Duffy Power",
-          "url": "https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN"
-        }
-      ],
-      "duration_ms": 185506,
-      "name": "Gin House Blues - Live at The Blues Roll On, 27/3/68",
-      "url": "https://open.spotify.com/track/5NH020QWsRnQdkt1DPis7Y"
     }
   ],
   "unique_name": "Electric Blues Classics",

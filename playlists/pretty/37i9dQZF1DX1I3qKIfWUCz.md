@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 
 > Our picks for the best of pop from emerging artists around the world in 2023\. Cover: METTE
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,072 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,080 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1I3qKIfWUCz.md) - [plain]
 | 28 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 |
 | 29 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 |
 | 30 | [Rain](https://open.spotify.com/track/1L1x0IlfPWHTMBexd7tNMP) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [Rain](https://open.spotify.com/album/5MDXhKHebA7Uc5dGGUYYGv) | 3:11 |
-| 31 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 |
+| 31 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 |
 | 32 | [Good Vibrations](https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Good Vibrations](https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF) | 3:49 |
 | 33 | [i can't get my shit together](https://open.spotify.com/track/7vhtylsJfH53CUmns6bJ5Q) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Quarter Life Crisis \(Deluxe\)](https://open.spotify.com/album/2OqDjO2moqMLtBEfFiu8OB) | 2:53 |
-| 34 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 |
+| 34 | [bad](https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [0.1 flaws and all.](https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0) | 4:23 |
 | 35 | [The Worst Person Alive](https://open.spotify.com/track/1YmJULNnUkQ5Ko5lGr14Lr) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:30 |
 | 36 | [まつり](https://open.spotify.com/track/3OdkC5pG8vc26S26qHyBo8) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:45 |
 | 37 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |

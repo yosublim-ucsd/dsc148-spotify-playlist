@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,115 likes - 150 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,157 likes - 150 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 13 | [Come Around](https://open.spotify.com/track/3D5VPTHeG5pvXm8uFILonz) | [The Retrograde](https://open.spotify.com/artist/6R2UeI1q0BcAu70RDbrJ6c) | [That's The Spirit!](https://open.spotify.com/album/2ew22HhN2j6LN8MoxUqxkG) | 2:59 |
 | 14 | [The Devil's Wrong, but Not to Blame](https://open.spotify.com/track/6U7nODmDU0GD1fyVrnXFLo) | [Eddie & The Wolves](https://open.spotify.com/artist/0LLPFS3w5aAnQ8DyOGV7of) | [The Devil's Wrong, but Not to Blame](https://open.spotify.com/album/5aoIg1oGowkstefojC9X11) | 3:40 |
 | 15 | [Love out of Lemons](https://open.spotify.com/track/2GXzTdHHiguNECDsp3hW0W) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Love out of Lemons](https://open.spotify.com/album/0jsAmlf5wVis6otmdokfsA) | 3:32 |
-| 16 | [Ain't No Stopping Me](https://open.spotify.com/track/4wC9NoWzDl4UUBZpBwccfN) | [The Fever Dreams](https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Ain't No Stopping Me](https://open.spotify.com/album/7bloW4tisDJapbL2qCOO8j) | 2:52 |
+| 16 | [Ain't No Stopping Me](https://open.spotify.com/track/4wC9NoWzDl4UUBZpBwccfN) | [The Fever Dreams](https://open.spotify.com/artist/3q1sMOHeS196UgkfhWFhX0) | [Ain't No Stopping Me](https://open.spotify.com/album/7bloW4tisDJapbL2qCOO8j) | 2:52 |
 | 17 | [Wishing Well](https://open.spotify.com/track/0MFLsMsoNdZL1q17a8gzlz) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Wishing Well](https://open.spotify.com/album/3kHwkySXzWkWvnYCGh7Os2) | 3:21 |
 | 18 | [Street People](https://open.spotify.com/track/3y6e4EYoQ4k9ehfTgh0Fde) | [J.D\. Simo](https://open.spotify.com/artist/443OoeHtWnNdDNKN4xgkeg), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Street People](https://open.spotify.com/album/4BLpST6Vxcc5f4dJEx1ddO) | 3:10 |
 | 19 | [Shake You Off](https://open.spotify.com/track/0wX8kkelEfK6RWMcHGWTHU) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [Shake You Off](https://open.spotify.com/album/4q8ICEgFA3aLmGulvQ2KHE) | 3:55 |

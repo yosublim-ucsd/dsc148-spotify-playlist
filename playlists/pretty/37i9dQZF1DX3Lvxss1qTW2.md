@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: YKB
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,157 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,191 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 2 | [OMOBANKE](https://open.spotify.com/track/1eAgCRZdZwmfv6GNhJvB8p) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [OMOBANKE](https://open.spotify.com/album/7dU4V0V0pKO5AYaoNivnhT) | 2:19 |
 | 3 | [HAUSAPIANO \- Remix](https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp) | [Kvng Vinci](https://open.spotify.com/artist/2toONwOXJt03vVKmJZs30X), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [HAUSAPIANO \(Remix\)](https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ) | 2:17 |
 | 4 | [Comforter](https://open.spotify.com/track/12uJDbjH0gwh0fs4gFgDhQ) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:18 |
-| 5 | [Composure \(feat\. Odumodublvck\)](https://open.spotify.com/track/5T6B5u7napNSymqsdluzuV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9), [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Composure \(feat\. Odumodublvck\)](https://open.spotify.com/album/1cSj4PQelBB7VvBRH05fWw) | 2:45 |
+| 5 | [Composure \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/5T6B5u7napNSymqsdluzuV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9), [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Composure \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/1cSj4PQelBB7VvBRH05fWw) | 2:45 |
 | 6 | [Deep](https://open.spotify.com/track/0qhfALctZENRjIITNtqWti) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 |
 | 7 | [Could This Be Love](https://open.spotify.com/track/2825Zwd0EnzzDxFOhDsRQC) | [Nasboi](https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [\[I.N.I.T\] In Nasboi I Trust](https://open.spotify.com/album/5lYbZkWrhzaG2HDMpP42pt) | 2:17 |
 | 8 | [A Fuul](https://open.spotify.com/track/2kMYpI02BoSrdQhNgmXeWl) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [A Fuul](https://open.spotify.com/album/4pC90geT6Amug9vtCIxoYq) | 2:47 |

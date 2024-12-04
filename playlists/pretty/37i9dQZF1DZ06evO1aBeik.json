@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2735911,
+  "num_followers": 2736115,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAA+TZA2oXrRRCwM78Dsaw2q",
+  "snapshot_id": "Z0z4gAAAAAC4jVx6lBIssUJZQY7xH+Ey",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cooped Up / Return Of The Mack",
-        "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
       "artists": [
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Mark Morrison",
-          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
-        },
-        {
-          "name": "Sickick",
-          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
         }
       ],
-      "duration_ms": 127253,
-      "name": "Cooped Up / Return Of The Mack",
-      "url": "https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e"
+      "duration_ms": 204426,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
     },
     {
       "added_at": null,
@@ -499,18 +491,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+        "name": "Cooped Up / Return Of The Mack",
+        "url": "https://open.spotify.com/album/4G0HO7POrjMX9cKLX2KxkF"
       },
       "artists": [
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Mark Morrison",
+          "url": "https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
         }
       ],
-      "duration_ms": 204426,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+      "duration_ms": 127253,
+      "name": "Cooped Up / Return Of The Mack",
+      "url": "https://open.spotify.com/track/6Ole34qqbgkZ60IyrcVm7e"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion: Long Bed",
-        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 202638,
-      "name": "Hey Mercedes",
-      "url": "https://open.spotify.com/track/1uukncdtRehiZS3SMHOxYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One Right Now",
         "url": "https://open.spotify.com/album/6fgSKdHloRioPrZ9oJC7FH"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 193506,
       "name": "One Right Now (with The Weeknd)",
       "url": "https://open.spotify.com/track/00Blm7zeNqgYLPtW6zg8cj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 202638,
+      "name": "Hey Mercedes",
+      "url": "https://open.spotify.com/track/1uukncdtRehiZS3SMHOxYZ"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion: Long Bed",
-        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 171185,
-      "name": "Fallin\u2019 In Love",
-      "url": "https://open.spotify.com/track/1QTNo6sCt8km4v3GyHRNlS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Motley Crew",
         "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 171185,
+      "name": "Fallin\u2019 In Love",
+      "url": "https://open.spotify.com/track/1QTNo6sCt8km4v3GyHRNlS"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion: Long Bed",
-        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 201961,
-      "name": "Ain\u2019t How It Ends",
-      "url": "https://open.spotify.com/track/4ApqBh1Xnrpwx6EbhoUPgq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homemade Dynamite (Feat. Khalid, Post Malone & SZA) [REMIX]",
         "url": "https://open.spotify.com/album/7kXQ0AvaykUJMxR0gRfr4d"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 214254,
       "name": "Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",
       "url": "https://open.spotify.com/track/7rdUtXasA973gmrr2Xxh3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 201961,
+      "name": "Ain\u2019t How It Ends",
+      "url": "https://open.spotify.com/track/4ApqBh1Xnrpwx6EbhoUPgq"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion: Long Bed",
-        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 213225,
-      "name": "Dead At The Honky Tonk",
-      "url": "https://open.spotify.com/track/0b89M5bonRIcsR781e4xGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 147679,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 213225,
+      "name": "Dead At The Honky Tonk",
+      "url": "https://open.spotify.com/track/0b89M5bonRIcsR781e4xGT"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion: Long Bed",
-        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 169864,
-      "name": "Who Needs You",
-      "url": "https://open.spotify.com/track/58BnhZIDqSFWmXsj3UA1Un"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jackie Chan",
         "url": "https://open.spotify.com/album/0vRcQquqBlFvnezWldWfmt"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 215759,
       "name": "Jackie Chan",
       "url": "https://open.spotify.com/track/4kWO6O1BUXcZmaxitpVUwp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 169864,
+      "name": "Who Needs You",
+      "url": "https://open.spotify.com/track/58BnhZIDqSFWmXsj3UA1Un"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F-1 Trillion: Long Bed",
-        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 185608,
-      "name": "Killed A Man",
-      "url": "https://open.spotify.com/track/3G8syjk315Wb6f3mG3rgC1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Featuring Ty Dolla $ign",
         "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 143375,
       "name": "Spicy (feat. Post Malone)",
       "url": "https://open.spotify.com/track/5IUtvfNvOyVYZUa6AJFrnP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "Killed A Man",
+      "url": "https://open.spotify.com/track/3G8syjk315Wb6f3mG3rgC1"
     },
     {
       "added_at": null,

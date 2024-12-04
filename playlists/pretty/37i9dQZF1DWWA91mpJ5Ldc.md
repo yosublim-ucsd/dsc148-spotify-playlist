@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,728 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,748 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 18 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 |
 | 19 | [Aqui não](https://open.spotify.com/track/1sJC8sQycGEeuC3T87DzMs) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Aqui não](https://open.spotify.com/album/6NZRTrHKebVLVs6YLWPihz) | 2:17 |
 | 20 | [Tudo Que Eu Quero](https://open.spotify.com/track/5dnvAFzFy0cON4jq0JFcUF) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Tudo Que Eu Quero](https://open.spotify.com/album/1v543NNibkjFZElE3Bu8ig) | 2:02 |
-| 21 | [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 |
-| 22 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 |
+| 21 | [Maria Maria \- Spotify Singles](https://open.spotify.com/track/31cMz7eSw5B0cwYTplXUcn) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Maria Maria \- Spotify Singles](https://open.spotify.com/album/1DKGq89KJ7FpWcozcaNzOi) | 2:23 |
+| 22 | [Dia Branco](https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv) | [Geraldo Azevedo](https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Dia Branco](https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb) | 2:27 |
 | 23 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
 | 24 | [Areia Fina](https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1) | [Areia Fina](https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg) | 3:31 |
 | 25 | [Qual É A Sua?](https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:10 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 56 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
 | 57 | [Quem Me Conhece Sabe](https://open.spotify.com/track/6ZtmpgXAicKBwYXnSmFfkW) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Melhor Que Ontem](https://open.spotify.com/album/64ux9afJoLaafAYumSppUl) | 2:39 |
 | 58 | [Talismã](https://open.spotify.com/track/3M1H3xYAf9D1sXiZ6aUQQZ) | [Amanda Magalhães](https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Fragma](https://open.spotify.com/album/5Vwvi7lEBw808vJfDsGEkd) | 4:43 |
-| 59 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 |
-| 60 | [Caju](https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:02 |
+| 59 | [Caju](https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:02 |
+| 60 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 |
 
 Snapshot ID: `Zv9aMAAAAADu1hyvV/12A9p4WQEmsmP/`

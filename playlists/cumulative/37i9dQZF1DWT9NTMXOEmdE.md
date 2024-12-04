@@ -4,7 +4,7 @@
 
 > The happiest hits to boost your day.
 
-102 songs - 5 hr 19 min
+103 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,9 +76,10 @@
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-11-11 |  |
 | [NANi](https://open.spotify.com/track/6utUO9goGEtilKe2tmfNJH) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [NANi](https://open.spotify.com/album/5L1hH3Wj0WenhPzJaQa4Sc) | 2:34 | 2024-06-10 | 2024-11-07 |
 | [Never Be the Same](https://open.spotify.com/track/4eWQlBRaTjPPUlzacqEeoQ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Camila](https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE) | 3:46 | 2022-11-11 |  |
+| [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-12-03 |  |
 | [NIGHT DANCER](https://open.spotify.com/track/3gmn76fCtpDazGMnN0QMHX) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [POP CUBE](https://open.spotify.com/album/3mlVZ7OTZgKJJAr275tHZX) | 3:30 | 2023-05-01 |  |
 | [no tears left to cry](https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:25 | 2022-11-11 |  |
-| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-01-29 |  |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:50 | 2024-01-29 | 2024-12-04 |
 | [Paradise](https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Soul Searching](https://open.spotify.com/album/4ZKdRW0AH9sxV09NmWsTkW) | 2:49 | 2023-08-09 | 2024-01-01 |
 | [Perfect Strangers](https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:16 | 2022-11-11 | 2024-04-19 |
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2022-11-11 | 2024-04-19 |

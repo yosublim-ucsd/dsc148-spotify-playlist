@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(Cover: 정예인\(Yein\)\) \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,336 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,340 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 88 | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx) | [90yonge St.](https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r), [Jennifer Choi](https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ) | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7) | 3:35 |
 | 89 | [Midnight \(feat\. SFC.JGR & B JYUN.\)](https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz) | [IFI](https://open.spotify.com/artist/6BGkJaN8F1g3OjeOcxVlIB), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Midnight](https://open.spotify.com/album/3zr4mIqRlBEh17j5w7hm1t) | 3:32 |
 | 90 | [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 |
-| 91 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 |
-| 92 | [Tonight](https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc) | [Nahee Kim](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [Tonight](https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw) | 3:14 |
+| 91 | [Tonight](https://open.spotify.com/track/6wZSjTWqs8E6EZylSqemLc) | [Nahee Kim](https://open.spotify.com/artist/6PsdTnZrbimJm8FMc7i6nl) | [Tonight](https://open.spotify.com/album/1CODuNXGPQKbT82dQtOKGw) | 3:14 |
+| 92 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 |
 | 93 | [우리 사랑이 툭 끝나면](https://open.spotify.com/track/4ZXn6hhRmyNTkTcYuiQY3O) | [해인](https://open.spotify.com/artist/6ytR9OnLd6GKqUbY1PyFiS) | [우리 사랑이 툭 끝나면](https://open.spotify.com/album/1Zo5lA52LwDkOCqIh1i53K) | 3:17 |
 | 94 | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr) | 4:15 |
 | 95 | [Love Counseling](https://open.spotify.com/track/3806qzWO2NAHJUEBse4g8a) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [Temperature of Love](https://open.spotify.com/album/243WfskVKVmbYsRLsMnhhV) | 3:46 |

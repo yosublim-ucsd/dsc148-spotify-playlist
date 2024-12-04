@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,347 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,370 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 75 | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/track/2JIY6nN5kkkfNz0TckPqYu) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW) | [Float \(feat\. Seun Kuti & Egypt 80\)](https://open.spotify.com/album/6KfYPDq58mLwd3yjOfXIU7) | 4:02 |
 | 76 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 |
 | 77 | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/track/0IIn18QlxCeUpLPRaR6a7K) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Jealous \(feat\. Rico Nasty\)](https://open.spotify.com/album/2SNoIwHcpdsPWq8SuoqG3p) | 3:19 |
-| 78 | [Da Girls](https://open.spotify.com/track/0Vv7lPT21u7YjxpCYdCYwq) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Da Girls](https://open.spotify.com/album/2NdkxbEo8A9zM3boqbWAMq) | 3:44 |
-| 79 | [Fuck Em Up Sis](https://open.spotify.com/track/4nGcWTm8Z7EI7YONZB7NCN) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Big Renni](https://open.spotify.com/album/2gZkb8OqQtUbdBqwcRUNqQ) | 1:59 |
+| 78 | [Fuck Em Up Sis](https://open.spotify.com/track/4nGcWTm8Z7EI7YONZB7NCN) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Big Renni](https://open.spotify.com/album/2gZkb8OqQtUbdBqwcRUNqQ) | 1:59 |
+| 79 | [Da Girls](https://open.spotify.com/track/0Vv7lPT21u7YjxpCYdCYwq) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Da Girls](https://open.spotify.com/album/2NdkxbEo8A9zM3boqbWAMq) | 3:44 |
 | 80 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 |
 | 81 | [Don Diva](https://open.spotify.com/track/07hzPXzmVs98M0eRsCINt1) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Off the Yak](https://open.spotify.com/album/3jS5p3u5bK0OYq9BQKa6PN) | 3:03 |
 | 82 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |

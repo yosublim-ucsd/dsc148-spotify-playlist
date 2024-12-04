@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 162206,
       "name": "BANDIT",
       "url": "https://open.spotify.com/track/1fAuOuvbZiQS9tOiTgB9Hf"
@@ -1141,6 +1141,28 @@
     },
     {
       "album": {
+        "name": "Breaking Through",
+        "url": "https://open.spotify.com/album/1RafCqkZdmpjFu9Nc0KPCm"
+      },
+      "artists": [
+        {
+          "name": "VNDETTA",
+          "url": "https://open.spotify.com/artist/0QCqlmP7IpItw2dkQekiM5"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206597,
+      "name": "Breaking Through",
+      "url": "https://open.spotify.com/track/5w7Aln7zk5B5CaoeBRFxHo"
+    },
+    {
+      "album": {
         "name": "Bricks To The Butterfly",
         "url": "https://open.spotify.com/album/6SrvYJ38uTmTgR3uOk3BjX"
       },
@@ -1192,7 +1214,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 205241,
       "name": "Brunt",
       "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
@@ -1462,7 +1484,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 114351,
       "name": "Church Outfit",
       "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
@@ -1578,7 +1600,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 219789,
       "name": "come around",
       "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
@@ -1706,6 +1728,24 @@
       "duration_ms": 237241,
       "name": "Composure - Toronto Is Broken Remix",
       "url": "https://open.spotify.com/track/4a8irWxaB5OdkK02dWNBbH"
+    },
+    {
+      "album": {
+        "name": "Contrition",
+        "url": "https://open.spotify.com/album/4GqY467xf6gYXQLfPhiVOs"
+      },
+      "artists": [
+        {
+          "name": "JEANIE",
+          "url": "https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179675,
+      "name": "Contrition",
+      "url": "https://open.spotify.com/track/0zVps16ymcCYlOK8hOq6o3"
     },
     {
       "album": {
@@ -2427,6 +2467,28 @@
     },
     {
       "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/6WPrb9Tj8DszFIUhnzjg2Y"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        },
+        {
+          "name": "UnityTX",
+          "url": "https://open.spotify.com/artist/3uPce3TKw7cjheMNhuhNs9"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/6FVi8am0wUrPVKte7uOhaj"
+    },
+    {
+      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -2516,7 +2578,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 233254,
       "name": "Down Below",
       "url": "https://open.spotify.com/track/2mA88JKm8beu2fB1FM6nWA"
@@ -3368,7 +3430,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-27",
+      "date_removed": null,
       "duration_ms": 233203,
       "name": "FIMBULVETR",
       "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
@@ -3644,7 +3706,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
@@ -4260,7 +4322,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 249267,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/0r214um9dQ8koPYFKM5ZH2"
@@ -4728,7 +4790,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 183132,
       "name": "Insanity",
       "url": "https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa"
@@ -4978,7 +5040,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-14",
+      "date_removed": null,
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
@@ -5222,7 +5284,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 174545,
       "name": "Lie Awake",
       "url": "https://open.spotify.com/track/0A3E1Vig87YNwysgnhwPvv"
@@ -6422,7 +6484,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
@@ -6862,7 +6924,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 179200,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/00LEnW73K2SyN50nbgq7eH"
@@ -8294,7 +8356,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 139800,
       "name": "spit",
       "url": "https://open.spotify.com/track/1ft9HRORvo0uMAoBwqkxgY"
@@ -8579,6 +8641,28 @@
     },
     {
       "album": {
+        "name": "SWEAT!",
+        "url": "https://open.spotify.com/album/6Sm8HsljHyRuPhpTJCELns"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159103,
+      "name": "SWEAT!",
+      "url": "https://open.spotify.com/track/6HS7p2KZcrJ7IGREGdIgwN"
+    },
+    {
+      "album": {
         "name": "Take Flight",
         "url": "https://open.spotify.com/album/6KUwI4RCbvqZZbKCCiwpjO"
       },
@@ -8836,7 +8920,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 241600,
       "name": "The Death of Peace of Mind",
       "url": "https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb"
@@ -8854,7 +8938,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 221543,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
@@ -8978,7 +9062,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 180618,
       "name": "This Will Be My Year",
       "url": "https://open.spotify.com/track/11U7Iww4rFNk6tFFG5kJGJ"
@@ -9682,7 +9766,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-09",
+      "date_removed": null,
       "duration_ms": 182844,
       "name": "Walk On Water (with Danni Carra)",
       "url": "https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M"

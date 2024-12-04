@@ -801,6 +801,24 @@
     },
     {
       "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "Carlitos",
+      "url": "https://open.spotify.com/track/71YaqakPUZh3cnMYmuE5Oh"
+    },
+    {
+      "album": {
         "name": "PRESENTE",
         "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
       },
@@ -1642,7 +1660,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 129544,
       "name": "El Tiempo Es Oro",
       "url": "https://open.spotify.com/track/4dmbEspLEc4sTGI4FACYca"
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 162000,
       "name": "Ilusi\u00f3n 98",
       "url": "https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl"
@@ -3030,7 +3048,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 180136,
       "name": "Mami",
       "url": "https://open.spotify.com/track/4b5ZoCVJhm6CZFeEwgqTP4"
@@ -3298,6 +3316,24 @@
       "duration_ms": 187640,
       "name": "Mi Segunda Vida",
       "url": "https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD"
+    },
+    {
+      "album": {
+        "name": "$AD BOYZ 4 LIFE II",
+        "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226035,
+      "name": "MIENTRAS DUERMES",
+      "url": "https://open.spotify.com/track/4e76Ss3ji7HQZ4qwcPNkNA"
     },
     {
       "album": {
@@ -5188,6 +5224,24 @@
       "duration_ms": 216765,
       "name": "\u00bfC\u00d3MO TE FUE SIN M\u00cd?",
       "url": "https://open.spotify.com/track/6fTKsQnJ0pKjMzYt30KjRv"
+    },
+    {
+      "album": {
+        "name": "Mitad Y Mitad",
+        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "\u00bfPor Qu\u00e9 Cambiaste De Opini\u00f3n?",
+      "url": "https://open.spotify.com/track/1j8gLQNfFOI0vs8qcVTWwa"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7aCIGeSe3p4"

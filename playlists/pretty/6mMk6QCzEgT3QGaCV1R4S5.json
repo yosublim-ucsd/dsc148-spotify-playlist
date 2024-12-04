@@ -6,7 +6,7 @@
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAhFrI4wLNRXprgedL7PbIR4HLXmjWI",
+  "snapshot_id": "AAAhGdZpScD3IDsll23yhWiBN1l6Vb+Q",
   "tracks": [
     {
       "added_at": "2024-11-29 15:17:30",
@@ -555,6 +555,26 @@
       "duration_ms": 174000,
       "name": "Freestyler (Rock The Microphone)",
       "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
+    },
+    {
+      "added_at": "2024-12-03 20:57:47",
+      "album": {
+        "name": "W4U (feat. Jen)",
+        "url": "https://open.spotify.com/album/39syP387YYwH46TnrvcpbP"
+      },
+      "artists": [
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "JEN",
+          "url": "https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE"
+        }
+      ],
+      "duration_ms": 239492,
+      "name": "W4U (feat. Jen)",
+      "url": "https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ"
     },
     {
       "added_at": "2024-11-29 15:17:30",
@@ -1147,30 +1167,6 @@
       "duration_ms": 208680,
       "name": "Friday",
       "url": "https://open.spotify.com/track/03bOA3BAjZiqJOGyFmWYFz"
-    },
-    {
-      "added_at": "2024-11-29 15:17:30",
-      "album": {
-        "name": "Diplo Presents Thomas Wesley: The Mixtape",
-        "url": "https://open.spotify.com/album/2YEVAviqPGlcnc2ruyXcPE"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Anella Herim",
-          "url": "https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN"
-        },
-        {
-          "name": "Abby Anderson",
-          "url": "https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB"
-        }
-      ],
-      "duration_ms": 192631,
-      "name": "Willing To Let You Go (feat. Anella Herim & Abby Anderson)",
-      "url": "https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM"
     }
   ],
   "unique_name": "Dancefloor Beats",

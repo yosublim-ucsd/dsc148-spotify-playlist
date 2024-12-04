@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Diskoria, Laleilmanino, Neida
 
-279 songs - 18 hr 26 min
+280 songs - 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Aku Takdirmu](https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5) | [Aku Takdirmu](https://open.spotify.com/album/6syB0IkH8vdpQBUQAnY25C) | 4:05 | 2024-05-16 | 2024-09-06 |
 | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/track/4fA9T5ifvSebKMJTr1HeN0) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas), [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Aku Tanpa Kamu Tanpa Aku](https://open.spotify.com/album/3mWgjnE8LPJeJSIy6dEHsm) | 4:27 | 2024-11-21 |  |
 | [Angin Rindu](https://open.spotify.com/track/6JDLpBIjNMKCHRsw1ffsUy) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Angin Rindu](https://open.spotify.com/album/1DAMX6ufi10yOx2L7qO8KY) | 4:18 | 2024-07-18 |  |
+| [Anugerah Terindah](https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:42 | 2024-12-03 |  |
 | [Apalah \(Arti Menunggu\) \- Live At Stadion Utama Gelora Bung Karno](https://open.spotify.com/track/4VyT9CN8QoUULVxblagl0T) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Live At Stadion Utama Gelora Bung Karno](https://open.spotify.com/album/2Sl6A2Vvjcz1KilzejllBq) | 5:19 | 2024-10-03 | 2024-11-15 |
 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 | 2024-01-26 | 2024-03-22 |
 | [Asumsi](https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X), [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [HARAP\-HARAP EMAS](https://open.spotify.com/album/62tBcSn5N7vgrndYZwC4GB) | 4:21 | 2024-09-26 |  |

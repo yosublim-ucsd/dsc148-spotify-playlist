@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour. ",
-  "num_followers": 23792,
+  "num_followers": 23799,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -95,8 +95,8 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Este Lugar",
-        "url": "https://open.spotify.com/album/3Wqe1WTNbbFWuA46Zgo5a2"
+        "name": "Todo Sigue Igual",
+        "url": "https://open.spotify.com/album/4AACc6XDAsXQiJfU4ZCxzk"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 292758,
-      "name": "Este Lugar",
-      "url": "https://open.spotify.com/track/5xdyRUBcNEzNwOC0WocapT"
+      "duration_ms": 200686,
+      "name": "Todo Sigue Igual",
+      "url": "https://open.spotify.com/track/0bt0OX02AIKSczy1taXlDC"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -227,8 +227,8 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Todo Sigue Igual",
-        "url": "https://open.spotify.com/album/4AACc6XDAsXQiJfU4ZCxzk"
+        "name": "Este Lugar",
+        "url": "https://open.spotify.com/album/3Wqe1WTNbbFWuA46Zgo5a2"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 200686,
-      "name": "Todo Sigue Igual",
-      "url": "https://open.spotify.com/track/0bt0OX02AIKSczy1taXlDC"
+      "duration_ms": 292758,
+      "name": "Este Lugar",
+      "url": "https://open.spotify.com/track/5xdyRUBcNEzNwOC0WocapT"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/33szFJNdxgVGQa518rOohL"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 253520,
+      "name": "M\u00e1s o Menos Bien",
+      "url": "https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "YASS",
         "url": "https://open.spotify.com/album/7iZXMSMM0P3VNTsIx8Xfjy"
       },
@@ -275,18 +291,18 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "La Dinast\u00eda Scorpio",
-        "url": "https://open.spotify.com/album/33szFJNdxgVGQa518rOohL"
+        "name": "Mojigata",
+        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
       },
       "artists": [
         {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
         }
       ],
-      "duration_ms": 253520,
-      "name": "M\u00e1s o Menos Bien",
-      "url": "https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP"
+      "duration_ms": 182599,
+      "name": "Claro Ma",
+      "url": "https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -311,18 +327,18 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Mojigata",
-        "url": "https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS"
+        "name": "Una Propuesta",
+        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 182599,
-      "name": "Claro Ma",
-      "url": "https://open.spotify.com/track/5CNOgr8gVOGIpFNKIG5NRX"
+      "duration_ms": 195760,
+      "name": "Una Propuesta",
+      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -339,22 +355,6 @@
       "duration_ms": 169581,
       "name": "General Paz",
       "url": "https://open.spotify.com/track/7uRSvEQAlYng9g92DQY6RX"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Una Propuesta",
-        "url": "https://open.spotify.com/album/4h2KVzlBshF1hmiHNSgxPL"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 195760,
-      "name": "Una Propuesta",
-      "url": "https://open.spotify.com/track/6to1I40BuW2fNRIustdnKa"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Vivo La Plata",
-        "url": "https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA"
-      },
-      "artists": [
-        {
-          "name": "Viva Elastico",
-          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
-        }
-      ],
-      "duration_ms": 216770,
-      "name": "El Dato - Vivo La Plata",
-      "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Mala (Edici\u00f3n Mal\u00edsima)",
         "url": "https://open.spotify.com/album/5OaoeHCPd7Q3UwXpXOAknq"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 220473,
       "name": "Haku - Bonus Track",
       "url": "https://open.spotify.com/track/3NNCxji6geukyGjPzDaRlZ"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Vivo La Plata",
+        "url": "https://open.spotify.com/album/4YwDTYXtEJOK4HJhN8IZtA"
+      },
+      "artists": [
+        {
+          "name": "Viva Elastico",
+          "url": "https://open.spotify.com/artist/6dpGJKjrEet5TfcNTn2lZZ"
+        }
+      ],
+      "duration_ms": 216770,
+      "name": "El Dato - Vivo La Plata",
+      "url": "https://open.spotify.com/track/2SWPX0mV4nKYIKaywDV3W7"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Losers' Paradise",
+        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Vin",
+          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
+        }
+      ],
+      "duration_ms": 210750,
+      "name": "Losers' Paradise",
+      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Creo que necesito ir a dar una vuelta",
         "url": "https://open.spotify.com/album/1kVcC8GK5dhaX25mGRHAee"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 192137,
       "name": "Oh my goth",
       "url": "https://open.spotify.com/track/5TSNcNZkUI3iAvGUBOjyjw"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Losers' Paradise",
-        "url": "https://open.spotify.com/album/0nWLiIqkHQ2LmgkUJ9SwhJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Vin",
-          "url": "https://open.spotify.com/artist/11LJcIdoTUeF7PtDwd5TUc"
-        }
-      ],
-      "duration_ms": 210750,
-      "name": "Losers' Paradise",
-      "url": "https://open.spotify.com/track/529Hflo1AuaNdEoOmA0ELu"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "malas decisiones",
+        "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 180989,
+      "name": "malas decisiones",
+      "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Vandalismo Comparado",
         "url": "https://open.spotify.com/album/1gN1fgqgy9K0nwAZ5KDrXM"
       },
@@ -1015,18 +1031,18 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "malas decisiones",
-        "url": "https://open.spotify.com/album/6FcsRp3ZwHDzBZznM21Os5"
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
       },
       "artists": [
         {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
         }
       ],
-      "duration_ms": 180989,
-      "name": "malas decisiones",
-      "url": "https://open.spotify.com/track/39FkLgL30jP9VnZ4FvO7g7"
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1043,22 +1059,6 @@
       "duration_ms": 183203,
       "name": "No Mor\u00ed",
       "url": "https://open.spotify.com/track/2hQmLzDJP2D4iPVseYJixK"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1095,6 +1095,38 @@
       "duration_ms": 182197,
       "name": "Las Cosas que Fueron Antes",
       "url": "https://open.spotify.com/track/0YCyuxDRdUkiWN2hDPFZwo"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Cae la noche",
+        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
+      },
+      "artists": [
+        {
+          "name": "BATOS",
+          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
+        }
+      ],
+      "duration_ms": 244144,
+      "name": "Cae la noche",
+      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1147,38 +1179,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Cae la noche",
-        "url": "https://open.spotify.com/album/6zh0kUiR3qiD95UsBi8TYB"
-      },
-      "artists": [
-        {
-          "name": "BATOS",
-          "url": "https://open.spotify.com/artist/47ImzDRVg19IIw6IQa2tLI"
-        }
-      ],
-      "duration_ms": 244144,
-      "name": "Cae la noche",
-      "url": "https://open.spotify.com/track/1BKGYjquRMON7xsPSz51o8"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "NT al sol",
         "url": "https://open.spotify.com/album/1iI0hU3oBxRKRGs6lprkse"
       },
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
+        "name": "Amor Express",
+        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
+      },
+      "artists": [
+        {
+          "name": "Andry Bett",
+          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
+        }
+      ],
+      "duration_ms": 214409,
+      "name": "Amor Express",
+      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
         "name": "Cinta Testigo, Vol. 1",
         "url": "https://open.spotify.com/album/1qqFaVpQnQePKMPrbwlrKW"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 191115,
       "name": "Quiero Ser una Luci\u00e9rnaga",
       "url": "https://open.spotify.com/track/0gdCMqI69uSqiUMJ6ymqIF"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
-        "name": "Amor Express",
-        "url": "https://open.spotify.com/album/5lMZnv69WlU2YfdrjdVPUT"
-      },
-      "artists": [
-        {
-          "name": "Andry Bett",
-          "url": "https://open.spotify.com/artist/2UYLH3xSANTx5sfjYTfpv7"
-        }
-      ],
-      "duration_ms": 214409,
-      "name": "Amor Express",
-      "url": "https://open.spotify.com/track/3eBNjGdUD248wC0WwfRtAC"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "Puedo ver el mar en tus ojos",
-        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
-      },
-      "artists": [
-        {
-          "name": "Buenos Vampiros",
-          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
-        }
-      ],
-      "duration_ms": 181495,
-      "name": "Puedo ver el mar en tus ojos",
-      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Distintas Frecuencias",
         "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 242547,
       "name": "Distintas Frecuencias",
       "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "Puedo ver el mar en tus ojos",
+        "url": "https://open.spotify.com/album/5M6UHcIg0mGxbWo9xUdfVF"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "duration_ms": 181495,
+      "name": "Puedo ver el mar en tus ojos",
+      "url": "https://open.spotify.com/track/5A8yYhRzFxyTBL0MJK3IAy"
     },
     {
       "added_at": "2024-11-22 03:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-11-22 03:00:00",
       "album": {
-        "name": "siempre es para siempre",
-        "url": "https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW"
-      },
-      "artists": [
-        {
-          "name": "Feli Ruiz",
-          "url": "https://open.spotify.com/artist/4uptLcxRqdhbxwAfRt6ra5"
-        }
-      ],
-      "duration_ms": 203136,
-      "name": "siempre es para siempre",
-      "url": "https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64"
-    },
-    {
-      "added_at": "2024-11-22 03:00:00",
-      "album": {
         "name": "Que te iba a Decir",
         "url": "https://open.spotify.com/album/1tNIO5QIAnEAgwirbmYwSr"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 381577,
       "name": "Botas encontradas",
       "url": "https://open.spotify.com/track/1r8Lfim7AeevbTjUWRbAEL"
+    },
+    {
+      "added_at": "2024-11-22 03:00:00",
+      "album": {
+        "name": "siempre es para siempre",
+        "url": "https://open.spotify.com/album/7gWuUD2e7J9Xc0DqweZYJW"
+      },
+      "artists": [
+        {
+          "name": "Feli Ruiz",
+          "url": "https://open.spotify.com/artist/4uptLcxRqdhbxwAfRt6ra5"
+        }
+      ],
+      "duration_ms": 203136,
+      "name": "siempre es para siempre",
+      "url": "https://open.spotify.com/track/0fPn4lvrye4Qa4Cf0mvF64"
     },
     {
       "added_at": "2024-11-22 03:00:00",

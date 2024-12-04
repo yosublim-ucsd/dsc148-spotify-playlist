@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,343 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,402 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 6 | [Nobody Knows You When You're Down And Out](https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 2:38 |
 | 7 | [The Thrill Is Gone](https://open.spotify.com/track/4kyKnNbxFe86MMeV4xpDL8) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [B.B\. King & Friends \- 80](https://open.spotify.com/album/5xQz73Q2PPi3xeoLrg1uce) | 5:01 |
 | 8 | [Killing Floor](https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:52 |
-| 9 | [Catfish Blues \- Live](https://open.spotify.com/track/2CU9pGd7lq4fSHiFwjs842) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 8:00 |
-| 10 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 |
+| 9 | [Sweet Little Angel](https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 5:30 |
+| 10 | [Catfish Blues \- Live](https://open.spotify.com/track/2CU9pGd7lq4fSHiFwjs842) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Gary Clark Jr\. Live](https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q) | 8:00 |
 | 11 | [Rollin' And Tumblin'](https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Canned Heat](https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8) | 3:11 |
 | 12 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
 | 13 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 49 | [Ain't Nobody's Business](https://open.spotify.com/track/36vQpu01Wa7n72IMJzjAGr) | [Jimmy Witherspoon](https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb) | [Jimmy Witherspoon](https://open.spotify.com/album/3evF9r7xV7KQPldaWLXhtx) | 3:34 |
 | 50 | [I Can't Quit You Baby](https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Can't Quit You Baby / Sit Down Baby](https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV) | 3:07 |
 | 51 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 |
-| 52 | [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 |
-| 53 | [Five Long Years](https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w) | 4:47 |
+| 52 | [Five Long Years](https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w) | 4:47 |
+| 53 | [Mystery Train](https://open.spotify.com/track/2ai9vtLxBecBwYcBRGJXwo) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Little Junior Parker: Mr\. Blues](https://open.spotify.com/album/6dL0V0efzoNS1UtNrwxWaD) | 2:24 |
 | 54 | [See See Rider Blues](https://open.spotify.com/track/71foFS0nD6tAZC9BdsVc9G) | [Bea Booze](https://open.spotify.com/artist/47PKMyeVDaFasSwGibmoSk) | [Country Blues 101](https://open.spotify.com/album/0A2ttGOhKCGIVzLXtSgajJ) | 3:09 |
 | 55 | [Born Under A Bad Sign](https://open.spotify.com/track/2izaaCVI9F3B6d4CYggKsR) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/7EiLL71SlxHaYQrROg8BFa) | 2:47 |
 | 56 | [I Pity the Fool](https://open.spotify.com/track/6V6UMhPC3fN9AMCNGbz9XC) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [Blues Masters: I Pity the Fool](https://open.spotify.com/album/0368Em9mbirVITT1NBrtNl) | 2:43 |

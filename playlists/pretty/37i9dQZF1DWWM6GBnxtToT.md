@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 
 > These songs will put a smile on your face.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,638 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,658 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 25 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 |
 | 26 | [Sisters](https://open.spotify.com/track/0xfUruKo8PubvGKs9hVN7b) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Leoniden](https://open.spotify.com/album/3vLc37mAx6aIQedeIlol7E) | 3:11 |
 | 27 | [wait outside](https://open.spotify.com/track/3IosoOGTe5JZHqyeLyCq1I) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO), [NAVENI](https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [wait outside](https://open.spotify.com/album/66cfO1WvU6TFkzuuVqqx3E) | 2:31 |
-| 28 | [Unpack Your Bags \- Radio Edit](https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Unpack Your Bags \(Radio Edit\)](https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU) | 3:04 |
+| 28 | [Always on My Mind](https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3) | [Roller Derby](https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe) | [Always on My Mind](https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4) | 3:29 |
 | 29 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
-| 30 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 |
-| 31 | [Always on My Mind](https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3) | [Roller Derby](https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe) | [Always on My Mind](https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4) | 3:29 |
+| 30 | [Unpack Your Bags \- Radio Edit](https://open.spotify.com/track/5BJClY9W1julZmgjWaNFb3) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Unpack Your Bags \(Radio Edit\)](https://open.spotify.com/album/2oCc55ntQAwff7LHwnBQWU) | 3:04 |
+| 31 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 |
 | 32 | [Heavy Objects](https://open.spotify.com/track/1c0d5wHErcFhwakR16NoDr) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Heavy Objects](https://open.spotify.com/album/41SYoR26RSoK1Dd6WA57bm) | 2:03 |
 | 33 | [Walking Like That](https://open.spotify.com/track/63R67smkvrZ1kgo6U0DcIN) | [Color The Night](https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh) | [Walking Like That](https://open.spotify.com/album/5oST3PBg1ogGH5VwBg8Hxh) | 2:29 |
 | 34 | [Mexico](https://open.spotify.com/track/38rsZocqoP4YvSzEtL0kaE) | [Mar Malade](https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw) | [Mexico](https://open.spotify.com/album/0x2WSKc0ZtfwBrPnGPMlPm) | 3:56 |
-| 35 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
-| 36 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 |
+| 35 | [Running Up That Hill](https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Seeking Thrills \(The Ultimate Thrills Edition\)](https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ) | 3:08 |
+| 36 | [Luna](https://open.spotify.com/track/37q95xoPlZZzzymKJmEFIB) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Luna](https://open.spotify.com/album/25Bmht81AZbFSbNzHOgw8j) | 3:42 |
 | 37 | [Mexico](https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Mexico](https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr) | 3:12 |
 | 38 | [Life Is Long \- ESCQ Remix](https://open.spotify.com/track/1Ts0ItPHx59El49QqVeWuF) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX), [ESCQ](https://open.spotify.com/artist/1vosl7M2PI9ppxUURFUiOm) | [Life Is Long](https://open.spotify.com/album/3ZSrOi2JWzJUWg6CZ8QCoy) | 3:39 |
 | 39 | [Morning Sun](https://open.spotify.com/track/2q8CITaNIKGjvpwAkroCYD) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Morning Sun](https://open.spotify.com/album/0SE40IGBADJ2A8mneCxzWQ) | 3:19 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM6GBnxtToT.md) - [plain]
 | 43 | [Tides](https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM) | [Shelter Boy](https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV) | [Mirage Morning](https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ) | 2:42 |
 | 44 | [Overthinking](https://open.spotify.com/track/5yG8CqBL4jMnakBDOSoJYG) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Overthinking](https://open.spotify.com/album/39ZjTaQo6zaU0NZ6tHdDac) | 2:28 |
 | 45 | [Go Out](https://open.spotify.com/track/7sDwxV8qrVNdxvljSkjp0n) | [KYTES](https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d) | [Go Out](https://open.spotify.com/album/2z6JzCGNzecll4UW7BSDm4) | 2:34 |
-| 46 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 |
-| 47 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
-| 48 | [cbb to b sad](https://open.spotify.com/track/56b4sQ1Sxi3ox5CoCmcp49) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [shame](https://open.spotify.com/album/5h31KRuPwb3EEgUW0b4k6l) | 4:28 |
+| 46 | [cbb to b sad](https://open.spotify.com/track/56b4sQ1Sxi3ox5CoCmcp49) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [shame](https://open.spotify.com/album/5h31KRuPwb3EEgUW0b4k6l) | 4:28 |
+| 47 | [Hole Digger](https://open.spotify.com/track/3UCg61B7K1MYvxhIrR83jf) | [Camel Power Club](https://open.spotify.com/artist/2ziSUHAT6LbHKCJIlwHhDG), [Desingly](https://open.spotify.com/artist/7e75N4iueWn6bCBMR74oWd) | [Hole Digger](https://open.spotify.com/album/0A6bncjAHwmgyeHkmlzvWb) | 3:05 |
+| 48 | [Midnight Butterflies](https://open.spotify.com/track/5P59FNzxy0uvIL6ko4TL1C) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Midnight Butterflies](https://open.spotify.com/album/23ruAnDa9DTJkOyHI68NPy) | 3:28 |
 | 49 | [2001](https://open.spotify.com/track/6FtfZdMiuUX3CdGMhAZmlJ) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2001](https://open.spotify.com/album/48v3ESTDn7dBxMMapg7wPX) | 4:26 |
 | 50 | [Sweet Melancholy](https://open.spotify.com/track/6pPQ49LVCxxxjxJArSvdxl) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Sweet Melancholy](https://open.spotify.com/album/3eR4Py7KIGQ0hsLtnFUYH8) | 2:58 |
 | 51 | [Little Lucille](https://open.spotify.com/track/4EZMIxbJgUQnz6ZhW9924G) | [Karmic](https://open.spotify.com/artist/5Yaj43qUur81crYPcORYZr) | [Little Lucille](https://open.spotify.com/album/0zPpywiwsbG0vyJAxchY6A) | 3:18 |

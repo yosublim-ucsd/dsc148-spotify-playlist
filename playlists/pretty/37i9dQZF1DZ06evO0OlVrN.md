@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,345 likes - 37 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,347 likes - 37 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 22 | [Ausencia](https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Exitos de Oro, vol\. 2](https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU) | 3:30 |
 | 23 | [Por una Mujer Casada](https://open.spotify.com/track/2FQX8f8S3VAT7gVjeHPP14) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Mi Talismán](https://open.spotify.com/album/4PjX1edXB9jBsfv74nvuSR) | 3:16 |
 | 24 | [Podiosero De Amor \- Live](https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 4:03 |
-| 25 | [Hay Ojitos](https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 2:42 |
-| 26 | [Tengo Miedo](https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:57 |
+| 25 | [Tengo Miedo](https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:57 |
+| 26 | [Hay Ojitos](https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 2:42 |
 | 27 | [Mis 20 Novias](https://open.spotify.com/track/2n8kDwTy72xop89bdx6ZUf) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [De Qué Es Tu Corazón](https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj) | 2:17 |
 | 28 | [Devolucion](https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 de Coleccion](https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH) | 2:12 |
 | 29 | [Tengo Miedo](https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos Llorar por Amor](https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO) | 2:49 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 36 | [Rogante](https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 2:09 |
 | 37 | [Que Bonita Chaparrita](https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [21 Hits, Vol\. 2](https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI) | 2:44 |
 
-Snapshot ID: `Z0unAAAAAADu6iQSRiNv4nIwJqBrrp+6`
+Snapshot ID: `Z0z4gAAAAACbFycntVq8GTc1eB3HDKwD`

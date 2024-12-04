@@ -4,7 +4,7 @@
 
 > This is Anuhea\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 45 min
+79 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Easier](https://open.spotify.com/track/2pmhCyJqNiF2IEE0ATRNaM) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4) | [Amid the Noise and Haste](https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe) | 3:15 | 2023-05-02 |  |
 | [Easier \- Jr Blender RMX](https://open.spotify.com/track/4s0GzPbwf1Sazl7bmRgbpe) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Easier \(Jr Blender RMX\)](https://open.spotify.com/album/7eunXbvj3GuwKeqj3p4ng6) | 3:18 | 2023-05-02 |  |
 | [Endlessly](https://open.spotify.com/track/5h9HSjrDEomNDfg7AR1W5f) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:14 | 2023-05-02 |  |
+| [Fly](https://open.spotify.com/track/2uEbpSC86YqCCH9YrLLrXj) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Anuhea](https://open.spotify.com/album/4scVL1cbZrVFhMB2z0kjL7) | 4:04 | 2024-12-04 |  |
 | [Follow Me \(Remix\)](https://open.spotify.com/track/3nwzpuw4jmld9GYGyUGBUa) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me \(Remix\)](https://open.spotify.com/album/1M8gp8ALcQwerYOrPPm8Sp) | 3:15 | 2023-09-15 |  |
 | [Follow Your Bliss](https://open.spotify.com/track/72KcV8y4f1EnHdZazcND4U) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 4:03 | 2024-11-24 |  |
 | [Forever Summer](https://open.spotify.com/track/0KDKWUzgpKyvhxKbGo8piX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Butterflies: Live](https://open.spotify.com/album/6KiSvxrVgkysWpBytA5Ug4) | 4:27 | 2023-05-02 |  |
@@ -48,7 +49,7 @@
 | [Looking for Love](https://open.spotify.com/track/7yb0IIWyXN0fyxdo3075KX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [For Love](https://open.spotify.com/album/0Ic2CQWbU81W49VrBVxqG8) | 3:21 | 2023-05-02 |  |
 | [Lotus](https://open.spotify.com/track/6DfVKpfD6BqfEM6XRJIOHn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/6PhsnV2tEcJNbJqDwAkd1V) | 3:50 | 2024-04-14 | 2024-12-03 |
 | [Lotus](https://open.spotify.com/track/7yOkenc28VBF76li2yZqc9) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 3:50 | 2024-12-03 |  |
-| [Love Child](https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:46 | 2023-05-02 |  |
+| [Love Child](https://open.spotify.com/track/1W7qrEjdFCnzZJYrIN1CZ5) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Shoulders](https://open.spotify.com/album/1L3qygzseL8iNIOC2IqeFg) | 4:46 | 2023-05-02 | 2024-12-04 |
 | [Maui Rain](https://open.spotify.com/track/5FOYr6pgoZnnm2Yr05QeUN) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Maui Rain](https://open.spotify.com/album/7HvCD6nzNXG7Rc19nNdq30) | 3:37 | 2024-08-10 |  |
 | [Mixed Feelings](https://open.spotify.com/track/011xoKDagylY12ofOd3qUX) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me](https://open.spotify.com/album/4b1DzrFBADJR0vBQDAb31a) | 3:23 | 2023-05-02 | 2023-09-26 |
 | [Mixed Feelings](https://open.spotify.com/track/7pbIwRECTzRIQZTgujrOYn) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Follow Me \(Deluxe Hawai'i Edition\)](https://open.spotify.com/album/3I0B3rBBML7R1Yvo1Whuor) | 3:23 | 2023-09-25 |  |
@@ -59,7 +60,7 @@
 | [Perfect Day](https://open.spotify.com/track/56YJ6PDiJJUb2FBbHoex5L) | [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Heartbeat](https://open.spotify.com/album/4ngV4717539caCp8SVI35A) | 4:52 | 2023-12-13 |  |
 | [Perfect Day \(feat\. Anuhea\)](https://open.spotify.com/track/3jNPao0Z24xxFE5J1dMw5r) | [Awa](https://open.spotify.com/artist/19LpP7w37NXREZFCZ0K87P), [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Heartbeat](https://open.spotify.com/album/2NPwCq6dsn7uNVex6s1EzQ) | 4:55 | 2023-05-02 | 2023-12-14 |
 | [Raw](https://open.spotify.com/track/2miJGwkdsz31S0uJN0nucG) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Lotus](https://open.spotify.com/album/5MNWvnLBHoyCqgGhs9oT8S) | 3:19 | 2024-11-25 |  |
-| [Ready and Willing](https://open.spotify.com/track/60piylGglPP75VzDPg8q8t) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Ready and Willing](https://open.spotify.com/album/38U6pAhmqMfBS7qZSIJQKl) | 3:30 | 2023-05-02 |  |
+| [Ready and Willing](https://open.spotify.com/track/60piylGglPP75VzDPg8q8t) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Ready and Willing](https://open.spotify.com/album/38U6pAhmqMfBS7qZSIJQKl) | 3:30 | 2023-05-02 | 2024-12-04 |
 | [Red, Gold & Green](https://open.spotify.com/track/6CIxSkIqHnaN7ZiZQxMNwC) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Kimié Miner](https://open.spotify.com/artist/5Cp5wDJmbemEQsC3XA83Mg) | [Red, Gold & Green](https://open.spotify.com/album/6PGmIHc5avNNXPTh8l7ozo) | 3:49 | 2023-12-13 | 2024-09-21 |
 | [Red, Gold & Green](https://open.spotify.com/track/4hOxeXbeTDjm5T4DoyEUGs) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk), [Kimié Miner](https://open.spotify.com/artist/0WqR2IuhhxLCTryPSvFv61) | [Red, Gold & Green](https://open.spotify.com/album/1nzpKDlVM4c8ly5RZsAXPJ) | 3:49 | 2024-09-21 |  |
 | [Riddles](https://open.spotify.com/track/3pBRiwsPKluXQIzsynvRhG) | [Anuhea](https://open.spotify.com/artist/2RHXvm6gGpbDIsksQXJ1vk) | [Follow Me](https://open.spotify.com/album/4b1DzrFBADJR0vBQDAb31a) | 3:07 | 2023-05-02 | 2023-09-26 |

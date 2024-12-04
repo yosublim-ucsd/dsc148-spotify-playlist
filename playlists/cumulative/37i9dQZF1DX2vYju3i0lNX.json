@@ -4071,6 +4071,24 @@
     },
     {
       "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/5XJXfJrYr4vHt4LEKZOkzo"
+      },
+      "artists": [
+        {
+          "name": "Maurice Green",
+          "url": "https://open.spotify.com/artist/0I2MdtSSCg5xHyymlJpnN3"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163623,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/4WJN8KL1ri8SEHJqvXBwF1"
+    },
+    {
+      "album": {
         "name": "My Old Friend",
         "url": "https://open.spotify.com/album/7akq0fBZz06m8UB19Cxsjf"
       },
@@ -4966,7 +4984,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 245788,
       "name": "Enigmatic Echoes",
       "url": "https://open.spotify.com/track/4VQpucRkBAU0sU5XMD28uq"
@@ -6460,7 +6478,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 250738,
       "name": "Goodbye to Winter",
       "url": "https://open.spotify.com/track/2yTIMZoBiUKof6rzNhPc1P"
@@ -9754,7 +9772,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 263530,
       "name": "Le jardin de l'espoir",
       "url": "https://open.spotify.com/track/6u2JXDE0uEWI0iu6QvsAGN"
@@ -10546,7 +10564,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 218437,
       "name": "Love Grows",
       "url": "https://open.spotify.com/track/3D3KQCFx8tQr2EGbCT4cdY"
@@ -12695,6 +12713,24 @@
     },
     {
       "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1HT9PUOOxTwnx8HP2ah4tb"
+      },
+      "artists": [
+        {
+          "name": "Prism Trio",
+          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2mLjZGrLxHhQNwtZLxGJUF"
+    },
+    {
+      "album": {
         "name": "Notes and Nights",
         "url": "https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4"
       },
@@ -13682,6 +13718,24 @@
       "duration_ms": 223434,
       "name": "Presidents and Peacemakers",
       "url": "https://open.spotify.com/track/39UsfnZDCjipuXlsjXB6Di"
+    },
+    {
+      "album": {
+        "name": "Pretending We're Alone",
+        "url": "https://open.spotify.com/album/7MuvT9bQ5NPZw0yTO3S8wL"
+      },
+      "artists": [
+        {
+          "name": "Sparrow & Bird",
+          "url": "https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208822,
+      "name": "Pretending We're Alone",
+      "url": "https://open.spotify.com/track/2RvQAQHimYUswenLOlM00l"
     },
     {
       "album": {
@@ -17905,6 +17959,24 @@
     },
     {
       "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/2LGRQKPRwLbwOWhHCD2Lne"
+      },
+      "artists": [
+        {
+          "name": "Nathan Hill Trio",
+          "url": "https://open.spotify.com/artist/4KDVrZS1ZTq8DvPeEZxbHz"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/0LCuIYTGRhY1naHm3zVjxY"
+    },
+    {
+      "album": {
         "name": "To See a Flower",
         "url": "https://open.spotify.com/album/2FHOguRDA6SNkRZrpkn5Ol"
       },
@@ -19266,7 +19338,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 193308,
       "name": "Where Two Oceans Meet",
       "url": "https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ"

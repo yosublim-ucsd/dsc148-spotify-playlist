@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAACoSpSNfR/NgiOTEcSWTDim",
+  "snapshot_id": "Z0z4gAAAAABQPsvGlmyff1yjWIUvfg51",
   "tracks": [
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FLDSZN",
+        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
+      },
+      "artists": [
+        {
+          "name": "Obijuan",
+          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 68193,
+      "name": "GREAT APE",
+      "url": "https://open.spotify.com/track/3pak6hjqgQwTpdVknGSem0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dump Gawd: Shot Clock King",
         "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 150769,
       "name": "Dear Friend",
       "url": "https://open.spotify.com/track/4mIq67OpwFeAmXmGJfIVMQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deleted Scenes",
-        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
-      },
-      "artists": [
-        {
-          "name": "Ransom",
-          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 184910,
-      "name": "Eyes Wide Shut",
-      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
     },
     {
       "added_at": null,
@@ -483,22 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLDSZN",
-        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
+        "name": "Deleted Scenes",
+        "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
       "artists": [
         {
-          "name": "Obijuan",
-          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
+          "name": "Ransom",
+          "url": "https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4"
         },
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 68193,
-      "name": "GREAT APE",
-      "url": "https://open.spotify.com/track/3pak6hjqgQwTpdVknGSem0"
+      "duration_ms": 184910,
+      "name": "Eyes Wide Shut",
+      "url": "https://open.spotify.com/track/7AkHHkRNWLc9Ytz60MH8lW"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
       "duration_ms": 222040,
       "name": "Opulence",
       "url": "https://open.spotify.com/track/0CQpw44VyarpOO0YPZm37A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 146807,
-      "name": "Wit out a Question",
-      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
     },
     {
       "added_at": null,
@@ -567,6 +547,26 @@
       "duration_ms": 199751,
       "name": "Jeff Panacloc",
       "url": "https://open.spotify.com/track/5YKtEDhceft3Mt48fBTMIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 146807,
+      "name": "Wit out a Question",
+      "url": "https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 134269,
-      "name": "Look What You Done",
-      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deleted Scenes 2",
         "url": "https://open.spotify.com/album/6aDvhj7JY03sEqGQHxiJcQ"
       },
@@ -651,6 +631,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 134269,
+      "name": "Look What You Done",
+      "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deleted Scenes",
         "url": "https://open.spotify.com/album/0bSumc88UItdZGGWQwf3f5"
       },
@@ -667,6 +667,26 @@
       "duration_ms": 129570,
       "name": "The Reaper's Hood Remix",
       "url": "https://open.spotify.com/track/0AioKbKSmGVyhyqbXEM8b4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FLDSZN",
+        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
+      },
+      "artists": [
+        {
+          "name": "Obijuan",
+          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 76448,
+      "name": "RUM CAKE",
+      "url": "https://open.spotify.com/track/3uRWoCAihemNY0oV667Vro"
     },
     {
       "added_at": null,
@@ -747,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FLDSZN",
-        "url": "https://open.spotify.com/album/0RZYy9Yf5t1mGtMDhI9q0B"
-      },
-      "artists": [
-        {
-          "name": "Obijuan",
-          "url": "https://open.spotify.com/artist/5ajMNymelIspkqnQ8ZRxvh"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 76448,
-      "name": "RUM CAKE",
-      "url": "https://open.spotify.com/track/3uRWoCAihemNY0oV667Vro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Directors Cut 4",
         "url": "https://open.spotify.com/album/0dp06Yn0DusNEeKYNX3zuv"
       },
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dump Gawd: Shot Clock King",
-        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
-      },
-      "artists": [
-        {
-          "name": "Tha God Fahim",
-          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
-        },
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Crypto",
-      "url": "https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Death & Taxes",
         "url": "https://open.spotify.com/album/0MHW2ruQWqTZT6R06j1BgT"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 190728,
       "name": "Death & Taxes",
       "url": "https://open.spotify.com/track/1weo83VRQa8RX6bKxWO90U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dump Gawd: Shot Clock King",
+        "url": "https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs"
+      },
+      "artists": [
+        {
+          "name": "Tha God Fahim",
+          "url": "https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Crypto",
+      "url": "https://open.spotify.com/track/0ndQ3lxvJIEHlR24f3ykl3"
     },
     {
       "added_at": null,
@@ -927,26 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "YOD Body",
-      "url": "https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OV3\u00b2",
         "url": "https://open.spotify.com/album/42Cl1mWFFmdfciQKfYdnqH"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 155516,
       "name": "True Religion",
       "url": "https://open.spotify.com/track/1TDqcpxGoT7T6AqxZ0ICJA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "YOD Body",
+      "url": "https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA"
     },
     {
       "added_at": null,

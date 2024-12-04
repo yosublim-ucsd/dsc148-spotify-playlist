@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-436 songs - 22 hr 15 min
+437 songs - 22 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [Om tiden hade stannat](https://open.spotify.com/track/36Ynfvm2Mwq2shd0LRfTML) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj), [Moa Michaeli](https://open.spotify.com/artist/3L0guCaIo8WSeLTgBJHRsc) | [Kollage](https://open.spotify.com/album/5vAOzXtg6NFTxjRxOY27zp) | 3:00 | 2024-07-25 | 2024-09-06 |
 | [On My Way](https://open.spotify.com/track/1UYnuxsScsS2INJyb55HgT) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [On My Way](https://open.spotify.com/album/5EZYTYYPCY0rfxkC53M0pn) | 2:38 | 2024-11-21 |  |
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-24 |  |
+| [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2024-12-03 |  |
 | [Oslagbara](https://open.spotify.com/track/2v8OHqvx47n2YmfgAN9cF8) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [Oslagbara](https://open.spotify.com/album/1pOzHHBNWHFc7nMF1uzZ5N) | 2:10 | 2024-08-29 | 2024-09-27 |
 | [Other Girls](https://open.spotify.com/track/30KBxYM7rF2Bsx9EOzG6Do) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Other Girls](https://open.spotify.com/album/2DJXjPiY64Q8U5MHqMmOuD) | 3:18 | 2024-10-24 |  |
 | [Panic](https://open.spotify.com/track/3r7GgRegpst8F5jjDmfD6W) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Corbyn Besson](https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj) | [Panic](https://open.spotify.com/album/7wrFawWVd9g2UeOuj0rOfU) | 2:53 | 2024-08-01 | 2024-09-13 |

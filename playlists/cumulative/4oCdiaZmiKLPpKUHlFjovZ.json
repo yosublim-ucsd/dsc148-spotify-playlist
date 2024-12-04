@@ -1225,6 +1225,28 @@
     },
     {
       "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN"
+    },
+    {
+      "album": {
         "name": "Breath Of Fresh Air",
         "url": "https://open.spotify.com/album/4NLl6P5UZoN31UsnSikaPJ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,019 likes - 70 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,025 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,18 +64,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 54 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 |
 | 55 | [Autumn Girl](https://open.spotify.com/track/7BHeJjEfxN7tXL6H02g8dO) | [Will Clift](https://open.spotify.com/artist/36MMFW5n8cGIE67RoT0n0H) | [Autumn Girl](https://open.spotify.com/album/7Ii762nNXDDzkMP51jZ8cE) | 2:34 |
 | 56 | [Hard To Get High](https://open.spotify.com/track/1nGSviVN5YHenuhZVFOGyx) | [Ash Minor](https://open.spotify.com/artist/0P1bjDnIRWm0VUdA0urCNG) | [Hard To Get High](https://open.spotify.com/album/7mrYWEvmuAkZussx8UxwkD) | 4:36 |
-| 57 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 |
+| 57 | [maryjane](https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z) | [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [maryjane](https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V) | 3:21 |
 | 58 | [No Apologies 1.9 V2\_demo](https://open.spotify.com/track/6S62tqvoLp4iqXe6c76zi1) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [No Apologies 1.9 V2\_demo](https://open.spotify.com/album/4P3LN32enOHhgI4BNnHguS) | 2:07 |
-| 59 | [maryjane](https://open.spotify.com/track/1HD7Z0tprZYcPC2okitF6z) | [KHYA](https://open.spotify.com/artist/4XgGyZXiobm9kfKFBdasgm) | [maryjane](https://open.spotify.com/album/0g56yZHVOSFB47HhNDnB0V) | 3:21 |
+| 59 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 |
 | 60 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 |
-| 61 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |
+| 61 | [Sway \- Remix](https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [Rex Atirai](https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW) | [Sway \(Remix\)](https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH) | 3:56 |
 | 62 | [Hoodie](https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Hoodie](https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN) | 4:04 |
-| 63 | [Sway \- Remix](https://open.spotify.com/track/5LCrSMS9ix7OTA0jx4PYfM) | [Myshaan](https://open.spotify.com/artist/0gVfAlaeZLxf89TRVWW3ZN), [Rex Atirai](https://open.spotify.com/artist/3YWnT7lNCBODL78ikRDomW) | [Sway \(Remix\)](https://open.spotify.com/album/6Y58r14MEhkDyXYkqYrxvH) | 3:56 |
+| 63 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |
 | 64 | [Addict](https://open.spotify.com/track/49xxb736ZAuvcI12r7AKO3) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Open](https://open.spotify.com/album/7rw7bnbtHuPrjXRb2iuZ6h) | 3:29 |
-| 65 | [Til My Song is Done](https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Til My Song Is Done](https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X) | 4:34 |
-| 66 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |
-| 67 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
-| 68 | [Laying Low](https://open.spotify.com/track/2fifKuAmWQBwKmG31rNBNb) | [Betty](https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs) | [Laying Low](https://open.spotify.com/album/7p8J6goKPHU2o05TJ49WmL) | 2:49 |
+| 65 | [Laying Low](https://open.spotify.com/track/2fifKuAmWQBwKmG31rNBNb) | [Betty](https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs) | [Laying Low](https://open.spotify.com/album/7p8J6goKPHU2o05TJ49WmL) | 2:49 |
+| 66 | [Til My Song is Done](https://open.spotify.com/track/6gC01enBKZMxtuJQiVi0eG) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs) | [Til My Song Is Done](https://open.spotify.com/album/6CmtgWsHIyzLaY6HOH7u4X) | 4:34 |
+| 67 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |
+| 68 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
 | 69 | [SEE YOU TRY...](https://open.spotify.com/track/2wQl3xTp4Xc0L37BSKY7py) | [Yawdoesitall](https://open.spotify.com/artist/3TtvX6o3U5yzsEIAw0Ls1P), [Yasmina Sadiki](https://open.spotify.com/artist/4t29fzCiwTpsufS6mOOdgh), [TAWANDA](https://open.spotify.com/artist/3F4FCqwmeTAp08WDVG9li5), [DEVAURA](https://open.spotify.com/artist/7MPlrCtiMvRiqSuww4uSiX) | [SEE YOU TRY...](https://open.spotify.com/album/1Jehaxde2CWArAasfAVvkV) | 3:00 |
 | 70 | [Everything](https://open.spotify.com/track/4wzFCTofXlFzC83qV84yP9) | [Elle Eliades](https://open.spotify.com/artist/1c2q368iVXxuTcNdwSDr6i) | [Everything](https://open.spotify.com/album/7fHe2i7vt2vWJoNwt9vKUQ) | 3:39 |
 

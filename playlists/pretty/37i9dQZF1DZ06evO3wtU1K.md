@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,890 likes - 50 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,891 likes - 50 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 39 | [I Love This Place \- Live](https://open.spotify.com/track/0ZwHfP8IYjwn346pI7cGdz) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 3:03 |
 | 40 | [Gotta Believe](https://open.spotify.com/track/0N4upknEA6H03wbFoumjh8) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [10 Years of Tasha](https://open.spotify.com/album/1NNOae3g7uXGyiBaxGuwUR) | 2:50 |
 | 41 | [Even Now \- Live From Chattanooga, TN](https://open.spotify.com/track/57gQF5VCsMoR9PjdUd59WS) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Cry: A Live Worship Experience](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 8:08 |
-| 42 | [Together \(We'll Get Through This\)](https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Together \(We'll Get Through This\)](https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3) | 3:24 |
-| 43 | [The Blood Hymns Medley \- Live](https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 2:47 |
-| 44 | [Wonderful Grace](https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:49 |
+| 42 | [Wonderful Grace](https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:49 |
+| 43 | [Together \(We'll Get Through This\)](https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Together \(We'll Get Through This\)](https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3) | 3:24 |
+| 44 | [The Blood Hymns Medley \- Live](https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 2:47 |
 | 45 | [I Will Follow](https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 5:33 |
 | 46 | [Grace \- Live](https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:09 |
 | 47 | [Never Be The Same \(feat\. Tasha Cobbs Leonard, Brian Courtney Wilson & Travis Greene\)](https://open.spotify.com/track/1ZLQ9em098JEt310TDsbs2) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Gospel According To PJ](https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [The Church I Grew Up In \- Live](https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The Church I Grew Up in \(Live\)](https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi) | 4:56 |
 | 50 | [You’re Gonna Get The Glory \- Live](https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 8:01 |
 
-Snapshot ID: `Z0unAAAAAACqixF/DZdOnGKMRklKk+7G`
+Snapshot ID: `Z0z4gAAAAADhq0pB6pz3DIMZ8sC5ul5T`

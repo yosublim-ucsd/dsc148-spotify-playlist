@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,350 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,506 likes - 70 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,13 +54,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 44 | [Grind](https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc) | [Les Sins](https://open.spotify.com/artist/4gSTRpmeyYppvIXuFKjfAL) | [Grind / Prelims](https://open.spotify.com/album/0hDAUxNVrjkDmfzuVCueMs) | 5:18 |
 | 45 | [Nineteen Hundred and Eighty Five](https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 5:40 |
 | 46 | [Mango Season](https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Mango Season](https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES) | 2:27 |
-| 47 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
-| 48 | [Trago Coqueto](https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:02 |
+| 47 | [Trago Coqueto](https://open.spotify.com/track/54SKhrxbRKvXuB3C3SGGoC) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi) | 3:02 |
+| 48 | [Na Procura](https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg) | [Yemanjo](https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N) | [Na Procura](https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA) | 6:30 |
 | 49 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
 | 50 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 |
-| 51 | [satsuma](https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 2:58 |
+| 51 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
 | 52 | [Santa María](https://open.spotify.com/track/2QH0Glmg5qHmt1S1Dj0NLS) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Santa María](https://open.spotify.com/album/0QM0NUGL0bnMOEJwh3EJvm) | 4:20 |
-| 53 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Simón Mejía](https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
+| 53 | [satsuma](https://open.spotify.com/track/3R050VaH43jmKAwoGluK2L) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 2:58 |
 | 54 | [Estación Esperanza](https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Estación Esperanza](https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ) | 5:16 |
 | 55 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
 | 56 | [Chichera](https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT) | [Dubamerica](https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX) | 5:36 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 65 | [La de la terraza](https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Sonidos enraizados](https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw) | [La de la terraza](https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g) | 2:43 |
 | 66 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |
 | 67 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
-| 68 | [Un Canto](https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs) | [MUTA](https://open.spotify.com/artist/62LBdSPU8iqcGV4tSKruO9) | [Un Canto](https://open.spotify.com/album/40Rjb6ttHVFGY3mUCYxZ5B) | 4:44 |
-| 69 | [Dejate Llevar](https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dejate Llevar](https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg) | 5:01 |
-| 70 | [Encerrada](https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Encerrada](https://open.spotify.com/album/5jCdPRTOcPLQNPZNHugD0s) | 3:03 |
+| 68 | [Encerrada](https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Encerrada](https://open.spotify.com/album/5jCdPRTOcPLQNPZNHugD0s) | 3:03 |
+| 69 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
+| 70 | [Dejate Llevar](https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dejate Llevar](https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg) | 5:01 |
 
 Snapshot ID: `ZtvQIQAAAAAIy39ksv0St0xCvTiJCqjH`

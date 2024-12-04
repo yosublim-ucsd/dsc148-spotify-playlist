@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwt8nLYPq15.md) - [plain]
 
 > summer heat 🥵🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,248 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,247 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwt8nLYPq15.md) - [plain]
 | 31 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
 | 32 | [HEATED](https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:20 |
 | 33 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |
-| 34 | [Kickin’ Back](https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [213](https://open.spotify.com/album/3wlzfD1t9CCQToaqR0rYFG) | 3:22 |
+| 34 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
 | 35 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 |
-| 36 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 |
+| 36 | [Kickin’ Back](https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [213](https://open.spotify.com/album/3wlzfD1t9CCQToaqR0rYFG) | 3:22 |
 | 37 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 |
 | 38 | [Fell In Love](https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fell In Love](https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8) | 2:01 |
 | 39 | [Girl \(feat\. KAYTRANADA\)](https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:55 |

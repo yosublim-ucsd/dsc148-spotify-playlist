@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Jonita Gandhi
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,707 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,761 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 4 | [Afghani Afeem Hai](https://open.spotify.com/track/1yIcqvOuIPik618W3keOhi) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Afghani Afeem Hai](https://open.spotify.com/album/5vXSOWaQIFaEqmJ9IHi8Mg) | 2:41 |
 | 5 | [Hadh Se](https://open.spotify.com/track/65TcKwxfrWZuKZs1W5OfQj) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rahul Mishra](https://open.spotify.com/artist/5wTLUHTynSSD53c7S9XEdr), [Prince Dubey](https://open.spotify.com/artist/3bs0mT7GMaduAPHu1oWJwq) | [Hadh Se](https://open.spotify.com/album/4wa3zwD2WpY9ArvSoeM66f) | 4:08 |
 | 6 | [Tu Hi Meri Manzil](https://open.spotify.com/track/6uANApp4MD0VtM6Cdy27Ct) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Tu Hi Meri Manzil](https://open.spotify.com/album/0QjT7tujN5VlzjK85QlUPi) | 3:12 |
-| 7 | [Rozaana](https://open.spotify.com/track/1oGSv6ohmyxzoLkS65Heic) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Rozaana](https://open.spotify.com/album/0LZ0J0uxtSPbBbW05n42gZ) | 3:20 |
+| 7 | [Rozaana](https://open.spotify.com/track/1oGSv6ohmyxzoLkS65Heic) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Rozaana](https://open.spotify.com/album/0LZ0J0uxtSPbBbW05n42gZ) | 3:20 |
 | 8 | [Dil Na Hoga](https://open.spotify.com/track/6puwbifZYn7q64EsSHZWrw) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil Na Hoga](https://open.spotify.com/album/4LbxoRC5fejeQfPgvvukAV) | 3:14 |
 | 9 | [Naam Toh Tu Jaanta Hai](https://open.spotify.com/track/6LQcvhQHdoDAr09PENVdjx) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Sameer Uddin](https://open.spotify.com/artist/4V6kiLVN9YYIgd5TzBZ7rX), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Naam Toh Tu Jaanta Hai](https://open.spotify.com/album/2li8D8P7MZ0aPXmn6ebRM4) | 2:36 |
 | 10 | [Jaane Kyun](https://open.spotify.com/track/6x8KyRuAHT7WziteO7PsrC) | [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Jaane Kyun](https://open.spotify.com/album/1yJSe5pmHtugpItcdGuB7L) | 3:10 |

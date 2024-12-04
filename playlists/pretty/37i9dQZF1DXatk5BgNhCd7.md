@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: La Receta, Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,464 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,529 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

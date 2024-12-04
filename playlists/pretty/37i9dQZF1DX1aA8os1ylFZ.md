@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,965 likes - 87 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,986 likes - 87 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 50 | [Clouds](https://open.spotify.com/track/23DyGq8RBW6iTOhVkMUfXT) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Clouds](https://open.spotify.com/album/2jCiuFgbccEXrHwsaJ84QV) | 3:55 |
 | 51 | [Waiting On You](https://open.spotify.com/track/19opeo8ALZ3XNBnwI346xv) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Waiting On You](https://open.spotify.com/album/03niz1guXkCijhBFZoI4iK) | 2:43 |
 | 52 | [NICE GIRLS](https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [NICE GIRLS](https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm) | 2:29 |
-| 53 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 |
-| 54 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 |
+| 53 | [Time Ain't On Our Side](https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf) | [In My Heart In My Veins](https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m) | 3:16 |
+| 54 | [Lately Remix \(feat\. Craig David\)](https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [falling or flying \(Deluxe\)](https://open.spotify.com/album/6wGJaNajgijDuLmoQKqsAf) | 2:06 |
 | 55 | [Why \(Remix\)](https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Why \(Remix\)](https://open.spotify.com/album/3HHhIRz5oDEXzbHPKixuZz) | 2:41 |
 | 56 | [Sunshine](https://open.spotify.com/track/6GP9jeFO6QDrH6Ya4q5cFp) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq) | [Sunshine](https://open.spotify.com/album/4Npam0z6ZMgepAkZGT5liB) | 2:32 |
 | 57 | [Slide](https://open.spotify.com/track/15SHKUdlRaqIVTJWcP5n5a) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF), [J Warner](https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo) | [Wish You Were Here](https://open.spotify.com/album/3KzXjaZ3bOVtC6RgFCkUTE) | 3:35 |
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 60 | [Double Tragedy](https://open.spotify.com/track/2Zs7Q7lJB1aUDL06rE2xN2) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Double Tragedy](https://open.spotify.com/album/5Knkg9Hx7EoJE4ZnLX7f8H) | 2:45 |
 | 61 | [Runaway](https://open.spotify.com/track/1V9Ez2GB6GKxJ8DcqsrWSA) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Runaway](https://open.spotify.com/album/2trHkv6oFtPokMkQHfHoNH) | 3:22 |
 | 62 | [Relax your mind](https://open.spotify.com/track/4rGtBNEGviusJ1vPiwurg9) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Relax your mind](https://open.spotify.com/album/68LVTdCq0QOLYvvZCFXGAt) | 3:31 |
-| 63 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
-| 64 | [Madonna](https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [whereislema](https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV), [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q) | [Madonna](https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp) | 3:55 |
-| 65 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
-| 66 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 |
+| 63 | [Madonna](https://open.spotify.com/track/58u08GcuIARKUEZRIIgAbK) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34), [whereislema](https://open.spotify.com/artist/3AWX8eDeUJOmu51V43w1kV), [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q) | [Madonna](https://open.spotify.com/album/26hitMnTFh8kkimXYkisZp) | 3:55 |
+| 64 | [Silky Feels](https://open.spotify.com/track/3MBF7eH1Qstob0DQGAGTjQ) | [Simona](https://open.spotify.com/artist/3vhX2s2sJN6iV0fbvgZAAB), [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Silky Feels](https://open.spotify.com/album/3BVIKzG5YaENmAUWuIqNzI) | 2:45 |
+| 65 | [Charged Up](https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Charged Up](https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf) | 2:59 |
+| 66 | [COMPLACENT](https://open.spotify.com/track/3GOQvJ0I7QnoNl2HZHAYXC) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [THE GOOD TYPE OF BAD](https://open.spotify.com/album/4bT5yl41GmjrSCGcsRlWpO) | 3:25 |
 | 67 | [ANTICIPATE](https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo), [Cait Harris](https://open.spotify.com/artist/1mE23Pc6sUgdxyAj0zCjp0) | [ANTICIPATE](https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK) | 2:32 |
 | 68 | [Spinn On You](https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Spinn On You](https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w) | 2:20 |
 | 69 | [10%](https://open.spotify.com/track/2WEgzFA8dSocpayQpNxcAZ) | [Saràh Phenom](https://open.spotify.com/artist/7M5MhGj44O2JkQbMfNSc8G) | [10%](https://open.spotify.com/album/5zlAwASkPnPzQv5edsDMJW) | 2:51 |

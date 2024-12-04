@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,266 likes - 215 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,294 likes - 215 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 28 | [The Hidden Hand](https://open.spotify.com/track/7w9MzpTKU4ZBisKmDFTq9m) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Dune: Prophecy \(Soundtrack from the HBO® Original Series\) \- Volume 1](https://open.spotify.com/album/5rSsxlbLVV86AIW10iRDT9) | 3:21 |
 | 29 | [Farewell](https://open.spotify.com/track/6VFvYTcaZtdVAycxoaZ21Z) | [Johannes Lehniger](https://open.spotify.com/artist/1lUNTqzrRE6zlTWs4QIqa8), [Sebastian Damerius](https://open.spotify.com/artist/4V5OLdgJBNzmJn9kAHjelZ), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [The Empress: II \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4OhUUntW1tbvsnUHEZsnU2) | 3:02 |
 | 30 | [Orion](https://open.spotify.com/track/0dEV6JEr0zuolkw5E4ySxW) | [Isabella Summers](https://open.spotify.com/artist/3lXo0AHcUyMiTt1VCtXJmj) | [HITPIG! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5d5EAMNJICYny14f7k5lUl) | 1:46 |
-| 31 | [A Sense of Purpose](https://open.spotify.com/track/1jZd3DkUju7vcts4fvqpmy) | [John Coda](https://open.spotify.com/artist/74re83nJ4MCsCbCJiCuC8R), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Reagan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hOEFiaWsWm0LOU0WG9W3f) | 2:47 |
+| 31 | [A Sense of Purpose](https://open.spotify.com/track/1jZd3DkUju7vcts4fvqpmy) | [John Coda](https://open.spotify.com/artist/74re83nJ4MCsCbCJiCuC8R), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [Reagan \(Original Motion Picture Score\)](https://open.spotify.com/album/7hOEFiaWsWm0LOU0WG9W3f) | 2:47 |
 | 32 | [Muncie In Red](https://open.spotify.com/track/6g8V3m59jtrLXy6kVdbqLz) | [Philip Klein](https://open.spotify.com/artist/3zCRsgYimWW3rYsaEgXIeG) | [The Madness \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7vbw9fFTiUdnWoDU0HyOU2) | 1:55 |
 | 33 | [Closing \(We Live in Time Original Soundtrack\)](https://open.spotify.com/track/08ojlcnkBKIdYfmMpBo0XS) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [Closing \(We Live in Time Original Soundtrack\)](https://open.spotify.com/album/2DZsp3qLJw4LTS5u7WnHQW) | 1:55 |
 | 34 | [Among Circling Peaks \(feat\. Ashley Jarmack, Nawma Rolyu, Tina Guo\)](https://open.spotify.com/track/4USp62fmpgc2GCqzwOJ4ps) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl), [Ashley Jarmack](https://open.spotify.com/artist/7MYL08IICk2vquYMX7gXgS), [Nawma Rolyu](https://open.spotify.com/artist/32BRJ22q43RKME4Bo6MscG), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV) | [Avatar: Frontiers of Pandora \- Secrets of the Spires \(Original Game Soundtrack\)](https://open.spotify.com/album/6YFpAhNqEHmCKpauiQJulY) | 1:31 |

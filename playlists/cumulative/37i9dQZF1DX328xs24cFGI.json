@@ -524,7 +524,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 178446,
       "name": "Color of our destiny",
       "url": "https://open.spotify.com/track/7b6BdnzuckZVite9Bfd1k5"
@@ -4498,7 +4498,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 195493,
       "name": "\u4e0d\u5b8c\u5168\u306b\u604b",
       "url": "https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC"
@@ -4786,7 +4786,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 220592,
       "name": "\u541b\u306e\u5f7c\u6c0f\u306b\u306a\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/21XaN0fJCF1QhEQV2QitrU"
@@ -5513,6 +5513,24 @@
     },
     {
       "album": {
+        "name": "\u60aa\u3044\u4eba",
+        "url": "https://open.spotify.com/album/06bDwjXKGt0aath0TxZ8GY"
+      },
+      "artists": [
+        {
+          "name": "\u6226\u6144\u304b\u306a\u306e",
+          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "\u60aa\u3044\u4eba",
+      "url": "https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux"
+    },
+    {
+      "album": {
         "name": "\u60f3\u671b",
         "url": "https://open.spotify.com/album/5FximYjhARhnGEDF1A6fWZ"
       },
@@ -5891,6 +5909,24 @@
     },
     {
       "album": {
+        "name": "\u7247\u9685\u306e\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
+        "url": "https://open.spotify.com/album/4mSD5xrq0dDD8Ms0TYitO8"
+      },
+      "artists": [
+        {
+          "name": "HIRAIDAI",
+          "url": "https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208063,
+      "name": "\u7247\u9685\u306e\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
+      "url": "https://open.spotify.com/track/4WqECnYAtpAoc4HJfdBMrL"
+    },
+    {
+      "album": {
         "name": "\u7518\u604b",
         "url": "https://open.spotify.com/album/0b52gb7VLKM0FxLjQkTpkr"
       },
@@ -6014,6 +6050,24 @@
       "duration_ms": 187520,
       "name": "\u77e5\u308a\u305f\u3044",
       "url": "https://open.spotify.com/track/0ZzlTt1awceD0HCG2ntBi3"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
+        "url": "https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO"
+      },
+      "artists": [
+        {
+          "name": "\u30cb\u30a4\u30ca",
+          "url": "https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168539,
+      "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
+      "url": "https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT"
     },
     {
       "album": {

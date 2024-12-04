@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 34890,
+  "num_followers": 34891,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAACqixF/DZdOnGKMRklKk+7G",
+  "snapshot_id": "Z0z4gAAAAADhq0pB6pz3DIMZ8sC5ul5T",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 409506,
+      "name": "Wonderful Grace",
+      "url": "https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Together (We'll Get Through This)",
         "url": "https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3"
       },
@@ -847,26 +867,6 @@
       "duration_ms": 167040,
       "name": "The Blood Hymns Medley - Live",
       "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 409506,
-      "name": "Wonderful Grace",
-      "url": "https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC"
     },
     {
       "added_at": null,

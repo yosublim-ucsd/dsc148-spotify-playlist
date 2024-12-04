@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 | 15 | [Bad People](https://open.spotify.com/track/2CMA6mhqGhVSn6EQ1StxOa) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Bad People](https://open.spotify.com/album/49zAhCFGgaSPWJJHUvzNec) | 3:16 |
 | 16 | [Kicks](https://open.spotify.com/track/4AeL5jqJOg30DBEEqTmdTD) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:36 |
 | 17 | [Hanging By Your Halo](https://open.spotify.com/track/0aLsrFUyCvDC2zYO2aRmMD) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Hanging By Your Halo](https://open.spotify.com/album/6928Vsp7ZijstjVHYwxmIR) | 3:15 |
-| 18 | [Ugly Truth](https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:12 |
-| 19 | [Lovers Or Liars](https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:54 |
+| 18 | [Lovers Or Liars](https://open.spotify.com/track/081IPSY9UWk6RdARdzWVy4) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Liars](https://open.spotify.com/album/1JgKjuXBfsamwVZB2KF50i) | 3:54 |
+| 19 | [Ugly Truth](https://open.spotify.com/track/7wm1gpbxjhoxhDb69LqFZg) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Sinners](https://open.spotify.com/album/1f17i0gfwq1qwpQ0c7hvY1) | 3:12 |
 | 20 | [Thinking About](https://open.spotify.com/track/6wpUNL6pvnzjehb8Az0jmt) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 3:57 |
 | 21 | [If Looks Could Kill](https://open.spotify.com/track/40iz3ixJkBn8vFnnvGQhK1) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [If Looks Could Kill](https://open.spotify.com/album/39DZ3bo9YT32B4LA7TxWOO) | 3:29 |
 | 22 | [Flaws & Ceilings](https://open.spotify.com/track/4MNTc0NKgsGQGjC4VAlDD2) | [Frank Hamilton](https://open.spotify.com/artist/4h1KKGcIKkVPfuH6K7nVYa), [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [All of \#OneSongAWeek](https://open.spotify.com/album/2nHOL4iMiNN0Sl4oebNEsg) | 3:36 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19B5f5.md) - [plain]
 | 35 | [Ocean](https://open.spotify.com/track/20dyDdutlGUpKffvWOLpni) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Isn’t It Strange?](https://open.spotify.com/album/7Cbvmfq9HowWpDXt2UXDW4) | 4:18 |
 | 36 | [Low](https://open.spotify.com/track/1LDfxHCm0G2tFcX1XQimJi) | [Lauren Aquilina](https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm) | [Ocean](https://open.spotify.com/album/4t9wHECf8eEymsGn8uAfG0) | 3:28 |
 
-Snapshot ID: `Z0unAAAAAADtxMHi8bbKp67+uq9aJv4s`
+Snapshot ID: `Z0z4gAAAAAAk6cJbMn4AO8Lry6LY3axf`

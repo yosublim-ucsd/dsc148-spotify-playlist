@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Bailey Zimmerman
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,255 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,372 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 30 | [Cowboy Songs](https://open.spotify.com/track/7LV9OX6WfOTndB4BqoXDEE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Cowboy Songs](https://open.spotify.com/album/6oYFjTGEuRoK7oeJisREF5) | 3:07 |
 | 31 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
 | 32 | [I Ain't Sayin'](https://open.spotify.com/track/7lCs3stpWCtAn5Y2lmnPhV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [I Ain't Sayin'](https://open.spotify.com/album/3U0pFKPURiE6x5gWFhDr8d) | 2:54 |
-| 33 | [I'm Not Pretty](https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:01 |
-| 34 | [Maxed Out](https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Maxed Out](https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt) | 2:52 |
+| 33 | [Maxed Out](https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Maxed Out](https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt) | 2:52 |
+| 34 | [I'm Not Pretty](https://open.spotify.com/track/2ePiBvKtQOCBHq9uOlwiiU) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:01 |
 | 35 | [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 |
 | 36 | [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 |
 | 37 | [Save Me \- with Lainey Wilson](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 97 | [She's Somebody's Daughter](https://open.spotify.com/track/7dQ9151STgBvjSxz8FM28m) | [Drew Baldridge](https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5) | [She's Somebody's Daughter](https://open.spotify.com/album/655M0y2ab0r8OFlhkXIOc5) | 2:56 |
 | 98 | [Like I Love Country Music](https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Like I Love Country Music](https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg) | 3:54 |
 | 99 | [we don't fight anymore](https://open.spotify.com/track/2dPwBKr5uJeCeyd5IoWi8W) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [we don't fight anymore](https://open.spotify.com/album/1goHGZOsPNmzsJTxOIa62m) | 3:40 |
-| 100 | [Not Today](https://open.spotify.com/track/4BcyEkCZwZSJvgMcAnfbsj) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Not Today](https://open.spotify.com/album/2epE1rVic0zyxzUhRUPUgc) | 2:54 |
+| 100 | [Bones](https://open.spotify.com/track/58VwVmMvmGTd2Zj5oDlIAA) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Bones](https://open.spotify.com/album/52xjNFo20vTAb4AHMRtJyn) | 2:53 |
 
 Snapshot ID: `Z0AP0AAAAACFMkd9Pq08JnVYTmVLWPgi`

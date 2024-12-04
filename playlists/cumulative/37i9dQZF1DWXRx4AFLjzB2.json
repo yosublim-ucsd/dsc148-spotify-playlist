@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-10-27",
-  "description": "Perreo del bueno for your Thanksgiving activities! ",
-  "name": "Thanksgiving Perreo Party",
+  "description": "Perreo del bueno for your holiday party activities! ",
+  "name": "Holiday Perreo Party",
   "tracks": [
     {
       "album": {
@@ -20,6 +20,52 @@
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ"
+    },
+    {
+      "album": {
+        "name": "+57",
+        "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298130,
+      "name": "+57",
+      "url": "https://open.spotify.com/track/3mg9jYNC1NihbthlglzrWP"
     },
     {
       "album": {
@@ -1150,7 +1196,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 168133,
       "name": "CHORRITO PA LAS ANIMAS",
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
@@ -1485,6 +1531,28 @@
     },
     {
       "album": {
+        "name": "LA PANTERA NEGRA (DELUXE)",
+        "url": "https://open.spotify.com/album/3pkIK8SI5mcUUjb9jNjx4H"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130880,
+      "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
+      "url": "https://open.spotify.com/track/0qeIFEGRQqHoaJtLCl0U73"
+    },
+    {
+      "album": {
         "name": "Mi Trayectoria",
         "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
       },
@@ -1570,6 +1638,32 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "album": {
+        "name": "DEPORTIVO",
+        "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218701,
+      "name": "DEPORTIVO",
+      "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
     },
     {
       "album": {
@@ -1708,7 +1802,7 @@
       ],
       "date_added": "2023-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 214013,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/3JHpk0DOTOzyh0777JFAky"
@@ -1974,7 +2068,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 209160,
       "name": "EL MAKINON",
       "url": "https://open.spotify.com/track/2FSGUA0gFgGeQdprjtGM2M"
@@ -2450,6 +2544,28 @@
       "duration_ms": 240320,
       "name": "Fan\u00e1tica Sensual",
       "url": "https://open.spotify.com/track/5ZFpEsxK5VlLkJi3v7ar2Y"
+    },
+    {
+      "album": {
+        "name": "FDSR",
+        "url": "https://open.spotify.com/album/7klplPJ1UEKbEsUtm5FK0z"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188181,
+      "name": "FDSR",
+      "url": "https://open.spotify.com/track/3KwYiawBfqngH7eaUHQn2N"
     },
     {
       "album": {
@@ -3206,7 +3322,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 198081,
       "name": "HUMO",
       "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
@@ -3996,7 +4112,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 181137,
       "name": "Linea Del Perreo",
       "url": "https://open.spotify.com/track/1Aa54YEL20kiDPI6f4XGdS"
@@ -4058,7 +4174,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
@@ -4426,7 +4542,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 140112,
       "name": "Mi Autom\u00f3vil",
       "url": "https://open.spotify.com/track/2II1TSrlhRrtz2hmzpXROT"
@@ -4470,7 +4586,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 146633,
       "name": "MIRALA",
       "url": "https://open.spotify.com/track/3ps5MDjfpA3wAbKMitNWgM"
@@ -5512,7 +5628,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 215172,
       "name": "PICARD\u00cdA",
       "url": "https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF"
@@ -5656,6 +5772,28 @@
       "duration_ms": 254493,
       "name": "Porsche Carrera",
       "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
+    },
+    {
+      "album": {
+        "name": "LOS 9 DE FERXXO Y SKY ROMPIENDO",
+        "url": "https://open.spotify.com/album/5L3PAo50R75rOZLlEvokZZ"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "PPCP",
+      "url": "https://open.spotify.com/track/2HxZAed6QC9yJZuyaJJSz0"
     },
     {
       "album": {
@@ -6113,6 +6251,28 @@
     },
     {
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
+    },
+    {
+      "album": {
         "name": "Pa'l Mundo",
         "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
@@ -6216,6 +6376,28 @@
       "duration_ms": 206946,
       "name": "REMIX EXCLUSIVO",
       "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
+    },
+    {
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215511,
+      "name": "Revol\u00fa",
+      "url": "https://open.spotify.com/track/4lqJsJd7kqWVvamQ4aFHA8"
     },
     {
       "album": {
@@ -6618,6 +6800,28 @@
       "duration_ms": 332240,
       "name": "Si Se Da - Remix",
       "url": "https://open.spotify.com/track/6K5BsR04ijf3FHNzjbaagD"
+    },
+    {
+      "album": {
+        "name": "Mazorkeo.com",
+        "url": "https://open.spotify.com/album/6mnMcAWoYAIUD856ylBIId"
+      },
+      "artists": [
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192928,
+      "name": "Sin Panty Maria",
+      "url": "https://open.spotify.com/track/2MM8KVLGV6oHwuTmOWQg5Y"
     },
     {
       "album": {
@@ -7142,7 +7346,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 147013,
       "name": "Tu Sicaria",
       "url": "https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6"

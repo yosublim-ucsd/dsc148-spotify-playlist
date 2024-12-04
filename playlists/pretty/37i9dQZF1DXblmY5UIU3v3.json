@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 455921,
+  "num_followers": 456199,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-09-06 19:25:38",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
-    },
-    {
-      "added_at": "2024-09-06 19:25:38",
-      "album": {
         "name": "E S C O B a R",
         "url": "https://open.spotify.com/album/3Km6AfOXnr94jZbOWVyhPa"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 185143,
       "name": "E S C O B a R",
       "url": "https://open.spotify.com/track/75BDGJuV727Qx2qkSqx5Fy"
+    },
+    {
+      "added_at": "2024-09-06 19:25:38",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/1ak05kVWCtEdvlCRS5EeZF"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/4Syuvo6HDr7SraUJyOVAh4"
     },
     {
       "added_at": "2024-09-06 19:25:38",

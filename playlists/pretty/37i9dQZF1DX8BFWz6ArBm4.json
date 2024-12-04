@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Nikos Vertis",
-  "num_followers": 32364,
+  "num_followers": 32375,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "Ferte Tin Piso",
-        "url": "https://open.spotify.com/album/12AJK5voCX09GdZGXHt3Bp"
+        "name": "Logia",
+        "url": "https://open.spotify.com/album/67ZfumS9xEJSvImcnUxCev"
       },
       "artists": [
         {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
         }
       ],
-      "duration_ms": 227542,
-      "name": "Ferte Tin Piso",
-      "url": "https://open.spotify.com/track/2OexVDpovkx2sW5nKIDfg9"
+      "duration_ms": 158969,
+      "name": "Logia",
+      "url": "https://open.spotify.com/track/1UudyGXBTV2WxnULbhYXtp"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -375,18 +375,22 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "Logia",
-        "url": "https://open.spotify.com/album/67ZfumS9xEJSvImcnUxCev"
+        "name": "7/7",
+        "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
       },
       "artists": [
         {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
         }
       ],
-      "duration_ms": 158969,
-      "name": "Logia",
-      "url": "https://open.spotify.com/track/1UudyGXBTV2WxnULbhYXtp"
+      "duration_ms": 171704,
+      "name": "7/7",
+      "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
     },
     {
       "added_at": "2024-11-28 22:00:00",
@@ -407,22 +411,18 @@
     {
       "added_at": "2024-11-28 22:00:00",
       "album": {
-        "name": "7/7",
-        "url": "https://open.spotify.com/album/12VCx1n6ZMk1vl2ONqzhuv"
+        "name": "Ferte Tin Piso",
+        "url": "https://open.spotify.com/album/12AJK5voCX09GdZGXHt3Bp"
       },
       "artists": [
         {
-          "name": "Ioulia Kallimani",
-          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
-        },
-        {
-          "name": "Michael Touratzidis",
-          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+          "name": "Petros Iakovidis",
+          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
         }
       ],
-      "duration_ms": 171704,
-      "name": "7/7",
-      "url": "https://open.spotify.com/track/5e8JV9r2vKrbebUQMRpBCy"
+      "duration_ms": 227542,
+      "name": "Ferte Tin Piso",
+      "url": "https://open.spotify.com/track/2OexVDpovkx2sW5nKIDfg9"
     },
     {
       "added_at": "2024-11-28 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727,467 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 727,490 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 4 | [Joy Of My Life](https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:34 |
 | 5 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 |
 | 6 | [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 |
-| 7 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
+| 7 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 8 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 |
-| 9 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
+| 9 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |
 | 10 | [Front Porch](https://open.spotify.com/track/0XIUYBQlVNG1c5vjSQKCYU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5) | 3:51 |
 | 11 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 12 | [Something In The Orange \- Live From Spotify Studios](https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 4:02 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 26 | [Love You To Death](https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Love You To Death](https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv) | 3:19 |
 | 27 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
 | 28 | [hookup scene](https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:21 |
-| 29 | [Nothing Like You](https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Carry on, San Vicente](https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z) | 4:22 |
+| 29 | [Settling Things](https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:52 |
 | 30 | [MARILYN](https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:26 |
-| 31 | [Settling Things](https://open.spotify.com/track/0XDGhfW6CS8syWE7gh9ei4) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:52 |
+| 31 | [Nothing Like You](https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Carry on, San Vicente](https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z) | 4:22 |
 | 32 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 | 33 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
 | 34 | [Where the Heart Is](https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:07 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 48 | [Supernova](https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 2:36 |
 | 49 | [Carolina In My Mind](https://open.spotify.com/track/4DG1AciZ86C7zaee6VkLih) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Carolina In My Mind](https://open.spotify.com/album/096rv9JgHgwoc4VTICs8Np) | 3:53 |
 | 50 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
-| 51 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
-| 52 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
-| 53 | [Crystal Eyes](https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Crystal Eyes](https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y) | 3:42 |
+| 51 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
+| 52 | [Crystal Eyes](https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Crystal Eyes](https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y) | 3:42 |
+| 53 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
 | 54 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
 | 55 | [sunflower.](https://open.spotify.com/track/3jVjq0O6ZpfQVGhRR6JTOZ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:33 |
 | 56 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |

@@ -1,6 +1,6 @@
 {
   "description": "Warm and cozy jazz vibes to get you in a positive mood.\n\n",
-  "num_followers": 239454,
+  "num_followers": 239786,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
+        "name": "Old Devil Moon",
+        "url": "https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "Old Devil Moon",
+      "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
         "name": "Love Swings",
         "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
@@ -631,22 +647,6 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "Taking A Chance On Love",
-        "url": "https://open.spotify.com/album/3QBujmwzub1T4nfTrDiBpJ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "Taking a Chance on Love",
-      "url": "https://open.spotify.com/track/3teUh4QAw9thCmBJMVP9T3"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
         "name": "Cheek To Cheek: The Complete Duet Recordings",
         "url": "https://open.spotify.com/album/07tbMxw9qeVsNIq0l7xBBX"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
+        "name": "Taking A Chance On Love",
+        "url": "https://open.spotify.com/album/3QBujmwzub1T4nfTrDiBpJ"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/3teUh4QAw9thCmBJMVP9T3"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
         "name": "Tenor Madness",
         "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 309360,
       "name": "Paul's Pal - Rudy Van Gelder Remastered 2006 / Shared ISRC",
       "url": "https://open.spotify.com/track/2gt0kkTEph69p2ZWn177Tt"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
         "name": "Desafinado",
         "url": "https://open.spotify.com/album/4Zmp4npHwNJ3cIdwv3sWz4"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 173160,
       "name": "I'm Looking Over A Four Leaf Clover (Jazz Samba)",
       "url": "https://open.spotify.com/track/1wqrfKgBPtCHITqSwwXcxf"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
-        "name": "Old Devil Moon",
-        "url": "https://open.spotify.com/album/0P5UfQqY9ZiL3YxDv0MigW"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 174150,
-      "name": "Old Devil Moon",
-      "url": "https://open.spotify.com/track/593JQgGYODUwv0Es7H847C"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -895,18 +895,18 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+        "name": "You Go to My Head",
+        "url": "https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl"
       },
       "artists": [
         {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
         }
       ],
-      "duration_ms": 260399,
-      "name": "Yes Sir, That's My Baby",
-      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
+      "duration_ms": 239026,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "You Go to My Head",
-        "url": "https://open.spotify.com/album/5N9kxHTPKQznSLXbwbAfzl"
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
       "artists": [
         {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
         }
       ],
-      "duration_ms": 239026,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/6i4YrBNk01mgjkPjQ1xPE3"
+      "duration_ms": 260399,
+      "name": "Yes Sir, That's My Baby",
+      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "Witchcraft",
-        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 156546,
-      "name": "(How Little It Matters) How Little We Know",
-      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
         "name": "Past Midnight",
         "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 261609,
       "name": "On a Clear Day (You Can See Forever) - Live",
       "url": "https://open.spotify.com/track/44mZcRGz5AypDvxNFHDPYd"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
+        "name": "Witchcraft",
+        "url": "https://open.spotify.com/album/627o8XOKXILmclV1xIOXPH"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 156546,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "Stop This World",
-        "url": "https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf"
-      },
-      "artists": [
-        {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Stop This World",
-      "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
         "name": "Surf Ride",
         "url": "https://open.spotify.com/album/3nuRA3ud7z6UosGSYiQpEy"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 191640,
       "name": "Holiday Flight",
       "url": "https://open.spotify.com/track/4BWJoCEQX9RAJPX26kk1QP"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
+        "name": "Stop This World",
+        "url": "https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf"
+      },
+      "artists": [
+        {
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Stop This World",
+      "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
     },
     {
       "added_at": "2024-11-29 13:40:15",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-11-29 13:40:15",
       "album": {
-        "name": "The Magic Of Jo Stafford",
-        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
-      },
-      "artists": [
-        {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
-        }
-      ],
-      "duration_ms": 143800,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
-    },
-    {
-      "added_at": "2024-11-29 13:40:15",
-      "album": {
         "name": "Impressions of Evans",
         "url": "https://open.spotify.com/album/2mfvi0m3cStWXw8prJ88J6"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 268066,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6UputvwZIO4RRQ0ZWI9mHq"
+    },
+    {
+      "added_at": "2024-11-29 13:40:15",
+      "album": {
+        "name": "The Magic Of Jo Stafford",
+        "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 143800,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/1cVALNeqpyIsvzuWz3f5dA"
     },
     {
       "added_at": "2024-11-29 13:40:15",

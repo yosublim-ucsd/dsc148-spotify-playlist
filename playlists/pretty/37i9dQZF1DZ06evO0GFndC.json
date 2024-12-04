@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 56769,
+  "num_followers": 56784,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAABrx76/sYRMaHPIsUeLGK0j",
+  "snapshot_id": "Z0z4gAAAAACb8rEw+uymaHj7sm0eLV14",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 192085,
-      "name": "Brillo Propio",
-      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Manzanita",
         "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 187066,
       "name": "Criminales de Verdad - En Vivo",
       "url": "https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 192085,
+      "name": "Brillo Propio",
+      "url": "https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S"
     },
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Hacer Ruido",
-        "url": "https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 155499,
-      "name": "Sin Hacer Ruido",
-      "url": "https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noruega",
         "url": "https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 155532,
       "name": "Noruega",
       "url": "https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Hacer Ruido",
+        "url": "https://open.spotify.com/album/6wWICPpm8uk6FkPO9kGObs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 155499,
+      "name": "Sin Hacer Ruido",
+      "url": "https://open.spotify.com/track/3jAVdwO7ycWZOJl76vn3c9"
     },
     {
       "added_at": null,
@@ -635,22 +635,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi C\u00edrculo Vicioso",
-        "url": "https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw"
+        "name": "El Rey De Los Paquetes",
+        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
       },
       "artists": [
         {
-          "name": "Los Minis de Caborca",
-          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
+          "name": "Los De La 9",
+          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
         },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 219301,
-      "name": "Mi C\u00edrculo Vicioso",
-      "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
+      "duration_ms": 122212,
+      "name": "El Rey de Los Paquetes",
+      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
     },
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey De Los Paquetes",
-        "url": "https://open.spotify.com/album/6J8KawEafsnKq5lIVX9cbc"
+        "name": "Mi C\u00edrculo Vicioso",
+        "url": "https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw"
       },
       "artists": [
         {
-          "name": "Los De La 9",
-          "url": "https://open.spotify.com/artist/3jTankh0q4rncxU4i22Bow"
+          "name": "Los Minis de Caborca",
+          "url": "https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3"
         },
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 122212,
-      "name": "El Rey de Los Paquetes",
-      "url": "https://open.spotify.com/track/3xL6WPIw4Gf65zxDpo0wcy"
+      "duration_ms": 219301,
+      "name": "Mi C\u00edrculo Vicioso",
+      "url": "https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 194845,
-      "name": "Se\u00f1or de la A - En Vivo",
-      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
+      "duration_ms": 190544,
+      "name": "Porte Fino - En Vivo",
+      "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
     },
     {
       "added_at": null,
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 190544,
-      "name": "Porte Fino - En Vivo",
-      "url": "https://open.spotify.com/track/3eOU1OIeGUKvoBFHxDhhik"
+      "duration_ms": 194845,
+      "name": "Se\u00f1or de la A - En Vivo",
+      "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
     },
     {
       "added_at": null,

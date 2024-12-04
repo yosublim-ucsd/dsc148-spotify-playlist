@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Quamina MP
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,977 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,996 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 8 | [No One](https://open.spotify.com/track/12mDXHABGzTSBPoLB0A6Wm) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [The Godson](https://open.spotify.com/album/1zdIcgQ7EZqAF3f48De4fi) | 4:02 |
 | 9 | [For the Popping \(Apicki\)](https://open.spotify.com/track/4D9vIj4ROKR27KJTadMYHm) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [For the Popping \(Apicki\)](https://open.spotify.com/album/5CtdJ87mUJ2a8WJWXyFwKq) | 2:57 |
 | 10 | [Aseda](https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Aseda](https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9) | 3:00 |
-| 11 | [Suloli \(feat\. Olivetheboy\)](https://open.spotify.com/track/5BrImD8IsViJmOmODTZJTo) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Suloli \(feat\. Olivetheboy\)](https://open.spotify.com/album/3WHNl4napJQ87W8Hxl5bnF) | 2:44 |
+| 11 | [Suloli](https://open.spotify.com/track/5BrImD8IsViJmOmODTZJTo) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Suloli](https://open.spotify.com/album/3WHNl4napJQ87W8Hxl5bnF) | 2:44 |
 | 12 | [JEJEREJE \(with Ginton\)](https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy) | [JEJEREJE \(with Ginton\)](https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ) | 3:04 |
 | 13 | [Jesus Christ 2](https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Jesus Christ 2](https://open.spotify.com/album/13CeX9JSszCuegkdi883CA) | 3:37 |
 | 14 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 |

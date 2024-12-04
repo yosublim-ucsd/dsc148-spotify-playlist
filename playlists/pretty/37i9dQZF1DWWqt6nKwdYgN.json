@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Delfina Dib en portada. ",
-  "num_followers": 16044,
+  "num_followers": 16050,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -491,26 +491,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Eva, Ad\u00e1n y las Manzanas",
-        "url": "https://open.spotify.com/album/10qNIsok5o6cUfcVCl1TBC"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Gema Tom\u00e1s",
-          "url": "https://open.spotify.com/artist/1eenupXk2LMDwE3lCHBEhN"
-        }
-      ],
-      "duration_ms": 296460,
-      "name": "Eva, Ad\u00e1n y las Manzanas",
-      "url": "https://open.spotify.com/track/4S7HqetuvEZ8P66rakdmf6"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "UFC",
         "url": "https://open.spotify.com/album/7J0KRhWnqJhbMIet5wU2sY"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 230000,
       "name": "UFC",
       "url": "https://open.spotify.com/track/55hHb31ZbpMtEMh45q0b7p"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "Eva, Ad\u00e1n y las Manzanas",
+        "url": "https://open.spotify.com/album/10qNIsok5o6cUfcVCl1TBC"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Gema Tom\u00e1s",
+          "url": "https://open.spotify.com/artist/1eenupXk2LMDwE3lCHBEhN"
+        }
+      ],
+      "duration_ms": 296460,
+      "name": "Eva, Ad\u00e1n y las Manzanas",
+      "url": "https://open.spotify.com/track/4S7HqetuvEZ8P66rakdmf6"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Corazon Blanco",
+        "url": "https://open.spotify.com/album/13gsMrmQcEwbKnVUpTUeJF"
+      },
+      "artists": [
+        {
+          "name": "Big Stan",
+          "url": "https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd"
+        },
+        {
+          "name": "Logetmay",
+          "url": "https://open.spotify.com/artist/1Q52IrHBmdN3ioy3XNIAeI"
+        }
+      ],
+      "duration_ms": 168710,
+      "name": "Corazon Blanco",
+      "url": "https://open.spotify.com/track/1ijISWzGtdSyMZOCZ2FR13"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Nagasaki",
         "url": "https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 185714,
       "name": "La pr\u00e1ctica",
       "url": "https://open.spotify.com/track/4SovKXdjENCdKchfYzxEp7"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Corazon Blanco",
-        "url": "https://open.spotify.com/album/13gsMrmQcEwbKnVUpTUeJF"
-      },
-      "artists": [
-        {
-          "name": "Big Stan",
-          "url": "https://open.spotify.com/artist/0wWxSCpA5vzDAbhrGnVeOd"
-        },
-        {
-          "name": "Logetmay",
-          "url": "https://open.spotify.com/artist/1Q52IrHBmdN3ioy3XNIAeI"
-        }
-      ],
-      "duration_ms": 168710,
-      "name": "Corazon Blanco",
-      "url": "https://open.spotify.com/track/1ijISWzGtdSyMZOCZ2FR13"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1027,6 +1027,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 232320,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Apartamento 23",
         "url": "https://open.spotify.com/album/2X5xKYHX32aybrZiZznQet"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 229500,
       "name": "Olvidarme de Ti",
       "url": "https://open.spotify.com/track/3maV3zRST3lH8rT5RHVHzH"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Princesa",
-        "url": "https://open.spotify.com/album/0F2L9kw8XUDcYCDUC7lESv"
-      },
-      "artists": [
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 232320,
-      "name": "Princesa",
-      "url": "https://open.spotify.com/track/3e4EVVtrYQaKHAmM5G7oAb"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "ANOMAL\u00cdA",
-        "url": "https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy"
-      },
-      "artists": [
-        {
-          "name": "N4NO",
-          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
-        }
-      ],
-      "duration_ms": 210833,
-      "name": "LOOP \u221e",
-      "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
         "name": "Aire para Vivir",
         "url": "https://open.spotify.com/album/1Xhvxg45ucV9zN2Vn8tGta"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 223512,
       "name": "Aire para Vivir",
       "url": "https://open.spotify.com/track/2IjOx4dONBK4iWEr6xIcsM"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
+        "name": "ANOMAL\u00cdA",
+        "url": "https://open.spotify.com/album/1xhrDjJ7iHLavpOXcEYnUy"
+      },
+      "artists": [
+        {
+          "name": "N4NO",
+          "url": "https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b"
+        }
+      ],
+      "duration_ms": 210833,
+      "name": "LOOP \u221e",
+      "url": "https://open.spotify.com/track/2Q7aGWHUj7byIjXwHXzzoK"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1431,6 +1431,26 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Rap Garuya",
+        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        },
+        {
+          "name": "El sonido del javier",
+          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
+        }
+      ],
+      "duration_ms": 166119,
+      "name": "Para Salvar Vidas",
+      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/1FVr96cP2ZQb58T8XDxh0E"
       },
@@ -1467,26 +1487,6 @@
       "duration_ms": 124705,
       "name": "ICONIC PERRA",
       "url": "https://open.spotify.com/track/4udJEnv5tkrOBPfax7FzVs"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Rap Garuya",
-        "url": "https://open.spotify.com/album/35V0U9At1mBK8CvgQiRBbC"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        },
-        {
-          "name": "El sonido del javier",
-          "url": "https://open.spotify.com/artist/4uVbjrw33FZ26BdquXi36u"
-        }
-      ],
-      "duration_ms": 166119,
-      "name": "Para Salvar Vidas",
-      "url": "https://open.spotify.com/track/6vL82sT8JgMdEZIUr80SK1"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Con la Frente en Alto",
+        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "Con la Frente en Alto",
+      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "It's Okey",
         "url": "https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 197052,
       "name": "It's Okey",
       "url": "https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Con la Frente en Alto",
-        "url": "https://open.spotify.com/album/0ti0YKStDsESQ3DnIE1mYz"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Aguilar",
-          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "Con la Frente en Alto",
-      "url": "https://open.spotify.com/track/3y0jEd4yRJXoHIg7e1cvg4"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia",
+          "url": "https://open.spotify.com/artist/0T0ypGd1eq9npIDWMMTt7J"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
+    },
+    {
+      "added_at": "2024-10-11 06:00:00",
+      "album": {
         "name": "Manantial",
         "url": "https://open.spotify.com/album/1NqEETaHPT9cI5vzfdNhN3"
       },
@@ -1679,18 +1695,22 @@
     {
       "added_at": "2024-10-11 06:00:00",
       "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/0xrJVYEH13WdLtW9gqgpnV"
+        "name": "Lucifer",
+        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
       },
       "artists": [
         {
-          "name": "Mare Advertencia",
-          "url": "https://open.spotify.com/artist/0T0ypGd1eq9npIDWMMTt7J"
+          "name": "Fierros Mancilla",
+          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
+        },
+        {
+          "name": "ElReghosg",
+          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
         }
       ],
-      "duration_ms": 172271,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/4svWjx3gEgpeYw9u4ljl6E"
+      "duration_ms": 267558,
+      "name": "Lucifer",
+      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
     },
     {
       "added_at": "2024-10-11 06:00:00",
@@ -1715,26 +1735,6 @@
       "duration_ms": 166829,
       "name": "NADA QUE TEMER",
       "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
-    },
-    {
-      "added_at": "2024-10-11 06:00:00",
-      "album": {
-        "name": "Lucifer",
-        "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
-      },
-      "artists": [
-        {
-          "name": "Fierros Mancilla",
-          "url": "https://open.spotify.com/artist/1enuoXKUrhup4Bup0dXFQ0"
-        },
-        {
-          "name": "ElReghosg",
-          "url": "https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3"
-        }
-      ],
-      "duration_ms": 267558,
-      "name": "Lucifer",
-      "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
     },
     {
       "added_at": "2024-10-11 06:00:00",

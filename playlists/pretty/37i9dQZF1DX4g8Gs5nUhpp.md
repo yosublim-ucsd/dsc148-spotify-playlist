@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 ### [V\-Pop Không Thể Thiếu](https://open.spotify.com/playlist/37i9dQZF1DX4g8Gs5nUhpp)
 
-> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Da LAB
+> V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: Dương Domic
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,129 likes - 54 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,154 likes - 52 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bầu Trời Mới](https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Bầu Trời Mới](https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm) | 4:22 |
-| 2 | [Mất Kết Nối](https://open.spotify.com/track/3CmacJj7VC4W6daC8BWd0h) | [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE) | [Dữ Liệu Quý](https://open.spotify.com/album/10Dwjqs7dJNxn2g1PkvRCw) | 3:27 |
-| 3 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
+| 1 | [Mất Kết Nối](https://open.spotify.com/track/3CmacJj7VC4W6daC8BWd0h) | [Dương Domic](https://open.spotify.com/artist/4KPyQxL1zqEiBcTwW6c9HE) | [Dữ Liệu Quý](https://open.spotify.com/album/10Dwjqs7dJNxn2g1PkvRCw) | 3:27 |
+| 2 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
+| 3 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
 | 4 | [Không Thể Say](https://open.spotify.com/track/4W2poMwGzKQHtpNCthoGhC) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Không Thể Say](https://open.spotify.com/album/6hRCNOEDljXmus24tlnzRx) | 3:48 |
-| 5 | [Thức Giấc](https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f) | [Thức Giấc](https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi) | 4:29 |
+| 5 | [Bầu Trời Mới](https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7) | [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Minh Tốc & Lam](https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU) | [Bầu Trời Mới](https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm) | 4:22 |
 | 6 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 |
 | 7 | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL) | [Emcee L \(Da LAB\)](https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2), [Da LAB](https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f), [Muộii \(Starry Night\)](https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8) | [Chuyện Đôi Ta \(feat\. Muộii\)](https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo) | 3:28 |
 | 8 | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2) | 3:08 |
@@ -59,8 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 49 | [Mình Anh Thôi](https://open.spotify.com/track/7Cjsw965r7mVK888ZqP6Wo) | [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v) | [Mình Anh Thôi](https://open.spotify.com/album/1cpjIwbHEs622qW35q0wCQ) | 3:32 |
 | 50 | [shhhhhhh..](https://open.spotify.com/track/4jWmhzf53Q0ZvZMuGdiR9x) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [shhhhhhh..](https://open.spotify.com/album/3TfGWGY3mNNdK5LYxBzfXi) | 3:50 |
 | 51 | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU) | [Olew](https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY) | [Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau](https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl) | 4:38 |
-| 52 | [Trái đất ôm Mặt trời](https://open.spotify.com/track/2xcWKo7mcj6Rd1z7E5pNzb) | [Kai Đinh](https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [Summeroom](https://open.spotify.com/album/1pBKlPHaXpr0pf6DojEevx) | 3:13 |
-| 53 | [Thờ ơ](https://open.spotify.com/track/0SMpkybKsjUeONDdUCW69e) | [WEAN](https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8) | [Thờ ơ](https://open.spotify.com/album/6dMn8SVS3XBImfPqZ39orV) | 2:45 |
-| 54 | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r) | 4:39 |
+| 52 | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/track/31VNCmwspR7nVJ6kruUuJt) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [Đừng Làm Trái Tim Anh Đau](https://open.spotify.com/album/6TnmFHbUYVfe4iuQjPQB2r) | 4:39 |
 
-Snapshot ID: `Z0hY/AAAAAAY/9uFSI5znkWXXjO/+ah5`
+Snapshot ID: `Z0+ssgAAAADP6h1WpBsjjYYsfmGkNEHC`

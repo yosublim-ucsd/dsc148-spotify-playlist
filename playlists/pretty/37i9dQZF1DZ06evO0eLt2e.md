@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,509 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,517 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 50 | [The Lonely Night \- Reprise Version](https://open.spotify.com/track/1RvndHj1xvKJVfe32aKgIv) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Reprise](https://open.spotify.com/album/1bqeVjo54gj4BjjOH8dC97) | 5:42 |
 | 51 | [Thank You for a Life](https://open.spotify.com/track/3WGn1HhbtON4FIYVin8IEU) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [This Old Road](https://open.spotify.com/album/7sLlrcE7ECO5LEHfrBrxU8) | 3:44 |
 
-Snapshot ID: `Z0unAAAAAACyuhavcdyncJZzuqRPMvxl`
+Snapshot ID: `Z0z4gAAAAACBhG4qK6FFQxwbmFloPHp6`

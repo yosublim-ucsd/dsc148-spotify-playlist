@@ -4,7 +4,7 @@
 
 > Music & Episodes of “Sword Art Online” series! 「ソードアート・オンライン オルタナティブ ガンゲイル オンラインⅡ」の放送を記念し、2期放送期間中SAOプレイリストをGGOがジャック！©2023 時雨沢恵一/KADOKAWA/GGO2 Project
 
-150 songs - 13 hr 1 min
+151 songs - 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [No More Time Machine](https://open.spotify.com/track/12ktBcosX2XZuaV6DQflVZ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [シルシ](https://open.spotify.com/album/6ax1NxmL4JCXn1GmzfWwJT) | 4:50 | 2022-10-27 | 2022-11-13 |
 | [No More Time Machine](https://open.spotify.com/track/3w87wrXLQsUSEaqVpp7aLQ) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:51 | 2022-04-01 | 2024-04-19 |
 | [No More Time Machine](https://open.spotify.com/track/70YaeuDDWgSGHcneQV5L8W) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/7oPUiFyVwpKOyQ4TIBVg0J) | 4:51 | 2022-04-01 |  |
+| [Overclock](https://open.spotify.com/track/0tQSeFUmELxqzo1lQ3pCRy) | [レン \(CV:楠木ともり\)](https://open.spotify.com/artist/6bCnjbtGE5vO3Pyk6lUSay) | [Overclock](https://open.spotify.com/album/0xRZ6xjKEEISXkBGeQJFr6) | 3:27 | 2024-12-03 |  |
 | [Overfly](https://open.spotify.com/track/1FMETllGs1yByaP10NGdN7) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/5uw8YVzISyCjUPOqs2Dp4T) | 4:27 | 2022-04-01 |  |
 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 | 2022-04-01 | 2024-04-19 |
 | [Party\-go\-round](https://open.spotify.com/track/3TWSWDBVhUqVXqeY4ZBFTY) | [シリカ \(CV:日高里菜\)](https://open.spotify.com/artist/4JdD6IvJpVxTvMgM20lL6H), [リズベット \(CV:高垣彩陽\)](https://open.spotify.com/artist/2xGMhsiYI1AXzBnxZMmmCW) | [ソードアート･オンライン　キャラクターソングコレクション](https://open.spotify.com/album/3xbc01K4cChshvuUvfp4Bi) | 4:49 | 2022-04-01 |  |

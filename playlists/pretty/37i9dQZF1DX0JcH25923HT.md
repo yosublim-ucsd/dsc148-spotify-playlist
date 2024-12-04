@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,600 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,885 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 92 | [Sigo Fresh](https://open.spotify.com/track/50KdtoOHAI2Bp15YifdP02) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [You're Welcome](https://open.spotify.com/album/1hhtQL6iADIa5DoH7qZlIJ) | 3:09 |
 | 93 | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH) | 3:22 |
 | 94 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 |
-| 95 | [PARA SACARMELO \(prod\. OMAR VARELA\)](https://open.spotify.com/track/7vVBHIVPewg2rCkiSMFquc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:36 |
-| 96 | [Como Soy](https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G) | 5:12 |
+| 95 | [Como Soy](https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT) | [Pacho El Antifeka](https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Como Soy](https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G) | 5:12 |
+| 96 | [PARA SACARMELO \(prod\. OMAR VARELA\)](https://open.spotify.com/track/7vVBHIVPewg2rCkiSMFquc) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:36 |
 | 97 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 |
 | 98 | [Te Necesito](https://open.spotify.com/track/6EylLZvd69kYDDtT35gZOB) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Te Necesito](https://open.spotify.com/album/19jxPXaPFxk7pPFnG6oHqw) | 4:02 |
 | 99 | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \- Remix](https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Krippy Kush \(feat\. 21 Savage & Rvssian\) \[Remix\]](https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR) | 3:57 |

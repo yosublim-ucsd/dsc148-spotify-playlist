@@ -1,33 +1,13 @@
 {
-  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: Da LAB",
-  "num_followers": 174129,
+  "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: D\u01b0\u01a1ng Domic",
+  "num_followers": 174154,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0hY/AAAAAAY/9uFSI5znkWXXjO/+ah5",
+  "snapshot_id": "Z0+ssgAAAADP6h1WpBsjjYYsfmGkNEHC",
   "tracks": [
-    {
-      "added_at": "2024-11-27 03:45:17",
-      "album": {
-        "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
-        "url": "https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm"
-      },
-      "artists": [
-        {
-          "name": "Da LAB",
-          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-        },
-        {
-          "name": "Minh T\u1ed1c & Lam",
-          "url": "https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU"
-        }
-      ],
-      "duration_ms": 262495,
-      "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
-      "url": "https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7"
-    },
     {
       "added_at": "2024-11-27 03:45:17",
       "album": {
@@ -71,6 +51,22 @@
     {
       "added_at": "2024-11-27 03:45:17",
       "album": {
+        "name": "Th\u1ee9c Gi\u1ea5c",
+        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
+      },
+      "artists": [
+        {
+          "name": "Da LAB",
+          "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        }
+      ],
+      "duration_ms": 269021,
+      "name": "Th\u1ee9c Gi\u1ea5c",
+      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+    },
+    {
+      "added_at": "2024-11-27 03:45:17",
+      "album": {
         "name": "Kh\u00f4ng Th\u1ec3 Say",
         "url": "https://open.spotify.com/album/6hRCNOEDljXmus24tlnzRx"
       },
@@ -87,18 +83,22 @@
     {
       "added_at": "2024-11-27 03:45:17",
       "album": {
-        "name": "Th\u1ee9c Gi\u1ea5c",
-        "url": "https://open.spotify.com/album/5g1CmwPBfBGvODvhQdi9oi"
+        "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
+        "url": "https://open.spotify.com/album/5Sde3witydNsarGlkHYAtm"
       },
       "artists": [
         {
           "name": "Da LAB",
           "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
+        },
+        {
+          "name": "Minh T\u1ed1c & Lam",
+          "url": "https://open.spotify.com/artist/27RoKwun6jKycKbH2iYUFU"
         }
       ],
-      "duration_ms": 269021,
-      "name": "Th\u1ee9c Gi\u1ea5c",
-      "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
+      "duration_ms": 262495,
+      "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
+      "url": "https://open.spotify.com/track/49kZuPsl8pXRJJGHmwRuW7"
     },
     {
       "added_at": "2024-11-27 03:45:17",
@@ -991,46 +991,6 @@
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"
-    },
-    {
-      "added_at": "2024-11-27 03:45:17",
-      "album": {
-        "name": "Summeroom",
-        "url": "https://open.spotify.com/album/1pBKlPHaXpr0pf6DojEevx"
-      },
-      "artists": [
-        {
-          "name": "Kai \u0110inh",
-          "url": "https://open.spotify.com/artist/3E6LGptA8lBEXPHAQCE3vr"
-        },
-        {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        },
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
-        }
-      ],
-      "duration_ms": 193629,
-      "name": "Tr\u00e1i \u0111\u1ea5t \u00f4m M\u1eb7t tr\u1eddi",
-      "url": "https://open.spotify.com/track/2xcWKo7mcj6Rd1z7E5pNzb"
-    },
-    {
-      "added_at": "2024-11-27 03:45:17",
-      "album": {
-        "name": "Th\u1edd \u01a1",
-        "url": "https://open.spotify.com/album/6dMn8SVS3XBImfPqZ39orV"
-      },
-      "artists": [
-        {
-          "name": "WEAN",
-          "url": "https://open.spotify.com/artist/30eFAXoU2kTjJPf2cq80B8"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Th\u1edd \u01a1",
-      "url": "https://open.spotify.com/track/0SMpkybKsjUeONDdUCW69e"
     },
     {
       "added_at": "2024-11-27 03:45:17",

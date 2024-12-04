@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: Dillom
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,247 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,266 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 66 | [Sangrecaliente](https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy) | [Revanchistas](https://open.spotify.com/artist/0doxvsFqliwpll9oqvUGEQ) | [De Sangre Caliente](https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1) | 4:26 |
 | 67 | [Ahí](https://open.spotify.com/track/4lH1UpMeCgcwnzh6dDX7kI) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Tocando Mañana](https://open.spotify.com/album/6XCws2Vp6vVq8GosvDqWvz) | 4:03 |
 | 68 | [Ni Tan Pronto](https://open.spotify.com/track/36rWoyV5lOo2j346o541r0) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Tan Pronto](https://open.spotify.com/album/5mRuyt7AfONYHanxkXzym0) | 4:20 |
-| 69 | [Bandidos](https://open.spotify.com/track/2QQhgCsxNMDKw6lUqzZJo5) | [La Condena De Caín](https://open.spotify.com/artist/1OMNBOBGMShIpnkFZRFVnU), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Bandidos](https://open.spotify.com/album/1z8DHPkC5NsjelOzhc8waY) | 2:50 |
-| 70 | [3 Acordes](https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [3 Acordes](https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR) | 3:12 |
+| 69 | [3 Acordes](https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [3 Acordes](https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR) | 3:12 |
+| 70 | [Bandidos](https://open.spotify.com/track/2QQhgCsxNMDKw6lUqzZJo5) | [La Condena De Caín](https://open.spotify.com/artist/1OMNBOBGMShIpnkFZRFVnU), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Bandidos](https://open.spotify.com/album/1z8DHPkC5NsjelOzhc8waY) | 2:50 |
 
 Snapshot ID: `Zz+OTgAAAAAH7B1ITBfbkug5O0mOxvty`

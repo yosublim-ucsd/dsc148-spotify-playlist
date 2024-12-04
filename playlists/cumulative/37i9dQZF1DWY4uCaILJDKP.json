@@ -2639,6 +2639,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u306e\u30d0\u30c3\u30c6\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/6MV5nJDssDm4v24gVLWMae"
+      },
+      "artists": [
+        {
+          "name": "sis",
+          "url": "https://open.spotify.com/artist/1DZPhs7ud0i40tO12dveuo"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217306,
+      "name": "\u611b\u306e\u30d0\u30c3\u30c6\u30ea\u30fc - Japanese ver.",
+      "url": "https://open.spotify.com/track/0I0aPdJIh6t16PI63XQRLz"
+    },
+    {
+      "album": {
         "name": "\u63a8\u3057\u30af\u30e9\u307e\u3093\u3058\u3085\u3046",
         "url": "https://open.spotify.com/album/2h6fq90puoUhBfglXqebne"
       },

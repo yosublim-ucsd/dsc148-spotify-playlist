@@ -1,12 +1,12 @@
 {
   "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 72441,
+  "num_followers": 72449,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAABIgl6SAW1Fou7iZnBnv5p4",
+  "snapshot_id": "Z0z4gAAAAACXI4WEtUVld7ylmhSaD+gs",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 310590,
+      "name": "Cura-me",
+      "url": "https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ele Se Move",
         "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 341717,
       "name": "Ele Se Move",
       "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cura-me",
-        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 310590,
-      "name": "Cura-me",
-      "url": "https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 205868,
-      "name": "Vaso de Alabastro",
-      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liberta-me",
         "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 245481,
       "name": "Cacos Pelo Ch\u00e3o",
       "url": "https://open.spotify.com/track/14Hp6TfLnygHsJEQMhVqhl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 205868,
+      "name": "Vaso de Alabastro",
+      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Algu\u00e9m",
-        "url": "https://open.spotify.com/album/4FOLCFEUgdKB8jH7Z1JNa3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Algu\u00e9m",
-      "url": "https://open.spotify.com/track/4U1p9bONY3EWkPhk7Vb8Gt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Algu\u00e9m",
+        "url": "https://open.spotify.com/album/4FOLCFEUgdKB8jH7Z1JNa3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Algu\u00e9m",
+      "url": "https://open.spotify.com/track/4U1p9bONY3EWkPhk7Vb8Gt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escreve",
         "url": "https://open.spotify.com/album/23VnB0ZTqln1XnMUinTGW2"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 275590,
       "name": "Escreve",
       "url": "https://open.spotify.com/track/6e2qXHWkxNNJyROemErInw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "O Que Diz Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6jR2dWZNgQU7qGf0GhTuS3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 226812,
+      "name": "O Que Diz Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2k31SwPb7FojHq4rVdVjE9"
     },
     {
       "added_at": null,
@@ -839,22 +855,6 @@
       "duration_ms": 482974,
       "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
       "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Que Diz Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6jR2dWZNgQU7qGf0GhTuS3"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 226812,
-      "name": "O Que Diz Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2k31SwPb7FojHq4rVdVjE9"
     },
     {
       "added_at": null,

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2000 Miles",
+        "url": "https://open.spotify.com/album/30Z3lG7m6vW5RukgAEhb1B"
+      },
+      "artists": [
+        {
+          "name": "Anna Yvette",
+          "url": "https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "2000 Miles",
+      "url": "https://open.spotify.com/track/4cWtN0lmAcSA8yBmvLAuzL"
+    },
+    {
+      "album": {
         "name": "2020 Christmas",
         "url": "https://open.spotify.com/album/3s3IaC3EFkzkSrooYGRnwq"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 125454,
       "name": "2020 Christmas",
       "url": "https://open.spotify.com/track/0mhn1a9ExpjY9o2UrNsi5A"
@@ -94,6 +112,28 @@
       "duration_ms": 178560,
       "name": "All I Want for Christmas",
       "url": "https://open.spotify.com/track/4Y22IgfwCLFVW6Utr8XXIu"
+    },
+    {
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/0pIu9VSrK7eCf4vAIXk84E"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161354,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/170KMZWu69oUtIO86cSqoJ"
     },
     {
       "album": {
@@ -204,7 +244,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 191478,
       "name": "Angels we have Heard",
       "url": "https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ"
@@ -310,7 +350,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 157440,
       "name": "Battle - Cause & Affect Jingle Bells Remix",
       "url": "https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO"
@@ -376,7 +416,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 199384,
       "name": "Carnival - Xmas Edition",
       "url": "https://open.spotify.com/track/46DEBWLA2nsbvzrsLTraEF"
@@ -610,7 +650,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 155076,
       "name": "Christmas Tequila",
       "url": "https://open.spotify.com/track/4efYndb7hVjS7UsslN7OXP"
@@ -687,6 +727,32 @@
     },
     {
       "album": {
+        "name": "Christmas Time Is Here",
+        "url": "https://open.spotify.com/album/7szh5qVMYeuYKzrizJjcDt"
+      },
+      "artists": [
+        {
+          "name": "Elements Of Life",
+          "url": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY"
+        },
+        {
+          "name": "Josh Milan",
+          "url": "https://open.spotify.com/artist/1Fg9rbSbeJTnwvfzHnkrPR"
+        },
+        {
+          "name": "Cindy Mizelle",
+          "url": "https://open.spotify.com/artist/3gyPrhQ5NNNl84banW4UZX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401132,
+      "name": "Christmas Time Is Here - Main",
+      "url": "https://open.spotify.com/track/5rO3coOXeWLDyRvNlU31Vd"
+    },
+    {
+      "album": {
         "name": "A Very Decent Christmas 4",
         "url": "https://open.spotify.com/album/71MKwZhqUkB1LRIYjgKH4g"
       },
@@ -753,6 +819,28 @@
     },
     {
       "album": {
+        "name": "Deck The Halls",
+        "url": "https://open.spotify.com/album/7itIXl6e9L37hYc7g8x6S9"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Sound Of Legend",
+          "url": "https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137368,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/4E4YRXUc2d917HtEYSr02k"
+    },
+    {
+      "album": {
         "name": "Kaskade Christmas",
         "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
       },
@@ -786,10 +874,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 209106,
       "name": "DJ Play A Christmas Song",
       "url": "https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC"
+    },
+    {
+      "album": {
+        "name": "DJ Play A Christmas Song",
+        "url": "https://open.spotify.com/album/6YPrceRYDOvKzxMFwvR31s"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242533,
+      "name": "DJ Play A Christmas Song",
+      "url": "https://open.spotify.com/track/0ZoBFUJ5ZnFU7K3YZbzNN6"
     },
     {
       "album": {
@@ -860,6 +970,24 @@
       "duration_ms": 233060,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/5McQ19B5AjkZose1EQURIW"
+    },
+    {
+      "album": {
+        "name": "Christmas Dance Party Vol. 1",
+        "url": "https://open.spotify.com/album/0DP0qSBmLp13LH5gbBXNTX"
+      },
+      "artists": [
+        {
+          "name": "Holidayz",
+          "url": "https://open.spotify.com/artist/482s2jUGaqL2r9upJVcgKk"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255972,
+      "name": "Driving Home For Christmas",
+      "url": "https://open.spotify.com/track/1R87nOHx4YRvHoiovqZUed"
     },
     {
       "album": {
@@ -980,10 +1108,46 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 207315,
       "name": "Have Yourself A Merry Little Christmas - Auxjack Remix",
       "url": "https://open.spotify.com/track/7kHfwWZGNpO6BlunidRzd0"
+    },
+    {
+      "album": {
+        "name": "Holiday Road - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/731OHLbeYVneMjOIi14aPU"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125196,
+      "name": "Holiday Road - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
+    },
+    {
+      "album": {
+        "name": "Holly Jolly Christmas",
+        "url": "https://open.spotify.com/album/1OKH32KFWv5cf2mTb8ENEz"
+      },
+      "artists": [
+        {
+          "name": "Briseida",
+          "url": "https://open.spotify.com/artist/28YlhRSPEFNqShzh1ZjKxG"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305806,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/0JtruSwwDucpjKnUnKhz0b"
     },
     {
       "album": {
@@ -1350,7 +1514,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 163312,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
@@ -1412,10 +1576,32 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 175200,
       "name": "Jingle Bass - VIP",
       "url": "https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ"
+    },
+    {
+      "album": {
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/4UHebJk04p3hFlun4xmhB5"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Vion Konger",
+          "url": "https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/4deFUDuDuzQqXXpjQ6Zhqf"
     },
     {
       "album": {
@@ -1448,10 +1634,40 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 150021,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/6abu6YFNdXxj6PFUdkGUfs"
+    },
+    {
+      "album": {
+        "name": "Christmas Dance Party (Project Xmas)",
+        "url": "https://open.spotify.com/album/126Xv1O3gOpeaFUSNRvcNY"
+      },
+      "artists": [
+        {
+          "name": "Kayote",
+          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
+        },
+        {
+          "name": "Gabriel Wittner",
+          "url": "https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj"
+        },
+        {
+          "name": "Slenderino",
+          "url": "https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb"
+        },
+        {
+          "name": "Ricky Vicente",
+          "url": "https://open.spotify.com/artist/0vJ5kU4z3TMRIFU6adhPB8"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103064,
+      "name": "Jingle Bells (feat. Ricky Vicente)",
+      "url": "https://open.spotify.com/track/5Q2YQvm9LN7rOsTwsNx4cm"
     },
     {
       "album": {
@@ -1554,6 +1770,42 @@
       "duration_ms": 157972,
       "name": "Jingle Bells X Deck the Halls",
       "url": "https://open.spotify.com/track/4w1maTceOzURZYKqDzninf"
+    },
+    {
+      "album": {
+        "name": "Joy To The World EP",
+        "url": "https://open.spotify.com/album/0wVpSrJqvOt3fZfxsrnVQO"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202630,
+      "name": "Joy to the World - Celebration Mix Edit",
+      "url": "https://open.spotify.com/track/1cvkEPAvNxXnDK8HF8PBOK"
+    },
+    {
+      "album": {
+        "name": "Last Christmas",
+        "url": "https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/6V1Ge6GEmPgIeGkrsNd4BC"
     },
     {
       "album": {
@@ -1744,7 +1996,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 224516,
       "name": "Lover for the Holidays",
       "url": "https://open.spotify.com/track/0HXAk2NyaZ3Fh3Ij264oiA"
@@ -1792,6 +2044,24 @@
       "duration_ms": 157440,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/4L87Y4Eo5kyYZ3J2odyUEJ"
+    },
+    {
+      "album": {
+        "name": "Moonlit Floor (Kiss Me) (Santa Baby Remix)",
+        "url": "https://open.spotify.com/album/0WyGUQxsookdLIQnRy6MOl"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me) - Santa Baby Remix",
+      "url": "https://open.spotify.com/track/2Dtev1Evm1XyyTRhb6UaD8"
     },
     {
       "album": {
@@ -2034,7 +2304,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 199866,
       "name": "Santa Baby (feat. Jane X\u00d8)",
       "url": "https://open.spotify.com/track/54fiilVdAuNruSVmmu1Kh6"
@@ -2100,7 +2370,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 157815,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/4AmUOomwGifLOR3lPiweuc"
@@ -2414,7 +2684,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 137600,
       "name": "WAWA - Xmas Edition",
       "url": "https://open.spotify.com/track/4ogkYfqk0DRvmQgpghCpEj"
@@ -2548,7 +2818,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 123250,
       "name": "Winter Wonderland",
       "url": "https://open.spotify.com/track/0nbeg7UUXdyAs1MBUhi9B4"
@@ -2650,6 +2920,24 @@
     {
       "album": {
         "name": "Wonderful Dream (Holidays Are Coming)",
+        "url": "https://open.spotify.com/album/0mnIK0Tf21KgSsqrEpYz1R"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163354,
+      "name": "Wonderful Dream (Holidays Are Coming)",
+      "url": "https://open.spotify.com/track/3WsfhhR9TVsKSqMrZ3IvnQ"
+    },
+    {
+      "album": {
+        "name": "Wonderful Dream (Holidays Are Coming)",
         "url": "https://open.spotify.com/album/1cErEnoh23Dw8bUjbxu6WL"
       },
       "artists": [
@@ -2726,7 +3014,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 219801,
       "name": "www.christkind.com",
       "url": "https://open.spotify.com/track/5gjPjRfwaF8L6DqKx5LFZu"

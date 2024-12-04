@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 12617,
+  "num_followers": 12619,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAADURVSwoHeBcDrve/ET/uS6",
+  "snapshot_id": "Z0z4gAAAAACNH5E7b6+MNaS/aqu06QbJ",
   "tracks": [
     {
       "added_at": null,
@@ -470,15 +470,11 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 206040,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
-      "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
+      "duration_ms": 187320,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
     },
     {
       "added_at": null,
@@ -508,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 218546,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK"
+      "duration_ms": 213306,
+      "name": "Delusi\u00f3n",
+      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
     },
     {
       "added_at": null,
@@ -538,11 +534,15 @@
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 187320,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3noKEDrCpmudJkH6IvLOxb"
+      "duration_ms": 206040,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 De M\u00ed?",
+      "url": "https://open.spotify.com/track/0LpvtGk7G8MhRB5bczQe8p"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 213306,
-      "name": "Delusi\u00f3n",
-      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
+      "duration_ms": 218546,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK"
     },
     {
       "added_at": null,

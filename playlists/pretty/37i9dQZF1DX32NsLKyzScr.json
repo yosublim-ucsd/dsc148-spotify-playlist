@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2597451,
+  "num_followers": 2597609,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -343,30 +343,26 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "LET'S GET FKD UP (feat. Tribbs)",
-        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "Mondello'G",
-          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
         },
         {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        },
-        {
-          "name": "Tribbs",
-          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
         }
       ],
-      "duration_ms": 121500,
-      "name": "LET'S GET FKD UP",
-      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
+      "duration_ms": 160000,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -395,26 +391,30 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
+        "name": "LET'S GET FKD UP (feat. Tribbs)",
+        "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+          "name": "Mondello'G",
+          "url": "https://open.spotify.com/artist/77lzQa2JgjlkP4uA5ptyo7"
         },
         {
-          "name": "Prezioso",
-          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        },
+        {
+          "name": "Tribbs",
+          "url": "https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+      "duration_ms": 121500,
+      "name": "LET'S GET FKD UP",
+      "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -599,26 +599,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 215583,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Still Into You",
         "url": "https://open.spotify.com/album/12AGcC8vmuGnxLIoyJDrj5"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 151875,
       "name": "Still Into You",
       "url": "https://open.spotify.com/track/0GYx8Q9iS05CRe9kyzwAIL"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "girl$",
+        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 209552,
+      "name": "girl$",
+      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "girl$",
-        "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 209552,
-      "name": "girl$",
-      "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Flood",
+        "url": "https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        }
+      ],
+      "duration_ms": 272253,
+      "name": "Flood",
+      "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Don't Stop (The Music)",
         "url": "https://open.spotify.com/album/4vF5KckGOBr5srPsCy2SCN"
       },
@@ -1807,46 +1823,6 @@
       "duration_ms": 156567,
       "name": "Don't Stop (The Music)",
       "url": "https://open.spotify.com/track/6x0eMOT5uyCgtmOxzWVATc"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Flood",
-        "url": "https://open.spotify.com/album/70RHpvA9I8bijHS46uJcj6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Ingrosso",
-          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
-        }
-      ],
-      "duration_ms": 272253,
-      "name": "Flood",
-      "url": "https://open.spotify.com/track/0Q9er9GdnwbKqOR94aLRPH"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Thick Of It All",
-        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Thick Of It All",
-      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1875,6 +1851,30 @@
       "duration_ms": 153569,
       "name": "YES B!TCH (feat. Rome Fortune)",
       "url": "https://open.spotify.com/track/02RO8IclcFVLOjHP8AJ033"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Thick Of It All",
+        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Thick Of It All",
+      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2315,26 +2315,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Lucky (feat. Remi Wolf)",
-        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 127380,
-      "name": "Lucky (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Caught in a Moment",
         "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
       },
@@ -2351,6 +2331,26 @@
       "duration_ms": 255285,
       "name": "Caught in a Moment",
       "url": "https://open.spotify.com/track/4TM0ex2Q3wqmW4YhkuIO79"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Lucky (feat. Remi Wolf)",
+        "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 127380,
+      "name": "Lucky (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2399,26 +2399,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Closer (feat. Chenai)",
-        "url": "https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk"
-      },
-      "artists": [
-        {
-          "name": "Ben Hemsley",
-          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
-        },
-        {
-          "name": "Chenai",
-          "url": "https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w"
-        }
-      ],
-      "duration_ms": 234728,
-      "name": "Closer (feat. Chenai)",
-      "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Saga",
         "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
       },
@@ -2435,6 +2415,26 @@
       "duration_ms": 336000,
       "name": "Saga",
       "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Closer (feat. Chenai)",
+        "url": "https://open.spotify.com/album/4kRv6GStYkqpfZEmvVM9bk"
+      },
+      "artists": [
+        {
+          "name": "Ben Hemsley",
+          "url": "https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ"
+        },
+        {
+          "name": "Chenai",
+          "url": "https://open.spotify.com/artist/1OIiJfaxjDFfRRZG061t3w"
+        }
+      ],
+      "duration_ms": 234728,
+      "name": "Closer (feat. Chenai)",
+      "url": "https://open.spotify.com/track/3LmVmt1ovT79qH36xY34VF"
     },
     {
       "added_at": "2024-11-22 05:00:00",

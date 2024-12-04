@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 106 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 63 likes - 106 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 105 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 106 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbjGUgAAAAB9aTkUQx3Ub0FHD7hVPdkm`
+Snapshot ID: `AbjL3gAAAAApi+5/JGWos7vBXf5g+/rm`

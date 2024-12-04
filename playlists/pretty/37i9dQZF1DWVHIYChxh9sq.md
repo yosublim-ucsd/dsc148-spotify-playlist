@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Los Gemelos De Sinaloa
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,947 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,948 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 54 | [Popurrí de Los Morros \(Chivo Tatemado/ Los Primos/ El Ultimo Billete\)](https://open.spotify.com/track/39MCJWKc558g8pMnnBgDbw) | [Milicia Del Rancho](https://open.spotify.com/artist/6Dfji9ASsLF7FALyFtUaSi) | [La Vieja Escuela](https://open.spotify.com/album/2vLAqABlhgj4081fzvRWpD) | 2:51 |
 | 55 | [El Mensaje](https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Mensaje](https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv) | 3:13 |
 | 56 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 |
-| 57 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 |
+| 57 | [Barba Negra \(feat\. Tito Torbellino Jr.\)](https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tito Torbellino Jr.](https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:49 |
 | 58 | [300 Locos \- En Vivo](https://open.spotify.com/track/4PjeItnxK4Ht94FFxYoPXf) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Golpe de Estado \(En Vivo\)](https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg) | 2:29 |
-| 59 | [Barba Negra \(feat\. Tito Torbellino Jr.\)](https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tito Torbellino Jr.](https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:49 |
+| 59 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 |
 | 60 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 |
 | 61 | [Abrazado De Un Poste \- En Vivo](https://open.spotify.com/track/5foBwr4MmU2oeuEe6gnQHr) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Lorenzo De Monteclaro](https://open.spotify.com/artist/4YnO1u0lWE4lXZKy8wXjZX) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:12 |
 | 62 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |

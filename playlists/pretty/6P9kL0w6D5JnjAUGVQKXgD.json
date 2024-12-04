@@ -1,12 +1,12 @@
 {
   "description": "EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net. With: Kriss Reeve, Jackson Wang, Galantis, MK",
-  "num_followers": 47450,
+  "num_followers": 47449,
   "original_name": "EDM Top 100",
   "owner": {
     "name": "EDM Charts",
     "url": "https://open.spotify.com/user/edmcharts.net"
   },
-  "snapshot_id": "AAAH0DYecNiLLTvo6EiAKzJb0nKam3WY",
+  "snapshot_id": "AAAH0cn3cMGAWZfCRS6ldjbcycyfHdKw",
   "tracks": [
     {
       "added_at": "2021-07-14 08:40:04",
@@ -1481,26 +1481,6 @@
       "url": "https://open.spotify.com/track/05RC1yOB6HMqq2Q3gQb3Kb"
     },
     {
-      "added_at": "2024-08-15 00:41:04",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/282eak3jJSMoNdWT4DurIX"
-      },
-      "artists": [
-        {
-          "name": "CICERO!",
-          "url": "https://open.spotify.com/artist/14Feld1YPnynu1a1hPzxaa"
-        },
-        {
-          "name": "Damon.",
-          "url": "https://open.spotify.com/artist/0BerNbI4jj8PSQqsU8B1RH"
-        }
-      ],
-      "duration_ms": 174761,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/1hq6SZDCvuxVNoylxmUnAn"
-    },
-    {
       "added_at": "2023-06-12 09:23:03",
       "album": {
         "name": "Voices (feat. TZAR)",
@@ -1621,6 +1601,26 @@
       "url": "https://open.spotify.com/track/7hSTXrC5oAMss4LTPbbkua"
     },
     {
+      "added_at": "2023-06-13 09:44:03",
+      "album": {
+        "name": "Looking For",
+        "url": "https://open.spotify.com/album/7wHOTnteGw55IIs6utzVrO"
+      },
+      "artists": [
+        {
+          "name": "ESSEL",
+          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
+        },
+        {
+          "name": "DaniCW",
+          "url": "https://open.spotify.com/artist/1ZZsD3Hko1ZXhsj9fPzZdK"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Looking For",
+      "url": "https://open.spotify.com/track/2CuAhhmXRqvWPTEDNTh6mk"
+    },
+    {
       "added_at": "2024-06-14 00:41:07",
       "album": {
         "name": "Run Right Back",
@@ -1643,26 +1643,6 @@
       "duration_ms": 188160,
       "name": "Run Right Back",
       "url": "https://open.spotify.com/track/1TQ130SgtsfPbyvq4o31Og"
-    },
-    {
-      "added_at": "2023-06-13 09:44:03",
-      "album": {
-        "name": "Looking For",
-        "url": "https://open.spotify.com/album/7wHOTnteGw55IIs6utzVrO"
-      },
-      "artists": [
-        {
-          "name": "ESSEL",
-          "url": "https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc"
-        },
-        {
-          "name": "DaniCW",
-          "url": "https://open.spotify.com/artist/1ZZsD3Hko1ZXhsj9fPzZdK"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Looking For",
-      "url": "https://open.spotify.com/track/2CuAhhmXRqvWPTEDNTh6mk"
     },
     {
       "added_at": "2023-06-13 09:44:03",
@@ -1705,26 +1685,6 @@
       "url": "https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv"
     },
     {
-      "added_at": "2024-07-12 00:40:05",
-      "album": {
-        "name": "Heartache Land",
-        "url": "https://open.spotify.com/album/31MGcKyJbg39qzpVxoLqvl"
-      },
-      "artists": [
-        {
-          "name": "Devinity",
-          "url": "https://open.spotify.com/artist/1ZOibsTXm4B3YZP8STNkai"
-        },
-        {
-          "name": "Ra\u00efko",
-          "url": "https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4"
-        }
-      ],
-      "duration_ms": 175980,
-      "name": "Heartache Land",
-      "url": "https://open.spotify.com/track/5WnVIimnmVHsElmQI2vIzY"
-    },
-    {
       "added_at": "2023-06-13 09:44:03",
       "album": {
         "name": "Crooked (VAANCE & Herrin Remix)",
@@ -1747,6 +1707,26 @@
       "duration_ms": 126655,
       "name": "Crooked (VAANCE & Herrin Remix)",
       "url": "https://open.spotify.com/track/3HcKOzkBdZaOnmOJCFZ0gv"
+    },
+    {
+      "added_at": "2024-07-12 00:40:05",
+      "album": {
+        "name": "Heartache Land",
+        "url": "https://open.spotify.com/album/31MGcKyJbg39qzpVxoLqvl"
+      },
+      "artists": [
+        {
+          "name": "Devinity",
+          "url": "https://open.spotify.com/artist/1ZOibsTXm4B3YZP8STNkai"
+        },
+        {
+          "name": "Ra\u00efko",
+          "url": "https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4"
+        }
+      ],
+      "duration_ms": 175980,
+      "name": "Heartache Land",
+      "url": "https://open.spotify.com/track/5WnVIimnmVHsElmQI2vIzY"
     },
     {
       "added_at": "2023-06-12 09:23:03",
@@ -1949,6 +1929,26 @@
       "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa"
     },
     {
+      "added_at": "2024-11-17 00:41:03",
+      "album": {
+        "name": "Heaven On My Mind (with Sigala)",
+        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Heaven On My Mind (with Sigala)",
+      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
+    },
+    {
       "added_at": "2024-07-19 00:44:03",
       "album": {
         "name": "Iris",
@@ -1975,26 +1975,6 @@
       "duration_ms": 171000,
       "name": "Iris",
       "url": "https://open.spotify.com/track/4NSlW2vJpgSxHZ8vh50pK1"
-    },
-    {
-      "added_at": "2024-11-17 00:41:03",
-      "album": {
-        "name": "Heaven On My Mind (with Sigala)",
-        "url": "https://open.spotify.com/album/7LOS5IWTamBcpqLTdLXFLm"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Heaven On My Mind (with Sigala)",
-      "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
     },
     {
       "added_at": "2024-11-20 00:41:04",
@@ -2079,6 +2059,26 @@
       "duration_ms": 176766,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "added_at": "2024-12-04 00:40:06",
+      "album": {
+        "name": "To Die For (Madism Remix)",
+        "url": "https://open.spotify.com/album/3xJHO62lLfAXbOu4t1z14c"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 161538,
+      "name": "To Die For - Madism Remix",
+      "url": "https://open.spotify.com/track/0lV1nrpDhrDtCQNsnjIr3v"
     }
   ],
   "unique_name": "EDM Top 100",

@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 226794,
+  "num_followers": 226829,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Rolling Papers",
-        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
       },
       "artists": [
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Black and Yellow",
-      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
+      "duration_ms": 230133,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -243,22 +247,18 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+        "name": "Rolling Papers",
+        "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        },
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Let Me Blow Ya Mind",
-      "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
+      "duration_ms": 217666,
+      "name": "Black and Yellow",
+      "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -475,6 +475,26 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/0hmFRR0pDSZIAvoJqEFSKv"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 329320,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/4qikXelSRKvoCqFcHLB2H2"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "The Way You Move (feat. Sleepy Brown)",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Totally Krossed Out",
-        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross",
-          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "The Cookbook",
         "url": "https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 226863,
       "name": "Lose Control (feat. Ciara & Fat Man Scoop)",
       "url": "https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Totally Krossed Out",
+        "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross",
+          "url": "https://open.spotify.com/artist/2zrZfs23sjuHDv4E6YRmNf"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
+        "name": "God's Son",
+        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 253720,
+      "name": "I Can",
+      "url": "https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
         "name": "Crunkest Hits",
         "url": "https://open.spotify.com/album/05jX3Kda6BmEpACV7unScz"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "God's Son",
-        "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
+        "name": "Thank Me Later (Int'l Version)",
+        "url": "https://open.spotify.com/album/6agmeioaDOBupymziJihgB"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 253720,
-      "name": "I Can",
-      "url": "https://open.spotify.com/track/2NPxL1QqPrD1a7OLHjVcAP"
+      "duration_ms": 233560,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/1EoHEkVcysf4WVDx6r9WzQ"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Thank Me Later (Int'l Version)",
-        "url": "https://open.spotify.com/album/6agmeioaDOBupymziJihgB"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 233560,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/1EoHEkVcysf4WVDx6r9WzQ"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "The Dynasty: Roc La Familia",
         "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
       },
@@ -1171,30 +1171,6 @@
       "duration_ms": 227866,
       "name": "I Just Wanna Love U (Give It 2 Me)",
       "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "At Tha Movies",
-        "url": "https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo"
-      },
-      "artists": [
-        {
-          "name": "Ice Cube",
-          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
-        },
-        {
-          "name": "Mack 10",
-          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
-        },
-        {
-          "name": "Ms. Toi",
-          "url": "https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl"
-        }
-      ],
-      "duration_ms": 259306,
-      "name": "You Can Do It",
-      "url": "https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1219,6 +1195,30 @@
       "duration_ms": 191600,
       "name": "Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1YQ7BbJR8HqAolfprvxGKu"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "At Tha Movies",
+        "url": "https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Mack 10",
+          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
+        },
+        {
+          "name": "Ms. Toi",
+          "url": "https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "You Can Do It",
+      "url": "https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ"
     },
     {
       "added_at": "2024-10-25 23:07:14",

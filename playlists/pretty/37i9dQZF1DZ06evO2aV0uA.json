@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 132142,
+  "num_followers": 132161,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAADIa2Q4aDA+3Y4v/CohxTA2",
+  "snapshot_id": "Z0z4gAAAAADy/FFt3RVA1rn8yDx6bd8E",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 234266,
-      "name": "Ruin",
-      "url": "https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 217606,
       "name": "Ditch",
       "url": "https://open.spotify.com/track/6V4k01Xr3HsVrfqUyQSIqt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 234266,
+      "name": "Ruin",
+      "url": "https://open.spotify.com/track/3WeWaUyTww9gLKmimlwm5w"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "11th Hour",
-      "url": "https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omens",
         "url": "https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 227899,
       "name": "Omens",
       "url": "https://open.spotify.com/track/2calJdlU1JseiOf7c5jXwP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "11th Hour",
+      "url": "https://open.spotify.com/track/6WDJv2slxzc6Xu7CVonDBM"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lamb of God (Deluxe Version)",
-        "url": "https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE"
+        "name": "Evidence",
+        "url": "https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 245948,
-      "name": "Ghost Shaped People",
-      "url": "https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC"
+      "duration_ms": 230256,
+      "name": "Evidence",
+      "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evidence",
-        "url": "https://open.spotify.com/album/2xDm5HKtgKbmi5Ngi8KgCh"
+        "name": "Lamb of God (Deluxe Version)",
+        "url": "https://open.spotify.com/album/13oFnEbK6yXLZBLm1rMqzE"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 230256,
-      "name": "Evidence",
-      "url": "https://open.spotify.com/track/4QTwNqLI3XQlf7H1YQJGfJ"
+      "duration_ms": 245948,
+      "name": "Ghost Shaped People",
+      "url": "https://open.spotify.com/track/6gq5YInoFxEUT13bzu9DyC"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1987554,
+  "num_followers": 1987546,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "TU Y YO",
-        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 192517,
-      "name": "TU Y YO",
-      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -375,6 +355,26 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "TU Y YO",
+        "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 192517,
+      "name": "TU Y YO",
+      "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -691,22 +691,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "un",
-        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
       "artists": [
         {
           "name": "Camilo",
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 222800,
-      "name": "PLIS",
-      "url": "https://open.spotify.com/track/1regh1ryWna3MRTKu401uD"
+      "duration_ms": 207545,
+      "name": "Medialuna",
+      "url": "https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -835,18 +831,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+        "name": "un",
+        "url": "https://open.spotify.com/album/69qvzyO2jAil3U6DZpckxr"
       },
       "artists": [
         {
           "name": "Camilo",
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 207545,
-      "name": "Medialuna",
-      "url": "https://open.spotify.com/track/2RrJRSIdGweb6clmo5NRxp"
+      "duration_ms": 222800,
+      "name": "PLIS",
+      "url": "https://open.spotify.com/track/1regh1ryWna3MRTKu401uD"
     },
     {
       "added_at": "2024-11-08 05:00:00",

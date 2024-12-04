@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1607006,
+  "num_followers": 1608008,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAABbjUAcRfVL3R0iOc8mCfk7",
+  "snapshot_id": "Z0z4gAAAAADWku7DFzQR7JhOIB8P6U4K",
   "tracks": [
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Empty Out Your Pockets",
+      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -199,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Robbery",
-      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 240050,
+      "name": "Robbery",
+      "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me Know (I Wonder Why Freestyle)",
         "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 215380,
       "name": "Let Me Know (I Wonder Why Freestyle)",
       "url": "https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Party Never Ends 2.0",
-        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 135653,
-      "name": "Empty Out Your Pockets",
-      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pre-Party (Extended)",
-        "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 152183,
-      "name": "Cavalier",
-      "url": "https://open.spotify.com/track/3GqB3q2lYK3qsvhghx92rS"
+      "duration_ms": 167361,
+      "name": "Adore You",
+      "url": "https://open.spotify.com/track/6sUS3nGZ59ZLrzCYRweOiX"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 140277,
+      "name": "The Party Never Ends",
+      "url": "https://open.spotify.com/track/6aiCRUd68tOPCwsU0x1lUP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pre-Party (Extended)",
         "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
       },
@@ -448,29 +464,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 197428,
-      "name": "Both Ways",
-      "url": "https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AGATS2 (Insecure) [with Nicki Minaj]",
-        "url": "https://open.spotify.com/album/6IIaL3K3K8neDuxsHC5i1W"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 199073,
-      "name": "AGATS2 (Insecure) [with Nicki Minaj]",
-      "url": "https://open.spotify.com/track/29zJSZwF7hcfMitUjnjgvm"
+      "duration_ms": 152183,
+      "name": "Cavalier",
+      "url": "https://open.spotify.com/track/3GqB3q2lYK3qsvhghx92rS"
     },
     {
       "added_at": null,
@@ -516,9 +512,45 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 140277,
-      "name": "The Party Never Ends",
-      "url": "https://open.spotify.com/track/6aiCRUd68tOPCwsU0x1lUP"
+      "duration_ms": 198599,
+      "name": "Party By Myself",
+      "url": "https://open.spotify.com/track/0rgW7qxTNiLHYEi12IdjM2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pre-Party (Extended)",
+        "url": "https://open.spotify.com/album/51ojViy1d9Siz28EF08d49"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 197428,
+      "name": "Both Ways",
+      "url": "https://open.spotify.com/track/2FRc9wqgIjg2E3bH13ww6U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AGATS2 (Insecure) [with Nicki Minaj]",
+        "url": "https://open.spotify.com/album/6IIaL3K3K8neDuxsHC5i1W"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 199073,
+      "name": "AGATS2 (Insecure) [with Nicki Minaj]",
+      "url": "https://open.spotify.com/track/29zJSZwF7hcfMitUjnjgvm"
     },
     {
       "added_at": null,
@@ -543,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159898,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/50OMAX7jvslUk8MbBZVIFY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legends Never Die",
         "url": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL"
       },
@@ -555,6 +603,26 @@
       "duration_ms": 242180,
       "name": "Righteous",
       "url": "https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suicidal (Remix) [feat. Juice WRLD]",
+        "url": "https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH"
+      },
+      "artists": [
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 225857,
+      "name": "Suicidal (feat. Juice WRLD) - Remix",
+      "url": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ"
     },
     {
       "added_at": null,
@@ -584,29 +652,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 167361,
-      "name": "Adore You",
-      "url": "https://open.spotify.com/track/6sUS3nGZ59ZLrzCYRweOiX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Suicidal (Remix) [feat. Juice WRLD]",
-        "url": "https://open.spotify.com/album/4WE4KsdoZbISWStEzfcxvH"
-      },
-      "artists": [
-        {
-          "name": "YNW Melly",
-          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 225857,
-      "name": "Suicidal (feat. Juice WRLD) - Remix",
-      "url": "https://open.spotify.com/track/4S2uhQE8L9V6p7rj7SiauJ"
+      "duration_ms": 150888,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/1TDJ54cKWTTCCYa2es2UFa"
     },
     {
       "added_at": null,
@@ -643,22 +691,6 @@
       "duration_ms": 155711,
       "name": "World Tour (Aquafina)",
       "url": "https://open.spotify.com/track/42GhSb1Rca49SbHhunbc0z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159898,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/50OMAX7jvslUk8MbBZVIFY"
     },
     {
       "added_at": null,
@@ -716,25 +748,9 @@
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 144090,
-      "name": "Maze",
-      "url": "https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 198599,
-      "name": "Party By Myself",
-      "url": "https://open.spotify.com/track/0rgW7qxTNiLHYEi12IdjM2"
+      "duration_ms": 201920,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/2uTrdatngtB000duMrfbiV"
     },
     {
       "added_at": null,
@@ -779,38 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Race For Love (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 201920,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/2uTrdatngtB000duMrfbiV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 150888,
-      "name": "Barbarian",
-      "url": "https://open.spotify.com/track/1TDJ54cKWTTCCYa2es2UFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK"
       },
@@ -827,26 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lace It (with Eminem & benny blanco)",
-        "url": "https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt"
+        "name": "Death Race For Love (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
       "artists": [
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
         }
       ],
-      "duration_ms": 217526,
-      "name": "Lace It (with Eminem & benny blanco)",
-      "url": "https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP"
+      "duration_ms": 144090,
+      "name": "Maze",
+      "url": "https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F"
     },
     {
       "added_at": null,
@@ -891,6 +867,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 232064,
+      "name": "PTSD",
+      "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fighting Demons (Deluxe)",
         "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
       },
@@ -927,34 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PTSD",
-        "url": "https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 232064,
-      "name": "PTSD",
-      "url": "https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuthin' 2 Prove",
         "url": "https://open.spotify.com/album/4qplno3lbet8WvuTGdDG3T"
       },
@@ -971,6 +947,34 @@
       "duration_ms": 166343,
       "name": "Yacht Club (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/5R2rsbwCDXORX2tLfprRmM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B4 The Storm (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 174729,
+      "name": "Blastoff (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/2EL58P9iKGM5L2sO203i5y"
     },
     {
       "added_at": null,
@@ -1007,34 +1011,6 @@
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "B4 The Storm (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 174729,
-      "name": "Blastoff (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/2EL58P9iKGM5L2sO203i5y"
     }
   ],
   "unique_name": "This Is Juice WRLD",

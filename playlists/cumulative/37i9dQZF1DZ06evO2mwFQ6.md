@@ -4,11 +4,12 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 6 min
+74 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [All Or Nothing](https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms) | 3:27 | 2023-06-17 |  |
+| [All or Nothing](https://open.spotify.com/track/0BBysM0n9aupJTpYrDhtCc) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All or Nothing](https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX) | 3:27 | 2024-12-04 |  |
+| [All Or Nothing](https://open.spotify.com/track/1LiMVKhl8eQNhhNTBRowb1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [All Or Nothing](https://open.spotify.com/album/78CHrctUDb2LjgFdInJwms) | 3:27 | 2023-06-17 | 2024-12-04 |
 | [Beating Around The Bush](https://open.spotify.com/track/0Ul76B6hmCMTEAgjblo1Am) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:19 | 2023-06-17 |  |
 | [Blame It On Eve](https://open.spotify.com/track/2Gb45i57zA76fV09OmQjGO) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Blame It On Eve](https://open.spotify.com/album/5rJuxuT06npGq0ImHMGsOL) | 3:43 | 2023-06-17 |  |
 | [Blue Sky Cathedral](https://open.spotify.com/track/3VIyK7NVZQxsvjY2B4HEm5) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:34 | 2024-01-19 | 2024-01-31 |
@@ -20,6 +21,7 @@
 | [Cowboy Tequila](https://open.spotify.com/track/4yWIzGVaS4k4sHEPtBB0Vx) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 4:00 | 2024-10-19 | 2024-10-21 |
 | [Dirt Racer](https://open.spotify.com/track/5UkNfI7pKdJWjqX3tTdOCs) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 4:12 | 2023-06-29 |  |
 | [Dirt Track Cowboys](https://open.spotify.com/track/6h6lmoL3DyP2oujHiV02CI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 2:53 | 2023-06-17 |  |
+| [Dirt Track Cowboys '08](https://open.spotify.com/track/3RXfGZcQuzRRlxFMIBWGUJ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/6hfdWnqQl1UJ4vwQGaRmjn) | 2:59 | 2024-12-04 |  |
 | [Drunk](https://open.spotify.com/track/45lasTnqrHd1t9SZ8s2SWa) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 3:18 | 2023-06-17 |  |
 | [Dumb Things](https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 2:41 | 2023-06-17 |  |
 | [Every Time She Walks By](https://open.spotify.com/track/2dmGnYNMPkcC5yr4MgsC17) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 3:14 | 2023-06-17 |  |
@@ -29,7 +31,7 @@
 | [Freakin' Weekend](https://open.spotify.com/track/0G8nrYfuRlUow6FbUZZaRg) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Speed Of Life](https://open.spotify.com/album/54N4qJICmkAWZM3khwGI9Z) | 3:16 | 2023-06-17 |  |
 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 | 2023-06-17 |  |
 | [Get On Down The Road](https://open.spotify.com/track/0L4LJGIt2QkQOnA6ZtUZC8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [You're A Revhead](https://open.spotify.com/album/6to8LTBnNwNJiRJz6HKg6c) | 3:10 | 2023-06-17 |  |
-| [Get On Your Feet](https://open.spotify.com/track/5YF7zeU2Op6MlUHQlzBf37) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 2:58 | 2023-06-17 |  |
+| [Get On Your Feet](https://open.spotify.com/track/5YF7zeU2Op6MlUHQlzBf37) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/7geFFxHzYh6zfdy9h13DHm) | 2:58 | 2023-06-17 | 2024-12-04 |
 | [Gettin' There](https://open.spotify.com/track/64JgqpVpWecb6FSdeBnKzE) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Gettin' There](https://open.spotify.com/album/2AWjtqnJ0AZxIeDZKuVvmR) | 3:13 | 2024-06-23 |  |
 | [Good Friends](https://open.spotify.com/track/1BccrNoxYvYb3uzeNYLb4n) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Good Friends](https://open.spotify.com/album/4Xk5qSOfv6GtovEcH31maO) | 3:43 | 2023-06-17 |  |
 | [Good Year For The Outlaw](https://open.spotify.com/track/1p2pxUmCzV868AUHfw7Cei) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 3:34 | 2023-07-01 |  |
@@ -57,7 +59,8 @@
 | [Number 34](https://open.spotify.com/track/1AQDUCqkSosRRxKa7q1gls) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 2:54 | 2023-06-17 |  |
 | [Open Ended Heartache](https://open.spotify.com/track/60tADaE8MpEuDbaOFl1eVZ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/6hfdWnqQl1UJ4vwQGaRmjn) | 3:59 | 2024-11-29 |  |
 | [Our Church](https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [Matt Cornell](https://open.spotify.com/artist/01eCwGI76wbxMepuNTetLg) | [Our Church](https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX) | 3:39 | 2023-06-17 |  |
-| [Party Down Under](https://open.spotify.com/track/6voVE1ccTkRYYNE9BtkIqV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Party Down Under](https://open.spotify.com/album/6kTwLscyl9GiE3tk1oLvrK) | 3:16 | 2023-06-17 |  |
+| [Party Down Under](https://open.spotify.com/track/6voVE1ccTkRYYNE9BtkIqV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Party Down Under](https://open.spotify.com/album/6kTwLscyl9GiE3tk1oLvrK) | 3:16 | 2023-06-17 | 2024-12-04 |
+| [Party Down Under](https://open.spotify.com/track/5CgbrnnfMfKHJnAdo7Hw5X) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Party Down Under](https://open.spotify.com/album/2mwqhOULfCrN8QPA2c8PD7) | 3:17 | 2024-12-04 |  |
 | [Ready For Love](https://open.spotify.com/track/3YSl4i3tefmSES68EHJNpV) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Hell Of A Ride](https://open.spotify.com/album/3Fa0QVFiC0v3FiS5gIJiyo) | 3:55 | 2023-06-17 |  |
 | [She's Country](https://open.spotify.com/track/6RsEU2x1ufggklj11Xg1Mt) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:42 | 2023-06-17 |  |
 | [Six Days On The Road](https://open.spotify.com/track/0IMbo0eRqkIkAKO131Wusr) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 2:48 | 2023-06-17 |  |

@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-188 songs - 10 hr 42 min
+189 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Greedy](https://open.spotify.com/track/7aLT0tLcS40Penaplqu2cZ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:34 | 2024-04-17 |  |
 | [Guess featuring billie eilish](https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd) | 2:23 | 2024-08-07 |  |
 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 | 2024-02-20 |  |
+| [Hasrat dan Jiwaku](https://open.spotify.com/track/4oD4GqgvX4fGZVfK1gnGR8) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Ayu Gani](https://open.spotify.com/artist/3Fnj32iwvgoDyjGpeStWgm) | [Hasrat dan Jiwaku](https://open.spotify.com/album/550PBeRGKHGgTg2Lh8DHnC) | 4:28 | 2024-12-03 |  |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2022-12-13 | 2024-08-30 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-03-30 | 2024-04-19 |
 | [Heaven](https://open.spotify.com/track/0vtnYQ2A6o2fuEWim7DRYy) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk), [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Heaven](https://open.spotify.com/album/3ZlxavMQWzOa0dfcRrCUpi) | 3:44 | 2023-01-09 | 2024-08-08 |

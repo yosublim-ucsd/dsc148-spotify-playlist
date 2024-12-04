@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 168000,
       "name": "852 Hz Inner Peace",
       "url": "https://open.spotify.com/track/54wmUJNPXM8OiOcPcbmzhH"
@@ -668,6 +668,24 @@
       "duration_ms": 196000,
       "name": "As Seen In Silver Halide",
       "url": "https://open.spotify.com/track/4lanwDkWGgvJMgrdfomThw"
+    },
+    {
+      "album": {
+        "name": "Aspect of Mind",
+        "url": "https://open.spotify.com/album/2H1MlDVqpEgDhtIkDfkct0"
+      },
+      "artists": [
+        {
+          "name": "Kunushevci",
+          "url": "https://open.spotify.com/artist/2Etal9cBcsTP6maAdJEWZl"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177297,
+      "name": "Aspect of Mind",
+      "url": "https://open.spotify.com/track/6onduIvF4Ypci4LvhfHjBq"
     },
     {
       "album": {
@@ -1532,7 +1550,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 166530,
       "name": "Dagdraumur",
       "url": "https://open.spotify.com/track/4vpUme6bonH4EPwMxBBLOP"
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 150545,
       "name": "Doux Sommeil",
       "url": "https://open.spotify.com/track/4HHB23Kvr6Lbwx8ksTTAuA"
@@ -3501,6 +3519,24 @@
     },
     {
       "album": {
+        "name": "Lunar Lore",
+        "url": "https://open.spotify.com/album/5xV72B2je5HUc41kbXDcCR"
+      },
+      "artists": [
+        {
+          "name": "Astrocalm",
+          "url": "https://open.spotify.com/artist/1ZoNh8hKFOtOMDklPdhnCg"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181967,
+      "name": "Lunar Lore",
+      "url": "https://open.spotify.com/track/01b2WR7qFF2l9F6cKHV9qy"
+    },
+    {
+      "album": {
         "name": "Magna Terra",
         "url": "https://open.spotify.com/album/3r8APNPA6KWw1opQgaV8gU"
       },
@@ -3897,6 +3933,42 @@
     },
     {
       "album": {
+        "name": "Noctilucent",
+        "url": "https://open.spotify.com/album/0GueoJsCl18CjDpVSCUTi4"
+      },
+      "artists": [
+        {
+          "name": "Everglades",
+          "url": "https://open.spotify.com/artist/5bfwEl4yO80YBMyJWkM7gk"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140833,
+      "name": "Noctilucent",
+      "url": "https://open.spotify.com/track/3m8aAgxiL7SMOTPym9s5Gx"
+    },
+    {
+      "album": {
+        "name": "Nocturnal Narrative",
+        "url": "https://open.spotify.com/album/39n24O0BcECvZXXBevRzBl"
+      },
+      "artists": [
+        {
+          "name": "Pillow Dalliance",
+          "url": "https://open.spotify.com/artist/6DM6WLvwOHMENEbAd4jbFN"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199249,
+      "name": "Nocturnal Narrative",
+      "url": "https://open.spotify.com/track/4biunrn8GwJxRgZ0sOkCcL"
+    },
+    {
+      "album": {
         "name": "Nomadic",
         "url": "https://open.spotify.com/album/16GztFsNQKFWKChyhY8Zre"
       },
@@ -4016,7 +4088,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 194958,
       "name": "Ocean Dreams",
       "url": "https://open.spotify.com/track/5aSmTQ7MCjH4P19C18jobr"
@@ -5021,6 +5093,24 @@
     },
     {
       "album": {
+        "name": "sensitive",
+        "url": "https://open.spotify.com/album/2A5Hcab5GIFWfiKwlRvkNK"
+      },
+      "artists": [
+        {
+          "name": "Gravity Windmills",
+          "url": "https://open.spotify.com/artist/7pih9NuLtX8bMOUexHKjyv"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158355,
+      "name": "sensitive",
+      "url": "https://open.spotify.com/track/0uPCHcLYxIaRhYN4ogUAvn"
+    },
+    {
+      "album": {
         "name": "Sensory Bypass",
         "url": "https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s"
       },
@@ -5162,6 +5252,24 @@
       "duration_ms": 207692,
       "name": "Silent Eclipse",
       "url": "https://open.spotify.com/track/6HAN6YB5lzLAmElgGDPxtR"
+    },
+    {
+      "album": {
+        "name": "Silver Orbital",
+        "url": "https://open.spotify.com/album/3WqaWT0QflQvwHJgGnb5LA"
+      },
+      "artists": [
+        {
+          "name": "salotto",
+          "url": "https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183021,
+      "name": "Silver Orbital",
+      "url": "https://open.spotify.com/track/4PGxyTwErYQRE3kFWDZcka"
     },
     {
       "album": {

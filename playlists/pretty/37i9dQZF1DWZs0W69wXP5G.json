@@ -1,12 +1,12 @@
 {
   "description": "Everything Broadway-adjacent. Cover:  Ariana Grande & Cynthia Erivo",
-  "num_followers": 5687,
+  "num_followers": 5767,
   "original_name": "Off Broadway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AP0AAAAAAO/BNaLSoqFRwpDLhfY7O7",
+  "snapshot_id": "Z09FvAAAAABizeUCkW3IpaxvCapQlh+G",
   "tracks": [
     {
       "added_at": "2024-11-22 05:00:00",
@@ -63,6 +63,26 @@
       "duration_ms": 204733,
       "name": "If You Can Count",
       "url": "https://open.spotify.com/track/1QpJXozmWx1foS6GsIp3fA"
+    },
+    {
+      "added_at": "2024-12-03 17:54:04",
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "What Is This Feeling?",
+      "url": "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX"
     },
     {
       "added_at": "2024-11-04 14:58:58",
@@ -615,22 +635,6 @@
       "duration_ms": 173887,
       "name": "Burn for You",
       "url": "https://open.spotify.com/track/6lmke3XxJTBC2x2tT6gMo7"
-    },
-    {
-      "added_at": "2024-07-15 18:36:21",
-      "album": {
-        "name": "Wish (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0U8h5Cz5hZtL0vmqFB40Ao"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "A Wish Worth Making",
-      "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
     },
     {
       "added_at": "2024-07-15 18:36:21",

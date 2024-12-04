@@ -4,7 +4,7 @@
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-99 songs - 4 hr 26 min
+100 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [The Christmas Song](https://open.spotify.com/track/4AXA3ERWG4iUmQds4mVKlO) | [The Real Group](https://open.spotify.com/artist/4EIXOUTnf8Gtbk2kq4LYNK) | [The World for Christmas](https://open.spotify.com/album/5WJGhZxP6Gp9Vlc3Z80ZFB) | 5:11 | 2021-12-21 | 2024-04-19 |
 | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/50rROXBrkI47R1yd8uHPWy) | [The Real Group](https://open.spotify.com/artist/4EIXOUTnf8Gtbk2kq4LYNK) | [The World For Christmas](https://open.spotify.com/album/436UoH1iPqAScPS84usYOM) | 5:11 | 2021-12-21 |  |
 | [The First Noel](https://open.spotify.com/track/2q3NNQqn8DaehA2M0qyKHT) | [Dean Hort Quartet](https://open.spotify.com/artist/1C5rovJ0DxYtVAsEWQIQfj) | [The First Noel](https://open.spotify.com/album/5mvwUwNxgqw3NrHCfWr0tp) | 2:11 | 2021-12-21 |  |
+| [The First Nowell \- Arr\. for choir and soprano by Ola Gjeilo](https://open.spotify.com/track/6j9ESL6dB0r06wLmlalj9l) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [UCI Chamber Singers](https://open.spotify.com/artist/4LgBlkFhskMxHc9B0e9EUH), [Irene Messoloras](https://open.spotify.com/artist/7bLs9uL2MjQUMXwSqW5btL), [Isabelle Knowles](https://open.spotify.com/artist/5K1eOKwgnF6WtMWN70jp7k) | [Winter Night](https://open.spotify.com/album/3JTx56jRaZjqyCtp4sjMoD) | 4:38 | 2024-12-03 |  |
 | [The holly and the ivy](https://open.spotify.com/track/57lKCJHxa9IKtlzsaEFKVQ) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [The Cambridge Singers](https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn), [John Rutter](https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe) | [Cambridge Singers Christmas Album](https://open.spotify.com/album/0vfX51J1FSfPhcxM4I3kUb) | 2:58 | 2024-11-27 |  |
 | [The Stable Door](https://open.spotify.com/track/0AkU2CTTrrLxTWqhzCdfkO) | [Cecil Armstrong Gibbs](https://open.spotify.com/artist/5hrypd0adAHTj2JSBs2CvU), [Vasari Singers](https://open.spotify.com/artist/2QInYkK0ys9Uj6aa0n8XFx), [Jeremy Backhouse](https://open.spotify.com/artist/53briF9i45bOTMyBWWkmzy) | [A Winter's Light: A Christmas Collection](https://open.spotify.com/album/5Mdv6Guj9j0nOqDGPV4KN4) | 2:24 | 2022-12-05 |  |
 | [The Three Kings](https://open.spotify.com/track/6bhFHkgnEmOIVGFFOdvzqF) | [Choir of King's College, Cambridge](https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl), [Sir David Willcocks](https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC) | [Carols From Cambridge: The Very Best Sacred Christmas Carols](https://open.spotify.com/album/0J5mxoyU8lNsqPmepDLvmu) | 2:41 | 2021-12-21 |  |

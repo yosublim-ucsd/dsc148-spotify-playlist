@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,126 likes - 51 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,173 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 28 | [Is That Ight?](https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:58 |
 | 29 | [Yungen \(feat\. Jack Harlow\)](https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:46 |
 | 30 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 |
-| 31 | [WARSAW \(feat\. 2forwOyNE\)](https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [2forwOyNE](https://open.spotify.com/artist/1TQKggQGVxtU2n5xDTTti5) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 3:07 |
-| 32 | [I'd Do Anything To Make You Smile](https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:13 |
+| 31 | [I'd Do Anything To Make You Smile](https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 3:13 |
+| 32 | [WARSAW \(feat\. 2forwOyNE\)](https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [2forwOyNE](https://open.spotify.com/artist/1TQKggQGVxtU2n5xDTTti5) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 3:07 |
 | 33 | [No Enhancers](https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:39 |
 | 34 | [Moana](https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Moana](https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0) | 2:58 |
 | 35 | [Face Of My City \(feat\. Lil Baby\)](https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:03 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 47 | [HEY BIG HEAD](https://open.spotify.com/track/3FWIAl04a9ySFhk4HH15ov) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:01 |
 | 48 | [Eastern Parkway](https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Gazebo](https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc) | 3:06 |
 | 49 | [Tide Pen \(feat\. Jack Harlow\)](https://open.spotify.com/track/4Wh3znTCMTIKAZ2stlikRX) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Florida Jit](https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY) | 2:24 |
-| 50 | [Deadpool](https://open.spotify.com/track/7gw9HXq83fuwCiD343QwZD) | [Heretic Klick](https://open.spotify.com/artist/6Jqut9RUUIl7KksiQ6omuU), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Deadpool](https://open.spotify.com/album/2qL2in6zVsO6Hxm8CH7tKs) | 1:51 |
+| 50 | [DRIP DROP \(feat\. Cyhi The Prynce\)](https://open.spotify.com/track/19wtw9FEDtbf5z9p5KDCy9) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 3:23 |
 | 51 | [OUT FRONT](https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:58 |
 
-Snapshot ID: `Z0unAAAAAAAWaqj5qlveA2l9MccZxT2t`
+Snapshot ID: `Z0z4gAAAAAA7bbuILF07lc+7XzzliY1E`

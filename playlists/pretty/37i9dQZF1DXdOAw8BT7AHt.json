@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers",
-  "num_followers": 468105,
+  "num_followers": 468137,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/486JaB4ZK017faPW9kNpje"
     },
     {
-      "added_at": "2024-11-15 10:05:02",
-      "album": {
-        "name": "ONE NATION",
-        "url": "https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q"
-      },
-      "artists": [
-        {
-          "name": "Pinkshift",
-          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "ONE NATION",
-      "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
-    },
-    {
       "added_at": "2024-10-10 17:06:38",
       "album": {
         "name": "Mirror Muscles",
@@ -703,6 +687,22 @@
       "duration_ms": 163257,
       "name": "Mirror Muscles",
       "url": "https://open.spotify.com/track/62i7ZpVSxDbgPe1JKHrPHu"
+    },
+    {
+      "added_at": "2024-11-15 10:05:02",
+      "album": {
+        "name": "ONE NATION",
+        "url": "https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q"
+      },
+      "artists": [
+        {
+          "name": "Pinkshift",
+          "url": "https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "ONE NATION",
+      "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "A White Horse Covered In Blood",
-        "url": "https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY"
-      },
-      "artists": [
-        {
-          "name": "Better Lovers",
-          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "A White Horse Covered In Blood",
-      "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/3DS7XjGjZHW6aL8BSJogSE"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 181881,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/6WKc3CetpaIRyDmukASzYi"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "A White Horse Covered In Blood",
+        "url": "https://open.spotify.com/album/02Pd6DWZUq8pUETRO8NleY"
+      },
+      "artists": [
+        {
+          "name": "Better Lovers",
+          "url": "https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "A White Horse Covered In Blood",
+      "url": "https://open.spotify.com/track/3xeSkrhiTFfQv47lyUPe3W"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "The Sacrifice / At Sickness",
-        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "The Sacrifice",
-      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Dirty Mirror Selfie / Where Blue Light Blooms",
         "url": "https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 217765,
       "name": "Dirty Mirror Selfie",
       "url": "https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "The Sacrifice / At Sickness",
+        "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1209,6 +1209,26 @@
       "url": "https://open.spotify.com/track/7M1tf4JjJPmw1BlkMbT0Dm"
     },
     {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Ultimatum",
+        "url": "https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP"
+      },
+      "artists": [
+        {
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        },
+        {
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "Ultimatum",
+      "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
+    },
+    {
       "added_at": "2024-11-15 10:05:02",
       "album": {
         "name": "Y a pu d'poude dans poude",
@@ -1239,26 +1259,6 @@
       "duration_ms": 186795,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Ultimatum",
-        "url": "https://open.spotify.com/album/0YjaDupGt0URWOJKzc9bSP"
-      },
-      "artists": [
-        {
-          "name": "408",
-          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
-        },
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "Ultimatum",
-      "url": "https://open.spotify.com/track/53oGdQkeoXpAtu9HLlsycx"
     },
     {
       "added_at": "2024-10-10 17:06:38",

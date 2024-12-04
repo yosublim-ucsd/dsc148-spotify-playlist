@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Brett Eldredge
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,386 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,831 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

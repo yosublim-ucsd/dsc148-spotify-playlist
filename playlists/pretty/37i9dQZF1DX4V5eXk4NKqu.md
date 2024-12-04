@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best of Latin Indie today, featuring Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,113 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,133 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 6 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 |
 | 7 | [Tarde o temprano](https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 3:22 |
 | 8 | [11:11](https://open.spotify.com/track/5hFzcSKV67yaLUZohMB8vq) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [11:11](https://open.spotify.com/album/7eqKwpQasPxFytq7NiUNtO) | 3:28 |
-| 9 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 |
+| 9 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
 | 10 | [zarcillos de plata](https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [zarcillos de plata](https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c) | 3:18 |
-| 11 | [Ay No Puedo](https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:01 |
+| 11 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 |
 | 12 | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Nada por Hecho \(feat\. Leiva\)](https://open.spotify.com/album/6dD5pmen05khim74MHtYC9) | 3:28 |
 | 13 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 |
 | 14 | [Already Yours](https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:18 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 61 | [Solos tú y yo](https://open.spotify.com/track/0jCcPLWnbGR5S9KzYfkPcC) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Conducción Temeraria](https://open.spotify.com/album/5nrXt3Q3tpjTZaOO19H3P3) | 4:37 |
 | 62 | [Lo dejo](https://open.spotify.com/track/2T0yb0dYi8My9xNiy9aET2) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Lo dejo](https://open.spotify.com/album/4j2vngdnmouFuKoANcvqdc) | 3:10 |
 | 63 | [Feeling Low](https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Feeling Low](https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j) | 3:41 |
-| 64 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
-| 65 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
+| 64 | [Fue un adiós](https://open.spotify.com/track/0VgAyCkQ7nJsSj5sIJvOh9) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Fue un adiós](https://open.spotify.com/album/152wVzzQqVbUHsmnye2wQx) | 3:16 |
+| 65 | [Se siente bien](https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9) | [stivijoes](https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx) | [Se siente bien](https://open.spotify.com/album/10Tb4DiM1AKpUXwcvm6upI) | 2:06 |
 | 66 | [Porcelana](https://open.spotify.com/track/7BUGFriDT5M1MSMlPq9HrZ) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Porcelana](https://open.spotify.com/album/1k9GvNL7iei4Id3OnKcSbu) | 3:44 |
 | 67 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 |
 | 68 | [Cartagena](https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv) | [Reyna Tropical](https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL) | [Cartagena](https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx) | 3:32 |

@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Irm\u00e3 Ana Paula",
-  "num_followers": 339298,
+  "num_followers": 339355,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        },
+        {
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
+        }
+      ],
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Cantai a Deus Com Alegria 2023",
         "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 262000,
       "name": "Acalma o Meu Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -567,18 +567,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
+        "name": "Serei Tudo",
+        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
       },
       "artists": [
         {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Laura Salvador",
+          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
         }
       ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+      "duration_ms": 264566,
+      "name": "Serei Tudo",
+      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -603,26 +607,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Serei Tudo",
-        "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        },
-        {
-          "name": "Laura Salvador",
-          "url": "https://open.spotify.com/artist/61ebYZYHMe4kwhxnA3Evh3"
-        }
-      ],
-      "duration_ms": 264566,
-      "name": "Serei Tudo",
-      "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Deus V\u00ea",
         "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
       },
@@ -635,6 +619,38 @@
       "duration_ms": 249940,
       "name": "Deus V\u00ea",
       "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Eu Vou Anunciar",
+        "url": "https://open.spotify.com/album/6C0AzSrXa5pjaAwjqR8fV9"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Eu Vou Anunciar",
+      "url": "https://open.spotify.com/track/0JVjH0Ip4LFNZvqHTZPKRS"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -655,22 +671,6 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Eu Vou Anunciar",
-        "url": "https://open.spotify.com/album/6C0AzSrXa5pjaAwjqR8fV9"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Eu Vou Anunciar",
-      "url": "https://open.spotify.com/track/0JVjH0Ip4LFNZvqHTZPKRS"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Seremos o Amor",
         "url": "https://open.spotify.com/album/11269KCRvrv5jBX520lIDb"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 251956,
       "name": "Viva a M\u00e3e de Deus e Nossa",
       "url": "https://open.spotify.com/track/3Tm1zXUqSPuGHdM3DFvBZz"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
+      },
+      "artists": [
+        {
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
+        }
+      ],
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 384059,
-      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "\u00c9 Lindo Ser Cat\u00f3lico",
         "url": "https://open.spotify.com/album/6f1ihJju82fMhC14jjfM1Y"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 159155,
       "name": "\u00c9 Lindo Ser Cat\u00f3lico",
       "url": "https://open.spotify.com/track/3SfjEP1A8HF7oXpH61K6Re"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 384059,
+      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
     },
     {
       "added_at": "2024-11-29 03:01:00",

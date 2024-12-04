@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,641 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,691 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 27 | [Just Like a Woman](https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 4:50 |
 | 28 | [Buckets of Rain](https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 3:23 |
 | 29 | [Boots of Spanish Leather](https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 4:37 |
-| 30 | [If Not for You](https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:41 |
-| 31 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:12 |
+| 30 | [It's All Over Now, Baby Blue](https://open.spotify.com/track/4EgKcG7aswxVfQEqa3dl8S) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 4:12 |
+| 31 | [If Not for You](https://open.spotify.com/track/0bTY3EvTFLdPALso8E7Eyq) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 2:41 |
 | 32 | [You're Gonna Make Me Lonesome When You Go](https://open.spotify.com/track/64MISVB9IIchhOKmWHftoz) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 2:54 |
 | 33 | [Masters of War](https://open.spotify.com/track/7xVpkVkd1klTzLJEysIR7z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 4:31 |
-| 34 | [Jokerman](https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Infidels](https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy) | 6:16 |
-| 35 | [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:46 |
+| 34 | [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:46 |
+| 35 | [Jokerman](https://open.spotify.com/track/6cuHkcRUqtQhtJ4sWCkd1q) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Infidels](https://open.spotify.com/album/66zadu7BtUnpbkT4iAkaHy) | 6:16 |
 | 36 | [Things Have Changed \- Single Version](https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Side Tracks](https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY) | 5:07 |
 | 37 | [Corrina, Corrina](https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:41 |
 | 38 | [Changing of the Guards](https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Street\-Legal](https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U) | 6:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bqAta.md) - [plain]
 | 49 | [Not Dark Yet](https://open.spotify.com/track/1qbn6QrHG8XfnqVFKgNzKP) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Time Out Of Mind](https://open.spotify.com/album/185DHT5SvszXRrezx3lOjt) | 6:27 |
 | 50 | [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:24 |
 
-Snapshot ID: `Z0unAAAAAACUYdtzAFnKWk2+I1f+zDDh`
+Snapshot ID: `Z0z4gAAAAACJ+Wtyyv+9TH2pDJR5ApbX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Lo mejor de la década\. En portada: Joe Arroyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,928 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,073 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 92 | [Mascarada](https://open.spotify.com/track/7DKmBQ6INFuFRNSQsnwqeX) | [Johnny Ray](https://open.spotify.com/artist/0pC0pFLfdKMboJmKgYgmuw) | [Exitos Eternos](https://open.spotify.com/album/4dY4pdEIlP4XX9Vdj915Qg) | 4:37 |
 | 93 | [Penas Penas](https://open.spotify.com/track/1rBFZSviyShjZuF27YDsbn) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Edición Limitada](https://open.spotify.com/album/7JyQeX40JXO24zFZrdSWpl) | 5:06 |
 | 94 | [Enamorado De Ti \- Salsa Version](https://open.spotify.com/track/5EOiyV8PrLDXBuvS1NdVu3) | [Frankie Negrón](https://open.spotify.com/artist/3QPEwHBLL8xX8p8HaT4S16), [Ronnie Torres and Ramon Sanchez](https://open.spotify.com/artist/2jebsUroQNfYr1931DQHge) | [Lo Que Llevo Por Dentro](https://open.spotify.com/album/1QTe8NivESo3klvIIhk2Bs) | 4:52 |
-| 95 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
-| 96 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
+| 95 | [Te Va a Doler](https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [En Tiempo de Amor](https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL) | 4:52 |
+| 96 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
 | 97 | [Me Tengo Que Ir](https://open.spotify.com/track/3AK05RIuu30jqJ40cfOxLD) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Me Tengo Que Ir](https://open.spotify.com/album/7mdskxE2Kr6O5DWiWw3RB2) | 4:40 |
 | 98 | [Vuelvo A Nacer](https://open.spotify.com/track/2TBq7TNK5LaNcwUNAhP90E) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Nacimiento Y Recuerdos](https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl) | 4:19 |
 | 99 | [Hasta El Sol De Hoy](https://open.spotify.com/track/1ruoF0rzUcG2UZMaeSacRj) | [Anthony Colon](https://open.spotify.com/artist/0tc7v6aUc2MuA3qdjwVQir), [Edgar Joel](https://open.spotify.com/artist/2Q6zKMFyq67L6fBml9cn4A) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WdyVxGbOMTjTRK3HmLx2g) | 4:42 |

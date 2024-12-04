@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NCT WISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 436,180 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 436,247 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

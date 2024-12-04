@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,981 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,050 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 41 | [Tú Vas a Volar](https://open.spotify.com/track/5jbeMwT4FdbL4X3UgmfluA) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:13 |
 | 42 | [Esa](https://open.spotify.com/track/03Z88hoXdp1QinkHGmkSLn) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco..\. Vive](https://open.spotify.com/album/0pk15Ydt1UUbrzdCjhDh7r) | 3:51 |
 | 43 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/1BId2hCYqsaajdDYbwZc1p) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R) | 4:58 |
-| 44 | [Mi Primer Amor](https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Colombia Y Su Folclor Vol I](https://open.spotify.com/album/03po8Hle2xYu7QWTArhQqa) | 4:30 |
+| 44 | [Enseñame a olvidar](https://open.spotify.com/track/39Y8X0d5PZ6st301nUp1sC) | [Cristian y sus infieles](https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:17 |
 | 45 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
-| 46 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
-| 47 | [Muchacha Encantadora](https://open.spotify.com/track/1OyzfeMIehp64SBzyKHNZ8) | [Los Chiches Vallenatos, Osmar Perez](https://open.spotify.com/artist/2LBpR8wVcXvZeGm9soEfWk) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:17 |
+| 46 | [Mi Primer Amor](https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Colombia Y Su Folclor Vol I](https://open.spotify.com/album/03po8Hle2xYu7QWTArhQqa) | 4:30 |
+| 47 | [Dime que me quieres](https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 5:16 |
 | 48 | [Los Caminos De La Vida](https://open.spotify.com/track/5lWEvj1lWNwC5lJdaSerHi) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Sólo Clásicos](https://open.spotify.com/album/3iKjZoqGQKfJ9zUDBE5Jzr) | 4:35 |
-| 49 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 |
-| 50 | [La Creciente](https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv) | 3:02 |
+| 49 | [Muchacha Encantadora](https://open.spotify.com/track/1OyzfeMIehp64SBzyKHNZ8) | [Los Chiches Vallenatos, Osmar Perez](https://open.spotify.com/artist/2LBpR8wVcXvZeGm9soEfWk) | [Grandes Hits \- Los Chiches Vallenatos](https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx) | 4:17 |
+| 50 | [Una Hoja En Blanco](https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR) | [Nace Del Alma](https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po) | 4:45 |
 
 Snapshot ID: `ZlYukAAAAABe3wO2BkwM3DTrTAEiG+hv`

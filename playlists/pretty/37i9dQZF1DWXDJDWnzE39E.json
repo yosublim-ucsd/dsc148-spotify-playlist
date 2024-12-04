@@ -1,6 +1,6 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Poppy",
-  "num_followers": 710468,
+  "num_followers": 710841,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Don't Give Me Names",
-        "url": "https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s"
-      },
-      "artists": [
-        {
-          "name": "Guano Apes",
-          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "Big in Japan",
-      "url": "https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Tsunami (11:11)",
         "url": "https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 188823,
       "name": "Tsunami (11:11)",
       "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Don't Give Me Names",
+        "url": "https://open.spotify.com/album/37GjnYxAXPk9EPXgL4jv4s"
+      },
+      "artists": [
+        {
+          "name": "Guano Apes",
+          "url": "https://open.spotify.com/artist/4whxX965DKKqYkXmk33b4E"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "Big in Japan",
+      "url": "https://open.spotify.com/track/3lQO10djAi0Ym506za76Wt"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "One Foot In The Grave",
-        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 222153,
-      "name": "One Foot In The Grave",
-      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 237354,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "One Foot In The Grave",
+        "url": "https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 222153,
+      "name": "One Foot In The Grave",
+      "url": "https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 192919,
       "name": "Kamikaze",
       "url": "https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+        "name": "Amorphous",
+        "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
         }
       ],
-      "duration_ms": 147664,
-      "name": "Play The Greatest Hits",
-      "url": "https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956"
+      "duration_ms": 208500,
+      "name": "Brittle",
+      "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Amorphous",
-        "url": "https://open.spotify.com/album/5my61AdRA8g0oBJjVDXcwB"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
       },
       "artists": [
         {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 208500,
-      "name": "Brittle",
-      "url": "https://open.spotify.com/track/274jFVlDzqSsUh2PMlsuM7"
+      "duration_ms": 147664,
+      "name": "Play The Greatest Hits",
+      "url": "https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956"
     },
     {
       "added_at": "2024-07-19 14:26:43",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-07-19 14:26:43",
       "album": {
-        "name": "Friends In Low Places",
-        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 183826,
-      "name": "Friends In Low Places",
-      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
-    },
-    {
-      "added_at": "2024-07-19 14:26:43",
-      "album": {
         "name": "And So It Went",
         "url": "https://open.spotify.com/album/3i32UJ5zr5ZEuGbiovsIY3"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 270214,
       "name": "And So It Went (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/03Szk0skbXqllHkNCVZI9p"
+    },
+    {
+      "added_at": "2024-07-19 14:26:43",
+      "album": {
+        "name": "Friends In Low Places",
+        "url": "https://open.spotify.com/album/5JTErxsRMHNZypUwsLN6oP"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 183826,
+      "name": "Friends In Low Places",
+      "url": "https://open.spotify.com/track/6u9nOgtPQvU7iRxFPcjFGG"
     },
     {
       "added_at": "2024-07-19 14:26:43",

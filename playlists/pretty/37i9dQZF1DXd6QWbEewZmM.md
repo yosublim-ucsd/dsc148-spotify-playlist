@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,345 likes - 150 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,391 likes - 150 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 57 | [Todo A Su Tiempo](https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Todo A Su Tiempo](https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g) | 3:37 |
 | 58 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 |
 | 59 | [Dame Un Segundo](https://open.spotify.com/track/64hZSFhbRYHz6WueQv9npj) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Dame Un Segundo](https://open.spotify.com/album/6rHLvbCWFOoongQ2GYXqHO) | 2:34 |
-| 60 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 |
-| 61 | [Disculpe Usted](https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Las Romanticas Favoritas de Fuerza Regida](https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj) | 3:26 |
+| 60 | [Disculpe Usted](https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Las Romanticas Favoritas de Fuerza Regida](https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj) | 3:26 |
+| 61 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 |
 | 62 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
 | 63 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
 | 64 | [Esta Noche](https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:09 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 91 | [Tony](https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Cactus](https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ) | 3:40 |
 | 92 | [Cambiaste](https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Cambiaste](https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj) | 2:54 |
 | 93 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 |
-| 94 | [RLUX](https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [RLUX](https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo) | 3:40 |
-| 95 | [Me Vas A Llorar](https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Vas A Llorar](https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa) | 4:19 |
+| 94 | [Me Vas A Llorar](https://open.spotify.com/track/5EO1p7yQgXPZom9N5lECvX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Me Vas A Llorar](https://open.spotify.com/album/5UirOXfLgjVDkz6FvuOSNa) | 4:19 |
+| 95 | [RLUX](https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [RLUX](https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo) | 3:40 |
 | 96 | [Modelo](https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Modelo](https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV) | 4:25 |
 | 97 | [LHTL](https://open.spotify.com/track/5FPx8kngsZIbJVv7gDNhWm) | [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [LHTL](https://open.spotify.com/album/6tMPbSFgYJjgfNx2kGnGbg) | 3:54 |
 | 98 | [Que Envidia](https://open.spotify.com/track/3JZs9g9JBaCZfaUVbZatS9) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 3:23 |

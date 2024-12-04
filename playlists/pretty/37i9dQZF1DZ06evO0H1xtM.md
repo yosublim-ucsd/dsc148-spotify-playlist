@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 
 > This is Grupo Marca Registrada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,261 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,446 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 24 | [BW](https://open.spotify.com/track/5UJvtcAGjB4HkcJTacYWXP) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [BW](https://open.spotify.com/album/1CGDlDzRZwzxCMcT6qXXRs) | 2:51 |
 | 25 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 |
 | 26 | [Torai](https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [THE GOAT](https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb) | 2:35 |
-| 27 | [BUGATTI CHIRON](https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BUGATTI CHIRON](https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY) | 3:26 |
-| 28 | [Emprendedor](https://open.spotify.com/track/5SEXhPd5qppIW3TXdTMy32) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:26 |
-| 29 | [En El Audi](https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [En El Audi](https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C) | 3:18 |
-| 30 | [A ti](https://open.spotify.com/track/1PMFC2sESWeDrIwUqjOgBD) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [On fire](https://open.spotify.com/album/4wj7qlN91z14QO2p5g3bnp) | 2:47 |
-| 31 | [BLING BLING](https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BLING BLING](https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4) | 2:43 |
-| 32 | [La Vida Ruina \(feat\. Ariel Camacho\)](https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [La Vida Ruina \(Version Deluxe\)](https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb) | 3:33 |
+| 27 | [Emprendedor](https://open.spotify.com/track/5SEXhPd5qppIW3TXdTMy32) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 3:26 |
+| 28 | [A ti](https://open.spotify.com/track/1PMFC2sESWeDrIwUqjOgBD) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [On fire](https://open.spotify.com/album/4wj7qlN91z14QO2p5g3bnp) | 2:47 |
+| 29 | [BUGATTI CHIRON](https://open.spotify.com/track/6R582RgN0hx6d4QDtrtcHU) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BUGATTI CHIRON](https://open.spotify.com/album/69Gzsu5wyWB9uCmn3p0dYY) | 3:26 |
+| 30 | [En El Audi](https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [En El Audi](https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C) | 3:18 |
+| 31 | [La Vida Ruina \(feat\. Ariel Camacho\)](https://open.spotify.com/track/7KXL3yfanDowu6shK3Vl0d) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [La Vida Ruina \(Version Deluxe\)](https://open.spotify.com/album/2rmX6k8ORoR3KThIalinvb) | 3:33 |
+| 32 | [BLING BLING](https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [BLING BLING](https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4) | 2:43 |
 | 33 | [Empatía](https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Empatía](https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV) | 4:04 |
 | 34 | [La Plebada del 09](https://open.spotify.com/track/1dafTXbbbK0wSsji6VbPJJ) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [La Catafixia](https://open.spotify.com/album/4nbbbprIlA9GDUDqlc59CH) | 2:33 |
 | 35 | [956](https://open.spotify.com/track/5vzCSTnTLVYYFad0tvVy9l) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Jasson Arellano](https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v) | [EVO LUXURY 2](https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ) | 2:54 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0H1xtM.md) - [plain]
 | 50 | [El Niño](https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [El Niño](https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy) | 3:10 |
 | 51 | [Bandida](https://open.spotify.com/track/3ksG0cTy7yEVcwqsAVrlYd) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Montana](https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2) | [Bandida](https://open.spotify.com/album/3g6x806Wq84L1fug50WL2O) | 2:59 |
 
-Snapshot ID: `Z0unAAAAAADDfju9aAbU0d7XB/P1EHUk`
+Snapshot ID: `Z0z4gAAAAADksMFpvnHoC9vmbv8WuS0U`

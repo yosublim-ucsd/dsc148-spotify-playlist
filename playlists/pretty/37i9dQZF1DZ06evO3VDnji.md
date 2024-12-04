@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 
 > This is DannyLux\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,119 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,144 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 15 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 |
 | 16 | [Sal De Mi Mente](https://open.spotify.com/track/34VdhciQ6LFncMIqTqPHAr) | [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOS FUIMOS DE CASA](https://open.spotify.com/album/6lF8ObAEQlS32QC3A28uz4) | 2:55 |
 | 17 | [24:7](https://open.spotify.com/track/02SyNfy3oA30Mnw8c0iCMb) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [24:7](https://open.spotify.com/album/3S9EK27YNoSrqH35mVB93R) | 3:01 |
-| 18 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 |
-| 19 | [Me Haces Falta](https://open.spotify.com/track/0m5Dhug5ODIpxkBxsStjw3) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:30 |
+| 18 | [Me Haces Falta](https://open.spotify.com/track/0m5Dhug5ODIpxkBxsStjw3) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:30 |
+| 19 | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/track/2aWBskyssdR9VyVV3dH65j) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mi Tormenta \(feat\. DannyLux\)](https://open.spotify.com/album/2fQK7PAhWR8oEsS7nqQCCs) | 3:22 |
 | 20 | [El 100](https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [El 100](https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin) | 2:58 |
 | 21 | [AMAR Y PERDER](https://open.spotify.com/track/04lZqz2MSGDf1bdweoJIG9) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 5:19 |
 | 22 | [Decir Adios \(with DannyLux\)](https://open.spotify.com/track/22e85kiUQV6Q8zaStxaM1f) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 4:39 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 38 | [Nuestro Pasado](https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w) | 3:31 |
 | 39 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
 | 40 | [MALDITO ALCOHOL](https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 4:02 |
-| 41 | [Falsos Sentimientos](https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 4:46 |
-| 42 | [La Perfecta](https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:12 |
+| 41 | [La Perfecta](https://open.spotify.com/track/4wg1dDQscqUEGBzorYpSx8) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 3:12 |
+| 42 | [Falsos Sentimientos](https://open.spotify.com/track/3IbJ9mcnO6fsPVcFp29Cgs) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 4:46 |
 | 43 | [Mientras no Vuelves](https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Mientras no Vuelves](https://open.spotify.com/album/73N5MlAHtOwluaDHv5vtLZ) | 3:17 |
 | 44 | [MiDNiGHT](https://open.spotify.com/track/63hryqFlfnTheZeeueei2E) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [MiDNiGHT](https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy) | 3:06 |
 | 45 | [Tu Belleza](https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tu Belleza](https://open.spotify.com/album/3wzeBIxedazMhG0oiSryZ8) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3VDnji.md) - [plain]
 | 49 | [Lento](https://open.spotify.com/track/7Fzu22wAv7NTHUeT3CjdnG) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Lento](https://open.spotify.com/album/0clIAjaELdNGYWu89nemOB) | 3:03 |
 | 50 | [SOLTERA](https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473) | [SOLTERA](https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ) | 2:58 |
 
-Snapshot ID: `Z0unAAAAAAChtKexnosbjgHr1WMiznNH`
+Snapshot ID: `Z0z4gAAAAACaB+89HcUdxjo2Ab0BHmFE`

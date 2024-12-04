@@ -2,7 +2,7 @@
 
 ### [Winter 2024](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> De december maand beleef je hier! 🍁
+> De decembermaand beleef je hier! 🍁
 
 559 songs - 1 day 4 hr 20 min
 

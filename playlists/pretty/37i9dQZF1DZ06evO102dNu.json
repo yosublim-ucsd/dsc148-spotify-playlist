@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1189843,
+  "num_followers": 1189993,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAC6ml6d4B5wUFqgH5OS1Az1",
+  "snapshot_id": "Z0z4gAAAAAAhhEPGF8Q2LP3W8FoAvZ20",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Chicago - Remastered",
-      "url": "https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/7CDx7wRXHEOVPREC1CiYXj"
       },
@@ -475,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Dance With Me! (Remastered)",
-        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
       "artists": [
         {
@@ -484,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 151026,
-      "name": "Come Dance With Me - 1998 Remastered",
-      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
+      "duration_ms": 134066,
+      "name": "Chicago - Remastered",
+      "url": "https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3"
     },
     {
       "added_at": null,
@@ -511,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
       },
       "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 163186,
-      "name": "Change Partners",
-      "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
+      "duration_ms": 151026,
+      "name": "Come Dance With Me - 1998 Remastered",
+      "url": "https://open.spotify.com/track/46Wiqf4yrN7euMb5qf12Hf"
     },
     {
       "added_at": null,
@@ -543,6 +523,26 @@
       "duration_ms": 177240,
       "name": "(Love Is) The Tender Trap",
       "url": "https://open.spotify.com/track/3Fyj22NPIu3kzhpu9KF7Bg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "Change Partners",
+      "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Swing Easy!",
+        "url": "https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 126533,
+      "name": "All Of Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinatra/Jobim: The Complete Reprise Recordings",
         "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 155440,
       "name": "Drinking Water (Aqua de Beber)",
       "url": "https://open.spotify.com/track/0d7rAcuh3djewMUKGxyVG8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Swing Easy!",
-        "url": "https://open.spotify.com/album/6j0yZEGpZBnoAQYIH0pIG7"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 126533,
-      "name": "All Of Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/1GLA53wyoybkJIQPLJR1Ml"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Quiet Nights of Quiet Stars (Corcovado)",
-      "url": "https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
@@ -695,18 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby Blue Eyes",
-        "url": "https://open.spotify.com/album/0LM90G0IGNZ9O5PkQcjOpw"
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
       },
       "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 169165,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/1ApoDRVGxx3Zd6Eo5BvrNR"
+      "duration_ms": 165213,
+      "name": "Quiet Nights of Quiet Stars (Corcovado)",
+      "url": "https://open.spotify.com/track/1FdulvpRiLgkseCz7RrNOR"
     },
     {
       "added_at": null,
@@ -731,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
-        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+        "name": "Baby Blue Eyes",
+        "url": "https://open.spotify.com/album/0LM90G0IGNZ9O5PkQcjOpw"
       },
       "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        },
         {
           "name": "Frank Sinatra",
           "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 140986,
-      "name": "One Note Samba (Samba de Uma Nota So)",
-      "url": "https://open.spotify.com/track/54DTLQMjyF60TY8b4jkKRa"
+      "duration_ms": 169165,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/1ApoDRVGxx3Zd6Eo5BvrNR"
     },
     {
       "added_at": null,
@@ -763,6 +743,26 @@
       "duration_ms": 188066,
       "name": "My Kind Of Town",
       "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 140986,
+      "name": "One Note Samba (Samba de Uma Nota So)",
+      "url": "https://open.spotify.com/track/54DTLQMjyF60TY8b4jkKRa"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAATX5j6Q66bt8QbFwTKkLPx",
+  "snapshot_id": "Z0z4gAAAAADgXNdTl8lohjZ07o5KWoJp",
   "tracks": [
     {
       "added_at": null,
@@ -503,38 +503,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Thine Own Self Be True",
-        "url": "https://open.spotify.com/album/4qYnn6YgO4uQDOvrqEoqwK"
+        "name": "A-F-R-O POLO",
+        "url": "https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3"
       },
       "artists": [
         {
-          "name": "La Coka Nostra",
-          "url": "https://open.spotify.com/artist/0BK94SazL2jI020Y8ezR4f"
-        },
-        {
-          "name": "ILL BILL",
-          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
-        },
-        {
-          "name": "Slaine",
-          "url": "https://open.spotify.com/artist/1z1ctFe6fCr5aZnCGKt6rN"
-        },
-        {
-          "name": "Q-Unique",
-          "url": "https://open.spotify.com/artist/6UWL7dFvtP5xef4wtaRBZY"
-        },
-        {
-          "name": "Sadie Vada",
-          "url": "https://open.spotify.com/artist/2ZOJshYUYGrxtjxsGfTOzS"
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Pharoahe Monch",
+          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
         }
       ],
-      "duration_ms": 282509,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/4OeuVrcHZ6LSxJLOgsnonH"
+      "duration_ms": 177126,
+      "name": "Swarm",
+      "url": "https://open.spotify.com/track/1HJVvCidVjVdcv0epjRsq0"
     },
     {
       "added_at": null,
@@ -599,26 +587,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "A-F-R-O POLO",
-        "url": "https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3"
+        "name": "To Thine Own Self Be True",
+        "url": "https://open.spotify.com/album/4qYnn6YgO4uQDOvrqEoqwK"
       },
       "artists": [
         {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+          "name": "La Coka Nostra",
+          "url": "https://open.spotify.com/artist/0BK94SazL2jI020Y8ezR4f"
+        },
+        {
+          "name": "ILL BILL",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+        },
+        {
+          "name": "Slaine",
+          "url": "https://open.spotify.com/artist/1z1ctFe6fCr5aZnCGKt6rN"
+        },
+        {
+          "name": "Q-Unique",
+          "url": "https://open.spotify.com/artist/6UWL7dFvtP5xef4wtaRBZY"
+        },
+        {
+          "name": "Sadie Vada",
+          "url": "https://open.spotify.com/artist/2ZOJshYUYGrxtjxsGfTOzS"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
         }
       ],
-      "duration_ms": 177126,
-      "name": "Swarm",
-      "url": "https://open.spotify.com/track/1HJVvCidVjVdcv0epjRsq0"
+      "duration_ms": 282509,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/4OeuVrcHZ6LSxJLOgsnonH"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Titled",
-        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
-      },
-      "artists": [
-        {
-          "name": "Solo For Dolo",
-          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Quarter Water Kids",
-      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kartagina",
         "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 248377,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/0BJ4Dc2FIEuY3O2KGqx6Fo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Titled",
+        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
+      },
+      "artists": [
+        {
+          "name": "Solo For Dolo",
+          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Quarter Water Kids",
+      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 206854,
-      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
-      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Port Authority",
         "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
@@ -947,6 +927,30 @@
       "duration_ms": 264960,
       "name": "Get Busy",
       "url": "https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Double Barrel",
+        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "DJ Revolution",
+          "url": "https://open.spotify.com/artist/5OsTd4JBco0XckFuy3vCql"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Double Barrel",
+      "url": "https://open.spotify.com/track/7G44SyqP1cQqyeKcje7f3k"
     },
     {
       "added_at": null,
@@ -975,30 +979,6 @@
       "duration_ms": 229230,
       "name": "Count Em Up",
       "url": "https://open.spotify.com/track/5pADObkRApXpf8R8TMnaE7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Double Barrel",
-        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
-        {
-          "name": "DJ Revolution",
-          "url": "https://open.spotify.com/artist/5OsTd4JBco0XckFuy3vCql"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Double Barrel",
-      "url": "https://open.spotify.com/track/7G44SyqP1cQqyeKcje7f3k"
     },
     {
       "added_at": null,
@@ -1096,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 228824,
-      "name": "Miejmy To za Sob\u0105",
-      "url": "https://open.spotify.com/track/1sSB4QeES1fDkaBeC7MPVM"
+      "duration_ms": 206854,
+      "name": "Ho\u0142d Blok\u00f3w Absolwentom",
+      "url": "https://open.spotify.com/track/7uo7SvFn7zQNA5hU7c1Cf8"
     },
     {
       "added_at": null,
@@ -1152,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Don't Touch That Phone",
-      "url": "https://open.spotify.com/track/5XweTODWq5Fp93bcXVLYMq"
+      "duration_ms": 128157,
+      "name": "Wild Elephants",
+      "url": "https://open.spotify.com/track/3GtQGmaq7N0MCgO8tZH2Bl"
     },
     {
       "added_at": null,
@@ -1172,9 +1152,33 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 239393,
-      "name": "\u017bywy lub Martwy",
-      "url": "https://open.spotify.com/track/6Iyj5JsEk9agqb2J8XSQqB"
+      "duration_ms": 228824,
+      "name": "Miejmy To za Sob\u0105",
+      "url": "https://open.spotify.com/track/1sSB4QeES1fDkaBeC7MPVM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Reggie B.",
+          "url": "https://open.spotify.com/artist/4nVxsUbxbdvvdQrTBUPr9H"
+        }
+      ],
+      "duration_ms": 238252,
+      "name": "Cur$ed (What's Wrong Remix)",
+      "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
     }
   ],
   "unique_name": "This Is Marco Polo",

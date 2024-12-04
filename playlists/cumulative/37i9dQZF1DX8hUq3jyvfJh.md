@@ -2,7 +2,7 @@
 
 ### [EQUAL Brasil](https://open.spotify.com/playlist/37i9dQZF1DX8hUq3jyvfJh)
 
-> Escute Tássia Reis e mais mulheres no volume máximo! Co\-curadoria com  <a href="spotify:artist:0kc1BjcLHaXhZVzCp0HeAl">Tássia Reis</a>
+> Escute Tassia Reis e mais mulheres no volume máximo! Co\-curadoria com  <a href="spotify:artist:0kc1BjcLHaXhZVzCp0HeAl">Tassia Reis</a>
 
 1,234 songs - 2 day 15 hr 18 min
 

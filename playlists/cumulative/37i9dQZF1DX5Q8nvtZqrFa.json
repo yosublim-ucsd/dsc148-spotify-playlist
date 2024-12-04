@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 171597,
       "name": "13\u67081\u65e5",
       "url": "https://open.spotify.com/track/7Lee7eQiIvQGQDpTG5djJu"
@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394752,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi"
+    },
+    {
+      "album": {
         "name": "Masquerade",
         "url": "https://open.spotify.com/album/6KRqzcHAcOWD4wcUiDs42M"
       },
@@ -1094,7 +1112,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 203700,
       "name": "Super Ball",
       "url": "https://open.spotify.com/track/6eh0kyNpZlmJbtMb1mLHTo"
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 339870,
       "name": "\u30af\u30ed\u30ce\u30b9\u30bf\u30b7\u30b9",
       "url": "https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp"
@@ -2705,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "\u611b\u304a\u3057\u3044\u65e5\u3005",
+        "url": "https://open.spotify.com/album/1T7vHRl8z0dgO5UDqBBt3V"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u7530\u5948\u90fd\u7f8e",
+          "url": "https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283733,
+      "name": "\u611b\u304a\u3057\u3044\u65e5\u3005",
+      "url": "https://open.spotify.com/track/42yBdW50jqiirURWTnw0zm"
+    },
+    {
+      "album": {
         "name": "\u611b\u3057\u3066\u307f\u3066\u3088\u6e1b\u308b\u3082\u3093\u3058\u3083\u306a\u3044\u3057",
         "url": "https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH"
       },
@@ -3008,6 +3044,24 @@
       "duration_ms": 160000,
       "name": "\u6709\u8c61\u7121\u8c61",
       "url": "https://open.spotify.com/track/2PqafwLuRumuEedFw5en3T"
+    },
+    {
+      "album": {
+        "name": "\u3053\u3093\u306a\u3068\u3053\u308d\u306b\u5c45\u305f\u306e\u304b\u3084\u3063\u3068\u898b\u3064\u3051\u305f\u3088",
+        "url": "https://open.spotify.com/album/3FZSKRPIEk31tqpdnZLZCa"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208440,
+      "name": "\u672c\u5c4b\u306e",
+      "url": "https://open.spotify.com/track/64bC8F3bJllEuQnpCqv9mu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Pastor López
 
-308 songs - 18 hr 49 min
+309 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dos Corazones](https://open.spotify.com/track/5rWn5d15wwORV1EVq3BlQT) | [Franktony](https://open.spotify.com/artist/67IOCc98AI69iJ67L6eMO0) | [Frank Tony y sus Reales: el Pueblo te Aclama](https://open.spotify.com/album/29ooa0WuZbI0vGJiJvpAal) | 3:03 | 2023-02-03 | 2024-09-02 |
 | [Dos Pasajes](https://open.spotify.com/track/471SfF1VL5AjkWXMzYXout) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:20 | 2023-02-03 | 2024-09-02 |
 | [Echao Pa' Lante](https://open.spotify.com/track/2r1LgLiB0HnrLUg7vBY0ZS) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 4:06 | 2024-11-01 |  |
+| [El Aguardientosky](https://open.spotify.com/track/0jusHNguMSIgQvIVhiMzr3) | [Joaquin Bedoya](https://open.spotify.com/artist/7tYPNVzVYQH46AKSnlDBM3) | [Éxitos Música Parrandera](https://open.spotify.com/album/7dRlwm5NsDXtaGPjbOaLEr) | 3:20 | 2024-11-01 |  |
 | [El Arruinao](https://open.spotify.com/track/2ECNhpxm22jpykDObxrfe1) | [Gildardo Montoya](https://open.spotify.com/artist/3eyhtBUxcN1VopDo3UCUg6) | [Super Buenonas de Parranda y el Gitano Groserón](https://open.spotify.com/album/2I4PIVfDOl7qTwbAKzEzdl) | 2:42 | 2023-11-09 | 2024-04-07 |
 | [El Ausente](https://open.spotify.com/track/68yfAzPTHpRL4ewaKDnQWu) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [The Big Hits](https://open.spotify.com/album/3ghJ2s1MNl7Os42pPrVpLE) | 4:02 | 2024-09-01 | 2024-10-18 |
 | [El Ausente](https://open.spotify.com/track/4CO9UNnLewlBcthMau8Ipj) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 3:26 | 2023-11-09 | 2024-08-28 |
@@ -160,7 +161,7 @@
 | [La Pollera Colora](https://open.spotify.com/track/5aR6lC6PrUv9wwOboa5SJ8) | [Pedro Salcedo Y Su Orquesta](https://open.spotify.com/artist/7diM9Jal2nOMuDlVif49Yw) | [The Afrosound Of Colombia, Vol\. 3](https://open.spotify.com/album/7lvGda7Ft342WlhlPyBDCk) | 2:40 | 2023-11-09 | 2024-04-19 |
 | [La Pollera Colorá](https://open.spotify.com/track/6OzXCNNTfqX9BPQZFWbDyh) | [Pedro Salcedo](https://open.spotify.com/artist/45068sb2JWsdsk1xWwhLV3), [Wilson Choperena](https://open.spotify.com/artist/2mKu6bBLXGOUgDXsVFT656) | [Ídolos Bailables](https://open.spotify.com/album/38tLtO44etS4uzf1ezQpMg) | 2:38 | 2024-09-01 | 2024-10-18 |
 | [La Que Se Fue Se Fue](https://open.spotify.com/track/5VJW5ZzcOi17zdaunhSBZt) | [Dario Dario](https://open.spotify.com/artist/4MAWVx8RvhYBpEDf3XKCOG) | [Ranchero y Atrevido](https://open.spotify.com/album/02HmfwcdkqNuSLQ4BeZdlD) | 3:32 | 2023-02-03 | 2024-09-02 |
-| [La Rigola](https://open.spotify.com/track/5UpGVIYJvPyyMtH0IOnIya) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 3:11 | 2024-11-01 |  |
+| [La Rigola](https://open.spotify.com/track/5UpGVIYJvPyyMtH0IOnIya) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Homenaje a Victor Piñero](https://open.spotify.com/album/2RivNj0rKBD4PBJLaexCSd) | 3:11 | 2024-11-01 | 2024-12-04 |
 | [La Suavecita](https://open.spotify.com/track/5s2OhbqW2GN75afWXmwC9C) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Alvaro Pava](https://open.spotify.com/artist/5mYiZzPWHHMmGZ4Pl311pu) | [Música Tropical de Colombia, Vol\. 17](https://open.spotify.com/album/2l2CiNWyegCBfXad25fAJT) | 3:55 | 2023-11-09 | 2024-04-19 |
 | [La Vamo a Tumbar](https://open.spotify.com/track/2PshFuRSc4uiKik36z3xDy) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/6mwGbnCkv1CfNJ5Y3e8Or6) | 5:35 | 2023-11-09 | 2024-04-19 |
 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 | 2023-02-03 | 2024-09-02 |

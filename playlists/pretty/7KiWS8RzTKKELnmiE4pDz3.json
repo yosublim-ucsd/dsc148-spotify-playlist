@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAdoHbFWw9UWvICjZelh4O7TyUkP6IO",
+  "snapshot_id": "AAAdpTGZMy+KsjYBYiP9k+dhMfeLzAP5",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -2267,6 +2267,90 @@
       "duration_ms": 218813,
       "name": "COLE PIMP (with Ty Dolla $ign & Juicy J)",
       "url": "https://open.spotify.com/track/4vdDAdLtmTqFR1J4AO4cBf"
+    },
+    {
+      "added_at": "2024-12-03 19:19:42",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6Q3VZtyPCZFMO4cPF4828q"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 157720,
+      "name": "Hardly",
+      "url": "https://open.spotify.com/track/7EtAE242kivzlxxOAL29bS"
+    },
+    {
+      "added_at": "2024-12-03 19:35:16",
+      "album": {
+        "name": "Beast Mode",
+        "url": "https://open.spotify.com/album/02Mp4Q83TVhpe8VeCpMZjZ"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Oooooh (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/5FMH3g2VYH4manoJWEDhUk"
+    },
+    {
+      "added_at": "2024-12-03 20:01:01",
+      "album": {
+        "name": "Hardwood Classic",
+        "url": "https://open.spotify.com/album/2SPrPcmFf9505xgGEp2h2k"
+      },
+      "artists": [
+        {
+          "name": "Baby Smoove",
+          "url": "https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy"
+        }
+      ],
+      "duration_ms": 105288,
+      "name": "DX",
+      "url": "https://open.spotify.com/track/4UtpOsZxxFv1iSuTQ6RS0B"
+    },
+    {
+      "added_at": "2024-12-03 20:03:26",
+      "album": {
+        "name": "56 Nights",
+        "url": "https://open.spotify.com/album/4Mqt4zRLIwFtZyzh7tAUQE"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 187034,
+      "name": "Never Gon Lose",
+      "url": "https://open.spotify.com/track/3XsiyMcsbIBazeYFb5SFxh"
+    },
+    {
+      "added_at": "2024-12-03 21:22:27",
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Real Sisters",
+      "url": "https://open.spotify.com/track/5GhJq5J9ZWIEDZdyw7EWzt"
     }
   ],
   "unique_name": "main ",

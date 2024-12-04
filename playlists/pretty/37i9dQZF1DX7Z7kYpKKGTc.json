@@ -1,6 +1,6 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 806222,
+  "num_followers": 806684,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-11-21 03:10:22",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 258786,
-      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
-      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
-    },
-    {
-      "added_at": "2024-11-21 03:10:22",
-      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "added_at": "2024-11-21 03:10:22",
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
     },
     {
       "added_at": "2024-11-21 03:10:22",
@@ -219,8 +219,8 @@
     {
       "added_at": "2024-11-21 03:10:22",
       "album": {
-        "name": "Chicago 17 (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 229240,
-      "name": "You're the Inspiration - 2006 Remaster",
-      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2024-11-21 03:10:22",
@@ -283,6 +283,38 @@
     {
       "added_at": "2024-11-21 03:10:22",
       "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
+    },
+    {
+      "added_at": "2024-11-21 03:10:22",
+      "album": {
+        "name": "Chicago 17 (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 229240,
+      "name": "You're the Inspiration - 2006 Remaster",
+      "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+    },
+    {
+      "added_at": "2024-11-21 03:10:22",
+      "album": {
         "name": "Extreme II - Pornograffitti",
         "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
@@ -295,22 +327,6 @@
       "duration_ms": 334106,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
-    },
-    {
-      "added_at": "2024-11-21 03:10:22",
-      "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2024-11-21 03:10:22",
@@ -331,22 +347,6 @@
     {
       "added_at": "2024-11-21 03:10:22",
       "album": {
-        "name": "Brand New Eyes",
-        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267653,
-      "name": "The Only Exception",
-      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
-    },
-    {
-      "added_at": "2024-11-21 03:10:22",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-11-21 03:10:22",
       "album": {
-        "name": "Hi Infidelity (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Keep on Loving You",
-      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
-    },
-    {
-      "added_at": "2024-11-21 03:10:22",
-      "album": {
         "name": "Extreme Behavior",
         "url": "https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 261853,
       "name": "Lips Of An Angel",
       "url": "https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW"
+    },
+    {
+      "added_at": "2024-11-21 03:10:22",
+      "album": {
+        "name": "Hi Infidelity (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 200293,
+      "name": "Keep on Loving You",
+      "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
     },
     {
       "added_at": "2024-11-21 03:10:22",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-11-21 03:10:22",
       "album": {
-        "name": "Yourself or Someone Like You",
-        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
-      },
-      "artists": [
-        {
-          "name": "Matchbox Twenty",
-          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Push",
-      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
-    },
-    {
-      "added_at": "2024-11-21 03:10:22",
-      "album": {
         "name": "Solitude / Solitaire",
         "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2024-11-21 03:10:22",
+      "album": {
+        "name": "Yourself or Someone Like You",
+        "url": "https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i"
+      },
+      "artists": [
+        {
+          "name": "Matchbox Twenty",
+          "url": "https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3"
     },
     {
       "added_at": "2024-11-21 03:10:22",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-11-21 03:10:22",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
-    },
-    {
-      "added_at": "2024-11-21 03:10:22",
-      "album": {
         "name": "Heartbeat City (Expanded Edition)",
         "url": "https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 234332,
       "name": "Drive - 2017 Remaster",
       "url": "https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k"
+    },
+    {
+      "added_at": "2024-11-21 03:10:22",
+      "album": {
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2024-11-21 03:10:22",
@@ -763,18 +763,18 @@
     {
       "added_at": "2024-11-21 03:10:22",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+        "name": "One-X",
+        "url": "https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+      "duration_ms": 209333,
+      "name": "Never Too Late",
+      "url": "https://open.spotify.com/track/3HE50TVRquwXe9yv2HFoNL"
     },
     {
       "added_at": "2024-11-21 03:10:22",

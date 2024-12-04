@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Grelo com Henrique & Juliano, Felipe e Rodrigo, Turma do Pagode e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,967,513 likes - 73 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,967,988 likes - 73 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

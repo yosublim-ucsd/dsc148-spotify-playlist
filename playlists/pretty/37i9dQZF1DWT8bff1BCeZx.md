@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,908 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,931 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 34 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 |
 | 35 | [C'est DIEU qui donne](https://open.spotify.com/track/4h1rwuKcqyInYs9nnGs8oW) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [C'est DIEU qui donne](https://open.spotify.com/album/10KLqBswvKTGchWdCLjSj3) | 2:57 |
 | 36 | [El\-Roi](https://open.spotify.com/track/16AsClB7Id63bSJRp4ThqG) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [El\-Roi](https://open.spotify.com/album/6JNS9zkZHiyaTJTmBKqzHD) | 3:44 |
-| 37 | [Ogo](https://open.spotify.com/track/48cvOppznTu76T12L5RCF9) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE) | [Ogo](https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj) | 6:18 |
-| 38 | [Mo](https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Mo](https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK) | 3:32 |
+| 37 | [Mo](https://open.spotify.com/track/1qundmqhnpiVShjcvUIknJ) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Mo](https://open.spotify.com/album/5KFaENnGwan5wdkO4UB1mK) | 3:32 |
+| 38 | [Ogo](https://open.spotify.com/track/48cvOppznTu76T12L5RCF9) | [Kent Edunjobi](https://open.spotify.com/artist/4MYsXi8hLzpmPBIIYD1EIE) | [Ogo](https://open.spotify.com/album/1d9pKspTWQ5AryZa5XBaHj) | 6:18 |
 | 39 | [Kaabo](https://open.spotify.com/track/5RrEkgXlClry1Wln0LTpIa) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Glory Experience \(Songs of Zion\)](https://open.spotify.com/album/5CekMpHMo17ilQctFxI6TT) | 9:37 |
-| 40 | [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 |
-| 41 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 |
+| 40 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 |
+| 41 | [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 |
 | 42 | [Oba Alasepe](https://open.spotify.com/track/5vv4lLVRcJOouMTJ2IKdBz) | [Paul Tomisin](https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Oba Alasepe](https://open.spotify.com/album/7h0BhlNZZUnG78qmDvsSmq) | 4:31 |
-| 43 | [Holy](https://open.spotify.com/track/52QigKe7k2ivOSbprSJYun) | [K\-Anthony](https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU) | [Miracles](https://open.spotify.com/album/3DfYbFqrxWlxJLg9iRI4Z3) | 3:19 |
+| 43 | [God Is](https://open.spotify.com/track/4QLiTL83ZMf4lt2qqgkOrO) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [God Is](https://open.spotify.com/album/2k67eSgSx7uPEe4WeUKwkl) | 3:05 |
 | 44 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 |
 | 45 | [Tout nouveau tout beau](https://open.spotify.com/track/2JoIx8bmH2zSTddVgMRoVO) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Tout nouveau tout beau](https://open.spotify.com/album/2DwcOMNP63IZSXyRHmpxNv) | 2:47 |
 | 46 | [Involved](https://open.spotify.com/track/5pb5B5hA3h3EF0s7cW1ykL) | [Uniekgrace](https://open.spotify.com/artist/2F7jyBFPwP1J8guQnTRaP7), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [Involved](https://open.spotify.com/album/5jF4u2Au0Tbqifnr2qtzfH) | 3:40 |

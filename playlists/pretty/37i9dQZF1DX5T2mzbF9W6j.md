@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,536 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,534 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 24 | [Stars Will Align](https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Stars Will Align](https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj) | 3:54 |
 | 25 | [Cry Baby](https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cry Baby](https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b) | 2:37 |
 | 26 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 |
-| 27 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
-| 28 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
+| 27 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
+| 28 | [Criminals](https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:34 |
 | 29 | [Roses](https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Roses](https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc) | 3:10 |
-| 30 | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 |
-| 31 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
+| 30 | [Born To Love Ya](https://open.spotify.com/track/5Nwh8kghoqebxmco5ZWbDt) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Born To Love Ya](https://open.spotify.com/album/4dx4jGH35HYUcRT6vNQjPo) | 2:35 |
+| 31 | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Mezzo Rotto \(feat\. BigMama\)](https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd) | 3:15 |
 | 32 | [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 |
 | 33 | [Roots](https://open.spotify.com/track/6DBpDTvXhBbcfpOa1QrVYo) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Roots](https://open.spotify.com/album/6ixzEr9VQzaLTCHOKZHdA2) | 2:43 |
 | 34 | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/track/2rMhztfOqEt00j47vpCfKl) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1) | [SESSO E SAMBA \(feat\. Gaia\)](https://open.spotify.com/album/3QDP4EG7nlyN38o7720rye) | 2:47 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 55 | [Wiatr](https://open.spotify.com/track/3KWWFT878MW91P22IealNu) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Wiatr](https://open.spotify.com/album/2iZW07HMNtT7rg0DXmWpnH) | 2:48 |
 | 56 | [Mamy farta](https://open.spotify.com/track/5eKh0mf74UvFJQcO7fnTUa) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Pezet](https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7) | [Mamy farta](https://open.spotify.com/album/1M8FSAGGqEtZrYKimZGsVS) | 3:09 |
 | 57 | [Jabłonie](https://open.spotify.com/track/6Og6qvFUolWrZy2jRjYHI2) | [Donatan](https://open.spotify.com/artist/1jWDblyJH2DelrPyt87yZV), [Cleo](https://open.spotify.com/artist/0ZXDvZqBzwZLsHRXhuTbpR), [Hinol Polska Wersja](https://open.spotify.com/artist/7jrtLe4eVfWhYWZn5vsopg) | [Jabłonie](https://open.spotify.com/album/5OttKKlgmFMDUbTLIERFrL) | 3:12 |
-| 58 | [Kwiaty](https://open.spotify.com/track/0ppPlaEg7IM8qOfIZ6pOHR) | [Zakopower](https://open.spotify.com/artist/7ipF6efgwi4IXIGUWDVN4d), [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Kwiaty](https://open.spotify.com/album/2XilX8PBQC9F0bKob3ZoND) | 3:30 |
-| 59 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
+| 58 | [Nie znam tego miejsca](https://open.spotify.com/track/1ExYz5wh1l49TphUgsgBdt) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Nie znam tego miejsca](https://open.spotify.com/album/58Ojt6TaIAYhQlUVL9DWGj) | 3:08 |
+| 59 | [Kwiaty](https://open.spotify.com/track/0ppPlaEg7IM8qOfIZ6pOHR) | [Zakopower](https://open.spotify.com/artist/7ipF6efgwi4IXIGUWDVN4d), [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Kwiaty](https://open.spotify.com/album/2XilX8PBQC9F0bKob3ZoND) | 3:30 |
 | 60 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 |
 
 Snapshot ID: `Z0l82QAAAADIaoRU0JyMYc8YmQo20jpk`

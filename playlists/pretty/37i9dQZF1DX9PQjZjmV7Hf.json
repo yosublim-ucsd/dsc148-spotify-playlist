@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jharden13/\">James Harden</a>",
-  "num_followers": 53653,
+  "num_followers": 53665,
   "original_name": "James Harden's Taste",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "Weston Road Flows",
+      "url": "https://open.spotify.com/track/4PA16FAl8LPmFmOhARawdV"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 172320,
       "name": "Bacc Seat (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/6In6SkveIw26thdYRhHTVX"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 253533,
-      "name": "Weston Road Flows",
-      "url": "https://open.spotify.com/track/4PA16FAl8LPmFmOhARawdV"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "late at night",
-        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 174682,
-      "name": "late at night",
-      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 250920,
       "name": "Blue Laces 2",
       "url": "https://open.spotify.com/track/7yB6GF5kgPEoeGE4EAWiJU"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "late at night",
+        "url": "https://open.spotify.com/album/2WFC0XUBROo4X2vxLwtB4u"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 174682,
+      "name": "late at night",
+      "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -523,18 +523,26 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
       "artists": [
         {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 142710,
-      "name": "Perfect Time",
-      "url": "https://open.spotify.com/track/6kiIVIbmwEw6JvIZc7UG0E"
+      "duration_ms": 193617,
+      "name": "Lick Back Remix (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -583,30 +591,6 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 193617,
-      "name": "Lick Back Remix (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
         "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 135682,
       "name": "Ain't Hard Enough (feat. Mozzy)",
       "url": "https://open.spotify.com/track/5WswsvCfKxYR1acRBP8Y9m"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 142710,
+      "name": "Perfect Time",
+      "url": "https://open.spotify.com/track/6kiIVIbmwEw6JvIZc7UG0E"
     },
     {
       "added_at": "2022-10-01 20:14:07",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-10-01 20:14:07",
       "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "U See Us",
+      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
+    },
+    {
+      "added_at": "2022-10-01 20:14:07",
+      "album": {
         "name": "Back of My Mind",
         "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 100465,
       "name": "Flamerz Flow",
       "url": "https://open.spotify.com/track/74saqPvlvYTPwXORWa9IeU"
-    },
-    {
-      "added_at": "2022-10-01 20:14:07",
-      "album": {
-        "name": "Crenshaw",
-        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "U See Us",
-      "url": "https://open.spotify.com/track/2fkiHKbZVhkywVvJynZNR0"
     },
     {
       "added_at": "2022-10-01 20:14:07",

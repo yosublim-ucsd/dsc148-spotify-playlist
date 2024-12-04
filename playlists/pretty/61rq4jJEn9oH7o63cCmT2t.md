@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 
 > I am horrifically aware of my spine
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 60 songs - 3 hr 20 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 61 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/61rq4jJEn9oH7o63cCmT2t.md) - [plain]
 | 58 | [Blood Capsules](https://open.spotify.com/track/6aLdcR63LTxgV5YmvTy9hm) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Blood Capsules / Dub Capsules](https://open.spotify.com/album/6PR1KD9klF3TlV1vDF2qes) | 3:25 |
 | 59 | [Shirtless in Hamburg](https://open.spotify.com/track/6zXWUxP7REZZtbOmgSsgKw) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Marsh Witch Visions](https://open.spotify.com/album/43w7tHk13VR6WVwXibMFje) | 3:25 |
 | 60 | [Crows](https://open.spotify.com/track/1Lp630hamdrNXkf4AFnCHr) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Devil in the Shortwave](https://open.spotify.com/album/5cus7c5cZOGWXAtcPdueih) | 2:08 |
+| 61 | [Orange Ball Of Peace](https://open.spotify.com/track/74oZqezSCXiJZjwLZ2KgzX) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 1:25 |
 
-Snapshot ID: `AAAAQy7goG7M4TXc7rlFYJ7xwzDGqoef`
+Snapshot ID: `AAAAROiuuWwrHQe9NwoHP4fyK9blbrrV`

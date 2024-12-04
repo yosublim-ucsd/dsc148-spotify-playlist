@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,084 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,118 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 24 | [Acércate Más](https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Natalie Cole En Español \(Track By Track Commentary\)](https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H) | 2:47 |
 | 25 | [Too Young](https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:24 |
 | 26 | [You'll Never Know \- Remastered](https://open.spotify.com/track/5dPRT4LvyogKLxmFpNGV4m) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Songs](https://open.spotify.com/album/4BtCNXyLlIHevbEnbVJBXC) | 2:42 |
-| 27 | [Blame It On My Youth \- Remastered 1999](https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 4:12 |
-| 28 | [’Tis Autumn](https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [BD Music & Cabu Present Nat King Cole](https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq) | 3:09 |
+| 27 | [’Tis Autumn](https://open.spotify.com/track/6sQruAh3HYroK1zT8PUrea) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [BD Music & Cabu Present Nat King Cole](https://open.spotify.com/album/2yWx9ptM3TdlwZIkXwZacq) | 3:09 |
+| 28 | [Blame It On My Youth \- Remastered 1999](https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [After Midnight: The Complete Session](https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81) | 4:12 |
 | 29 | [Red Sails In The Sunset](https://open.spotify.com/track/01JYtQf53bne6dOGzrneNU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:17 |
 | 30 | [I Don't Want To See Tomorrow](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 |
 | 31 | [I'm Lost](https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rmk92.md) - [plain]
 | 49 | [El Bodeguero \(Grocer's Cha\-Cha\)](https://open.spotify.com/track/4DfK9livSlasQjziFFVEql) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:24 |
 | 50 | [Ridin' On The Gravy Train \- Remastered 1991](https://open.spotify.com/track/25lLTFlQqSBdSLbnlYTMlv) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Capitol Collectors Series](https://open.spotify.com/album/6rOhnk4aF1AE0v5RljsCuk) | 2:59 |
 
-Snapshot ID: `Z0unAAAAAADf8jXECKDorG5KHx3MP2Nb`
+Snapshot ID: `Z0z4gAAAAACGY6MX8uq3fEEGmQQd6UTX`

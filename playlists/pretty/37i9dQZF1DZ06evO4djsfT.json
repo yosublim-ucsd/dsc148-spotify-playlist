@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 25704,
+  "num_followers": 25709,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAABKZ6uYB0H4fIDNSXP2SRi8",
+  "snapshot_id": "Z0z4gAAAAABXKVGNlZ2mSckOaX86H/HQ",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Go Let God: The EP",
+        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
+      },
+      "artists": [
+        {
+          "name": "1K Phew",
+          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 185441,
+      "name": "Let Go Let God (The Anthem)",
+      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COME THRU",
         "url": "https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub"
       },
@@ -479,30 +503,6 @@
       "duration_ms": 153469,
       "name": "It's Time",
       "url": "https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let Go Let God: The EP",
-        "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
-      },
-      "artists": [
-        {
-          "name": "1K Phew",
-          "url": "https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 185441,
-      "name": "Let Go Let God (The Anthem)",
-      "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
     },
     {
       "added_at": null,

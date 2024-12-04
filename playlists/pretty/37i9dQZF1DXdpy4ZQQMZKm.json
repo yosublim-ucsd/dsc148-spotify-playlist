@@ -1,12 +1,12 @@
 {
   "description": "The songs with the biggest throwback moments. Cover: Bruno Mars",
-  "num_followers": 900108,
+  "num_followers": 901259,
   "original_name": "Top Viral Throwbacks ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0ajmQAAAAAYBW+WKrlDCGUkaYuqjGCn",
+  "snapshot_id": "Z09d+AAAAADq2bQs8cAqmUq2mRLIwpPM",
   "tracks": [
     {
       "added_at": "2024-11-27 04:44:09",
@@ -41,6 +41,38 @@
       "url": "https://open.spotify.com/track/2bM9HdIr1NJqZ2udcd2OsZ"
     },
     {
+      "added_at": "2024-12-03 19:37:28",
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/3BdWnsb2tG6ajlPHmd8jh6"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t"
+    },
+    {
+      "added_at": "2024-11-27 04:44:09",
+      "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 330200,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/7hyFKrPZo1Zv4D35MpTBdr"
+    },
+    {
       "added_at": "2024-11-27 04:44:09",
       "album": {
         "name": "Wicked (Original Broadway Cast Recording / Deluxe Edition)",
@@ -71,22 +103,6 @@
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/184HGdGIscUiPbDuqbvHuN"
-    },
-    {
-      "added_at": "2024-11-27 04:44:09",
-      "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 330200,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/7hyFKrPZo1Zv4D35MpTBdr"
     },
     {
       "added_at": "2024-11-27 04:44:09",
@@ -447,22 +463,6 @@
       "duration_ms": 165819,
       "name": "All Girls Are The Same",
       "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
-    },
-    {
-      "added_at": "2024-11-27 04:44:09",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/3sOy91gU770rkA494FbWWV"
-      },
-      "artists": [
-        {
-          "name": "Milli Vanilli",
-          "url": "https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Blame It on the Rain",
-      "url": "https://open.spotify.com/track/2dPpQv8sCPeEaA4oz7ZjQC"
     },
     {
       "added_at": "2024-11-27 04:44:09",

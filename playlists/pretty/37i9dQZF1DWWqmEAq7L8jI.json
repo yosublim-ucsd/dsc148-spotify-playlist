@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 273934,
+  "num_followers": 273953,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
-        "name": "Baloncito Viejo",
-        "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 170862,
-      "name": "Baloncito Viejo",
-      "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
-    },
-    {
-      "added_at": "2024-11-14 17:24:51",
-      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 206674,
       "name": "Lo Que en Ti Veo",
       "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
+    },
+    {
+      "added_at": "2024-11-14 17:24:51",
+      "album": {
+        "name": "Baloncito Viejo",
+        "url": "https://open.spotify.com/album/6pXlVFGw6ydQu6aOCEUHDe"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 170862,
+      "name": "Baloncito Viejo",
+      "url": "https://open.spotify.com/track/1PGoOrdBQyahALB6Vu7HMN"
     },
     {
       "added_at": "2024-11-14 17:24:51",
@@ -1395,26 +1395,6 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-11-14 17:24:51",
-      "album": {
         "name": "Es ahora",
         "url": "https://open.spotify.com/album/7KS2HnDSQ2O9pAyoSBEMwF"
       },
@@ -1435,6 +1415,42 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
+        "name": "Quiromancia",
+        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX"
+    },
+    {
+      "added_at": "2024-11-14 17:24:51",
+      "album": {
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
+    },
+    {
+      "added_at": "2024-11-14 17:24:51",
+      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
-    },
-    {
-      "added_at": "2024-11-14 17:24:51",
-      "album": {
-        "name": "Quiromancia",
-        "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/5ILu4zdXzG4WCbX9GtMNJX"
     },
     {
       "added_at": "2024-11-14 17:24:51",
@@ -1523,6 +1523,26 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
+        "name": "Abraz\u00e1ndonos",
+        "url": "https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        },
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 195431,
+      "name": "Abraz\u00e1ndonos",
+      "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
+    },
+    {
+      "added_at": "2024-11-14 17:24:51",
+      "album": {
         "name": "Llamada Perdida",
         "url": "https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1"
       },
@@ -1555,42 +1575,22 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
-        "name": "ERROR 403",
-        "url": "https://open.spotify.com/album/6SYw3rAydzGLLZd0lIyO5o"
+        "name": "Pelo Suelto",
+        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
       "artists": [
         {
-          "name": "Lu de la Tower",
-          "url": "https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         },
         {
-          "name": "Corona",
-          "url": "https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 149187,
-      "name": "ERROR 403",
-      "url": "https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4"
-    },
-    {
-      "added_at": "2024-11-14 17:24:51",
-      "album": {
-        "name": "Abraz\u00e1ndonos",
-        "url": "https://open.spotify.com/album/6GAf2ZKo1SZxJb8WiQSGzf"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 195431,
-      "name": "Abraz\u00e1ndonos",
-      "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
+      "duration_ms": 204817,
+      "name": "Pelo Suelto",
+      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
       "added_at": "2024-11-14 17:24:51",
@@ -1611,22 +1611,22 @@
     {
       "added_at": "2024-11-14 17:24:51",
       "album": {
-        "name": "Pelo Suelto",
-        "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
+        "name": "ERROR 403",
+        "url": "https://open.spotify.com/album/6SYw3rAydzGLLZd0lIyO5o"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+          "name": "Lu de la Tower",
+          "url": "https://open.spotify.com/artist/52299B9p02G2fK6Tx0lDVQ"
         },
         {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/61HN3ENIM36CPLXzPTvfxJ"
         }
       ],
-      "duration_ms": 204817,
-      "name": "Pelo Suelto",
-      "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+      "duration_ms": 149187,
+      "name": "ERROR 403",
+      "url": "https://open.spotify.com/track/0LWwRQvunwufzUbWARrtX4"
     },
     {
       "added_at": "2024-11-14 17:24:51",

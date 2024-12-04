@@ -1,6 +1,6 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. The Cure en portada.",
-  "num_followers": 216565,
+  "num_followers": 216691,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 295250,
+      "name": "Lucretia My Reflection - Vinyl Version",
+      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Collection",
         "url": "https://open.spotify.com/album/4pEcCqGx1RFaXWJD0mrG10"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 128426,
       "name": "Where Eagles Dare",
       "url": "https://open.spotify.com/track/5LgiqEgpK54OfXC6947wbU"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 295250,
-      "name": "Lucretia My Reflection - Vinyl Version",
-      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
     },
     {
       "added_at": "2021-09-28 03:14:02",

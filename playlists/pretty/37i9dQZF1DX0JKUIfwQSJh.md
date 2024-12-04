@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 
 > Rewind and unwind with sirens of the seventies and eighties.
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,035 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 905,168 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 40 | [Tom's Diner](https://open.spotify.com/track/6OKUhXuJMvoVPde9fMJJzy) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Solitude Standing](https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg) | 2:09 |
 | 41 | [Famous Blue Raincoat](https://open.spotify.com/track/77K5TB5KZmDZCoJCdd1NvE) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Love And Hate](https://open.spotify.com/album/2Om4oR7plGGub1aYe5uB7B) | 5:10 |
 | 42 | [You've Got a Friend](https://open.spotify.com/track/5ONuwMIXAukbMNQCCSjjm0) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Greatest Hits](https://open.spotify.com/album/2L4U4JjEADYaVltkvDrkCC) | 4:28 |
-| 43 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
+| 43 | [Going to California \- Remaster](https://open.spotify.com/track/1YVc2NJBwOtAebQiSUbt5T) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 3:32 |
 | 44 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/0LXljhKMUgoLv8tLwZ1hmf) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:49 |
-| 45 | [Going to California \- Remaster](https://open.spotify.com/track/1YVc2NJBwOtAebQiSUbt5T) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin IV \(Remaster\)](https://open.spotify.com/album/5EyIDBAqhnlkAHqvPRwdbX) | 3:32 |
+| 45 | [If You Could Read My Mind](https://open.spotify.com/track/0fjYN9BylnRXMA3or3QSld) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Gord's Gold](https://open.spotify.com/album/6okC12pcFeLZOifXdunuhQ) | 3:49 |
 | 46 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
 | 47 | [And It Stoned Me \- 2013 Remaster](https://open.spotify.com/track/0pLt4z90EzbN7lY9lky1Z9) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:32 |
 | 48 | [Ripple](https://open.spotify.com/track/6PDAMw0YAGfO7ioXAgP2YW) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [What a Long Strange Trip It's Been: The Best of the Grateful Dead](https://open.spotify.com/album/5DnwKlUtjumhTnDG5RoWc5) | 4:10 |

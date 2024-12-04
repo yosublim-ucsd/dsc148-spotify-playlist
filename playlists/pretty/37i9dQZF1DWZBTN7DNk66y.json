@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Juan Campod\u00f3nico.",
-  "num_followers": 26243,
+  "num_followers": 26247,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
+        "name": "Vendaval",
+        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
+      },
+      "artists": [
+        {
+          "name": "Virado",
+          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
+        }
+      ],
+      "duration_ms": 244275,
+      "name": "Vendaval",
+      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
         "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 227375,
       "name": "Puntos Equidistantes (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
-        "name": "Vendaval",
-        "url": "https://open.spotify.com/album/3WRabb6CMQxnlrfdjVs68n"
-      },
-      "artists": [
-        {
-          "name": "Virado",
-          "url": "https://open.spotify.com/artist/2x5bC0BILZ4lQjCeZELupU"
-        }
-      ],
-      "duration_ms": 244275,
-      "name": "Vendaval",
-      "url": "https://open.spotify.com/track/2olRErhIECI6oZOywPoYk6"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "El mago y la publicidad",
-        "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        },
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 140249,
-      "name": "El mago y la publicidad",
-      "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
         "name": "Soy lo que Doy",
         "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 217728,
       "name": "Soy lo que Doy",
       "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
+        "name": "El mago y la publicidad",
+        "url": "https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        },
+        {
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+        }
+      ],
+      "duration_ms": 140249,
+      "name": "El mago y la publicidad",
+      "url": "https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
+        "name": "Dolores",
+        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 180316,
+      "name": "Tu bebotear",
+      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
         "name": "Luna Llena de Fuego",
         "url": "https://open.spotify.com/album/1SoLqCi9zPz3aFjbMFkfHF"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 161875,
       "name": "Luna Llena de Fuego",
       "url": "https://open.spotify.com/track/22AoaRhyEfGwxGYc951ZLM"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
-        "name": "Dolores",
-        "url": "https://open.spotify.com/album/0pA9AZv8Looc0TBrAc6tox"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 180316,
-      "name": "Tu bebotear",
-      "url": "https://open.spotify.com/track/3jEDXtkqlgEUAW7V0Nsilp"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
+        "name": "La Certeza del Dolor",
+        "url": "https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 212203,
+      "name": "Nadie me lo ense\u00f1\u00f3",
+      "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
         "name": "V13",
         "url": "https://open.spotify.com/album/3nVZrraklAxaq0VlJSdmLZ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 175810,
       "name": "V13",
       "url": "https://open.spotify.com/track/5oKKNT5mBFvCx068uXCKwn"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
-        "name": "La Certeza del Dolor",
-        "url": "https://open.spotify.com/album/5gfClqWkBhwUB6bButZCQ5"
-      },
-      "artists": [
-        {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
-        }
-      ],
-      "duration_ms": 212203,
-      "name": "Nadie me lo ense\u00f1\u00f3",
-      "url": "https://open.spotify.com/track/63bPI8iRqgeljqnydlAoUl"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "El Fr\u00edo Que Nos Convoca",
-        "url": "https://open.spotify.com/album/3qPpRCeozpveMhiCIwqknF"
+        "name": "Entrada Liberada",
+        "url": "https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE"
       },
       "artists": [
         {
-          "name": "Mocchi",
-          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
         }
       ],
-      "duration_ms": 282057,
-      "name": "Menos Mal Que Estamos Juntes",
-      "url": "https://open.spotify.com/track/7KQdRMbcIbe6sASxtvmjkI"
+      "duration_ms": 159087,
+      "name": "Entrada Liberada",
+      "url": "https://open.spotify.com/track/4lXdEl2Mq9mCMi8GDdDq2n"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "Entrada Liberada",
-        "url": "https://open.spotify.com/album/4xweB2KJ83gx2p2qkBeIRE"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 159087,
-      "name": "Entrada Liberada",
-      "url": "https://open.spotify.com/track/4lXdEl2Mq9mCMi8GDdDq2n"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
         "name": "Nace una Madre",
         "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 144545,
       "name": "Nace una Madre",
       "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
+        "name": "El Fr\u00edo Que Nos Convoca",
+        "url": "https://open.spotify.com/album/3qPpRCeozpveMhiCIwqknF"
+      },
+      "artists": [
+        {
+          "name": "Mocchi",
+          "url": "https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez"
+        }
+      ],
+      "duration_ms": 282057,
+      "name": "Menos Mal Que Estamos Juntes",
+      "url": "https://open.spotify.com/track/7KQdRMbcIbe6sASxtvmjkI"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -899,6 +899,26 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
+        "name": "Comida China",
+        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 162993,
+      "name": "Comida China",
+      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
         "name": "Cenital",
         "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
       },
@@ -923,26 +943,6 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "Comida China",
-        "url": "https://open.spotify.com/album/5C7cBSWs7ANBAjCdPuv4x5"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        }
-      ],
-      "duration_ms": 162993,
-      "name": "Comida China",
-      "url": "https://open.spotify.com/track/5oWz29Lp0mLiA9d0wPJNsG"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
         "name": "Ojos De Fuego",
         "url": "https://open.spotify.com/album/5SWUp6WuA1XmRHXNzpEToq"
       },
@@ -959,26 +959,6 @@
       "duration_ms": 314996,
       "name": "Ojos De Fuego",
       "url": "https://open.spotify.com/track/4O0L4QnB2dYlNWa6OydjiQ"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
-        "name": "REGALAMOS ROSAS EN LA LUNA",
-        "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
-      },
-      "artists": [
-        {
-          "name": "Nahuel Briones",
-          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
-        },
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        }
-      ],
-      "duration_ms": 280106,
-      "name": "REGALAMOS ROSAS EN LA LUNA",
-      "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1011,6 +991,26 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
+        "name": "REGALAMOS ROSAS EN LA LUNA",
+        "url": "https://open.spotify.com/album/5Ea2j9m1oDcdClu3TfT033"
+      },
+      "artists": [
+        {
+          "name": "Nahuel Briones",
+          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+        },
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        }
+      ],
+      "duration_ms": 280106,
+      "name": "REGALAMOS ROSAS EN LA LUNA",
+      "url": "https://open.spotify.com/track/0M8tyikK7IWZEb4x7Trjfc"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "Eufemismos",
-        "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
-      },
-      "artists": [
-        {
-          "name": "Papina de Palma",
-          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
-        },
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 165348,
-      "name": "Eufemismos",
-      "url": "https://open.spotify.com/track/7IoVTtXW1XwgEhMKoQPBxK"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
         "name": "Pecho Jard\u00edn",
         "url": "https://open.spotify.com/album/7bA5CbHjNftxr0NvL9nrGc"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 282990,
       "name": "Pecho Jard\u00edn",
       "url": "https://open.spotify.com/track/2lG6Uab6jE44w5PPQKTRC7"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
+        "name": "Eufemismos",
+        "url": "https://open.spotify.com/album/4kn8e8zAEn2BYX50GAvBNF"
+      },
+      "artists": [
+        {
+          "name": "Papina de Palma",
+          "url": "https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3"
+        },
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 165348,
+      "name": "Eufemismos",
+      "url": "https://open.spotify.com/track/7IoVTtXW1XwgEhMKoQPBxK"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1143,22 +1143,6 @@
       "duration_ms": 254829,
       "name": "Malagradecida",
       "url": "https://open.spotify.com/track/6ttA706vqyxFWRbq0zoL8x"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
-      },
-      "artists": [
-        {
-          "name": "Juanaf\u00e9",
-          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
-        }
-      ],
-      "duration_ms": 217169,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1199,6 +1183,22 @@
       "duration_ms": 190691,
       "name": "Miel",
       "url": "https://open.spotify.com/track/3ZAAdJvwII0gVVAWdUbnS8"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/7bxZFtN1I1Ajq9jJ50VME5"
+      },
+      "artists": [
+        {
+          "name": "Juanaf\u00e9",
+          "url": "https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d"
+        }
+      ],
+      "duration_ms": 217169,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7d2zo3SEliRTknVoqhUROQ"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
+        "name": "Las Luces Que Estaban Ocultas [en vivo]",
+        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
+      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
         "name": "Arrullito",
         "url": "https://open.spotify.com/album/4kASZ1hMeBCDM1bE61NQLz"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 228271,
       "name": "Arrullito",
       "url": "https://open.spotify.com/track/3UQhsG1P4KM2cueYmYMWRi"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
-        "name": "Las Luces Que Estaban Ocultas [en vivo]",
-        "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
-      "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 222006,
-      "name": "Amor Amor",
-      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/32sOFrdJmH8zCV9Zeii2Dg"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 222006,
+      "name": "Amor Amor",
+      "url": "https://open.spotify.com/track/38u9yY8QqOicBB7MNNLqqc"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
         "name": "Cantor",
         "url": "https://open.spotify.com/album/7M4NafwTdGtmjXYDH5Wy5p"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 211719,
       "name": "Cantor",
       "url": "https://open.spotify.com/track/30CfDST2mhTr7UoIktlZLb"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
+        "name": "Canta a V\u00edctor Jara",
+        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
+      },
+      "artists": [
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Paloma quiero contarte",
+      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "Canta a V\u00edctor Jara",
-        "url": "https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul"
-      },
-      "artists": [
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "Paloma quiero contarte",
-      "url": "https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
         "name": "Qui\u00e9n da M\u00e1s?",
         "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
       },
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "Hablando a tu coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
-      },
-      "artists": [
-        {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        }
-      ],
-      "duration_ms": 239500,
-      "name": "Hablando a tu coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
         "name": "Odio despertar",
         "url": "https://open.spotify.com/album/4CIBXHoCuxl1Pbr4OjwWoS"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 267941,
       "name": "Odio despertar",
       "url": "https://open.spotify.com/track/5iHpMjibIkqUNAIw6jYWs1"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
+        "name": "Hablando a tu coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        }
+      ],
+      "duration_ms": 239500,
+      "name": "Hablando a tu coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
+        "name": "Otra Galaxia",
+        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 189940,
+      "name": "Otra Galaxia",
+      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
         "name": "El Sol Est\u00e1 Mojado",
         "url": "https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY"
       },
@@ -1639,38 +1655,6 @@
       "duration_ms": 255290,
       "name": "El Sol Est\u00e1 Mojado",
       "url": "https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
-        "name": "VIEJO LOCO",
-        "url": "https://open.spotify.com/album/4RpGRDmeeqopVnyYK5Km6x"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Tor",
-          "url": "https://open.spotify.com/artist/38myBYtarhCcmLZP5nyuR5"
-        }
-      ],
-      "duration_ms": 174144,
-      "name": "TE DE TILO",
-      "url": "https://open.spotify.com/track/0UzihRbaC0Tmg6pzQoYlCm"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
-        "name": "Otra Galaxia",
-        "url": "https://open.spotify.com/album/5RRNnY4IDP1uYewz5AzB1V"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 189940,
-      "name": "Otra Galaxia",
-      "url": "https://open.spotify.com/track/1VVlUSD40U9aOZAiFB0E7k"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "Casa",
-        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
+        "name": "VIEJO LOCO",
+        "url": "https://open.spotify.com/album/4RpGRDmeeqopVnyYK5Km6x"
       },
       "artists": [
         {
-          "name": "Popa",
-          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
+          "name": "Juli\u00e1n Tor",
+          "url": "https://open.spotify.com/artist/38myBYtarhCcmLZP5nyuR5"
         }
       ],
-      "duration_ms": 142364,
-      "name": "Casa",
-      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
+      "duration_ms": 174144,
+      "name": "TE DE TILO",
+      "url": "https://open.spotify.com/track/0UzihRbaC0Tmg6pzQoYlCm"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1731,6 +1715,22 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
+        "name": "Casa",
+        "url": "https://open.spotify.com/album/6JHAJRcwOirp02xAbzk0am"
+      },
+      "artists": [
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/2r1qR6ITngbNWCgZJCH9pl"
+        }
+      ],
+      "duration_ms": 142364,
+      "name": "Casa",
+      "url": "https://open.spotify.com/track/4D0I37iNpL5AeqWEu8mnYU"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
         "name": "Desde mi Ata\u00fad",
         "url": "https://open.spotify.com/album/2FhoVZfdsIc2MyQ2s523Lr"
       },
@@ -1743,26 +1743,6 @@
       "duration_ms": 198668,
       "name": "Desde mi Ata\u00fad",
       "url": "https://open.spotify.com/track/5cU3OjaNhvOsGeSzeEUi0x"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
-        "name": "Del otro lado de la vidriera",
-        "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
-      },
-      "artists": [
-        {
-          "name": "Galean",
-          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
-        },
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 256032,
-      "name": "Tu Profec\u00eda",
-      "url": "https://open.spotify.com/track/5K4e3D9pEibOQA0T17s34P"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1783,6 +1763,26 @@
       "duration_ms": 306776,
       "name": "\u00bfQU\u00c9 VES?",
       "url": "https://open.spotify.com/track/7s47ONrsw6af0bSgjgNzB1"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
+        "name": "Del otro lado de la vidriera",
+        "url": "https://open.spotify.com/album/36b4FRKLtMv0Z75NCtoOZP"
+      },
+      "artists": [
+        {
+          "name": "Galean",
+          "url": "https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8"
+        },
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 256032,
+      "name": "Tu Profec\u00eda",
+      "url": "https://open.spotify.com/track/5K4e3D9pEibOQA0T17s34P"
     },
     {
       "added_at": "2024-11-08 19:53:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "Lentamente",
-        "url": "https://open.spotify.com/album/4fuiyFO5Ne13pSGQbUAEBb"
-      },
-      "artists": [
-        {
-          "name": "Daniel Drexler",
-          "url": "https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk"
-        }
-      ],
-      "duration_ms": 185375,
-      "name": "Lentamente",
-      "url": "https://open.spotify.com/track/0W2NldLwyqDdlA3zrdS6LE"
-    },
-    {
-      "added_at": "2024-11-08 19:53:00",
-      "album": {
         "name": "El rey del yuyal",
         "url": "https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk"
       },
@@ -1855,18 +1839,34 @@
     {
       "added_at": "2024-11-08 19:53:00",
       "album": {
-        "name": "Fronteras",
-        "url": "https://open.spotify.com/album/6KyNfwXo4sb3ZqhbwE800U"
+        "name": "Lentamente",
+        "url": "https://open.spotify.com/album/4fuiyFO5Ne13pSGQbUAEBb"
       },
       "artists": [
         {
-          "name": "Montse",
-          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+          "name": "Daniel Drexler",
+          "url": "https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk"
         }
       ],
-      "duration_ms": 258595,
-      "name": "Fronteras",
-      "url": "https://open.spotify.com/track/6wu6ygRWypOH95DR43izkz"
+      "duration_ms": 185375,
+      "name": "Lentamente",
+      "url": "https://open.spotify.com/track/0W2NldLwyqDdlA3zrdS6LE"
+    },
+    {
+      "added_at": "2024-11-08 19:53:00",
+      "album": {
+        "name": "Neblina",
+        "url": "https://open.spotify.com/album/6dngwatQVHIHJ3GWmxJLvM"
+      },
+      "artists": [
+        {
+          "name": "Camila y Silvio",
+          "url": "https://open.spotify.com/artist/7q4O9IJOztG7Oa2MF4ODlX"
+        }
+      ],
+      "duration_ms": 191339,
+      "name": "Neblina",
+      "url": "https://open.spotify.com/track/3udPLpECugI0SJhvVOez3X"
     }
   ],
   "unique_name": "Voces del Sur",

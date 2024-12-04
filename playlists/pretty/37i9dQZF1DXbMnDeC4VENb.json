@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 180307,
+  "num_followers": 180353,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "LDCR: Los Del Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 168725,
-      "name": "La Cuenta",
-      "url": "https://open.spotify.com/track/4aQOsfc1jAu61HkHIoleHg"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "NO LOGR\u00c9 CONQUISTARTE",
         "url": "https://open.spotify.com/album/3YC0oHVHqArWdKTvelM0Uq"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 189750,
       "name": "NO LOGR\u00c9 CONQUISTARTE",
       "url": "https://open.spotify.com/track/2PAjRPUvexWW0Fy3qdIriI"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "LDCR: Los Del Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/2Bsf3oexDX6pAk6Za4iEhW"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 168725,
+      "name": "La Cuenta",
+      "url": "https://open.spotify.com/track/4aQOsfc1jAu61HkHIoleHg"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Entre Mis Manos",
-        "url": "https://open.spotify.com/album/0wrNtmAbTwV3MzAoqIE5ih"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Adehese",
-          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Entre Mis Manos",
-      "url": "https://open.spotify.com/track/1hs4FsYr28Ef1JYlIcYrcp"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Polic\u00edas y Ladrones",
         "url": "https://open.spotify.com/album/5sKDMyH54Fv9thk4NGHpdj"
       },
@@ -1787,22 +1767,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Capricornio y C\u00e1ncer",
-        "url": "https://open.spotify.com/album/0FLRPbOGrapuKN2K9qc36j"
+        "name": "Entre Mis Manos",
+        "url": "https://open.spotify.com/album/0wrNtmAbTwV3MzAoqIE5ih"
       },
       "artists": [
         {
-          "name": "Solitario Mondragon",
-          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
         },
         {
-          "name": "Wk",
-          "url": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
+          "name": "Adehese",
+          "url": "https://open.spotify.com/artist/5DBTPlJ9rAnMJuyu1UZKXi"
         }
       ],
-      "duration_ms": 198072,
-      "name": "Capricornio y C\u00e1ncer",
-      "url": "https://open.spotify.com/track/3qbcMusDP1tQumTnKFz7z1"
+      "duration_ms": 220500,
+      "name": "Entre Mis Manos",
+      "url": "https://open.spotify.com/track/1hs4FsYr28Ef1JYlIcYrcp"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1823,6 +1803,26 @@
       "duration_ms": 200535,
       "name": "La Vida No Es F\u00e1cil",
       "url": "https://open.spotify.com/track/55LnB8MUmxwH4XTNyDuWK2"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Capricornio y C\u00e1ncer",
+        "url": "https://open.spotify.com/album/0FLRPbOGrapuKN2K9qc36j"
+      },
+      "artists": [
+        {
+          "name": "Solitario Mondragon",
+          "url": "https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9"
+        },
+        {
+          "name": "Wk",
+          "url": "https://open.spotify.com/artist/7BQJLHBNVvz4O2JHmls4Ef"
+        }
+      ],
+      "duration_ms": 198072,
+      "name": "Capricornio y C\u00e1ncer",
+      "url": "https://open.spotify.com/track/3qbcMusDP1tQumTnKFz7z1"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1903,26 +1903,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "FINALMENTE LIBRE",
-        "url": "https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49"
-      },
-      "artists": [
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 193296,
-      "name": "DISTANTE (with El Malilla)",
-      "url": "https://open.spotify.com/track/2SsriXUrzvmGTdxhgzDeu1"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/72ajpwYpemG0A9PRd2x5Vg"
       },
@@ -1943,22 +1923,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Luz Negra",
-        "url": "https://open.spotify.com/album/7p2Ax0JFFhJT8rMdIkD4EM"
-      },
-      "artists": [
-        {
-          "name": "Mime 871",
-          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "Te Olvidas de M\u00ed - Bonus Track",
-      "url": "https://open.spotify.com/track/596GibH66W3sZA0pjNCnC9"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "6 Am",
         "url": "https://open.spotify.com/album/7AH7QHBvQvu6JToPdOZLMx"
       },
@@ -1971,6 +1935,42 @@
       "duration_ms": 176000,
       "name": "6 Am",
       "url": "https://open.spotify.com/track/46PqUxYijgrGgdD2NzNnmU"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "FINALMENTE LIBRE",
+        "url": "https://open.spotify.com/album/4SOp9ebHU3O2waxCa7cm49"
+      },
+      "artists": [
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 193296,
+      "name": "DISTANTE (with El Malilla)",
+      "url": "https://open.spotify.com/track/2SsriXUrzvmGTdxhgzDeu1"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Luz Negra",
+        "url": "https://open.spotify.com/album/7p2Ax0JFFhJT8rMdIkD4EM"
+      },
+      "artists": [
+        {
+          "name": "Mime 871",
+          "url": "https://open.spotify.com/artist/3lrhy6KigCHdcc0vOSTWoI"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "Te Olvidas de M\u00ed - Bonus Track",
+      "url": "https://open.spotify.com/track/596GibH66W3sZA0pjNCnC9"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 192418,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Findes",
         "url": "https://open.spotify.com/album/6EJbPllUaHkXndA03xJGfy"
       },
@@ -2519,22 +2535,6 @@
       "duration_ms": 161304,
       "name": "Findes",
       "url": "https://open.spotify.com/track/5JAP0DcgbnOPvpSVC7Bmm9"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 192418,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -2627,6 +2627,26 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "En una Nube",
+        "url": "https://open.spotify.com/album/3fODLYocKVu9M1SWXnpGbF"
+      },
+      "artists": [
+        {
+          "name": "Carlos Luengo",
+          "url": "https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 226521,
+      "name": "En una Nube",
+      "url": "https://open.spotify.com/track/5qpiI7NRnRm49JFXAbQNfN"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Flakita",
         "url": "https://open.spotify.com/album/4S4cvQx7xl3BqA39CrsuJN"
       },
@@ -2647,26 +2667,6 @@
       "duration_ms": 171050,
       "name": "Flakita",
       "url": "https://open.spotify.com/track/75GPUVRzfOBic0OXkuO313"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "En una Nube",
-        "url": "https://open.spotify.com/album/3fODLYocKVu9M1SWXnpGbF"
-      },
-      "artists": [
-        {
-          "name": "Carlos Luengo",
-          "url": "https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 226521,
-      "name": "En una Nube",
-      "url": "https://open.spotify.com/track/5qpiI7NRnRm49JFXAbQNfN"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -3635,6 +3635,30 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Desde Que Te Bese",
+        "url": "https://open.spotify.com/album/269AgD2kvSnseu3eFYSq17"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
+        }
+      ],
+      "duration_ms": 182127,
+      "name": "Desde Que Te Bese",
+      "url": "https://open.spotify.com/track/52yiGPq2rumA8stMa345dJ"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Talento De Vida",
         "url": "https://open.spotify.com/album/2z6GzbRNcGdp0cGOoaRLuv"
       },
@@ -3667,30 +3691,6 @@
       "duration_ms": 282697,
       "name": "Stupid Love Story",
       "url": "https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Desde Que Te Bese",
-        "url": "https://open.spotify.com/album/269AgD2kvSnseu3eFYSq17"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "A.C.O",
-          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
-        }
-      ],
-      "duration_ms": 182127,
-      "name": "Desde Que Te Bese",
-      "url": "https://open.spotify.com/track/52yiGPq2rumA8stMa345dJ"
     },
     {
       "added_at": "2024-11-29 06:00:00",

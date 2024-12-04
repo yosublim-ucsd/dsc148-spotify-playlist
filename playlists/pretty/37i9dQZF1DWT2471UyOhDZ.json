@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Jacob Alon",
-  "num_followers": 91352,
+  "num_followers": 91360,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "The Rest Of Me",
-        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 230661,
-      "name": "The Rest Of Me",
-      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -243,18 +243,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+        "name": "The Rest Of Me",
+        "url": "https://open.spotify.com/album/3JZctelEqYNf7zNBiMQuXh"
       },
       "artists": [
         {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
         }
       ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
+      "duration_ms": 230661,
+      "name": "The Rest Of Me",
+      "url": "https://open.spotify.com/track/4xyZ8TMuWWlSCN3NRUsOCq"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Changes All The Time",
-        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 279429,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY"
       },
@@ -343,18 +327,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -403,6 +387,22 @@
       "duration_ms": 245426,
       "name": "Two Pairs Of Hands",
       "url": "https://open.spotify.com/track/0L5FTei1MmePVB9ECKOMwd"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Long Dark Night",
-        "url": "https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde"
-      },
-      "artists": [
-        {
-          "name": "Nick Cave & The Bad Seeds",
-          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "Long Dark Night",
-      "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Headliner",
         "url": "https://open.spotify.com/album/6JcCv9NZt9eqxPHtO9hnjl"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 192000,
       "name": "Headliner",
       "url": "https://open.spotify.com/track/4KDJfug28h0LbZpdJmC73S"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Long Dark Night",
+        "url": "https://open.spotify.com/album/692UfApwZN5hJ7rRIfcSde"
+      },
+      "artists": [
+        {
+          "name": "Nick Cave & The Bad Seeds",
+          "url": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "Long Dark Night",
+      "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Mountain out of a Molehill",
-        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 205330,
-      "name": "Mountain out of a Molehill",
-      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "People Who Aren\u2019t There Anymore",
         "url": "https://open.spotify.com/album/3QdtCfrX94pXYujQemM3ZM"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 201200,
       "name": "The Thief",
       "url": "https://open.spotify.com/track/5yTixFP31a9CFwyh8vP80n"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "this is my california",
+        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "this is my california",
+      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "ghost",
-        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+        "name": "Mountain out of a Molehill",
+        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
       },
       "artists": [
         {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 246909,
-      "name": "ghost",
-      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+      "duration_ms": 205330,
+      "name": "Mountain out of a Molehill",
+      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1047,6 +1047,38 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "ghost",
+        "url": "https://open.spotify.com/album/2NSk5OYfehagwMeFNEUeDN"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 246909,
+      "name": "ghost",
+      "url": "https://open.spotify.com/track/11wMfHsceksu8GAIugQMA9"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Antarctica",
+        "url": "https://open.spotify.com/album/6kioG8s04cIoHuL6TZTqsG"
+      },
+      "artists": [
+        {
+          "name": "Divorce",
+          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+        }
+      ],
+      "duration_ms": 194940,
+      "name": "Antarctica",
+      "url": "https://open.spotify.com/track/192MdJJceGKpFE2HTIOsRB"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5dG9VyLzWXaxGm8nJ9lYd9"
       },
@@ -1079,34 +1111,18 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Antarctica",
-        "url": "https://open.spotify.com/album/6kioG8s04cIoHuL6TZTqsG"
+        "name": "Just Be Friends",
+        "url": "https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG"
       },
       "artists": [
         {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
         }
       ],
-      "duration_ms": 194940,
-      "name": "Antarctica",
-      "url": "https://open.spotify.com/track/192MdJJceGKpFE2HTIOsRB"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "this is my california",
-        "url": "https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "this is my california",
-      "url": "https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf"
+      "duration_ms": 217392,
+      "name": "Just Be Friends",
+      "url": "https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1123,22 +1139,6 @@
       "duration_ms": 262653,
       "name": "Chicken",
       "url": "https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Just Be Friends",
-        "url": "https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 217392,
-      "name": "Just Be Friends",
-      "url": "https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/3osAKU8N7haVZCfmvVC9gr"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "Frogs",
         "url": "https://open.spotify.com/album/7vANyFbcIVAprU6bilb72I"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 191286,
       "name": "U R MINE",
       "url": "https://open.spotify.com/track/4YEO6mWhEWenkXqbLL0ZIy"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 148986,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/3osAKU8N7haVZCfmvVC9gr"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Shirt",
-        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
-      },
-      "artists": [
-        {
-          "name": "Porches",
-          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
-        }
-      ],
-      "duration_ms": 161833,
-      "name": "Bread Believer",
-      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Light Sleeper",
         "url": "https://open.spotify.com/album/4wmalPtenCERnePwFsCD99"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Shirt",
+        "url": "https://open.spotify.com/album/2Z3KozCg7LVVLSEE0yXUod"
+      },
+      "artists": [
+        {
+          "name": "Porches",
+          "url": "https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek"
+        }
+      ],
+      "duration_ms": 161833,
+      "name": "Bread Believer",
+      "url": "https://open.spotify.com/track/3ZyMkTinkvEAfQhj1cSzDG"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "The Tw*ts",
         "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
       },
@@ -1415,38 +1415,6 @@
       "duration_ms": 198417,
       "name": "The only conscious being in the universe",
       "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Under the Weight",
-        "url": "https://open.spotify.com/album/7j1xBW8ZMgUhxViDi1WRnh"
-      },
-      "artists": [
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Under the Weight",
-      "url": "https://open.spotify.com/track/0jWubqRD8vxtEIn8zRlTHF"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Life Is",
-        "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1483,6 +1451,38 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
+        "name": "Life Is",
+        "url": "https://open.spotify.com/album/2oNn8ZtAIo2cSnp06DPo2k"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Under the Weight",
+        "url": "https://open.spotify.com/album/7j1xBW8ZMgUhxViDi1WRnh"
+      },
+      "artists": [
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Under the Weight",
+      "url": "https://open.spotify.com/track/0jWubqRD8vxtEIn8zRlTHF"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
         "name": "St. Charles Square",
         "url": "https://open.spotify.com/album/6yNkTZJhIhSP7N8BsBzwLK"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "A Good Time Pushed",
-        "url": "https://open.spotify.com/album/1HwcLQjfgSsqNWxbPL6cV2"
-      },
-      "artists": [
-        {
-          "name": "Kim Deal",
-          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
-        }
-      ],
-      "duration_ms": 207958,
-      "name": "A Good Time Pushed",
-      "url": "https://open.spotify.com/track/1PO1Uc8DwEfSFGprln91lC"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "Love Heart Cheat Code",
         "url": "https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 200664,
       "name": "Cinnamon Temple",
       "url": "https://open.spotify.com/track/6PzV5vEnJSng3LmZ23Y7DB"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "A Good Time Pushed",
+        "url": "https://open.spotify.com/album/1HwcLQjfgSsqNWxbPL6cV2"
+      },
+      "artists": [
+        {
+          "name": "Kim Deal",
+          "url": "https://open.spotify.com/artist/4JzQKxgdLmyqbplHxVL8xY"
+        }
+      ],
+      "duration_ms": 207958,
+      "name": "A Good Time Pushed",
+      "url": "https://open.spotify.com/track/1PO1Uc8DwEfSFGprln91lC"
     },
     {
       "added_at": "2024-11-15 10:17:18",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2024-11-15 10:17:18",
       "album": {
-        "name": "Yummy",
-        "url": "https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 219400,
-      "name": "Is This Love",
-      "url": "https://open.spotify.com/track/7bxjmDPRthE1WDyNlU6WH1"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
-        "name": "Method Actor",
-        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 231708,
-      "name": "Method Actor",
-      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
-    },
-    {
-      "added_at": "2024-11-15 10:17:18",
-      "album": {
         "name": "QWERTY II",
         "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
       },
@@ -1639,6 +1607,38 @@
       "duration_ms": 233513,
       "name": "Feral Guest",
       "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Method Actor",
+        "url": "https://open.spotify.com/album/0Qg3qoV8Sz5pY01lIImVeE"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 231708,
+      "name": "Method Actor",
+      "url": "https://open.spotify.com/track/6I9GeNnqNqQ5Q8DSrFkkvd"
+    },
+    {
+      "added_at": "2024-11-15 10:17:18",
+      "album": {
+        "name": "Yummy",
+        "url": "https://open.spotify.com/album/1r2lI54enVHBTHDdFS2DUY"
+      },
+      "artists": [
+        {
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
+        }
+      ],
+      "duration_ms": 219400,
+      "name": "Is This Love",
+      "url": "https://open.spotify.com/track/7bxjmDPRthE1WDyNlU6WH1"
     }
   ],
   "unique_name": "The Listening Post",

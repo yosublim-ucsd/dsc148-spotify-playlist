@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap og den vibe 🌪️ <a href="spotify:artist:4mDyp9yRHugUnXvIBrt9xP">Cizzo</a>🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,586 likes - 61 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,577 likes - 61 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

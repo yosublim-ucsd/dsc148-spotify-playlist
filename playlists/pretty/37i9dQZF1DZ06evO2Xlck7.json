@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3082,
+  "num_followers": 3083,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAAsKq4syZpPIgBg1DlQmiBr",
+  "snapshot_id": "Z0z4gAAAAAADa7yzlsd60/xYAZjYSpPc",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 199600,
-      "name": "Letters To You",
-      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
+      "duration_ms": 269026,
+      "name": "What It Is To Burn - New Version",
+      "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 269026,
-      "name": "What It Is To Burn - New Version",
-      "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
+      "duration_ms": 199600,
+      "name": "Letters To You",
+      "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
     },
     {
       "added_at": null,

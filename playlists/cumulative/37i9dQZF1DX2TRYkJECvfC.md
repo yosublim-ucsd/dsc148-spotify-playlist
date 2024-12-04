@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-560 songs - 1 day 23 hr 3 min
+561 songs - 1 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Moss](https://open.spotify.com/track/7CWPISyLM8VcTvXgQ9bDnb) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Moss EP](https://open.spotify.com/album/2yEtkz4SXh425SP5g2xyat) | 8:53 | 2023-11-17 | 2024-04-19 |
 | [Mountain \- Tornado Wallace Remix](https://open.spotify.com/track/6q0VRNXzaJssSM1V4zd6uR) | [Damian Lazarus](https://open.spotify.com/artist/3EIJ8wiUHbgkRCt5cpRrQv), [Tornado Wallace](https://open.spotify.com/artist/6GNWPphcJ5CtIwCJVV1lLT) | [Mountain](https://open.spotify.com/album/6leiaw0XcRmeYRsuCPjyu9) | 6:02 | 2021-12-08 | 2022-07-29 |
 | [Movement](https://open.spotify.com/track/2eqjFIb55WVN7iYx8ixUZY) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Movement](https://open.spotify.com/album/5PgQAA0U4L0NuLLslJ9hqq) | 6:11 | 2023-05-26 |  |
+| [Mudita](https://open.spotify.com/track/55Wh6UllVwzsCVv9l60YZM) | [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY) | [Mudita](https://open.spotify.com/album/6jvA8wOPQzoZldgE2yHMoL) | 2:29 | 2024-11-22 |  |
 | [Mui](https://open.spotify.com/track/6iAZMSMZsHhDlAbVFW5cy5) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7), [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Takeshi Furukawa](https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5), [Siobhan Wilson](https://open.spotify.com/artist/4EDH5c8x5E958c3AUwqvlp) | [Mui](https://open.spotify.com/album/79aRKxxsfi9Od9Wan4qEZV) | 4:03 | 2024-10-04 |  |
 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 | 2021-12-08 | 2022-02-22 |
 | [My Everything](https://open.spotify.com/track/75r1wc5lI6XCxGVBRSJ5lY) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [My Everything](https://open.spotify.com/album/4tcOPBWRItn1GZFefCAOQd) | 3:48 | 2023-02-17 |  |
@@ -365,7 +366,7 @@
 | [Palermo](https://open.spotify.com/track/3rtPfogqDQQB392GBadZ3C) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Palermo / Fractals](https://open.spotify.com/album/2yfg6aVt4CCtc8AH3YuRqM) | 3:15 | 2024-08-02 |  |
 | [Palms](https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9) | 4:15 | 2021-12-08 | 2022-07-29 |
 | [Palms](https://open.spotify.com/track/4cWrrjsKvHnKV8uqlUF8kb) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/3LZ2WSfLEVEIy7PRi672MC) | 4:15 | 2022-05-03 | 2024-01-05 |
-| [Pan Gloss](https://open.spotify.com/track/22WIjBd903xZOBdnaQXall) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [The Half Full EP](https://open.spotify.com/album/2S87ZI5bdNHKtveA6uhF9O) | 7:03 | 2024-07-12 |  |
+| [Pan Gloss](https://open.spotify.com/track/22WIjBd903xZOBdnaQXall) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [The Half Full EP](https://open.spotify.com/album/2S87ZI5bdNHKtveA6uhF9O) | 7:03 | 2024-07-12 | 2024-12-04 |
 | [Paradigm](https://open.spotify.com/track/1vY7MXnKBpwmmQfZEyGn2F) | [Arkangel](https://open.spotify.com/artist/4crDJZ41E0jOp0XX5MXJJy) | [Paradigm](https://open.spotify.com/album/3JJYj2V6kyfo3turvi7dEj) | 5:10 | 2024-04-12 | 2024-04-19 |
 | [Parallel 6](https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:06 | 2021-12-08 | 2023-01-06 |
 | [Passing Clouds](https://open.spotify.com/track/1quyPEEgePl4mFkIumBWyJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/3SoSko9KzlGKS7PbM4acLt) | 2:32 | 2023-05-26 | 2024-04-19 |

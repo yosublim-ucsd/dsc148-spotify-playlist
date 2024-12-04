@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 
 > Fucked up and evil\. What an absolute bop.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 44 songs - 2 hr 18 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 46 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,7 @@ pretty - [cumulative](/playlists/cumulative/2wSuRDAzIMCwM3j5NOMFop.md) - [plain]
 | 42 | [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 |
 | 43 | [Fame < Infamy](https://open.spotify.com/track/0EwfAdBab8DRcDCC1RKhMY) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:06 |
 | 44 | [Insurance Fraud \#2](https://open.spotify.com/track/0q337BaQiBq43WLMm7VKlM) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt) | 3:02 |
+| 45 | [Some Other Way](https://open.spotify.com/track/1nBBKbMeKLqIcRtYLs8wfW) | [The Extra Lens](https://open.spotify.com/artist/64WVMQetBLvmJi3OVxjt2G) | [Undercard](https://open.spotify.com/album/1WOhneh974qQNY6TGpWN7C) | 2:42 |
+| 46 | [Golden Boy](https://open.spotify.com/track/3TDMylLFIdog58gdTjeauu) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 3:16 |
 
-Snapshot ID: `AAAAMuwp0FX2qJbPvahbaenZJijL22aQ`
+Snapshot ID: `AAAANIXEPEjxCUW+d63XcR2nj3IuoEJ6`

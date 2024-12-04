@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 229528,
+  "num_followers": 229541,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/7ihVeKd4RjiZ3y12nDhPZO"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
       "added_at": "2023-05-18 14:23:33",
       "album": {
         "name": "Drop Stop Roll",
@@ -439,6 +423,22 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "The Boy With the Arab Strap",
+        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
+      },
+      "artists": [
+        {
+          "name": "Belle and Sebastian",
+          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
+        }
+      ],
+      "duration_ms": 314066,
+      "name": "The Boy With the Arab Strap",
+      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
     },
     {
       "added_at": "2024-03-22 14:38:07",
@@ -489,6 +489,22 @@
       "url": "https://open.spotify.com/track/3BmaFHt6q91CmMrA7fLLRC"
     },
     {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 194009,
+      "name": "Your Dog",
+      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
+    },
+    {
       "added_at": "2023-07-04 22:20:24",
       "album": {
         "name": "yeti",
@@ -507,22 +523,6 @@
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 194009,
-      "name": "Your Dog",
-      "url": "https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -573,22 +573,6 @@
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
     },
     {
-      "added_at": "2023-01-13 13:15:53",
-      "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 59026,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
-    },
-    {
       "added_at": "2024-05-10 16:04:45",
       "album": {
         "name": "Love Hate Music Box",
@@ -605,6 +589,22 @@
       "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
     },
     {
+      "added_at": "2023-01-13 13:15:53",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 59026,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
+    },
+    {
       "added_at": "2024-03-22 14:38:07",
       "album": {
         "name": "Is This What Love Is?",
@@ -619,6 +619,22 @@
       "duration_ms": 217002,
       "name": "Is This What Love Is?",
       "url": "https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Cannot Be, Whatsoever",
+        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Birdcage",
+      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
     },
     {
       "added_at": "2024-02-18 00:00:00",
@@ -639,22 +655,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Cannot Be, Whatsoever",
-        "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Birdcage",
-      "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -705,22 +721,6 @@
       "url": "https://open.spotify.com/track/3EN4LzHTjEDHt4s5n3Fix5"
     },
     {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "Coming of Age",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/6BVsQpqbI2Aj4TwwgmfqGT"
     },
     {
-      "added_at": "2023-07-04 22:20:24",
-      "album": {
-        "name": "Headlands",
-        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "Headlands",
-      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "In Mind",
@@ -767,6 +751,22 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+    },
+    {
+      "added_at": "2023-07-04 22:20:24",
+      "album": {
+        "name": "Headlands",
+        "url": "https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "Headlands",
+      "url": "https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn"
     },
     {
       "added_at": "2023-02-03 00:30:16",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg"
     },
     {
-      "added_at": "2023-09-29 10:53:41",
-      "album": {
-        "name": "Halloween Costume",
-        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 149426,
-      "name": "Halloween Costume",
-      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
-    },
-    {
       "added_at": "2023-02-03 00:30:16",
       "album": {
         "name": "Del Water Gap",
@@ -865,20 +849,20 @@
       "url": "https://open.spotify.com/track/1mVva2Aa3gD9Wwlqg2G1y3"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
+      "added_at": "2023-09-29 10:53:41",
       "album": {
-        "name": "Mine Forever",
-        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+        "name": "Halloween Costume",
+        "url": "https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
         }
       ],
-      "duration_ms": 288283,
-      "name": "Mine Forever",
-      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+      "duration_ms": 149426,
+      "name": "Halloween Costume",
+      "url": "https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -895,6 +879,22 @@
       "duration_ms": 231160,
       "name": "Lloyd, I'm Ready To Be Heartbroken",
       "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Mine Forever",
+        "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 288283,
+      "name": "Mine Forever",
+      "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
     },
     {
       "added_at": "2023-09-29 10:53:41",
@@ -1297,38 +1297,6 @@
       "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
-    },
-    {
       "added_at": "2024-02-18 00:00:00",
       "album": {
         "name": "Synthetic Flowers For A Romantic Comedy",
@@ -1347,6 +1315,38 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3I1oxH4FGfmlO6SSK31N7X"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/53Mq10qpih00CLPph20MVp"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
         "name": "Up Granville",
         "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
-    },
-    {
-      "added_at": "2024-08-08 19:46:47",
-      "album": {
-        "name": "Jessie's House",
-        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
-      },
-      "artists": [
-        {
-          "name": "Findlay",
-          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
-        }
-      ],
-      "duration_ms": 196892,
-      "name": "Jessie's House",
-      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
     },
     {
       "added_at": "2023-10-05 19:47:49",
@@ -1391,6 +1375,22 @@
       "duration_ms": 262754,
       "name": "Someday",
       "url": "https://open.spotify.com/track/1JTw3fjyjsiLXwMorP0peQ"
+    },
+    {
+      "added_at": "2024-08-08 19:46:47",
+      "album": {
+        "name": "Jessie's House",
+        "url": "https://open.spotify.com/album/4CChj4YlzZQ7qCWfZYSuiH"
+      },
+      "artists": [
+        {
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
+        }
+      ],
+      "duration_ms": 196892,
+      "name": "Jessie's House",
+      "url": "https://open.spotify.com/track/5XqflTC9Cn3YCdDvIXSDFK"
     },
     {
       "added_at": "2022-08-05 10:31:40",

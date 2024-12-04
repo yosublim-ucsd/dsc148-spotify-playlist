@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 
 > This is Jai Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,114 likes - 34 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,115 likes - 34 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,10 +30,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 20 | [Telepathy](https://open.spotify.com/track/4mhlPdtYrrX7J01zWOo52k) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:49 |
 | 21 | [Red Eye \(feat\. rei brown\)](https://open.spotify.com/track/5qfGgZ5GTMoauSp0JKTxu4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 4:43 |
 | 22 | [The World Is Ours](https://open.spotify.com/track/6mJIo03fCz9txSxE1ZhFSR) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 3:42 |
-| 23 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 |
+| 23 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
 | 24 | [This Song Reminds Me Of You](https://open.spotify.com/track/0b7vBIHMp6A4e8PxFElyhc) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 3:54 |
 | 25 | [Tennis Skirt \(feat\. Ella Boh\)](https://open.spotify.com/track/691WixUevM2PcSqt0hMTiH) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 3:06 |
-| 26 | [Hikikomori \- Demo](https://open.spotify.com/track/2Ot9AdHrKtBZbNRuGqI8hO) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Hikikomori](https://open.spotify.com/album/12Cou8d0vb29leZ4rM1Efa) | 2:42 |
+| 26 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq) | 3:06 |
 | 27 | [Drive](https://open.spotify.com/track/6uV2UyK8nCCTf4O510zrd8) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [Drive](https://open.spotify.com/album/7hXfoE3qu0f1EOM1i5F7C4) | 4:58 |
 | 28 | [Your Way \(feat\. Day Wave\)](https://open.spotify.com/track/2AaNTnYTf24qzu5SsT5K8s) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Cure To Loneliness](https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ) | 4:26 |
 | 29 | [My Tears Could Fill A Well](https://open.spotify.com/track/2mJQl9Uck5RRpx5pbUUaF4) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Red Eye Home](https://open.spotify.com/album/0PZv0Qp8QQWJzzxJNshTI6) | 6:06 |
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b61PC.md) - [plain]
 | 33 | [Half Hearted \- Demo](https://open.spotify.com/track/741xMmf2lUWlGxJypbb7d5) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [The Cure To Loneliness \(5 Year Anniversary Deluxe\)](https://open.spotify.com/album/6N5PJKWEaaLLsSBAe6aIOG) | 4:54 |
 | 34 | [This Space In My Heart Is for You](https://open.spotify.com/track/6rCI8HOJiWlu7x79aDTpe3) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Kindred Spirits](https://open.spotify.com/album/1DmphUwESvvmUaBHUA2FMA) | 1:35 |
 
-Snapshot ID: `Z0unAAAAAABH30S8zlBTWwkoHvT6N04l`
+Snapshot ID: `Z0z4gAAAAAAa8ORRUK5Mlc+53Tnk0Duk`

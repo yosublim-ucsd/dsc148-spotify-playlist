@@ -4,7 +4,7 @@
 
 > If you’re sappy and you know it, listen to these cheesy tunes.
 
-91 songs - 5 hr 49 min
+94 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | ['Cause You Have To](https://open.spotify.com/track/1GZnoLPpR9p2CwclsZnOXD) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 4:10 | 2024-04-17 |  |
 | [24/7, 365](https://open.spotify.com/track/05QUYSOApWLr8oBbpONl7p) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [24/7, 365](https://open.spotify.com/album/4GIH14Ii08p24CHN7MlooG) | 2:47 | 2024-01-23 |  |
 | [A Piece of You](https://open.spotify.com/track/1bYRmNYrXbzbLq1CEBZHRe) | [Nathaniel Constantin](https://open.spotify.com/artist/5Jc99vrEyk7RZVYglf9E3r) | [A Piece of You](https://open.spotify.com/album/0AcubuOrOCfOtq27h2cudt) | 3:57 | 2023-11-10 |  |
+| [ADHD](https://open.spotify.com/track/3oGP9r9yhyfXjG2Fb4b95h) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [ADHD](https://open.spotify.com/album/1XE7b5M9tKZqPVxdbfX0cr) | 3:48 | 2024-12-03 |  |
 | [Ako Nalang Kasi](https://open.spotify.com/track/2LLwBk9FOlKZ8wT0lUQzOw) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Ako Nalang Kasi](https://open.spotify.com/album/6LlYmFWzlucUOBJsSch4dW) | 5:58 | 2023-10-18 |  |
 | [Akong Addiction](https://open.spotify.com/track/0vNnz0YE2mUDLYGW6gT9NN) | [Will Mikhael](https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP) | [Akong Addiction](https://open.spotify.com/album/37egJXzirS9te7NSlbxndI) | 3:51 | 2024-05-08 |  |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-10-18 | 2024-09-19 |
@@ -61,6 +62,7 @@
 | [no song without you](https://open.spotify.com/track/1lNHWPDvKEbamKezpLq7HW) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf) | 2:40 | 2023-10-18 | 2023-11-11 |
 | [Nobody Knows](https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Nobody Knows](https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj) | 2:32 | 2024-09-18 |  |
 | [Nobody Like Us](https://open.spotify.com/track/1eNo8OMOTk4IwrILRXc2GM) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Nobody Like Us](https://open.spotify.com/album/1alQ5dNsEiuvKSyAP4FAx5) | 3:00 | 2023-10-18 |  |
+| [number one girl](https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [number one girl](https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G) | 3:36 | 2024-12-03 |  |
 | [OCD](https://open.spotify.com/track/0Jdn4pgNfOnW0bmWLFgpe7) | [Jeremy G](https://open.spotify.com/artist/5BukDmriB1WrLFDavZzHdJ), [day one](https://open.spotify.com/artist/3rKaqZWYrUPpFo2K8Ut65H) | [Late Night Madness](https://open.spotify.com/album/1ueV9haTPWmtCzpjzPCt13) | 3:46 | 2023-10-18 |  |
 | [Orasa](https://open.spotify.com/track/7tEmYgysfhAr3s5hEa8nlc) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Orasa](https://open.spotify.com/album/7woEJoOxFLpPu8Ba2Pw7eq) | 3:48 | 2023-10-18 |  |
 | [Palagi](https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Palagi](https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH) | 3:38 | 2023-10-18 |  |
@@ -81,6 +83,7 @@
 | [Sy](https://open.spotify.com/track/4ckqv8nO8cvqdCXe1pJKTG) | [Joshua Khaled](https://open.spotify.com/artist/6keXdTyN2lpda6B1XmVM6v) | [Sy](https://open.spotify.com/album/18KzzEHs4LZxkMOgZEpO9v) | 5:24 | 2023-10-18 | 2024-03-22 |
 | [Tadhana](https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG) | [Up Dharma Down](https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT) | [Capacities](https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9) | 3:42 | 2023-10-18 | 2024-09-19 |
 | [Take A Chance With Me](https://open.spotify.com/track/0x7PmByJWVXdeipevd6KZS) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 5:03 | 2023-11-10 |  |
+| [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 | 2024-12-03 |  |
 | [That's What Love Is](https://open.spotify.com/track/2pTVEE8VjkonEWSC7EGpaq) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [That's What Love Is](https://open.spotify.com/album/0CRpIO9AkOFt7deIGmsDgN) | 4:04 | 2024-01-23 |  |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:01 | 2023-10-18 | 2024-04-19 |
 | [The Man Who Can't Be Moved](https://open.spotify.com/track/2Vq4bs08YppE2hqA2vpEcr) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/7Lv2e6qweacdWjqrQy7UNo) | 4:01 | 2024-04-17 | 2024-09-19 |

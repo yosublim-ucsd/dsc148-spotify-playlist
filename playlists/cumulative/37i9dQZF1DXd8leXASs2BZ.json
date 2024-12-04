@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: Kohjiya",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: ratiff",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -924,7 +924,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 137631,
       "name": "ALL FOR MY FRIENDS",
       "url": "https://open.spotify.com/track/6kM0EqXlaZZPmCwM40DUvM"
@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "3li",
+        "url": "https://open.spotify.com/album/2iap1jVjDJfYnsR3lBGNaZ"
+      },
+      "artists": [
+        {
+          "name": "3Li\u00a5en",
+          "url": "https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159230,
+      "name": "B3njMen",
+      "url": "https://open.spotify.com/track/09p4Bgic1F4zCV3vQWY76H"
+    },
+    {
+      "album": {
         "name": "BABE",
         "url": "https://open.spotify.com/album/7rCMyIfVxE1KfePlrAAS0k"
       },
@@ -1344,6 +1362,32 @@
       "duration_ms": 202835,
       "name": "Bandiera",
       "url": "https://open.spotify.com/track/3FFrlPwGseeA6Xrc3647vG"
+    },
+    {
+      "album": {
+        "name": "BANDS! (feat. ShowyVICTOR & Nyture)",
+        "url": "https://open.spotify.com/album/055AvOcWEetDQadSXlFUxg"
+      },
+      "artists": [
+        {
+          "name": "Riribeatz",
+          "url": "https://open.spotify.com/artist/4vZkqsvZNwDxGpqq9AlbZ7"
+        },
+        {
+          "name": "ShowyVICTOR",
+          "url": "https://open.spotify.com/artist/7wBFVrT9qEIi4FRjgqgPXA"
+        },
+        {
+          "name": "Nyture",
+          "url": "https://open.spotify.com/artist/21WTkPiS6pwSvpdwhzXyUJ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "BANDS! (feat. ShowyVICTOR & Nyture)",
+      "url": "https://open.spotify.com/track/2130kEjZH8rs1gGGO2maev"
     },
     {
       "album": {
@@ -2588,7 +2632,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 218928,
       "name": "Cointoss - Singlemix",
       "url": "https://open.spotify.com/track/05feMR9kM1bxRQBF9s6xfJ"
@@ -2912,7 +2956,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 215500,
       "name": "DAWG RUN",
       "url": "https://open.spotify.com/track/0B3vUbd773ImDjDj5OPMcn"
@@ -3243,6 +3287,24 @@
     },
     {
       "album": {
+        "name": "Gang Tears",
+        "url": "https://open.spotify.com/album/3asLjp1nZCsHMVsai4LVYz"
+      },
+      "artists": [
+        {
+          "name": "Miyabi",
+          "url": "https://open.spotify.com/artist/5gbQY99gDFPFmmH9u6jj7H"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149166,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/10THqXdy44MtvnI8Kzr66h"
+    },
+    {
+      "album": {
         "name": "DODEMOIIKAMONE",
         "url": "https://open.spotify.com/album/2Bbm3SNEqnrEH9e5bEYPoz"
       },
@@ -3390,6 +3452,24 @@
       "duration_ms": 188809,
       "name": "Don't Bug Me",
       "url": "https://open.spotify.com/track/4BHmwOL4zmuW8cnJ6L1nez"
+    },
+    {
+      "album": {
+        "name": "Don't Need",
+        "url": "https://open.spotify.com/album/1PeLzoEOxXT4qLzzPOhElI"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149999,
+      "name": "Don't Need",
+      "url": "https://open.spotify.com/track/1kwk3iWZfQGkMkPKsR3Eak"
     },
     {
       "album": {
@@ -4222,7 +4302,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 198097,
       "name": "Feel Missing",
       "url": "https://open.spotify.com/track/6FtSuG6TbvD3u5wydy7I2d"
@@ -5110,6 +5190,24 @@
       "duration_ms": 139322,
       "name": "GET RIGHT BACK",
       "url": "https://open.spotify.com/track/2ki1pOrszqqEVBjEO2TFsL"
+    },
+    {
+      "album": {
+        "name": "GHETTO SAIYAN",
+        "url": "https://open.spotify.com/album/5P0lSJ38BPZhiGQGNdSteh"
+      },
+      "artists": [
+        {
+          "name": "Kampf",
+          "url": "https://open.spotify.com/artist/3Sg7AKFRL72rX0OXRfSrGK"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Ghetto Saiyan",
+      "url": "https://open.spotify.com/track/6s6Z4n8IVBECW4VpqBAmXz"
     },
     {
       "album": {
@@ -6692,7 +6790,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 154474,
       "name": "Jewelry No Yume",
       "url": "https://open.spotify.com/track/5E0O1J0OBORcrxTbspLXQ1"
@@ -6932,6 +7030,24 @@
       "duration_ms": 159085,
       "name": "kakattekoi",
       "url": "https://open.spotify.com/track/5iiFSlhDcZC3fLdfaI90F0"
+    },
+    {
+      "album": {
+        "name": "Kakogawa Memory",
+        "url": "https://open.spotify.com/album/6d40OzJ8LFT5oS5G3TAg1E"
+      },
+      "artists": [
+        {
+          "name": "Merry Delo",
+          "url": "https://open.spotify.com/artist/1Q1IHJA1chZCn2P0ppiOfW"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129968,
+      "name": "Kakogawa Memory",
+      "url": "https://open.spotify.com/track/2SpHJHf7xEta0XJXAmhOVr"
     },
     {
       "album": {
@@ -7252,7 +7368,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 121750,
       "name": "Koncrete",
       "url": "https://open.spotify.com/track/6tNDN4anU7QJSq8P6lfwf6"
@@ -7407,6 +7523,24 @@
     },
     {
       "album": {
+        "name": "Windiw",
+        "url": "https://open.spotify.com/album/3phd081w8UMfQLNLFDYLZN"
+      },
+      "artists": [
+        {
+          "name": "ratiff",
+          "url": "https://open.spotify.com/artist/7bSQ26qnH9EHvCdB7ekW14"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237633,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/2IkishLgusfYXkBnXJMOR0"
+    },
+    {
+      "album": {
         "name": "Let you go",
         "url": "https://open.spotify.com/album/0VZbeB2NTobCpofkbOA8la"
       },
@@ -7480,7 +7614,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 174545,
       "name": "Liar",
       "url": "https://open.spotify.com/track/2Gfbwak1K7UlbsRwldAgIx"
@@ -9347,6 +9481,28 @@
     },
     {
       "album": {
+        "name": "Only One For Me (feat. Skaai)",
+        "url": "https://open.spotify.com/album/7sEhckgDCKmjev7OfC9Pg2"
+      },
+      "artists": [
+        {
+          "name": "AIRIE",
+          "url": "https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py"
+        },
+        {
+          "name": "Skaai",
+          "url": "https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "Only One For Me (feat. Skaai)",
+      "url": "https://open.spotify.com/track/2nRsHNSlD0ycaecn4zGec7"
+    },
+    {
+      "album": {
         "name": "open my windovv",
         "url": "https://open.spotify.com/album/71qpj82GcRtIo8Q5JMholl"
       },
@@ -9662,7 +9818,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 146159,
       "name": "PAIN",
       "url": "https://open.spotify.com/track/4SEVyodqX1r6cV6OOkwZS2"
@@ -10646,7 +10802,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 131333,
       "name": "ROAD (feat. AMO)",
       "url": "https://open.spotify.com/track/5Esv7z5hX4ZpLmeQ8k4AZf"
@@ -10700,7 +10856,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 118020,
       "name": "Rock Music",
       "url": "https://open.spotify.com/track/0JpobtLUaKkLVB0x51JxCM"
@@ -11329,6 +11485,28 @@
     },
     {
       "album": {
+        "name": "SHOGUN MODE",
+        "url": "https://open.spotify.com/album/4HWkImZpqEEuPqOd8Ohy6j"
+      },
+      "artists": [
+        {
+          "name": "Sitissy luvit",
+          "url": "https://open.spotify.com/artist/7aYDI4vH01zznjy69ze9X5"
+        },
+        {
+          "name": "HUNGER",
+          "url": "https://open.spotify.com/artist/1q0gLEvNcnAfPzBgCHG4NG"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "SHOGUN MODE",
+      "url": "https://open.spotify.com/track/2UbR8t45WR9QZXAT0leht0"
+    },
+    {
+      "album": {
         "name": "SHOTS!!!",
         "url": "https://open.spotify.com/album/024LRxaubismM0IlBLM8fP"
       },
@@ -11656,6 +11834,24 @@
       "duration_ms": 123870,
       "name": "Sorry, I'm late.",
       "url": "https://open.spotify.com/track/4aOVAVyrHE3NBq3xiM4Bil"
+    },
+    {
+      "album": {
+        "name": "South Side",
+        "url": "https://open.spotify.com/album/4KZgynAHP1iY6IV9CWJkc2"
+      },
+      "artists": [
+        {
+          "name": "MELLMWOR1D",
+          "url": "https://open.spotify.com/artist/2ntpUnudJuitrCi950QadZ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "South Side",
+      "url": "https://open.spotify.com/track/7Dk1RiieRhKJIm8phSm09g"
     },
     {
       "album": {
@@ -12676,7 +12872,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 179417,
       "name": "TORIKAGO",
       "url": "https://open.spotify.com/track/0XEIBjxWSRJDT10AJH9Lzu"
@@ -13394,7 +13590,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 133003,
       "name": "weirdo (feat. Has-ki & WeSSker)",
       "url": "https://open.spotify.com/track/3JPV6hVbgukzEIROS98UEX"
@@ -13452,6 +13648,28 @@
       "duration_ms": 110323,
       "name": "What's up",
       "url": "https://open.spotify.com/track/2FhwV0Zht059QM0i4WpJiN"
+    },
+    {
+      "album": {
+        "name": "WHEN U LOVED ME",
+        "url": "https://open.spotify.com/album/0qbHW3cVyLeaApvPRdJQiD"
+      },
+      "artists": [
+        {
+          "name": "BANNY BUGS",
+          "url": "https://open.spotify.com/artist/2yttiOh6BTB10iOYtH0Fyq"
+        },
+        {
+          "name": "\u68ee",
+          "url": "https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "WHEN U LOVED ME",
+      "url": "https://open.spotify.com/track/5FUzX1vkqXRnzdlsax5QLo"
     },
     {
       "album": {

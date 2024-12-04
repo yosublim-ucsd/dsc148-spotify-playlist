@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 
 > the best things in life can't be contained.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,437,900 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,437,859 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 19 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |
 | 20 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
 | 21 | [Dial Drunk](https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(We'll All Be Here Forever\)](https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC) | 3:33 |
-| 22 | [Getting Ready to Get Down](https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sermon on the Rocks](https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH) | 3:16 |
-| 23 | [Our Kingdom](https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [Yellow](https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0) | 3:06 |
+| 22 | [Our Kingdom](https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ) | [Hugo Barriol](https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk) | [Yellow](https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0) | 3:06 |
+| 23 | [Getting Ready to Get Down](https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sermon on the Rocks](https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH) | 3:16 |
 | 24 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 25 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
 | 26 | [Strong Enough](https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 3:34 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q5wA1hY6bS.md) - [plain]
 | 73 | [Futures](https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Extralife](https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E) | 4:45 |
 | 74 | [Wishing Girl](https://open.spotify.com/track/4mg7HYMVMmdACnDpEGETiK) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Wishing Girl](https://open.spotify.com/album/0MNyqTTXzC3al4QRSLrf6z) | 3:12 |
 | 75 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
-| 76 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
-| 77 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
-| 78 | [Backpush](https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Backpush](https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj) | 3:02 |
+| 76 | [Backpush](https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Backpush](https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj) | 3:02 |
+| 77 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
+| 78 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
 | 79 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 |
 | 80 | [Born at the Right Time](https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Born at the Right Time](https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x) | 3:44 |
 | 81 | [Daniel](https://open.spotify.com/track/16rosLVYEGV8TO8VQqxxmm) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Daniel](https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb) | 3:40 |

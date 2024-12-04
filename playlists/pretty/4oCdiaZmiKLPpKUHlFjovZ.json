@@ -1,13 +1,33 @@
 {
   "description": "Turn this playlist all the way up! 310Babii, Key Glock, Peezy &amp; Tyga.",
-  "num_followers": 41902,
+  "num_followers": 41900,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAaz3y3TpbuW/RpHLLET050FMFZ75YD",
+  "snapshot_id": "AAAa0dN7P5xW3G+owTnPh//0WblpI5AK",
   "tracks": [
+    {
+      "added_at": "2024-12-03 22:59:21",
+      "album": {
+        "name": "I Got You",
+        "url": "https://open.spotify.com/album/7i7AHPpvFCpE1LxNMaiHxa"
+      },
+      "artists": [
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/50qdz0zvqVdhh4zG0CN0cN"
+    },
     {
       "added_at": "2024-11-25 18:53:43",
       "album": {

@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 160426,
       "name": "Desprecio",
       "url": "https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU"
@@ -1945,6 +1945,24 @@
     },
     {
       "album": {
+        "name": "EN DONDE ESTAS",
+        "url": "https://open.spotify.com/album/6BKDDrvvXoIgYIy2ZMnZnN"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Espinoza",
+          "url": "https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "EN DONDE ESTAS",
+      "url": "https://open.spotify.com/track/6m4wCZvfc9QKiXmyTRmlNc"
+    },
+    {
+      "album": {
         "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
       },
@@ -2242,7 +2260,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 189696,
       "name": "Felicidades",
       "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
@@ -3382,7 +3400,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 128333,
       "name": "Morenita Labios Rojos",
       "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
@@ -3610,6 +3628,24 @@
       "duration_ms": 244253,
       "name": "Ni Con Labios Prestados",
       "url": "https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA"
+    },
+    {
+      "album": {
+        "name": "Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "Ni Recompensa Ni Esperanza",
+      "url": "https://open.spotify.com/track/2UdVh89WSqLe9sDWQeAWB6"
     },
     {
       "album": {
@@ -4228,7 +4264,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 178000,
       "name": "Prisi\u00f3n De Amor",
       "url": "https://open.spotify.com/track/60djooUsL7woxEd08EcMjt"
@@ -4325,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121152,
+      "name": "Que Sube Y Baja (En Vivo)",
+      "url": "https://open.spotify.com/track/6ibESFw31H1shORQnJlNo8"
+    },
+    {
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/7pjWprusHoAZTaeVORXMS1"
       },
@@ -4365,6 +4419,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Fuimos (En Vivo)",
+        "url": "https://open.spotify.com/album/6Q4VubIV6GiT3HZrjGKg8b"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Hernan Sepulveda",
+          "url": "https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230034,
+      "name": "Qu\u00e9 Fuimos (En Vivo)",
+      "url": "https://open.spotify.com/track/1VkaO9P9BwH327jnM9VX1K"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9date Beb\u00e9",
         "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
       },
@@ -4398,6 +4474,24 @@
       "duration_ms": 185933,
       "name": "Regalo De Dios",
       "url": "https://open.spotify.com/track/51qYdMBxt9mFbtZBzq1Yfi"
+    },
+    {
+      "album": {
+        "name": "Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214706,
+      "name": "Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
     },
     {
       "album": {
@@ -5146,7 +5240,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 204805,
       "name": "Te Vas a Acordar de Mi",
       "url": "https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK"
@@ -5334,7 +5428,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 159773,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO"
@@ -5832,7 +5926,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 190933,
       "name": "\u00bfY Todo Para Qu\u00e9?",
       "url": "https://open.spotify.com/track/7EdSK9nLBY2RgbJ7g22s4z"

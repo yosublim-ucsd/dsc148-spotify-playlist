@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > All new music with an Indie twist\. Cover: Nana Adjoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,417 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,412 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 4 | [Game of Pretend](https://open.spotify.com/track/0CUUFKKSFn4xoDHAnS8AFL) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Game of Pretend](https://open.spotify.com/album/4XJdTyFjkq9hcngkIDSMmM) | 4:19 |
 | 5 | [You \(A Burden\)](https://open.spotify.com/track/1ATi24AFtfiCZ5P9xLaYHE) | [Zo Lief](https://open.spotify.com/artist/655lv153aeepabVfhjnGwq) | [You \(A Burden\)](https://open.spotify.com/album/0Z7Vydr2bEAo6BsHqbzwCh) | 3:03 |
 | 6 | [Time Travelling](https://open.spotify.com/track/3dGXyDzVt6O0Ol0WJ45ddR) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [Lost Like Alice](https://open.spotify.com/album/6Ly4bth5aGMD0vK29PMaz4) | 2:53 |
-| 7 | [How Does It Feel To Be You \(feat\. néomí\)](https://open.spotify.com/track/6MttUJkeC861ei3huiHewG) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [How Does It Feel To Be You \(feat\. néomí\)](https://open.spotify.com/album/28p8sVDSRlD2QuAwwxy9GZ) | 4:16 |
+| 7 | [How Does It Feel To Be You \(ft\. néomí\)](https://open.spotify.com/track/6MttUJkeC861ei3huiHewG) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [How Does It Feel To Be You \(ft\. néomí\)](https://open.spotify.com/album/28p8sVDSRlD2QuAwwxy9GZ) | 4:16 |
 | 8 | [Jaouad](https://open.spotify.com/track/7D5Qln7h4TYCjR37s8RyvB) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Jaouad](https://open.spotify.com/album/5ffS5umIscQePcvQf9ToCD) | 5:01 |
 | 9 | [Like The End](https://open.spotify.com/track/08MCWw0tB5BAPKJuSgQMqZ) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Like The End](https://open.spotify.com/album/4AowOP1g2H6JAUTCYyAFxQ) | 5:19 |
 | 10 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > this should have been her espresso<br/><br/>See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,230 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,276 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 89 | [Hair Body Face](https://open.spotify.com/track/16VQqrD8XTaIiJDCMStjxK) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD) | 3:22 |
 | 90 | [Wave \(feat\. Mike Sabath\)](https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:56 |
 | 91 | [Touch Me \(All Night Long\) \- 7" Mix](https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V) | [Cathy Dennis](https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp) | [Move To This \(Polydor Expanded Edition\)](https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c) | 3:29 |
-| 92 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/6dRj3dDseKfeIBfBMRboGN) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/59y1GvRkizGx5nAJpUbj4o) | 4:11 |
-| 93 | [Girl Gone Wild](https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe Version\)](https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG) | 3:43 |
+| 92 | [Girl Gone Wild](https://open.spotify.com/track/6SONqPbbSCVP5rgi0CdRxu) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [MDNA \(Deluxe Version\)](https://open.spotify.com/album/6xmfXi6p6SAxD4Rd7swccG) | 3:43 |
+| 93 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/6dRj3dDseKfeIBfBMRboGN) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/album/59y1GvRkizGx5nAJpUbj4o) | 4:11 |
 | 94 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 |
 | 95 | [A Public Affair](https://open.spotify.com/track/1gFMesXcHHtIUhwzxYFOtz) | [Jessica Simpson](https://open.spotify.com/artist/2tFN9ubMXEhdAQvdQxcsma) | [A Public Affair](https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me) | 3:21 |
 | 96 | [Let Go for Tonight](https://open.spotify.com/track/59lq75uFIqzUZcgZ4CbqFG) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Glorious \(Deluxe\)](https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru) | 3:58 |

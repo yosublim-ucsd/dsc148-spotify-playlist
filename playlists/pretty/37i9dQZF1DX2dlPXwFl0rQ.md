@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Chiquis en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,029 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,065 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 18 | [LA MALA](https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [LA MALA](https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO) | 2:24 |
 | 19 | [Basta Ya \- Banda](https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:03 |
 | 20 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
-| 21 | [Literal](https://open.spotify.com/track/4M4tWXiF87o7z2y1OkHzQw) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Literal](https://open.spotify.com/album/4B9zs7Fm6Ae314vkEohzJR) | 3:08 |
+| 21 | [Alma Enamorada](https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:55 |
 | 22 | [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 |
 | 23 | [Llorar Por Ella](https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Llorar Por Ella](https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV) | 2:48 |
 | 24 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Qué Bueno Es Tenerte](https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H) | 3:25 |
 | 25 | [Gotitas Saladas](https://open.spotify.com/track/5Sas859pm039G13F5wEuyK) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Gotitas Saladas](https://open.spotify.com/album/3qm5AFyntlDrD2NbcVGGdU) | 3:23 |
 | 26 | [1,2,3 Segundos](https://open.spotify.com/track/5BC2YTp3IhpsmuYuJVQIjG) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [1,2,3 Segundos](https://open.spotify.com/album/4TTSoBiOMtSe50meE5ttO6) | 3:17 |
-| 27 | [Alma Enamorada](https://open.spotify.com/track/4gLc3SHtuu2svpOByuYQX7) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:55 |
+| 27 | [Literal](https://open.spotify.com/track/4M4tWXiF87o7z2y1OkHzQw) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Literal](https://open.spotify.com/album/4B9zs7Fm6Ae314vkEohzJR) | 3:08 |
 | 28 | [La Mejor Decisión](https://open.spotify.com/track/1o8tDip84CWVKXmZUYtHOh) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [La Mejor Decisión](https://open.spotify.com/album/4g1hC9fKiZImPBiW04J44C) | 2:53 |
 | 29 | [Qué Me Vas a Dar](https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 3:15 |
 | 30 | [Ese Que Se Fue](https://open.spotify.com/track/1m5gWZ8Yz4kSAC3wAiG3KI) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Ese Que Se Fue](https://open.spotify.com/album/45LFRWcT9sYCxge5srVwcf) | 2:22 |
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 89 | [Más Que Un Rolex](https://open.spotify.com/track/6MMncjTGNQewjmTPEHATtO) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Más Que Un Rolex](https://open.spotify.com/album/15Zw9lOyNpsVMAuujnLKRh) | 3:29 |
 | 90 | [Quien Te Dijo Que Eres Tu](https://open.spotify.com/track/6RHGmpDfPLP2qEuf6hIMSR) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Quien Te Dijo Que Eres Tu](https://open.spotify.com/album/49IlkNej2Mu2zZ1q3NuXRg) | 3:03 |
 | 91 | [Mucha Mujer](https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2) | [Herly RG](https://open.spotify.com/artist/5lLFLifxnBH3MP5oZoLczt) | [Mucha Mujer](https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz) | 2:36 |
-| 92 | [La Lámpara](https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [La Lámpara](https://open.spotify.com/album/7a58EnNl6f0AgPPApX8KgK) | 3:40 |
+| 92 | [El Bato Gacho](https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [El Bato Gacho](https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH) | 2:25 |
 | 93 | [Me Llamaron Asesina](https://open.spotify.com/track/2LeFdSzcaRdk7Wqbs1tZGi) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Me Llamaron Asesina](https://open.spotify.com/album/728sapsjppB98wPX2yckAC) | 3:05 |
 | 94 | [No Te Fui Suficiente](https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06) | [Sandra Echeverria](https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31) | [No Te Fui Suficiente](https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh) | 4:38 |
 | 95 | [Me Voy](https://open.spotify.com/track/3SiScfgPP9I494Fbi5YFmf) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt) | [Íntimamente](https://open.spotify.com/album/3xgoENA5vtoM7wJ2kuPKHq) | 3:06 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 97 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 98 | [No Puedo Olvidarlo](https://open.spotify.com/track/4SULcMUj2EcxM82DT0eH8P) | [Irene del Rosario](https://open.spotify.com/artist/280pdvUx6toxxX9M8z2ZFN) | [En Vivo: Irene del Rosario](https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN) | 3:34 |
 | 99 | [La Gitanilla](https://open.spotify.com/track/7jKkmzmUeVV4gbwALwp43w) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK), [Banda las Angelinas](https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp) | [La Gitanilla](https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA) | 3:54 |
-| 100 | [El Bato Gacho](https://open.spotify.com/track/4zFxX8QAOcoqkCm9QWT7cq) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [El Bato Gacho](https://open.spotify.com/album/0UcVh7asl3iQRivR9TSwbH) | 2:25 |
+| 100 | [La Lámpara](https://open.spotify.com/track/467gjKqJjBGHSiKquWQr9c) | [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [La Lámpara](https://open.spotify.com/album/7a58EnNl6f0AgPPApX8KgK) | 3:40 |
 
 Snapshot ID: `Zxsz4AAAAAAK9bNbIR6I7S7UyLcSRcLm`

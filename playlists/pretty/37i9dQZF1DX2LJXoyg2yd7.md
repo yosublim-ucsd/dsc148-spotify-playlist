@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,750 likes - 40 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,768 likes - 40 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 22 | [يا مهاجر](https://open.spotify.com/track/7lCGZKNM9OzhPtRTyamcbN) | [Mohamed Moshajeal](https://open.spotify.com/artist/5SgPuHDX7bw9Ffdqqz2Wvd) | [ريم البوادي](https://open.spotify.com/album/0gB9Upr1MXZgfkdg534ny1) | 8:32 |
 | 23 | [يالبعيد](https://open.spotify.com/track/2AytFH0o2V70r3kVvXYaUc) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [يالبعيد](https://open.spotify.com/album/2rBW5WEEjeirM99VclLcVV) | 6:21 |
 | 24 | [غني غني](https://open.spotify.com/track/5470jMcakM58nZJGutrw81) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [كلام أبيض](https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE) | 4:25 |
-| 25 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
-| 26 | [احبة ربى صنعاء](https://open.spotify.com/track/4hdY4pbFcEMFA0mafgakFW) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [احبة ربى صنعاء](https://open.spotify.com/album/5nuV7bTYDBlgTukJg2aVqf) | 12:15 |
+| 25 | [احبة ربى صنعاء](https://open.spotify.com/track/4hdY4pbFcEMFA0mafgakFW) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [احبة ربى صنعاء](https://open.spotify.com/album/5nuV7bTYDBlgTukJg2aVqf) | 12:15 |
+| 26 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
 | 27 | [الف انا الف](https://open.spotify.com/track/1z04QcrdC5719bRiTbB1RV) | [Mohamed Hammoud Al Harthy](https://open.spotify.com/artist/6z9RD3uY6YRNvnkMcecYek) | [الف انا الف](https://open.spotify.com/album/430Xh2jplLQRh4xOmFlK8a) | 9:06 |
 | 28 | [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 |
 | 29 | [Gorbak Saeed](https://open.spotify.com/track/5Dp8du6nKtWbTQMqzYpL42) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Gorbak Saeed](https://open.spotify.com/album/0RRpkYDzURir0OaObR0nvl) | 6:59 |

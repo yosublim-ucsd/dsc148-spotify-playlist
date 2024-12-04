@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > Modern heavenly sounds\. Cover: Becky and the Birds
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,629,011 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629,943 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 27 | [Is It Cold In The Water?](https://open.spotify.com/track/3KG0YB2FmSuuCSWxlfky7s) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [Is It Cold In The Water?](https://open.spotify.com/album/5XxuvaQ1vtCbP921JTvMgJ) | 3:55 |
 | 28 | [QKThr](https://open.spotify.com/track/4LIM4qmpHABufePRrLWbiM) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 1:27 |
 | 29 | [Genesis](https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Visions](https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM) | 4:15 |
-| 30 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
-| 31 | [Just for Now](https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:00 |
+| 30 | [Just for Now](https://open.spotify.com/track/6ifbPf9vldlIJwYKrBFktx) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 3:00 |
+| 31 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 |
 | 32 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
 | 33 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 |
 | 34 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 50 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 51 | [may you never forget me](https://open.spotify.com/track/2sV11xuq4U8KlGWKCtGNpx) | [Temachii](https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ) | [flora maniia](https://open.spotify.com/album/2VJWNCadN7DfQ3XThbvlUk) | 3:35 |
 | 52 | [She Looked Like Me!](https://open.spotify.com/track/66st0nh6vlK7t2yzWfzmcA) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:13 |
-| 53 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
-| 54 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 |
+| 53 | [Wandering Star](https://open.spotify.com/track/7h14W1uQK7sjpVI1oVTobt) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:53 |
+| 54 | [Floating Parade](https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Floating Parade](https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED) | 3:49 |
 | 55 | [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 |
 | 56 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
 | 57 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: Lovelyz\(러블리즈\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,183 likes - 57 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,211 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 6 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 |
 | 7 | [Perfect Night](https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night](https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6) | 2:39 |
 | 8 | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/6VG3H64odw9YFcvY0NUZpL) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn), [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Touch \(ft\. YEONJUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/3ohHp2OASdUUB5ryLhvKpU) | 2:09 |
-| 9 | [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 |
-| 10 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
+| 9 | [POP!](https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 2:48 |
+| 10 | [Run Away](https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B) | [TZUYU](https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK) | [abouTZU](https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy) | 3:18 |
 | 11 | [Supersonic](https://open.spotify.com/track/6oNLSQX8bcAdbCElZYju3v) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Supersonic](https://open.spotify.com/album/1sxOavrEVy7krHpcbCsiJi) | 2:54 |
 | 12 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
 | 13 | [SOS](https://open.spotify.com/track/3X76Lal4GwBFqriHz1FbLU) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Love Tune](https://open.spotify.com/album/4jCiEqSvakhAN2n7Gr2r2r) | 3:07 |

@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 443996,
+  "num_followers": 444013,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 184240,
-      "name": "Amor de Carnaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
         "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 190244,
       "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
       "url": "https://open.spotify.com/track/4v6SAnzwEr7s2m0gFQnJFJ"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/5ef3YHfeGQd6JW056VmKiy"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 184240,
+      "name": "Amor de Carnaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/3pANwjrypucSkTOQdSFbEK"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Rel\u00f3gio Parado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb"
-      },
-      "artists": [
-        {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
-        }
-      ],
-      "duration_ms": 180736,
-      "name": "Rel\u00f3gio Parado (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Ter Amigos \u00c9 Melhor Que Ter Dinheiro, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3R8CMeFQ1xbdFDCCIblgqn"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 162464,
       "name": "Quem \u00c9 Seu Favorito - Ao Vivo",
       "url": "https://open.spotify.com/track/7h4XA0Kz2YCKAJNYSdJVdd"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Rel\u00f3gio Parado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/60uEVgPGWNBFOYH8EcJglb"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        }
+      ],
+      "duration_ms": 180736,
+      "name": "Rel\u00f3gio Parado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5n8Y78Pl5q8lqS7sJP61qw"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Ao Vivo Em Macei\u00f3",
-        "url": "https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC"
-      },
-      "artists": [
-        {
-          "name": "Mano Walter",
-          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 279810,
-      "name": "O Que Houve? - Ao Vivo",
-      "url": "https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Continua, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mcHPmUUdA3O8JjnVkKjxe"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 168380,
       "name": "C\u00ea N\u00e3o Me Superou - Ao Vivo",
       "url": "https://open.spotify.com/track/7zmS0vPbWg2k6sfL3uqrGD"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Ao Vivo Em Macei\u00f3",
+        "url": "https://open.spotify.com/album/0ua7snDhitmW4xhrNODuFC"
+      },
+      "artists": [
+        {
+          "name": "Mano Walter",
+          "url": "https://open.spotify.com/artist/35YkpX0zYwHG8vOIhObvxP"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 279810,
+      "name": "O Que Houve? - Ao Vivo",
+      "url": "https://open.spotify.com/track/6fDadQZ5QlZgYqpZhDfwek"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
-        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
-      },
-      "artists": [
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
-      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Quem Ensinou Fui Eu",
         "url": "https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 151082,
       "name": "Quem Ensinou Fui Eu",
       "url": "https://open.spotify.com/track/1mBx8G3GBajrV0eTeYQshc"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Ac\u00fastico Show PPA (Ac\u00fastico / Ao Vivo)",
+        "url": "https://open.spotify.com/album/2e3hqKwmFvMd6QrC7zLCww"
+      },
+      "artists": [
+        {
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "Desbotequei (Ai Beb\u00ea) - Ac\u00fastico / Ao Vivo",
+      "url": "https://open.spotify.com/track/5XeWwlZf786vKxXaekvyyh"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Esquenta do DVD",
-        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 155661,
-      "name": "Sofro Onde Eu Quiser",
-      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Simone & Simaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 190619,
       "name": "Duvido Voc\u00ea N\u00e3o Tomar Uma - Ao Vivo",
       "url": "https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Esquenta do DVD",
+        "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 155661,
+      "name": "Sofro Onde Eu Quiser",
+      "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Ensaio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
-      },
-      "artists": [
-        {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        }
-      ],
-      "duration_ms": 176214,
-      "name": "Sua Melhor Vers\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nvOKQtlpjQAwLNLhqoO5L"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Short Jeans (Ao Vivo)",
         "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
       },
@@ -1119,6 +1103,42 @@
       "duration_ms": 180500,
       "name": "Short Jeans - Ao Vivo",
       "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Ensaio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
+      },
+      "artists": [
+        {
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        }
+      ],
+      "duration_ms": 176214,
+      "name": "Sua Melhor Vers\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nvOKQtlpjQAwLNLhqoO5L"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
+        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 174178,
+      "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1143,22 +1163,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Amoreco",
-        "url": "https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG"
-      },
-      "artists": [
-        {
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "duration_ms": 151262,
-      "name": "Amoreco",
-      "url": "https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Em Sintonia (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
       },
@@ -1179,22 +1183,18 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo - EP 2",
-        "url": "https://open.spotify.com/album/1QdpjznhhFhbJGwPYy42We"
+        "name": "Amoreco",
+        "url": "https://open.spotify.com/album/4FZWUHtF6PqWcf4R0bxzwG"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
         }
       ],
-      "duration_ms": 174178,
-      "name": "Para Pensa e Volta (feat. Mar\u00edlia Mendon\u00e7a) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
+      "duration_ms": 151262,
+      "name": "Amoreco",
+      "url": "https://open.spotify.com/track/15Dl8e6gdR0I1IQn0M4SGi"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Guias Dvd 2018",
-        "url": "https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 163946,
-      "name": "Cora\u00e7\u00e3o Infectado",
-      "url": "https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
         "url": "https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF"
       },
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
+        "name": "Guias Dvd 2018",
+        "url": "https://open.spotify.com/album/016TMUgaDtdnnjBBi1HwVz"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 163946,
+      "name": "Cora\u00e7\u00e3o Infectado",
+      "url": "https://open.spotify.com/track/3buGB7k4NFkMEz4RA8BMYn"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
         "name": "ASSIM NASCE UM B\u00caBADO",
         "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
       },
@@ -1335,38 +1335,6 @@
       "duration_ms": 223374,
       "name": "ASSIM NASCE UM B\u00caBADO",
       "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
-        "name": "Jenifer",
-        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Diniz",
-          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Jenifer",
-      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
-        "name": "Z\u00e9 da Reca\u00edda",
-        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 168458,
-      "name": "Z\u00e9 da Reca\u00edda",
-      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1387,18 +1355,34 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Pronta pra Trair",
-        "url": "https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ"
+        "name": "Z\u00e9 da Reca\u00edda",
+        "url": "https://open.spotify.com/album/6GpuBgy6WQZhWrnCsBeMma"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 177144,
-      "name": "Pronta pra Trair",
-      "url": "https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8"
+      "duration_ms": 168458,
+      "name": "Z\u00e9 da Reca\u00edda",
+      "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Jenifer",
+        "url": "https://open.spotify.com/album/6YwWXICxS8FALgq3cZclsH"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Diniz",
+          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Jenifer",
+      "url": "https://open.spotify.com/track/5ixqGGFu0hdHfErdp32QwT"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1415,6 +1399,22 @@
       "duration_ms": 155413,
       "name": "Cora\u00e7\u00e3o de Quatro",
       "url": "https://open.spotify.com/track/0JbOWU1lkCiPZPGGw216Uu"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Pronta pra Trair",
+        "url": "https://open.spotify.com/album/0SqRCFYtVCJAG92UD2VQpJ"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 177144,
+      "name": "Pronta pra Trair",
+      "url": "https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
+        "name": "N\u00e3o largo, n\u00e3o troco, n\u00e3o empresto (Ao vivo)",
+        "url": "https://open.spotify.com/album/6O0AwDKVK4lXQXr5vLGwzz"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 177129,
+      "name": "N\u00e3o largo, n\u00e3o troco, n\u00e3o empresto - Ao vivo",
+      "url": "https://open.spotify.com/track/4hqb6iFfQOdYj7OVWAxFbs"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
         "name": "Siga a Seta (feat. Matheus & Kauan) [Ao Vivo]",
         "url": "https://open.spotify.com/album/7j3YXsHgy2GW48kSjzTlR7"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 171692,
       "name": "Siga a Seta (feat. Matheus & Kauan) - Ao Vivo",
       "url": "https://open.spotify.com/track/5AQNVgt7BKHKRhrNFFgSPF"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
-        "name": "N\u00e3o largo, n\u00e3o troco, n\u00e3o empresto (Ao vivo)",
-        "url": "https://open.spotify.com/album/6O0AwDKVK4lXQXr5vLGwzz"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 177129,
-      "name": "N\u00e3o largo, n\u00e3o troco, n\u00e3o empresto - Ao vivo",
-      "url": "https://open.spotify.com/track/4hqb6iFfQOdYj7OVWAxFbs"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
-        "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
-      },
-      "artists": [
-        {
-          "name": "Marcos & Belutti",
-          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 191161,
-      "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
-      "url": "https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Bom Rapaz (feat. Jorge & Mateus) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5353UyoQBadJ6oombQLQVS"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 234592,
       "name": "Bom Rapaz (feat. Jorge & Mateus) - Ao Vivo",
       "url": "https://open.spotify.com/track/2WVZwImXEOdSSvPZg0TQyx"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
+        "url": "https://open.spotify.com/album/6BUjNYSPOiRcyARuPkcwhn"
+      },
+      "artists": [
+        {
+          "name": "Marcos & Belutti",
+          "url": "https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 191161,
+      "name": "Cancela o Sentimento (feat. Mar\u00edlia Mendon\u00e7a)",
+      "url": "https://open.spotify.com/track/0PVjuxjgUJldBATilksYW2"
     },
     {
       "added_at": "2024-07-15 13:13:58",

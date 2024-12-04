@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Songs to keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,326,436 likes - 150 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,326,478 likes - 150 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 12 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 |
 | 13 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
 | 14 | [Love In The Dark](https://open.spotify.com/track/0DuWDLjriRPjDRoPgaCslY) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/6TVfiWmo8KtflUAmkK9gGF) | 4:45 |
-| 15 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:49 |
-| 16 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 |
+| 15 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 |
+| 16 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:49 |
 | 17 | [18](https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 4:08 |
 | 18 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 |
 | 19 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 66 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 |
 | 67 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 |
 | 68 | [Motion Sickness](https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 3:49 |
-| 69 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
-| 70 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 |
+| 69 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 |
+| 70 | [Bleeding Love](https://open.spotify.com/track/6LtPIXlIzPOTF8vTecYjRe) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 4:22 |
 | 71 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 |
 | 72 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 73 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 |
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 120 | [Unkiss Me](https://open.spotify.com/track/1m39XApxHXb2UkGItyyIUO) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:58 |
 | 121 | [I Have Nothing](https://open.spotify.com/track/5pToiT0Ux6xlNk9MYG5r3I) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Sad Songs](https://open.spotify.com/album/7izeaWTIMPh2kLE1htv4bQ) | 4:47 |
 | 122 | [Love Is BS](https://open.spotify.com/track/3zKKxP2qqSJ5ynJS5oaJeZ) | [Lala Sadii](https://open.spotify.com/artist/1ge7ixcFwe6ch8HZbs0UHt) | [Love Is BS](https://open.spotify.com/album/3EyAKObwJrfTJLr5UFg5wc) | 3:12 |
-| 123 | [i hate you for this](https://open.spotify.com/track/4pVqrsykRGIyicylgR2gIx) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i hate you for this](https://open.spotify.com/album/483ZvZXLixgFx8hqyyp3Mf) | 2:17 |
-| 124 | [like that](https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [chapter two: red](https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru) | 3:05 |
+| 123 | [like that](https://open.spotify.com/track/1BSAmxkrz2H8v5kpTfAT6v) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [chapter two: red](https://open.spotify.com/album/2Sgdv3E54pq1nzvBRH1iru) | 3:05 |
+| 124 | [i hate you for this](https://open.spotify.com/track/4pVqrsykRGIyicylgR2gIx) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l) | [i hate you for this](https://open.spotify.com/album/483ZvZXLixgFx8hqyyp3Mf) | 2:17 |
 | 125 | [Run and Hide](https://open.spotify.com/track/24fhYqs2KtWbHfY4Ngdf5U) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 3:29 |
 | 126 | [Thank You for the Broken Heart](https://open.spotify.com/track/1aBO5KPwxqLESNTTJBR6VP) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:51 |
 | 127 | [Please Don't Say You Love Me](https://open.spotify.com/track/7hbMolAsnzDv06KeI6HP0y) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/0CvseifzOENX6EzsO0OaTA) | 3:01 |

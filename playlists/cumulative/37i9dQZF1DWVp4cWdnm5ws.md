@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Discover new artists on the horizon this 2024\. Cover: Denise Julia
+> Discover new artists on the horizon this 2024\. Cover: Ysanygo
 
-217 songs - 13 hr 18 min
+218 songs - 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Lahat Ng Bukas](https://open.spotify.com/track/3s39TR3Iarc2013cuvDGQ7) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN), [Keanna Mag](https://open.spotify.com/artist/2af9UwNUXwDozd9eCCwB2v) | [Lahat Ng Bukas](https://open.spotify.com/album/7flIBguWZI3J5lURZT6Sbk) | 3:21 | 2024-04-02 |  |
 | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/track/0S9E3lwPotusU4QRVVg2wC) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce), [Trisha Macapagal](https://open.spotify.com/artist/6oF9fOWX7L88hNPKqWzB0O) | [Leron \(feat\. Trisha Macapagal\)](https://open.spotify.com/album/0OVWJZkcHFVCzGuTw8Lauw) | 4:00 | 2022-08-26 | 2022-12-01 |
 | [Ligaya](https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Ligaya](https://open.spotify.com/album/0ccUyUkrIynFO5USku5IHH) | 4:08 | 2022-03-24 | 2024-04-03 |
+| [Like a Superstar](https://open.spotify.com/track/6TrjoufYJbf1I4CUMUUQs2) | [Ysanygo](https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ) | [YSANYGO WORLDWIDE Vol\. 1](https://open.spotify.com/album/0wtl3Pe5chEoHUxkw1TVbj) | 2:22 | 2024-12-03 |  |
 | [Lisan](https://open.spotify.com/track/0EeDITljBgGZFUuQAH6Vdu) | [VXON](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7) | [Lisan](https://open.spotify.com/album/0TkyxB93NG1E8Hhf34mwCY) | 4:27 | 2023-08-09 | 2024-04-03 |
 | [LOKA](https://open.spotify.com/track/64WXbwaUOH3McbHrcxLe7l) | [G22](https://open.spotify.com/artist/4DsCOCoIUvUKVDDY8OW3lU) | [LOKA](https://open.spotify.com/album/0xpuBL6ayhNOiewu8ftmXy) | 2:33 | 2023-11-17 | 2024-04-03 |
 | [Made For All](https://open.spotify.com/track/6Qc9WXhHeRV5RlSdR72DNo) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Made For All](https://open.spotify.com/album/0SOSnP1ZoEnNwRg3ioo4C7) | 2:00 | 2022-09-08 | 2022-12-01 |

@@ -4,13 +4,14 @@
 
 > Kick back to these chilled out essentials.
 
-232 songs - 13 hr 19 min
+234 songs - 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [190](https://open.spotify.com/track/3Yl5Lbx1PC7UdVJFAIG342) | [Hugo Basclain](https://open.spotify.com/artist/0AMwJ7ohVHJl0iKC0CpdVG) | [190](https://open.spotify.com/album/0hFGnUbSIHMRq6SnIhOvRT) | 3:31 | 2023-06-15 | 2023-07-28 |
 | [28 \(with Dean Lewis\)](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 | 2023-11-09 | 2024-11-06 |
 | [28th of June](https://open.spotify.com/track/0ZQdCsqlVRqqImNqkRz9ct) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [28th of June](https://open.spotify.com/album/0inH63xl0GHnMm9cYmiGWX) | 3:45 | 2024-03-21 |  |
+| [2DK](https://open.spotify.com/track/7ld4T52HZbs0OFSN6ZqciT) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [2DK](https://open.spotify.com/album/2gcPR4nHZNAFJx0FKkbpMv) | 3:16 | 2024-12-03 |  |
 | [A World Without You](https://open.spotify.com/track/4lB4o2KbTxfE5wNMkw6vKR) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Self Portrait Of A Woman Unravelling](https://open.spotify.com/album/1xceHSQfXpgXPFsKraHiYZ) | 3:32 | 2023-07-07 | 2024-03-29 |
 | [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2023-06-15 | 2024-03-01 |
 | [Afterglow](https://open.spotify.com/track/6jIjQHf2S6jVh25TbNV6TM) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Afterglow](https://open.spotify.com/album/4C3YEmyqlD0ceZoYEXZLrT) | 3:20 | 2024-04-25 |  |
@@ -22,7 +23,7 @@
 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 | 2024-04-25 |  |
 | [Always](https://open.spotify.com/track/71XJNtOdwmL1UWOQQvsKoH) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH \(Bonus Version\)](https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe) | 3:45 | 2023-06-15 | 2023-09-15 |
 | [Always Beside You \(feat\. SIX60\)](https://open.spotify.com/track/4NOrUYcyrIdzPfDkKdVKYd) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY), [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [COTERIE](https://open.spotify.com/album/3cPGB2HwcV2E8SBvNt3DO6) | 3:01 | 2023-06-15 | 2023-07-28 |
-| [American High](https://open.spotify.com/track/0dfBhD0Cp8PvrScwz7DqNa) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [American High](https://open.spotify.com/album/3LySzqWDLm3I3FmNkXkYgV) | 2:58 | 2024-03-28 |  |
+| [American High](https://open.spotify.com/track/0dfBhD0Cp8PvrScwz7DqNa) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [American High](https://open.spotify.com/album/3LySzqWDLm3I3FmNkXkYgV) | 2:58 | 2024-03-28 | 2024-12-04 |
 | [Andrew](https://open.spotify.com/track/0tjVLOoRskePkqXGyP43Y5) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Andrew](https://open.spotify.com/album/303DcpyTMUuP6Nv4sopaRv) | 4:00 | 2024-03-14 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2023-06-15 | 2023-08-18 |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2023-06-15 | 2024-03-01 |
@@ -39,7 +40,7 @@
 | [Bigger Person](https://open.spotify.com/track/2Kqw2ECnErSCU9bxPSVgGx) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:41 | 2023-07-27 |  |
 | [Bird In A Hurricane](https://open.spotify.com/track/2QdSa6HSB6GnLTTxVRbQrJ) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Bird In A Hurricane](https://open.spotify.com/album/02ytCS04e7jLpaDMz0CqU6) | 2:52 | 2024-04-25 |  |
 | [BLEED](https://open.spotify.com/track/3CJrKExvAP6RCtUR8Cf99P) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [BLEED](https://open.spotify.com/album/783jliO1kkc5vXTrxHqNKk) | 2:51 | 2023-11-17 |  |
-| [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-25 |  |
+| [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-25 | 2024-12-04 |
 | [Burning Down](https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Burning Down](https://open.spotify.com/album/1v9bkQK8p2Za27mavQqu1V) | 2:59 | 2024-11-05 |  |
 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-11-05 |  |
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-06-15 | 2024-03-01 |
@@ -174,6 +175,7 @@
 | [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 | 2023-06-15 | 2024-03-01 |
 | [Roses](https://open.spotify.com/track/1qJpu12bMG9Qg5xcaCXo5T) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin +](https://open.spotify.com/album/5T0OkyozqrjKiBoQPX8BIC) | 4:02 | 2024-03-14 | 2024-04-19 |
 | [Roses](https://open.spotify.com/track/5f2nzTU3Gv94nfq6uEIJMb) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Positive Spin +](https://open.spotify.com/album/1l6DZgb9x4J3V8YBJteRBJ) | 4:02 | 2024-03-28 |  |
+| [Rubber Arm](https://open.spotify.com/track/28rCwN81NHvVNBCpcKMNRx) | [Penny Black](https://open.spotify.com/artist/1cBG4EwfCyJnZCsKxvIZ4h) | [Rubber Arm](https://open.spotify.com/album/0riB6hvyDjoBwjfCjaskPA) | 3:44 | 2024-12-03 |  |
 | [Run Away to Mars](https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et) | 3:33 | 2023-06-15 | 2024-03-01 |
 | [Run Through Fire](https://open.spotify.com/track/4U3Xw68LAgaiJahg8Jtoy9) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Run Through Fire](https://open.spotify.com/album/5ZXRhusicgRkkUuCZILOkE) | 3:04 | 2023-06-15 | 2024-03-01 |
 | [Save You a Seat](https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Save You a Seat](https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu) | 3:17 | 2024-03-28 |  |

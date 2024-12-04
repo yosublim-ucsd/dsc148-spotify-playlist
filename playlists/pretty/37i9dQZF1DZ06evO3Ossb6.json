@@ -1,12 +1,12 @@
 {
   "description": "This is Alejandro Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 812717,
+  "num_followers": 812785,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAC+ybrPcbpj+F8biu8a9Aqo",
+  "snapshot_id": "Z0z4gAAAAAAWF+lNNoIVRPN9sGySWx8E",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Seas Muy Feliz",
-        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 166533,
-      "name": "Que Seas Muy Feliz",
-      "url": "https://open.spotify.com/track/57FK6Fq03tJjZbphA0Fjwd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Or\u00edgenes",
         "url": "https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 208266,
       "name": "Tantita Pena",
       "url": "https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Seas Muy Feliz",
+        "url": "https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 166533,
+      "name": "Que Seas Muy Feliz",
+      "url": "https://open.spotify.com/track/57FK6Fq03tJjZbphA0Fjwd"
     },
     {
       "added_at": null,

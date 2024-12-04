@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-340 songs - 16 hr 45 min
+341 songs - 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Dilla Impresses Me](https://open.spotify.com/track/6eKOnF2DVCMxs8pH6O6DBJ) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek) | [Dilla Impresses Me](https://open.spotify.com/album/1tAmxMIuBVFvbB78TVUwFn) | 2:34 | 2023-08-22 |  |
 | [Discovery at the Beach](https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo) | [Brendan Eder Ensemble](https://open.spotify.com/artist/5wqMw7XAQ9M9kpO5ImZ6NK), [Edward Blankman](https://open.spotify.com/artist/6iZKh6GtYyudtFEh6q7CLo) | [Cape Cod Cottage](https://open.spotify.com/album/3iA6DplfbqQ1yX3op8zmEg) | 2:28 | 2023-08-22 | 2024-10-04 |
 | [Divine Timing Is Intuitive](https://open.spotify.com/track/2amzuNCxpoibW6DTUtUk2X) | [Saint Abdullah](https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP), [Jason Nazary](https://open.spotify.com/artist/4g7wJhFZNNxsMTfhS7igtQ), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx) | [Divine Timing Is Intuitive](https://open.spotify.com/album/5Wf5eFYbAgcxiAkLlq0uzh) | 3:55 | 2023-10-13 | 2024-08-24 |
-| [do good, think bad](https://open.spotify.com/track/1HVNC07lW9XJuOp8HoW3Bg) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt), [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [stealing from cats](https://open.spotify.com/album/4S8OPIdjL4i4haswpScZwv) | 2:22 | 2024-06-04 |  |
+| [do good, think bad](https://open.spotify.com/track/1HVNC07lW9XJuOp8HoW3Bg) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt), [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [stealing from cats](https://open.spotify.com/album/4S8OPIdjL4i4haswpScZwv) | 2:22 | 2024-06-04 | 2024-12-04 |
 | [Dog Dad](https://open.spotify.com/track/5oYqFfdwufBro2yGltvXWo) | [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Efajemue](https://open.spotify.com/artist/1VAkDShUPeSm9IMrDHsxP1), [Zephyr Avalon](https://open.spotify.com/artist/1zTFIyWUniB8SiSdcTLa9O) | [Dog Dad](https://open.spotify.com/album/1NCtxst9iKyHJhz8AaXG9f) | 4:00 | 2023-10-13 | 2024-10-11 |
 | [Dolphin Lundgren](https://open.spotify.com/track/6dA7ZskIeNPLKzMxWxlpu1) | [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Dolphin Lundgren](https://open.spotify.com/album/2zaHJvV670I9vPd7tRpRaV) | 5:43 | 2024-10-11 | 2024-10-19 |
 | [Dominoes](https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM) | [moondiver](https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp) | [Dominoes](https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB) | 4:20 | 2023-08-22 | 2024-09-21 |
@@ -253,6 +253,7 @@
 | [Repose](https://open.spotify.com/track/3bmPz3l9em8dqdwhpzb8Tf) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Repose](https://open.spotify.com/album/76aywp7ONaQDLJjPLzDcl5) | 2:28 | 2024-06-04 |  |
 | [RIDGEWALK](https://open.spotify.com/track/5ZUoIhG0oxDT50Hb6xmYd3) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [RIDGEWALK](https://open.spotify.com/album/5dQpb7jmEkKXioLIyVzzkK) | 2:27 | 2024-11-29 |  |
 | [Rivers](https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Chris Keys](https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur) | [Rivers](https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq) | 2:40 | 2023-08-22 |  |
+| [Roller Coaster](https://open.spotify.com/track/61vVI6qo8zhw2OWM96ReDd) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [SMTHNGOOD](https://open.spotify.com/artist/6UwT4pDjGSlegunFtmCPcf), [dhyno](https://open.spotify.com/artist/68A1ZFG3MCIjch52VMXht8) | [Roller Coaster](https://open.spotify.com/album/0K7qZlcArJtLm0PqNwFdfU) | 2:34 | 2024-11-29 |  |
 | [Routes To Knowledge](https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN) | [The Golden Eternity](https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu) | [Routes To Knowledge](https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl) | 2:57 | 2023-09-22 |  |
 | [samthaube](https://open.spotify.com/track/2OGnDgENJD0nxPZLywANMJ) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [samthaube](https://open.spotify.com/album/5RhEe9lXAKS0cDvKMBjTWr) | 2:01 | 2024-10-04 | 2024-10-20 |
 | [Sapphire](https://open.spotify.com/track/4EZmaOxulwwYXoDTIjRUTl) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Sapphire](https://open.spotify.com/album/3l1BpaDK1dFnKJZ2m5ypDC) | 2:24 | 2023-08-22 |  |

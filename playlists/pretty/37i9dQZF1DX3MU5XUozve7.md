@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,000,521 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,035 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 70 | [Prisoner of Society](https://open.spotify.com/track/2HY0xuuAqkGAlocHJ2Plu3) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [The Living End](https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7) | 3:49 |
 | 71 | [Die for the Government](https://open.spotify.com/track/32DlWww7sxo7y6yJEgSeP9) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [Die for the Government](https://open.spotify.com/album/5q8xABjtqtUm4ItxT51NQP) | 3:39 |
 | 72 | [Walk the Walk](https://open.spotify.com/track/4A2ACnyRUwxcfKiQypDwFy) | [Face To Face](https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd) | [Face to Face \(Remastered\)](https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY) | 3:35 |
-| 73 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
+| 73 | [My Sanity](https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:58 |
 | 74 | [Rocket Man](https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Have a Ball](https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF) | 3:15 |
-| 75 | [My Sanity](https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:58 |
+| 75 | [Heart Attack American](https://open.spotify.com/track/0k483dcMGE6ylstRbUss1p) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4) | [The Bronx \(I\)](https://open.spotify.com/album/2lw3G0wkNGiKASHDAZp2s4) | 2:51 |
 | 76 | [Victory Lap](https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:56 |
 | 77 | [Analog](https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Exile in Oblivion](https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j) | 2:55 |
 | 78 | [The Best I Ever Had](https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z) | [The Swellers](https://open.spotify.com/artist/1xpkFcz84H5OVOgbDGcYxw) | [Good For Me](https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA) | 3:59 |
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 88 | [Shoot the Moon](https://open.spotify.com/track/74Y2eYNC5SFEaekY8epIKR) | [Voodoo Glow Skulls](https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw) | [Firme](https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD) | 3:13 |
 | 89 | [Devil's Kind](https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS) | [The Longshot](https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O) | [Devil's Kind](https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps) | 3:01 |
 | 90 | [Punk Rock Girl](https://open.spotify.com/track/1l04CzFskMiq7c30lZvr7i) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Beelzebubba](https://open.spotify.com/album/6rOSsanZwjydXb9dY9ACZH) | 2:38 |
-| 91 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
-| 92 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
+| 91 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
+| 92 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
 | 93 | [Fuck The World](https://open.spotify.com/track/1VyXtvIHF8eytwxxDLsE3Z) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Scandinavian Leather](https://open.spotify.com/album/1qK9Xlui8xqhWkMiVPIQbP) | 4:14 |
 | 94 | [Scream Out](https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ) | [The Unseen](https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z) | [State Of Discontent](https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS) | 2:51 |
 | 95 | [Black Hole In My Mind](https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4) | [The Lillingtons](https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX) | [Death By Television](https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r) | 3:16 |
-| 96 | [Gangsters and Thugs](https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Haunted Cities](https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8) | 3:54 |
-| 97 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 |
+| 96 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 |
+| 97 | [Gangsters and Thugs](https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Haunted Cities](https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8) | 3:54 |
 | 98 | [Generational Divide](https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 0:49 |
 | 99 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
 | 100 | [Alchemy](https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ) | [Banner Pilot](https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj) | [Heart Beats Pacific](https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7) | 2:14 |

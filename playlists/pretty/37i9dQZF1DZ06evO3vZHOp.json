@@ -1,12 +1,12 @@
 {
   "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 349180,
+  "num_followers": 349241,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAADpXJIFH0OEpr9ohU88P/y9",
+  "snapshot_id": "Z0z4gAAAAAAkmYW4hXZkgNugr6sxyY1k",
   "tracks": [
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Podemos (Remix)",
-        "url": "https://open.spotify.com/album/4jz8jaitW6YNNBS9ikHJ4z"
-      },
-      "artists": [
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "No Podemos - Remix",
-      "url": "https://open.spotify.com/track/489YQCIt2Mi0P1lRdx7uJz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA MAYBACH",
         "url": "https://open.spotify.com/album/1jz29Rm1NMO3xpeMotUgff"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 240778,
       "name": "LA MAYBACH",
       "url": "https://open.spotify.com/track/0kJAsLcG0lPlYTwGbCwcvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Podemos (Remix)",
+        "url": "https://open.spotify.com/album/4jz8jaitW6YNNBS9ikHJ4z"
+      },
+      "artists": [
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "No Podemos - Remix",
+      "url": "https://open.spotify.com/track/489YQCIt2Mi0P1lRdx7uJz"
     },
     {
       "added_at": null,
@@ -891,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SEN2 KBRN VOL. 2",
+        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 156295,
+      "name": "Caras Vemos",
+      "url": "https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOTORIUS",
         "url": "https://open.spotify.com/album/3Rd8NZ6itwtWeC2Ng6yBFT"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 155294,
       "name": "EL FAVORITO DE MAMI",
       "url": "https://open.spotify.com/track/2yO5zPoQEMkPL3Zau9V8aw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SEN2 KBRN VOL. 2",
-        "url": "https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 156295,
-      "name": "Caras Vemos",
-      "url": "https://open.spotify.com/track/6NSt2HFIMe5dEDo7Aq2Tf5"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1vjvZkoc8FZz26axllh6yD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CULTO",
         "url": "https://open.spotify.com/album/1tcNhqApgkYeWauEew4d4Y"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 185750,
       "name": "R.I.C.O",
       "url": "https://open.spotify.com/track/5zMwqE48oeMWUOzdmSd6Od"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1vjvZkoc8FZz26axllh6yD"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

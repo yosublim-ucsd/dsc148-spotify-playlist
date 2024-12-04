@@ -1,6 +1,6 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 36341,
+  "num_followers": 36373,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-11-29 09:01:55",
       "album": {
-        "name": "Proof Of Life (Deluxe)",
-        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 171700,
-      "name": "Black Car",
-      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
-    },
-    {
-      "added_at": "2024-11-29 09:01:55",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2024-11-29 09:01:55",
       "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
       },
       "artists": [
         {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
     },
     {
       "added_at": "2024-11-29 09:01:55",
@@ -591,6 +575,22 @@
       "duration_ms": 172000,
       "name": "These Days",
       "url": "https://open.spotify.com/track/42KrZrk0IG0zFPzVkRNqh0"
+    },
+    {
+      "added_at": "2024-11-29 09:01:55",
+      "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
       "added_at": "2024-11-29 09:01:55",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-11-29 09:01:55",
       "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 138034,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
-    },
-    {
-      "added_at": "2024-11-29 09:01:55",
-      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
@@ -747,22 +731,6 @@
     {
       "added_at": "2024-11-29 09:01:55",
       "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Different Pattern",
-      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
-    },
-    {
-      "added_at": "2024-11-29 09:01:55",
-      "album": {
         "name": "DKT",
         "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
       },
@@ -775,6 +743,38 @@
       "duration_ms": 138181,
       "name": "DKT",
       "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
+    },
+    {
+      "added_at": "2024-11-29 09:01:55",
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 138034,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
+    },
+    {
+      "added_at": "2024-11-29 09:01:55",
+      "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Different Pattern",
+      "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
     },
     {
       "added_at": "2024-11-29 09:01:55",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-11-29 09:01:55",
       "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 205191,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
+    },
+    {
+      "added_at": "2024-11-29 09:01:55",
+      "album": {
         "name": "Bodija / Folake",
         "url": "https://open.spotify.com/album/727mYtqwlNLWyE95SaEEzF"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 221399,
       "name": "Live Life",
       "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
-    },
-    {
-      "added_at": "2024-11-29 09:01:55",
-      "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/0vyg6EqfMiu45hQzFmi0YF"
     }
   ],
   "unique_name": "Sound Semester ",

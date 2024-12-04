@@ -4,7 +4,7 @@
 
 > gigi perez is only getting started
 
-3,097 songs - 6 day 23 hr 55 min
+3,099 songs - 7 day 0 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -905,6 +905,7 @@
 | [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2024-01-03 | 2024-10-19 |
 | [Far Away](https://open.spotify.com/track/0Y4xg5612xZ3vAgWEkMjw3) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Far Away](https://open.spotify.com/album/6SqaQ1JdHWMK2BJQcrXWYq) | 3:05 | 2021-04-24 | 2021-12-02 |
 | [Faraway](https://open.spotify.com/track/0Q4PkMbhBDSS5jBaPm4ZmH) | [Ruben Dawnson](https://open.spotify.com/artist/4TyxwOt2w5n4gNtGRwUMKy) | [Faraway](https://open.spotify.com/album/3DKLTzynscOG3Ix88stW5S) | 2:27 | 2019-10-30 | 2020-02-05 |
+| [Fauxllennium](https://open.spotify.com/track/6m7cJtdIvS7AiL7QvyOHwS) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Fauxllennium](https://open.spotify.com/album/6exBK52toUpg3zj2Gog3K1) | 3:08 | 2024-12-03 |  |
 | [Favorite Drug](https://open.spotify.com/track/18ZjYJcgFWiBhnvFzh5m3N) | [daydream Masi](https://open.spotify.com/artist/7d1ybPEhoZkeQhKHIyl9U9) | [13 Reasons Why \(Season 3\)](https://open.spotify.com/album/1zbH0DnpYxaoqTojXNLQb6) | 3:29 | 2019-08-30 | 2019-10-11 |
 | [Favors](https://open.spotify.com/track/1BBZlU3fsvpVRiwLO16Aoe) | [Renny Conti](https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY) | [Favors](https://open.spotify.com/album/5AR8I2iwdSOM5HiiDHy9Lg) | 2:44 | 2022-07-29 | 2022-10-13 |
 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 | 2023-08-25 | 2023-11-11 |
@@ -1090,7 +1091,7 @@
 | [Good Grief](https://open.spotify.com/track/7rUytGRv5slfSodhCQQaKf) | [Mad Honey](https://open.spotify.com/artist/1ChYxmoAiT0FOTA0MPJ7DV) | [Good Grief](https://open.spotify.com/album/10pyN4NN0zIgFs18vYupTW) | 3:47 | 2021-07-17 | 2021-08-14 |
 | [Good Looking \(Stripped\)](https://open.spotify.com/track/0ufGu1NoCEIpGkBcF1dT6g) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:37 | 2022-08-12 | 2023-04-15 |
 | [Good Looking \(Stripped\)](https://open.spotify.com/track/5LCX1wM1PVSbAdMZOMWF6j) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/44y89J6pXeVRJbEjcjQVu2) | 3:38 | 2022-08-12 | 2022-11-03 |
-| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-05 |  |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-05 | 2024-12-04 |
 | [Good Stuff](https://open.spotify.com/track/1aFPbPKOfsfgdZMmF3PQqt) | [Bnny](https://open.spotify.com/artist/5WrIiG2BnDY2kouJxzQPsh) | [Good Stuff](https://open.spotify.com/album/0UaN6Vd5pxhNe44APBIUUu) | 3:03 | 2024-01-26 | 2024-02-23 |
 | [Good Time](https://open.spotify.com/track/3AHTWM55Eg8QY3u91VJEzZ) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Good Time](https://open.spotify.com/album/0mP4FWMK4wPnA3WCH6VxTz) | 2:13 | 2023-03-15 | 2023-04-09 |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-09 | 2024-01-11 |
@@ -1359,6 +1360,7 @@
 | [I'm Like A Bird](https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:03 | 2023-05-19 | 2023-07-29 |
 | [i'm not okay](https://open.spotify.com/track/6sGmjMijzgbktRspSvYXUk) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 2:54 | 2021-12-01 | 2022-01-08 |
 | [i'm not okay](https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [i'm not okay](https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa) | 2:54 | 2021-03-14 | 2021-06-05 |
+| [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 | 2024-12-03 |  |
 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 | 2021-03-14 | 2021-04-02 |
 | [I'm Your Dog](https://open.spotify.com/track/3jSJoKiJ0rxOf3sM60Iat6) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Piano](https://open.spotify.com/album/5frL9kThqoY2hDXyoJ3nhX) | 3:03 | 2019-08-08 | 2019-08-21 |
 | [I'm Yours](https://open.spotify.com/track/4zMx72lMg0PytbVzTwd0Oe) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [I'm Yours](https://open.spotify.com/album/17mtviWhSTKrsZjMHQRW1w) | 3:54 | 2019-07-30\* | 2019-10-10 |
@@ -1489,7 +1491,7 @@
 | [Keeping Busy](https://open.spotify.com/track/5g3InejbvUCMmZUOyVvRQb) | [Isaac Lewis](https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO) | [Keeping Busy](https://open.spotify.com/album/7kpYhAqLTJG0syod9gl9Xh) | 2:52 | 2020-04-22 | 2020-05-14 |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-05-03 | 2021-08-14 |
 | [Kickback](https://open.spotify.com/track/5MZQIjtghyFc4sMVUzD7MD) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 2:51 | 2019-10-04 | 2020-04-09 |
-| [Kid Muscle](https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Kid Muscle](https://open.spotify.com/album/7d47jgsqR9eeNMkN2hljXz) | 5:11 | 2024-08-07 |  |
+| [Kid Muscle](https://open.spotify.com/track/7t0XbjgX6diwEjOHW2LxwC) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Kid Muscle](https://open.spotify.com/album/7d47jgsqR9eeNMkN2hljXz) | 5:11 | 2024-08-07 | 2024-12-04 |
 | [Kids](https://open.spotify.com/track/0IFOOOi6001JpVTBbkbLNC) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/5LF0FgPNp2ImHWV8P6ZkCx) | 3:41 | 2022-06-10 | 2022-07-30 |
 | [Kids Driving The Elevator](https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI) | [Micah Preite](https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg) | [Kids Driving The Elevator](https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO) | 3:01 | 2023-07-19 | 2023-08-16 |
 | [Kill For You](https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:44 | 2023-04-28 | 2023-08-26 |
@@ -1563,7 +1565,7 @@
 | [Letters from the Imaginary](https://open.spotify.com/track/5rRYQZ9JY4wawp2n2sdk3G) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [An Orange Colored Day](https://open.spotify.com/album/5nS7yXoaIU2y6xZ6I8hm8o) | 2:41 | 2022-10-08 | 2022-12-08 |
 | [Level Head](https://open.spotify.com/track/5lBsVrEkjH2a76DG6ZFeLp) | [Tycho Jones](https://open.spotify.com/artist/040Wu7p6ehPK6ozMgKd5dm) | [Level Head](https://open.spotify.com/album/2ejrBQwJFtyCepDGw0KfKA) | 3:58 | 2020-11-18 | 2021-01-12 |
 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 | 2021-06-11 | 2021-06-18 |
-| [Lie](https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lie](https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA) | 2:57 | 2024-09-06 |  |
+| [Lie](https://open.spotify.com/track/1iq34aL9nrL4qb8MjB1Kxn) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lie](https://open.spotify.com/album/6EGjjJwGEqPTZnVcTXoFHA) | 2:57 | 2024-09-06 | 2024-12-04 |
 | [Lied](https://open.spotify.com/track/2zMam0ako2pjGgN8jKtypU) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Lied](https://open.spotify.com/album/6UKZqCRQx6FgJNYihzbJa3) | 2:58 | 2020-08-15 | 2020-12-23 |
 | [Life Inside](https://open.spotify.com/track/2tpA4UByrUKHRCaSiS0eno) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Life Inside](https://open.spotify.com/album/0apJiS68nSoiEOpcrCn2dC) | 3:36 | 2020-04-24 | 2021-01-12 |
 | [life is funny](https://open.spotify.com/track/1gvnmAf6mXyT8dsZmv5y70) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:26 | 2022-04-11 | 2022-04-23 |
@@ -2359,7 +2361,7 @@
 | [sink](https://open.spotify.com/track/5smvhXxq6FpGKNJIqwOetD) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [sink](https://open.spotify.com/album/2Vj2TUjMOqVpbieeKGD2v9) | 2:32 | 2022-04-01 | 2022-04-23 |
 | [SINK 2 RISE](https://open.spotify.com/track/4T5pNXPHnwaBkeHhsc5OoU) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Gap Year!](https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy) | 2:37 | 2024-09-20 |  |
 | [Sinking Boat](https://open.spotify.com/track/1jvOjD7K9707WeA99qWyNC) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 2:56 | 2024-09-20 |  |
-| [Sinking Plastic Suns](https://open.spotify.com/track/4Iin77CWpqNCNNtKUmTsUj) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 3:17 | 2024-06-21 |  |
+| [Sinking Plastic Suns](https://open.spotify.com/track/4Iin77CWpqNCNNtKUmTsUj) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [The Sweater Club](https://open.spotify.com/album/73lkqaVOVZnVMHi2ZYrY0N) | 3:17 | 2024-06-21 | 2024-12-04 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-07-07 | 2023-07-29 |
 | [sipping on tea](https://open.spotify.com/track/6it6nLTAb1FLj1cgX8xJLc) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [sipping on tea](https://open.spotify.com/album/00JLufnwROE7lUUCgurhXp) | 2:41 | 2021-12-10 | 2022-03-05 |
 | [sippy cup](https://open.spotify.com/track/3nCyuYVn30IL3oQaXfvXzx) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [sippy cup](https://open.spotify.com/album/4Vc4GGfy2BBbPboYn3Zx4y) | 1:34 | 2020-10-13 | 2020-11-27 |

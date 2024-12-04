@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 
 > lay back\. chill out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,971 likes - 80 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,068 likes - 80 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 55 | [Coastin’](https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Coastin’](https://open.spotify.com/album/6PVTVZo9iYmpcQucpIN9Kr) | 2:55 |
 | 56 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 |
 | 57 | [My First Love](https://open.spotify.com/track/1y2wM4Qxn27EOsQnhHYA3Q) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A), [KeKe Wyatt](https://open.spotify.com/artist/0KWcq2E8ejxp78jdfpCd4K) | [My Thoughts](https://open.spotify.com/album/6dt3CBDoU2ae7JDSipqXdf) | 4:28 |
-| 58 | [Sweet Lies](https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Sweet Lies](https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q) | 3:41 |
-| 59 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
+| 58 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
+| 59 | [Sweet Lies](https://open.spotify.com/track/3prJqrOhgJnMZI9nN4nvBg) | [Qendresa](https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI) | [Sweet Lies](https://open.spotify.com/album/64yAldhfu8FAY9XWpca16Q) | 3:41 |
 | 60 | [That's What I Love](https://open.spotify.com/track/6qxPXbJammkI5JkjVctXED) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [That's What I Love](https://open.spotify.com/album/4AO7lU5M0Zj4aWOaZFCj93) | 3:46 |
 | 61 | [Orange Moon](https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 7:10 |
 | 62 | [I’ll Go Anywhere](https://open.spotify.com/track/2K4XkJgiPjUGtnwSIM6xxi) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Dunya](https://open.spotify.com/album/16sGrLUTzqz0Z43j9qMn8S) | 2:34 |
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEZt3tTR001.md) - [plain]
 | 68 | [that's how it goes](https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [that's how it goes](https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap) | 3:59 |
 | 69 | [By Your Side \(Neptunes Remix\) \- Remastered](https://open.spotify.com/track/3kprgvuvboBSSrLz9qI4Yt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 3:59 |
 | 70 | [Soul Sista](https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 5:18 |
-| 71 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
-| 72 | [Fortune Eyes](https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Fortune Eyes](https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr) | 2:22 |
+| 71 | [Fortune Eyes](https://open.spotify.com/track/283RgDyFjmpN7vVKOEVoqC) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Fortune Eyes](https://open.spotify.com/album/1dJrWZOEKfcObcWLSpMTzr) | 2:22 |
+| 72 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 | 73 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 |
 | 74 | [Supernatural](https://open.spotify.com/track/5uwlYbJ8xovXnbTL0TaItp) | [Vaughn](https://open.spotify.com/artist/6V2CwJ2e1JOQLKlrFXJ259) | [Supernatural](https://open.spotify.com/album/0NIqLdZS16xSe11Tk1gabP) | 4:01 |
 | 75 | [Inside My Love \- Remastered](https://open.spotify.com/track/7yngji6ogBXvAJdeOSBHAP) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Adventures In Paradise](https://open.spotify.com/album/0OoRiTZs9hsRz7KxB8JkSX) | 4:48 |
 | 76 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
 | 77 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 |
 | 78 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
-| 79 | [Simply Beautiful](https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Simply Beautiful](https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc) | 4:18 |
-| 80 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 |
+| 79 | [Here To Stay](https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Here To Stay](https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA) | 3:22 |
+| 80 | [Simply Beautiful](https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Simply Beautiful](https://open.spotify.com/album/6kYamSMXOBgysbJwvjNBjc) | 4:18 |
 
 Snapshot ID: `Z0UWvgAAAABpjCym3a2pjq6gfrECzPR9`

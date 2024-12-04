@@ -1299,6 +1299,28 @@
     },
     {
       "album": {
+        "name": "Hasrat dan Jiwaku",
+        "url": "https://open.spotify.com/album/550PBeRGKHGgTg2Lh8DHnC"
+      },
+      "artists": [
+        {
+          "name": "Diskoria",
+          "url": "https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG"
+        },
+        {
+          "name": "Ayu Gani",
+          "url": "https://open.spotify.com/artist/3Fnj32iwvgoDyjGpeStWgm"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268735,
+      "name": "Hasrat dan Jiwaku",
+      "url": "https://open.spotify.com/track/4oD4GqgvX4fGZVfK1gnGR8"
+    },
+    {
+      "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
       },

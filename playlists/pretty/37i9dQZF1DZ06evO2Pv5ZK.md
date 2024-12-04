@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,252 likes - 48 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,275 likes - 46 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 44 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
 | 45 | [Main Theme \- From "Chariots of Fire"](https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 5:26 |
 | 46 | [Dream in an Open Place](https://open.spotify.com/track/2Jbdcc1ZSqOBGhLEtoiLuh) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Voices](https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f) | 5:56 |
-| 47 | [L'ours musicien \- Remastered](https://open.spotify.com/track/52bPjLwQ91weMD1gL13tBM) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 1:05 |
-| 48 | [Twilight](https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [The City](https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r) | 4:57 |
 
-Snapshot ID: `Z0unAAAAAACIgh9Hfc781HhS0JPmaGfa`
+Snapshot ID: `Z0z4gAAAAADGJmu4jttfslOAdT2bIxcP`

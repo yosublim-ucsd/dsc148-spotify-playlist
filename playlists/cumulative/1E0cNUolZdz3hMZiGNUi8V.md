@@ -4,7 +4,7 @@
 
 > 🔥 All the hottest hip hop tracks in one spot!
 
-177 songs - 8 hr 26 min
+178 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Free Wick](https://open.spotify.com/track/7BBbngyjrCsnyrIR5daQ0F) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [GMTO Vol\. 2 \(Get Money Take Over\)](https://open.spotify.com/album/4Rlq4phDZy1DmoL1S7WOws) | 2:05 | 2024-03-08 |  |
 | [From A Man](https://open.spotify.com/track/3CUMd8XMv3LBSLrDrKoXQE) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [From A Man](https://open.spotify.com/album/3Ut8zKJlqFVRMqwcAww9bP) | 3:27 | 2023-11-03 | 2024-01-13 |
 | [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-11-03 |  |
+| [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 | 2024-12-03 |  |
 | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [GEEKALEEK \(feat\. BIA\)](https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH) | 2:08 | 2024-02-16 |  |
 | [GEEKED UP \(FEAT\. YEAT\)](https://open.spotify.com/track/16vvJmnrondzmZjEBThA0T) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [HARDSTONE PSYCHO](https://open.spotify.com/album/55S2SOsWCYekWJtJ8LwVqV) | 2:37 | 2024-07-06 |  |
 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 | 2024-07-06 |  |

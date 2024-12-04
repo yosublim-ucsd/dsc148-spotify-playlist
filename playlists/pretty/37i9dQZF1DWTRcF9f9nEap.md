@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,779 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,817 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 4 | [Jessica](https://open.spotify.com/track/2tVQhBSJ1SQtb4gX0taaiR) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 7:30 |
 | 5 | [Catch Hell Blues](https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:18 |
 | 6 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
-| 7 | [You Gotta Move](https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:20 |
-| 8 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 |
+| 7 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 |
+| 8 | [You Gotta Move](https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:20 |
 | 9 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 |
 | 10 | [Dark Was the Night, Cold Was the Ground](https://open.spotify.com/track/2P9nh9pTK96dE0b6NBbTSs) | [Blind Willie Johnson](https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ) | [Dark Was The Night \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt) | 3:18 |
 | 11 | [I Can't Be Satisfied](https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:42 |
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 19 | [Devil's Slide](https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Don't Let The Bossman Get You Down!](https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb) | 2:56 |
 | 20 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
 | 21 | [I Got the Cross the River Jordan](https://open.spotify.com/track/4vqDFur1cyE8lS1oD3XiCB) | [Blind Willie McTell](https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6) | [Atlanta Twelve String](https://open.spotify.com/album/3T9YA3PGLGDlybxgdnNzZ7) | 4:00 |
-| 22 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
+| 22 | [Available Space](https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Ry Cooder](https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd) | 2:14 |
 | 23 | [Old Friend](https://open.spotify.com/track/5TX4HB4ndwJCxoD3FWEIQx) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Hittin' the Note](https://open.spotify.com/album/2rZfqnJBkKxjOK1RsZfPpL) | 6:12 |
-| 24 | [Available Space](https://open.spotify.com/track/439kdOcVhEp5gQ67eYNkKG) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Ry Cooder](https://open.spotify.com/album/6GbhRC2huYcTVGf4TOXVqd) | 2:14 |
+| 24 | [Find a Way](https://open.spotify.com/track/4PTfrK6IhnTOd7SRpH17EK) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/2WWqqmFSB4jFEnnRwngeSB) | 3:56 |
 | 25 | [The Sky Is Crying](https://open.spotify.com/track/0qRz3AYteD6VX65GkBqcel) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Moneymaker: The Best of the Fire Sessions](https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj) | 2:46 |
 | 26 | [Congo Square](https://open.spotify.com/track/5MknKDH6Zh81k93y7YU6w6) | [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [South Of I\-10](https://open.spotify.com/album/3bmO15uks5XJehH4HVfjRO) | 6:20 |
 | 27 | [Down On The Farm](https://open.spotify.com/track/0dDjBeUnkgwFJIym4rhhR2) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Hubcap Music](https://open.spotify.com/album/2M9xzSsGMgTr2kVjlkbpBT) | 3:50 |

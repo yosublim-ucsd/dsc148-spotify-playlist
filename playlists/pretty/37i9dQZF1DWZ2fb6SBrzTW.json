@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 39877,
+  "num_followers": 39985,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,26 @@
     {
       "added_at": "2024-11-29 08:46:36",
       "album": {
+        "name": "Toma Toma",
+        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Toma Toma",
+      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
+    },
+    {
+      "added_at": "2024-11-29 08:46:36",
+      "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
       },
@@ -131,26 +151,6 @@
       "duration_ms": 203571,
       "name": "Tshwala Bam (feat. S.N.E)",
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Toma Toma",
-        "url": "https://open.spotify.com/album/4o6yKd0pkk355Ttn7uyiDS"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Toma Toma",
-      "url": "https://open.spotify.com/track/40t1l3IPtEIjlhAUPxn7jd"
     },
     {
       "added_at": "2024-11-29 08:46:36",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-11-29 08:46:36",
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
         "name": "Pawon Boy Vol.1",
         "url": "https://open.spotify.com/album/5dOM4EFOJqqWwK61p7NHO6"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 135652,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/3tH6wzTJ1IdlBoMJh6oG8a"
+    },
+    {
+      "added_at": "2024-11-29 08:46:36",
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
       "added_at": "2024-11-29 08:46:36",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-11-29 08:46:36",
       "album": {
+        "name": "Pullover",
+        "url": "https://open.spotify.com/album/3tCwy6XbsVDTTq3Tif01Lx"
+      },
+      "artists": [
+        {
+          "name": "sabrina",
+          "url": "https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 193835,
+      "name": "Pullover",
+      "url": "https://open.spotify.com/track/4mY467JUAY6RYm4NkuuBDc"
+    },
+    {
+      "added_at": "2024-11-29 08:46:36",
+      "album": {
         "name": "Komasava (Comment \u00c7a Va) [feat. Khalil Harrison, Chley Nkosi] [Remix]",
         "url": "https://open.spotify.com/album/4ACYyDQVF6TML1G4ge3IAs"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 176000,
       "name": "Monica",
       "url": "https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B"
-    },
-    {
-      "added_at": "2024-11-29 08:46:36",
-      "album": {
-        "name": "Pullover",
-        "url": "https://open.spotify.com/album/3tCwy6XbsVDTTq3Tif01Lx"
-      },
-      "artists": [
-        {
-          "name": "sabrina",
-          "url": "https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 193835,
-      "name": "Pullover",
-      "url": "https://open.spotify.com/track/4mY467JUAY6RYm4NkuuBDc"
     },
     {
       "added_at": "2024-11-29 08:46:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 
 > This is BIGBANG\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,860 likes - 51 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,055 likes - 51 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 2 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 |
 | 3 | [Haru Haru](https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Stand Up](https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto) | 4:16 |
 | 4 | [Blue](https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:53 |
-| 5 | [FANTASTIC BABY \- Japanese ver.](https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM) | 3:51 |
-| 6 | [IF YOU](https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 4:24 |
-| 7 | [Lies](https://open.spotify.com/track/54SpjxPioot7g7hVfbrXHh) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:49 |
+| 5 | [Lies](https://open.spotify.com/track/54SpjxPioot7g7hVfbrXHh) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:49 |
+| 6 | [LET'S NOT FALL IN LOVE](https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:31 |
+| 7 | [FANTASTIC BABY \- Japanese ver.](https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM) | 3:51 |
 | 8 | [Bad Boy](https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:56 |
 | 9 | [FLOWER ROAD](https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [FLOWER ROAD](https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx) | 3:48 |
-| 10 | [LET'S NOT FALL IN LOVE](https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:31 |
+| 10 | [IF YOU](https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 4:24 |
 | 11 | [Monster](https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Special Edition 'Still Alive'](https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X) | 3:51 |
 | 12 | [Sunset Glow](https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 3:24 |
 | 13 | [Tonight](https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [BIGBANG Special Edition](https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl) | 3:43 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MKBFK.md) - [plain]
 | 50 | [Foolish Love](https://open.spotify.com/track/3zXL187ljM6hMO5PdhmjFk) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Remember](https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg) | 4:01 |
 | 51 | [SUPER STAR \- BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/track/2GrmNtTCulwxR9lk8NQBAD) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [BIGBANG JAPAN DOME TOUR 2017 \-LAST DANCE\- : THE FINAL](https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB) | 4:04 |
 
-Snapshot ID: `Z0unAAAAAAAfj607GWUDSLU73KnnEaHg`
+Snapshot ID: `Z0z4gAAAAABSny3UvCJzufh9/PjTam7C`

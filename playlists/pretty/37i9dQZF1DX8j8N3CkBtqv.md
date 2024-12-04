@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover \- Vismay Patel
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,913 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,914 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 2 | [Sukoon](https://open.spotify.com/track/5UNxdMgOfVybQcqC70Iij8) | [SHAHI](https://open.spotify.com/artist/37jIu8068iik4NKht4gl92), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Deep](https://open.spotify.com/artist/0z7tFsnGUC5AmOISD1cATs) | [Sukoon](https://open.spotify.com/album/4Ph81Y9WbRh5iBEJTPJq4q) | 3:10 |
 | 3 | [Tum Ho Toh](https://open.spotify.com/track/2LUY01YYiSU1LxoyX1ERwQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Tum Ho Toh](https://open.spotify.com/album/5TUa65Q467b458wmCXw1wb) | 2:51 |
 | 4 | [Keh Do Na Tum](https://open.spotify.com/track/2OYu3zKB2qH4zAuf1nlOCj) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Keh Do Na Tum](https://open.spotify.com/album/6nsTD96jwEeOFzH47XSlrz) | 2:14 |
-| 5 | [Rozaana](https://open.spotify.com/track/1oGSv6ohmyxzoLkS65Heic) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Rozaana](https://open.spotify.com/album/0LZ0J0uxtSPbBbW05n42gZ) | 3:20 |
+| 5 | [Rozaana](https://open.spotify.com/track/1oGSv6ohmyxzoLkS65Heic) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Rozaana](https://open.spotify.com/album/0LZ0J0uxtSPbBbW05n42gZ) | 3:20 |
 | 6 | [Shikwe Gile \- Live](https://open.spotify.com/track/1iJz2tL0JkK7Q2HjJKUzli) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shikwe Gile \(Live\)](https://open.spotify.com/album/0q1R5J48FwvvLT2HW3RW0a) | 2:32 |
 | 7 | [I Will Be Here](https://open.spotify.com/track/1VkJx1MZeYYQk8MhWwqN5O) | [Abdon Mech](https://open.spotify.com/artist/7GY6RgfJdJDs2euNW5Scv4) | [I Will Be Here](https://open.spotify.com/album/6wv1Z2OYouUgSDwMWMxJvI) | 2:35 |
 | 8 | [It's OK](https://open.spotify.com/track/2JMuletO0l8LK3LiKc3DTZ) | [RUUH](https://open.spotify.com/artist/70OyR3fSaGkXpkr1hMm9KQ), [JOH](https://open.spotify.com/artist/6chON6pmc2A5MZ2g4oDrNk) | [It's OK](https://open.spotify.com/album/72Ydb5jLfCwJdpuvQ3OEjz) | 2:01 |

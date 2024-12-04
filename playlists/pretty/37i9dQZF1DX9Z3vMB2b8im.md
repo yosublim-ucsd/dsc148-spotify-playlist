@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 
 > Songs so beautiful, they'll stop you in your tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,300,068 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,300,111 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 34 | [One Last Song](https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [One Last Song](https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl) | 3:29 |
 | 35 | [peace](https://open.spotify.com/track/6rTUr8OpU5kcSqLGL2TmyR) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv) | 3:54 |
 | 36 | [Joyride \(home demo\)](https://open.spotify.com/track/1crXwNM34nG0P3c55HvqtY) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Joyride \(home demo\)](https://open.spotify.com/album/1a9vLDB7fm36N1EeJe7gV6) | 3:44 |
-| 37 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
-| 38 | [Tell Somebody](https://open.spotify.com/track/4X3hEZz6tBEhXEjwcN0I6J) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:10 |
-| 39 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
+| 37 | [Tell Somebody](https://open.spotify.com/track/4X3hEZz6tBEhXEjwcN0I6J) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Heavy Heavy](https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD) | 3:10 |
+| 38 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
+| 39 | [House Song](https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [House Song](https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2) | 4:54 |
 | 40 | [The Art Of Letting You Go](https://open.spotify.com/track/5p86enU64v23LqQQvuHI0u) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [The Art Of Letting You Go](https://open.spotify.com/album/1eM98YrNz3gwLsnMrvFBHU) | 3:33 |
 | 41 | [Baghdad](https://open.spotify.com/track/7rOXvlA2T7jDETJ107zZW0) | [Flo Perlin](https://open.spotify.com/artist/2M9I6kX9POMfrxPfePZh05) | [Baghdad](https://open.spotify.com/album/4Dz25Hgxa02gqv0D6ZTbqk) | 3:26 |
 | 42 | [i went outside](https://open.spotify.com/track/6kV6ZzRW1h7I6eU9910mvJ) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [i went outside](https://open.spotify.com/album/0V6oGX0dgiLotHW6DwEF4F) | 4:53 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Z3vMB2b8im.md) - [plain]
 | 62 | [Future History](https://open.spotify.com/track/2S1K6UlJ0hSOGcG8gCgt9m) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Future History](https://open.spotify.com/album/1fk0AaDbZMUX4z4PQNwkfr) | 4:05 |
 | 63 | [The World Turns](https://open.spotify.com/track/2QDe9NxlEQRlYE9rqja2Gj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [The World Turns](https://open.spotify.com/album/6pU7eZ9plEaMsCEjF3Y2kQ) | 4:21 |
 | 64 | [New Song](https://open.spotify.com/track/6Q2GRktbOgmybP2059YCON) | [Alice Markham](https://open.spotify.com/artist/0viOQf13dGxRShlPyas36o) | [New Song](https://open.spotify.com/album/1A7PuF5JRWQ7gQwOScTeMY) | 4:36 |
-| 65 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
-| 66 | [It Takes Time](https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [It Takes Time](https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U) | 3:20 |
+| 65 | [It Takes Time](https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS) | [Fairhazel](https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn) | [It Takes Time](https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U) | 3:20 |
+| 66 | [Someone Like You 2](https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP) | [Malaki](https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF), [Matthew Harris](https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij) | [Someone Like You 2](https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj) | 3:05 |
 | 67 | [Garden Of England](https://open.spotify.com/track/3niX005MakToUal5nk3x9M) | [Mitch Sanders](https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf) | [Garden Of England](https://open.spotify.com/album/1l3RkCJDJQQcEe3He0VPhZ) | 4:33 |
 | 68 | [Forever For Now](https://open.spotify.com/track/36wyK4BQLsL2wy3gWCgz4F) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Joshua](https://open.spotify.com/album/07POYRnUQ5sXuJEAy1x8hQ) | 4:13 |
 | 69 | [Like I Used To](https://open.spotify.com/track/4EWvA59SKYHIOdMpfv6JNP) | [Lily Lyons](https://open.spotify.com/artist/5YKAGYFz84gLEI7rAFpIpX) | [Like I Used To](https://open.spotify.com/album/5TZg7JUKQEvzxj0G6NdIXe) | 2:40 |

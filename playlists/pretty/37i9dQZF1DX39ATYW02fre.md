@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 
 > Beautiful electronic music for melancholy moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,627 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,738 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 28 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 | 29 | [Two Thousand and Seventeen](https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 4:12 |
 | 30 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
-| 31 | [Flower](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [AURIq](https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Flower](https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV) | 2:30 |
-| 32 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
+| 31 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
+| 32 | [Flower](https://open.spotify.com/track/3SVrwH9pxAtdi22rTngLDh) | [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk), [AURIq](https://open.spotify.com/artist/35G9mRtwWK47IdT0hzApKI), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Flower](https://open.spotify.com/album/5LBSCKaOOCvMBWqu9iYcLV) | 2:30 |
 | 33 | [Glasshouse \(feat\. Julia Church\)](https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Cold Enough For Snow](https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi) | 4:11 |
 | 34 | [Favourite Place](https://open.spotify.com/track/36bQ9KQlmwNZnccm7MMjjP) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Favourite Place](https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1) | 3:00 |
 | 35 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good To Me \(Remixes\)](https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV) | 2:38 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39ATYW02fre.md) - [plain]
 | 47 | [Boat Party](https://open.spotify.com/track/76LSTQnzVbqkJ8oC0L8sF1) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Boat Party](https://open.spotify.com/album/50LTrS38kEhwzD2Gbszn9V) | 2:55 |
 | 48 | [Dreaming \(feat\. Bruno Major\)](https://open.spotify.com/track/6S9f7k7SeqwkId3qaALw0r) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [Dark](https://open.spotify.com/album/1y30DpERmej6O4v9wOYYla) | 3:53 |
 | 49 | [Portals](https://open.spotify.com/track/0BFS2F5jFxdXvDjRMRqMol) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Portals](https://open.spotify.com/album/5adnCfF1eUOhEnx5F5DAqW) | 3:51 |
-| 50 | [Ghosts](https://open.spotify.com/track/7GT3Wx3bZFE9gDwRqat0Tx) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Ghosts](https://open.spotify.com/album/7qsfQ7phMfTmrS57H3ssZl) | 4:14 |
+| 50 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 
 Snapshot ID: `ZyQaPAAAAABNFKG1Wc5+AyDrXsBBCjO6`

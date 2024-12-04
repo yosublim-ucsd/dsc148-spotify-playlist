@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,889 likes - 76 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,897 likes - 76 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 7 | [LABOUR \(Telugu\)](https://open.spotify.com/track/5a80e41LbpBreejyJlQTkY) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Ananya Sritam Nanda](https://open.spotify.com/artist/5LEB7FszyBm9WvEwtbJeKS) | [LABOUR \(Telugu\)](https://open.spotify.com/album/07K6LgY8VG8guTJzrSwOkB) | 5:11 |
 | 8 | [Vidipothe](https://open.spotify.com/track/6lxj734hdJUn9bNyH9g3gr) | [Rohith Samuel Ganta](https://open.spotify.com/artist/1FbFPqgM6s7d9kWriJcgHC) | [Vidipothe](https://open.spotify.com/album/2f7j5zS8Nz26KCUAW5iuUt) | 4:04 |
 | 9 | [Style \- Maati S1](https://open.spotify.com/track/19KVxEylhMbJ0tF4HSTZGs) | [Ajay Jayanthi](https://open.spotify.com/artist/3t7ETdfx920byltqt7vKI1), [Prateek Naganatham](https://open.spotify.com/artist/7x5gokOMGW3Ipsyh7AMdQT), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h) | [Style \(Maati S1\)](https://open.spotify.com/album/76lV7F4gIKw9rY14cI89FO) | 3:04 |
-| 10 | [Yegase Alale Aagenu](https://open.spotify.com/track/7GD712DrdONrL5ukngdkXQ) | [Soujanya Bhagavatula](https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt) | [Yegase Alale Aagenu](https://open.spotify.com/album/2zqZOHHk3j8hf4trL0Oiok) | 4:11 |
+| 10 | [Yegase Alale Aagenu](https://open.spotify.com/track/7GD712DrdONrL5ukngdkXQ) | [Soujanya Bhagavatula](https://open.spotify.com/artist/31UYKXflHGE5QEAc2U6mBt), [Raghuvamsh Chavali](https://open.spotify.com/artist/1VYnAE0vhSRFOUQuz5X1FU), [Alamkrutha Gamini](https://open.spotify.com/artist/2JsVr10Bm0QrEdFXn5oybN) | [Yegase Alale Aagenu](https://open.spotify.com/album/2zqZOHHk3j8hf4trL0Oiok) | 4:11 |
 | 11 | [Naa Kannula Mungitlo](https://open.spotify.com/track/0AkJ9Jxl5maFX52ObFimk4) | [Yamini Gowribhatla](https://open.spotify.com/artist/09eHXlBRFrtxi4kSKTnJUl), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Naa Kannula Mungitlo](https://open.spotify.com/album/2bMW2uDJtNrGiHVoWxZ7OA) | 4:25 |
 | 12 | [Kale Theera](https://open.spotify.com/track/7FH3bPecMXGlkwHXuDZDW7) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN) | [Kale Theera](https://open.spotify.com/album/2kpqsxK48MoF2OF29DZBcZ) | 3:29 |
 | 13 | [SMILE](https://open.spotify.com/track/0EBWSWotjdbyB719e4wXaT) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [SMILE](https://open.spotify.com/album/7baTThbApOZvuoLI7D7fYh) | 2:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 
 > a strictly smooth mood...cover: Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,929 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,991 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 | 13 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
 | 14 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |
 | 15 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 |
-| 16 | [gen z luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [gen z luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
-| 17 | [So High](https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [So High](https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT) | 3:21 |
+| 16 | [So High](https://open.spotify.com/track/2qyhy9ndo8tTGMzXeHTisR) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [So High](https://open.spotify.com/album/3VZiexdNV9MFUGDg2gFakT) | 3:21 |
+| 17 | [gen z luv](https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [gen z luv](https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI) | 2:33 |
 | 18 | [Nikes](https://open.spotify.com/track/19YKaevk2bce4odJkP5L22) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:14 |
 | 19 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 |
 | 20 | [Sex With Me](https://open.spotify.com/track/7BiELrM90hRxpozaIXbsLw) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:26 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdF2fNg82Z7l.md) - [plain]
 | 53 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
 | 54 | [Masterpiece](https://open.spotify.com/track/07qj9w93jk1eA2TGAd6kxj) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 5:44 |
 | 55 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
-| 56 | [Sick \(feat\. 4batz\)](https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Sick \(feat\. 4batz\)](https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz) | 3:40 |
-| 57 | [WYA](https://open.spotify.com/track/0pWe6arB3oGxI8msYHObbA) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [WYA](https://open.spotify.com/album/7I5lABeFEjFJcdgrVltGr7) | 2:16 |
+| 56 | [WYA](https://open.spotify.com/track/0pWe6arB3oGxI8msYHObbA) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [WYA](https://open.spotify.com/album/7I5lABeFEjFJcdgrVltGr7) | 2:16 |
+| 57 | [Sick \(feat\. 4batz\)](https://open.spotify.com/track/3V8Cz6eVyTUCBWooVwNvR3) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [Sick \(feat\. 4batz\)](https://open.spotify.com/album/1Ck8Mdp83P8zUoqAlFpVzz) | 3:40 |
 | 58 | [TWIST & TURN \(feat\. Drake & PARTYNEXTDOOR\)](https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [FIXTAPE](https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi) | 4:19 |
 | 59 | [Work Me Out \(with Wizkid\)](https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:42 |
 | 60 | [Woman](https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW) | 4:29 |

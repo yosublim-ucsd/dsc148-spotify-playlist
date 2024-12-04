@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 
 > Country tracks to get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,502 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,572 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 23 | [Mama's Broken Heart](https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Four The Record](https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m) | 2:57 |
 | 24 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
 | 25 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 |
-| 26 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
-| 27 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 |
+| 26 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 |
+| 27 | [Heart On Fire](https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Heart](https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt) | 4:18 |
 | 28 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 |
 | 29 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 |
 | 30 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SzDYPXnP1a.md) - [plain]
 | 46 | [Heartbroken \- Jessie Version](https://open.spotify.com/track/60bbiP93CSxmLibuwvxay9) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:17 |
 | 47 | [Single For The Summer](https://open.spotify.com/track/4nrtux8xl5lYegU8II5rAQ) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 5:10 |
 | 48 | [35’s](https://open.spotify.com/track/4B0nJLbPzVxWt7o99SiGrO) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [35's](https://open.spotify.com/album/0aQPvZHQLSNQhDhYvfnw0a) | 2:54 |
-| 49 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 |
-| 50 | [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 |
+| 49 | [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 |
+| 50 | [Hold Our Own](https://open.spotify.com/track/1AEylK0tRkpw4dKE1pyhyd) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr) | [Target Practice](https://open.spotify.com/album/4UXqLULHYCflnysccRMF5L) | 2:32 |
 
 Snapshot ID: `ZoherAAAAABs/CxuFyJN8VuwvUFsjL/6`

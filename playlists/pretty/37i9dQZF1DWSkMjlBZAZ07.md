@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,927,318 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,927,312 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 35 | [Either Way](https://open.spotify.com/track/3ihp0qYSN89GBnrgF6GhRh) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Seven Sisters](https://open.spotify.com/album/0GIfSimHMHkmbKiRdrLpAQ) | 2:15 |
 | 36 | [Gloria](https://open.spotify.com/track/2ZR7DiAXXAOUr85ZBreWt4) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Gloria](https://open.spotify.com/album/65DRJr6ua9iSz4w1jsmann) | 3:36 |
 | 37 | [Graveclothes](https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Graveclothes](https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH) | 3:47 |
-| 38 | [What If I](https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 3:34 |
-| 39 | [Little Road](https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:15 |
+| 38 | [Little Road](https://open.spotify.com/track/4wDhECcwcKR4jZEEDiye5a) | [Devarrow](https://open.spotify.com/artist/6MrZj6wqVagXe1UQ8AYWgZ) | [The Great Escape](https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB) | 3:15 |
+| 39 | [What If I](https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 3:34 |
 | 40 | [Mountain To Move](https://open.spotify.com/track/3sdpasrIhFH4gWuoi0iWym) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mountain To Move](https://open.spotify.com/album/6Vcszn67is0yDZGxNOjvBP) | 3:56 |
 | 41 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 |
 | 42 | [On a Roll](https://open.spotify.com/track/34L5OwGhNUKJOG7fgR4ain) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:24 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 77 | [New Girl](https://open.spotify.com/track/7EN7VVggDQew9Ki60a47x4) | [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [New Girl](https://open.spotify.com/album/2CgSadfSWTw2Sbv2ZA4QlK) | 3:27 |
 | 78 | [Half Your Love \(with The Secret Sisters\)](https://open.spotify.com/track/0g4u514UEj6kGOAanCaD2d) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Half Your Love](https://open.spotify.com/album/6k8jU0hWDAPJTSZybkUTC4) | 2:23 |
 | 79 | [Give Me The Reason](https://open.spotify.com/track/7d6ECwiSQEikOrJt5SNWMo) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason \(Stripped Acoustic\)](https://open.spotify.com/album/3EtG50pcQ4QExmabzcHnzn) | 3:54 |
-| 80 | [Good Times](https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:58 |
-| 81 | [Too Late Babe](https://open.spotify.com/track/0CKT4fraX6cV2T0HeGGIJm) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Too Late Babe](https://open.spotify.com/album/06yhTY9ImZzxXoJdcxokg5) | 4:49 |
+| 80 | [Too Late Babe](https://open.spotify.com/track/0CKT4fraX6cV2T0HeGGIJm) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Too Late Babe](https://open.spotify.com/album/06yhTY9ImZzxXoJdcxokg5) | 4:49 |
+| 81 | [Good Times](https://open.spotify.com/track/276ZfAgAGiqQqF1Iub8adH) | [Calder Allen](https://open.spotify.com/artist/1XlVbGlQaBoESaJ43y2sCD) | [The Game](https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv) | 4:58 |
 | 82 | [hello my son](https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [hello my son](https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9) | 3:24 |
 | 83 | [Easy, Love](https://open.spotify.com/track/6m2cCJT4K54P5nLfRLyJud) | [Tom West](https://open.spotify.com/artist/4IszB4IvfBur47pa0bm1sr) | [Oncoming Clouds](https://open.spotify.com/album/6G9nFGCkm389KVfnwRBWux) | 3:27 |
 | 84 | [Summer Bird](https://open.spotify.com/track/5K5R7SYPJB81a6pMhkzNbi) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Headlights / Summer Bird](https://open.spotify.com/album/5WYIv1ZwE96LLXlDDwBSvQ) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,754 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,873 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 34 | [El Herradero \- En Vivo Desde El Rancho](https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:56 |
 | 35 | [Oak Tree Special](https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Corridos de Caballos](https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI) | 4:34 |
 | 36 | [Regalo Del Cielo](https://open.spotify.com/track/7DBvS6V71BdQSDE89fun8r) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Agarró Camino](https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh) | 3:06 |
-| 37 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
-| 38 | [El Rey De Los Coleaderos](https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [El Rey De Los Coleaderos](https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv) | 3:05 |
+| 37 | [El Rey De Los Coleaderos](https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [El Rey De Los Coleaderos](https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv) | 3:05 |
+| 38 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
 | 39 | [El Profeta](https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 4:36 |
 | 40 | [El Nuevo Comandante](https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ) | [Oscar Solis Y Su Banda Magistral](https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8) | [Corridos Finos III](https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc) | 3:42 |
 | 41 | [Caballo R\-15 \- En Vivo](https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 2:44 |

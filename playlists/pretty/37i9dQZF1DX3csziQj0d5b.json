@@ -1,6 +1,6 @@
 {
   "description": "Music to take the pain of homework away.",
-  "num_followers": 1828519,
+  "num_followers": 1828800,
   "original_name": "homework vibes",
   "owner": {
     "name": "Spotify",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "Skyfall",
-        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 286480,
-      "name": "Skyfall",
-      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 286480,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 219724,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
-    },
-    {
-      "added_at": "2024-09-13 18:01:40",
-      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2024-09-13 18:01:40",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
-    },
-    {
-      "added_at": "2024-09-13 18:01:40",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": "2024-09-13 18:01:40",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -971,18 +971,22 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+        "name": "Stuck with U",
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
       "artists": [
         {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 233456,
-      "name": "Glimpse of Us",
-      "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
+      "duration_ms": 228482,
+      "name": "Stuck with U (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "Stuck with U",
-        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
-      "duration_ms": 228482,
-      "name": "Stuck with U (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
+      "duration_ms": 233456,
+      "name": "Glimpse of Us",
+      "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "One Of Your Girls",
-      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
-    },
-    {
-      "added_at": "2024-09-13 18:01:40",
-      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "added_at": "2024-09-13 18:01:40",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 181481,
+      "name": "One Of Your Girls",
+      "url": "https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -1325,22 +1325,6 @@
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
-      "added_at": "2024-09-13 18:01:40",
-      "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
       "added_at": "2024-10-18 19:49:35",
       "album": {
         "name": "the way things go",
@@ -1355,6 +1339,22 @@
       "duration_ms": 187800,
       "name": "the way things go",
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
+      "added_at": "2024-09-13 18:01:40",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
+        "name": "Strawberries & Cigarettes",
+        "url": "https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201538,
+      "name": "Strawberries & Cigarettes",
+      "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
+    },
+    {
+      "added_at": "2024-09-13 18:01:40",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2024-09-13 18:01:40",
-      "album": {
-        "name": "Strawberries & Cigarettes",
-        "url": "https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201538,
-      "name": "Strawberries & Cigarettes",
-      "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA"
+    },
+    {
+      "added_at": "2024-09-13 18:01:40",
+      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
-    },
-    {
-      "added_at": "2024-09-13 18:01:40",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "Older",
-        "url": "https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 191001,
-      "name": "Older",
-      "url": "https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE"
-    },
-    {
-      "added_at": "2024-09-13 18:01:40",
-      "album": {
         "name": "orange blood",
         "url": "https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"
+    },
+    {
+      "added_at": "2024-09-13 18:01:40",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 191001,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "glisten",
-        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Zucker",
-          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
-        }
-      ],
-      "duration_ms": 169973,
-      "name": "all the kids are depressed",
-      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
-    },
-    {
-      "added_at": "2024-09-13 18:01:40",
-      "album": {
         "name": "Constellations (Piano Version)",
         "url": "https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 230073,
       "name": "Constellations - Piano Version",
       "url": "https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X"
+    },
+    {
+      "added_at": "2024-09-13 18:01:40",
+      "album": {
+        "name": "glisten",
+        "url": "https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Zucker",
+          "url": "https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3"
+        }
+      ],
+      "duration_ms": 169973,
+      "name": "all the kids are depressed",
+      "url": "https://open.spotify.com/track/75ls0gurX68lUmMjE7QcsE"
     },
     {
       "added_at": "2024-09-13 18:01:40",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2024-09-13 18:01:40",
       "album": {
-        "name": "Intrusive Thoughts",
-        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
-      },
-      "artists": [
-        {
-          "name": "Natalie Jane",
-          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
-        }
-      ],
-      "duration_ms": 201058,
-      "name": "Intrusive Thoughts",
-      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
-    },
-    {
-      "added_at": "2024-09-13 18:01:40",
-      "album": {
         "name": "girl in new york",
         "url": "https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 177140,
       "name": "girl in new york",
       "url": "https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD"
+    },
+    {
+      "added_at": "2024-09-13 18:01:40",
+      "album": {
+        "name": "Intrusive Thoughts",
+        "url": "https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk"
+      },
+      "artists": [
+        {
+          "name": "Natalie Jane",
+          "url": "https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG"
+        }
+      ],
+      "duration_ms": 201058,
+      "name": "Intrusive Thoughts",
+      "url": "https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j"
     }
   ],
   "unique_name": "homework vibes",

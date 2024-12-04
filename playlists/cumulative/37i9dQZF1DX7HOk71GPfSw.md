@@ -4,7 +4,7 @@
 
 > featuring new music from Babymorocco & Frost Children
 
-2,183 songs - 4 day 3 hr 23 min
+2,186 songs - 4 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [BAWDY](https://open.spotify.com/track/1bMG9DKuMJhdwTSTtphTDC) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:34 | 2021-02-10 | 2021-07-15 |
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-02-24 | 2022-04-29 |
 | [be free](https://open.spotify.com/track/1Z4DI1fToBTiOiH0cJVBDZ) | [dear cupid.](https://open.spotify.com/artist/31nUrCOQRMlh4cg7aUpD43) | [be free](https://open.spotify.com/album/7eHKRZD8cQN8XHAGKkMlLf) | 2:57 | 2024-03-29 |  |
+| [be gentle with me](https://open.spotify.com/track/3SFWNfUS9W7VnpUOO6JRHI) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Two Shell](https://open.spotify.com/album/5B9kNtbzaLjBYXXEQGkMF3) | 3:51 | 2024-12-03 |  |
 | [be happy](https://open.spotify.com/track/2xFzmqWfWzxXu14T7HCXF4) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [thirtyonetwentyfive](https://open.spotify.com/artist/6C17s5mFSAlqQo69YuTdIC) | [be happy](https://open.spotify.com/album/6zwIS2pCiF1Pe6qDaJG13D) | 2:27 | 2022-04-29 | 2022-05-21 |
 | [Be Like Me](https://open.spotify.com/track/5yfmowSTfunM4Uqu6Bw7VN) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Be Like Me](https://open.spotify.com/album/02IfUb431PzQxDWeQgq1k5) | 2:30 | 2022-05-27 | 2022-08-12 |
 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2020-12-11 |  |
@@ -1423,6 +1424,7 @@
 | [only1](https://open.spotify.com/track/7xtgTLmkVw9MGWlELcAyc4) | [meat computer](https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN) | [only1](https://open.spotify.com/album/6nxeOHmPrLmXn2olKUWTAM) | 2:38 | 2022-07-01 | 2022-08-27 |
 | [OOPS](https://open.spotify.com/track/4DZYPSNLvAujIdnGNag0NF) | [phonewifey](https://open.spotify.com/artist/3UrSRgbnWzDJsDNVFMaDP8), [Kakoushka](https://open.spotify.com/artist/4FBy0OZtwagdx69ulDaQOm) | [OOPS / OUCH](https://open.spotify.com/album/5lH6UoMT989f5cS8lokqD2) | 4:08 | 2021-05-03 | 2021-06-05 |
 | [Open](https://open.spotify.com/track/1N3GP64durAzTxsSELqX9i) | [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns), [Yuki Dreams Again](https://open.spotify.com/artist/4IYRXwfKzdo76LVTCG3r2t) | [OPEN](https://open.spotify.com/album/6WgmYQIOJGVs6OKYHCu0wc) | 3:09 | 2023-06-23 | 2023-10-07 |
+| [Open Your Heart](https://open.spotify.com/track/7py6tZNikw2C7C0j9qx4EB) | [nabii](https://open.spotify.com/artist/0EL1KyWqIAGnXXR85EVTQj), [Palastoni](https://open.spotify.com/artist/28oa99VEqmiC6i2SzvMPiC) | [Here For The Groove / Open Your Heart](https://open.spotify.com/album/66H15XWnAZ902sn2HJe99X) | 3:20 | 2024-12-03 |  |
 | [OPTICAL RANGE](https://open.spotify.com/track/0H00Yx4Ih4L3m2tOgEQNtO) | [Mista Playa](https://open.spotify.com/artist/1HKnpKgZV66Fo0wLW9K25i) | [OPTICAL RANGE](https://open.spotify.com/album/1A1UxGFrZqpXEOKz1mbu24) | 1:56 | 2022-01-28 | 2022-04-29 |
 | [ORANGE](https://open.spotify.com/track/5rdNZsAl1aCoofE0ZmHd8m) | [Jinka](https://open.spotify.com/artist/4QQ7oTTczMTot51xhy1giT), [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [recovery girl](https://open.spotify.com/artist/2PiVpr8UjimvqGWBq11Hod) | [ORANGE](https://open.spotify.com/album/30wFdOr1O91nUG2Ya6lVWx) | 2:44 | 2023-04-21 | 2023-07-01 |
 | [orange](https://open.spotify.com/track/3Boce4mnHgoSvyIYwpLJDi) | [Mixed Matches](https://open.spotify.com/artist/7A2xUGz3Mbq2tJdMfILN34) | [in memory](https://open.spotify.com/album/47TDSQ6y5cMmbUZtlxKLrw) | 2:24 | 2021-03-16 | 2021-12-20 |
@@ -1930,6 +1932,7 @@
 | [the fractal song](https://open.spotify.com/track/7LTJ2alkzEumlU6bPEMm9e) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [the fractal song](https://open.spotify.com/album/3oNbVcy0gsNGvnnJRPL5z6) | 2:40 | 2022-01-28 | 2022-07-06 |
 | [the fun song](https://open.spotify.com/track/2ZJ53wrAnnElj4lv3dPtIZ) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [dope shit](https://open.spotify.com/album/05d3EgrPVp5CVyCU1DFdEh) | 5:14 | 2022-02-11 | 2022-04-29 |
 | [the future](https://open.spotify.com/track/5TjjjC9BHtoaGBuwpOQz9N) | [nervous\_testpilot](https://open.spotify.com/artist/7zhakwCorTNUwe17WxD3kh) | [the future](https://open.spotify.com/album/4w9bOnJCWrYyuCJkdsBcUP) | 3:46 | 2022-01-28 | 2022-03-26 |
+| [the laced up theory](https://open.spotify.com/track/6dpxyZUBHIOeTlG4n2CIrt) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [the laced up theory](https://open.spotify.com/album/4zeikwsYhOpoy4DtR3cvrE) | 3:53 | 2024-12-03 |  |
 | [The Look On Your Face](https://open.spotify.com/track/7iVBqRWfyya8yUr30pAzOy) | [Hyd](https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5) | [The Look On Your Face](https://open.spotify.com/album/2RrrFsQqPNsgon1tw48XrR) | 3:52 | 2021-10-21 | 2021-11-13 |
 | [The Mill](https://open.spotify.com/track/5CwWVmRqWxq0FQ3FsEboQC) | [Sybyr](https://open.spotify.com/artist/4WVDlzQCHAIWzBP5iZwuOJ) | [The Mill](https://open.spotify.com/album/65oaWUnHvbJV9f74dIiVFx) | 2:34 | 2021-04-10 | 2021-06-28 |
 | [The One](https://open.spotify.com/track/1DOBYtW1ttXbZaI7ekcbYF) | [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [The One](https://open.spotify.com/album/2hOOvHnYeIOkS3QMzbIknb) | 4:00 | 2021-10-26 | 2022-02-24 |

@@ -1,6 +1,6 @@
 {
   "description": "The hits that keep on rocking your world. Cover: Linkin Park",
-  "num_followers": 69592,
+  "num_followers": 69597,
   "original_name": "Rock Favourites",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Watch The World Burn",
-        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
-      },
-      "artists": [
-        {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
-        }
-      ],
-      "duration_ms": 203948,
-      "name": "Watch The World Burn",
-      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 237986,
       "name": "Hypersonic Missiles",
       "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Watch The World Burn",
+        "url": "https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 203948,
+      "name": "Watch The World Burn",
+      "url": "https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "weird!",
-        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "parents",
-      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "Dropout Boogie",
         "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 164866,
       "name": "Wild Child",
       "url": "https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "weird!",
+        "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 171880,
+      "name": "parents",
+      "url": "https://open.spotify.com/track/5v4OkFH0TJ6W1hCFxyn0px"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Battle Born",
-        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
         }
       ],
-      "duration_ms": 243786,
-      "name": "Runaways",
-      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
+      "duration_ms": 192440,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1587,6 +1571,22 @@
       "duration_ms": 360760,
       "name": "The Foundations of Decay",
       "url": "https://open.spotify.com/track/6Pif6RkFoYzLygdqktus4Q"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Battle Born",
+        "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 243786,
+      "name": "Runaways",
+      "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
     },
     {
       "added_at": "2024-11-15 05:00:00",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2024-11-15 05:00:00",
       "album": {
-        "name": "Where the Shadow Ends",
-        "url": "https://open.spotify.com/album/5JV9WVTMzKobLw2rbs2FDY"
+        "name": "ROCKISDEAD",
+        "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
       },
       "artists": [
         {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
         }
       ],
-      "duration_ms": 219813,
-      "name": "Someone to You",
-      "url": "https://open.spotify.com/track/2amiYVWBp4ixa2Ja7ix5cx"
+      "duration_ms": 181868,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/2NPHU2WJaI3rrtCNNuQ8L1"
     }
   ],
   "unique_name": "Rock Favourites",

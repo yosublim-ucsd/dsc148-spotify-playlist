@@ -22947,24 +22947,6 @@
     },
     {
       "album": {
-        "name": "\u064a\u0627 \u0631\u0628 \u062a\u0631\u062c\u0639",
-        "url": "https://open.spotify.com/album/44MLGyDz5k3A90BjcF18ER"
-      },
-      "artists": [
-        {
-          "name": "Farid",
-          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
-        }
-      ],
-      "date_added": "2024-11-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 171300,
-      "name": "\u064a\u0627 \u0631\u0628 \u062a\u0631\u062c\u0639",
-      "url": "https://open.spotify.com/track/0LFkuniWvlZ405W8BHd1sf"
-    },
-    {
-      "album": {
         "name": "\u064a\u0627 \u0631\u062a\u0647\u0627 \u0628\u062a\u064a\u062c\u064a",
         "url": "https://open.spotify.com/album/6gf9GxUhHRlBAIREEYU6pr"
       },
@@ -23136,6 +23118,24 @@
       "duration_ms": 239368,
       "name": "\u064a\u0627\u0628\u0627 \u064a\u0627\u0628\u0627",
       "url": "https://open.spotify.com/track/5ea1s7RLEMBDDMWXAJGxtG"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627\u0631\u0628 \u062a\u0631\u062c\u0639",
+        "url": "https://open.spotify.com/album/44MLGyDz5k3A90BjcF18ER"
+      },
+      "artists": [
+        {
+          "name": "Farid",
+          "url": "https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171300,
+      "name": "\u064a\u0627\u0631\u0628 \u062a\u0631\u062c\u0639",
+      "url": "https://open.spotify.com/track/0LFkuniWvlZ405W8BHd1sf"
     },
     {
       "album": {

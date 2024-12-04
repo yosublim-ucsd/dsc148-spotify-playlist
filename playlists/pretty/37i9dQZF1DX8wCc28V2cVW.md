@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,865 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,897 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 69 | [Melodies of Life \(The Layers of Harmony\)](https://open.spotify.com/track/3hEv7v0JaBnd2ozqUmjwct) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 3:21 |
 | 70 | [FFVII REMAKE: クレイジーモーターサイクル \-行くぜ野郎ども\- \(Lay Down Some Rubber \- Let's Ride\)](https://open.spotify.com/track/6RPvYRSqPIxamuBFN8iJ8s) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 5:09 |
 | 71 | [Peaceful Village](https://open.spotify.com/track/3dczGbKVYW0I8YAyn8fNOz) | [上松範康](https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy) | [FINAL FANTASY BRAVE EXVIUS Original Soundtrack](https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq) | 2:27 |
-| 72 | [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 |
-| 73 | [FFVII REMAKE: 七六分室陽動作戦 \(S7\-6 Annex Diversion\)](https://open.spotify.com/track/4emMYOnNkxIKekiGmmcOuT) | [中村佳紀](https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 6:40 |
-| 74 | [「Movement in Green \- arrange \-」 from FINAL FANTASY X](https://open.spotify.com/track/5J5K3ZobREfPQku5uU38B2) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:10 |
+| 72 | [「Movement in Green \- arrange \-」 from FINAL FANTASY X](https://open.spotify.com/track/5J5K3ZobREfPQku5uU38B2) | [SQUARE ENIX MUSIC](https://open.spotify.com/artist/6NeoLSPGwJLfeisvM36SMi) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:10 |
+| 73 | [Trisection](https://open.spotify.com/track/1nBbKUpjjTMOdXG242puec) | [Hitoshi Sakimoto](https://open.spotify.com/artist/5ogVrEHxkGUuyavOqRapnm) | [FINAL FANTASY TACTICS Original Soundtrack](https://open.spotify.com/album/2ocBMg8FH8M91wOHMf2cKc) | 2:37 |
+| 74 | [FFVII REMAKE: 七六分室陽動作戦 \(S7\-6 Annex Diversion\)](https://open.spotify.com/track/4emMYOnNkxIKekiGmmcOuT) | [中村佳紀](https://open.spotify.com/artist/6svYOzK49T9DkL9QEjuDfv), [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 6:40 |
 | 75 | [Band:Locus](https://open.spotify.com/track/1VsFMjYvordUV0ZG0NVr3x) | [THE PRIMALS](https://open.spotify.com/artist/2dN1u3qRvK66p9M3MHwJsZ) | [FINAL FANTASY XIV Duality ～ Arrangement Album ～](https://open.spotify.com/album/6ISej5VgH9Ri5BahKMhKtm) | 4:47 |
 
 Snapshot ID: `ZuoxewAAAADjBO/fIcUmR4Cr80SU6laE`

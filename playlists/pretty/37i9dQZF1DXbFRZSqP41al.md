@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,395,365 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,395,336 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 39 | [Psycho](https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:56 |
 | 40 | [Halo](https://open.spotify.com/track/0BBuP5Ynwl0hMKbQGEjfnk) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Welcome to the Neighbourhood](https://open.spotify.com/album/1i0k46X5g1vDetBJfNaOYT) | 3:43 |
 | 41 | [I Remember](https://open.spotify.com/track/3XDP2NR8lCbyU2mohcsZXq) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [I Remember](https://open.spotify.com/album/6hP42dqjbIWOS8gdHXWueK) | 3:08 |
-| 42 | [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 |
-| 43 | [Crawl Back In](https://open.spotify.com/track/6eK6eWG03zxQFW8P4OE4Cb) | [Dead By Sunrise](https://open.spotify.com/artist/502ZZTWlqgS1Ht62ewubEJ) | [Out Of Ashes](https://open.spotify.com/album/34Zz8qH5QJgD2uTXDuZ2J9) | 3:02 |
+| 42 | [Crawl Back In](https://open.spotify.com/track/6eK6eWG03zxQFW8P4OE4Cb) | [Dead By Sunrise](https://open.spotify.com/artist/502ZZTWlqgS1Ht62ewubEJ) | [Out Of Ashes](https://open.spotify.com/album/34Zz8qH5QJgD2uTXDuZ2J9) | 3:02 |
+| 43 | [Illusion](https://open.spotify.com/track/0rAg1EXU8PNb3t4tYYEfwD) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Illusion](https://open.spotify.com/album/147gy4rgELPkH5pZVXVA08) | 4:02 |
 | 44 | [Calling](https://open.spotify.com/track/5OWHDcyCInbwVO0XXTIRj1) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Blue\-Sky Research \(U.S\. Version\)](https://open.spotify.com/album/0yf6tzIZPVtgozEkWhKsoO) | 3:52 |
 | 45 | [Made An America](https://open.spotify.com/track/0Q6AD7e7d9tpN1dXL4qh5P) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Made An America](https://open.spotify.com/album/6HLseXtiQsGBeLaQ43Pm6G) | 2:53 |
 | 46 | [SOMETHING IN THE WATER](https://open.spotify.com/track/6L0pirvFbzNH4OYwd2D74b) | [Kami Kehoe](https://open.spotify.com/artist/2inxPY2UyH8riOrUuLklVR) | [SOMETHING IN THE WATER](https://open.spotify.com/album/60cDTexJ5atkd4g9Rv0abO) | 3:23 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 57 | [Get out of My Head](https://open.spotify.com/track/3RZXQB6zCmH4isPCM5nY4n) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:10 |
 | 58 | [Echoes](https://open.spotify.com/track/56JR97o31WY8Z985KZpqvJ) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Echoes](https://open.spotify.com/album/1enn06oSOlRXnLCXeOIkSi) | 3:41 |
 | 59 | [Sharkbait](https://open.spotify.com/track/2XybqMpL67EfQErfR00HID) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Mishaps Of My Mid Twenties](https://open.spotify.com/album/5Rjyhc3YdFNM3qv6wikP8E) | 3:31 |
-| 60 | [Sliding Doors](https://open.spotify.com/track/0XlDSx6DftEGmjOS2TQ8wL) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Sliding Doors](https://open.spotify.com/album/5t77HLDFCo7yztX2rfj0Sr) | 3:26 |
+| 60 | [Bulletproof](https://open.spotify.com/track/79t7AWh419e1BHYWRkdOGY) | [Young Guns](https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z) | [Echoes](https://open.spotify.com/album/5KRTSW8M5GxnznK3fr781W) | 3:04 |
 
 Snapshot ID: `Z0YKyAAAAAD1FbcenKYTV7HrAKOYGX/h`

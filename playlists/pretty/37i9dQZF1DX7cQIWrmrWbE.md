@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 
 > Las canciones que suenan en todas partes están aquí 🔥  🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,891 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,926 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 21 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 |
 | 22 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
 | 23 | [CLASSY 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CLASSY 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 |
-| 24 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 |
-| 25 | [Mi Kryptonita](https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH) | 3:08 |
+| 24 | [Mi Kryptonita](https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH) | 3:08 |
+| 25 | [Según Quién](https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Según Quién](https://open.spotify.com/album/5Fqjf9AmZPobGPRuyO2fJf) | 2:22 |
 | 26 | [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 |
 | 27 | [Me Hace Daño Verte](https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Trovando El Son](https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu) | 5:00 |
 | 28 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 |

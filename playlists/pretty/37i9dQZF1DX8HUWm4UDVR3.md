@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Stromae et Pomme
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,922 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,928 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 37 | [Hyperactive](https://open.spotify.com/track/5hE51jiGMi0W2z2F1Ixvy9) | [Olivia Stone](https://open.spotify.com/artist/4mMTY96feLo3gtXjxfL6KI) | [Hyperactive](https://open.spotify.com/album/344YOeLbhdA4H3VdHuJiDL) | 2:24 |
 | 38 | [Gratte\-ciel](https://open.spotify.com/track/0IbpLRq2Sc575ookIzbUB3) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [Gratte\-ciel](https://open.spotify.com/album/3jj3zfB2qrUYe7ZGtRjBia) | 3:12 |
 | 39 | [21](https://open.spotify.com/track/63UVH4oV3GfD0yy3N1hxY8) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Remède](https://open.spotify.com/album/72VmknY0m1lZLO4JWylzUI) | 2:48 |
-| 40 | [Tant mieux](https://open.spotify.com/track/1BgR63pmy3zqwIibDPepuU) | [Pierre Guénard](https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX) | [Tant mieux](https://open.spotify.com/album/06pEfIyN7FWw5pMYmUMJoA) | 2:36 |
+| 40 | [TANT MIEUX](https://open.spotify.com/track/1BgR63pmy3zqwIibDPepuU) | [Pierre Guénard](https://open.spotify.com/artist/1QO4qcZJORpIuWc1IREzkX) | [TANT MIEUX](https://open.spotify.com/album/06pEfIyN7FWw5pMYmUMJoA) | 2:36 |
 | 41 | [Toute seule](https://open.spotify.com/track/3AUFJBCkOtXq72YJoA7zut) | [Olympe Chabert](https://open.spotify.com/artist/5vAhRi3Q9OFWN9C8pO3oTp) | [Haut les coeurs](https://open.spotify.com/album/4TfpdOT8R7jwpZbUwsKWkN) | 3:17 |
 | 42 | [Pas de week\-end à Rome](https://open.spotify.com/track/5aiyAEJ2vvBI7mXw911glG) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Pas de week\-end à Rome](https://open.spotify.com/album/3hVIRArhc4PV0hU5nD0J2p) | 3:30 |
 | 43 | [Colle au corps](https://open.spotify.com/track/7L532sGPiyGrz1I9V0lhTK) | [Noor](https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO) | [Les histoires tristes me collent au corps](https://open.spotify.com/album/1An8Iq7N30VqKjuEmyPcJU) | 3:07 |

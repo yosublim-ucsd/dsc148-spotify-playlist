@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,994 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,950 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 18 | [We Got the Moves](https://open.spotify.com/track/0W4N0KzHKWQp2Wn1Mf6uMa) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 3:26 |
 | 19 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 |
 | 20 | [People = Shit](https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Iowa](https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9) | 3:35 |
-| 21 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
-| 22 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
+| 21 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
+| 22 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
 | 23 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 |
 | 24 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
 | 25 | [Primo Victoria](https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Primo Victoria \(Re\-Armed\)](https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0) | 4:10 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 76 | [Amaranth](https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 3:51 |
 | 77 | [Painless](https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 3:59 |
 | 78 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 |
-| 79 | [backfire](https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [backfire](https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6) | 2:00 |
-| 80 | [Fiend](https://open.spotify.com/track/5YCEVdLLSFPnhfma05qx7o) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Dark Days](https://open.spotify.com/album/2DiNaKLLwBwLPe9oAnNr9i) | 3:00 |
+| 79 | [Fiend](https://open.spotify.com/track/5YCEVdLLSFPnhfma05qx7o) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Dark Days](https://open.spotify.com/album/2DiNaKLLwBwLPe9oAnNr9i) | 3:00 |
+| 80 | [backfire](https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [backfire](https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6) | 2:00 |
 | 81 | [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 |
 | 82 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 |
 | 83 | [Hit The Floor](https://open.spotify.com/track/0UYJv76bj5U3QRghS8wL9e) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:30 |

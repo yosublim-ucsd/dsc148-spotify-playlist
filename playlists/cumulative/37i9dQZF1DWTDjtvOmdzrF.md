@@ -4,7 +4,7 @@
 
 > Racikan akustik dalam secangkir kopi.
 
-152 songs - 10 hr 12 min
+153 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Pelukku Untuk Pelikmu \- OST Imperfect: Karier, Cinta, & Timbangan](https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Pelukku Untuk Pelikmu \(OST Imperfect: Karier, Cinta, & Timbangan\)](https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh) | 4:09 | 2022-12-07 |  |
 | [Perahu Kertas](https://open.spotify.com/track/0InJPuWIYp8fwlBGIQglLf) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Moments](https://open.spotify.com/album/51PNqOMj1ttmbuZPzxOqSI) | 3:54 | 2022-12-07 |  |
 | [Pernah Muda](https://open.spotify.com/track/53jVt2BD1Wgh1aUoqAodQT) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Tentang Kamu](https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8) | 3:23 | 2024-05-08 |  |
-| [Puding Pelangi](https://open.spotify.com/track/6cwNx7jEFLh7BSYZenQWoU) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Lebih Dekat](https://open.spotify.com/album/4H5ks1HmVJJI79UQpQXMwc) | 2:35 | 2024-10-02 |  |
+| [Puding Pelangi](https://open.spotify.com/track/6cwNx7jEFLh7BSYZenQWoU) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Lebih Dekat](https://open.spotify.com/album/4H5ks1HmVJJI79UQpQXMwc) | 2:35 | 2024-10-02 | 2024-12-04 |
 | [Puisi](https://open.spotify.com/track/5beFAWW2hzgUYk8Bnn0phm) | [Dinda Kirana](https://open.spotify.com/artist/3M5VT9sSef85IF0LiiptxO) | [Puisi](https://open.spotify.com/album/2EpilSwm5p3ttGKyj0Tgxn) | 4:34 | 2023-12-06 | 2024-04-19 |
 | [Puisi](https://open.spotify.com/track/7GvaaOGxD63FHoCwWlOa5o) | [Dinda Kirana](https://open.spotify.com/artist/1OmLMt4qFQvVah6yrKwQ50) | [Puisi](https://open.spotify.com/album/7qu0piAv3wqjMYZDP5k4XH) | 4:34 | 2023-08-08 | 2024-05-09 |
 | [Pulang](https://open.spotify.com/track/5Ge3e6dV4wsae8lDQQq8PY) | [Float](https://open.spotify.com/artist/1g7ocdBhmOogW1VAYBtgZf) | [No\-Dream Land](https://open.spotify.com/album/48T59PbJb3U3MHLS5UiuRX) | 3:17 | 2024-03-05 | 2024-08-22 |
@@ -117,6 +117,7 @@
 | [Rumah](https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Rumah](https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn) | 4:18 | 2024-03-05 |  |
 | [Rumpang](https://open.spotify.com/track/2TRGNVokPnC2a2oHg5iv1H) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Rumpang](https://open.spotify.com/album/3StxBwbZwtipjzs3ZfldlJ) | 5:23 | 2022-12-07 | 2024-05-09 |
 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 | 2022-12-07 |  |
+| [Sadrah \- Acoustic](https://open.spotify.com/track/4IhQA4O98ulPLhsdW2GPPO) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1), [Meiska](https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8) | [Sadrah \- Acoustic](https://open.spotify.com/album/5oGmWdzAvYfy1osN4PspuR) | 4:06 | 2024-12-03 |  |
 | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/track/6Ls0ZznOYYd7eQ52Cgqmkv) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC) | [Salahkah Aku Terlalu Mencintaimu](https://open.spotify.com/album/2x9G0zhfxZHPdbjsgdJJYu) | 3:52 | 2024-03-05 |  |
 | [Sampai Jadi Debu \(Menampilkan Gardika Gigih\)](https://open.spotify.com/track/0ROj512WvJ1eqeELd7MEdJ) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:48 | 2024-05-08 |  |
 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 | 2022-12-07 |  |

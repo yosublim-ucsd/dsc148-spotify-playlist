@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del electropop latino. Foto: Javiera Mena",
-  "num_followers": 24304,
+  "num_followers": 24303,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "ANNA Vol1. LOS AMANTES",
+        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 296250,
+      "name": "Ganadora",
+      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "ANNA Vol1. LOS AMANTES",
-        "url": "https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 296250,
-      "name": "Ganadora",
-      "url": "https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Derrumbe",
-        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 201947,
-      "name": "Derrumbe",
-      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "blablablablabla",
         "url": "https://open.spotify.com/album/67PCcqW4kt4CYOzJH1E3mp"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 201706,
       "name": "blablablablabla",
       "url": "https://open.spotify.com/track/4b0FSUCnGQ0UGn00cWMoMj"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Derrumbe",
+        "url": "https://open.spotify.com/album/23csDME5tEskWfOBPW09mi"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 201947,
+      "name": "Derrumbe",
+      "url": "https://open.spotify.com/track/0YSBEGkXPVcJXLdhNIXx4q"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Nft",
+        "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
+      },
+      "artists": [
+        {
+          "name": "\u00bfJuan Julian?",
+          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+        },
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 221711,
+      "name": "Nft",
+      "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Gritan Fuerte",
         "url": "https://open.spotify.com/album/69CyCtEbufErhbo60ck42J"
       },
@@ -1087,22 +1107,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Nft",
-        "url": "https://open.spotify.com/album/6K8hkoBWggnzNWvkbRdxim"
+        "name": "BOTON",
+        "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
       },
       "artists": [
         {
-          "name": "\u00bfJuan Julian?",
-          "url": "https://open.spotify.com/artist/2ZWvepdJUT489wth5EJdO7"
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         },
         {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 221711,
-      "name": "Nft",
-      "url": "https://open.spotify.com/track/3PPacFl0rmIS8P2eUtigwo"
+      "duration_ms": 138436,
+      "name": "BOTON",
+      "url": "https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1123,26 +1143,6 @@
       "duration_ms": 186158,
       "name": "Zentaura",
       "url": "https://open.spotify.com/track/5n8wmlh90HNlV0VnAhxw0Z"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "BOTON",
-        "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
-      },
-      "artists": [
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 138436,
-      "name": "BOTON",
-      "url": "https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Compa\u00f1era",
+        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
+      },
+      "artists": [
+        {
+          "name": "Fonosida",
+          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+        }
+      ],
+      "duration_ms": 273337,
+      "name": "Compa\u00f1erx",
+      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "FLAPS",
         "url": "https://open.spotify.com/album/5hfIZZICVUZzSVGjSv4fRn"
       },
@@ -1219,18 +1235,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Compa\u00f1era",
-        "url": "https://open.spotify.com/album/4CiDkn8I1gRm8VQmffzhW4"
+        "name": "Bum (Chocamos un Auto)",
+        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
       },
       "artists": [
         {
-          "name": "Fonosida",
-          "url": "https://open.spotify.com/artist/6HXJR7OM92v2ncgjL8gVkX"
+          "name": "Laika Perra Rusa",
+          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
         }
       ],
-      "duration_ms": 273337,
-      "name": "Compa\u00f1erx",
-      "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
+      "duration_ms": 226250,
+      "name": "Bum (Chocamos un Auto)",
+      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 215250,
       "name": "Palabras al Viento",
       "url": "https://open.spotify.com/track/1hDifwaU9Ki87hLzfYWCmT"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Bum (Chocamos un Auto)",
-        "url": "https://open.spotify.com/album/5Ue6SRM0qUS7IbcftUxhT6"
-      },
-      "artists": [
-        {
-          "name": "Laika Perra Rusa",
-          "url": "https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Bum (Chocamos un Auto)",
-      "url": "https://open.spotify.com/track/0qQ4psSUWzjDeifzNIVMmv"
     },
     {
       "added_at": "2024-11-15 03:00:00",

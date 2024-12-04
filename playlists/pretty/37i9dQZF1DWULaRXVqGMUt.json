@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 55187,
+  "num_followers": 55199,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+        "name": "Lost in Boogie",
+        "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Jools Holland",
-          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+          "name": "Luca Sestak",
+          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
         }
       ],
-      "duration_ms": 218626,
-      "name": "Pauly's Birthday Boogie",
-      "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
+      "duration_ms": 212453,
+      "name": "E-Flat Flyer",
+      "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -171,18 +167,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
       },
       "artists": [
         {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
         }
       ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
+      "duration_ms": 218626,
+      "name": "Pauly's Birthday Boogie",
+      "url": "https://open.spotify.com/track/088NmJPi9Tnn6BKn6xyo9r"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -203,18 +203,18 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Lost in Boogie",
-        "url": "https://open.spotify.com/album/4Uvu9q2bZB69DNWeMNfJNK"
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
       },
       "artists": [
         {
-          "name": "Luca Sestak",
-          "url": "https://open.spotify.com/artist/5ypQRq934XJmh9eXioqKiQ"
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
         }
       ],
-      "duration_ms": 212453,
-      "name": "E-Flat Flyer",
-      "url": "https://open.spotify.com/track/6SoGI3M6TKrVsPvdNaNJxG"
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "Piano-Blues & Boogie-Woogie",
-        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
-      },
-      "artists": [
-        {
-          "name": "Christian Bleiming",
-          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
-        }
-      ],
-      "duration_ms": 217260,
-      "name": "C-Jam Boogie",
-      "url": "https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
         "name": "New Way",
         "url": "https://open.spotify.com/album/1gWiD8uHEoLtJEmJTpbOY8"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 332400,
       "name": "Laci's Boogie",
       "url": "https://open.spotify.com/track/66G1WcKjC8WcIBmpQE9lOR"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
+        "name": "Piano-Blues & Boogie-Woogie",
+        "url": "https://open.spotify.com/album/4pvNWYFUBsBEnyNnn7VPD9"
+      },
+      "artists": [
+        {
+          "name": "Christian Bleiming",
+          "url": "https://open.spotify.com/artist/2mDLUZu61ccNXT5HrNAbOK"
+        }
+      ],
+      "duration_ms": 217260,
+      "name": "C-Jam Boogie",
+      "url": "https://open.spotify.com/track/1HnX61nsEhP4RbfUsegXn1"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
+        "name": "The Lost Paramount Tapes",
+        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 235280,
+      "name": "Junco Partner #2",
+      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
+    },
+    {
+      "added_at": "2024-05-30 16:27:59",
+      "album": {
         "name": "No Hats",
         "url": "https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I"
       },
@@ -551,26 +567,6 @@
       "duration_ms": 201066,
       "name": "Caroline's Boogie",
       "url": "https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP"
-    },
-    {
-      "added_at": "2024-05-30 16:27:59",
-      "album": {
-        "name": "Boogie Stomp",
-        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
-      },
-      "artists": [
-        {
-          "name": "Bob Seeley",
-          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
-        },
-        {
-          "name": "Bob Baldori",
-          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
-        }
-      ],
-      "duration_ms": 287190,
-      "name": "Boogie Stomp",
-      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
     },
     {
       "added_at": "2024-05-30 16:27:59",
@@ -591,18 +587,22 @@
     {
       "added_at": "2024-05-30 16:27:59",
       "album": {
-        "name": "The Lost Paramount Tapes",
-        "url": "https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr"
+        "name": "Boogie Stomp",
+        "url": "https://open.spotify.com/album/6xDmwJpXD2As3RklDuigJ8"
       },
       "artists": [
         {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+          "name": "Bob Seeley",
+          "url": "https://open.spotify.com/artist/6sw1qBIAwEhCbSUZTqbn5r"
+        },
+        {
+          "name": "Bob Baldori",
+          "url": "https://open.spotify.com/artist/04FQlkgLlC8C7k4GgTLp9W"
         }
       ],
-      "duration_ms": 235280,
-      "name": "Junco Partner #2",
-      "url": "https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c"
+      "duration_ms": 287190,
+      "name": "Boogie Stomp",
+      "url": "https://open.spotify.com/track/1gmOL5hmvpMkFlYAhDSIBp"
     },
     {
       "added_at": "2024-05-30 16:27:59",

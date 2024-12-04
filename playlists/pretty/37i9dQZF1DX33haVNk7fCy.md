@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,710 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,936 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 34 | [Kya Loge Tum](https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Kya Loge Tum](https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT) | 3:53 |
 | 35 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sanjana Sanghi](https://open.spotify.com/artist/0nFIPa2qOn5ODHEWi3Ywan) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 |
 | 36 | [Main Royaan](https://open.spotify.com/track/3D6c6ALN1czsDf9wwZIGmh) | [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Tanveer Evan](https://open.spotify.com/artist/4OUraoZcwg1SsMHFjuaajw), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Main Royaan](https://open.spotify.com/album/0qh4TdcWuEEKsuGfJEHe8v) | 4:09 |
-| 37 | [Tera Ghata](https://open.spotify.com/track/0JBhoxPKHJc1ZeJrjSt0VO) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Tera Ghata](https://open.spotify.com/album/7nRsCQuIFeFwO8fcQ5mRlH) | 4:14 |
-| 38 | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/track/3ZKfpGClshLqb531nJJOAm) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/album/27O9dLSmGlbtNQW6PTF7y0) | 3:44 |
+| 37 | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/track/3ZKfpGClshLqb531nJJOAm) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Tujhe Kaise, Pata Na Chala](https://open.spotify.com/album/27O9dLSmGlbtNQW6PTF7y0) | 3:44 |
+| 38 | [Tera Ghata](https://open.spotify.com/track/0JBhoxPKHJc1ZeJrjSt0VO) | [Gajendra Verma](https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si) | [Tera Ghata](https://open.spotify.com/album/7nRsCQuIFeFwO8fcQ5mRlH) | 4:14 |
 | 39 | [Dil Lauta Do](https://open.spotify.com/track/1VfUpyKz9uN7et8t6Qhe7v) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil Lauta Do](https://open.spotify.com/album/2VfuGeouepkWV0dsSoHZD8) | 5:02 |
-| 40 | [Dhokha](https://open.spotify.com/track/7K0Br5tRLkicKKpkxC5A9i) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dhokha](https://open.spotify.com/album/4fGKGVkgIgCp54qVGXhB81) | 2:50 |
-| 41 | [Rula Ke Gaya Ishq](https://open.spotify.com/track/6G7MtVr7QKMnf7SeHl1BCQ) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sunny Inder](https://open.spotify.com/artist/2cEw7L2gI182OBneTIHBIu), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Stebin Ben Hits](https://open.spotify.com/album/3u7XV1op9it78PwOvyiBRZ) | 4:07 |
+| 40 | [Rula Ke Gaya Ishq](https://open.spotify.com/track/6G7MtVr7QKMnf7SeHl1BCQ) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Sunny Inder](https://open.spotify.com/artist/2cEw7L2gI182OBneTIHBIu), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Stebin Ben Hits](https://open.spotify.com/album/3u7XV1op9it78PwOvyiBRZ) | 4:07 |
+| 41 | [Dhokha](https://open.spotify.com/track/7K0Br5tRLkicKKpkxC5A9i) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dhokha](https://open.spotify.com/album/4fGKGVkgIgCp54qVGXhB81) | 2:50 |
 | 42 | [Main Jis Din Bhulaa Du](https://open.spotify.com/track/6X3FjTFOKsj7FQk2rd0gPv) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [M\. Ashraf](https://open.spotify.com/artist/0RdFLtxyUpC7CXCRTc57PZ) | [Main Jis Din Bhulaa Du](https://open.spotify.com/album/16AQy6HuGxznQphzEGlAPd) | 5:00 |
 | 43 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 |
 | 44 | [PYAAR HUMARA](https://open.spotify.com/track/7y3qyt5vR7QBU51BFnfQ2q) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [PYAAR HUMARA](https://open.spotify.com/album/7syNlcl1mcB70xo3Y2sYyz) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 49 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 |
 | 50 | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/album/2W6ZCzLC2pezmRYJQKbr2C) | 4:35 |
 
-Snapshot ID: `Z0WWhQAAAABD3aQJp779TOxazIwrhg2p`
+Snapshot ID: `Z073CgAAAACL8wip09AegkUY1NwJZOLh`

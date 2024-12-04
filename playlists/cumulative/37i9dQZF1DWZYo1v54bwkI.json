@@ -484,7 +484,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 246000,
       "name": "Beacon",
       "url": "https://open.spotify.com/track/2nFNxlIt3Y6Gw5BAu4bsFg"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 161862,
       "name": "Bring You Home",
       "url": "https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg"
@@ -1474,7 +1474,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 136000,
       "name": "Dream Light",
       "url": "https://open.spotify.com/track/7HuCQfbXT7GWHYUJ0FZoP6"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 205000,
       "name": "Falling Winds",
       "url": "https://open.spotify.com/track/3LDurr25Dx3XAR4nMxNXpp"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 198723,
       "name": "Fly Among Clouds",
       "url": "https://open.spotify.com/track/6Kf6iSevn3QqANd6SHHHOk"
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 210733,
       "name": "Inner Universe",
       "url": "https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ"
@@ -3303,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/2Dn9keQFXxorvxDRfViOX9"
+      },
+      "artists": [
+        {
+          "name": "Aquilonius",
+          "url": "https://open.spotify.com/artist/2Bua1ZVpNERP8WJ6gGyilw"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159123,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/0eHmDY9Nx2iUtK7FdLIjgk"
+    },
+    {
+      "album": {
         "name": "Moving Slow",
         "url": "https://open.spotify.com/album/626tC0NRDHsPdPBB8hrKLc"
       },
@@ -3368,7 +3386,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 185640,
       "name": "New World Pioneer",
       "url": "https://open.spotify.com/track/2qM47jrxKy5t0W4VLLHxW1"
@@ -4088,7 +4106,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 148489,
       "name": "Quite A Ways",
       "url": "https://open.spotify.com/track/2ASqUS3DbDDBxbnoFrYp1Q"
@@ -4290,7 +4308,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 174045,
       "name": "R\u00eaver",
       "url": "https://open.spotify.com/track/1yYjkMdQyOvwqiwfeGP5fK"
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 158459,
       "name": "Scintilla",
       "url": "https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW"
@@ -4560,7 +4578,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 203442,
       "name": "Silver Glass",
       "url": "https://open.spotify.com/track/270XqXQSdpQrMzf0LCTo1f"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 304,330 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 304,557 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 16 | [Tighten Up](https://open.spotify.com/track/3C542UknrX76XSRXTyQ1Qg) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:31 |
 | 17 | [Baby I'm Yours](https://open.spotify.com/track/5jr6pG3khBcBXZRm8NogSe) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:35 |
 | 18 | [Crossfire](https://open.spotify.com/track/6S8r0pRxRUy3OF3UUtNjdN) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [Flamingo](https://open.spotify.com/album/7zKxFkMyehmw9u3MhLpMPK) | 4:16 |
-| 19 | [The Ghost Inside](https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:18 |
+| 19 | [Congratulations](https://open.spotify.com/track/6kblAEj0T0312fv5QWsXzo) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Congratulations](https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL) | 3:55 |
 | 20 | [Spanish Sahara](https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E) | 6:49 |
-| 21 | [Congratulations](https://open.spotify.com/track/6kblAEj0T0312fv5QWsXzo) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Congratulations](https://open.spotify.com/album/3HA1Ru1gEAgaxTywkJmBOL) | 3:55 |
+| 21 | [The Ghost Inside](https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:18 |
 | 22 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 |
 | 23 | [Stylo \(feat\. Mos Def and Bobby Womack\)](https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:30 |
 | 24 | [Solitude Is Bliss](https://open.spotify.com/track/2a2MbiJN2skOxohykOVcss) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 3:55 |
@@ -69,17 +69,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 59 | [Next Girl](https://open.spotify.com/track/4yWWuAW3bywNtneUa4L6YJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:17 |
 | 60 | [At Home](https://open.spotify.com/track/3vpjiTrzJEt1zXer9ig6g0) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love](https://open.spotify.com/album/23XRO9y7lYZepyAiD4RUSq) | 5:06 |
 | 61 | [He Would Have Laughed](https://open.spotify.com/track/1mQ9pMKMYlgLRKT71QBcfL) | [Deerhunter](https://open.spotify.com/artist/38zTZcuN7nFvVJ6auhc6V3) | [Halcyon Digest](https://open.spotify.com/album/3a3Yp0PRguSTH3dBOeWRyZ) | 7:29 |
-| 62 | [Airplanes](https://open.spotify.com/track/6qsArsTq6WoqtUFUe1e15W) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 3:57 |
-| 63 | [Got Nuffin](https://open.spotify.com/track/0n2tnCMIlM8Z58NPdXzlQe) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Transference](https://open.spotify.com/album/5ypZiViPNDX7ahiPSWQYTW) | 3:58 |
+| 62 | [Got Nuffin](https://open.spotify.com/track/0n2tnCMIlM8Z58NPdXzlQe) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Transference](https://open.spotify.com/album/5ypZiViPNDX7ahiPSWQYTW) | 3:58 |
+| 63 | [Airplanes](https://open.spotify.com/track/6qsArsTq6WoqtUFUe1e15W) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 3:57 |
 | 64 | [She's Long Gone](https://open.spotify.com/track/4AaPXm5NKGEwGdOJzuPnrL) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:06 |
 | 65 | [Giving Up the Gun](https://open.spotify.com/track/3NXjRgj22vkWCp5yzjU4af) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 4:46 |
 | 66 | [Factory](https://open.spotify.com/track/3wNti9PJJPrP9nF2ccsQvw) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 4:35 |
 | 67 | [BORN FREE](https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [/\\/\\ /\\ Y /\\](https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV) | 4:07 |
 | 68 | [Cigarettes in the Theatre](https://open.spotify.com/track/7iGAkO3j525uGPyrd93VX0) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:33 |
-| 69 | [Norway](https://open.spotify.com/track/2irDC5hDrLeNnqlmABCyZV) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs) | 3:54 |
-| 70 | [Don't Gotta Work It Out](https://open.spotify.com/track/7ECNbJ7lRHDY2CiHKVirYB) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 4:09 |
-| 71 | [Sun](https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:44 |
-| 72 | [Sun Hands](https://open.spotify.com/track/117XTs9axKflCk5FDwf2kI) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 4:50 |
+| 69 | [Sun Hands](https://open.spotify.com/track/117XTs9axKflCk5FDwf2kI) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Gorilla Manor](https://open.spotify.com/album/2cIpJDijNEoHv88jJKwDID) | 4:50 |
+| 70 | [Norway](https://open.spotify.com/track/2irDC5hDrLeNnqlmABCyZV) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs) | 3:54 |
+| 71 | [Don't Gotta Work It Out](https://open.spotify.com/track/7ECNbJ7lRHDY2CiHKVirYB) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Pickin' up the Pieces](https://open.spotify.com/album/6v1XsTQiTP6IziGoGpTLu1) | 4:09 |
+| 72 | [Sun](https://open.spotify.com/track/3yb4akoM3pD2epSSrfx9Es) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:44 |
 | 73 | [Ambling Alp](https://open.spotify.com/track/67k3wJiBJ7ZgEJH26Sp7hm) | [Yeasayer](https://open.spotify.com/artist/04HvbIwBccFmRie5ATX4ft) | [Odd Blood](https://open.spotify.com/album/3yfOxXDy6AbOduHoo1653D) | 3:55 |
 | 74 | [Boyfriend](https://open.spotify.com/track/6f7RZAHcYEwtujd97hGkF5) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Crazy for You](https://open.spotify.com/album/2FNAYHVBNgDmaJDEWg41gy) | 2:29 |
 | 75 | [Meyrin Fields](https://open.spotify.com/track/5yxLSSgg6x07mtl1PeOCb1) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Meyrin Fields](https://open.spotify.com/album/7An0egewVhqmkkAbUl2MW1) | 2:48 |

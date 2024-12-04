@@ -1,6 +1,6 @@
 {
   "description": "entering my reputation era",
-  "num_followers": 1346525,
+  "num_followers": 1346881,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "Death of a Bachelor",
+        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "House of Memories",
+      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Unholy (feat. Kim Petras)",
         "url": "https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Death of a Bachelor",
-        "url": "https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "House of Memories",
-      "url": "https://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ"
     },
     {
       "added_at": "2024-04-24 00:07:55",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 261933,
       "name": "Barracuda",
       "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Boss Bitch",
-        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134239,
-      "name": "Boss Bitch",
-      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 334084,
-      "name": "Who\u2019s Afraid of Little Old Me?",
-      "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
-    },
-    {
       "added_at": "2024-02-22 03:52:54",
       "album": {
         "name": "Tragic Kingdom",
@@ -883,6 +867,22 @@
       "duration_ms": 219305,
       "name": "Bitch Better Have My Money",
       "url": "https://open.spotify.com/track/0NTMtAO2BV4tnGvw9EgBVq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 334084,
+      "name": "Who\u2019s Afraid of Little Old Me?",
+      "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Marvin's Marvelous Mechanical Museum",
-        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
-      },
-      "artists": [
-        {
-          "name": "Tally Hall",
-          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "The Bidding",
-      "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
       },
       "artists": [
         {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
         }
       ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
+      "duration_ms": 160613,
+      "name": "The Bidding",
+      "url": "https://open.spotify.com/track/0HBrtXJohbIW4IhPZ50GmH"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1323,6 +1307,22 @@
       "duration_ms": 185122,
       "name": "If I Killed Someone For You",
       "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "duration_ms": 232146,
+      "name": "Something In The Way",
+      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Descendants 3 (Original TV Movie Soundtrack)",
         "url": "https://open.spotify.com/album/1rDO59SgTsY1HV5ZBtl9Hy"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 204887,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/26wLOs3ZuHJa2Ihhx6QIE6"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
     },
     {
       "added_at": "2024-02-22 03:52:54",

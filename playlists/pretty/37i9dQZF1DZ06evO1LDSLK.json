@@ -1,12 +1,12 @@
 {
   "description": "This is Iggy Pop. The essential tracks, all in one playlist.",
-  "num_followers": 70467,
+  "num_followers": 70487,
   "original_name": "This Is Iggy Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAC1ms0o7Dg6a+Wyk+Al7/dD",
+  "snapshot_id": "Z0z4gAAAAACICFd0/FTRPHvpnWPaEwQx",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVERY LOSER",
-        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 227166,
-      "name": "Morning Show",
-      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Orgy of the Damned",
         "url": "https://open.spotify.com/album/6aTrDhVw5QgXSz2JM4V8hc"
       },
@@ -747,6 +731,38 @@
       "duration_ms": 332253,
       "name": "Awful Dream feat. Iggy Pop",
       "url": "https://open.spotify.com/track/56QEhDMBRwTH6YiYVBljrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVERY LOSER",
+        "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 227166,
+      "name": "Morning Show",
+      "url": "https://open.spotify.com/track/2nOlu2nR0TzDooI0zc8HXj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arista Heritage Series: Iggy Pop",
+        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "I'm Bored",
+      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 182000,
       "name": "TP&TD",
       "url": "https://open.spotify.com/track/0JKhHyersC0TyWA7nv5Xrg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arista Heritage Series: Iggy Pop",
-        "url": "https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo"
-      },
-      "artists": [
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "I'm Bored",
-      "url": "https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW"
     },
     {
       "added_at": null,

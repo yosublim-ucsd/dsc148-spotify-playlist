@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 
 > Legendary tracks been produced on a TR\-909 drum machine\. Cover: Jeff Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,483 likes - 50 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,591 likes - 50 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 26 | [Children \- Dream Version](https://open.spotify.com/track/1JfrKj59dl3rrpzShRf9If) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Dreamland](https://open.spotify.com/album/1XL0X5szAJw8vY9GrP2HUC) | 7:06 |
 | 27 | [Spastik](https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1) | [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Recycled Plastik](https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy) | 9:15 |
 | 28 | [Closer To God](https://open.spotify.com/track/5kXtr0OnI0xvaBSHRMPC1m) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral \(Deluxe Edition\)](https://open.spotify.com/album/5I7lLu8xXJfGRdFUqHaLQU) | 5:05 |
-| 29 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
-| 30 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
+| 29 | [Ego Trippin'](https://open.spotify.com/track/0WVqFNhP455QxcS1VhIWmo) | [Ultramagnetic MC's](https://open.spotify.com/artist/52ik8mwcuZ4ISphAkejj2Z) | [Critical Beatdown \(Re\-Issue\)](https://open.spotify.com/album/2nyDfMhGBwxbpfpyYtnBSJ) | 5:26 |
+| 30 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
 | 31 | [Tribute](https://open.spotify.com/track/3p7Ydiltj799Rx3JfjARxF) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 6:01 |
 | 32 | [Girls Ain't Nothing But Trouble \- 1988 Extended Remix](https://open.spotify.com/track/1b7tJQyJvzAcbDI8I3A2Bf) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Rock The House](https://open.spotify.com/album/52UtxXOfjs1RzOyS2TKYD8) | 4:49 |
 | 33 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6qMmUY0JUQO.md) - [plain]
 | 38 | [I'm Your Pusher](https://open.spotify.com/track/7dxAjXJvJ63V0bjQ13cCa9) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Colors](https://open.spotify.com/album/6axoq3JzasaOsl9FmLp0v9) | 5:35 |
 | 39 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 |
 | 40 | [History \- Special Dance Mix](https://open.spotify.com/track/7wjpIve8KZjIfxF8crW5SF) | [Mai Tai](https://open.spotify.com/artist/0L0XA2oh77ZfPZiaBxw96D) | [History](https://open.spotify.com/album/6oPuo7PCqssFcUZkuGxoeq) | 7:18 |
-| 41 | [Boogie Mandroid](https://open.spotify.com/track/5FoAxha7zuDWQnPz5G0ARN) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Eddie Fowlkes](https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny) | [Boogie Mandroid](https://open.spotify.com/album/112lhVvdNHLnRAugtFGWtM) | 5:41 |
-| 42 | [Boom\-Boom](https://open.spotify.com/track/7xpqxbOxqFTltGFvzdu6aV) | [dancer](https://open.spotify.com/artist/3hst5vmCCxskyGcL4kL1gb), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Boom\-Boom](https://open.spotify.com/album/5BFbZ5FhSIrz7JUpqrS1nL) | 7:45 |
+| 41 | [Boom\-Boom](https://open.spotify.com/track/7xpqxbOxqFTltGFvzdu6aV) | [dancer](https://open.spotify.com/artist/3hst5vmCCxskyGcL4kL1gb), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Boom\-Boom](https://open.spotify.com/album/5BFbZ5FhSIrz7JUpqrS1nL) | 7:45 |
+| 42 | [Boogie Mandroid](https://open.spotify.com/track/5FoAxha7zuDWQnPz5G0ARN) | [Loco Dice](https://open.spotify.com/artist/4rbw4Z9Hjn6n9x5oYzZe7P), [Eddie Fowlkes](https://open.spotify.com/artist/5s52J0wTa9B4YFG39iqXny) | [Boogie Mandroid](https://open.spotify.com/album/112lhVvdNHLnRAugtFGWtM) | 5:41 |
 | 43 | [Chord Orbit](https://open.spotify.com/track/3vFj9rJXCjvfFUnXxNBRri) | [Gerd](https://open.spotify.com/artist/29IzCNDrWGPFXMmtCY3N83) | [Planet F.M.D.X\. Pt\. 2](https://open.spotify.com/album/7dRA65jkQ7svaLwYiDt2aw) | 5:41 |
 | 44 | [I feel for you \- Original](https://open.spotify.com/track/3zAU6cqXVFTzz1Yvnw87x1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN) | [Champs elysées](https://open.spotify.com/album/7xRnsA4UR8FgkMOSsfnizs) | 5:50 |
 | 45 | [Hunter](https://open.spotify.com/track/0zQnCy0NCcBmQcsl2PBNE3) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8) | 4:15 |

@@ -4,7 +4,7 @@
 
 > Fucked up and evil\. What an absolute bop.
 
-44 songs - 2 hr 18 min
+46 songs - 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 | 2023-10-30 |  |
 | [Ferryman](https://open.spotify.com/track/492qQwagrn1noBTHRYKsvJ) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G), [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [Ferryman](https://open.spotify.com/album/1dDe20iAvQfwOMbvLfXetm) | 3:04 | 2023-03-23 |  |
 | [Give Up!](https://open.spotify.com/track/3OxXjDWxjrD9PcGwveP5nO) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Autumn](https://open.spotify.com/album/2opLhMoweetJdxKceCQqyE) | 2:49 | 2023-07-09 |  |
+| [Golden Boy](https://open.spotify.com/track/3TDMylLFIdog58gdTjeauu) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Ghana](https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci) | 3:16 | 2024-12-03 |  |
 | [Have a Seat Misery](https://open.spotify.com/track/62reWZkKlxUmLphHJy8kRN) | [Shayfer James](https://open.spotify.com/artist/0PftqT3Gvj1IszkeRLHK9G) | [Counterfeit Arcade](https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux) | 1:15 | 2023-03-23 |  |
 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 | 2023-03-25 |  |
 | [I Never Told You What I Do for a Living](https://open.spotify.com/track/6gLn8QhAYL4dEwdpVjfCPl) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:52 | 2024-10-27 |  |
@@ -38,6 +39,7 @@
 | [Rejoice](https://open.spotify.com/track/3oIQfBgaruqihkCHokRQZ0) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 3:15 | 2023-12-05 |  |
 | [SIXFT](https://open.spotify.com/track/1voNv7mqbcQnreBth7A6ng) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [GLOOM DIVISION](https://open.spotify.com/album/0uJRPvtoXw3k9377EVqShK) | 3:24 | 2024-02-23 |  |
 | [Small Cuts](https://open.spotify.com/track/2vd4ULh4EXAeIyOoe9JZ30) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 4:02 | 2023-01-07 |  |
+| [Some Other Way](https://open.spotify.com/track/1nBBKbMeKLqIcRtYLs8wfW) | [The Extra Lens](https://open.spotify.com/artist/64WVMQetBLvmJi3OVxjt2G) | [Undercard](https://open.spotify.com/album/1WOhneh974qQNY6TGpWN7C) | 2:42 | 2024-12-03 |  |
 | [Starkiller](https://open.spotify.com/track/7azVZvIvANuD4sLlwqs2g2) | [Bear Ghost](https://open.spotify.com/artist/1N1JZ3SRv6PSzAsOEW2aZp) | [Blasterpiece](https://open.spotify.com/album/1QGh29u6gecFcSXOVloWEX) | 3:49 | 2023-08-10 |  |
 | [Steady, As She Goes](https://open.spotify.com/track/4xlEKYv7HmC8zXoJIbpZKM) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Broken Boy Soldiers](https://open.spotify.com/album/4Z1sCXBHHKWCsScOLAfuig) | 3:35 | 2023-06-03 |  |
 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |

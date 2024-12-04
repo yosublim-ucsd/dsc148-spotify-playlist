@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,127 likes - 44 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,186 likes - 44 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 31 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 |
 | 32 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 |
 | 33 | [Riot](https://open.spotify.com/track/4qQVKOnZEYWZIHUMRapsVO) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR](https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY) | 1:44 |
-| 34 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 |
-| 35 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
+| 34 | [Songs About U](https://open.spotify.com/track/1iuNH5Ajdqt7O2NMon1EB5) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Songs About U](https://open.spotify.com/album/4F6grP1bKnxdEDkwecx3IM) | 3:00 |
+| 35 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 |
 | 36 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
 | 37 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
 | 38 | [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO30JqGN.md) - [plain]
 | 43 | [Wasted](https://open.spotify.com/track/2L3nFptzwy0jlVKSzXHjnL) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR](https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY) | 2:34 |
 | 44 | [SWV \(with NO1\-NOAH\)](https://open.spotify.com/track/4ii5S0UcGpdAANl098llgB) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:02 |
 
-Snapshot ID: `Z0unAAAAAACvmxyPWGkq/lEw/KaOTV7M`
+Snapshot ID: `Z0z4gAAAAAD4O5AwnlqFPYlpkIobxcRx`

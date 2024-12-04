@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 9149,
+  "num_followers": 9150,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Loose Ends",
-        "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 181448,
-      "name": "Loose Ends",
-      "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Fig Tree",
         "url": "https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy"
       },
@@ -387,22 +371,6 @@
       "duration_ms": 221394,
       "name": "Fig Tree",
       "url": "https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Thunderball",
-        "url": "https://open.spotify.com/album/1CBBCAIQqdeNS1k3k6UNky"
-      },
-      "artists": [
-        {
-          "name": "Art Nation",
-          "url": "https://open.spotify.com/artist/6V8nNGRYy1tDMxWUX0w32H"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "Thunderball",
-      "url": "https://open.spotify.com/track/1Flof4ybztZnkfhcvqcwed"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -427,18 +395,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "One Foot",
-        "url": "https://open.spotify.com/album/0hFYSnZsr8fzTWHUyGU45k"
+        "name": "Loose Ends",
+        "url": "https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 156690,
-      "name": "One Foot",
-      "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
+      "duration_ms": 181448,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -455,6 +423,38 @@
       "duration_ms": 231591,
       "name": "Interstellar",
       "url": "https://open.spotify.com/track/2noFPSXtNacxDVlUn1qsgn"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "One Foot",
+        "url": "https://open.spotify.com/album/0hFYSnZsr8fzTWHUyGU45k"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 156690,
+      "name": "One Foot",
+      "url": "https://open.spotify.com/track/7CpYtDjQe0qtyVxFFYBIl9"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Thunderball",
+        "url": "https://open.spotify.com/album/1CBBCAIQqdeNS1k3k6UNky"
+      },
+      "artists": [
+        {
+          "name": "Art Nation",
+          "url": "https://open.spotify.com/artist/6V8nNGRYy1tDMxWUX0w32H"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "Thunderball",
+      "url": "https://open.spotify.com/track/1Flof4ybztZnkfhcvqcwed"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -479,6 +479,26 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Ultra Love feat. Ella Rosa",
+        "url": "https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr"
+      },
+      "artists": [
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        },
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        }
+      ],
+      "duration_ms": 171066,
+      "name": "Ultra Love feat. Ella Rosa",
+      "url": "https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Pure Love",
         "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
       },
@@ -499,22 +519,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Ultra Love feat. Ella Rosa",
-        "url": "https://open.spotify.com/album/0Z9Yy2XJhBAbmrEUrScjOr"
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/5HvoXMfZjXbN9sUNAtqEd1"
       },
       "artists": [
         {
-          "name": "Holly Hebe",
-          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
         },
         {
-          "name": "Ella Rosa",
-          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+          "name": "James Newman",
+          "url": "https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n"
         }
       ],
-      "duration_ms": 171066,
-      "name": "Ultra Love feat. Ella Rosa",
-      "url": "https://open.spotify.com/track/77hBvjErP2YfFB9OGSc9bE"
+      "duration_ms": 143818,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/6pxpaOeqLqK1yF6Cv3gvcZ"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -551,22 +571,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Touch Me",
-        "url": "https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt"
-      },
-      "artists": [
-        {
-          "name": "\u00c1SD\u00cdS",
-          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
-        }
-      ],
-      "duration_ms": 203876,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Now That I'm Gone",
         "url": "https://open.spotify.com/album/5719mUavSnpK65Vr317xbK"
       },
@@ -583,42 +587,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/5HvoXMfZjXbN9sUNAtqEd1"
+        "name": "Touch Me",
+        "url": "https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt"
       },
       "artists": [
         {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "James Newman",
-          "url": "https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n"
+          "name": "\u00c1SD\u00cdS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
         }
       ],
-      "duration_ms": 143818,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/6pxpaOeqLqK1yF6Cv3gvcZ"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Leaveyourlove (with King Stingray)",
-        "url": "https://open.spotify.com/album/6ZgW8yTdHeXBjI71pfoYFR"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        },
-        {
-          "name": "King Stingray",
-          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
-        }
-      ],
-      "duration_ms": 220408,
-      "name": "Leaveyourlove (with King Stingray)",
-      "url": "https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo"
+      "duration_ms": 203876,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -651,6 +631,26 @@
       "duration_ms": 155626,
       "name": "lazy cat",
       "url": "https://open.spotify.com/track/4xDqHrsJ7Cb6LgO1UKrvtB"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Leaveyourlove (with King Stingray)",
+        "url": "https://open.spotify.com/album/6ZgW8yTdHeXBjI71pfoYFR"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        },
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        }
+      ],
+      "duration_ms": 220408,
+      "name": "Leaveyourlove (with King Stingray)",
+      "url": "https://open.spotify.com/track/2oH2HmqJqbSdIKcvtcq3Jo"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "(Never Getting) Over You",
-        "url": "https://open.spotify.com/album/0qeSxdQWN6aH6eecFoGvPv"
-      },
-      "artists": [
-        {
-          "name": "LENNY",
-          "url": "https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y"
-        }
-      ],
-      "duration_ms": 156399,
-      "name": "(Never Getting) Over You",
-      "url": "https://open.spotify.com/track/5AXvzHK9zJrX7QWiKqF3aQ"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Superhuman",
         "url": "https://open.spotify.com/album/0Fx8GLQSCzmqFioKqRjEI6"
       },
@@ -927,6 +911,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "(Never Getting) Over You",
+        "url": "https://open.spotify.com/album/0qeSxdQWN6aH6eecFoGvPv"
+      },
+      "artists": [
+        {
+          "name": "LENNY",
+          "url": "https://open.spotify.com/artist/2KRtorIOtz60uFtab8N89y"
+        }
+      ],
+      "duration_ms": 156399,
+      "name": "(Never Getting) Over You",
+      "url": "https://open.spotify.com/track/5AXvzHK9zJrX7QWiKqF3aQ"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "IGNORED",
         "url": "https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n"
       },
@@ -939,6 +939,22 @@
       "duration_ms": 166322,
       "name": "IGNORED",
       "url": "https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "With You // Don't Go",
+        "url": "https://open.spotify.com/album/3l3VUvVI0fzWX8hp3CdpbU"
+      },
+      "artists": [
+        {
+          "name": "DJ Planet Express",
+          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
+        }
+      ],
+      "duration_ms": 206673,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0xVkFgOXI5Q6Jff9AeAnKT"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -963,22 +979,6 @@
       "duration_ms": 130476,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/5cRqBtnCx2e9GvuSezN4Ec"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "With You // Don't Go",
-        "url": "https://open.spotify.com/album/3l3VUvVI0fzWX8hp3CdpbU"
-      },
-      "artists": [
-        {
-          "name": "DJ Planet Express",
-          "url": "https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg"
-        }
-      ],
-      "duration_ms": 206673,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/0xVkFgOXI5Q6Jff9AeAnKT"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Home Soon (Sober)",
-        "url": "https://open.spotify.com/album/4OJvbhCGjRcR17jbGIXbuA"
-      },
-      "artists": [
-        {
-          "name": "MYMA",
-          "url": "https://open.spotify.com/artist/6rkLiFPjgyQ5VDm16CNCWX"
-        }
-      ],
-      "duration_ms": 155586,
-      "name": "Home Soon (Sober)",
-      "url": "https://open.spotify.com/track/2VH74nrBunOWUEyTOjfsHD"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Before You Go",
         "url": "https://open.spotify.com/album/27nDI79oHU0j5nkhOkjNjD"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Home Soon (Sober)",
+        "url": "https://open.spotify.com/album/4OJvbhCGjRcR17jbGIXbuA"
+      },
+      "artists": [
+        {
+          "name": "MYMA",
+          "url": "https://open.spotify.com/artist/6rkLiFPjgyQ5VDm16CNCWX"
+        }
+      ],
+      "duration_ms": 155586,
+      "name": "Home Soon (Sober)",
+      "url": "https://open.spotify.com/track/2VH74nrBunOWUEyTOjfsHD"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/1YxxLfUFpTJyzF96s6MPxF"
       },
@@ -1079,22 +1079,6 @@
       "duration_ms": 142153,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4RBbIPUGgYBKiExshxMN9c"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Expiration Date",
-        "url": "https://open.spotify.com/album/6bZUiMauhzHD1VdlUPqfbK"
-      },
-      "artists": [
-        {
-          "name": "Laura Nahr",
-          "url": "https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV"
-        }
-      ],
-      "duration_ms": 145524,
-      "name": "Expiration Date",
-      "url": "https://open.spotify.com/track/1NVBtxinJHsbKSV2XN5S0X"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Expiration Date",
+        "url": "https://open.spotify.com/album/6bZUiMauhzHD1VdlUPqfbK"
+      },
+      "artists": [
+        {
+          "name": "Laura Nahr",
+          "url": "https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV"
+        }
+      ],
+      "duration_ms": 145524,
+      "name": "Expiration Date",
+      "url": "https://open.spotify.com/track/1NVBtxinJHsbKSV2XN5S0X"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Am I Too Good For You, Baby ?",
         "url": "https://open.spotify.com/album/0iUKKortl6H8N3my0oFYtw"
       },
@@ -1131,42 +1131,6 @@
       "duration_ms": 198151,
       "name": "Am I Too Good For You, Baby ?",
       "url": "https://open.spotify.com/track/4KZjNKHc5Q6QLCUj6akI8U"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Luv 4 Granted",
-        "url": "https://open.spotify.com/album/7llbECZjmg74HzHCVZaJ8n"
-      },
-      "artists": [
-        {
-          "name": "Zhuli",
-          "url": "https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz"
-        }
-      ],
-      "duration_ms": 212144,
-      "name": "Luv 4 Granted",
-      "url": "https://open.spotify.com/track/2AVr3Ij0En6ieP2ZIrLAsG"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Cursing and Lying! (feat. Drew Sycamore)",
-        "url": "https://open.spotify.com/album/67C5FPDCt4ftxYwvMAX4xo"
-      },
-      "artists": [
-        {
-          "name": "Drew Sycamore",
-          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
-        },
-        {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        }
-      ],
-      "duration_ms": 185431,
-      "name": "Cursing And Lying! (feat. Drew Sycamore)",
-      "url": "https://open.spotify.com/track/0siUepaRdN2ZdOxxkUMNLB"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1195,6 +1159,42 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Cursing and Lying! (feat. Drew Sycamore)",
+        "url": "https://open.spotify.com/album/67C5FPDCt4ftxYwvMAX4xo"
+      },
+      "artists": [
+        {
+          "name": "Drew Sycamore",
+          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
+        },
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 185431,
+      "name": "Cursing And Lying! (feat. Drew Sycamore)",
+      "url": "https://open.spotify.com/track/0siUepaRdN2ZdOxxkUMNLB"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Luv 4 Granted",
+        "url": "https://open.spotify.com/album/7llbECZjmg74HzHCVZaJ8n"
+      },
+      "artists": [
+        {
+          "name": "Zhuli",
+          "url": "https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz"
+        }
+      ],
+      "duration_ms": 212144,
+      "name": "Luv 4 Granted",
+      "url": "https://open.spotify.com/track/2AVr3Ij0En6ieP2ZIrLAsG"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Club Stranger",
         "url": "https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/2pxE7IC7YYYfeJGImbvV8y"
-      },
-      "artists": [
-        {
-          "name": "Resa Saffa Park",
-          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/3zy792UmGU2NNuyAxsylYX"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "This is how I remember it.",
         "url": "https://open.spotify.com/album/7E4vbLNA0l8RTXjVXkycuR"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 206021,
       "name": "High On Loving You (Talk)",
       "url": "https://open.spotify.com/track/2e9iFRN92N8t9FGBj0dhV8"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/2pxE7IC7YYYfeJGImbvV8y"
+      },
+      "artists": [
+        {
+          "name": "Resa Saffa Park",
+          "url": "https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/3zy792UmGU2NNuyAxsylYX"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "LOVELACED",
-        "url": "https://open.spotify.com/album/7jC684vAvgotkBqrZBUJu9"
-      },
-      "artists": [
-        {
-          "name": "Sam Ezeh",
-          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
-        },
-        {
-          "name": "BbyMutha",
-          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
-        }
-      ],
-      "duration_ms": 205005,
-      "name": "LEISURE",
-      "url": "https://open.spotify.com/track/63qUxHudCSmtvZ193qM4Lf"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Pick & Choose",
         "url": "https://open.spotify.com/album/6hsHuXzJ60F1vJwMmPEbse"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 245806,
       "name": "Pick & Choose - Radio Edit",
       "url": "https://open.spotify.com/track/2E5coMHUBjZwlkTD3eFXZz"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "LOVELACED",
+        "url": "https://open.spotify.com/album/7jC684vAvgotkBqrZBUJu9"
+      },
+      "artists": [
+        {
+          "name": "Sam Ezeh",
+          "url": "https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK"
+        },
+        {
+          "name": "BbyMutha",
+          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
+        }
+      ],
+      "duration_ms": 205005,
+      "name": "LEISURE",
+      "url": "https://open.spotify.com/track/63qUxHudCSmtvZ193qM4Lf"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Far Lies",
-        "url": "https://open.spotify.com/album/6KNYGYY1YTf0qfpN8iOwI0"
-      },
-      "artists": [
-        {
-          "name": "Jack Elliot",
-          "url": "https://open.spotify.com/artist/67gNiFsBm6t9Cq31B2fIms"
-        }
-      ],
-      "duration_ms": 209989,
-      "name": "Far Lies",
-      "url": "https://open.spotify.com/track/4ofIgw402aKyfjQVdbxOvC"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "when i'm gone",
         "url": "https://open.spotify.com/album/1rQBS5F1ErnNdFTeYBUikJ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 166666,
       "name": "when i'm gone",
       "url": "https://open.spotify.com/track/5OQwi0I5WawpusO99ODzRY"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Far Lies",
+        "url": "https://open.spotify.com/album/6KNYGYY1YTf0qfpN8iOwI0"
+      },
+      "artists": [
+        {
+          "name": "Jack Elliot",
+          "url": "https://open.spotify.com/artist/67gNiFsBm6t9Cq31B2fIms"
+        }
+      ],
+      "duration_ms": 209989,
+      "name": "Far Lies",
+      "url": "https://open.spotify.com/track/4ofIgw402aKyfjQVdbxOvC"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Expectations EP",
+        "url": "https://open.spotify.com/album/64W25Fz86zVz7pGEUHepV7"
+      },
+      "artists": [
+        {
+          "name": "Fig Tape",
+          "url": "https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/2ECNSB7Fd6cE8LcKiRSO3s"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Precious Things",
         "url": "https://open.spotify.com/album/1LCN6JWDequIsdQmyBb8si"
       },
@@ -1411,18 +1427,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Expectations EP",
-        "url": "https://open.spotify.com/album/64W25Fz86zVz7pGEUHepV7"
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/49Pz6r4GU2QtcL0rqSoHVk"
       },
       "artists": [
         {
-          "name": "Fig Tape",
-          "url": "https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z"
+          "name": "Peace Bringa",
+          "url": "https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM"
         }
       ],
-      "duration_ms": 164705,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/2ECNSB7Fd6cE8LcKiRSO3s"
+      "duration_ms": 193593,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/79vtUcQxwcYqpNnShTixM3"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Nightfall",
-        "url": "https://open.spotify.com/album/49Pz6r4GU2QtcL0rqSoHVk"
+        "name": "The Hour of King Kong",
+        "url": "https://open.spotify.com/album/5tBaM5DJp5iDzw2YQhhXwY"
       },
       "artists": [
         {
-          "name": "Peace Bringa",
-          "url": "https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM"
+          "name": "VELVET MOON",
+          "url": "https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ"
         }
       ],
-      "duration_ms": 193593,
-      "name": "Nightfall",
-      "url": "https://open.spotify.com/track/79vtUcQxwcYqpNnShTixM3"
+      "duration_ms": 221386,
+      "name": "The Hour Of King Kong",
+      "url": "https://open.spotify.com/track/2mo2htp7aN1xg08waScbLx"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "The Hour of King Kong",
-        "url": "https://open.spotify.com/album/5tBaM5DJp5iDzw2YQhhXwY"
-      },
-      "artists": [
-        {
-          "name": "VELVET MOON",
-          "url": "https://open.spotify.com/artist/0hK1aI0UAC0cflUrMqsVjZ"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "The Hour Of King Kong",
-      "url": "https://open.spotify.com/track/2mo2htp7aN1xg08waScbLx"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Nest",
         "url": "https://open.spotify.com/album/03FTgwyighoBWya5x9lbkK"
       },
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "FAKE HOPE",
-        "url": "https://open.spotify.com/album/5kcXJYdyOFfLATndFLzRfV"
-      },
-      "artists": [
-        {
-          "name": "Xiupill",
-          "url": "https://open.spotify.com/artist/7A4lk7YkhOKFzcuVfWoTlB"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "FAKE HOPE",
-      "url": "https://open.spotify.com/track/4DWrqj6pRn80ouXIuVYTdc"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Souvenir",
         "url": "https://open.spotify.com/album/76nIUxEj1Fuyn9dQcpdXlI"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 214064,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0wsGBYdn4Yl5f1otYZ8Ao9"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "FAKE HOPE",
+        "url": "https://open.spotify.com/album/5kcXJYdyOFfLATndFLzRfV"
+      },
+      "artists": [
+        {
+          "name": "Xiupill",
+          "url": "https://open.spotify.com/artist/7A4lk7YkhOKFzcuVfWoTlB"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "FAKE HOPE",
+      "url": "https://open.spotify.com/track/4DWrqj6pRn80ouXIuVYTdc"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Right By My Side",
+        "url": "https://open.spotify.com/album/6henbDc0FtETOdjJgiI0y3"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00fe\u00f3r Alexander",
+          "url": "https://open.spotify.com/artist/4rZ2Nb7itV22dloHJg0uWc"
+        },
+        {
+          "name": "Flammeus",
+          "url": "https://open.spotify.com/artist/7erGGk1kS98mhaZybtASzR"
+        }
+      ],
+      "duration_ms": 191642,
+      "name": "Right By My Side",
+      "url": "https://open.spotify.com/track/1wqD0GT2U3TmOhtJb5B8nB"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Born To Fall",
         "url": "https://open.spotify.com/album/53WdoosKRLdmn0jLMDqAhy"
       },
@@ -1651,6 +1671,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "Kaldur Vetrarmorgun",
+        "url": "https://open.spotify.com/album/4WBulel9Y6BMhPK4wRx1o2"
+      },
+      "artists": [
+        {
+          "name": "T\u00c1R",
+          "url": "https://open.spotify.com/artist/4dq03hGT6AZ9BOETtCGFlL"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Kaldur Vetrarmorgun",
+      "url": "https://open.spotify.com/track/51BBYOBW0MXoMDVdey2VTQ"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "Crying Wolf",
         "url": "https://open.spotify.com/album/3lEMSstLshwhTc4ziVSnhn"
       },
@@ -1683,22 +1719,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Kaldur Vetrarmorgun",
-        "url": "https://open.spotify.com/album/4WBulel9Y6BMhPK4wRx1o2"
-      },
-      "artists": [
-        {
-          "name": "T\u00c1R",
-          "url": "https://open.spotify.com/artist/4dq03hGT6AZ9BOETtCGFlL"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Kaldur Vetrarmorgun",
-      "url": "https://open.spotify.com/track/51BBYOBW0MXoMDVdey2VTQ"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "The Synthea Starlight Album",
         "url": "https://open.spotify.com/album/2boJU4u1RUFFMuSuX0sKnB"
       },
@@ -1719,26 +1739,6 @@
       "duration_ms": 296644,
       "name": "Take Me to My Destiny",
       "url": "https://open.spotify.com/track/5rhLAQjsgVdHlFsqAoqnQZ"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "Right By My Side",
-        "url": "https://open.spotify.com/album/6henbDc0FtETOdjJgiI0y3"
-      },
-      "artists": [
-        {
-          "name": "Ey\u00fe\u00f3r Alexander",
-          "url": "https://open.spotify.com/artist/4rZ2Nb7itV22dloHJg0uWc"
-        },
-        {
-          "name": "Flammeus",
-          "url": "https://open.spotify.com/artist/7erGGk1kS98mhaZybtASzR"
-        }
-      ],
-      "duration_ms": 191642,
-      "name": "Right By My Side",
-      "url": "https://open.spotify.com/track/1wqD0GT2U3TmOhtJb5B8nB"
     },
     {
       "added_at": "2024-11-29 00:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,105 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,150 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 26 | [Crímenes perfectos](https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:24 |
 | 27 | [Sin Tu Latido \- Remasterizado](https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo a Cuerpo \(Remasterizado\)](https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4) | 5:02 |
 | 28 | [La saeta \- En Directo](https://open.spotify.com/track/2JRNVKJOMGsso4M8SzL3h2) | [Carmen Linares](https://open.spotify.com/artist/5nJo9d4dYPQ9MiimCUdOhI), [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [La saeta \(En Directo\)](https://open.spotify.com/album/248ms1gkrDf8FGRZTgI2gL) | 4:26 |
-| 29 | [Me haces bien](https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Sea](https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO) | 3:04 |
-| 30 | [Pajaros de Barro](https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 4:06 |
+| 29 | [Pajaros de Barro](https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK) | [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Arena En Los Bolsillos](https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf) | 4:06 |
+| 30 | [Me haces bien](https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Sea](https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO) | 3:04 |
 | 31 | [Hoy Ten Miedo De Mi](https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Con Cierto Aire a Ti](https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA) | 2:58 |
 | 32 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 |
 | 33 | [Comiendote a Besos](https://open.spotify.com/track/02FKjeU8CrA2ckppBa5RJg) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Con Derecho A...](https://open.spotify.com/album/1t2OluRtbro9nSJsizuquA) | 4:01 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 58 | [Las Cuatro y Diez](https://open.spotify.com/track/4Z8DiiAJsMFppYOf0yJSAT) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 2:37 |
 | 59 | [No Se por Que Te Quiero](https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t), [Antonio Banderas](https://open.spotify.com/artist/1EmxvwBQjmCB7e3dOVincQ) | [Mirame](https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs) | 3:35 |
 | 60 | [Si tú no estas](https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas Rotas: De casa a las ventas \(Standard version\)](https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR) | 4:16 |
-| 61 | [El sitio de mi recreo](https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 3:10 |
-| 62 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
+| 61 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
+| 62 | [El sitio de mi recreo](https://open.spotify.com/track/2tkMVjFwDzUCG3ulmz3fCb) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Canciones 1980\-2009](https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u) | 3:10 |
 | 63 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
 | 64 | [Sinmigo](https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw) | [Mr\. Kilombo](https://open.spotify.com/artist/2y2zsEIM0NTeGwkxcnGmvo), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Cerrando Puntos Suspensivos](https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr) | 3:37 |
 | 65 | [Soñar Contigo](https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Los Mares De China](https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA) | 3:06 |

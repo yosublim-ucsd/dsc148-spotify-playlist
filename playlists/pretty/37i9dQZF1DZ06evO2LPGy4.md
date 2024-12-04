@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,602 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,646 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 49 | [Soy Familia, Soy Michoacano \(En Vivo\)](https://open.spotify.com/track/5sK0dInvxvPGW389d8IS67) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Morir y Existir En Vivo](https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY) | 3:11 |
 | 50 | [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 |
 
-Snapshot ID: `Z0unAAAAAAC/gqy+ABOgIfYg5gKsAtmM`
+Snapshot ID: `Z0z4gAAAAABIpmgCPc5uoflOgLmvUMSF`

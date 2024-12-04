@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,704 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,709 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 19 | [The Saints](https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Heroes for Sale](https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL) | 3:58 |
 | 20 | [One Day](https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [One Day](https://open.spotify.com/album/7GH4rWGig9L57E7PIM2wR3) | 2:50 |
 | 21 | [Graves](https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 4:20 |
-| 22 | [COME THRU](https://open.spotify.com/track/3U0Goea638QMskz9f7l53B) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COME THRU](https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub) | 2:39 |
-| 23 | [Yes Song](https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:45 |
-| 24 | [It's Time](https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [It's Time](https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ) | 2:33 |
-| 25 | [Let Go Let God \(The Anthem\)](https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Let Go Let God: The EP](https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY) | 3:05 |
+| 22 | [Let Go Let God \(The Anthem\)](https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY) | [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Let Go Let God: The EP](https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY) | 3:05 |
+| 23 | [COME THRU](https://open.spotify.com/track/3U0Goea638QMskz9f7l53B) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COME THRU](https://open.spotify.com/album/6p4j0KgKckQYEiAtLoOHub) | 2:39 |
+| 24 | [Yes Song](https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:45 |
+| 25 | [It's Time](https://open.spotify.com/track/1buXNTGRvMLk1MMC1Apgjd) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [It's Time](https://open.spotify.com/album/6KhGzjhjn0AX7juE7LOsRJ) | 2:33 |
 | 26 | [Eagle](https://open.spotify.com/track/5tx4rfrsFrxJGCmxVAsH0r) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Eagle](https://open.spotify.com/album/6b5bu55Djo84LSLKIKIb68) | 3:30 |
 | 27 | [Crowns & Thorns \(Oceans\)](https://open.spotify.com/track/4odWmR05uVl3Adkas6Ap9e) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Tomorrow We Live](https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR) | 4:51 |
 | 28 | [Glory 2 Glory](https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [Baby Mama 2](https://open.spotify.com/track/0bm8L8NM3TOdtgpVb8hyPM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 2:38 |
 | 50 | [Smoke Free](https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Messenger 4: Independents Day](https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U) | 4:19 |
 
-Snapshot ID: `Z0unAAAAAABKZ6uYB0H4fIDNSXP2SRi8`
+Snapshot ID: `Z0z4gAAAAABXKVGNlZ2mSckOaX86H/HQ`

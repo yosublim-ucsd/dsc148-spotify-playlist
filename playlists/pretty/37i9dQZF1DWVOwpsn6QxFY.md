@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,289 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,330 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,19 +40,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 30 | [Days Of Lantana](https://open.spotify.com/track/52MkFwdFmpPHCAbSgtaGgB) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Is It?](https://open.spotify.com/album/11ROhDfHSfUYDlqdPbL5v8) | 5:15 |
 | 31 | [Headlands](https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Headlands](https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe) | 4:42 |
 | 32 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
-| 33 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
-| 34 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
+| 33 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 |
+| 34 | [Johnson Song](https://open.spotify.com/track/1g3hJAu22j2gINrSTSpwp0) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:43 |
 | 35 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
 | 36 | [Mistakes](https://open.spotify.com/track/4WYVA9t70fpESE1mychdZL) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [We've Been Going About This All Wrong](https://open.spotify.com/album/3PqowBonjatEu0P7g5AIHr) | 3:59 |
 | 37 | [I Can't Get My Head Around You](https://open.spotify.com/track/72TRVAfkS1BeMgkbPPBa19) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 |
-| 38 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
-| 39 | [Freazy](https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:14 |
+| 38 | [Freazy](https://open.spotify.com/track/6YYU9JbeWnW4L5NY7hlLlw) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [My Love Is Cool](https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU) | 3:14 |
+| 39 | [Untangling](https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Untangling](https://open.spotify.com/album/7g4aMr7RrfdBwZhXtZnNVd) | 3:56 |
 | 40 | [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 |
-| 41 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
-| 42 | [Beautiful Soul](https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Return](https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0) | 3:16 |
+| 41 | [Beautiful Soul](https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Return](https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0) | 3:16 |
+| 42 | [Are You OK?](https://open.spotify.com/track/1sygfNN1Uw3kWlmTqC3PJY) | [Wasuremono](https://open.spotify.com/artist/1i9EknSbxjunq52yyxl8ig) | [Are You OK?](https://open.spotify.com/album/6xkwDIfgHnNz5SRL16PlFc) | 4:23 |
 | 43 | [Someday \- triple j Like A Version](https://open.spotify.com/track/1Qj4H2YJp83dd4ATpXN4UV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Someday \(triple j Like A Version\)](https://open.spotify.com/album/3bSCXJUq7CeXun9ulHBDnh) | 4:24 |
-| 44 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
-| 45 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
+| 44 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
+| 45 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
 | 46 | [Perfect Me](https://open.spotify.com/track/21f1QfiYHehakoXs0Zyeuz) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Perfect Me](https://open.spotify.com/album/52Mane6O5Svocc9w3FhiCL) | 3:10 |
 | 47 | [Meet me in the garden \- Alternative Version](https://open.spotify.com/track/6OUnUtn5tYFPylyiiwbW4l) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Meet me in the garden \(Alternative Version\)](https://open.spotify.com/album/0xOoSbMYuUAeNAIItJEf6g) | 2:54 |
 | 48 | [Confirmation](https://open.spotify.com/track/6erM0iK1QJH7Qaw29Vzqow) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation / I Turned Away](https://open.spotify.com/album/7nC3k0PpLQ1MVsmcB7xTl4) | 3:29 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 51 | [Daisy Chain](https://open.spotify.com/track/6YDydLu0kWJXAuU6WYcbH2) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI), [Tayo Sound](https://open.spotify.com/artist/7uELj3CTZDGSpqH1TNPIdQ) | [Daisy Chain](https://open.spotify.com/album/2kSOGD37vPRzNroaKKKNxD) | 2:46 |
 | 52 | [With Balance](https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [With Balance](https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop) | 2:58 |
 | 53 | [hey girl](https://open.spotify.com/track/2rVAtdA3LWr18RAVGXZNkw) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [hey girl](https://open.spotify.com/album/1HHQjI9AqfSqF6iSdRnfgh) | 3:07 |
-| 54 | [Turn The World On](https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:30 |
-| 55 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
+| 54 | [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 |
+| 55 | [Turn The World On](https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:30 |
 | 56 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
 | 57 | [Hide & Seek](https://open.spotify.com/track/2t4tWVaCBykTHYG7Wx6AEB) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Hide & Seek](https://open.spotify.com/album/7Bpblm74urUd8VLJlGubqU) | 3:41 |
 | 58 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 77 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
 | 78 | [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 |
 | 79 | [BIG BOYS CRY TOO](https://open.spotify.com/track/6bbGJOE8Y6r9q1cXnudz04) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [BIG BOYS CRY TOO](https://open.spotify.com/album/3fnvp3uIQN3hUEn41ViEeo) | 3:25 |
-| 80 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
+| 80 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
 
 Snapshot ID: `ZtrzIAAAAACQEB0jvPXFpZERCRZZQopu`

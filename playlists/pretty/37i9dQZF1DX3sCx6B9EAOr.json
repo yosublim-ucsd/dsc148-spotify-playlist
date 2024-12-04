@@ -1,6 +1,6 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 118789,
+  "num_followers": 118802,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Dance Driving)",
   "owner": {
     "name": "Spotify",
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 176854,
-      "name": "Cherish (My Love)",
-      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
+      "duration_ms": 129468,
+      "name": "Tick-Tack",
+      "url": "https://open.spotify.com/track/0znsc67nMhP4X9hjhvoyeP"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
         }
       ],
-      "duration_ms": 129468,
-      "name": "Tick-Tack",
-      "url": "https://open.spotify.com/track/0znsc67nMhP4X9hjhvoyeP"
+      "duration_ms": 176854,
+      "name": "Cherish (My Love)",
+      "url": "https://open.spotify.com/track/2MoUuJhpSO4a0czxvsrSC6"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -483,8 +483,8 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "NewJeans 'OMG'",
-        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 212253,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
-        "url": "https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 198906,
-      "name": "MAESTRO",
-      "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
         "name": "BORDER : CARNIVAL",
         "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
@@ -647,8 +631,24 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+        "name": "SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'",
+        "url": "https://open.spotify.com/album/2Jrp37x38qZqtyrIrfxN4H"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 198906,
+      "name": "MAESTRO",
+      "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+      "duration_ms": 212253,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+        "name": "I NEVER DIE",
+        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 184601,
-      "name": "Polaroid Love",
-      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+      "duration_ms": 174386,
+      "name": "TOMBOY",
+      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "I NEVER DIE",
-        "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
       "artists": [
         {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 174386,
-      "name": "TOMBOY",
-      "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
         "name": "I love",
         "url": "https://open.spotify.com/album/2Hyuin3i1cSZ1FlQFeCPZH"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 178453,
       "name": "Nxde",
       "url": "https://open.spotify.com/track/6NnCWIWV740gP7DQ8kqdIE"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 221573,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
         "name": "MAXIDENT",
         "url": "https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 182670,
       "name": "Chasing That Feeling",
       "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "SEVENTEEN 10th Mini Album 'FML'",
-        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
         "name": "The Chaos Chapter: FREEZE",
         "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
+        "name": "SEVENTEEN 10th Mini Album 'FML'",
+        "url": "https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/3AOf6YEpxQ894FmrwI9k96"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
         "name": "2",
         "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "Fe3O4: STICK OUT",
-        "url": "https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 182795,
-      "name": "See that?",
-      "url": "https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
         "name": "HOW?",
         "url": "https://open.spotify.com/album/2p5IDUbayBHcmcgSNIQx6V"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
+        "name": "Fe3O4: STICK OUT",
+        "url": "https://open.spotify.com/album/2pb2RscdByJ8pc7dPT1SY2"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 182795,
+      "name": "See that?",
+      "url": "https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
         "name": "BETWEEN 1&2",
         "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 177466,
       "name": "Talk that Talk",
       "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
-        "name": "MANIFESTO : DAY 1",
-        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "Future Perfect (Pass the MIC)",
-      "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -1327,22 +1311,6 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 214136,
-      "name": "Way Back Home",
-      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
         "name": "TOXIC",
         "url": "https://open.spotify.com/album/2JtBV7vukBxQc3GoX6VOWk"
       },
@@ -1355,6 +1323,38 @@
       "duration_ms": 123739,
       "name": "BODY",
       "url": "https://open.spotify.com/track/0u18ibQ2zk470oLSP3D5WR"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Future Perfect (Pass the MIC)",
+      "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 214136,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
-        "name": "minisode 2: Thursday's Child",
-        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 191038,
-      "name": "Good Boy Gone Bad",
-      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "BORN TO BE",
-        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "UNTOUCHABLE",
-      "url": "https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
         "name": "3D (Justin Timberlake Remix)",
         "url": "https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 160942,
       "name": "3D (Justin Timberlake Remix)",
       "url": "https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "UNTOUCHABLE",
+      "url": "https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "CINEMA PARADISE",
-        "url": "https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF"
-      },
-      "artists": [
-        {
-          "name": "ZEROBASEONE",
-          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
-        }
-      ],
-      "duration_ms": 177989,
-      "name": "GOOD SO BAD",
-      "url": "https://open.spotify.com/track/28HVi8XtrlKauIVUxSlc6q"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
         "name": "THE WORLD EP.1 : MOVEMENT",
         "url": "https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 207921,
       "name": "Guerrilla",
       "url": "https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
+        "name": "CINEMA PARADISE",
+        "url": "https://open.spotify.com/album/4sJqg93IDEPUQlj4CwQacF"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 177989,
+      "name": "GOOD SO BAD",
+      "url": "https://open.spotify.com/track/28HVi8XtrlKauIVUxSlc6q"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "The Planet",
-        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+        "name": "DON\u2019T MESS UP MY TEMPO \u2013 The 5th Album",
+        "url": "https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 178156,
-      "name": "The Planet",
-      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
+      "duration_ms": 224482,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4EjUFjzi4ErWjklOA3Aslu"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -2211,6 +2211,22 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
+        "name": "The Planet",
+        "url": "https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "The Planet",
+      "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
         "name": "Wife",
         "url": "https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 121226,
       "name": "Wife",
       "url": "https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
-        "name": "DON\u2019T MESS UP MY TEMPO \u2013 The 5th Album",
-        "url": "https://open.spotify.com/album/0aMI0Kctp6xwSnRFakNF3D"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 224482,
-      "name": "Tempo",
-      "url": "https://open.spotify.com/track/4EjUFjzi4ErWjklOA3Aslu"
     },
     {
       "added_at": "2024-11-26 07:00:59",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2024-11-26 07:00:59",
       "album": {
-        "name": "<Dall>",
-        "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
-      },
-      "artists": [
-        {
-          "name": "ARTMS",
-          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
-        }
-      ],
-      "duration_ms": 173640,
-      "name": "Virtual Angel",
-      "url": "https://open.spotify.com/track/1iGNZerzZHm2GLu7k1OS3J"
-    },
-    {
-      "added_at": "2024-11-26 07:00:59",
-      "album": {
         "name": "EXIST \u2013 The 7th Album",
         "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 185320,
       "name": "Cream Soda",
       "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
+    },
+    {
+      "added_at": "2024-11-26 07:00:59",
+      "album": {
+        "name": "<Dall>",
+        "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
+      },
+      "artists": [
+        {
+          "name": "ARTMS",
+          "url": "https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07"
+        }
+      ],
+      "duration_ms": 173640,
+      "name": "Virtual Angel",
+      "url": "https://open.spotify.com/track/1iGNZerzZHm2GLu7k1OS3J"
     },
     {
       "added_at": "2024-11-26 07:00:59",

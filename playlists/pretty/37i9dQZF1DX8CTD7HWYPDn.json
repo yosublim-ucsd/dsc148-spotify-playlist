@@ -1,6 +1,6 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1704563,
+  "num_followers": 1704536,
   "original_name": "Karaoke 2024",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Viva La Vida or Death and All His Friends",
         "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 242373,
       "name": "Viva La Vida",
       "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Dreams - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Arrival",
         "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291293,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291293,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -403,22 +403,6 @@
       "duration_ms": 238266,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -443,18 +427,18 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Kiss",
-        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
         }
       ],
-      "duration_ms": 193400,
-      "name": "Call Me Maybe",
-      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -479,18 +463,18 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+        "name": "Kiss",
+        "url": "https://open.spotify.com/album/6SSSF9Y6MiPdQoxqBptrR2"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 190626,
-      "name": "You Make My Dreams (Come True)",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
+      "duration_ms": 193400,
+      "name": "Call Me Maybe",
+      "url": "https://open.spotify.com/track/20I6sIOMTCkB6w7ryavxtO"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -507,6 +491,22 @@
       "duration_ms": 204600,
       "name": "Dile",
       "url": "https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "You Make My Dreams (Come True)",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 224493,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -687,22 +687,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 258786,
-      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
-      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Blur (Special Edition)",
         "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 121160,
       "name": "Song 2 - 2012 Remaster",
       "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 258786,
+      "name": "It Must Have Been Love - From the Film \"Pretty Woman\"",
+      "url": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "VIDA",
         "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 229360,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Just Once In My Life",
-        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Just Once In My Life",
+        "url": "https://open.spotify.com/album/0oeMysdC6eeivvWbvQ9JNm"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 125666,
-      "name": "Yesterday - Remastered 2009",
-      "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 298666,
       "name": "Killing Me Softly With His Song",
       "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 125666,
+      "name": "Yesterday - Remastered 2009",
+      "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 342680,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Sue\u00f1os L\u00edquidos",
         "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 342680,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/1z3ugFmUKoCzGsI6jdY4Ci"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
         "name": "Everytime We Touch (Premium Edition)",
         "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 258040,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1427,8 +1427,8 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+        "name": "News Of The World (2011 Remaster)",
+        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
       },
       "artists": [
         {
@@ -1436,9 +1436,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
+      "duration_ms": 179200,
+      "name": "We Are The Champions - Remastered 2011",
+      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1515,8 +1515,8 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "News Of The World (2011 Remaster)",
-        "url": "https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt"
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
       },
       "artists": [
         {
@@ -1524,9 +1524,9 @@
           "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 179200,
-      "name": "We Are The Champions - Remastered 2011",
-      "url": "https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW"
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Estopa",
         "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 202026,
       "name": "Como Camar\u00f3n",
       "url": "https://open.spotify.com/track/1VB4sadHjFcFklHcZuoROi"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 238560,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Finest",
         "url": "https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Single Ladies (Put a Ring on It)",
-      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Bonito",
         "url": "https://open.spotify.com/album/2Hv4CIt50qRTakHeBsTpNf"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 254053,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/5FiB1uNoGZE4PenzZd7Imu"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "P\u00e1jaros En La Cabeza",
-        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Marta, Sebas, Guille y los dem\u00e1s",
-      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Abraxas",
         "url": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 256933,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "P\u00e1jaros En La Cabeza",
+        "url": "https://open.spotify.com/album/6DCFKUUTjEANNG889DLYaW"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Marta, Sebas, Guille y los dem\u00e1s",
+      "url": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2327,22 +2327,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "The Best Of Don McLean",
-        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 515866,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Zapatillas",
         "url": "https://open.spotify.com/album/3dToFs6qDSWkR1HttqgpnF"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 172640,
       "name": "Zapatillas",
       "url": "https://open.spotify.com/track/42VgiRyg0YjtRVLiPFNxPJ"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -2615,22 +2615,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
-        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 232880,
-      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
-      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Estados de Animo",
         "url": "https://open.spotify.com/album/6Fs4ZLz6N8IZtXR20zjwjy"
       },
@@ -2643,6 +2627,22 @@
       "duration_ms": 209893,
       "name": "Una Foto en Blanco y Negro",
       "url": "https://open.spotify.com/track/1LuW4h5s9ZumBbMh7qhDDj"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Asondeguerra Tour (En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012)",
+        "url": "https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 232880,
+      "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
+      "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
     },
     {
       "added_at": "2024-07-09 14:42:11",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2024-07-09 14:42:11",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
-    },
-    {
-      "added_at": "2024-07-09 14:42:11",
-      "album": {
         "name": "Exodus (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
       },
@@ -3239,6 +3223,22 @@
       "duration_ms": 180266,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z"
+    },
+    {
+      "added_at": "2024-07-09 14:42:11",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP"
     },
     {
       "added_at": "2024-07-09 14:42:11",

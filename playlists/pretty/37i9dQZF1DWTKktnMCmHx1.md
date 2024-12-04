@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,717 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,714 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 67 | [24 \(feat\. Lil Baby\)](https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [24 \(feat\. Lil Baby\)](https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5) | 3:02 |
 | 68 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 |
 | 69 | [fuck 3x](https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 2:41 |
-| 70 | [Alleluia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:40 |
-| 71 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 |
+| 70 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 |
+| 71 | [Alleluia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:40 |
 | 72 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 |
 | 73 | [REPEAT IT \(with Gunna\)](https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [REPEAT IT](https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF) | 3:10 |
 | 74 | [ELEGANTE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ELO](https://open.spotify.com/album/0vp8LbPMJ0tAlqz2wjWRJa) | 3:40 |

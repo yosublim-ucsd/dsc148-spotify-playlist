@@ -1,12 +1,12 @@
 {
   "description": "This is Stefanie. The essential tracks, all in one playlist.",
-  "num_followers": 89,
+  "num_followers": 90,
   "original_name": "This Is Stefanie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAB0gi0Z5mQxAlZdKMT0DF0/",
+  "snapshot_id": "Z0z4gAAAAABs3v2S7yTNA9dBsus/ux2e",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Movimento R\u00e1pido dos Olhos",
+        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        }
+      ],
+      "duration_ms": 207071,
+      "name": "Na Entrada Do C\u00e9u",
+      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Azz Veizz (Das Minas)",
         "url": "https://open.spotify.com/album/4xcSH0hD8XqnSecEJVAbPv"
       },
@@ -263,26 +283,6 @@
       "duration_ms": 417831,
       "name": "Azz Veizz (Das Minas)",
       "url": "https://open.spotify.com/track/2SLR4vTHHs0zyR6B1UUqk7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Movimento R\u00e1pido dos Olhos",
-        "url": "https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        }
-      ],
-      "duration_ms": 207071,
-      "name": "Na Entrada Do C\u00e9u",
-      "url": "https://open.spotify.com/track/2qyctDCiic8LglZE7NM2Hq"
     },
     {
       "added_at": null,
@@ -427,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raio de Sol",
+        "url": "https://open.spotify.com/album/3gpGDZnLal3U3Izek5Q2bt"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "duration_ms": 172676,
+      "name": "Raio de Sol",
+      "url": "https://open.spotify.com/track/6Gh7zFJpD7amBqvEq1JbDr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coroa de Flores",
         "url": "https://open.spotify.com/album/3dmJmIcejU0YpJrq3EJuIk"
       },
@@ -451,58 +471,6 @@
       "duration_ms": 258656,
       "name": "Coroa de Flores",
       "url": "https://open.spotify.com/track/3p9uy80dCV8Mvwqxk4lnSQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raio de Sol",
-        "url": "https://open.spotify.com/album/3gpGDZnLal3U3Izek5Q2bt"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 172676,
-      "name": "Raio de Sol",
-      "url": "https://open.spotify.com/track/6Gh7zFJpD7amBqvEq1JbDr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry Drummer & Friends, Vol. 2",
-        "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
-      },
-      "artists": [
-        {
-          "name": "Sorry Drummer",
-          "url": "https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/4RzzS0tS9p2D3IXXYsnOll"
-        },
-        {
-          "name": "Tatiana Bispo",
-          "url": "https://open.spotify.com/artist/0Z3J1nYuQunKAqOeVmRXeX"
-        },
-        {
-          "name": "DJ Negrito",
-          "url": "https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1"
-        }
-      ],
-      "duration_ms": 222142,
-      "name": "Perto de Mim",
-      "url": "https://open.spotify.com/track/5Rc2h0yW0OeHusr4gwwtt7"
     },
     {
       "added_at": null,
@@ -547,6 +515,38 @@
       "duration_ms": 364682,
       "name": "Elza",
       "url": "https://open.spotify.com/track/303Ggzkhj1cUVhV5BbQL0d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry Drummer & Friends, Vol. 2",
+        "url": "https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0"
+      },
+      "artists": [
+        {
+          "name": "Sorry Drummer",
+          "url": "https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL"
+        },
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/4RzzS0tS9p2D3IXXYsnOll"
+        },
+        {
+          "name": "Tatiana Bispo",
+          "url": "https://open.spotify.com/artist/0Z3J1nYuQunKAqOeVmRXeX"
+        },
+        {
+          "name": "DJ Negrito",
+          "url": "https://open.spotify.com/artist/7moCvonQ3XMZVzrlsTK4K1"
+        }
+      ],
+      "duration_ms": 222142,
+      "name": "Perto de Mim",
+      "url": "https://open.spotify.com/track/5Rc2h0yW0OeHusr4gwwtt7"
     },
     {
       "added_at": null,
@@ -658,11 +658,15 @@
         {
           "name": "Mayra Maldjian",
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
+        },
+        {
+          "name": "Djamila Ribeiro",
+          "url": "https://open.spotify.com/artist/5tQuAu98DIum7c9AgtX1BF"
         }
       ],
-      "duration_ms": 458496,
-      "name": "Origens",
-      "url": "https://open.spotify.com/track/4m761r02qZI0mIZiTfuz9U"
+      "duration_ms": 519168,
+      "name": "Manifesto / Pule, Garota",
+      "url": "https://open.spotify.com/track/1VIBGa37qbipRVncehwjf7"
     },
     {
       "added_at": null,
@@ -774,35 +778,11 @@
         {
           "name": "Mayra Maldjian",
           "url": "https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk"
-        },
-        {
-          "name": "Djamila Ribeiro",
-          "url": "https://open.spotify.com/artist/5tQuAu98DIum7c9AgtX1BF"
         }
       ],
-      "duration_ms": 519168,
-      "name": "Manifesto / Pule, Garota",
-      "url": "https://open.spotify.com/track/1VIBGa37qbipRVncehwjf7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Parte",
-        "url": "https://open.spotify.com/album/0pfFMEfzWiixzoC7RR1O9e"
-      },
-      "artists": [
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "DJ Nato_PK",
-          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
-        }
-      ],
-      "duration_ms": 228165,
-      "name": "Minha Parte",
-      "url": "https://open.spotify.com/track/16YONjMPRBd8tVd3QnhxTl"
+      "duration_ms": 458496,
+      "name": "Origens",
+      "url": "https://open.spotify.com/track/4m761r02qZI0mIZiTfuz9U"
     },
     {
       "added_at": null,
@@ -823,6 +803,26 @@
       "duration_ms": 219753,
       "name": "Reencontro",
       "url": "https://open.spotify.com/track/19czMTeb4NPu3tr2Mo4wQM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minha Parte",
+        "url": "https://open.spotify.com/album/0pfFMEfzWiixzoC7RR1O9e"
+      },
+      "artists": [
+        {
+          "name": "Stefanie",
+          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
+        },
+        {
+          "name": "DJ Nato_PK",
+          "url": "https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W"
+        }
+      ],
+      "duration_ms": 228165,
+      "name": "Minha Parte",
+      "url": "https://open.spotify.com/track/16YONjMPRBd8tVd3QnhxTl"
     },
     {
       "added_at": null,

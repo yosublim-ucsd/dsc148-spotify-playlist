@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "Ghana",
+        "url": "https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85213,
+      "name": "Orange Ball Of Peace",
+      "url": "https://open.spotify.com/track/74oZqezSCXiJZjwLZ2KgzX"
+    },
+    {
+      "album": {
         "name": "Spirit Phone",
         "url": "https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Marioo
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,629 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,643 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

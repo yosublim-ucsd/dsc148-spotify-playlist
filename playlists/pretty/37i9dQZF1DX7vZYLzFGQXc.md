@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: verycoybunny\(베리코이버니\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,069 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,083 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

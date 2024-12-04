@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: The Marías
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,071,034 likes - 132 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,071,003 likes - 132 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 582803,
+  "num_followers": 582848,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -675,50 +675,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/6tBYHEsGKuUmzXMxwQxLN3"
-      },
-      "artists": [
-        {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
-        },
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Bryce Vine",
-          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
-        }
-      ],
-      "duration_ms": 144793,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/1SF2Yv4eZgtd7q6ygLqKc9"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
-        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
-        }
-      ],
-      "duration_ms": 172884,
-      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
-      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Getting There From Here (with Todd Edwards)",
         "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
       },
@@ -743,22 +699,46 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "24 (Turn It Up) (Radio Edit)",
-        "url": "https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ"
+        "name": "Tighten It Up (Barney Bones - DRAMA Edit)",
+        "url": "https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply"
       },
       "artists": [
         {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         },
         {
-          "name": "Kurtis Wells",
-          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         }
       ],
-      "duration_ms": 191084,
-      "name": "24 (Turn It Up) (Radio Edit)",
-      "url": "https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC"
+      "duration_ms": 172884,
+      "name": "Tighten It Up - Barney Bones - DRAMA Edit",
+      "url": "https://open.spotify.com/track/5suNUnahl3rSictF1dBPei"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Dance With You",
+        "url": "https://open.spotify.com/album/6tBYHEsGKuUmzXMxwQxLN3"
+      },
+      "artists": [
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+        },
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Bryce Vine",
+          "url": "https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I"
+        }
+      ],
+      "duration_ms": 144793,
+      "name": "Dance With You",
+      "url": "https://open.spotify.com/track/1SF2Yv4eZgtd7q6ygLqKc9"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -819,6 +799,26 @@
       "duration_ms": 210013,
       "name": "Turning Onto You - HNNY Remix",
       "url": "https://open.spotify.com/track/38hxhxzCWO8ffzhdY57pBM"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "24 (Turn It Up) (Radio Edit)",
+        "url": "https://open.spotify.com/album/2s9zNqmUbiwUbF4xSAFFQJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        }
+      ],
+      "duration_ms": 191084,
+      "name": "24 (Turn It Up) (Radio Edit)",
+      "url": "https://open.spotify.com/track/2QJoGGYG3hUZswfzYI6bBC"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Cortados (Edit)",
+        "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
+      },
+      "artists": [
+        {
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Our Way - Edit",
+      "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "So Nice To Be In Love",
         "url": "https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 154807,
       "name": "So Nice To Be In Love",
       "url": "https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Cortados (Edit)",
-        "url": "https://open.spotify.com/album/4TvhcQ8jpcSeWXcNMjlzG2"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Our Way - Edit",
-      "url": "https://open.spotify.com/track/4IC1Sx6gOC9PSx5EYJR8yi"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Love Seeking",
+        "url": "https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 226565,
+      "name": "Love Seeking",
+      "url": "https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "NEVER ALONE",
         "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 195986,
       "name": "NEVER ALONE",
       "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Love Seeking",
-        "url": "https://open.spotify.com/album/2lZmsUQotWHBObYJywxXXF"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        }
-      ],
-      "duration_ms": 226565,
-      "name": "Love Seeking",
-      "url": "https://open.spotify.com/track/0tsy6nz8kxejwfHa2MIj42"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Emotion EP",
-        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Chains",
         "url": "https://open.spotify.com/album/7xqR7N9ez7TmKEKv9XNr8D"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 215649,
       "name": "Chains",
       "url": "https://open.spotify.com/track/3hV1IkFNIDdPciUFbOL4i6"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Emotion EP",
+        "url": "https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 184918,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/2CiOFdudXTfZfsd1lZqrhR"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Tides (Jean Tonique Remix)",
-        "url": "https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY"
-      },
-      "artists": [
-        {
-          "name": "3kelves",
-          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
-        },
-        {
-          "name": "Jean Tonique",
-          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Tides - Jean Tonique Remix",
-      "url": "https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "All The Things We Say / Move Me",
         "url": "https://open.spotify.com/album/2ciY9tUIVAM1rEsr9wjXq4"
       },
@@ -1863,18 +1843,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Manifesto",
-        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
+        "name": "cabo player",
+        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
       },
       "artists": [
         {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
         }
       ],
-      "duration_ms": 355480,
-      "name": "Poundland Anthem",
-      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+      "duration_ms": 139000,
+      "name": "cabo player",
+      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1903,18 +1883,38 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "cabo player",
-        "url": "https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO"
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
         }
       ],
-      "duration_ms": 139000,
-      "name": "cabo player",
-      "url": "https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6"
+      "duration_ms": 355480,
+      "name": "Poundland Anthem",
+      "url": "https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Tides (Jean Tonique Remix)",
+        "url": "https://open.spotify.com/album/6iB6j9WbxZ3e3Ooht1fteY"
+      },
+      "artists": [
+        {
+          "name": "3kelves",
+          "url": "https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Tides - Jean Tonique Remix",
+      "url": "https://open.spotify.com/track/7G7Ugg03M2X0lKvQp4uGl0"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1999,22 +1999,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Cosmic Fonk",
-        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
+        "name": "Waiting 4 You",
+        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
       },
       "artists": [
         {
-          "name": "Dabeull",
-          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
-        },
-        {
-          "name": "HolyBrune",
-          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
+          "name": "Ekkah",
+          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
         }
       ],
-      "duration_ms": 213815,
-      "name": "Glitter Fonk",
-      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
+      "duration_ms": 220299,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2043,18 +2039,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Waiting 4 You",
-        "url": "https://open.spotify.com/album/6azOujmzDmxwelXemqImSU"
+        "name": "Cosmic Fonk",
+        "url": "https://open.spotify.com/album/2hWZr2ZlvLVHbehlalUZbc"
       },
       "artists": [
         {
-          "name": "Ekkah",
-          "url": "https://open.spotify.com/artist/31UKSWpSUyiReoTEb39vHb"
+          "name": "Dabeull",
+          "url": "https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb"
+        },
+        {
+          "name": "HolyBrune",
+          "url": "https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj"
         }
       ],
-      "duration_ms": 220299,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/6APQPY2tZzOV9T4iNSXdYe"
+      "duration_ms": 213815,
+      "name": "Glitter Fonk",
+      "url": "https://open.spotify.com/track/1ewaelTFQ4zyNetGxEcB2x"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2115,22 +2115,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Always By Your Side",
-        "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
-      },
-      "artists": [
-        {
-          "name": "Saib",
-          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
-        }
-      ],
-      "duration_ms": 337975,
-      "name": "Always By Your Side",
-      "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/3wMMfTXXz9mA3lg0dDPrcZ"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 167598,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/1UMvVsZlOd8jWPoh8ZvALl"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Always By Your Side",
+        "url": "https://open.spotify.com/album/1o4hTnWRBt6GxbNytqNHxH"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        }
+      ],
+      "duration_ms": 337975,
+      "name": "Always By Your Side",
+      "url": "https://open.spotify.com/track/11jjzsFPIuaVORI0HSdLGt"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -2271,6 +2271,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 219810,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "A Chance / Ask Yourself (Can You Dance)",
         "url": "https://open.spotify.com/album/1eTSe304zMIBmpFQ1Vj9hc"
       },
@@ -2311,22 +2327,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Ol\u00e9 Maca",
-        "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
-      },
-      "artists": [
-        {
-          "name": "Paco Versailles",
-          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
-        }
-      ],
-      "duration_ms": 279036,
-      "name": "Letras",
-      "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "If You Want It",
         "url": "https://open.spotify.com/album/7J2SojuAJUqJWQg9828Equ"
       },
@@ -2343,18 +2343,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/5Ls9pWlUAXaHOZUhAk20Wd"
+        "name": "Ol\u00e9 Maca",
+        "url": "https://open.spotify.com/album/1Yyn7C2ZXzr4LLWFoX03FK"
       },
       "artists": [
         {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+          "name": "Paco Versailles",
+          "url": "https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW"
         }
       ],
-      "duration_ms": 219810,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/6GRRR3GTp9kVIfX3J9UcON"
+      "duration_ms": 279036,
+      "name": "Letras",
+      "url": "https://open.spotify.com/track/7B0ncllGN5qLXM472iCUuP"
     },
     {
       "added_at": "2024-11-22 05:00:00",

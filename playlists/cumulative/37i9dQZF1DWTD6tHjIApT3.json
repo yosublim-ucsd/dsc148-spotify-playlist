@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: adieu",
+  "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: RiE MORRiS",
   "name": "Women's Voice",
   "tracks": [
     {
@@ -1651,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "AlwayS",
+        "url": "https://open.spotify.com/album/3eIBSBfp00tC60r4udiZzH"
+      },
+      "artists": [
+        {
+          "name": "NiziU",
+          "url": "https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260746,
+      "name": "AlwayS",
+      "url": "https://open.spotify.com/track/1JDhfeBJT1w9G4ToHpwJUO"
+    },
+    {
+      "album": {
         "name": "Always You",
         "url": "https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD"
       },
@@ -3203,6 +3221,28 @@
     },
     {
       "album": {
+        "name": "Beyond (From \"Moana 2\"/Japanese Soundtrack Version)",
+        "url": "https://open.spotify.com/album/3R5GFStpFSpLbwzdUfHY7w"
+      },
+      "artists": [
+        {
+          "name": "Tomona Yabiku",
+          "url": "https://open.spotify.com/artist/2Lb3zC9wp80AElXkJhnFzz"
+        },
+        {
+          "name": "Mari Natsuki",
+          "url": "https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230266,
+      "name": "Beyond - From \"Moana 2\"/Japanese Soundtrack Version",
+      "url": "https://open.spotify.com/track/0H70KODhkvk6Bf07zI6PMz"
+    },
+    {
+      "album": {
         "name": "Weekday",
         "url": "https://open.spotify.com/album/37176xs2bTWghwyAA67mHd"
       },
@@ -4196,7 +4236,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 208333,
       "name": "By myself",
       "url": "https://open.spotify.com/track/15mMon9dSHVqU3fe4LoBz5"
@@ -7284,7 +7324,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 241586,
       "name": "Endless",
       "url": "https://open.spotify.com/track/4qTY7rQSQ4M6JP3TfoMbG6"
@@ -7364,6 +7404,24 @@
       "duration_ms": 242341,
       "name": "escalate",
       "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+    },
+    {
+      "album": {
+        "name": "blue night",
+        "url": "https://open.spotify.com/album/5KpQ2ul7NAwWVVfTzwkkqH"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "escape",
+      "url": "https://open.spotify.com/track/2E4Dv2RWwYpb1tYaaJG8nW"
     },
     {
       "album": {
@@ -8870,7 +8928,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 202042,
       "name": "Ginger",
       "url": "https://open.spotify.com/track/7bsa6yPlYiLMvgWo89IKKc"
@@ -10814,7 +10872,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 150483,
       "name": "How are you feeling?",
       "url": "https://open.spotify.com/track/2uPfOgWxzj99atXxkb0mXv"
@@ -14672,7 +14730,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 286400,
       "name": "LONELY",
       "url": "https://open.spotify.com/track/13iGOxPi9XuTpXcc8EejKr"
@@ -18563,6 +18621,28 @@
     },
     {
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/3rMqO35Fau6K2G662vp9f6"
+      },
+      "artists": [
+        {
+          "name": "RiE MORRiS",
+          "url": "https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0"
+        },
+        {
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209100,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/6topXSGgYh6TwuMuvrS4hT"
+    },
+    {
+      "album": {
         "name": "On&On",
         "url": "https://open.spotify.com/album/228RotYYsP1zB9KNgrky21"
       },
@@ -19392,7 +19472,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 207160,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4j3ZYby4xNDuqfHb3Crm4k"
@@ -21844,7 +21924,7 @@
       ],
       "date_added": "2024-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 210421,
       "name": "season of you",
       "url": "https://open.spotify.com/track/20HLR6jrdHeRIiRI89J812"
@@ -22538,6 +22618,24 @@
       "duration_ms": 180066,
       "name": "shut up",
       "url": "https://open.spotify.com/track/3DhRMhmtepMMEVxTEjllwr"
+    },
+    {
+      "album": {
+        "name": "SIDE EYE",
+        "url": "https://open.spotify.com/album/3s6P4CJa1sOB0QQ3IBlraX"
+      },
+      "artists": [
+        {
+          "name": "\u7532\u7530\u307e\u3072\u308b",
+          "url": "https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187761,
+      "name": "SIDE EYE",
+      "url": "https://open.spotify.com/track/45pE4ELWrsy63jiX58S02N"
     },
     {
       "album": {
@@ -27241,6 +27339,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30ab\u30a4\u30ed",
+        "url": "https://open.spotify.com/album/5VPIhSD1DhBxxC3BhkSsDX"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156266,
+      "name": "UnSaid",
+      "url": "https://open.spotify.com/track/3ywmjRImJp7Mc6p54cineY"
+    },
+    {
+      "album": {
         "name": "UP TO ME!",
         "url": "https://open.spotify.com/album/7hBsU35JlTGaVv5lwaxBli"
       },
@@ -27994,7 +28110,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 197700,
       "name": "We All Lie",
       "url": "https://open.spotify.com/track/6aZdiWyBdyuSq9i50YjZe8"
@@ -30873,6 +30989,24 @@
     },
     {
       "album": {
+        "name": "\u304a\u306f\u3088\u3046 \u305f\u3060\u3044\u307e \u304a\u3084\u3059\u307f",
+        "url": "https://open.spotify.com/album/2mAd1FoQewULeod0o4DR6V"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30a4\u30e9\u30f4\u30df\u30fc",
+          "url": "https://open.spotify.com/artist/5E1E14jPqjgoqcE8wxiqxN"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "\u304a\u306f\u3088\u3046 \u305f\u3060\u3044\u307e \u304a\u3084\u3059\u307f",
+      "url": "https://open.spotify.com/track/0NDh2sw7wTzxuj5ttGbBg7"
+    },
+    {
+      "album": {
         "name": "\u304a\u3082\u304b\u3052 (produced by Vaundy)",
         "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE"
       },
@@ -33177,6 +33311,24 @@
     },
     {
       "album": {
+        "name": "A.O.R - Adult Oriented Romance",
+        "url": "https://open.spotify.com/album/4IQrudl1W0S3dPN1ROFhKX"
+      },
+      "artists": [
+        {
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271079,
+      "name": "\u307e\u305f\u4f1a\u3044\u306b\u884c\u304f\u304b\u3089",
+      "url": "https://open.spotify.com/track/4OJ4SC7lLzfU7fNlNoNbjM"
+    },
+    {
+      "album": {
         "name": "\u307e\u305f\u541b\u306b\u604b\u3092\u3059\u308b",
         "url": "https://open.spotify.com/album/4U0oaI17bgvkJZx0PbZqQb"
       },
@@ -33928,6 +34080,24 @@
       "duration_ms": 211278,
       "name": "\u30a2\u30a4\u30f2",
       "url": "https://open.spotify.com/track/6Gk4InYH6J6GrbCEgeB0Kv"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30ab\u30a4\u30ed",
+        "url": "https://open.spotify.com/album/6uh3L9f5J6OamYhp4VkAwP"
+      },
+      "artists": [
+        {
+          "name": "Hana Hope",
+          "url": "https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248265,
+      "name": "\u30a2\u30ab\u30a4\u30ed",
+      "url": "https://open.spotify.com/track/5VZnu1y78R281GShmN43TN"
     },
     {
       "album": {
@@ -37238,7 +37408,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 160768,
       "name": "\u30d0\u30bf\u30d5\u30e9\u30a4",
       "url": "https://open.spotify.com/track/1tEHDeIPZQXiuds5eOthc7"
@@ -37956,7 +38126,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 234400,
       "name": "\u30d7\u30ed\u30dd\u30fc\u30ba",
       "url": "https://open.spotify.com/track/1qODHv6fuFFDtozc05hoN6"
@@ -40552,7 +40722,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 201710,
       "name": "\u5148\u8f29",
       "url": "https://open.spotify.com/track/6gLRCBorathPRQIRqC2Ia3"
@@ -42479,6 +42649,28 @@
     },
     {
       "album": {
+        "name": "\u591c\u306b\u30c0\u30f3\u30b9 (10th Anniversary MIX)",
+        "url": "https://open.spotify.com/album/4FJms174QzHJ9GAIFiccks"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30ec\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh"
+        },
+        {
+          "name": "TAAR",
+          "url": "https://open.spotify.com/artist/7MMmb0i2DjUg6Umom4nrh4"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298888,
+      "name": "\u591c\u306b\u30c0\u30f3\u30b9 - (10th Anniversary MIX)",
+      "url": "https://open.spotify.com/track/4ZzKBwjoZg59Q48tw5Pupe"
+    },
+    {
+      "album": {
         "name": "\u591c\u306e\u9b54\u7269",
         "url": "https://open.spotify.com/album/3KgfV1XgQMmxBrwcMFmQwT"
       },
@@ -44214,6 +44406,24 @@
       "duration_ms": 269093,
       "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
       "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
+    },
+    {
+      "album": {
+        "name": "\u60aa\u3044\u4eba",
+        "url": "https://open.spotify.com/album/06bDwjXKGt0aath0TxZ8GY"
+      },
+      "artists": [
+        {
+          "name": "\u6226\u6144\u304b\u306a\u306e",
+          "url": "https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "\u60aa\u3044\u4eba",
+      "url": "https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "45 grados y un chingo de cerveza... \u00a1As\u00ed suena el noreste! ",
-  "num_followers": 148134,
+  "num_followers": 148182,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "No Mastico Culebras",
+        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 134975,
+      "name": "No Mastico Culebras",
+      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "No Mastico Culebras",
-        "url": "https://open.spotify.com/album/0fpStU1jiwUS38aRfiSoOW"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 134975,
-      "name": "No Mastico Culebras",
-      "url": "https://open.spotify.com/track/4leBhPSlAThn6GDviA2Tlp"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "A Ella",
+      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "MONEY EDITION",
         "url": "https://open.spotify.com/album/0FHtzHjyMXFagXDyvmTp8i"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 158841,
       "name": "MONEY EDITION",
       "url": "https://open.spotify.com/track/1TUEXG5qBYH9f6smXUe5Y0"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "A Ella",
-      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
+        "name": "Lo Mejor De",
+        "url": "https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Oro",
+          "url": "https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs"
+        }
+      ],
+      "duration_ms": 212140,
+      "name": "Vete a Buscar Aquel",
+      "url": "https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
         "name": "Vuelven los Cl\u00e1sicos de Balneario (Vol. 4)",
         "url": "https://open.spotify.com/album/6EkZ3nDkAXow1mwEzBwPof"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 214226,
       "name": "Te Est\u00e1n Matando los A\u00f1os",
       "url": "https://open.spotify.com/track/3o6WfL7wMC52XvoJI6fGLE"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
-        "name": "Lo Mejor De",
-        "url": "https://open.spotify.com/album/4HzwFCe7YSXPPgjCmQfleP"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Oro",
-          "url": "https://open.spotify.com/artist/5q6hPtWmFpje38EmPPlqHs"
-        }
-      ],
-      "duration_ms": 212140,
-      "name": "Vete a Buscar Aquel",
-      "url": "https://open.spotify.com/track/5aN7yH7kjfOXCC8yLEHKhm"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Cuando el Hombre Llega a Viejo",
-        "url": "https://open.spotify.com/album/2X92nMtrA02l1TkO1w7jaP"
-      },
-      "artists": [
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 204094,
-      "name": "La Cumbia Rebaja",
-      "url": "https://open.spotify.com/track/78ls4TlaIOP9fJoEJiD8w0"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "La Pura Crema",
         "url": "https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 227674,
       "name": "Que Me Toque Una Cumbita (La Cumbita)",
       "url": "https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Cuando el Hombre Llega a Viejo",
+        "url": "https://open.spotify.com/album/2X92nMtrA02l1TkO1w7jaP"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 204094,
+      "name": "La Cumbia Rebaja",
+      "url": "https://open.spotify.com/track/78ls4TlaIOP9fJoEJiD8w0"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1739,6 +1739,22 @@
       "duration_ms": 311533,
       "name": "Marisol",
       "url": "https://open.spotify.com/track/154tEgzLRFFYozPO87d3VE"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Sin Limites",
+        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
+      },
+      "artists": [
+        {
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
+        }
+      ],
+      "duration_ms": 211984,
+      "name": "Mira, Mira, M\u00edrala",
+      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
     },
     {
       "added_at": "2024-07-15 22:48:03",
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Sin Limites",
-        "url": "https://open.spotify.com/album/1A9EiNUhd2D5cZb0ngaEeT"
-      },
-      "artists": [
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Mira, Mira, M\u00edrala",
-      "url": "https://open.spotify.com/track/7jZYIqoVPZlvASe7s9cQID"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Obsesi\u00f3n",
         "url": "https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY"
       },
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2024-07-15 22:48:03",
       "album": {
-        "name": "Eras",
-        "url": "https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg"
-      },
-      "artists": [
-        {
-          "name": "KUMBIAMBEROS RS",
-          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
-        }
-      ],
-      "duration_ms": 219509,
-      "name": "Eras",
-      "url": "https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO"
-    },
-    {
-      "added_at": "2024-07-15 22:48:03",
-      "album": {
         "name": "Chimenea (En Vivo)",
         "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 180491,
       "name": "Chimenea - En Vivo",
       "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
+    },
+    {
+      "added_at": "2024-07-15 22:48:03",
+      "album": {
+        "name": "Eras",
+        "url": "https://open.spotify.com/album/6zVmmrev2eBuEDBRSCsUUg"
+      },
+      "artists": [
+        {
+          "name": "KUMBIAMBEROS RS",
+          "url": "https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak"
+        }
+      ],
+      "duration_ms": 219509,
+      "name": "Eras",
+      "url": "https://open.spotify.com/track/6Tfdvb0Evy5rjjcoIiXRaO"
     },
     {
       "added_at": "2024-07-15 22:48:03",

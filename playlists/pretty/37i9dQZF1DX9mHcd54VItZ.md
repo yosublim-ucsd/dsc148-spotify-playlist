@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=byibppzNRu\-Nf3rTYQg5LA">Prime Circle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,085 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,096 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 30 | [Even If](https://open.spotify.com/track/3hafu7svrimt7vpensLKie) | [Zondagkraal](https://open.spotify.com/artist/0k9d7PDNcw5uY0JlHmjTy7) | [Even If](https://open.spotify.com/album/1aEDybLnWMu8VrRIr8op62) | 2:18 |
 | 31 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
 | 32 | [Kyk Op](https://open.spotify.com/track/24bJuGTgDMck1hxZHg7xFM) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Kyk Op](https://open.spotify.com/album/7uHHOYE8LQgHZZfCLGECeT) | 3:26 |
-| 33 | [Mia, Jy](https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg) | [wiesner](https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I) | [Mia, Jy](https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO) | 4:32 |
-| 34 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
+| 33 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
+| 34 | [Mia, Jy](https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg) | [wiesner](https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I) | [Mia, Jy](https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO) | 4:32 |
 | 35 | [Kopskudkinders](https://open.spotify.com/track/4TFUAomrnQaSBKHz4TRUpa) | [Die Tuindwergies](https://open.spotify.com/artist/54j7TkvX3vgbCUPeH8F8zN) | [Die Tuindwergies](https://open.spotify.com/album/4Yxsbbl1KwF9w2gMAEBGNl) | 4:21 |
 | 36 | [Lonely\-lonely](https://open.spotify.com/track/0aTltS2EBEW76JBVQhIQ7a) | [The Narrow](https://open.spotify.com/artist/00hP5aJk3HbvFpXzcBeSl3) | [Travellers \(Special Edition\)](https://open.spotify.com/album/2nU99tM1MTNt0kbnatGJ9z) | 4:03 |
 | 37 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 38 | [WHEMG](https://open.spotify.com/track/0dy8BVnoUkRROD0jBFWJHI) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [WHEMG](https://open.spotify.com/album/2FRFzYwjquRBBch0vC4Lry) | 3:10 |
-| 39 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 |
-| 40 | [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 |
+| 39 | [Crumble](https://open.spotify.com/track/6PCCjhYOqIeGPh1pxceMYA) | [an00k](https://open.spotify.com/artist/5Hz9QzUFgsTi3kuOzaoEUB), [Lev UFO](https://open.spotify.com/artist/3Dxu22WPSxB8cwk0IlmUSb) | [Crumble](https://open.spotify.com/album/1Uxd82K8UTywJLxLWzZzu2) | 2:41 |
+| 40 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 |
 | 41 | [Genie](https://open.spotify.com/track/1MKQjwVhZb9rtDv3RJKceX) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [AfterlifeSatisfaction](https://open.spotify.com/album/3n4E6vRepghCz4BW5JnsZw) | 4:42 |
 | 42 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
 | 43 | [Kiss Me Hard](https://open.spotify.com/track/1Pd0c4a7vii97gOE0vzxNL) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Kiss Me Hard](https://open.spotify.com/album/1U7stlcv1Z4m4UDSRei2vM) | 2:52 |

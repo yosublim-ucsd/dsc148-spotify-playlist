@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> The campaign for Ariana Grande EGOT starts here!
+> I still remember the third of December 💔
 
 1,874 songs - 4 day 1 hr 54 min
 

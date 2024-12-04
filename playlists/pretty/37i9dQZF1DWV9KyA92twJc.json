@@ -1,6 +1,6 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05db\u05dd. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e2\u05d8\u05d9\u05e4\u05d4: \u05d0\u05d5\u05d3\u05d9\u05d4",
-  "num_followers": 25567,
+  "num_followers": 25565,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 273186,
+      "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
-        "name": "Speak Now (Taylor's Version)",
-        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 273186,
-      "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
-      },
-      "artists": [
-        {
-          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
-          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
         "url": "https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
+        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
+          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
+        }
+      ],
+      "duration_ms": 228320,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
         "name": "38 \u05d5\u05d7\u05d5\u05e5 \u05de\u05db\u05d3\u05d5\u05e8\u05d2\u05dc",
         "url": "https://open.spotify.com/album/20Pqok9eZIM415mGqpRPya"
       },
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "GODMOTHER (feat. Eden Ben Zaken)",
-        "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Eden Ben Zaken",
-          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
-        }
-      ],
-      "duration_ms": 191516,
-      "name": "GODMOTHER (feat. Eden Ben Zaken)",
-      "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "\u05d0\u05d9\u05df \u05d0\u05d5\u05ea\u05e0\u05d5 \u05d9\u05d5\u05ea\u05e8 (By Tamar Yahalomy & Yonatan Kalimi)",
         "url": "https://open.spotify.com/album/3e0NsW70ttnopNfVzZ2P6r"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 184675,
       "name": "\u05d0\u05d9\u05df \u05d0\u05d5\u05ea\u05e0\u05d5 \u05d9\u05d5\u05ea\u05e8 (By Tamar Yahalomy & Yonatan Kalimi)",
       "url": "https://open.spotify.com/track/1zZ9bah4HU0TtICQzCFXp3"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "GODMOTHER (feat. Eden Ben Zaken)",
+        "url": "https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Eden Ben Zaken",
+          "url": "https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt"
+        }
+      ],
+      "duration_ms": 191516,
+      "name": "GODMOTHER (feat. Eden Ben Zaken)",
+      "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "THE VANDALIST",
-        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 207804,
-      "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
-      "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "\u05e8\u05d5\u05e7\u05d3\u05ea \u05d1\u05e9\u05e7\u05d9\u05e2\u05d4",
         "url": "https://open.spotify.com/album/3ofLyqRcjIOtU2oLGzz9Wo"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 192941,
       "name": "\u05e4\u05d9\u05e0\u05d5\u05e7\u05d9\u05d5",
       "url": "https://open.spotify.com/track/0SH0QjZhzbsrgEHNmuO0wy"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "THE VANDALIST",
+        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
+      },
+      "artists": [
+        {
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+        },
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
+      "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
     },
     {
       "added_at": "2024-11-07 22:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-11-07 22:00:00",
       "album": {
-        "name": "Vandalist",
-        "url": "https://open.spotify.com/album/1J2Qg6llMj5VoOamJrRVsQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        }
-      ],
-      "duration_ms": 208374,
-      "name": "Vandalist",
-      "url": "https://open.spotify.com/track/3ENotujIHUavrxkpkQdbnh"
-    },
-    {
-      "added_at": "2024-11-07 22:00:00",
-      "album": {
         "name": "\u05e0\u05ea\u05e7 \u05d0\u05d5\u05ea\u05d9",
         "url": "https://open.spotify.com/album/5hcEdUlI8Ne2eiXtnFQXgY"
       },
@@ -1739,6 +1723,30 @@
       "duration_ms": 194234,
       "name": "\u2060\u05d4\u05db\u05dc \u05e2\u05dc\u05d9\u05d9",
       "url": "https://open.spotify.com/track/07avaGrhcpGlhr47OrYJPj"
+    },
+    {
+      "added_at": "2024-11-07 22:00:00",
+      "album": {
+        "name": "\u05e9\u05d9\u05e0\u05d5\u05d9\u05d9 \u05de\u05d6\u05d2 \u05d4\u05d0\u05d5\u05d5\u05d9\u05e8",
+        "url": "https://open.spotify.com/album/2sfnexzH9BCh3gmFhRW8f1"
+      },
+      "artists": [
+        {
+          "name": "\u05d4\u05ea\u05d6\u05de\u05d5\u05e8\u05ea \u05d4\u05d0\u05e0\u05d3\u05dc\u05d5\u05e1\u05d9\u05ea \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea \u05d0\u05e9\u05d3\u05d5\u05d3",
+          "url": "https://open.spotify.com/artist/27svI1Ul7GlWKNL8wYhDLf"
+        },
+        {
+          "name": "Patrick Sebag",
+          "url": "https://open.spotify.com/artist/7HVUcMJ2KO1lmcscDae1LC"
+        },
+        {
+          "name": "Benaia Barabi",
+          "url": "https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "\u05e9\u05d9\u05e0\u05d5\u05d9\u05d9 \u05de\u05d6\u05d2 \u05d4\u05d0\u05d5\u05d5\u05d9\u05e8",
+      "url": "https://open.spotify.com/track/5VYhL1H2kAoXjWt8m2MKVl"
     },
     {
       "added_at": "2024-11-07 22:00:00",

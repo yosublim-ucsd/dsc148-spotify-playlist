@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:0bFPzYoInpRUHOgTCt1o3P">Stepz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,634 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,704 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

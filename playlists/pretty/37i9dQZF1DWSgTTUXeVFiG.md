@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,982 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,022 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 14 | [Señora Ley \(En Vivo\)](https://open.spotify.com/track/0vB3uI6JFXYT6Vq2HRZ4b4) | [Conjunto Clásico](https://open.spotify.com/artist/2T1yhT2K3iSI8vwAdOS9O0) | [Ray Castro Presenta...20 Super Exitos Del Conjunto Clasico Con Tito Nieves](https://open.spotify.com/album/77g1XIygGh7vez8lkOKaLL) | 5:12 |
 | 15 | [Tengo Ganas \- Live Carnegie Version](https://open.spotify.com/track/0dfKQSS9o3pfSducqHXaCy) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle Desde El Carnegie Hall](https://open.spotify.com/album/4Cod19wOYqojpBfb6G8pdE) | 6:46 |
 | 16 | [Valió La Pena \(feat\. Jose Alberto "El Canario", Cheo Feliciano, Andy Montañez & NORA\) \- Live Version](https://open.spotify.com/track/06OUCISXpxVEMkbVtRLn6c) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Nora](https://open.spotify.com/artist/50qoEvPHvc3H9dmOBShQSM) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
-| 17 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
+| 17 | [Sobredosis](https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR) | [Alberto Barros Y Los Titanez De La Salsa](https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx) | [En Vivo](https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819) | 4:40 |
 | 18 | [Amor Mío No Te Vayas \- En Vivo Desde El Carnegie Hall Version](https://open.spotify.com/track/4d6AEuczMXLXDIbUYevHSp) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [En Vivo Desde El Carnegie Hall](https://open.spotify.com/album/3ASsv46z8jp15gwRTOjy22) | 7:26 |
-| 19 | [Sobredosis](https://open.spotify.com/track/6QXwI145iRvgoG5u5zCAYR) | [Alberto Barros Y Los Titanez De La Salsa](https://open.spotify.com/artist/0ui6KKqjRG1xXFmthT7Jjx) | [En Vivo](https://open.spotify.com/album/3HfRIah0RtbfEDaj0BM819) | 4:40 |
+| 19 | [Viajera](https://open.spotify.com/track/5sGcHVN7zuehqXAcNHe4Ek) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 5:11 |
 | 20 | [Anacaona \- Live](https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Live At The Cheetah, Vol\. 1](https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e) | 7:15 |
 | 21 | [La Vida Es Un Carnaval \- En Vivo Desde Hartford, Connecticut/1999](https://open.spotify.com/track/5BEXV2dGkQA2BPIYtGgntT) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [A Night Of Salsa](https://open.spotify.com/album/4AufrsOjkE4COw6Innem8h) | 6:41 |
 | 22 | [Medias Negras \- Live Version](https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |

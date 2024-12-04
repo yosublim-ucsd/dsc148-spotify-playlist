@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-255 songs - 11 hr 6 min
+256 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Automatic](https://open.spotify.com/track/7Fjz93GKhU5LlTacFAO8ze) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Automatic](https://open.spotify.com/album/6WABR1ifGFXjlVoK54LA3P) | 2:10 | 2023-09-21 | 2024-01-10 |
 | [Back it](https://open.spotify.com/track/63YfOgW7RdMqoJFIO8eBJB) | [Britz](https://open.spotify.com/artist/6op6pbdwltqYGxSV8rl5q2), [Pacify](https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Back it](https://open.spotify.com/album/7oPLwcPMW4W8kBZtVYHv0S) | 2:39 | 2024-11-07 |  |
 | [Back It Up](https://open.spotify.com/track/1Y23sm3HjBKm0FZ48KQAL8) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [Back It Up](https://open.spotify.com/album/1tdaOMAQN2wuvnScz3m2eK) | 2:18 | 2024-10-31 | 2024-12-01 |
+| [Bad B\*\*\*\* \(feat\. Arif Murakami\)](https://open.spotify.com/track/5k54YCcgR8rvovDVAXNgQt) | [Benocchio](https://open.spotify.com/artist/0l9AOQvopZLzF5ozyD1BYs), [2J](https://open.spotify.com/artist/2R7f8CVf5KVjvtHXdEUNTw), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Bad B\*\*\*\* \(feat\. Arif Murakami\)](https://open.spotify.com/album/0WSyzz9ARLgAD0PSL1Gj1Q) | 2:44 | 2024-11-28 |  |
 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 | 2024-06-01 |
 | [badshit \(feat\. Tyr\)](https://open.spotify.com/track/36R2cJp6HWmVBsGiGdsqzL) | [anakin justin](https://open.spotify.com/artist/5eg8Q9stSfP38jgkxAKacv), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [badshit \(feat\. Tyr\)](https://open.spotify.com/album/37x9fOfhyHjf2xGE8l8r5I) | 2:30 | 2024-07-11 | 2024-09-09 |
 | [Banana](https://open.spotify.com/track/2EXIXFyWSnJAVzxy4kZQfA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Banana](https://open.spotify.com/album/3qIFOSosWTxUJu0fSpdemE) | 2:10 | 2023-09-21 | 2023-09-24 |
@@ -126,7 +127,7 @@
 | [Hvor Som Helst](https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Tessas Hævn \(Igen Bitch\)](https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ) | 2:16 | 2023-09-21 | 2024-02-09 |
 | [HÅLL KÄFTEN](https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8) | [HÅLL KÄFTEN](https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe) | 2:07 | 2024-02-08 | 2024-06-01 |
 | [I Care](https://open.spotify.com/track/05e7SNuOTnMpY6D39ZbNI6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [I Care](https://open.spotify.com/album/3eEH7sepvY4yYG8DGly0ii) | 2:19 | 2023-11-09 |  |
-| [IFA](https://open.spotify.com/track/7FR9RhaJnSnEywOJRxwJLv) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Pacify](https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk) | [IFA](https://open.spotify.com/album/59rJFtuzmKx5TOgSfa2UMK) | 2:15 | 2024-10-17 |  |
+| [IFA](https://open.spotify.com/track/7FR9RhaJnSnEywOJRxwJLv) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Pacify](https://open.spotify.com/artist/1SDrbBZXdJjX3Hm8OZwCwk) | [IFA](https://open.spotify.com/album/59rJFtuzmKx5TOgSfa2UMK) | 2:15 | 2024-10-17 | 2024-12-04 |
 | [Igjen](https://open.spotify.com/track/0fTITw88Jr9xtvwbXzNQeW) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 2:29 | 2024-05-30 | 2024-10-12 |
 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/532hmJMBzkTyhVQTlHHUuJ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Inga änglar \(Na na na\)](https://open.spotify.com/album/3jJmhnYy9Zif0lCkLQfv6J) | 3:14 | 2024-02-01 | 2024-06-01 |
 | [Inga änglar \(Na na na\)](https://open.spotify.com/track/6Z81UrPb8kWlzO4bP0ETzo) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Nya Hits](https://open.spotify.com/album/3IAEBiMpkBwgSzMYQUjojd) | 3:14 | 2024-02-15 | 2024-02-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,323 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,339 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 25 | [Wake Me Up In Paris](https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Paradigm](https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ) | [Wake Me Up In Paris](https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN) | 2:16 |
 | 26 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 27 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
-| 28 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 |
-| 29 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
+| 28 | [Sweet Dreams](https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Sweet Dreams](https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR) | 2:18 |
+| 29 | [Perfect \(Exceeder\)](https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Perfect \(Exceeder\)](https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp) | 2:31 |
 | 30 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 |
 | 31 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 |
 | 32 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |

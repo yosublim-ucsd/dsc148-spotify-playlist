@@ -4,7 +4,7 @@
 
 > Level up your gaming with these afro tracks\. Cover: Qing Madi
 
-100 songs - 5 hr 24 min
+101 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,13 +93,14 @@
 | [Shaken](https://open.spotify.com/track/1MGQJITgxRkZITT6aqcqfo) | [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR) | [Shaken](https://open.spotify.com/album/2teAt8iFXCBkjdiEuNqJgF) | 3:33 | 2024-10-21 |  |
 | [So Mi So](https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [So Mi So](https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z) | 4:05 | 2024-10-21 |  |
 | [Soundgasm](https://open.spotify.com/track/3FNj8xmImiSh0oEMBzSDL7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Soundgasm](https://open.spotify.com/album/5cxI5fdlh6VrZjNuNXHn5Y) | 3:24 | 2024-10-21 |  |
-| [Suru \(feat\. Stormzy\)](https://open.spotify.com/track/25KjMlA0KAwRKS9JuT1NSq) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:40 | 2024-10-21 |  |
+| [Suru \(feat\. Stormzy\)](https://open.spotify.com/track/25KjMlA0KAwRKS9JuT1NSq) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:40 | 2024-10-21 | 2024-12-04 |
 | [Take Me Away \(feat\. Ayanfe and Bien\)](https://open.spotify.com/track/5O5iEfPDhM3XKYDLMqkg6Z) | [DJ OBI](https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe), [Ayanfe](https://open.spotify.com/artist/6JRUGmX8hxwvYGHtw374eq), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Take Me Away \(feat\. Ayanfe and Bien\)](https://open.spotify.com/album/0Z1nq2NQ3ipRrcEYSS1rtc) | 4:04 | 2024-10-21 |  |
 | [TBH!](https://open.spotify.com/track/0zgqOEBPOAvU5vch5URzlt) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [TBH!](https://open.spotify.com/album/1KB4yswp0hKkKERpHPTNou) | 1:33 | 2024-10-21 |  |
 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 | 2024-10-21 |  |
 | [Too Correct](https://open.spotify.com/track/3jZ6HPh1hWZJCuKJKS6Ey0) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Twelve A.M](https://open.spotify.com/album/6ZOAzx00nKsqJYRTW3wknJ) | 3:28 | 2024-10-21 |  |
 | [Train](https://open.spotify.com/track/5R2wKKaRmOR2qDJKAPyXDl) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3OB64tBkIABfzlcWTYfr9N) | 3:10 | 2024-10-21 |  |
 | [Trouble](https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Trouble](https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK) | 3:43 | 2024-10-21 |  |
+| [Uhh Yeahh](https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:24 | 2024-10-21 |  |
 | [Uzozisola](https://open.spotify.com/track/6oDRX9Y1JkO6cNuJqOkJp3) | [Justin Vibes](https://open.spotify.com/artist/6dGVYMuz6faSSurZ7uOyl4), [Diamonds of Gwijo](https://open.spotify.com/artist/35LRzmxr0j8YAkoDLAZ9vP), [Azul Serene](https://open.spotify.com/artist/1hRZ44dY3I4KbtER9vNfGv) | [Uzozisola](https://open.spotify.com/album/13In8hIi8GXoKBzPy1zZFX) | 4:30 | 2024-10-21 |  |
 | [Vision](https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 2:26 | 2024-10-21 |  |
 | [Want It All](https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All](https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj) | 3:52 | 2024-10-21 |  |

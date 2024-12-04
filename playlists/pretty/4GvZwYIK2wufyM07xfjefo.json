@@ -6,8 +6,108 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEEXTEarNTpIGYj8nTXHcJWvJOUZy+",
+  "snapshot_id": "AAAEIPT0gyeDZmPkRCyriOuuEk3yWKJO",
   "tracks": [
+    {
+      "added_at": "2024-12-03 08:24:53",
+      "album": {
+        "name": "\u899a\u9192\u306e\u30e1\u30ed\u30c7\u30a3\u30fc",
+        "url": "https://open.spotify.com/album/1AmFQ74udHDywtTaaeQSVJ"
+      },
+      "artists": [
+        {
+          "name": "0-9",
+          "url": "https://open.spotify.com/artist/0cy2y8TFBDP2MCrknjXNWn"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 283425,
+      "name": "\u5929\u4f7f\u7531\u6765\u306e\u5b50\u5b88\u6b4c (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/4XKdOjZitWAitMiPp85vFF"
+    },
+    {
+      "added_at": "2024-12-03 08:25:07",
+      "album": {
+        "name": "\u96e2\u5408",
+        "url": "https://open.spotify.com/album/70nRajo2pfc6LrxSwxE8rY"
+      },
+      "artists": [
+        {
+          "name": "\u30e0\u30b7\u3074",
+          "url": "https://open.spotify.com/artist/5mLSJkUWwai1zyovqOz7Vf"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 228089,
+      "name": "Kariko (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3Ue3X9rOqyvcYex7gSEyEI"
+    },
+    {
+      "added_at": "2024-12-03 08:25:21",
+      "album": {
+        "name": "flicker",
+        "url": "https://open.spotify.com/album/3wcyduAT0lFwVGHyaEyS6Z"
+      },
+      "artists": [
+        {
+          "name": "\u6674\u3044\u3061\u3070\u3093",
+          "url": "https://open.spotify.com/artist/6d739FHu1QAC7MGNWuMPCW"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 169624,
+      "name": "\u3075\u305b\u3063\u3057\u3087\u30fc (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/3JVaLeKVfWO3povgWEhqw7"
+    },
+    {
+      "added_at": "2024-12-03 08:25:34",
+      "album": {
+        "name": "\u30d1\u30fc\u30d7\u30eb\u30ad\u30e3\u30f3\u30c7\u30a3\u30e9\u30d6\u30dd\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/3Xa4sZ5gWs8io8Plx89C70"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u304b\u3081",
+          "url": "https://open.spotify.com/artist/7crr5vdYpti00MTNz9YDzQ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 198375,
+      "name": "\u30d1\u30fc\u30d7\u30eb\u30ad\u30e3\u30f3\u30c7\u30a3\u30e9\u30d6\u30dd\u30fc\u30b7\u30e7\u30f3 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4K1T1JPbK503U2SVFx0KU7"
+    },
+    {
+      "added_at": "2024-12-03 08:25:47",
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/1Qa3rxwWSUz0N4D2HYdttv"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u64ab\u5bfa",
+          "url": "https://open.spotify.com/artist/5wvPfEco9mG8kzdMnhL3ct"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "Serendipity (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/5JR9zJHljT4GIW30ShScor"
+    },
     {
       "added_at": "2024-11-26 08:31:56",
       "album": {
@@ -643,102 +743,6 @@
       "duration_ms": 362307,
       "name": "Close My Eyes -\u8a18\u61b6\u306e\u6249- (feat. MEIKO)",
       "url": "https://open.spotify.com/track/629JBTvOyEyi0fqXLiVJDM"
-    },
-    {
-      "added_at": "2024-09-24 08:20:52",
-      "album": {
-        "name": "Calm Time",
-        "url": "https://open.spotify.com/album/1XLby6wBYYbR1PIbIgfLBL"
-      },
-      "artists": [
-        {
-          "name": "Clean Tears",
-          "url": "https://open.spotify.com/artist/7ib7T2bGDFIVqMQGw8rjt4"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 243913,
-      "name": "Flow (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/3DcIZq6pb9bHNTgnfsmbD3"
-    },
-    {
-      "added_at": "2024-09-24 08:21:25",
-      "album": {
-        "name": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30fb\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8",
-        "url": "https://open.spotify.com/album/5TewvPckuryjM12XFKHzKx"
-      },
-      "artists": [
-        {
-          "name": "Kiichi",
-          "url": "https://open.spotify.com/artist/3GYaAQum94wppbd9M0LcVH"
-        },
-        {
-          "name": "\u82b1\u9688\u5343\u51ac",
-          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
-        }
-      ],
-      "duration_ms": 245142,
-      "name": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0\u30fb\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8 (feat. \u82b1\u9688\u5343\u51ac)",
-      "url": "https://open.spotify.com/track/17fE0OA4wO0ea3Nlb2jAR9"
-    },
-    {
-      "added_at": "2024-09-24 08:21:38",
-      "album": {
-        "name": "First Note",
-        "url": "https://open.spotify.com/album/3d5LCEPxz1E1BjaaOZgJDD"
-      },
-      "artists": [
-        {
-          "name": "blues",
-          "url": "https://open.spotify.com/artist/54PdgvWwOz1CRcFN9uYwz6"
-        }
-      ],
-      "duration_ms": 268854,
-      "name": "First Note (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0BMLlDBYOA9TRoWHXh5sDx"
-    },
-    {
-      "added_at": "2024-09-24 08:21:52",
-      "album": {
-        "name": "\u3072\u304b\u308a\u3088\u3072\u304b\u308a\u3088",
-        "url": "https://open.spotify.com/album/4UvosnqAKtidQau9TKRCEx"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3053\u3084\u304b\u5927\u8056\u5802",
-          "url": "https://open.spotify.com/artist/6yq2Hzrg9vEBuebVFVMozB"
-        },
-        {
-          "name": "KAITO",
-          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
-        }
-      ],
-      "duration_ms": 162368,
-      "name": "\u3072\u304b\u308a\u3088\u3072\u304b\u308a\u3088 (feat. KAITO)",
-      "url": "https://open.spotify.com/track/15DCwKOI3ozVsKrABj6sML"
-    },
-    {
-      "added_at": "2024-09-24 08:22:18",
-      "album": {
-        "name": "\u7d04\u675f",
-        "url": "https://open.spotify.com/album/1lL5lQQIGhFOvwdL9Bjmva"
-      },
-      "artists": [
-        {
-          "name": "\u30b7\u30ed\u30af\u30de\u6d88\u3057\u30b4\u30e0",
-          "url": "https://open.spotify.com/artist/7CWRzDWFh2yZajpEwvJxPk"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 157846,
-      "name": "\u7d04\u675f feat. \u521d\u97f3\u30df\u30af",
-      "url": "https://open.spotify.com/track/3IfK7SAlE21ZQuJxg3PgoG"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Saddlepin Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,665 likes - 123 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,669 likes - 123 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

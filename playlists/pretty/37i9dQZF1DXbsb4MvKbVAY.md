@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa emma & matilda .
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,217 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,225 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,16 +89,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 79 | [Back To You](https://open.spotify.com/track/0MG5kEZwTRrjKc0RZo9iCA) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Pink Velvet Theatre](https://open.spotify.com/album/5vFDUbMumlLOjC75rHioJC) | 3:23 |
 | 80 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
 | 81 | [Iha miten vaa](https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Iha miten vaa](https://open.spotify.com/album/5yn9M6Cd8HYBCt1Yvt5Wrm) | 3:16 |
-| 82 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
-| 83 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
+| 82 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
+| 83 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 |
 | 84 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
 | 85 | [Empire](https://open.spotify.com/track/2cnJ7OVVT5520sNo9vDhMH) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Empire](https://open.spotify.com/album/3bfDYcUq5kP93Vr34hYYJb) | 3:04 |
 | 86 | [My World](https://open.spotify.com/track/0nKVI2mlBFkdjAdZH61rLF) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [My World](https://open.spotify.com/album/3a7cMtEKE1BMV0BoH9MwvV) | 3:23 |
 | 87 | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/track/1qn9cTpUZiynYkFEOOnwY9) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Another Life \(Marcus & Martinus vs VIZE\)](https://open.spotify.com/album/2EYNSyGV5ScXtvwdS7hppY) | 2:43 |
 | 88 | [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 |
 | 89 | [I Never Loved You](https://open.spotify.com/track/5P4GzuYKBAYCdNtcBx5K6l) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [I Never Loved You](https://open.spotify.com/album/4Vx1sNsqdDcz8RUCfMIrHl) | 4:09 |
-| 90 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 |
-| 91 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
+| 90 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
+| 91 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 |
 | 92 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 |
 | 93 | [Autiomaa](https://open.spotify.com/track/2avr7NLad9D3g61P8V5fLL) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [People's Champion](https://open.spotify.com/album/1tCNYS0XPcGlPvKhncQd6o) | 3:15 |
 | 94 | [Miten sut mielest poistetaan](https://open.spotify.com/track/2FMNFfVVGy7ntA0fbBb4n1) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Miten sut mielest poistetaan](https://open.spotify.com/album/1p73kuTshEB83c1lN8zeBc) | 3:00 |

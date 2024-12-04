@@ -1,13 +1,37 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 201753,
+  "num_followers": 201797,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAAnarKkSTG1RArah8DC9MKv",
+  "snapshot_id": "Z0z4gAAAAAAdyOUYHk83svn+CYvQQf42",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "COMO PUDE",
+        "url": "https://open.spotify.com/album/1BJ8oZQAXZN7zeKBZQHfjP"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "duration_ms": 218029,
+      "name": "COMO PUDE",
+      "url": "https://open.spotify.com/track/7ByJSibimCzArvSSxfnbtE"
+    },
     {
       "added_at": null,
       "album": {
@@ -435,58 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hist\u00f3rias da Minha \u00c1rea",
-        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 213983,
-      "name": "Procuro Algu\u00e9m",
-      "url": "https://open.spotify.com/track/0iCOIAN5PaXnATuKkzTVNx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "JNR Beats",
-          "url": "https://open.spotify.com/artist/2MezhY4Nd9Fwo6bRFy7UXw"
-        },
-        {
-          "name": "Mc Kaio",
-          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
-        }
-      ],
-      "duration_ms": 229077,
-      "name": "TIPO",
-      "url": "https://open.spotify.com/track/3kGLn0fgxyVxLqW5Vv9B8U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica",
         "url": "https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z"
       },
@@ -515,6 +487,58 @@
       "duration_ms": 505482,
       "name": "Poesia Ac\u00fastica #4 - Todo Mundo Odeia Ac\u00fastico",
       "url": "https://open.spotify.com/track/5ppwv9SmW6AHgBKUrHe34R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        },
+        {
+          "name": "Mc Kaio",
+          "url": "https://open.spotify.com/artist/34ZgtjHC9aNCr5ZTUs7bzx"
+        }
+      ],
+      "duration_ms": 229077,
+      "name": "TIPO",
+      "url": "https://open.spotify.com/track/3kGLn0fgxyVxLqW5Vv9B8U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hist\u00f3rias da Minha \u00c1rea",
+        "url": "https://open.spotify.com/album/3dCALWYm5dnvz0SS8kRi2k"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 213983,
+      "name": "Procuro Algu\u00e9m",
+      "url": "https://open.spotify.com/track/0iCOIAN5PaXnATuKkzTVNx"
     },
     {
       "added_at": null,

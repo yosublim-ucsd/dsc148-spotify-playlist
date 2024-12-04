@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,047 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,052 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 35 | [Rock This Country!](https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 4:22 |
 | 36 | [Forever And Ever, Amen](https://open.spotify.com/track/01iAnhW9yZ7AHXZ9pIxoPc) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Twenty Twenty](https://open.spotify.com/album/4JfHVHyLVWLfQzGoXixdsb) | 3:20 |
 | 37 | [Nah! \- Red Version](https://open.spotify.com/track/4etvQadS9nSmBNAWrwJod6) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
-| 38 | [White Claw \(with Shania Twain\)](https://open.spotify.com/track/6kTrNSRH9qE3g4eiJslGL5) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 3:23 |
-| 39 | [Swingin' With My Eyes Closed](https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Now \(Deluxe\)](https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD) | 3:33 |
-| 40 | [Don't! \- Greatest Hits Version](https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Don't!](https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3) | 3:58 |
+| 38 | [Swingin' With My Eyes Closed](https://open.spotify.com/track/5fTZIshfPjqpcfDI8vrgtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Now \(Deluxe\)](https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD) | 3:33 |
+| 39 | [Don't! \- Greatest Hits Version](https://open.spotify.com/track/6dPa3p9WGzvxDLOovJf8pH) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Don't!](https://open.spotify.com/album/79a6iHklq4kX2PKvxKPri3) | 3:58 |
+| 40 | [White Claw \(with Shania Twain\)](https://open.spotify.com/track/6kTrNSRH9qE3g4eiJslGL5) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 3:23 |
 | 41 | [Thank You Baby! \(For Makin' Someday Come So Soon\) \- Red Version](https://open.spotify.com/track/6Hlr4MQ98pLjc9R3zKnsdW) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:00 |
 | 42 | [Home Ain't Where His Heart Is \(Anymore\)](https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:13 |
 | 43 | [It Only Hurts When I'm Breathing \- Red Version](https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Blue Versions\)](https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0) | 3:19 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 50 | [You're Still The One](https://open.spotify.com/track/6zoCGLQJPcecedGcbAzdkT) | [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Encontros Pelo Caminho](https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke) | 3:34 |
 | 51 | [Pretty Liar](https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
 
-Snapshot ID: `Z0unAAAAAAAWXtuMSOLlgiMuQiXk4aLU`
+Snapshot ID: `Z0z4gAAAAACdEYLPjZykVQ5yeperVua4`

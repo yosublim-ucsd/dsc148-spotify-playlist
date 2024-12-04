@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2087,
+  "num_followers": 2089,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAACezQF/DMokmnosiaH4QaIm",
+  "snapshot_id": "Z0z4gAAAAACOAKIXR4lG1/j0tmFI+1qs",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nadie Lo Hubiera Pensado",
-        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 149994,
-      "name": "Nadie Lo Hubiera Pensado",
-      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos Y Damitas",
         "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 154338,
       "name": "Lujos Y Damitas",
       "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nadie Lo Hubiera Pensado",
+        "url": "https://open.spotify.com/album/3kQI0RMI9OZVg6jW3NOTJQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 149994,
+      "name": "Nadie Lo Hubiera Pensado",
+      "url": "https://open.spotify.com/track/6sXCqAsxAWBv1cjlNsZS2H"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Jordin Sandoval",
-          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
-        }
-      ],
-      "duration_ms": 145493,
-      "name": "El Dragon",
-      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nos Gusto El Estilo",
         "url": "https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 179141,
       "name": "Nos Gusto El Estilo",
       "url": "https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Jordin Sandoval",
+          "url": "https://open.spotify.com/artist/04P0m8LCKhoMBOz2V7OtwX"
+        }
+      ],
+      "duration_ms": 145493,
+      "name": "El Dragon",
+      "url": "https://open.spotify.com/track/0jZScMFNGw4Lfc7ezSJFVT"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 154154,
-      "name": "Que Cambie",
-      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Te He Podido Olvidar",
         "url": "https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 218662,
       "name": "No Te He Podido Olvidar",
       "url": "https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 154154,
+      "name": "Que Cambie",
+      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Hice Mal",
+        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 205237,
+      "name": "Que Hice Mal",
+      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiempos Duros",
         "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 183360,
       "name": "Pa Que Hablen De Verdad",
       "url": "https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Que Hice Mal",
-        "url": "https://open.spotify.com/album/07mzKlWxyriGNACSC9VUHI"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 205237,
-      "name": "Que Hice Mal",
-      "url": "https://open.spotify.com/track/6SvTX3foelQ3i38hNHLnaS"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 119920,
+      "name": "Medio Fresa - En Vivo",
+      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ac\u00e1 Por Tijuana (En Vivo)",
         "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
       },
@@ -831,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+        "name": "El Maserati (En Vivo)",
+        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
       },
       "artists": [
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Grupo Agrado",
+          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
         }
       ],
-      "duration_ms": 119920,
-      "name": "Medio Fresa - En Vivo",
-      "url": "https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw"
+      "duration_ms": 162474,
+      "name": "El Maserati - En Vivo",
+      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
     },
     {
       "added_at": null,
@@ -863,26 +883,6 @@
       "duration_ms": 210780,
       "name": "Canchame",
       "url": "https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Maserati (En Vivo)",
-        "url": "https://open.spotify.com/album/4Vl2J07gWFVCZsLF2Bn0uk"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Grupo Agrado",
-          "url": "https://open.spotify.com/artist/4ws18l4ll7XPLy4oomicqh"
-        }
-      ],
-      "duration_ms": 162474,
-      "name": "El Maserati - En Vivo",
-      "url": "https://open.spotify.com/track/6ifiv4MdtQ7XYu2bhEyFZf"
     },
     {
       "added_at": null,
@@ -923,6 +923,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde CLN Banda Edition (En Vivo)",
+        "url": "https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 139332,
+      "name": "Hay Les Encargo - En Vivo",
+      "url": "https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LA Live Session",
         "url": "https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 170282,
       "name": "Botecitos Destapando - En Vivo",
       "url": "https://open.spotify.com/track/7j2U6s8PNveSUBwDJfFz5v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde CLN Banda Edition (En Vivo)",
-        "url": "https://open.spotify.com/album/7aHQlvqy4LaBEnnHYQweqn"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 139332,
-      "name": "Hay Les Encargo - En Vivo",
-      "url": "https://open.spotify.com/track/2H9XPOLNEens1UpUGMpq3p"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-521 songs - 1 day 0 hr 54 min
+522 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Defender](https://open.spotify.com/track/0YKVC87H962oWFWD3Zb9iZ) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Ride With Me](https://open.spotify.com/album/4IECKlBGNSADVXDrcB6J2z) | 2:08 | 2024-03-20 | 2024-04-12 |
 | [Desi Drip](https://open.spotify.com/track/169QUibETixunbbMjZo9at) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Desi Drip](https://open.spotify.com/album/5dFbznBNj5B1e7fjm1q6vA) | 2:52 | 2024-06-13 |  |
 | [Desi Touch](https://open.spotify.com/track/0qYRT0Wu43MmRpKoCH2ECW) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [NAAZ](https://open.spotify.com/artist/72PtZluO8R8nEvd36geyyo), [Taseer](https://open.spotify.com/artist/7gQmf386XqGGfIAoGrjKan) | [Desi Touch](https://open.spotify.com/album/5pB1MlqZwkvtTHlYsG9AYV) | 3:10 | 2024-08-14 |  |
-| [Dhanwaad](https://open.spotify.com/track/3zN9vftHNTFeP0adBYhY5z) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Dhanwaad](https://open.spotify.com/album/0VaG4Qhr1cT435mCqSL8kO) | 3:42 | 2024-12-02 |  |
+| [Dhanwaad](https://open.spotify.com/track/3zN9vftHNTFeP0adBYhY5z) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [Babbu](https://open.spotify.com/artist/5i2ZfWkVWCMNjUFHyHMuPw), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Dhanwaad](https://open.spotify.com/album/0VaG4Qhr1cT435mCqSL8kO) | 3:33 | 2024-12-02 |  |
 | [Dheeth \(From "Honey 3.0"\)](https://open.spotify.com/track/5xfBtp81hV8HwmbyjH7tgK) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw), [Gill Machhrai](https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE) | [Dheeth \(From "Honey 3.0"\)](https://open.spotify.com/album/1Qf50je6v3oSMQyWwvbs5D) | 2:50 | 2023-11-23 | 2023-11-30 |
 | [Diamond](https://open.spotify.com/track/5w8rVGQDtF8bZScjmgVzYi) | [Gurjass](https://open.spotify.com/artist/2MtMmv1X7aUPErcnGHndKZ) | [Diamond](https://open.spotify.com/album/2gsAXNDQbdMAJyw13PgHws) | 2:26 | 2024-07-22 | 2024-08-06 |
 | [Dil Tod Da \(Remix\) \- Remix Version](https://open.spotify.com/track/44GrxMXyek8xNJ67pzEu1q) | [Real Satnam](https://open.spotify.com/artist/6elDtbrVYRzdQ5RB9AgVTV), [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm), [Rajdeep Mangat](https://open.spotify.com/artist/0ozlrA0RXlU4UcIZeaZ96y) | [Dil Tod Da \(Remix\) \[Remix Version\]](https://open.spotify.com/album/62J5P4loHXbElzgJwdQydO) | 2:46 | 2023-10-26 | 2023-11-25 |
@@ -360,6 +360,7 @@
 | [NOW](https://open.spotify.com/track/1E6UgMP4e9mod52TJDpmdz) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [NOW](https://open.spotify.com/album/4tddGC4KJCTe6OaT4OmnlW) | 2:24 | 2023-11-24 | 2024-01-26 |
 | [Nowadays](https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Nowadays](https://open.spotify.com/album/79KRr86XxvGkfHHiW3bdDd) | 3:26 | 2024-04-11 |  |
 | [Nukra](https://open.spotify.com/track/113NNK55hGq1KmKOyz7qH2) | [Romey Maan](https://open.spotify.com/artist/2hmIpieYhZEQJDzlWpNMQg) | [Nukra](https://open.spotify.com/album/4GI47LHmkl0zcuAOph2lXO) | 2:30 | 2023-03-29 | 2023-04-21 |
+| [Off Limits](https://open.spotify.com/track/1PoL7xIHr4nwRGCXeKISbq) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Off Limits](https://open.spotify.com/album/7FrqWFrONXe11mB9AZRM57) | 2:02 | 2024-12-03 |  |
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-30 | 2024-01-20 |
 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 | 2023-03-29 | 2023-07-06 |
 | [OG](https://open.spotify.com/track/7Gy5Su3ee5oLp0LV4Mddl3) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [OG](https://open.spotify.com/album/7qSB8sD9esyUYbYQww8pWZ) | 2:19 | 2024-05-24 | 2024-06-01 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zarape. The essential tracks, all in one playlist.",
-  "num_followers": 1491,
+  "num_followers": 1490,
   "original_name": "This Is Banda Zarape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAABP3FZ3el5neyQYreXGaBqq",
+  "snapshot_id": "Z0z4gAAAAACJqNc7u4GnWUIBUUHaQQmf",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Reloj De Mi Corazon",
-        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
+        "name": "Viva La Fiesta",
+        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 266600,
-      "name": "Bailando De Caque",
-      "url": "https://open.spotify.com/track/4QXzC6m5BLszBmaj8V5ONd"
+      "duration_ms": 225906,
+      "name": "Rico Ritmo",
+      "url": "https://open.spotify.com/track/1jHMIjqGdJrWH3FrpevfUR"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva La Fiesta",
-        "url": "https://open.spotify.com/album/38Zjb3vri4oIybCMkGrEZ3"
+        "name": "El Reloj De Mi Corazon",
+        "url": "https://open.spotify.com/album/13BpoCwBmr3a3KrK7rV47w"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 225906,
-      "name": "Rico Ritmo",
-      "url": "https://open.spotify.com/track/1jHMIjqGdJrWH3FrpevfUR"
+      "duration_ms": 266600,
+      "name": "Bailando De Caque",
+      "url": "https://open.spotify.com/track/4QXzC6m5BLszBmaj8V5ONd"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 180493,
-      "name": "La Crisis",
-      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
+      "duration_ms": 200760,
+      "name": "Que Bonita Te Ves",
+      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
     },
     {
       "added_at": null,
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Que Bonita Te Ves",
-      "url": "https://open.spotify.com/track/3uqtKci9LebHux8xSzzdtv"
+      "duration_ms": 180493,
+      "name": "La Crisis",
+      "url": "https://open.spotify.com/track/6AAknfeUdGdqOVUEXtjOP7"
     },
     {
       "added_at": null,

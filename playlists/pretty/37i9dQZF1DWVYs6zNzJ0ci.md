@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 
 > Vibraciones rastafari en español\. Foto: Pure Negga
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,264 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,298 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,15 +89,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYs6zNzJ0ci.md) - [plain]
 | 79 | [Luz y Compañía](https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:57 |
 | 80 | [Conexión](https://open.spotify.com/track/526O830Od2gPgcXRyRJOX0) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Conexión](https://open.spotify.com/album/58gzZSrrL0xaRWJlQ5C4w4) | 3:32 |
 | 81 | [Pupilas Lejanas](https://open.spotify.com/track/6tsPTremXK46tOWQfgjQXx) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Pupilas Lejanas](https://open.spotify.com/album/00vEFgnSrsj2EaiL9L06Cn) | 3:46 |
-| 82 | [N.O.M.](https://open.spotify.com/track/6cXkbeypKMh3KXPaYwi56H) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [N.O.M.](https://open.spotify.com/album/1O7Ara1H9xGGIreezqHQ3s) | 3:48 |
-| 83 | [Im gonna come back to Brixton](https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Forever](https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF) | 4:20 |
+| 82 | [Im gonna come back to Brixton](https://open.spotify.com/track/2iUnqMPrjZCvrvp2jYS1Wg) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Forever](https://open.spotify.com/album/0CMRrNDtBSZJ2VPhG3G1XF) | 4:20 |
+| 83 | [N.O.M.](https://open.spotify.com/track/6cXkbeypKMh3KXPaYwi56H) | [Pure Negga](https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk), [Oto Beats](https://open.spotify.com/artist/3YtLMUJIIPmTDeQeiCVL68) | [N.O.M.](https://open.spotify.com/album/1O7Ara1H9xGGIreezqHQ3s) | 3:48 |
 | 84 | [Ay Corazón!](https://open.spotify.com/track/2Y1tZEJAb1THzco1PPoLYb) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Ay Corazón!](https://open.spotify.com/album/5hORNGcUGscWpQMTajXz9h) | 3:39 |
 | 85 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
 | 86 | [Zendaya](https://open.spotify.com/track/722xKS7DxafZfGSun3qrdU) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Zendaya](https://open.spotify.com/album/3QzxQIii3EXNjbEtSH6L6x) | 2:18 |
 | 87 | [El Seis](https://open.spotify.com/track/6EvmOQ8SPIDlO5OpQpM1BL) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 2:57 |
 | 88 | [Para No Verte Más](https://open.spotify.com/track/5TLHhrm0sGLJNpRGo1kMxU) | [La Mosca Tse\-Tse](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W), [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Muchachos](https://open.spotify.com/album/35cgI9kKr9N6pZfTmWdakM) | 3:13 |
-| 89 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
-| 90 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
+| 89 | [Puedo esperarte](https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Buenas Noticias](https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n) | 4:11 |
+| 90 | [Mi Sol](https://open.spotify.com/track/6yHfT8zwc1YOJ5FLNOiWzK) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Sonido Real](https://open.spotify.com/album/0ny4vJH3LRvW8AjTotkY4A) | 6:25 |
 | 91 | [Veneno](https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk) | [Green Valley](https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy), [Sho\-Hai](https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK) | [Veneno](https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp) | 3:19 |
 | 92 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
 | 93 | [Gaia](https://open.spotify.com/track/4sxH0m1nMETWC6xvMzjk2s) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Encanto](https://open.spotify.com/album/3aJJdHEClW1YQarSSXaE9H) | 3:13 |

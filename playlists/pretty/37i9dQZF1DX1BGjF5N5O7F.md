@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 
 > sensual roots & indie folk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,339 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,321 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 22 | [Billie Holiday](https://open.spotify.com/track/3JCFw3L2g1NsSjbnjR869j) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [The Fool \(Deluxe\)](https://open.spotify.com/album/3vNQPnY0Dv8fyyN3gHBmBh) | 6:45 |
 | 23 | [Green Eyes](https://open.spotify.com/track/1FoCSrNyUVF00C8foohH2G) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:50 |
 | 24 | [Let Me Get There](https://open.spotify.com/track/51JNZr0bBwOMFoSnB2oDNv) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5), [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Until the Hunter](https://open.spotify.com/album/72uDE3xlSwejX3iYZqWTWU) | 7:30 |
-| 25 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
-| 26 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 |
+| 25 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 |
+| 26 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
 | 27 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
 | 28 | [Nobody Loves Me Like You](https://open.spotify.com/track/21jx7ZJ9bH0xQugaPa1wG0) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 5:55 |
 | 29 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BGjF5N5O7F.md) - [plain]
 | 36 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 |
 | 37 | [You Come Down](https://open.spotify.com/track/7EdwWyPnHkbi9KuG4wyKmc) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [That Iron Taste](https://open.spotify.com/album/1HBTigeKszgy2KJPna3hND) | 2:54 |
 | 38 | [All on My Mind \- Single Version](https://open.spotify.com/track/7LJDzkXrC6bKthURJ1I4pL) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind](https://open.spotify.com/album/6O0hXBm4fljPUez3tFSLJj) | 3:42 |
-| 39 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
-| 40 | [Lover](https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Lover](https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv) | 4:08 |
+| 39 | [Lover](https://open.spotify.com/track/6ao9rdyJfzGXatb3at455T) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Lover](https://open.spotify.com/album/3RfoIT2yvfZF9TFOMbmrIv) | 4:08 |
+| 40 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 | 41 | [Song for lovers](https://open.spotify.com/track/6j0wJaEnEIHoJoqycUJtZb) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [A Mouthful \(Bonus version\)](https://open.spotify.com/album/0LyXJDto4wI0F1OD45ZWPz) | 2:24 |
 | 42 | [Middle of the Bed](https://open.spotify.com/track/14pqO5S2mQ7Lw2Qjcyv4Fq) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [Like I Used To \(Deluxe Edition\)](https://open.spotify.com/album/6ZKC2f7C1xnBYJAoRLBha3) | 3:11 |
 | 43 | [I Remember](https://open.spotify.com/track/7FUxSlW3F4vih5wMVv4Yh4) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:31 |

@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-361 songs - 23 hr 17 min
+364 songs - 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Butohkai](https://open.spotify.com/track/2YPyHDyTlMGFDAfGANRBrt) | [水咲加奈](https://open.spotify.com/artist/3QdsgFNAYkVSIdqVwecmL8) | [Butohkai](https://open.spotify.com/album/4fQ3PorkC0d1xWdSrf4tCh) | 4:34 | 2023-12-26 | 2024-01-11 |
 | [Calm](https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Candle](https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq) | 3:55 | 2023-11-28 | 2024-02-07 |
 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2023-02-09 |  |
-| [Color of our destiny](https://open.spotify.com/track/7b6BdnzuckZVite9Bfd1k5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Color of our destiny](https://open.spotify.com/album/472ls5csvcogUFt9zKIMzi) | 2:58 | 2024-11-05 |  |
+| [Color of our destiny](https://open.spotify.com/track/7b6BdnzuckZVite9Bfd1k5) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [Color of our destiny](https://open.spotify.com/album/472ls5csvcogUFt9zKIMzi) | 2:58 | 2024-11-05 | 2024-12-04 |
 | [Colorful](https://open.spotify.com/track/668t7IE17nGkTXK2IL8dBT) | [Chiaki Ito](https://open.spotify.com/artist/0muLFXCuJkwVq8JBMmiips) | [Honey](https://open.spotify.com/album/6DLUwyQ1mjmplj8CNNZHFV) | 3:21 | 2023-06-20 | 2023-06-28 |
 | [Darlin'](https://open.spotify.com/track/2sf21oF3XMuEl5uj7zS3oE) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [Darlin'](https://open.spotify.com/album/6iBVOqqrsWUaI4zN2c0GxQ) | 3:06 | 2023-11-28 | 2023-11-30 |
 | [Darlin'](https://open.spotify.com/track/49gahZG8BL6CDL0fcO03cY) | [Yumcha](https://open.spotify.com/artist/2xZeyR38yb0Wru7qwAeT1g) | [Darlin'](https://open.spotify.com/album/2qlU1ZkAgL649iwJ9O8aLU) | 3:06 | 2023-11-28 | 2023-12-27 |
@@ -251,7 +251,7 @@
 | [レンズ](https://open.spotify.com/track/7ylpphbW8jf5bh7NKJnO8s) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [レンズ](https://open.spotify.com/album/1FQoGibRW7xEZXnq1EJIX2) | 3:58 | 2023-02-09 | 2023-05-11 |
 | [ロスタイム](https://open.spotify.com/track/7iL5vjJdt8kD2hAXYE7iv4) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [ロスタイム](https://open.spotify.com/album/5AJDIhtmJB2KEXmggElgo2) | 3:58 | 2023-07-13 | 2023-08-09 |
 | [一目惚れ](https://open.spotify.com/track/08xsN4IJlXiJOc3C7jWNaZ) | [舟津真翔](https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT) | [一目惚れ](https://open.spotify.com/album/6HTYjgKJEQdvrOIB8WGeGN) | 3:21 | 2024-07-04 |  |
-| [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 | 2024-11-05 |  |
+| [不完全に恋](https://open.spotify.com/track/5qpLjmnEDcGM1Zw6LZ5WOC) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [sanagi](https://open.spotify.com/album/6F0LtXo7VovXaEINPeFRob) | 3:15 | 2024-11-05 | 2024-12-04 |
 | [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/track/4PrieVZcLYKhv90hNGt9i9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [世界が僕を嫌いになっても \(2023 ver.\)](https://open.spotify.com/album/0vbubUchyOq3wbOG0MZIQK) | 4:32 | 2023-04-27 | 2023-04-29 |
 | [今 \-明日 世界が終わっても\-](https://open.spotify.com/track/2dThVzsCkB0L8tWFvQH53N) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [ALWAYS YOURS](https://open.spotify.com/album/5Qae32LmUnMlJRqZv2BWvY) | 3:11 | 2023-08-24 | 2023-11-16 |
 | [今夜2人だけのダンスを](https://open.spotify.com/track/6ljAfGfbmkBnhEwREQQsAY) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [季億の箱](https://open.spotify.com/album/5vBcyTeKwu2h7JBdkjhURs) | 4:11 | 2023-08-10 | 2023-08-16 |
@@ -267,7 +267,7 @@
 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 | 2024-05-07 |  |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:36 | 2023-03-02 | 2024-11-13 |
 | [君と未来を](https://open.spotify.com/track/3AH1iv6hBKUaGuCXp7w5E6) | [HY](https://open.spotify.com/artist/3x621ItlHMtX7mrJ8QnEjM) | [君と未来を](https://open.spotify.com/album/0p2WbrihcyxxZAMCrRpxfS) | 4:01 | 2024-02-20 | 2024-03-13 |
-| [君の彼氏になりたい](https://open.spotify.com/track/21XaN0fJCF1QhEQV2QitrU) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [君の彼氏になりたい](https://open.spotify.com/album/5VlpDzBArKgiDPvQiYfKNq) | 3:40 | 2024-11-19 |  |
+| [君の彼氏になりたい](https://open.spotify.com/track/21XaN0fJCF1QhEQV2QitrU) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [君の彼氏になりたい](https://open.spotify.com/album/5VlpDzBArKgiDPvQiYfKNq) | 3:40 | 2024-11-19 | 2024-12-04 |
 | [君の為のキミノウタ](https://open.spotify.com/track/56Cdqx7BdhEsUUMctdORvU) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 5:13 | 2023-11-07 |  |
 | [君の目、声](https://open.spotify.com/track/7xZkoRHEEnhQgFz37LjAUt) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [君の目、声](https://open.spotify.com/album/5WhzkiKwcckqnLBPWmfJiD) | 3:17 | 2024-01-23 | 2024-04-17 |
 | [君の街まで](https://open.spotify.com/track/01qT7rpJqngrIjtN2h2BkG) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [君の街まで](https://open.spotify.com/album/5Whv3RStb4iQntuxWu2TCR) | 3:18 | 2023-07-25 | 2023-07-27 |
@@ -308,6 +308,7 @@
 | [恋降る月夜に君想ふ](https://open.spotify.com/track/5gHjReguQlnoTe5iBPSxpv) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [Mr.5 \(Special Edition\)](https://open.spotify.com/album/7KxItgYkHxDBuXphenIdcm) | 4:29 | 2024-05-22 | 2024-08-14 |
 | [恋風邪にのせて](https://open.spotify.com/track/6z5zopmol2EeKDjeRH2QfM) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [恋風邪にのせて](https://open.spotify.com/album/25RY2kxcFBcrcOk47aZspA) | 4:15 | 2023-02-09 | 2023-04-05 |
 | [恋風邪にのせて](https://open.spotify.com/track/1IFyAcFGKEoAcdFa8WwLk0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:15 | 2023-11-15 |  |
+| [悪い人](https://open.spotify.com/track/2YyEI6s1gpyE8TIF9dh1Ux) | [戦慄かなの](https://open.spotify.com/artist/54gCiGV7c68le0eU5pIRup) | [悪い人](https://open.spotify.com/album/06bDwjXKGt0aath0TxZ8GY) | 3:15 | 2024-12-03 |  |
 | [想望](https://open.spotify.com/track/2jTXs5PwRmPRWyJQ4lKfIR) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [想望](https://open.spotify.com/album/5FximYjhARhnGEDF1A6fWZ) | 4:24 | 2024-02-09 | 2024-07-18 |
 | [愛 need your love](https://open.spotify.com/track/7BBaJjWYEfEGFuUyM9zCyB) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [愛 need your love](https://open.spotify.com/album/7aNVI1dGbfpGZUQV0zkPRa) | 3:46 | 2023-11-28 | 2023-11-30 |
 | [愛が一層メロウ](https://open.spotify.com/track/1s4jmPayW30yQFFOjehEFB) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 3:11 | 2024-03-19 | 2024-04-19 |
@@ -329,6 +330,7 @@
 | [浮気したらあかんで](https://open.spotify.com/track/2Ttoq33zOFH1eMmDhSgvQ0) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [浮気したらあかんで](https://open.spotify.com/album/3Php6RjDZLlQfuKF0TcW34) | 3:13 | 2024-11-19 |  |
 | [爆誕祭♡](https://open.spotify.com/track/5wJprSnuvqh4OVUgPJMXPn) | [浜野はるき](https://open.spotify.com/artist/5sx4iy6FarYtWbiChpFOZp) | [爆誕祭♡](https://open.spotify.com/album/7EPSbhKbuBZV3Mmamup6NM) | 3:01 | 2024-03-19 | 2024-04-17 |
 | [片恋 \(惡作劇完成 Japanese Version\)](https://open.spotify.com/track/7ksusSBX91WIZccHIdlVEr) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [片恋 \(惡作劇完成 Japanese Version\)](https://open.spotify.com/album/1ReJbqgBQRJKNTkjpqkqPw) | 4:15 | 2023-03-02 | 2023-03-25 |
+| [片隅のファンタジー](https://open.spotify.com/track/4WqECnYAtpAoc4HJfdBMrL) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [片隅のファンタジー](https://open.spotify.com/album/4mSD5xrq0dDD8Ms0TYitO8) | 3:28 | 2024-12-03 |  |
 | [甘恋](https://open.spotify.com/track/05gzYjM4EQWUksTH9V4zHF) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [甘恋](https://open.spotify.com/album/0b52gb7VLKM0FxLjQkTpkr) | 3:37 | 2023-04-06 | 2023-04-12 |
 | [病](https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:24 | 2023-02-09 | 2023-02-19 |
 | [白く染まる前に](https://open.spotify.com/track/6bz7n2mNF3kGNLXWzfXJyy) | [Ryubi Miyase](https://open.spotify.com/artist/1zS6Z0i0nNN7cZJoLqmyJk) | [白く染まる前に](https://open.spotify.com/album/6T0LIa2Qkb7FkjNhpGl3xn) | 3:19 | 2024-10-02 | 2024-10-09 |
@@ -336,6 +338,7 @@
 | [眼差し](https://open.spotify.com/track/33ONOFAa82gRalbmkQKpkz) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [眼差し](https://open.spotify.com/album/2uGI04yVeqhytZ8NATBuhh) | 3:40 | 2024-09-03 | 2024-10-03 |
 | [瞼を染めて](https://open.spotify.com/track/2fBn3VyijKi3MpJwtAV7vX) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [瞼を染めて](https://open.spotify.com/album/7n9EYkI7aeTGqS0ZGTAg8b) | 4:50 | 2024-01-18 | 2024-02-14 |
 | [知りたい](https://open.spotify.com/track/0ZzlTt1awceD0HCG2ntBi3) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [知りたい](https://open.spotify.com/album/2A9DObdoMkFhBu9OVof8ec) | 3:07 | 2023-11-28 | 2023-11-30 |
+| [私ばっかりバカみたい！](https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT) | [ニイナ](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [私ばっかりバカみたい！](https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO) | 2:48 | 2024-12-03 |  |
 | [秘密のキス](https://open.spotify.com/track/077Erf4RnkjumF791VOBnE) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 4:05 | 2023-02-09 | 2023-02-26 |
 | [空っぽ](https://open.spotify.com/track/1VfOJgHWGyXIVcowq3dcJK) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [空っぽ](https://open.spotify.com/album/6gsTB987dJeaTUifVdWbO4) | 4:53 | 2023-02-09 | 2023-08-05 |
 | [立春、坂道にて](https://open.spotify.com/track/1tTAF6VFTl5qXpNYdi62pm) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [立春、坂道にて](https://open.spotify.com/album/3DLPzsPL5P1HA3F1bSjg1k) | 3:31 | 2023-02-09 | 2023-03-01 |

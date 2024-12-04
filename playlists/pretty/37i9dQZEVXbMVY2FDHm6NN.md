@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,383 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,403 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [Heart on the Window \(with WENDY\)](https://open.spotify.com/track/0gzXQHsv4zYHQ1pvlyYZZa) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:57 |
 | 50 | [有天會再相見](https://open.spotify.com/track/4BZlQdwkgUuaj5xbUHwUl8) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [有天會再相見](https://open.spotify.com/album/3euhcHkOosfai4FG0UXzp1) | 4:35 |
 
-Snapshot ID: `LuEioAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LuJ0IAAAAAAAAAAAAAAAAAAAAAAAAGVu`

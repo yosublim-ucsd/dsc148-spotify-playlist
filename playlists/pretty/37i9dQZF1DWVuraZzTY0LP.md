@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,871 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,911 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 40 | [The Sweet Escape](https://open.spotify.com/track/07K4GcCDSTiXUF5ssyTRUM) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape](https://open.spotify.com/album/4LAtUD0YzywA2DdzxEAoEU) | 4:06 |
 | 41 | [EL ÚNICO](https://open.spotify.com/track/2wuZ3kg5ChBjRKqBYfJ9H7) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:32 |
 | 42 | [00:00](https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt) | 3:35 |
-| 43 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
-| 44 | [Bailando Solo](https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 4:27 |
+| 43 | [Bailando Solo](https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [La Velocidad de la Luz](https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG) | 4:27 |
+| 44 | [THINGS BEHIND THINGS BEHIND THINGS](https://open.spotify.com/track/2kyL1eP0mluFHYlAwKySzj) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE,](https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm) | 3:20 |
 | 45 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:33 |
 | 46 | [Cosmic Girl \- Remastered 2013](https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Travelling Without Moving \(Remastered\)](https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER) | 4:04 |
 | 47 | [Manía Cardiaca](https://open.spotify.com/track/7rhKh1Ool2Yel5JXmiemZB) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 4:08 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 65 | [Nunca Me Dejes](https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [Viaje Por Lo Eterno](https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c) | 3:25 |
 | 66 | [Heatstroke](https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Heatstroke](https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL) | 3:54 |
 | 67 | [Nada Te Lastima](https://open.spotify.com/track/707RJqFRGa41CeaxY8lz5d) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa), [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Nada Te Lastima](https://open.spotify.com/album/1jeyGW0WXEKoGBH6WlZMy2) | 4:08 |
-| 68 | [Sweet Disposition](https://open.spotify.com/track/6bUAaVkmBr9xrsWkeTLu03) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/3V6Vg6jsuectTbmp7dO9jO) | 3:56 |
-| 69 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
+| 68 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 |
+| 69 | [Sweet Disposition](https://open.spotify.com/track/6bUAaVkmBr9xrsWkeTLu03) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/3V6Vg6jsuectTbmp7dO9jO) | 3:56 |
 | 70 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 |
 
 Snapshot ID: `ZzbjYAAAAAAy3yAibgE748KnwrnInmxL`

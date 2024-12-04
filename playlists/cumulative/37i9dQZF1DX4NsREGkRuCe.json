@@ -3506,14 +3506,14 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "Compose",
       "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "album": {
-        "name": "Composure (feat. Odumodublvck)",
+        "name": "Composure (feat. ODUMODUBLVCK)",
         "url": "https://open.spotify.com/album/1cSj4PQelBB7VvBRH05fWw"
       },
       "artists": [
@@ -3534,7 +3534,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 165517,
-      "name": "Composure (feat. Odumodublvck)",
+      "name": "Composure (feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/5T6B5u7napNSymqsdluzuV"
     },
     {
@@ -5794,7 +5794,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 156000,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/53Wj8F6qKRewS5IbPklcyj"
@@ -7179,6 +7179,28 @@
     },
     {
       "album": {
+        "name": "Shakur",
+        "url": "https://open.spotify.com/album/4dI1QNQSKTYSU6zKtmzwum"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164745,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1HBWK4lSLU6b4MjeK5OA2B"
+    },
+    {
+      "album": {
         "name": "Rave & Roses Ultra",
         "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
       },
@@ -8560,7 +8582,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 211525,
       "name": "Kowope",
       "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"

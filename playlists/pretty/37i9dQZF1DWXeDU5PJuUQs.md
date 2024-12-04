@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,279 likes - 64 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,451 likes - 64 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 57 | [Ahora Te Vas \- En Vivo](https://open.spotify.com/track/1a47ltENRUWMRlNnlqVsvs) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En Vivo En La Quinta Vergara](https://open.spotify.com/album/1ufPsyIKQ45i4nKN5urv2C) | 3:44 |
 | 58 | [Nunca Más \- En Vivo](https://open.spotify.com/track/0KNEOI14ngvaVebUikICG7) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Nunca Más \(En Vivo\)](https://open.spotify.com/album/1cVkFAllEL8LHbwU0OHsUA) | 3:04 |
 | 59 | [El Tano Pastita](https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 1:57 |
-| 60 | [Cosas del Amor \- En Vivo](https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Santi Cairo](https://open.spotify.com/artist/7aXtE6aOLk9TSN6P7bfLe5) | [Cosas del Amor \(En Vivo\)](https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV) | 3:16 |
+| 60 | [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 |
 | 61 | [Como Podré](https://open.spotify.com/track/3b1KrXLLqt9KbZvMdZ4fpN) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Ay, Amor \(En Vivo\)](https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ) | 4:38 |
 | 62 | [Te Soñé una Vez Mas \- En Vivo](https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 2:38 |
-| 63 | [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 |
-| 64 | [Una Copa de Más \- En Vivo](https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Una Copa de Más \(En Vivo\)](https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL) | 5:16 |
+| 63 | [Cosas del Amor \- En Vivo](https://open.spotify.com/track/1CjZCNYbMTgHLEsX9EAQJd) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG), [Santi Cairo](https://open.spotify.com/artist/7aXtE6aOLk9TSN6P7bfLe5) | [Cosas del Amor \(En Vivo\)](https://open.spotify.com/album/41WPVRFYR95CRt0vHagmpV) | 3:16 |
+| 64 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
 
 Snapshot ID: `Zz+TpQAAAADlE1X0e2RYgk/XgvBxPkfg`

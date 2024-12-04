@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 
 > This is Ludmila Ferber\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,163 likes - 50 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,173 likes - 50 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 31 | [Senhor que Cura](https://open.spotify.com/track/5ty5iPKPaNepDPSauxGuIR) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 5:06 |
 | 32 | [Vale a Pena ser Profeta \- Ao Vivo](https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 6:47 |
 | 33 | [Ouço Deus Me Chamar](https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Ouço Deus Me Chamar](https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd) | 4:58 |
-| 34 | [Orar e Adorar \(feat\. David Quinlan\)](https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL) | 6:31 |
+| 34 | [Imenso Amor](https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Imenso Amor](https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4) | 3:23 |
 | 35 | [Eu Vou Vencer](https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Pra Me Alegrar](https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l) | 4:41 |
-| 36 | [Imenso Amor](https://open.spotify.com/track/6Fe1vCxKNy15hK4LWBl86n) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Imenso Amor](https://open.spotify.com/album/2jjIGswLhaembsSRP4d6J4) | 3:23 |
+| 36 | [Orar e Adorar \(feat\. David Quinlan\)](https://open.spotify.com/track/2uEQpuWq4XyYVe8DWiGCqw) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Pérolas da Adoração \- Músicas que Marcaram a Nossa História](https://open.spotify.com/album/5OMvO6gJEnRda4CEV6T7mL) | 6:31 |
 | 37 | [Faz Chover](https://open.spotify.com/track/1cVb9gErlRvhJJD5gERg0w) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 6:27 |
 | 38 | [24 Horas por Dia](https://open.spotify.com/track/4dNoG5zyY6ZkH3RlueTnX2) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 4 \- 24h por Dia](https://open.spotify.com/album/1gP3FjsU4I5ebZsHmdC9rA) | 4:15 |
 | 39 | [A Decisão](https://open.spotify.com/track/1PsuRU8oyFeEGpKCMh9GHj) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 3: Tempo de Cura \(Ao Vivo\)](https://open.spotify.com/album/5lQDYxPghIjoC7FR7JeLnc) | 6:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2jluEL.md) - [plain]
 | 49 | [Toma Teu Trono](https://open.spotify.com/track/0EYhxEagvkr3yasS5goZSQ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Para Orar e Adorar 3 \- Ouço Deus Me Chamar](https://open.spotify.com/album/2yMkZQIo1eqMXVUQzvDYlD) | 7:01 |
 | 50 | [Toda Adoração](https://open.spotify.com/track/39y8RE8axgRjQZAPB0gsg4) | [Ministério Koinonya de Louvor](https://open.spotify.com/artist/4HVKmt7N1MkZtPmsZPeTZg), [Silvério Peres](https://open.spotify.com/artist/20osU0MGKViBjY7vgDj57D), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração 8 \- Maravilhoso És](https://open.spotify.com/album/05GWMnAUx5EJwpgUPvJnhL) | 3:16 |
 
-Snapshot ID: `Z0unAAAAAAAFW7fxo1ejfEOjTHlTU5kC`
+Snapshot ID: `Z0z4gAAAAAAkby9ME4ro8GhX3qerLsl/`

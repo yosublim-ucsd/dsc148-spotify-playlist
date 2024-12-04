@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 22675,
+  "num_followers": 22698,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -135,22 +135,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "spirits",
-        "url": "https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm"
-      },
-      "artists": [
-        {
-          "name": "n o r m a l",
-          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
-        }
-      ],
-      "duration_ms": 137522,
-      "name": "spirits",
-      "url": "https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Moonlight Juice",
         "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
       },
@@ -167,6 +151,38 @@
       "duration_ms": 147786,
       "name": "Moonlight Juice",
       "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "spirits",
+        "url": "https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm"
+      },
+      "artists": [
+        {
+          "name": "n o r m a l",
+          "url": "https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt"
+        }
+      ],
+      "duration_ms": 137522,
+      "name": "spirits",
+      "url": "https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
+      },
+      "artists": [
+        {
+          "name": "Maple Syrup",
+          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
+        }
+      ],
+      "duration_ms": 116447,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -191,22 +207,6 @@
       "duration_ms": 115016,
       "name": "Hotel Lounge in Havana",
       "url": "https://open.spotify.com/track/0WzNm5OrMqWzVZ84QdwJSS"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
-      },
-      "artists": [
-        {
-          "name": "Maple Syrup",
-          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
-        }
-      ],
-      "duration_ms": 116447,
-      "name": "Tudo Bem",
-      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -407,6 +407,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Mindr",
+          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
+        }
+      ],
+      "duration_ms": 127586,
+      "name": "Viento de Arrabal",
+      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -427,26 +447,6 @@
       "duration_ms": 114000,
       "name": "Mi Pueblo",
       "url": "https://open.spotify.com/track/6dStpu70kmcpJmCtVD8vbB"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Mindr",
-          "url": "https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om"
-        }
-      ],
-      "duration_ms": 127586,
-      "name": "Viento de Arrabal",
-      "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "La Diabla (lofi edit)",
         "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -575,26 +575,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Remixes lofi del Regional Chill",
-        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 123875,
-      "name": "Los d\u00edas grises (Remix)",
-      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Bolero coqueto",
         "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 135163,
       "name": "Bolero coqueto",
       "url": "https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Remixes lofi del Regional Chill",
+        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 123875,
+      "name": "Los d\u00edas grises (Remix)",
+      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -659,22 +659,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "De La Selva",
-        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
+        "name": "Donde Estas?",
+        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
       },
       "artists": [
         {
-          "name": "Alma De La Selva",
-          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
-        },
-        {
-          "name": "Juan Carlos Montiel Rangel",
-          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
         }
       ],
-      "duration_ms": 240981,
-      "name": "Chipek",
-      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
+      "duration_ms": 124245,
+      "name": "Donde Estas?",
+      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -695,6 +691,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "De La Selva",
+        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
+      },
+      "artists": [
+        {
+          "name": "Alma De La Selva",
+          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
+        },
+        {
+          "name": "Juan Carlos Montiel Rangel",
+          "url": "https://open.spotify.com/artist/5NcimVgMgYVC50egzHUuj2"
+        }
+      ],
+      "duration_ms": 240981,
+      "name": "Chipek",
+      "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "El Comienzo",
         "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 236000,
       "name": "Estoy Ah\u00ed",
       "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Donde Estas?",
-        "url": "https://open.spotify.com/album/2pXU5wHU7XMwvl3xkZEN9j"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 124245,
-      "name": "Donde Estas?",
-      "url": "https://open.spotify.com/track/2mRYo91e0IZu9HPPAIxVAq"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "La Belleza de lo Cotidiano",
-        "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
-      },
-      "artists": [
-        {
-          "name": "B.L.U.N.T.S",
-          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
-        },
-        {
-          "name": "Lofi Soul",
-          "url": "https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "La Belleza de lo Cotidiano",
-      "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Ocaso Sin Fin",
         "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 98832,
       "name": "M\u00e9xico M\u00e1gico",
       "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "La Belleza de lo Cotidiano",
+        "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T.S",
+          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+        },
+        {
+          "name": "Lofi Soul",
+          "url": "https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "La Belleza de lo Cotidiano",
+      "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ciudad de Papel",
-        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 129767,
-      "name": "Ciudad de Papel",
-      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Viendo el mundial con pap\u00e1",
         "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 129854,
       "name": "Viendo el mundial con pap\u00e1",
       "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Ciudad de Papel",
+        "url": "https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 129767,
+      "name": "Ciudad de Papel",
+      "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "lucky monkey",
+        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "lucky monkey",
+      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Sunset on Vallarta",
         "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 115714,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "lucky monkey",
-        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
-      },
-      "artists": [
-        {
-          "name": "archipelago beats",
-          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "lucky monkey",
-      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "Rambla Sur",
-      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Break",
         "url": "https://open.spotify.com/album/6rKi0IPsxq0KEaUf2GD2CQ"
       },
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "Rambla Sur",
+      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Ni\u00f1a",
         "url": "https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2"
       },
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Guaran\u00ed Landscape",
-        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
-      },
-      "artists": [
-        {
-          "name": "Baco Beats",
-          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
-        }
-      ],
-      "duration_ms": 189629,
-      "name": "Guaran\u00ed Landscape",
-      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Landscape Ride",
         "url": "https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 147700,
       "name": "Landscaper",
       "url": "https://open.spotify.com/track/21zlk57FeY4Vc0L00rDuiD"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Guaran\u00ed Landscape",
+        "url": "https://open.spotify.com/album/7oMarLxg3VXlAHHeXFCYPY"
+      },
+      "artists": [
+        {
+          "name": "Baco Beats",
+          "url": "https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv"
+        }
+      ],
+      "duration_ms": 189629,
+      "name": "Guaran\u00ed Landscape",
+      "url": "https://open.spotify.com/track/5BI586i4Pf3h9jveUJPMmm"
     },
     {
       "added_at": "2024-10-04 04:00:00",

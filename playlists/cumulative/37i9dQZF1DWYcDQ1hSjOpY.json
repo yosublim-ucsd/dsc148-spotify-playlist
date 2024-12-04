@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 192269,
       "name": "Cold Nights",
       "url": "https://open.spotify.com/track/3VKDama6kBesXErV1pvMU7"
@@ -3494,7 +3494,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 204500,
       "name": "Demulcere",
       "url": "https://open.spotify.com/track/5X8xwH6pXJ9r6xzyFm7Vyc"
@@ -3584,7 +3584,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 185720,
       "name": "Designed",
       "url": "https://open.spotify.com/track/3eLLRRVnTQ41O6f6Eb2aU0"
@@ -4218,6 +4218,24 @@
       "duration_ms": 225542,
       "name": "Earthy Vibes",
       "url": "https://open.spotify.com/track/1InWzGbLaqF6HVmAzDTrKJ"
+    },
+    {
+      "album": {
+        "name": "Ease",
+        "url": "https://open.spotify.com/album/6XV0cac3ZQ3JS9UXkRaGum"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160222,
+      "name": "Ease",
+      "url": "https://open.spotify.com/track/7i6SwixNVo6ZmEOU0OOMUP"
     },
     {
       "album": {
@@ -4880,7 +4898,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 176000,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/7hdzLz89yAPsnBsNlXwP43"
@@ -4902,6 +4920,24 @@
       "duration_ms": 178250,
       "name": "Eternal Moonlight",
       "url": "https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF"
+    },
+    {
+      "album": {
+        "name": "Eternal Rest",
+        "url": "https://open.spotify.com/album/31zDFGa0tjwiRQc897Pri9"
+      },
+      "artists": [
+        {
+          "name": "Long Lake",
+          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Eternal Rest",
+      "url": "https://open.spotify.com/track/0cmhNtPuQPQPeJl536CvVX"
     },
     {
       "album": {
@@ -4992,7 +5028,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 168826,
       "name": "Ethereal Reverie",
       "url": "https://open.spotify.com/track/1H0XcscTDkJM6ScRnvLp9d"
@@ -6454,7 +6490,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 145800,
       "name": "Hygga",
       "url": "https://open.spotify.com/track/5wkoZ9boDE4xt4wtam3a4e"
@@ -10832,7 +10868,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 182400,
       "name": "Restful Mind",
       "url": "https://open.spotify.com/track/4mpjqRuTh5sj0cVAQc5asC"
@@ -10962,6 +10998,24 @@
       "duration_ms": 144782,
       "name": "Rituals",
       "url": "https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD"
+    },
+    {
+      "album": {
+        "name": "Rivers in Time",
+        "url": "https://open.spotify.com/album/6aQDmaROcPYuaO6Jy9gFj0"
+      },
+      "artists": [
+        {
+          "name": "Iminum",
+          "url": "https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201601,
+      "name": "Rivers in Time",
+      "url": "https://open.spotify.com/track/2keSJUzi5llV0EAHRDhZ1g"
     },
     {
       "album": {
@@ -11444,7 +11498,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 193736,
       "name": "Serene Horizon",
       "url": "https://open.spotify.com/track/4zblnLoTc8pq79vhj0UTly"
@@ -11664,6 +11718,24 @@
       "duration_ms": 175250,
       "name": "Signs Of Motion",
       "url": "https://open.spotify.com/track/4iEcyR1rIsoBN67UYdY7Vh"
+    },
+    {
+      "album": {
+        "name": "Silent Radiance",
+        "url": "https://open.spotify.com/album/12JBg89BnbiQqw2HBdkjt0"
+      },
+      "artists": [
+        {
+          "name": "Universal Embrace",
+          "url": "https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Silent Radiance",
+      "url": "https://open.spotify.com/track/7egeoxBW8HTYgDs8fC3om4"
     },
     {
       "album": {
@@ -12740,7 +12812,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 176005,
       "name": "Surreal Serendipity",
       "url": "https://open.spotify.com/track/2mCCM3O85LmUP9TywKUS65"
@@ -13046,7 +13118,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 154074,
       "name": "The Morning Star",
       "url": "https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF"
@@ -14098,7 +14170,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 173875,
       "name": "Waves of the Unconscious Mind",
       "url": "https://open.spotify.com/track/3eb7YLFzZGU7caNDQbZDfh"

@@ -1,6 +1,6 @@
 {
   "description": "A sad playlist for when the buildup to summer ends up being a bummer, ft d4vd",
-  "num_followers": 80723,
+  "num_followers": 80844,
   "original_name": "bummer summer",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-05-10 17:49:10",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
     },
     {
       "added_at": "2024-05-10 17:49:10",
@@ -335,34 +335,18 @@
     {
       "added_at": "2024-05-10 17:49:10",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 248807,
-      "name": "White Ferrari",
-      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
-    },
-    {
-      "added_at": "2024-05-10 17:49:10",
-      "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
-      },
-      "artists": [
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 169353,
-      "name": "Let Me Down Slowly",
-      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
       "added_at": "2024-05-10 17:49:10",
@@ -379,6 +363,22 @@
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "added_at": "2024-05-10 17:49:10",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 169353,
+      "name": "Let Me Down Slowly",
+      "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
     },
     {
       "added_at": "2024-05-10 17:49:10",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-05-10 17:49:10",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
-      },
-      "artists": [
-        {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Duvet",
-      "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
-    },
-    {
-      "added_at": "2024-05-10 17:49:10",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": "2024-05-10 17:49:10",
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1"
+      },
+      "artists": [
+        {
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Duvet",
+      "url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
     },
     {
       "added_at": "2024-05-10 17:49:10",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-05-10 17:49:10",
       "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2024-05-10 17:49:10",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-05-10 17:49:10",
       "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
+    },
+    {
+      "added_at": "2024-05-10 17:49:10",
+      "album": {
         "name": "Being Funny In A Foreign Language",
         "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
@@ -575,38 +591,6 @@
     {
       "added_at": "2024-05-10 17:49:10",
       "album": {
-        "name": "a thousand years",
-        "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
-      },
-      "artists": [
-        {
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "duration_ms": 285120,
-      "name": "a thousand years",
-      "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
-    },
-    {
-      "added_at": "2024-05-10 17:49:10",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
-    },
-    {
-      "added_at": "2024-05-10 17:49:10",
-      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2024-05-10 17:49:10",
+      "album": {
+        "name": "a thousand years",
+        "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
+      },
+      "artists": [
+        {
+          "name": "Christina Perri",
+          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+        }
+      ],
+      "duration_ms": 285120,
+      "name": "a thousand years",
+      "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
     },
     {
       "added_at": "2024-05-10 17:49:10",

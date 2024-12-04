@@ -878,6 +878,24 @@
     {
       "album": {
         "name": "Blissful",
+        "url": "https://open.spotify.com/album/7mGHEAdufxs8VXlJ8PqW7i"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Rhey",
+          "url": "https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Blissful",
+      "url": "https://open.spotify.com/track/2WcFKnRJEwZH8FxcGUQmur"
+    },
+    {
+      "album": {
+        "name": "Blissful",
         "url": "https://open.spotify.com/album/2wtdveGHtM82JRmWxzIfsG"
       },
       "artists": [
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 165000,
       "name": "Cianalas",
       "url": "https://open.spotify.com/track/4kLNF1BFyLnJ3sQjcS7Rqm"
@@ -2303,6 +2321,24 @@
     },
     {
       "album": {
+        "name": "Eternal Rest",
+        "url": "https://open.spotify.com/album/31zDFGa0tjwiRQc897Pri9"
+      },
+      "artists": [
+        {
+          "name": "Long Lake",
+          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Eternal Rest",
+      "url": "https://open.spotify.com/track/0cmhNtPuQPQPeJl536CvVX"
+    },
+    {
+      "album": {
         "name": "Ethereal Mind",
         "url": "https://open.spotify.com/album/6Htlnw2TkYQYA8EdNwInuN"
       },
@@ -2318,6 +2354,24 @@
       "duration_ms": 207509,
       "name": "Ethereal Mind",
       "url": "https://open.spotify.com/track/3X3vCAvMiO48mdC2lGxfIB"
+    },
+    {
+      "album": {
+        "name": "Evanescent",
+        "url": "https://open.spotify.com/album/4eYy3fAYS2Ye5zBBEOh7uN"
+      },
+      "artists": [
+        {
+          "name": "Amos Stovall",
+          "url": "https://open.spotify.com/artist/2rCj2TSCYy40ehzMZ0F5lS"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160078,
+      "name": "Evanescent",
+      "url": "https://open.spotify.com/track/0bfnzSiA5zQA4TccKZX8Ri"
     },
     {
       "album": {
@@ -2861,6 +2915,24 @@
     },
     {
       "album": {
+        "name": "Gentle",
+        "url": "https://open.spotify.com/album/5QlJDob0lzv0Q6QsGUz2pW"
+      },
+      "artists": [
+        {
+          "name": "William Edessa",
+          "url": "https://open.spotify.com/artist/3APfshfvEFD5G5vkZGvObg"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Gentle",
+      "url": "https://open.spotify.com/track/4NhNqADCVHtinzGQkZrRkO"
+    },
+    {
+      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/7vCCiQEhbRVYNOCsUraYlI"
       },
@@ -3016,7 +3088,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 162000,
       "name": "Harvest",
       "url": "https://open.spotify.com/track/7AlHOgQGvfVRiXMY64pOyn"
@@ -3052,7 +3124,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 169105,
       "name": "Healing",
       "url": "https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk"
@@ -3851,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/2un9gyChobeTNRw8BN7B95"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139674,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/5IwttgCz4FPDkodjrZtLb3"
+    },
+    {
+      "album": {
         "name": "Beauty and Truth",
         "url": "https://open.spotify.com/album/4ZczqJuCVIdZ2JOWDbR5Ie"
       },
@@ -3880,7 +3970,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 159500,
       "name": "Lugnet",
       "url": "https://open.spotify.com/track/40T7pP27hzRoZVHofuExIg"
@@ -4474,7 +4564,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 177931,
       "name": "M\u00e5ngata",
       "url": "https://open.spotify.com/track/1dpvthn5aYPgBmk7LiKOsl"
@@ -6076,7 +6166,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 189785,
       "name": "Shine",
       "url": "https://open.spotify.com/track/209Z42ajAg8t7fg1VxQqDz"

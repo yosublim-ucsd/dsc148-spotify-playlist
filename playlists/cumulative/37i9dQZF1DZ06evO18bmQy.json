@@ -335,6 +335,32 @@
     },
     {
       "album": {
+        "name": "COMO PUDE",
+        "url": "https://open.spotify.com/album/1BJ8oZQAXZN7zeKBZQHfjP"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218029,
+      "name": "COMO PUDE",
+      "url": "https://open.spotify.com/track/7ByJSibimCzArvSSxfnbtE"
+    },
+    {
+      "album": {
         "name": "O Dono do Lugar",
         "url": "https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4"
       },
@@ -2302,8 +2328,8 @@
           "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         },
         {
-          "name": "JNR Beats",
-          "url": "https://open.spotify.com/artist/2MezhY4Nd9Fwo6bRFy7UXw"
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
         },
         {
           "name": "Mc Kaio",

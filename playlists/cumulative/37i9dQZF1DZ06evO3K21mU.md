@@ -4,7 +4,7 @@
 
 > This is J\. Cole\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 12 min
+87 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/track/1llzRvV9QpuNHjPu0rVQSp) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [There I Go \(feat\. J\. Cole & Mike WiLL Made\-It\)](https://open.spotify.com/album/0kFq7Bvlr9eiE3Za6kx1Ub) | 2:52 | 2023-11-10 | 2024-01-05 |
 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 | 2023-11-10 |  |
 | [Too Deep for the Intro](https://open.spotify.com/track/3v6oMGduetl7GA67POX9Dm) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 3:45 | 2024-12-01 |  |
-| [Trae The Truth in Ibiza](https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 4:15 | 2024-07-04 |  |
+| [Trae The Truth in Ibiza](https://open.spotify.com/track/4E2fOeF5A6onC10OtnjXJa) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 4:15 | 2024-07-04 | 2024-12-04 |
 | [Tribe \(with J\. Cole\)](https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Milky Way](https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i) | 3:58 | 2023-11-10 | 2024-11-23 |
 | [Under The Sun \(with J\. Cole & Lute feat\. DaBaby\)](https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:22 | 2023-11-10 |  |
 | [Ville Mentality](https://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [4 Your Eyez Only](https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW) | 3:14 | 2023-11-10 | 2024-11-26 |
@@ -93,6 +93,7 @@
 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 | 2023-11-10 |  |
 | [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 | 2023-11-10 |  |
 | [World Is Empty](https://open.spotify.com/track/6OSbHs2sqAgvEsNYtzFcqL) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Warm Up](https://open.spotify.com/album/4zxXtxhx2Gc2EwEyMOkAeY) | 2:55 | 2024-11-29 |  |
+| [You Got It \(feat\. Wale\)](https://open.spotify.com/track/1eG559Jhrn9cDBrZplGlcJ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Friday Night Lights](https://open.spotify.com/album/4ghGEhWzY5ffry2IqgrnRg) | 4:46 | 2024-12-04 |  |
 | [Your Heart](https://open.spotify.com/track/2DTpP3caqX3QdJIEoS83mD) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Your Heart](https://open.spotify.com/album/1VKFaHoIvkZTzsSRad2jDZ) | 3:18 | 2023-11-10 | 2024-11-09 |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

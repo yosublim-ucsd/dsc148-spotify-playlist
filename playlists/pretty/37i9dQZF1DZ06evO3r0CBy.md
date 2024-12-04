@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 
 > This is Rodríguez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,829 likes - 21 songs - 1 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,833 likes - 21 songs - 1 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 2 | [I Think Of You](https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 3:25 |
 | 3 | [I'll Slip Away](https://open.spotify.com/track/5TFaVFcq4sblM4fW5wzG2Y) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 2:51 |
 | 4 | [Ecuador](https://open.spotify.com/track/4pdARdDcofXEGh29NYoo98) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 5:55 |
-| 5 | [Hate Street Dialogue](https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:33 |
+| 5 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 |
 | 6 | [Cause](https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 5:30 |
 | 7 | [Can't Get Away](https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:56 |
 | 8 | [I'm Gonna Live Till I Die \- Recorded Live at The Triple Door, Seattle, June 23, 2009](https://open.spotify.com/track/1fa9thKzMq5TmeUs1OJaRO) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Record Store Day 7"](https://open.spotify.com/album/6ssxScXjJlSttC1JE0n7Mp) | 3:33 |
-| 9 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 |
+| 9 | [Hate Street Dialogue](https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:33 |
 | 10 | [Silver Words?](https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:04 |
 | 11 | [Street Boy](https://open.spotify.com/track/1qckRGY4rDziXQv86ofYzW) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Searching For Sugar Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1) | 3:47 |
 | 12 | [I Wonder](https://open.spotify.com/track/3J5zeUimSbYSnDwKFo60V0) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:20 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3r0CBy.md) - [plain]
 | 20 | [Halfway Up The Stairs](https://open.spotify.com/track/3g9vVwKpMzMsMa9t4u1WgT) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Coming From Reality](https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi) | 2:27 |
 | 21 | [Just One of Those Things](https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Rodriguez Rocks: Live In Australia](https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0) | 3:02 |
 
-Snapshot ID: `Z0unAAAAAAAoYVQGChZEtKHjRW/S3sx3`
+Snapshot ID: `Z0z4gAAAAAAUlTtQXVEr0rDUcqW3Grtt`

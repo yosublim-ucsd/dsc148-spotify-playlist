@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,170 likes - 48 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 594,207 likes - 48 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 47 | [Home Is Such a Lonely Place](https://open.spotify.com/track/6OSb3O57uj7GCavzdjcXHg) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 3:21 |
 | 48 | [Cynical](https://open.spotify.com/track/7qLTXx7crEEtkbI2TAflqd) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California \(Deluxe Edition\)](https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6) | 1:55 |
 
-Snapshot ID: `Z0unAAAAAADsOdotriwmIqs/ZVReP1JO`
+Snapshot ID: `Z0z4gAAAAAAtLhHLgUt6evUfvVxtBylZ`

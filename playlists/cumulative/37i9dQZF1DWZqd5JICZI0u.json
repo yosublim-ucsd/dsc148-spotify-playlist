@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 140281,
       "name": "Aevitas",
       "url": "https://open.spotify.com/track/5Y3ePUhdXzPDI8nSCIe7bb"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 179750,
       "name": "Calm",
       "url": "https://open.spotify.com/track/2LxskIBEuhVXVpl0w4WLne"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 178500,
       "name": "Dans le noir",
       "url": "https://open.spotify.com/track/6oL6yOWVL8zJfwg2mlkMag"
@@ -3254,7 +3254,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 186387,
       "name": "Foundation",
       "url": "https://open.spotify.com/track/15TwhLj4nBzXJ6LNkkMrF2"
@@ -4280,7 +4280,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 211750,
       "name": "Inevitability",
       "url": "https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a"
@@ -5799,6 +5799,24 @@
     },
     {
       "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/2Dn9keQFXxorvxDRfViOX9"
+      },
+      "artists": [
+        {
+          "name": "Aquilonius",
+          "url": "https://open.spotify.com/artist/2Bua1ZVpNERP8WJ6gGyilw"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159123,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/0eHmDY9Nx2iUtK7FdLIjgk"
+    },
+    {
+      "album": {
         "name": "Dream Helpers",
         "url": "https://open.spotify.com/album/2Ia4VJbjtQYzwdLa2yD8nW"
       },
@@ -6350,7 +6368,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 197500,
       "name": "N\u00e4ra",
       "url": "https://open.spotify.com/track/0FTc7d89oQ0HpTYLjpPd3p"
@@ -6714,7 +6732,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 177758,
       "name": "Passage",
       "url": "https://open.spotify.com/track/7p5F5sN8xdUSxMjUw8Kyk2"
@@ -6750,7 +6768,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 179787,
       "name": "Patiently",
       "url": "https://open.spotify.com/track/5oHQkijiGG8oxR1FlyfNE1"
@@ -7686,7 +7704,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 183981,
       "name": "sailing dreams",
       "url": "https://open.spotify.com/track/4rvuy58or74YCum7qXpPxZ"
@@ -9108,7 +9126,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 170000,
       "name": "Tawelwch",
       "url": "https://open.spotify.com/track/3dQv95YPj2n9tesVZKN4FT"
@@ -9526,7 +9544,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 144750,
       "name": "Touches",
       "url": "https://open.spotify.com/track/6KzdWw8Hi1bz1lVw2AXDzb"
@@ -10210,7 +10228,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 195062,
       "name": "What Matters Most",
       "url": "https://open.spotify.com/track/3rPFA1lIlvYgmQbblz3sDp"

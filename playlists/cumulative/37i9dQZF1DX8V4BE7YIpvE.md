@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-123 songs - 6 hr 27 min
+129 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Comets](https://open.spotify.com/track/0cpdd5Mes64WIBVsTHLsfr) | [Moxin](https://open.spotify.com/artist/21i1EconrVQRBtLQ8j1CLJ), [Kabes](https://open.spotify.com/artist/483Rl4WY6iIJ9czOrOgymb), [Dinis](https://open.spotify.com/artist/6jlKK6jwCQOcdsNlNfKlMq) | [Comets](https://open.spotify.com/album/60iorWok6qsipEMMIxyMzd) | 2:31 | 2024-09-05 |  |
 | [Coming Home](https://open.spotify.com/track/3lDdclRD0pjJwhHjXjErEn) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Coming Home](https://open.spotify.com/album/4Msz8zKMwr7HpFNBaj9t4l) | 3:16 | 2024-09-05 |  |
 | [Control](https://open.spotify.com/track/6U5tKIdc3A0wKWWGMaewUh) | [BlueShip](https://open.spotify.com/artist/1DYailuCflxcgXm1QbE1Y9) | [Control](https://open.spotify.com/album/3LfHuzDwMkSjoNJd1WOvtC) | 2:40 | 2024-06-06 |  |
-| [Cosmic Day](https://open.spotify.com/track/1s4xrw85W0VP1PVqShROPM) | [Retrophoria](https://open.spotify.com/artist/0NkBsV2lsvsJJXOMx1zRgf) | [Cosmic Day](https://open.spotify.com/album/3VkwNM1BM4nKHIUDTPokC9) | 3:42 | 2024-10-24 |  |
+| [Cosmic Day](https://open.spotify.com/track/1s4xrw85W0VP1PVqShROPM) | [Retrophoria](https://open.spotify.com/artist/0NkBsV2lsvsJJXOMx1zRgf) | [Cosmic Day](https://open.spotify.com/album/3VkwNM1BM4nKHIUDTPokC9) | 3:42 | 2024-10-24 | 2024-12-04 |
 | [Crystals](https://open.spotify.com/track/3tlcvdh3LigtCJSIiBRsYm) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Crystals](https://open.spotify.com/album/34mVTs9yworrS1TzaPXtZR) | 2:53 | 2024-06-06 | 2024-08-11 |
 | [Dangerous](https://open.spotify.com/track/3vpWdSUYrG0tQJIUaftD5l) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Dangerous](https://open.spotify.com/album/0UowNq8BRyHLiAIn2ODQqC) | 3:24 | 2024-06-06 |  |
 | [Darkwave](https://open.spotify.com/track/2Z39vhTrNHXhbGLl9SnIjc) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Darkwave](https://open.spotify.com/album/5GBXBeG59ekMEGyeJ2HXOd) | 3:09 | 2024-06-06 | 2024-06-21 |
@@ -40,7 +40,10 @@
 | [Echoes](https://open.spotify.com/track/2UloubV0VmWeY9MT1Pnv06) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Echoes](https://open.spotify.com/album/2uh5TWemNU1MmoFyOFvtZl) | 2:53 | 2024-06-06 |  |
 | [eclipse](https://open.spotify.com/track/1nTipTdwJGSWpYrDNmcxJ8) | [n3on\-horizon](https://open.spotify.com/artist/0J8Pjbq6OuWELWBiXwPREe) | [eclipse](https://open.spotify.com/album/6YMYVrEruFN9LLuE00eTre) | 2:44 | 2024-11-22 |  |
 | [Eden](https://open.spotify.com/track/39imDV5zpT6YOOgm3LyAmx) | [Cyter](https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR) | [Eden](https://open.spotify.com/album/2dBrpkd94JiHDe8k6QbWLG) | 3:51 | 2024-11-22 |  |
+| [Electric Hype](https://open.spotify.com/track/7s3J0fHdsOVcYV3wRAfInN) | [Retrophoria](https://open.spotify.com/artist/0NkBsV2lsvsJJXOMx1zRgf) | [Electric Hype](https://open.spotify.com/album/7g7fbw5eaxJJ1GMcxvXW17) | 2:50 | 2024-12-03 |  |
+| [Electric Sheep](https://open.spotify.com/track/5gCfKl3ShwD1HWXc54uoWP) | [Luthus](https://open.spotify.com/artist/67jByGY50lGZ5iI0JoU0ka) | [Electric Sheep](https://open.spotify.com/album/1l8Gm2cTwETeS02S74saM9) | 2:34 | 2024-12-03 |  |
 | [Elysian Echoes](https://open.spotify.com/track/0KlLfMXfofptTSJt3Z6pMY) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Elysian Echoes](https://open.spotify.com/album/7jhIi3tarngZFO4f948jaD) | 2:52 | 2024-06-06 |  |
+| [Endless Summer](https://open.spotify.com/track/3YOhu8bLPGnOJDkIHrMkt6) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Endless Summer](https://open.spotify.com/album/6OGOFSOy8NMUbWtvAXnpJ6) | 4:00 | 2024-12-03 |  |
 | [Enough time to think](https://open.spotify.com/track/2j4PAHfX5Buu75RXeTO59l) | [Cyter](https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR) | [Enough time to think](https://open.spotify.com/album/0SgHt11DeylKWRqDBHIwOZ) | 2:43 | 2024-06-06 |  |
 | [Eternal Sunshine](https://open.spotify.com/track/6ubtpZG99JxA9NQYsfgzkZ) | [Green Prize](https://open.spotify.com/artist/5U0BKGd2lBYbXI1v1EcFTB) | [Eternal Sunshine](https://open.spotify.com/album/1yGJdpnJ0LpgRHHw7wbbFp) | 2:52 | 2024-06-06 | 2024-07-24 |
 | [Eventide](https://open.spotify.com/track/68tlrPmWjJXTA0JaMDifDO) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv), [M I R A G E](https://open.spotify.com/artist/1V8ROL13LPFtvaRaads8SQ) | [Eventide](https://open.spotify.com/album/5RVesMyFeVreFfPFIoJ5SH) | 4:12 | 2024-09-13 |  |
@@ -60,7 +63,7 @@
 | [Great Ones](https://open.spotify.com/track/2tM0gJa9jRSxT06SD24irK) | [X Square](https://open.spotify.com/artist/7011bXgLvxaW5oHpkBg5LC) | [Great Ones](https://open.spotify.com/album/5WFzdrj46i4uC5jXL3LIN9) | 2:46 | 2024-06-06 |  |
 | [H204](https://open.spotify.com/track/6BgRhSUOCm5cJdCG0tEkmG) | [Long Tapes](https://open.spotify.com/artist/5eB6joIKmG260vSyI72D4V) | [H204](https://open.spotify.com/album/7xy8hj9nSikTkADPm2lCS3) | 2:35 | 2024-06-06 |  |
 | [Happy Days](https://open.spotify.com/track/2XIzBn6pv20rFPkEjboc1x) | [Cloned Clouds](https://open.spotify.com/artist/1ZAzHOklRnzauXs4DNYB0f) | [Happy Days](https://open.spotify.com/album/16uHtWmXhndf4gMHAJQjtH) | 2:46 | 2024-06-06 |  |
-| [I Am a Robot](https://open.spotify.com/track/6bQHUlRgLwqZCHXDcJVtpU) | [Alexi Action](https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw) | [I Am a Robot](https://open.spotify.com/album/3ZOtqAZwoHJvj4NcxHds9s) | 2:24 | 2024-09-27 |  |
+| [I Am a Robot](https://open.spotify.com/track/6bQHUlRgLwqZCHXDcJVtpU) | [Alexi Action](https://open.spotify.com/artist/5Q3fDuVVQh3Bn8SVcIdqKw) | [I Am a Robot](https://open.spotify.com/album/3ZOtqAZwoHJvj4NcxHds9s) | 2:24 | 2024-09-27 | 2024-12-04 |
 | [Impact](https://open.spotify.com/track/13nnw50CpsLGQItGP5X2fP) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Impact](https://open.spotify.com/album/4YGzCDmw1Z7kBTPSxSELFi) | 2:35 | 2024-06-06 |  |
 | [In the Dark](https://open.spotify.com/track/2NpTkuYal66mwh3s36tHVE) | [Purple Dive](https://open.spotify.com/artist/1e8fzmX4tpKKjWoPk7tW7n) | [In the Dark](https://open.spotify.com/album/6i7CeVJanxewX9rODf7pJT) | 3:52 | 2024-08-16 |  |
 | [Infrared](https://open.spotify.com/track/4vgXBdJJ9jCEnAKFhVgCmN) | [Emil Rottmayer](https://open.spotify.com/artist/2UuvaSzB0VNumArR71ReMT) | [Infrared](https://open.spotify.com/album/1KcHt65UCtPC8lAY7ytLUt) | 3:08 | 2024-07-16 |  |
@@ -73,7 +76,8 @@
 | [LAX Bound](https://open.spotify.com/track/4m71KqM8xSO6IMMxIJEdky) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [LAX Bound](https://open.spotify.com/album/1sOaJJoEvVPDSo5djwSHY0) | 3:49 | 2024-06-06 | 2024-11-23 |
 | [Light Shift](https://open.spotify.com/track/2o5g4pvgKEB1nKsmROugVK) | [Alex Boychuk](https://open.spotify.com/artist/5PQIdH1jeF2EvLoTENF0qU) | [Light Shift](https://open.spotify.com/album/1Db7jNdGRzyIlK9zD3VQeQ) | 3:47 | 2024-09-05 |  |
 | [Like Math and Science](https://open.spotify.com/track/6dI32U3qpEbkF5CxOwVotb) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [You Get What You Give](https://open.spotify.com/album/5Kh55x2m4Vfm5ab5q2r2Mw) | 2:19 | 2024-06-06 | 2024-08-11 |
-| [Lost in Agadir](https://open.spotify.com/track/1KT4CSVrr2V2T9SCp4rfPM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Lost in Agadir](https://open.spotify.com/album/61iYmWms0utxBt46u9CDfG) | 2:51 | 2024-06-06 |  |
+| [Lost in Agadir](https://open.spotify.com/track/1KT4CSVrr2V2T9SCp4rfPM) | [Ava Low](https://open.spotify.com/artist/6uxfkZbF9fGUFlPgp9UqHd) | [Lost in Agadir](https://open.spotify.com/album/61iYmWms0utxBt46u9CDfG) | 2:51 | 2024-06-06 | 2024-12-04 |
+| [Lost Valley](https://open.spotify.com/track/0iumWLcmMMQ6sdST9HrqgJ) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Lost Valley](https://open.spotify.com/album/2m2EQgKQ9XoJIb314ZihkN) | 3:01 | 2024-12-03 |  |
 | [Lunar Cry \- Slowed](https://open.spotify.com/track/3zfXgVWQRQm1uUQcEeLNRs) | [auritni](https://open.spotify.com/artist/6S7iMNv0pzmmXn7nrZ2ggS), [DX7F](https://open.spotify.com/artist/757n4nNEQvSAHKh4MAnfm0) | [Lunar Cry](https://open.spotify.com/album/30P6birWfCZV15wT4plClf) | 2:18 | 2024-11-22 |  |
 | [Malibu](https://open.spotify.com/track/2Xr6SGuF6e6oOrSmqrNsbb) | [Reggi Bennett](https://open.spotify.com/artist/6I6oXTnFjRncAh2G4D0ehQ) | [Malibu](https://open.spotify.com/album/7rHA13O3Oj2iKAwIDPlbYB) | 3:09 | 2024-06-06 | 2024-07-19 |
 | [Meteora](https://open.spotify.com/track/440DUQsi26Bs7AiLEVFUTx) | [Aurora Wave](https://open.spotify.com/artist/4AQ41dflvmpYLr59f4Fg16) | [Meteora](https://open.spotify.com/album/01om0V5J47MfHxiHs0USjw) | 3:38 | 2024-06-06 |  |
@@ -82,6 +86,7 @@
 | [Midnight Tide](https://open.spotify.com/track/2bCUEbjiYmPvLWaSrGdD92) | [Rogue VHS](https://open.spotify.com/artist/55DhV9I8VahoWvpa3QMPP5), [Mellow Fields](https://open.spotify.com/artist/4LXaqntarVcHPpcLpRj8fr) | [Midnight Tide](https://open.spotify.com/album/3bZ1IBAU6FU59iHar4OZ76) | 3:10 | 2024-09-27 |  |
 | [Nebula](https://open.spotify.com/track/5akzWjgEj7b2M0qqQvx7TD) | [Akraa](https://open.spotify.com/artist/4LlBzEZ8alrrhSbYW10gVW) | [Hot Pursuit](https://open.spotify.com/album/7fjnxACrad6JzIogFWUpNy) | 2:26 | 2024-06-06 | 2024-06-21 |
 | [Neon Lights Neon Dreams](https://open.spotify.com/track/27n3QDmpOsE5Pd26qHaAi8) | [Forever Sunset](https://open.spotify.com/artist/6Y5W9usiGN7XrMM1k4ItaG) | [The Laser Grid](https://open.spotify.com/album/1O6jceh2300fqEst2zF598) | 2:58 | 2024-06-06 | 2024-08-11 |
+| [Neon Spring](https://open.spotify.com/track/2sV4dOSTjbG8NbprCHpXJe) | [Celestial Wave](https://open.spotify.com/artist/4DdhfucMY0fRicsWYQPJwQ) | [Neon Spring](https://open.spotify.com/album/1I9f5bCL2d6VBXetLQ3OpH) | 2:39 | 2024-12-03 |  |
 | [New Frontier](https://open.spotify.com/track/5J2lcvpwYZNtpKaKi3KTQd) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Darkwave](https://open.spotify.com/album/5GBXBeG59ekMEGyeJ2HXOd) | 3:05 | 2024-06-06 | 2024-06-21 |
 | [New Passenger](https://open.spotify.com/track/1lkBLaxwo4uh6y5IrudKC1) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0) | [Passengers](https://open.spotify.com/album/1FdQQYcNnrWlywWDnYmVpn) | 3:23 | 2024-08-10 |  |
 | [Night Rider](https://open.spotify.com/track/6G9Y1OxEadkafkHyHUaMBa) | [Syntax Slayer](https://open.spotify.com/artist/2xWs54kbNWraaT946rbx0B) | [Night Rider](https://open.spotify.com/album/50C1rgce9clCwpR0P6XPXn) | 2:44 | 2024-06-06 |  |
@@ -122,8 +127,9 @@
 | [Tellurate](https://open.spotify.com/track/1eFyUqcfmxwdQlo74qu9KO) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Tellurate](https://open.spotify.com/album/3Jjh9s8zoUgUOLFrg2sles) | 3:01 | 2024-10-07 |  |
 | [Textures](https://open.spotify.com/track/1seTo1rP8Y5A9pn9ap92nS) | [DeSantiis](https://open.spotify.com/artist/3nxb4AVWKD3ccJcW858gZt) | [Textures](https://open.spotify.com/album/4d0id8b3ltwYcT4vTtM0gv) | 2:51 | 2024-06-06 |  |
 | [The Arcades](https://open.spotify.com/track/6AB5a0jwNhLSOgByejWM7m) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [The Arcades](https://open.spotify.com/album/48hdi0M6jPYJxKPqhXx63w) | 3:27 | 2024-06-06 |  |
+| [The Mirage Syndicate](https://open.spotify.com/track/3Fl3Twi9Anar9g7faE9bgo) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [Battle for Black Hole Base Pt\. 2](https://open.spotify.com/album/3WZ134pjBqabVf6QduWxvi) | 2:40 | 2024-12-03 |  |
 | [The Unknown](https://open.spotify.com/track/5BilQDvjG6wn2emz32svm5) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [The Unknown](https://open.spotify.com/album/69I7fYgok4SWKr0d55Sy7b) | 3:02 | 2024-06-06 |  |
-| [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2024-06-06 |  |
+| [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2024-06-06 | 2024-12-04 |
 | [VHS](https://open.spotify.com/track/6iQkPTQy6bcW2J5A8JNxt1) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [VHS](https://open.spotify.com/album/5aLcJnQhU7KzSlbJIrEX4v) | 3:16 | 2024-09-13 |  |
 | [Video Knights](https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Video Knights](https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb) | 4:12 | 2024-06-06 |  |
 | [Virtual Realm](https://open.spotify.com/track/02g6jSLXQTRxzObVfJCD5R) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Virtual Realm](https://open.spotify.com/album/7iD7qgWarP2cE6milUdLxk) | 3:39 | 2024-08-23 |  |

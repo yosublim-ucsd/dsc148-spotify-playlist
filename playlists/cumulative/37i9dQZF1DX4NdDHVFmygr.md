@@ -4,7 +4,7 @@
 
 > Made in Morocco, 100% hits marocains.
 
-420 songs - 22 hr 29 min
+421 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Bohdi li fiha](https://open.spotify.com/track/0bmWRMSelJl8IOGxrd8q3P) | [Ayoub Africano](https://open.spotify.com/artist/44NLplsBXIVXrGG3s7DZzX) | [01.01](https://open.spotify.com/album/6wNXtKU6FeCWFl6Z4J09IZ) | 2:53 | 2023-01-04 | 2023-01-14 |
 | [Bomba Internationale](https://open.spotify.com/track/61R8xjGtLJSDLqdXchuv7Z) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Bomba Internationale](https://open.spotify.com/album/6thmHz667FJDAlkmStkXFW) | 2:45 | 2024-04-25 |  |
 | [Boom Boom](https://open.spotify.com/track/5pjYaVlejSYb84DlG71Qx4) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [BOOM BOOM](https://open.spotify.com/album/0cgPDMMTm1NrfgXLzGovUk) | 3:32 | 2024-08-28 |  |
+| [BOUHALI](https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:52 | 2024-12-03 |  |
 | [BSAHTEK](https://open.spotify.com/track/3S117nKz6nzHwxLaRUzgIs) | [Probador](https://open.spotify.com/artist/2XeXlRibiUH1nTxaXK23ZL) | [BSAHTEK](https://open.spotify.com/album/5qUERP0af1GNga709GfBzc) | 3:04 | 2024-08-28 |  |
 | [Business \(feat\. Naza\)](https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun) | [Business \(feat\. Naza\)](https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF) | 2:50 | 2023-06-04 | 2023-12-19 |
 | [C'est pas joli](https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB) | [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [C'est pas joli](https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD) | 3:43 | 2024-05-18 |  |
@@ -255,7 +256,7 @@
 | [MACHI SAHEL \(feat\. Tagne\)](https://open.spotify.com/track/1svrReBKFrNhVMjlT9NOT5) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Arabian Heartbreak](https://open.spotify.com/album/42lCJwK9Z7pToqV5TQTHPK) | 3:25 | 2024-10-22 |  |
 | [Madama](https://open.spotify.com/track/6jzV27cHgFjY5Cbl6HP8XK) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw) | [Madama](https://open.spotify.com/album/4uhbVUiV2gfJxb35hfw66m) | 2:23 | 2024-02-07 | 2024-08-29 |
 | [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 | 2024-05-22 |  |
-| [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 | 2023-11-24 |  |
+| [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 | 2023-11-24 | 2024-12-04 |
 | [Magic](https://open.spotify.com/track/1BPkouQsD4GyYIQc0pJ76I) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/0T6B119moSdRIZ2641ukTV) | 3:04 | 2022-03-20 | 2022-05-06 |
 | [Magic](https://open.spotify.com/track/6L1hnXrPSKAoOFmdOA8ANa) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/1hAdTf1gymTuoTlBd2RQfA) | 3:04 | 2022-07-25 | 2023-08-06 |
 | [Magic](https://open.spotify.com/track/7ckHoMRErhCP9QMqGRPnLv) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/7A52XPHtuD0dvuwMzV52qN) | 3:04 | 2022-05-06 | 2022-07-29 |

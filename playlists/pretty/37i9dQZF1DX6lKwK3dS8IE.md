@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,055 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,056 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

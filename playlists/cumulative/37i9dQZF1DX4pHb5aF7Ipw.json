@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 176504,
       "name": "Face Value",
       "url": "https://open.spotify.com/track/0PiQb1xuNqzeIHrSEwH3Cm"
@@ -2086,6 +2086,10 @@
         {
           "name": "Sagar Bhatoa",
           "url": "https://open.spotify.com/artist/63l0cVf3XrP2qcTNVjuhS5"
+        },
+        {
+          "name": "Lavish Dhiman",
+          "url": "https://open.spotify.com/artist/0OZHEt7SMyC00w8xopYIcc"
         }
       ],
       "date_added": "2024-12-02",
@@ -2947,6 +2951,28 @@
     },
     {
       "album": {
+        "name": "Infamous",
+        "url": "https://open.spotify.com/album/5y7dqFY48Lu4NFlVzMkgO4"
+      },
+      "artists": [
+        {
+          "name": "Tarang Nagi",
+          "url": "https://open.spotify.com/artist/3m3fWzKspiutzn9xToOqe6"
+        },
+        {
+          "name": "Crackwar",
+          "url": "https://open.spotify.com/artist/1qx6S0Iy1TKJ15BJ2XI3tI"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136398,
+      "name": "Infamous",
+      "url": "https://open.spotify.com/track/39bwBFxRQw8W0TegnXs6ZW"
+    },
+    {
+      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/3LcNQMWKN5P2KH8dfSM4Vc"
       },
@@ -3344,6 +3370,24 @@
       "duration_ms": 193579,
       "name": "LIMELIGHT",
       "url": "https://open.spotify.com/track/034zk3Lzkfw2L0FXbgyWCR"
+    },
+    {
+      "album": {
+        "name": "Link",
+        "url": "https://open.spotify.com/album/6d6kAyu48tZW5a43LPzX1x"
+      },
+      "artists": [
+        {
+          "name": "Jaani Jakhepal",
+          "url": "https://open.spotify.com/artist/4J5pgkNXWLEtyPR0wDyJwX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Link",
+      "url": "https://open.spotify.com/track/5hTAVFqScpqsdppfU7Ntcg"
     },
     {
       "album": {
@@ -4810,7 +4854,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 177333,
       "name": "Rubi Kon?",
       "url": "https://open.spotify.com/track/2YUuQdYenYuVQh8L45ZyCv"

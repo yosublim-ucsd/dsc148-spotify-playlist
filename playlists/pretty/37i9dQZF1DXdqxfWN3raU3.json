@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256550,
+  "num_followers": 256563,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,26 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "La Vida Sin Ti",
+        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "duration_ms": 164470,
+      "name": "La Vida Sin Ti",
+      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Besitos BB 2.0",
         "url": "https://open.spotify.com/album/7hgGSrkpHw7GzNdyUMZiN7"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 233693,
       "name": "Besitos BB 2.0",
       "url": "https://open.spotify.com/track/6A3siPf4AgV5jfZua1zHgZ"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "La Vida Sin Ti",
-        "url": "https://open.spotify.com/album/5mwQPFwobGNOp9P8I3BeUP"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        }
-      ],
-      "duration_ms": 164470,
-      "name": "La Vida Sin Ti",
-      "url": "https://open.spotify.com/track/54qwF6zeJ0zjjcOxFGICli"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -515,22 +515,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "1 OF 1",
-        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -551,18 +547,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "LQMGDT",
-        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+        "name": "1 OF 1",
+        "url": "https://open.spotify.com/album/6nrflCSqW4aAy4ZZ1PGp7I"
       },
       "artists": [
         {
-          "name": "legallyrxx",
-          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 207946,
-      "name": "Weeknd<3",
-      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
+      "duration_ms": 170000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Estetograma",
         "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 220000,
       "name": "Estetograma",
       "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 163404,
-      "name": "Me Olvid\u00e9",
-      "url": "https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Dreams & Love",
-        "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 141692,
-      "name": "Dreams & Love",
-      "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "mykonos 2007",
         "url": "https://open.spotify.com/album/5ajiP8HP6IZvxG7gZ4dlqi"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 188717,
       "name": "mykonos 2007",
       "url": "https://open.spotify.com/track/0xyRce9mMcNenSVh1iGd1Y"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Dreams & Love",
+        "url": "https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 141692,
+      "name": "Dreams & Love",
+      "url": "https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+      },
+      "artists": [
+        {
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Ukiyo",
         "url": "https://open.spotify.com/album/0eX8CWb62DpZUdDllWU1iP"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "KD",
-        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+        "name": "LUNAR",
+        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
       },
       "artists": [
         {
-          "name": "Melej",
-          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
         }
       ],
-      "duration_ms": 159146,
-      "name": "KD",
-      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
+      "duration_ms": 186787,
+      "name": "LUNAR",
+      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "LUNAR",
-        "url": "https://open.spotify.com/album/4IjhuO42v4hw5xxPSuk9C3"
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
       },
       "artists": [
         {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 186787,
-      "name": "LUNAR",
-      "url": "https://open.spotify.com/track/1b1pn4vLdyxyRQLbGVEmL8"
+      "duration_ms": 129106,
+      "name": "Tal vez",
+      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 188871,
       "name": "Dej\u00e9 de Amarte",
       "url": "https://open.spotify.com/track/4keqsGMfZx9nDqljpXzpvv"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 129106,
-      "name": "Tal vez",
-      "url": "https://open.spotify.com/track/22yHkRTgnAjoyaMhdWDP07"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Siguiendo Tu Voz",
-        "url": "https://open.spotify.com/album/3aMx835NabvoX55u65N42y"
-      },
-      "artists": [
-        {
-          "name": "Sharif",
-          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
-        },
-        {
-          "name": "KYR4",
-          "url": "https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2"
-        },
-        {
-          "name": "Gordo del Funk",
-          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
-        }
-      ],
-      "duration_ms": 190685,
-      "name": "Siguiendo Tu Voz",
-      "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "real valor",
         "url": "https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1"
       },
@@ -1311,6 +1287,30 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Siguiendo Tu Voz",
+        "url": "https://open.spotify.com/album/3aMx835NabvoX55u65N42y"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "KYR4",
+          "url": "https://open.spotify.com/artist/1nm61H1nuw0QZ86AuH0wv2"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        }
+      ],
+      "duration_ms": 190685,
+      "name": "Siguiendo Tu Voz",
+      "url": "https://open.spotify.com/track/2hPtSn5rWBtXUygMF1ibio"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Pobre Diablo",
         "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
       },
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Calles De Madrid",
-        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Calles De Madrid",
-      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Obra de Dios",
         "url": "https://open.spotify.com/album/6TqGWylbqFXWCfC4Ytke1a"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 217936,
       "name": "Obra de Dios",
       "url": "https://open.spotify.com/track/764bq55JYDxvXkF8I37VQp"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Calles De Madrid",
+        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Calles De Madrid",
+      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Makin Money",
+        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Makin Money",
+      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Entre Mis Manos",
         "url": "https://open.spotify.com/album/0wrNtmAbTwV3MzAoqIE5ih"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 220500,
       "name": "Entre Mis Manos",
       "url": "https://open.spotify.com/track/1hs4FsYr28Ef1JYlIcYrcp"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Makin Money",
-        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Makin Money",
-      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "YESSIE",
-        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 159465,
-      "name": "ADI\u00d3S AMOR",
-      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Dicen Que Eres Arte",
         "url": "https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 164736,
       "name": "Dicen Que Eres Arte",
       "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "YESSIE",
+        "url": "https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 159465,
+      "name": "ADI\u00d3S AMOR",
+      "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/4mmd9jED8GQlXTkCVfisY6"
-      },
-      "artists": [
-        {
-          "name": "Lee Eye",
-          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
-        }
-      ],
-      "duration_ms": 166815,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/7LThzTLxMenP3WKcoGXind"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Ketamina",
         "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 171063,
       "name": "Ketamina",
       "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/4mmd9jED8GQlXTkCVfisY6"
+      },
+      "artists": [
+        {
+          "name": "Lee Eye",
+          "url": "https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX"
+        }
+      ],
+      "duration_ms": 166815,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7LThzTLxMenP3WKcoGXind"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "1UNAMORSUPREMO",
-        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        }
-      ],
-      "duration_ms": 240680,
-      "name": "SUFICIENTEPUNTOWAV",
-      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "1UNAMORSUPREMO",
+        "url": "https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP"
+      },
+      "artists": [
+        {
+          "name": "YOSHI",
+          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
+        }
+      ],
+      "duration_ms": 240680,
+      "name": "SUFICIENTEPUNTOWAV",
+      "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "FYAH",
-        "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
-      },
-      "artists": [
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "FYAH",
-      "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "CALIFORNIA",
         "url": "https://open.spotify.com/album/7g0T3PwMkEhyyvJVqEnRzW"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 205241,
       "name": "CALIFORNIA",
       "url": "https://open.spotify.com/track/4FxYtP90N7QUPZ01sk4jBc"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "FYAH",
+        "url": "https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "FYAH",
+      "url": "https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5"
     },
     {
       "added_at": "2024-11-29 06:00:00",

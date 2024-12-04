@@ -148,7 +148,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 161280,
       "name": "Aasamy",
       "url": "https://open.spotify.com/track/589Vk4dm6doD6czjby9eYT"
@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Blue Tick Pennay",
+        "url": "https://open.spotify.com/album/5aat8rObWOv1AF9UK1H5QV"
+      },
+      "artists": [
+        {
+          "name": "Vishnu",
+          "url": "https://open.spotify.com/artist/6ZiaIiSQYkTsfauZcUzcQA"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172686,
+      "name": "Blue Tick Pennay",
+      "url": "https://open.spotify.com/track/4uSRV5kSGCcFHulyEIG6P8"
+    },
+    {
+      "album": {
         "name": "Bodhai",
         "url": "https://open.spotify.com/album/2TYEJwV05IgVXJwPxtfd1j"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 210660,
       "name": "Cockroach of College",
       "url": "https://open.spotify.com/track/72z1bSQAp7NASNF3MEKBlO"
@@ -6644,6 +6662,24 @@
       "duration_ms": 206000,
       "name": "Sikkimukki",
       "url": "https://open.spotify.com/track/3NXtm9rA3z2342c0T1hXme"
+    },
+    {
+      "album": {
+        "name": "SILK CADBURY",
+        "url": "https://open.spotify.com/album/5wQ4smkI6sPNA2EdwqfwY8"
+      },
+      "artists": [
+        {
+          "name": "Gana Gowtham",
+          "url": "https://open.spotify.com/artist/4uLvyDqG9a9ar8wk20issC"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140444,
+      "name": "SILK CADBURY",
+      "url": "https://open.spotify.com/track/7aKW4EwkfYCQRkq6pvmIzF"
     },
     {
       "album": {

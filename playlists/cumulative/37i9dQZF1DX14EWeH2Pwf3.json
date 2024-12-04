@@ -2303,6 +2303,28 @@
     },
     {
       "album": {
+        "name": "Boxer",
+        "url": "https://open.spotify.com/album/4hGlykzGH7FVDXcLp6BuqZ"
+      },
+      "artists": [
+        {
+          "name": "Gheba",
+          "url": "https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc"
+        },
+        {
+          "name": "Pave",
+          "url": "https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Boxer",
+      "url": "https://open.spotify.com/track/0Sp6AOrAlVmKRIzmQGjLS8"
+    },
+    {
+      "album": {
         "name": "Braquages",
         "url": "https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ"
       },
@@ -5454,7 +5476,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 241250,
       "name": "GHETTO SUPERSTAR (feat. Ghali)",
       "url": "https://open.spotify.com/track/2ixHrwHianfv01Bc7QGD2G"

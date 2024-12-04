@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Cinta & Doa",
+        "url": "https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro"
+      },
+      "artists": [
+        {
+          "name": "Andmesh",
+          "url": "https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282200,
+      "name": "Anugerah Terindah",
+      "url": "https://open.spotify.com/track/6gjkHuMOR0CrN7Vb2NoEdg"
+    },
+    {
+      "album": {
         "name": "Live At Stadion Utama Gelora Bung Karno",
         "url": "https://open.spotify.com/album/2Sl6A2Vvjcz1KilzejllBq"
       },

@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/6lGtzT3i9uBtT20lJtrrQT"
+      },
+      "artists": [
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Vozterra",
+          "url": "https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166229,
+      "name": "Atarraya",
+      "url": "https://open.spotify.com/track/3XwClj3DxV7MrotZsGM8YZ"
+    },
+    {
+      "album": {
         "name": "Soothing River Sounds",
         "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
       },
@@ -1442,7 +1464,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 164951,
       "name": "River Spirit",
       "url": "https://open.spotify.com/track/0SRZfXcQVjqwDxFGfGgLvY"
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 186000,
       "name": "River Stream Ambience",
       "url": "https://open.spotify.com/track/7cIs2IECvKw9lDXPDAq062"
@@ -2148,7 +2170,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 160325,
       "name": "Virginia Rain Stream",
       "url": "https://open.spotify.com/track/7x4Vesze0f8QkPTBLxDYze"

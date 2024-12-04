@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,644 likes - 77 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,673 likes - 77 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

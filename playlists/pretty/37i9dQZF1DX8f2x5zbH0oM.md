@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,336 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,566 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

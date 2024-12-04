@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 149128,
+  "num_followers": 149146,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAADQMpH9Na3bavxorHhLwI44",
+  "snapshot_id": "Z0z4gAAAAABHnDt8E/XpQYec0GEhAY2c",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 251994,
+      "name": "No Llores Mis Recuerdos",
+      "url": "https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 218012,
+      "name": "Pasi\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/5BLrIi9fP7phVlzVe4LeTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
       },
@@ -443,38 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 218012,
-      "name": "Pasi\u00f3n De Amor",
-      "url": "https://open.spotify.com/track/5BLrIi9fP7phVlzVe4LeTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 251994,
-      "name": "No Llores Mis Recuerdos",
-      "url": "https://open.spotify.com/track/0rUYYUjhjxQDE2Zc6tDK5A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
@@ -487,38 +487,6 @@
       "duration_ms": 207934,
       "name": "Al Final De Tu Camino",
       "url": "https://open.spotify.com/track/23IZObD629IXwpPEyDM3RL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Unidos Para Amarnos",
-      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 193317,
-      "name": "Adi\u00f3s, Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
     },
     {
       "added_at": null,
@@ -539,6 +507,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 193317,
+      "name": "Adi\u00f3s, Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Unidos Para Amarnos",
+      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 145786,
       "name": "El Vagabundo Que Te Ama",
       "url": "https://open.spotify.com/track/2xPp6h7N69S3o2mOYB9Eaq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 190542,
+      "name": "Una Tarde Como Cualquiera",
+      "url": "https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 190542,
-      "name": "Una Tarde Como Cualquiera",
-      "url": "https://open.spotify.com/track/7qYFRlIRjKMUtCMOAcQVzf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 215446,
-      "name": "Mi Gran Problema",
-      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vuelve Por Favor",
         "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 200146,
       "name": "Vuelve Por Favor",
       "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 215446,
+      "name": "Mi Gran Problema",
+      "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
-        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
-      },
-      "artists": [
-        {
-          "name": "Max Peraza",
-          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
-      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/3D3QKcpxh5MPOYQVZJ4qdE"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 254368,
       "name": "Ac\u00e1 Entre Nos (En Vivo)",
       "url": "https://open.spotify.com/track/6SHXtSKhx53gMd4V9zK5QS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) [Banda]",
+        "url": "https://open.spotify.com/album/6HFyobtjc5a3X80wLUjLu1"
+      },
+      "artists": [
+        {
+          "name": "Max Peraza",
+          "url": "https://open.spotify.com/artist/40XLXsvXDPJuQ6adeK9zh7"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Ya No Vives En M\u00ed (\u00bfCu\u00e1l Adi\u00f3s?) - Banda",
+      "url": "https://open.spotify.com/track/2asLjAakW5V1kdgZnbf5UZ"
     },
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ya Se Fue",
+        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206169,
+      "name": "Compa\u00f1era M\u00eda",
+      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Deseo Lo Mejor (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 158200,
       "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ya Se Fue",
-        "url": "https://open.spotify.com/album/6ELneqe2qiMyINLBS28cCH"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206169,
-      "name": "Compa\u00f1era M\u00eda",
-      "url": "https://open.spotify.com/track/7evRe8RAam9sUjPKe46C2Z"
     }
   ],
   "unique_name": "This Is Pancho Barraza",

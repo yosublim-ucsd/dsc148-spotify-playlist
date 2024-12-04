@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Purple Disco Machine &amp; The Magician
 
-176 songs - 9 hr 16 min
+177 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [TURBINA](https://open.spotify.com/track/0rzvrAIOOLq1BlOfmfluY3) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [TURBINA](https://open.spotify.com/album/3L8jy2X8qNlS1AIYQyAAsn) | 3:10 | 2024-08-12 |  |
 | [VACANCY](https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [VACANCY](https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz) | 3:11 | 2023-12-08 | 2024-07-03 |
 | [Vocation](https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Cosmo](https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE) | 3:04 | 2023-12-08 | 2024-03-16 |
+| [W4U \(feat\. Jen\)](https://open.spotify.com/track/28ZPocYJHiEE6Y9B55jmuJ) | [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [JEN](https://open.spotify.com/artist/7DTAVlZQzjCtuB8npp11nE) | [W4U \(feat\. Jen\)](https://open.spotify.com/album/39syP387YYwH46TnrvcpbP) | 3:59 | 2024-12-03 |  |
 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 | 2023-12-08 | 2024-05-11 |
 | [Water](https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Water](https://open.spotify.com/album/2GyIYK9C2K870xKjo5HI9D) | 3:11 | 2023-12-08 | 2024-09-21 |
 | [Waterfall](https://open.spotify.com/track/7C7jWTX2gRjQMmhuTCrHrA) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Waterfall](https://open.spotify.com/album/2ho8S28yjGizJFyC6LP5Nw) | 2:46 | 2024-05-03 | 2024-08-17 |
@@ -176,7 +177,7 @@
 | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [When I Fall Asleep \(with Jai Wolf\)](https://open.spotify.com/album/6Cx9GyscK87SElrrtHJd8u) | 3:13 | 2023-12-08 | 2024-02-03 |
 | [When You're Lonely](https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [When You're Lonely](https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW) | 2:39 | 2023-12-08 | 2024-01-20 |
 | [Will You Be There](https://open.spotify.com/track/2A2gax6c7FmxhERVEDipsY) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Will You Be There](https://open.spotify.com/album/0FsRj2MTn1gMsqUmSwN7x5) | 2:51 | 2024-08-16 |  |
-| [Willing To Let You Go \(feat\. Anella Herim & Abby Anderson\)](https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Diplo Presents Thomas Wesley: The Mixtape](https://open.spotify.com/album/2YEVAviqPGlcnc2ruyXcPE) | 3:12 | 2024-04-26 |  |
+| [Willing To Let You Go \(feat\. Anella Herim & Abby Anderson\)](https://open.spotify.com/track/1ZZaOAx86pHrZR7Kb0RbKM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Anella Herim](https://open.spotify.com/artist/0aRXmCsqGxwpaBqY7WQOsN), [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Diplo Presents Thomas Wesley: The Mixtape](https://open.spotify.com/album/2YEVAviqPGlcnc2ruyXcPE) | 3:12 | 2024-04-26 | 2024-12-04 |
 | [Without You \(with HAYLA\)](https://open.spotify.com/track/5KW4qNLjWeh7rMbxCfg89N) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Without You \(with HAYLA\)](https://open.spotify.com/album/41OLKYtwOINYu55eAMBdhk) | 4:23 | 2024-05-31 | 2024-06-15 |
 | [You](https://open.spotify.com/track/3C2OYWQFRVEo4QoHZKTNBK) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [You](https://open.spotify.com/album/4ADw59fMHQFPDty2fjXQZ4) | 2:53 | 2024-11-15 |  |
 | [You again](https://open.spotify.com/track/7LhWNeUUlbdkzmeRY7WoCj) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [You again](https://open.spotify.com/album/1nh5G9NplczHOOODYGYOSL) | 2:48 | 2024-03-15 | 2024-07-20 |

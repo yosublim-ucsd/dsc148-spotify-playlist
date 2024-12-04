@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: ALEPH\(알레프\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-805 songs - 2 day 0 hr 44 min
+807 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [City of Freedom](https://open.spotify.com/track/7dcjnmWydLv1gLbQbjH8f6) | [cloudkreme](https://open.spotify.com/artist/1cxQ8j6yI8hxzcIetvgNx9) | [City of Freedom](https://open.spotify.com/album/2Jd3iryGheA0Vz5OGnfERC) | 3:13 | 2024-11-06 |  |
 | [Classic \(feat\. MRCH\)](https://open.spotify.com/track/04nm6ulhFSxi1xejIFWsmW) | [moneto](https://open.spotify.com/artist/2fDgVWeIDSt1EOqFbPRXu7), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Classic](https://open.spotify.com/album/7mN3JTbV6i4xL2LpM8K3g8) | 3:40 | 2022-08-01 | 2022-08-13 |
 | [CLOVER](https://open.spotify.com/track/59RE05wSPwo1OJex4BBJF5) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [CLOVER Part 2.0](https://open.spotify.com/album/5cFhcdTabOikqUttuqhWhX) | 3:05 | 2024-11-06 |  |
+| [Clumsy](https://open.spotify.com/track/12TW50uDqnqwCrMa51IqyX) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [BREWING LOVE, Pt\. 9 \(Original Soundtrack\)](https://open.spotify.com/album/0TJ9DqAJCdoExMzLVeqU5g) | 3:29 | 2024-12-03 |  |
 | [coii \- Single Version](https://open.spotify.com/track/1f7c2QDWM7KWVQMXmarNbF) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [co\-isolation](https://open.spotify.com/album/4Dayk4y6uYUwI5Ok1Hfxa5) | 5:02 | 2023-10-27 | 2023-11-10 |
 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 | 2022-09-30 | 2022-10-08 |
 | [COLORFUL ZEBRA](https://open.spotify.com/track/0IlkOqIA3SNgO2zETgFuz5) | [BIGONE](https://open.spotify.com/artist/0bQhUyXffQjkd6horP6fKX) | [COLORFUL ZEBRA](https://open.spotify.com/album/1iQg4tgsJJ2Jbl5GguMgM6) | 2:17 | 2024-01-31 | 2024-05-10 |
@@ -667,7 +668,7 @@
 | [Tell 'em boys](https://open.spotify.com/track/0rZf7sBjvU2hj7TNBbn8qm) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 4:29 | 2024-06-26 | 2024-07-11 |
 | [TELL ME !](https://open.spotify.com/track/4yIt2M4psdz8Bs3RzTi2c2) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:15 | 2024-06-26 | 2024-07-27 |
 | [Tempest](https://open.spotify.com/track/4RTeOflkCNdBmJymYk2JJj) | [Huckleberryfinn](https://open.spotify.com/artist/4HWH9BmIaKteAv5RmqWeZa) | [The Devil Judge \(Original Television Soundtrack\)](https://open.spotify.com/album/7dt9sjnoSCVuU4SLnHeFeG) | 4:29 | 2022-05-03 | 2022-07-09 |
-| [That Summer And The Sea](https://open.spotify.com/track/6If1ehcUnAxYI8PfIR3bw0) | [KYUDO](https://open.spotify.com/artist/3rxwS5AqVLUJ775AqSoRDf) | [That Summer And The Sea](https://open.spotify.com/album/03FFrwtrZqixtyp853CB8E) | 5:56 | 2024-11-06 |  |
+| [That Summer And The Sea](https://open.spotify.com/track/6If1ehcUnAxYI8PfIR3bw0) | [KYUDO](https://open.spotify.com/artist/3rxwS5AqVLUJ775AqSoRDf) | [That Summer And The Sea](https://open.spotify.com/album/03FFrwtrZqixtyp853CB8E) | 5:56 | 2024-11-06 | 2024-12-04 |
 | [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 | 2023-08-28 | 2024-11-07 |
 | [The Answer](https://open.spotify.com/track/6gnCg6Z7WcJ9qt8idMWiaj) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2), [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [daybreak X LUCY : Part.1](https://open.spotify.com/album/7k74Ulb6AeAPYPkUFVntyu) | 3:34 | 2022-04-12 | 2022-07-29 |
 | [The Assignment Song](https://open.spotify.com/track/6AZqC0amAg49hiTk67DWxL) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [The Assignment Song](https://open.spotify.com/album/772jJk9bGdOZB6k6uCWHGE) | 3:49 | 2022-05-02 | 2022-07-17 |
@@ -718,6 +719,7 @@
 | [Victory](https://open.spotify.com/track/0Vx0Clxg4f1HrRmVXNMySi) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [Victory](https://open.spotify.com/album/3OpuTRVgAaQwX8031Y0uMS) | 3:25 | 2024-06-19 | 2024-07-31 |
 | [Villain](https://open.spotify.com/track/5k5npy7HGpTbzKHhu958ZJ) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [FROM.](https://open.spotify.com/album/1lKM9Jx2NchU15TTLqTbMt) | 3:51 | 2024-08-14 | 2024-09-29 |
 | [Violet](https://open.spotify.com/track/3vwtmExA3wwbr4GI5KvLkC) | [Minhye J](https://open.spotify.com/artist/2E2b8xg4MmesEDv6QKZRiy) | [Violet](https://open.spotify.com/album/5sVqYLGmHA96l13kAUEVYv) | 4:20 | 2022-04-22 | 2022-06-08 |
+| [Voice](https://open.spotify.com/track/6EI51Hq3Q4BYELSDUhdTwA) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Voice](https://open.spotify.com/album/0gDGTUaOm7OfgETH77Wh1L) | 3:35 | 2024-12-03 |  |
 | [VOID](https://open.spotify.com/track/0keNzrJRUOBzewGHOrtSH7) | [RECORDBELL](https://open.spotify.com/artist/4PW6o9Gy6TZqrxpY6rHo8L) | [VOID](https://open.spotify.com/album/6ZIJNzoZIXjogl8iOinq3g) | 3:38 | 2022-04-22 | 2022-05-10 |
 | [Wait for you](https://open.spotify.com/track/4r1caIy3DscFsJuNXKIo5g) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM](https://open.spotify.com/album/3T7Be41PixmIFH29sK3s1Z) | 3:51 | 2024-06-05 | 2024-11-07 |
 | [WAITING](https://open.spotify.com/track/4TMVuENexY9u0083CqMphE) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [ONLY LOVERS LEFT](https://open.spotify.com/album/1u9nYBB0Qw5jyjkexe9Xk6) | 3:07 | 2024-06-05 | 2024-11-07 |
@@ -808,7 +810,7 @@
 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 | 2022-07-22 | 2023-04-06 |
 | [시작](https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293) | 3:22 | 2024-05-09 | 2024-11-07 |
 | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/track/14RITV3hrIexqMrp1jVMpF) | [Biyun](https://open.spotify.com/artist/4KOCZCiuT66e6lEpYEkNBk), [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2) | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/album/42NNKD5OS2Dm6OM0FDKAjZ) | 3:17 | 2024-04-09 | 2024-05-10 |
-| [우릴 그린 수채화 \(The watercolor painting that painted us\)](https://open.spotify.com/track/3DHFekUUsp4BJgBarYkaTz) | [이하린 \(Lee Harin\)](https://open.spotify.com/artist/7C7rGYM1vMw9BLtDshd6vL) | [우릴 그린 수채화 \(The watercolor painting that painted us\)](https://open.spotify.com/album/6BjGNoe6PnR8BvN6pfTsLT) | 3:02 | 2024-11-06 |  |
+| [우릴 그린 수채화 \(The watercolor painting that painted us\)](https://open.spotify.com/track/3DHFekUUsp4BJgBarYkaTz) | [이하린 \(Lee Harin\)](https://open.spotify.com/artist/7C7rGYM1vMw9BLtDshd6vL) | [우릴 그린 수채화 \(The watercolor painting that painted us\)](https://open.spotify.com/album/6BjGNoe6PnR8BvN6pfTsLT) | 3:02 | 2024-11-06 | 2024-12-04 |
 | [잠에취해 Be drunk with sleep](https://open.spotify.com/track/22OJac3FekTtngEkmR4rCU) | [이브 EVE](https://open.spotify.com/artist/4ZC1J8g5z3x2M8MWimkZlH) | [잠에취해 Be drunk with sleep](https://open.spotify.com/album/45qYuV8MgIoVtV1GNM38T8) | 3:47 | 2022-05-03 | 2022-05-08 |
 | [제자리 \(loop\)](https://open.spotify.com/track/2tnKd2R6zWHXL65EkruiZM) | [Kim Jeong\_uk](https://open.spotify.com/artist/1BqP8ZPk9adgbcmkoW7dP4) | [제자리 \(loop\)](https://open.spotify.com/album/5AMPNy9dnzhc3vKyYWqrSh) | 3:20 | 2022-05-11 | 2022-07-15 |
 | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/track/2VsieHO9dhPrP8VwubHozt) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH), [Changbin \(Stray Kids\)](https://open.spotify.com/artist/3XSid6KaiKoMAVZs2ug3yw) | [중2 \(모두의 우주를 Respect\)](https://open.spotify.com/album/3BrwayMpLO8t5HADvz2h31) | 3:20 | 2024-02-06 | 2024-03-28 |

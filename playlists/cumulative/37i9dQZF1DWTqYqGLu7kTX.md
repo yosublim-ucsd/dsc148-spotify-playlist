@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-232 songs - 11 hr 34 min
+233 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,7 +144,7 @@
 | [Mera Na](https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI) | [Mera Na](https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1) | 3:21 | 2023-04-09 | 2024-04-03 |
 | [Meter](https://open.spotify.com/track/3JRgcVZVuDVWanB4Nwje1Y) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Meter](https://open.spotify.com/album/11acJXME6LnFFXOJRxl7mC) | 2:59 | 2024-09-06 | 2024-11-27 |
 | [Miami Flow](https://open.spotify.com/track/2DgeseqrXJEc7MmKvXWxY0) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [RAW](https://open.spotify.com/album/72MyJJSH7ZThR7366dRC2Y) | 2:29 | 2024-05-16 |  |
-| [MTCD](https://open.spotify.com/track/02PIqG8MByA1eaLsdsWvE6) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Japjeet Sandhu](https://open.spotify.com/artist/38hUZEN7hCJfaZRMQgg0Hd) | [MTCD](https://open.spotify.com/album/2fxtRrHh3XGrK2ImBzkfoq) | 2:36 | 2024-11-13 |  |
+| [MTCD](https://open.spotify.com/track/02PIqG8MByA1eaLsdsWvE6) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Japjeet Sandhu](https://open.spotify.com/artist/38hUZEN7hCJfaZRMQgg0Hd) | [MTCD](https://open.spotify.com/album/2fxtRrHh3XGrK2ImBzkfoq) | 2:36 | 2024-11-13 | 2024-12-04 |
 | [Muhammad Ali](https://open.spotify.com/track/7nqrM3YD2EfjtaGPvd1dE3) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Muhammad Ali](https://open.spotify.com/album/7mAfZEurqdGBfykp7RvbdP) | 2:18 | 2024-07-26 | 2024-08-24 |
 | [Munde Desi](https://open.spotify.com/track/04Y40castrKPhpKehco0E7) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Welcome To The Revolution](https://open.spotify.com/album/0N0Nl1ZBWIRataqQ4Wtae3) | 2:52 | 2023-07-25 | 2023-10-13 |
 | [MUNDE HOOD DE](https://open.spotify.com/track/0ZHTAMmcduDQMvri24XPnu) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F) | [HARD DRIVE Vol\. 2](https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9) | 3:45 | 2024-11-16 |  |
@@ -172,6 +172,7 @@
 | [Notorious](https://open.spotify.com/track/0e9DDb2TnNwSv8lV1EpMuD) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/253mOxWcguZZ8DyhCl5rQ5) | 3:00 | 2023-03-18 |  |
 | [Notorious](https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/6BDt4jKBfvMtxaomt3z8WU) | 3:00 | 2023-06-23 | 2024-04-19 |
 | [Nowadays](https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Nowadays](https://open.spotify.com/album/79KRr86XxvGkfHHiW3bdDd) | 3:26 | 2024-04-05 | 2024-08-31 |
+| [Off Limits](https://open.spotify.com/track/1PoL7xIHr4nwRGCXeKISbq) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Off Limits](https://open.spotify.com/album/7FrqWFrONXe11mB9AZRM57) | 2:02 | 2024-12-03 |  |
 | [Offshore](https://open.spotify.com/track/4Mh04VNolWA9g97ychP72l) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Offshore](https://open.spotify.com/album/4yq8vQgi0nZYOrMadPLtdY) | 2:52 | 2023-03-18 | 2024-04-19 |
 | [OFFSHORE](https://open.spotify.com/track/5EIQt0H1ZqObVYUrBLbN86) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [OFFSHORE](https://open.spotify.com/album/0w48IpF7EcX0l0lX0zfAng) | 2:52 | 2024-04-10 |  |
 | [OG](https://open.spotify.com/track/0ZJOEx7Sb2mzBiZHPhlDy6) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/2z1B8rt2WK0K92x9XbCV24) | 2:53 | 2023-06-23 | 2024-04-19 |

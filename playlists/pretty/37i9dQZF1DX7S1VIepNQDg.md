@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,396 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,397 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 41 | [Rhinestone 1.7.2 \[2018 Export Wav\] feat\. Isabella Manfredi](https://open.spotify.com/track/06gtPF7fljlItis2PohQP0) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:53 |
 | 42 | [Sunshine](https://open.spotify.com/track/1Q9j9J64lNWMJPuKP3Wd14) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Cowboy Tears Drown the World in a Swimming Pool of Sorrow \(Deluxe\)](https://open.spotify.com/album/3HnZ8f1qXz3I9XrLAxOnSv) | 2:15 |
 | 43 | [true](https://open.spotify.com/track/2W4lAW4jB3QLBhS34Qn3WN) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [true](https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv) | 3:11 |
-| 44 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
-| 45 | [Trippin Up](https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Trippin Up](https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh) | 2:57 |
+| 44 | [Trippin Up](https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Trippin Up](https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh) | 2:57 |
+| 45 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
 | 46 | [Speedracer](https://open.spotify.com/track/1RtVGi6id9kOKpGp495hBV) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Speedracer](https://open.spotify.com/album/1oM2shk0jtfbsmlzrjsfIV) | 2:58 |
 | 47 | [Good Mood](https://open.spotify.com/track/0wqgJddzN1mlpkKnGc2daB) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Good Mood](https://open.spotify.com/album/4D5IsmVGxyPUPtLpNXXeK8) | 2:59 |
 | 48 | [Always Got The Love](https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:27 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 51 | [TOMMY](https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po) | [WALKER.](https://open.spotify.com/artist/4TGWnQ6RGOeVzNPLWkcrrB) | [TOMMY](https://open.spotify.com/album/0h7foJXJTQ5nADAZ6Bi9x1) | 3:32 |
 | 52 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
 | 53 | [Cry](https://open.spotify.com/track/2HhhhHfVEmz09NAb0FxgDW) | [Club Angel](https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj) | [Cry](https://open.spotify.com/album/5qEGkaG2wMcn787eEwGkhK) | 3:50 |
-| 54 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
-| 55 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
+| 54 | [Super Ego](https://open.spotify.com/track/2tRw3mlRNyEMl6FOtA1lBg) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Fresh As A Head Of Lettuce](https://open.spotify.com/album/7aDruEppNXesqQkoAHcW6L) | 4:17 |
+| 55 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 |
 | 56 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
 | 57 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 |
 | 58 | [Hot Sauce](https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Hot Sauce](https://open.spotify.com/album/5ue0WkGZRaNZ3LlguPyzqy) | 3:10 |

@@ -3677,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Ease",
+        "url": "https://open.spotify.com/album/6XV0cac3ZQ3JS9UXkRaGum"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160222,
+      "name": "Ease",
+      "url": "https://open.spotify.com/track/7i6SwixNVo6ZmEOU0OOMUP"
+    },
+    {
+      "album": {
         "name": "Echoes Divided",
         "url": "https://open.spotify.com/album/7i5F1CLSgsFpYqEJLQQ4MS"
       },
@@ -4178,6 +4196,24 @@
       "duration_ms": 178250,
       "name": "Eternal Moonlight",
       "url": "https://open.spotify.com/track/738JCzRd0bIFhjzk3VhpzF"
+    },
+    {
+      "album": {
+        "name": "Eternal Rest",
+        "url": "https://open.spotify.com/album/31zDFGa0tjwiRQc897Pri9"
+      },
+      "artists": [
+        {
+          "name": "Long Lake",
+          "url": "https://open.spotify.com/artist/6bV4jb16kEPKDK3icxeGHr"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Eternal Rest",
+      "url": "https://open.spotify.com/track/0cmhNtPuQPQPeJl536CvVX"
     },
     {
       "album": {
@@ -5920,7 +5956,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 166500,
       "name": "Idyllical",
       "url": "https://open.spotify.com/track/18mMg1h2pxTKpQSLvPKzWU"
@@ -9927,6 +9963,24 @@
     },
     {
       "album": {
+        "name": "Rivers in Time",
+        "url": "https://open.spotify.com/album/6aQDmaROcPYuaO6Jy9gFj0"
+      },
+      "artists": [
+        {
+          "name": "Iminum",
+          "url": "https://open.spotify.com/artist/1xjezEibBtcDRYjpMxXOQX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201601,
+      "name": "Rivers in Time",
+      "url": "https://open.spotify.com/track/2keSJUzi5llV0EAHRDhZ1g"
+    },
+    {
+      "album": {
         "name": "Ross\u00f8",
         "url": "https://open.spotify.com/album/5H1CMz5fzkOOZO26arC2Xz"
       },
@@ -10500,6 +10554,24 @@
       "duration_ms": 130789,
       "name": "Silent Mind",
       "url": "https://open.spotify.com/track/7m4uTQoUTU68STmL3Y3bX9"
+    },
+    {
+      "album": {
+        "name": "Silent Radiance",
+        "url": "https://open.spotify.com/album/12JBg89BnbiQqw2HBdkjt0"
+      },
+      "artists": [
+        {
+          "name": "Universal Embrace",
+          "url": "https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Silent Radiance",
+      "url": "https://open.spotify.com/track/7egeoxBW8HTYgDs8fC3om4"
     },
     {
       "album": {
@@ -11684,7 +11756,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 151987,
       "name": "Sunset Reverie",
       "url": "https://open.spotify.com/track/3HwhYJDUtBqR0RQegc0bOA"
@@ -12152,7 +12224,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 164326,
       "name": "Thrive",
       "url": "https://open.spotify.com/track/79TRSDA5Nso7Tgwt3eKhrJ"
@@ -12854,7 +12926,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 150555,
       "name": "Veille-sommeil",
       "url": "https://open.spotify.com/track/2PrMG5oidZr7m7Ay0kKU7X"

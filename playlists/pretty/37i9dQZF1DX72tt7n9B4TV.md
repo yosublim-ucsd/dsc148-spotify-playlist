@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for hot weather.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,079 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,076 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 30 | [MYSTERY](https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:35 |
 | 31 | [Dark Matter](https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 3:31 |
 | 32 | [Shhhh! Golf is On](https://open.spotify.com/track/5r7vuSx8Z7j4dK9I4Q6wch) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [Why Would I Watch](https://open.spotify.com/album/0wLCmFQIAxudWGxUcxO1oQ) | 2:44 |
-| 33 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
-| 34 | [Always](https://open.spotify.com/track/77eb7DGxwuA3ID69HQeDsE) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [W.L\. \(Deluxe\)](https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu) | 3:23 |
+| 33 | [Always](https://open.spotify.com/track/77eb7DGxwuA3ID69HQeDsE) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [W.L\. \(Deluxe\)](https://open.spotify.com/album/6dakS3ouiZyccOIdrBBKcu) | 3:23 |
+| 34 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
 | 35 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
 | 36 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 |
 | 37 | [Showtime](https://open.spotify.com/track/0YLhxYUv69go9H8iirbSWO) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [Showtime](https://open.spotify.com/album/3KuRm7unewgWVJkruzxwAA) | 4:40 |
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 45 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 46 | [My Condition](https://open.spotify.com/track/7fV1C3qo5OUVxDIJX5GY9b) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:27 |
 | 47 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 |
-| 48 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 |
-| 49 | [Nowhere](https://open.spotify.com/track/5ufLmXanFrdoW4zr5ytn6q) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:31 |
+| 48 | [Nowhere](https://open.spotify.com/track/5ufLmXanFrdoW4zr5ytn6q) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:31 |
+| 49 | [Italian Horror](https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Happenings](https://open.spotify.com/album/2R7o2dTaDASc1IaS5SzeAc) | 2:35 |
 | 50 | [California](https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:43 |
 | 51 | [Flea](https://open.spotify.com/track/6TryolYM0MBzNTxGrlfcqt) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [All Born Screaming](https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f) | 3:46 |
 | 52 | [U Should Not Be Doing That](https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs) | 3:26 |
 | 53 | [Nothing Like](https://open.spotify.com/track/7sWKIQsoW2dlKMNobxXoXp) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 4:09 |
 | 54 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
 | 55 | [Ice Cream Sundae](https://open.spotify.com/track/2sJHJITMt2SYuim7KvK8yG) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Ice Cream Sundae](https://open.spotify.com/album/3NyslwappViTftGrmA1my0) | 3:43 |
-| 56 | [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 |
-| 57 | [Red Button](https://open.spotify.com/track/5YASteMFvzBnVqrhHZCf8I) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [For Your Sins](https://open.spotify.com/album/4xuw9IZgp00KuvzRD1sPLl) | 2:55 |
+| 56 | [Red Button](https://open.spotify.com/track/5YASteMFvzBnVqrhHZCf8I) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [For Your Sins](https://open.spotify.com/album/4xuw9IZgp00KuvzRD1sPLl) | 2:55 |
+| 57 | [Call](https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Call](https://open.spotify.com/album/0T8Y7EDE0nHQOVHq0rCZXu) | 2:30 |
 | 58 | [ANTHEM PART 3](https://open.spotify.com/track/0szPyERyieVe2ivJTLMJFW) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 3:33 |
 | 59 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
 | 60 | [Do It Faster](https://open.spotify.com/track/51SDO6rVAyqVouNO5AadIy) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Life Under The Gun](https://open.spotify.com/album/47k5dQRj8tZJwZjLUt85fi) | 1:47 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 76 | [All In My Head](https://open.spotify.com/track/4bMFX6Rq6uVtBJvMGW1Oxj) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [All In My Head](https://open.spotify.com/album/5h14HtxnAvQn31J6HM92wX) | 3:21 |
 | 77 | [Drama Queen](https://open.spotify.com/track/0zpED2T1oWwb76RbPA8qiT) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Drama Queen](https://open.spotify.com/album/572GaXZzA7xBEnZQxci4FE) | 2:29 |
 | 78 | [Bogus Operandi](https://open.spotify.com/track/1TJmuC4kMe1ewZdybH159I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Bogus Operandi](https://open.spotify.com/album/14ZnjDuT7OhZGNO0bvRbbh) | 3:43 |
-| 79 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
-| 80 | [MEDZ](https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ) | 2:45 |
+| 79 | [MEDZ](https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ) | 2:45 |
+| 80 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
 
 Snapshot ID: `ZqGo1wAAAABU9VOZBM/sg49z7PeuZ6QP`

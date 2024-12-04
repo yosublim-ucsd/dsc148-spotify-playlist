@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-124 songs - 1 day 8 hr 59 min
+125 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Lakshmi Kuber Mantra for Wealth](https://open.spotify.com/track/121hBveqClHdxGw2nFBkvH) | [Adarsh Kumar](https://open.spotify.com/artist/1K4uZRg2n9J2tglA7VrQSe) | [Lakshmi Kuber Mantra for Wealth \(Original\)](https://open.spotify.com/album/5lhFAsLy6Ym3Qiz03HUPr5) | 36:33 | 2022-01-24 | 2022-07-29 |
 | [Laxmi Mantra 108 Times](https://open.spotify.com/track/659rdNcG2Ldqhg6azH0XRa) | [Nipun Aggarwal](https://open.spotify.com/artist/5yp0kBtdnmEAqQE02L7Wox) | [Laxmi Mantra 108 Times](https://open.spotify.com/album/4OkDBv1NEa6MgxffSMF3mz) | 14:56 | 2023-05-23 |  |
 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 | 2022-01-24 |  |
+| [Mahalaxmi Mantra 108 Times](https://open.spotify.com/track/1v30wG4PeNKB7dSN98N4FJ) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Mahalaxmi Mantra 108 Times](https://open.spotify.com/album/4e49HqCPY3g4Abog1pQSKx) | 8:09 | 2024-12-03 |  |
 | [Mahamritunjaya Mantra](https://open.spotify.com/track/7bCxpiv6IdUkHfVGsZnGUr) | [Abhinay Jain](https://open.spotify.com/artist/76VyCCJKWRtgRk7JSC32bW), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx) | [Mahamritunjaya Mantra](https://open.spotify.com/album/6TxeXKJe0ro9LXlityvUTF) | 4:54 | 2024-02-26 |  |
 | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/track/0XQmuCw3Etp4fbK6Q30uSp) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Mahamrutyunjay Mantra 108 Times \- Single](https://open.spotify.com/album/6ZFRGKKeD1Cva1MHBZ7RVw) | 54:06 | 2022-01-24 |  |
 | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/track/3CWsh93PVnrrjJrJMEmyfY) | [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh) | [Mahamrutyunjay Mantra 108 Times](https://open.spotify.com/album/1KQEkqGKhoTwlwFFIUk8BQ) | 54:06 | 2023-10-26 | 2024-04-19 |

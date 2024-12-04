@@ -4,7 +4,7 @@
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-363 songs - 1 day 11 hr 14 min
+364 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/track/7dKqPh21HpsysZvRWyNeM1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Bênçãos Que Não Têm Fim \(Counting My Blessings\)](https://open.spotify.com/album/5W5SfUqsLvMtbdncu1fGah) | 3:29 | 2023-11-24 |  |
 | [Caminho no Deserto](https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Caminho no Deserto](https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62) | 6:49 | 2022-09-09 | 2024-09-21 |
 | [Canção de Maria \(Live Conference \- Vol\. 2\) \- Ao Vivo](https://open.spotify.com/track/2XHi3uwjBX5czkgHDGToSV) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Canção de Maria \(Live Conference \- Vol\. 2\) \[Ao Vivo\]](https://open.spotify.com/album/4PZwPZ2lzZwhAkJvgJO5RZ) | 8:18 | 2023-10-20 | 2023-10-26 |
-| [Canção de Moisés \- Ao Vivo](https://open.spotify.com/track/7kEMkJLiiDh9syRk7wXqNs) | [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN), [Juliana Domingues](https://open.spotify.com/artist/6bapqg8rFSTjsP7kuPI0tj), [Samuel Mendes](https://open.spotify.com/artist/3GINq36QZv94G8du5yKL0d) | [Canção de Moisés \(Ao Vivo\)](https://open.spotify.com/album/6Miismzx4298uOxv0osOMU) | 9:06 | 2024-08-16 |  |
+| [Canção de Moisés \- Ao Vivo](https://open.spotify.com/track/7kEMkJLiiDh9syRk7wXqNs) | [VITOHRIA SOUNDS](https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN), [Juliana Domingues](https://open.spotify.com/artist/6bapqg8rFSTjsP7kuPI0tj), [Samuel Mendes](https://open.spotify.com/artist/3GINq36QZv94G8du5yKL0d) | [Canção de Moisés \(Ao Vivo\)](https://open.spotify.com/album/6Miismzx4298uOxv0osOMU) | 9:06 | 2024-08-16 | 2024-12-04 |
 | [Cenário Favorável \- Ao Vivo](https://open.spotify.com/track/3hHUmc9hNW9YspTVcymE7q) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Cenário Favorável \(Ao Vivo\)](https://open.spotify.com/album/4rMG5v18LdEJeZgwcNFFFc) | 5:42 | 2024-07-19 |  |
 | [Chuvas](https://open.spotify.com/track/6tyn38PlOFo0ga9SyivTnB) | [MIMY](https://open.spotify.com/artist/0vN6lKXMJ1sjp8PuWqYYtK), [Klebson Kollins](https://open.spotify.com/artist/6dovZGo5G0ziUKZFLWfFxH) | [Chuvas](https://open.spotify.com/album/7qo5mcEMgXfEno6fve5svr) | 5:12 | 2024-04-19 | 2024-07-19 |
 | [Cicatrizes](https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:20 | 2022-12-09 |  |
@@ -134,6 +134,7 @@
 | [Fica Tranquilo](https://open.spotify.com/track/7aJjISDMmcRYcAtA2oJTYe) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/5G5paqxJJFa4kygDLadlNy) | 5:17 | 2023-07-07 | 2024-04-20 |
 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-09 | 2023-09-02 |
 | [Flutuar](https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vocal Livre](https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN), [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7) | [Flutuar](https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX) | 3:34 | 2024-01-05 | 2024-09-07 |
+| [Fogo em Teus Olhos \- Ao Vivo em São Paulo](https://open.spotify.com/track/30i42PQ8OGhgKqS4J4TJbs) | [Marcos Freire](https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g) | [Fogo em Teus Olhos \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/6nyBJXAaCo4Zy1BXcKqnt0) | 6:18 | 2024-11-29 |  |
 | [Força Igreja! \- Ao Vivo](https://open.spotify.com/track/45TiCf8n05NplSJH0OIMW8) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Força Igreja! \(Ao Vivo\)](https://open.spotify.com/album/7DOzUC55vRJEQrNygUGDXf) | 4:22 | 2024-04-19 | 2024-09-07 |
 | [Furioso Oceano](https://open.spotify.com/track/43e3pqrdIaP8RcP77Xavhw) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Furioso Oceano](https://open.spotify.com/album/7FomxvXmYkrQCQFvIpfzfV) | 6:32 | 2022-09-23 |  |
 | [Galileu \- Ao Vivo](https://open.spotify.com/track/3BLj3BUTTlNjVkhdR45z9e) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Galileu \(ao Vivo\)](https://open.spotify.com/album/2mwYeySiovjZRIX6VsAkn3) | 5:25 | 2022-09-09 | 2024-04-20 |

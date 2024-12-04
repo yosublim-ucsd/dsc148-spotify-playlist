@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 
 > Emotional and powerful \- let your feelings out with these rock power ballads\. Cover: Tina Turner
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,151 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,227 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,24 +58,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 48 | [Love Song](https://open.spotify.com/track/0vJUdIefT5caKla9H8b1q4) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [The Great Radio Controversy](https://open.spotify.com/album/6E84FmjNjs38HXdhtOzbCM) | 5:23 |
 | 49 | [More Than Words Can Say](https://open.spotify.com/track/1EB3Z38oKDKVp4K2yEO2dl) | [Alias](https://open.spotify.com/artist/07jJQhIBd8ZqVUdgiwPqdQ) | [Alias](https://open.spotify.com/album/2almhUpe1eEbKQiRT1BlPF) | 3:54 |
 | 50 | [Hysteria \- Remastered 2017](https://open.spotify.com/track/6EzSduIPnAmO3o41HY5V9d) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:54 |
-| 51 | [Love Is on the Way](https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe) | [Saigon Kick](https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d) | [The Lizard](https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ) | 4:24 |
+| 51 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
 | 52 | [Til Death Do Us Part](https://open.spotify.com/track/57DRDn3OKZyKQniRNAjYIQ) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 5:26 |
 | 53 | [I Won't Forget You \- 2003 Remaster](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 |
-| 54 | [When It's Love](https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [OU812](https://open.spotify.com/album/1rnKiZALdvi91F0fepxBUe) | 5:39 |
-| 55 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
+| 54 | [Love Is on the Way](https://open.spotify.com/track/3F3n2V9XBrtb1omqLfcNPe) | [Saigon Kick](https://open.spotify.com/artist/1Qt3QdA0ZoOoeWfrJzA12d) | [The Lizard](https://open.spotify.com/album/0nZIjKvxpkli74fs827sAJ) | 4:24 |
+| 55 | [When It's Love](https://open.spotify.com/track/2rxePraWVAXyZRHVW1ICss) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [OU812](https://open.spotify.com/album/1rnKiZALdvi91F0fepxBUe) | 5:39 |
 | 56 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
 | 57 | [Edge Of A Broken Heart](https://open.spotify.com/track/2mEk0VdrbDJ11DBC6Y92mh) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 4:25 |
-| 58 | [Where You Goin' Now](https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Don't Tread](https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8) | 4:39 |
+| 58 | [Sleeping \(In The Fire\)](https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:55 |
 | 59 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 |
-| 60 | [Sleeping \(In The Fire\)](https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:55 |
+| 60 | [Where You Goin' Now](https://open.spotify.com/track/3jaRUUaJUvS57h1DyVzUUX) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Don't Tread](https://open.spotify.com/album/6UyUf2nDnmV2CR36zgThs8) | 4:39 |
 | 61 | [The Search Is Over](https://open.spotify.com/track/1M3xrSPzPcKkCnXGHFPKaw) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [Vital Signs](https://open.spotify.com/album/7t6t815Z23bjBVU4Qon6HD) | 4:12 |
 | 62 | [I'll Be There For You](https://open.spotify.com/track/67YIAxlMlfSNmbnt83zGKh) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey](https://open.spotify.com/album/7CNtnpBoG1lsUBWwpnJjwv) | 5:46 |
 | 63 | [What You Give](https://open.spotify.com/track/6XKLX2SOAdS0ZDQK2PbZKn) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Psychotic Supper](https://open.spotify.com/album/0JHYpUoXnAHGdd6rE9nrLY) | 7:15 |
 | 64 | [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 |
 | 65 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 |
 | 66 | [Can't Stop Lovin' You](https://open.spotify.com/track/6z3JD6IqVvu6TUBtCfQPbe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Balance](https://open.spotify.com/album/7nbwELkBki6HJrDZoEfXa3) | 4:07 |
-| 67 | [Wait](https://open.spotify.com/track/63IItP7504rQwYgZqmsznL) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:00 |
-| 68 | [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 |
+| 67 | [Screaming in the Night](https://open.spotify.com/track/25suYHVUwWFTG6G31kuhZH) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Head Hunter](https://open.spotify.com/album/1QTVIHunxbQf1dT4fXH9DO) | 6:37 |
+| 68 | [Wait](https://open.spotify.com/track/63IItP7504rQwYgZqmsznL) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Pride](https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2) | 4:00 |
 | 69 | [Life Goes On \- 2003 Remaster](https://open.spotify.com/track/2OWKsyrgUINadOG21dR0Fh) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 4:47 |
 | 70 | [If You Needed Somebody](https://open.spotify.com/track/6GaFUMG9opnMytdc0lwnQw) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Holy Water](https://open.spotify.com/album/30ts0TMRhxu4usurOw99cE) | 4:21 |
 | 71 | [Sister Christian](https://open.spotify.com/track/6LoSKNsYkRQbyuiReooMjG) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 5:00 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82Zzp6AKx64.md) - [plain]
 | 75 | [Come Again](https://open.spotify.com/track/6Hfvn9qguufsmHp0uk3y3r) | [Damn Yankees](https://open.spotify.com/artist/7ihLzUpuNecU5VBkvOUDNq) | [Damn Yankees](https://open.spotify.com/album/2GSZ2kruaBmA5hR9xngeBX) | 5:39 |
 | 76 | [What It Takes](https://open.spotify.com/track/2rVeiO8AI1ZDSv4wjS46OX) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 6:28 |
 | 77 | [Burning Heart \- From "Rocky IV" Soundtrack](https://open.spotify.com/track/2hjQWuAy9fsSykGerWU8Wi) | [Survivor](https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg) | [The Essential Survivor](https://open.spotify.com/album/0SPJ2DOCEtX6l3MkLA2fbQ) | 3:50 |
-| 78 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
-| 79 | [I'll Cry For You](https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Prisoners In Paradise](https://open.spotify.com/album/6bjLeNJ4eSTiEwMxqWeFYp) | 5:21 |
+| 78 | [I'll Cry For You](https://open.spotify.com/track/5fPIx4t5vomPE9cWnTL6gv) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Prisoners In Paradise](https://open.spotify.com/album/6bjLeNJ4eSTiEwMxqWeFYp) | 5:21 |
+| 79 | [Every Time I Look At You](https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Revenge](https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x) | 4:39 |
 | 80 | [Show Me The Way](https://open.spotify.com/track/2upjcGvuiTCGSaGPZZ2dtD) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Edge Of The Century](https://open.spotify.com/album/6dLlnu5TPxD74g7w8SfnqF) | 4:37 |
 | 81 | [What Love Can Be](https://open.spotify.com/track/54ksR9aJry2nrGZqmJN7ji) | [Kingdom Come](https://open.spotify.com/artist/2YFKPea38AMhGqGSqkFF1Q) | [Kingdom Come](https://open.spotify.com/album/4tgiJxO6vfa3pF46IO9w2n) | 5:14 |
 | 82 | [Love Walked In](https://open.spotify.com/track/71D2G19A2i5BYgTC31p23j) | [Thunder](https://open.spotify.com/artist/3SfrwwVPGtjYTI3vwQ4hEU) | [Backstreet Symphony](https://open.spotify.com/album/2bPj257oLDCgCyDvPRGSvG) | 6:25 |

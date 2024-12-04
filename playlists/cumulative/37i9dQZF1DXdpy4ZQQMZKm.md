@@ -4,7 +4,7 @@
 
 > The songs with the biggest throwback moments\. Cover: Bruno Mars
 
-122 songs - 7 hr 31 min
+123 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2023-11-29 |  |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2023-11-29 | 2024-11-28 |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2023-11-29 | 2024-11-28 |
-| [Blame It on the Rain](https://open.spotify.com/track/2dPpQv8sCPeEaA4oz7ZjQC) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Greatest Hits](https://open.spotify.com/album/3sOy91gU770rkA494FbWWV) | 4:08 | 2024-11-27 |  |
+| [Blame It on the Rain](https://open.spotify.com/track/2dPpQv8sCPeEaA4oz7ZjQC) | [Milli Vanilli](https://open.spotify.com/artist/3vRclCt9VnNhYIxFMQCxuM) | [Greatest Hits](https://open.spotify.com/album/3sOy91gU770rkA494FbWWV) | 4:08 | 2024-11-27 | 2024-12-04 |
 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-11-29 | 2024-11-28 |
 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 | 2023-11-29 | 2024-11-28 |
 | [Bye Bye Bye \- From Deadpool and Wolverine Soundtrack](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 | 2024-11-27 |  |
@@ -51,6 +51,7 @@
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/5DnT9a5IM3eMjKgXTWVJvi) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum](https://open.spotify.com/album/3tbpe74iBR23O8uiQlLrXC) | 2:40 | 2023-11-29 | 2024-11-28 |
 | [Heartless](https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [808s & Heartbreak](https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU) | 3:31 | 2023-11-29 | 2024-11-28 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-11-29 | 2024-11-28 |
+| [Heather](https://open.spotify.com/track/1hgNhooPszJZOZ0gLBU88t) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/3BdWnsb2tG6ajlPHmd8jh6) | 3:18 | 2024-12-03 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-11-29 | 2024-11-28 |
 | [Hide Away](https://open.spotify.com/track/3WALaE7UdNXx8VJ4lpWCK8) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:11 | 2024-11-27 |  |
 | [I Love You](https://open.spotify.com/track/7hyFKrPZo1Zv4D35MpTBdr) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:30 | 2024-11-27 |  |

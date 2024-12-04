@@ -6,8 +6,152 @@
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAlxjMzWD6qVQZ1KCxce1AFi4+rC73m",
+  "snapshot_id": "AAAlzp/Tbc8c9Jwux9OYdmlNbbLVRNpn",
   "tracks": [
+    {
+      "added_at": "2024-11-18 18:58:57",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "added_at": "2024-11-18 18:56:30",
+      "album": {
+        "name": "It",
+        "url": "https://open.spotify.com/album/22p2prq9HNF6RNB7S4nKjt"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
+        }
+      ],
+      "duration_ms": 195953,
+      "name": "It",
+      "url": "https://open.spotify.com/track/5ASiVfpSYoK5OQajNiNuJP"
+    },
+    {
+      "added_at": "2024-11-18 18:58:51",
+      "album": {
+        "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
+        "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Kamaiyah",
+          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Ymtk",
+          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
+        }
+      ],
+      "duration_ms": 225196,
+      "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
+      "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+    },
+    {
+      "added_at": "2024-12-03 23:03:30",
+      "album": {
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/5gibeid5X7B2lzcNHaUzLO"
+      },
+      "artists": [
+        {
+          "name": "Siete7x",
+          "url": "https://open.spotify.com/artist/7J5UWTbsUFjoSQZQCQCqbQ"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/0cLaX5oX4WStIu9tVO7fC4"
+    },
+    {
+      "added_at": "2024-12-03 23:03:46",
+      "album": {
+        "name": "Alabama Don",
+        "url": "https://open.spotify.com/album/5oUaD0eObdJmanpxCaTtC5"
+      },
+      "artists": [
+        {
+          "name": "Eldorado Red",
+          "url": "https://open.spotify.com/artist/2iHMRqfyow5ug68bezaxCc"
+        }
+      ],
+      "duration_ms": 149681,
+      "name": "Alabama Don",
+      "url": "https://open.spotify.com/track/6GdtQWDXpwBr1rWgbDIY3v"
+    },
+    {
+      "added_at": "2024-12-03 23:03:55",
+      "album": {
+        "name": "Mad",
+        "url": "https://open.spotify.com/album/59FGkniUZXQJ7qC1JMYD0S"
+      },
+      "artists": [
+        {
+          "name": "ZayBang",
+          "url": "https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/45y9nLedAVUP55j71MS2Gl"
+    },
+    {
+      "added_at": "2024-12-03 23:04:05",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/5UGcaqt4vWNGpMrnXafOtX"
+      },
+      "artists": [
+        {
+          "name": "Neemz",
+          "url": "https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti"
+        }
+      ],
+      "duration_ms": 140016,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/6dMj1G2mkCNF7UpE5Xhks8"
+    },
     {
       "added_at": "2024-11-25 18:54:17",
       "album": {
@@ -75,42 +219,6 @@
       "duration_ms": 167833,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/62CU1w9TV2VTKfpmgCBzTX"
-    },
-    {
-      "added_at": "2024-11-18 18:56:30",
-      "album": {
-        "name": "It",
-        "url": "https://open.spotify.com/album/22p2prq9HNF6RNB7S4nKjt"
-      },
-      "artists": [
-        {
-          "name": "Shordie Shordie",
-          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
-        }
-      ],
-      "duration_ms": 195953,
-      "name": "It",
-      "url": "https://open.spotify.com/track/5ASiVfpSYoK5OQajNiNuJP"
-    },
-    {
-      "added_at": "2024-11-18 18:58:57",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
     },
     {
       "added_at": "2024-11-18 18:59:09",
@@ -183,50 +291,6 @@
       "duration_ms": 134948,
       "name": "Hawk Tuah",
       "url": "https://open.spotify.com/track/1vV7X5IBrBudb3hct3OBWn"
-    },
-    {
-      "added_at": "2024-11-18 18:58:51",
-      "album": {
-        "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
-        "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Kamaiyah",
-          "url": "https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "Ymtk",
-          "url": "https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV"
-        }
-      ],
-      "duration_ms": 225196,
-      "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
-      "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
     },
     {
       "added_at": "2024-11-18 18:59:26",

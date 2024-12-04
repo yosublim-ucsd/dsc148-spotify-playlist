@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,225 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,243 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,17 +20,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 10 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
 | 11 | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/track/1jSNAa9R1LBiMeAp4uYVdU) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [A Walk \(The Last 10 Years X J\_ust\)](https://open.spotify.com/album/4KTwQFF9zCEAa4KXzVM0Iv) | 3:23 |
 | 12 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
-| 13 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
+| 13 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |
 | 14 | [To the other side of greed](https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [To the other side of greed](https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip) | 3:47 |
-| 15 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |
+| 15 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
 | 16 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
 | 17 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
 | 18 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
 | 19 | [Beside you](https://open.spotify.com/track/0PulmEG8fg22Cy7JGTP0Kq) | [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [Beside you \(Better Days X Jang Hye\-Jin\)](https://open.spotify.com/album/0oYOZG7WYvU20dqqqmmKOD) | 4:12 |
 | 20 | [If](https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [If](https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5) | 4:11 |
 | 21 | [Winded](https://open.spotify.com/track/71zJMsNpZIJGnN8fibrPxg) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Winded](https://open.spotify.com/album/6KYXpHhFNyXL3L4JgGsD1p) | 3:03 |
-| 22 | [SHE](https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SHE](https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ) | 3:18 |
-| 23 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
+| 22 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
+| 23 | [SHE](https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SHE](https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ) | 3:18 |
 | 24 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 25 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
 | 26 | [비밀 얘기를 하고 싶어](https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.18](https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD) | 3:00 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 31 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
 | 32 | [Give me a title](https://open.spotify.com/track/5HKr2mcxgqd3LHCd0VMRb7) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR) | [Give me a title](https://open.spotify.com/album/4Zt3JbOedE78z8zWp9Oxgp) | 2:43 |
 | 33 | [시소](https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J) | [KiTak](https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM) | [시소](https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR) | 2:43 |
-| 34 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
-| 35 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
+| 34 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
+| 35 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
 | 36 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
 | 37 | [4Life](https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z) | [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [4Life](https://open.spotify.com/album/2recKAfTygy8DvSrJKxJac) | 2:51 |
 | 38 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |

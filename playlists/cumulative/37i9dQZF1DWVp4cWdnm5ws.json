@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover new artists on the horizon this 2024. Cover: Denise Julia\n",
+  "description": "Discover new artists on the horizon this 2024. Cover: Ysanygo\n",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -1998,6 +1998,24 @@
       "duration_ms": 248800,
       "name": "Ligaya",
       "url": "https://open.spotify.com/track/4IeuTj1pEHuL9vJSiEqEfR"
+    },
+    {
+      "album": {
+        "name": "YSANYGO WORLDWIDE Vol. 1",
+        "url": "https://open.spotify.com/album/0wtl3Pe5chEoHUxkw1TVbj"
+      },
+      "artists": [
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142549,
+      "name": "Like a Superstar",
+      "url": "https://open.spotify.com/track/6TrjoufYJbf1I4CUMUUQs2"
     },
     {
       "album": {

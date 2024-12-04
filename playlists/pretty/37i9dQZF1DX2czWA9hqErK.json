@@ -1,6 +1,6 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 1359489,
+  "num_followers": 1359459,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -543,18 +543,22 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -591,22 +595,18 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "Cowboys Cry Too (with Noah Kahan)",
-        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 230600,
-      "name": "Cowboys Cry Too (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
+      "duration_ms": 194000,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -659,22 +659,6 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "You Promised A Lifetime",
-        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
         "name": "The Great Impersonator",
         "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
       },
@@ -711,22 +695,6 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "Save You a Seat",
-        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Save You a Seat",
-      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
         "name": "ROOM UNDER THE STAIRS",
         "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
       },
@@ -739,6 +707,22 @@
       "duration_ms": 232380,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
+        "name": "Save You a Seat",
+        "url": "https://open.spotify.com/album/0VPPrXduFjL2zke7XfDDPu"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Save You a Seat",
+      "url": "https://open.spotify.com/track/6pkRK6iZC2Yhhd172tC9Id"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -771,6 +755,22 @@
       "duration_ms": 177562,
       "name": "Please Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 196752,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
         "name": "Comfortable",
         "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 228961,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 196752,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "One Eye Open",
-        "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 212994,
-      "name": "One Eye Open",
-      "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 206218,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
+        "name": "One Eye Open",
+        "url": "https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 212994,
+      "name": "One Eye Open",
+      "url": "https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "Changes All The Time",
-        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 279429,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/7k0D9VjRqVMbhg0uNMiq3O"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 177662,
       "name": "Potential",
       "url": "https://open.spotify.com/track/7D7oIpsm4trbxthAU7JMtB"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
+        "name": "Changes All The Time",
+        "url": "https://open.spotify.com/album/0RJ06tZn2gom7mAmCIip2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 279429,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
     },
     {
       "added_at": "2024-11-08 10:32:22",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-08 10:32:22",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 217232,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
-    },
-    {
-      "added_at": "2024-11-08 10:32:22",
-      "album": {
         "name": "live more & love more",
         "url": "https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 200648,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
+    },
+    {
+      "added_at": "2024-11-08 10:32:22",
+      "album": {
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 217232,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
     },
     {
       "added_at": "2024-11-08 10:32:22",

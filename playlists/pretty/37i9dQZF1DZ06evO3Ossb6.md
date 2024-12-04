@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 
 > This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 812,717 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 812,785 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 20 | [Te Voy a Perder](https://open.spotify.com/track/47dnUPPMWQD8y1l2cfpC1l) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Viento A Favor](https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor) | 4:10 |
 | 21 | [Qué Lástima](https://open.spotify.com/track/5mqhPFVGkCJ67BtEL52pJW) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 4:20 |
 | 22 | [No Lo Beses](https://open.spotify.com/track/3cX7KNREYC4NBntB6ccHHt) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos \- Evolución](https://open.spotify.com/album/6pJmik7KjCRidOZwEqYWuy) | 3:34 |
-| 23 | [Que Seas Muy Feliz](https://open.spotify.com/track/57FK6Fq03tJjZbphA0Fjwd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 2:46 |
-| 24 | [Tantita Pena](https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:28 |
+| 23 | [Tantita Pena](https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:28 |
+| 24 | [Que Seas Muy Feliz](https://open.spotify.com/track/57FK6Fq03tJjZbphA0Fjwd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 2:46 |
 | 25 | [Abrázame](https://open.spotify.com/track/5uN3aHedE4LXvz2vxwzgLi) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 3:17 |
 | 26 | [No](https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [De Noche \- Clasicos A Mi Manera](https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms) | 3:18 |
 | 27 | [Quiero Que Vuelvas](https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 49 | [Perdón \(with Alejandro Fernández\) \- Remasterizado 2005](https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mis Duetos](https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG) | 3:34 |
 | 50 | [Dos Corazones, Dos Historias \(Dos Corações E Uma Historia\)](https://open.spotify.com/track/18jTvvrVfLe5DsipBvZect) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Noche De Cuatro Lunas](https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX) | 3:55 |
 
-Snapshot ID: `Z0unAAAAAAC+ybrPcbpj+F8biu8a9Aqo`
+Snapshot ID: `Z0z4gAAAAAAWF+lNNoIVRPN9sGySWx8E`

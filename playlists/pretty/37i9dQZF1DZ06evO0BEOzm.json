@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 290888,
+  "num_followers": 290968,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAAoPa2gGt7uNmWWCbkn5iGc",
+  "snapshot_id": "Z0z4gAAAAAAqa3PgDBOQE2yFMotwgphG",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HISS",
-        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 192818,
-      "name": "HISS",
-      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
+      "duration_ms": 125030,
+      "name": "Kitty Kat",
+      "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
+        "name": "HISS",
+        "url": "https://open.spotify.com/album/2QfxtFVJK1qh8pj2DEFHlA"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 125030,
-      "name": "Kitty Kat",
-      "url": "https://open.spotify.com/track/6DoGtGyDgv5mVxeCpP92tX"
+      "duration_ms": 192818,
+      "name": "HISS",
+      "url": "https://open.spotify.com/track/79AHPJd8upvNxyK2qQcY8J"
     },
     {
       "added_at": null,

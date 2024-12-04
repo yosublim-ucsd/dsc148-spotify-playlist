@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,196 likes - 42 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,244 likes - 42 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 25 | [Saudade](https://open.spotify.com/track/2xhUjhT8xgSxzvbR8zKpCQ) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Saudade](https://open.spotify.com/album/1OwI4ZOYpDh03VcGHvMyXm) | 2:47 |
 | 26 | [penhasco.](https://open.spotify.com/track/5VTqW8raQYnj2avZ27nO2a) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:06 |
 | 27 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 |
-| 28 | [MTG Sagrado Profano](https://open.spotify.com/track/4bieMkyQdNwyTYtqfYWHzd) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 2:32 |
-| 29 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 |
+| 28 | [Tudo de bom](https://open.spotify.com/track/3YqLyRFwjGuPBT7EHoyQH7) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Tudo de bom](https://open.spotify.com/album/7bZLDpIUpjrHPehJUqRXyO) | 2:44 |
+| 29 | [MTG Sagrado Profano](https://open.spotify.com/track/4bieMkyQdNwyTYtqfYWHzd) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ) | [Escândalo Íntimo \(Deluxe\)](https://open.spotify.com/album/4tagp2ueRVSyfc6llI9RKq) | 2:32 |
 | 30 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:03 |
 | 31 | [Não Sirvo \- Ao Vivo](https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Sirvo \(Ao Vivo\)](https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN) | 2:41 |
 | 32 | [Flores](https://open.spotify.com/track/25gD4PQjxCLnwIY2n23aEl) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Flores](https://open.spotify.com/album/1ZhOLwc5e3v4k70MbpFtYt) | 2:35 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 41 | [Olhos Castanhos](https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Olhos Castanhos](https://open.spotify.com/album/5TUfzNYXahREF4LdxaSoDh) | 3:25 |
 | 42 | [Flores Pa Ti](https://open.spotify.com/track/3XPJVupqIdQjHoTb8YprXR) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Flores Pa Ti](https://open.spotify.com/album/4mar8ItTck1xwVtpZvpK0F) | 1:39 |
 
-Snapshot ID: `Z0unAAAAAAAND/UvV8CoBSpbPwajXVuF`
+Snapshot ID: `Z0z4gAAAAACb642kCS+Ll0+qO6Zrby7K`

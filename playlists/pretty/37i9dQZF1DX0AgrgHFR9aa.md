@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : Youssoupha
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,892 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,897 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 25 | [PHOBOS](https://open.spotify.com/track/3H27495JmKdKl5HisfHOvv) | [Jeune Mort](https://open.spotify.com/artist/7u8gvNEGeiNVartjPGoTtU) | [DEMAIN EST ANNULÉ](https://open.spotify.com/album/4wO5AjxTQfuyVr0H0e6coR) | 2:40 |
 | 26 | [Les anges pleurent plus qu'avant](https://open.spotify.com/track/3K9SP7aqNAI6yRR7vk26Ty) | [Bonobo](https://open.spotify.com/artist/3CA7lyKUkVtDuaZjqYb6nH) | [Les anges pleurent plus qu'avant](https://open.spotify.com/album/5eppPHGfeUsdDrjgiPqu79) | 2:56 |
 | 27 | [LA HAINE \(feat\. Clara Luciani\)](https://open.spotify.com/track/5hw2tWIicbY7Kd737HZBZk) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [LA HAINE](https://open.spotify.com/album/0pBcKC9eaLBOqt1KCOARoT) | 3:09 |
-| 28 | [Névrose](https://open.spotify.com/track/4ZMxmaHhsZh7SoAbXj3KDF) | [Ormaz](https://open.spotify.com/artist/1p7DzCCPD24P5IUVosY850) | [Névrose](https://open.spotify.com/album/5BxvGGsp97gBZraoI5PWA4) | 3:05 |
+| 28 | [NÉVROSE](https://open.spotify.com/track/4ZMxmaHhsZh7SoAbXj3KDF) | [Ormaz](https://open.spotify.com/artist/1p7DzCCPD24P5IUVosY850) | [NÉVROSE](https://open.spotify.com/album/5BxvGGsp97gBZraoI5PWA4) | 3:05 |
 | 29 | [Chateaubriand](https://open.spotify.com/track/6BKVou9qldPNdkn9t0MmxD) | [Hunter](https://open.spotify.com/artist/4kz8Ax2USW4Xae9WSQHVec) | [Le Crève\-cœur](https://open.spotify.com/album/7aDHFOxhG8Wi1L2vK71wZ9) | 3:04 |
 | 30 | [JAMAIS COMME AVANT](https://open.spotify.com/track/7MtjsERZRUGFXQxn6SE2fs) | [B.B\. Jacques](https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52) | [BLACKBIRD](https://open.spotify.com/album/2DMye4603xl0LkWDikn4IQ) | 3:29 |
 | 31 | [PILULE](https://open.spotify.com/track/5M6EKddObIwYdo0Rt9eoDV) | [TH](https://open.spotify.com/artist/4k0UwfZq3WOpZiZosq3vQC) | [E\-TRAP](https://open.spotify.com/album/00pCPUMJXYJBCB77aC6A0c) | 3:44 |

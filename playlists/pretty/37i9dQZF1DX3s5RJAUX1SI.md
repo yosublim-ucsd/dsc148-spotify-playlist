@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,512 likes - 125 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,603 likes - 125 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 65 | [Soy Todo Tuyo](https://open.spotify.com/track/1qgsZJWKgpVXV1AzOTaKPt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Soy Todo Tuyo](https://open.spotify.com/album/0ExMixEC3UmmcUqajTEGUx) | 3:07 |
 | 66 | [Inventame \- En Vivo](https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 3:15 |
 | 67 | [La basurita](https://open.spotify.com/track/11A3Ku68YxMyS6OADvRMX3) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:10 |
-| 68 | [Te Equivocaste \(En Vivo\)](https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:35 |
-| 69 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
+| 68 | [Creo en Ti](https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Creo en Ti](https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd) | 2:57 |
+| 69 | [Te Equivocaste \(En Vivo\)](https://open.spotify.com/track/4ANXqggZoRGJHE9NfaVMLL) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Desde La Playa "En Vivo desde Mazatlan, Sinaloa"](https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI) | 4:35 |
 | 70 | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Cuando Te Acuerdes De Mi \(En Vivo\)](https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79) | 3:07 |
 | 71 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
 | 72 | [Basta Ya](https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor Que Nunca Fue](https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT) | 3:24 |

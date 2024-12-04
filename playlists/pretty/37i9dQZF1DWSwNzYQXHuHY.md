@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,257 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,264 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 47 | [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 |
 | 48 | [I Say Ya! You Say Yeah! \(feat\. Kyoung Seo\)](https://open.spotify.com/track/7d68iDyOYs0Kg3wzrl5l5F) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt), [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [I Say Ya! You Say Yeah!](https://open.spotify.com/album/2rhxerq7xqfJfN8zcp5FoN) | 3:50 |
 | 49 | [Magic](https://open.spotify.com/track/7Hp8f6PxEMzkqhFVk0x8ZY) | [Song Youjin](https://open.spotify.com/artist/7JKgGjif8BU0vvMmbj2cga) | [Once Upon a Small Town \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/1QRTkrPJx7eseWzZXPamIa) | 3:24 |
-| 50 | [I pray](https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Romance is a Bonus Book OST Part.4](https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU) | 3:47 |
+| 50 | [Domino](https://open.spotify.com/track/3Gyc6E2qMrHuIEmyJTUApC) | [Choi Cello](https://open.spotify.com/artist/5H5lROVPo6zqJacYlluJD5) | [Domino](https://open.spotify.com/album/1wrsoN7rUsDBzAJqWQwP6e) | 3:07 |
 
 Snapshot ID: `Z0mNpwAAAAA9+q/xAS8iU0A/y8cp+f4M`

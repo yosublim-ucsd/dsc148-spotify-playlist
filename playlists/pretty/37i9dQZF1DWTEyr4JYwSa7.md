@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,061 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,132 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 22 | [Noël brun](https://open.spotify.com/track/3b27vkCsStP9LIAiRWa8bj) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [Les nuits de Repentigny](https://open.spotify.com/album/0XCvQlTZV9Pyp3SyyceAsc) | 4:15 |
 | 23 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 |
 | 24 | [\_dec carte de noël](https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [\_dec carte de noël](https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7) | 2:04 |
-| 25 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
-| 26 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
+| 25 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
+| 26 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 |
 | 27 | [Feliz Navidad](https://open.spotify.com/track/7taXf5odg9xCAZERYfyOkS) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [The Definite Best](https://open.spotify.com/album/4E8tfxh5YBsHLtTHA1tMTv) | 3:02 |
 | 28 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 |
 | 29 | [Baby It's Cold Outside \(with Michael Bublé\)](https://open.spotify.com/track/0Ie5uiv54KgCr7P4sYDTHl) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Holiday Wishes](https://open.spotify.com/album/0EGX5qfw6VEPOMoCUFJFHl) | 2:46 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 92 | [Petit garçon](https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t) | [Nana Mouskouri](https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod) | [Les Plus Beaux Noels Du Monde](https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW) | 2:49 |
 | 93 | [La nuit de Noël](https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja) | [Sally Folk](https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr) | [La nuit de Noël](https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO) | 3:10 |
 | 94 | [Père Noël arrive ce soir](https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz) | [Mélissa Bédard](https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk) | [Ma liste de Noël](https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT) | 2:24 |
-| 95 | [Noël mille feux](https://open.spotify.com/track/3mrKQpSSvyg9uvr3LRWs9k) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Noël mille feux](https://open.spotify.com/album/1CDPIsDorKUmv1vavzAFAT) | 2:42 |
-| 96 | [Combien de Noël ?](https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Chante et raconte 25 décembre](https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT) | 2:46 |
+| 95 | [Combien de Noël ?](https://open.spotify.com/track/3upnLZFdITjaQau8oacUhW) | [TRICOT MACHINE](https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7) | [Chante et raconte 25 décembre](https://open.spotify.com/album/24YXjhjFSEmlsUvsq1BGuT) | 2:46 |
+| 96 | [Please Come Home For Christmas](https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Please Come Home For Christmas](https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr) | 2:59 |
 | 97 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
-| 98 | [Please Come Home For Christmas](https://open.spotify.com/track/4sXg2Nd58C4pQp9reilr2R) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Please Come Home For Christmas](https://open.spotify.com/album/12uSasNKEymdQOcsxGiWBr) | 2:59 |
+| 98 | [Noël mille feux](https://open.spotify.com/track/3mrKQpSSvyg9uvr3LRWs9k) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Noël mille feux](https://open.spotify.com/album/1CDPIsDorKUmv1vavzAFAT) | 2:42 |
 | 99 | [Noël chez moi, Noël chez toi](https://open.spotify.com/track/0ViEmfufEQpRsEp16sxNi1) | [Audrey Gagnon](https://open.spotify.com/artist/21OH021jKuYx1XfJifUr90), [Mike Lee](https://open.spotify.com/artist/5CjdSBpMfGX9uPCdCMkhBW) | [Noël chez moi, Noël chez toi](https://open.spotify.com/album/5ihxdtZZlzPAbSOgAoPZUW) | 3:08 |
 | 100 | [Noël blanc](https://open.spotify.com/track/7ykP6gzf7CJ8Lb4AEJWeqR) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 3:50 |
 

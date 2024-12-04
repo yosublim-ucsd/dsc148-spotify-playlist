@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 ### [EQUAL Brasil](https://open.spotify.com/playlist/37i9dQZF1DX8hUq3jyvfJh)
 
-> Escute Tássia Reis e mais mulheres no volume máximo! Co\-curadoria com  <a href="spotify:artist:0kc1BjcLHaXhZVzCp0HeAl">Tássia Reis</a>
+> Escute Tassia Reis e mais mulheres no volume máximo! Co\-curadoria com  <a href="spotify:artist:0kc1BjcLHaXhZVzCp0HeAl">Tassia Reis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,857 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,848 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 2 | [Espero Que Entendam \- Freestyle](https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i) | [Espero Que Entendam \(Freestyle\)](https://open.spotify.com/album/2omPP6U3sAgy10Q4wZtswu) | 3:31 |
 | 3 | [Você Parece Com Vergonha](https://open.spotify.com/track/5r4pDmk3fENDZCc06xrHsJ) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [Você Parece Com Vergonha](https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy) | 3:03 |
 | 4 | [Não Adianta Me Ligar](https://open.spotify.com/track/0E65iBKawwwGbV3He8N5kE) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 3:25 |
-| 5 | [Cacau](https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 3:21 |
-| 6 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
+| 5 | [Bandida](https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [BANDIDA](https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj) | 2:59 |
+| 6 | [Cacau](https://open.spotify.com/track/71k9Yzhra50zpdh3ypzdYA) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Amaríssima](https://open.spotify.com/album/73nud0IihzSauCk6AfYbLN) | 3:21 |
 | 7 | [Dualidade](https://open.spotify.com/track/4WX8VfKyZ4pzZag1FKg7uq) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Sexto Sentido](https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf) | 2:36 |
 | 8 | [Voo 1360](https://open.spotify.com/track/6IK3PL5f3VxhG2cKhpqMSF) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Taurus, Vol\. 2](https://open.spotify.com/album/0rAj3hMgsqWfw8hOAZzZF4) | 2:24 |
 | 9 | [Eu amo ser negona](https://open.spotify.com/track/1z4NEIfISzguBEdmmFzl9h) | [Afreekassia](https://open.spotify.com/artist/1wYviDrVOvFPtg3CFn3DHp), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR) | [Eu amo ser negona](https://open.spotify.com/album/3DQ5gtY52GVBCzIZGSrYLG) | 2:37 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 39 | [Da Sul pro Mundo](https://open.spotify.com/track/03Udd4NjEl28jB3v8IyXc4) | [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [A Linha Tênue](https://open.spotify.com/album/5U0BpcKOs2wPJlxIdLsN9A) | 3:01 |
 | 40 | [REGINA](https://open.spotify.com/track/75QOESqFN5HX9cdnE5GXE4) | [CAE](https://open.spotify.com/artist/2d8dvLwxR3APvLe0gcLaK0) | [REGINA](https://open.spotify.com/album/0wnYrI3alXB1ilXBfPimBk) | 2:34 |
 
-Snapshot ID: `ZyvTkwAAAADNnv9y17yi2MkWK6hg/Flq`
+Snapshot ID: `Z09QDgAAAAA/b99wRIRiWytEU8Tjingm`

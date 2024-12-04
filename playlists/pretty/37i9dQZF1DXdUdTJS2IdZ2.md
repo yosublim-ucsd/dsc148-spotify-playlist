@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Benjamin Kheng
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,918 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,920 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 61 | [endless shine](https://open.spotify.com/track/1OUoxV1qoUGAxFngy2zcxB) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [endless shine](https://open.spotify.com/album/03cEdnJdRIxQ0n1FwXtK2D) | 3:01 |
 | 62 | [kembali](https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 3:12 |
 | 63 | [億點點](https://open.spotify.com/track/3gXfPCQRNtS9r2i9W3cvxy) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90), [謝慧嫻 Stella](https://open.spotify.com/artist/4LZDii3NkICtWotw25Pt4i) | [億點點](https://open.spotify.com/album/5CCCFBeZXAX3xRgssdX3aC) | 3:08 |
-| 64 | [idm.](https://open.spotify.com/track/6chlClDQA8tRd2ivMF6P1L) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [lovlaine](https://open.spotify.com/artist/2QIkDLNdxDBgcJV6Fho6XV) | [idm.](https://open.spotify.com/album/4qd1ae0hRIeugoxqPAkfQv) | 2:22 |
+| 64 | [idm.](https://open.spotify.com/track/6chlClDQA8tRd2ivMF6P1L) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [idm.](https://open.spotify.com/album/4qd1ae0hRIeugoxqPAkfQv) | 2:22 |
 | 65 | [crazy girl](https://open.spotify.com/track/2qh0B9oEpeVa4huNfustpO) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [crazy girl](https://open.spotify.com/album/6ZC1MX5xk9GwQoGQPxqyzM) | 2:33 |
 | 66 | [honeymoon \- Spotify Singles](https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [Spotify Singles](https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ) | 2:53 |
 | 67 | [Like Me](https://open.spotify.com/track/49bLYLbZ20ewRBaaj5kX5Q) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [BEFORE I SEE](https://open.spotify.com/album/4XCdpW2XSUGVW2RRTSGc8p) | 3:20 |

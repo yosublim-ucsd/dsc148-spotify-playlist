@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 
 > This is Toby Keith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,864 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,872 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 11 | [Red Solo Cup](https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:43 |
 | 12 | [Who's Your Daddy?](https://open.spotify.com/track/48OJNxzYVJNYzXDDY1xlnt) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:57 |
 | 13 | [Whiskey Girl](https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:59 |
-| 14 | [He Ain't Worth Missing](https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:04 |
+| 14 | [American Ride](https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 2:45 |
 | 15 | [Made in America](https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:13 |
-| 16 | [American Ride](https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 2:45 |
+| 16 | [He Ain't Worth Missing](https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith](https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA) | 3:04 |
 | 17 | [American Soldier](https://open.spotify.com/track/0oVWPlnK5eAqnJCVB0FvpP) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:23 |
 | 18 | [You Shouldn't Kiss Me Like This](https://open.spotify.com/track/5taqvRgn1DdZ117p2DhPXQ) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [How Do You Like Me Now?!](https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y) | 3:43 |
 | 19 | [Don't Let the Old Man In](https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Don't Let the Old Man In](https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa) | 2:52 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 29 | [Ships That Don’t Come In](https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:44 |
 | 30 | [Rum Is the Reason](https://open.spotify.com/track/2Y9o2plHDMxKzbPTEah8Cu) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 3:17 |
 | 31 | [Weed With Willie \- Live](https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 4:03 |
-| 32 | [Get Drunk And Be Somebody](https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [White Trash With Money](https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl) | 2:58 |
-| 33 | [Bullets in the Gun](https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:16 |
+| 32 | [Bullets in the Gun](https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 4:16 |
+| 33 | [Get Drunk And Be Somebody](https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [White Trash With Money](https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl) | 2:58 |
 | 34 | [Beautiful Stranger](https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 4:17 |
 | 35 | [The Taliban Song \- Live](https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:58 |
-| 36 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 |
-| 37 | [Trailerhood](https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 2:53 |
+| 36 | [Trailerhood](https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Bullets in the Gun](https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH) | 2:53 |
+| 37 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 |
 | 38 | [Stays In Mexico](https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:34 |
 | 39 | [Sailboat for Sale](https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [35 mph Town](https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d) | 3:08 |
 | 40 | [If I Was Jesus](https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1f6BZ6.md) - [plain]
 | 49 | [I Like Girls That Drink Beer](https://open.spotify.com/track/1BrCXPoH8NrQpa4qRhpn2x) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Hope on the Rocks](https://open.spotify.com/album/4DKhGKCMefhclaMA1R7QNs) | 2:47 |
 | 50 | [Cryin' for Me \(Wayman's Song\)](https://open.spotify.com/track/5D2Sr7fTxeVfO4cYniJG7X) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [American Ride](https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV) | 4:45 |
 
-Snapshot ID: `Z0unAAAAAAApshAm68hNgxK9ULILuaPs`
+Snapshot ID: `Z0z4gAAAAAAJE9bDpriSZgGXVwrAOXl1`

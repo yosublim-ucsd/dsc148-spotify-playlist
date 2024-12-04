@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 
 > Suéltala que ella baila sola\. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,360 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,379 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwne9oedwMj.md) - [plain]
 | 34 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 |
 | 35 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 36 | [MALA SANTA](https://open.spotify.com/track/5e50NiIlOc2YJIftHzoehd) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 |
-| 37 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 |
-| 38 | [Fabuloso](https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:20 |
+| 37 | [Fabuloso](https://open.spotify.com/track/3cg2Y9mIiYNdcPTLKaQgK3) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:20 |
+| 38 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 |
 | 39 | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/track/4axxCbc4tWlpqHP5UbJMc3) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Ptazeta: Bzrp Music Sessions, Vol\. 45](https://open.spotify.com/album/6lY3u461PHRz0PsO4KwzWU) | 2:41 |
 | 40 | [Zorra](https://open.spotify.com/track/0OP1RzrglC008kj79Httv3) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Zorra](https://open.spotify.com/album/6Syxhy1xpKZXWO8KPm34G3) | 3:06 |
 | 41 | [Amanecemos](https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [Amanecemos](https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg) | 3:18 |

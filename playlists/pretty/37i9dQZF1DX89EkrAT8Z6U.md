@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also, check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,376 likes - 75 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197,926 likes - 75 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 36 | [Death Lotto](https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch) | [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt) | [Death Lotto](https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE) | 2:13 |
 | 37 | [The Fallen](https://open.spotify.com/track/6OntGp1fBnvvHsqKzd4ZwO) | [Caleb Bryant](https://open.spotify.com/artist/7p0HF87njbwrsLYQYFkwcn) | [The Fallen](https://open.spotify.com/album/62kdZ20ERi0krzdoKsV0k2) | 2:13 |
 | 38 | [sunset dreams](https://open.spotify.com/track/6zg431pIV64icWpxl46rzk) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [sunset dreams](https://open.spotify.com/album/49zxPpemrGsPpWnVpQcLNh) | 1:50 |
-| 39 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
-| 40 | [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 |
+| 39 | [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 |
+| 40 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
 | 41 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
 | 42 | [50k](https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [50k](https://open.spotify.com/album/3fW5MHf8i7zGW8HpwQsnVe) | 2:09 |
 | 43 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 |

@@ -4,7 +4,7 @@
 
 > This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-76 songs - 6 hr 10 min
+77 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,8 +54,9 @@
 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 | 2022-08-05 | 2024-10-31 |
 | [Pep Talk \- Remastered 2024](https://open.spotify.com/track/2wdvPx55QXWSr3wHkT8r1Q) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 0:58 | 2024-11-05 |  |
 | [Pipeline](https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 2:59 | 2022-08-05 |  |
-| [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 | 2022-08-05 |  |
+| [Pride And Joy](https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:59 | 2022-08-05 | 2024-12-04 |
 | [Pride and Joy](https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 3:39 | 2022-08-05 |  |
+| [Pride And Joy \- Remastered 2024](https://open.spotify.com/track/5QuJllZAhhDbFTlUp2q4Nw) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 6:00 | 2024-12-04 |  |
 | [Riviera Paradise](https://open.spotify.com/track/4LSu0MjxfmqMgEJf4GMnlU) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 8:48 | 2022-08-05 |  |
 | [Rude Mood](https://open.spotify.com/track/03NejRMxYMMCFo2Ylsia6l) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Texas Flood \(Legacy Edition\)](https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ) | 4:39 | 2022-08-05 |  |
 | [Say What!](https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 5:23 | 2022-08-06 |  |
@@ -80,7 +81,7 @@
 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/1kY6OOTBmRNzhYmu9xSH3a) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 7:58 | 2022-08-05 | 2023-02-08 |
 | [Wall of Denial](https://open.spotify.com/track/02yhpGmQpkuYMDh6BRnDZA) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Step](https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk) | 5:35 | 2022-08-05 | 2022-11-01 |
 | [Wham](https://open.spotify.com/track/42DFAOfH92om07FwNqX2Ye) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Sky Is Crying](https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B) | 2:24 | 2022-08-05 |  |
-| [Who Is Stevie? \- Remastered 2024](https://open.spotify.com/track/6XuhFxosG2A4mrxHgtthNK) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 0:44 | 2024-12-02 |  |
+| [Who Is Stevie? \- Remastered 2024](https://open.spotify.com/track/6XuhFxosG2A4mrxHgtthNK) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Deluxe Edition / Remastered 2024\)](https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2) | 0:44 | 2024-12-02 | 2024-12-04 |
 | [Willie The Wimp \- Live](https://open.spotify.com/track/1nwXca4jNGWDpowRQnEiEv) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Essential Stevie Ray Vaughan And Double Trouble](https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r) | 4:34 | 2022-09-16 | 2022-09-19 |
 | [Willie The Wimp \- Live](https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Live Alive](https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW) | 4:37 | 2023-09-15 |  |
 | [You'll Be Mine](https://open.spotify.com/track/39XMzGy9hJHGVHgUy8uPhE) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Soul to Soul](https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e) | 3:43 | 2022-08-20 | 2022-08-27 |

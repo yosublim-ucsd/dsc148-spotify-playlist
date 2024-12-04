@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,029 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,040 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 8 | [El Fugitivo \(En Vivo\)](https://open.spotify.com/track/3FZv9dOK2AO7a1bo2r33D5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Fugitivo \(En Vivo\)](https://open.spotify.com/album/5nGUyM4FjbCYl89iXSA4un) | 2:58 |
 | 9 | [Modo Avion](https://open.spotify.com/track/4pljc9DdwyxBPojzgHpoL4) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Modo Avion](https://open.spotify.com/album/1RV8eX7Z0Prav12ViroXxd) | 3:05 |
 | 10 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 |
-| 11 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 |
-| 12 | [El Señor De La Montaña](https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7) | [Pityn Toys](https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Señor De La Montaña](https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl) | 2:25 |
+| 11 | [El Señor De La Montaña](https://open.spotify.com/track/1rjI7wcOffMI560HsHU5q7) | [Pityn Toys](https://open.spotify.com/artist/4TtLUMMoVnPMMGZ2ljNZzF), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Señor De La Montaña](https://open.spotify.com/album/3yJ7amzvZuunZNifBM6KNl) | 2:25 |
+| 12 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 |
 | 13 | [Ismael](https://open.spotify.com/track/0S2oq25O61zqlWrxMv5lGu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:16 |
 | 14 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C) | 2:57 |
 | 15 | [El Rápido \- En vivo](https://open.spotify.com/track/130anijBVOTasF32ZHwuJi) | [Gordo Arce](https://open.spotify.com/artist/00v3sw4z0wRS94vVPNQLU7), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [KC Music](https://open.spotify.com/artist/7akKJbX2GFFxz73zaL3zZ0) | [El Rápido \(En vivo\)](https://open.spotify.com/album/29fxzSLm7MgZ8rJz4fJOef) | 3:28 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 24 | [Levantando Polvadera \(En vivo\)](https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Los Populares Del Llano](https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B) | [Jalando La Bandona \(En Vivo\)](https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7) | 2:09 |
 | 25 | [El Precio De La Soledad \- En vivo](https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Precio De La Soledad \(En vivo\)](https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I) | 2:46 |
 | 26 | [El H](https://open.spotify.com/track/2M55f5Nu55dDZbA477v7X8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2gdVut9gbjgP5m6puh7QK3) | 2:44 |
-| 27 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 |
-| 28 | [Rosas](https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o) | 4:33 |
+| 27 | [Rosas](https://open.spotify.com/track/1yJXjROn0qtYy05SglrXa6) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/7pvRB1385axz5VoiZUyD7o) | 4:33 |
+| 28 | [La Ley del Mayo](https://open.spotify.com/track/4JgF8vGk0Vp3rBOHWBMjW7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [La Ley del Mayo](https://open.spotify.com/album/0XCMIwN9p62x59fQn6eQTH) | 3:36 |
 | 29 | [La Pasadita \(En vivo\)](https://open.spotify.com/track/09YX9qkzkVAPnAOxdC3PFV) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:29 |
 | 30 | [El Bolas](https://open.spotify.com/track/68qYyjg8Y10HVr3YcY8Yp8) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg) | 2:51 |
 | 31 | [El Amor No Es Para Todos](https://open.spotify.com/track/3oazxJTMSqk0KCupesUq7B) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [El Amor No Es Para Todos](https://open.spotify.com/album/3yDNbHOaUo0r9yafxBkAJl) | 2:22 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 50 | [La Fiesta](https://open.spotify.com/track/2jjrH4sgaGxgDWss3XWenX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Fiesta](https://open.spotify.com/album/0H2PeujiXUo7qOnRLLmrKz) | 3:09 |
 | 51 | [Don Mayo \(En vivo\)](https://open.spotify.com/track/0dosB2O1QBbPSkAw2eFSX5) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/3K2tobst8dJSvsRmsFDDPa) | 2:56 |
 
-Snapshot ID: `Z0unAAAAAAC+jutHXAZSWrqbFN5GHxQf`
+Snapshot ID: `Z0z4gAAAAABWpCP72h1l66CTjIz0ZjCG`

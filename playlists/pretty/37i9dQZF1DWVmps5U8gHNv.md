@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Tracy Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,349 likes - 115 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 783,415 likes - 115 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 21 | [The Promise](https://open.spotify.com/track/2HO2bnoMrpnZUbUqiilLHi) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 5:27 |
 | 22 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 |
 | 23 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
-| 24 | [If I Had a Hammer \- 2004 Remaster](https://open.spotify.com/track/6R9LiK1WhfnTvFsVfusdQl) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:01 |
+| 24 | [If I Had a Hammer \- 2004 Remaster](https://open.spotify.com/track/6R9LiK1WhfnTvFsVfusdQl) | [Peter, Paul & Mary](https://open.spotify.com/artist/2CSihbjcMAb5ew6weNQa0E) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 2:01 |
 | 25 | [Mississippi \- Version 2](https://open.spotify.com/track/4T7zdEt6EPBYPINynERjCN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Mississippi \(Version 2\)](https://open.spotify.com/album/4mAnAlXFfFIlnzNRV8cCfR) | 5:12 |
 | 26 | [Pagan Run](https://open.spotify.com/track/2mRkUkyWk10HDw9Oa9llio) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [King of a Land](https://open.spotify.com/album/7L985gR7I4PLpAO5aqNyxj) | 4:33 |
 | 27 | [Into the Mystic \- 2013 Remaster](https://open.spotify.com/track/3lh3iiiJeiBXHSZw6u0kh6) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 3:25 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 79 | [Pink Moon](https://open.spotify.com/track/16qzGrIMWoxerw2gnW0zuv) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/7KyvfoQhqlNLPNb98yY0pf) | 2:03 |
 | 80 | [Black Irish Indian](https://open.spotify.com/track/1xfRPtwYl8Na8WRzTQI9rd) | [Cherokee Rose](https://open.spotify.com/artist/2Z9gor60OjbfpDEiFMIcOI) | [Buckskin](https://open.spotify.com/album/1c63m1ZcW5S40hLDWiObqf) | 3:17 |
 | 81 | [Season of the Witch](https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y) | [Donovan](https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG) | [Sunshine Superman](https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G) | 4:53 |
-| 82 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
+| 82 | [Leaving on a Jet Plane](https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn) | [Peter, Paul & Mary](https://open.spotify.com/artist/2CSihbjcMAb5ew6weNQa0E) | [Album 1700](https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ) | 3:27 |
 | 83 | [Little Boxes](https://open.spotify.com/track/4VJrTc5QPr13zgkwxaTjjN) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [Headlines and Footnotes: A Collection of Topical Songs](https://open.spotify.com/album/1ggnnzHVxJFuTDIY78ZF1R) | 1:54 |
 | 84 | [Universal Soldier](https://open.spotify.com/track/35oPNtWETGELk0CguDIfKr) | [Buffy Sainte\-Marie](https://open.spotify.com/artist/5exO2eW84QucBhrRhcK76x) | [The Best Of](https://open.spotify.com/album/3KkxlIx2jtJYW2nOIjnkAw) | 2:19 |
 | 85 | [Going To The Country](https://open.spotify.com/track/7cwlGuG0tHGp7taJTU4ebu) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Bruce Cockburn](https://open.spotify.com/album/4MWG44ffjZDrXbJnycdjl6) | 3:16 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmps5U8gHNv.md) - [plain]
 | 88 | [Mrs\. Robinson \- Single Mix](https://open.spotify.com/track/3CJ60azPXtva8OdBsxSA7a) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Greatest Hits](https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG) | 3:54 |
 | 89 | [Cat's in the Cradle](https://open.spotify.com/track/6hLqEJg2GnnDG4W0Y64hyD) | [Harry Chapin](https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c) | [Cat's in the Cradle / Vacancy](https://open.spotify.com/album/2Nh9PmJwU1W7d06m7woqB1) | 3:32 |
 | 90 | [Our Town](https://open.spotify.com/track/44gq8zKiyisjDCKRfcuk3N) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/4LluPNK62d1cUvD1ZL46bf) | 5:00 |
-| 91 | [Puff, the Magic Dragon \- 2004 Remaster](https://open.spotify.com/track/7raciFPVU5VuHmqVbw2c1h) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:28 |
+| 91 | [Puff, the Magic Dragon \- 2004 Remaster](https://open.spotify.com/track/7raciFPVU5VuHmqVbw2c1h) | [Peter, Paul & Mary](https://open.spotify.com/artist/2CSihbjcMAb5ew6weNQa0E) | [The Very Best of Peter, Paul and Mary](https://open.spotify.com/album/14Qo0TZ3M82PC4EFTt39X0) | 3:28 |
 | 92 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/72DefuF22C6aPKrWhRFCBS) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 3:42 |
 | 93 | [Matty Groves](https://open.spotify.com/track/1RU9IjayNNnMibiXKp5Hxs) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Liege And Lief](https://open.spotify.com/album/1FrW2Bbq6IXkyPM5wznMPD) | 8:08 |
 | 94 | [Dream A Little Dream Of Me](https://open.spotify.com/track/4GQaSM60Y9UvCNYOKHPIxd) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Creeque Alley \- The History Of The Mamas And The Papas](https://open.spotify.com/album/6Wo8kOZUTssB59PNQ5Zcp8) | 3:13 |

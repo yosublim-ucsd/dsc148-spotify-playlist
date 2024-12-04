@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 211146,
       "name": "A Constant Reminder",
       "url": "https://open.spotify.com/track/0TQISSEtEkxysEdjpD37Wy"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 272560,
       "name": "A Mountain So Big, A Question So Small",
       "url": "https://open.spotify.com/track/1vF7UqFlXmPS18N9cCaX2h"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 290000,
       "name": "Baptized In Fire",
       "url": "https://open.spotify.com/track/279oUTTQzoqmNBPbPuNm3d"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 179213,
       "name": "Creature",
       "url": "https://open.spotify.com/track/2kH4Tyy2DUT9aa55SWgjkI"
@@ -952,7 +952,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 216457,
       "name": "End Transmission",
       "url": "https://open.spotify.com/track/7GJmigVsxwIvDO3iy7hZa8"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-07",
+      "date_removed": null,
       "duration_ms": 259532,
       "name": "Fight For Your King",
       "url": "https://open.spotify.com/track/1nNBM1OIbedH3JIPILS9TJ"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 191533,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5bOGLDXDi0pbNJ8WFzNoUX"
@@ -2176,7 +2176,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 182080,
       "name": "Severed Ties Yield Severed Heads",
       "url": "https://open.spotify.com/track/3eQkdO24L0yxKQj9Y0pd1m"
@@ -2788,7 +2788,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 227106,
       "name": "We Stand",
       "url": "https://open.spotify.com/track/1QAz671ewHPs31WxBBVkKG"
@@ -2806,7 +2806,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 218386,
       "name": "Westbound & Down",
       "url": "https://open.spotify.com/track/5xaHbR90AsG28s9kfXtEEK"
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 290415,
       "name": "White Light",
       "url": "https://open.spotify.com/track/6Ybo9MDUnzddO7tYYkpgeE"

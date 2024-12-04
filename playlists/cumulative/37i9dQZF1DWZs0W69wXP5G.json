@@ -186,7 +186,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 173306,
       "name": "A Wish Worth Making",
       "url": "https://open.spotify.com/track/0uan47LDD0HMob7n3UMkZd"
@@ -4166,6 +4166,28 @@
       "duration_ms": 222373,
       "name": "What I Did For Love",
       "url": "https://open.spotify.com/track/1Jwy2B4WLW2McewDu3ayci"
+    },
+    {
+      "album": {
+        "name": "Wicked: The Soundtrack",
+        "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228947,
+      "name": "What Is This Feeling?",
+      "url": "https://open.spotify.com/track/7eGuPhpdS8sBjPJNuAShUX"
     },
     {
       "album": {

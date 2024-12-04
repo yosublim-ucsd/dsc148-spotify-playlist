@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollandse hits\. Cover: Donnie, Robert van Hemert & Trobi
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,199 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,204 likes - 80 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,23 +18,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 8 | [De Stad](https://open.spotify.com/track/2N0J2JFNDuRh4bEiaYWTHY) | [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [De Stad](https://open.spotify.com/album/74oRzSmRTs0BPr4rQSvywO) | 2:38 |
 | 9 | [Vergeef Me](https://open.spotify.com/track/2kxH1XMnceTTSNQLexMxnb) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Vergeef Me](https://open.spotify.com/album/4YiGU14kyBhle7EwUD5fv0) | 3:17 |
 | 10 | [Verder met m'n leven](https://open.spotify.com/track/0PAlZloFNKcaOytm3Vhmcq) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Verder met m'n leven](https://open.spotify.com/album/3Yh72jE3SNMTxSOKOdRXM3) | 4:21 |
-| 11 | [Bedrogen](https://open.spotify.com/track/6mc3vuQVZ2nOp5vysMmHwy) | [Frank Smeekens](https://open.spotify.com/artist/1OEl9ZF2mW1zOqWtZVXEBb) | [Bedrogen](https://open.spotify.com/album/0aV71TqJlCyBEa1ryYKitJ) | 3:32 |
-| 12 | [Voordat Ik Nog Wat Zeggen Kon](https://open.spotify.com/track/31IueZAqrXobsJbIpYRMSJ) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/77NALxQBSUO2mIg6ICj26u) | 3:36 |
-| 13 | [Wat Als Ik Wat Mis](https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Wat Als Ik Wat Mis](https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ) | 2:45 |
-| 14 | [Voor Altijd In Ons Hart](https://open.spotify.com/track/4TwZ4I2gv1QiyrvseV6XzF) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Voor Altijd In Ons Hart](https://open.spotify.com/album/1oYeVuKHYEargOpCPTuZFu) | 3:21 |
+| 11 | [Samen Niet Alleen](https://open.spotify.com/track/3Vj4WiGxHyArjjxQRLqBZd) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Samen Niet Alleen](https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n) | 2:50 |
+| 12 | [Bedrogen](https://open.spotify.com/track/6mc3vuQVZ2nOp5vysMmHwy) | [Frank Smeekens](https://open.spotify.com/artist/1OEl9ZF2mW1zOqWtZVXEBb) | [Bedrogen](https://open.spotify.com/album/0aV71TqJlCyBEa1ryYKitJ) | 3:32 |
+| 13 | [Voordat Ik Nog Wat Zeggen Kon](https://open.spotify.com/track/31IueZAqrXobsJbIpYRMSJ) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Turk Uit De Kroeg](https://open.spotify.com/album/77NALxQBSUO2mIg6ICj26u) | 3:36 |
+| 14 | [Wat Als Ik Wat Mis](https://open.spotify.com/track/6M8VUoELSGXNSPDJrU3JNQ) | [Danilo Kuiters](https://open.spotify.com/artist/4kTi1Mu4eeie3aIRImqdyu) | [Wat Als Ik Wat Mis](https://open.spotify.com/album/0LwwaLVVLn7hCXYoojVZwQ) | 2:45 |
 | 15 | [Gipsy](https://open.spotify.com/track/2VKz7PoOPT8bFmcA80vbZe) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Gipsy](https://open.spotify.com/album/35qNQKTgoI2RzPJV29PoMb) | 3:28 |
-| 16 | [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ) | 2:47 |
-| 17 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 |
-| 18 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 |
-| 19 | [Tot In De Laatste Uurtjes](https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Tot In De Laatste Uurtjes](https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD) | 2:48 |
-| 20 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa) | 2:16 |
-| 21 | [Het Heden](https://open.spotify.com/track/0CiTmFrxDMGN57vRrZ20nY) | [Charelle](https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG) | [Het Heden](https://open.spotify.com/album/5rX4yCiSRGHorLA752nGv8) | 3:03 |
-| 22 | [Kom Terug](https://open.spotify.com/track/0N551xcSek0OFH8nQ2ORp3) | [Martin van Waveren](https://open.spotify.com/artist/0A85Nyv0pCEHBaTiCj31DZ) | [Kom Terug](https://open.spotify.com/album/7v4zNEleZXvRDwLsLYDxpX) | 3:03 |
-| 23 | [Duizend kussen](https://open.spotify.com/track/1I4U08uGUi9zqpG5SzTpSY) | [Melissa Smilda](https://open.spotify.com/artist/4AA6vrWQc9c05MQLorDzu1) | [Duizend kussen](https://open.spotify.com/album/0HXNMyRDmf1xSibq4QQMGi) | 2:49 |
-| 24 | [Giga Giga Winter](https://open.spotify.com/track/5gpzDfWSrpnGPP8rN9G43t) | [Rob Zorn](https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8) | [Giga Giga Winter](https://open.spotify.com/album/3HqDAi4tba3BwAPMmOYqc1) | 3:17 |
-| 25 | [Aan Van Jou](https://open.spotify.com/track/7FLlO7lEJLmELPvmOLczMc) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Aan Van Jou](https://open.spotify.com/album/2E4bDW6YmSI0ti9LQAxTir) | 2:10 |
-| 26 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 |
-| 27 | [Samen Niet Alleen](https://open.spotify.com/track/3Vj4WiGxHyArjjxQRLqBZd) | [Gerrit Schneider](https://open.spotify.com/artist/1fXCIvVgz0o3gymfRpSz6u) | [Samen Niet Alleen](https://open.spotify.com/album/4svPd43310UGY3gRLfNJ7n) | 2:50 |
+| 16 | [Voor Altijd In Ons Hart](https://open.spotify.com/track/4TwZ4I2gv1QiyrvseV6XzF) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD) | [Voor Altijd In Ons Hart](https://open.spotify.com/album/1oYeVuKHYEargOpCPTuZFu) | 3:21 |
+| 17 | [Tot In De Laatste Uurtjes](https://open.spotify.com/track/5gJTYGqYbGk6H1rcUM7ZTb) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Tot In De Laatste Uurtjes](https://open.spotify.com/album/7mjcBaeVNlEIE2aMXAjuyD) | 2:48 |
+| 18 | [Giga Giga Winter](https://open.spotify.com/track/5gpzDfWSrpnGPP8rN9G43t) | [Rob Zorn](https://open.spotify.com/artist/0c6wYitLm4qjmJSfw4Aej8) | [Giga Giga Winter](https://open.spotify.com/album/3HqDAi4tba3BwAPMmOYqc1) | 3:17 |
+| 19 | [Ik Kan Je Niet Vergeten](https://open.spotify.com/track/7J4X2uKaKvgFBYJTgccVbw) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Ik Kan Je Niet Vergeten](https://open.spotify.com/album/4dOZQ6p3hwXX7QzWLHmXFJ) | 2:47 |
+| 20 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 |
+| 21 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 |
+| 22 | [Maak Me Nou Niet Gek](https://open.spotify.com/track/6gOgwLQfEfRh0SfXUZZk7Z) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Maak Me Nou Niet Gek](https://open.spotify.com/album/24xjFLhiUSgGS8NWgJB3wa) | 2:16 |
+| 23 | [Het Heden](https://open.spotify.com/track/0CiTmFrxDMGN57vRrZ20nY) | [Charelle](https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG) | [Het Heden](https://open.spotify.com/album/5rX4yCiSRGHorLA752nGv8) | 3:03 |
+| 24 | [Kom Terug](https://open.spotify.com/track/0N551xcSek0OFH8nQ2ORp3) | [Martin van Waveren](https://open.spotify.com/artist/0A85Nyv0pCEHBaTiCj31DZ) | [Kom Terug](https://open.spotify.com/album/7v4zNEleZXvRDwLsLYDxpX) | 3:03 |
+| 25 | [Duizend kussen](https://open.spotify.com/track/1I4U08uGUi9zqpG5SzTpSY) | [Melissa Smilda](https://open.spotify.com/artist/4AA6vrWQc9c05MQLorDzu1) | [Duizend kussen](https://open.spotify.com/album/0HXNMyRDmf1xSibq4QQMGi) | 2:49 |
+| 26 | [Aan Van Jou](https://open.spotify.com/track/7FLlO7lEJLmELPvmOLczMc) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Aan Van Jou](https://open.spotify.com/album/2E4bDW6YmSI0ti9LQAxTir) | 2:10 |
+| 27 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 |
 | 28 | [Het Draaiorgel](https://open.spotify.com/track/3xo1gJy3MTlha5H57XjEQI) | [Susanna Veldmeijer](https://open.spotify.com/artist/2MgUlFmA4sje2WpKCPLavJ) | [Het Draaiorgel](https://open.spotify.com/album/7nOyOJhCCodJVZr4d1D9Hk) | 2:58 |
 | 29 | [Zeg 't Nooit](https://open.spotify.com/track/5eHkSWQESkPlMGFNNlb2vK) | [Rudy de Wit](https://open.spotify.com/artist/39dlRB5uIsJsdUDGSj74AH) | [Zeg 't Nooit](https://open.spotify.com/album/4oG3ropqDUt9cE2EOPWlsN) | 3:00 |
 | 30 | [Een Hemels Feest](https://open.spotify.com/track/1rcNMAQ6BVcXi3YhGNXbfJ) | [Edwin Van Der Toolen](https://open.spotify.com/artist/30V9SaUhU48JzEtGT7x8eI) | [Een Hemels Feest](https://open.spotify.com/album/2L3IbhLTe5lfCCFS0BMJBi) | 2:58 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/track/1nCs068okLCuxJeFnObvbC) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [Met Het Vliegtuig Naar Spanje](https://open.spotify.com/album/3v9ZAOqiho1zRej69vSnWk) | 2:46 |
 | 80 | [Op De Vijfde Rij](https://open.spotify.com/track/1hKqHdaqJk3RqZ64P9xNHc) | [Dora](https://open.spotify.com/artist/0mtvaQCrgNiDab3u0FFvZn) | [Op De Vijfde Rij](https://open.spotify.com/album/1KjWGmfsM9vFUlW4GHFdde) | 2:51 |
 
-Snapshot ID: `Z03TYwAAAAC3PYIrlHVcu7NGcoZri/71`
+Snapshot ID: `Z09g3gAAAAC/BpaaawAddT9wZ2WQ4cUo`

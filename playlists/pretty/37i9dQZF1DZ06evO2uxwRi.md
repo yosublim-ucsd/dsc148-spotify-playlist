@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 
 > This is New Found Glory\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,852 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,857 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 2 | [All Downhill From Here](https://open.spotify.com/track/6PAoCw99yAkmpeXmY8IIUE) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Catalyst](https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy) | 3:12 |
 | 3 | [Kiss Me](https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 2:55 |
 | 4 | [Vicious Love \(feat\. Hayley Williams\)](https://open.spotify.com/track/2y8FLV6pZI3YH1GyiaRp35) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Resurrection: Ascension](https://open.spotify.com/album/7cmMT5imIjUt7RGKpIc1uk) | 3:17 |
-| 5 | [Part of Your World](https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:58 |
-| 6 | [Hit Or Miss](https://open.spotify.com/track/2JGfAzStXQ1VEo6H4l6rSR) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 3:22 |
+| 5 | [Hit Or Miss](https://open.spotify.com/track/2JGfAzStXQ1VEo6H4l6rSR) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua) | 3:22 |
+| 6 | [Part of Your World](https://open.spotify.com/track/231Lyv9h2X1y3p1EKZIwtQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Whole New Sound](https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP) | 2:58 |
 | 7 | [Iris](https://open.spotify.com/track/1GKdDBOZfhi29h8jEE94pM) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo, Pt\. II](https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp) | 3:15 |
 | 8 | [Understatement](https://open.spotify.com/track/4191ROqtYiS10furYDAv05) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Sticks And Stones](https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8) | 3:11 |
 | 9 | [This Is Me](https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:28 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2uxwRi.md) - [plain]
 | 36 | [Blitzkrieg Bop](https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 2:02 |
 | 37 | [Don't Let Her Pull You Down](https://open.spotify.com/track/5ab6WsStT9zSlNZ9CSArje) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 3:28 |
 | 38 | [Happy Being Miserable](https://open.spotify.com/track/3ecBMN1YMtDvrRjIks6uAP) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:00 |
-| 39 | [Greatest Of All Time](https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:57 |
-| 40 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:30 |
+| 39 | [I Don't Want To Miss A Thing](https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:30 |
+| 40 | [Greatest Of All Time](https://open.spotify.com/track/4ZsgnD8CqWPF15nhT6HQED) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 2:57 |
 | 41 | [It's Not Your Fault](https://open.spotify.com/track/6mWaIL3wd4XtxBZlvams5f) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:37 |
 | 42 | [Summer Fling, Don't Mean a Thing](https://open.spotify.com/track/3SJ0UM1ZZQrFeuGYFKSqvq) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 2:57 |
-| 43 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
-| 44 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:54 |
+| 43 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:54 |
+| 44 | [Stay Awhile](https://open.spotify.com/track/4vkEb0zbUqi7n2n9ivvdhJ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Forever And Ever x Infinity](https://open.spotify.com/album/5P7G7Y2qqcPVf5Y9oknWyn) | 3:24 |
 | 45 | [Truck Stop Blues](https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:14 |
 | 46 | [Sucker](https://open.spotify.com/track/43GEARdOhWe57fq6lLvTt8) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [New Found Glory](https://open.spotify.com/album/2c33qDDUaE3wvolW7OoPEA) | 2:52 |
-| 47 | [Party On Apocalypse](https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:23 |
-| 48 | [Never Ending Story Theme Song](https://open.spotify.com/track/6mW2DU0mYICqZ26p53QKsT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:17 |
+| 47 | [Never Ending Story Theme Song](https://open.spotify.com/track/6mW2DU0mYICqZ26p53QKsT) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo](https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl) | 2:17 |
+| 48 | [Party On Apocalypse](https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Makes Me Sick](https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk) | 3:23 |
 | 49 | [47](https://open.spotify.com/track/2BRfVAGQJynBEcKcXfYnsN) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Not Without A Fight](https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO) | 2:51 |
 | 50 | [Anthem for the Unwanted](https://open.spotify.com/track/2mV7oWnebEFSv8TpQTKKav) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Radiosurgery \(Deluxe Edition\)](https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp) | 3:12 |
 
-Snapshot ID: `Z0unAAAAAAD8Dv2WzhPXNHd9+Z8Ih08k`
+Snapshot ID: `Z0z4gAAAAAAbdAFIB332ovARfAyl4DLL`

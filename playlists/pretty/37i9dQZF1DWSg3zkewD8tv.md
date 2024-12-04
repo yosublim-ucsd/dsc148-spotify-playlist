@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 
 > An all\-Australian soundtrack to snags, bread and tomato sauce!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,027 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,041 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 32 | [Fall At Your Feet](https://open.spotify.com/track/1Yc2k9b9PNZSB6P5S53SPC) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Woodface](https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h) | 3:18 |
 | 33 | [Tangerine](https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Tangerine](https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR) | 4:50 |
 | 34 | [I Want You](https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 3:52 |
-| 35 | [The Boys Light Up \- Remastered 2013](https://open.spotify.com/track/687i9z2ZCKNfzpmzs7HxOu) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [The Boys Light Up \(Remastered\)](https://open.spotify.com/album/4xDGaF0egAcfV0lDYc3PTV) | 4:41 |
-| 36 | [Run to Paradise](https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs) | [Choirboys](https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM) | [Big Bad Noise](https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF) | 4:11 |
+| 35 | [Run to Paradise](https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs) | [Choirboys](https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM) | [Big Bad Noise](https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF) | 4:11 |
+| 36 | [The Boys Light Up \- Remastered 2013](https://open.spotify.com/track/687i9z2ZCKNfzpmzs7HxOu) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [The Boys Light Up \(Remastered\)](https://open.spotify.com/album/4xDGaF0egAcfV0lDYc3PTV) | 4:41 |
 | 37 | [Rum Rage](https://open.spotify.com/track/3OwsQhfC9eJdOlD3IO74l4) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Land Of Pleasure](https://open.spotify.com/album/60syJlVPj5DcTyxfw4GK0f) | 4:12 |
 | 38 | [Great Southern Land](https://open.spotify.com/track/3OmEIZ6bYHqlReQ1YLaRHV) | [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Primitive Man \(Bonus Track Edition\)](https://open.spotify.com/album/5B3wFWPqWgpRnan9sSSQzr) | 5:17 |
 | 39 | [The Horses](https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE) | [Daryl Braithwaite](https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe) | [Rise](https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq) | 4:16 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSg3zkewD8tv.md) - [plain]
 | 41 | [Better Be Home Soon](https://open.spotify.com/track/4ZYCwq1EMPY5zZt195ARWg) | [Crowded House](https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB) | [Temple Of Low Men](https://open.spotify.com/album/7t38G4SGphJox2lCAAZo2m) | 3:07 |
 | 42 | [Cheap Wine \- 2011 Remastered](https://open.spotify.com/track/3EkEomllpfXPPIGVFvZcEq) | [Cold Chisel](https://open.spotify.com/artist/1VcbchGlIfo3Gylxc3F076) | [East](https://open.spotify.com/album/4WQVLiXpiYlFpKXCyheZU3) | 3:25 |
 | 43 | [Eagle Rock \- 2011 Remaster](https://open.spotify.com/track/2nCXuFS4Dt4BpHkxA9rhPL) | [Daddy Cool](https://open.spotify.com/artist/5ht2HGrvbN9eDWJarHsou6) | [Daddy Who? Daddy Cool \(40th Anniversary Edition\)](https://open.spotify.com/album/4ZejRTERcKwWr0bc8CslGV) | 4:10 |
-| 44 | [Joker And The Thief](https://open.spotify.com/track/2yoCk1xYdULGPV1143r7CB) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/747qcmgpdnnIG6lIBwNKhO) | 4:40 |
-| 45 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
+| 44 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
+| 45 | [Joker And The Thief](https://open.spotify.com/track/2yoCk1xYdULGPV1143r7CB) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/747qcmgpdnnIG6lIBwNKhO) | 4:40 |
 | 46 | [April Sun in Cuba](https://open.spotify.com/track/0NKv1n25UpKKhZbp5UVV6P) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Running Free](https://open.spotify.com/album/05frF9sl7GngNlYJp7V6fe) | 3:27 |
 | 47 | [Caress Your Soul](https://open.spotify.com/track/6CvgS2YcW7b3CqIXBBbfwp) | [Sticky Fingers](https://open.spotify.com/artist/3ZGr7nQBXDU2WhyXgRVbt0) | [Caress Your Soul](https://open.spotify.com/album/2XiBbHgNjlt3JLz8j2S61k) | 2:57 |
 | 48 | [Scar](https://open.spotify.com/track/0Xxww5aUyamJlEm8GkP21i) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Sound Of White](https://open.spotify.com/album/5Dd14nVQOJIUg9UgKkVyIQ) | 3:33 |

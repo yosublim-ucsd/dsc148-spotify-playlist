@@ -3927,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "Two Shell",
+        "url": "https://open.spotify.com/album/5B9kNtbzaLjBYXXEQGkMF3"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231750,
+      "name": "be gentle with me",
+      "url": "https://open.spotify.com/track/3SFWNfUS9W7VnpUOO6JRHI"
+    },
+    {
+      "album": {
         "name": "be happy",
         "url": "https://open.spotify.com/album/6zwIS2pCiF1Pe6qDaJG13D"
       },
@@ -28327,6 +28345,28 @@
     },
     {
       "album": {
+        "name": "Here For The Groove / Open Your Heart",
+        "url": "https://open.spotify.com/album/66H15XWnAZ902sn2HJe99X"
+      },
+      "artists": [
+        {
+          "name": "nabii",
+          "url": "https://open.spotify.com/artist/0EL1KyWqIAGnXXR85EVTQj"
+        },
+        {
+          "name": "Palastoni",
+          "url": "https://open.spotify.com/artist/28oa99VEqmiC6i2SzvMPiC"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200649,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/7py6tZNikw2C7C0j9qx4EB"
+    },
+    {
+      "album": {
         "name": "OPTICAL RANGE",
         "url": "https://open.spotify.com/album/1A1UxGFrZqpXEOKz1mbu24"
       },
@@ -38490,6 +38530,24 @@
       "duration_ms": 226470,
       "name": "the future",
       "url": "https://open.spotify.com/track/5TjjjC9BHtoaGBuwpOQz9N"
+    },
+    {
+      "album": {
+        "name": "the laced up theory",
+        "url": "https://open.spotify.com/album/4zeikwsYhOpoy4DtR3cvrE"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233856,
+      "name": "the laced up theory",
+      "url": "https://open.spotify.com/track/6dpxyZUBHIOeTlG4n2CIrt"
     },
     {
       "album": {

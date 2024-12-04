@@ -2,7 +2,7 @@
 
 ### [Old School Hip\-Hop House Party](https://open.spotify.com/playlist/37i9dQZF1DX30w0JtSIv4j)
 
-> Classic 90s and early 00s Hip\-Hop for the ultimate house party\. Cover: Missy Elliott
+> Classic 90s and early 00s Hip\-Hop for the ultimate house party.
 
 137 songs - 8 hr 51 min
 

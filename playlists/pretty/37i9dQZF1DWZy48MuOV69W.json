@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 78697,
+  "num_followers": 79098,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-11-11 13:38:34",
       "album": {
+        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
+        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Ole Santa",
+      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
+    },
+    {
+      "added_at": "2024-11-11 13:38:34",
+      "album": {
         "name": "Christmas Songs",
         "url": "https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 187200,
       "name": "I'll Be Home For Christmas",
       "url": "https://open.spotify.com/track/5R9NaAk7bp624MbMyhcoBZ"
-    },
-    {
-      "added_at": "2024-11-11 13:38:34",
-      "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
-        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Ole Santa",
-      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
     },
     {
       "added_at": "2024-11-11 13:38:34",

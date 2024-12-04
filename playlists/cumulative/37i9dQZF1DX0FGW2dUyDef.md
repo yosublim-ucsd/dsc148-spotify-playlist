@@ -4,7 +4,7 @@
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\. Kapak: Melike Şahin
 
-92 songs - 4 hr 37 min
+94 songs - 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Derdo](https://open.spotify.com/track/0O8jfIL9rjYbWRypxBA9LN) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Derdo](https://open.spotify.com/album/7pSGtJE2RQjIGwdkgKZpwY) | 3:38 | 2024-11-25 |  |
 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 | 2024-07-08 |  |
 | [Dilerim Ki](https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Dilerim Ki](https://open.spotify.com/album/3b8J9uYshIDindPqgT2cno) | 3:20 | 2024-11-14 |  |
+| [Doldum](https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Doldum](https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav) | 2:26 | 2024-12-03 |  |
 | [DOMDOM](https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [DOMDOM](https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X) | 2:13 | 2024-07-25 | 2024-08-15 |
 | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/track/2M7BEoyAzxLBKgnFQqUGmF) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [DOĞUŞTAN BERİ HAKLIYIM \(tmm\)](https://open.spotify.com/album/46Lu9sb5R04T208BLZ5kRm) | 2:13 | 2024-07-02 | 2024-07-10 |
 | [Durma Yürüsene](https://open.spotify.com/track/7DVu7wGni4DHx9P8L1zbIO) | [Melike Şahin](https://open.spotify.com/artist/16GyR4WfCnIT2XST4ZLl2B) | [Durma Yürüsene](https://open.spotify.com/album/08x2uyRPSt4x3UYwKUuKJc) | 3:41 | 2024-09-12 |  |
@@ -86,7 +87,8 @@
 | [Sessizim](https://open.spotify.com/track/3sHbx4dQJkdUTAxKkHMxTr) | [Mustafa Mert Koç](https://open.spotify.com/artist/7EEw1AEDeS0ldNfmixIOqi) | [Sessizim](https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG) | 3:01 | 2024-07-02 | 2024-07-30 |
 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 | 2024-09-24 |  |
 | [Sezen Aksu](https://open.spotify.com/track/0GuWyPyj4MVvT4qYsl6BOS) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 2:03 | 2024-07-02 | 2024-11-26 |
-| [Sopa \- Clup Remix](https://open.spotify.com/track/2rkDwpmqASO9ZmUFjqwrR3) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Hande'ye Neler Oluyor](https://open.spotify.com/album/7v4Xeh4UPvV717DF7I6czt) | 4:03 | 2024-07-02 |  |
+| [Silinmez](https://open.spotify.com/track/4sVIEO6DXqoGakHuixuPad) | [Mansur Ark](https://open.spotify.com/artist/4dtvhNNnGCEi7bGpi3DsQd) | [Gazla Gitsin](https://open.spotify.com/album/0tvnLtAh5B0INwHi14UoW5) | 4:07 | 2024-12-03 |  |
+| [Sopa \- Clup Remix](https://open.spotify.com/track/2rkDwpmqASO9ZmUFjqwrR3) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Hande'ye Neler Oluyor](https://open.spotify.com/album/7v4Xeh4UPvV717DF7I6czt) | 4:03 | 2024-07-02 | 2024-12-04 |
 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 | 2024-07-02 | 2024-09-13 |
 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 | 2024-11-25 |  |
 | [Tek Başıma](https://open.spotify.com/track/4wrThHGMM2xOoxMwE7TbhZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Tek Başıma](https://open.spotify.com/album/06zEvBcaeNyNsXLm73OIqx) | 3:29 | 2024-07-02 | 2024-11-29 |
@@ -97,7 +99,7 @@
 | [Yansıma](https://open.spotify.com/track/4T73JmNNhtkFBzjRfCeMzN) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj), [Asil Gök](https://open.spotify.com/artist/0d43Fqs68Oboh6XXo4ztgn) | [Nefes](https://open.spotify.com/album/7HJ1EmY24dwXLBZQj1UrLS) | 2:53 | 2024-07-02 |  |
 | [Yasemen](https://open.spotify.com/track/2SVoUZdzxuDuxBdHSO73KF) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9) | [Yasemen](https://open.spotify.com/album/10hs7zZCXHauEHe9mjzG0z) | 2:30 | 2024-10-07 |  |
 | [Yetmedi](https://open.spotify.com/track/5TxqI3DLEbMVJkyVgentxd) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [Yetmedi](https://open.spotify.com/album/3V0ymncsPOu1uK4ufGV2zt) | 1:55 | 2024-08-08 | 2024-11-15 |
-| [Yüreğim Ağlar](https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yüreğim Ağlar](https://open.spotify.com/album/2PQrfmLgIrkqiQmNnQIbcV) | 3:23 | 2024-07-02 |  |
+| [Yüreğim Ağlar](https://open.spotify.com/track/1wIdx6xw7B01SnnJoamriL) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yüreğim Ağlar](https://open.spotify.com/album/2PQrfmLgIrkqiQmNnQIbcV) | 3:23 | 2024-07-02 | 2024-12-04 |
 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 | 2024-07-02 |  |
 | [Önümüz Yaz](https://open.spotify.com/track/28Aau4tlztDlgKJQXrWhZR) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Önümüz Yaz](https://open.spotify.com/album/1RQR6pJby9qvranN8SuM1v) | 3:01 | 2024-07-02 |  |
 

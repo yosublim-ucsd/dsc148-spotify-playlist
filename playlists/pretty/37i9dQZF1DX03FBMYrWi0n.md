@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: La Sécurité
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,822 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,834 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,22 +65,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 55 | [Depuis](https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Depuis](https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va) | 4:53 |
 | 56 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
 | 57 | [Amy](https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq) | [Marco Ema](https://open.spotify.com/artist/5pyRXeeFhE3qPzioZRg5HJ) | [Où nos corps s'en vont mourir](https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA) | 2:57 |
-| 58 | [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 |
-| 59 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 |
-| 60 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |
-| 61 | [Ah ouin](https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer Looloo](https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg) | 2:30 |
+| 58 | [Feu de forêt](https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M) | [Chassepareil](https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u) | [Chicout](https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog) | 3:40 |
+| 59 | [G4ME0VER](https://open.spotify.com/track/34HH5L2MQJitwwac1C6iaW) | [BéLi](https://open.spotify.com/artist/76Sntu9WfhbuJS6RK1ExhW) | [G4ME0VER](https://open.spotify.com/album/32uetGzqTeObmj3fb19mkc) | 2:54 |
+| 60 | [Ah ouin](https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer Looloo](https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg) | 2:30 |
+| 61 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |
 | 62 | [Demande\-moi](https://open.spotify.com/track/6w7Uk8ppY33i1uD3KHpiO1) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:20 |
-| 63 | [Sempre Juntos](https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa) | [Beat Sexü](https://open.spotify.com/artist/3cWR22THTKKRQnhA5o1Bjr) | [Deuxième chance](https://open.spotify.com/album/5EsXwDuMbfnbUo9Hm1GcLL) | 3:32 |
+| 63 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 |
 | 64 | [Maïa](https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Premier juin](https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86) | 4:28 |
-| 65 | [Demande spéciale](https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Demande spéciale](https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33) | 2:55 |
-| 66 | [veux veux pas](https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [tu penses\-tu + veux veux pas](https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy) | 3:10 |
-| 67 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
-| 68 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 |
-| 69 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
-| 70 | [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 |
-| 71 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
-| 72 | [Où est?](https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Où est?](https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d) | 4:31 |
-| 73 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 |
+| 65 | [Sempre Juntos](https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa) | [Beat Sexü](https://open.spotify.com/artist/3cWR22THTKKRQnhA5o1Bjr) | [Deuxième chance](https://open.spotify.com/album/5EsXwDuMbfnbUo9Hm1GcLL) | 3:32 |
+| 66 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
+| 67 | [Gants blancs](https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [Gants blancs](https://open.spotify.com/album/4ll73k9KZOaVPVWh54VlIL) | 3:34 |
+| 68 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
+| 69 | [Lighter Fluid](https://open.spotify.com/track/2SdHjIcNVrrSMtxhoOskRW) | [Les Deuxluxes](https://open.spotify.com/artist/6k5PugZm3EOJkU08XUPzTg) | [Lighter Fluid](https://open.spotify.com/album/5qHZZ38krHocEYUbDpAWtQ) | 2:51 |
+| 70 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
+| 71 | [Demande spéciale](https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Demande spéciale](https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33) | 2:55 |
+| 72 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 |
+| 73 | [Où est?](https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo) | [Les Lunatiques](https://open.spotify.com/artist/5i6jPkyXixJNovFvLyIRa1) | [Où est?](https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d) | 4:31 |
 | 74 | [Dans tes rêves](https://open.spotify.com/track/2dfr2ndUE6UOeJQ9lAplfo) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Des feux pour voir](https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd) | 4:03 |
 | 75 | [Chambre d'écho](https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5) | [Choses Sauvages](https://open.spotify.com/artist/0V9SOqHRWOifVZQLFyDfG9) | [Choses Sauvages II](https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt) | 3:57 |
 

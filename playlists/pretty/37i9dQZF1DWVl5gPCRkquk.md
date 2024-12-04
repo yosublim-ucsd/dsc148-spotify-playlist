@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 
 > Channel some chilled\-out back yard vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,064,749 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,064,722 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 26 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 |
 | 27 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 |
 | 28 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
-| 29 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 |
-| 30 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 29 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 30 | [Take Back Thy Gift](https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [That Spell](https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ) | 3:13 |
 | 31 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 |
 | 32 | [Strawberry Woman](https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 4:10 |
 | 33 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 38 | [Dead Girl Walking](https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 3:19 |
 | 39 | [Northern Attitude](https://open.spotify.com/track/3vbtOMZEVRt6NKqyzMWqxq) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Northern Attitude](https://open.spotify.com/album/7CsdJMncx766H8wUfvbQtR) | 4:27 |
 | 40 | [Bright Green Vibrant Gray](https://open.spotify.com/track/6OvymCZ4OgIYA7MSXvPIsM) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Goodnight Summerland](https://open.spotify.com/album/0MVltcSSdlgnlSNMLmJGFn) | 3:39 |
-| 41 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
-| 42 | [Alone](https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Same Sun EP](https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH) | 2:39 |
+| 41 | [Alone](https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Same Sun EP](https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH) | 2:39 |
+| 42 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 43 | [Honey I'm Hardly](https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV) | [Oliver Hazard](https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng) | [Honey I'm Hardly](https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF) | 2:47 |
 | 44 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 |
 | 45 | [Lost In The Light](https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Barchords](https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9) | 3:56 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 72 | [Bones](https://open.spotify.com/track/31ynAStjeuhDNDeIpwVqu5) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT) | [Bones](https://open.spotify.com/album/2FwGZoHc1P6SIpIXgANPr3) | 2:39 |
 | 73 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 |
 | 74 | [Right on Time \- In Harmony](https://open.spotify.com/track/07kMJNzJGnq8Vge6DBN9tA) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Right on Time \(In Harmony\)](https://open.spotify.com/album/3EZKuir6wvTtRNQPzKQC1I) | 3:07 |
-| 75 | [Alright](https://open.spotify.com/track/46ObixVcmGOy84ud9XDSgB) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Birdtalker](https://open.spotify.com/album/4nGfaiyuZRujKnApMPFBj6) | 3:39 |
-| 76 | [Lucky](https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Big Heart Manners](https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI) | 3:41 |
+| 75 | [Lucky](https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG) | [Atta Boy](https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2) | [Big Heart Manners](https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI) | 3:41 |
+| 76 | [Alright](https://open.spotify.com/track/46ObixVcmGOy84ud9XDSgB) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Birdtalker](https://open.spotify.com/album/4nGfaiyuZRujKnApMPFBj6) | 3:39 |
 | 77 | [Down \(Exit Song\)](https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Down \(Exit Song\)](https://open.spotify.com/album/78SFR8C0xd8wt4vDuhxmqK) | 3:07 |
 | 78 | [Parking Lot](https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq) | [Parking Lot](https://open.spotify.com/album/6wGepQvwSctX1zib7kpUdH) | 3:52 |
 | 79 | [Here Comes The Comeback](https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Here Comes The Comeback](https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7) | 2:42 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 82 | [Lie to Me](https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Lie to Me](https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E) | 3:25 |
 | 83 | [America](https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d), [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [America](https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby) | 4:11 |
 | 84 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 |
-| 85 | [Burden](https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs) | [St\. Catherine's Child](https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK) | [Burden](https://open.spotify.com/album/6F0IlXWoKvO6YOS1v7PIhF) | 3:41 |
-| 86 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
+| 85 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
+| 86 | [Burden](https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs) | [St\. Catherine's Child](https://open.spotify.com/artist/3szGfag8AiviPVbSmXewBK) | [Burden](https://open.spotify.com/album/6F0IlXWoKvO6YOS1v7PIhF) | 3:41 |
 | 87 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 |
 | 88 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 89 | [Could’ve Been](https://open.spotify.com/track/2bmYuAIAGJEgLwwIHtusHR) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Ellen](https://open.spotify.com/album/6BATuu8z9yFBk41UeHe9E0) | 3:25 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVl5gPCRkquk.md) - [plain]
 | 93 | [Dreamers](https://open.spotify.com/track/74892qRbe5YeOnlPAYZzoG) | [Mighty Oaks](https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC) | [Dreamers](https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA) | 3:27 |
 | 94 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 |
 | 95 | [Harriet](https://open.spotify.com/track/1u4xfhIw84WDXVJ4KSEApS) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Honest](https://open.spotify.com/album/76dQI6JCOblmNdlxvU5HHC) | 3:06 |
-| 96 | [Six Years](https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Six Years](https://open.spotify.com/album/09h1Ua90MNSAay3tru8GkS) | 4:42 |
-| 97 | [Come Back to Me](https://open.spotify.com/track/794cBkkuwcRJ6tDq35dhgC) | [Virginia Man](https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt) | [These Four Words](https://open.spotify.com/album/6spUqdLQA7jkRInsc7MxFb) | 2:06 |
-| 98 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 |
+| 96 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 |
+| 97 | [Six Years](https://open.spotify.com/track/6utnpta3hVCU9McSCyxJps) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Six Years](https://open.spotify.com/album/09h1Ua90MNSAay3tru8GkS) | 4:42 |
+| 98 | [Come Back to Me](https://open.spotify.com/track/794cBkkuwcRJ6tDq35dhgC) | [Virginia Man](https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt) | [These Four Words](https://open.spotify.com/album/6spUqdLQA7jkRInsc7MxFb) | 2:06 |
 | 99 | [I Wish I Had](https://open.spotify.com/track/0KkLD3H6kYylkLLVyFWX31) | [Josiah Johnson](https://open.spotify.com/artist/1Vii05hSGW51heihg6h2Gg) | [Every Feeling On A Loop](https://open.spotify.com/album/17MXfeDk8JUKn7gPoWYfZz) | 4:45 |
 | 100 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 |
 

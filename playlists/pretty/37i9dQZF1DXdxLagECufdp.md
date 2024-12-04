@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,099 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,107 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 41 | [When Life Was A Miracle \- 'Life Is A Miracle' Original Soundtrack](https://open.spotify.com/track/5J9r1cpWmKZOdysqJ5fKUn) | [Emir Kusturica & The No Smoking Orchestra](https://open.spotify.com/artist/7yy1z6ahPRPKWXOp2z0CPp) | [Life Is A Miracle](https://open.spotify.com/album/7qYvgzNzni0JD1qhomXsje) | 4:12 |
 | 42 | [Cantina Band](https://open.spotify.com/track/0SMP8lyL82dgrmahST61tc) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Bien Bonito](https://open.spotify.com/album/1nKWJPzzuboXqkeG8jntbR) | 2:49 |
 | 43 | [Cumbia Klezmer](https://open.spotify.com/track/2bsNIf7cT3PYRriUSNcnck) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [Radio Galena](https://open.spotify.com/album/1Ra9M1mo2LU1TQRSYJ7Vjg) | 2:49 |
-| 44 | [Raska Yu \(feat\. Ara Malikian\)](https://open.spotify.com/track/5b1MRfbVjp6K0KbbvLh7eH) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS), [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 3:33 |
-| 45 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
-| 46 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
+| 44 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
+| 45 | [Raska Yu \(feat\. Ara Malikian\)](https://open.spotify.com/track/5b1MRfbVjp6K0KbbvLh7eH) | [Twanguero](https://open.spotify.com/artist/1qupsn74dUofcXCZCBEwMS), [Ara Malikian](https://open.spotify.com/artist/5kIE5Bm5P9h6KDsz46V2qc) | [Electric Sunset](https://open.spotify.com/album/3ke6SiV8c8nxgfUqwK9ywI) | 3:33 |
+| 46 | [Pharoah's Dreams](https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:27 |
 | 47 | [Cruzando el Campo](https://open.spotify.com/track/7IEMXZrmEJXgZSfKaZMOJK) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Cruzando el Campo](https://open.spotify.com/album/0j515BtyhDDr3KKqvWNDjx) | 2:22 |
-| 48 | [Pharoah's Dreams](https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:27 |
+| 48 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
 | 49 | [La Luna y El Mar](https://open.spotify.com/track/1Xp4D3FQIg1nhTDnWBJTeR) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:08 |
 | 50 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 |
 

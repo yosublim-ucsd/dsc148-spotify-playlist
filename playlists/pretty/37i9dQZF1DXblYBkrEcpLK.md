@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Konomi Suzuki 鈴木このみ
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,810 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,837 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 49 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 |
 | 50 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 |
 
-Snapshot ID: `ZynNMAAAAAACDkQWI0uYv92TeMqHvvpJ`
+Snapshot ID: `Z08c8AAAAABsTzC8aEtxvoUs/iooaYIo`

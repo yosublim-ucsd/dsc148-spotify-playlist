@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,744,010 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,744,029 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 90 | [Easy](https://open.spotify.com/track/58dSdjfEYNSxte1aNVxuNf) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Drive Slow](https://open.spotify.com/album/0qQKOuHPlCPKaNgeOh3ytH) | 5:14 |
 | 91 | [THINGS & SUCH](https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 3:57 |
 | 92 | [Have You Ever](https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:33 |
-| 93 | [So Sick](https://open.spotify.com/track/5203pcq3cNteJuOVhIEnt6) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6SUV4nzZobjuioos5VDUl7) | 3:27 |
-| 94 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 93 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 94 | [So Sick](https://open.spotify.com/track/5203pcq3cNteJuOVhIEnt6) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [In My Own Words](https://open.spotify.com/album/6SUV4nzZobjuioos5VDUl7) | 3:27 |
 | 95 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 96 | [WY@](https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WY@](https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd) | 3:28 |
 | 97 | [Make It](https://open.spotify.com/track/6dPjRptilDo0E3dLWm88QC) | [Aaron May](https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS) | [CHASE](https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa) | 1:17 |
-| 98 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 |
-| 99 | [Don't Hurt Yourself \(feat\. Jack White\)](https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:53 |
+| 98 | [Don't Hurt Yourself \(feat\. Jack White\)](https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:53 |
+| 99 | [Tell Me It's Over \(feat\. Summer Walker & 6LACK\)](https://open.spotify.com/track/2cue4DdCwO7himRLESpWk5) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Sincerely For You](https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze) | 4:41 |
 | 100 | [Missing You](https://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Open Letter](https://open.spotify.com/album/5nfFCN6B0AhReHctfLi1vL) | 4:44 |
 
 Snapshot ID: `Z0AP0AAAAADjNlyQ8TQxXcEOZUEvXvki`

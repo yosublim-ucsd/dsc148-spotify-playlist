@@ -2,9 +2,9 @@
 
 ### [Women of: Coke Studio Pakistan](https://open.spotify.com/playlist/37i9dQZF1DWZ6Old3hrPIh)
 
-> Presenting the queens of Coke Studio Pakistan\. Cover: Haniya Aslam
+> Presenting the queens of Coke Studio Pakistan\. Cover: Zeb Bangash, Noorima Rehan
 
-88 songs - 9 hr 47 min
+90 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Man Aamadeh Am](https://open.spotify.com/track/7pehqY4MpNJ2Zvs8ocavr3) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 8:58 | 2022-03-07 | 2023-12-09 |
 | [Man Aamadeh Am \- Coke Studio Season 8](https://open.spotify.com/track/5f9WiwgxW63K3qp1rqh3eZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Man Aamadeh Am \(Coke Studio Season 8\)](https://open.spotify.com/album/34HGhDM8pL5txbZh3XPUWG) | 8:58 | 2022-03-07 | 2024-04-19 |
 | [Manzil\-e\-Sufi](https://open.spotify.com/track/44Az6YaqJlqzt5CtW3OcJH) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 5:52 | 2022-03-07 |  |
+| [Mehmaan](https://open.spotify.com/track/0Rf3Vv9vgZrMgJd6egLYrQ) | [Zeb Bangash](https://open.spotify.com/artist/0QuAJhN4N4LgXtdU3yUS24), [Noorima Rehan](https://open.spotify.com/artist/29kMoXQCAKBsVOM9HeO5KY), [Nizam Torwali](https://open.spotify.com/artist/0su8mE6eq8ds8JdPipTfBx) | [Mehmaan](https://open.spotify.com/album/6J7sz4kdwoWvK1kfxjOqce) | 6:13 | 2024-12-03 |  |
 | [Mehram](https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mehram](https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq) | 5:38 | 2022-03-07 |  |
 | [Mein Sufi Hoon](https://open.spotify.com/track/0dhamF0vASy4g1gEpC1OKI) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 10:19 | 2022-03-07 |  |
 | [Mori Araj Suno](https://open.spotify.com/track/1WbMNqiGwIwVC6VJGmgutg) | [Tina Sani](https://open.spotify.com/artist/4sNVLsdQvZ6RI5Y3C6Yr3B), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 6:35 | 2022-03-07 |  |
@@ -93,6 +94,7 @@
 | [Tu Hi Tu \(Coke Studio Season 9\)](https://open.spotify.com/track/0gPumQ9U59BeHJRcprZu8S) | [Mehwish Hayat](https://open.spotify.com/artist/7qGq83yTjRoUuLuob12vv2), [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Tu Hi Tu \(Coke Studio Season 9\)](https://open.spotify.com/album/1d15YMZPAUwNSU5JhP0Pd4) | 5:26 | 2022-03-07 | 2024-04-19 |
 | [Tu Jhoom](https://open.spotify.com/track/0X5jMLCYWZjuXHRc1zp0G6) | [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl), [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a) | [Tu Jhoom](https://open.spotify.com/album/61yLyqdz6hdZiAHMk4Bxxi) | 6:37 | 2022-03-07 |  |
 | [Tu Jhoom](https://open.spotify.com/track/2xRtXbFAmk3cW6xE1zF7ye) | [Naseebo Lal](https://open.spotify.com/artist/4sAweKU7CjDZ1bUEb6VF6a), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Tu Jhoom](https://open.spotify.com/album/6VhS1BISA2PS23CmP0XH5M) | 6:37 | 2022-03-07 | 2024-04-19 |
+| [Turri Jandi](https://open.spotify.com/track/1gSqal5vT2GzXgDPMwMelX) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Turri Jandi](https://open.spotify.com/album/0sSqbyObhNcau4CMkqC8JU) | 4:26 | 2024-12-03 |  |
 | [Washmallay](https://open.spotify.com/track/7MnG9O1elO5CgovlcPFDha) | [Komal Rizvi](https://open.spotify.com/artist/4JEiuyNSHo0KbVS6sTFpL2), [Akhtar Chanal Zahri](https://open.spotify.com/artist/3ksxqQoPGgPNJOgUgJbYGm), [Momin Durrani](https://open.spotify.com/artist/0kEMc7jg4WgXyI0WleNP2i) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 6:14 | 2022-03-07 |  |
 | [Yaar Vekho](https://open.spotify.com/track/2JQ2KeB3lBw15QuuV5zvUy) | [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 7:35 | 2022-03-07 |  |
 | [Yo Soch](https://open.spotify.com/track/6S2GWSxMpcEnP3wDc0FdsY) | [Natasha Khan](https://open.spotify.com/artist/3K0jgiTmVYdfQxDd3qK5wg), [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 5:48 | 2022-03-07 |  |

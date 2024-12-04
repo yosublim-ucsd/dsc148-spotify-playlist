@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Sad songs 4 sad days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,235 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,758,240 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 15 | [lágrimas de un gangster](https://open.spotify.com/track/0PHcfYoUnQZIeSuppfeBmI) | [Guzmen](https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd) | [lágrimas de un gangster](https://open.spotify.com/album/0W1YP07FiQg36pSo407XV2) | 2:46 |
 | 16 | [REM](https://open.spotify.com/track/2rLHjGObK4sfhIatgR6l6h) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [REM](https://open.spotify.com/album/5fW2F8q05MQh5jxCYpVgTX) | 3:39 |
 | 17 | [ARRANCÁRMELO](https://open.spotify.com/track/2x8oBuYaObjqHqgGuIUZ0b) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [ARRANCÁRMELO](https://open.spotify.com/album/4KFUPud6oSm5IgLwnGkzPt) | 3:03 |
-| 18 | [tu fan](https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tu fan](https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx) | 4:00 |
-| 19 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 |
+| 18 | [MAMI 100PRE SABE \(INTERLUDE\)](https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:17 |
+| 19 | [tu fan](https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tu fan](https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx) | 4:00 |
 | 20 | [Mi Corazón](https://open.spotify.com/track/7vjG5IXd5ApgPTEVjo8zJu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Mi Corazón](https://open.spotify.com/album/5e8zaDNGYEs72yRCuPrr4w) | 2:44 |
 | 21 | [pa](https://open.spotify.com/track/490e7PHsxkzMot8qCO36Bt) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 3:10 |
 | 22 | [Última](https://open.spotify.com/track/3FEIMzqeq5EXqaMi3mHP6L) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 2:58 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 39 | [Viernes 13 V](https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [Viernes 13 V](https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6) | 3:40 |
 | 40 | [tus manias](https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [tus manias](https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T) | 3:19 |
 | 41 | [mi momento](https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [mi momento](https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo) | 2:10 |
-| 42 | [Todo de mí](https://open.spotify.com/track/2b7VXGHbb1jOHD5GmnxTGf) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Todo de mí](https://open.spotify.com/album/2JPlMayuOd6kvCYkGKjw1T) | 2:53 |
-| 43 | [Turbulencia](https://open.spotify.com/track/4t2Pqr2C1yRuvZ2YCLTVcx) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Música Buena Para Días Malos](https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG) | 3:49 |
+| 42 | [Turbulencia](https://open.spotify.com/track/4t2Pqr2C1yRuvZ2YCLTVcx) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Música Buena Para Días Malos](https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG) | 3:49 |
+| 43 | [Todo de mí](https://open.spotify.com/track/2b7VXGHbb1jOHD5GmnxTGf) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Todo de mí](https://open.spotify.com/album/2JPlMayuOd6kvCYkGKjw1T) | 2:53 |
 | 44 | [Gracias por Nada](https://open.spotify.com/track/1cNKHvYhFbaRfvcRuKLTeI) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Gracias por Nada](https://open.spotify.com/album/7GceIonKv0MVw9HUcHw6ra) | 2:03 |
-| 45 | [Tuvimos Futuro](https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tuvimos Futuro](https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k) | 3:31 |
-| 46 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
+| 45 | [Romancera](https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Romancera](https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9) | 3:52 |
+| 46 | [Tuvimos Futuro](https://open.spotify.com/track/4FmMQKqxmexvW18a8lQn6j) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tuvimos Futuro](https://open.spotify.com/album/5wGMOvmT8bEK3royUlJP7k) | 3:31 |
 | 47 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
 | 48 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
 | 49 | [Antes De Que Te Odie](https://open.spotify.com/track/33aidycdRsc82IF8yUFETD) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Antes De Que Te Odie](https://open.spotify.com/album/4kfxvAsWbppVMC6wkK4gd5) | 3:22 |

@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-738 songs - 2 day 0 hr 25 min
+739 songs - 2 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [blooming](https://open.spotify.com/track/6An8U3MjTePqA3kdpRKVt1) | [Rei Yasuda](https://open.spotify.com/artist/1diX6i4LgUKR9qMRrAeGLi) | [blooming](https://open.spotify.com/album/3pBafqCDpTd30E0j4Xuky6) | 3:26 | 2022-06-24 | 2022-07-04 |
 | [Boku no Sensou](https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [Boku no Sensou](https://open.spotify.com/album/1kA0xNfLOvk0eMeEM2M9tH) | 4:40 | 2022-07-28 | 2024-04-19 |
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-05-09 | 2024-04-19 |
-| [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 | 2022-06-03 |  |
+| [BOY](https://open.spotify.com/track/3oQaOjaIYPsnJbGNzXcIID) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [BOY](https://open.spotify.com/album/2uBF1lnflUJBHLGvg2rEyI) | 3:51 | 2022-06-03 | 2024-12-04 |
 | [Brand new diary](https://open.spotify.com/track/1NDpxm2rXBs9xCuKjcrknw) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Brand new diary / まほうのかぜ](https://open.spotify.com/album/3amd7Ciz9s1KIksBdoGXZB) | 4:08 | 2022-06-14 | 2022-07-26 |
 | [Break](https://open.spotify.com/track/4hWhNL4cLfhLrt4Un3pdMG) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Break](https://open.spotify.com/album/7heQ4Bz4LxGNSln7Z7uoPp) | 4:53 | 2022-06-21 | 2022-07-18 |
 | [Break out](https://open.spotify.com/track/7k4JoDf9XakuFA0S2xb10C) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Break out](https://open.spotify.com/album/6VVWb5rO9rST4OR4tvKml1) | 3:56 | 2022-06-14 | 2022-07-28 |
@@ -470,6 +470,7 @@
 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/4qfwXvY82pkSt6moeAguje) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0ZEIBhXeF4O5S6Ie3lbdS2) | 3:11 | 2022-06-03 | 2022-07-27 |
 | [サムライハート\(Some Like It Hot!!\)](https://open.spotify.com/track/5G0NPSOTLepHxUhEMlVjWj) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Rockin' the World](https://open.spotify.com/album/0qjPsfOiRvNZiek2McT7AE) | 3:11 | 2022-07-26 |  |
 | [シオン](https://open.spotify.com/track/26KOrgIIGuxWVmFJszeYJs) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [シオン](https://open.spotify.com/album/0t4lKfdG0ANs46z3GUEbm7) | 3:51 | 2022-06-03 | 2022-06-30 |
+| [シカ色デイズ](https://open.spotify.com/track/65DUeMw4riBUibAjktAnZD) | [鹿乃子のこ \(CV.潘めぐみ\)](https://open.spotify.com/artist/7Du39NxqFzjL8LmvlPJEAN), [虎視虎子 \(CV.藤田 咲\)](https://open.spotify.com/artist/6QiTCAQ2JAt94Q7YF9dQNd), [虎視餡子 \(CV.田辺留依\)](https://open.spotify.com/artist/7M7GeLY7h8g2URiwv93XsT), [馬車芽めめ \(CV.和泉風花\)](https://open.spotify.com/artist/73326vNByOtmvaXTJryL19) | [シカ色デイズ](https://open.spotify.com/album/2Hcqkag1iqVc1wAuoIC4gG) | 3:21 | 2024-12-03 |  |
 | [シュガーソングとビターステップ](https://open.spotify.com/track/6uR92injo4PDzSrOPRFfHt) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [UNISON SQUARE GARDEN The 1st Collection for streaming](https://open.spotify.com/album/6Rm9rTuxsvukGVowLHP93c) | 4:13 | 2022-06-03 | 2022-10-19 |
 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 | 2022-07-28 | 2024-04-19 |
 | [シルエット](https://open.spotify.com/track/3vWRsBKvOpj8iITRh8ERlZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/3MFXQmlK8U6Zwe3GjNSoxN) | 4:00 | 2022-06-03 | 2022-07-25 |

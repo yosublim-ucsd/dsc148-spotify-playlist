@@ -716,7 +716,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 108006,
       "name": "Berghain In Berlin (with SMACK)",
       "url": "https://open.spotify.com/track/1O7pI4ybNEMxp4LlHvs3Wt"
@@ -2528,6 +2528,24 @@
       "duration_ms": 139657,
       "name": "Flying",
       "url": "https://open.spotify.com/track/3az4vAsJLnsNlvj786xsIR"
+    },
+    {
+      "album": {
+        "name": "Forever Melancholia",
+        "url": "https://open.spotify.com/album/0NLu64aIKR51kJMn3RYdgs"
+      },
+      "artists": [
+        {
+          "name": "I Hate Models",
+          "url": "https://open.spotify.com/artist/0KqSULB80ft2H3aFg6kJmN"
+        }
+      ],
+      "date_added": "2024-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421559,
+      "name": "Forever Melancholia",
+      "url": "https://open.spotify.com/track/2oJMNBGXMZ5hXa0lqOQwIw"
     },
     {
       "album": {

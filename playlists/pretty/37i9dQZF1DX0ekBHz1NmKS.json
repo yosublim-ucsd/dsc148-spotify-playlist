@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195536,
+  "num_followers": 195530,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,26 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "900 dagar",
+        "url": "https://open.spotify.com/album/5uRIdQK5DafXJ05F6YFba8"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        },
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 218449,
+      "name": "Stenad i Stockholm",
+      "url": "https://open.spotify.com/track/70l1Y3ygctY6rMjzgVLTuB"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Forevers",
         "url": "https://open.spotify.com/album/28hLStD389vh57mwsDykXg"
       },
@@ -435,22 +455,6 @@
       "duration_ms": 285354,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/4kowdQBeEgQ6Ez23scHiIw"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Sv\u00e5rt att f\u00f6rl\u00e5ta",
-        "url": "https://open.spotify.com/album/5w1tBpgMghhcUHI25MUDe3"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 189393,
-      "name": "Sv\u00e5rt att f\u00f6rl\u00e5ta",
-      "url": "https://open.spotify.com/track/2YztAZvZvIGpeb0hT2vs7r"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -487,18 +491,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Hur ska jag sova inatt",
-        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
+        "name": "En kv\u00e4ll i tunnelbanan",
+        "url": "https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN"
       },
       "artists": [
         {
-          "name": "Norlie & KKV",
-          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
         }
       ],
-      "duration_ms": 161434,
-      "name": "Hur ska jag sova inatt",
-      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
+      "duration_ms": 184493,
+      "name": "En kv\u00e4ll i tunnelbanan",
+      "url": "https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -539,18 +543,34 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "En kv\u00e4ll i tunnelbanan",
-        "url": "https://open.spotify.com/album/6R8CSrc5lWRCyRT3WrOwjN"
+        "name": "Hur ska jag sova inatt",
+        "url": "https://open.spotify.com/album/7Lb2uA2vkXMu75VszwGXNh"
       },
       "artists": [
         {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+          "name": "Norlie & KKV",
+          "url": "https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk"
         }
       ],
-      "duration_ms": 184493,
-      "name": "En kv\u00e4ll i tunnelbanan",
-      "url": "https://open.spotify.com/track/1mSgfztYJukhiOgel6BTQS"
+      "duration_ms": 161434,
+      "name": "Hur ska jag sova inatt",
+      "url": "https://open.spotify.com/track/23pO9ZdhArX2NTfoxfy0bU"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Sv\u00e5rt att f\u00f6rl\u00e5ta",
+        "url": "https://open.spotify.com/album/5w1tBpgMghhcUHI25MUDe3"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 189393,
+      "name": "Sv\u00e5rt att f\u00f6rl\u00e5ta",
+      "url": "https://open.spotify.com/track/2YztAZvZvIGpeb0hT2vs7r"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -571,8 +591,8 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Efter efterfesten",
-        "url": "https://open.spotify.com/album/0qb9fiPyMUDdTB5UmRhUpd"
+        "name": "Duktig flicka",
+        "url": "https://open.spotify.com/album/7shSAZOh7CFRhNZs2MNLq7"
       },
       "artists": [
         {
@@ -580,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
         }
       ],
-      "duration_ms": 203280,
-      "name": "Efter efterfesten",
-      "url": "https://open.spotify.com/track/4vpHmKY5BDiS5U7GDUGwEE"
+      "duration_ms": 184465,
+      "name": "Duktig flicka",
+      "url": "https://open.spotify.com/track/1xMUDBB8ZkfI9kQBzrE0eP"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -607,26 +627,6 @@
       "duration_ms": 159803,
       "name": "Passivt aggressiv inkomst",
       "url": "https://open.spotify.com/track/4CikimfNXdaOfdZdeSUZEN"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "900 dagar",
-        "url": "https://open.spotify.com/album/5uRIdQK5DafXJ05F6YFba8"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        },
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 218449,
-      "name": "Stenad i Stockholm",
-      "url": "https://open.spotify.com/track/70l1Y3ygctY6rMjzgVLTuB"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Duktig flicka",
-        "url": "https://open.spotify.com/album/7shSAZOh7CFRhNZs2MNLq7"
-      },
-      "artists": [
-        {
-          "name": "estraden",
-          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
-        }
-      ],
-      "duration_ms": 184465,
-      "name": "Duktig flicka",
-      "url": "https://open.spotify.com/track/1xMUDBB8ZkfI9kQBzrE0eP"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "kort & kall",
         "url": "https://open.spotify.com/album/3pr7T4bj8g7aYTR6K6SJ4f"
       },
@@ -723,6 +707,38 @@
       "duration_ms": 189295,
       "name": "kort & kall",
       "url": "https://open.spotify.com/track/2I0UzNqQKk6EBg7oLhgcGC"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Efter efterfesten",
+        "url": "https://open.spotify.com/album/0qb9fiPyMUDdTB5UmRhUpd"
+      },
+      "artists": [
+        {
+          "name": "estraden",
+          "url": "https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao"
+        }
+      ],
+      "duration_ms": 203280,
+      "name": "Efter efterfesten",
+      "url": "https://open.spotify.com/track/4vpHmKY5BDiS5U7GDUGwEE"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "D\u00e5 \u00e4r det inte jag",
+        "url": "https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 207532,
+      "name": "D\u00e5 \u00e4r det inte jag",
+      "url": "https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -755,22 +771,6 @@
       "duration_ms": 151400,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1oJXyOgHH1qZGpgsODvt69"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "D\u00e5 \u00e4r det inte jag",
-        "url": "https://open.spotify.com/album/3nMJBk6Ecg0LYQrQNNweCV"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 207532,
-      "name": "D\u00e5 \u00e4r det inte jag",
-      "url": "https://open.spotify.com/track/5TJDYmJPrDF82JUYvxXYwC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
+        "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
+      },
+      "artists": [
+        {
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "Aldrig igen (Abandon)",
+      "url": "https://open.spotify.com/track/3JxqTgw4qnvWvOj4FfR7XY"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Nyper mig i armen",
         "url": "https://open.spotify.com/album/464ROmnFOPiaEp2UbKRk09"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 195000,
       "name": "Nyper mig i armen",
       "url": "https://open.spotify.com/track/2ZyaNqLNxfJcCacEb9jVoT"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 \u2013 Tolkningarna",
-        "url": "https://open.spotify.com/album/1X1iav9zPw3e550HJ0B98C"
-      },
-      "artists": [
-        {
-          "name": "Kerstin Ljungstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "Aldrig igen (Abandon)",
-      "url": "https://open.spotify.com/track/3JxqTgw4qnvWvOj4FfR7XY"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Dancing On Dynamite",
+        "url": "https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 162329,
+      "name": "Dancing On Dynamite",
+      "url": "https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "L\u00e4tt",
         "url": "https://open.spotify.com/album/7nPeiml6nLN9Sm6l5DJ56t"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 183054,
       "name": "Zoey",
       "url": "https://open.spotify.com/track/1gwPACfYbsG7CTLqJdBGUf"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Dancing On Dynamite",
-        "url": "https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 162329,
-      "name": "Dancing On Dynamite",
-      "url": "https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Persienner",
-        "url": "https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp"
-      },
-      "artists": [
-        {
-          "name": "FILIPPA",
-          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Persienner",
-      "url": "https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Where Flowers Grow",
         "url": "https://open.spotify.com/album/0pO91Y2mnXavXzOjuJfSdm"
       },
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Persienner",
+        "url": "https://open.spotify.com/album/6u4qwlUZYZlcMP8C85vpGp"
+      },
+      "artists": [
+        {
+          "name": "FILIPPA",
+          "url": "https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Persienner",
+      "url": "https://open.spotify.com/track/7EGGNKZu6kvI683xoZjsIx"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Desperate Guy",
         "url": "https://open.spotify.com/album/0s0Xkv0CveetgYMQDMaPA9"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Driver dagg faller regn",
-        "url": "https://open.spotify.com/album/79XqkwbMx2FEIrSb9keJ9N"
-      },
-      "artists": [
-        {
-          "name": "Simon Superti",
-          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Driver dagg faller regn",
-      "url": "https://open.spotify.com/track/7sr9OAMBkVp90D17mgzkuN"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Hurts",
         "url": "https://open.spotify.com/album/5IOqqWOexv2cN7WgvvsTb6"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 200655,
       "name": "Hurts",
       "url": "https://open.spotify.com/track/1FC6v0t5RPtdLRCmRXpHSC"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Driver dagg faller regn",
+        "url": "https://open.spotify.com/album/79XqkwbMx2FEIrSb9keJ9N"
+      },
+      "artists": [
+        {
+          "name": "Simon Superti",
+          "url": "https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES"
+        }
+      ],
+      "duration_ms": 227666,
+      "name": "Driver dagg faller regn",
+      "url": "https://open.spotify.com/track/7sr9OAMBkVp90D17mgzkuN"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Blue Ruin",
+      "url": "https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Vita Boots",
         "url": "https://open.spotify.com/album/5lLze5NZIcCrP95UZarcZ4"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 209866,
       "name": "L\u00e4ngtan Bor I Mina Steg",
       "url": "https://open.spotify.com/track/3IpklZ9RHOaCtchJDtnP5u"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/3LqoZQyA47i5Uds9QYkYBW"
-      },
-      "artists": [
-        {
-          "name": "Say Lou Lou",
-          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "Blue Ruin",
-      "url": "https://open.spotify.com/track/2drUJuTGdbYofkSkPHjefC"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Anymore",
-        "url": "https://open.spotify.com/album/0ZOLG8MyLqmC3YriQ14my6"
-      },
-      "artists": [
-        {
-          "name": "Becky and the Birds",
-          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/3K24ijM6H0WiL8mdwNzpib"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "F\u00f6rl\u00e5t",
         "url": "https://open.spotify.com/album/5YtfqDGtXxZ8nJpqkEGO9y"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 166869,
       "name": "F\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/4TBV7jI6skfgRRHsXtbNn6"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/0ZOLG8MyLqmC3YriQ14my6"
+      },
+      "artists": [
+        {
+          "name": "Becky and the Birds",
+          "url": "https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/3K24ijM6H0WiL8mdwNzpib"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Truls M\u00f6reg\u00e5rdh",
-        "url": "https://open.spotify.com/album/5e6k8Q3Inr5F0ZK3O7WwsM"
-      },
-      "artists": [
-        {
-          "name": "Henric Edstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
-        }
-      ],
-      "duration_ms": 147176,
-      "name": "Truls M\u00f6reg\u00e5rdh",
-      "url": "https://open.spotify.com/track/5Qn15a2y5kiUMbybqJcoGB"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "A Chosen Family",
         "url": "https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 235392,
       "name": "I Let the Good Ones Go",
       "url": "https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Truls M\u00f6reg\u00e5rdh",
+        "url": "https://open.spotify.com/album/5e6k8Q3Inr5F0ZK3O7WwsM"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        }
+      ],
+      "duration_ms": 147176,
+      "name": "Truls M\u00f6reg\u00e5rdh",
+      "url": "https://open.spotify.com/track/5Qn15a2y5kiUMbybqJcoGB"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Vad Dom Sa",
-        "url": "https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe"
-      },
-      "artists": [
-        {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
-        }
-      ],
-      "duration_ms": 167225,
-      "name": "Vad Dom Sa",
-      "url": "https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
         "name": "Stay Young",
         "url": "https://open.spotify.com/album/3ClO0kTio3jxicICq3gQ79"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 195954,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
+        "name": "Vad Dom Sa",
+        "url": "https://open.spotify.com/album/2GXmmJ3Pa4263uiMUGVSJe"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 167225,
+      "name": "Vad Dom Sa",
+      "url": "https://open.spotify.com/track/1g1YkPsarGn8O0XaUqKJkf"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "SANNINGEN SVIDER",
+        "url": "https://open.spotify.com/album/6BoTdKPbMgyVNAbBAfw7Kz"
+      },
+      "artists": [
+        {
+          "name": "LKN",
+          "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
+        }
+      ],
+      "duration_ms": 196022,
+      "name": "SANNINGEN SVIDER",
+      "url": "https://open.spotify.com/track/0yVA82YrlsFKXIuIHJhtEk"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "Pl\u00e5ster",
         "url": "https://open.spotify.com/album/17jtloQfhJTTH4TPNCZqYm"
       },
@@ -1815,22 +1831,6 @@
       "duration_ms": 213753,
       "name": "Pl\u00e5ster",
       "url": "https://open.spotify.com/track/28mHIP5U49PBHBHr6n9tBt"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "SANNINGEN SVIDER",
-        "url": "https://open.spotify.com/album/6BoTdKPbMgyVNAbBAfw7Kz"
-      },
-      "artists": [
-        {
-          "name": "LKN",
-          "url": "https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud"
-        }
-      ],
-      "duration_ms": 196022,
-      "name": "SANNINGEN SVIDER",
-      "url": "https://open.spotify.com/track/0yVA82YrlsFKXIuIHJhtEk"
     }
   ],
   "unique_name": "Made in Sweden",

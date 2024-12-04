@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAC+sgrFd3GBckLIaYPvH7xR",
+  "snapshot_id": "Z0z4gAAAAAC1QqjbLDlMHS6yp4bcQLvs",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 151053,
+      "name": "same squad",
+      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Lose Your Head",
         "url": "https://open.spotify.com/album/6LpAG5njnQXVbHfakYlHrI"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 161250,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/4QMCkz3JSWOEl7jRsDWlWP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 151053,
-      "name": "same squad",
-      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Hunnids (feat. P-Lo) - Single",
-        "url": "https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Blue Hunnids",
-      "url": "https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stone Cold",
         "url": "https://open.spotify.com/album/7GWiqdhbq7uAl33KYuMr7f"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 202387,
       "name": "Too Faded",
       "url": "https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Hunnids (feat. P-Lo) - Single",
+        "url": "https://open.spotify.com/album/5PYpthagjwOjL17AqVxbKq"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Blue Hunnids",
+      "url": "https://open.spotify.com/track/2BFeLCEDQBecReNuLbOHoQ"
     },
     {
       "added_at": null,
@@ -779,30 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
-      },
-      "artists": [
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Iamsu!",
-          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
-        }
-      ],
-      "duration_ms": 205480,
-      "name": "On One",
-      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Wonderful, Horrible Life",
         "url": "https://open.spotify.com/album/46U6rPJZ6KgSA0vxfk4LjR"
       },
@@ -823,6 +799,30 @@
       "duration_ms": 168342,
       "name": "Vomit",
       "url": "https://open.spotify.com/track/1JV0Y3sDRssmKgWuCwL0qW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        }
+      ],
+      "duration_ms": 205480,
+      "name": "On One",
+      "url": "https://open.spotify.com/track/1Ge1bt4DDLMxEE1hcMh5Ar"
     },
     {
       "added_at": null,
@@ -1019,22 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHINE",
-        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 139041,
-      "name": "Type Beat",
-      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Caught In The Funk",
         "url": "https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 120153,
       "name": "Hotel Lobby",
       "url": "https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHINE",
+        "url": "https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 139041,
+      "name": "Type Beat",
+      "url": "https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR"
     },
     {
       "added_at": null,
@@ -1131,8 +1131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+        "name": "Talkin Bout",
+        "url": "https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 158693,
-      "name": "Lightswitch",
-      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
+      "duration_ms": 117841,
+      "name": "Talkin Bout",
+      "url": "https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO"
     }
   ],
   "unique_name": "This Is P-Lo",

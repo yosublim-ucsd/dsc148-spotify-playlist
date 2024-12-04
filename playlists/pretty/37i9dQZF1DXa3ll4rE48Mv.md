@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 
 > The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,438 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,470 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 26 | [Full Metal Black](https://open.spotify.com/track/2MQsDtg1jb4qI5OcurHMI0) | [The Royal They](https://open.spotify.com/artist/6PScjU4Y5AJ8EZp2aW4TA2) | [The Royal They](https://open.spotify.com/album/4oJvLQk4aJ8feombYas5YH) | 3:03 |
 | 27 | [So\-Called Str8 Grrrl](https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L) | [Gina Young](https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn) | [Intractable](https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J) | 2:04 |
 | 28 | [Total 90](https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [Total 90](https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj) | 2:43 |
-| 29 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
-| 30 | [She's so Lovely](https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp) | [The Butchies](https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9) | [Make Yr Life](https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ) | 3:22 |
+| 29 | [She's so Lovely](https://open.spotify.com/track/4GP9tCJKmYD8maZqiFNdzp) | [The Butchies](https://open.spotify.com/artist/0P0f0x8UquMimAjIKGPaB9) | [Make Yr Life](https://open.spotify.com/album/1cToLlfIfMju4zS9TXS0RZ) | 3:22 |
+| 30 | [Rev Your Motor](https://open.spotify.com/track/6VNNakpjSH8LNBX7fSGhUv) | [Dog Park Dissidents](https://open.spotify.com/artist/3n7gyeQTlIwleoJFpOIMFp) | [High Risk Homosexual Behavior](https://open.spotify.com/album/6uTcZlIYH8rpuk5wlvPR3C) | 2:19 |
 | 31 | [In Birth](https://open.spotify.com/track/7wOxLKY5IPuK5bpCO4QY7p) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [In Birth](https://open.spotify.com/album/1OAxny9o7MDCz7oZTVfLAV) | 2:56 |
 | 32 | [Wrong Bathroom](https://open.spotify.com/track/2rxPRLVeFZOuBhaNnwHKDS) | [Tribe 8](https://open.spotify.com/artist/36XvuDzOGosIiNn9WC6snn) | [Snarkism](https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP) | 2:55 |
 | 33 | [SuperNatural Possession](https://open.spotify.com/track/5NjfRU0JaR3TjNGU2kOubc) | [Laura Jane Grace](https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9) | [Stay Alive](https://open.spotify.com/album/2f9isupAl4hlTTYbst9bFh) | 2:04 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 51 | [Miranda](https://open.spotify.com/track/7JuocCvYUBbC0X1bZj6guM) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Miranda](https://open.spotify.com/album/7M5VeWYg64LLnKe5yvVDo2) | 4:00 |
 | 52 | [Queer For You](https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa) | [The Degenerettes](https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z) | [Bad Girls Go to Hell](https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp) | 2:08 |
 | 53 | [Jillian](https://open.spotify.com/track/0lhxZB33L7xpd0HzlpEyBa) | [Dream Nails](https://open.spotify.com/artist/49xQzRRO1vI3fmCdbPTwBB) | [Dream Nails](https://open.spotify.com/album/6QXxOZNDngKIYagFOLC9uc) | 2:39 |
-| 54 | [Dream Partner](https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3) | [Wolf Girl](https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX) | [Every Now and Then](https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt) | 2:34 |
-| 55 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
+| 54 | [Woodchuck](https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Egg on Face\. Foot in Mouth\. Wriggling Wriggling Wriggling.](https://open.spotify.com/album/26WIpPiL8DGHgdZ0xQR4sC) | 2:33 |
+| 55 | [Dream Partner](https://open.spotify.com/track/0vfeQ9IraM3uOTy4dOssi3) | [Wolf Girl](https://open.spotify.com/artist/65fBgVWHUF13eh71KQQsxX) | [Every Now and Then](https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt) | 2:34 |
 | 56 | [Unclear](https://open.spotify.com/track/4CfTJJC1Aku6YOmKmMc4gf) | [Forrest Flowers](https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8) | [Dumpster Diving](https://open.spotify.com/album/3fAul5QlrJzaynv29yPDy7) | 6:34 |
 | 57 | [Down](https://open.spotify.com/track/2siNyitsnycrIp7aqUTgQp) | [Thelma and the Sleaze](https://open.spotify.com/artist/03VfdeLg04zHr8nmQ2rQ57) | [Fuck, Marry, Kill](https://open.spotify.com/album/7f81vcqMiOQYo2p1L2qEQT) | 4:12 |
 | 58 | [Colors](https://open.spotify.com/track/1CIVKxQTjN9Ed0woZbzx2z) | [The Groans](https://open.spotify.com/artist/4jhD0dxLgux1cB7BN16PlT) | [Earth Dweller](https://open.spotify.com/album/5jQdPuwpQCFCO0fltbBB63) | 3:49 |
@@ -82,9 +82,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3ll4rE48Mv.md) - [plain]
 | 72 | [Peeling Off the Rind](https://open.spotify.com/track/0yafbfp4DMrGTnntAtkJFi) | [Kermes](https://open.spotify.com/artist/6Hnr7L6eznEjLMxCsIlynH) | [Peeling Off the Rind // Terms](https://open.spotify.com/album/2GMkpNFzUeNcjteXnvlke9) | 2:14 |
 | 73 | [Standing In the Way of Control](https://open.spotify.com/track/0hd4rC19ldUBmabhSHxiwS) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Standing in the Way of Control](https://open.spotify.com/album/7kT3bu386sQNmb8C6GS1Dr) | 4:16 |
 | 74 | [Fences](https://open.spotify.com/track/1xFzQ7lZeNZkaXeozVWb79) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Fences](https://open.spotify.com/album/2V3FIz7zBjKGsSLdV7ixXj) | 3:58 |
-| 75 | [Wet](https://open.spotify.com/track/1pMEVQiiBtlhBjRxOVqVVH) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 2:50 |
-| 76 | [I Hate the Weekend](https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/4vwTDSKpekqB7fEKvifutT) | 2:05 |
-| 77 | [Damage](https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk) | 3:07 |
+| 75 | [Damage](https://open.spotify.com/track/5jNBQ9iqlXV2i14gA45tOZ) | [Fit For Rivals](https://open.spotify.com/artist/2AuJkUSFBFWiOYksacuUlV) | [Steady Damage](https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk) | 3:07 |
+| 76 | [Wet](https://open.spotify.com/track/1pMEVQiiBtlhBjRxOVqVVH) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/4o2UhvIIalZ00nvHyk2nEz) | 2:50 |
+| 77 | [I Hate the Weekend](https://open.spotify.com/track/7M1Wssdqgsl8CHFedtehTb) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [Lost Time](https://open.spotify.com/album/4vwTDSKpekqB7fEKvifutT) | 2:05 |
 | 78 | [Bird in Space](https://open.spotify.com/track/57sXlIGCFje38cFfqU9INa) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [All at Once](https://open.spotify.com/album/1fOxg0lovMu0CPUT2G1WCL) | 4:51 |
 | 79 | [They / Them / Theirs](https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Imaginary Life](https://open.spotify.com/album/4Yb6CXNP2OjaRvPHLNVZfr) | 2:18 |
 | 80 | [Eden on Acid](https://open.spotify.com/track/1RNfuLU3uGrhUDitaQ0AW8) | [Tokky Horror](https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp) | [I Found the Answers and Now I Want More](https://open.spotify.com/album/0tDPveQFHjPpuSTYaOP9Cl) | 1:26 |

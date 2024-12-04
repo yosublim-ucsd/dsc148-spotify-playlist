@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 144746,
+  "num_followers": 144797,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
+        "name": "Karyn White",
+        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
+      },
+      "artists": [
+        {
+          "name": "Karyn White",
+          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
-        "name": "Karyn White",
-        "url": "https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F"
-      },
-      "artists": [
-        {
-          "name": "Karyn White",
-          "url": "https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Superwoman",
-      "url": "https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "You've Got It Bad Girl",
         "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 244440,
       "name": "Summer In The City",
       "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 177626,
-      "name": "Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
-    },
-    {
-      "added_at": "2024-07-09 17:06:54",
-      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
@@ -703,18 +687,18 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "In A Special Way",
-        "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
       },
       "artists": [
         {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 225573,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
+      "duration_ms": 177626,
+      "name": "Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -735,22 +719,18 @@
     {
       "added_at": "2024-07-09 17:06:54",
       "album": {
-        "name": "Silky Soul",
-        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
+        "name": "In A Special Way",
+        "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
       },
       "artists": [
         {
-          "name": "Maze",
-          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
-        },
-        {
-          "name": "Frankie Beverly",
-          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
         }
       ],
-      "duration_ms": 317026,
-      "name": "Can't Get over You",
-      "url": "https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM"
+      "duration_ms": 225573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -767,6 +747,26 @@
       "duration_ms": 153600,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
+    },
+    {
+      "added_at": "2024-07-09 17:06:54",
+      "album": {
+        "name": "Silky Soul",
+        "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
+      },
+      "artists": [
+        {
+          "name": "Maze",
+          "url": "https://open.spotify.com/artist/3DvdryKH4O95ZnsUZJKXpt"
+        },
+        {
+          "name": "Frankie Beverly",
+          "url": "https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n"
+        }
+      ],
+      "duration_ms": 317026,
+      "name": "Can't Get over You",
+      "url": "https://open.spotify.com/track/0JoU0lwoMyWxGkljNJpJoM"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1468,9 +1468,9 @@
           "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 300133,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
+      "duration_ms": 291106,
+      "name": "Me d\u00ea motivos",
+      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
     },
     {
       "added_at": "2024-07-09 17:06:54",
@@ -1584,9 +1584,9 @@
           "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 291106,
-      "name": "Me d\u00ea motivos",
-      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
+      "duration_ms": 300133,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
     },
     {
       "added_at": "2024-07-09 17:06:54",

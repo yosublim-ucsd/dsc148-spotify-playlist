@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 128981,
+  "num_followers": 129050,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Colombia Y Su Folclor Vol I",
-        "url": "https://open.spotify.com/album/03po8Hle2xYu7QWTArhQqa"
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Cristian y sus infieles",
+          "url": "https://open.spotify.com/artist/2e4zJq3F0jFTLJZ3buzGIb"
         }
       ],
-      "duration_ms": 270602,
-      "name": "Mi Primer Amor",
-      "url": "https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw"
+      "duration_ms": 317785,
+      "name": "Ense\u00f1ame a olvidar",
+      "url": "https://open.spotify.com/track/39Y8X0d5PZ6st301nUp1sC"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "Colombia Y Su Folclor Vol I",
+        "url": "https://open.spotify.com/album/03po8Hle2xYu7QWTArhQqa"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "duration_ms": 270602,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/0AUvqI8gBOxFN3ZxA3SScw"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 316279,
       "name": "Dime que me quieres",
       "url": "https://open.spotify.com/track/44LHIHaC3UrhSt0KuYAfIR"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Grandes Hits - Los Chiches Vallenatos",
-        "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos, Osmar Perez",
-          "url": "https://open.spotify.com/artist/2LBpR8wVcXvZeGm9soEfWk"
-        }
-      ],
-      "duration_ms": 257642,
-      "name": "Muchacha Encantadora",
-      "url": "https://open.spotify.com/track/1OyzfeMIehp64SBzyKHNZ8"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
+        "name": "Grandes Hits - Los Chiches Vallenatos",
+        "url": "https://open.spotify.com/album/3Qe48E9iOz23ranA7IlWgx"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos, Osmar Perez",
+          "url": "https://open.spotify.com/artist/2LBpR8wVcXvZeGm9soEfWk"
+        }
+      ],
+      "duration_ms": 257642,
+      "name": "Muchacha Encantadora",
+      "url": "https://open.spotify.com/track/1OyzfeMIehp64SBzyKHNZ8"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
         "name": "Nace Del Alma",
         "url": "https://open.spotify.com/album/5zkLDGfwYl6i5v0WQxp6po"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 285640,
       "name": "Una Hoja En Blanco",
       "url": "https://open.spotify.com/track/0LfnaW1b5ZumdsjVbJf5YK"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "El Binomio De Oro",
-        "url": "https://open.spotify.com/album/1X1LGijx37DJAkcwpV2iUv"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "La Creciente",
-      "url": "https://open.spotify.com/track/0ygLXSi4wzDsJNBUTGezsg"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

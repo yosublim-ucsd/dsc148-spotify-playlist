@@ -72,7 +72,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 145161,
       "name": "A Little Bit More",
       "url": "https://open.spotify.com/track/33bAyg26EB6VbKt6K1p1xd"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 144960,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/0D5rx7pURavcGEx9ZryKgQ"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 156220,
       "name": "Big Emotion",
       "url": "https://open.spotify.com/track/2yXpN0Rz2KTny9J5BxwYFz"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 156093,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/5WzW9TJyM9crru0ATLE1tm"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 170039,
       "name": "Chances",
       "url": "https://open.spotify.com/track/0mVLuJBvxToIMCU0CrpO08"
@@ -512,6 +512,32 @@
       "duration_ms": 163399,
       "name": "Chills (Feel My Love)",
       "url": "https://open.spotify.com/track/0jjE8w7Rtu3NCImWhKKX8x"
+    },
+    {
+      "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145968,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M"
     },
     {
       "album": {
@@ -643,6 +669,32 @@
     },
     {
       "album": {
+        "name": "Cross Your Heart",
+        "url": "https://open.spotify.com/album/5MaPvkxRrsE9HhrRBacY1l"
+      },
+      "artists": [
+        {
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144496,
+      "name": "Cross Your Heart",
+      "url": "https://open.spotify.com/track/1LzbKvuwOGpiau7B5nRdfK"
+    },
+    {
+      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/59VYHr4qf3xQbc8giaxAoM"
       },
@@ -702,7 +754,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 186666,
       "name": "Dancing All Alone",
       "url": "https://open.spotify.com/track/6ggwvlAw6i9FSD4b7CumON"
@@ -1072,7 +1124,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 149571,
       "name": "Every Single Time (I Look At You)",
       "url": "https://open.spotify.com/track/4BvdEc7bbkV6b1rTA0JVy5"
@@ -1542,10 +1594,36 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 188571,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1zP0wFb7dIXVe4VbBynOqk"
+    },
+    {
+      "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/3pxCU10ON1fpHhrtzpmGHl"
+      },
+      "artists": [
+        {
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
+        },
+        {
+          "name": "Klangkarussell",
+          "url": "https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127280,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/0kXPycOtpXRjNu6ckJQNZC"
     },
     {
       "album": {
@@ -1851,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Lifted",
+        "url": "https://open.spotify.com/album/0IqYzpvrq2ptT6HDEPwrbF"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159411,
+      "name": "Lifted",
+      "url": "https://open.spotify.com/track/7stoqVp7FS8Q8g26UCQZX9"
+    },
+    {
+      "album": {
         "name": "Lights Out",
         "url": "https://open.spotify.com/album/6Y7JwDOKKOZPjvcLVQxoDc"
       },
@@ -1958,7 +2054,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 133125,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/0PZBPYPRjj5ZEYUYeoFbWJ"
@@ -1988,6 +2084,28 @@
       "duration_ms": 153683,
       "name": "Lonely Days",
       "url": "https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6"
+    },
+    {
+      "album": {
+        "name": "Lonely Heart",
+        "url": "https://open.spotify.com/album/1r5dyhOBbZbiu8zs3AhVsH"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "John Alto",
+          "url": "https://open.spotify.com/artist/0Xff4zAFYF0bHwnkSMlHCj"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "Lonely Heart",
+      "url": "https://open.spotify.com/track/3yWFV3cSt4w2R6btVPcc6T"
     },
     {
       "album": {
@@ -2380,7 +2498,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 150967,
       "name": "No Air",
       "url": "https://open.spotify.com/track/6uFFIOeXnKL0fL29ZjiaSH"
@@ -2442,7 +2560,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 180000,
       "name": "Nothing In Common",
       "url": "https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR"
@@ -2828,6 +2946,28 @@
     {
       "album": {
         "name": "Rapture",
+        "url": "https://open.spotify.com/album/1z9rsEaIX1EYe1pCm1deI5"
+      },
+      "artists": [
+        {
+          "name": "Lost Prince",
+          "url": "https://open.spotify.com/artist/23kzag3jmFxPLJbXO4g3VG"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175412,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/3xK9hax6AkCew9ZiFvoe61"
+    },
+    {
+      "album": {
+        "name": "Rapture",
         "url": "https://open.spotify.com/album/5ztoSLLT7MGaSs1GMAtkUg"
       },
       "artists": [
@@ -2945,6 +3085,28 @@
     },
     {
       "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4UTHlrVzquErmNkkVfI1MM"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "SUPERSTRINGS",
+          "url": "https://open.spotify.com/artist/0WDwBVGmUjf7eJUKDpecYz"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219611,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/2Hnr9PJk0eHCIupm3o198W"
+    },
+    {
+      "album": {
         "name": "Renegade Master",
         "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
       },
@@ -3034,6 +3196,28 @@
       "duration_ms": 137419,
       "name": "Rock My Body",
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+    },
+    {
+      "album": {
+        "name": "Another Touch",
+        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170875,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5dievmIbYB9iazzRM2qgEn"
     },
     {
       "album": {
@@ -3288,7 +3472,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 148124,
       "name": "Something Like This",
       "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
@@ -3398,7 +3582,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 142200,
       "name": "Take Me Higher",
       "url": "https://open.spotify.com/track/67XJUKj8k8hKyjjn0sG8xA"
@@ -3472,7 +3656,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 161658,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/6doL1BRkcTJtCTrdT2fKkV"
@@ -3512,7 +3696,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 206410,
       "name": "The Switch",
       "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
@@ -3812,7 +3996,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 168867,
       "name": "What We Know (feat. Conor Byrne)",
       "url": "https://open.spotify.com/track/0qODLyd99ldgvBHMVsScye"
@@ -4058,7 +4242,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 165804,
       "name": "You",
       "url": "https://open.spotify.com/track/0k4IrHcS8tMOzgOaufCl1A"
@@ -4084,7 +4268,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 188809,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/3hhFeE9rlu4PKo1uSVQYBb"

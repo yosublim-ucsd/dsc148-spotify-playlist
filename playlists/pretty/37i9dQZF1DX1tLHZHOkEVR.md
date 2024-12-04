@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 
 > Floor fillers to soundtrack the happiest day of your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,983 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,032 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 25 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 26 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
 | 27 | [Angels](https://open.spotify.com/track/1M2nd8jNUkkwrc1dgBPTJz) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:25 |
-| 28 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
-| 29 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
-| 30 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
+| 28 | [I'm a Believer \- 2006 Remaster](https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2) | [The Monkees](https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck) | [More of The Monkees \(Deluxe Edition\)](https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX) | 2:47 |
+| 29 | [This Will Be \(An Everlasting Love\)](https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Inseparable](https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx) | 2:51 |
+| 30 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 31 | [California Gurls](https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:54 |
 | 32 | [Kiss](https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Parade \- Music from the Motion Picture Under the Cherry Moon](https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB) | 3:46 |
 | 33 | [I'm Gonna Be \(500 Miles\)](https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs) | [The Proclaimers](https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i) | [Sunshine on Leith](https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ) | 3:39 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 93 | [Rolling in the Deep](https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 3:48 |
 | 94 | [Livin' On A Prayer](https://open.spotify.com/track/2tyW1uBUnYMKAFEfKDKi9B) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1) | 4:10 |
 | 95 | [Everywhere](https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:42 |
-| 96 | [You Got The Love \- New Voyager Radio Edit](https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX) | [The Source](https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [You Got the Love](https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB) | 3:13 |
-| 97 | [Stayin' Alive \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:45 |
-| 98 | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic) | 4:44 |
+| 96 | [Stayin' Alive \- 2007 Remastered Version Saturday Night Fever](https://open.spotify.com/track/5cP52DlDN9yryuZVQDg3iq) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Saturday Night Fever \[The Original Movie Soundtrack\]](https://open.spotify.com/album/0taUwU7qjtc9lvwmd7FKac) | 4:45 |
+| 97 | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic) | 4:44 |
+| 98 | [You Got The Love \- New Voyager Radio Edit](https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX) | [The Source](https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [You Got the Love](https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB) | 3:13 |
 | 99 | [Let's Dance \- 1999 Remaster](https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 7:37 |
 | 100 | [I'm Coming Out](https://open.spotify.com/track/0ew27xRdxSexrWbODuLfeE) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls) | 5:25 |
 

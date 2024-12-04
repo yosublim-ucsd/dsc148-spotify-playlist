@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Leo e Matheus",
-  "num_followers": 473843,
+  "num_followers": 473856,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -48,12 +48,12 @@
       },
       "artists": [
         {
-          "name": "MVP Hits",
-          "url": "https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi"
-        },
-        {
           "name": "Thauane",
           "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        },
+        {
+          "name": "MVP Hits",
+          "url": "https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi"
         }
       ],
       "duration_ms": 160752,

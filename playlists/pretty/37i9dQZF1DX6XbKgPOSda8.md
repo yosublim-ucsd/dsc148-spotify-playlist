@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,483 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,550 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 37 | [Cañita Cañaveral](https://open.spotify.com/track/0yn0pxR5KRY2vIY2cZ7nbd) | [Grupo Saya](https://open.spotify.com/artist/2T6hbG0qQTyZglPgH7UEMP) | [Sus Mejores Exitos](https://open.spotify.com/album/7wZn8Eko5bz1vSx1zYMPJD) | 3:15 |
 | 38 | [La Pobreza \- Rebajada](https://open.spotify.com/track/57ix5CIFlMvpCbyfaUDWkt) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 2:46 |
 | 39 | [Cumbia De Los Estados](https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia \- Auténticos Embajadores De La Cumbia](https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg) | 4:01 |
-| 40 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 |
-| 41 | [No Voy A Llorar](https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Folklore Tropical](https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq) | 4:43 |
+| 40 | [No Voy A Llorar](https://open.spotify.com/track/2hlpyDeBu0KnJHv5dqHvgh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Folklore Tropical](https://open.spotify.com/album/3U8KQJKMc4G13gGkVYgDRq) | 4:43 |
+| 41 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 |
 | 42 | [Cumbia de los Pobres](https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z) | [Joe Rodriguez Y Su Grupo Latino](https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU) | [El Disco de Oro para Equipos de Sonido, Vol 1](https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT) | 3:19 |
 | 43 | [Vuela Mariposa](https://open.spotify.com/track/4F8AQkyQSTb19us1XLfVf2) | [Los Llayras](https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz) | [Prometiendo Amor](https://open.spotify.com/album/3M5IHxICkEH22lqBgDXnHu) | 3:26 |
 | 44 | [Corazón Enamorado](https://open.spotify.com/track/29xZSv5HOvmAI2bFIJnWHc) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Corazón Enamorado](https://open.spotify.com/album/2MzkTpKrYylAQue1a1Jh6P) | 5:00 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 59 | [Cumbia Azteca](https://open.spotify.com/track/7laTY4Np3kLbXck6YdqZVR) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Recuerdos Andinos](https://open.spotify.com/album/0pxcLdh1Pe1VBuRvdWCFPQ) | 3:56 |
 | 60 | [Yo Quiero Chupar](https://open.spotify.com/track/1xKdSekba1TL5gP7CAMNTT) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe) | [Yo Quiero Chupar / Solo Exitos](https://open.spotify.com/album/1nnfHi1XzDV3K0ajYDWgs4) | 3:35 |
 | 61 | [Destilando Amor](https://open.spotify.com/track/6Gi35T5449ZbiGpzn9cfBl) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 3:34 |
-| 62 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 |
-| 63 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
+| 62 | [Muñeca Esquiva](https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW) | [Sabor A Cumbia](https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2) | 3:27 |
+| 63 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 |
 | 64 | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/track/1TqVbvwPmESLvgkueeJI4V) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Asi Fue \(Todos los Cumbieros con las manos en el aire\)](https://open.spotify.com/album/1jnDr8K9IxgrZM94g6fXD1) | 3:14 |
 | 65 | [Llorando Se Fue "Lambada"](https://open.spotify.com/track/2X5nEYIzulPNs3abgszxXH) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [El Auténtico e Imbatible](https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62) | 3:28 |
 | 66 | [Amor Carnal](https://open.spotify.com/track/2BvixI7ri9MTF60jLSZLGW) | [Grupo Karo's](https://open.spotify.com/artist/3wOf6DlTkRycQcnlDrTe2x) | [Locura De Amor](https://open.spotify.com/album/5EDey3kMxdheEFK69Tq8EF) | 3:57 |

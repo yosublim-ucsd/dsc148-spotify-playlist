@@ -43846,7 +43846,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 162000,
       "name": "fourward",
       "url": "https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt"
@@ -64026,7 +64026,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 154729,
       "name": "Laid-Back Skylines",
       "url": "https://open.spotify.com/track/4jeYDsddMI8TShXgmOww8S"
@@ -90030,6 +90030,24 @@
       "duration_ms": 136363,
       "name": "Paperplanes",
       "url": "https://open.spotify.com/track/7Ah5dqNBn8OpGpg2YZGzuX"
+    },
+    {
+      "album": {
+        "name": "Parachuuu",
+        "url": "https://open.spotify.com/album/1IsCSsaVhGgUO9mtWowX90"
+      },
+      "artists": [
+        {
+          "name": "Twit One",
+          "url": "https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Parachuuu",
+      "url": "https://open.spotify.com/track/0wcezIYbSOCeB5isQAFIeu"
     },
     {
       "album": {
@@ -117150,6 +117168,28 @@
       "duration_ms": 177450,
       "name": "Swamp Little Fish",
       "url": "https://open.spotify.com/track/6jpsvWC0DeDQImRucDBYOz"
+    },
+    {
+      "album": {
+        "name": "sway",
+        "url": "https://open.spotify.com/album/72VF3tDhGakBbEhPCuft6B"
+      },
+      "artists": [
+        {
+          "name": "Mozzie",
+          "url": "https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4"
+        },
+        {
+          "name": "skrn",
+          "url": "https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "sway",
+      "url": "https://open.spotify.com/track/6Mx40XWfNJrRulCKXckuru"
     },
     {
       "album": {

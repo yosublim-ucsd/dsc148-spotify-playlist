@@ -2249,6 +2249,24 @@
     },
     {
       "album": {
+        "name": "BREWING LOVE, Pt. 9 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0TJ9DqAJCdoExMzLVeqU5g"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209013,
+      "name": "Clumsy",
+      "url": "https://open.spotify.com/track/12TW50uDqnqwCrMa51IqyX"
+    },
+    {
+      "album": {
         "name": "co-isolation",
         "url": "https://open.spotify.com/album/4Dayk4y6uYUwI5Ok1Hfxa5"
       },
@@ -12222,7 +12240,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 356000,
       "name": "That Summer And The Sea",
       "url": "https://open.spotify.com/track/6If1ehcUnAxYI8PfIR3bw0"
@@ -13142,6 +13160,24 @@
       "duration_ms": 260406,
       "name": "Violet",
       "url": "https://open.spotify.com/track/3vwtmExA3wwbr4GI5KvLkC"
+    },
+    {
+      "album": {
+        "name": "Voice",
+        "url": "https://open.spotify.com/album/0gDGTUaOm7OfgETH77Wh1L"
+      },
+      "artists": [
+        {
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215240,
+      "name": "Voice",
+      "url": "https://open.spotify.com/track/6EI51Hq3Q4BYELSDUhdTwA"
     },
     {
       "album": {
@@ -14816,7 +14852,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 182466,
       "name": "\uc6b0\ub9b4 \uadf8\ub9b0 \uc218\ucc44\ud654 (The watercolor painting that painted us)",
       "url": "https://open.spotify.com/track/3DHFekUUsp4BJgBarYkaTz"

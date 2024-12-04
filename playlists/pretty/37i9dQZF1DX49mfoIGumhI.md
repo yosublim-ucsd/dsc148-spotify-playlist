@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! El Gran Combo de Puerto Rico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,639 likes - 75 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,766 likes - 75 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 20 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
 | 21 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 |
 | 22 | [Tú No Le Amas Le Temes](https://open.spotify.com/track/1PD4tVf0GAIe3KX03ijHsN) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:26 |
-| 23 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
-| 24 | [Me Niegas Tanto Amor](https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 4:44 |
+| 23 | [Me Niegas Tanto Amor](https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 4:44 |
+| 24 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
 | 25 | [Trampolín](https://open.spotify.com/track/6o9sS5iqHV6Jwa2CTgCsM7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuestro Aniversario](https://open.spotify.com/album/1RNoQoIdMfX0cvgINnhbc2) | 4:21 |
 | 26 | [Deseándote](https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Mas Grande Que Nunca](https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz) | 4:41 |
 | 27 | [Nadie Igual Que tu](https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Solo](https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP) | 5:44 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 64 | [No Soy Automático](https://open.spotify.com/track/0jRXZABgFIsPCI7235h5u2) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Íconos 25 Éxitos](https://open.spotify.com/album/49yBL8VWJ0AtHPfW6Gix6z) | 4:35 |
 | 65 | [Enamorado ¿Y Qué?](https://open.spotify.com/track/3SHxpoqH97ODVLsWdmtnQe) | [Morist Jiménez](https://open.spotify.com/artist/4vMHqTfGSyUnTJWXXyxDiV) | [Amor Exagerado](https://open.spotify.com/album/15sVH88nISJQmSDSsDGTIE) | 3:33 |
 | 66 | [Cantante de Cartel](https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Good Vibrations](https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7) | 4:33 |
-| 67 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
-| 68 | [Busca El Ritmo](https://open.spotify.com/track/5jeimudsdih5ZC1BC6Qsad) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WgO5zD6fOYD9LwLwPzfiC) | 5:34 |
+| 67 | [Busca El Ritmo](https://open.spotify.com/track/5jeimudsdih5ZC1BC6Qsad) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WgO5zD6fOYD9LwLwPzfiC) | 5:34 |
+| 68 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
 | 69 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 |
 | 70 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
 | 71 | [De Punta a Punta](https://open.spotify.com/track/1nB9ydATeeVCG3wrre1jcH) | [Grupo Caneo](https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z) | [Original](https://open.spotify.com/album/10qbEhy86blV66VOIVuxw6) | 4:25 |

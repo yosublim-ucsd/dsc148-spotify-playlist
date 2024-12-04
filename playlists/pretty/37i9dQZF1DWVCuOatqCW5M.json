@@ -1,6 +1,6 @@
 {
   "description": "Latest music from your fav I-Pop artists. Cover- Jonita Gandhi",
-  "num_followers": 62707,
+  "num_followers": 62761,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
@@ -154,6 +154,10 @@
         {
           "name": "Showkidd",
           "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
         }
       ],
       "duration_ms": 200204,

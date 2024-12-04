@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Get ready for an evening filled with iconic hits and real feels\.  Cover: Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,172 likes - 28 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,145 likes - 28 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

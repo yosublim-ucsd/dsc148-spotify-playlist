@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,925 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,946 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 23 | [Gee](https://open.spotify.com/track/2FmGxujlxCoOMFLEY6XQ9W) | [The Crows](https://open.spotify.com/artist/2zee4amgZunaTl3YyLz1iG) | [Echoes Of A Rock Era](https://open.spotify.com/album/61w6Wg7Xli7dxZx2GrTZgi) | 2:16 |
 | 24 | [Barbara Ann](https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x) | [The Regents](https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn) | [Barbara\-Ann](https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB) | 2:15 |
 | 25 | [Poison Ivy \- 2007 Remaster; Remastered](https://open.spotify.com/track/5sbN2KexToBTtNiuhwysxo) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 2:44 |
-| 26 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
-| 27 | [In the Still of the Night](https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:05 |
+| 26 | [In the Still of the Night](https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:05 |
+| 27 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
 | 28 | [Blue Moon](https://open.spotify.com/track/2CghtwfbA6zkqfxRlSsSJG) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Marcels](https://open.spotify.com/album/7aRLy6IzAiasWqxy62lubc) | 2:16 |
 | 29 | [Little Girl of Mine](https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 3:12 |
 | 30 | [Come Go With Me](https://open.spotify.com/track/4eRdlW0SvlRpq285jI9uf5) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Del Vikings Doo Wop](https://open.spotify.com/album/0GalVuWWpgt6JrmEb8MwLa) | 2:40 |

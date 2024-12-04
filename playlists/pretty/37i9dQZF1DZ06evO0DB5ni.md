@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 
 > This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,694 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 787,126 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DB5ni.md) - [plain]
 | 49 | [Amantes De Media Noche](https://open.spotify.com/track/6WzM7deH5S2v6E5pVgJl25) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 2:48 |
 | 50 | [Cuando Te Ame](https://open.spotify.com/track/0yO1khcEJBMqEuW9dyVLKS) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Este Soy Yo](https://open.spotify.com/album/3IXBzEwmjXkg6mIUdGNlUn) | 3:30 |
 
-Snapshot ID: `Z0unAAAAAAAbv2TKM2qgq5uWQCooF++1`
+Snapshot ID: `Z0z4gAAAAACQvanPVwK25FdKdcF8f8Iy`

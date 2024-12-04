@@ -4,7 +4,7 @@
 
 > When the night isn't over just yet.
 
-356 songs - 1 day 0 hr 40 min
+357 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Healing](https://open.spotify.com/track/6bZMUM8GNyStCJXC0oKG82) | [Supertask](https://open.spotify.com/artist/47qa2xx9Xlw1oGkKbMq8Zt) | [Healing](https://open.spotify.com/album/0iYr0aznVggjfSCEeEODks) | 5:52 | 2021-11-24 | 2022-07-07 |
 | [HERE WE GO](https://open.spotify.com/track/3q0O02k68i5oaBgFKGij1j) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD) | [HERE WE GO](https://open.spotify.com/album/4I98MShyUAObVPwcHeEEYd) | 3:00 | 2024-07-11 |  |
 | [Hey Hey \- Jack Back Remix](https://open.spotify.com/track/1MLxfMNuBOYnCbZDMhb1Zl) | [Dennis Ferrer](https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hey Hey \(Jack Back Remix\)](https://open.spotify.com/album/28B0sfg0u9x74Z7gT6CLJD) | 2:29 | 2024-03-01 | 2024-08-09 |
+| [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 | 2024-10-25 |  |
 | [Home](https://open.spotify.com/track/1wD2C9vWlPgmRa2hw1RdA0) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM), [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv) | [Home](https://open.spotify.com/album/66O2AlsvHJhKtaXtSZGias) | 2:45 | 2024-03-01 | 2024-09-30 |
 | [home \(feat\. Kehina\)](https://open.spotify.com/track/6zNlb6YYsRHjIHBTNzoQ4X) | [ones](https://open.spotify.com/artist/2eKt2klgJbaK8qAqvkAte6), [Kehina](https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx) | [far too long](https://open.spotify.com/album/1fB7b72MXdkf1mT0ZZKCvd) | 2:53 | 2022-11-25 | 2024-03-01 |
 | [Homesick](https://open.spotify.com/track/4CFqL2BS4R4FZka8cibIMc) | [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7), [Izzy](https://open.spotify.com/artist/7ltHfFCUf9RjFzDuYOz118) | [Cherry](https://open.spotify.com/album/2n0aZMksvAjApZZzeH52l9) | 3:54 | 2021-11-24 | 2022-07-29 |
@@ -274,7 +275,7 @@
 | [Roll Back \- Single Mix](https://open.spotify.com/track/7ko64FZgc63TnZuYhusU21) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Roll Back](https://open.spotify.com/album/5b6TuPfFvUpIllFHZgCUy2) | 3:04 | 2022-06-20 | 2024-06-05 |
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2021-11-24 | 2024-07-05 |
 | [Rotating In Unison](https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH) | 5:01 | 2021-11-24 | 2022-06-22 |
-| [Run](https://open.spotify.com/track/0vwtjsp4jjmTNiUnHNX0xd) | [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Welt](https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r) | [Run](https://open.spotify.com/album/2ECuabiMF6S0TAVRO6fS4F) | 3:01 | 2024-10-25 |  |
+| [Run](https://open.spotify.com/track/0vwtjsp4jjmTNiUnHNX0xd) | [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Welt](https://open.spotify.com/artist/4hlzEVQyBgze0kLOLwTV2r) | [Run](https://open.spotify.com/album/2ECuabiMF6S0TAVRO6fS4F) | 3:01 | 2024-10-25 | 2024-12-04 |
 | [run away](https://open.spotify.com/track/2SN7ULJRUGp4GWFRAaWTbr) | [Rohaan](https://open.spotify.com/artist/7FqSU53yVH1SQAtLZ63DGS), [Kelbin](https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6) | [run away](https://open.spotify.com/album/4UQZ0IUOWZOrfx7lrTxWEe) | 3:12 | 2024-06-07 |  |
 | [runnersz](https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 2:20 | 2022-04-21 | 2022-07-19 |
 | [Ryan Gosling in Space](https://open.spotify.com/track/64ikzlk6Foa4u5j06TFQvD) | [E.M.M.A.](https://open.spotify.com/artist/4HvBEisTYUhP81liNnAHUf) | [Indigo Dream](https://open.spotify.com/album/1sSXq8MhVx0qjBAwGE1rRF) | 4:24 | 2021-11-24 | 2022-04-22 |

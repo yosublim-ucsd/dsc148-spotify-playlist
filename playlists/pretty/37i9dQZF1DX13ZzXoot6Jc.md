@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Waylon Wyatt
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,263 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,235 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 19 | [Rock and A Hard Place](https://open.spotify.com/track/1TE8AAk9koG0UJco6ZAUfx) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 3:27 |
 | 20 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 |
 | 21 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 |
-| 22 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
+| 22 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |
 | 23 | [Rust](https://open.spotify.com/track/1EdAfme2rPCUkzIYvSucYX) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Rust](https://open.spotify.com/album/0OpM8xRUkHma1V1biL0cc1) | 2:49 |
-| 24 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |
+| 24 | [TEXAS HOLD 'EM](https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [TEXAS HOLD 'EM](https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx) | 3:53 |
 | 25 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 |
 | 26 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 |
 | 27 | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 52 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS) | 3:24 |
 | 53 | [This Town's Been Too Good To Us](https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [This Town's Been Too Good To Us](https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol) | 3:11 |
 | 54 | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8) | 3:39 |
-| 55 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
-| 56 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
+| 55 | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/track/7IP075Nyr92maaJNS52hUM) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Texas \(feat\. Maren Morris\)](https://open.spotify.com/album/0eFUKdJ9A9TeBoRbnLlIcK) | 3:18 |
+| 56 | [Didn't I?](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I?](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 |
 | 57 | [Wildflowers and Wild Horses](https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 4:10 |
 | 58 | [Boys Back Home](https://open.spotify.com/track/1hgINxfKQlJOikzd9skvC2) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Boys Back Home](https://open.spotify.com/album/79S52DbQr4rfVJ3LUkC2P7) | 2:45 |
 | 59 | [Too Good to be True](https://open.spotify.com/track/27RDQ0TfxzWMlQFuKrPT11) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 2:40 |

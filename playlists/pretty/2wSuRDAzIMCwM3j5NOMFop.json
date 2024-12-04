@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAMuwp0FX2qJbPvahbaenZJijL22aQ",
+  "snapshot_id": "AAAANIXEPEjxCUW+d63XcR2nj3IuoEJ6",
   "tracks": [
     {
       "added_at": "2023-01-07 05:08:09",
@@ -743,6 +743,38 @@
       "duration_ms": 182586,
       "name": "Insurance Fraud #2",
       "url": "https://open.spotify.com/track/0q337BaQiBq43WLMm7VKlM"
+    },
+    {
+      "added_at": "2024-12-03 07:52:26",
+      "album": {
+        "name": "Undercard",
+        "url": "https://open.spotify.com/album/1WOhneh974qQNY6TGpWN7C"
+      },
+      "artists": [
+        {
+          "name": "The Extra Lens",
+          "url": "https://open.spotify.com/artist/64WVMQetBLvmJi3OVxjt2G"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "Some Other Way",
+      "url": "https://open.spotify.com/track/1nBBKbMeKLqIcRtYLs8wfW"
+    },
+    {
+      "added_at": "2024-12-03 12:07:59",
+      "album": {
+        "name": "Ghana",
+        "url": "https://open.spotify.com/album/6dtcOj9ppcuGNL973wrwci"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Golden Boy",
+      "url": "https://open.spotify.com/track/3TDMylLFIdog58gdTjeauu"
     }
   ],
   "unique_name": "From the Mouth of Evil",

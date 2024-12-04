@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfwGuHFlleD.md) - [plain]
 
 > Big rock tracks from 2019\. Cover: Machine Gun Kelly/YUNGBLUD/Travis Barker
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,277 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,290 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfwGuHFlleD.md) - [plain]
 | 3 | [I Think I'm OKAY \(with YUNGBLUD & Travis Barker\)](https://open.spotify.com/track/2gTdDMpNxIRFSiu7HutMCg) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Hotel Diablo](https://open.spotify.com/album/0bJIHF1Or1YBLFBMwv53K2) | 2:49 |
 | 4 | [Cringe](https://open.spotify.com/track/12rhvKDK2FfHTZZ1sSAHDG) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:36 |
 | 5 | [Hurricane](https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 3:43 |
-| 6 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
-| 7 | [Social Cues](https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:39 |
+| 6 | [Social Cues](https://open.spotify.com/track/1KuVdyg8d6NlRhbpHxg5UF) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:39 |
+| 7 | [Pneuma](https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 11:53 |
 | 8 | [Ausländer](https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 3:51 |
 | 9 | [11 Minutes \(with Halsey feat\. Travis Barker\)](https://open.spotify.com/track/4mGdjNMo0RonTlOEb7cYg4) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [11 Minutes \(with Halsey feat\. Travis Barker\)](https://open.spotify.com/album/7jY0r3cjoRY6M3IqRb1m7H) | 3:59 |
 | 10 | [Longshot](https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balance](https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r) | 3:52 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbfwGuHFlleD.md) - [plain]
 | 32 | [You'll Never Find Me](https://open.spotify.com/track/0xcF2mC6MktbXOT7kRiXoF) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 3:40 |
 | 33 | [Descending](https://open.spotify.com/track/0aTiUssEOy0Mt69bsavj6K) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Fear Inoculum](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5) | 13:37 |
 | 34 | [Resentment](https://open.spotify.com/track/57yI1u6t6cFXbjgjQcRHug) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Resentment](https://open.spotify.com/album/64wQKGqvMqZrYrrdqqEbvO) | 3:47 |
-| 35 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
-| 36 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
+| 35 | [Go](https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:26 |
+| 36 | [Father of All...](https://open.spotify.com/track/17C1AVZVh5jhJU4eAcovpl) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:31 |
 | 37 | [Ludens](https://open.spotify.com/track/2eZjO58Qe9og2xmyfw4qwJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [Ludens](https://open.spotify.com/album/4IojpVltvdlDvlQ6uC6iVW) | 4:40 |
 | 38 | ["99"](https://open.spotify.com/track/0FDtfURDoNGv0sjNnvscPR) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [404](https://open.spotify.com/album/4XOMJHVuzJVWmqUdp4SYKP) | 3:18 |
 | 39 | [Missed Connection](https://open.spotify.com/track/4R9KztunyNTH13KtAqePLp) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:15 |

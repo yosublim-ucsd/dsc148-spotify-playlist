@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Ken Yokoyama
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: WANIMA
 
-799 songs - 1 day 18 hr 30 min
+800 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,7 +598,7 @@
 | [これでいいのだ](https://open.spotify.com/track/5YEUcZpNQH5OujYr2vTdgE) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [これでいいのだ](https://open.spotify.com/album/6wwcWh2rUlOKDdjxtai1hF) | 3:29 | 2022-05-12 | 2022-07-29 |
 | [さよなら涙](https://open.spotify.com/track/1NB6vlygOL59DbwiGh621c) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [神様からの贈物 e.p.](https://open.spotify.com/album/2ld5ZXZ4Jv3TpsJ8TLJCmY) | 2:31 | 2023-12-05 | 2023-12-07 |
 | [さよなら絶望](https://open.spotify.com/track/0dWL3BuWTwwLiyrnUUcVER) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 1:57 | 2022-05-12 | 2023-03-22 |
-| [さらば青春の光 feat\. ザ・森東](https://open.spotify.com/track/0NEhKgTtDyXvYy0uOdw0hN) | [The Cherry Coke$](https://open.spotify.com/artist/6GWciujSDoDzAAEcDp48sp), [ザ・森東](https://open.spotify.com/artist/1XYNQauHdnoJ7GYp9WyDC7) | [LOVE THY DRUNX](https://open.spotify.com/album/1n2g5AkNNm468K3AG3INeo) | 3:48 | 2024-09-03 |  |
+| [さらば青春の光 feat\. ザ・森東](https://open.spotify.com/track/0NEhKgTtDyXvYy0uOdw0hN) | [The Cherry Coke$](https://open.spotify.com/artist/6GWciujSDoDzAAEcDp48sp), [ザ・森東](https://open.spotify.com/artist/1XYNQauHdnoJ7GYp9WyDC7) | [LOVE THY DRUNX](https://open.spotify.com/album/1n2g5AkNNm468K3AG3INeo) | 3:48 | 2024-09-03 | 2024-12-04 |
 | [しあわせになる](https://open.spotify.com/track/0LeFkyQOiMMyeiUpuhL2HF) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [しあわせになる](https://open.spotify.com/album/5d6jAVVrGPqrXOHeDZTeyJ) | 1:29 | 2022-05-24 | 2022-07-15 |
 | [じゃじゃ馬にさせないで](https://open.spotify.com/track/6qV4xNwIt7qF0gO6yW086K) | [the dadadadys](https://open.spotify.com/artist/0WhmTXYYR573yJqqTtU2RL) | [\(茜\)](https://open.spotify.com/album/7EQlFBJV2yiLhi3SDq91vR) | 4:23 | 2024-01-25 | 2024-03-10 |
 | [ずっきゅん♡](https://open.spotify.com/track/6Mc9ye2PRb8Fb2AggnvFV7) | [カライドスコープ](https://open.spotify.com/artist/5VPAcL1oXbwABg16QXigGK) | [ずっきゅん♡](https://open.spotify.com/album/5HuFjY4PmfgCk3JDxdbJ2o) | 3:00 | 2024-11-12 |  |
@@ -773,6 +773,7 @@
 | [決意の歌](https://open.spotify.com/track/32HxsGp4jX5URUmulu5dHd) | [bacho](https://open.spotify.com/artist/6ERhWmTmbMG8FQGYfFIIgc) | [レコンキスタ](https://open.spotify.com/album/3KrJbIHprGRPzuVN2OI4fv) | 5:21 | 2022-05-12 | 2022-07-27 |
 | [泣き虫デスマッチ](https://open.spotify.com/track/0N9uFmMjZLBK28fwYxbFtZ) | [Garlicboys](https://open.spotify.com/artist/6nPBc3gSUZ1rQaMvD0VXZz) | [再録ベスト](https://open.spotify.com/album/39cFpk3zsEtX8aE0Mgs7WU) | 2:36 | 2022-05-12 | 2022-07-24 |
 | [火花](https://open.spotify.com/track/5sqCFj25fms531Jx41FhoX) | [SULLIVAN's FUN CLUB](https://open.spotify.com/artist/03d8MZYqxq7mS9DDxWV18U) | [Panta rhei](https://open.spotify.com/album/5yYOvOyzsVLy8AYDIENgOT) | 1:37 | 2022-05-19 | 2022-07-11 |
+| [爛々ラプソディ](https://open.spotify.com/track/3D7PGdcyvB8IeMOeCqqO0H) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [爛々ラプソディ](https://open.spotify.com/album/0QwkSO5pRNQyDcHoygANkS) | 4:02 | 2024-12-03 |  |
 | [犬畜生](https://open.spotify.com/track/61BcQ7Am8RNvmeRs06vMM6) | [SAKURAN\-ZENSEN](https://open.spotify.com/artist/4mNp4owuJY4zp3A3RT2rEB) | [おどろーよ](https://open.spotify.com/album/6kQE2PT6SWpJSXkM8DJARj) | 2:09 | 2022-06-07 | 2022-07-17 |
 | [現実世界魔法少年少女](https://open.spotify.com/track/5xp0ELbtF8QyYd1tLPFYIr) | [アフロバンク](https://open.spotify.com/artist/1KeGTjgJK5pZ9F0RwtsZag) | [現実世界魔法少年少女](https://open.spotify.com/album/2dtdDytFUnRjbeVVsJyhZW) | 2:20 | 2022-05-12 | 2022-07-27 |
 | [理想と現実](https://open.spotify.com/track/4iJ8gbwQxNhdun2Vz7maj1) | [WEAKEND HEROES](https://open.spotify.com/artist/4JJsbXfC3fanYgoCP4T0F8) | [振り出しに向かう](https://open.spotify.com/album/0HvmWwHOIxjGkaPrVGgTcx) | 3:36 | 2022-05-12 | 2022-07-24 |

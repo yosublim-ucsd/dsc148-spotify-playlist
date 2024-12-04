@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 167119,
+  "num_followers": 167148,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAABpy67gYYzvR0GF30z57DES",
+  "snapshot_id": "Z0z4gAAAAACfXmePMSq2N7nNqv1wtSQH",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Paper Wings",
-      "url": "https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Endgame",
         "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 221200,
       "name": "This Is Letting Go",
       "url": "https://open.spotify.com/track/0304Y3lXclcRh5N50KJ3sE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Paper Wings",
+      "url": "https://open.spotify.com/track/6Nl8qp2bhHHWGYt3BYmsY1"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Market",
-        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 248986,
-      "name": "People Live Here",
-      "url": "https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Endgame",
         "url": "https://open.spotify.com/album/2Gq0ERke26yxdGuRvrqFTD"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 239893,
       "name": "Survivor Guilt",
       "url": "https://open.spotify.com/track/6z38xRV0gxWMyjtuz5T2Ea"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Black Market",
+        "url": "https://open.spotify.com/album/65jmbHYm42IEATHEJCbKgC"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 248986,
+      "name": "People Live Here",
+      "url": "https://open.spotify.com/track/3YsbKbo8m5Uv5zAG2hqOrN"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
+        "name": "Nowhere Generation II",
+        "url": "https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 228480,
-      "name": "Blood To Bleed",
-      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
+      "duration_ms": 222173,
+      "name": "Pain Mgmt",
+      "url": "https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nowhere Generation II",
-        "url": "https://open.spotify.com/album/5yMunjWm6lcpvGYDYOfVt0"
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 222173,
-      "name": "Pain Mgmt",
-      "url": "https://open.spotify.com/track/0T2s6fdO3RgZY2bPltwNJr"
+      "duration_ms": 183053,
+      "name": "Welcome To The Breakdown",
+      "url": "https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 183053,
-      "name": "Welcome To The Breakdown",
-      "url": "https://open.spotify.com/track/3SHfZYUYMkz1PlE0WdVVap"
+      "duration_ms": 228480,
+      "name": "Blood To Bleed",
+      "url": "https://open.spotify.com/track/5tTqyjPKCAe5rqmOl9eslW"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siren Song Of The Counter-Culture",
-        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 139133,
-      "name": "State Of The Union",
-      "url": "https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rpm10",
         "url": "https://open.spotify.com/album/65HQSVksRU9QjPrCsvQK2E"
       },
@@ -807,6 +791,30 @@
       "duration_ms": 203093,
       "name": "Heaven Knows",
       "url": "https://open.spotify.com/track/2oatfqk7BKfzdpmtcgu3Sc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Echo, My Shadow, My Covers & Me",
+        "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        },
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        },
+        {
+          "name": "Tim Mcllrath",
+          "url": "https://open.spotify.com/artist/5Wh9p9gSQ918Rtuv6qCBiw"
+        }
+      ],
+      "duration_ms": 246695,
+      "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
+      "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
     }
   ],
   "unique_name": "This Is Rise Against",

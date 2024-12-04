@@ -371,6 +371,28 @@
     },
     {
       "album": {
+        "name": "9K",
+        "url": "https://open.spotify.com/album/1FKjWHUh8XmfrXUf6JBQS4"
+      },
+      "artists": [
+        {
+          "name": "Tom Hengst",
+          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
+        },
+        {
+          "name": "OG Keemo",
+          "url": "https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168131,
+      "name": "9K",
+      "url": "https://open.spotify.com/track/5a7OJzUyJgvm9SSKQDnXGP"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -3012,7 +3034,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 208956,
       "name": "Born With a Broken Heart",
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
@@ -4037,6 +4059,32 @@
     },
     {
       "album": {
+        "name": "Cocktail Molotov (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/4wrT09KQQ6TV4fv3gIYqvA"
+      },
+      "artists": [
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148520,
+      "name": "Cocktail Molotov (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4zSeX6VgtIZHLgIz2hJT3p"
+    },
+    {
+      "album": {
         "name": "Coco Chanel",
         "url": "https://open.spotify.com/album/6VvTZ4a8LfO1ymHs8FdLHs"
       },
@@ -4888,7 +4936,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 143037,
       "name": "Discoschnupfen",
       "url": "https://open.spotify.com/track/7ByzWi0kTUeFdBjm3ythBe"
@@ -6094,7 +6142,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 164585,
       "name": "Fata Morgana",
       "url": "https://open.spotify.com/track/1v1cijv1qjMJ5o9OvMWACS"
@@ -8042,6 +8090,24 @@
       "duration_ms": 145624,
       "name": "HDL",
       "url": "https://open.spotify.com/track/3SYHVGpbPQ8sPCRosoA9Wy"
+    },
+    {
+      "album": {
+        "name": "Head n' Shoulders",
+        "url": "https://open.spotify.com/album/7wfHFpdwWR7rvtB4SzYgqD"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122826,
+      "name": "Head n' Shoulders",
+      "url": "https://open.spotify.com/track/3zmksQ4fThZuadjqd6yZmm"
     },
     {
       "album": {
@@ -13202,7 +13268,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 209866,
       "name": "Mevzu Derin",
       "url": "https://open.spotify.com/track/3FkWbO7xBYS3a0MJHN6XlV"
@@ -14026,6 +14092,24 @@
       "duration_ms": 373168,
       "name": "Mystery Of Love",
       "url": "https://open.spotify.com/track/5IXNvkS9RkRfxr2p9z9v4d"
+    },
+    {
+      "album": {
+        "name": "M\u00dcNCHNER STR.",
+        "url": "https://open.spotify.com/album/5xJckM22Vin7IOtXfQ7yfQ"
+      },
+      "artists": [
+        {
+          "name": "Luna Antonia",
+          "url": "https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141490,
+      "name": "M\u00dcNCHNER STR.",
+      "url": "https://open.spotify.com/track/3PBJgXZm0rFkycauEIE4ph"
     },
     {
       "album": {
@@ -15425,6 +15509,24 @@
     },
     {
       "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311480,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2KvtNjXWp2eq4oSUvf882U"
       },
@@ -16349,6 +16451,32 @@
     },
     {
       "album": {
+        "name": "Rebel Heart (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/7o5vPpHkPBYyjmZY57HgVg"
+      },
+      "artists": [
+        {
+          "name": "Djerv",
+          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171373,
+      "name": "Rebel Heart (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3bpkjtiwxCmEFIHkuNf3Oc"
+    },
+    {
+      "album": {
         "name": "Red (From \"Descendants: The Rise of Red\")",
         "url": "https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s"
       },
@@ -16448,6 +16576,32 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+      },
+      "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122053,
+      "name": "Remember Me - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/3NqW1FtYalkdAr7gz7Btwh"
     },
     {
       "album": {
@@ -16714,7 +16868,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 144113,
       "name": "Rock",
       "url": "https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf"
@@ -16794,7 +16948,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 163005,
       "name": "Rosaroter Tee",
       "url": "https://open.spotify.com/track/4UKQ8zZQ92nTdxQpz6VrPv"
@@ -16812,7 +16966,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 224591,
       "name": "Rote Flaggen",
       "url": "https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI"
@@ -16968,7 +17122,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
@@ -18072,7 +18226,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 154934,
       "name": "so als ob",
       "url": "https://open.spotify.com/track/6Cy2aCQUeJy3aTAI7P9ZwJ"
@@ -18200,6 +18354,28 @@
       "duration_ms": 160880,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3y9QM64AVA9gWUzclMmdTJ"
+    },
+    {
+      "album": {
+        "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207794,
+      "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
     },
     {
       "album": {
@@ -19229,6 +19405,24 @@
     },
     {
       "album": {
+        "name": "bis einer weint",
+        "url": "https://open.spotify.com/album/5UVmNkmdFD40hgubrjV3xa"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162001,
+      "name": "Tanzen",
+      "url": "https://open.spotify.com/track/19LgPZ2stzql56OSeF37Jy"
+    },
+    {
+      "album": {
         "name": "Tarantella",
         "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
       },
@@ -19568,6 +19762,32 @@
       "duration_ms": 197692,
       "name": "The Ballad of the Witches' Road (Sacred Chant Version)",
       "url": "https://open.spotify.com/track/59h6Uw3m5ClwHnEcKXh8hg"
+    },
+    {
+      "album": {
+        "name": "The Beast (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/01Jm3RRsLElEzefWJHtTBa"
+      },
+      "artists": [
+        {
+          "name": "Misha Mansoor",
+          "url": "https://open.spotify.com/artist/2RGaw1ZrhxGfoikLAk4wuZ"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "The Beast (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5gnV1vGdGf8FMFn5Fjpu1H"
     },
     {
       "album": {
@@ -19960,7 +20180,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 101954,
       "name": "TikTok Sportlich",
       "url": "https://open.spotify.com/track/6pGsdnKTuOgOR7CC9JGyLn"
@@ -20562,7 +20782,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 126542,
       "name": "UNISEXKLO",
       "url": "https://open.spotify.com/track/1o8QpucQOjzA41D7WKnBd4"
@@ -21497,6 +21717,32 @@
     },
     {
       "album": {
+        "name": "What Have They Done To Us (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1rcrVwtk2dbrf7rRNwDhhh"
+      },
+      "artists": [
+        {
+          "name": "Mako",
+          "url": "https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA"
+        },
+        {
+          "name": "Grey",
+          "url": "https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119160,
+      "name": "What Have They Done To Us (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4ZdFMKqprNtEqdqdhu7gU0"
+    },
+    {
+      "album": {
         "name": "What I Want",
         "url": "https://open.spotify.com/album/0equCatWbHF6wgpR7Lxh0Q"
       },
@@ -21678,7 +21924,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 142878,
       "name": "Who You Share It With",
       "url": "https://open.spotify.com/track/0e6Ls4yZlXeapXDEWDWnRL"
@@ -22666,6 +22912,32 @@
       "duration_ms": 185626,
       "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke - Opening Theme to DAN DA DAN",
       "url": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
+    },
+    {
+      "album": {
+        "name": "\u9019\u6a23\u5f88\u597d (\u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u7b2c\u4e8c\u5b63\u539f\u8072)",
+        "url": "https://open.spotify.com/album/0ZyyIg7t8XtqxuBg48PbkQ"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "\u9019\u6a23\u5f88\u597d - \u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u7b2c\u4e8c\u5b63\u539f\u8072",
+      "url": "https://open.spotify.com/track/0Cdq7p8QbX9EE4eNCtzGsk"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbKxYYIUIgn7V"

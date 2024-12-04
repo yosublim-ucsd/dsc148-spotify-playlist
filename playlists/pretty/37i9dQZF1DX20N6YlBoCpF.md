@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic?si=g4dwZkJwQs6cwycYbbKc0w">Jan Bloukaas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,853 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,882 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

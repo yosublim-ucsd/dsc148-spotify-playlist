@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,914 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 700,082 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [BOLERo LIBRA](https://open.spotify.com/track/6KGbKJBVB8tu5u6vrQCjbu) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [BOLERo LIBRA](https://open.spotify.com/album/4VjwNAmNUBdYZL0fTRTVOk) | 2:52 |
 | 50 | [El Canto de Todos \- Bonus Track](https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt), [Tita Parra](https://open.spotify.com/artist/4thdsnYghHc8bTB3GQ6zru), [Francesca Gagnon](https://open.spotify.com/artist/75VPGcVJ0CLIYJr6fDZ5IV), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Roberto Marquez](https://open.spotify.com/artist/0bGEitoGJUQPfiBhvzuScw), [Pancho Sazo](https://open.spotify.com/artist/4cWDj4v7WAydE1CEl45G8w), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf), [Mapocho Orquesta](https://open.spotify.com/artist/5zoXAWbqiovx7MFrNvuteu) | [El Canto de Todos](https://open.spotify.com/album/5Y5gm7ty6In0hBDm7R39eO) | 0:41 |
 
-Snapshot ID: `Z0unAAAAAADw71ZjHjyXeC5euV316h5b`
+Snapshot ID: `Z0z4gAAAAABmHXeUgo2wYeBGTxQBZzEO`

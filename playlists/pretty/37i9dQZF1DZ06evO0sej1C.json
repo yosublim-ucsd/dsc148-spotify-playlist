@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 41926,
+  "num_followers": 41935,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAADGxinhpD39LHHHFKAnWV/E",
+  "snapshot_id": "Z0z4gAAAAADT4sG2VSsbq1gA8RPT3Zgk",
   "tracks": [
     {
       "added_at": null,
@@ -1115,22 +1115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PILLS",
-        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "PILLS",
-      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faruz Fit, Vol. 2",
         "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 283668,
       "name": "Susurros",
       "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PILLS",
+        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "PILLS",
+      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
     },
     {
       "added_at": null,

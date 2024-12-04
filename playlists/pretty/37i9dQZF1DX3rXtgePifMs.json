@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 116189,
+  "num_followers": 116204,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "We Can Be Anything",
-        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 201047,
-      "name": "We Can Be Anything",
-      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Paragon Songs",
         "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
       },
@@ -1085,28 +1069,20 @@
       "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
-      "added_at": "2023-12-01 18:29:06",
+      "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Vem com tudo",
-        "url": "https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8"
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/5TVcWdcTKLoXsFp8hYV5jp"
       },
       "artists": [
         {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
         }
       ],
-      "duration_ms": 194026,
-      "name": "Vem com tudo",
-      "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/4AcRbBprPNxpzClRnl1je6"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1135,6 +1111,30 @@
       "duration_ms": 170261,
       "name": "O Que Se Leva (D\u00f3i)",
       "url": "https://open.spotify.com/track/7AYctIsvlx9eNrOM2zhLiz"
+    },
+    {
+      "added_at": "2023-12-01 18:29:06",
+      "album": {
+        "name": "Vem com tudo",
+        "url": "https://open.spotify.com/album/53ycsc2CcgfoTgYtBWtEY8"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Vem com tudo",
+      "url": "https://open.spotify.com/track/3KBeevk3IGoAdoktaH1OBJ"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "THAT GIRL",
+        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
+      },
+      "artists": [
+        {
+          "name": "Bree Runway",
+          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "THAT GIRL",
+      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Absolutely Tidy",
         "url": "https://open.spotify.com/album/6FTaOl9bhQB7TRpmrdzhtl"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 171726,
       "name": "Absolutely Tidy",
       "url": "https://open.spotify.com/track/2OLXMMY73l5AZWZ5U5ETt1"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "THAT GIRL",
-        "url": "https://open.spotify.com/album/0dCFboe6x4Nz3e7LkGWIgE"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 125800,
-      "name": "THAT GIRL",
-      "url": "https://open.spotify.com/track/3WSlZ5C7P9rN98QG7AYcB5"
     },
     {
       "added_at": "2023-11-20 15:00:00",

@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Sasha Keable
 
-3,279 songs - 7 day 4 hr 23 min
+3,279 songs - 7 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1543,7 +1543,7 @@
 | [Lay Up \(with SiR feat\. Syd\)](https://open.spotify.com/track/499Em55SsNJE2jG4Lk58iO) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 3:28 | 2023-03-03 | 2023-06-03 |
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2022-10-14 | 2022-11-12 |
 | [Layin Next to Me](https://open.spotify.com/track/11BHnIy9pbdihg8PeqiCgt) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD) | [Layin Next to Me](https://open.spotify.com/album/1jhFza8pUS6acLiZXNYdJx) | 3:37 | 2023-01-13 | 2023-03-18 |
-| [Laying In The Dark](https://open.spotify.com/track/0OuiyuvOLw1fSxcaX1n8oo) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Laying In The Dark](https://open.spotify.com/album/1IZvYtTisVTr65YcNEqI2p) | 3:18 | 2024-11-30 |  |
+| [Laying In The Dark](https://open.spotify.com/track/0OuiyuvOLw1fSxcaX1n8oo) | [Will Gittens](https://open.spotify.com/artist/2Guif3r6Ys8lL1H5aGyuh1) | [Laying In The Dark](https://open.spotify.com/album/1IZvYtTisVTr65YcNEqI2p) | 2:18 | 2024-11-30 |  |
 | [LCKDWN](https://open.spotify.com/track/0M6aPN1GmBmWT1mxh90UmX) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Safa](https://open.spotify.com/artist/3jAiKwmJqrpz0UqjWsxBCM) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 2:11 | 2024-11-15 |  |
 | [LDN](https://open.spotify.com/track/1hyfDqeOomUgiDZZehFP3D) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Full Circle](https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z) | 1:52 | 2024-10-18 |  |
 | [Le Départ \- Feat\. Durand Bernarr](https://open.spotify.com/track/6xIMr6tWnD0B68hLDZ8wA4) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Lotus Glow \(Deluxe\)](https://open.spotify.com/album/6kuBg5Z0JeUfsG9Qo8Q8le) | 3:09 | 2024-05-10 | 2024-07-13 |

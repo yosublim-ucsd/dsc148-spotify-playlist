@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 
 > 2019 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,737 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,745 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05We5FN3NiD.md) - [plain]
 | 86 | [Old Man](https://open.spotify.com/track/6K9QPIt8AR422heY9O372w) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Beware of the Dogs](https://open.spotify.com/album/1pKIMs0GEePXjDC2EiYEb7) | 3:33 |
 | 87 | [Eat, Sleep, Wake \(Nothing But You\) \- Single Version](https://open.spotify.com/track/30Ih2VLYmGIWameeQeyaDr) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Eat, Sleep, Wake \(Nothing But You\)](https://open.spotify.com/album/1bXVjlT2KJNwJd7NlWPPUu) | 3:38 |
 | 88 | [Running](https://open.spotify.com/track/090a3fK6DnEKCECdfctvYy) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [This Is How You Smile](https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv) | 4:24 |
-| 89 | [Ghostride](https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 2:06 |
-| 90 | [Kingston](https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 3:22 |
-| 91 | [Daylight Matters](https://open.spotify.com/track/7F3YjEMKZC8ovV7sCpZcRW) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Reward](https://open.spotify.com/album/1et95HstXof7uDcKgCkwXw) | 4:18 |
-| 92 | [UFOF](https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p) | 3:08 |
-| 93 | [U \(Man Like\)](https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 2:25 |
-| 94 | [Home](https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Home](https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy) | 2:36 |
-| 95 | [Baby Blu](https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU) | 4:41 |
-| 96 | [Andromeda](https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 4:40 |
+| 89 | [Andromeda](https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 4:40 |
+| 90 | [Ghostride](https://open.spotify.com/track/476QHG5G8xxNI9VHTBFfjp) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/3vukTUpiENDHDoYTVrwqtz) | 2:06 |
+| 91 | [Kingston](https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 3:22 |
+| 92 | [Daylight Matters](https://open.spotify.com/track/7F3YjEMKZC8ovV7sCpZcRW) | [Cate Le Bon](https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G) | [Reward](https://open.spotify.com/album/1et95HstXof7uDcKgCkwXw) | 4:18 |
+| 93 | [UFOF](https://open.spotify.com/track/1DXvEWgI1xoxmKv2Zd3pNE) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/5X0bIKvPtSDo4NpXqgrB6p) | 3:08 |
+| 94 | [U \(Man Like\)](https://open.spotify.com/track/2a8HLMRc6E0AM4xXiQ4wh6) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 2:25 |
+| 95 | [Home](https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Home](https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy) | 2:36 |
+| 96 | [Baby Blu](https://open.spotify.com/track/57BSFXytUc9trbqP9e3qrF) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/4ghm3TST2NwYOIAd5QHjbU) | 4:41 |
 | 97 | [Charlie](https://open.spotify.com/track/6SPOM20nWbQSBvTwzgIzqg) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Charlie](https://open.spotify.com/album/5p3g2nCVAeUIXzhBtTYWux) | 3:10 |
-| 98 | [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 |
-| 99 | [Faith](https://open.spotify.com/track/5fLZQWarUISdz4attMFTXl) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [i,i](https://open.spotify.com/album/54DU59anGQsdrFP7utpshG) | 3:37 |
-| 100 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/3sPpFnxfeb2grY6cH9JYk9) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/336iT9Zlon2t5PozcmH8Hu) | 4:07 |
+| 98 | [religion \(u can lay your hands on me\)](https://open.spotify.com/track/3sPpFnxfeb2grY6cH9JYk9) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [forevher](https://open.spotify.com/album/336iT9Zlon2t5PozcmH8Hu) | 4:07 |
+| 99 | [Not](https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo) | 6:07 |
+| 100 | [Lovestained](https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/7navB8hDkagN6t01k7dBBx) | 2:55 |
 
 Snapshot ID: `Zfg+WAAAAADpHK8QwvY/Ck7+8woP7S5D`

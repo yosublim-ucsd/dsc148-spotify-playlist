@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 356173,
       "name": "A Hajnal K\u00f6sz\u00f6nt\u00e9se",
       "url": "https://open.spotify.com/track/5hk7bSem5WjfOs1hOfLcAq"
@@ -572,6 +572,24 @@
       "duration_ms": 192110,
       "name": "F\u00e6cele",
       "url": "https://open.spotify.com/track/36P9S31Td4pdmDd95c9OGe"
+    },
+    {
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN"
+      },
+      "artists": [
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291569,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ"
     },
     {
       "album": {
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 378866,
       "name": "Lady of the Depe",
       "url": "https://open.spotify.com/track/0R5QKL9pWF89Ihl7kOoUEa"
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 455200,
       "name": "Lorn and Loath",
       "url": "https://open.spotify.com/track/7dEaI9CRR47tyamPx1lBfP"
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 292773,
       "name": "R\u00e4ven",
       "url": "https://open.spotify.com/track/6RWqj44MynFix4pFyhI9t9"
@@ -2442,7 +2460,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 339773,
       "name": "Varjo",
       "url": "https://open.spotify.com/track/5V7GpFS9TX3JnNJtdDxNqR"
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 257579,
       "name": "Ymir",
       "url": "https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR"

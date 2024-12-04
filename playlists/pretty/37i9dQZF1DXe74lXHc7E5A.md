@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Kendrick Lamar
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,648 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,683 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe74lXHc7E5A.md) - [plain]
 | 49 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
 | 50 | [Thang For You \(feat\. NoCap\)](https://open.spotify.com/track/39fKVWP7D9qAmkM8qjRQoC) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 4:19 |
 | 51 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 |
-| 52 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
-| 53 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 |
+| 52 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 |
+| 53 | [Konongo Zongo](https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [The Villain I Never Was](https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg) | 2:41 |
 | 54 | [Stop Giving Me Advice \(with Jack Harlow & Dave\)](https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Stop Giving Me Advice](https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv) | 4:02 |
 | 55 | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/track/2ReP8wMRWXJIF91TZ9CjZZ) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Allure \(feat\. Future & Mike WiLL Made\-It\)](https://open.spotify.com/album/25gXlZRYlLdjd3iOjB0FDQ) | 3:10 |
 | 56 | [Belly](https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Belly](https://open.spotify.com/album/6OOXrTmyNBxuH59MpCaKAo) | 2:56 |

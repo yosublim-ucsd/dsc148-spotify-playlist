@@ -1,6 +1,6 @@
 {
   "description": "\uc720\uc800\ubcc4 \ub9de\ucda4\uc73c\ub85c \ucd5c\uc2e0 \ud31d \uc74c\uc545\ub4e4\uc744 \ucd94\ucc9c\ud574 \ub4dc\ub9bd\ub2c8\ub2e4.",
-  "num_followers": 42314,
+  "num_followers": 42450,
   "original_name": "Pop \ud130\uc9c0\ub294 \ud31d\ucf58 \ud55c \uc785",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-08-14 01:09:28",
       "album": {
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Columbia",
+      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
+    },
+    {
+      "added_at": "2024-08-14 01:09:28",
+      "album": {
         "name": "Good Girl Gone Bad: Reloaded",
         "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
-    },
-    {
-      "added_at": "2024-08-14 01:09:28",
-      "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Columbia",
-      "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
       "added_at": "2024-08-14 01:09:28",
@@ -875,22 +875,22 @@
     {
       "added_at": "2024-08-14 01:09:28",
       "album": {
-        "name": "Dial Drunk (with Post Malone)",
-        "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 213817,
-      "name": "Dial Drunk (with Post Malone)",
-      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     }
   ],
   "unique_name": "Pop \ud130\uc9c0\ub294 \ud31d\ucf58 \ud55c \uc785",

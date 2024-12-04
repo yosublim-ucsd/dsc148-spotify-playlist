@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101 likes - 223 songs - 12 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 102 likes - 223 songs - 12 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 222 | [L35af](https://open.spotify.com/track/4CBVNHEJSOsBEMFDcufcro) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:07 |
 | 223 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbjGIAAAAAD+AojjPZ6vDYF8JIr12TDS`
+Snapshot ID: `AbjLtgAAAABmStUKqeGzl/u927GFmmkW`

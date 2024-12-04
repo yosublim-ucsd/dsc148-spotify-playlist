@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 186126,
+  "num_followers": 186173,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAAWaqj5qlveA2l9MccZxT2t",
+  "snapshot_id": "Z0z4gAAAAAA7bbuILF07lc+7XzzliY1E",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 193765,
+      "name": "I'd Do Anything To Make You Smile",
+      "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 187266,
       "name": "WARSAW (feat. 2forwOyNE)",
       "url": "https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 193765,
-      "name": "I'd Do Anything To Make You Smile",
-      "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
     },
     {
       "added_at": null,
@@ -911,22 +911,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deadpool",
-        "url": "https://open.spotify.com/album/2qL2in6zVsO6Hxm8CH7tKs"
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
       },
       "artists": [
         {
-          "name": "Heretic Klick",
-          "url": "https://open.spotify.com/artist/6Jqut9RUUIl7KksiQ6omuU"
-        },
-        {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
         }
       ],
-      "duration_ms": 111888,
-      "name": "Deadpool",
-      "url": "https://open.spotify.com/track/7gw9HXq83fuwCiD343QwZD"
+      "duration_ms": 203612,
+      "name": "DRIP DROP (feat. Cyhi The Prynce)",
+      "url": "https://open.spotify.com/track/19wtw9FEDtbf5z9p5KDCy9"
     },
     {
       "added_at": null,

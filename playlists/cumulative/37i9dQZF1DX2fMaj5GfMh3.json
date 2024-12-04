@@ -417,6 +417,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7ErfdKwwn9bXBfdesT1AoU"
+      },
+      "artists": [
+        {
+          "name": "OGENE",
+          "url": "https://open.spotify.com/artist/03MaDuGA6vbzj9xRKljrI8"
+        },
+        {
+          "name": "OG3NE",
+          "url": "https://open.spotify.com/artist/1SiCF4gVjnR5iAIwk1nkXo"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217649,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5CCS7S9pJxDrjYl1cmvZh7"
+    },
+    {
+      "album": {
         "name": "All Is Ours",
         "url": "https://open.spotify.com/album/2dzydQ4Kt36UkRZOOZZRUT"
       },
@@ -2334,7 +2356,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 154504,
       "name": "Criminals",
       "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
@@ -2889,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "DELUSIONAL",
+        "url": "https://open.spotify.com/album/75eL9BXjGoyQGFZQ8gWeZe"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195859,
+      "name": "DELUSIONAL",
+      "url": "https://open.spotify.com/track/1eGgMQyOubLxfZjbROuAR4"
+    },
+    {
+      "album": {
         "name": "Diamond",
         "url": "https://open.spotify.com/album/0hYdYebiJqcvRG1dD6BpX0"
       },
@@ -3084,7 +3124,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 194280,
       "name": "Don't Come Crying To Me Now",
       "url": "https://open.spotify.com/track/1IImRpPBhIauTOWtz5USiD"
@@ -3426,7 +3466,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 170489,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/7hltDDKkXw4dp6zQosSGak"
@@ -3752,7 +3792,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 167953,
       "name": "Evol Love",
       "url": "https://open.spotify.com/track/7muf6AxPAt2y32KiDgs0kB"
@@ -5626,10 +5666,28 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 201153,
       "name": "Higher",
       "url": "https://open.spotify.com/track/3ST1g55sl9NDYOw5BwtaqT"
+    },
+    {
+      "album": {
+        "name": "His Problem Instead",
+        "url": "https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163989,
+      "name": "His Problem Instead",
+      "url": "https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA"
     },
     {
       "album": {
@@ -5788,7 +5846,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
@@ -6048,6 +6106,24 @@
       "duration_ms": 230855,
       "name": "I Am Free",
       "url": "https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T"
+    },
+    {
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/3XsUZ5vWPSyUktmGIkglVe"
+      },
+      "artists": [
+        {
+          "name": "ROND\u00c9",
+          "url": "https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173516,
+      "name": "I Believe in Love",
+      "url": "https://open.spotify.com/track/0NLUDrObXdkRmZZjK3V7h3"
     },
     {
       "album": {
@@ -7824,7 +7900,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 216058,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/0el0sWkgn2hViZJmYyJdK4"
@@ -8105,6 +8181,24 @@
     },
     {
       "album": {
+        "name": "BACK TO BLONDE",
+        "url": "https://open.spotify.com/album/059SwPQ4t5vYxB4hOq4mLl"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/2SirJ3tf8AIjX8zBEKAGfe"
+    },
+    {
+      "album": {
         "name": "Me Against My Head",
         "url": "https://open.spotify.com/album/0tmn7v8vBOhVIksEpxJ2uh"
       },
@@ -8264,6 +8358,24 @@
       "duration_ms": 200888,
       "name": "Mend The Silence",
       "url": "https://open.spotify.com/track/6feFYuv2IHjFexCcXDhUz8"
+    },
+    {
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/6v6O07aMwdAkBtEuviGe33"
     },
     {
       "album": {
@@ -8596,7 +8708,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 205651,
       "name": "My Future",
       "url": "https://open.spotify.com/track/1DVuojxZO0ow17J5Ihj53z"
@@ -8762,7 +8874,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 191133,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/0UZfzqueATeUHIjacJPS7Y"
@@ -9044,7 +9156,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 174666,
       "name": "Not Going Anywhere",
       "url": "https://open.spotify.com/track/2xawDSDpOeTSi45sKtSwSZ"
@@ -9128,6 +9240,24 @@
       "duration_ms": 187013,
       "name": "Nu Ik Niet Meer Over Je Schrijf",
       "url": "https://open.spotify.com/track/2wvPA1ZpNEtewvbngmbOXY"
+    },
+    {
+      "album": {
+        "name": "number one girl",
+        "url": "https://open.spotify.com/album/5R7uaKp0OOVFhcAruLmi2G"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216442,
+      "name": "number one girl",
+      "url": "https://open.spotify.com/track/02CrqOYzrJR8fYOffhvRZZ"
     },
     {
       "album": {
@@ -10319,6 +10449,32 @@
     },
     {
       "album": {
+        "name": "Remember Me (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122053,
+      "name": "Remember Me (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET"
+    },
+    {
+      "album": {
         "name": "Rest In Peace",
         "url": "https://open.spotify.com/album/65kQ2jcrYIYAMNiE5Zi704"
       },
@@ -10348,7 +10504,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 220666,
       "name": "right person, wrong time",
       "url": "https://open.spotify.com/track/1i9B60CCWKfNOIKVhXmDzf"
@@ -10608,7 +10764,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 203621,
       "name": "Safety Net",
       "url": "https://open.spotify.com/track/78VpLcR9t7mSZGOBEsYOfp"
@@ -11330,7 +11486,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 194813,
       "name": "So Naive",
       "url": "https://open.spotify.com/track/3F1N7UKQ1ecGuARbGm9n9y"
@@ -11616,7 +11772,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 167621,
       "name": "Spot a Fake",
       "url": "https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx"
@@ -11752,7 +11908,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 234366,
       "name": "Stars Will Align",
       "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
@@ -12988,7 +13144,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 190560,
       "name": "Up all night",
       "url": "https://open.spotify.com/track/6STf1qR7fYRdyJdszXwPS3"

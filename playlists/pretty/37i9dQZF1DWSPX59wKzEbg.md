@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSPX59wKzEbg.md) - [plain]
 
 > A festive mix of Christmas carols and classical crossover favorites, perfect for spending time with family this holiday season\. Cover: The Bocellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,752 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,022 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,535 songs - 3 day 20 hr 59 min
+1,537 songs - 3 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [ANY DAY](https://open.spotify.com/track/5SWEws8tWvOvql08LeJD2G) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [AROMATIC](https://open.spotify.com/album/5OMqaGaCzjInevG0ji1kFU) | 3:37 | 2023-09-26 | 2023-09-28 |
 | [ANY DAY](https://open.spotify.com/track/7bgTx89SaMVK5ii4nrX8uM) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [AROMATIC](https://open.spotify.com/album/6pWUe2jfsIGEYnYj6FlBbT) | 3:37 | 2023-09-26 | 2023-10-04 |
 | [Anyway](https://open.spotify.com/track/5n3V2VDdanYl4LOqUB53Tx) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Anyway](https://open.spotify.com/album/47z1EcMUrBTt3HJu87bqpB) | 3:36 | 2022-05-26 | 2022-06-25 |
+| [AOS](https://open.spotify.com/track/7wUXGC5UqNIL8Rj4siTwzr) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP) | [AOS](https://open.spotify.com/album/1rY6739giM1uBqMwc1stBe) | 3:40 | 2024-12-03 |  |
 | [apart](https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [apart](https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr) | 2:56 | 2023-04-04 | 2023-09-13 |
 | [APART](https://open.spotify.com/track/7zzaYtfY8m5LGWMhrV5jJW) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [APART](https://open.spotify.com/album/4bCqpGMScqjIAYFiTkG7qC) | 3:16 | 2023-11-28 | 2023-12-06 |
 | [APOLOGIZE](https://open.spotify.com/track/6DGu7wBVC8zvLHRtEOdk9S) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [APOLOGIZE](https://open.spotify.com/album/4eXXRhCwxq1M5x6nr9rnm9) | 2:33 | 2022-07-12 | 2022-08-19 |
@@ -695,6 +696,7 @@
 | [NIGHT DANCER \- Yaffle Holiday Remix \- Spotify Singles](https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [NIGHT DANCER \(Yaffle Holiday Remix \- Spotify Singles\)](https://open.spotify.com/album/6F1AsAlWiVu24npdbNVbnt) | 3:51 | 2023-12-05 | 2024-01-17 |
 | [Night Session](https://open.spotify.com/track/2Ne03AM5kPOFEi5HKjRrmi) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D) | [Night Session](https://open.spotify.com/album/1h14fgwVDelTabJJkPlWTn) | 2:29 | 2022-06-28 | 2022-07-29 |
 | [Night Time \- Bad Milk Remix](https://open.spotify.com/track/4NFRVdkss14n6jEJ40fUKZ) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa), [Bad Milk](https://open.spotify.com/artist/68pfAx9ScJhEfTjrEmiM8X) | [Night Time \(Bad Milk Remix\)](https://open.spotify.com/album/5egZEVizf7vaTBvW3hpjny) | 2:16 | 2024-11-06 | 2024-11-13 |
+| [Nightglow Dreamer](https://open.spotify.com/track/5BqfuwS9e5dScbSrclgQjT) | [Wendy Wander](https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF), [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Nightglow Dreamer](https://open.spotify.com/album/5rAoX1PnzxNoGQd4RQDgky) | 4:29 | 2024-12-03 |  |
 | [No Pressure](https://open.spotify.com/track/620i08CTZIo1K9ycN144lg) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [No Pressure](https://open.spotify.com/album/57ZF8cCdV6bjk1Eu9Po6oa) | 3:36 | 2022-11-10 | 2023-03-15 |
 | [NO TIME](https://open.spotify.com/track/1yKNCtOGmtH7abfZGRV9Oc) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [NO TIME](https://open.spotify.com/album/27jDdZginjmRgglqUkcQ5N) | 2:40 | 2022-11-22 | 2023-02-03 |
 | [Noidleap](https://open.spotify.com/track/5cxX4To7z0J2XlySIoBqea) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [noidleap](https://open.spotify.com/album/2P9VxOeGJpCu9SuqBXAujz) | 3:23 | 2023-09-20 | 2023-09-21 |
@@ -773,7 +775,7 @@
 | [Pixie](https://open.spotify.com/track/0cY7dMIDQEvJpm9QLhwUJ5) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Pixie](https://open.spotify.com/album/05uzTmVeUHezTbQ1TKLsCB) | 5:12 | 2022-05-26 | 2022-06-17 |
 | [Plastic Romance](https://open.spotify.com/track/7AxZFaSZFX9QhTiWHwh06g) | [HOME](https://open.spotify.com/artist/05TvJ2uTExkaxykVebDcJB) | [Plastic Romance](https://open.spotify.com/album/2zOwVX7gdy7Ufc8BxAqKux) | 4:53 | 2024-05-14 | 2024-06-05 |
 | [Playback](https://open.spotify.com/track/0cyepU0mCfmbvZdQMKP4El) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [TWO](https://open.spotify.com/album/0ICXXs5PZGSqrXcogtXezO) | 3:07 | 2022-05-26 | 2023-02-03 |
-| [plum](https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [plum](https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr) | 3:20 | 2024-09-04 |  |
+| [plum](https://open.spotify.com/track/7DnLX5NYns6rw9IqPcyDNg) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [plum](https://open.spotify.com/album/4X1QUjwxbC4aatDurNoZDr) | 3:20 | 2024-09-04 | 2024-12-04 |
 | [Pluto](https://open.spotify.com/track/4BgjikxDGRtrzGkuNmTsZo) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [住](https://open.spotify.com/album/1AbYtHL8CaXQgJIu8ctq7C) | 3:10 | 2023-01-10 | 2023-01-18 |
 | [Pointless 5](https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze) | [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Pointless 5](https://open.spotify.com/album/18AtpuxDZUVuwRk4M91IYX) | 4:18 | 2024-05-23 | 2024-11-03 |
 | [Polaroid](https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Polaroid](https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf) | 3:14 | 2023-02-07 | 2023-02-15 |
@@ -1258,7 +1260,7 @@
 | [エトセトラ](https://open.spotify.com/track/2K0ilWsu6Oo0BK1Zsb8UJt) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [エトセトラ](https://open.spotify.com/album/43Ap150hU1yjJYlmI7Y8IX) | 3:17 | 2024-08-07 |  |
 | [オトナブルー](https://open.spotify.com/track/4fMewVWtew1oB6d3E8x9pp) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [オトナブルー](https://open.spotify.com/album/1zOsMN6Zyx1qMlpi29PMDF) | 3:05 | 2024-04-16 |  |
 | [オープンエンド](https://open.spotify.com/track/69wC7CS0O12zmn0GYP31aR) | [家主](https://open.spotify.com/artist/2rLK1nmuxeVG9mtZMWf3GB) | [オープンエンド](https://open.spotify.com/album/08GxJarYWyPK3qic88we7u) | 5:06 | 2023-11-14 | 2023-11-22 |
-| [カルト](https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [カルト](https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb) | 3:48 | 2024-04-16 |  |
+| [カルト](https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [カルト](https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb) | 3:48 | 2024-04-16 | 2024-12-04 |
 | [カレイドスコウプ](https://open.spotify.com/track/4VIQJIfEgvSr2p1AuUVHei) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [カレイドスコウプ](https://open.spotify.com/album/1cM6c96lnb3MLqUOHX5qyM) | 3:28 | 2023-12-19 | 2023-12-21 |
 | [カンタンミュージック](https://open.spotify.com/track/4rnvQyfrahBidXHGuzi5rk) | [ゆーり](https://open.spotify.com/artist/5qUT9YBghleRCXg0WifEzf) | [カンタンミュージック](https://open.spotify.com/album/1dGFGfLlZp3SfnQVQaJJEt) | 1:40 | 2024-10-16 | 2024-10-23 |
 | [ガーデン](https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 3:49 | 2024-04-16 |  |

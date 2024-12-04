@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-771 songs - 2 day 12 hr 49 min
+772 songs - 2 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,7 @@
 | [Don't Get Around Much Anymore](https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:03 | 2023-01-18 | 2023-10-11 |
 | [Don't Go To Strangers](https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:48 | 2022-10-27 |  |
 | [Don't Love Me](https://open.spotify.com/track/0zDUzk5CwhgMctfuIP4eez) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:39 | 2022-10-27 |  |
-| [Don't Misunderstand](https://open.spotify.com/track/4vVxrc4FqD6FdolnLw3hlD) | [Jimmy Heath](https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Letter](https://open.spotify.com/album/03bWBECzM4shXQqXk0Beu4) | 5:32 | 2022-10-27 |  |
+| [Don't Misunderstand](https://open.spotify.com/track/4vVxrc4FqD6FdolnLw3hlD) | [Jimmy Heath](https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Love Letter](https://open.spotify.com/album/03bWBECzM4shXQqXk0Beu4) | 5:32 | 2022-10-27 | 2024-12-04 |
 | [Don't Take Your Love From Me](https://open.spotify.com/track/3PTD2eturmZsdedW6reT1p) | [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Harlem On My Mind](https://open.spotify.com/album/2ebxe3beKvg6ee7XJkvxEd) | 4:52 | 2022-10-27 |  |
 | [Don't Think Twice, It's Alright](https://open.spotify.com/track/6UeCjzfLUBhHOtney81sPn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [The Beat Goes On](https://open.spotify.com/album/6L6CnGHpTnvj3BUf441OCh) | 4:40 | 2022-10-27 |  |
 | [Don't You Know I Care](https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 4:10 | 2023-10-19 |  |
@@ -222,6 +222,7 @@
 | [Emily](https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Summertime](https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7) | 4:47 | 2023-10-19 |  |
 | [Ev'rytime We Say Goodbye](https://open.spotify.com/track/72KHUsa4UyTXpSf7jRb1ih) | [Mark Sherman](https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten) | [My Other Voice](https://open.spotify.com/album/4bLtP25ArMR6Athup5vBTH) | 7:07 | 2024-03-20 |  |
 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 | 2022-10-27 |  |
+| [Everything Happens To Me](https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI) | [Gerry Mulligan Sextet](https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1) | [Presenting The Gerry Mulligan Sextet](https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y) | 5:23 | 2024-07-17 |  |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 | 2022-10-27 |  |
 | [Excerpts From The Blues](https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:04 | 2022-10-27 |  |
 | [Exit Music](https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ) | [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Songs: The Art of the Trio, Vol\. 3](https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9) | 4:23 | 2023-01-03 |  |
@@ -518,7 +519,7 @@
 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 | 2022-10-27 |  |
 | [Petite Fleur](https://open.spotify.com/track/2ALXKyI9lB1HoIwJh7I2v0) | [Sidney Bechet](https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk) | [Les Années Bechet](https://open.spotify.com/album/6MSDPMpPCInQbgW8xHDilS) | 3:18 | 2022-10-27 |  |
 | [Plaisir D'Amour](https://open.spotify.com/track/6a73OkTQ4v6XQp9HQyJxg4) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [A Paris](https://open.spotify.com/album/5lANN9hQYnITPzRPZxjYPw) | 3:10 | 2022-10-27 | 2023-06-04 |
-| [Play Ray](https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:31 | 2024-02-01 |  |
+| [Play Ray](https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:31 | 2024-02-01 | 2024-12-04 |
 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 | 2022-10-27 |  |
 | [Poinciana](https://open.spotify.com/track/4lyupu0V7V9CoKhH52sfS8) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Poinciana](https://open.spotify.com/album/34GHm1Z27zI3SfqAzqSPmM) | 4:33 | 2022-10-27 |  |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/283h1iiG7BVoKvTVAr5bSc) | [Gabriel Latchin Trio](https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl) | [The Moon and I](https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4) | 5:29 | 2022-10-27 | 2024-11-27 |
@@ -778,6 +779,6 @@
 | [Your Heart Is As Black As Night](https://open.spotify.com/track/1EUj3EeDYX5yldkBXkNDJP) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [My One And Only Thrill](https://open.spotify.com/album/0y5shamyoRauoNkHfUUmlA) | 2:42 | 2022-10-27 |  |
 | [Your Host](https://open.spotify.com/track/0FYVPV8QxPW9MyAyeESAFy) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 3:56 | 2022-10-27 | 2023-09-26 |
 | [Your Mind Is on Vacation](https://open.spotify.com/track/1GEf45ad9tT9njeDYw9WPx) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [I Don't Worry About A Thing](https://open.spotify.com/album/58vFtbiyFPwDKwdhRI5D4V) | 2:37 | 2022-10-27 | 2024-09-08 |
-| [ファイヴ・スポット・アフター・ダーク](https://open.spotify.com/track/4P1TebwKnny3sDFsdieibP) | [Curtis Fuller Quintet](https://open.spotify.com/artist/34508dX6EdFdskeHYJdnF1) | [Blues\-ette](https://open.spotify.com/album/2bgctvt26Q7muaHhaIIiWT) | 5:20 | 2022-10-27 | 2024-12-03 |
+| [ファイヴ・スポット・アフター・ダーク](https://open.spotify.com/track/4P1TebwKnny3sDFsdieibP) | [Curtis Fuller Quintet](https://open.spotify.com/artist/34508dX6EdFdskeHYJdnF1) | [Blues\-ette](https://open.spotify.com/album/2bgctvt26Q7muaHhaIIiWT) | 5:20 | 2022-10-27 |  |
 
 \*This playlist was first scraped on 2022-12-04. Prior content cannot be recovered.

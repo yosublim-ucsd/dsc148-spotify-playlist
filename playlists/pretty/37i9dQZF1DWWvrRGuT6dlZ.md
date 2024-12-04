@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: WHYLUCAS\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,594 likes - 56 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,591 likes - 56 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,14 +46,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 36 | [i don't wanna](https://open.spotify.com/track/2kSRbzzPiqNs4l9SpYOTvp) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [i don't wanna](https://open.spotify.com/album/7l1jU052bwN9KiQkHJEbeH) | 2:24 |
 | 37 | [The Halloweiner](https://open.spotify.com/track/6nChk1KHknDYvYHD5Iu3pT) | [The Benjamin Daniels](https://open.spotify.com/artist/4Wy7nvuhxWC7w6Qk0yombI) | [The Halloweiner](https://open.spotify.com/album/5hBZm9RgVjY3ZP1WFTEsnd) | 4:22 |
 | 38 | [ride](https://open.spotify.com/track/4klg0W1a4jjJoo3dZ2J3w5) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [ride](https://open.spotify.com/album/1mjQEAGHYSkeGvDs0QbTyg) | 3:19 |
-| 39 | [idm.](https://open.spotify.com/track/6chlClDQA8tRd2ivMF6P1L) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [lovlaine](https://open.spotify.com/artist/2QIkDLNdxDBgcJV6Fho6XV) | [idm.](https://open.spotify.com/album/4qd1ae0hRIeugoxqPAkfQv) | 2:22 |
+| 39 | [idm.](https://open.spotify.com/track/6chlClDQA8tRd2ivMF6P1L) | [rae](https://open.spotify.com/artist/1mvjo1U4RVEab0pQRbyr0x), [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [idm.](https://open.spotify.com/album/4qd1ae0hRIeugoxqPAkfQv) | 2:22 |
 | 40 | [Westbound](https://open.spotify.com/track/3wq2mXVMksowskYjsRdjfk) | [Wakeback](https://open.spotify.com/artist/7Ii1s6dXgeRbecpsF8e3nT) | [Westbound](https://open.spotify.com/album/6CVnohith8poCZiym53Sgr) | 4:34 |
 | 41 | [maybe maybe](https://open.spotify.com/track/2VLXxRymQbaA8gyd4Qo7Nr) | [Amelia Rae](https://open.spotify.com/artist/2sX71sKSY55XluACX5F4E6) | [maybe maybe](https://open.spotify.com/album/5cN0yYPOT3RbCEQm3F7pvS) | 1:52 |
 | 42 | [CALL MY BLUFF](https://open.spotify.com/track/03Hwch5cZBF4W5cPJct5nE) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [RICO WILLIAMS](https://open.spotify.com/album/4hzKGVmaoY36EpSP5w5yXZ) | 3:13 |
 | 43 | [IRON MIKE](https://open.spotify.com/track/409IZ4xmIq6Gfh5Cac6cpB) | [Martin Spacely](https://open.spotify.com/artist/6cvQeUligeZewhYmdVRtgS), [Sharbil](https://open.spotify.com/artist/5V0a9aIe2TMOGWECwBUG9n), [Ki Zikry](https://open.spotify.com/artist/28dh27mbtc24Yy62PPpm8t) | [IRON MIKE](https://open.spotify.com/album/028uBTEowynwUISRqpuGcz) | 2:35 |
 | 44 | [Love of Mine](https://open.spotify.com/track/20MZzZvDNhcdtdKjJiR8hc) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Love of Mine](https://open.spotify.com/album/3dlguyiLkT311RvdMXSIoX) | 3:49 |
 | 45 | [Bury It All](https://open.spotify.com/track/3JxZ7JbUuNteJ5EuWdc59A) | [Odelia Rei](https://open.spotify.com/artist/7G7I02yeiNBx3WwKYWlpaA) | [Bury It All](https://open.spotify.com/album/2Ev3Nt12wZzAzwDpReQQOH) | 3:17 |
-| 46 | [will you](https://open.spotify.com/track/3K21y81lZCx5ynElQUeAbG) | [lovlaine](https://open.spotify.com/artist/2QIkDLNdxDBgcJV6Fho6XV) | [will you](https://open.spotify.com/album/5Zcza657lulFAofDNMtFxE) | 3:48 |
+| 46 | [will you](https://open.spotify.com/track/3K21y81lZCx5ynElQUeAbG) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [will you](https://open.spotify.com/album/5Zcza657lulFAofDNMtFxE) | 3:48 |
 | 47 | [2025](https://open.spotify.com/track/5AAdFGz3cPQUl6SOoZ9nbU) | [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s) | [2025](https://open.spotify.com/album/3QGPvNpwttv2jOsnCmvp77) | 1:25 |
 | 48 | [Can't Heal My Heart](https://open.spotify.com/track/7dBOMWNBJFPzwGxUiUD5oh) | [DISHII](https://open.spotify.com/artist/5tzqjfthIsjdctRbRovv22), [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [Can't Heal My Heart](https://open.spotify.com/album/71srviZHaUPQIgQQeA2NyQ) | 2:40 |
 | 49 | [WALK WITH ME](https://open.spotify.com/track/7ElonvjX6hc30UcSlTd9oJ) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ), [lamin](https://open.spotify.com/artist/5fhS2j2Yz5Wsg0vISg63hT), [Gail Belmonte](https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ) | [RUNWAY HEARTBEATS](https://open.spotify.com/album/74hSmMk72AVe1Un09Giu19) | 2:49 |

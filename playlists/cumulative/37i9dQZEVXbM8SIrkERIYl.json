@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 171869,
       "name": "Bed Chem",
       "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
@@ -4324,7 +4324,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 85266,
       "name": "Carol of the Bells",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
@@ -8014,7 +8014,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -8318,7 +8318,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -12686,7 +12686,7 @@
       ],
       "date_added": "2022-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -12802,7 +12802,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -14502,7 +14502,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
@@ -16211,6 +16211,24 @@
     },
     {
       "album": {
+        "name": "This Wasn't Meant For You Anyway",
+        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284066,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "album": {
         "name": "messy in heaven",
         "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
       },
@@ -16338,7 +16356,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
@@ -16508,7 +16526,7 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -19264,7 +19282,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-29",
+      "date_removed": null,
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
@@ -22108,7 +22126,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -22652,7 +22670,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
@@ -24672,7 +24690,7 @@
       ],
       "date_added": "2024-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 206693,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
@@ -24906,7 +24924,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -27908,7 +27926,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 149461,
       "name": "WHATCHU KNO ABOUT ME (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"

@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2012227,
+  "num_followers": 2012238,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Led Zeppelin II (1994 Remaster)",
         "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 333893,
       "name": "Whole Lotta Love - 1990 Remaster",
       "url": "https://open.spotify.com/track/0hCB0YR03f6AmQaHbwWDe8"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 211933,
       "name": "Are You Gonna Go My Way",
       "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Permanent Vacation",
         "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 265773,
       "name": "Dude (Looks Like A Lady)",
       "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "The Attractions Of Youth",
         "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 278706,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "My Hero",
-      "url": "https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Black Pistol Fire",
         "url": "https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 161053,
       "name": "Suffocation Blues",
       "url": "https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
-        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Blame It on the Boom Boom",
-      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Typhoons",
         "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 236933,
       "name": "Typhoons",
       "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
+        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Blame It on the Boom Boom",
+      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/2ORySgkn0CbUMFbEoP1wwE"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
       },
@@ -1675,18 +1691,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+        "name": "Living In A Ghost Town",
+        "url": "https://open.spotify.com/album/78s6su3Cox4tVqNi6uTuCR"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 325906,
-      "name": "Separate Ways (Worlds Apart)",
-      "url": "https://open.spotify.com/track/2ORySgkn0CbUMFbEoP1wwE"
+      "duration_ms": 247010,
+      "name": "Living In A Ghost Town",
+      "url": "https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1703,22 +1719,6 @@
       "duration_ms": 185008,
       "name": "Your Master",
       "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Living In A Ghost Town",
-        "url": "https://open.spotify.com/album/78s6su3Cox4tVqNi6uTuCR"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 247010,
-      "name": "Living In A Ghost Town",
-      "url": "https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
-      },
-      "artists": [
-        {
-          "name": "BRKN LOVE",
-          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
-        }
-      ],
-      "duration_ms": 227064,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 224480,
       "name": "Sinister Kid",
       "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/7h4yt2jXMs1WSzMn1EecLd"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "duration_ms": 227064,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/3rzUxFVoUazdBrFkslPmYx"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Suck The Cherry",
-        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 183246,
-      "name": "Suck The Cherry",
-      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 268421,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Suck The Cherry",
+        "url": "https://open.spotify.com/album/6HoHlAFjY9X2xpPudaclQk"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 183246,
+      "name": "Suck The Cherry",
+      "url": "https://open.spotify.com/track/5A0h8ERfGBpChu89c2x6gi"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "JPEG RAW",
-        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 253126,
-      "name": "Maktub",
-      "url": "https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Natural Woman",
         "url": "https://open.spotify.com/album/6zT7gulN4APadlmslo2UHI"
       },
@@ -2331,18 +2315,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Happiness",
-        "url": "https://open.spotify.com/album/1hegGWYQg8BIOxUYOiLV39"
+        "name": "JPEG RAW",
+        "url": "https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 258122,
-      "name": "Picture Of You (X+W)",
-      "url": "https://open.spotify.com/track/6VuW1nDQkjDklEa0Z4MHIe"
+      "duration_ms": 253126,
+      "name": "Maktub",
+      "url": "https://open.spotify.com/track/4C4GC99d5OBAUtlCnsSGh7"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2359,6 +2343,22 @@
       "duration_ms": 271346,
       "name": "Vilified",
       "url": "https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/1hegGWYQg8BIOxUYOiLV39"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 258122,
+      "name": "Picture Of You (X+W)",
+      "url": "https://open.spotify.com/track/6VuW1nDQkjDklEa0Z4MHIe"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2419,6 +2419,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "The Very Best Of Mountain",
+        "url": "https://open.spotify.com/album/2ZAWbq0uu0jd6OOLuTz0o9"
+      },
+      "artists": [
+        {
+          "name": "Mountain",
+          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
+        }
+      ],
+      "duration_ms": 150053,
+      "name": "Mississippi Queen",
+      "url": "https://open.spotify.com/track/5fx7fRMsdrj56XSbY2iudA"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Are You in a Cult?",
         "url": "https://open.spotify.com/album/0gpASYYFSbwON3aNeR3Kms"
       },
@@ -2447,22 +2463,6 @@
       "duration_ms": 341666,
       "name": "This Land",
       "url": "https://open.spotify.com/track/0Jxl1PdSbiQPYRPVdzBdES"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "The Very Best Of Mountain",
-        "url": "https://open.spotify.com/album/2ZAWbq0uu0jd6OOLuTz0o9"
-      },
-      "artists": [
-        {
-          "name": "Mountain",
-          "url": "https://open.spotify.com/artist/7LCp4MN0SOIVWlssid9KyE"
-        }
-      ],
-      "duration_ms": 150053,
-      "name": "Mississippi Queen",
-      "url": "https://open.spotify.com/track/5fx7fRMsdrj56XSbY2iudA"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2535,22 +2535,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Learn to Say Goodbye",
-        "url": "https://open.spotify.com/album/32Ss862MwwfqXv7gJeahK9"
-      },
-      "artists": [
-        {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
-        }
-      ],
-      "duration_ms": 182013,
-      "name": "Learn to Say Goodbye",
-      "url": "https://open.spotify.com/track/6538q47hdOo4SUuuaKKZ3s"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "The Essential Ted Nugent",
         "url": "https://open.spotify.com/album/0n5v0O4M1D6Cw5d4KZb5mQ"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 225466,
       "name": "Just What the Doctor Ordered",
       "url": "https://open.spotify.com/track/6uufS093628MRruPbXiW5g"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Learn to Say Goodbye",
+        "url": "https://open.spotify.com/album/32Ss862MwwfqXv7gJeahK9"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 182013,
+      "name": "Learn to Say Goodbye",
+      "url": "https://open.spotify.com/track/6538q47hdOo4SUuuaKKZ3s"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2647,6 +2647,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Can't Get There From Here",
+        "url": "https://open.spotify.com/album/4YHmbZbBNbtkiiLDVOeqeJ"
+      },
+      "artists": [
+        {
+          "name": "Great White",
+          "url": "https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Rollin' Stoned",
+      "url": "https://open.spotify.com/track/6g07pGLohIi4rVWByiR2uG"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "High On You (feat. Nikki Sixx)",
         "url": "https://open.spotify.com/album/6IAAWZgHbLYDKK1z85J8Uf"
       },
@@ -2663,22 +2679,6 @@
       "duration_ms": 229481,
       "name": "High On You (feat. Nikki Sixx)",
       "url": "https://open.spotify.com/track/7b1R3hpUwhotl1006F9t89"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Can't Get There From Here",
-        "url": "https://open.spotify.com/album/4YHmbZbBNbtkiiLDVOeqeJ"
-      },
-      "artists": [
-        {
-          "name": "Great White",
-          "url": "https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Rollin' Stoned",
-      "url": "https://open.spotify.com/track/6g07pGLohIi4rVWByiR2uG"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2747,22 +2747,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Everyone's On Dope",
-        "url": "https://open.spotify.com/album/3M1Z7Qh9FgQ0muxhshho87"
-      },
-      "artists": [
-        {
-          "name": "Crossbone Skully",
-          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
-        }
-      ],
-      "duration_ms": 197225,
-      "name": "Everyone's On Dope",
-      "url": "https://open.spotify.com/track/0fxyJKQxMB8wi1efCN3LEm"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Quick Escape",
         "url": "https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY"
       },
@@ -2775,6 +2759,22 @@
       "duration_ms": 286573,
       "name": "Quick Escape",
       "url": "https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Everyone's On Dope",
+        "url": "https://open.spotify.com/album/3M1Z7Qh9FgQ0muxhshho87"
+      },
+      "artists": [
+        {
+          "name": "Crossbone Skully",
+          "url": "https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd"
+        }
+      ],
+      "duration_ms": 197225,
+      "name": "Everyone's On Dope",
+      "url": "https://open.spotify.com/track/0fxyJKQxMB8wi1efCN3LEm"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -2907,22 +2907,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Funeral Mixtape",
         "url": "https://open.spotify.com/album/2LXcr5m7LagfVGni7NcYQy"
       },
@@ -2951,6 +2935,22 @@
       "duration_ms": 195986,
       "name": "Welcome to Silvertown",
       "url": "https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2024-11-08 05:00:00",

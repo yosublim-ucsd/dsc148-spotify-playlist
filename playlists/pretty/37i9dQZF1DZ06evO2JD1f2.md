@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,005 likes - 53 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,010 likes - 53 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 26 | [Lick Back Remix \(feat\. Future & Young Thug\)](https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 3:13 |
 | 27 | [Dirt McGerk \(feat\. EST Gee & Lil Crix\)](https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Crix](https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk) | [Pistolz & Pearlz](https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b) | 3:53 |
 | 28 | [Opinion Base](https://open.spotify.com/track/2IK9fOwtb9E9s28dRs56oA) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:26 |
-| 29 | [Morals](https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 1:46 |
+| 29 | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19) | 3:51 |
 | 30 | [Bigger Than Life Or Death](https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 1:43 |
-| 31 | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19) | 3:51 |
+| 31 | [Morals](https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 1:46 |
 | 32 | [I Still Dont Feel Nun](https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:04 |
 | 33 | [Spin](https://open.spotify.com/track/04ZrEsPyVGsahWXTegcO33) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Last Ones Left](https://open.spotify.com/album/1xwuoLGU6bjyiGArJAVYeH) | 2:21 |
 | 34 | [UNDEFEATED](https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:45 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 52 | [Lamborghini Geeski](https://open.spotify.com/track/3yFeGITfaWIQpWK2UQc8BM) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 2:51 |
 | 53 | [Special](https://open.spotify.com/track/2fTWKA83JIAdEJk8vLUvy6) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 2:31 |
 
-Snapshot ID: `Z0unAAAAAACsf3eqGDSaqwoFubRzPmq8`
+Snapshot ID: `Z0z4gAAAAADhL2C1cOtLPm9h31kYqqh4`

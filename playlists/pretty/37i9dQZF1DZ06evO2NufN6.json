@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 906996,
+  "num_followers": 907259,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAAYl7VyjSBVAfCK1kMduy6U",
+  "snapshot_id": "Z0z4gAAAAADPLUkJp3KplSFMO1ihjZSv",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Programs",
-        "url": "https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "Programs",
-      "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Divine Feminine",
         "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 272973,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/2puHJmjL4jvO19aEA7kzcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Programs",
+        "url": "https://open.spotify.com/album/4RRqzZEFULTx6pafDBvOqZ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Programs",
+      "url": "https://open.spotify.com/track/1883mCuSqnfnrWoq8i3myH"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GO:OD AM",
-        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 278506,
-      "name": "100 Grandkids",
-      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Macadelic",
         "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 188065,
       "name": "The Mourning After",
       "url": "https://open.spotify.com/track/0xppJmfnjIQnMbMOez9bwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 278506,
+      "name": "100 Grandkids",
+      "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 170861,
-      "name": "Loud",
-      "url": "https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Circles (Deluxe)",
         "url": "https://open.spotify.com/album/1YZ3k65Mqw3G8FzYlW1mmp"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 287871,
       "name": "Right",
       "url": "https://open.spotify.com/track/165cwz4wGlGz0uDBhxdKLY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 170861,
+      "name": "Loud",
+      "url": "https://open.spotify.com/track/2m9fyiIA1ADsjZTG9qcnQI"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Macadelic",
         "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 371870,
       "name": "The Question (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/29tKprMGnf4yxIhWmN0NHq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 159119,
-      "name": "Best Day Ever",
-      "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
     },
     {
       "added_at": null,
@@ -855,26 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/5lftuHeYvtCA64xGfUviwS"
       },
       "artists": [
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Iman Omari",
-          "url": "https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4"
         }
       ],
-      "duration_ms": 301769,
-      "name": "Fight the Feeling (feat. Kendrick Lamar & Iman Omari)",
-      "url": "https://open.spotify.com/track/0jFxJ1US3dmwQn7DJi269h"
+      "duration_ms": 256423,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/6x68G4xQBgQDQ5AQ6L6TsL"
     }
   ],
   "unique_name": "This Is Mac Miller",

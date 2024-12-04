@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-342 songs - 20 hr 8 min
+343 songs - 20 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Great Christmas](https://open.spotify.com/track/6pt8hwewlxOm7UZfEsx9t4) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Great Christmas](https://open.spotify.com/album/1BBSnDN7zRzoBf4bQncMGw) | 2:47 | 2022-12-11 |  |
 | [Hallelujah \- Christmas Version](https://open.spotify.com/track/7CVYW9e440Ffa8kyu6cC3Q) | [Jada Facer](https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf) | [Hallelujah \(Christmas Version\)](https://open.spotify.com/album/620sEzmHRuOfXiY2HhRZyN) | 2:53 | 2023-12-02 |  |
 | [Hallelujah Our King](https://open.spotify.com/track/0Zy6MFHQQv5saKuM0vxAli) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Joy To Our World](https://open.spotify.com/album/6rwwb34IZFoebbkLoMNwn4) | 4:07 | 2022-11-26 |  |
+| [Hark the Herald Angels Sing](https://open.spotify.com/track/453bOJVzeCVXuQU4RXboyp) | [Damascus Worship](https://open.spotify.com/artist/1QHljL6ZVxIi5bylNmFkFI), [Abby Randolph](https://open.spotify.com/artist/3q2FBte7n4cmspGBKivY1f) | [Here Comes the King](https://open.spotify.com/album/1SqJCGyOwcVtiqWJyT7L1T) | 5:17 | 2024-11-29 |  |
 | [Hark The Herald Angels Sing](https://open.spotify.com/track/7ry33QJNnX9YJFEo51yUQK) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Echo The Angels](https://open.spotify.com/album/0PdoYuZyaJ0uJz8YF0Pjpb) | 4:04 | 2023-11-03 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/5V6sMZv9k53ngSlMMxz6wE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/16zKXuUfl1d58gk4ntAJHr) | 4:22 | 2023-12-02 | 2024-07-30 |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6ROvyTNjYgIM7UmBdFwW74) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4cwPn3HcOg2Xil0QFInOFu) | 3:22 | 2024-10-27 |  |
@@ -292,7 +293,7 @@
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-12-11 |  |
 | [The First Noël](https://open.spotify.com/track/1SqCZGjHJGeSg1ZuKMDWqD) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [The First Noël](https://open.spotify.com/album/2tNbwGEri8pNkp8AmEf39f) | 4:19 | 2021-12-24 | 2024-07-30 |
 | [The Hope for All](https://open.spotify.com/track/6xRhLODIOh065PTQTj9008) | [Soul City Worship](https://open.spotify.com/artist/5LtsEFW2aTWHrlwv5R49pP) | [The Hope for All](https://open.spotify.com/album/6G1ViS0M7AxZ7a3AnICM03) | 4:57 | 2022-12-11 | 2023-12-03 |
-| [The Kings' Nutcracker Suite](https://open.spotify.com/track/5Re4LEkwp0Mty5PSTvpkNy) | [Kings Return](https://open.spotify.com/artist/1MCC8nsXurGKs7K2TXocBh) | [We Four Kings](https://open.spotify.com/album/3hDmMBXMnoNP6igeIJK6am) | 4:24 | 2023-12-15 |  |
+| [The Kings' Nutcracker Suite](https://open.spotify.com/track/5Re4LEkwp0Mty5PSTvpkNy) | [Kings Return](https://open.spotify.com/artist/1MCC8nsXurGKs7K2TXocBh) | [We Four Kings](https://open.spotify.com/album/3hDmMBXMnoNP6igeIJK6am) | 4:24 | 2023-12-15 | 2024-12-04 |
 | [The Manger \(with Josh Turner\)](https://open.spotify.com/track/7aKm5vWuizayEDJJSp0OiW) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [The Manger](https://open.spotify.com/album/07eR5Q7zlJXjotNfqekAjH) | 3:49 | 2022-11-26 |  |
 | [The More the Merrier](https://open.spotify.com/track/3n90yEGHncHiEQ991p7hEj) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The More the Merrier](https://open.spotify.com/album/7pEBFiztEnEPAs0WGJj36e) | 3:31 | 2024-11-29 |  |
 | [The One](https://open.spotify.com/track/4eTJECZAqZU9pfoB3JNwoF) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Every Christmas](https://open.spotify.com/album/417JYo0idxISlugwKE4fsb) | 3:53 | 2023-11-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,889 likes - 75 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,891 likes - 75 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 38 | [Green Cats Cave](https://open.spotify.com/track/1tHjVZCBWEERhd2IIa1m5J) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Green Cats Cave](https://open.spotify.com/album/0LIEVUcK68HEtUvfbY4E2o) | 2:42 |
 | 39 | [Cloudy](https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Cloudy](https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl) | 2:32 |
 | 40 | [some guitar thoughts](https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [some guitar thoughts](https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a) | 2:14 |
-| 41 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 |
-| 42 | [Stay and Wander](https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Field Notes](https://open.spotify.com/album/2JPUrDwBhVpbskpK0pPQX1) | 1:52 |
+| 41 | [Stay and Wander](https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Field Notes](https://open.spotify.com/album/2JPUrDwBhVpbskpK0pPQX1) | 1:52 |
+| 42 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 |
 | 43 | [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 |
 | 44 | [Joan of Arc.](https://open.spotify.com/track/2DrrxuNOhnpqJXLH36eR1S) | [Barnes Blvd.](https://open.spotify.com/artist/1sWWXO9dckUfAgKYJLZ8Nc) | [Last Summer](https://open.spotify.com/album/0cruHSkBmlUqwXDFxyAGl8) | 2:58 |
 | 45 | [Divine](https://open.spotify.com/track/0MKb6jtMMFY0FZNg6P3dAI) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Divine](https://open.spotify.com/album/4u4xybF9lWoWmLR7OzVeCR) | 2:27 |
@@ -58,17 +58,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 48 | [sekao](https://open.spotify.com/track/4c2TiYoJHIjEPZ5syRZhsY) | [Delayde](https://open.spotify.com/artist/254ga0emOv4GhfUUw5J16h) | [running around dreaming](https://open.spotify.com/album/2yTJ6fdaX9ZYGzdEJyrvna) | 2:12 |
 | 49 | [Secret](https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz) | [Brock Berrigan](https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o) | [Cadillac Mountain](https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul) | 1:43 |
 | 50 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
-| 51 | [Smooth](https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Smooth](https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N) | 2:02 |
-| 52 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 |
+| 51 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 |
+| 52 | [Smooth](https://open.spotify.com/track/1L6vtkHvjKWBIym93FmSPP) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Smooth](https://open.spotify.com/album/0QdTwm7awdhqUMJ55IqY2N) | 2:02 |
 | 53 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
-| 54 | [Senescence](https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [The Secret Life Of Octopodes](https://open.spotify.com/album/14PqfZoMyhJBYLTLRGlfZ5) | 2:36 |
-| 55 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |
-| 56 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 |
+| 54 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |
+| 55 | [ridley road](https://open.spotify.com/track/4F3obAUvUPgEmPWiFIaMvi) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [ridley road](https://open.spotify.com/album/06OqKg0tT2nX1oUqmbLVe6) | 2:24 |
+| 56 | [Senescence](https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [The Secret Life Of Octopodes](https://open.spotify.com/album/14PqfZoMyhJBYLTLRGlfZ5) | 2:36 |
 | 57 | [Move to safety](https://open.spotify.com/track/5QQHsWjHiEtkBQU2mQWiC2) | [PLIZ DO](https://open.spotify.com/artist/4RsIWJ8P0WvfDQHYpq3idB) | [Move to safety](https://open.spotify.com/album/4lFydtNuS4YFMEvQfPaoP2) | 2:15 |
 | 58 | [Dont.Be.Afraid.](https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk) | [DVLTVN](https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb) | [The Blyat Tapes,Vol.1](https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu) | 1:25 |
 | 59 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 |
-| 60 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
-| 61 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
+| 60 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
+| 61 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
 | 62 | [Curtis](https://open.spotify.com/track/1UAjBK0H7OFZy1dxxnW95B) | [Hike Willis](https://open.spotify.com/artist/1PWLabHIW3qul5FYx9TG9I) | [Curtis](https://open.spotify.com/album/0VbZxSS8ieynrZiXMPLUme) | 1:07 |
 | 63 | [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 |
 | 64 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 66 | [See You Tomorrow Sunshine](https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [See You Tomorrow Sunshine](https://open.spotify.com/album/7hVaLzmrmoyAEPU9WqSXZ6) | 2:07 |
 | 67 | [August](https://open.spotify.com/track/6WnEp9XsKFq5n88FzFT20Z) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P) | [Loops](https://open.spotify.com/album/7LdkHMP8fcMyfo85r1HvKJ) | 1:54 |
 | 68 | [ameagari](https://open.spotify.com/track/0B2GcFWwANIZMxLogzloY4) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [ameagari](https://open.spotify.com/album/23WueG2hgkf0L7NTt5w1Wv) | 4:12 |
-| 69 | [Make Up](https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Nineteen](https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi) | 1:06 |
-| 70 | [aigo](https://open.spotify.com/track/6fkrNwyHgSU1oaNUqRbFZh) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [aigo](https://open.spotify.com/album/23QUwYqYmJJ8oFU9zLWqa3) | 2:24 |
+| 69 | [aigo](https://open.spotify.com/track/6fkrNwyHgSU1oaNUqRbFZh) | [Kibishi](https://open.spotify.com/artist/0PK6cB0zu68dt8qx6DRn6G) | [aigo](https://open.spotify.com/album/23QUwYqYmJJ8oFU9zLWqa3) | 2:24 |
+| 70 | [Make Up](https://open.spotify.com/track/61JERhZCmTcba3dkm2k53O) | [Desired](https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt) | [Nineteen](https://open.spotify.com/album/69fOwmdCZIaWPE4OLLnuQi) | 1:06 |
 | 71 | [St\. Clements](https://open.spotify.com/track/4AzvNQcn1I4sZ2wJrW5ATq) | [Limes](https://open.spotify.com/artist/5o4dgimn1R07w1d2ZzpzpP), [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [St\. Clements](https://open.spotify.com/album/1XXmc02uygqHueQUYutfZZ) | 1:17 |
 | 72 | [Desire](https://open.spotify.com/track/5BMDnItXLkEKbVhDJlM1DE) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:11 |
 | 73 | [i dream of you every night](https://open.spotify.com/track/4Z5aQZdyQ8Fc3R7PE17T0e) | [lostlife.](https://open.spotify.com/artist/40OFkxP3djvsCg7Aj3d7sk) | [i dream of you every night](https://open.spotify.com/album/1aypmsUBuVvA4gG9mb40KL) | 2:27 |
-| 74 | [Vintage Erotica](https://open.spotify.com/track/6BrwbWbyecVwH7twX6pbm7) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Vintage Erotica](https://open.spotify.com/album/6RnTk4M9GwvyfCAzFGC41Q) | 2:13 |
-| 75 | [Night Sky](https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Forest](https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn) | 1:59 |
+| 74 | [Night Sky](https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Forest](https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn) | 1:59 |
+| 75 | [Vintage Erotica](https://open.spotify.com/track/6BrwbWbyecVwH7twX6pbm7) | [Ray Ben Rue](https://open.spotify.com/artist/0XBtKvTff8E8BIhtlxjVHv) | [Vintage Erotica](https://open.spotify.com/album/6RnTk4M9GwvyfCAzFGC41Q) | 2:13 |
 
 Snapshot ID: `ZfBnpAAAAAAWkML2biZE9EL4kYuph5VL`

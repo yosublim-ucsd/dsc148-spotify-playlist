@@ -284,7 +284,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 162646,
       "name": "Do You Wanna Be Loved Like This?",
       "url": "https://open.spotify.com/track/4KZl63jx8jkPNqfKcqkk5L"
@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "Unwrap My Heart",
+        "url": "https://open.spotify.com/album/0NNFk8ELkHpYQXodDvMSiC"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254931,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/5V1ovjPsTxdT7pEhwO5dHh"
+    },
+    {
+      "album": {
         "name": "The One I Need",
         "url": "https://open.spotify.com/album/6X8Qc5tagwfpDl4H2r5ceI"
       },
@@ -1322,10 +1340,32 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 194310,
       "name": "Unwrap My Heart",
       "url": "https://open.spotify.com/track/1gMLmlEVJvJKS3EOKdCpdp"
+    },
+    {
+      "album": {
+        "name": "Unwrap My Heart",
+        "url": "https://open.spotify.com/album/0ItScUgRovZGATcWhnF32t"
+      },
+      "artists": [
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "Tom Brownlow",
+          "url": "https://open.spotify.com/artist/78wKYRdzGGl4sYUFx5gRAn"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183702,
+      "name": "Unwrap My Heart (Tom Brownlow Remix)",
+      "url": "https://open.spotify.com/track/0xpcbVpeeqt5JCkTmj57Ya"
     },
     {
       "album": {

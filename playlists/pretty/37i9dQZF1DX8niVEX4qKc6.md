@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Feli Colina
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,402 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,415 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 33 | [María](https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Mi Primer Día Triste](https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo) | 3:49 |
 | 34 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 35 | [Barro Tal Vez \(with Luis Alberto Spinetta\)](https://open.spotify.com/track/3aCnoryvqXihyhd4znMsSb) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 3:45 |
-| 36 | [Rezo Por Vos \- Live](https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:48 |
-| 37 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 |
+| 36 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/3Riytw4egMe357gWrANdAr) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3) | 3:34 |
+| 37 | [Rezo Por Vos \- Live](https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:48 |
 | 38 | [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 |
 | 39 | [Chica Acuario](https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Chica Acuario](https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn) | 3:27 |
 | 40 | [Muchacha \(Ojos de Papel\)](https://open.spotify.com/track/1SXzI5Rnid2ApgNQPmROLm) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:07 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 46 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 |
 | 47 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 |
 | 48 | [Laberinto](https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Respirar Bajo el Agua](https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ) | 2:45 |
-| 49 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 |
-| 50 | [Lo Que Perdí](https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Lo Que Perdí](https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6) | 3:43 |
+| 49 | [Lo Que Perdí](https://open.spotify.com/track/3rUZXKkZdRFxomtORZJOv8) | [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Lo Que Perdí](https://open.spotify.com/album/5X8boMzLF3YUicrW48gHf6) | 3:43 |
+| 50 | [11 y 6](https://open.spotify.com/track/3yukeTj5XXNASMuq2ybNNv) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [No Sé Si Es Baires O Madrid](https://open.spotify.com/album/4WLwsEOqZXfYEJK9iLdGVs) | 3:57 |
 | 51 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 |
 | 52 | [En Redondel \- Acústica](https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos \(Acústico\)](https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC) | 4:31 |
 | 53 | [Fanky \- Live](https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:27 |

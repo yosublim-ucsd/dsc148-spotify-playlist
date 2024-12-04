@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 小曽根 真
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-358 songs - 1 day 4 hr 44 min
+359 songs - 1 day 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Deviation](https://open.spotify.com/track/1SowJLvffS3DpdSZSo7Dqp) | [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged) | [Deviation](https://open.spotify.com/album/0yu1Tjyt3bfdxTnwtiyUug) | 6:57 | 2024-11-05 | 2024-11-13 |
 | [Diamond](https://open.spotify.com/track/0arhxnQAkg44kM210Bkcyd) | [stim](https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g) | [Diamond](https://open.spotify.com/album/1BXLeznw9Wd14w2PshUVvc) | 5:50 | 2024-04-02 | 2024-05-29 |
 | [dnp](https://open.spotify.com/track/6H43tmO7fAnFGA0MCLHXpl) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [dnp](https://open.spotify.com/album/23tYBMC31KmtqRWhpZiaG6) | 4:11 | 2023-10-10 | 2023-11-29 |
+| [Drummer is Dreamer](https://open.spotify.com/track/4iNDk2CwA2L3ngXJ04efNz) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Drummer is Dreamer](https://open.spotify.com/album/45V0cmDFwq3DcelffosNVs) | 2:30 | 2024-12-03 |  |
 | [Dynamics](https://open.spotify.com/track/7wi3S0J8v5uA12cXZI4xug) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/2j45BDfC3FVhEbiExfU1oS) | 2:48 | 2023-11-29 | 2024-02-01 |
 | [Dynamics \(Piano Play\-Along\)](https://open.spotify.com/track/081owSLclSGfb3ehGeqGiJ) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/5Rrca8XULMLFX69dhgL0eX) | 2:48 | 2024-06-11 | 2024-11-11 |
 | [eden](https://open.spotify.com/track/2INM5qrVFHkFpfGWQ5FxLB) | [ひかりとだいち love SOIL&"PIMP"SESSIONS](https://open.spotify.com/artist/5kEUSsToZBCBfFr68aT7f9), [Hikari Mitsushima](https://open.spotify.com/artist/4ZX8Wr8KHHrW7radu6IwYG), [Daichi Miura](https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [eden](https://open.spotify.com/album/317j5AzcY1fL9NgKAMZIcD) | 3:57 | 2023-02-28 |  |
@@ -250,7 +251,7 @@
 | [Stella by Starlight](https://open.spotify.com/track/1chMKcHHoT8KVcr7DLDFJa) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Stella by Starlight](https://open.spotify.com/album/6iWNzs9A3kdLxipIOnx9Fv) | 4:38 | 2022-09-06 | 2022-10-05 |
 | [Stella's Cough](https://open.spotify.com/track/7c6RAOcYgwDFf0R6gusrbr) | [Senri Oe](https://open.spotify.com/artist/41DTvjqwAz1jgZCAZ6KTJG) | [Stella's Cough](https://open.spotify.com/album/3hX312ymuWRcEqmb4GNhWc) | 3:42 | 2023-05-23 | 2024-05-29 |
 | [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [小川晋平](https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 | 2023-07-25 | 2024-10-19 |
-| [Stompin at the M](https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [大津惇](https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ) | [Wind Loop Case 1](https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b) | 3:43 | 2023-09-12 |  |
+| [Stompin at the M](https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [大津惇](https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ) | [Wind Loop Case 1](https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b) | 3:43 | 2023-09-12 | 2024-12-04 |
 | [Straying In Alpacas](https://open.spotify.com/track/4v5hvT8W3s5Up04iRcAVF2) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Straying In Alpacas](https://open.spotify.com/album/7vQcyjPVLgqokSMq6TQZ8N) | 5:58 | 2024-10-08 |  |
 | [Suddenly Lovers](https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Suddenly Lovers](https://open.spotify.com/album/2emVZPJIwGzDKzCHtnAgnW) | 3:38 | 2023-09-12 | 2023-09-20 |
 | [Sunday Morning](https://open.spotify.com/track/0HqMK0qcqlYOQXaSASz3wM) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:59 | 2022-09-06 |  |

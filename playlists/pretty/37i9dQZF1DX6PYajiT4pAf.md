@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lola Indigo con Paulo Londra y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,302 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,346 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

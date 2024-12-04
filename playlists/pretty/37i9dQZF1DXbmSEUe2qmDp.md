@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Leo e Matheus
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,843 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,856 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Quem Fica Lembra \- Ao Vivo](https://open.spotify.com/track/3jC7Z3Af8zdj95Vd1j5TyO) | [Leo e Matheus](https://open.spotify.com/artist/6Ezj2v8IDNB9UllAtaNpma) | [Ao Vivo Em Rio Preto](https://open.spotify.com/album/7wB0kJ81KPQGIrO90qQCMo) | 2:22 |
 | 2 | [Solterei \- Ao Vivo](https://open.spotify.com/track/2giSZ3SuJ0qNHdEPzYVgAU) | [Lia Almeida](https://open.spotify.com/artist/16ylY6k93Jpm6FZde0uVB8) | [Lia Almeida \(Acústico em Goiânia\) \[Ao Vivo\]](https://open.spotify.com/album/2j5xxbWnGpDBBc643MCKEA) | 3:19 |
-| 3 | [Eu Tô Bem](https://open.spotify.com/track/3GkEfqETaUnkFyv27NYhw1) | [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi), [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V) | [Country Brasil \(Eu Tô Bem / Maturidade\)](https://open.spotify.com/album/6WEb8j49Akuh0QX3eE2Wlg) | 2:40 |
+| 3 | [Eu Tô Bem](https://open.spotify.com/track/3GkEfqETaUnkFyv27NYhw1) | [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [MVP Hits](https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi) | [Country Brasil \(Eu Tô Bem / Maturidade\)](https://open.spotify.com/album/6WEb8j49Akuh0QX3eE2Wlg) | 2:40 |
 | 4 | [Foguete Não Tem Ré \- Ao Vivo](https://open.spotify.com/track/1MP9p73U0GH5fLGsKo2irF) | [Carreiro & Capataz](https://open.spotify.com/artist/3JWhgnuhV4ew6C7cGJ8Khf) | [Essência Bruta \(Ao Vivo\)](https://open.spotify.com/album/5fFBzjmIcKh0zyW9gn1FL1) | 2:18 |
 | 5 | [Na Força do Ódio](https://open.spotify.com/track/265yVcXUOeQZbWL0WTK8oJ) | [Sandro e Cícero](https://open.spotify.com/artist/3asFzvfQUWzmAJQtWoL1u5), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Na Força do Ódio](https://open.spotify.com/album/6PI3RjnAVWWsHYQ5YtMtSX) | 2:53 |
 | 6 | [Sangue de Bruta](https://open.spotify.com/track/2WH1vUGHRgr2ziNai6sXMY) | [Eduarda Constantino](https://open.spotify.com/artist/44cCRIDY1ciF41nsdTLzqq), [Gaveta Produções](https://open.spotify.com/artist/2sw453nFBZIWyvkOHbMKcZ) | [Sangue de Bruta](https://open.spotify.com/album/6mMOtn9D9nBPUXAu93pjZV) | 2:33 |

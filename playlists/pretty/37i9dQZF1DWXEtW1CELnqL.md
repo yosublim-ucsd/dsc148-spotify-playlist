@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 
 > Laisse go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,958 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,016 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 15 | [My Own Worst Enemy](https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z) | [Lit](https://open.spotify.com/artist/5mgr0FFpvy267wKVAYg8qp) | [A Place In The Sun](https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp) | 2:49 |
 | 16 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 |
 | 17 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
-| 18 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
-| 19 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
+| 18 | [Fake It](https://open.spotify.com/track/4eAwB5pnKFTmsgc3zWoYO0) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 3:13 |
+| 19 | [Bulls On Parade](https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 3:49 |
 | 20 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 |
 | 21 | [Misery Business](https://open.spotify.com/track/3l9CW99AHtExIRV4hW2N5m) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ) | 3:31 |
 | 22 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 38 | [Jumpsuit](https://open.spotify.com/track/1E1uGhNdBe6Dddbgs2KqtZ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 3:58 |
 | 39 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 |
 | 40 | [Nobody](https://open.spotify.com/track/581mukhDjta60CCwpvnjL9) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Babylon \(Revised Online Music\)](https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg) | 3:56 |
-| 41 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 |
-| 42 | [Figure It Out](https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:03 |
+| 41 | [Figure It Out](https://open.spotify.com/track/3MjrueDQKVr6xDDseZwhEd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 3:03 |
+| 42 | [Bleed American](https://open.spotify.com/track/61XspFITuKmAlYdQacNCbF) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 3:01 |
 | 43 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
 | 44 | [Emergency Contact](https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:00 |
 | 45 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 60 | [The River](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p) | 3:15 |
 | 61 | [Freak](https://open.spotify.com/track/2RDgs05sg2vrpwiAEUkWd0) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 3:46 |
 | 62 | [...To Be Loved](https://open.spotify.com/track/5RxCC8ecpIb6W9MVrJNmSF) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [The Paramour Sessions](https://open.spotify.com/album/3ETIenGs9NduSmJ9Zp82DA) | 3:02 |
-| 63 | [Tick Tick Boom](https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black and White album](https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg) | 3:25 |
-| 64 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
+| 63 | [Unsung](https://open.spotify.com/track/0z25tUQgEI4cIyNZ1TgWig) | [Helmet](https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0) | [Meantime](https://open.spotify.com/album/0U7asaf4jS8EORTjHEWNcJ) | 3:56 |
+| 64 | [Tick Tick Boom](https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black and White album](https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg) | 3:25 |
 | 65 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 66 | [Running In Circles](https://open.spotify.com/track/4pEU0NT64oiem9lDT7nuJn) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [FISSION](https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA) | 3:53 |
 | 67 | [First It Giveth](https://open.spotify.com/track/0UEMTz9APWfoJHdlXDeIzm) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 3:18 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEtW1CELnqL.md) - [plain]
 | 94 | [I Am One \- Remastered 2011](https://open.spotify.com/track/2n6r0bWrKWeo55FWk68wSd) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 4:06 |
 | 95 | [Ohio All The Time](https://open.spotify.com/track/63Kd061yhHz1K6UEztFmJ5) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Ohio All The Time](https://open.spotify.com/album/5gS0mVQdlowwHfpf4k5hJO) | 3:04 |
 | 96 | [Brief Exchange \- from DC's Dark Nights: Metal Soundtrack](https://open.spotify.com/track/4qVqGc1ossRcBqmKCZppx9) | [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Brief Exchange \(from DC's Dark Nights: Metal Soundtrack\)](https://open.spotify.com/album/241DsmPg0tJwHCDkPo5WPT) | 4:48 |
-| 97 | [Calling Anybody](https://open.spotify.com/track/7aumNl1d0tmZBIEThfaldQ) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Calling Anybody](https://open.spotify.com/album/5kckhaBcrWNivJSFm7xKzd) | 3:23 |
-| 98 | [Pop The Balloon](https://open.spotify.com/track/18xSK8GSgnarxkkoGxDAob) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 4:31 |
+| 97 | [Pop The Balloon](https://open.spotify.com/track/18xSK8GSgnarxkkoGxDAob) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 4:31 |
+| 98 | [Calling Anybody](https://open.spotify.com/track/7aumNl1d0tmZBIEThfaldQ) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Calling Anybody](https://open.spotify.com/album/5kckhaBcrWNivJSFm7xKzd) | 3:23 |
 | 99 | [Passenger](https://open.spotify.com/track/53iB7e52u7afKK97orNIs4) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Datura](https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY) | 3:26 |
 | 100 | [Teenage Angst](https://open.spotify.com/track/3GKEh2H15w9ZECfi1BtQ20) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Placebo](https://open.spotify.com/album/7Jyg6ic5h9BDJ3WuYWYA6K) | 2:42 |
 

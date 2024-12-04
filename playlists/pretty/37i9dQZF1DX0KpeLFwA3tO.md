@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: SOAPBOX
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,840 likes - 107 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,864 likes - 107 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,548 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,567 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 17 | [La Prendita](https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lo Que Son las Cosas](https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi) | 3:06 |
 | 18 | [Te Lavaste la Cara, El Mono No](https://open.spotify.com/track/4Ry7T6LuUM2Ljchtx7gzkT) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Pa Que Veas Lo Que Se Siente](https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg) | 2:50 |
 | 19 | [Que Sacrificio](https://open.spotify.com/track/0H4sY34re8cnzGfwKQboiE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj) | 2:25 |
-| 20 | [Para Que No Me Olvides](https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:11 |
-| 21 | [Los Hombres No Deben Llorar \- Live Version](https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 2:42 |
+| 20 | [Los Hombres No Deben Llorar \- Live Version](https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 2:42 |
+| 21 | [Para Que No Me Olvides](https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/4HhljolOfX1qrERyoqog91) | 3:11 |
 | 22 | [Qué Bonito Amor](https://open.spotify.com/track/4IoTn7jGNkhZyfH2oLuU0I) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:38 |
 | 23 | [La Estrella De Los Bailes](https://open.spotify.com/track/6nL6rki8gwWb0b0fRPkgAq) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:25 |
-| 24 | [El Toro Pinto](https://open.spotify.com/track/1Bintm3VasQng30o97U9D3) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Toro Pinto](https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N) | 3:31 |
-| 25 | [Tumbando Caña \- Live Version](https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 3:09 |
+| 24 | [Tumbando Caña \- Live Version](https://open.spotify.com/track/6BiyJeUDaGQxAFLovnN8Za) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 3:09 |
+| 25 | [El Toro Pinto](https://open.spotify.com/track/1Bintm3VasQng30o97U9D3) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [El Toro Pinto](https://open.spotify.com/album/7l2PClmsLcKhI0p3FDL65N) | 3:31 |
 | 26 | [Dulce Veneno](https://open.spotify.com/track/1rBVDXcKRhbk6LF1ymr9bE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 3:42 |
 | 27 | [Corazón Corazoncito](https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:22 |
 | 28 | [Porque Es Amor](https://open.spotify.com/track/0YQ0mzh7HZBYRtmO62cvd8) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Nfadn.md) - [plain]
 | 49 | [Baila Nena](https://open.spotify.com/track/3Vl4hefE2fB1C9Lxet9XrQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS) | 2:36 |
 | 50 | [Lagrimas de Sangre](https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lagrimas De Sangre](https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG) | 2:41 |
 
-Snapshot ID: `Z0unAAAAAAAbjA6s1YyDN8c3A2keXQHM`
+Snapshot ID: `Z0z4gAAAAAD7+TZuaOel7wKxASW9lRNv`

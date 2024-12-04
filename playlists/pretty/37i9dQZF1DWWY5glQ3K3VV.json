@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0acanzoni rap da pomparti fino all'alba! \ud83d\udd0aCover: Capo Plaza",
-  "num_followers": 101118,
+  "num_followers": 101134,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-09-20 19:52:57",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 159910,
-      "name": "Boogieman (feat. Salmo)",
-      "url": "https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW"
-    },
-    {
-      "added_at": "2024-09-20 19:52:57",
-      "album": {
         "name": "PLC tape 1",
         "url": "https://open.spotify.com/album/7qKyuiyO2IC2gcp2R2VzrF"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 178721,
       "name": "MALA (feat. Lazza, Tony Effe, JVLI)",
       "url": "https://open.spotify.com/track/72zv9beS7sYZ6gbm1txJ0E"
+    },
+    {
+      "added_at": "2024-09-20 19:52:57",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 159910,
+      "name": "Boogieman (feat. Salmo)",
+      "url": "https://open.spotify.com/track/13Hb5D3FgRUz4IA44Z7WNW"
     },
     {
       "added_at": "2024-09-20 19:52:57",

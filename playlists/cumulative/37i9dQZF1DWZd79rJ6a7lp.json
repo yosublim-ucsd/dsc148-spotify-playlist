@@ -8132,7 +8132,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 159600,
       "name": "For a moment",
       "url": "https://open.spotify.com/track/3jpblyEuLgkdrhGm6nKJz5"
@@ -10191,6 +10191,24 @@
     },
     {
       "album": {
+        "name": "Initially",
+        "url": "https://open.spotify.com/album/6Wesmg2ZiQ944z84Gqdm3S"
+      },
+      "artists": [
+        {
+          "name": "Aveni\u00f3s",
+          "url": "https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185008,
+      "name": "Initially",
+      "url": "https://open.spotify.com/track/6JNaHAeQrCiqIf0nvZHu3b"
+    },
+    {
+      "album": {
         "name": "Inner Cease",
         "url": "https://open.spotify.com/album/0f1BfaqaEf9Ni1dPbBgD5D"
       },
@@ -11538,6 +11556,24 @@
       "duration_ms": 202285,
       "name": "Luminus Circle",
       "url": "https://open.spotify.com/track/6SL08B5P8DpWGGOH9jypaq"
+    },
+    {
+      "album": {
+        "name": "Lumi\u00e9re Douce",
+        "url": "https://open.spotify.com/album/4bMW5Gx6ITLSGMQsmconM4"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Hulenstadt",
+          "url": "https://open.spotify.com/artist/1oFe0IcP3ZDv5MK0sbq8tS"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Lumi\u00e9re Douce",
+      "url": "https://open.spotify.com/track/2xTn9rzLKuy725m4TjBT69"
     },
     {
       "album": {
@@ -14051,6 +14087,24 @@
     },
     {
       "album": {
+        "name": "Opaline Haze",
+        "url": "https://open.spotify.com/album/6PKJmrjzGMaitz6Nc68m2S"
+      },
+      "artists": [
+        {
+          "name": "Les Coralines",
+          "url": "https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Opaline Haze",
+      "url": "https://open.spotify.com/track/2emLNgm2fFXz9IEKysjoAg"
+    },
+    {
+      "album": {
         "name": "Orbit",
         "url": "https://open.spotify.com/album/3l95szTHiJot7IHB5luSS8"
       },
@@ -15330,6 +15384,24 @@
       "duration_ms": 194648,
       "name": "Querencia",
       "url": "https://open.spotify.com/track/4VdLOyYe6ZEyLx0LbYdyvy"
+    },
+    {
+      "album": {
+        "name": "Quiet",
+        "url": "https://open.spotify.com/album/5lyWODszd0IhEWQb8bVkj8"
+      },
+      "artists": [
+        {
+          "name": "Tristan Axvall",
+          "url": "https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Quiet",
+      "url": "https://open.spotify.com/track/4hVDM9NxyjKOcfp3etvJn7"
     },
     {
       "album": {
@@ -20662,6 +20734,24 @@
       "duration_ms": 162098,
       "name": "Translucent night",
       "url": "https://open.spotify.com/track/7GKuF5uVs0dGmjWzoA5VW5"
+    },
+    {
+      "album": {
+        "name": "Translucide",
+        "url": "https://open.spotify.com/album/2qpO9vQKsdwGP8fcdmxzS1"
+      },
+      "artists": [
+        {
+          "name": "Ethereal Nocturne",
+          "url": "https://open.spotify.com/artist/25nulPweeZpoA1zyu4wASV"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Translucide",
+      "url": "https://open.spotify.com/track/4oiNgs95r4lBrC3la1D6XF"
     },
     {
       "album": {

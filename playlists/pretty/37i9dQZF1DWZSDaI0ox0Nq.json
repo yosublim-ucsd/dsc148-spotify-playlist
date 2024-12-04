@@ -719,6 +719,26 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
+        "name": "Ofrenda Gaucha: Valsecito Amigo",
+        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
+      },
+      "artists": [
+        {
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        },
+        {
+          "name": "Francisco Canaro Y Su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
+        }
+      ],
+      "duration_ms": 165637,
+      "name": "Rosas de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
+    },
+    {
+      "added_at": "2024-08-02 17:18:29",
+      "album": {
         "name": "Yo No Se Que Me Han Hecho Tus Ojos",
         "url": "https://open.spotify.com/album/5TgkprMzhtnfMAEZFChOcy"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 154006,
       "name": "Fuga de Ausencias",
       "url": "https://open.spotify.com/track/3rsIVOZOnD9sxT2mcZYfm1"
-    },
-    {
-      "added_at": "2024-08-02 17:18:29",
-      "album": {
-        "name": "Ofrenda Gaucha: Valsecito Amigo",
-        "url": "https://open.spotify.com/album/6jUZzfW2CkpEULtaFOegAk"
-      },
-      "artists": [
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        },
-        {
-          "name": "Francisco Canaro Y Su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf"
-        }
-      ],
-      "duration_ms": 165637,
-      "name": "Rosas de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/6CAz0sn2HaHSpSiQ0EMkJx"
     },
     {
       "added_at": "2024-08-02 17:18:29",

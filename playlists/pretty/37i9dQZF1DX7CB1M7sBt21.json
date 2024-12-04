@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 17323,
+  "num_followers": 17339,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,26 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 151929,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 138819,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
     },
     {
       "added_at": "2024-08-29 22:00:00",

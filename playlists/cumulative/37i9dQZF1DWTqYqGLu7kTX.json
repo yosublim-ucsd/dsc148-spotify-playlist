@@ -2988,7 +2988,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 156521,
       "name": "MTCD",
       "url": "https://open.spotify.com/track/02PIqG8MByA1eaLsdsWvE6"
@@ -3578,6 +3578,28 @@
       "duration_ms": 206506,
       "name": "Nowadays",
       "url": "https://open.spotify.com/track/1wQMbE9V6MgcAhEak7ZaUe"
+    },
+    {
+      "album": {
+        "name": "Off Limits",
+        "url": "https://open.spotify.com/album/7FrqWFrONXe11mB9AZRM57"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122264,
+      "name": "Off Limits",
+      "url": "https://open.spotify.com/track/1PoL7xIHr4nwRGCXeKISbq"
     },
     {
       "album": {

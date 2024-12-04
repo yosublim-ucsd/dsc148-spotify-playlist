@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 31490,
+  "num_followers": 31502,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-12-02 14:47:36",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2024-12-02 14:47:36",
-      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2024-12-02 14:47:36",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2024-12-02 14:47:36",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-12-02 14:47:36",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-12-02 14:47:36",
-      "album": {
         "name": "KEHLANI",
         "url": "https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
+    },
+    {
+      "added_at": "2024-12-02 14:47:36",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "added_at": "2024-12-02 14:47:36",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-12-02 14:47:36",
       "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2024-12-02 14:47:36",
+      "album": {
         "name": "Fire (Official UEFA EURO 2024 Song)",
         "url": "https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 168928,
       "name": "Fire - Official UEFA EURO 2024 Song",
       "url": "https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny"
-    },
-    {
-      "added_at": "2024-12-02 14:47:36",
-      "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
       "added_at": "2024-12-02 14:47:36",

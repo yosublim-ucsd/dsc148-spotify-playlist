@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen, con La Valenti en portada.",
-  "num_followers": 40550,
+  "num_followers": 40552,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "ME FUI DE LA FIESTA",
-        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 158934,
-      "name": "ME FUI DE LA FIESTA",
-      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Todo vuelve al punto de partida",
         "url": "https://open.spotify.com/album/4hVgE3zYsNG70rMTcQ0vyW"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 195392,
       "name": "Panamericana",
       "url": "https://open.spotify.com/track/58rDV9zGkwcuHd0BZLIKc6"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "ME FUI DE LA FIESTA",
+        "url": "https://open.spotify.com/album/7AiD7jKOyP3JrETPcPaLVN"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 158934,
+      "name": "ME FUI DE LA FIESTA",
+      "url": "https://open.spotify.com/track/3436It4kagYqIlGvHbbBa8"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "el cielo es un lugar hostil",
+        "url": "https://open.spotify.com/album/7d0B1NueHTKNW7j5hvl80V"
+      },
+      "artists": [
+        {
+          "name": "Babeblade",
+          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
+        }
+      ],
+      "duration_ms": 219881,
+      "name": "Lpm",
+      "url": "https://open.spotify.com/track/5OtpeR63kiTwWHq8y1A0jJ"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "Esa Morena",
         "url": "https://open.spotify.com/album/1syUTPbPz4fL7JZD6XKmM1"
       },
@@ -411,22 +427,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "el cielo es un lugar hostil",
-        "url": "https://open.spotify.com/album/7d0B1NueHTKNW7j5hvl80V"
-      },
-      "artists": [
-        {
-          "name": "Babeblade",
-          "url": "https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm"
-        }
-      ],
-      "duration_ms": 219881,
-      "name": "Lpm",
-      "url": "https://open.spotify.com/track/5OtpeR63kiTwWHq8y1A0jJ"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Vladi",
         "url": "https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ"
       },
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "LOS VIEJOS CON GUITA",
-        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
-      },
-      "artists": [
-        {
-          "name": "cata carpena",
-          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
-        }
-      ],
-      "duration_ms": 244195,
-      "name": "DOSMILUNO",
-      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Hacia el Sur",
         "url": "https://open.spotify.com/album/3A4gTFvYE7MPNdfmoEvgx4"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 211828,
       "name": "Hacia el Sur",
       "url": "https://open.spotify.com/track/7vYVOMJAUkbAAfCez5K1Ws"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "LOS VIEJOS CON GUITA",
+        "url": "https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso"
+      },
+      "artists": [
+        {
+          "name": "cata carpena",
+          "url": "https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx"
+        }
+      ],
+      "duration_ms": 244195,
+      "name": "DOSMILUNO",
+      "url": "https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
+        "name": "Los Inviernos",
+        "url": "https://open.spotify.com/album/3K8Yy900INpISxrEGQP1uB"
+      },
+      "artists": [
+        {
+          "name": "LA LOU",
+          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Los Inviernos",
+      "url": "https://open.spotify.com/track/6cWrd3lPNcieTKWw1Fj0Ls"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
         "name": "INFLEXI\u00d3N",
         "url": "https://open.spotify.com/album/4q3w1YExFuQ0uXEWd9wFMo"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 217386,
       "name": "INFLEXI\u00d3N",
       "url": "https://open.spotify.com/track/0QTklhlD3bQz6vq1QcPKjc"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
-        "name": "Los Inviernos",
-        "url": "https://open.spotify.com/album/3K8Yy900INpISxrEGQP1uB"
-      },
-      "artists": [
-        {
-          "name": "LA LOU",
-          "url": "https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Los Inviernos",
-      "url": "https://open.spotify.com/track/6cWrd3lPNcieTKWw1Fj0Ls"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "What is Art?",
-        "url": "https://open.spotify.com/album/3U1kz43G0YoKYsYA3xwpCX"
-      },
-      "artists": [
-        {
-          "name": "Audia Valdez",
-          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "What is Art?",
-      "url": "https://open.spotify.com/track/4BUU51Mnbm8J4Fsr51pfvk"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "GUSTAS DE M\u00cd",
         "url": "https://open.spotify.com/album/0Hal3GsMFyELKC5Wiypu2I"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 181821,
       "name": "GUSTAS DE M\u00cd",
       "url": "https://open.spotify.com/track/5KEKdWpFrDCldRhQvL4aOR"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "What is Art?",
+        "url": "https://open.spotify.com/album/3U1kz43G0YoKYsYA3xwpCX"
+      },
+      "artists": [
+        {
+          "name": "Audia Valdez",
+          "url": "https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "What is Art?",
+      "url": "https://open.spotify.com/track/4BUU51Mnbm8J4Fsr51pfvk"
     },
     {
       "added_at": "2024-11-07 03:00:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2024-11-07 03:00:00",
       "album": {
-        "name": "Tu Piel",
-        "url": "https://open.spotify.com/album/5mYUx5I3OYVgnse52gtBar"
-      },
-      "artists": [
-        {
-          "name": "Agus Martino",
-          "url": "https://open.spotify.com/artist/6CZLM4K9GGjboR7mZoqF70"
-        },
-        {
-          "name": "n.a.n.o",
-          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
-        }
-      ],
-      "duration_ms": 155744,
-      "name": "Tu Piel",
-      "url": "https://open.spotify.com/track/6vuoUjfpcqkExaprHJ5PMs"
-    },
-    {
-      "added_at": "2024-11-07 03:00:00",
-      "album": {
         "name": "Ya me hicieron efecto los antidepresivos",
         "url": "https://open.spotify.com/album/3J5yvKmEjJ6yuXWmYWD0Uh"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 177438,
       "name": "Mi Opening",
       "url": "https://open.spotify.com/track/71HdE42Cx5v3EivRmkiRtZ"
+    },
+    {
+      "added_at": "2024-11-07 03:00:00",
+      "album": {
+        "name": "Tu Piel",
+        "url": "https://open.spotify.com/album/5mYUx5I3OYVgnse52gtBar"
+      },
+      "artists": [
+        {
+          "name": "Agus Martino",
+          "url": "https://open.spotify.com/artist/6CZLM4K9GGjboR7mZoqF70"
+        },
+        {
+          "name": "n.a.n.o",
+          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
+        }
+      ],
+      "duration_ms": 155744,
+      "name": "Tu Piel",
+      "url": "https://open.spotify.com/track/6vuoUjfpcqkExaprHJ5PMs"
     },
     {
       "added_at": "2024-11-07 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 
 > Nothing but classic blues\. Cover: B.B\. King
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,956,764 likes - 70 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,957,203 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 16 | [Be Careful With a Fool](https://open.spotify.com/track/3YGsgJqtIWKjMjZtKLk11Z) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 5:14 |
 | 17 | [Bring It On Home](https://open.spotify.com/track/1aHR9fHIvmcNQ9oOVqQExT) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Real Folk Blues](https://open.spotify.com/album/1q9Zi4GCAuso7SetyHHaXg) | 2:36 |
 | 18 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [Sam Maghett](https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Blues Breakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 |
-| 19 | [Have You Ever Loved A Woman?](https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 6:52 |
-| 20 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
+| 19 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 |
+| 20 | [Have You Ever Loved A Woman?](https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd) | [Derek & The Dominos](https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z) | [Layla And Other Assorted Love Songs \(Remastered 2010\)](https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM) | 6:52 |
 | 21 | [Damn Right, I've Got the Blues](https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Damn Right, I've Got The Blues](https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj) | 4:31 |
 | 22 | [Junker's Blues](https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues From The Gutter](https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL) | 3:12 |
 | 23 | [Leaving Trunk](https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 4:49 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 25 | [To Know You Is To Love You](https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [To Know You Is To Love You](https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl) | 8:35 |
 | 26 | [I'm Tore Down](https://open.spotify.com/track/2Qj1FilGsXITZbFVmVeoLy) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 4:13 |
 | 27 | [Rollin' Stone](https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 3:08 |
-| 28 | [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 |
-| 29 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
+| 28 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
+| 29 | [Take Out Some Insurance](https://open.spotify.com/track/2TKykeHeVKsBqZC8M3SKcN) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [Rockin' With Reed](https://open.spotify.com/album/2V70efDxuoKFAmkufW5zzZ) | 2:23 |
 | 30 | [Crossroads \- Live](https://open.spotify.com/track/1sxtxIKhRiQwuGpUwHoEHq) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [The Cream Of Clapton](https://open.spotify.com/album/64hcdH7h8noDQg9Zr5COkc) | 4:15 |
 | 31 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
 | 32 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |

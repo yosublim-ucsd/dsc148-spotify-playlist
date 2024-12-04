@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -4650,7 +4650,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 129173,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
@@ -8294,7 +8294,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 68760,
       "name": "Deck The Hall",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
@@ -9842,7 +9842,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 239946,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
@@ -9860,7 +9860,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -10154,6 +10154,24 @@
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/2AAyBZmMVZSZfgzXRYJOWQ"
+    },
+    {
+      "album": {
+        "name": "The Party Never Ends 2.0",
+        "url": "https://open.spotify.com/album/7kOpqRCEqTTzcGc4CwEFph"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Empty Out Your Pockets",
+      "url": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
     },
     {
       "album": {
@@ -11366,7 +11384,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -11384,7 +11402,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -14032,7 +14050,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 206600,
       "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
       "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
@@ -15032,7 +15050,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 125196,
       "name": "Holiday Road - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/6hZvOA9oBZZM812GNDLjEb"
@@ -17418,10 +17436,36 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
+    },
+    {
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+      "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
     },
     {
       "album": {
@@ -21068,7 +21112,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
@@ -22450,7 +22494,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/54K9GOVJqIaDZNXLnnxiKc"
@@ -22468,7 +22512,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -25056,7 +25100,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 239586,
       "name": "One More Sleep",
       "url": "https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d"
@@ -26432,7 +26476,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 311480,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
@@ -28898,7 +28942,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 155846,
       "name": "Run Rudolph Run - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k"
@@ -31610,7 +31654,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
@@ -32262,7 +32306,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -35672,7 +35716,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Timeless (with Playboi Carti)",
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
@@ -38900,7 +38944,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 183613,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR"
@@ -39190,7 +39234,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-03",
+      "date_removed": null,
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -39226,7 +39270,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-04",
       "duration_ms": 132800,
       "name": "Winter Wonderland - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"

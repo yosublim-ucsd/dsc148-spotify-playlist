@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: <a href="spotify:artist:3tVQdUvClmAT7URs9V3rsp">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,796 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,073 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 95 | [Awolowo](https://open.spotify.com/track/1136eJrkWsDvReASbjLTaU) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Awolowo](https://open.spotify.com/album/5BRKHZh6Y0voiEQ4YsGdCr) | 2:15 |
 | 96 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 |
 | 97 | [Fall In Love \(feat\. Odeal\)](https://open.spotify.com/track/5JV1b92v3C6Css76envcRx) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [WHOSDAT](https://open.spotify.com/album/7rDcX06ibFQn0KFkID4cLv) | 3:01 |
-| 98 | [Composure \(feat\. Odumodublvck\)](https://open.spotify.com/track/5T6B5u7napNSymqsdluzuV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9), [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Composure \(feat\. Odumodublvck\)](https://open.spotify.com/album/1cSj4PQelBB7VvBRH05fWw) | 2:45 |
+| 98 | [Composure \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/5T6B5u7napNSymqsdluzuV) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9), [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Composure \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/album/1cSj4PQelBB7VvBRH05fWw) | 2:45 |
 | 99 | [Kese \(Dance\)](https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 |
 | 100 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 |
 

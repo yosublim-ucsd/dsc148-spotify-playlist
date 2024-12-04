@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 87495,
+  "num_followers": 87548,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0unAAAAAAC2umkVab96vzvirpnDN8pu",
+  "snapshot_id": "Z0z4gAAAAADfOfGecLN+QhEFmd0+O8OU",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Se Motiven",
-        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 145375,
-      "name": "Seguimos Dando Lata",
-      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
+      "duration_ms": 235728,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
+        "name": "Pa Que Se Motiven",
+        "url": "https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL"
       },
       "artists": [
         {
           "name": "LEGADO 7",
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         }
       ],
-      "duration_ms": 235728,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
+      "duration_ms": 145375,
+      "name": "Seguimos Dando Lata",
+      "url": "https://open.spotify.com/track/2pTffC1NB91GiaOpOEoETt"
     },
     {
       "added_at": null,
@@ -527,30 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Motivado (feat. Banda La Fantastica)",
-        "url": "https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Banda La Fantastica",
-          "url": "https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye"
-        }
-      ],
-      "duration_ms": 159486,
-      "name": "Bien Motivado (feat. Banda La Fantastica)",
-      "url": "https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "4-20-20",
         "url": "https://open.spotify.com/album/2kdiYl2mgBwY3cvEmIeSgD"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 180082,
       "name": "Soy Lo Que Soy",
       "url": "https://open.spotify.com/track/1l3pEeeJygmbS1yVnrd7Cq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Motivado (feat. Banda La Fantastica)",
+        "url": "https://open.spotify.com/album/6aVRvbiyVsRE1TBY3KZfRE"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Banda La Fantastica",
+          "url": "https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye"
+        }
+      ],
+      "duration_ms": 159486,
+      "name": "Bien Motivado (feat. Banda La Fantastica)",
+      "url": "https://open.spotify.com/track/75bhbGC0rU7C113qSfYQtJ"
     },
     {
       "added_at": null,

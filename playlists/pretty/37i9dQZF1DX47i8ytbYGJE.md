@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 
 > Rockabilly pioneers and revivalists\. Cover: Stray Cats
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,527 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,543 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 36 | [Stray Cat Strut](https://open.spotify.com/track/5yogRsv5ggT6iCnFgvdpho) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Built For Speed](https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1) | 3:18 |
 | 37 | [Rockin' Bones](https://open.spotify.com/track/2KP1nhjeI0bOwzO9o9HTKC) | [Ronnie Dawson](https://open.spotify.com/artist/2Fgg6KYXIgeRY3VxQjX9lP) | [Ronnie Dawson Presents Rockin' Bones](https://open.spotify.com/album/1hCRjgooSVFgMKvZMHWa9n) | 1:58 |
 | 38 | [Rakin and Scrapin](https://open.spotify.com/track/3U8Nh3jit6HA94UcVdc5zS) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Rockabilly Treasures](https://open.spotify.com/album/0pHKNl3zeoigkdKd5Q5bCj) | 2:20 |
-| 39 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [The Blue Caps](https://open.spotify.com/artist/5EmQT0A3VxQU0EiX0qhrCo) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
+| 39 | [Lotta Lovin'](https://open.spotify.com/track/0ijKW319aVwVVDmFGU4rGC) | [Gene Vincent](https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx), [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Capitol Collectors Series](https://open.spotify.com/album/72cDPStUoZJZxUbQ67cgO6) | 2:11 |
 | 40 | [Rock\-a\-Bop](https://open.spotify.com/track/2pJnxaBbts4d1p1iiuo0NS) | [Sparkle Moore](https://open.spotify.com/artist/4SPbyaeJhJ2vkRM61jsMYe), [Dan Belloc's Orchestra](https://open.spotify.com/artist/4PIkVqtgrm8JIoyUaWytqX) | [All American Rock 'N' Roll from Fraternity Records](https://open.spotify.com/album/7n8d7Wzpu2LxkchyD1Jfyn) | 2:14 |
 | 41 | [Rockin' Rollin' Stone](https://open.spotify.com/track/06qGD5AoCHM0DOFoyOh88V) | [Andy Starr](https://open.spotify.com/artist/5XwjCCdpnaF4qz7nUUdNp9) | [Singles 1955\-1962](https://open.spotify.com/album/75fjiwthYBRJsdQvm8Eyem) | 2:51 |
 | 42 | [Woo Hoo](https://open.spotify.com/track/1W5dAotc2fxSCmob5zDvQr) | [The Rock\-A\-Teens](https://open.spotify.com/artist/4vbR9DeELloVAWieVRcN5O) | [50s Rock 'N' Roll](https://open.spotify.com/album/3ffeGGfqpP4DmM7LuKmkiY) | 2:06 |

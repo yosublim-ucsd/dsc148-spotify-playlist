@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,177 likes - 70 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,195 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 6 | [Confianza](https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 3:27 |
 | 7 | [Hablar de Ti](https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 3:25 |
 | 8 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 |
-| 9 | [Mi Balcon](https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:19 |
-| 10 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
+| 9 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 |
+| 10 | [Mi Balcon](https://open.spotify.com/track/05SZ279Bnz9Zst21BMoZWg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Melodrama](https://open.spotify.com/album/6Q5EvqV3Vj9wKee5N2fK6E) | 4:19 |
 | 11 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 |
 | 12 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 |
 | 13 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 |
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 15 | [BSOS](https://open.spotify.com/track/5Y1R365I3Z4zAJCr3wMHf1) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:06 |
 | 16 | [Por el Bien de los Dos](https://open.spotify.com/track/5YVBaeIf9L56ybZdUYOcjy) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Abril](https://open.spotify.com/album/2uT7GrTnYKL293sssNax85) | 2:39 |
 | 17 | [Verte](https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Verte](https://open.spotify.com/album/3NXbwVxHga0cmLdnRIDX64) | 2:37 |
-| 18 | [San Bá](https://open.spotify.com/track/1SZmIlruJaumMmS2CzTdDE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Candela](https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe) | 3:14 |
+| 18 | [Anónimos \(feat\. Carla Morrison\)](https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 5:15 |
 | 19 | [Una Cumbia Triste](https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:31 |
 | 20 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
 | 21 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
 | 22 | [Isla del Ritmo](https://open.spotify.com/track/5YAQFjWdqU0Rjm0SbnY8wf) | [Ritmo Machine](https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw) | [Isla del Ritmo](https://open.spotify.com/album/00hZw0zggoguww2I6rb1FH) | 3:16 |
-| 23 | [Anónimos \(feat\. Carla Morrison\)](https://open.spotify.com/track/6pKADEM7gx8EZ6UypMUzyd) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Soundamerica](https://open.spotify.com/album/2SZTxfMc8EOjUJnPIVORWI) | 5:15 |
+| 23 | [San Bá](https://open.spotify.com/track/1SZmIlruJaumMmS2CzTdDE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Candela](https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe) | 3:14 |
 | 24 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
 | 25 | [No Te Desanimes](https://open.spotify.com/track/5UhdNEQw0SOtfdUYx3FhkU) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [No Te Desanimes](https://open.spotify.com/album/3ULGENdwrVsBlo4aCHhywh) | 4:28 |
 | 26 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 66 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 |
 | 67 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 |
 | 68 | [Otro Cuento](https://open.spotify.com/track/0SDaLNs1YB1ocpgD2aQ3Sy) | [Rastacuando](https://open.spotify.com/artist/6azxjfA7oLnuHmJZTaGTLO) | [Obvio Sí](https://open.spotify.com/album/2JLCtFZACVELB38jNl4o8h) | 3:10 |
-| 69 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
+| 69 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
 | 70 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 |
 
 Snapshot ID: `ZmoM+AAAAAD//Y81YXt7m56L/yNiBGvb`

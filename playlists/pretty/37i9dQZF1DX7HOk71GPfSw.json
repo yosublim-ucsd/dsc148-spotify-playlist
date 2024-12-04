@@ -1,12 +1,12 @@
 {
   "description": "featuring new music from Babymorocco & Frost Children",
-  "num_followers": 465097,
+  "num_followers": 465089,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0CnJAAAAAA9e/Y2sGU8etvUkXTDcZyt",
+  "snapshot_id": "Z085xQAAAAAu1Wumq+MJnWgRAScIhBPd",
   "tracks": [
     {
       "added_at": "2024-11-08 18:47:26",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/1vU5cy9TLV4Vd8uUURhWHq"
     },
     {
+      "added_at": "2024-12-03 17:03:01",
+      "album": {
+        "name": "Two Shell",
+        "url": "https://open.spotify.com/album/5B9kNtbzaLjBYXXEQGkMF3"
+      },
+      "artists": [
+        {
+          "name": "Two Shell",
+          "url": "https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "be gentle with me",
+      "url": "https://open.spotify.com/track/3SFWNfUS9W7VnpUOO6JRHI"
+    },
+    {
       "added_at": "2024-11-08 18:47:26",
       "album": {
         "name": "NUMA NUMA MIKU HARDSYLE",
@@ -195,6 +211,22 @@
       "duration_ms": 207146,
       "name": "Burn",
       "url": "https://open.spotify.com/track/2rGmDOHWb9zLND3x8gegMy"
+    },
+    {
+      "added_at": "2024-12-03 17:03:01",
+      "album": {
+        "name": "the laced up theory",
+        "url": "https://open.spotify.com/album/4zeikwsYhOpoy4DtR3cvrE"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 233856,
+      "name": "the laced up theory",
+      "url": "https://open.spotify.com/track/6dpxyZUBHIOeTlG4n2CIrt"
     },
     {
       "added_at": "2024-11-08 18:47:26",
@@ -343,6 +375,26 @@
       "duration_ms": 115611,
       "name": "Babestation",
       "url": "https://open.spotify.com/track/7nT8JIqqQeWQDO9CVgqXb5"
+    },
+    {
+      "added_at": "2024-12-03 17:03:01",
+      "album": {
+        "name": "Here For The Groove / Open Your Heart",
+        "url": "https://open.spotify.com/album/66H15XWnAZ902sn2HJe99X"
+      },
+      "artists": [
+        {
+          "name": "nabii",
+          "url": "https://open.spotify.com/artist/0EL1KyWqIAGnXXR85EVTQj"
+        },
+        {
+          "name": "Palastoni",
+          "url": "https://open.spotify.com/artist/28oa99VEqmiC6i2SzvMPiC"
+        }
+      ],
+      "duration_ms": 200649,
+      "name": "Open Your Heart",
+      "url": "https://open.spotify.com/track/7py6tZNikw2C7C0j9qx4EB"
     },
     {
       "added_at": "2024-09-20 04:00:00",

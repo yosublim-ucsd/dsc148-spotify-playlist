@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 
 > y el soundtrack suena así...
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,593 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,613 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 29 | [Somos Instantes](https://open.spotify.com/track/4zgVoY40iiq9XLu8V9Q9kb) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Somos Instantes](https://open.spotify.com/album/4La0StHyt6pRXr85FXRxgH) | 3:13 |
 | 30 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
 | 31 | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 |
-| 32 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
-| 33 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
+| 32 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
+| 33 | [no llames lo mío nuestro](https://open.spotify.com/track/56lEVxNmR6NYSSa4nZtEBU) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [no llames lo mío nuestro](https://open.spotify.com/album/2r8XKWioH1ActVuWTXePGu) | 3:39 |
 | 34 | [buenos aires](https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [buenos aires](https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc) | 3:23 |
 | 35 | [Lovers to Strangers](https://open.spotify.com/track/401qSkk4KOeBVld2aiCAoK) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Lovers to Strangers](https://open.spotify.com/album/3x9bBb8Tl9ri8I3FxYU5CN) | 2:54 |
 | 36 | [Nuestro Año](https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517), [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:09 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 49 | [Todo Regresa](https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Todo Regresa](https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi) | 3:04 |
 | 50 | [más y menos](https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [escrita](https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E) | 3:22 |
 | 51 | [Los Mejores Años](https://open.spotify.com/track/28IF0Kp3uUeWHPkXa0yjNn) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [Los Mejores Años](https://open.spotify.com/album/1FfoXxOshDOFAv1C84pSJR) | 3:22 |
-| 52 | [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 |
-| 53 | [qué tal te va??](https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [qué tal te va??](https://open.spotify.com/album/5SRpkRTktR45a6LnckxzFU) | 3:30 |
+| 52 | [qué tal te va??](https://open.spotify.com/track/5CoyINOf5MRUEOqLMuxtTc) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [qué tal te va??](https://open.spotify.com/album/5SRpkRTktR45a6LnckxzFU) | 3:30 |
+| 53 | [ALGO ESPECIAL](https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [ALGO ESPECIAL](https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5) | 3:25 |
 | 54 | [Ve y Diles](https://open.spotify.com/track/2yyQacjkbAQHD2D15QPTNU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Ruido](https://open.spotify.com/album/1AapL341jT2FY5gQE2RMf5) | 2:42 |
 | 55 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 56 | [No Te Sientes Igual](https://open.spotify.com/track/0TzPcGalV2nb2LqRNDk543) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:00 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFwsXuG6tG8.md) - [plain]
 | 59 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 |
 | 60 | [Sol](https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 3:02 |
 | 61 | [Luna \(pag.1\)](https://open.spotify.com/track/2c6MW214s0JaQBtkQs9saS) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Luna \(pag.1\)](https://open.spotify.com/album/5UseQdtOQBHEDc7bJhTbrG) | 2:49 |
-| 62 | [6:00 P.M.](https://open.spotify.com/track/6wl8iU1HjtRZlMl44bCTer) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [6:00 P.M.](https://open.spotify.com/album/30YL9fJiXFoCBRtT597Frp) | 2:26 |
-| 63 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
+| 62 | [Contraluz](https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Contraluz](https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA) | 3:32 |
+| 63 | [6:00 P.M.](https://open.spotify.com/track/6wl8iU1HjtRZlMl44bCTer) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [6:00 P.M.](https://open.spotify.com/album/30YL9fJiXFoCBRtT597Frp) | 2:26 |
 | 64 | [HORSES IN HEAVEN](https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [HORSES IN HEAVEN](https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy) | 2:57 |
 | 65 | [superman](https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 1:33 |
 

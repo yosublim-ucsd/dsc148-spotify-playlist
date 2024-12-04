@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,903 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,951 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 42 | [Change \- 2002 Digital Remaster](https://open.spotify.com/track/2xmJNIkGmYBVoiu1WqA9il) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Best Of Blind Melon](https://open.spotify.com/album/4Kr7DLs5Ds3e4VAqlo2vqZ) | 3:42 |
 | 43 | [Elderly Woman Behind the Counter in a Small Town \- Acoustic Version](https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [go](https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5) | 3:18 |
 | 44 | [Waking up \(Acoustic\)](https://open.spotify.com/track/4Zv8db41aWJTqOMkyid0uC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Acoustic](https://open.spotify.com/album/33oxbqzo7poSO2IbSMqrPS) | 3:45 |
-| 45 | [Synchronize \- Acoustic Version](https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize \(Acoustic Version\)](https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L) | 2:43 |
-| 46 | [Complete Collapse \- Acoustic](https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Acoustic\)](https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64) | 3:04 |
+| 45 | [Complete Collapse \- Acoustic](https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Acoustic\)](https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64) | 3:04 |
+| 46 | [Synchronize \- Acoustic Version](https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize \(Acoustic Version\)](https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L) | 2:43 |
 | 47 | [Can You Hear Me \- Acoustic](https://open.spotify.com/track/1G05yZ8DZmh8V0pm58XsqZ) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Can You Hear Me \(Acoustic\)](https://open.spotify.com/album/1kIxjFijXTHj2iWviH4HkR) | 2:54 |
 | 48 | [Supernatural \- Acoustic](https://open.spotify.com/track/5igYPHZLmBtcYmvHbgrUcn) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural \(Acoustic\)](https://open.spotify.com/album/0NA5HU5TEt6Hsjr04tbSuM) | 3:06 |
 | 49 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 68 | [The Liars Club \- Acoustic](https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club \(Acoustic\)](https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG) | 4:12 |
 | 69 | [Fix Me \- Alternate Take](https://open.spotify.com/track/5ejkJ9w6g7KRdy1zE9SxfD) | [10 Years](https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph) | [Deconstructed](https://open.spotify.com/album/4Vv97RwuMvSulvOSbuJlT7) | 4:08 |
 | 70 | [Plastic Heart \- Acoustic](https://open.spotify.com/track/5qzW6FTcGGmV6oRmIefnQf) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart \(Acoustic\)](https://open.spotify.com/album/48kvEsX3tVZ0kSjWLKI1mF) | 2:55 |
-| 71 | [Raised By Wolves \- Acoustic](https://open.spotify.com/track/3XRmEtVkmKIPmDVoM8VY7u) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Raised By Wolves \(Acoustic\)](https://open.spotify.com/album/4tHRq8E2f6Vjcmr5geYZU4) | 3:12 |
-| 72 | [Never Said Goodbye \- Stripped](https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Never Said Goodbye \(Stripped\)](https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj) | 3:22 |
+| 71 | [Never Said Goodbye \- Stripped](https://open.spotify.com/track/06OkdeEz2JlAQi0K2oOZDN) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Never Said Goodbye \(Stripped\)](https://open.spotify.com/album/072bnLe0hWtLgdMXYOi1Hj) | 3:22 |
+| 72 | [Raised By Wolves \- Acoustic](https://open.spotify.com/track/3XRmEtVkmKIPmDVoM8VY7u) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Raised By Wolves \(Acoustic\)](https://open.spotify.com/album/4tHRq8E2f6Vjcmr5geYZU4) | 3:12 |
 | 73 | [Something Loud \(Acoustic Version\)](https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud \(Acoustic Version\)](https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v) | 3:20 |
-| 74 | [Be Free \- Acoustic](https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution: ACOUSTIC VIBES](https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu) | 4:09 |
-| 75 | [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 |
+| 74 | [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 |
+| 75 | [Be Free \- Acoustic](https://open.spotify.com/track/3lClnKfSfuK785QC4QXEUi) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution: ACOUSTIC VIBES](https://open.spotify.com/album/5fQo26HkxJFLIVcHRG8slu) | 4:09 |
 
 Snapshot ID: `ZohMQQAAAAChTu7MJC4ByQg3nIkydxvx`
