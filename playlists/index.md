@@ -1,4 +1,4 @@
-## Playlists \(8281\)
+## Playlists \(8282\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8086,6 +8086,7 @@
 - [ТОП ПОП 2024](/playlists/pretty/37i9dQZF1DX5Wynp5mlXCZ.md)
 - [інді](/playlists/pretty/37i9dQZF1DWZU4i93guc1c.md)
 - [האלטרנטיב של ישראל](/playlists/pretty/37i9dQZF1DX41IYVoQd4Sa.md)
+- [הכהן ארנון's Top Songs 2024](/playlists/pretty/37i9dQZF1FoQEkZ5w2uIax.md)
 - [הלהיטים הגדולים של ישראל](/playlists/pretty/37i9dQZF1DWSYF6geMtQMW.md)
 - [פופ ישראלי חדש](/playlists/pretty/37i9dQZF1DX9sLipKPkV9T.md)
 - [רדיו ישראל](/playlists/pretty/37i9dQZF1DWV9KyA92twJc.md)
