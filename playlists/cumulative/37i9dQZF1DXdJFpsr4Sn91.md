@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa ABREU.
 
-393 songs - 19 hr 41 min
+394 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Lucky](https://open.spotify.com/track/7gdAgbYxtwwXsWsItU1apk) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lucky](https://open.spotify.com/album/5roHm7qHxEBlV2xqbrbWjX) | 3:18 | 2024-07-26 | 2024-08-23 |
 | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Lucky \(feat\. Remi Wolf\)](https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV) | 2:07 | 2024-08-09 | 2024-09-20 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-07-02 | 2024-07-12 |
+| [Luodit](https://open.spotify.com/track/2I3d4RxgWghBjlhpbglyrd) | [Jokrates](https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE) | [Luodit](https://open.spotify.com/album/4CVgkAsb0C7IUqz4EgaW29) | 2:53 | 2024-12-04 |  |
 | [Lupaa et sä lähet](https://open.spotify.com/track/7MR91GiYTmxI5U9oKhqn9c) | [ANI](https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T), [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Lupaa et sä lähet](https://open.spotify.com/album/3Z3oF6JddtFYHYMY3JFCct) | 3:23 | 2024-07-03 | 2024-08-23 |
 | [Lutkajenkka](https://open.spotify.com/track/3AfyderccqdtuLSTYAu3vv) | [Vgr](https://open.spotify.com/artist/4EJrHgRLh0VMC3aA7RkmH9) | [Lutkajenkka](https://open.spotify.com/album/52ixbntmHugJHdcSwAtsiB) | 2:42 | 2024-07-03 | 2024-08-16 |
 | [Löytää mut](https://open.spotify.com/track/5ArcUruMjZyrHzQ0QilgJ4) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ) | [Löytää mut](https://open.spotify.com/album/5sKJ8LTvSpyK3yZYEwRWGX) | 2:49 | 2024-08-29 |  |

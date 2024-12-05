@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Absentia",
+        "url": "https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Mays",
+          "url": "https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161375,
+      "name": "Absentia",
+      "url": "https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR"
+    },
+    {
+      "album": {
         "name": "Adagio",
         "url": "https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89"
       },
@@ -10548,6 +10566,24 @@
       "duration_ms": 142750,
       "name": "Signs of Yesterday",
       "url": "https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c"
+    },
+    {
+      "album": {
+        "name": "Silent Bloom",
+        "url": "https://open.spotify.com/album/1l2ue47R65IiChM0w4Z0Xo"
+      },
+      "artists": [
+        {
+          "name": "Esperance",
+          "url": "https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Silent Bloom",
+      "url": "https://open.spotify.com/track/0keMPNZ9MeQSN25xr14fUb"
     },
     {
       "album": {

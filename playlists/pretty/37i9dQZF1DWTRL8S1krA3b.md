@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRL8S1krA3b.md) - [plain]
 
 > This year's new country holiday songs! Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,435 likes - 91 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,487 likes - 91 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

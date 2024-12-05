@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Bayanni
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,429 likes - 49 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,527 likes - 49 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 17 | [CHERRY](https://open.spotify.com/track/2fcti4G9MP1YWqbusdkode) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BOUNCE MUSIC : SAISON 2](https://open.spotify.com/album/6zkrs0rjrDKIUbs05RrQoG) | 2:22 |
 | 18 | [Order](https://open.spotify.com/track/7I6n8YzpPmbpVwElH9fi5Q) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Order](https://open.spotify.com/album/2WhW4lp7iEyEymuwpsPG39) | 2:49 |
 | 19 | [Ndangti](https://open.spotify.com/track/5YWc6bVM1fT3Y2T32l0sq5) | [Ronis Goliath](https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t) | [Ndangti](https://open.spotify.com/album/5WYEkMHpxTYV7TX21sbFVO) | 2:45 |
-| 20 | [Big Smile \(feat\. ODUMODUBLVCK\)](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 |
+| 20 | [Big Smile \(Pose For Me\) \[feat\. ODUMODUBLVCK\]](https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Afrikan Alien](https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct) | 3:01 |
 | 21 | [4Life](https://open.spotify.com/track/3KyDrb3w6pBUprzwwhSRRX) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [4Life](https://open.spotify.com/album/5lIrnr3s7kDi6fxsKBJV3w) | 3:12 |
 | 22 | [Bonjour](https://open.spotify.com/track/0BkYNFe23cGq7herskna5k) | [Thee Diane](https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5) | [Bonjour](https://open.spotify.com/album/2OHIWGJpTUKx5WuEhJ2QoO) | 3:39 |
 | 23 | [Gear](https://open.spotify.com/track/1zbfB0DHDtMLR8YZrtTqjU) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [Gear](https://open.spotify.com/album/5FcfOy05bLckasiQQHpR1X) | 2:38 |

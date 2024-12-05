@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Lazza,  Massimo Pericolo, Papa V,  Astro e tanti altri! 🔥
 
-4,555 songs - 8 day 12 hr 8 min
+4,556 songs - 8 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,7 +444,7 @@
 | [bambino piccolo](https://open.spotify.com/track/1zO1L4DLyuONdhqGpnvgUa) | [³P](https://open.spotify.com/artist/5LVhY6a0DugskkNfbgOxtu) | [∃P](https://open.spotify.com/album/00AFg7gRjR6F3mJM4HzPQs) | 1:45 | 2024-06-06 | 2024-06-14 |
 | [Bambola](https://open.spotify.com/track/61XtLsLgifNj3AiRyOunEd) | [AuRORA](https://open.spotify.com/artist/4MNMNUDNnxNQyg8uHU0gQV) | [Bambola](https://open.spotify.com/album/0Y1ORSTGopes0pR4hkd1qZ) | 2:55 | 2024-02-29 | 2024-03-08 |
 | [Bambola](https://open.spotify.com/track/7k0jyx1nNnHPnkhp41jem6) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Bambola](https://open.spotify.com/album/74cIsmvEjOe32y80S8UdoB) | 2:49 | 2023-06-06 | 2023-07-07 |
-| [Bananane](https://open.spotify.com/track/6iWfKI8rJ8XEPYArYkanMr) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Bananane](https://open.spotify.com/album/1kKAPyJx5vTrXkNjZrM7tr) | 2:05 | 2024-11-28 |  |
+| [Bananane](https://open.spotify.com/track/6iWfKI8rJ8XEPYArYkanMr) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Bananane](https://open.spotify.com/album/1kKAPyJx5vTrXkNjZrM7tr) | 2:05 | 2024-11-28 | 2024-12-05 |
 | [Bancomat](https://open.spotify.com/track/1A9yZ2YyuCoGtOE0PSLFYM) | [Etse Gringo](https://open.spotify.com/artist/7lpZdl977j6X7ccZK5EKkF) | [Bancomat](https://open.spotify.com/album/5nGHhGCP2iTUhXT6F3L8nB) | 2:47 | 2023-10-05 | 2023-10-20 |
 | [Banda Kawasaki](https://open.spotify.com/track/0Lynyrqt6kalxwCgVZ4uda) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Banda Kawasaki](https://open.spotify.com/album/2FF4wdxv4ZKoh0rAwLjN5t) | 3:11 | 2024-06-27 | 2024-07-12 |
 | [Banda Kawasaki Rmx \(feat\. Zatla, Ryuk zc, Fandy, Commando, Yambo\)](https://open.spotify.com/track/0nSzVOoCSHHQXuX65xxqvb) | [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Zatla](https://open.spotify.com/artist/08RLO0Nf2MkTlk1XLPRcx7), [Ryuk zc](https://open.spotify.com/artist/6Uzj1AQIRwtun6E1leINI5), [Fandy](https://open.spotify.com/artist/5ciZyn6DwoahV6teKuASPD), [Commando](https://open.spotify.com/artist/1DVprqjMcbX2bI6WokNuhO), [Yambo](https://open.spotify.com/artist/4mVLwiswex5gIVAgiUMoGR) | [Banda Kawasaki Rmx \(feat\. Zatla, Ryuk zc, Fandy, Commando, Yambo\)](https://open.spotify.com/album/6mZ9TuLOFfUaVE3tiEsJFN) | 3:42 | 2024-07-11 | 2024-07-27 |
@@ -2175,6 +2175,7 @@
 | [LANCIA DELTA](https://open.spotify.com/track/6Q1aHaT1NzdwEk4rKzlrP2) | [Toni Zeno](https://open.spotify.com/artist/3EjtKBJgiLErF6cprWuHXG), [Aleaka](https://open.spotify.com/artist/63sB40l1dT9CV5vXu1E7q1) | [LANCIA DELTA](https://open.spotify.com/album/1UeQIZwNhofeXGivh0KZoL) | 2:24 | 2022-12-09 | 2022-12-16 |
 | [LAND](https://open.spotify.com/track/14TqzACeAWEcCwZ64gwWvK) | [Ere](https://open.spotify.com/artist/2NjkTEJQCreVOIB6lhas6y) | [LAND](https://open.spotify.com/album/7trl15bGtkxDwhOQEzeDzh) | 2:33 | 2024-07-11 | 2024-07-27 |
 | [Landing \(feat\. Low\-Red\)](https://open.spotify.com/track/5BAGDRm7iSlnMCgbMFJm0C) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 | 2024-05-31 | 2024-06-21 |
+| [Lane Splitter](https://open.spotify.com/track/5kb4x7yrC5ZE0XBPYUnUTQ) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Cattivissimo Rap](https://open.spotify.com/album/7uxVytwhE6QNuAUbQM7c2B) | 2:17 | 2024-12-04 |  |
 | [Lane Switch](https://open.spotify.com/track/6y1ahNBYdtDoKFUCHrKfdK) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Lane Switch](https://open.spotify.com/album/3ddRYrsIGMwbffdKoULrKZ) | 2:24 | 2023-12-21 | 2024-01-19 |
 | [LAPROVINCE \#2](https://open.spotify.com/track/3eBjQXQ5CuRaUbKXj9WIVJ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [LAPROVINCE \#2](https://open.spotify.com/album/1WhTXqgT1roQzqSCYnrnSH) | 1:56 | 2022-05-22 | 2022-06-17 |
 | [LAPROVINCE \#3](https://open.spotify.com/track/7bF8PdgDn6gLY6E14Axh4M) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 1:58 | 2024-03-28 | 2024-04-19 |

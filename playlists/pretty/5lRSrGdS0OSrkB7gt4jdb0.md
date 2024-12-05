@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 
 > We all need an angry playlist
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 50 songs - 2 hr 56 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 | 17 | [Choke](https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [Choke](https://open.spotify.com/album/2KwVOjuUAYp2qtdBcFDfCn) | 3:15 |
 | 18 | [Absinthe](https://open.spotify.com/track/4hs2FbesB8qo6H5Berbikd) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 3:03 |
 | 19 | [LEMONS \(with Cavetown\)](https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [LEMONS \(with Cavetown\)](https://open.spotify.com/album/1MT5z1J27ERqGpyErAVeMc) | 3:52 |
-| 20 | [Choked Out](https://open.spotify.com/track/6VAOhkoZypZtGFgrnIGr48) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/7HWC61Sl93gYdBqCV5EIka) | 1:42 |
-| 21 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 |
-| 22 | [Collapsing Stars](https://open.spotify.com/track/1vpVrdNn76ngdvRVeHkq1J) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dilaudid](https://open.spotify.com/album/4GNwzGVBNay2j9eLsGks00) | 2:29 |
+| 20 | [Hey I Don't Work Here](https://open.spotify.com/track/3OUaTEgKLHVIb0ZMavyPY7) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Big Dumb Idiot](https://open.spotify.com/album/0bh9TnPCRsV5oJYb5K8Ytp) | 4:55 |
+| 21 | [Collapsing Stars](https://open.spotify.com/track/1vpVrdNn76ngdvRVeHkq1J) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dilaudid](https://open.spotify.com/album/4GNwzGVBNay2j9eLsGks00) | 2:29 |
+| 22 | [The End.](https://open.spotify.com/track/7oiqxhRXTv11kRqEV0D70G) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 1:52 |
 | 23 | [The Nerve](https://open.spotify.com/track/6dJaYiWkLmTXc8cR0EFJTD) | [The Brobecks](https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn) | [Violent Things](https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR) | 3:59 |
-| 24 | [The End.](https://open.spotify.com/track/7oiqxhRXTv11kRqEV0D70G) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 1:52 |
-| 25 | [Dead!](https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:15 |
-| 26 | [House of Wolves](https://open.spotify.com/track/4qPbHPTHniTcYt6oeboB7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:04 |
+| 24 | [Dead!](https://open.spotify.com/track/3262RRKqFC1oJXFwCMqgM0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:15 |
+| 25 | [House of Wolves](https://open.spotify.com/track/4qPbHPTHniTcYt6oeboB7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 3:04 |
+| 26 | [Choked Out](https://open.spotify.com/track/6VAOhkoZypZtGFgrnIGr48) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/7HWC61Sl93gYdBqCV5EIka) | 1:42 |
 | 27 | [Teenagers](https://open.spotify.com/track/78OBZL4Z6QHdwwloWIh0Lt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 2:41 |
 | 28 | [Stabbed to Death Outside San Juan \- Jordan Lake Sessions Volume 2](https://open.spotify.com/track/5VHi7egxS9qQctLVjrE5Ng) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volumes 1 and 2](https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX) | 4:47 |
 | 29 | [Face It Alone](https://open.spotify.com/track/3LkJaE6mfTskqEV8BUjHei) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Face It Alone](https://open.spotify.com/album/5LyejWyG4J1IoUHBsvL7ju) | 4:07 |
@@ -58,5 +58,7 @@ pretty - [cumulative](/playlists/cumulative/5lRSrGdS0OSrkB7gt4jdb0.md) - [plain]
 | 48 | [Baboon](https://open.spotify.com/track/7qPAVrld2XeywUukKEgBXs) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt) | 2:16 |
 | 49 | [Family Happiness](https://open.spotify.com/track/2lbRuGZlv4jumboWPeRA59) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt) | 2:57 |
 | 50 | [Your Racist Friend](https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 2:55 |
+| 51 | [Black Molly](https://open.spotify.com/track/6NE7ocbNZgKeMKRt4J5z7H) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bitter Melon Farm](https://open.spotify.com/album/6TM3RCfmgYVo6WzFfiosYH) | 2:24 |
+| 52 | [Oceanographer's Choice](https://open.spotify.com/track/53HgikeNYCtqNCKC0aHsej) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa) | 4:08 |
 
-Snapshot ID: `AAAAPKrgxLclvTRWRG18mI/uKkmxhhlB`
+Snapshot ID: `AAAAQfH3qGQyV1B3y3PC4usuwR6MhV/u`

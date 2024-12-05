@@ -4,7 +4,7 @@
 
 > most popular tiktok phonk \- best phonk 2024 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-652 songs - 1 day 3 hr 57 min
+656 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Amnesia](https://open.spotify.com/track/6CZHyKtQTtUU0D1gsOXEFq) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Amnesia](https://open.spotify.com/album/3dcAcFI8jZdZ1xPteAi8Sb) | 2:06 | 2023-06-12 | 2023-07-14 |
 | [amoureux de toi](https://open.spotify.com/track/77azxnmel7Us6Y1md9pZYf) | [Jason Paris](https://open.spotify.com/artist/2vWWmyRebvvhNCRbF1471f), [PRAHA](https://open.spotify.com/artist/4kVdGUx4hjBBurEOSoV6Mb) | [amoureux de toi](https://open.spotify.com/album/0tJhMH736fwPVTm4nxTYWr) | 2:46 | 2024-04-23 | 2024-07-27 |
 | [Another World](https://open.spotify.com/track/7qlz1NpDWyPbXYiqiWBLrI) | [Mr\. Murky](https://open.spotify.com/artist/1ARE3E4tKhdyFiN1xe6EMu) | [Another World](https://open.spotify.com/album/0t3ocyWaTMksTJKGhPT6v1) | 4:16 | 2024-02-06 | 2024-02-15 |
+| [Aperture](https://open.spotify.com/track/7EuRrOxCDjGr5y0ECDLEXd) | [Skysia](https://open.spotify.com/artist/5YIxufplJpHkE3S1MXQr63) | [Aperture](https://open.spotify.com/album/0AsRo0FMyqhkBplZmip85Y) | 4:46 | 2024-12-04 |  |
 | [Arcanum, Pt\. 1](https://open.spotify.com/track/4Dy6O1uMJ76Xlq43lhovpq) | [Stewart Lane](https://open.spotify.com/artist/2uT4yfMbB4pcT76tgFAQFG) | [Arcanum](https://open.spotify.com/album/75CcI9ShYQI0rI37iWa4z6) | 4:54 | 2024-11-11 |  |
 | [ARRIVAL](https://open.spotify.com/track/2usgz61lx2EYRDkwd5Sa6e) | [AM sin](https://open.spotify.com/artist/2zNAKMxHEfcdCIdnMCo94g) | [ARRIVAL](https://open.spotify.com/album/4scnIB8UCho0JtrE7Dhbny) | 5:17 | 2024-07-11 | 2024-09-28 |
 | [Astral Gate \- Aurora Remix](https://open.spotify.com/track/6oMqFy86NQ2IX9ke3BSQmw) | [Hypernoova](https://open.spotify.com/artist/0fMvl5V1BRWrRnfAkdItYl) | [Astral Gate \(Aurora Remix\)](https://open.spotify.com/album/76RH9qr5c2gDWyBhPC5IYW) | 3:15 | 2024-07-02 | 2024-09-28 |
@@ -116,6 +117,7 @@
 | [Colder Than Snow](https://open.spotify.com/track/2RbsVSwM49sQgenzCudWVB) | [Skyvoice](https://open.spotify.com/artist/2B8lJrGfr4uVZt3xw3lgMR) | [Colder Than Snow](https://open.spotify.com/album/1hsEiNg28eds9mUQfM2Awi) | 3:05 | 2024-01-13 | 2024-02-21 |
 | [COPIOU](https://open.spotify.com/track/3ROBGpyIMHocqsFfU0ZEED) | [NXTRO](https://open.spotify.com/artist/2SWXA0tjWwsmGD1wszXBYy) | [COPIOU](https://open.spotify.com/album/4H9V5xuklOKx8UwGu6w7eT) | 1:31 | 2024-09-27 |  |
 | [COSMIC BRAZILIAN PHONK](https://open.spotify.com/track/2DETANBDEstoy76foZVbxv) | [Bgnzinho](https://open.spotify.com/artist/5Km5CmAW8ReOXLd26uLPXL) | [COSMIC BRAZILIAN PHONK](https://open.spotify.com/album/4QaojJnmzUtpojYgAURiTN) | 1:31 | 2023-06-12 | 2024-01-14 |
+| [Count 'Em Up](https://open.spotify.com/track/5i592yc2kZsVAgkN8KAyIr) | [Skysia](https://open.spotify.com/artist/5YIxufplJpHkE3S1MXQr63) | [Count 'Em Up](https://open.spotify.com/album/0pBNSxbUMsuellsLqKugOK) | 3:00 | 2024-12-04 |  |
 | [CRASHOUTBOYZZ](https://open.spotify.com/track/5qH3XUoeXwgSmfjXHqvlFW) | [Lil Lucifer](https://open.spotify.com/artist/2uYsRcCqYPpztBUYo84wbV) | [CRASHOUTBOYZZ](https://open.spotify.com/album/7HTQ2sXb9KnRKCb8PVVS6y) | 2:07 | 2023-06-12 | 2023-08-06 |
 | [CRAZY](https://open.spotify.com/track/5vt3N5366BoSfSA60nM8SP) | [SXCREDMANE](https://open.spotify.com/artist/7MLzeghYGtox25YcP078j9), [CHASHKAKEFIRA](https://open.spotify.com/artist/4dZlYmIgngIVcPl2qw8qbd) | [CRAZY](https://open.spotify.com/album/0YbGQbSFVPR9poBcCsbBuz) | 2:35 | 2023-06-12 | 2023-07-29 |
 | [crime city](https://open.spotify.com/track/2DCWu8qsX3NpsdU3v4QiTV) | [Project 98](https://open.spotify.com/artist/78DBqQqK14yzExqp8L9d27), [PHONK.EXE](https://open.spotify.com/artist/3LTVq8jMbES1jTJaghsw5C) | [crime city](https://open.spotify.com/album/3x9egHnyHFbW9dpRHGYO00) | 2:05 | 2023-12-08 | 2024-01-19 |
@@ -296,6 +298,7 @@
 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 | 2023-06-12 | 2023-09-26 |
 | [In The End](https://open.spotify.com/track/0ry62QA95mn0I47TcTsU1q) | [Celarity](https://open.spotify.com/artist/0aKGERj6PO4FzqYqZF1RWP), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [In The End](https://open.spotify.com/album/4Mktc8lsrYoveJ6hzsH4zT) | 2:04 | 2023-06-12 | 2023-07-04 |
 | [IN THE END](https://open.spotify.com/track/5cRYL7w9PxnHYeEPkW1ECG) | [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [IN THE END](https://open.spotify.com/album/2FjIV3lGlm2F9nkugnuTYw) | 2:53 | 2023-07-03 | 2023-07-19 |
+| [Inferno](https://open.spotify.com/track/5XEGODwFn9QH5Z4CeZMCmb) | [Lorenzo Mariani](https://open.spotify.com/artist/7uxjXi3T9RXc0E2bPK6vHk) | [Inferno](https://open.spotify.com/album/4mrk0iKPRmBtkHlrrPJpfj) | 2:29 | 2024-12-04 |  |
 | [Infinite Torus](https://open.spotify.com/track/2QrohTiD4xToviZFmzx5c2) | [Momu](https://open.spotify.com/artist/773lqwv6VeD29M4yCkArJA) | [Moment](https://open.spotify.com/album/6LFvSZzONeexBEvz9z78uP) | 3:02 | 2024-09-19 |  |
 | [INTERMINABLE](https://open.spotify.com/track/7k5zzsljBgNXAmzW10Mq3r) | [glexks](https://open.spotify.com/artist/5XPRNCxTj3Pph1A6h4XTB6), [KXNVRA](https://open.spotify.com/artist/5UJkhYfIETGF5PMO0DT3aj) | [INTERMINABLE](https://open.spotify.com/album/7htAdYsWXC7ooHEPY2czoc) | 2:35 | 2023-08-21 | 2023-09-26 |
 | [Intro](https://open.spotify.com/track/2QlmdGiOXKi0tnw7b2DiKI) | [relaiXX](https://open.spotify.com/artist/0SOQZ0TQYLwn4qSNaTD8jQ) | [Intro](https://open.spotify.com/album/5csU0rYBL4h3YZoovDPq84) | 2:57 | 2023-09-12 | 2023-12-14 |
@@ -655,6 +658,7 @@
 | [XONAR](https://open.spotify.com/track/2LQFNDTxi1OTjIXMTfTHfR) | [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [XONAR](https://open.spotify.com/album/14Clp5vUXbtM5AHBO4aWF4) | 1:26 | 2024-07-26 |  |
 | [YODAWGIHEARDYOULIKETRENCHCOATS \- $KILLHOLLOW REMIX](https://open.spotify.com/track/4DpnnjxMqwh6BFx5ZUP5fh) | [Killhollow](https://open.spotify.com/artist/3mZDbuKlvYt5z4forbtZX9), [Skill Syrup](https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW) | [YODAWGIHEARDYOULIKETRENCHCOATS \($KILLHOLLOW REMIX\)](https://open.spotify.com/album/0gA9Wh5Y65PuX5PCpoIlYL) | 1:51 | 2023-06-22 | 2023-07-19 |
 | [You Ain't Gonna Make It](https://open.spotify.com/track/5gAPz35No3YNwar5YUSdTq) | [Kllsignl](https://open.spotify.com/artist/1ZqhTja2DcYnQMLDywiFXb) | [You Ain't Gonna Make It](https://open.spotify.com/album/6CtP9aG22Buddf6frpdCLQ) | 2:42 | 2024-01-08 | 2024-02-21 |
+| [Your Demise](https://open.spotify.com/track/2L33WmelFymfkSwKP0hyKH) | [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn), [ALEX](https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO) | [Crimson Legacy](https://open.spotify.com/album/5tano5EsHMiFrbO6oilpmg) | 3:45 | 2024-12-04 |  |
 | [Your Kiss Tastes Like Poison](https://open.spotify.com/track/1vNywMGtUHuU0WBpouyNO7) | [Jason Paris](https://open.spotify.com/artist/2vWWmyRebvvhNCRbF1471f) | [Analog Tapes](https://open.spotify.com/album/0yHtaaDVLW9DOpzM9nWrs1) | 2:40 | 2023-06-12 | 2023-06-26 |
 | [yupyupyup!](https://open.spotify.com/track/36dyTYh7Yqr3mXLjwaXM76) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [yupyupyup!](https://open.spotify.com/album/7tpUVeVU3i2FgYLhTwfYud) | 1:24 | 2023-12-16 | 2024-03-09 |
 | [Клетка](https://open.spotify.com/track/4nvsRb9ypaqqDXcZxjn6ba) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Этажи](https://open.spotify.com/album/1FHREwXgTQvqiG8q5KlRzc) | 4:43 | 2023-06-12 |  |

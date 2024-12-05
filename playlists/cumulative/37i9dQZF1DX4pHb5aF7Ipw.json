@@ -4218,7 +4218,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 172631,
       "name": "No Idea",
       "url": "https://open.spotify.com/track/3BPvdcvsczva4nGlIOgj40"
@@ -4364,6 +4364,28 @@
       "duration_ms": 180000,
       "name": "Notorious",
       "url": "https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw"
+    },
+    {
+      "album": {
+        "name": "Now They See",
+        "url": "https://open.spotify.com/album/77aaKtyfnKa4FC3r3Z1tub"
+      },
+      "artists": [
+        {
+          "name": "Lakshh",
+          "url": "https://open.spotify.com/artist/7tyBCnn0rdEhO7DsYnCNdh"
+        },
+        {
+          "name": "Sobit",
+          "url": "https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152039,
+      "name": "Now They See",
+      "url": "https://open.spotify.com/track/4tgZJA6om51mMKozSljKnQ"
     },
     {
       "album": {
@@ -5034,6 +5056,10 @@
         {
           "name": "Rav Dhaliwal",
           "url": "https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P"
+        },
+        {
+          "name": "Audiocrakerr",
+          "url": "https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN"
         }
       ],
       "date_added": "2024-11-28",

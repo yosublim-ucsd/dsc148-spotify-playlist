@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 193963,
+  "num_followers": 194029,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -341,6 +341,22 @@
       "url": "https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW"
     },
     {
+      "added_at": "2024-09-09 14:47:08",
+      "album": {
+        "name": "M\u00fasica do Esquecimento",
+        "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
+      },
+      "artists": [
+        {
+          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
+          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
+    },
+    {
       "added_at": "2023-05-26 18:09:55",
       "album": {
         "name": "Sus Dog",
@@ -359,22 +375,6 @@
       "duration_ms": 311562,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh"
-    },
-    {
-      "added_at": "2024-09-09 14:47:08",
-      "album": {
-        "name": "M\u00fasica do Esquecimento",
-        "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
-      },
-      "artists": [
-        {
-          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
-          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
     },
     {
       "added_at": "2021-10-15 03:46:13",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/7hzXbAbf3okLa0kpb39tG9"
     },
     {
-      "added_at": "2024-08-29 02:18:16",
-      "album": {
-        "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
-        "url": "https://open.spotify.com/album/2otNsW3gEAf1Pador5jviO"
-      },
-      "artists": [
-        {
-          "name": "Godspeed You! Black Emperor",
-          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
-        }
-      ],
-      "duration_ms": 413958,
-      "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
-      "url": "https://open.spotify.com/track/2mGaNrzkyL18tFIzzoZrjL"
-    },
-    {
       "added_at": "2024-03-05 06:00:54",
       "album": {
         "name": "a.s.o.",
@@ -443,6 +427,22 @@
       "duration_ms": 174893,
       "name": "Go On",
       "url": "https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh"
+    },
+    {
+      "added_at": "2024-08-29 02:18:16",
+      "album": {
+        "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
+        "url": "https://open.spotify.com/album/2otNsW3gEAf1Pador5jviO"
+      },
+      "artists": [
+        {
+          "name": "Godspeed You! Black Emperor",
+          "url": "https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK"
+        }
+      ],
+      "duration_ms": 413958,
+      "name": "GREY RUBBLE \u2013 GREEN SHOOTS",
+      "url": "https://open.spotify.com/track/2mGaNrzkyL18tFIzzoZrjL"
     },
     {
       "added_at": "2023-01-04 00:57:30",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
     },
     {
-      "added_at": "2024-09-18 13:52:43",
-      "album": {
-        "name": "True Luck",
-        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "True Luck",
-      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
-    },
-    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "STORY OF BLOOD",
@@ -819,6 +803,22 @@
       "duration_ms": 451986,
       "name": "STORY OF BLOOD",
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
+    },
+    {
+      "added_at": "2024-09-18 13:52:43",
+      "album": {
+        "name": "True Luck",
+        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "True Luck",
+      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
       "added_at": "2024-03-22 00:00:20",
@@ -901,20 +901,20 @@
       "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
     },
     {
-      "added_at": "2024-04-29 20:30:55",
+      "added_at": "2023-06-02 00:41:12",
       "album": {
-        "name": "thieves",
-        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
         }
       ],
-      "duration_ms": 178616,
-      "name": "thieves",
-      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
       "added_at": "2024-08-19 20:57:31",
@@ -931,22 +931,6 @@
       "duration_ms": 154910,
       "name": "I'VE BEEN EVIL",
       "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
-    },
-    {
-      "added_at": "2023-06-02 00:41:12",
-      "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
       "added_at": "2023-10-27 23:56:32",
@@ -983,6 +967,22 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
+      "added_at": "2024-04-29 20:30:55",
+      "album": {
+        "name": "thieves",
+        "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 178616,
+      "name": "thieves",
+      "url": "https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx"
     },
     {
       "added_at": "2024-07-18 21:58:08",
@@ -1189,22 +1189,6 @@
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
-      "added_at": "2024-08-16 20:06:32",
-      "album": {
-        "name": "Hay Veces",
-        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 186445,
-      "name": "Hay Veces",
-      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
-    },
-    {
       "added_at": "2023-06-05 20:56:02",
       "album": {
         "name": "Crispy Moon",
@@ -1235,6 +1219,22 @@
       "duration_ms": 321509,
       "name": "Art Today",
       "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
+    },
+    {
+      "added_at": "2024-08-16 20:06:32",
+      "album": {
+        "name": "Hay Veces",
+        "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 186445,
+      "name": "Hay Veces",
+      "url": "https://open.spotify.com/track/126s7WobIvhuZpoPpbokSe"
     },
     {
       "added_at": "2022-08-13 01:40:58",
@@ -1285,6 +1285,22 @@
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
+      "added_at": "2023-06-07 04:10:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
+    },
+    {
       "added_at": "2022-03-30 04:28:53",
       "album": {
         "name": "Sans oublier",
@@ -1321,6 +1337,22 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
+      "added_at": "2023-01-03 23:48:36",
+      "album": {
+        "name": "Where To Put The Pain",
+        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Where To Put The Pain",
+      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "High January",
@@ -1339,38 +1371,6 @@
       "duration_ms": 266287,
       "name": "Starved for Glamour",
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
-    },
-    {
-      "added_at": "2023-06-07 04:10:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
-    },
-    {
-      "added_at": "2023-01-03 23:48:36",
-      "album": {
-        "name": "Where To Put The Pain",
-        "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
-      },
-      "artists": [
-        {
-          "name": "Alice Boman",
-          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Where To Put The Pain",
-      "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
       "added_at": "2023-03-31 19:12:14",
@@ -1453,22 +1453,6 @@
       "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
-      "added_at": "2024-06-24 14:36:20",
-      "album": {
-        "name": "Los manantiales",
-        "url": "https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o"
-      },
-      "artists": [
-        {
-          "name": "Daga Voladora",
-          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
-        }
-      ],
-      "duration_ms": 161132,
-      "name": "Catedral",
-      "url": "https://open.spotify.com/track/3sRMZ7WnXCpRZBAH8nMcSz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1487,6 +1471,22 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
+    },
+    {
+      "added_at": "2024-06-24 14:36:20",
+      "album": {
+        "name": "Los manantiales",
+        "url": "https://open.spotify.com/album/4MAFhcqXWSW6eQfjOioK4o"
+      },
+      "artists": [
+        {
+          "name": "Daga Voladora",
+          "url": "https://open.spotify.com/artist/0HkkrjqypBf5EUrsCZNxca"
+        }
+      ],
+      "duration_ms": 161132,
+      "name": "Catedral",
+      "url": "https://open.spotify.com/track/3sRMZ7WnXCpRZBAH8nMcSz"
     },
     {
       "added_at": "2023-03-24 15:38:14",
@@ -1717,20 +1717,24 @@
       "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
     },
     {
-      "added_at": "2023-12-22 16:06:56",
+      "added_at": "2022-08-25 19:38:46",
       "album": {
-        "name": "Nodos",
-        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
+        "name": "A Liberdade \u00e9 Cara",
+        "url": "https://open.spotify.com/album/7dFapTJEEOuFLt3tQKbQCq"
       },
       "artists": [
         {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+          "name": "Flak",
+          "url": "https://open.spotify.com/artist/4wVjp7gqPZ71EFJ16cqlV4"
+        },
+        {
+          "name": "Cachupa Psicadelica",
+          "url": "https://open.spotify.com/artist/1cbsi2uimYgbyBiEssBoLO"
         }
       ],
-      "duration_ms": 220093,
-      "name": "Nodos",
-      "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
+      "duration_ms": 380973,
+      "name": "A Liberdade \u00e9 Cara",
+      "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     }
   ],
   "unique_name": "Oblique",

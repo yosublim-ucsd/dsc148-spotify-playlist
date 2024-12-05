@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: TWS
 
-1,185 songs - 2 day 16 hr 24 min
+1,186 songs - 2 day 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [BLUSH](https://open.spotify.com/track/0SheD3EFngYkmaDnjDuMd2) | [WOOAH](https://open.spotify.com/artist/7mgY992t7YTx6UELsoIMRa) | [BLUSH](https://open.spotify.com/album/6wwhS7RzJx0qQS9SOeohZe) | 2:58 | 2024-04-26 | 2024-04-30 |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2020-10-13\* | 2021-01-27 |
 | [BODY](https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Switch On](https://open.spotify.com/album/1TxNDPYLlpyErnOHazzBrN) | 3:12 | 2024-03-14 | 2024-06-13 |
+| [Bomb Bomb Bomb](https://open.spotify.com/track/2rnmV5epJdodKpmFVJmbDL) | [MYTRO](https://open.spotify.com/artist/03hzPQyRS7Rd6v6oGnYTzZ) | [LOVESTRUCK SISTERS Episode 5](https://open.spotify.com/album/5bH5jDdREPIt5uxyGx955M) | 3:27 | 2024-12-04 |  |
 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 | 2020-10-13\* | 2021-01-27 |
 | [BONVOYAGE](https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : From us\]](https://open.spotify.com/album/7D2DrBRs922elDgsyNrqjA) | 3:33 | 2023-05-25 | 2023-09-02 |
 | [BONVOYAGE \(Farewell Ver.\)](https://open.spotify.com/track/4xiuarCywWiw9qESd8Y7ng) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[BONVOYAGE \(Farewell Ver.\)\]](https://open.spotify.com/album/2oBHZWKC421qcUeMZLYNTO) | 3:32 | 2023-09-13 | 2023-10-13 |

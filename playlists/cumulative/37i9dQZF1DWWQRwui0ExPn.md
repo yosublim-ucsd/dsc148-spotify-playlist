@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,095 songs - 11 day 4 hr 58 min
+7,096 songs - 11 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1210,7 +1210,7 @@
 | [Coastal Walks](https://open.spotify.com/track/5I9cUsP08mVoll09AgkenG) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Cantsleep](https://open.spotify.com/artist/3NnWw90HvNCWgNi7vtKg4C), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Coastal Walks](https://open.spotify.com/album/7ISOo0AsQUaObViP3u4aa1) | 1:22 | 2019-07-13 | 2020-10-21 |
 | [Coastline](https://open.spotify.com/track/2cR13B4bNjOkGZIiLyYgFG) | [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Tundra](https://open.spotify.com/album/2H5XgseoKdd3dTdi99TMLF) | 2:35 | 2022-08-26 | 2022-11-20 |
 | [Coastline](https://open.spotify.com/track/4o2KcGCD2uZ6Nu0vnMLnhz) | [Nuncc](https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8) | [Tundra](https://open.spotify.com/album/0VAHpV4cwGa1jOyMn0LKO3) | 2:35 | 2022-11-18 | 2022-12-02 |
-| [Coastline](https://open.spotify.com/track/0PPlANVj1pw5InVorVuJv9) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Coastline](https://open.spotify.com/album/4LpnijAb8blgBpVbETtl2v) | 2:00 | 2024-10-18 |  |
+| [Coastline](https://open.spotify.com/track/0PPlANVj1pw5InVorVuJv9) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Coastline](https://open.spotify.com/album/4LpnijAb8blgBpVbETtl2v) | 2:00 | 2024-10-18 | 2024-12-05 |
 | [Cocktail Hour](https://open.spotify.com/track/6I3Rk4vEK9Z2vSYOeXfnOj) | [Makzo](https://open.spotify.com/artist/6EUNKAlDJLSmGZ1aQxnj96), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Cocktail Hour](https://open.spotify.com/album/0ycKGmTgkKaYIuOSAwRT9P) | 2:58 | 2021-08-22 | 2022-03-21 |
 | [Cocoa Tree](https://open.spotify.com/track/5jt2mlO9nhkhOtaFOZrIVs) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Cocoa Tree](https://open.spotify.com/album/3akCzqtp8ROxRM7HrZHmIP) | 2:14 | 2023-04-20 | 2024-01-05 |
 | [Coconut Bank](https://open.spotify.com/track/2bAI6Y0MYeHHcCW0gTHG7t) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Coconut Bank](https://open.spotify.com/album/61vOjg4sc53rRA3AzZj3Yl) | 2:25 | 2021-08-01 | 2022-03-12 |
@@ -1344,6 +1344,7 @@
 | [Corona](https://open.spotify.com/track/1qGMSeUzKB6eUgIKe7e7Tp) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Corona](https://open.spotify.com/album/21BSTYsjKIYbF0P2tKKljp) | 1:58 | 2024-05-10 |  |
 | [Cosmic](https://open.spotify.com/track/5rc0u4BTW7VjzKshxjpxTL) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Cosmic](https://open.spotify.com/album/1p4QOCEGG1sF4w5tYkBUAR) | 2:19 | 2022-02-25 | 2022-07-29 |
 | [Cosmic](https://open.spotify.com/track/728T7WR1qCPLGvog2ak4bv) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [Cosmic](https://open.spotify.com/album/6JzHt9BdyxwocZv8BgxtW6) | 2:17 | 2023-04-05 | 2023-11-11 |
+| [Cosmic](https://open.spotify.com/track/2zCUl0TvKXb2z7TV5uCKPT) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB) | [Cosmic](https://open.spotify.com/album/4mVxF5UETtnYh3DYYfEdTt) | 2:17 | 2024-11-29 |  |
 | [Cosmic Dawn](https://open.spotify.com/track/61cQIznMOBEohUxkNTdOi5) | [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr), [Layandar](https://open.spotify.com/artist/3SE9JR8Ors7GGbUWHYjgsv) | [Cosmic Dawn](https://open.spotify.com/album/3ChNGkmRnPvj37tBzSZBAQ) | 2:30 | 2021-10-20 | 2022-04-24 |
 | [Cosmic Dust](https://open.spotify.com/track/0Lg76shDoMyIvENdDqn538) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Unwind](https://open.spotify.com/album/42R8dikH5xTKY4dUpqbAaW) | 2:55 | 2022-11-18 | 2022-11-25 |
 | [Cosmic Dust](https://open.spotify.com/track/1m9wPQmEPOVK0gvZeGbzNv) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Cosmic Dust](https://open.spotify.com/album/3BolYLNyoFoLglrD1p185b) | 2:55 | 2022-08-12 | 2022-11-20 |
@@ -2257,7 +2258,7 @@
 | [Fountain](https://open.spotify.com/track/4vmULkwdCBWcjA19NEjCD4) | [Perry Goldfish](https://open.spotify.com/artist/4lom5jgcjrLwLQLmdi4gQZ) | [Fountain](https://open.spotify.com/album/5y0JNEwLdrZI5JDjrEJqSB) | 3:07 | 2021-12-17 | 2022-08-19 |
 | [Four Seasons](https://open.spotify.com/track/29kvrLzNSVoRiqE11df09X) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Four Seasons](https://open.spotify.com/album/6ubexppDoj11WHRiTpVHD4) | 1:55 | 2019-12-22 | 2021-02-04 |
 | [Fourteen Books](https://open.spotify.com/track/1JoPAGWFkF7enigf7MtgcT) | [maqhiavelli](https://open.spotify.com/artist/67ww86OQXukoNS13vNhNM2) | [Fourteen Books](https://open.spotify.com/album/0dFrYvV6AYgISLCNpCqtG6) | 2:28 | 2022-07-15 | 2022-10-28 |
-| [fourward](https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [fourward](https://open.spotify.com/album/0zWIxArfQueJrxoLVPGXkJ) | 2:42 | 2022-01-07 | 2024-12-04 |
+| [fourward](https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt) | [Blutone](https://open.spotify.com/artist/6C3HjDxIciOd8XvkEnNamY) | [fourward](https://open.spotify.com/album/0zWIxArfQueJrxoLVPGXkJ) | 2:42 | 2022-01-07 |  |
 | [Fractures](https://open.spotify.com/track/4vUi7jdRNbJfcKCrkNDbbU) | [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Fractures](https://open.spotify.com/album/6XgZXPKMqxTt4ScnDZPr6O) | 3:02 | 2022-05-27 | 2022-09-23 |
 | [fragile](https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV) | [frid](https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe) | [fragile](https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd) | 2:31 | 2024-11-15 |  |
 | [Fragments](https://open.spotify.com/track/2QCuFQMtOre4xzLglVQAOP) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Vibe Provide Collective](https://open.spotify.com/artist/11mQA5IpVhHpcOPQt4kJCf) | [Fragments](https://open.spotify.com/album/6c1f28v4fH9t5lQ4xa1AO2) | 2:00 | 2024-10-25 |  |
@@ -5418,7 +5419,7 @@
 | [silk umbrella](https://open.spotify.com/track/6AGzhBwJugJ1koUC5PcVcM) | [gamuri shun](https://open.spotify.com/artist/3t8zcW41Vd0F7ddGBwUZ4N) | [silk umbrella](https://open.spotify.com/album/1SSIOoSuWglZbaZ0S266Nt) | 1:46 | 2022-01-14 | 2022-09-02 |
 | [Silky Pleasure](https://open.spotify.com/track/6rQLn8guB7YKWIzLqPHtDc) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Silky Pleasure](https://open.spotify.com/album/3w0R961rJLP7OLMJsKdPIo) | 2:22 | 2022-10-14 | 2022-12-16 |
 | [Silly Spooles](https://open.spotify.com/track/6VzShi66jALkxxTgCCCspZ) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Silly Spooles](https://open.spotify.com/album/3IUPS6nSFKwtX0ozQokG4X) | 1:21 | 2024-03-01 |  |
-| [Silver Apples](https://open.spotify.com/track/3QXfWLUxcLR8EdUuMzSe5i) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Silver Apples](https://open.spotify.com/album/1DYLoZR6lw0hzv1hqbqFJD) | 1:50 | 2024-04-12 |  |
+| [Silver Apples](https://open.spotify.com/track/3QXfWLUxcLR8EdUuMzSe5i) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Silver Apples](https://open.spotify.com/album/1DYLoZR6lw0hzv1hqbqFJD) | 1:50 | 2024-04-12 | 2024-12-05 |
 | [Silver Birch](https://open.spotify.com/track/3ONIRhoRyimzjiW2W8PjtB) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Silver Birch](https://open.spotify.com/album/6aTbjQPDKcheugJicJpIf9) | 2:16 | 2023-02-27 | 2023-06-08 |
 | [silver sky](https://open.spotify.com/track/1Xof3gjWH8EGGwZo7hxJb1) | [LVTA](https://open.spotify.com/artist/3xoLUBE5kWiGDw1Dgp8Fcf) | [silver sky](https://open.spotify.com/album/4WF2vO9nbL4OYv0XE63bOh) | 2:01 | 2023-10-27 |  |
 | [Simple Life](https://open.spotify.com/track/3mR38Krujpi4hN84ldJcJG) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU), [Goon Hugs](https://open.spotify.com/artist/2y8HR60MymGr6SHVQYTfFU) | [Simple Life](https://open.spotify.com/album/3ysqvsE36XXgl27DnKdOY2) | 2:34 | 2024-10-18 |  |

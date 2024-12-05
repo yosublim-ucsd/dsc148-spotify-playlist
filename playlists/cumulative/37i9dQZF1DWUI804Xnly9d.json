@@ -6007,6 +6007,28 @@
     },
     {
       "album": {
+        "name": "Naraziyaan",
+        "url": "https://open.spotify.com/album/77uXObF1PN1q4HW7i1HoNJ"
+      },
+      "artists": [
+        {
+          "name": "Gursheet Khanuja",
+          "url": "https://open.spotify.com/artist/6cGG5aDa7RjUOWbqMVlh66"
+        },
+        {
+          "name": "Geetesh Yadav",
+          "url": "https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218453,
+      "name": "Naraziyaan",
+      "url": "https://open.spotify.com/track/5VReUwAENOtHpdgbn49JdX"
+    },
+    {
+      "album": {
         "name": "Naya Jahaan - Stripped",
         "url": "https://open.spotify.com/album/6V61uR9ixr8BOxYo84Xso3"
       },
@@ -6698,7 +6720,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 187658,
       "name": "Raaston",
       "url": "https://open.spotify.com/track/72NqtoCppciV4ijrLmQWUl"

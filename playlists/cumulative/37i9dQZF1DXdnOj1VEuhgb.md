@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Motive
 
-486 songs - 21 hr 42 min
+487 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Dilden Dile](https://open.spotify.com/track/2gEzY9A4cQIOGsOM9xODKF) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Dilden Dile](https://open.spotify.com/album/60X4XyKOlu9SliLzjElmGB) | 3:37 | 2024-05-30 | 2024-06-21 |
 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 | 2023-01-10 | 2023-09-22 |
 | [DIYE](https://open.spotify.com/track/35dhWi0kF2ZJbTA2jY2Phs) | [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY), [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [EPIZOD](https://open.spotify.com/album/0bZOB8JHT7TL3lheF8jEMG) | 3:00 | 2023-11-16 | 2023-12-14 |
+| [Doldum](https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Doldum](https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav) | 2:26 | 2024-12-04 |  |
 | [DOLDURDUM TABANCAMI](https://open.spotify.com/track/6fn6Us7sHiBY2kanqgub8D) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5), [SNOW](https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q) | [DOLDURDUM TABANCAMI](https://open.spotify.com/album/0JGt0C0lfBsn2hY0HZAB1J) | 2:15 | 2024-10-18 | 2024-11-22 |
 | [DOMDOM](https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [DOMDOM](https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X) | 2:13 | 2024-07-23 |  |
 | [DOYAMADIM](https://open.spotify.com/track/4C9oMKq6WuLPVyLFncFMXR) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [DOYAMADIM](https://open.spotify.com/album/3ZcoGz1y8uuLK2TctffImK) | 2:37 | 2024-02-08 | 2024-04-12 |
@@ -197,7 +198,7 @@
 | [Hep Sonradan](https://open.spotify.com/track/1RzUIIDzTvcX4Xc4UQs8Gf) | [Grogi](https://open.spotify.com/artist/40PllTYqoDKRna2jm9Gf8D), [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Hep Sonradan](https://open.spotify.com/album/3CyRyRF9zaWko9R7F6u8W4) | 2:32 | 2024-01-11 | 2024-01-26 |
 | [Her Anımız Yalan](https://open.spotify.com/track/04NyI7FUO6arfT5KnoX9el) | [Ahmet Balci](https://open.spotify.com/artist/0V8MPLRHPb0ei3CcLxoxQU), [KANSU](https://open.spotify.com/artist/7AIRm3U8ME5GufkEis66r7), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Her Anımız Yalan](https://open.spotify.com/album/4SikauJ4hJzK3Q8QttBmGb) | 2:42 | 2024-03-07 | 2024-04-05 |
 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 | 2024-09-19 |  |
-| [Hikaye Bitti Çoktan](https://open.spotify.com/track/2mgN0kh91PY3hlY88s3Zz5) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Ömrümün Son Güzel Günleri](https://open.spotify.com/album/36wDwn7fld4l2Qw77qXnvX) | 2:17 | 2024-11-07 |  |
+| [Hikaye Bitti Çoktan](https://open.spotify.com/track/2mgN0kh91PY3hlY88s3Zz5) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Ömrümün Son Güzel Günleri](https://open.spotify.com/album/36wDwn7fld4l2Qw77qXnvX) | 2:17 | 2024-11-07 | 2024-12-05 |
 | [Hot Baklava](https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l) | [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Hot Baklava](https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k) | 2:20 | 2023-07-27 | 2023-08-19 |
 | [Hoşçakal](https://open.spotify.com/track/1G4xPTSdWG5oRdmmnOC7cS) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Hoşçakal](https://open.spotify.com/album/5t1FRa388eMdxfnSTSHkps) | 3:10 | 2023-11-09 |  |
 | [Hüsran](https://open.spotify.com/track/6R97ZWEIAdPM733YsJETnx) | [Şehinşah](https://open.spotify.com/artist/0FUsrstJwmg4WVHQMTYuUA) | [Hüsran](https://open.spotify.com/album/0GB3rPFXXOG6nggS7ipwAm) | 3:12 | 2023-11-09 | 2023-12-14 |

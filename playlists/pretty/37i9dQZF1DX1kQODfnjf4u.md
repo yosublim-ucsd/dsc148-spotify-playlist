@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 
 > 50 nejžhavějších hitů v České republice\. Cover: Stromae, Pomme
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,378 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,353 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kQODfnjf4u.md) - [plain]
 | 8 | [Ohnivej kruh](https://open.spotify.com/track/63t5KcNc6sOvyo0leRzueh) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Impostor syndrom](https://open.spotify.com/album/6NjCnjFq87vgaBvE327NUy) | 2:10 |
 | 9 | [Suave](https://open.spotify.com/track/5E1tL0zofGATKf1cthCxwf) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd) | [Bieber Fever](https://open.spotify.com/album/2R1uwISz1QbhnV7Nj7PPXB) | 2:01 |
 | 10 | [NENI STRE$S](https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG), [Luca Brassi10x](https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i), [Separ](https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO) | [VOJNA](https://open.spotify.com/album/0QPn6C5PKpVLqOJnyRiAxZ) | 2:49 |
-| 11 | [Rest In Piss](https://open.spotify.com/track/237OELq03CgubC3t7LwvUq) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux), [Ektor](https://open.spotify.com/artist/4V1v1oFnKe0b42lZh1QBnF) | [Rest In Piss](https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I) | 2:31 |
+| 11 | [Rest In Piss](https://open.spotify.com/track/237OELq03CgubC3t7LwvUq) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [Rest In Piss](https://open.spotify.com/album/24nAN0gQnSpP1nLz0mfH5I) | 2:31 |
 | 12 | [KSN](https://open.spotify.com/track/7AlwfbJ4nhr7JnYwoSgAkM) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Painkillers](https://open.spotify.com/album/4gspgDnW3sHEv8j01Unxsp) | 3:01 |
 | 13 | [cool](https://open.spotify.com/track/3ccodz9WzM5L385hQbxbYW) | [Grey256](https://open.spotify.com/artist/66bgEhG3GXDBGNZEJKs8bM) | [cool](https://open.spotify.com/album/0lcEeyRb0qLz0ZDq2iZ37Y) | 3:00 |
 | 14 | [ULICE DRUHÁ MÁMA](https://open.spotify.com/track/00Imdq7NDBO3zbbREGgUOM) | [Hard Rico](https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ), [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI) | [GLOBAL](https://open.spotify.com/album/7hUhtwBYvKoibrTp9xDRyX) | 3:06 |

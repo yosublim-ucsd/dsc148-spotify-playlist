@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 
 > The sound of 90s Jungle rave\. Cover: Roni Size
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,567 likes - 60 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,602 likes - 60 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTv94Wk9KTkJ.md) - [plain]
 | 12 | [Quest](https://open.spotify.com/track/0v3LMjm8f6MtcICtQty8go) | [Shimon](https://open.spotify.com/artist/23DzvutdyC9J2ZXlovvLE9), [Andy C](https://open.spotify.com/artist/75HK7rgkmDMTnWwwmcN53N) | [Quest / Night Flight](https://open.spotify.com/album/1UUfrBL8LIajX0u58Elbvd) | 6:06 |
 | 13 | [Super Sharp Shooter](https://open.spotify.com/track/7HplmT7kssCvlAUKAYXpKO) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Playaz Digital Vol 3](https://open.spotify.com/album/1pfDX0aDAvU6XKk6YNUUUJ) | 6:26 |
 | 14 | [Maximum Style \(Lover To Lover\)](https://open.spotify.com/track/5aqLROQOpWX2H8Q3b0IB6b) | [Tom & Jerry](https://open.spotify.com/artist/11XdPK1p3uSxX0qiBy5WBZ) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:05 |
-| 15 | [Junglist Sound \- Serial Killaz Remix](https://open.spotify.com/track/4qhX1YcScEgNYv0OMi4JGy) | [Navigator](https://open.spotify.com/artist/209iefa4qgaGhDAgjxN9F9), [Ranking Joe](https://open.spotify.com/artist/2VOFT3lVhcMPRoUo0vj0f7), [Serial Killaz](https://open.spotify.com/artist/344eUtkVN3DoVFpNcyBzvv) | [Welcome To The Jungle, Vol\. 7: Jungle + Drum and Bass Soundclash](https://open.spotify.com/album/1HBvtRVu59WAbKus2WdDH0) | 5:19 |
+| 15 | [Junglist Sound \- Serial Killaz Remix](https://open.spotify.com/track/4qhX1YcScEgNYv0OMi4JGy) | [Navigator](https://open.spotify.com/artist/6rhLeedUsoFpYPcoOJWAVd), [Ranking Joe](https://open.spotify.com/artist/2VOFT3lVhcMPRoUo0vj0f7), [Serial Killaz](https://open.spotify.com/artist/344eUtkVN3DoVFpNcyBzvv) | [Welcome To The Jungle, Vol\. 7: Jungle + Drum and Bass Soundclash](https://open.spotify.com/album/1HBvtRVu59WAbKus2WdDH0) | 5:19 |
 | 16 | [The Burial](https://open.spotify.com/track/0BIAlQguOM4MSEDUjqOqkc) | [Leviticus](https://open.spotify.com/artist/78jhiSCR4W1RQvj1rT0pwt) | [Jungle Hits, Vol\. 1](https://open.spotify.com/album/6ajFWIR0zVPWu3cBj68B4z) | 4:07 |
 | 17 | [The Touch](https://open.spotify.com/track/6pJjxNmeboD5WrEgJkMjhl) | [Origin Unknown](https://open.spotify.com/artist/6kvXn2MzCLCtsAqf5nbmho) | [The Touch / Valley of the Shadows](https://open.spotify.com/album/1gWPRimIXSH0bbJvzM1XW6) | 4:39 |
 | 18 | [Wikkeda!!](https://open.spotify.com/track/3PUGBac7mElPuzPYiSf5Uo) | [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Hard'n'Pure](https://open.spotify.com/artist/4epfiipnXGJarGzUoiyJJI) | [This Is Jungle](https://open.spotify.com/album/4Cj6g8IIVEDFqyaCNtpqlv) | 4:54 |

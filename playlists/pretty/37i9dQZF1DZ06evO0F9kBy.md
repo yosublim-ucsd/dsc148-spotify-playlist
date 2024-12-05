@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,532 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,534 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 19 | [No Body \(feat\. Matt Maher\)](https://open.spotify.com/track/3KhD8sFLTlH2rFvMskQoUb) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Get Out of the Way of Your Own Heart \(Deluxe Edition\)](https://open.spotify.com/album/2NHhXUmXes3Ky0hdwDpStN) | 4:06 |
 | 20 | [Counting My Blessings \- Collab Version](https://open.spotify.com/track/6HQXoQ0ZascrhJLtY4uPkR) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:30 |
 | 21 | [Take it Easy](https://open.spotify.com/track/1ET6peDpteC9VF12kh7v3z) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Sanctuary Songs](https://open.spotify.com/album/1CSfutoC6m5nK6LIAAI0ai) | 3:48 |
-| 22 | [God, Turn It Around \(feat\. Matt Maher\) \- Live](https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [God, Turn It Around](https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU) | 4:40 |
+| 22 | [God, Turn It Around \(feat\. Matt Maher\) \- Live Version](https://open.spotify.com/track/3h6jF4dFCELdphlOk0wlFc) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [God, Turn It Around](https://open.spotify.com/album/7MUAMw8GcvLQmtDZ6mADWU) | 4:40 |
 | 23 | [The In Between \- from The Chosen](https://open.spotify.com/track/3roS62frfF60JQD8jiacOK) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The In Between \(from The Chosen\)](https://open.spotify.com/album/7oSnMRE1AdohIWO8WwfIfv) | 3:58 |
 | 24 | [Alive Again](https://open.spotify.com/track/5c6flWJGgiffpYElobcA4P) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 3:59 |
 | 25 | [Joyful Noise \(feat\. DOE\) \- Live](https://open.spotify.com/track/5sn2NVwXGfGEQDBbkAIXj6) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Joyful Noise \(feat\. DOE\) \[Live\]](https://open.spotify.com/album/0sCjoeW4EhfoMApELYKFOr) | 4:38 |

@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 788164,
+  "num_followers": 788214,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Aeternus",
-        "url": "https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad"
-      },
-      "artists": [
-        {
-          "name": "Sonic Waterfall",
-          "url": "https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Aeternus",
-      "url": "https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "Elevation",
         "url": "https://open.spotify.com/album/0TC837zitGMN0ctCFV5wkP"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 170176,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/07KybtBPaFyyZY9c5TiLpy"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "Aeternus",
+        "url": "https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad"
+      },
+      "artists": [
+        {
+          "name": "Sonic Waterfall",
+          "url": "https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Aeternus",
+      "url": "https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "life cycle",
-        "url": "https://open.spotify.com/album/4bD96IkCbqtIp5IqcaVNzy"
-      },
-      "artists": [
-        {
-          "name": "Aquas",
-          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "life cycle",
-      "url": "https://open.spotify.com/track/4ehaeiOh82oQHaTOYU2X3O"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "Divided Motions",
         "url": "https://open.spotify.com/album/7Iv54aMkrPYlR2ugeU6fY4"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 182000,
       "name": "Divided Motions",
       "url": "https://open.spotify.com/track/5jDfb1JYpOXY6KoRpvNWjI"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "life cycle",
+        "url": "https://open.spotify.com/album/4bD96IkCbqtIp5IqcaVNzy"
+      },
+      "artists": [
+        {
+          "name": "Aquas",
+          "url": "https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "life cycle",
+      "url": "https://open.spotify.com/track/4ehaeiOh82oQHaTOYU2X3O"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "Sogniare",
         "url": "https://open.spotify.com/album/250bxUmKSymaXoTLqS2JVK"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 256388,
       "name": "Sogniare",
       "url": "https://open.spotify.com/track/2lRlv6866bap5dTst95GoN"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
+      },
+      "artists": [
+        {
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
+        }
+      ],
+      "duration_ms": 153962,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "432 Hz Healing Frequencies",
-        "url": "https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy"
-      },
-      "artists": [
-        {
-          "name": "Solfeggio Wellness Frequencies",
-          "url": "https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "432 Hz Peace",
-      "url": "https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "Driftwood",
         "url": "https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 166285,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "432 Hz Healing Frequencies",
+        "url": "https://open.spotify.com/album/7GqZl8TWFLlCtNgw2YowKy"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Wellness Frequencies",
+          "url": "https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "432 Hz Peace",
+      "url": "https://open.spotify.com/track/75vwsXhRAWWAfNUMuHE1t3"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Dream Creator",
-        "url": "https://open.spotify.com/album/3BWpdkTtTFpAlu9zKNONS6"
-      },
-      "artists": [
-        {
-          "name": "Dreamscaper",
-          "url": "https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "Dream Creator",
-      "url": "https://open.spotify.com/track/59RuuDJJIilK0EBvt4e5Cq"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "Sonar Light",
         "url": "https://open.spotify.com/album/1HMquYwpOmvSvYpxXvvolE"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 183157,
       "name": "Sonar Light",
       "url": "https://open.spotify.com/track/4odbTZUw8sqfkz0Aor84DV"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "Dream Creator",
+        "url": "https://open.spotify.com/album/3BWpdkTtTFpAlu9zKNONS6"
+      },
+      "artists": [
+        {
+          "name": "Dreamscaper",
+          "url": "https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6"
+        }
+      ],
+      "duration_ms": 179047,
+      "name": "Dream Creator",
+      "url": "https://open.spotify.com/track/59RuuDJJIilK0EBvt4e5Cq"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
+        "name": "Lakes",
+        "url": "https://open.spotify.com/album/0bpMA0KotKrmTKfAA52t2B"
+      },
+      "artists": [
+        {
+          "name": "Lumen Sonitus",
+          "url": "https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW"
+        }
+      ],
+      "duration_ms": 156627,
+      "name": "Lakes",
+      "url": "https://open.spotify.com/track/1CnX0PFmMXHrdkAhkdqEX0"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
         "name": "Kshanon",
         "url": "https://open.spotify.com/album/7pnYbnU0FVvjilu4CjHePH"
       },
@@ -1723,18 +1739,18 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Lakes",
-        "url": "https://open.spotify.com/album/0bpMA0KotKrmTKfAA52t2B"
+        "name": "Synchronizations",
+        "url": "https://open.spotify.com/album/5oWYPEws3cMBvWyoaIV0OI"
       },
       "artists": [
         {
-          "name": "Lumen Sonitus",
-          "url": "https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW"
+          "name": "Indigenouz",
+          "url": "https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7"
         }
       ],
-      "duration_ms": 156627,
-      "name": "Lakes",
-      "url": "https://open.spotify.com/track/1CnX0PFmMXHrdkAhkdqEX0"
+      "duration_ms": 175351,
+      "name": "Synchronizations",
+      "url": "https://open.spotify.com/track/65qUTdDMoJQAPv877QXb42"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -1787,22 +1803,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Synchronizations",
-        "url": "https://open.spotify.com/album/5oWYPEws3cMBvWyoaIV0OI"
-      },
-      "artists": [
-        {
-          "name": "Indigenouz",
-          "url": "https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7"
-        }
-      ],
-      "duration_ms": 175351,
-      "name": "Synchronizations",
-      "url": "https://open.spotify.com/track/65qUTdDMoJQAPv877QXb42"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/7JU3DbNEFTXHjJWSt7Vpwa"
       },
@@ -1815,22 +1815,6 @@
       "duration_ms": 181374,
       "name": "Here",
       "url": "https://open.spotify.com/track/39OcBhQNIyodpgt9OEPE1K"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
-        "name": "Gateway",
-        "url": "https://open.spotify.com/album/33d61WIwA3YlHAcW4sXVjl"
-      },
-      "artists": [
-        {
-          "name": "Simon Sebastienne",
-          "url": "https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG"
-        }
-      ],
-      "duration_ms": 171543,
-      "name": "Gateway",
-      "url": "https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -1851,6 +1835,22 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
+        "name": "Gateway",
+        "url": "https://open.spotify.com/album/33d61WIwA3YlHAcW4sXVjl"
+      },
+      "artists": [
+        {
+          "name": "Simon Sebastienne",
+          "url": "https://open.spotify.com/artist/4wFwJASQD2dtsEMshTmbCG"
+        }
+      ],
+      "duration_ms": 171543,
+      "name": "Gateway",
+      "url": "https://open.spotify.com/track/6Js6EnpszmefcsVLQpai8R"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
         "name": "En el Espacio",
         "url": "https://open.spotify.com/album/7q0vBgCyzRg8iufFApO4J5"
       },
@@ -1863,6 +1863,22 @@
       "duration_ms": 182044,
       "name": "En el Espacio",
       "url": "https://open.spotify.com/track/5ZRWtriBKg5blYLi2UDLMP"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "dream voyage",
+        "url": "https://open.spotify.com/album/6imgVrU8qI0QumuPRF7vnh"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "duration_ms": 207740,
+      "name": "dream voyage",
+      "url": "https://open.spotify.com/track/071keE1dQVjf9ErDpdZBDv"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -1899,38 +1915,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Mirageon",
-        "url": "https://open.spotify.com/album/0yitrOEBGeE9gtI9JWWZqh"
-      },
-      "artists": [
-        {
-          "name": "Caspian Zenith",
-          "url": "https://open.spotify.com/artist/1LClFSd4J7glYBBd4x9btQ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Mirageon",
-      "url": "https://open.spotify.com/track/2nmRopj5DBq2Lmj8pA6OBE"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
-        "name": "dream voyage",
-        "url": "https://open.spotify.com/album/6imgVrU8qI0QumuPRF7vnh"
-      },
-      "artists": [
-        {
-          "name": "oh, the joy.",
-          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
-        }
-      ],
-      "duration_ms": 207740,
-      "name": "dream voyage",
-      "url": "https://open.spotify.com/track/071keE1dQVjf9ErDpdZBDv"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "396 Hz Peace and Tranquility",
         "url": "https://open.spotify.com/album/4Kjc4r0y8SfRfseDfOyXIo"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 181500,
       "name": "396 Hz Peace and Tranquility",
       "url": "https://open.spotify.com/track/4s3ba4kPr3fPcCCUuwSf32"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "Mirageon",
+        "url": "https://open.spotify.com/album/0yitrOEBGeE9gtI9JWWZqh"
+      },
+      "artists": [
+        {
+          "name": "Caspian Zenith",
+          "url": "https://open.spotify.com/artist/1LClFSd4J7glYBBd4x9btQ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Mirageon",
+      "url": "https://open.spotify.com/track/2nmRopj5DBq2Lmj8pA6OBE"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "432 Hz Calm",
-        "url": "https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp"
-      },
-      "artists": [
-        {
-          "name": "Calma",
-          "url": "https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT"
-        }
-      ],
-      "duration_ms": 176667,
-      "name": "432 Hz Calm",
-      "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "Glaciers",
         "url": "https://open.spotify.com/album/4cU5BIohnVNLHJxW0rEuWY"
       },
@@ -2027,18 +2011,18 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Free of Charge",
-        "url": "https://open.spotify.com/album/6z0qDvPnbv4TXGExXOPqN6"
+        "name": "432 Hz Calm",
+        "url": "https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp"
       },
       "artists": [
         {
-          "name": "Claddagh Glas",
-          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
+          "name": "Calma",
+          "url": "https://open.spotify.com/artist/0yrywRgSz0i2hZCJHuP3iT"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Free of Charge",
-      "url": "https://open.spotify.com/track/2im1E9P5dMU1S2F0j6eWaI"
+      "duration_ms": 176667,
+      "name": "432 Hz Calm",
+      "url": "https://open.spotify.com/track/2fKKLKOdbvoENYG2UG92vB"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -2075,18 +2059,18 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Obelus",
-        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
+        "name": "Free of Charge",
+        "url": "https://open.spotify.com/album/6z0qDvPnbv4TXGExXOPqN6"
       },
       "artists": [
         {
-          "name": "Jin Eun-Kyung",
-          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
+          "name": "Claddagh Glas",
+          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
         }
       ],
-      "duration_ms": 203728,
-      "name": "Frozen In Time",
-      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
+      "duration_ms": 138000,
+      "name": "Free of Charge",
+      "url": "https://open.spotify.com/track/2im1E9P5dMU1S2F0j6eWaI"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -2103,6 +2087,22 @@
       "duration_ms": 189600,
       "name": "Lotus Lullaby",
       "url": "https://open.spotify.com/track/6OTcN4tThtca8Twcxm3Vie"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "Obelus",
+        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
+      },
+      "artists": [
+        {
+          "name": "Jin Eun-Kyung",
+          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Frozen In Time",
+      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -2155,6 +2155,22 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
+        "name": "Somewhere Else",
+        "url": "https://open.spotify.com/album/2sSpHzan1oxIJ4z94Ub4SX"
+      },
+      "artists": [
+        {
+          "name": "Deep Seek",
+          "url": "https://open.spotify.com/artist/4ZfigssSXJtyPsGoUYLPZy"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Safe Inside",
+      "url": "https://open.spotify.com/track/6vM10Qv5vKNpLvfdg4N4j0"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
         "name": "Peaceful Drones",
         "url": "https://open.spotify.com/album/3MmpFmPLWVAb52EVPwxqx5"
       },
@@ -2183,22 +2199,6 @@
       "duration_ms": 148500,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5vgiScEWEa7AVxu6Q7Rmmm"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
-        "name": "Somewhere Else",
-        "url": "https://open.spotify.com/album/2sSpHzan1oxIJ4z94Ub4SX"
-      },
-      "artists": [
-        {
-          "name": "Deep Seek",
-          "url": "https://open.spotify.com/artist/4ZfigssSXJtyPsGoUYLPZy"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Safe Inside",
-      "url": "https://open.spotify.com/track/6vM10Qv5vKNpLvfdg4N4j0"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Solfeggio Purity 741 Hz",
-        "url": "https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez"
-      },
-      "artists": [
-        {
-          "name": "Zephyrical",
-          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
-        }
-      ],
-      "duration_ms": 175073,
-      "name": "Solfeggio Purity 741 Hz",
-      "url": "https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "butterflou",
         "url": "https://open.spotify.com/album/3NmH0QhSYnA9Ws4nrgqxiC"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 190274,
       "name": "butterflou",
       "url": "https://open.spotify.com/track/2WICxZqCY8ZvzJnkAOEuDT"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "Solfeggio Purity 741 Hz",
+        "url": "https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "duration_ms": 175073,
+      "name": "Solfeggio Purity 741 Hz",
+      "url": "https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj"
     },
     {
       "added_at": "2024-11-21 13:31:21",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2024-11-21 13:31:21",
       "album": {
-        "name": "Enlightened",
-        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
-      },
-      "artists": [
-        {
-          "name": "Atmospheric Lights",
-          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Enlightened",
-      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
-    },
-    {
-      "added_at": "2024-11-21 13:31:21",
-      "album": {
         "name": "Inner Nebula",
         "url": "https://open.spotify.com/album/7LaKwVWxwMtjsvE7jet7KR"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 127614,
       "name": "Inner Nebula",
       "url": "https://open.spotify.com/track/46qoXJqr0QHFTHftO02FNT"
+    },
+    {
+      "added_at": "2024-11-21 13:31:21",
+      "album": {
+        "name": "Enlightened",
+        "url": "https://open.spotify.com/album/7AE9pKUnW5HGG11bqD5Ddu"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Enlightened",
+      "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
     },
     {
       "added_at": "2024-11-21 13:31:21",

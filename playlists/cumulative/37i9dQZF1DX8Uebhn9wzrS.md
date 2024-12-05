@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,158 songs - 3 day 10 hr 16 min
+2,159 songs - 3 day 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@
 | [Dance The Night](https://open.spotify.com/track/40YoFnCDboRZe6lmoXcGvM) | [Analog Bow](https://open.spotify.com/artist/7kQ9kQ588r6INRWFlU1k1T) | [Dance The Night](https://open.spotify.com/album/4YE6LjBfsnLKV79C1ZUSeJ) | 2:39 | 2023-11-17 |  |
 | [dancing lights](https://open.spotify.com/track/6zYY5IxKrQqlq1gZvMiflo) | [Greene Labyrinth](https://open.spotify.com/artist/6oiYRGIhDRfbtZmzsfziUR) | [dancing lights](https://open.spotify.com/album/1yFc2Vo2a91Gk2OcaQnAYX) | 2:24 | 2024-09-27 | 2024-11-20 |
 | [Dark Places](https://open.spotify.com/track/0JSQbdSkJ5xKu8OQB3g5wO) | [Kiabits](https://open.spotify.com/artist/7Iwn7mwI12WYQtlVoi4GAg), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Dark Places](https://open.spotify.com/album/3hpc6SGom48hjionKuXgjZ) | 2:18 | 2022-07-29 | 2022-08-12 |
-| [DaSpritzers](https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [DaSpritzers](https://open.spotify.com/album/4yfR0jwF5CrWmy6U02rgsU) | 2:24 | 2022-11-18 |  |
+| [DaSpritzers](https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [DaSpritzers](https://open.spotify.com/album/4yfR0jwF5CrWmy6U02rgsU) | 2:24 | 2022-11-18 | 2024-12-05 |
 | [Daunout](https://open.spotify.com/track/2NpcAVGqqapVHBPae0vwSb) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Daunout](https://open.spotify.com/album/0KypY3PnGTQyr5nz79njeR) | 1:54 | 2023-01-20 | 2024-07-27 |
 | [Daydream](https://open.spotify.com/track/01lS197HXZ7HwSd7LVy1ce) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y) | [Daydream](https://open.spotify.com/album/3gFsPMTHGuOB5N4ZUiXkVZ) | 2:08 | 2022-04-22 | 2022-11-12 |
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 |  |
@@ -966,6 +966,7 @@
 | [Keep This Up \- Lo\-Fi](https://open.spotify.com/track/402DiXncs9aahnqrxurdg3) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg), [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [Keep This up / High Regard / Empty Space \(Lo\-Fi\)](https://open.spotify.com/album/03YkledkBTxa5CC2NaqWhO) | 2:28 | 2022-04-15 | 2022-07-15 |
 | [keeping up appearances](https://open.spotify.com/track/0NLSPdAfVk8ArLAH0XqTWJ) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [keeping up appearances](https://open.spotify.com/album/6UMpw0PMtV73MOhsU5ohJ6) | 2:08 | 2024-10-18 | 2024-11-30 |
 | [Keeps Me Wondering Why](https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Keeps Me Wondering Why](https://open.spotify.com/album/0nHwQFKQri8077vTVZrwHR) | 1:57 | 2023-02-06 |  |
+| [kernel](https://open.spotify.com/track/5UpkSwbQixikbbJvG5GnOV) | [haki donzo](https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b) | [kernel](https://open.spotify.com/album/6gsW4jhtndk19PDEOvy9nJ) | 2:00 | 2024-11-29 |  |
 | [Ketanji](https://open.spotify.com/track/09I6fKxNZhPbvCxx4bmvCC) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh) | [Ketanji](https://open.spotify.com/album/5yQ0XpUlcwx8FyuEUTa6UN) | 2:42 | 2022-10-28 | 2023-01-20 |
 | [Key Moments](https://open.spotify.com/track/2oUl0kFSgm7x7zw9l1AdFA) | [Lo Roads](https://open.spotify.com/artist/3y47oXW2VlBFdRzhtNAXz2) | [Wonder](https://open.spotify.com/album/2ihvIaMmU9hc74O0R7SKSC) | 2:29 | 2022-04-15 | 2022-09-17 |
 | [kick it back, kid](https://open.spotify.com/track/2I9KLecFGk6rKauCvN6eME) | [meadowzz](https://open.spotify.com/artist/6iJBPhaUkwdsG9QPc6qcEz) | [kick it back, kid & unwind to shine](https://open.spotify.com/album/3kRfqs6Qw9A9zorGmQJOUR) | 3:05 | 2022-12-02 | 2024-10-11 |
@@ -1853,7 +1854,7 @@
 | [Supernova](https://open.spotify.com/track/4VUEKRdgmVP7ZvsrnDlWvt) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [Supernova](https://open.spotify.com/album/0cywMV3yuEW9GNUutqbfNn) | 2:16 | 2023-03-20 | 2023-10-27 |
 | [Sure Thing](https://open.spotify.com/track/4FlEeZGyEX4YFkemYosHlp) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Sure Thing](https://open.spotify.com/album/4Tgn8uLSmKuC1rXuzR0FTj) | 1:44 | 2022-11-11 | 2022-11-24 |
 | [Sure Thing](https://open.spotify.com/track/5ckDJdpOfwyQQHjaSV3JNj) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Sure Thing](https://open.spotify.com/album/0aajqsRSt6q8OBeUVtFecR) | 1:44 | 2022-11-18 | 2023-09-16 |
-| [surf & turf](https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [surf & turf](https://open.spotify.com/album/1ynicyTPqKdnRVtJwypRCY) | 2:21 | 2022-12-02 | 2024-11-25 |
+| [surf & turf](https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [surf & turf](https://open.spotify.com/album/1ynicyTPqKdnRVtJwypRCY) | 2:21 | 2022-12-02 |  |
 | [Surf Tiger](https://open.spotify.com/track/0jwpEqWMwo5fR1XQXic4lg) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [Surf Tiger](https://open.spotify.com/album/4jTtUszaxX0G32HP7nG2SE) | 3:02 | 2023-10-20 |  |
 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 | 2023-11-17 |  |
 | [Survival](https://open.spotify.com/track/0f9hjKIkQqW6IVrX3CMuof) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Survival](https://open.spotify.com/album/6gbpld3gTD8mNXRfSvMLoC) | 2:32 | 2023-11-17 |  |
@@ -2074,7 +2075,7 @@
 | [Watching Walls](https://open.spotify.com/track/5Pv4jIAe9BM9QZJxvMQTZG) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Watching Walls](https://open.spotify.com/album/19n7gbTqzfG0M7Ptnx999l) | 2:11 | 2024-09-06 |  |
 | [Water under the Bridge](https://open.spotify.com/track/2hkWgVbqRizZklKGPInc5x) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Rare Breed](https://open.spotify.com/album/7qVNP2v7tcpoOnEEnObYej) | 3:27 | 2022-04-15 | 2022-11-12 |
 | [watercolour](https://open.spotify.com/track/0x0XaXiKrUFoCTnrDFXgdt) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [watercolour](https://open.spotify.com/album/184U6PqwZz0xIejtcsr5Nd) | 2:00 | 2023-12-15 |  |
-| [waves](https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [waves](https://open.spotify.com/album/1N5uO19ere7Y3cbG41LHCk) | 3:02 | 2022-12-09 |  |
+| [waves](https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b) | [Coastlinez](https://open.spotify.com/artist/1JDqWVMetMtVAFvSH1ahzj) | [waves](https://open.spotify.com/album/1N5uO19ere7Y3cbG41LHCk) | 3:02 | 2022-12-09 | 2024-12-05 |
 | [Waves coming](https://open.spotify.com/track/2J6oZ9gQYE9kl3RJoRuhfn) | [Pete LaCroix](https://open.spotify.com/artist/02oVnpIPcBnM3aLWynbqpo) | [Waves coming](https://open.spotify.com/album/5r2aAYQwavuOhjlfvqqAFs) | 2:51 | 2022-04-15 | 2022-10-08 |
 | [Waves of Affection](https://open.spotify.com/track/3CbR0A70vykSvo892Q8GFM) | [MC](https://open.spotify.com/artist/0DyoPw1p8N3GheQzvjt7x5) | [Waves of Affection](https://open.spotify.com/album/4Aial9QGHocPz3n1IJtCjA) | 2:33 | 2024-10-25 | 2024-11-20 |
 | [Wavez](https://open.spotify.com/track/02geXr3q6b3JlRC8lXG9Ze) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) | [Wavez](https://open.spotify.com/album/5i4VhNSsE6IaQrDbBGm0aR) | 2:41 | 2022-07-29 | 2022-08-12 |

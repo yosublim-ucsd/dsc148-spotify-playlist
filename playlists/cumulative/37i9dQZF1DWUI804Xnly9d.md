@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-457 songs - 1 day 1 hr 43 min
+458 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,6 +299,7 @@
 | [nadaaniyan \(with Jonita Gandhi\)](https://open.spotify.com/track/3bCtOEC3jLaxwpfQMb5f68) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [nadaaniyan \(with Jonita Gandhi\)](https://open.spotify.com/album/7CzvCp9WP896ZTH2JZpbLD) | 2:51 | 2024-09-29 |  |
 | [Nai Lagda](https://open.spotify.com/track/6CfBIO3VC5zVybvTf6zH2V) | [Ajayank](https://open.spotify.com/artist/6FSvAGhOgbsfufcDYeau6o) | [Nai Lagda](https://open.spotify.com/album/6g39saDUux7Pe1wZLdcoR1) | 2:24 | 2023-09-22 | 2023-11-16 |
 | [Nami Danam](https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Nami Danam](https://open.spotify.com/album/1bVfwBHWZ7XEYBO4oottGQ) | 4:51 | 2023-07-19 | 2023-08-03 |
+| [Naraziyaan](https://open.spotify.com/track/5VReUwAENOtHpdgbn49JdX) | [Gursheet Khanuja](https://open.spotify.com/artist/6cGG5aDa7RjUOWbqMVlh66), [Geetesh Yadav](https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm) | [Naraziyaan](https://open.spotify.com/album/77uXObF1PN1q4HW7i1HoNJ) | 3:38 | 2024-12-04 |  |
 | [Naya Jahaan \- Stripped](https://open.spotify.com/track/3OUmQlsuMxUxcapjTotHMB) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Naya Jahaan \- Stripped](https://open.spotify.com/album/6V61uR9ixr8BOxYo84Xso3) | 2:15 | 2023-08-30 | 2024-02-21 |
 | [Nindiya](https://open.spotify.com/track/5j4XfQQaOtP6VZpo5wMPPP) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Nindiya](https://open.spotify.com/album/0G0naNmj8UQzJFTQWXlwOZ) | 3:40 | 2023-11-10 | 2024-02-06 |
 | [Noor](https://open.spotify.com/track/0dHWY1elhBd1BOrgyMg5VT) | [Karan Nawani](https://open.spotify.com/artist/7rhiZksPc6NrFYY2x0iajU) | [Echoes Of Love](https://open.spotify.com/album/1xwtHTdzmUs83zWUpoO4CZ) | 3:07 | 2024-02-19 | 2024-04-16 |
@@ -333,7 +334,7 @@
 | [Qaabil](https://open.spotify.com/track/2PwVCVkts7c7RxTNHL4wLf) | [Mohsin Akhtar](https://open.spotify.com/artist/1fspXrBL0yCyMD69krMnjj) | [Qaabil](https://open.spotify.com/album/63BKQAMGAeR7BUdj7C556A) | 4:39 | 2024-06-07 | 2024-10-05 |
 | [Raah](https://open.spotify.com/track/3FnaNHFWHmWUs5sMyGhhiN) | [Rukhsar Bandhukia](https://open.spotify.com/artist/7fbLHUFs78wFd4KxpQB1vC) | [Raah](https://open.spotify.com/album/4riwoENCoewQiI4k1fK9xj) | 2:57 | 2023-05-17 | 2023-07-15 |
 | [Raahain](https://open.spotify.com/track/4AO54xVKbDQroXgi2l7V9d) | [Peferd Da Costa](https://open.spotify.com/artist/00ubzRw4KemETUjdvwKqJp) | [Raahain](https://open.spotify.com/album/6pLKX0flGA3GoR3uhO0l1j) | 3:32 | 2023-09-15 | 2023-10-27 |
-| [Raaston](https://open.spotify.com/track/72NqtoCppciV4ijrLmQWUl) | [Shaur](https://open.spotify.com/artist/7acoXYmXSV5HOgBW2A4SsD) | [Raaston](https://open.spotify.com/album/0FTmUC5KGJsplaQuqlyY6o) | 3:07 | 2024-11-14 |  |
+| [Raaston](https://open.spotify.com/track/72NqtoCppciV4ijrLmQWUl) | [Shaur](https://open.spotify.com/artist/7acoXYmXSV5HOgBW2A4SsD) | [Raaston](https://open.spotify.com/album/0FTmUC5KGJsplaQuqlyY6o) | 3:07 | 2024-11-14 | 2024-12-05 |
 | [Raat](https://open.spotify.com/track/4RtUdmzHtkdTYQ0Td5GGYc) | [Rono](https://open.spotify.com/artist/7nAIsV0i8kg2XRCK14YUB6) | [Raat](https://open.spotify.com/album/5g2ACwI9NwMQj9vZhansXs) | 3:13 | 2023-05-17 | 2023-06-09 |
 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 | 2023-07-15 |  |
 | [Raaz](https://open.spotify.com/track/5ogvk1sG1Qg08j2DYDiyp9) | [Yash Joshi](https://open.spotify.com/artist/6hP4cbviLwKKjoIe01qGNu), [Amogh Agarwal](https://open.spotify.com/artist/2MaX9AAWNy1TdrQQXOyqqY) | [Raaz](https://open.spotify.com/album/0yCdEgqwvcCQrhpPr7lVsT) | 3:49 | 2023-05-17 | 2023-05-24 |

@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694. (Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.)",
-  "num_followers": 15243,
+  "num_followers": 15277,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0 (Cozy K-Pop)",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
-      },
-      "artists": [
-        {
-          "name": "Minsu",
-          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
-        },
-        {
-          "name": "Yoon Jiyoung",
-          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
         "name": "Beautiful GunbarI OST",
         "url": "https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5"
       },
@@ -403,22 +383,6 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -439,6 +403,22 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
         "name": "Asteroid",
         "url": "https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 210840,
       "name": "To My Friend",
       "url": "https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
+      },
+      "artists": [
+        {
+          "name": "Minsu",
+          "url": "https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta"
+        },
+        {
+          "name": "Yoon Jiyoung",
+          "url": "https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
     },
     {
       "added_at": "2024-09-23 03:13:31",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-09-23 03:13:31",
       "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/0T2md2tJWwA35Wl2EFHbiH"
+      },
+      "artists": [
+        {
+          "name": "Krr",
+          "url": "https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4jzNb4SziJCRL7K7dVimn7"
+    },
+    {
+      "added_at": "2024-09-23 03:13:31",
+      "album": {
         "name": "Love Interference 2022 (Original Television Soundtrack), Pt.14",
         "url": "https://open.spotify.com/album/4lpNUxhIWHe91XS8evCBXF"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 243281,
       "name": "This night",
       "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
-    },
-    {
-      "added_at": "2024-09-23 03:13:31",
-      "album": {
-        "name": "visitor",
-        "url": "https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva"
-      },
-      "artists": [
-        {
-          "name": "Jeon Jisun",
-          "url": "https://open.spotify.com/artist/4BBsRnLUkOI7p3G85BW76R"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "visitor",
-      "url": "https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM"
     },
     {
       "added_at": "2024-09-23 03:13:31",

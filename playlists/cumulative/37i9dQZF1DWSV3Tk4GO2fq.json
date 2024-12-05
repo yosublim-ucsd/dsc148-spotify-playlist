@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "The Rock N' Roll Collection",
+        "url": "https://open.spotify.com/album/6NtLwlr1uXEOWDLjZzI4qu"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent",
+          "url": "https://open.spotify.com/artist/5VAHm7V5mnsxvQrWw3KHmx"
+        },
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "date_added": "2021-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157206,
+      "name": "Be-Bop-A-Lula",
+      "url": "https://open.spotify.com/track/0TMrV95mP7sDlvbE4iVfKP"
+    },
+    {
+      "album": {
         "name": "Dance To The Bop",
         "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
@@ -450,24 +472,6 @@
       "duration_ms": 156306,
       "name": "Be-Bop-A-Lula",
       "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
-    },
-    {
-      "album": {
-        "name": "The Rock N' Roll Collection",
-        "url": "https://open.spotify.com/album/6NtLwlr1uXEOWDLjZzI4qu"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "date_added": "2021-04-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 157206,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0TMrV95mP7sDlvbE4iVfKP"
     },
     {
       "album": {

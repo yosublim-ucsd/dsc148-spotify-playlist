@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D28Q9.md) - [plain]
 
 > This is Stefanie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90 likes - 35 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 91 likes - 35 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

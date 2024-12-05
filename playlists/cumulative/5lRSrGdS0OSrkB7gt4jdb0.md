@@ -4,7 +4,7 @@
 
 > We all need an angry playlist
 
-50 songs - 2 hr 56 min
+52 songs - 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [American Healthcare \(Glitzy\)](https://open.spotify.com/track/3GNTTTs9CVmr8RTrilIBOS) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 4:29 | 2022-05-06 |  |
 | [Baboon](https://open.spotify.com/track/7qPAVrld2XeywUukKEgBXs) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt) | 2:16 | 2024-11-19 |  |
 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 | 2024-04-29 |  |
+| [Black Molly](https://open.spotify.com/track/6NE7ocbNZgKeMKRt4J5z7H) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bitter Melon Farm](https://open.spotify.com/album/6TM3RCfmgYVo6WzFfiosYH) | 2:24 | 2024-12-04 |  |
 | [Break My Face](https://open.spotify.com/track/4h1VLpsN8tl5J1c8nsrUCa) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj) | 3:46 | 2022-05-06 |  |
 | [Bugbear](https://open.spotify.com/track/7Ichlrj4l5uV549sD6I4tN) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Spirit Orb](https://open.spotify.com/album/7MqiSoZIzNsCR00pJBFYUV) | 2:53 | 2022-05-07 |  |
 | [Bullethead](https://open.spotify.com/track/4A5W1YfKFIZjJrJ5HPey2r) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [A Different Kind Of Truth](https://open.spotify.com/album/5ydOKnIrXsv7AziaSpRzZU) | 2:30 | 2024-10-23 |  |
@@ -43,6 +44,7 @@
 | [LEMONS \(with Cavetown\)](https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [LEMONS \(with Cavetown\)](https://open.spotify.com/album/1MT5z1J27ERqGpyErAVeMc) | 3:52 | 2022-09-18 |  |
 | [Movin' Out \(Anthony's Song\)](https://open.spotify.com/track/7s6QbvQJVPh0VbfK7Pkwm7) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [50 Years of the Piano Man](https://open.spotify.com/album/4nFLLh5qSlp2z2FuLpVERX) | 3:30 | 2022-05-06 |  |
 | [Not Quite Almost Christmas Time](https://open.spotify.com/track/4mAianxMp7W4tdUzO2n1Zc) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Not Quite Almost Christmas Time](https://open.spotify.com/album/4w2jz5EKlp9gViIxVSqvKF) | 3:11 | 2022-05-06 |  |
+| [Oceanographer's Choice](https://open.spotify.com/track/53HgikeNYCtqNCKC0aHsej) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Tallahassee](https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa) | 4:08 | 2024-12-04 |  |
 | [School](https://open.spotify.com/track/2dHqn394dziubxaN5vuhy8) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 5:34 | 2024-09-19 |  |
 | [Stabbed to Death Outside San Juan \- Jordan Lake Sessions Volume 2](https://open.spotify.com/track/5VHi7egxS9qQctLVjrE5Ng) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Jordan Lake Sessions: Volumes 1 and 2](https://open.spotify.com/album/5Xr0QFhH9HW6iP7ehtK5tX) | 4:47 | 2023-03-03 |  |
 | [Teenagers](https://open.spotify.com/track/78OBZL4Z6QHdwwloWIh0Lt) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade / Living with Ghosts \(The 10th Anniversary Edition\)](https://open.spotify.com/album/29mlJg2PpuihKDNYZalIxw) | 2:41 | 2023-01-11 |  |

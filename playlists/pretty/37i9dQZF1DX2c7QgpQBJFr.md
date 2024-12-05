@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Vale LP e Lil Jolie in cover ✨ il pop è un caleidoscopio 🏵️
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,286 likes - 82 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,284 likes - 82 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

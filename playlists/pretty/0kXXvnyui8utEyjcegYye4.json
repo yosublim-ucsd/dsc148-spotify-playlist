@@ -6,7 +6,7 @@
     "name": "briannabalen",
     "url": "https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6"
   },
-  "snapshot_id": "AAADSArSIg/ezqMW9Ik1uodyQixP1KUV",
+  "snapshot_id": "AAADSu5vO6zYxWJp4wOYF8/gKLS0GmYD",
   "tracks": [
     {
       "added_at": "2021-10-01 04:28:43",
@@ -5375,6 +5375,42 @@
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
+    },
+    {
+      "added_at": "2024-12-05 00:13:42",
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "added_at": "2024-12-05 00:14:35",
+      "album": {
+        "name": "\u2661\ufe0e\ud835\ude77\ud835\ude8e\ud835\ude8a\ud835\ude9b\ud835\ude9d'\ud835\ude9c \ud835\ude72\ud835\ude8a\ud835\ude9c\ud835\ude9c\ud835\ude8e\ud835\ude9d\ud835\ude9d\ud835\ude8e\u2661\ufe0e",
+        "url": "https://open.spotify.com/album/6CIlJBLFXRePD6rssCeilg"
+      },
+      "artists": [
+        {
+          "name": "\u2661\ufe0e\ud835\ude77\ud835\ude8e\ud835\ude8a\ud835\ude9b\ud835\ude9d'\ud835\ude9c \ud835\ude72\ud835\ude8a\ud835\ude9c\ud835\ude9c\ud835\ude8e\ud835\ude9d\ud835\ude9d\ud835\ude8e\u2661\ufe0e",
+          "url": "https://open.spotify.com/show/6CIlJBLFXRePD6rssCeilg"
+        }
+      ],
+      "duration_ms": 75116,
+      "name": "Gata only - edit audio ",
+      "url": "https://open.spotify.com/episode/5XiioChRURsS7LQdlzCFX1"
     }
   ],
   "unique_name": "driving",

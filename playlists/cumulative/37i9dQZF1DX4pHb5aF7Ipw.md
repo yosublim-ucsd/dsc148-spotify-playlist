@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-291 songs - 13 hr 36 min
+292 songs - 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,7 +201,7 @@
 | [Night Talks](https://open.spotify.com/track/5wGl5zYuin9qNzBjlHWCyq) | [YASHTON](https://open.spotify.com/artist/4DwpuXnBARNhCdJn36k4FM) | [Night Talks](https://open.spotify.com/album/2tgHroDhjL19QCfKWhRJcD) | 2:54 | 2024-11-21 |  |
 | [Nisha Sweety](https://open.spotify.com/track/6Twl6PxOydIn6lHCFasctF) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Dj Tejas](https://open.spotify.com/artist/19auYTgFdhYAR019ErcDcM) | [Nisha Sweety](https://open.spotify.com/album/06E2OaiyC9N7i2eG8CdcFJ) | 4:02 | 2023-04-21 | 2024-08-28 |
 | [No Break](https://open.spotify.com/track/2SZITw2QApFPMHNoETt9sN) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Experimento](https://open.spotify.com/album/0wCgNMAaF9k3OUTRIIgcZY) | 2:44 | 2024-11-11 |  |
-| [No Idea](https://open.spotify.com/track/3BPvdcvsczva4nGlIOgj40) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E) | [No Idea](https://open.spotify.com/album/1iVNFwFko3LRHRnP78O0on) | 2:52 | 2024-11-07 |  |
+| [No Idea](https://open.spotify.com/track/3BPvdcvsczva4nGlIOgj40) | [Star Shah](https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E) | [No Idea](https://open.spotify.com/album/1iVNFwFko3LRHRnP78O0on) | 2:52 | 2024-11-07 | 2024-12-05 |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2023-05-26 | 2024-09-10 |
 | [No Parking](https://open.spotify.com/track/3rm07jfce5fWa1iaV4Z5qz) | [Nagii](https://open.spotify.com/artist/3z6tyHPOToaK9BlttcZa5E), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [No Parking](https://open.spotify.com/album/23R89MWv4MssTrDBRG15Ik) | 2:44 | 2024-10-09 | 2024-11-05 |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-18 | 2024-09-12 |
@@ -209,6 +209,7 @@
 | [Noble](https://open.spotify.com/track/4vEUMuUXNpuJ6vmVKQVuoX) | [Harvi](https://open.spotify.com/artist/5rpl4dM4cZVFeseE6XT0AZ) | [Noble](https://open.spotify.com/album/3n3NtvcqTPlXk2wdOBaISk) | 2:47 | 2024-11-08 |  |
 | [Nothin But Fax](https://open.spotify.com/track/0B9PvEpJsQOLOKNVhAVsWD) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [The Longia Groove](https://open.spotify.com/album/5MYLKbBe1LEGGXuKfBgvEb) | 2:32 | 2024-11-11 |  |
 | [Notorious](https://open.spotify.com/track/0n34awvLFvIayNC43L9JYw) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Notorious](https://open.spotify.com/album/6BDt4jKBfvMtxaomt3z8WU) | 3:00 | 2023-07-31 | 2024-09-19 |
+| [Now They See](https://open.spotify.com/track/4tgZJA6om51mMKozSljKnQ) | [Lakshh](https://open.spotify.com/artist/7tyBCnn0rdEhO7DsYnCNdh), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Now They See](https://open.spotify.com/album/77aaKtyfnKa4FC3r3Z1tub) | 2:32 | 2024-12-04 |  |
 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 | 2023-05-26 | 2024-09-10 |
 | [OG](https://open.spotify.com/track/5Per9rl2ItpNoHilvbxLsB) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:17 | 2023-05-26 | 2024-09-20 |
 | [Ohi Munda](https://open.spotify.com/track/2vIkZF1SNbNTSZT75EaCmq) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [Absolute Monarchy \- EP](https://open.spotify.com/album/6jpdzNapTHD7xiaVEuGvs8) | 3:31 | 2023-03-18 | 2023-04-27 |
@@ -239,7 +240,7 @@
 | [Sarpanchi](https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf) | [Harry Dhaliwal](https://open.spotify.com/artist/3c5CALgW92Nq4E6EytQHgK), [Hukam](https://open.spotify.com/artist/70WmQLMY0YOyPHO4MLW8Pj), [Anwar Rai](https://open.spotify.com/artist/7rtpar7dktPcHVJJi6ZLhV) | [Hype](https://open.spotify.com/album/3ohv56IXMl2Riq8wc2Rtsz) | 2:11 | 2024-10-01 | 2024-11-12 |
 | [Scenario](https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol) | [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS) | [Scenario](https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS) | 2:16 | 2024-09-11 | 2024-10-25 |
 | [SEE ME FLY](https://open.spotify.com/track/4pYo1TRKCAiJagNY5a505C) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Trappy](https://open.spotify.com/artist/76LtgenFU7yZKyx6y1Xkx8) | [MONEY OVER MATTERS](https://open.spotify.com/album/6lpZZ6lgUvznUuCjBK36Gp) | 3:19 | 2024-08-30 | 2024-09-21 |
-| [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 |  |
+| [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Audiocrakerr](https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 |  |
 | [Selfish](https://open.spotify.com/track/300TWXl7OjiBKakaQXleo1) | [Mankoo](https://open.spotify.com/artist/1ZOFaNHpt8lGFD4wbUtZ40) | [Selfish](https://open.spotify.com/album/25yk22rF7WxzuC5fXX9zNk) | 2:11 | 2024-09-09 | 2024-10-01 |
 | [Shaq](https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Rap Star Reloaded](https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt) | 2:47 | 2024-05-03 | 2024-05-11 |
 | [She](https://open.spotify.com/track/2n0F6hno9WUlcmS4Xg0vFa) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:15 | 2024-10-10 | 2024-11-23 |

@@ -1,6 +1,6 @@
 {
   "description": "These shoes are not made for running, they just look nice for the playlist cover.",
-  "num_followers": 619974,
+  "num_followers": 620038,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Hash Pipe",
-      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Billy Talent II",
         "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 198173,
       "name": "Red Flag",
       "url": "https://open.spotify.com/track/2RZWdE8kYPlCAcRUYDeuLC"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Hash Pipe",
+      "url": "https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -359,6 +359,22 @@
       "duration_ms": 114666,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Billy Talent III",
+        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
+      },
+      "artists": [
+        {
+          "name": "Billy Talent",
+          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Rusted From the Rain",
+      "url": "https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -443,22 +459,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Billy Talent III",
-        "url": "https://open.spotify.com/album/58IwNbkCL527REhNX7emWv"
-      },
-      "artists": [
-        {
-          "name": "Billy Talent",
-          "url": "https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Rusted From the Rain",
-      "url": "https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "We're Not Here to Be Loved",
         "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire (Bonus Track)",
       "url": "https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Below The Belt",
-        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
-      },
-      "artists": [
-        {
-          "name": "Danko Jones",
-          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Had Enough",
-      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Jar",
         "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 263584,
       "name": "Sponge",
       "url": "https://open.spotify.com/track/2idKMCUdqS2XpFAFKN2k1l"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Below The Belt",
+        "url": "https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv"
+      },
+      "artists": [
+        {
+          "name": "Danko Jones",
+          "url": "https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW"
+        }
+      ],
+      "duration_ms": 222214,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Losing What We Love",
-        "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 214505,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "The Mindsweep",
         "url": "https://open.spotify.com/album/3q8PS1Zkx3a0Zo6Ld2L1d7"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 222520,
       "name": "The Last Garrison",
       "url": "https://open.spotify.com/track/5zZ79IgPs6vOWf7NRwC1d2"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Losing What We Love",
+        "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 214505,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Losing What We Love",
-        "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
-      },
-      "artists": [
-        {
-          "name": "Knuckle Puck",
-          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "The Tower",
-      "url": "https://open.spotify.com/track/7LU08tcGTBpD2YNabUiYix"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Freak of Nature",
         "url": "https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 202889,
       "name": "Freak Of Nature",
       "url": "https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Losing What We Love",
+        "url": "https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "The Tower",
+      "url": "https://open.spotify.com/track/7LU08tcGTBpD2YNabUiYix"
     },
     {
       "added_at": "2024-10-08 12:05:02",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-10-08 12:05:02",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy"
-      },
-      "artists": [
-        {
-          "name": "Young Guns",
-          "url": "https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb"
-    },
-    {
-      "added_at": "2024-10-08 12:05:02",
-      "album": {
         "name": "Ohms",
         "url": "https://open.spotify.com/album/3IHClJIXFPxf3xa0BNaQOd"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 250222,
       "name": "Ohms",
       "url": "https://open.spotify.com/track/6mfrK1kvsOjiiH64Ier962"
+    },
+    {
+      "added_at": "2024-10-08 12:05:02",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/4IwjeX8i1iYBtbBLkLpGhy"
+      },
+      "artists": [
+        {
+          "name": "Young Guns",
+          "url": "https://open.spotify.com/artist/4v4qHupYi7eRJfkniHrp4Z"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/7GPj3fZpLZcG5UERy1VLKb"
     },
     {
       "added_at": "2024-10-08 12:05:02",

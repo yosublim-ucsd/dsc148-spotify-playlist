@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyZ45Ayi9S.md) - [plain](/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S)
 
-### [Indie editors' picks The Best Songs of 2023](https://open.spotify.com/playlist/37i9dQZF1DX0lyZ45Ayi9S)
+### [Best of Indie 2023](https://open.spotify.com/playlist/37i9dQZF1DX0lyZ45Ayi9S)
 
-> Our editorial picks of this year's best indie songs, featuring Mitski.
+> Our editorial picks of 2023's best indie songs, featuring Mitski.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,827 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,871 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0lyZ45Ayi9S.md) - [plain]
 | 99 | [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 |
 | 100 | [DAYS GO BY](https://open.spotify.com/track/2rFAwfDZW5bjcwaxw1qTKX) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [THE RAT ROAD](https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv) | 4:31 |
 
-Snapshot ID: `ZWjRAwAAAADmZKqVJZgEDAHBeyEKOdXq`
+Snapshot ID: `Z1CfxAAAAABKFunI/mX0me5czYuN5tub`

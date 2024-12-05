@@ -4,7 +4,7 @@
 
 > They got next and now\. Cover: <a href="spotify:artist:0bFPzYoInpRUHOgTCt1o3P">Stepz</a>
 
-1,092 songs - 2 day 2 hr 32 min
+1,093 songs - 2 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [conscious](https://open.spotify.com/track/0NIi7V4HIdHaC8rR0ntEOP) | [Bear1Boss](https://open.spotify.com/artist/6Cd6nNgWZWZrlfrc4q0qJD), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [conscious](https://open.spotify.com/album/10HiPsS8LiefVqgbEWjvTz) | 2:30 | 2024-02-09 | 2024-03-02 |
 | [Constellations](https://open.spotify.com/track/0L8bf6ph4kDnHtKRnY95aH) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Constellations](https://open.spotify.com/album/3vEWvYAC6uedBaHV9bM2NM) | 2:52 | 2022-02-25 | 2022-06-08 |
 | [Control](https://open.spotify.com/track/29P1QyEgirfz0pJ31npUQx) | [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [Control](https://open.spotify.com/album/3gbs7YXcIZ9LkZRa5tAuzn) | 2:03 | 2022-09-16 | 2023-01-06 |
-| [Controversy 2 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Crack Music 3](https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo) | 2:00 | 2024-11-22 |  |
+| [Controversy 2 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Crack Music 3](https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo) | 2:00 | 2024-11-22 | 2024-12-05 |
 | [Conversations](https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Conversations](https://open.spotify.com/album/2Ny2uwkmwda4hhIKCpo086) | 3:12 | 2024-01-26 | 2024-02-17 |
 | [Conversations'](https://open.spotify.com/track/1m9pBF9THZQttjFWR9VKai) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Conversations'](https://open.spotify.com/album/00nLW5EdQN80khGmvFxStL) | 2:48 | 2022-03-04 | 2022-08-06 |
 | [COOKIE](https://open.spotify.com/track/0b4Mow02lOh7SZNZXC0MLP) | [Nafets](https://open.spotify.com/artist/0PALShJ4yMcson9zvQaqlM) | [COOKIE](https://open.spotify.com/album/6ORhrxc0bzcNmX7apvOubK) | 2:31 | 2023-07-07 | 2023-09-02 |
@@ -396,6 +396,7 @@
 | [Get Lucki](https://open.spotify.com/track/2Lesv91L9paVZjIPpu0jx6) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger \(Deluxe Edition\)](https://open.spotify.com/album/1VzWsyBJ8FdJwoMlpm7tDn) | 2:59 | 2023-11-09 | 2024-05-25 |
 | [Get Off The Wall](https://open.spotify.com/track/6SlztBVfIbknPYVxJBGATZ) | [Philly Goats](https://open.spotify.com/artist/2WdQEgolM3ReWDLVbULP0U) | [Philly Goats](https://open.spotify.com/album/5kXDgdgqs9gqqKfcxZ9wVz) | 2:58 | 2024-03-22 | 2024-07-06 |
 | [Get The Gat](https://open.spotify.com/track/1CF9GDLrtXbmGxJiXRiZqn) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Get The Gat](https://open.spotify.com/album/48THGiijGql0YItnekn1C8) | 2:12 | 2022-12-16 | 2023-04-16 |
+| [Ghetto](https://open.spotify.com/track/2F28o4Yl4RH6FvCdSOe0qN) | [E.K.E.](https://open.spotify.com/artist/1rO0IkZAgaS7vfkzn4EQz6), [Tru Carr](https://open.spotify.com/artist/70LeECrcNFIOvGZqe8byzQ) | [Ghetto](https://open.spotify.com/album/4Z8QeomU8aaUTATnF8STy3) | 2:10 | 2024-12-04 |  |
 | [Ghetto Praise](https://open.spotify.com/track/1kAQDi1RFgIZ1ZvQMJ2bR6) | [Jay 305](https://open.spotify.com/artist/2l2o6ibYa7h1w4HwaS1uZV), [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe) | [Ghetto Praise](https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc) | 3:13 | 2022-05-06 | 2022-08-13 |
 | [GIFTED](https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [sounds of so\(u\)litude](https://open.spotify.com/album/6AWmEQFkIdkoQGaJkDCQj9) | 4:30 | 2022-05-12 | 2022-08-20 |
 | [Gimmie A Light](https://open.spotify.com/track/0n4nfjCluBECewuD3Z4Agq) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Gimmie A Light](https://open.spotify.com/album/6mlqVMvvdPMNr0Ec6CJAV8) | 2:06 | 2024-05-10 | 2024-06-22 |

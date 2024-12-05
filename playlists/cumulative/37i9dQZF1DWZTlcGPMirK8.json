@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 234866,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
@@ -1770,6 +1770,24 @@
       "duration_ms": 195479,
       "name": "Sound of Silence",
       "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
+    },
+    {
+      "album": {
+        "name": "On A Clear Night (Deluxe)",
+        "url": "https://open.spotify.com/album/5a0yup4Q20b2TxoW5dWKI3"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "Steer",
+      "url": "https://open.spotify.com/track/6NpO2qjMkMhmncI6hdhTH2"
     },
     {
       "album": {

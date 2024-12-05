@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0lyZ45Ayi9S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0lyZ45Ayi9S)
 
-### [Indie editors' picks The Best Songs of 2023](https://open.spotify.com/playlist/37i9dQZF1DX0lyZ45Ayi9S)
+### [Best of Indie 2023](https://open.spotify.com/playlist/37i9dQZF1DX0lyZ45Ayi9S)
 
-> Our editorial picks of this year's best indie songs, featuring Mitski.
+> Our editorial picks of 2023's best indie songs, featuring Mitski.
 
 192 songs - 11 hr 26 min
 

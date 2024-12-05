@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno & La K\u00b4onga.",
-  "num_followers": 725474,
+  "num_followers": 725587,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "Te Suena?",
-        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
+        "name": "Se Me Olvida",
+        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
       },
       "artists": [
         {
-          "name": "Tru La La",
-          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Mi Cama No Habla",
-      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
+      "duration_ms": 167285,
+      "name": "Se Me Olvida",
+      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "Se Me Olvida",
-        "url": "https://open.spotify.com/album/5nxLHZbdaftLro9GzNpwTm"
+        "name": "Te Suena?",
+        "url": "https://open.spotify.com/album/0Qz9FcH8lCWBbrZVYAiWQK"
       },
       "artists": [
         {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
         }
       ],
-      "duration_ms": 167285,
-      "name": "Se Me Olvida",
-      "url": "https://open.spotify.com/track/6Tuk30Qc50wUGzNM1MZ3On"
+      "duration_ms": 209453,
+      "name": "Mi Cama No Habla",
+      "url": "https://open.spotify.com/track/6wcnesWi7KJsghP4vP2fDb"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -943,22 +943,18 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
-        "url": "https://open.spotify.com/album/4tjJGUArl5zuJzbTMpZoDE"
+        "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
+        "url": "https://open.spotify.com/album/0ZCPfgBx0Be00cIC9KIkRt"
       },
       "artists": [
         {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 204705,
-      "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
-      "url": "https://open.spotify.com/track/6QmQXIf2VffSXXlyPe85lv"
+      "duration_ms": 275888,
+      "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
+      "url": "https://open.spotify.com/track/24ZIP2V3URiRalLiuiDshf"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -983,18 +979,22 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
-        "url": "https://open.spotify.com/album/0ZCPfgBx0Be00cIC9KIkRt"
+        "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/4tjJGUArl5zuJzbTMpZoDE"
       },
       "artists": [
         {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 275888,
-      "name": "Un besito m\u00e1s / Perdonarte para qu\u00e9 / Mirame a la cara",
-      "url": "https://open.spotify.com/track/24ZIP2V3URiRalLiuiDshf"
+      "duration_ms": 204705,
+      "name": "Por Segunda Vez (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/6QmQXIf2VffSXXlyPe85lv"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/2wIVMjoemGDUznrMATUDVH"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 158195,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/72YkOfhcuG8CO5dNk3N4UM"
-    },
-    {
-      "added_at": "2024-11-29 18:50:04",
-      "album": {
         "name": "Por Qu\u00e9 Ser\u00e1",
         "url": "https://open.spotify.com/album/3giuLFpvYRGQdoxaLTMbXn"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 168648,
       "name": "Por Qu\u00e9 Ser\u00e1",
       "url": "https://open.spotify.com/track/56s6HH4zgao2iu9QduHd0p"
+    },
+    {
+      "added_at": "2024-11-29 18:50:04",
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/2wIVMjoemGDUznrMATUDVH"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "duration_ms": 158195,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/72YkOfhcuG8CO5dNk3N4UM"
     },
     {
       "added_at": "2024-11-29 18:50:04",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2024-11-29 18:50:04",
       "album": {
-        "name": "La Pupera",
-        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
+        "name": "Adelantos (Live)",
+        "url": "https://open.spotify.com/album/0DzC0PpclYWg9AXWE2hUOO"
       },
       "artists": [
         {
-          "name": "La Mona Jimenez / los caligaris",
-          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
+          "name": "Lisandro Marquez",
+          "url": "https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN"
         }
       ],
-      "duration_ms": 148797,
-      "name": "La Pupera",
-      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
+      "duration_ms": 239726,
+      "name": "Devu\u00e9lveme el coraz\u00f3n - Live",
+      "url": "https://open.spotify.com/track/0FOzOQZ0C9V1TTUvufdNqb"
     }
   ],
   "unique_name": "100% Cuarteto",

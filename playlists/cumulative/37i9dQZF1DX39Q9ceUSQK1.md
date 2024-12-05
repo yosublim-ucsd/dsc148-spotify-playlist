@@ -2,7 +2,7 @@
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe indie, rock en alternative\. Cover: Sam Fender
+> Nieuwe alternative en rock songs\. Cover: Sam Fender
 
 221 songs - 12 hr 42 min
 

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,009 songs - 3 day 0 hr 41 min
+1,010 songs - 3 day 0 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* | 2024-08-30 |
 | [Left Behind](https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Left Behind](https://open.spotify.com/album/0YIXc0vszubi1lt09JKRZb) | 2:31 | 2024-04-19 |  |
 | [Leftovers](https://open.spotify.com/track/5KDcDThWtlOOcEncBmseAw) | [Akın Sevgör](https://open.spotify.com/artist/586eJg9tmYDLSahAhozZBo) | [Reveries](https://open.spotify.com/album/3lcsRejIVqC2ZzgohbS9X1) | 3:01 | 2024-04-19 |  |
-| [Lemuria Shore Party](https://open.spotify.com/track/3aunCnZrxBJUMls5bcfgGz) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Sphinx Nouvelle](https://open.spotify.com/album/265JDS98akgIybfFtVe0ez) | 4:45 | 2024-11-01 |  |
+| [Lemuria Shore Party](https://open.spotify.com/track/3aunCnZrxBJUMls5bcfgGz) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Sphinx Nouvelle](https://open.spotify.com/album/265JDS98akgIybfFtVe0ez) | 4:45 | 2024-11-01 | 2024-12-05 |
 | [Let You](https://open.spotify.com/track/3mZUPucA0LcSKoZbLHRhyY) | [Autumn Glow](https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b) | [Let You](https://open.spotify.com/album/2KupnIXyKS0Mprddu9on23) | 3:26 | 2021-09-10 | 2024-06-03 |
 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 | 2023-05-09 | 2023-05-27 |
 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/4i1blcUTYgdbgz9dRbzgtG) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Intentions](https://open.spotify.com/album/5shEy0r5JuKQR5QVFigHCV) | 5:56 | 2023-05-26 |  |
@@ -609,6 +609,7 @@
 | [Ocotillo](https://open.spotify.com/track/0VmJyEuoZ3nIzpHgahM05I) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Ocotillo](https://open.spotify.com/album/6nhojCNg9ggxmaEXrVxLCH) | 8:43 | 2024-08-23 | 2024-11-29 |
 | [October](https://open.spotify.com/track/20yRqzq5FEzgirJAUT4TIr) | [Tom VR](https://open.spotify.com/artist/36tUphbhaRrmHNS6reORr5) | [October](https://open.spotify.com/album/0ALujZZFOWQaHKKTN5s6m0) | 5:35 | 2021-08-20 | 2022-07-14 |
 | [Odyssée](https://open.spotify.com/track/3J9N8f8pBJxAoFwACKJPHN) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb) | [Ceremony](https://open.spotify.com/album/6TL4avCkN5YCaTwsosOP2v) | 4:40 | 2019-06-20 | 2020-10-19 |
+| [Ojai](https://open.spotify.com/track/25OzqeRhXTJahO5uiOfYtw) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ), [The West Green Quartet](https://open.spotify.com/artist/5ncYX4gn6gNhestFIf9vwI) | [Ojai](https://open.spotify.com/album/4hDuXbI7PTaDuJgIwszRyp) | 3:29 | 2024-12-04 |  |
 | [Olo](https://open.spotify.com/track/2P8CicrYJacONOh0F9awzs) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs) | [Olo](https://open.spotify.com/album/27sPbhj334yQduAIlmLwy7) | 4:37 | 2024-08-02 | 2024-09-23 |
 | [On Deck](https://open.spotify.com/track/7hNWjvl7amThfh2uiZjoOa) | [Facta](https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn) | [Blush](https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje) | 3:35 | 2021-04-27 | 2022-04-19 |
 | [Once Around](https://open.spotify.com/track/17C3EXdU2eFGKnesQTkEJr) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Hardly A Day, Hardly A Night](https://open.spotify.com/album/3sXK7ip7DA3SZSKeYFbf6Q) | 3:42 | 2020-04-23 |  |

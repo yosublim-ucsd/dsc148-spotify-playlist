@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Becky G ",
-  "num_followers": 273592,
+  "num_followers": 273583,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Chimenea (En Vivo)",
+        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
+      },
+      "artists": [
+        {
+          "name": "Milla 22",
+          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
+        }
+      ],
+      "duration_ms": 180491,
+      "name": "Chimenea - En Vivo",
+      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "\u00c1ngel de Amor",
         "url": "https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 157666,
       "name": "\u00c1ngel de Amor",
       "url": "https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Chimenea (En Vivo)",
-        "url": "https://open.spotify.com/album/24UtJtfm6QS7y5vZvLXcc1"
-      },
-      "artists": [
-        {
-          "name": "Milla 22",
-          "url": "https://open.spotify.com/artist/1KVybNvulpTPVOWINYyM0q"
-        }
-      ],
-      "duration_ms": 180491,
-      "name": "Chimenea - En Vivo",
-      "url": "https://open.spotify.com/track/1cgLvBPuUENkEPApSFpt30"
     },
     {
       "added_at": "2024-11-22 05:00:00",

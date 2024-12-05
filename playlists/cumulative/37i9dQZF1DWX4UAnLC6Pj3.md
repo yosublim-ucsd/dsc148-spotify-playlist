@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Moy Bobadilla en portada.
 
-428 songs - 22 hr 36 min
+429 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 | 2022-07-01 | 2023-01-21 |
 | [Gente Corriente](https://open.spotify.com/track/4IwuZ9TArWPahGjIdTqyJw) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Gente Corriente](https://open.spotify.com/album/6pzjO8qClKr8iQ5eDqNZ84) | 2:13 | 2023-03-14 |  |
 | [Grandes Ligas](https://open.spotify.com/track/1N3bMWqG9jtBKIgX2cZyQy) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Grandes Ligas](https://open.spotify.com/album/3lvKccPWvSCUt7fzicOo1o) | 2:38 | 2022-06-17 | 2023-02-18 |
+| [Hace un Año](https://open.spotify.com/track/0M5qeMHYJ3T89v9MSXVEUC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Con Banda](https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0) | 2:47 | 2024-11-29 |  |
 | [Hasta La Miel Amarga \- En Vivo](https://open.spotify.com/track/5Zr38rWgjHMe3zSwvsmFD1) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Viva México \(En Vivo\)](https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC) | 4:10 | 2022-07-01 | 2022-07-26 |
 | [Hay Que Hacer Dinero](https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Hay Que Hacer Dinero](https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN) | 2:59 | 2022-04-15 | 2022-12-03 |
 | [Hola Corazón \- En Vivo](https://open.spotify.com/track/0rXTfXgC4OIWytvMsq8Ls2) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W), [Wil Caro](https://open.spotify.com/artist/0WmxPSzE2yXAEpVw1yA1A4) | [Hola Corazón \(En Vivo\)](https://open.spotify.com/album/5Ivz9kr0rUtT7o3pQN1jq8) | 3:05 | 2024-02-16 |  |
@@ -418,7 +419,7 @@
 | [Ya Lo Sé \- Banda](https://open.spotify.com/track/6XcCOSfmtOH7DkRCfWQWxW) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Ya Lo Sé \(Banda\)](https://open.spotify.com/album/1HkmNyWvsyWZEtlBCL9fhN) | 3:22 | 2024-11-15 |  |
 | [Ya No Estoy Solo](https://open.spotify.com/track/4B4G7qd9HLGGbXc4odeuE6) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Ya No Estoy Solo](https://open.spotify.com/album/2tPJAEl2nKqaJEd8Kgzhji) | 2:58 | 2024-02-16 | 2024-05-11 |
 | [Ya No Estés Chingando](https://open.spotify.com/track/6cWW02JMQj4Ey06QtkRsDs) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Ya No Estés Chingando](https://open.spotify.com/album/1RD6tsQ8Hf4eg6HwcfsZZC) | 3:24 | 2022-09-23 | 2022-10-25 |
-| [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 | 2023-06-09 |  |
+| [Ya No Me Mires Así](https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Ya No Me Mires Así](https://open.spotify.com/album/0rFMsPsBipWFCJ8GoNAh4I) | 3:08 | 2023-06-09 | 2024-12-05 |
 | [Ya Se Fue](https://open.spotify.com/track/3hIFiQfRn4tOaIS6ePCNXr) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ya Se Fue](https://open.spotify.com/album/5aX6a0wLRfsIPr8kvZ5S1k) | 3:21 | 2022-01-28 |  |
 | [Ya Solo Eres Mi Ex](https://open.spotify.com/track/6uUbMoR46baP3QJHzFSgB9) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Ya Solo Eres Mi Ex](https://open.spotify.com/album/0sLWgcNk1NRPRRAfYGUELr) | 3:42 | 2022-07-15 | 2023-01-21 |
 | [Ya Solo Eres Mi Ex](https://open.spotify.com/track/0QBinvGHLoIFTICmySWvXG) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Ya Solo Eres Mi Ex](https://open.spotify.com/album/31bK55fwF0HGd1z0CTbj46) | 3:42 | 2022-01-28 | 2022-07-29 |

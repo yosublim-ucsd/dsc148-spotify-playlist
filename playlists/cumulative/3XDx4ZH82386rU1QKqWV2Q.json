@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/0AsRo0FMyqhkBplZmip85Y"
+      },
+      "artists": [
+        {
+          "name": "Skysia",
+          "url": "https://open.spotify.com/artist/5YIxufplJpHkE3S1MXQr63"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286201,
+      "name": "Aperture",
+      "url": "https://open.spotify.com/track/7EuRrOxCDjGr5y0ECDLEXd"
+    },
+    {
+      "album": {
         "name": "Arcanum",
         "url": "https://open.spotify.com/album/75CcI9ShYQI0rI37iWa4z6"
       },
@@ -2182,6 +2200,24 @@
       "duration_ms": 91436,
       "name": "COSMIC BRAZILIAN PHONK",
       "url": "https://open.spotify.com/track/2DETANBDEstoy76foZVbxv"
+    },
+    {
+      "album": {
+        "name": "Count 'Em Up",
+        "url": "https://open.spotify.com/album/0pBNSxbUMsuellsLqKugOK"
+      },
+      "artists": [
+        {
+          "name": "Skysia",
+          "url": "https://open.spotify.com/artist/5YIxufplJpHkE3S1MXQr63"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180684,
+      "name": "Count 'Em Up",
+      "url": "https://open.spotify.com/track/5i592yc2kZsVAgkN8KAyIr"
     },
     {
       "album": {
@@ -5798,6 +5834,24 @@
       "duration_ms": 173114,
       "name": "IN THE END",
       "url": "https://open.spotify.com/track/5cRYL7w9PxnHYeEPkW1ECG"
+    },
+    {
+      "album": {
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/4mrk0iKPRmBtkHlrrPJpfj"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Mariani",
+          "url": "https://open.spotify.com/artist/7uxjXi3T9RXc0E2bPK6vHk"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/5XEGODwFn9QH5Z4CeZMCmb"
     },
     {
       "album": {
@@ -12964,6 +13018,28 @@
       "duration_ms": 162843,
       "name": "You Ain't Gonna Make It",
       "url": "https://open.spotify.com/track/5gAPz35No3YNwar5YUSdTq"
+    },
+    {
+      "album": {
+        "name": "Crimson Legacy",
+        "url": "https://open.spotify.com/album/5tano5EsHMiFrbO6oilpmg"
+      },
+      "artists": [
+        {
+          "name": "Megan McDuffee",
+          "url": "https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn"
+        },
+        {
+          "name": "ALEX",
+          "url": "https://open.spotify.com/artist/65sChHf6etCvSFdXn8NPUO"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225870,
+      "name": "Your Demise",
+      "url": "https://open.spotify.com/track/2L33WmelFymfkSwKP0hyKH"
     },
     {
       "album": {

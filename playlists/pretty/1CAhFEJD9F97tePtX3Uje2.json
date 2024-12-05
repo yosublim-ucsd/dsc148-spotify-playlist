@@ -6,7 +6,7 @@
     "name": "leoyuki",
     "url": "https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw"
   },
-  "snapshot_id": "AAABAfvrg7LMBiQvaQo79iYPMNzYeNEP",
+  "snapshot_id": "AAABAn8MGGkcroYIJSam4DnDuCWBalt7",
   "tracks": [
     {
       "added_at": "2018-11-27 22:12:08",
@@ -4131,6 +4131,22 @@
       "duration_ms": 192096,
       "name": "Hotline Miami",
       "url": "https://open.spotify.com/track/7rVsTCiWipGrihR04yNb07"
+    },
+    {
+      "added_at": "2024-12-04 06:42:26",
+      "album": {
+        "name": "strange places",
+        "url": "https://open.spotify.com/album/6eqNJI63t741nhPVoXHapf"
+      },
+      "artists": [
+        {
+          "name": "EMGX",
+          "url": "https://open.spotify.com/artist/0fZsTsrLwONPhMzjwCwS8W"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "strange places",
+      "url": "https://open.spotify.com/track/3tNoN9RQFDgspAgREXVXeF"
     }
   ],
   "unique_name": "hardwave~phonk",

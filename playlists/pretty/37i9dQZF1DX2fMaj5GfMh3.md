@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Milow
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,649 likes - 62 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,626 likes - 62 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

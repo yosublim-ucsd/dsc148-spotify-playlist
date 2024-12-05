@@ -4,10 +4,11 @@
 
 > For the bisexuals.
 
-58 songs - 3 hr 22 min
+59 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Alpha Desperation March](https://open.spotify.com/track/3Su7IKbmRiI8W8Fa69aoR2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bitter Melon Farm](https://open.spotify.com/album/6TM3RCfmgYVo6WzFfiosYH) | 2:51 | 2024-12-04 |  |
 | [Bang The Doldrums](https://open.spotify.com/track/1Fvf8AO4GWwjLU12Im0s0q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:31 | 2024-11-09 |  |
 | [Big Dater \- 1.0 Version](https://open.spotify.com/track/3yAmfnsYSB8dvTJs2aZti6) | [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [1.0](https://open.spotify.com/album/20EPvfI2oySEeAmW0IiEaq) | 4:26 | 2024-01-31 |  |
 | [Bounce](https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:46 | 2024-10-08 |  |

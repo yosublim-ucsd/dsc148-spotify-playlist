@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,289 songs - 6 day 19 hr 33 min
+4,290 songs - 6 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1790,7 +1790,7 @@
 | [Jacaranda](https://open.spotify.com/track/6V8p59npenZZ2HaryaII9r) | [Lofi Coffee](https://open.spotify.com/artist/4lzccanVi9wOfGrXhRLlGY), [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Jacaranda](https://open.spotify.com/album/11KVHT49O592ahjmQ0yjL4) | 2:47 | 2019-05-26\* | 2019-06-15 |
 | [Jade](https://open.spotify.com/track/3pKghzdaXhmu6H21RDKLlE) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Jade](https://open.spotify.com/album/4POihAd2AWa4BW3Ldw3QQU) | 2:41 | 2023-07-27 | 2023-11-17 |
 | [Jam Space](https://open.spotify.com/track/6bWDbXmt50RO7P8SnmlYWP) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Grogou](https://open.spotify.com/artist/6IUiwrtAZ1Cd5NMFnvZmpV) | [Jam Space](https://open.spotify.com/album/7Bm4Y7xuKiuh7Z3kG6t0vX) | 2:03 | 2021-04-05 | 2021-10-01 |
-| [Jam Time](https://open.spotify.com/track/1PABTmSsFLvGZU6mHno48x) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Jam Time](https://open.spotify.com/album/3GFzmpEOkocS4PdEXigapH) | 2:00 | 2023-07-27 |  |
+| [Jam Time](https://open.spotify.com/track/1PABTmSsFLvGZU6mHno48x) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Jam Time](https://open.spotify.com/album/3GFzmpEOkocS4PdEXigapH) | 2:00 | 2023-07-27 | 2024-12-05 |
 | [Jamata](https://open.spotify.com/track/3ziDRmHz1sbnWZ8uBJYoai) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [Jamata](https://open.spotify.com/album/05RcL5NUr9nOc263frMVAW) | 2:38 | 2023-05-11 | 2024-06-07 |
 | [Jangwar](https://open.spotify.com/track/1D7jWklwRFIZP6HVynNvNW) | [gishfang](https://open.spotify.com/artist/06mQZrPXVhaKifGQSMHfjv), [Impala Ray](https://open.spotify.com/artist/7zfWvoQrsXPCmJVVneRxub) | [Jangwar](https://open.spotify.com/album/6b5fn1Db2dfUbQpEqkEq2z) | 1:42 | 2020-12-11 | 2021-01-23 |
 | [Japanese Garden](https://open.spotify.com/track/7mpdWGRFeoww1AR1qz0T5v) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Japanese Garden](https://open.spotify.com/album/33154DdDLFtNCA2YiWMFAB) | 2:07 | 2019-11-22 | 2020-04-18 |
@@ -3498,6 +3498,7 @@
 | [Strolling](https://open.spotify.com/track/6M5K2XS8Chefq5MvzCM8VM) | [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Strolling](https://open.spotify.com/album/4wc8ncOeR7srC6EX9QlQDV) | 3:16 | 2024-09-16 |  |
 | [Study Babyyy](https://open.spotify.com/track/0DgwyHW3TQQG0dGW15vdM1) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [Study Babyyy](https://open.spotify.com/album/5uQUympwgyBRAEbvTqS8lz) | 2:25 | 2020-07-24 | 2021-04-16 |
 | [Stuntin](https://open.spotify.com/track/6UK5UFLbPcuD5fR5coYJDc) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo) | [Stuntin](https://open.spotify.com/album/5CMN6lCBhH85DPqHtRPtUL) | 2:20 | 2024-10-24 |  |
+| [Suave](https://open.spotify.com/track/2AnGLfLySrmIhmneu4meTM) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [UKDD](https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8) | [Suave](https://open.spotify.com/album/2waInyZdaTJP9zSKna8Nh9) | 1:40 | 2024-11-11 |  |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2021-09-04 | 2022-11-04 |
 | [Suavemente](https://open.spotify.com/track/7uRryFPC3zxr6rbHQvEyJZ) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Suavemente](https://open.spotify.com/album/3fFPO87T5pWcuHDatClFpn) | 1:57 | 2020-06-05 | 2020-10-23 |
 | [Subject Seven](https://open.spotify.com/track/0bc9mvAiQ5wRXMBtcolUMr) | [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS), [Howard McNair](https://open.spotify.com/artist/5tMxzUPhycURNR5GYZHl7y) | [Bernie Says](https://open.spotify.com/album/3uzNzb1atgfho2sVeOezWe) | 2:29 | 2019-10-11 | 2020-03-20 |

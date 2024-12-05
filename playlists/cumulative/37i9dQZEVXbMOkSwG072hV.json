@@ -16266,12 +16266,12 @@
           "url": "https://open.spotify.com/artist/0Pbb9aC8FOxRWYAWbYYCVY"
         },
         {
-          "name": "Dj do crime",
-          "url": "https://open.spotify.com/artist/2g769VR907MDS3ISg79fcJ"
-        },
-        {
           "name": "MC Fabinho da Osk",
           "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
+        },
+        {
+          "name": "Dj do crime",
+          "url": "https://open.spotify.com/artist/2g769VR907MDS3ISg79fcJ"
         }
       ],
       "date_added": "2024-11-03",
@@ -19036,7 +19036,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 565252,
       "name": "Escape / Nunca Pare de Lutar",
       "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
@@ -25000,7 +25000,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 198040,
       "name": "Heather",
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
@@ -31756,10 +31756,32 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 120115,
       "name": "Malvadinho",
       "url": "https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF"
+    },
+    {
+      "album": {
+        "name": "Menor do Desacato",
+        "url": "https://open.spotify.com/album/66B1s482joKfoY31JMcw8m"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120115,
+      "name": "Malvadinho",
+      "url": "https://open.spotify.com/track/5TOvA5Uhxti7FPh0EIdClV"
     },
     {
       "album": {
@@ -50686,7 +50708,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 140858,
       "name": "Seja Bem-Vinda",
       "url": "https://open.spotify.com/track/7pmLik6qMsjV32hTn7hogB"
@@ -62256,7 +62278,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 119160,
       "name": "What Have They Done To Us (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4ZdFMKqprNtEqdqdhu7gU0"

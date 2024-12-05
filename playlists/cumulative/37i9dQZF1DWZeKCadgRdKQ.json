@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Allegria",
+        "url": "https://open.spotify.com/album/5VBxggRl9srHJJamuknQCp"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Stone",
+          "url": "https://open.spotify.com/artist/2n5cofsnSYMHUF8C9TmIA1"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138129,
+      "name": "Allegria",
+      "url": "https://open.spotify.com/track/7KtjtJqxdejIq2k1bSW4h1"
+    },
+    {
+      "album": {
         "name": "Alluvium",
         "url": "https://open.spotify.com/album/5M4J7f0PV8AtDrYVkyPkV6"
       },
@@ -780,6 +798,24 @@
       "duration_ms": 156066,
       "name": "Augury",
       "url": "https://open.spotify.com/track/1ELJ66txni1o86RVvdcgHb"
+    },
+    {
+      "album": {
+        "name": "Aviator",
+        "url": "https://open.spotify.com/album/1k7NvTe7qDi5BfR811HC28"
+      },
+      "artists": [
+        {
+          "name": "12dust",
+          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167323,
+      "name": "Aviator",
+      "url": "https://open.spotify.com/track/2VbF4zSuWtSio8BFi1rdIK"
     },
     {
       "album": {
@@ -3254,7 +3290,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 167820,
       "name": "Effortless",
       "url": "https://open.spotify.com/track/3XW2ewe1iNoBlHTYPUi39V"
@@ -3891,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "Fields of Iris",
+        "url": "https://open.spotify.com/album/6tNDda7O8j4cqUGV1sWJiJ"
+      },
+      "artists": [
+        {
+          "name": "Les Luke",
+          "url": "https://open.spotify.com/artist/32CcGw6tNOp1TJRFKBIMjg"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144868,
+      "name": "Fields of Iris",
+      "url": "https://open.spotify.com/track/7lM6rrQSb5gMNiGN4EOCIQ"
+    },
+    {
+      "album": {
         "name": "Fill Up The Sky",
         "url": "https://open.spotify.com/album/6q0wfY19Nrwci3Ika8Vehr"
       },
@@ -4485,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "Generations",
+        "url": "https://open.spotify.com/album/2fEom3b2ckYWqdnNfhJnIe"
+      },
+      "artists": [
+        {
+          "name": "Tranquil Oasis",
+          "url": "https://open.spotify.com/artist/31pLNmCY9ScYFahS0Qa448"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122350,
+      "name": "Generations",
+      "url": "https://open.spotify.com/track/2Q1DBeLBiPfTOEpDmKhkjP"
+    },
+    {
+      "album": {
         "name": "Gentle Whisper",
         "url": "https://open.spotify.com/album/3bXYLFr7nzmlliZo0yJ0S2"
       },
@@ -4518,6 +4590,24 @@
       "duration_ms": 107905,
       "name": "Getting Closer",
       "url": "https://open.spotify.com/track/7kfCTnxt6irtsSWWbFib62"
+    },
+    {
+      "album": {
+        "name": "Giant Wide",
+        "url": "https://open.spotify.com/album/2qByItn9Hbc6GgqPqLVtog"
+      },
+      "artists": [
+        {
+          "name": "Polaria",
+          "url": "https://open.spotify.com/artist/4bnzugdxmIaM1LHUuAdoig"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130080,
+      "name": "Giant Wide",
+      "url": "https://open.spotify.com/track/7xcf0GSquGEoRFjNnoiubz"
     },
     {
       "album": {
@@ -8158,7 +8248,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 144857,
       "name": "One Step",
       "url": "https://open.spotify.com/track/3TR4OoqzX947WgOxG1d5F3"
@@ -8302,7 +8392,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 210197,
       "name": "Origins",
       "url": "https://open.spotify.com/track/0U5OKIZb2n35xNBmsxuSiH"
@@ -8778,6 +8868,24 @@
       "duration_ms": 123666,
       "name": "ponderous",
       "url": "https://open.spotify.com/track/5JRzMFFC1J5fnjhJDgWwmv"
+    },
+    {
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/44Tm7zvSbtsNWUEG4Y18l9"
+      },
+      "artists": [
+        {
+          "name": "Chris Haugen",
+          "url": "https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152884,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/0QkFyRs6raI6v2B9ZyA2QE"
     },
     {
       "album": {
@@ -9818,7 +9926,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 147125,
       "name": "Self Reflection",
       "url": "https://open.spotify.com/track/54SiaAb9jVRHTQdzHfD3nH"
@@ -10041,6 +10149,24 @@
     },
     {
       "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/3LHMaOv9nxLwah9u9DtwqK"
+      },
+      "artists": [
+        {
+          "name": "Oblivion",
+          "url": "https://open.spotify.com/artist/5bay23a7lnykOEQWt7FVnQ"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136191,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/4wQqXxRKzaf3a9ygWPWEhV"
+    },
+    {
+      "album": {
         "name": "Silk And Honey",
         "url": "https://open.spotify.com/album/09wtqj1m6Wc3VDkUurll52"
       },
@@ -10254,6 +10380,24 @@
       "duration_ms": 209325,
       "name": "Slip Away",
       "url": "https://open.spotify.com/track/7Dxb8siYBoC5rZRPTmhob4"
+    },
+    {
+      "album": {
+        "name": "Slow Descend",
+        "url": "https://open.spotify.com/album/6wVIeREV7rB1AdzzdLBo2E"
+      },
+      "artists": [
+        {
+          "name": "Roots and Recognition",
+          "url": "https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190730,
+      "name": "Slow Descend",
+      "url": "https://open.spotify.com/track/3vlH3jF3F8S474kLFBq1q1"
     },
     {
       "album": {
@@ -11204,7 +11348,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 167581,
       "name": "Tempestade",
       "url": "https://open.spotify.com/track/5r9fTbn6YZVxHKaU4Rze3t"
@@ -13308,6 +13452,24 @@
       "duration_ms": 147638,
       "name": "Whispering Breeze",
       "url": "https://open.spotify.com/track/0fBNkBzlUGMCO3ZXXMe6l6"
+    },
+    {
+      "album": {
+        "name": "White Silhouette",
+        "url": "https://open.spotify.com/album/47udMRIQbtbm6Yh89VNCgG"
+      },
+      "artists": [
+        {
+          "name": "Mists in citys",
+          "url": "https://open.spotify.com/artist/5E36n1Z8Ib7DN1LTse3kVF"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164213,
+      "name": "White Silhouette",
+      "url": "https://open.spotify.com/track/5wFyav8XZcrZuQ9NIZrteB"
     },
     {
       "album": {

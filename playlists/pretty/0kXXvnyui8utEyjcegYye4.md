@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 301 songs - 17 hr 53 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 303 songs - 17 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,5 +309,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 299 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 |
 | 300 | [Your Woman](https://open.spotify.com/track/3UBItNVbFQiVC5hBQlBvnr) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women in Technology](https://open.spotify.com/album/6z6qZbY7mDuyzstPSCy5Xq) | 4:19 |
 | 301 | [Ela Joga na Hora](https://open.spotify.com/track/6hZGsChumRhWG24OEh698c) | [Mc Pogba](https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Ela Joga na Hora](https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v) | 2:12 |
+| 302 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
+| 303 | [Gata only \- edit audio ](https://open.spotify.com/episode/5XiioChRURsS7LQdlzCFX1) | [♡︎𝙷𝚎𝚊𝚛𝚝'𝚜 𝙲𝚊𝚜𝚜𝚎𝚝𝚝𝚎♡︎](https://open.spotify.com/show/6CIlJBLFXRePD6rssCeilg) | [♡︎𝙷𝚎𝚊𝚛𝚝'𝚜 𝙲𝚊𝚜𝚜𝚎𝚝𝚝𝚎♡︎](https://open.spotify.com/album/6CIlJBLFXRePD6rssCeilg) | 1:15 |
 
-Snapshot ID: `AAADSArSIg/ezqMW9Ik1uodyQixP1KUV`
+Snapshot ID: `AAADSu5vO6zYxWJp4wOYF8/gKLS0GmYD`

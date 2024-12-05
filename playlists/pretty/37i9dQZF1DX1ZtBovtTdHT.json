@@ -1,6 +1,6 @@
 {
   "description": "Legendary euro- trance & progressive tracks  from the 90s and 00s.",
-  "num_followers": 194842,
+  "num_followers": 194867,
   "original_name": "Dreamy Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
+        "name": "Luvstruck",
+        "url": "https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY"
+      },
+      "artists": [
+        {
+          "name": "Southside Spinners",
+          "url": "https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "Luvstruck - Radio Edit",
+      "url": "https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
         "name": "A State Of Trance 650 (Selected by Armin van Buuren, BT, Aly & Fila, Kyau & Albert and Omnia)",
         "url": "https://open.spotify.com/album/6u7grtt0BlbPuW90VtiWdn"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
-        "name": "Luvstruck",
-        "url": "https://open.spotify.com/album/4I7aN6i2uvGefJXZxmEffY"
-      },
-      "artists": [
-        {
-          "name": "Southside Spinners",
-          "url": "https://open.spotify.com/artist/7KrZpsNMLhQtA1s4UGNVbb"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Luvstruck - Radio Edit",
-      "url": "https://open.spotify.com/track/5zaRPiIB5mtXLPye8w2xSb"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
         "name": "90s Super Hits",
         "url": "https://open.spotify.com/album/1aT4pCssUqFdte15MlK1nX"
       },
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2022-06-10 12:01:48",
       "album": {
+        "name": "La Cream",
+        "url": "https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ"
+      },
+      "artists": [
+        {
+          "name": "La Cream",
+          "url": "https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/4UuA9Tn0QfBEkea3Rcf2q3"
+    },
+    {
+      "added_at": "2022-06-10 12:01:48",
+      "album": {
         "name": "Best of Vincent de Moor",
         "url": "https://open.spotify.com/album/3XtzJqPBCBP5eNb32tGbBe"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 501386,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/4Z26wEXH0XBQwxTpaC7NyR"
-    },
-    {
-      "added_at": "2022-06-10 12:01:48",
-      "album": {
-        "name": "La Cream",
-        "url": "https://open.spotify.com/album/6QfZW2wYR43ZpVVXruPbpQ"
-      },
-      "artists": [
-        {
-          "name": "La Cream",
-          "url": "https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A"
     },
     {
       "added_at": "2022-06-10 12:01:48",
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc"
         }
       ],
-      "duration_ms": 190706,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4UuA9Tn0QfBEkea3Rcf2q3"
+      "duration_ms": 187666,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2x7eD4StqS1n9XTBJDOn7A"
     },
     {
       "added_at": "2022-06-10 12:01:48",

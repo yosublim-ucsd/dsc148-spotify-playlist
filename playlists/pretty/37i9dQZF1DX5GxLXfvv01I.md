@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GxLXfvv01I.md) - [plain]
 
 > Let the battles begin\. Listen to the music from Rhythm + Flow, streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,719 likes - 19 songs - 44 min 36 sec
+[Spotify](https://open.spotify.com/user/spotify) - 15,700 likes - 19 songs - 44 min 36 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Zero625",
     "url": "https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm"
   },
-  "snapshot_id": "AAAAPKrgxLclvTRWRG18mI/uKkmxhhlB",
+  "snapshot_id": "AAAAQfH3qGQyV1B3y3PC4usuwR6MhV/u",
   "tracks": [
     {
       "added_at": "2022-05-06 11:11:45",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/7hRgBIc6DHSAup9lH11VNZ"
     },
     {
-      "added_at": "2023-01-03 07:09:00",
-      "album": {
-        "name": "Beat the Champ",
-        "url": "https://open.spotify.com/album/7HWC61Sl93gYdBqCV5EIka"
-      },
-      "artists": [
-        {
-          "name": "The Mountain Goats",
-          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
-        }
-      ],
-      "duration_ms": 102653,
-      "name": "Choked Out",
-      "url": "https://open.spotify.com/track/6VAOhkoZypZtGFgrnIGr48"
-    },
-    {
       "added_at": "2023-01-04 04:30:14",
       "album": {
         "name": "Big Dumb Idiot",
@@ -365,22 +349,6 @@
       "url": "https://open.spotify.com/track/1vpVrdNn76ngdvRVeHkq1J"
     },
     {
-      "added_at": "2023-01-07 08:30:29",
-      "album": {
-        "name": "Violent Things",
-        "url": "https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR"
-      },
-      "artists": [
-        {
-          "name": "The Brobecks",
-          "url": "https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn"
-        }
-      ],
-      "duration_ms": 239746,
-      "name": "The Nerve",
-      "url": "https://open.spotify.com/track/6dJaYiWkLmTXc8cR0EFJTD"
-    },
-    {
       "added_at": "2023-01-11 07:27:01",
       "album": {
         "name": "The Black Parade / Living with Ghosts (The 10th Anniversary Edition)",
@@ -395,6 +363,22 @@
       "duration_ms": 112920,
       "name": "The End.",
       "url": "https://open.spotify.com/track/7oiqxhRXTv11kRqEV0D70G"
+    },
+    {
+      "added_at": "2023-01-07 08:30:29",
+      "album": {
+        "name": "Violent Things",
+        "url": "https://open.spotify.com/album/1KLBdhphdiK82hYpAiw8DR"
+      },
+      "artists": [
+        {
+          "name": "The Brobecks",
+          "url": "https://open.spotify.com/artist/29TCgxO6qzQx4O3pjUIMzn"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "The Nerve",
+      "url": "https://open.spotify.com/track/6dJaYiWkLmTXc8cR0EFJTD"
     },
     {
       "added_at": "2023-01-11 07:27:58",
@@ -427,6 +411,22 @@
       "duration_ms": 184000,
       "name": "House of Wolves",
       "url": "https://open.spotify.com/track/4qPbHPTHniTcYt6oeboB7r"
+    },
+    {
+      "added_at": "2023-01-03 07:09:00",
+      "album": {
+        "name": "Beat the Champ",
+        "url": "https://open.spotify.com/album/7HWC61Sl93gYdBqCV5EIka"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 102653,
+      "name": "Choked Out",
+      "url": "https://open.spotify.com/track/6VAOhkoZypZtGFgrnIGr48"
     },
     {
       "added_at": "2023-01-11 08:03:59",
@@ -811,6 +811,38 @@
       "duration_ms": 175426,
       "name": "Your Racist Friend",
       "url": "https://open.spotify.com/track/6hNrg9cIjyWuklYGWIduy5"
+    },
+    {
+      "added_at": "2024-12-04 07:39:15",
+      "album": {
+        "name": "Bitter Melon Farm",
+        "url": "https://open.spotify.com/album/6TM3RCfmgYVo6WzFfiosYH"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 144600,
+      "name": "Black Molly",
+      "url": "https://open.spotify.com/track/6NE7ocbNZgKeMKRt4J5z7H"
+    },
+    {
+      "added_at": "2024-12-04 13:23:25",
+      "album": {
+        "name": "Tallahassee",
+        "url": "https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "duration_ms": 248266,
+      "name": "Oceanographer's Choice",
+      "url": "https://open.spotify.com/track/53HgikeNYCtqNCKC0aHsej"
     }
   ],
   "unique_name": "Finna Stab a Bitch",

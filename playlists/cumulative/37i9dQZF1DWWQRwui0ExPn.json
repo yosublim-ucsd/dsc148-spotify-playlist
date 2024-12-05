@@ -23496,7 +23496,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 120000,
       "name": "Coastline",
       "url": "https://open.spotify.com/track/0PPlANVj1pw5InVorVuJv9"
@@ -26118,6 +26118,24 @@
       "duration_ms": 137176,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/728T7WR1qCPLGvog2ak4bv"
+    },
+    {
+      "album": {
+        "name": "Cosmic",
+        "url": "https://open.spotify.com/album/4mVxF5UETtnYh3DYYfEdTt"
+      },
+      "artists": [
+        {
+          "name": "Moderator",
+          "url": "https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137983,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/2zCUl0TvKXb2z7TV5uCKPT"
     },
     {
       "album": {
@@ -43846,7 +43864,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 162000,
       "name": "fourward",
       "url": "https://open.spotify.com/track/7g9J97lfbA0ZYLF7VwwXVt"
@@ -105420,7 +105438,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 110000,
       "name": "Silver Apples",
       "url": "https://open.spotify.com/track/3QXfWLUxcLR8EdUuMzSe5i"

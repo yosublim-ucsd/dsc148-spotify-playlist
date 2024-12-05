@@ -175,22 +175,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "SENESCENCE 05 + 06",
-        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        }
-      ],
-      "duration_ms": 170235,
-      "name": "Grin",
-      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Road From 26",
         "url": "https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 196393,
       "name": "Blue Eyed M\u0101ori",
       "url": "https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "SENESCENCE 05 + 06",
+        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 170235,
+      "name": "Grin",
+      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Leisurevision",
-        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Above Me",
-      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "pinky girl",
         "url": "https://open.spotify.com/album/4Q0lBUApWnjRmkjN3yiKwR"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 234901,
       "name": "pinky girl",
       "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Leisurevision",
+        "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Above Me",
+      "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -637,6 +637,22 @@
       "url": "https://open.spotify.com/track/0Yk626XsjnFmt6PkjBxa4C"
     },
     {
+      "added_at": "2024-11-28 13:00:00",
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/4tvUEkPUzDWY4rhLo7iKGW"
+      },
+      "artists": [
+        {
+          "name": "Mild Orange",
+          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
+        }
+      ],
+      "duration_ms": 213611,
+      "name": "Rubicon",
+      "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
+    },
+    {
       "added_at": "2024-10-24 13:00:00",
       "album": {
         "name": "Slo Mo",
@@ -651,30 +667,6 @@
       "duration_ms": 494760,
       "name": "Slo Mo",
       "url": "https://open.spotify.com/track/5ipBnCFuWh1SM6T4SBDNzF"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "I DID IT (w/ Kanii & Anycia)",
-        "url": "https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB"
-      },
-      "artists": [
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        },
-        {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
-        },
-        {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
-        }
-      ],
-      "duration_ms": 159837,
-      "name": "I DID IT (w/ Kanii & Anycia)",
-      "url": "https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -707,6 +699,30 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "I DID IT (w/ Kanii & Anycia)",
+        "url": "https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB"
+      },
+      "artists": [
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        },
+        {
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+        },
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "duration_ms": 159837,
+      "name": "I DID IT (w/ Kanii & Anycia)",
+      "url": "https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "In The Shade",
         "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 193987,
       "name": "Don't You Die",
       "url": "https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "pinky boy",
-        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
-      },
-      "artists": [
-        {
-          "name": "ratbag",
-          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
-        }
-      ],
-      "duration_ms": 285153,
-      "name": "pinky boy",
-      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "pinky boy",
+        "url": "https://open.spotify.com/album/57LMbZ3RB5eYxPsYHF87q9"
+      },
+      "artists": [
+        {
+          "name": "ratbag",
+          "url": "https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ"
+        }
+      ],
+      "duration_ms": 285153,
+      "name": "pinky boy",
+      "url": "https://open.spotify.com/track/5qQnZ1b3lNzeZhRryzxfzZ"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Everything Is Going To Be Alright",
         "url": "https://open.spotify.com/album/68VjqhhlPZRLMAGxs1FSuU"
       },
@@ -767,38 +783,6 @@
       "duration_ms": 191812,
       "name": "Forever Is A Charm",
       "url": "https://open.spotify.com/track/2eepdxWeNXa3dU7qRhtNHP"
-    },
-    {
-      "added_at": "2024-11-28 13:00:00",
-      "album": {
-        "name": "Rubicon",
-        "url": "https://open.spotify.com/album/4tvUEkPUzDWY4rhLo7iKGW"
-      },
-      "artists": [
-        {
-          "name": "Mild Orange",
-          "url": "https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf"
-        }
-      ],
-      "duration_ms": 213611,
-      "name": "Rubicon",
-      "url": "https://open.spotify.com/track/0C3G5zLNcZwwvbUk5gWLCf"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Tief Im Wald",
-        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 218033,
-      "name": "Tief Im Wald",
-      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -815,6 +799,22 @@
       "duration_ms": 166250,
       "name": "RNZ\u014c SZN",
       "url": "https://open.spotify.com/track/4Ztf04FJYPyvpEvnlFVMLd"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Tief Im Wald",
+        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Tief Im Wald",
+      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "Catacombs",
-        "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
-      },
-      "artists": [
-        {
-          "name": "South Summit",
-          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
-        }
-      ],
-      "duration_ms": 175494,
-      "name": "Catacombs",
-      "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/2l1vHQBcWQtGkyBGLNjTnB"
       },
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Catacombs",
+        "url": "https://open.spotify.com/album/3lbE1QpGyzIBCzVBBQqp1H"
+      },
+      "artists": [
+        {
+          "name": "South Summit",
+          "url": "https://open.spotify.com/artist/2IDo02QClcpfG2c1w3d3Q1"
+        }
+      ],
+      "duration_ms": 175494,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/5vdEQtEFRwVQhTX2HIVg5k"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Some Kind of Angel / Split Lip",
         "url": "https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw"
       },
@@ -1087,22 +1087,6 @@
       "duration_ms": 274838,
       "name": "Some Kind of Angel",
       "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Time Of My Life",
-        "url": "https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 149234,
-      "name": "Time Of My Life",
-      "url": "https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1123,6 +1107,22 @@
       "duration_ms": 186964,
       "name": "GO!",
       "url": "https://open.spotify.com/track/56VjJf0nMKrZ0aLBKmP2Rl"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
+        "name": "Time Of My Life",
+        "url": "https://open.spotify.com/album/6uMQenwuhAOgdgqigkB0lw"
+      },
+      "artists": [
+        {
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
+        }
+      ],
+      "duration_ms": 149234,
+      "name": "Time Of My Life",
+      "url": "https://open.spotify.com/track/3fgd0sBJk8FxxNncUZKzgD"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
+      },
+      "artists": [
+        {
+          "name": "Alisa Xayalith",
+          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
+        }
+      ],
+      "duration_ms": 215571,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/2HtUSVtR5RtYmFUrOEzVkv"
       },
@@ -1211,6 +1227,22 @@
     {
       "added_at": "2024-10-24 13:00:00",
       "album": {
+        "name": "Harmless",
+        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 145445,
+      "name": "Harmless",
+      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
+    },
+    {
+      "added_at": "2024-10-24 13:00:00",
+      "album": {
         "name": "Problem",
         "url": "https://open.spotify.com/album/4eI5jnzb7fizU3FheBlo97"
       },
@@ -1227,38 +1259,6 @@
       "duration_ms": 192125,
       "name": "Problem",
       "url": "https://open.spotify.com/track/5QQ4DpokrMzJcAKFmN7to6"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/7B1ganVFyMkIgD7GJpkWqu"
-      },
-      "artists": [
-        {
-          "name": "Alisa Xayalith",
-          "url": "https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz"
-        }
-      ],
-      "duration_ms": 215571,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0sYcnHKEcpUOJvYdtBAWnV"
-    },
-    {
-      "added_at": "2024-10-24 13:00:00",
-      "album": {
-        "name": "Harmless",
-        "url": "https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 145445,
-      "name": "Harmless",
-      "url": "https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0"
     },
     {
       "added_at": "2024-10-24 13:00:00",
@@ -1281,20 +1281,20 @@
       "url": "https://open.spotify.com/track/4V7LChILRB41wjxXAoTYtI"
     },
     {
-      "added_at": "2024-11-07 11:00:00",
+      "added_at": "2024-10-24 13:00:00",
       "album": {
-        "name": "City Limits",
-        "url": "https://open.spotify.com/album/5I9p558GnUlIcsJtSO9YZl"
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
       },
       "artists": [
         {
-          "name": "Coast Arcade",
-          "url": "https://open.spotify.com/artist/1QfAgtBvfQQTNZjqSGyTEC"
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
         }
       ],
-      "duration_ms": 217914,
-      "name": "City Limits",
-      "url": "https://open.spotify.com/track/7sEDFfSn2m88Clrjq8V8Sv"
+      "duration_ms": 201480,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
     }
   ],
   "unique_name": "The Local List Aotearoa",

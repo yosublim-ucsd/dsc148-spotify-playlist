@@ -645,6 +645,24 @@
     },
     {
       "album": {
+        "name": "jgh",
+        "url": "https://open.spotify.com/album/5qbKa6ArxbSTX3qJZpg1ss"
+      },
+      "artists": [
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Di Bale",
+      "url": "https://open.spotify.com/track/2zo7R0v0YrmVfb3VPkrAFX"
+    },
+    {
+      "album": {
         "name": "Diet Pepsi",
         "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
@@ -1129,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Hanap",
+        "url": "https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2"
+      },
+      "artists": [
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242875,
+      "name": "Hanap",
+      "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/1G7uyJNMDBiuc4U1s12oXY"
       },
@@ -1210,6 +1246,24 @@
       "duration_ms": 170895,
       "name": "Hoodie (feat. Alisson Shore)",
       "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
+    },
+    {
+      "album": {
+        "name": "afteryou.",
+        "url": "https://open.spotify.com/album/4qPIKvJ3xiO7AyqPEFTlqc"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "Hopia",
+      "url": "https://open.spotify.com/track/4nu366glQKT2HbdDhov3lE"
     },
     {
       "album": {
@@ -1412,7 +1466,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 266533,
       "name": "I'll Be",
       "url": "https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV"
@@ -1636,7 +1690,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 210755,
       "name": "Kulimlim",
       "url": "https://open.spotify.com/track/7otcJuVUk3fEbvJ5tNO4af"
@@ -2538,7 +2592,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 252500,
       "name": "Patutunguhan",
       "url": "https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc"
@@ -2975,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Tangi",
+        "url": "https://open.spotify.com/album/6icZ498dwWlfGWCGVGoobH"
+      },
+      "artists": [
+        {
+          "name": "Carl Beley",
+          "url": "https://open.spotify.com/artist/50JLRPX2SAUwAfMglz3LiJ"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241565,
+      "name": "Tangi",
+      "url": "https://open.spotify.com/track/6gZiPX4GZd3wm2Ko4f3LX3"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/0X7VQJn05fiB3BKGaxeI3M"
       },
@@ -3120,7 +3192,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 180644,
       "name": "What A Man Gotta Do",
       "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
@@ -3142,6 +3214,24 @@
       "duration_ms": 184665,
       "name": "What Am I",
       "url": "https://open.spotify.com/track/1HimGOB6BjOaCQYMIF1xtU"
+    },
+    {
+      "album": {
+        "name": "What U Need",
+        "url": "https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U"
+      },
+      "artists": [
+        {
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "What U Need",
+      "url": "https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW"
     },
     {
       "album": {
@@ -3174,7 +3264,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"

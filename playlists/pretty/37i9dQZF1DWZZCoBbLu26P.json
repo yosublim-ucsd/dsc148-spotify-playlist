@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 91199,
+  "num_followers": 91222,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Excuse the Beauty",
-        "url": "https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS"
+        "name": "Soak It Up",
+        "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
       },
       "artists": [
         {
-          "name": "Latrice Royale",
-          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
+          "name": "Mon\u00e9t X Change",
+          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
         },
         {
-          "name": "Epiphany Mattel",
-          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
+          "name": "Bob the Drag Queen",
+          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
         }
       ],
-      "duration_ms": 189440,
-      "name": "Excuse the Beauty",
-      "url": "https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI"
+      "duration_ms": 256298,
+      "name": "Soak It Up (Remix)",
+      "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -451,22 +451,22 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Soak It Up",
-        "url": "https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F"
+        "name": "Excuse the Beauty",
+        "url": "https://open.spotify.com/album/6KgyGjGDF73gae1gkQZ9KS"
       },
       "artists": [
         {
-          "name": "Mon\u00e9t X Change",
-          "url": "https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w"
+          "name": "Latrice Royale",
+          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
         },
         {
-          "name": "Bob the Drag Queen",
-          "url": "https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj"
+          "name": "Epiphany Mattel",
+          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
         }
       ],
-      "duration_ms": 256298,
-      "name": "Soak It Up (Remix)",
-      "url": "https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq"
+      "duration_ms": 189440,
+      "name": "Excuse the Beauty",
+      "url": "https://open.spotify.com/track/6BiFUGb6TQSOtTNkZhXVhI"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -527,26 +527,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Weight (feat. Epiphany Mattel)",
-        "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
-      },
-      "artists": [
-        {
-          "name": "Latrice Royale",
-          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
-        },
-        {
-          "name": "Epiphany Mattel",
-          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
-        }
-      ],
-      "duration_ms": 205217,
-      "name": "Weight (feat. Epiphany Mattel)",
-      "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 211666,
       "name": "My Hair Looks Fierce - Original",
       "url": "https://open.spotify.com/track/08yzdQW3TpyAwTToQjkYJW"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Weight (feat. Epiphany Mattel)",
+        "url": "https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3"
+      },
+      "artists": [
+        {
+          "name": "Latrice Royale",
+          "url": "https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC"
+        },
+        {
+          "name": "Epiphany Mattel",
+          "url": "https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy"
+        }
+      ],
+      "duration_ms": 205217,
+      "name": "Weight (feat. Epiphany Mattel)",
+      "url": "https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Sunshine State",
-        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
-      },
-      "artists": [
-        {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
-        },
-        {
-          "name": "Brandon Stansell",
-          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
-        }
-      ],
-      "duration_ms": 186686,
-      "name": "Sunshine State",
-      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Part 2: The Antidote",
         "url": "https://open.spotify.com/album/3BMSQ62xPnpHMyYx8CByYh"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 169731,
       "name": "I Specialise In Love",
       "url": "https://open.spotify.com/track/5J0S0kIoIOH0FCs9Q6Y3B1"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
+      },
+      "artists": [
+        {
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+        },
+        {
+          "name": "Brandon Stansell",
+          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
+        }
+      ],
+      "duration_ms": 186686,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
     },
     {
       "added_at": "2024-05-31 17:55:47",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
+        "name": "Part 1: The Damage",
+        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        },
+        {
+          "name": "Billy Cullum",
+          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
+        }
+      ],
+      "duration_ms": 173473,
+      "name": "I Got You",
+      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
         "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
@@ -1347,26 +1367,6 @@
       "duration_ms": 235530,
       "name": "Work Mommi Work (feat. Spankrock)",
       "url": "https://open.spotify.com/track/1zvCLFkacsVXEWlO9hI7H3"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
-        "name": "Part 1: The Damage",
-        "url": "https://open.spotify.com/album/4NAcKRrc0ueLhK8A0tYqGL"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        },
-        {
-          "name": "Billy Cullum",
-          "url": "https://open.spotify.com/artist/4io2LV6Cv46tjHIMSDie5k"
-        }
-      ],
-      "duration_ms": 173473,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/2rSE4Hl1vnWQhRbbUH0bhb"
     },
     {
       "added_at": "2024-05-31 17:55:47",

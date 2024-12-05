@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,039 likes - 255 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,055,091 likes - 255 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > ❤️‍🔥<a href="spotify:artist:1GKN1Js8fa19K23eIhOMhg">Annika</a>❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,717 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,709 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 15 | [Hver Gang Vi Siger Farvel](https://open.spotify.com/track/2zEzKD3tZfX6juYHYfuSzZ) | [Baseløs](https://open.spotify.com/artist/2sl62O87N2M6Jn90uM5Dme) | [Hver Gang Vi Siger Farvel](https://open.spotify.com/album/2xQIm1QQrJpPOOdq89YhXu) | 2:52 |
 | 16 | [Rapolitics Cypher \#3](https://open.spotify.com/track/6FIACxex0BB8Ug9czWeSIO) | [Rapolitics](https://open.spotify.com/artist/58zDD0R3UDVS549yYDSXH6), [Wafande](https://open.spotify.com/artist/3IzKjlnVRI9kv9MLlEPflC), [Mund de Carlo](https://open.spotify.com/artist/6O1UHqv8OdsltIC8q4ABXI), [Stenfors](https://open.spotify.com/artist/3yzLGKSGhzS0cPxjlGABAQ), [Figi](https://open.spotify.com/artist/43VE5bWGVooLKe8DXKxO99), [Vinnie](https://open.spotify.com/artist/7G19B9tkidVEjMBGyaoWM5) | [Rapolitics Cypher \#3](https://open.spotify.com/album/6FISPfF5AZhcCbQFJAGxjT) | 3:08 |
 | 17 | [Best Friend \(with Fall Out Boy\)](https://open.spotify.com/track/6YIUVlNppbizkWnme87kAY) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:36 |
-| 18 | [3 Dage](https://open.spotify.com/track/0zXi6jENBHTJQ3kDYt3jkI) | [Champagne Bruce](https://open.spotify.com/artist/3haK5qgpgsuSjzs6qDZ2PW) | [3 Dage](https://open.spotify.com/album/3twljDCDFRCVIvPPUQ6Cah) | 2:20 |
+| 18 | [3 dage](https://open.spotify.com/track/0zXi6jENBHTJQ3kDYt3jkI) | [Champagne Bruce](https://open.spotify.com/artist/3haK5qgpgsuSjzs6qDZ2PW) | [3 dage](https://open.spotify.com/album/3twljDCDFRCVIvPPUQ6Cah) | 2:20 |
 | 19 | [Rave Meditation](https://open.spotify.com/track/0fpioDklxRd1yEW6qtuDzy) | [Bonjour Papa](https://open.spotify.com/artist/2HRN8EOLDKPwS1h9BlKwFe) | [Rave Meditation](https://open.spotify.com/album/47YGLQYiHu2AcrKiLvWeip) | 2:20 |
 | 20 | [Water Pistol \- Killen\. Remix](https://open.spotify.com/track/7F1YGJLMXM9T5kiRQ6JPdX) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X), [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [Water Pistol \(Killen\. Remix\)](https://open.spotify.com/album/10l4hCpM2pON4RYhE7SjKe) | 2:56 |
 | 21 | [Håndtegn](https://open.spotify.com/track/4yard6FHoTBlxP1ZOrGSkN) | [Filuka](https://open.spotify.com/artist/7Gko4iKkhjWUiM5Mnwi5QI) | [Håndtegn](https://open.spotify.com/album/1qOqdJktIb0mQXtwNIvarq) | 3:05 |

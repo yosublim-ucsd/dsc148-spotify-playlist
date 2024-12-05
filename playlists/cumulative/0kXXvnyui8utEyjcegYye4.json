@@ -1621,6 +1621,46 @@
     },
     {
       "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "\u2661\ufe0e\ud835\ude77\ud835\ude8e\ud835\ude8a\ud835\ude9b\ud835\ude9d'\ud835\ude9c \ud835\ude72\ud835\ude8a\ud835\ude9c\ud835\ude9c\ud835\ude8e\ud835\ude9d\ud835\ude9d\ud835\ude8e\u2661\ufe0e",
+        "url": "https://open.spotify.com/album/6CIlJBLFXRePD6rssCeilg"
+      },
+      "artists": [
+        {
+          "name": "\u2661\ufe0e\ud835\ude77\ud835\ude8e\ud835\ude8a\ud835\ude9b\ud835\ude9d'\ud835\ude9c \ud835\ude72\ud835\ude8a\ud835\ude9c\ud835\ude9c\ud835\ude8e\ud835\ude9d\ud835\ude9d\ud835\ude8e\u2661\ufe0e",
+          "url": "https://open.spotify.com/show/6CIlJBLFXRePD6rssCeilg"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75116,
+      "name": "Gata only - edit audio ",
+      "url": "https://open.spotify.com/episode/5XiioChRURsS7LQdlzCFX1"
+    },
+    {
+      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },

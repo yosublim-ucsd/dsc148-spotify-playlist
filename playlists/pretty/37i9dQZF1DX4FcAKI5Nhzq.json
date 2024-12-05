@@ -1,13 +1,29 @@
 {
   "description": "Future K-Pop hits! Cover: TWS",
-  "num_followers": 816752,
+  "num_followers": 816722,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0fPHwAAAADgutSitBneLqQG+8ZpuSZA",
+  "snapshot_id": "Z0/MOAAAAAAkoRyFsoVF9jbcNl4xqgjs",
   "tracks": [
+    {
+      "added_at": "2024-12-04 03:27:52",
+      "album": {
+        "name": "LOVESTRUCK SISTERS Episode 5",
+        "url": "https://open.spotify.com/album/5bH5jDdREPIt5uxyGx955M"
+      },
+      "artists": [
+        {
+          "name": "MYTRO",
+          "url": "https://open.spotify.com/artist/03hzPQyRS7Rd6v6oGnYTzZ"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "Bomb Bomb Bomb",
+      "url": "https://open.spotify.com/track/2rnmV5epJdodKpmFVJmbDL"
+    },
     {
       "added_at": "2024-11-25 09:32:15",
       "album": {

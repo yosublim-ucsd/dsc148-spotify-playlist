@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 780381,
+  "num_followers": 780450,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "Esmeraldas (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "A noite",
-      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "Radiola",
         "url": "https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 240133,
       "name": "Vamos Fugir",
       "url": "https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
+        "name": "Esmeraldas (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A noite",
+      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 254520,
-      "name": "Voc\u00ea me faz t\u00e3o bem",
-      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "Banda do Mar",
         "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 168640,
       "name": "Mais Ningu\u00e9m",
       "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 254520,
+      "name": "Voc\u00ea me faz t\u00e3o bem",
+      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "love leve",
-        "url": "https://open.spotify.com/album/2yyeSZQC3SNGLWWeci8lbU"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 167443,
-      "name": "love leve",
-      "url": "https://open.spotify.com/track/00Ke9O7f7kiGzz1fROAnZP"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "Remonta",
         "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 269120,
       "name": "Sem Nome, Mas Com Endere\u00e7o",
       "url": "https://open.spotify.com/track/6xh9JILM2rzAtRynrTAAhe"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
+        "name": "love leve",
+        "url": "https://open.spotify.com/album/2yyeSZQC3SNGLWWeci8lbU"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 167443,
+      "name": "love leve",
+      "url": "https://open.spotify.com/track/00Ke9O7f7kiGzz1fROAnZP"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Quero Acordar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
         "name": "Top Hits",
         "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
       },
@@ -1059,6 +1075,22 @@
       "duration_ms": 195000,
       "name": "Proibida Pra Mim",
       "url": "https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
+      },
+      "artists": [
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 236535,
+      "name": "Rio Dentro do Mar",
+      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -1079,18 +1111,18 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
       },
       "artists": [
         {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 236535,
-      "name": "Rio Dentro do Mar",
-      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -1115,22 +1147,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "A Cara do Amor da Minha Vida",
         "url": "https://open.spotify.com/album/0OvRM5meYXSh2A5n4vN2NC"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 151128,
       "name": "A Cara do Amor da Minha Vida",
       "url": "https://open.spotify.com/track/4IjOrQ4CBgjE6JDxbSEnJx"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL"
-      },
-      "artists": [
-        {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
-        }
-      ],
-      "duration_ms": 182325,
-      "name": "Quero Acordar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "O amor me fala de voc\u00ea",
-        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
-      },
-      "artists": [
-        {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
-        }
-      ],
-      "duration_ms": 199308,
-      "name": "O amor me fala de voc\u00ea",
-      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
         "url": "https://open.spotify.com/album/6JqH7U3T62fe24mTWJsTZo"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 240207,
       "name": "S\u00f3 sei dan\u00e7ar com voc\u00ea",
       "url": "https://open.spotify.com/track/74L3wypDfhXMvAYE7mDq09"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
     },
     {
       "added_at": "2024-11-29 03:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-11-29 03:00:00",
       "album": {
-        "name": "Efeito Voc\u00ea",
-        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 168064,
-      "name": "Efeito Voc\u00ea",
-      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
-    },
-    {
-      "added_at": "2024-11-29 03:00:00",
-      "album": {
         "name": "Can\u00e7\u00f5es para o Inverno Passar Depressa",
         "url": "https://open.spotify.com/album/3MJF9CFMiDxHFx28ZYBIA6"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 117602,
       "name": "N\u00e3o H\u00e1 Nada Mais Lindo",
       "url": "https://open.spotify.com/track/3Hj5L7A5u78lBfc2Twvx3v"
+    },
+    {
+      "added_at": "2024-11-29 03:00:00",
+      "album": {
+        "name": "Efeito Voc\u00ea",
+        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 168064,
+      "name": "Efeito Voc\u00ea",
+      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
     },
     {
       "added_at": "2024-11-29 03:00:00",

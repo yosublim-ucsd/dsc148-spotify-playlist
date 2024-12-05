@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/3ig4Otw0muRtYNWY8ytVoi"> Blackwhole</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,723 likes - 59 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,742 likes - 59 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAdpTGZMy+KsjYBYiP9k+dhMfeLzAP5",
+  "snapshot_id": "AAAdqQ4KoXOVfRdj/DRVaZLb8gdQLZfp",
   "tracks": [
     {
       "added_at": "2022-04-09 13:30:58",
@@ -2351,6 +2351,70 @@
       "duration_ms": 173800,
       "name": "Real Sisters",
       "url": "https://open.spotify.com/track/5GhJq5J9ZWIEDZdyw7EWzt"
+    },
+    {
+      "added_at": "2024-12-04 16:38:20",
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 277386,
+      "name": "Lil Haiti Baby",
+      "url": "https://open.spotify.com/track/3IMZ6j3mlRQYsatEuzt0Y3"
+    },
+    {
+      "added_at": "2024-12-04 20:33:47",
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 176186,
+      "name": "Program",
+      "url": "https://open.spotify.com/track/5lMmp06Yt5opZrKdszyh8Y"
+    },
+    {
+      "added_at": "2024-12-04 22:53:03",
+      "album": {
+        "name": "Future Hndrxx Presents: The WIZRD",
+        "url": "https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 189427,
+      "name": "F&N",
+      "url": "https://open.spotify.com/track/5YP6yKgGGsXKukqxXypVAf"
+    },
+    {
+      "added_at": "2024-12-05 02:49:19",
+      "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 132750,
+      "name": "Umm Hmm",
+      "url": "https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b"
     }
   ],
   "unique_name": "main ",

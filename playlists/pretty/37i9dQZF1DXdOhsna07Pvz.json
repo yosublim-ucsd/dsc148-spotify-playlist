@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 83020,
+  "num_followers": 83062,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Caetanear",
+        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
+      },
+      "artists": [
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Odara",
+      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Brazilian Compilation Series, Vol. 2",
         "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 300000,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Caetanear",
-        "url": "https://open.spotify.com/album/1vbnJI2hyuD8v6b2mGtQIl"
-      },
-      "artists": [
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 199333,
-      "name": "Odara",
-      "url": "https://open.spotify.com/track/45qF2E2smfkrMR47xF5QZy"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Feiti\u00e7o Caboclo",
+        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
+      },
+      "artists": [
+        {
+          "name": "Dona Onete",
+          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
+        }
+      ],
+      "duration_ms": 267120,
+      "name": "Jamburana",
+      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 232937,
       "name": "Aleluia",
       "url": "https://open.spotify.com/track/1KUqyZaFMpglFfxXzv4Aj6"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Feiti\u00e7o Caboclo",
-        "url": "https://open.spotify.com/album/2LVjaj6inxXbQGyhydh5UW"
-      },
-      "artists": [
-        {
-          "name": "Dona Onete",
-          "url": "https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc"
-        }
-      ],
-      "duration_ms": 267120,
-      "name": "Jamburana",
-      "url": "https://open.spotify.com/track/7IxEuM3zkP51Qk4zKkugIM"
     },
     {
       "added_at": "2022-09-22 18:13:04",

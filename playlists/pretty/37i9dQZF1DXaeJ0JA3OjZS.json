@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 150873,
+  "num_followers": 151020,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 233613,
-      "name": "El Profeta",
-      "url": "https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Corridos de Caballos Famosos",
         "url": "https://open.spotify.com/album/0l5z0wJygkIBRXixFYs4qH"
       },
@@ -423,18 +407,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
       },
       "artists": [
         {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
         }
       ],
-      "duration_ms": 243500,
-      "name": "El 2 Estados",
-      "url": "https://open.spotify.com/track/42qBJPH22Hdw0e3yqPTU2q"
+      "duration_ms": 233613,
+      "name": "El Profeta",
+      "url": "https://open.spotify.com/track/5psSRwJyVXRmJJ4PIwf5B1"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -451,6 +435,22 @@
       "duration_ms": 175778,
       "name": "Cuadra los Parientes - En Vivo",
       "url": "https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 243500,
+      "name": "El 2 Estados",
+      "url": "https://open.spotify.com/track/42qBJPH22Hdw0e3yqPTU2q"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "El Herradero - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Corridos de Caballos",
         "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 274000,
       "name": "Oak Tree Special",
       "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "El Herradero - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/1XSQE1KKdfIO8auVrK2l2s"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Corridos Finos III",
         "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 222020,
       "name": "El Nuevo Comandante",
       "url": "https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "En Vivo Desde las Ca\u00f1as",
-        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 164821,
-      "name": "Caballo R-15 - En Vivo",
-      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+        "name": "En Vivo Desde las Ca\u00f1as",
+        "url": "https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+      "duration_ms": 164821,
+      "name": "Caballo R-15 - En Vivo",
+      "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -743,6 +743,22 @@
       "duration_ms": 199613,
       "name": "El Texano y el Machete",
       "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -855,22 +871,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Corrido Del Payaso",
         "url": "https://open.spotify.com/album/0hhXYZulilpAVZv6AyoK3i"
       },
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 134733,
+      "name": "Ranchero Y Gallardo",
+      "url": "https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Las Tres Tumbas",
         "url": "https://open.spotify.com/album/1UF7X9zpBOF6JNv0l5wsx0"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 165341,
       "name": "Mi Caballo Pobre",
       "url": "https://open.spotify.com/track/4wW1Xvbfwmq8CMJdjoR4fg"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/5rM7lYRbyu9ktUF8cU0lG0"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 134733,
-      "name": "Ranchero Y Gallardo",
-      "url": "https://open.spotify.com/track/0M7CH6QBbsYi6lF8owxhn7"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 193773,
+      "name": "El Muchacho y el Potro",
+      "url": "https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Corridos de Caballos",
         "url": "https://open.spotify.com/album/0FDZOl5djASGO2GO6oyNFy"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 204920,
       "name": "El Moro de Cumpas",
       "url": "https://open.spotify.com/track/48xE4Ro1GQxQEQKqYbT99I"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Y Seguimos La Borrachera",
-        "url": "https://open.spotify.com/album/5LUAUynTSlr686U0OQMM1E"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 199836,
-      "name": "Trato De Muerte",
-      "url": "https://open.spotify.com/track/2rAKr8ccF24rWoFbC80706"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Dos Coronas a Mi Madre",
-        "url": "https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1"
+        "name": "Y Seguimos La Borrachera",
+        "url": "https://open.spotify.com/album/5LUAUynTSlr686U0OQMM1E"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 193773,
-      "name": "El Muchacho y el Potro",
-      "url": "https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG"
+      "duration_ms": 199836,
+      "name": "Trato De Muerte",
+      "url": "https://open.spotify.com/track/2rAKr8ccF24rWoFbC80706"
     },
     {
       "added_at": "2024-09-20 06:00:00",

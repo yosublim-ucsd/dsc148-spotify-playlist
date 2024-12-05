@@ -1,13 +1,545 @@
 {
   "description": "Groove to your favorite tracks from CoComelon! ",
-  "num_followers": 173337,
+  "num_followers": 173592,
   "original_name": "CoComelon Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zqft2QAAAABsO7PgJq+AEP8KJPLCSf8e",
+  "snapshot_id": "Z1C3SQAAAAD4ea31z6qu1BW1gcC+B2Md",
   "tracks": [
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Blippi's Treehouse",
+        "url": "https://open.spotify.com/album/7La4Z1vXYb3YBSJ6xtdh7B"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "duration_ms": 30152,
+      "name": "Treehouse Theme Song",
+      "url": "https://open.spotify.com/track/7IICXNB6txlUgFUbfeLymF"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Blippi's Treehouse",
+        "url": "https://open.spotify.com/album/7La4Z1vXYb3YBSJ6xtdh7B"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Dino Groove",
+      "url": "https://open.spotify.com/track/5Um0oX2EdKjq3Jb5lzKZPA"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Blippi's Treehouse",
+        "url": "https://open.spotify.com/album/7La4Z1vXYb3YBSJ6xtdh7B"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "The Excavator Song - The Remix!",
+      "url": "https://open.spotify.com/track/4piC3ScZCrBKQHNbfFxwFq"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Blippi's Treehouse",
+        "url": "https://open.spotify.com/album/7La4Z1vXYb3YBSJ6xtdh7B"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Meekah",
+          "url": "https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3"
+        }
+      ],
+      "duration_ms": 169525,
+      "name": "Fast Faster",
+      "url": "https://open.spotify.com/track/711tyaFb2ueWlok9NKA8UR"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Morphle and The Magic Pets (Main Theme)",
+        "url": "https://open.spotify.com/album/1aCJkdLL7Ms7EGT1RBqmV5"
+      },
+      "artists": [
+        {
+          "name": "Morphle",
+          "url": "https://open.spotify.com/artist/0klGLXMn3FdjcUlNqQJosO"
+        }
+      ],
+      "duration_ms": 51229,
+      "name": "Morphle and The Magic Pets - Main Theme",
+      "url": "https://open.spotify.com/track/4SDIIqxwMvut1g0nuZvsHT"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Nursery Rhymes & Children's Songs",
+        "url": "https://open.spotify.com/album/4bAowyemKBTV04JU8ZIx0W"
+      },
+      "artists": [
+        {
+          "name": "Morphle",
+          "url": "https://open.spotify.com/artist/0klGLXMn3FdjcUlNqQJosO"
+        }
+      ],
+      "duration_ms": 103908,
+      "name": "Down in the Jungle",
+      "url": "https://open.spotify.com/track/5X91tgQ2nc7zOpc4leHX3x"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Nursery Rhymes & Children's Songs",
+        "url": "https://open.spotify.com/album/4bAowyemKBTV04JU8ZIx0W"
+      },
+      "artists": [
+        {
+          "name": "Morphle",
+          "url": "https://open.spotify.com/artist/0klGLXMn3FdjcUlNqQJosO"
+        }
+      ],
+      "duration_ms": 101037,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/1HCQRhaMnlXdFe2fpibIsF"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Nursery Rhymes & Children's Songs",
+        "url": "https://open.spotify.com/album/4bAowyemKBTV04JU8ZIx0W"
+      },
+      "artists": [
+        {
+          "name": "Morphle",
+          "url": "https://open.spotify.com/artist/0klGLXMn3FdjcUlNqQJosO"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Old MacDonald",
+      "url": "https://open.spotify.com/track/06PVoFToBvEgjt5cQUwCCt"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Little Angel's Nursery Rhymes",
+        "url": "https://open.spotify.com/album/56ZZPM5CFhY2dOwrolbB75"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 146016,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/3Mi6FVXcEU6y4IBElLhWUB"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Little Angel's Nursery Rhymes",
+        "url": "https://open.spotify.com/album/56ZZPM5CFhY2dOwrolbB75"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 177287,
+      "name": "Who's At the Door?",
+      "url": "https://open.spotify.com/track/4BXzSGUC77vw6FpHwd11so"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Toddler Party",
+        "url": "https://open.spotify.com/album/1SZDAeJYEyuSrS9adfUE1R"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 155111,
+      "name": "Johny Johny",
+      "url": "https://open.spotify.com/track/2j5iqEF1s9JlLPk9j699eB"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Toddler Party",
+        "url": "https://open.spotify.com/album/1SZDAeJYEyuSrS9adfUE1R"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 233970,
+      "name": "Once I Caught A Fish Alive",
+      "url": "https://open.spotify.com/track/3JeObue3nJHcrsA55gKpJf"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Animal Songs",
+        "url": "https://open.spotify.com/album/3xsAtfBk9vaMCu0C2za5he"
+      },
+      "artists": [
+        {
+          "name": "Little Angel",
+          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
+        }
+      ],
+      "duration_ms": 209744,
+      "name": "Old McDonald Had a Farm",
+      "url": "https://open.spotify.com/track/4HswfWLOrx9imPCzU6rwst"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Blippi Tunes, Vol. 2: Machines (Music for Toddlers)",
+        "url": "https://open.spotify.com/album/3uD0l4haHJADqL4I3ykb8b"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "duration_ms": 173190,
+      "name": "The Excavator Song",
+      "url": "https://open.spotify.com/track/1MJcqxNYsGRWK5etxzCboD"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Blippi Tunes, Vol. 2: Machines (Music for Toddlers)",
+        "url": "https://open.spotify.com/album/3uD0l4haHJADqL4I3ykb8b"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "duration_ms": 182910,
+      "name": "The Garbage Truck Song",
+      "url": "https://open.spotify.com/track/1J9pjLBs6L98PZA4yBNcuV"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Blippi Tunes, Vol. 1",
+        "url": "https://open.spotify.com/album/4y8tx8PVyNSMZAjVn6OblN"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        },
+        {
+          "name": "Nicky Notes",
+          "url": "https://open.spotify.com/artist/46BsCUZeInrbY0IkvQ1OQ1"
+        }
+      ],
+      "duration_ms": 166363,
+      "name": "Monster Trucks",
+      "url": "https://open.spotify.com/track/6MUr9vR6qzNtxarcKL7aAc"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Blippi's Animal Friends",
+        "url": "https://open.spotify.com/album/4B3LWH0pMwMss4nyXAJRwl"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "duration_ms": 184588,
+      "name": "Dinosaur Song",
+      "url": "https://open.spotify.com/track/6B1rvaRgpIAqjyIOZK9TNC"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "World Nursery Rhyme Week with Little Baby Bum",
+        "url": "https://open.spotify.com/album/3kQQC6EpBgZ8sSdMBKk0TW"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Wheels on the Bus (All Through the Town)",
+      "url": "https://open.spotify.com/track/7LydPBAO6s0froW5cOZdfa"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 2 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 104716,
+      "name": "Sleeping Bunnies",
+      "url": "https://open.spotify.com/track/3e553JEY58ETHPCHFuyp0x"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 2 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/4TTk8j1G3pcHwtw6YXTjRs"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 75545,
+      "name": "Hickory Dickory Dock - (Sheep)",
+      "url": "https://open.spotify.com/track/24g8whAHKPcifxXAmFZSGU"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Learn Your ABCs! Letter Songs and Phonics for Children with LittleBabyBum",
+        "url": "https://open.spotify.com/album/1eE8Rnlz8CuBXJ5EwwbFXm"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 116751,
+      "name": "Bingo - Sing with Me",
+      "url": "https://open.spotify.com/track/04hHP1xdT8asIym1MuIIq5"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Learn About the Weather with Songs & Nursery Rhymes from LittleBabyBum",
+        "url": "https://open.spotify.com/album/22KC6LLHas9oWKebH23kRZ"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "duration_ms": 64285,
+      "name": "It's Raining It's Pouring",
+      "url": "https://open.spotify.com/track/05E2YbFAJE1DnHSuFfTk5V"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Halloween Dance Songs",
+        "url": "https://open.spotify.com/album/4A6qLUnEOhGrAom5OvvpO8"
+      },
+      "artists": [
+        {
+          "name": "Om Nom",
+          "url": "https://open.spotify.com/artist/5ogWhGyVnQ4Bs46ImwGJMp"
+        }
+      ],
+      "duration_ms": 116553,
+      "name": "Om Nom's Monster Bash",
+      "url": "https://open.spotify.com/track/0LIu04AuGEsQPkgYaL6df1"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Halloween Dance Songs",
+        "url": "https://open.spotify.com/album/4A6qLUnEOhGrAom5OvvpO8"
+      },
+      "artists": [
+        {
+          "name": "Om Nom",
+          "url": "https://open.spotify.com/artist/5ogWhGyVnQ4Bs46ImwGJMp"
+        }
+      ],
+      "duration_ms": 121313,
+      "name": "Naughty Ghost",
+      "url": "https://open.spotify.com/track/5O7INIkSIy0ySI8AmsQiaB"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Om Nom Songs",
+        "url": "https://open.spotify.com/album/5B3bI9PXgjStbJ0DPllVgR"
+      },
+      "artists": [
+        {
+          "name": "Om Nom",
+          "url": "https://open.spotify.com/artist/5ogWhGyVnQ4Bs46ImwGJMp"
+        }
+      ],
+      "duration_ms": 121445,
+      "name": "Let's Play Pretend, Nommies!",
+      "url": "https://open.spotify.com/track/77GfJWDHHblXLYX5aFvxpT"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Om Nom Songs",
+        "url": "https://open.spotify.com/album/5B3bI9PXgjStbJ0DPllVgR"
+      },
+      "artists": [
+        {
+          "name": "Om Nom",
+          "url": "https://open.spotify.com/artist/5ogWhGyVnQ4Bs46ImwGJMp"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "In a Video Game",
+      "url": "https://open.spotify.com/track/3oXFR5itqFASwWLEr6Ws7G"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Om Nom Songs",
+        "url": "https://open.spotify.com/album/5B3bI9PXgjStbJ0DPllVgR"
+      },
+      "artists": [
+        {
+          "name": "Om Nom",
+          "url": "https://open.spotify.com/artist/5ogWhGyVnQ4Bs46ImwGJMp"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "If You're Happy and You Know It",
+      "url": "https://open.spotify.com/track/5IulzQFA2tV58tJjjffCO6"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Dinosaur Songs for Kids",
+        "url": "https://open.spotify.com/album/1ahlpmJ38I8iPl8OAfdpQb"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "duration_ms": 66406,
+      "name": "The Place I Wanna Be",
+      "url": "https://open.spotify.com/track/5RgKAdGBZxRHvJTVDXfwpU"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Dinosaur Songs for Kids",
+        "url": "https://open.spotify.com/album/1ahlpmJ38I8iPl8OAfdpQb"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Hail T-Bone the T-Rex King",
+      "url": "https://open.spotify.com/track/1VHrfEIt1lBr69GaZjH0vS"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Science Safety Song",
+        "url": "https://open.spotify.com/album/1kKsfxd9UKEUj59tYegN1t"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Science Safety Song",
+      "url": "https://open.spotify.com/track/08zVXpxlOLeNAribgD0IU0"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Dinosaur Songs for Kids",
+        "url": "https://open.spotify.com/album/1ahlpmJ38I8iPl8OAfdpQb"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "The Dinosaurs Are Coming!",
+      "url": "https://open.spotify.com/track/0q1Ic9QRtXtxzEVgwS1trW"
+    },
+    {
+      "added_at": "2024-12-04 20:10:49",
+      "album": {
+        "name": "Dinosaur Songs for Kids",
+        "url": "https://open.spotify.com/album/1ahlpmJ38I8iPl8OAfdpQb"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "duration_ms": 121285,
+      "name": "Park Ranger Song",
+      "url": "https://open.spotify.com/track/6DVGxzw9w7lsNnGfoyMVro"
+    },
     {
       "added_at": "2024-05-22 20:24:26",
       "album": {

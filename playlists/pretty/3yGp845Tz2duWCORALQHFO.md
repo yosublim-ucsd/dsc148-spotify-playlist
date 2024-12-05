@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,787 likes - 46 songs - 2 hr 30 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,788 likes - 46 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 34 | [Dance With The Devil](https://open.spotify.com/track/7iAXBzkoNJd1BaMTpYlsTn) | [Judge Jules](https://open.spotify.com/artist/1PaP6h3jtpFHNpHWsCF4Zo), [E.V Palmer](https://open.spotify.com/artist/5Gaofd13RY8uhtBPktY9dv) | [Dance With The Devil](https://open.spotify.com/album/39n9iWyMSTER4ZfwVt0VgR) | 2:59 |
 | 35 | [Fantasia](https://open.spotify.com/track/1RdNdZqWUBpJichorZiGfl) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Fantasia](https://open.spotify.com/album/66tZ1KSFNMz2ljeYtDVaKp) | 3:38 |
 | 36 | [In Spirit](https://open.spotify.com/track/2fQxCSLQYVYRTgwc9DZ2UQ) | [Mark Sherry](https://open.spotify.com/artist/3mvBDVwojbFc7hmDIgoIHH) | [In Spirit](https://open.spotify.com/album/4i685mROkka3AIGa4NdF8y) | 4:06 |
-| 37 | [Weightless](https://open.spotify.com/track/2R1k6BUpiZzDTm4pROQNGz) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Matrix](https://open.spotify.com/artist/1HxzLy3xmo2yu77YUnAXgF), [Futurebound](https://open.spotify.com/artist/2Vqj1e2oloOKNqAT2gpoa5), [Glacier Baby](https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES) | [Weightless](https://open.spotify.com/album/6QLWCEeaRgsQ7SZIX46Si8) | 3:37 |
+| 37 | [Weightless](https://open.spotify.com/track/2R1k6BUpiZzDTm4pROQNGz) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Glacier Baby](https://open.spotify.com/artist/3UcsmXGGJfwT7F8VgWF7ES) | [Weightless](https://open.spotify.com/album/6QLWCEeaRgsQ7SZIX46Si8) | 3:37 |
 | 38 | [Treasure](https://open.spotify.com/track/02NNgnMRCZl76EoV6l8MNP) | [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv) | [Treasure](https://open.spotify.com/album/6XoYAnYtz924nyyjOIQ9ZX) | 4:15 |
 | 39 | [Bonfire ft\. Dark Dhalia](https://open.spotify.com/track/7DAVnqTWXAKUXILD63yaGY) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Dark Dhalia](https://open.spotify.com/artist/3oIYDwz9ylnIQ1jSg5373d) | [4 For The Floor EP](https://open.spotify.com/album/7w0983kiYMxawyFSLKxjeU) | 3:17 |
 | 40 | [Vogue \- Will Watt Remix](https://open.spotify.com/track/1ZkU9H7b4qzRXZv7PucOmP) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Will Watt](https://open.spotify.com/artist/01GObtyNNir2fl1CBUMwyq) | [Vogue \(Will Watt Remix\)](https://open.spotify.com/album/0ztkOCQp75vjGk9BNtAvWY) | 3:32 |

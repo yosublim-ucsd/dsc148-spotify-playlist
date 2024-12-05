@@ -6144,7 +6144,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 154418,
       "name": "Crack com Mussilon",
       "url": "https://open.spotify.com/track/4ssHL7bSnOAE7HjiuLx6Co"
@@ -8478,7 +8478,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 187115,
       "name": "Embaixador (M\u00e3e)",
       "url": "https://open.spotify.com/track/5pd6ezOiCGn5wALw8HLMFW"
@@ -14736,10 +14736,32 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 120115,
       "name": "Malvadinho",
       "url": "https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF"
+    },
+    {
+      "album": {
+        "name": "Menor do Desacato",
+        "url": "https://open.spotify.com/album/66B1s482joKfoY31JMcw8m"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120115,
+      "name": "Malvadinho",
+      "url": "https://open.spotify.com/track/5TOvA5Uhxti7FPh0EIdClV"
     },
     {
       "album": {
@@ -17411,6 +17433,28 @@
     },
     {
       "album": {
+        "name": "Menor do Desacato",
+        "url": "https://open.spotify.com/album/66B1s482joKfoY31JMcw8m"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Nem Ligo Pro Amor",
+      "url": "https://open.spotify.com/track/5gA82C4xfyvmRtpD1QdsDz"
+    },
+    {
+      "album": {
         "name": "Nem Ligo Pro Amor",
         "url": "https://open.spotify.com/album/4aDHZ1X3DFmHBVV4RkNNaN"
       },
@@ -17426,7 +17470,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 164307,
       "name": "Nem Ligo Pro Amor",
       "url": "https://open.spotify.com/track/5rIv8Ya5G1bLQoXwIKTn80"
@@ -19180,7 +19224,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 119754,
       "name": "Pampa",
       "url": "https://open.spotify.com/track/0prrifDVNELg91qIr1K4p2"
@@ -23048,7 +23092,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-04",
+      "date_removed": null,
       "duration_ms": 192034,
       "name": "Seja Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/7ghRkxJXkQCFO0l8Kn8i8U"
@@ -25328,7 +25372,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 266666,
       "name": "THE BOX MEDLEY FUNK 2",
       "url": "https://open.spotify.com/track/7IFsTX5H1sWcEl8joV0IdD"
@@ -28562,7 +28606,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 190380,
       "name": "\u00c9 Que Eu Sofri Demais",
       "url": "https://open.spotify.com/track/6Hp39ODlBU7yusKfv3s0zP"

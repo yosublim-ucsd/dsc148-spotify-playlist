@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-779 songs - 1 day 9 hr 45 min
+781 songs - 1 day 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Abbellimenti](https://open.spotify.com/track/6CJRpyYTWrVqVGFbu9rc8r) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Abbellimenti](https://open.spotify.com/album/3vzFG9NkHWpizfwNBIqMx8) | 2:32 | 2022-04-15 | 2022-11-19 |
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-15 | 2022-12-24 |
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2022-04-15 | 2022-11-19 |
+| [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 | 2024-12-04 |  |
 | [Abuelo](https://open.spotify.com/track/6Oimt1bnKnDzmRn4RiB7D4) | [ANTICLEA](https://open.spotify.com/artist/2ksAWinh38Fp03NmgzuJTv) | [Abuelo](https://open.spotify.com/album/7nm2rqvpNj3pSKIvlNwmNE) | 2:33 | 2022-04-15 | 2022-04-23 |
 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-04-15 | 2022-05-14 |
 | [Admission](https://open.spotify.com/track/6mliqnzcZMDNv8xwbeIA54) | [James Homard](https://open.spotify.com/artist/3woT4KWjwgvrxKTw8tf4AY) | [Admission](https://open.spotify.com/album/75ypcTRAOyHzCGHHkEle8a) | 1:44 | 2024-01-05 |  |
@@ -579,6 +580,7 @@
 | [Signs of Yesterday](https://open.spotify.com/track/469gImU7TX8pyIXefZhr0c) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Divisio](https://open.spotify.com/album/0B869lAIypL8bHSo2SAr34) | 2:22 | 2022-04-15 | 2022-09-21 |
 | [Silent Agreement](https://open.spotify.com/track/4rcbkYwipgC6L1GQzPhZoK) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Dreamer](https://open.spotify.com/album/4FcAryj7DrsPVIlmxI8yOM) | 2:15 | 2022-04-15 | 2022-07-29 |
 | [Silent Agreement](https://open.spotify.com/track/4eTi2a1kxAug5CnVCAWGl5) | [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Rasmus Svensson](https://open.spotify.com/artist/3kBBAbNwgXbD5zZq4p6CaR) | [Dreamer](https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms) | 2:15 | 2022-07-15 | 2022-09-21 |
+| [Silent Bloom](https://open.spotify.com/track/0keMPNZ9MeQSN25xr14fUb) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [Silent Bloom](https://open.spotify.com/album/1l2ue47R65IiChM0w4Z0Xo) | 2:07 | 2024-12-04 |  |
 | [Silent Nightfall](https://open.spotify.com/track/56hknlblBK16mkzaxu3Iyg) | [Javier Escudero](https://open.spotify.com/artist/6A92FyWQLVbUdIjQJjge6N) | [Silent Nightfall](https://open.spotify.com/album/3UuXJyZYyIr27rQ6VDhnYZ) | 2:08 | 2024-05-07 |  |
 | [Silent Prayer](https://open.spotify.com/track/4lDIjqbPmI6RRjSe6D8Foc) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:23 | 2022-04-15 | 2022-05-27 |
 | [Silent Side](https://open.spotify.com/track/38LGrDfRC1H4htZtjaSyrL) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Silent Side](https://open.spotify.com/album/0hn7iZOXcuGIYD9iGMjznk) | 2:42 | 2022-04-15 | 2024-04-10 |

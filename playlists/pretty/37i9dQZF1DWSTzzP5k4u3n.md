@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Apulanta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,784 likes - 80 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,782 likes - 80 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
-| 2 | [Vuonna '85](https://open.spotify.com/track/0cThSokBJLUZIRcDs9wZvm) | [Jere Ijäs](https://open.spotify.com/artist/1jzz3jZOBjI9ipSG1k1O8q) | [Vuonna '85](https://open.spotify.com/album/0EsUJnhYY3pctuNpJe5y9y) | 5:04 |
-| 3 | [Sydän märkenöö](https://open.spotify.com/track/0hDjeXubV71Oae9KksfGh7) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Sydän märkenöö](https://open.spotify.com/album/441XWf9cxbJgc86inWo4dD) | 2:59 |
-| 4 | [Muistivihko](https://open.spotify.com/track/3akOo5o4jnKRK3x9EmL2dP) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [Matka maailman ympäri](https://open.spotify.com/album/1x1by0SoTRmiekQEb1Dlov) | 3:29 |
-| 5 | [Vaatteet ja iho](https://open.spotify.com/track/427I5MP8z0avmKQZX4ZgGA) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Oire jostakin](https://open.spotify.com/album/51uB52lJNWlW8kevWUPDiA) | 4:00 |
-| 6 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
-| 7 | [Suru teki taas kodin sun sisään](https://open.spotify.com/track/4AneHJl1W8rz50YC4BUjbB) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Suru teki taas kodin sun sisään](https://open.spotify.com/album/4DMXyY7zWkK2odiCoxFmeS) | 2:52 |
-| 8 | [Suomi\-Perkele](https://open.spotify.com/track/7BcApd90DJTzX2R7q9ugc1) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Susirajalla](https://open.spotify.com/album/2Ix64SvDFhoezg4YsRxMQn) | 3:40 |
-| 9 | [Tulvaniityt](https://open.spotify.com/track/356KJMSfmHLgahPGpz5E9i) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Hiljainen](https://open.spotify.com/album/51QXiCOMZIwTJw9TUfAEG2) | 3:23 |
-| 10 | [salaisuutes](https://open.spotify.com/track/6xvc1O8WYsU6BerNd7kwTL) | [pilvet pilvet](https://open.spotify.com/artist/1MXJxWL0RS0CZLRj9jkacy) | [salaisuutes](https://open.spotify.com/album/4yxsJkx44tv5Mm0IV84yfj) | 2:16 |
+| 1 | [Vaatteet ja iho](https://open.spotify.com/track/427I5MP8z0avmKQZX4ZgGA) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Oire jostakin](https://open.spotify.com/album/51uB52lJNWlW8kevWUPDiA) | 4:00 |
+| 2 | [Sydän märkenöö](https://open.spotify.com/track/0hDjeXubV71Oae9KksfGh7) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Sydän märkenöö](https://open.spotify.com/album/441XWf9cxbJgc86inWo4dD) | 2:59 |
+| 3 | [salaisuutes](https://open.spotify.com/track/6xvc1O8WYsU6BerNd7kwTL) | [pilvet pilvet](https://open.spotify.com/artist/1MXJxWL0RS0CZLRj9jkacy) | [salaisuutes](https://open.spotify.com/album/4yxsJkx44tv5Mm0IV84yfj) | 2:16 |
+| 4 | [Tulvaniityt](https://open.spotify.com/track/356KJMSfmHLgahPGpz5E9i) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Hiljainen](https://open.spotify.com/album/51QXiCOMZIwTJw9TUfAEG2) | 3:23 |
+| 5 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 |
+| 6 | [Vuonna '85](https://open.spotify.com/track/0cThSokBJLUZIRcDs9wZvm) | [Jere Ijäs](https://open.spotify.com/artist/1jzz3jZOBjI9ipSG1k1O8q) | [Vuonna '85](https://open.spotify.com/album/0EsUJnhYY3pctuNpJe5y9y) | 5:04 |
+| 7 | [Muistivihko](https://open.spotify.com/track/3akOo5o4jnKRK3x9EmL2dP) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [Matka maailman ympäri](https://open.spotify.com/album/1x1by0SoTRmiekQEb1Dlov) | 3:29 |
+| 8 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 |
+| 9 | [Suru teki taas kodin sun sisään](https://open.spotify.com/track/4AneHJl1W8rz50YC4BUjbB) | [Ikuinenkesä](https://open.spotify.com/artist/1gv2UQ0PpCHGnS1ozjAiHf) | [Suru teki taas kodin sun sisään](https://open.spotify.com/album/4DMXyY7zWkK2odiCoxFmeS) | 2:52 |
+| 10 | [Suomi\-Perkele](https://open.spotify.com/track/7BcApd90DJTzX2R7q9ugc1) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Susirajalla](https://open.spotify.com/album/2Ix64SvDFhoezg4YsRxMQn) | 3:40 |
 | 11 | [Meri josta elän](https://open.spotify.com/track/1FGwbuI501ZwGBrncqb4lI) | [Kalle Ahola](https://open.spotify.com/artist/1VkNoO2Us1nyZZWAgdpsds) | [Meri josta elän](https://open.spotify.com/album/76hy36Gdel0t47rj3I08EU) | 4:57 |
 | 12 | [Tragediaa](https://open.spotify.com/track/2eExDsy0shxVatG9mr71Q0) | [Laura Ruusumaa](https://open.spotify.com/artist/2RnWYWpx9A08NdGATcq4nZ) | [Tragediaa](https://open.spotify.com/album/7ajBEkcBP6dSN0c3xpFrVU) | 3:34 |
 | 13 | [Jokainen maaliviiva](https://open.spotify.com/track/4XGtyJ82UWTp3dxbK3MDZZ) | [Kissa](https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn) | [Jokainen maaliviiva](https://open.spotify.com/album/18w1uTdq9RvWNQTRxT4aY3) | 4:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Joku äijä vei mun kangaskassin](https://open.spotify.com/track/71f4qBrT3chsVi4k8yWNLS) | [RÄTBOX](https://open.spotify.com/artist/0SBbpp7n3cAhWdirXeAwef) | [Uhkapelejä ja Viron viinaa](https://open.spotify.com/album/1lEhACt972VpQHRjIF2Jrm) | 3:29 |
 | 80 | [Mitäköhän meistä jää](https://open.spotify.com/track/4zTFHxegCLq5LgzRUsfBre) | [Venkulit](https://open.spotify.com/artist/6iTidGnUAg4NMXtPtUJ49v) | [Mitäköhän meistä jää](https://open.spotify.com/album/3FgOyloBeaj8CavcYzK1mJ) | 3:18 |
 
-Snapshot ID: `Z0joHAAAAACKa2MyOVzvQoW4aBnQLOKh`
+Snapshot ID: `Z1BAtQAAAACohAxe5z3lAJXaegVvZBbE`

@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 116980,
+  "num_followers": 117017,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "El Ruise\u00f1or de America",
-        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
       },
       "artists": [
         {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
         }
       ],
-      "duration_ms": 158376,
-      "name": "Rondando Tu Esquina",
-      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
+      "duration_ms": 201339,
+      "name": "Mahal",
+      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
+        "name": "El Ruise\u00f1or de America",
+        "url": "https://open.spotify.com/album/33pvMxnkZFMGkg9fbomz0r"
       },
       "artists": [
         {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
         }
       ],
-      "duration_ms": 201339,
-      "name": "Mahal",
-      "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+      "duration_ms": 158376,
+      "name": "Rondando Tu Esquina",
+      "url": "https://open.spotify.com/track/4vhU2Qz2DLYmOMCd5UqKph"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1131,38 +1131,6 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Tropical Suite",
-        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
-      },
-      "artists": [
-        {
-          "name": "Poni Hoax",
-          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
-        }
-      ],
-      "duration_ms": 126973,
-      "name": "Tropical Suite: S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
-        "name": "The Movers - Vol. 1 - 1970-1976 (Analog Africa No. 35)",
-        "url": "https://open.spotify.com/album/01vGEXvg6XS0ptkIBLAby4"
-      },
-      "artists": [
-        {
-          "name": "The Movers",
-          "url": "https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6"
-        }
-      ],
-      "duration_ms": 171366,
-      "name": "Tau Special",
-      "url": "https://open.spotify.com/track/0ngntzXMh8Z7scng196dWU"
-    },
-    {
-      "added_at": "2024-08-16 13:11:58",
-      "album": {
         "name": "Fuego en el 23!",
         "url": "https://open.spotify.com/album/0c3F6OlWKJnkRTb78nswUt"
       },
@@ -1183,6 +1151,38 @@
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "The Movers - Vol. 1 - 1970-1976 (Analog Africa No. 35)",
+        "url": "https://open.spotify.com/album/01vGEXvg6XS0ptkIBLAby4"
+      },
+      "artists": [
+        {
+          "name": "The Movers",
+          "url": "https://open.spotify.com/artist/2X07VlWN9IlypdVxQqtwY6"
+        }
+      ],
+      "duration_ms": 171366,
+      "name": "Tau Special",
+      "url": "https://open.spotify.com/track/0ngntzXMh8Z7scng196dWU"
+    },
+    {
+      "added_at": "2024-08-16 13:11:58",
+      "album": {
+        "name": "Tropical Suite",
+        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
+      },
+      "artists": [
+        {
+          "name": "Poni Hoax",
+          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
+        }
+      ],
+      "duration_ms": 126973,
+      "name": "Tropical Suite: S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Zungguzungguguzungguzeng!",
-        "url": "https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N"
+        "name": "Lotus 72 D",
+        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
       },
       "artists": [
         {
-          "name": "Yellowman",
-          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
+          "name": "Z\u00e9 Roberto",
+          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
         }
       ],
-      "duration_ms": 388226,
-      "name": "Zungguzungguguzungguzeng",
-      "url": "https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8"
+      "duration_ms": 192965,
+      "name": "Lotus 72 D",
+      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
     },
     {
       "added_at": "2024-08-16 13:11:58",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2024-08-16 13:11:58",
       "album": {
-        "name": "Lotus 72 D",
-        "url": "https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai"
+        "name": "Zungguzungguguzungguzeng!",
+        "url": "https://open.spotify.com/album/5hvxysDLuDCZSH7U4j9C9N"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Roberto",
-          "url": "https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ"
+          "name": "Yellowman",
+          "url": "https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a"
         }
       ],
-      "duration_ms": 192965,
-      "name": "Lotus 72 D",
-      "url": "https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk"
+      "duration_ms": 388226,
+      "name": "Zungguzungguguzungguzeng",
+      "url": "https://open.spotify.com/track/1YpH91YcUZlo2mxKJVhWM8"
     }
   ],
   "unique_name": "Bon Voyage",

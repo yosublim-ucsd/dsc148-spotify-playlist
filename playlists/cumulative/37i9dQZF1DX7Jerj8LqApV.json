@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 302142,
       "name": "\"I'm Okay\"",
       "url": "https://open.spotify.com/track/7aOEt5pZbsgtuL2GXTibJD"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "711",
       "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 200274,
       "name": "balik",
       "url": "https://open.spotify.com/track/0ggYDzLfMhAzbcWqoyXGKX"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 235470,
       "name": "Bighani",
       "url": "https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 325970,
       "name": "bloom",
       "url": "https://open.spotify.com/track/2g7GAazCMLsQNxVjzvfhWy"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 227812,
       "name": "damdamin!",
       "url": "https://open.spotify.com/track/6nrGNaUnAtLTbXMW4k9kKE"
@@ -630,6 +630,24 @@
       "duration_ms": 196981,
       "name": "DELULU",
       "url": "https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv"
+    },
+    {
+      "album": {
+        "name": "jgh",
+        "url": "https://open.spotify.com/album/5qbKa6ArxbSTX3qJZpg1ss"
+      },
+      "artists": [
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Di Bale",
+      "url": "https://open.spotify.com/track/2zo7R0v0YrmVfb3VPkrAFX"
     },
     {
       "album": {
@@ -832,7 +850,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 198000,
       "name": "Hiraya",
       "url": "https://open.spotify.com/track/4byYvg0R2equLR0TMRvcB5"
@@ -894,6 +912,24 @@
       "duration_ms": 170895,
       "name": "Hoodie (feat. Alisson Shore)",
       "url": "https://open.spotify.com/track/617TML0prwU24bJPd7uESm"
+    },
+    {
+      "album": {
+        "name": "afteryou.",
+        "url": "https://open.spotify.com/album/4qPIKvJ3xiO7AyqPEFTlqc"
+      },
+      "artists": [
+        {
+          "name": "I Belong to the Zoo",
+          "url": "https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282666,
+      "name": "Hopia",
+      "url": "https://open.spotify.com/track/4nu366glQKT2HbdDhov3lE"
     },
     {
       "album": {
@@ -1456,7 +1492,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 199903,
       "name": "Lalim",
       "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
@@ -1600,7 +1636,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 206250,
       "name": "M.I.N.O.Y.",
       "url": "https://open.spotify.com/track/34WtPmBapjEfO6iItLb51A"
@@ -1694,7 +1730,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-22",
+      "date_removed": null,
       "duration_ms": 306204,
       "name": "Masyado Pang Maaga",
       "url": "https://open.spotify.com/track/0luyrm1L6gjtoLekHOf67t"
@@ -2029,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "The Traveller Across Dimensions",
+        "url": "https://open.spotify.com/album/3AxFszKy5olWdrPV3bHTFY"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258396,
+      "name": "New Dimensions",
+      "url": "https://open.spotify.com/track/2fPTeoTG28JAExuQyoX8b5"
+    },
+    {
+      "album": {
         "name": "Ni Yao De Ai",
         "url": "https://open.spotify.com/album/0dAg90pgcs9HdH7OzwovWj"
       },
@@ -2156,7 +2210,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 195529,
       "name": "Pagbilang ng Tatlo",
       "url": "https://open.spotify.com/track/0RFS0I6c0tIaB0rdPa652Z"
@@ -3009,6 +3063,24 @@
     },
     {
       "album": {
+        "name": "Tangi",
+        "url": "https://open.spotify.com/album/6icZ498dwWlfGWCGVGoobH"
+      },
+      "artists": [
+        {
+          "name": "Carl Beley",
+          "url": "https://open.spotify.com/artist/50JLRPX2SAUwAfMglz3LiJ"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241565,
+      "name": "Tangi",
+      "url": "https://open.spotify.com/track/6gZiPX4GZd3wm2Ko4f3LX3"
+    },
+    {
+      "album": {
         "name": "Teka Muna (Sandali)",
         "url": "https://open.spotify.com/album/7z1kAAlmgAzjaP8zVSHw65"
       },
@@ -3176,6 +3248,24 @@
       "duration_ms": 164383,
       "name": "wanted you",
       "url": "https://open.spotify.com/track/3PPnxfNm0KIcP0vmTHklLi"
+    },
+    {
+      "album": {
+        "name": "What U Need",
+        "url": "https://open.spotify.com/album/5ewXhs9DiMwp61jGOqXj7U"
+      },
+      "artists": [
+        {
+          "name": "Justin Vasquez",
+          "url": "https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169565,
+      "name": "What U Need",
+      "url": "https://open.spotify.com/track/3UGYWNkjCjR13d04feCeCW"
     },
     {
       "album": {

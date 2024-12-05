@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 175903,
+  "num_followers": 175918,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Frio e Vento (Vol.1)",
-        "url": "https://open.spotify.com/album/68qh9wdNwSz97NVoskEJOf"
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
       },
       "artists": [
         {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
         }
       ],
-      "duration_ms": 205835,
-      "name": "Onde Essa Saudade Tava",
-      "url": "https://open.spotify.com/track/3IEPthVo5Q9p81McMpEGRV"
+      "duration_ms": 150031,
+      "name": "Preta",
+      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -423,18 +423,18 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
+        "name": "Frio e Vento (Vol.1)",
+        "url": "https://open.spotify.com/album/68qh9wdNwSz97NVoskEJOf"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
         }
       ],
-      "duration_ms": 150031,
-      "name": "Preta",
-      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
+      "duration_ms": 205835,
+      "name": "Onde Essa Saudade Tava",
+      "url": "https://open.spotify.com/track/3IEPthVo5Q9p81McMpEGRV"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Sonhei com Voc\u00ea",
+        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 261144,
+      "name": "Sonhei com Voc\u00ea",
+      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Amar D\u00f3i",
         "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "Sonhei com Voc\u00ea",
-        "url": "https://open.spotify.com/album/6QJ8XXnOmUs9oCngfmw9TX"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 261144,
-      "name": "Sonhei com Voc\u00ea",
-      "url": "https://open.spotify.com/track/127bGoMqBjqX8sDYvN0hmE"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Pra Mim N\u00e3o D\u00e1",
-        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
-      },
-      "artists": [
-        {
-          "name": "Juliah",
-          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Pra Mim N\u00e3o D\u00e1",
-      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "1001 Roteiros",
         "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 161024,
       "name": "1001 Roteiros",
       "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Pra Mim N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
+      },
+      "artists": [
+        {
+          "name": "Juliah",
+          "url": "https://open.spotify.com/artist/5iUxzlKaTdzdvH0Fwmz002"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Pra Mim N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/7hmuEsmtvu4GpMlYjXD6zu"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
-      },
-      "artists": [
-        {
-          "name": "T\u00e1llia",
-          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
-        },
-        {
-          "name": "Klismman",
-          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
-        }
-      ],
-      "duration_ms": 151475,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Daqui pra Frente - Dread Session, Vol. 1",
         "url": "https://open.spotify.com/album/5afThezK3Y0b2kqr9F5EfY"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 181514,
       "name": "Daqui pra Frente - Dread Session, Vol. 1",
       "url": "https://open.spotify.com/track/439RsYapYgE3f29yZCrgnn"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
+      },
+      "artists": [
+        {
+          "name": "T\u00e1llia",
+          "url": "https://open.spotify.com/artist/4WVJKn89nXJQunOVVkcfDj"
+        },
+        {
+          "name": "Klismman",
+          "url": "https://open.spotify.com/artist/3jZdI7WRp6aZdMA6OgvVxJ"
+        }
+      ],
+      "duration_ms": 151475,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/7m75tNUYyt3Bz21tIDdq3j"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Porto Seguro",
+        "url": "https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ"
+      },
+      "artists": [
+        {
+          "name": "Caio G",
+          "url": "https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5"
+        },
+        {
+          "name": "Netto Galdino",
+          "url": "https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS"
+        }
+      ],
+      "duration_ms": 168205,
+      "name": "Porto Seguro",
+      "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Tudo Que Restou",
         "url": "https://open.spotify.com/album/12EYliAELcrqAMM2xgsAvK"
       },
@@ -1111,26 +1131,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Porto Seguro",
-        "url": "https://open.spotify.com/album/45hp0Mg2byL1M36ROGAzMJ"
-      },
-      "artists": [
-        {
-          "name": "Caio G",
-          "url": "https://open.spotify.com/artist/3V8qdGjoSZgAWAXVmyICQ5"
-        },
-        {
-          "name": "Netto Galdino",
-          "url": "https://open.spotify.com/artist/6CzUN6an7YuDEfkHtJ1NmS"
-        }
-      ],
-      "duration_ms": 168205,
-      "name": "Porto Seguro",
-      "url": "https://open.spotify.com/track/1IIHlKoLG8gXpWLpV2lwu8"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Louco inconsequente",
         "url": "https://open.spotify.com/album/0h3AjvRUpYVLfdAxkUBU6J"
       },
@@ -1143,26 +1143,6 @@
       "duration_ms": 198728,
       "name": "Louco inconsequente",
       "url": "https://open.spotify.com/track/0vFR2vPA4YpKlZEkMYadV1"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 213421,
-      "name": "risco",
-      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1187,6 +1167,26 @@
       "duration_ms": 282352,
       "name": "sexta de manh\u00e3",
       "url": "https://open.spotify.com/track/76SmNEtOglFZugGl8Ygq4l"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 213421,
+      "name": "risco",
+      "url": "https://open.spotify.com/track/6aHXgA98b28LVP150y1NTh"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "NEM TUDO \u00c9 AMOR",
+        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
+      },
+      "artists": [
+        {
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+        }
+      ],
+      "duration_ms": 173705,
+      "name": "t\u00f4 por voc\u00ea",
+      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "SOUL EU",
         "url": "https://open.spotify.com/album/6suwkMw6GYHti1j5F9gFDw"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 193200,
       "name": "Sem Nada",
       "url": "https://open.spotify.com/track/25uqYzPvXS4WqAnWIEcWp4"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
-        "name": "NEM TUDO \u00c9 AMOR",
-        "url": "https://open.spotify.com/album/7K7FciiKhYJGlf8BkKw2lv"
-      },
-      "artists": [
-        {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
-        }
-      ],
-      "duration_ms": 173705,
-      "name": "t\u00f4 por voc\u00ea",
-      "url": "https://open.spotify.com/track/4rqfAKxop4mySuXDcB7TZT"
     },
     {
       "added_at": "2024-11-29 03:01:00",

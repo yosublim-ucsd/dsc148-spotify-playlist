@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 60s! Cover: Armando Manzanero",
-  "num_followers": 42349,
+  "num_followers": 42374,
   "original_name": "Los 60s",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
-      },
-      "artists": [
-        {
-          "name": "The Sandpipers",
-          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
-        }
-      ],
-      "duration_ms": 193720,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Los \u00c9xitos de Mayte Gaos",
         "url": "https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 173560,
       "name": "Vete Con Ella (Chappel of Love)",
       "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
+      },
+      "artists": [
+        {
+          "name": "The Sandpipers",
+          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
+        }
+      ],
+      "duration_ms": 193720,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Y Todavia Te Quiero",
-        "url": "https://open.spotify.com/album/6CmoVG6x6B3jghBzs22KnG"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Amigo Organillero",
-      "url": "https://open.spotify.com/track/6stFUUMMZvOtCkFBtztcX1"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Cuidado",
         "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 244493,
       "name": "Agua Con Sal",
       "url": "https://open.spotify.com/track/1AlTQ6xBhe1qfEQ9zvUDth"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Y Todavia Te Quiero",
+        "url": "https://open.spotify.com/album/6CmoVG6x6B3jghBzs22KnG"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Amigo Organillero",
+      "url": "https://open.spotify.com/track/6stFUUMMZvOtCkFBtztcX1"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Cuidado",
+        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 176093,
+      "name": "Mon\u00f3logo",
+      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Personalidad",
         "url": "https://open.spotify.com/album/6JA41RFqylAYrh84FOPMsy"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 179573,
       "name": "El Nido",
       "url": "https://open.spotify.com/track/7d0GT25coyRGTYKPdohfC9"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Sombras",
-        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Cuando Calienta el Sol",
-      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Cuidado",
-        "url": "https://open.spotify.com/album/2CvC9Apf5Axzmyi7Wl9p2o"
+        "name": "Sombras",
+        "url": "https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
         }
       ],
-      "duration_ms": 176093,
-      "name": "Mon\u00f3logo",
-      "url": "https://open.spotify.com/track/2kAZiIC2ZKYhlvb7BAY5wv"
+      "duration_ms": 177893,
+      "name": "Cuando Calienta el Sol",
+      "url": "https://open.spotify.com/track/1QcakbNdhshfQpnXg0jnBX"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos",
-        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
         "name": "Lo Mejor De (Remastered)",
         "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 130426,
       "name": "El Rock de la C\u00e1rcel - Jailhouse Rock",
       "url": "https://open.spotify.com/track/378st4sJlIIFz9IqA2uJJz"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos",
+        "url": "https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
+      },
+      "artists": [
+        {
+          "name": "Los Teen Tops",
+          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "Pensaba en Ti",
+      "url": "https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Son con Guaguanc\u00f3",
         "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 168280,
       "name": "Oye Mi Consejo",
       "url": "https://open.spotify.com/track/7dLU5U9ikHDXucBcTp0jcr"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
-        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
-      },
-      "artists": [
-        {
-          "name": "Los Yetis",
-          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
-        }
-      ],
-      "duration_ms": 136266,
-      "name": "Shimmy Shimmy Ko Ko Bop",
-      "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
     },
     {
       "added_at": "2024-04-25 04:43:45",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
+        "name": "Lo Mejor De (Remastered)",
+        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 132133,
+      "name": "Colores - Remastered",
+      "url": "https://open.spotify.com/track/068uocva293Tr77QgIZeIf"
+    },
+    {
+      "added_at": "2024-04-25 04:43:45",
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP"
       },
@@ -755,34 +771,18 @@
     {
       "added_at": "2024-04-25 04:43:45",
       "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ"
+        "name": "Historia M\u00fasical - 40 \u00c9xitos del Festival de Anc\u00f3n",
+        "url": "https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9"
       },
       "artists": [
         {
-          "name": "Los Teen Tops",
-          "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
+          "name": "Los Yetis",
+          "url": "https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA"
         }
       ],
-      "duration_ms": 202840,
-      "name": "Pensaba en Ti",
-      "url": "https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm"
-    },
-    {
-      "added_at": "2024-04-25 04:43:45",
-      "album": {
-        "name": "Lo Mejor De (Remastered)",
-        "url": "https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 132133,
-      "name": "Colores - Remastered",
-      "url": "https://open.spotify.com/track/068uocva293Tr77QgIZeIf"
+      "duration_ms": 136266,
+      "name": "Shimmy Shimmy Ko Ko Bop",
+      "url": "https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr"
     },
     {
       "added_at": "2024-04-25 04:43:45",

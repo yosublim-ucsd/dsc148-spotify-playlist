@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4x4xU \- Live](https://open.spotify.com/track/4etjjn1fhiv0yGpD2fvW5G) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/65lDx8oi0duOOjhSSSa7es) | 3:45 | 2024-11-27 |  |
+| [4×4×U](https://open.spotify.com/track/4etjjn1fhiv0yGpD2fvW5G) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/65lDx8oi0duOOjhSSSa7es) | 3:45 | 2024-11-27 |  |
 | [4×4×U](https://open.spotify.com/track/0ZHdP6TzcInPSdQwQ1fkBZ) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [4×4×U](https://open.spotify.com/album/0mfQ7QpjPEoeHZJZdGOsZD) | 3:59 | 2024-07-08 | 2024-09-14 |
 | [4×4×U](https://open.spotify.com/track/2z865bsdfckaBVck8MSAm8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:59 | 2024-09-14 |  |
 | [Atta Girl](https://open.spotify.com/track/3HIuFNCjr1hKnyzCixYfiC) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:26 | 2023-09-15 | 2023-12-14 |

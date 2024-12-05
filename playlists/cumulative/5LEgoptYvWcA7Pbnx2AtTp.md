@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-147 songs - 8 hr 21 min
+148 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 | 2022-05-06 |  |
 | [Planet Schmanet Janet](https://open.spotify.com/track/5BUokL5dxJO1toTcMY72Uh) | [Tim Curry](https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B) | [Absolute Treasures: The Rocky Horror Picture Show \- The Complete and Definitive Soundtrack \(2015 40th Anniversary Re\-Mastered Edition\)](https://open.spotify.com/album/1llln24xqen4HG9w0Gpgua) | 1:39 | 2024-10-13 |  |
 | [Princes Of The Universe \- Remastered 2011](https://open.spotify.com/track/5jNn9QeC5PCZl3t27eusXg) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Kind of Magic \(Deluxe Remastered Version\)](https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7) | 3:33 | 2023-03-21 |  |
+| [Prisencolinensinainciusol](https://open.spotify.com/track/5JetV93PpZhcHhX7utmzOr) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Adrian](https://open.spotify.com/album/6v2w4UvQ2jEWx4x5XDhqec) | 3:51 | 2024-12-04 |  |
 | [Put on Your Mask](https://open.spotify.com/track/40EFZlEsWDb12i3b9LLBRO) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Put on Your Mask](https://open.spotify.com/album/0v41LFcSjoy4MSBpiBSOrR) | 1:01 | 2022-05-06 | 2023-07-09 |
 | [Puttin' on the Ritz](https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc) | [Taco](https://open.spotify.com/artist/6Dxf1ZaJBrpbumiqTTnlIH) | [After Eight](https://open.spotify.com/album/4rgfo8MPhMChBrxtBV8Fsh) | 4:41 | 2024-09-29 |  |
 | [Rain in Soho](https://open.spotify.com/track/6hscYQ0QETyhsUtGcIraKa) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Goths \(Deluxe Version\)](https://open.spotify.com/album/0qiQRfHW1HvMTnYGtYgrtQ) | 4:46 | 2023-01-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Dwa S\u0142awy",
-  "num_followers": 18206,
+  "num_followers": 18205,
   "original_name": "alt rap",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "MUSZ\u0118 ZAWIJA\u0106",
+        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
+      },
+      "artists": [
+        {
+          "name": "North Side District",
+          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
+        }
+      ],
+      "duration_ms": 136630,
+      "name": "MUSZ\u0118 ZAWIJA\u0106",
+      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Zoo",
         "url": "https://open.spotify.com/album/7trwYuGY3gGK5dqpEZ7Bot"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 158890,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/7rG1GqSwfPCuxFAT7Kiobh"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "MUSZ\u0118 ZAWIJA\u0106",
-        "url": "https://open.spotify.com/album/5nMwW2k3AICpnFrewo07Z2"
-      },
-      "artists": [
-        {
-          "name": "North Side District",
-          "url": "https://open.spotify.com/artist/5cgM3Z3Lp71ESK7UQLRVdS"
-        }
-      ],
-      "duration_ms": 136630,
-      "name": "MUSZ\u0118 ZAWIJA\u0106",
-      "url": "https://open.spotify.com/track/7llkzwJj4QtbGBBqU9dDWA"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "Wolno\u015b\u0107",
-        "url": "https://open.spotify.com/album/78lcrv7stQ9SHPlQOb4SHy"
-      },
-      "artists": [
-        {
-          "name": "DAW!D",
-          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
-        }
-      ],
-      "duration_ms": 185389,
-      "name": "Wolno\u015b\u0107",
-      "url": "https://open.spotify.com/track/6tIRyQ7F3xOPjhwfklVdRX"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "EMPIRIA EP",
         "url": "https://open.spotify.com/album/1yRiIQ02prmgehliMV7nup"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 155076,
       "name": "NOC ZAMIENIASZ W DZIE\u0143",
       "url": "https://open.spotify.com/track/3Sb94SGpjsSJF0ZyiO8IBY"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "Wolno\u015b\u0107",
+        "url": "https://open.spotify.com/album/78lcrv7stQ9SHPlQOb4SHy"
+      },
+      "artists": [
+        {
+          "name": "DAW!D",
+          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
+        }
+      ],
+      "duration_ms": 185389,
+      "name": "Wolno\u015b\u0107",
+      "url": "https://open.spotify.com/track/6tIRyQ7F3xOPjhwfklVdRX"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "OA",
+        "url": "https://open.spotify.com/album/4XaTg37Mtw2RqLguUNnXa6"
+      },
+      "artists": [
+        {
+          "name": "Ananas",
+          "url": "https://open.spotify.com/artist/73wP9wl0sqJnAyabkcg95b"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "OA",
+      "url": "https://open.spotify.com/track/6TMsdN4HAvZANCIOzblvbo"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "JORDAN PEELE",
         "url": "https://open.spotify.com/album/02cL1StPWOqLY2KoBKEF8O"
       },
@@ -1319,6 +1339,34 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "UTL MIXTAPE",
+        "url": "https://open.spotify.com/album/7ia8yX1f0d20lAxIS1y7wF"
+      },
+      "artists": [
+        {
+          "name": "UTL",
+          "url": "https://open.spotify.com/artist/4yWXJaxWoTKLzR86teHy1Y"
+        },
+        {
+          "name": "SUGARMATES",
+          "url": "https://open.spotify.com/artist/3ULFy2SBPwYZMxw7zRbW4y"
+        },
+        {
+          "name": "adomalie",
+          "url": "https://open.spotify.com/artist/76NJBpkGBlls3eJ1Yx7tir"
+        },
+        {
+          "name": "L\u00f8renc",
+          "url": "https://open.spotify.com/artist/4ISgm3ZMtDo9WdSv3IFK6a"
+        }
+      ],
+      "duration_ms": 137629,
+      "name": "TYDZIE\u0143 BEZ NAWIJANIA",
+      "url": "https://open.spotify.com/track/1sdIyuVE5uRCyeOqk1d9LK"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Sex Alkohol i Dragi",
         "url": "https://open.spotify.com/album/6qfpCqj3cqcu2hzGUBtHy8"
       },
@@ -1339,6 +1387,62 @@
       "duration_ms": 148153,
       "name": "Sex Alkohol i Dragi",
       "url": "https://open.spotify.com/track/0gO8hkbHxnM0UkC87pn9wW"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "HI?-Pop 2000",
+        "url": "https://open.spotify.com/album/3ln8hFdQJLLX324AJiXKFS"
+      },
+      "artists": [
+        {
+          "name": "Mvrceli",
+          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Esperanto",
+      "url": "https://open.spotify.com/track/31HUjY3zvwmdz2cHvBolED"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "FALA MIXTAPE vol. 3",
+        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
+      },
+      "artists": [
+        {
+          "name": "KOLEKTYW FALA",
+          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
+        },
+        {
+          "name": "Szymi Szyms",
+          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
+        },
+        {
+          "name": "Bracki",
+          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        },
+        {
+          "name": "tyloch",
+          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
+        },
+        {
+          "name": "Zippy Ogar",
+          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
+        },
+        {
+          "name": "Mike Senshi",
+          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
+        }
+      ],
+      "duration_ms": 170602,
+      "name": "Sto lat",
+      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1395,54 +1499,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "OA",
-        "url": "https://open.spotify.com/album/4XaTg37Mtw2RqLguUNnXa6"
-      },
-      "artists": [
-        {
-          "name": "Ananas",
-          "url": "https://open.spotify.com/artist/73wP9wl0sqJnAyabkcg95b"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "OA",
-      "url": "https://open.spotify.com/track/6TMsdN4HAvZANCIOzblvbo"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "UTL MIXTAPE",
-        "url": "https://open.spotify.com/album/7ia8yX1f0d20lAxIS1y7wF"
-      },
-      "artists": [
-        {
-          "name": "UTL",
-          "url": "https://open.spotify.com/artist/4yWXJaxWoTKLzR86teHy1Y"
-        },
-        {
-          "name": "SUGARMATES",
-          "url": "https://open.spotify.com/artist/3ULFy2SBPwYZMxw7zRbW4y"
-        },
-        {
-          "name": "adomalie",
-          "url": "https://open.spotify.com/artist/76NJBpkGBlls3eJ1Yx7tir"
-        },
-        {
-          "name": "L\u00f8renc",
-          "url": "https://open.spotify.com/artist/4ISgm3ZMtDo9WdSv3IFK6a"
-        }
-      ],
-      "duration_ms": 137629,
-      "name": "TYDZIE\u0143 BEZ NAWIJANIA",
-      "url": "https://open.spotify.com/track/1sdIyuVE5uRCyeOqk1d9LK"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "ROCZNICA FREESTYLE",
         "url": "https://open.spotify.com/album/2G844lsIXRM5bSIRVD4BZW"
       },
@@ -1459,22 +1515,6 @@
       "duration_ms": 185134,
       "name": "ROCZNICA FREESTYLE",
       "url": "https://open.spotify.com/track/7vKfYVdMFAaA7oXW7jqQWN"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "HI?-Pop 2000",
-        "url": "https://open.spotify.com/album/3ln8hFdQJLLX324AJiXKFS"
-      },
-      "artists": [
-        {
-          "name": "Mvrceli",
-          "url": "https://open.spotify.com/artist/5dxrDTaydQ27UNlX3ArWwV"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Esperanto",
-      "url": "https://open.spotify.com/track/31HUjY3zvwmdz2cHvBolED"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1583,6 +1623,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "WEMBY",
+        "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
+      },
+      "artists": [
+        {
+          "name": "NAUTOFON",
+          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
+        }
+      ],
+      "duration_ms": 174787,
+      "name": "WEMBY",
+      "url": "https://open.spotify.com/track/7flnSEdoNfNAO6fmvNEU0H"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "KAM-RAP-POL",
         "url": "https://open.spotify.com/album/5jFflHQoDiYyZt6BDNl56I"
       },
@@ -1599,22 +1655,6 @@
       "duration_ms": 207575,
       "name": "U OLGI",
       "url": "https://open.spotify.com/track/5ejvXxFb6IYQz9heNRZq49"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "WEMBY",
-        "url": "https://open.spotify.com/album/4fSpcInt23yTAFpKiXbyZD"
-      },
-      "artists": [
-        {
-          "name": "NAUTOFON",
-          "url": "https://open.spotify.com/artist/5zNO7pJVe7GFYrkqdYUsqG"
-        }
-      ],
-      "duration_ms": 174787,
-      "name": "WEMBY",
-      "url": "https://open.spotify.com/track/7flnSEdoNfNAO6fmvNEU0H"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1639,46 +1679,6 @@
       "duration_ms": 180000,
       "name": "Deep Wro",
       "url": "https://open.spotify.com/track/2nGBShY9xdGvwhiC17XieR"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "FALA MIXTAPE vol. 3",
-        "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
-      },
-      "artists": [
-        {
-          "name": "KOLEKTYW FALA",
-          "url": "https://open.spotify.com/artist/4FNcIOPhlzjGk7faCDuzdH"
-        },
-        {
-          "name": "Szymi Szyms",
-          "url": "https://open.spotify.com/artist/496pM4hEOqlmH2QwgZeaCv"
-        },
-        {
-          "name": "Bracki",
-          "url": "https://open.spotify.com/artist/0R4OUULhxKUm6b1O4R2B2A"
-        },
-        {
-          "name": "Chaos Beats",
-          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
-        },
-        {
-          "name": "tyloch",
-          "url": "https://open.spotify.com/artist/4MaecBRpqQnzWlsEQN8pj8"
-        },
-        {
-          "name": "Zippy Ogar",
-          "url": "https://open.spotify.com/artist/4Gtcjb9mBxQhQMIoktLSkU"
-        },
-        {
-          "name": "Mike Senshi",
-          "url": "https://open.spotify.com/artist/7A9L1U7PADXqspeJJFa2MV"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Sto lat",
-      "url": "https://open.spotify.com/track/0QffgdjTLJk7J9dmgoyp70"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -1823,34 +1823,6 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
-        "name": "MIASTO AWANTUR",
-        "url": "https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ"
-      },
-      "artists": [
-        {
-          "name": "J\u0119drzej Wise",
-          "url": "https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC"
-        },
-        {
-          "name": "Krzy Krzysztof",
-          "url": "https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi"
-        },
-        {
-          "name": "maszaitsme",
-          "url": "https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN"
-        },
-        {
-          "name": "Wroobel",
-          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
-        }
-      ],
-      "duration_ms": 212142,
-      "name": "MIASTO AWANTUR",
-      "url": "https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
         "name": "To Wydarzy\u0142o Si\u0119 Naprawd\u0119 Opr\u00f3cz Tego, Co Zmy\u015bli\u0142em (DELUXE)",
         "url": "https://open.spotify.com/album/64rUySEtui2rnmII9cKG7A"
       },
@@ -1879,6 +1851,34 @@
       "duration_ms": 227121,
       "name": "Bejrut - Remix",
       "url": "https://open.spotify.com/track/6wk3T7kv30BjpMHLGShSSr"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
+        "name": "MIASTO AWANTUR",
+        "url": "https://open.spotify.com/album/6HO76guwAcbrxelENdWSGJ"
+      },
+      "artists": [
+        {
+          "name": "J\u0119drzej Wise",
+          "url": "https://open.spotify.com/artist/6OhvvOofPPDksfUkjcKgsC"
+        },
+        {
+          "name": "Krzy Krzysztof",
+          "url": "https://open.spotify.com/artist/72D9Z2UoIl2Bhy1aoBajzi"
+        },
+        {
+          "name": "maszaitsme",
+          "url": "https://open.spotify.com/artist/1dOCtyVzQv3kaoCQKPyxfN"
+        },
+        {
+          "name": "Wroobel",
+          "url": "https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS"
+        }
+      ],
+      "duration_ms": 212142,
+      "name": "MIASTO AWANTUR",
+      "url": "https://open.spotify.com/track/5XviZjMYtVOUTGg28EH2TP"
     },
     {
       "added_at": "2024-11-28 23:00:00",
@@ -2051,6 +2051,22 @@
     {
       "added_at": "2024-11-28 23:00:00",
       "album": {
+        "name": "Miasta",
+        "url": "https://open.spotify.com/album/7M28QmIsEl4QqXw30zmKCE"
+      },
+      "artists": [
+        {
+          "name": "Jakub Chrzan",
+          "url": "https://open.spotify.com/artist/5NuiddZTmV0cXHURPVZrHq"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Miasta",
+      "url": "https://open.spotify.com/track/0iQmYwivJQRCVXtj56KVcL"
+    },
+    {
+      "added_at": "2024-11-28 23:00:00",
+      "album": {
         "name": "Wracam do tamtych chwil",
         "url": "https://open.spotify.com/album/5RGIhDqVVgiI08Vwfljd4g"
       },
@@ -2067,22 +2083,6 @@
       "duration_ms": 203317,
       "name": "Wracam do tamtych chwil",
       "url": "https://open.spotify.com/track/5eA2qsAi3ncynfOHeXmP8t"
-    },
-    {
-      "added_at": "2024-11-28 23:00:00",
-      "album": {
-        "name": "Miasta",
-        "url": "https://open.spotify.com/album/7M28QmIsEl4QqXw30zmKCE"
-      },
-      "artists": [
-        {
-          "name": "Jakub Chrzan",
-          "url": "https://open.spotify.com/artist/5NuiddZTmV0cXHURPVZrHq"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Miasta",
-      "url": "https://open.spotify.com/track/0iQmYwivJQRCVXtj56KVcL"
     },
     {
       "added_at": "2024-11-28 23:00:00",

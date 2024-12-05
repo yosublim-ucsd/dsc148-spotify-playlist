@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vijay Prakash
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,921 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,934 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 21 | [Sundari](https://open.spotify.com/track/7oI2ZmyMSqwDP9Kzxb6S39) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sundari](https://open.spotify.com/album/5JslBdBMzBts4MAd4RzafE) | 3:15 |
 | 22 | [Ee Ghalige](https://open.spotify.com/track/7shQ0hDfaXvd5AKug5bNZQ) | [Suprabha B R](https://open.spotify.com/artist/1aJDIXGlfXO27HaizmQv27), [Staccato cafe](https://open.spotify.com/artist/2IPywP7nZXjsuGfohtjzVZ) | [Ee Ghalige](https://open.spotify.com/album/0jJZBPXfvt96nQhEYpP4Te) | 3:30 |
 | 23 | [Lekka](https://open.spotify.com/track/6WAjdVHT9iOqpmDDqXwDri) | [Trap Raag](https://open.spotify.com/artist/2NfGt7ISmmQHNrQFtlbw09) | [Lekka](https://open.spotify.com/album/0Ylf2B2m39ZjB00Sv5rQrd) | 1:50 |
-| 24 | [Padave](https://open.spotify.com/track/7jeb8vTbfTLSQbQ0YkrpqO) | [Hemanth Jois](https://open.spotify.com/artist/1jGipgLVgmbinZ30YgvYwN), [Adarsh Iyengar](https://open.spotify.com/artist/0ZB0jEtwxWDtdPUH5c2U88), [Rakshith Thirthahalli](https://open.spotify.com/artist/7M7PqSzAHEMpIwHnB43kTS) | [Padave](https://open.spotify.com/album/6WEXnjMsioBRJRKiGqJKIt) | 4:16 |
+| 24 | [Padave](https://open.spotify.com/track/7jeb8vTbfTLSQbQ0YkrpqO) | [Adarsh Iyengar](https://open.spotify.com/artist/0ZB0jEtwxWDtdPUH5c2U88), [Hemanth Jois](https://open.spotify.com/artist/1jGipgLVgmbinZ30YgvYwN), [Rakshith Thirthahalli](https://open.spotify.com/artist/7M7PqSzAHEMpIwHnB43kTS) | [Padave](https://open.spotify.com/album/6WEXnjMsioBRJRKiGqJKIt) | 4:16 |
 | 25 | [Mande Bisi](https://open.spotify.com/track/3rwZ5L9pB3uCVXAPIVNg2L) | [Harshith Shetty](https://open.spotify.com/artist/11JDJZpkeGxs4H5psWgRfN), [RaiSon](https://open.spotify.com/artist/7BeOC4noWoC7o7zTeHkVJc) | [Mande Bisi](https://open.spotify.com/album/7zYHOKb68Hj6oZ6nM4WB5p) | 3:32 |
 | 26 | [Nanna Hudugi Nenapu](https://open.spotify.com/track/2DaCNqtHUw6tAdNBLhIoZR) | [Mayur Ambekallu](https://open.spotify.com/artist/05lNen7Es5lxun2atLHOMY), [Vishak Nagalapura](https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S), [Bhanuprakash Jois](https://open.spotify.com/artist/6NrL0YoRUzbe4NWCHONnOB) | [Nanna Hudugi Nenapu](https://open.spotify.com/album/5LoOa3E7EOO8DfEMsbXOHz) | 3:18 |
 | 27 | [Asali Banna](https://open.spotify.com/track/0cRfO2sZOvRj5j1OwsVvak) | [Eshani](https://open.spotify.com/artist/4CQMCs1zM49VQiI6Og0VWg), [DJ Lethal A](https://open.spotify.com/artist/6RVM49jvPqk6em0FMPZQ8X) | [Asali Banna](https://open.spotify.com/album/3f36xHYgOHnm652MFWCyBP) | 3:50 |

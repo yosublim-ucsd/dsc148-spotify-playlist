@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Yasmin Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,457 likes - 166 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,476 likes - 166 songs - 10 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

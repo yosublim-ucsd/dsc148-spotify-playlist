@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GbAfn40W9w.md) - [plain]
 
 > Een greep uit ESNS 2024\. Cover: Joost.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,798 likes - 92 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,795 likes - 92 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

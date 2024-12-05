@@ -3223,6 +3223,24 @@
     },
     {
       "album": {
+        "name": "Vicente Fern\u00e1ndez Con Banda",
+        "url": "https://open.spotify.com/album/6n0eMRKCOG1L43GxxQ66d0"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167979,
+      "name": "Hace un A\u00f1o",
+      "url": "https://open.spotify.com/track/0M5qeMHYJ3T89v9MSXVEUC"
+    },
+    {
+      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
       },
@@ -8076,7 +8094,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 188166,
       "name": "Ya No Me Mires As\u00ed",
       "url": "https://open.spotify.com/track/4MclQTr97g6f3csmkk4G8N"

@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36858,
+  "num_followers": 36857,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "duration_ms": 214404,
+      "name": "Fcuk!",
+      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2024-11-29 10:06:40",
+      "album": {
         "name": "Warrior",
         "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 182320,
       "name": "No Time to Cry",
       "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
-    },
-    {
-      "added_at": "2024-11-29 10:06:40",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
-      },
-      "artists": [
-        {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
-        }
-      ],
-      "duration_ms": 214404,
-      "name": "Fcuk!",
-      "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Hearts Lust",
-        "url": "https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J"
-      },
-      "artists": [
-        {
-          "name": "Milune",
-          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
-        }
-      ],
-      "duration_ms": 142294,
-      "name": "Hearts Lust",
-      "url": "https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn"
-    },
-    {
-      "added_at": "2024-11-29 10:06:40",
-      "album": {
         "name": "Ready For It All",
         "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 152816,
       "name": "Ready For It All",
       "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
+    },
+    {
+      "added_at": "2024-11-29 10:06:40",
+      "album": {
+        "name": "Hearts Lust",
+        "url": "https://open.spotify.com/album/3egNyFUD5XOOi4LLB5rg8J"
+      },
+      "artists": [
+        {
+          "name": "Milune",
+          "url": "https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe"
+        }
+      ],
+      "duration_ms": 142294,
+      "name": "Hearts Lust",
+      "url": "https://open.spotify.com/track/75ZQmWVgfBk2OXiPvmRUNn"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -587,22 +587,18 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH"
       },
       "artists": [
         {
-          "name": "Loco Escrito",
-          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
-        },
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 158838,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
+      "duration_ms": 190621,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -619,6 +615,26 @@
       "duration_ms": 195055,
       "name": "How Much Can a Heart Break",
       "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+    },
+    {
+      "added_at": "2024-11-29 10:06:40",
+      "album": {
+        "name": "Descontrol",
+        "url": "https://open.spotify.com/album/39VSGS38v6WGZsucZ1wa0r"
+      },
+      "artists": [
+        {
+          "name": "Loco Escrito",
+          "url": "https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ"
+        },
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 158838,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/2USP7uCFfx4BFm8KXual18"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -643,22 +659,6 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7"
-    },
-    {
-      "added_at": "2024-11-29 10:06:40",
-      "album": {
         "name": "cause of death",
         "url": "https://open.spotify.com/album/0BNsz8vbgm8NLMbCQ9chMs"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 148000,
       "name": "cause of death",
       "url": "https://open.spotify.com/track/2kC4xH9tfMlYGxUu9BKyxW"
-    },
-    {
-      "added_at": "2024-11-29 10:06:40",
-      "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -707,18 +691,18 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Tribut",
-        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
       },
       "artists": [
         {
-          "name": "Lo & Leduc",
-          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 197992,
-      "name": "Tribut",
-      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -735,6 +719,22 @@
       "duration_ms": 182033,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/7KOPqGFvR7m7TVRPuHSN6A"
+    },
+    {
+      "added_at": "2024-11-29 10:06:40",
+      "album": {
+        "name": "Tribut",
+        "url": "https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP"
+      },
+      "artists": [
+        {
+          "name": "Lo & Leduc",
+          "url": "https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe"
+        }
+      ],
+      "duration_ms": 197992,
+      "name": "Tribut",
+      "url": "https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
+        "name": "No Good For Me",
+        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
+      },
+      "artists": [
+        {
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
+        }
+      ],
+      "duration_ms": 193271,
+      "name": "No Good For Me",
+      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
+    },
+    {
+      "added_at": "2024-11-29 10:06:40",
+      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe"
       },
@@ -819,22 +835,6 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "No Good For Me",
-        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
-      },
-      "artists": [
-        {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
-        }
-      ],
-      "duration_ms": 193271,
-      "name": "No Good For Me",
-      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
-    },
-    {
-      "added_at": "2024-11-29 10:06:40",
-      "album": {
         "name": "all night",
         "url": "https://open.spotify.com/album/19WyumxNi7EgpvCspY2t0F"
       },
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Generation",
-        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 182609,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
-    },
-    {
-      "added_at": "2024-11-29 10:06:40",
-      "album": {
         "name": "Counting Days",
         "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 164501,
       "name": "Counting Days",
       "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
+    },
+    {
+      "added_at": "2024-11-29 10:06:40",
+      "album": {
+        "name": "Generation",
+        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 182609,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Trade Hearts",
-        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 174786,
-      "name": "Trade Hearts",
-      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
-    },
-    {
-      "added_at": "2024-11-29 10:06:40",
-      "album": {
         "name": "Trottinette",
         "url": "https://open.spotify.com/album/2sQnRepY5FEm0rgQpAvfKq"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 214340,
       "name": "Fomo",
       "url": "https://open.spotify.com/track/1iho6JCCMpTS2yLHocyOeQ"
+    },
+    {
+      "added_at": "2024-11-29 10:06:40",
+      "album": {
+        "name": "Trade Hearts",
+        "url": "https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 174786,
+      "name": "Trade Hearts",
+      "url": "https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Soft",
-        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
+        "name": "Long Year",
+        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
       },
       "artists": [
         {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
         }
       ],
-      "duration_ms": 183093,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
+      "duration_ms": 196246,
+      "name": "Long Year",
+      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -1067,34 +1067,34 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Long Year",
-        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
       },
       "artists": [
         {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
         }
       ],
-      "duration_ms": 196246,
-      "name": "Long Year",
-      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
+      "duration_ms": 183093,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
     },
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Ich Kann's Nicht Glauben",
-        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
+        "name": "Only One I Need",
+        "url": "https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz"
       },
       "artists": [
         {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
         }
       ],
-      "duration_ms": 202363,
-      "name": "Nenn Es Liebe",
-      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
+      "duration_ms": 146546,
+      "name": "Only One I Need",
+      "url": "https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q"
     },
     {
       "added_at": "2024-11-29 10:06:40",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-11-29 10:06:40",
       "album": {
-        "name": "Only One I Need",
-        "url": "https://open.spotify.com/album/5yjLnFizgrGtPGdzLjpOgz"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 146546,
-      "name": "Only One I Need",
-      "url": "https://open.spotify.com/track/3KjEAu1W14nGLCNA52ib3Q"
-    },
-    {
-      "added_at": "2024-11-29 10:06:40",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 162836,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+    },
+    {
+      "added_at": "2024-11-29 10:06:40",
+      "album": {
+        "name": "Ich Kann's Nicht Glauben",
+        "url": "https://open.spotify.com/album/1wsLOve48Evf8fgwn6dxLy"
+      },
+      "artists": [
+        {
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+        }
+      ],
+      "duration_ms": 202363,
+      "name": "Nenn Es Liebe",
+      "url": "https://open.spotify.com/track/1JUAAMsxixtFr9peK0tY1Z"
     },
     {
       "added_at": "2024-11-29 10:06:40",

@@ -1,15 +1,55 @@
 {
-  "description": "The finest set of Malayalam music from the past 10 years.\nCover : Aavesham",
-  "num_followers": 151138,
-  "original_name": "Mollywood Gold",
+  "description": "Our editor\u2019s picks for best Malayalam songs of the year #SpotifyWrapped Cover : Manjummel Boys",
+  "num_followers": 151527,
+  "original_name": "Best of Mollywood Gold in 2024",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zw4wJgAAAADottAMTixe+OA1uJJUTmaE",
+  "snapshot_id": "Z1BHxAAAAAB7Diuujewc6BswrdMD6Q9c",
   "tracks": [
     {
-      "added_at": "2024-04-23 13:39:18",
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Manjummel Boys (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "duration_ms": 240327,
+      "name": "Kuthanthram",
+      "url": "https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "ARM (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5oaInp3W6gvXXmU8GjpUoM"
+      },
+      "artists": [
+        {
+          "name": "Dhibu Ninan Thomas",
+          "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
+        },
+        {
+          "name": "Vaikom Vijayalakshmi",
+          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Angu Vaana Konilu",
+      "url": "https://open.spotify.com/track/25YVPOdnGdr0hnA9XJ5Jbs"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Illuminati (From \"Aavesham\")",
         "url": "https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE"
@@ -33,7 +73,7 @@
       "url": "https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I"
     },
     {
-      "added_at": "2024-10-15 09:03:53",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Vaazha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx"
@@ -53,10 +93,62 @@
       "url": "https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD"
     },
     {
-      "added_at": "2024-10-15 09:03:53",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "ARM (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5oaInp3W6gvXXmU8GjpUoM"
+        "name": "Neela Nilave (From \"RDX\")",
+        "url": "https://open.spotify.com/album/0StmeakxNJCLQw2YLRBt9g"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Neela Nilave (From \"RDX\")",
+      "url": "https://open.spotify.com/track/1HNig28114roVWfkCHk5oJ"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Kannur Squad (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0IFNcdNSiJ1J2ItzQs8uY4"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        }
+      ],
+      "duration_ms": 332184,
+      "name": "Mrudhu Bhaave Dhruda Kruthye",
+      "url": "https://open.spotify.com/track/1wOdYfw93oBobalH0AsNaW"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "The Goat Life - Aadujeevitham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xh8b46TsysD9SK9QtD29k"
+      },
+      "artists": [
+        {
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "Periyone",
+      "url": "https://open.spotify.com/track/6eSMc314qnbsO4sYxDGoqb"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Kiliye (From \"ARM\")",
+        "url": "https://open.spotify.com/album/30tPbatfXYe4Em74JzAzSg"
       },
       "artists": [
         {
@@ -64,40 +156,116 @@
           "url": "https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi"
         },
         {
-          "name": "Vaikom Vijayalakshmi",
-          "url": "https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb"
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        },
+        {
+          "name": "Anila Rajeev",
+          "url": "https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Angu Vaana Konilu",
-      "url": "https://open.spotify.com/track/25YVPOdnGdr0hnA9XJ5Jbs"
+      "duration_ms": 271641,
+      "name": "Kiliye - From \"ARM\"",
+      "url": "https://open.spotify.com/track/7Je0oWG9OjLhHEXd2eHsFF"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Ollulleru (From \"Ajagajantharam\")",
-        "url": "https://open.spotify.com/album/5n1xOPRMaAkLnvnkocIa1L"
+        "name": "Vaazha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx"
       },
       "artists": [
         {
-          "name": "Justin Varghese",
-          "url": "https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh"
+          "name": "Parvatish Pradeep",
+          "url": "https://open.spotify.com/artist/5vjgwPGSteudan2MIvGjlu"
         },
         {
-          "name": "Mavila Community",
-          "url": "https://open.spotify.com/artist/3WN6vFKHEuQp4awqFQS11x"
+          "name": "Sooraj Santhosh",
+          "url": "https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB"
         },
         {
-          "name": "Praseetha Chalakudy",
-          "url": "https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu"
+          "name": "B.K. Harinarayanan",
+          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
         }
       ],
-      "duration_ms": 202863,
-      "name": "Ollulleru - From \"Ajagajantharam\"",
-      "url": "https://open.spotify.com/track/289gmiLiTRQWxABd0qdPfM"
+      "duration_ms": 272142,
+      "name": "Makane",
+      "url": "https://open.spotify.com/track/67wW2Ic4V2m5kUSh9M6yWf"
     },
     {
-      "added_at": "2024-03-31 12:10:35",
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Nebulakal - Travel Song (From \"Manjummel Boys\")",
+        "url": "https://open.spotify.com/album/6bgSQcUj1JzVmDMuF2Vr87"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Anwar Ali",
+          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
+        }
+      ],
+      "duration_ms": 282812,
+      "name": "Nebulakal - Travel Song - From \"Manjummel Boys\"",
+      "url": "https://open.spotify.com/track/1jxFfazgOVIJeYbhBm2ENV"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Vatteppam (From \"Mandakini\")",
+        "url": "https://open.spotify.com/album/37fD3iPdRh7XvwHbrjXV2d"
+      },
+      "artists": [
+        {
+          "name": "Bibin Ashok",
+          "url": "https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "Vaisakh Sugunan",
+          "url": "https://open.spotify.com/artist/3MEt4mrI4ZktNe7YxaQMVx"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "Vatteppam (From \"Mandakini\")",
+      "url": "https://open.spotify.com/track/2mFXx4D49RdesixfLSsoU0"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Galatta (From \"Aavesham\")",
+        "url": "https://open.spotify.com/album/4OqRjbYHNCSKXkh7wnvez8"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "duration_ms": 130018,
+      "name": "Galatta - From \"Aavesham\"",
+      "url": "https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Kalapakkaara (From \"King of Kotha\")",
         "url": "https://open.spotify.com/album/3Q8tsdSTnGhjJ61mIWkmRf"
@@ -129,95 +297,7 @@
       "url": "https://open.spotify.com/track/554RItg5afQv3ODGQMT29x"
     },
     {
-      "added_at": "2023-09-18 05:21:56",
-      "album": {
-        "name": "Neela Nilave (From \"RDX\")",
-        "url": "https://open.spotify.com/album/0StmeakxNJCLQw2YLRBt9g"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Neela Nilave (From \"RDX\")",
-      "url": "https://open.spotify.com/track/1HNig28114roVWfkCHk5oJ"
-    },
-    {
-      "added_at": "2024-07-18 04:58:50",
-      "album": {
-        "name": "Vatteppam (From \"Mandakini\")",
-        "url": "https://open.spotify.com/album/37fD3iPdRh7XvwHbrjXV2d"
-      },
-      "artists": [
-        {
-          "name": "Bibin Ashok",
-          "url": "https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S"
-        },
-        {
-          "name": "Dabzee",
-          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
-        },
-        {
-          "name": "Vaisakh Sugunan",
-          "url": "https://open.spotify.com/artist/3MEt4mrI4ZktNe7YxaQMVx"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Vatteppam (From \"Mandakini\")",
-      "url": "https://open.spotify.com/track/2mFXx4D49RdesixfLSsoU0"
-    },
-    {
-      "added_at": "2024-05-20 07:31:21",
-      "album": {
-        "name": "Galatta (From \"Aavesham\")",
-        "url": "https://open.spotify.com/album/4OqRjbYHNCSKXkh7wnvez8"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Paal Dabba",
-          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
-        },
-        {
-          "name": "Vinayak Sasikumar",
-          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
-        }
-      ],
-      "duration_ms": 130018,
-      "name": "Galatta - From \"Aavesham\"",
-      "url": "https://open.spotify.com/track/6hA8stAJBcUFivvkhEEBeq"
-    },
-    {
-      "added_at": "2024-03-21 10:40:58",
-      "album": {
-        "name": "Manjummel Boys (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Vedan",
-          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
-        }
-      ],
-      "duration_ms": 240327,
-      "name": "Kuthanthram",
-      "url": "https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Athmave Poo (From \"Romancham\")",
         "url": "https://open.spotify.com/album/5wPX6VrVyz7YpSSB8blJAD"
@@ -233,55 +313,95 @@
       "url": "https://open.spotify.com/track/5M3GTHCnzxvUmEhjAh8tT1"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Bangalore Days",
-        "url": "https://open.spotify.com/album/2ZRSQZ15TIIsvC1nMbQreN"
+        "name": "Sthuthi (From \"Bougainvillea\")",
+        "url": "https://open.spotify.com/album/0JaTVWR0wj2Ri1LcpiwE4s"
       },
       "artists": [
         {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
         },
         {
-          "name": "Gopi Sundar",
-          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
         },
         {
-          "name": "Rafeeq Ahamed",
-          "url": "https://open.spotify.com/artist/0XeydqmCIhwtjgY4NA8821"
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
         }
       ],
-      "duration_ms": 325156,
-      "name": "Aethu Kari Raavilum - From \"Bangalore Days\"",
-      "url": "https://open.spotify.com/track/7zxHiMmVLt4LGWpOMqOpUh"
+      "duration_ms": 179236,
+      "name": "Sthuthi (From \"Bougainvillea\")",
+      "url": "https://open.spotify.com/track/3ISVxEn74F0nBrO7vEnou8"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Akale [From \"9 (Nine) Malayalam\"]",
-        "url": "https://open.spotify.com/album/6RxzxuaoWn0ipXjRoMRfmZ"
+        "name": "Thumbi (From \"Anchakkallakokkan\")",
+        "url": "https://open.spotify.com/album/51AmSwLQh1sSBJcbMmoNUM"
       },
       "artists": [
         {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
+          "name": "Manikandan Ayyappa",
+          "url": "https://open.spotify.com/artist/0DBXdapluRDfEm5NP4USwN"
         },
         {
-          "name": "Harib Hussain",
-          "url": "https://open.spotify.com/artist/4iyev3kRd7VmmV0X8Z3yS2"
-        },
-        {
-          "name": "Anne Amie",
-          "url": "https://open.spotify.com/artist/00PnAePD5EyBOROxnfX68x"
+          "name": "Malu",
+          "url": "https://open.spotify.com/artist/3vSiCt8UvgfuPP6xCOdMhV"
         }
       ],
-      "duration_ms": 247886,
-      "name": "Akale - From \"9 (Nine) Malayalam\"",
-      "url": "https://open.spotify.com/track/5b7Px47PuvYFg2wjgymcRH"
+      "duration_ms": 194989,
+      "name": "Thumbi - From \"Anchakkallakokkan\"",
+      "url": "https://open.spotify.com/track/1QYwlKWAeFLzzo1Yxpfo0F"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Ollulleru (From \"Ajagajantharam\")",
+        "url": "https://open.spotify.com/album/5n1xOPRMaAkLnvnkocIa1L"
+      },
+      "artists": [
+        {
+          "name": "Justin Varghese",
+          "url": "https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh"
+        },
+        {
+          "name": "Mavila Community",
+          "url": "https://open.spotify.com/artist/3WN6vFKHEuQp4awqFQS11x"
+        },
+        {
+          "name": "Praseetha Chalakudy",
+          "url": "https://open.spotify.com/artist/0nv6h9cXcWcREAc9yyD0wu"
+        }
+      ],
+      "duration_ms": 202863,
+      "name": "Ollulleru - From \"Ajagajantharam\"",
+      "url": "https://open.spotify.com/track/289gmiLiTRQWxABd0qdPfM"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Varshangalkku Shesham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3EqiK7RdZWRqk8X1yC9oXs"
+      },
+      "artists": [
+        {
+          "name": "Amrit Ramnath",
+          "url": "https://open.spotify.com/artist/1ya10z3LXp7aFFQMBC0Ycm"
+        },
+        {
+          "name": "Sindoora Jishnu",
+          "url": "https://open.spotify.com/artist/1eT2WBZM7bUwaSBmDBhigO"
+        }
+      ],
+      "duration_ms": 227349,
+      "name": "Nyabagam",
+      "url": "https://open.spotify.com/track/6UhmvgtRBBhjdReJbilMem"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Shikkari Shambhu",
         "url": "https://open.spotify.com/album/0VaJjqiL2fkajtCHcSbcFt"
@@ -305,7 +425,7 @@
       "url": "https://open.spotify.com/track/1KVjiCSWmJnvxUCWL3hp2S"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "LUCA",
         "url": "https://open.spotify.com/album/4xfJ7sRBl9WgJuTB5oASJ8"
@@ -325,23 +445,7 @@
       "url": "https://open.spotify.com/track/150QIbzsnzGQLLcXVbJaXQ"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
-      "album": {
-        "name": "Anarkali (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3ydZdHTy3PtBypfu7YsUGw"
-      },
-      "artists": [
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        }
-      ],
-      "duration_ms": 282776,
-      "name": "Vaanam",
-      "url": "https://open.spotify.com/track/7J1r94cV8CUtdiGPDe8APL"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Nee Himamazhayayi (From \"Edakkad Battalion 06\")",
         "url": "https://open.spotify.com/album/6k4bzogIhV1Xl2Trbiuq9k"
@@ -365,7 +469,7 @@
       "url": "https://open.spotify.com/track/0BCaEJQFk94ushm4Jc97Vo"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Godha (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0fK4A4OH1dG8XNCQ2KtpZQ"
@@ -381,7 +485,7 @@
       "url": "https://open.spotify.com/track/6YINoRUOzEFYOnGwOafdEI"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "4 Years (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6R8chwtoEvPlo3yQd32wJk"
@@ -405,7 +509,7 @@
       "url": "https://open.spotify.com/track/5dqcl7jGMRkHsPMgCGG0fW"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Hridayam (Side B) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6nuAnvIVNkw6pwqzuF2GJG"
@@ -425,7 +529,7 @@
       "url": "https://open.spotify.com/track/7dcXGzIAaoe19A6kgnrCaQ"
     },
     {
-      "added_at": "2023-09-27 10:00:03",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "2018 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3J2gTFZt1B5DITYXVXCEes"
@@ -449,31 +553,7 @@
       "url": "https://open.spotify.com/track/1GcMVclJHbwwbGC6zBc2bJ"
     },
     {
-      "added_at": "2024-04-16 11:50:05",
-      "album": {
-        "name": "Nebulakal - Travel Song (From \"Manjummel Boys\")",
-        "url": "https://open.spotify.com/album/6bgSQcUj1JzVmDMuF2Vr87"
-      },
-      "artists": [
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Pradeep Kumar",
-          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
-        },
-        {
-          "name": "Anwar Ali",
-          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
-        }
-      ],
-      "duration_ms": 282812,
-      "name": "Nebulakal - Travel Song - From \"Manjummel Boys\"",
-      "url": "https://open.spotify.com/track/1jxFfazgOVIJeYbhBm2ENV"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Athiran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2GMlzCTaWknSK8sTnFm8KJ"
@@ -493,7 +573,7 @@
       "url": "https://open.spotify.com/track/36bYASwok7rBHAkrqiPdnu"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Mandharapoove (From \"Kumari\")",
         "url": "https://open.spotify.com/album/3KJipat0D3NkRxQRXATByo"
@@ -513,7 +593,7 @@
       "url": "https://open.spotify.com/track/3PYUbRTcQ2aXvPJaZ6A6H9"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Vijay Superum Pournamiyum (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2o5ujHPcWrrRmR8UF1Jj6V"
@@ -537,7 +617,7 @@
       "url": "https://open.spotify.com/track/2Psbt9MZfVJNuHXFgG7DHh"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1YYQL3f8f6rxowT4SO0eZ6"
@@ -553,7 +633,7 @@
       "url": "https://open.spotify.com/track/3rwIts9ls8HrOVbawWXmF2"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Oru Murai Vanthu Paarthaya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5YA1WXdaMqAwKsrZRTjY3V"
@@ -573,7 +653,7 @@
       "url": "https://open.spotify.com/track/7tDASYxj2O3UBK6VTWGaUW"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Alare (From \"Member Rameshan 9aam Ward\")",
         "url": "https://open.spotify.com/album/3r2555dO9qhGphE183VtFU"
@@ -597,7 +677,7 @@
       "url": "https://open.spotify.com/track/4xiOtiXXochXwmw3MU946g"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Sunday Holiday (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0gv7V84HyPWtGLmmbitsqC"
@@ -613,7 +693,7 @@
       "url": "https://open.spotify.com/track/3F9NfQgG5O5YQjDnzUZen9"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Parudeesa (From \"Bheeshma Parvam\")",
         "url": "https://open.spotify.com/album/3GyGzZ9smF8HkYLNtb2U0w"
@@ -637,7 +717,7 @@
       "url": "https://open.spotify.com/track/3atpk0CnzPpRVbzq3l3EMq"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Kannil Kannil [From \"Sita Ramam (Malayalam)\"]",
         "url": "https://open.spotify.com/album/7L7c5XPEi1cKDVzZD0S9Vd"
@@ -661,7 +741,7 @@
       "url": "https://open.spotify.com/track/63vWEUXhpgghscp9FgvCMG"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Sakhiyeee (From \"Thrissur Pooram\")",
         "url": "https://open.spotify.com/album/3p3Uxg1wnnEjzZTmfRWz0D"
@@ -681,27 +761,7 @@
       "url": "https://open.spotify.com/track/1h9a23OsWfQbrazCujBqlc"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Premam",
-        "url": "https://open.spotify.com/album/5gkkfFiedjuYeCM0v4IlZu"
-      },
-      "artists": [
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        },
-        {
-          "name": "Rajesh Murugesan",
-          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
-        }
-      ],
-      "duration_ms": 316551,
-      "name": "Malare",
-      "url": "https://open.spotify.com/track/4Hvf9xIeJWp5p9FkJerQhN"
-    },
-    {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Kumbalangi Nights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6U0sKj7nG5fnmwIQmpQa2b"
@@ -725,7 +785,7 @@
       "url": "https://open.spotify.com/track/4J0UI8dLtEpT9ATtVEjCnD"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Hridayam (Side B) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6nuAnvIVNkw6pwqzuF2GJG"
@@ -749,7 +809,7 @@
       "url": "https://open.spotify.com/track/4gYKdgwtMwUtKrmF0Qt2E7"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Ambili (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/22v9N3FlD4SDIIy7fSFhal"
@@ -769,7 +829,7 @@
       "url": "https://open.spotify.com/track/7nHQjVpEncX7NEdA2G6kU1"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Ezra",
         "url": "https://open.spotify.com/album/3JqHtKZG9rGWsmZdWhbFbR"
@@ -793,7 +853,7 @@
       "url": "https://open.spotify.com/track/6sdFD2tvkP5Pd93y33qaQg"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Hridayam (Side B) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/6nuAnvIVNkw6pwqzuF2GJG"
@@ -817,7 +877,7 @@
       "url": "https://open.spotify.com/track/6OWmzBFKegOgCU525MNQny"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Bro Daddy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6pvPbUSHisP6BXLWZN041H"
@@ -841,7 +901,7 @@
       "url": "https://open.spotify.com/track/49HiSytCmA9gbwvWORUOPq"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Ole Melody (From \"Thallumaala\")",
         "url": "https://open.spotify.com/album/4clqjLZyp6cmtvb0KJwFkQ"
@@ -869,7 +929,7 @@
       "url": "https://open.spotify.com/track/1rMEccgwbKt3qmAXeBqOyZ"
     },
     {
-      "added_at": "2024-04-04 04:11:02",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Mini Maharani (From \"Premalu\")",
         "url": "https://open.spotify.com/album/3XaWEypWwOf68Z7GckamCG"
@@ -897,7 +957,7 @@
       "url": "https://open.spotify.com/track/2CPjVH7irjP1H9Na7VbhrN"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Parayuvaan (From \"Ishq\")",
         "url": "https://open.spotify.com/album/0ZF2WvYiOVQwz2qnUUioTn"
@@ -925,7 +985,7 @@
       "url": "https://open.spotify.com/track/4hTcGYU6uXZVCAfIMsxhlC"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Jeevamshamayi (From \"Theevandi\")",
         "url": "https://open.spotify.com/album/1rMlUn5HViYHGwMrFYCca1"
@@ -949,7 +1009,7 @@
       "url": "https://open.spotify.com/track/59oAJRA0zzLzl9AXa1R6zh"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Maradona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4xW8gYFnuIbWoWhnluumNo"
@@ -973,7 +1033,7 @@
       "url": "https://open.spotify.com/track/6BvRT4pR5sr3jHgrTYAtbp"
     },
     {
-      "added_at": "2023-11-24 10:18:25",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Parava (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7mLCc3enYoVGMvEPMfxd32"
@@ -989,7 +1049,7 @@
       "url": "https://open.spotify.com/track/1SH16L7jBwGX7pR7oLlSs8"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Onakka Munthiri (From \"Hridayam\")",
         "url": "https://open.spotify.com/album/5oaae3jvP4INbR9G3OwnTN"
@@ -1009,59 +1069,7 @@
       "url": "https://open.spotify.com/track/456k6sqokXjOgnxzC71UQG"
     },
     {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Aravindante Athidhikal",
-        "url": "https://open.spotify.com/album/6f8gkMmob6hQhSfxc87AOC"
-      },
-      "artists": [
-        {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        },
-        {
-          "name": "Liya Susan Verghese",
-          "url": "https://open.spotify.com/artist/6cVIRWhVS0NSebE0KqIlQK"
-        }
-      ],
-      "duration_ms": 238173,
-      "name": "Rasathi",
-      "url": "https://open.spotify.com/track/6DCWVyJ3uE3xxTg2Wp60Aj"
-    },
-    {
-      "added_at": "2023-11-24 10:18:25",
-      "album": {
-        "name": "Jacobinte Swargarajyam",
-        "url": "https://open.spotify.com/album/4XxfZW3PEKRIgeKhPqmPzX"
-      },
-      "artists": [
-        {
-          "name": "Shaan Rahman",
-          "url": "https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        },
-        {
-          "name": "Kavya Ajit",
-          "url": "https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3"
-        },
-        {
-          "name": "B.K. Harinarayanan",
-          "url": "https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV"
-        }
-      ],
-      "duration_ms": 225188,
-      "name": "Ee Shishirakaalam - From \"Jacobinte Swargarajyam\"",
-      "url": "https://open.spotify.com/track/3TDB2rDzrelhNOZYwOr01C"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Solo (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/743hktib4oAhlPFEtAIDJ4"
@@ -1081,7 +1089,7 @@
       "url": "https://open.spotify.com/track/2ZppB7cqsWeEdJgU1TgXxK"
     },
     {
-      "added_at": "2024-05-13 09:03:49",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Darshana (From \"Hridayam\")",
         "url": "https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe"
@@ -1103,24 +1111,8 @@
       "duration_ms": 226000,
       "name": "Darshana - From \"Hridayam\"",
       "url": "https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2"
-    },
-    {
-      "added_at": "2023-09-15 11:12:56",
-      "album": {
-        "name": "Anugraheethan Antony",
-        "url": "https://open.spotify.com/album/2DJyACvp30UFBGAvk9UGmL"
-      },
-      "artists": [
-        {
-          "name": "K. S. Harisankar",
-          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
-        }
-      ],
-      "duration_ms": 238819,
-      "name": "Kamini",
-      "url": "https://open.spotify.com/track/5sC8JC6dHcEifGMB8xPbbO"
     }
   ],
-  "unique_name": "Mollywood Gold",
+  "unique_name": "Best of Mollywood Gold in 2024",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD"
 }

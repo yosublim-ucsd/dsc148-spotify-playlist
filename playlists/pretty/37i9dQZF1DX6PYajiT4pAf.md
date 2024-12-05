@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Lola Indigo con Paulo Londra y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,346 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,369 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 69 | [La Bruja](https://open.spotify.com/track/6ufzMfhC2pI6Bu1Z7O9ntP) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [La Bruja](https://open.spotify.com/album/718GIRQ8GQzrNhgBY4LJvt) | 2:36 |
 | 70 | [Caramelito Freestyle](https://open.spotify.com/track/6tNj5LdkSqao395of8gSRB) | [Teo Lucadamo](https://open.spotify.com/artist/7mwMldjYYpCRmYvoLCy7qj) | [Caramelito Freestyle](https://open.spotify.com/album/2KJ2kGq5KiJqNx6sUMyevh) | 2:10 |
 
-Snapshot ID: `Z0lpVgAAAABxp0pspLCJsXsLjpTQbwEQ`
+Snapshot ID: `Z1CHVQAAAADK1Qtrvwgaq9YM1TRb0ZOT`

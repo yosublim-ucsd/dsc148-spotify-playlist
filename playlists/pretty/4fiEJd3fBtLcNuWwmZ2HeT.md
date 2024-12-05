@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 255 songs - 14 hr 32 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 2 likes - 258 songs - 14 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -263,5 +263,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 253 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 |
 | 254 | [Touch You](https://open.spotify.com/track/6qWEpnyU43Bcrx3vfbGuVm) | [遠野高志](https://open.spotify.com/artist/3dkW1L7GIhispeiHo9uzM8), [加島優](https://open.spotify.com/artist/3ynBix87InXjEn5L9LsAWB), [矢口恭介](https://open.spotify.com/artist/4CkENaPbZ3CSwB7kAbzTE1), [ジミー](https://open.spotify.com/artist/4ABfGQhx7kTXCFbxvlLtlO), [百合絢斗](https://open.spotify.com/artist/5nEXLz5Qwkcv8d91fP4Cjo), [田村唯](https://open.spotify.com/artist/4tF37PbmfGwti71JKUI1pz), [明美圭一](https://open.spotify.com/artist/6l15fzba4HWiYgbX7ji3NQ), [糸目幸士郎](https://open.spotify.com/artist/0t1H6voah4Js1hbu2EPUqx), [鹿谷樹](https://open.spotify.com/artist/7u0iN4XxPpkIk9KRcLQXDa) | [アニメ『ヤリチン☆ビッチ部』主題歌「Touch You」](https://open.spotify.com/album/2rQlPhe76mnmviBmjHdS89) | 3:26 |
 | 255 | [NOX LUX](https://open.spotify.com/track/69gjQpIkp1ZA4XlCRAm67T) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [NOX LUX](https://open.spotify.com/album/2W1fq9AQtzxztLOm5AfEq0) | 4:33 |
+| 256 | [Akujiki](https://open.spotify.com/track/565shq9eUdoknV8W0rUViP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:23 |
+| 257 | [Oh...](https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26) | [Tadano Kaede](https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8) | [essence](https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg) | 3:41 |
+| 258 | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/track/4wdZoFvA5zpxVglDuESYJ3) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev) | 4:40 |
 
-Snapshot ID: `AAAI2i7MlpKVmcU4bCkbTu/79hEUREbs`
+Snapshot ID: `AAAI3Sdithe9lonJV44w+1H/RqH/KVlQ`

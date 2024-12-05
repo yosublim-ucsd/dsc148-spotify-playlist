@@ -4341,6 +4341,24 @@
     },
     {
       "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/0X7oAZw91zTDeDYBo8csfR"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Hahn",
+          "url": "https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147370,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/7Bu7bhBR0ZzJYV6rXy2WBE"
+    },
+    {
+      "album": {
         "name": "Histoire d'un Jour",
         "url": "https://open.spotify.com/album/6E6rkMC4rUvfUbJr19ppjs"
       },
@@ -10790,6 +10808,24 @@
       "duration_ms": 133256,
       "name": "The Hours",
       "url": "https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50"
+    },
+    {
+      "album": {
+        "name": "The Magic of a Piano",
+        "url": "https://open.spotify.com/album/4DLMZCohmGP5phlxICGyiG"
+      },
+      "artists": [
+        {
+          "name": "Pederosa Calafiori",
+          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167844,
+      "name": "The Magic of a Piano",
+      "url": "https://open.spotify.com/track/4SoEeTO3O27bm7cLctCCvm"
     },
     {
       "album": {

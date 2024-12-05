@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Natanael Cano, Uriel Gaxiola, Ganggy y Victor Mendivil en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,637 likes - 58 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,642 likes - 58 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

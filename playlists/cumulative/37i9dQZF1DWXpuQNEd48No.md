@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: DG Immortals & Parmish Verma
 
-314 songs - 16 hr 15 min
+315 songs - 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Chunni Re](https://open.spotify.com/track/10UovAa1vY1LMGMuoP75aK) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq) | [Chunni Re](https://open.spotify.com/album/501Xyp289koskmOatyc0Sk) | 2:35 | 2023-12-14 | 2024-03-14 |
 | [Cigarette](https://open.spotify.com/track/5eUpBQYXRIyNfLFqRW5nwQ) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Cigarette](https://open.spotify.com/album/2wVwJZiXVsQ9tIm2mum83F) | 2:40 | 2023-12-14 |  |
 | [Circle](https://open.spotify.com/track/5d3cpUagWngKLiIwtHSLKV) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [Circle](https://open.spotify.com/album/6cEaAwxDU0JPzApMzVFcEZ) | 3:14 | 2023-08-30 | 2023-09-28 |
+| [Commercial](https://open.spotify.com/track/22NIX7ocBNnIMH0WCrTqpY) | [Dev Lohia](https://open.spotify.com/artist/6e5BITKRuXj4Xu4Jmfwtnp) | [Commercial](https://open.spotify.com/album/0jL3NoyEZCuNz8Mj7620Rq) | 1:59 | 2024-11-29 |  |
 | [Concentrate Drill](https://open.spotify.com/track/7BRxPnK4rwOf01MMCUljSI) | [Chota Puthar Aala](https://open.spotify.com/artist/4UU6mpKAEYiMTEf7J5Zgp7), [Sumit Seedpuriya](https://open.spotify.com/artist/2Ts3AzZrjd3LNIQhjYQxQS) | [Concentrate Drill](https://open.spotify.com/album/4odgsg6ibpmkxaQNbLUov1) | 4:17 | 2024-07-03 | 2024-07-09 |
 | [Confuse](https://open.spotify.com/track/5nXadOAptwlFI7desJ3P1e) | [Komal Chaudhary](https://open.spotify.com/artist/3NDoCvXtQOPngtgRsqjcd3), [Micky Arora](https://open.spotify.com/artist/3pNyr50xc7VeBWTyhM14Sy), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Confuse](https://open.spotify.com/album/4oLOKpv3T6F7GoE6Q8rRGQ) | 2:39 | 2024-09-16 | 2024-10-25 |
 | [Convoy](https://open.spotify.com/track/70ouErfLUxUY2WQwcQI2fO) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Convoy](https://open.spotify.com/album/4ZcTQRJtPrN8azjI83NHNg) | 4:35 | 2023-10-18 |  |
@@ -113,7 +114,7 @@
 | [Firki](https://open.spotify.com/track/79Go5RTAaIuH4st4hjexS9) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ) | [Firki](https://open.spotify.com/album/4WsLNoVx93bhv9ROdvrija) | 2:53 | 2024-10-23 |  |
 | [Flex](https://open.spotify.com/track/1uLxPLyCN67HcQwaPrabTj) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Flex](https://open.spotify.com/album/4LY72uiyZBD0JYyOhXjPod) | 3:06 | 2024-10-23 |  |
 | [Flirt](https://open.spotify.com/track/4K6jf2Pu26P6VbsLdOZP7e) | [KD Desirock](https://open.spotify.com/artist/72nM77XevGnNC8btIBlvmS), [Samvee](https://open.spotify.com/artist/6RazaIkItMMHgNvl1s6TMj) | [Flirt](https://open.spotify.com/album/1bJEz7lupCxXDH2g6e65tN) | 4:47 | 2023-03-28 | 2024-08-13 |
-| [Fortuner Drill](https://open.spotify.com/track/5QdyptjamyyuZJ4r39N95X) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Fortuner Drill](https://open.spotify.com/album/3WeVtSZdA0zln8sfEgGZsb) | 3:07 | 2024-04-10 |  |
+| [Fortuner Drill](https://open.spotify.com/track/5QdyptjamyyuZJ4r39N95X) | [Jassi Kirarkot](https://open.spotify.com/artist/2MrTNaowqRRDiTj0FKHvZP), [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4), [Deepty](https://open.spotify.com/artist/6V0gxfUlhg6fOcQGEhcpel) | [Fortuner Drill](https://open.spotify.com/album/3WeVtSZdA0zln8sfEgGZsb) | 3:07 | 2024-04-10 | 2024-12-05 |
 | [Four Seater](https://open.spotify.com/track/55M3qbsvxy8wIu6pvEaqYM) | [Dussi Thakur](https://open.spotify.com/artist/2jmPbgfxS1Iq4pAAnAJCFG), [DK Thakur](https://open.spotify.com/artist/5C8nnMAJJgoLewlz08YjOK) | [Four Seater](https://open.spotify.com/album/1tmM6WfooyH9jvAyAlney3) | 2:38 | 2023-08-30 | 2023-09-14 |
 | [Gaadi Drill](https://open.spotify.com/track/5hPInHw8XoxbVpbsq5laf5) | [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Gaadi Drill](https://open.spotify.com/album/1hnGmtUKZtMXerEVUIMlk1) | 2:49 | 2024-08-30 | 2024-11-23 |
 | [Gaama Aale](https://open.spotify.com/track/5ijTdZimop76sb9e7hyKbW) | [KC Seedpuriya](https://open.spotify.com/artist/0tqFPuI0RkCtGj2DascYmi), [Sumit Seedpuriya](https://open.spotify.com/artist/2Ts3AzZrjd3LNIQhjYQxQS) | [Combination](https://open.spotify.com/album/6f5iEfg1akfdmfVL6wfnqu) | 3:47 | 2024-10-23 | 2024-11-15 |

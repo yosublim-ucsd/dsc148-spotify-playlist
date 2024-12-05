@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0WROHrBJtziRF6ng68lUHx.md) - [plain]
 
 > 
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 6 songs - 18 min 19 sec
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 7 songs - 22 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,5 +14,6 @@ pretty - [cumulative](/playlists/cumulative/0WROHrBJtziRF6ng68lUHx.md) - [plain]
 | 4 | [Am I Awake?](https://open.spotify.com/track/5ZuFa017ebD1p6aU9zHTnT) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Idlewild: A Compilation](https://open.spotify.com/album/6oySHdG0nQzH5Belcm0fQi) | 3:03 |
 | 5 | [Hardware Store](https://open.spotify.com/track/1m6LYAWyCdRjpIr3ttANsr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [The Essential "Weird Al" Yankovic](https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4) | 3:44 |
 | 6 | [Family Happiness](https://open.spotify.com/track/2lbRuGZlv4jumboWPeRA59) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/2pGo33wtAhwnIbop7aKKCt) | 2:57 |
+| 7 | [Prisencolinensinainciusol](https://open.spotify.com/track/5JetV93PpZhcHhX7utmzOr) | [Adriano Celentano](https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV) | [Adrian](https://open.spotify.com/album/6v2w4UvQ2jEWx4x5XDhqec) | 3:51 |
 
-Snapshot ID: `AAAACuIP5sz8g8phil8EAk0Lh2POX0ZD`
+Snapshot ID: `AAAAC2SJN16lxVFWHGsW2Dkf7imcTE+d`

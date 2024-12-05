@@ -1,6 +1,6 @@
 {
   "description": "As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.",
-  "num_followers": 348688,
+  "num_followers": 348651,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Weight of Your Glory",
-        "url": "https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82"
-      },
-      "artists": [
-        {
-          "name": "Dustin Scarbrough",
-          "url": "https://open.spotify.com/artist/4rAMnxns1g0lXFrC1ZvpD9"
-        }
-      ],
-      "duration_ms": 248105,
-      "name": "Weight of Your Glory",
-      "url": "https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "You Are Fullness",
         "url": "https://open.spotify.com/album/6eEbe6FfkDdyVfSQzo0lqo"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Conquering Eden",
-        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
+        "name": "Weight of Your Glory",
+        "url": "https://open.spotify.com/album/3btPdL9uyJ9BghVeTcth82"
       },
       "artists": [
         {
-          "name": "Cam Sakkara",
-          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
+          "name": "Dustin Scarbrough",
+          "url": "https://open.spotify.com/artist/4rAMnxns1g0lXFrC1ZvpD9"
         }
       ],
-      "duration_ms": 240337,
-      "name": "One Too Many Reasons",
-      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
+      "duration_ms": 248105,
+      "name": "Weight of Your Glory",
+      "url": "https://open.spotify.com/track/6UV7HIJPCC6UuGs7PtKiaN"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -887,6 +871,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Conquering Eden",
+        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
+      },
+      "artists": [
+        {
+          "name": "Cam Sakkara",
+          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
+        }
+      ],
+      "duration_ms": 240337,
+      "name": "One Too Many Reasons",
+      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "I Could Sing Of Your Love Forever",
         "url": "https://open.spotify.com/album/622dM9HGzrpibDW8zGAIIh"
       },
@@ -899,22 +899,6 @@
       "duration_ms": 161101,
       "name": "I Could Sing Of Your Love Forever",
       "url": "https://open.spotify.com/track/00I5GhfySvAAkfBf4mcapg"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "Yahweh",
-        "url": "https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 555906,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -955,6 +939,22 @@
       "duration_ms": 176000,
       "name": "Have My Heart",
       "url": "https://open.spotify.com/track/1x5wCRfjkvBtsWEWO0uBSc"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/1R9aI97imCiB03rhrYCQ09"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 555906,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/2z1LgCApxLsaB5SNgJTGzX"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
         "name": "Sing Over Me",
         "url": "https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "The Joy of Being Together (Live)",
         "url": "https://open.spotify.com/album/62kV7kb7TNpRUMvDPx1qxE"
       },
@@ -1263,38 +1263,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Nothing but the Blood of Jesus",
-        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
-      },
-      "artists": [
-        {
-          "name": "Lou Fellingham",
-          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
-        }
-      ],
-      "duration_ms": 313146,
-      "name": "Nothing but the Blood of Jesus",
-      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
-        "name": "For The Ones We Love",
-        "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
-      },
-      "artists": [
-        {
-          "name": "Jonas Myrin",
-          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "For The Ones We Love",
-      "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Worship Anywhere: Live from Camp NewBreed",
         "url": "https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp"
       },
@@ -1307,6 +1275,22 @@
       "duration_ms": 294106,
       "name": "Certainly (Live)",
       "url": "https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Nothing but the Blood of Jesus",
+        "url": "https://open.spotify.com/album/1tktyzsfh96smfx3eac4ET"
+      },
+      "artists": [
+        {
+          "name": "Lou Fellingham",
+          "url": "https://open.spotify.com/artist/1hE4s8P5V00eDp3SYdnzvZ"
+        }
+      ],
+      "duration_ms": 313146,
+      "name": "Nothing but the Blood of Jesus",
+      "url": "https://open.spotify.com/track/6kjRpkvKDwf1KeLfkBymmw"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1331,6 +1315,22 @@
       "duration_ms": 263089,
       "name": "Harbor",
       "url": "https://open.spotify.com/track/4t1p7WUK2L1TKGfybUkjPA"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "For The Ones We Love",
+        "url": "https://open.spotify.com/album/0F8iAIGNpZ25HDiZiNVsmq"
+      },
+      "artists": [
+        {
+          "name": "Jonas Myrin",
+          "url": "https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "For The Ones We Love",
+      "url": "https://open.spotify.com/track/04SDrly80EKgl1vlnskm7J"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "Where the Light Dances",
-        "url": "https://open.spotify.com/album/1R5UZG8Phvv6Y77R2mrfuP"
-      },
-      "artists": [
-        {
-          "name": "Yamaree",
-          "url": "https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0"
-        }
-      ],
-      "duration_ms": 218965,
-      "name": "Where the Light Dances",
-      "url": "https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "if I can be honest",
         "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 260553,
       "name": "the healing song",
       "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "Where the Light Dances",
+        "url": "https://open.spotify.com/album/1R5UZG8Phvv6Y77R2mrfuP"
+      },
+      "artists": [
+        {
+          "name": "Yamaree",
+          "url": "https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0"
+        }
+      ],
+      "duration_ms": 218965,
+      "name": "Where the Light Dances",
+      "url": "https://open.spotify.com/track/3GlHZprqUeYrvnulxU5buU"
     },
     {
       "added_at": "2024-07-26 09:52:44",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-07-26 09:52:44",
       "album": {
-        "name": "46 (Be Still)",
-        "url": "https://open.spotify.com/album/5fBefottJHctZtuKDQzyH6"
-      },
-      "artists": [
-        {
-          "name": "Union Creative",
-          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
-        }
-      ],
-      "duration_ms": 254692,
-      "name": "46 (Be Still)",
-      "url": "https://open.spotify.com/track/5Fst175rlfuQQxYvpyfyrv"
-    },
-    {
-      "added_at": "2024-07-26 09:52:44",
-      "album": {
         "name": "Almighty",
         "url": "https://open.spotify.com/album/7C6GwCfNBIhV8QGN4NSKlA"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 213909,
       "name": "Almighty",
       "url": "https://open.spotify.com/track/7K5DgWyMTMHBFJKH43fh5u"
+    },
+    {
+      "added_at": "2024-07-26 09:52:44",
+      "album": {
+        "name": "46 (Be Still)",
+        "url": "https://open.spotify.com/album/5fBefottJHctZtuKDQzyH6"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "duration_ms": 254692,
+      "name": "46 (Be Still)",
+      "url": "https://open.spotify.com/track/5Fst175rlfuQQxYvpyfyrv"
     },
     {
       "added_at": "2024-07-26 09:52:44",

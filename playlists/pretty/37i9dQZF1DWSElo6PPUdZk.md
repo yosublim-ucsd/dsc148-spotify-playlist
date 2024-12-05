@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,224 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,230 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 11 | [Mohobbat \- Love](https://open.spotify.com/track/1wcZ04tvDT5OMUgbnuWaHK) | [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Mohobbat \(Love\)](https://open.spotify.com/album/2sRIkOaNuLPTPukz0h84ZN) | 3:28 |
 | 12 | [Rafflan](https://open.spotify.com/track/64LiKpnfoGb5E6h3TsTnEP) | [Sahiba Aulakh](https://open.spotify.com/artist/1dOU4M0v0yeTczwMOhIBWh), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [Rafflan](https://open.spotify.com/album/0H24XMNw4pK8lyXrTgHYMD) | 2:12 |
 | 13 | [Raah](https://open.spotify.com/track/5jZDDXuXDySYyd6DSCKOco) | [Manvi Arora](https://open.spotify.com/artist/5qrWplhwtDCuQdSDKrDrxf) | [Raah](https://open.spotify.com/album/6cHoE8lreJw6ZgKuSOyBYy) | 2:20 |
-| 14 | [Sohneya](https://open.spotify.com/track/0tWNV0VUiKRqaY2qt1v61x) | [Jaskiran](https://open.spotify.com/artist/64IqjXuiYufItWOummzCVL) | [Sohneya](https://open.spotify.com/album/43MiyD2v5kbnakfz8DVJF1) | 2:55 |
-| 15 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 |
-| 16 | [Bomb Girls](https://open.spotify.com/track/6lzT9XZmdDnGhHQO35NsxO) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jashan Heer](https://open.spotify.com/artist/1be4zPbQAEj3xPKMwzqYK3), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [Bomb Girls](https://open.spotify.com/album/0WRy57nLzCeCoy1u8CzQRT) | 2:43 |
-| 17 | [Patt Honeya](https://open.spotify.com/track/25EmyJwqn4w9XNgyavuYPv) | [Sona Walia](https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH) | [Patt Honeya](https://open.spotify.com/album/2wq9au4ttipIHtxUADKInY) | 3:05 |
-| 18 | [Jodi Teri Meri](https://open.spotify.com/track/4eVi7UxmpSIPiQ989dd8R2) | [Ajooni Dhillon](https://open.spotify.com/artist/5w2yqx7lnbYkZIgB3MouZa) | [Jodi Teri Meri](https://open.spotify.com/album/2hbCssH7iU6qRETkBlIyiP) | 2:46 |
-| 19 | [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/track/0MLIDC4d0g3s4u26mgggKB) | [Suchita](https://open.spotify.com/artist/0YpMBPKadGsRHptQU2kh9V), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV), [Sam Narula](https://open.spotify.com/artist/4jXfmkek5ImVxeZAKs74F2) | [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/album/4Gqdj7ldijmnfPXzkzTaUt) | 2:38 |
+| 14 | [Jhoote Laare](https://open.spotify.com/track/2t2D0QjGOscAMxo7arMT6Z) | [Shilpa Joshi](https://open.spotify.com/artist/74NeWcjFVZyQFkAVDCQj3x), [Yash Aggarwal](https://open.spotify.com/artist/1iPgZHluQlCghoVjGq5xou), [Lovish Sheetal](https://open.spotify.com/artist/7Ctl8UNKwlLPv1clATY5Jv) | [Jhoote Laare](https://open.spotify.com/album/4IpA8smR7xCckPNnnnDhYb) | 2:23 |
+| 15 | [Sohneya](https://open.spotify.com/track/0tWNV0VUiKRqaY2qt1v61x) | [Jaskiran](https://open.spotify.com/artist/64IqjXuiYufItWOummzCVL) | [Sohneya](https://open.spotify.com/album/43MiyD2v5kbnakfz8DVJF1) | 2:55 |
+| 16 | [Nattiyaan](https://open.spotify.com/track/1oEczJPtEiZb1RfJDDdZ16) | [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Kavvy Riyaaz](https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Nattiyaan](https://open.spotify.com/album/1uohMZNC2AJ0AsjHyKbB7w) | 3:30 |
+| 17 | [Bomb Girls](https://open.spotify.com/track/6lzT9XZmdDnGhHQO35NsxO) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jashan Heer](https://open.spotify.com/artist/1be4zPbQAEj3xPKMwzqYK3), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [Bomb Girls](https://open.spotify.com/album/0WRy57nLzCeCoy1u8CzQRT) | 2:43 |
+| 18 | [Patt Honeya](https://open.spotify.com/track/25EmyJwqn4w9XNgyavuYPv) | [Sona Walia](https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH) | [Patt Honeya](https://open.spotify.com/album/2wq9au4ttipIHtxUADKInY) | 3:05 |
+| 19 | [Jodi Teri Meri](https://open.spotify.com/track/4eVi7UxmpSIPiQ989dd8R2) | [Ajooni Dhillon](https://open.spotify.com/artist/5w2yqx7lnbYkZIgB3MouZa) | [Jodi Teri Meri](https://open.spotify.com/album/2hbCssH7iU6qRETkBlIyiP) | 2:46 |
 | 20 | [Yaari](https://open.spotify.com/track/5qMOxQs2vj9b5Vdh4pj8bi) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX), [Lucas](https://open.spotify.com/artist/7y1Z5RFuhmn0L1in87Hayd) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:19 |
 | 21 | [So Toxic](https://open.spotify.com/track/3Hdy2hhpz7oRPJ6keQbslz) | [SHATAKSHI SHARMA](https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO) | [So Toxic](https://open.spotify.com/album/04e1U06TRC5ZecmA4hwbUL) | 3:32 |
 | 22 | [Jind Mahi](https://open.spotify.com/track/2NVJHduFkMaNNqhj3kmxWX) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Jind Mahi](https://open.spotify.com/album/4bemzLUnC5A2PDMyBroFY2) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Badmashi](https://open.spotify.com/track/3KlknP4eEYwQBpROyQ8EbP) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Badmashi](https://open.spotify.com/album/09u7AjthFXfvIKBVoRG4MM) | 3:19 |
 | 50 | [Majhe Wale](https://open.spotify.com/track/6w3Ci44LBc9RlJcjy1QYow) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Majhe Wale](https://open.spotify.com/album/6C7vkwRhZtDvmiNokK2v5z) | 3:16 |
 
-Snapshot ID: `Z07H5AAAAAAbDVYZWsglqCWGb/yhqkT4`
+Snapshot ID: `Z0/0SgAAAACBwg8ye/IGiGi32tV8VUJ9`

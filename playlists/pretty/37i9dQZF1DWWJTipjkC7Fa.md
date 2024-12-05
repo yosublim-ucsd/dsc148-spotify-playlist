@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 
 > Listen to the music from and inspired by My Life With The Walter Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,510 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,537 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJTipjkC7Fa.md) - [plain]
 | 41 | [Top of the World](https://open.spotify.com/track/6vugZgyHgkL6xmdOyU6LeX) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 2:37 |
 | 42 | [What They'll Say About Us](https://open.spotify.com/track/4W1gUkq2TAOOFCBet3i3WR) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:01 |
 | 43 | [On and On](https://open.spotify.com/track/0fhEd0ensKM2Omg1bEYEl6) | [Loose Fang](https://open.spotify.com/artist/37HxihNqkut00lFf0CEpJH) | [Live Wires, Black Sheep](https://open.spotify.com/album/0FxzHKU5TTmuVYPM143EJ9) | 3:01 |
-| 44 | [Oh Life](https://open.spotify.com/track/62dYbgXIwTD5gTpvyoi7nO) | [Ryan Goldmouth](https://open.spotify.com/artist/7x62mAG0elgN2toughJLNI) | [GLDMTH](https://open.spotify.com/album/49eEsUWtpKrc3Ldq528nfo) | 4:20 |
+| 44 | [Oh Life](https://open.spotify.com/track/62dYbgXIwTD5gTpvyoi7nO) | [Ryan Goldmouth](https://open.spotify.com/artist/5XJso5hUb5gsZQvDiengNA) | [GLDMTH](https://open.spotify.com/album/49eEsUWtpKrc3Ldq528nfo) | 4:20 |
 | 45 | [Uh Huh](https://open.spotify.com/track/5Q9anS0mmCzSJG4oieXdsB) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Walking With a Stranger](https://open.spotify.com/album/4LcI0UJmkd717mGgygsIfx) | 3:05 |
 | 46 | [Green with Envy](https://open.spotify.com/track/5uITkbd1oEVPL1NKH4PQWI) | [Ormiston](https://open.spotify.com/artist/21zEHj3svxppGr8k4jLLwm) | [Hammer Down](https://open.spotify.com/album/3APC9y1m25zkLVEpxQ9f5N) | 3:39 |
 | 47 | [Country Thunder](https://open.spotify.com/track/2df6x2Sc9Zys2O9hKlwExf) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Everbound](https://open.spotify.com/album/46w9JKmyydAsnkVW34kP6I) | 3:09 |

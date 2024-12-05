@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-445 songs - 19 hr 28 min
+447 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A World Without Pain](https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw) | 2:36 | 2022-07-28 | 2023-10-11 |
 | [A World Without Pain](https://open.spotify.com/track/536rm114S2ByPbh906pksj) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/76i9FGk2iswEnsUcv1Hmjd) | 2:36 | 2021-12-14 | 2022-07-29 |
 | [Aba](https://open.spotify.com/track/39EU7wgPcoU9UALeeQ0Q0Z) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Aba](https://open.spotify.com/album/72juJf6OMN8pncnMhFrMXT) | 4:58 | 2021-12-14 | 2022-06-07 |
+| [Absentia](https://open.spotify.com/track/1HK9bUeaIXx3lZv1nWayyR) | [Andrew Mays](https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I) | [Absentia](https://open.spotify.com/album/4HLgJVnxv7LGkIbKP4ogtR) | 2:41 | 2024-12-04 |  |
 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2021-12-14 | 2023-10-11 |
 | [Adagio No 2 C\-Minor](https://open.spotify.com/track/6L0JsNlvd8CgtJkhRxZd5f) | [Tony Austero](https://open.spotify.com/artist/4IcLLdhDhgVZtC1GmZxyzw) | [Adagio No 2 C\-Minor](https://open.spotify.com/album/5bx5oBzjzCLliHbkwDOjnF) | 3:48 | 2022-01-19 | 2022-06-07 |
 | [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2021-12-14 | 2022-02-17 |
@@ -152,6 +153,7 @@
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2021-12-14 | 2022-05-05 |
 | [Golden Hour](https://open.spotify.com/track/6WMqwT9YNk3hONbnMaf6NG) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Agamon Hula](https://open.spotify.com/album/4MPv3fcMvl3OFc0iNJoDsY) | 2:09 | 2023-01-27 | 2023-03-08 |
 | [Gradational](https://open.spotify.com/track/7uam2Tyu6KZjGLauONQLk7) | [Martha Stone](https://open.spotify.com/artist/3Jk5F5o75NTajdLCYSYlbw) | [Gradational](https://open.spotify.com/album/1BNVlgLGu0gcQEroSXMhal) | 2:47 | 2022-03-30 |  |
+| [Healing a Wing](https://open.spotify.com/track/5zZPRScC5O9ygYRZJJitVJ) | [Dave Sherman](https://open.spotify.com/artist/7p9avjMf6a7ZqxS011oeuO) | [Healing a Wing](https://open.spotify.com/album/1wbXWuLylQrPKdpGauLt8C) | 2:20 | 2024-12-04 |  |
 | [heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2021-12-14 | 2023-10-11 |
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-13 |  |
 | [Her Peaceful Echoes](https://open.spotify.com/track/5e5AZb36vSAdEXABa0oNIh) | [Flóki](https://open.spotify.com/artist/6IEWnUlDDKygVlZVX8iLHT) | [Her Peaceful Echoes](https://open.spotify.com/album/4QS7rFRIdgtuXexBMyZJdc) | 2:21 | 2024-03-04 |  |
@@ -286,7 +288,7 @@
 | [Perdono](https://open.spotify.com/track/7jAhN8L7qmsoeLa6Wo8ItS) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Perdono](https://open.spotify.com/album/3l0o5eKMNP76OSjxFyi2ER) | 3:18 | 2023-11-14 |  |
 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 | 2023-01-19 |  |
 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 | 2021-12-14 | 2023-10-11 |
-| [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2022-09-13 |  |
+| [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2022-09-13 | 2024-12-05 |
 | [Porcelain Hands](https://open.spotify.com/track/7KX4G8l2FvaTom3K21Xw5E) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [Porcelain Hands](https://open.spotify.com/album/2r70QxdddM0IU6gy6zJHOC) | 2:14 | 2022-05-04 |  |
 | [Portrait of a shade](https://open.spotify.com/track/1oAET48hdT1Bg9BM0FLIkw) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Portrait of a shade](https://open.spotify.com/album/4KKhQ4EM56Fsle0NFsOqIu) | 2:55 | 2022-12-21 |  |
 | [Problématique](https://open.spotify.com/track/5DuNs8KmyX0Rhpa5cwujXT) | [Lenovie](https://open.spotify.com/artist/5qGVbZoaFJ7i9M63PhgFWT) | [Problématique](https://open.spotify.com/album/0hBgJgCI8ENtYGjj1csyEh) | 1:43 | 2021-12-14 | 2022-05-21 |

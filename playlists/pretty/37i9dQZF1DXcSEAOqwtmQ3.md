@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 
 > Kick nostalgia up a notch with these throwback bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,451 likes - 50 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,583 likes - 50 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 |
-| 2 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Oleku \(feat\. Brymo\)](https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc) | 4:51 |
-| 3 | [Portharcourt Son](https://open.spotify.com/track/0PI1HlGuWWQPdXSRvLqOSS) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 5:45 |
+| 2 | [Portharcourt Son](https://open.spotify.com/track/0PI1HlGuWWQPdXSRvLqOSS) | [Duncan Mighty](https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK) | [Legacy \(Ahamefuna\)](https://open.spotify.com/album/5qfyyCq5qZYIlpeBhE0Bl2) | 5:45 |
+| 3 | [Oleku \(feat\. Brymo\)](https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [Oleku \(feat\. Brymo\)](https://open.spotify.com/album/2mHvknGmv5MyUlTeoD7KBc) | 4:51 |
 | 4 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 |
 | 5 | [Ara](https://open.spotify.com/track/4WS3bhnGgDjxwtAUWaPyNW) | [Brymo](https://open.spotify.com/artist/094nOQ29vLC8FjZ3PhnM2u) | [\#TheSonOfaKapenta](https://open.spotify.com/album/6IQebSMfM7Hnm7hgoJf8mU) | 4:13 |
 | 6 | [Osondi Owendi](https://open.spotify.com/track/1n21ku53K1pMOU9ib6bEdL) | [Chief Stephen Osita Osadebe](https://open.spotify.com/artist/3p5v42DQP2YtTAwWznBnpn) | [Kedu America](https://open.spotify.com/album/3weszYT2MGBxRomdYb7QDB) | 7:51 |
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSEAOqwtmQ3.md) - [plain]
 | 16 | [One Naira \(feat\. Waje\)](https://open.spotify.com/track/3LlkLlNseWG7fhcx9h32zW) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Waje](https://open.spotify.com/artist/5GmW6T8IndFL45lifEqpEv) | [MI 2: The Movie](https://open.spotify.com/album/7pkfTolBN0Msk96o77wsU7) | 4:30 |
 | 17 | [Buga](https://open.spotify.com/track/4kre5jC1AncY14Ra2gzmR0) | [Jesse King & The Queens In The Palace](https://open.spotify.com/artist/098qOt76s46NMCahJbGxZL) | [Buga](https://open.spotify.com/album/03m61gb4oqfDamdrmwvl13) | 6:50 |
 | 18 | [Zombie](https://open.spotify.com/track/3yoSHWIvtNQ52Jf3bCoaBa) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Anthology 2](https://open.spotify.com/album/6RJulnlIwiLw1xz0Jc63Wd) | 12:23 |
-| 19 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
+| 19 | [Ife Si Na Chi](https://open.spotify.com/track/6jKk72CeCmtCG1KaJyaxRB) | [Celestine Ukwu](https://open.spotify.com/artist/2XX5UnnAfyUaPTNsYZWLzB) | [Igede](https://open.spotify.com/album/7dxh76o90e3XcCbTW74WuO) | 5:10 |
 | 20 | [African Queen \- Remastered Version](https://open.spotify.com/track/5WrrKyhWgHbqelmd2ENpSf) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:20 |
-| 21 | [Ife Si Na Chi](https://open.spotify.com/track/6jKk72CeCmtCG1KaJyaxRB) | [Celestine Ukwu](https://open.spotify.com/artist/2XX5UnnAfyUaPTNsYZWLzB) | [Igede](https://open.spotify.com/album/7dxh76o90e3XcCbTW74WuO) | 5:10 |
+| 21 | [Lori Le](https://open.spotify.com/track/5fpoDuxvBBNy69mgzIMMrI) | [X Project](https://open.spotify.com/artist/2p4MFIE0APhGNORzjr3WWq) | [Turn It Up](https://open.spotify.com/album/01FMhJP1OMfKLyxWR5lqRl) | 4:03 |
 | 22 | [Why Me \[Remix\]](https://open.spotify.com/track/5DQszLTIK8USpirqOxk1n5) | [Mo' Hits All Stars](https://open.spotify.com/artist/3kTUr1CJjfkESn31Xk6tij) | [51Lex Presents Stop The Violence](https://open.spotify.com/album/0vCvdBdudeVkm1OrqE53yx) | 5:14 |
 | 23 | [Lagos Party Remix \(feat\. Naeto C, D'Banj, 9ice, eLDee & Muna\)](https://open.spotify.com/track/5qoiIKpBd4MJ9kNqt9pmvv) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [The W Experience](https://open.spotify.com/album/058QZyQCYYzQgZ0fCKqgSW) | 6:06 |
 | 24 | [Moonlight Highlife](https://open.spotify.com/track/0VbMP1oje4fglCoKDk99GT) | [Victor Olaiya](https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f) | [The Evil Genius Of Highlife Vol\. 2](https://open.spotify.com/album/3ODHfdhSsx7SqI1RCHFtUy) | 3:13 |

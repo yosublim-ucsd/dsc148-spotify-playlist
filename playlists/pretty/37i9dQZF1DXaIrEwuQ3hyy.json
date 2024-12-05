@@ -1,6 +1,6 @@
 {
   "description": "Songs, die von innen w\u00e4rmen.",
-  "num_followers": 1052002,
+  "num_followers": 1051993,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 222092,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 214459,
       "name": "Till the Morning",
       "url": "https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 222092,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw"
     },
     {
       "added_at": "2024-11-29 09:11:57",
@@ -775,42 +775,6 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
-      },
-      "artists": [
-        {
-          "name": "Ben B\u00f6hmer",
-          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
-        },
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
         "name": "Am Ende des Tages",
         "url": "https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL"
       },
@@ -831,6 +795,26 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/57OLEpkhCXysV9FWrSbwid"
+      },
+      "artists": [
+        {
+          "name": "Ben B\u00f6hmer",
+          "url": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
+        },
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/1uw7zptD4uClo6XsS8dQWY"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
         "name": "Sick To My Stomach",
         "url": "https://open.spotify.com/album/1TI2bQeR8meH1imvwWQ2wj"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 198253,
       "name": "June",
       "url": "https://open.spotify.com/track/6xeW7VxuO6X11pcK0rKJhk"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
+        "name": "Summer Song",
+        "url": "https://open.spotify.com/album/0KiSQWyKtwRnyQ2hp4inpL"
+      },
+      "artists": [
+        {
+          "name": "Remy Bond",
+          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
+        }
+      ],
+      "duration_ms": 245504,
+      "name": "Summer Song",
+      "url": "https://open.spotify.com/track/6MIfMrShQjQqm7mf3r9dLE"
     },
     {
       "added_at": "2024-11-29 09:11:57",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
+        "name": "Wasting Away",
+        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 168956,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
         "name": "Nur",
         "url": "https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "Wasting Away",
-        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 168956,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
         "name": "getting used to",
         "url": "https://open.spotify.com/album/1nrT3XGdoGXhoNdFzH9H4Y"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "When a Thought Grows Wings",
-        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
-      },
-      "artists": [
-        {
-          "name": "Luna Li",
-          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
-        }
-      ],
-      "duration_ms": 223929,
-      "name": "That's Life",
-      "url": "https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
         "name": "when i close my eyes",
         "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 226117,
       "name": "when i close my eyes",
       "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
+        "name": "When a Thought Grows Wings",
+        "url": "https://open.spotify.com/album/42O64iXplUzBiYcUX1ELQw"
+      },
+      "artists": [
+        {
+          "name": "Luna Li",
+          "url": "https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3"
+        }
+      ],
+      "duration_ms": 223929,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/45qWYodQFrF6TJ77NtF4Ke"
     },
     {
       "added_at": "2024-11-29 09:11:57",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "Golden Rope",
-        "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
-      },
-      "artists": [
-        {
-          "name": "Bulgarian Cartrader",
-          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
-        }
-      ],
-      "duration_ms": 220275,
-      "name": "Golden Rope",
-      "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
         "name": "wo bin ich",
         "url": "https://open.spotify.com/album/1EWDJG9bvcEwyEOPZtcLFc"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 123297,
       "name": "wo bin ich",
       "url": "https://open.spotify.com/track/5UXJVxwMKnWVKmaLAZtaDY"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
+        "name": "Golden Rope",
+        "url": "https://open.spotify.com/album/5zD9Ak75Sc7vw04pdpXGz8"
+      },
+      "artists": [
+        {
+          "name": "Bulgarian Cartrader",
+          "url": "https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx"
+        }
+      ],
+      "duration_ms": 220275,
+      "name": "Golden Rope",
+      "url": "https://open.spotify.com/track/2ogq0f3TzF5OU1155mnKOy"
     },
     {
       "added_at": "2024-11-29 09:11:57",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "L'\u00c9t\u00e9 en Hiver",
-        "url": "https://open.spotify.com/album/66ik4jYGRv6SAq9Dr259zY"
-      },
-      "artists": [
-        {
-          "name": "Whisper",
-          "url": "https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f"
-        },
-        {
-          "name": "Disiz",
-          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
-        }
-      ],
-      "duration_ms": 152373,
-      "name": "L'\u00c9t\u00e9 en Hiver",
-      "url": "https://open.spotify.com/track/2IbhmY0Vwx1rt927QdXgK0"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
         "name": "Blau",
         "url": "https://open.spotify.com/album/23SHHCFDCsNhSvCPH4Y63O"
       },
@@ -1335,22 +1315,6 @@
       "duration_ms": 160200,
       "name": "Blau",
       "url": "https://open.spotify.com/track/27BDgmEjgMdHLYIWogdnIU"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
-        "name": "Coffee Shop",
-        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 124080,
-      "name": "Coffee Shop",
-      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     },
     {
       "added_at": "2024-11-29 09:11:57",
@@ -1371,18 +1335,38 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "How?",
-        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
+        "name": "L'\u00c9t\u00e9 en Hiver",
+        "url": "https://open.spotify.com/album/66ik4jYGRv6SAq9Dr259zY"
       },
       "artists": [
         {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+          "name": "Whisper",
+          "url": "https://open.spotify.com/artist/3VSRmHKVwL8poAI8cxpm6f"
+        },
+        {
+          "name": "Disiz",
+          "url": "https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g"
         }
       ],
-      "duration_ms": 182000,
-      "name": "How?",
-      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
+      "duration_ms": 152373,
+      "name": "L'\u00c9t\u00e9 en Hiver",
+      "url": "https://open.spotify.com/track/2IbhmY0Vwx1rt927QdXgK0"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
+        "name": "Coffee Shop",
+        "url": "https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 124080,
+      "name": "Coffee Shop",
+      "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     },
     {
       "added_at": "2024-11-29 09:11:57",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "cupped and open",
-        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
+        "name": "How?",
+        "url": "https://open.spotify.com/album/0ORqx48RYRW5PPhHj9GiAY"
       },
       "artists": [
         {
-          "name": "Mogli",
-          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
-      "duration_ms": 236167,
-      "name": "cupped and open",
-      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
+      "duration_ms": 182000,
+      "name": "How?",
+      "url": "https://open.spotify.com/track/3CLIHcG3QkhN69YEPFc2ZM"
     },
     {
       "added_at": "2024-11-29 09:11:57",
@@ -1431,6 +1415,22 @@
       "duration_ms": 207133,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
+        "name": "cupped and open",
+        "url": "https://open.spotify.com/album/2Pucq0ve5p2BeKSTYmTMUT"
+      },
+      "artists": [
+        {
+          "name": "Mogli",
+          "url": "https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c"
+        }
+      ],
+      "duration_ms": 236167,
+      "name": "cupped and open",
+      "url": "https://open.spotify.com/track/52ntBF2aENaIPAszw2EHrj"
     },
     {
       "added_at": "2024-11-29 09:11:57",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
-      },
-      "artists": [
-        {
-          "name": "zeck",
-          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
-        }
-      ],
-      "duration_ms": 187795,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
         "name": "when words fail",
         "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 176495,
       "name": "when words fail",
       "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/7vVLoKoAf1hnNAxk3NdMI6"
+      },
+      "artists": [
+        {
+          "name": "zeck",
+          "url": "https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO"
+        }
+      ],
+      "duration_ms": 187795,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/58UlCz2tHiJkgnQbSwmpND"
     },
     {
       "added_at": "2024-11-29 09:11:57",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-11-29 09:11:57",
       "album": {
-        "name": "little me",
-        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
-      },
-      "artists": [
-        {
-          "name": "Maddie Zahm",
-          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "little me",
-      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
-    },
-    {
-      "added_at": "2024-11-29 09:11:57",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 267100,
       "name": "Easy",
       "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
+    },
+    {
+      "added_at": "2024-11-29 09:11:57",
+      "album": {
+        "name": "little me",
+        "url": "https://open.spotify.com/album/6bBQRzc5Tdky59N3hquGQm"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "little me",
+      "url": "https://open.spotify.com/track/6I7ll3WgE3HkiszO7r0Cwy"
     },
     {
       "added_at": "2024-11-29 09:11:57",

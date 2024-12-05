@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 515 songs - 1 day 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 281 likes - 515 songs - 1 day 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -524,4 +524,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 514 | [Insubstituível](https://open.spotify.com/track/47okPEuAduPfgjuQcztMwi) | [Rogério & Vinicius](https://open.spotify.com/artist/242npdM1FeToWKENN5PVmn) | [Fazendinha](https://open.spotify.com/album/3J2YtXqpEVUPYdOggCrKij) | 3:46 |
 | 515 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 
-Snapshot ID: `AbjL3gAAAADL/mSqXxJlAPKubdgg03N7`
+Snapshot ID: `AbjRYAAAAADp9gvVM3nwEAaAorU06yVD`

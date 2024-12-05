@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra",
-  "num_followers": 42907,
+  "num_followers": 42909,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "La pluie",
+        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "La pluie",
+      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Guardia",
         "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 198000,
       "name": "Guardia",
       "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "La pluie",
-        "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
-      },
-      "artists": [
-        {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "La pluie",
-      "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -531,26 +531,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Old Friend",
-        "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        },
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 157491,
-      "name": "Old Friend",
-      "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 170680,
       "name": "L.F.O.L.F (feat. Leto)",
       "url": "https://open.spotify.com/track/34gQB3gmeWHRqhsRhAquwi"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Old Friend",
+        "url": "https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg"
+      },
+      "artists": [
+        {
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
+        },
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 157491,
+      "name": "Old Friend",
+      "url": "https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -619,26 +619,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "\u00c9videmment",
-        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
-        }
-      ],
-      "duration_ms": 183960,
-      "name": "\u00c9videmment",
-      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "P\u014dse\u00efd\u00f8n",
         "url": "https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17"
       },
@@ -675,6 +655,26 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "\u00c9videmment",
+        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "\u00c9videmment",
+      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Dans ma bulle",
         "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
       },
@@ -687,26 +687,6 @@
       "duration_ms": 152679,
       "name": "Dans ma bulle",
       "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Seul au monde (feat. Soolking)",
-        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
-      },
-      "artists": [
-        {
-          "name": "Corneille",
-          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
-        },
-        {
-          "name": "Soolking",
-          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
-        }
-      ],
-      "duration_ms": 180361,
-      "name": "Seul au monde (feat. Soolking)",
-      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -743,6 +723,26 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Seul au monde (feat. Soolking)",
+        "url": "https://open.spotify.com/album/6FDNPF6pWDiunpZicIU2fa"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        }
+      ],
+      "duration_ms": 180361,
+      "name": "Seul au monde (feat. Soolking)",
+      "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "STACKS",
         "url": "https://open.spotify.com/album/4FyWq3HRjM22ml5JGQwIvg"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 220160,
       "name": "STACKS",
       "url": "https://open.spotify.com/track/4vTypaKlQmPqLLeYhRWptb"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "BIG BOSS",
-        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
-      },
-      "artists": [
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
-        }
-      ],
-      "duration_ms": 122023,
-      "name": "BIG BOSS",
-      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -799,6 +783,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "BIG BOSS",
+        "url": "https://open.spotify.com/album/4PaaAErVTpa5Q9Io3ZrEeN"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 122023,
+      "name": "BIG BOSS",
+      "url": "https://open.spotify.com/track/1Qv5W0xuZRtXflP0z8VCGi"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Un v\u0153u",
         "url": "https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 238683,
       "name": "Un v\u0153u",
       "url": "https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "C'est l'heure",
+        "url": "https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5"
+      },
+      "artists": [
+        {
+          "name": "Ben Mazu\u00e9",
+          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
+        }
+      ],
+      "duration_ms": 149306,
+      "name": "C'est l'heure",
+      "url": "https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -835,38 +851,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "C'est l'heure",
-        "url": "https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5"
-      },
-      "artists": [
-        {
-          "name": "Ben Mazu\u00e9",
-          "url": "https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou"
-        }
-      ],
-      "duration_ms": 149306,
-      "name": "C'est l'heure",
-      "url": "https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Vie Viano (#STATION 1)",
-        "url": "https://open.spotify.com/album/1KvqB3fVRasWGX3Rpseggc"
-      },
-      "artists": [
-        {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
-        }
-      ],
-      "duration_ms": 102426,
-      "name": "Vie Viano (#STATION 1)",
-      "url": "https://open.spotify.com/track/1Rl3EOVuCPL0K6mYbPDlfa"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Chacun son chacun",
         "url": "https://open.spotify.com/album/5evTiiR9ce2tsiqO0BkilL"
       },
@@ -879,6 +863,26 @@
       "duration_ms": 153618,
       "name": "Chacun son chacun",
       "url": "https://open.spotify.com/track/3PmHpfvSyxtBqZrRG8K2zx"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "BDLM VOL.1",
+        "url": "https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "KLN",
+          "url": "https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe"
+        }
+      ],
+      "duration_ms": 194311,
+      "name": "NO LIMIT",
+      "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,247 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,291 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 69 | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/episode/2g2kFHrb2bFWdWe2I59IIM) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/show/0BLVSv3WdigtRGaZwaWnM9) | [Gen Hoshino \- 不思議 \(FUSHIGI\) \- Go Stream Live ver.](https://open.spotify.com/album/0BLVSv3WdigtRGaZwaWnM9) | 5:15 |
 | 70 | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/episode/4Egod6HWtLiHMbepJg4B6Q) | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/show/1Sqer3M4kCCnAnl8AeQ1No) | [Gen Hoshino \- 喜劇 \(Comedy\) \- Go Stream Live ver.](https://open.spotify.com/album/1Sqer3M4kCCnAnl8AeQ1No) | 4:04 |
 
-Snapshot ID: `ZYrqcAAAAADfAtR0s27gx9V/TLuUQbjD`
+Snapshot ID: `Z1ERnAAAAACdxCWvLu6rmSEWo2XGxppu`

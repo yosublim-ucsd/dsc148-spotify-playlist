@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs83FtTMQFw.md) - [plain]
 
 > The hottest tracks of today ft\. The Weeknd, Gunna, Latto and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,305,147 likes - 105 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,305,385 likes - 105 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

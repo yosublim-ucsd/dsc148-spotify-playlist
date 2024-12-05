@@ -4,7 +4,7 @@
 
 > 
 
-241 songs - 14 hr 7 min
+242 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [SOUTH MEMPHIS](https://open.spotify.com/track/6lB7u4TFlnAfG31jR2Nlh3) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [THE SHADOW DOES NOT LET GO](https://open.spotify.com/album/1d7r1jS1OsAqd9fj5NYmH0) | 2:37 | 2020-07-16 |  |
 | [Space](https://open.spotify.com/track/1LDQNuUI0iO6rTfZ6IqSKf) | [Tokyo Tears](https://open.spotify.com/artist/4zEUlt3AmxKcL9CtFNIz32) | [Space](https://open.spotify.com/album/63VjFFKEqyHcMAPKbAC5u6) | 3:17 | 2020-08-10 |  |
 | [Spacing](https://open.spotify.com/track/1mTEtAKHbJdXvw7H8mvKo1) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 4:41 | 2020-01-05 |  |
+| [strange places](https://open.spotify.com/track/3tNoN9RQFDgspAgREXVXeF) | [EMGX](https://open.spotify.com/artist/0fZsTsrLwONPhMzjwCwS8W) | [strange places](https://open.spotify.com/album/6eqNJI63t741nhPVoXHapf) | 2:16 | 2024-12-04 |  |
 | [STRATOSPHERE](https://open.spotify.com/track/2TXuKQBEMAgewrG0VFJngq) | [Lestmor](https://open.spotify.com/artist/3udoTlgIpeC1VAFeR8BcPK), [ROMANTICA](https://open.spotify.com/artist/3Z2tyxT1pjQnZtkwGQngi6) | [STRATOSPHERE](https://open.spotify.com/album/26UklZWmkfdZq26X8wrRRg) | 2:15 | 2024-10-27 |  |
 | [Stream](https://open.spotify.com/track/5GW3F4v5PJr4A9l2Fbs40G) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Story Prologue EP](https://open.spotify.com/album/7rhCjq7EaXmQT1sTs8Ls01) | 3:32 | 2023-02-20 |  |
 | [Switch Up](https://open.spotify.com/track/5DhVPyGrCU55QTZMKVwQPU) | [COSMIC](https://open.spotify.com/artist/3yrkuc99URznjwVvVFtN78), [hyperforms](https://open.spotify.com/artist/0NreEgNG54pUbCtdJ7W7ub) | [Switch Up](https://open.spotify.com/album/5oOxGXJxVWPecNxWQ9EGtQ) | 3:38 | 2018-11-27 |  |

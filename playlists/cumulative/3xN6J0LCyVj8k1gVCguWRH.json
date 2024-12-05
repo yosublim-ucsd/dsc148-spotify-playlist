@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 131944,
       "name": "Act Like",
       "url": "https://open.spotify.com/track/01vPw1LCucZoo21GX2uHqZ"
@@ -9659,6 +9659,24 @@
     },
     {
       "album": {
+        "name": "Illusions Of Love",
+        "url": "https://open.spotify.com/album/2nSGRHHQjxVPKUo8gzQkjq"
+      },
+      "artists": [
+        {
+          "name": "West Bound Hearts",
+          "url": "https://open.spotify.com/artist/0giZUOOgs1OCKvbiFf1AEB"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220723,
+      "name": "Breaking Your Heart",
+      "url": "https://open.spotify.com/track/2xqCRFrP6fGq4ksIxkjulj"
+    },
+    {
+      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/4SjEzj8IbG9y9i9sycSMLz"
       },
@@ -9688,7 +9706,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 174666,
       "name": "breathe",
       "url": "https://open.spotify.com/track/1rRwEeIXxEPnmOGUXoqcXC"
@@ -9858,7 +9876,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 202666,
       "name": "BRIGHTER DAY",
       "url": "https://open.spotify.com/track/4G5pwamHl8oO31tPX4cF9j"
@@ -33438,7 +33456,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 196923,
       "name": "I See You",
       "url": "https://open.spotify.com/track/5KoI2AX8E4qHb2z0GiuqfG"
@@ -36610,7 +36628,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 170721,
       "name": "JEJE",
       "url": "https://open.spotify.com/track/0pVmlTT52FFqgJB1cu5b7J"
@@ -41070,6 +41088,28 @@
       "duration_ms": 146979,
       "name": "Living For",
       "url": "https://open.spotify.com/track/03LB8fHbPRvl4MygY4bHcZ"
+    },
+    {
+      "album": {
+        "name": "Living for Forever",
+        "url": "https://open.spotify.com/album/42hdeBvrN9qsKmiA0bZLr9"
+      },
+      "artists": [
+        {
+          "name": "Julian Shah-Tayler",
+          "url": "https://open.spotify.com/artist/1vhNv7y2kxwcjbIf2f4CXX"
+        },
+        {
+          "name": "David Chatfield",
+          "url": "https://open.spotify.com/artist/0FQDAcgizU71bs2u0jQri4"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213909,
+      "name": "Living for Forever (Chatfield Remix)",
+      "url": "https://open.spotify.com/track/1i5cc8oDej5ZwGrAuZhbZG"
     },
     {
       "album": {
@@ -58387,6 +58427,28 @@
     },
     {
       "album": {
+        "name": "Rockin Around the Christmas Tree",
+        "url": "https://open.spotify.com/album/0OPSJj3yMSCaCGSVqG1hUN"
+      },
+      "artists": [
+        {
+          "name": "Lucille Two",
+          "url": "https://open.spotify.com/artist/0fHke0FX5RQOe0E5nPpeRI"
+        },
+        {
+          "name": "\u00d8ZWALD",
+          "url": "https://open.spotify.com/artist/7pwk3M6iETEiAFLwqkgLrk"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143777,
+      "name": "Rockin Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/07CFwgzYmmh2NwcpsDndzn"
+    },
+    {
+      "album": {
         "name": "Rocking Into Midnight",
         "url": "https://open.spotify.com/album/4HzFlPvT7n7rSDh7GVyxSr"
       },
@@ -67778,6 +67840,28 @@
     {
       "album": {
         "name": "Talk",
+        "url": "https://open.spotify.com/album/3UGHBQaBx1zJ8yFWhaTlrH"
+      },
+      "artists": [
+        {
+          "name": "Lemonade Baby",
+          "url": "https://open.spotify.com/artist/2TZlhPzWNmXh6nWTQHnoxs"
+        },
+        {
+          "name": "Of Lion",
+          "url": "https://open.spotify.com/artist/34KvE1ocAJaar3vekwSb9G"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/3Y1HAbgh1pclMyIXuMbMuq"
+    },
+    {
+      "album": {
+        "name": "Talk",
         "url": "https://open.spotify.com/album/4woIpCK5jFRyJgLzyR6l3B"
       },
       "artists": [
@@ -73434,7 +73518,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 219554,
       "name": "Unanswered",
       "url": "https://open.spotify.com/track/0tfqaujsjUExihc2saPJfJ"
@@ -73854,6 +73938,24 @@
       "duration_ms": 195454,
       "name": "Untamed",
       "url": "https://open.spotify.com/track/41binbQGuTMcIMwdsXrpNs"
+    },
+    {
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/3DZCRcty9tG0ss5smsboGN"
+      },
+      "artists": [
+        {
+          "name": "Nothing Like Robots",
+          "url": "https://open.spotify.com/artist/2fAsz7fjaibEtQd8i4OfrG"
+        }
+      ],
+      "date_added": "2024-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179189,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/2s2FQY87CytJ96v1hZOLLV"
     },
     {
       "album": {

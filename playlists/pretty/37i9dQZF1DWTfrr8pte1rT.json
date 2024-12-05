@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: HVDES \\m/",
-  "num_followers": 336044,
+  "num_followers": 336104,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Time Is Eating",
-        "url": "https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3"
-      },
-      "artists": [
-        {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Time Is Eating",
-      "url": "https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Time Is Eating",
+        "url": "https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3"
+      },
+      "artists": [
+        {
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Time Is Eating",
+      "url": "https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -1571,26 +1571,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "BRAINDEAD",
-        "url": "https://open.spotify.com/album/4xACBGqzOhJ8A0YJzqAvEn"
-      },
-      "artists": [
-        {
-          "name": "Kill Dyll",
-          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
-        },
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 140338,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/5cj6Ql1tVeHWUaNLF4K6Xy"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "IT'S NOT A PHASE",
         "url": "https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 192013,
       "name": "Dreamstate",
       "url": "https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "BRAINDEAD",
+        "url": "https://open.spotify.com/album/4xACBGqzOhJ8A0YJzqAvEn"
+      },
+      "artists": [
+        {
+          "name": "Kill Dyll",
+          "url": "https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 140338,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/5cj6Ql1tVeHWUaNLF4K6Xy"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Buried Beneath You",
         "url": "https://open.spotify.com/album/6V5Mgo4liTdgLpcEzRlUHU"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 211013,
       "name": "Buried Beneath You",
       "url": "https://open.spotify.com/track/0s21wy24ori9qnxzNBIHJd"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2087,18 +2087,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
+        "name": "Werewolf: Synthwave Edition",
+        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
       },
       "artists": [
         {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Saxl Rose",
+          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
         }
       ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
+      "duration_ms": 211387,
+      "name": "Werewolf: Synthwave Edition",
+      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2127,22 +2131,18 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Werewolf: Synthwave Edition",
-        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Saxl Rose",
-          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         }
       ],
-      "duration_ms": 211387,
-      "name": "Werewolf: Synthwave Edition",
-      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2187,6 +2187,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "Already Dead",
+        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+      },
+      "artists": [
+        {
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+        }
+      ],
+      "duration_ms": 139925,
+      "name": "Already Dead",
+      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/7dU0k0K5sPL9HjlNayeJO5"
       },
@@ -2199,26 +2215,6 @@
       "duration_ms": 160941,
       "name": "Happy",
       "url": "https://open.spotify.com/track/4yP4JAXW3rfqHYUO36knit"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 310607,
-      "name": "Skins",
-      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2239,18 +2235,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Already Dead",
-        "url": "https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2"
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
       },
       "artists": [
         {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 139925,
-      "name": "Already Dead",
-      "url": "https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y"
+      "duration_ms": 310607,
+      "name": "Skins",
+      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
+        "name": "sometimes i want to die",
+        "url": "https://open.spotify.com/album/5ek8tJG500ZzNJWdJ0eq8c"
+      },
+      "artists": [
+        {
+          "name": "FRND",
+          "url": "https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc"
+        }
+      ],
+      "duration_ms": 143793,
+      "name": "sometimes i want to die",
+      "url": "https://open.spotify.com/track/01jR3NN4PiTPsA35xykTzy"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
         "name": "Muted Blue",
         "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
       },
@@ -2335,22 +2351,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "sometimes i want to die",
-        "url": "https://open.spotify.com/album/5ek8tJG500ZzNJWdJ0eq8c"
-      },
-      "artists": [
-        {
-          "name": "FRND",
-          "url": "https://open.spotify.com/artist/7pMqgUModTCyS7hpa5n2Lc"
-        }
-      ],
-      "duration_ms": 143793,
-      "name": "sometimes i want to die",
-      "url": "https://open.spotify.com/track/01jR3NN4PiTPsA35xykTzy"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -2375,26 +2375,18 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Play the Game",
-        "url": "https://open.spotify.com/album/3MoeBhEJP75F5cS7oqxhmW"
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
       },
       "artists": [
         {
-          "name": "Adventure Club",
-          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
-        },
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Craig Mabbitt",
-          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Play the Game",
-      "url": "https://open.spotify.com/track/5J4JSnjrqicsxHW9Epu7SW"
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2415,18 +2407,26 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+        "name": "Play the Game",
+        "url": "https://open.spotify.com/album/3MoeBhEJP75F5cS7oqxhmW"
       },
       "artists": [
         {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Craig Mabbitt",
+          "url": "https://open.spotify.com/artist/0whorprfBPk2ZY7u81QwHa"
         }
       ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+      "duration_ms": 192000,
+      "name": "Play the Game",
+      "url": "https://open.spotify.com/track/5J4JSnjrqicsxHW9Epu7SW"
     },
     {
       "added_at": "2024-12-03 16:57:05",
@@ -2475,22 +2475,6 @@
     {
       "added_at": "2024-12-03 16:57:05",
       "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
-    },
-    {
-      "added_at": "2024-12-03 16:57:05",
-      "album": {
         "name": "Ohio is for Lovers",
         "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 232123,
       "name": "Ohio is for Lovers",
       "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
+    },
+    {
+      "added_at": "2024-12-03 16:57:05",
+      "album": {
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     },
     {
       "added_at": "2024-12-03 16:57:05",

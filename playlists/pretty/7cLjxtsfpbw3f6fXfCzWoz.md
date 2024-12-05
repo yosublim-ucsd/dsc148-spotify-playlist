@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 
 > For the bisexuals.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 58 songs - 3 hr 22 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 1 like - 59 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,6 @@ pretty - [cumulative](/playlists/cumulative/7cLjxtsfpbw3f6fXfCzWoz.md) - [plain]
 | 56 | [I've Got All This Ringing In My Ears And None On My Fingers](https://open.spotify.com/track/1CRVvwUopaV42bAEvoh194) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 4:06 |
 | 57 | [Going to Marrakesh](https://open.spotify.com/track/0FPsI1Ar6bKOkqKibt075r) | [The Extra Glenns](https://open.spotify.com/artist/3A59qAssw3Kwyrvy96NMCz) | [Martial Arts Weekend](https://open.spotify.com/album/4gJvpXol0SU06gUqMGGqK5) | 2:47 |
 | 58 | [Chinese House Flowers](https://open.spotify.com/track/6ZsvD1T2kaT8WQQN1iLJTH) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Full Force Galesburg](https://open.spotify.com/album/429c9crfLRTZDj6VQ7EXrM) | 2:57 |
+| 59 | [Alpha Desperation March](https://open.spotify.com/track/3Su7IKbmRiI8W8Fa69aoR2) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Bitter Melon Farm](https://open.spotify.com/album/6TM3RCfmgYVo6WzFfiosYH) | 2:51 |
 
-Snapshot ID: `AAAARrh4pwmJFYDIZKeoprLnHkPchy+j`
+Snapshot ID: `AAAAR2A2ypnr+MACFxLm/WlaO1KEFR9S`

@@ -4,7 +4,7 @@
 
 > 18K in cover della playlist con la nuova generazione del rap italiano.
 
-1,446 songs - 2 day 14 hr 4 min
+1,447 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [LAMBORGHINI \(feat\. Niky Savage\)](https://open.spotify.com/track/5Tsa3ifiL3M1m0BQkMNndb) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [LAMBORGHINI \(feat\. Niky Savage\)](https://open.spotify.com/album/1BSDD0LzYDJEotW20OvvcD) | 2:38 | 2023-12-14 | 2024-01-19 |
 | [LAMBORGHINI URUS](https://open.spotify.com/track/7dyOsHxaj8fSUI8QohzjpJ) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt) | [LAMBORGHINI URUS](https://open.spotify.com/album/5zR0xE3ZlefSbTWjCybjhh) | 2:04 | 2023-11-30 | 2023-12-22 |
 | [Landing \(feat\. Low\-Red\)](https://open.spotify.com/track/5BAGDRm7iSlnMCgbMFJm0C) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:18 | 2024-05-31 | 2024-06-21 |
+| [Lane Splitter](https://open.spotify.com/track/5kb4x7yrC5ZE0XBPYUnUTQ) | [Hammon](https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2) | [Cattivissimo Rap](https://open.spotify.com/album/7uxVytwhE6QNuAUbQM7c2B) | 2:17 | 2024-12-04 |  |
 | [LASCIA STARE](https://open.spotify.com/track/5nmW0sw7Cabh1WzOrnRiEV) | [HEVA](https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z) | [LASCIA STARE](https://open.spotify.com/album/1zIQTjsJE02wc6erzX0M64) | 1:48 | 2024-09-26 | 2024-10-18 |
 | [Lasciami andare](https://open.spotify.com/track/6X5bqRKUhw297ZdR1UsoPh) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [WEEKEND SU PLUTO](https://open.spotify.com/album/0i04xMqsMUuWrVyq5O0cDD) | 3:00 | 2024-06-20 | 2024-07-05 |
 | [Lavapiatti](https://open.spotify.com/track/7dMNAgpoZHWFx7Hr5dS1cH) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [Lavapiatti](https://open.spotify.com/album/2XcORakF3XPhhzVjOVuuYT) | 2:05 | 2023-06-29 | 2023-07-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Disclosure ft\. Pa Salieu \(pictured\), Ed Sheeran, Kesha and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,908 likes - 97 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,893 likes - 97 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

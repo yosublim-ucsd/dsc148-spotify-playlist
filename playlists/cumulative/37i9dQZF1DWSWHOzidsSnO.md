@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSWHOzidsSnO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSWHOzidsSnO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSWHOzidsSnO)
 
-### [EQUAL Andes](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
+### [Lo Mejor de EQUAL Andes 2024](https://open.spotify.com/playlist/37i9dQZF1DWSWHOzidsSnO)
 
 > ¡Mujeres de los Andes, a todo volumen! Con una selección especial de Greeicy.
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Sailorr
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,151 likes - 150 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,170 likes - 150 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 95 | [FOREVER](https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [FOREVER](https://open.spotify.com/album/4nAtrAfbl6wrPsOJWVurHI) | 4:29 |
 | 96 | [Things Change](https://open.spotify.com/track/5iV1Ob5cBDcxiZROELgeur) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [25!](https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A) | 3:18 |
 | 97 | [Back in My Body](https://open.spotify.com/track/1QAmVJiBVbCr3MYQ7XNQAY) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6) | [Back in My Body](https://open.spotify.com/album/1ABXO5zAU7TQYoh5QETYdA) | 3:42 |
-| 98 | [BONES](https://open.spotify.com/track/5OGo4XiomAu2eI2Pc1oZvX) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [I'll Finish The Lyrics Later](https://open.spotify.com/album/5HhsawLcSAifZcJGobnKbW) | 1:30 |
+| 98 | [BONES](https://open.spotify.com/track/5OGo4XiomAu2eI2Pc1oZvX) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [I'LL FINISH THE LYRICS LATER](https://open.spotify.com/album/5HhsawLcSAifZcJGobnKbW) | 1:30 |
 | 99 | [Fields](https://open.spotify.com/track/5dHa43X3sraGGt8wNVg7ya) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Fields](https://open.spotify.com/album/45Z7h9u7WsoLdzBMOfs1j9) | 3:20 |
 | 100 | [Fallin 4 A Thug](https://open.spotify.com/track/21LvidSXOuc5jgy5ttnCkP) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Fallin 4 A Thug](https://open.spotify.com/album/08two7eshES8TNEHi6WBGl) | 2:30 |
 | 101 | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/track/4XtliFaBmh2ID7LiDwHjCK) | [Girlfriend](https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Tell Me Again \(with Bay Swag\)](https://open.spotify.com/album/4bJap4XE07xCRaCRc6z6Ws) | 2:43 |

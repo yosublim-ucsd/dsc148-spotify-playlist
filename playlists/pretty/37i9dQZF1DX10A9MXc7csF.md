@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Hermanos Espinoza
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,972 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,018 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 28 | [EBRIO DE AMOR \- En Vivo](https://open.spotify.com/track/3AsYyNOCEAtv2Jko9QXoas) | [Octavio Cuadras](https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp) | [EBRIO DE AMOR \(En Vivo\)](https://open.spotify.com/album/0OUUdd4giRaMvwB1awaMtL) | 3:43 |
 | 29 | [Me Hice Bélico](https://open.spotify.com/track/6YSqNTHjDO01CHuu50eUE3) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Me Hice Bélico](https://open.spotify.com/album/0PklHIYAKaa9ojHys0Ople) | 2:33 |
 | 30 | [Yo Por Ti](https://open.spotify.com/track/3oUAh9VbxTClL83OC7sp8P) | [Brian Sandoval](https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL) | [Yo Por Ti](https://open.spotify.com/album/1uhjsUpbM3nNq7HMB2xSDz) | 2:46 |
-| 31 | [Entre Lo Malo Y Lo Bueno](https://open.spotify.com/track/5RiCYczBat20P4LbOSlrNy) | [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU), [Jorge Cantú](https://open.spotify.com/artist/0JxXohlKWDHN3sbxkRvqIQ) | [Entre Lo Malo Y Lo Bueno](https://open.spotify.com/album/2fiw2qSlia90X1FAVKZTMW) | 3:04 |
+| 31 | [Entre Lo Malo Y Lo Bueno](https://open.spotify.com/track/5RiCYczBat20P4LbOSlrNy) | [Los Hnos Rodriguez](https://open.spotify.com/artist/4pLBsWSdyApz2k5JtPnmGU), [Jorge Cantú](https://open.spotify.com/artist/62WfyvB8FF3GsRdjNlJABc) | [Entre Lo Malo Y Lo Bueno](https://open.spotify.com/album/2fiw2qSlia90X1FAVKZTMW) | 3:04 |
 | 32 | [Chaleco Salvavidas \- En Vivo](https://open.spotify.com/track/0l8VoS1l9TeipsG8rRZzMB) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Reserva de Oro \(En Vivo\)](https://open.spotify.com/album/4QNLBLlTaDlNYIGnTn066y) | 3:06 |
 | 33 | [Carnalito](https://open.spotify.com/track/0Yz6u4XqbrOfU5T7vPV3cZ) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [Carnalito](https://open.spotify.com/album/3QZWIob5yTnT3TSUwodM8f) | 2:52 |
 | 34 | [Miedo](https://open.spotify.com/track/0McFwIAoJnIlppS2i2xH0M) | [Martin Marquez](https://open.spotify.com/artist/4vDFthUo2UHQMdcyyhD3zx), [Ángel Flores](https://open.spotify.com/artist/4CkWMkrorqeMvKcIPVRjiY) | [Miedo](https://open.spotify.com/album/5elnvB4w4k2l4NZ7T9jGif) | 2:41 |

@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 110000,
       "name": "Ait Hissetmiyorum",
       "url": "https://open.spotify.com/track/5XQ1eD5Esz1CzdjH9bzbzn"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 198665,
       "name": "Bahsetmem Laz\u0131m",
       "url": "https://open.spotify.com/track/0pRykJaHRomTCCGd89b5cX"
@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Doldum",
+        "url": "https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav"
+      },
+      "artists": [
+        {
+          "name": "Ahiyan",
+          "url": "https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146718,
+      "name": "Doldum",
+      "url": "https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd"
+    },
+    {
+      "album": {
         "name": "DOMDOM",
         "url": "https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X"
       },
@@ -614,6 +632,24 @@
       "duration_ms": 299247,
       "name": "D\u00fc\u015fer O",
       "url": "https://open.spotify.com/track/7cCreOFQhqqhCm82twJg0u"
+    },
+    {
+      "album": {
+        "name": "D\u00fc\u015f\u00fc\u015flerim Fazla",
+        "url": "https://open.spotify.com/album/3wvLRWKTy8exkhC81GjyNV"
+      },
+      "artists": [
+        {
+          "name": "ZED\u0130",
+          "url": "https://open.spotify.com/artist/3FzjRFPl2VuRcDP0lH6sR8"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139585,
+      "name": "D\u00fc\u015f\u00fc\u015flerim Fazla",
+      "url": "https://open.spotify.com/track/3AaGQ8lTi31RBk9WMDfPX5"
     },
     {
       "album": {
@@ -754,7 +790,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 170613,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/42boV2FGsztYnQMAeoAjb6"
@@ -812,7 +848,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 196864,
       "name": "Hay\u0131rl\u0131 G\u00fcnler",
       "url": "https://open.spotify.com/track/3ExN5IQsWu2otaXOI3EJGt"
@@ -846,6 +882,24 @@
       "duration_ms": 181874,
       "name": "ILTIMAS X SUBMARINER",
       "url": "https://open.spotify.com/track/1ppnRAPv8zJjrNy4TW5w7M"
+    },
+    {
+      "album": {
+        "name": "Manifesto",
+        "url": "https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww"
+      },
+      "artists": [
+        {
+          "name": "Ati242",
+          "url": "https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181346,
+      "name": "Italy Forma",
+      "url": "https://open.spotify.com/track/7FfdTwI2i0b5PNeNvqtqCY"
     },
     {
       "album": {
@@ -1134,7 +1188,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 212062,
       "name": "Laf\u0131 m\u0131 Olur",
       "url": "https://open.spotify.com/track/6UX8nGE5sT7FsUAgQILD6X"
@@ -1434,7 +1488,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 207400,
       "name": "Sahici",
       "url": "https://open.spotify.com/track/6eZ9sIqtEqzPkGR3G9z2Pl"
@@ -1514,6 +1568,24 @@
       "duration_ms": 173307,
       "name": "Sen Bilmezsin",
       "url": "https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9"
+    },
+    {
+      "album": {
+        "name": "Seni Seven Kimdi",
+        "url": "https://open.spotify.com/album/6x0U8MXvacaNyr070qwfML"
+      },
+      "artists": [
+        {
+          "name": "Derya Bedavac\u0131",
+          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240642,
+      "name": "Seni Seven Kimdi",
+      "url": "https://open.spotify.com/track/5M6QrHGDWdWhyq7hVz3zR8"
     },
     {
       "album": {
@@ -1611,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Bende Bi' A\u015fk Var",
+        "url": "https://open.spotify.com/album/4iyO8Qvw2nQ5ahi6xDGu9u"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ksel",
+          "url": "https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219872,
+      "name": "Uzaktan",
+      "url": "https://open.spotify.com/track/1TxvnXbTRmYwtlkFEn8Rpb"
+    },
+    {
+      "album": {
         "name": "VEDA T\u00dcRK\u00dcS\u00dc",
         "url": "https://open.spotify.com/album/7ei9t3MIlufpCNxN9rS8T2"
       },
@@ -1648,6 +1738,36 @@
       "duration_ms": 146086,
       "name": "Yak\u0131\u015f\u0131kl\u0131",
       "url": "https://open.spotify.com/track/40IbMWcOQ3eTkyYcdFSEjM"
+    },
+    {
+      "album": {
+        "name": "YANKI X \u0130NT\u0130HAR",
+        "url": "https://open.spotify.com/album/5ldopWpksuXdFaKyvQP7gr"
+      },
+      "artists": [
+        {
+          "name": "Simge",
+          "url": "https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu"
+        },
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "Ozan Bayra\u015fa",
+          "url": "https://open.spotify.com/artist/7uvZiKlqJAqWz1ldB1iZ1X"
+        },
+        {
+          "name": "SNOW",
+          "url": "https://open.spotify.com/artist/58H98oCs7wfe6XZOgIaT0q"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151512,
+      "name": "YANKI X \u0130NT\u0130HAR",
+      "url": "https://open.spotify.com/track/0E1hVdXGZu0MoE77bYyjie"
     },
     {
       "album": {

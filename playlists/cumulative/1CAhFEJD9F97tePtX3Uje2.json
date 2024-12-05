@@ -3765,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "strange places",
+        "url": "https://open.spotify.com/album/6eqNJI63t741nhPVoXHapf"
+      },
+      "artists": [
+        {
+          "name": "EMGX",
+          "url": "https://open.spotify.com/artist/0fZsTsrLwONPhMzjwCwS8W"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "strange places",
+      "url": "https://open.spotify.com/track/3tNoN9RQFDgspAgREXVXeF"
+    },
+    {
+      "album": {
         "name": "STRATOSPHERE",
         "url": "https://open.spotify.com/album/26UklZWmkfdZq26X8wrRRg"
       },

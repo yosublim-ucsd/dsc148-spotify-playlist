@@ -923,6 +923,24 @@
     },
     {
       "album": {
+        "name": "Ebb",
+        "url": "https://open.spotify.com/album/3gwbC6C3G15nY0ktcx09fL"
+      },
+      "artists": [
+        {
+          "name": "Gleework",
+          "url": "https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136483,
+      "name": "Ebb",
+      "url": "https://open.spotify.com/track/6DzXikYMPvw1T9rqasupiQ"
+    },
+    {
+      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/731Aao1LRdcSKTKI6y65jb"
       },
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 242700,
       "name": "Wavy",
       "url": "https://open.spotify.com/track/2ZmBus1Smzpa4qRNkWd1Bu"

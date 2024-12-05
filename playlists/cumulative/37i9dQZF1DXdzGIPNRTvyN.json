@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 150884,
       "name": "432 Hz Omgivande",
       "url": "https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg"
@@ -52,10 +52,28 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 151500,
       "name": "528 Hz Whispered Stream",
       "url": "https://open.spotify.com/track/6Gv8jmDrZ41knvfN6n5qOO"
+    },
+    {
+      "album": {
+        "name": "A Flowing Stream",
+        "url": "https://open.spotify.com/album/78VKBRnDa8TVkZGgaQYriO"
+      },
+      "artists": [
+        {
+          "name": "Cerasifera",
+          "url": "https://open.spotify.com/artist/6KiFF18YRCbYzhQl5XEY9k"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "A Flowing Stream",
+      "url": "https://open.spotify.com/track/6qHrWqMeZEMl7SOIHF0qmO"
     },
     {
       "album": {
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 196923,
       "name": "Close Your Eyes",
       "url": "https://open.spotify.com/track/2bwDS1XzL0yNHyMEZxbRsI"
@@ -1438,7 +1456,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 160371,
       "name": "Forest Harp Dreams 528 Hz",
       "url": "https://open.spotify.com/track/7bRCmNh2cPzxhPskiniGSA"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 171428,
       "name": "Harmony Haven",
       "url": "https://open.spotify.com/track/1QTkKOIRpvU66GAeE1q0MX"
@@ -2566,6 +2584,24 @@
       "duration_ms": 122694,
       "name": "Masterwort",
       "url": "https://open.spotify.com/track/4miFaDEcVNKXBWGAdIb6vA"
+    },
+    {
+      "album": {
+        "name": "Maya Koshas",
+        "url": "https://open.spotify.com/album/4FRpcGxqAXidbhpMyK6lTs"
+      },
+      "artists": [
+        {
+          "name": "Acasia Movement",
+          "url": "https://open.spotify.com/artist/4e0cqWjAWOTv46JCMrPOkO"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149433,
+      "name": "Maya Koshas",
+      "url": "https://open.spotify.com/track/5qJmKV9jhebr7cf2jyOzWr"
     },
     {
       "album": {
@@ -4085,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "Skoog",
+        "url": "https://open.spotify.com/album/73Jo8b1BCPoWAVetF4H52N"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207900,
+      "name": "Skoog",
+      "url": "https://open.spotify.com/track/51Z0L8e5Wk1EUHfHHBY8lu"
+    },
+    {
+      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo"
       },
@@ -4240,7 +4294,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 151654,
       "name": "Spa Rituals",
       "url": "https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP"
@@ -4388,6 +4442,24 @@
       "duration_ms": 204039,
       "name": "Sun-drenched Greenery",
       "url": "https://open.spotify.com/track/3NNQpaLBsVHJrumz9inhFf"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/32ag8xH70wLTbKDS6Rcq7Q"
+      },
+      "artists": [
+        {
+          "name": "Constant Future",
+          "url": "https://open.spotify.com/artist/0MhUXfJGaHfNudsEeha6iA"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191904,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/08x0lo9qXTPOHpmJXOIUGV"
     },
     {
       "album": {
@@ -4571,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "The River Song",
+        "url": "https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q"
+      },
+      "artists": [
+        {
+          "name": "Silence Concertos",
+          "url": "https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164210,
+      "name": "The River Song",
+      "url": "https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI"
+    },
+    {
+      "album": {
         "name": "The Universe Within",
         "url": "https://open.spotify.com/album/0XVYHXKxNHRGjUGfUN8ukA"
       },
@@ -4715,6 +4805,24 @@
     },
     {
       "album": {
+        "name": "Unfound",
+        "url": "https://open.spotify.com/album/4MpFqknGk8oGkEC1WDapzE"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191833,
+      "name": "Unfound",
+      "url": "https://open.spotify.com/track/4KwXtiXE4aNAjzEoWybjnP"
+    },
+    {
+      "album": {
         "name": "Unit\u00e9",
         "url": "https://open.spotify.com/album/2arwW4mufgnvXDiPYIT6ze"
       },
@@ -4726,7 +4834,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 158250,
       "name": "Unit\u00e9",
       "url": "https://open.spotify.com/track/1XNuWRKQ8EoadsOq0nGtuI"

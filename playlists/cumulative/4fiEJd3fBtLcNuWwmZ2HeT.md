@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-257 songs - 14 hr 41 min
+260 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [/ / // / /](https://open.spotify.com/track/3gCPs1TDRH9v9QlF5h3zD5) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [/ / // / /](https://open.spotify.com/album/1MYxlVGsq3RBe5O3Em3xnz) | 2:13 | 2023-10-30 |  |
 | [Absolute Territory](https://open.spotify.com/track/32zqrDpYvNr8BuOClDpavD) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [Absolute Territory](https://open.spotify.com/album/2N8HOZgX1QWpighqf7Tvo7) | 4:28 | 2022-09-24 |  |
 | [ACHE IN PULSE](https://open.spotify.com/track/0Iqcphch06zxuUFcljKjaI) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 3:28 | 2023-11-08 |  |
+| [Akujiki](https://open.spotify.com/track/565shq9eUdoknV8W0rUViP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:23 | 2024-12-03 |  |
 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 | 2022-09-02 |  |
 | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/track/4d219MDLlMdxhBLyOEOoDx) | [吐息](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/album/0YSk1A1AnAoUku60Dwc3ja) | 2:22 | 2024-09-07 |  |
 | [Anoko secret](https://open.spotify.com/track/67gYAheGPb06KwCkuAaHbF) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:53 | 2023-01-29 |  |
@@ -104,6 +105,7 @@
 | [Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Moe Moe](https://open.spotify.com/album/4cQMG9J5WiIDMYaWf5axzy) | 3:09 | 2022-10-29 |  |
 | [NOX LUX](https://open.spotify.com/track/69gjQpIkp1ZA4XlCRAm67T) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [NOX LUX](https://open.spotify.com/album/2W1fq9AQtzxztLOm5AfEq0) | 4:33 | 2024-12-02 |  |
 | [ODD NUMBER](https://open.spotify.com/track/26gnN7LjvFo6Bwsmcu0mx1) | [吉乃](https://open.spotify.com/artist/4jxGzNzN68CsE1SnKixpiF) | [ODD NUMBER](https://open.spotify.com/album/5KIFNFrK22XFmsmY9rVKMO) | 3:09 | 2024-11-18 |  |
+| [Oh...](https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26) | [Tadano Kaede](https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8) | [essence](https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg) | 3:41 | 2024-12-03 |  |
 | [Only Wonder](https://open.spotify.com/track/66gqGFhqcoEjiCcp02rsir) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Frederhythm](https://open.spotify.com/album/47CP4H5sU69fTUPyI0SD4S) | 4:43 | 2023-12-24 |  |
 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 | 2023-06-25 |  |
 | [p.h.](https://open.spotify.com/track/3WxlfdEj9jL5PQiyFfQvcM) | [SEVENTHLINKS](https://open.spotify.com/artist/7GLKth0GUYwTRUDm217DHO) | [p.h.](https://open.spotify.com/album/7LwBnfRTz070DrRlVXiQwj) | 2:35 | 2024-09-09 |  |
@@ -164,6 +166,7 @@
 | [おしゃかしゃま](https://open.spotify.com/track/39oAp7sfaU9PDaraVLD31O) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [アルトコロニーの定理](https://open.spotify.com/album/5L5EmTd2tdm70Yo0CYLIsg) | 3:48 | 2024-03-10 |  |
 | [おともだち](https://open.spotify.com/track/50eZvIHB0xLGufN0V6FGcF) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [おともだち](https://open.spotify.com/album/7zoaKknjImLwzHwzGMcsey) | 3:14 | 2024-07-08 |  |
 | [お勉強しといてよ](https://open.spotify.com/track/3sgJTMHqDwxfsBIMqvkXKE) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:39 | 2023-10-25 |  |
+| [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/track/4wdZoFvA5zpxVglDuESYJ3) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [お洒落番長 \(feat\. Ado\)](https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev) | 4:40 | 2024-12-03 |  |
 | [けーたいみしてよ](https://open.spotify.com/track/2lM1Qox6qq2bU7zKJyVt9p) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [けーたいみしてよ](https://open.spotify.com/album/4DHNe9ihe9Lnc9i5RkbgX7) | 2:12 | 2024-09-07 |  |
 | [さみしいひと](https://open.spotify.com/track/7zzjQ4NWOgAjCdsFGdoFKh) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [NEW ROMANCER](https://open.spotify.com/album/4oXJbsrzcBWP3Jf07jkOGO) | 3:02 | 2024-06-26 |  |
 | [ただ病名が欲しかった](https://open.spotify.com/track/6d3GDEnwhSC2zSpBhN9zaZ) | [kyiku](https://open.spotify.com/artist/5eE5UwQWBq47o0U1K63i6P) | [ただ病名が欲しかった](https://open.spotify.com/album/6eJH1nePY7LemgUbUXmjGY) | 3:14 | 2024-11-18 |  |

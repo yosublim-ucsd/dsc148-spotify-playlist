@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 243986,
+  "num_followers": 243976,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "In My Heart In My Veins",
+        "url": "https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Time Ain't On Our Side",
+      "url": "https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "NICE GIRLS",
         "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
       },
@@ -923,18 +939,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "In My Heart In My Veins",
-        "url": "https://open.spotify.com/album/09mcAHl3Ws2UJYj5VkAo0m"
+        "name": "Why (Remix)",
+        "url": "https://open.spotify.com/album/3HHhIRz5oDEXzbHPKixuZz"
       },
       "artists": [
         {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+          "name": "Lizzen",
+          "url": "https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl"
+        },
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
         }
       ],
-      "duration_ms": 196923,
-      "name": "Time Ain't On Our Side",
-      "url": "https://open.spotify.com/track/0iGxoqlf3netok5Hrkb9E6"
+      "duration_ms": 161281,
+      "name": "Why (Remix)",
+      "url": "https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -955,26 +975,6 @@
       "duration_ms": 126009,
       "name": "Lately Remix (feat. Craig David)",
       "url": "https://open.spotify.com/track/7nshQSTwWcJpat2oSUzck3"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Why (Remix)",
-        "url": "https://open.spotify.com/album/3HHhIRz5oDEXzbHPKixuZz"
-      },
-      "artists": [
-        {
-          "name": "Lizzen",
-          "url": "https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl"
-        },
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 161281,
-      "name": "Why (Remix)",
-      "url": "https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+    },
+    {
+      "added_at": "2024-11-21 23:00:00",
+      "album": {
         "name": "ANTICIPATE",
         "url": "https://open.spotify.com/album/0sbrQMVmzrWVpjwau4A2QK"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 152138,
       "name": "ANTICIPATE",
       "url": "https://open.spotify.com/track/6cKh9bgXR4BYPIgnSLDSbp"
-    },
-    {
-      "added_at": "2024-11-21 23:00:00",
-      "album": {
-        "name": "Spinn On You",
-        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 140663,
-      "name": "Spinn On You",
-      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3"
+        "name": "Major Minor",
+        "url": "https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT"
       },
       "artists": [
         {
-          "name": "Eloy",
-          "url": "https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV"
+          "name": "Donna Lugassy",
+          "url": "https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm"
         }
       ],
-      "duration_ms": 169787,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ"
+      "duration_ms": 149647,
+      "name": "Major Minor",
+      "url": "https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA"
     },
     {
       "added_at": "2024-11-21 23:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2024-11-21 23:00:00",
       "album": {
-        "name": "Major Minor",
-        "url": "https://open.spotify.com/album/75Tf1IlXMklktZHEu31nMT"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/2WdsqipnJWOJLdwWwkyGl3"
       },
       "artists": [
         {
-          "name": "Donna Lugassy",
-          "url": "https://open.spotify.com/artist/2HzqUEj9ykyhata2BiX2Pm"
+          "name": "Eloy",
+          "url": "https://open.spotify.com/artist/6kJHsntY0ntExby5khqBTV"
         }
       ],
-      "duration_ms": 149647,
-      "name": "Major Minor",
-      "url": "https://open.spotify.com/track/2CnlAkb4mPrB4VSiySdqEA"
+      "duration_ms": 169787,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2J9Xgx7JglqXO21ACuWVsQ"
     },
     {
       "added_at": "2024-11-21 23:00:00",

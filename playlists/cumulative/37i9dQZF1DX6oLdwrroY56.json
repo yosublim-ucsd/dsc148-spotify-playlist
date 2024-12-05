@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-10-25",
-  "description": "pinoy alternative music . Cover: Wiji Kun",
-  "name": "alt.ph",
+  "description": "Most streamed Pinoy Indie tracks in 2024. Cover: TONEEJAY",
+  "name": "Best of alt.ph 2024",
   "tracks": [
     {
       "album": {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 235700,
       "name": "Accidents",
       "url": "https://open.spotify.com/track/7lMWnmbFWP1Rg0cSICKmjx"
@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 252252,
       "name": "Alitan",
       "url": "https://open.spotify.com/track/2Gv2G2MVmS2jejPj10SeRE"
@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 206351,
       "name": "ANXIOUS HEART",
       "url": "https://open.spotify.com/track/49Izqy2bYpnFKnlGNQlRbE"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 204590,
       "name": "around in the",
       "url": "https://open.spotify.com/track/4IHT3mAaqw5vkA2TJ0PCwH"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 185018,
       "name": "Asan Ang Gana Ko",
       "url": "https://open.spotify.com/track/7eyX57pLwUUP46gneOrxUr"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 284129,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/1UFE7RX9K2ZGjbcQt4yu2E"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 235636,
       "name": "Bahaghari (Halika na)",
       "url": "https://open.spotify.com/track/1i0Kp24hzORn8FPXlS7TEt"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 245452,
       "name": "bakasyon",
       "url": "https://open.spotify.com/track/7q7BWieEcjilMrSr752Hqk"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 182926,
       "name": "Binalewala",
       "url": "https://open.spotify.com/track/6VK9rCw2Gwt3zJ23bzxlwJ"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 233761,
       "name": "Break time",
       "url": "https://open.spotify.com/track/7tDdIzfcxAtmU7JPTBpjiZ"
@@ -517,6 +517,28 @@
     },
     {
       "album": {
+        "name": "Sad Songs and Bullshit Part 1",
+        "url": "https://open.spotify.com/album/7H0mDAUmK6BUuGZCy10kcv"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        },
+        {
+          "name": "Zild",
+          "url": "https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317975,
+      "name": "Gabi",
+      "url": "https://open.spotify.com/track/6bRB6pvgrVRAi1VdFz9TJb"
+    },
+    {
+      "album": {
         "name": "Gabi",
         "url": "https://open.spotify.com/album/5MJpKfU02ZKk1pv1vCf2Rb"
       },
@@ -528,7 +550,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 265028,
       "name": "Gabi",
       "url": "https://open.spotify.com/track/2WJv0Oat2e39R4iAWZVm0l"
@@ -572,7 +594,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 244036,
       "name": "Ganid",
       "url": "https://open.spotify.com/track/6pLripA8bBASZR2dPVdZNB"
@@ -590,7 +612,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 199333,
       "name": "Gigil",
       "url": "https://open.spotify.com/track/175olPDR4vvN4lrPgHNZtJ"
@@ -608,7 +630,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 239450,
       "name": "GO HOME",
       "url": "https://open.spotify.com/track/17UJwWMzDcgonu4TjtiBYl"
@@ -680,7 +702,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 215188,
       "name": "Hiling",
       "url": "https://open.spotify.com/track/5UfaNSUPZ0T1wlg5uu6AlM"
@@ -698,7 +720,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 261739,
       "name": "Himbing",
       "url": "https://open.spotify.com/track/0cYu2DWw8Fzo0ZyxBZKC6h"
@@ -716,7 +738,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 211302,
       "name": "hindi ko alam",
       "url": "https://open.spotify.com/track/6cXBwW4mDlxrjpXVNqeSAv"
@@ -752,7 +774,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 222580,
       "name": "how could it be",
       "url": "https://open.spotify.com/track/2fbuZc8ms9dRnKa8TgIrHW"
@@ -770,7 +792,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-04",
+      "date_removed": null,
       "duration_ms": 259799,
       "name": "I JUST WANT TO KISS YOU NOW",
       "url": "https://open.spotify.com/track/5LXtfG0XvhHRTEuDIHwlic"
@@ -846,7 +868,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 136730,
       "name": "Just Another Christmas",
       "url": "https://open.spotify.com/track/6uy8wSbsQ9zJQxkxgWiwNl"
@@ -882,7 +904,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-04",
+      "date_removed": null,
       "duration_ms": 184374,
       "name": "Kaibigan Lang",
       "url": "https://open.spotify.com/track/1Er4vI9EaYyIJYawP3NIwn"
@@ -900,7 +922,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 250800,
       "name": "Kasayaw",
       "url": "https://open.spotify.com/track/5ocqqw7odUNJXBdnGUJCQa"
@@ -918,7 +940,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 250657,
       "name": "KELAN",
       "url": "https://open.spotify.com/track/13byAV7v6G7GQ3mKyD1Zqe"
@@ -936,7 +958,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 345344,
       "name": "Kita Kita",
       "url": "https://open.spotify.com/track/0J6a5fxArviWOiTBousbNO"
@@ -990,7 +1012,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 252000,
       "name": "Langit at Lupa",
       "url": "https://open.spotify.com/track/3dvx6L3w6eJnfO9308f0ms"
@@ -1008,7 +1030,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 225000,
       "name": "Lara",
       "url": "https://open.spotify.com/track/6tI7QZCy2hZ9Gk2re6sB4P"
@@ -1026,7 +1048,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 260191,
       "name": "Lia",
       "url": "https://open.spotify.com/track/0bdFYK7peWdZL7WBvMMElv"
@@ -1044,7 +1066,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 260191,
       "name": "Lia",
       "url": "https://open.spotify.com/track/6uHHGyKxMg5MOUbXsqVgxL"
@@ -1062,7 +1084,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 228000,
       "name": "Lila",
       "url": "https://open.spotify.com/track/14Edofhd6KHcuO51WitSLV"
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 324597,
       "name": "Liwanag",
       "url": "https://open.spotify.com/track/2Xvp6TOLEoYL7xBxMpCqfH"
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 154127,
       "name": "Mad",
       "url": "https://open.spotify.com/track/12bFyPA8NKbNKrK6jjCoW6"
@@ -1152,7 +1174,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 187433,
       "name": "Mahal Na Yata Kita",
       "url": "https://open.spotify.com/track/0lE7yCSaySzXOAYESodkJQ"
@@ -1188,7 +1210,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 220200,
       "name": "MALABO",
       "url": "https://open.spotify.com/track/0QgdA3QMsbzQ6njndTb4kh"
@@ -1224,7 +1246,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 233099,
       "name": "Manila Bay",
       "url": "https://open.spotify.com/track/4FnCntyvK3yXlhxRD0Kepc"
@@ -1296,7 +1318,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 265677,
       "name": "Miss Miss",
       "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
@@ -1314,7 +1336,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 221641,
       "name": "Misteryoso",
       "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
@@ -1332,7 +1354,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 232483,
       "name": "mlb",
       "url": "https://open.spotify.com/track/6uXSZazWjvwsPVEDngFfQs"
@@ -1350,7 +1372,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 237692,
       "name": "Multo",
       "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
@@ -1390,7 +1412,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 202764,
       "name": "Nagbabakasakali",
       "url": "https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w"
@@ -1408,7 +1430,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 262784,
       "name": "Nandito",
       "url": "https://open.spotify.com/track/3yO2w4yahMDqQ8dI3MtnZF"
@@ -1426,7 +1448,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 282750,
       "name": "Nangungulila Sa'yo",
       "url": "https://open.spotify.com/track/2ksrs846bctGcYZjzsLxFj"
@@ -1444,7 +1466,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 206086,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/1eMn5wODtO4TFj5OfYoPPv"
@@ -1466,7 +1488,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 249121,
       "name": "No Control (feat. (e)motion engine)",
       "url": "https://open.spotify.com/track/0Rg0DIhiShdvZvF7snNZIt"
@@ -1502,7 +1524,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 232830,
       "name": "October",
       "url": "https://open.spotify.com/track/2FLcvttJzDNFmAyRyikgc9"
@@ -1520,7 +1542,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 316125,
       "name": "Oh Giliw Ko",
       "url": "https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09"
@@ -1556,7 +1578,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 307968,
       "name": "Panaginip",
       "url": "https://open.spotify.com/track/2zsztxFWctyvSj9H25ikDz"
@@ -1574,7 +1596,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 256678,
       "name": "Panahon",
       "url": "https://open.spotify.com/track/7Gl40zLvOcPveQu44Zf6pL"
@@ -1610,7 +1632,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 323856,
       "name": "Pangalawang Ulan",
       "url": "https://open.spotify.com/track/2UqeYYd5gqpAgV1YOjtfeO"
@@ -1628,7 +1650,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 197708,
       "name": "Pano",
       "url": "https://open.spotify.com/track/6sEou6d20Y6ckzht82CTsO"
@@ -1664,7 +1686,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 359630,
       "name": "Paraisong Tela",
       "url": "https://open.spotify.com/track/15Q51jCwXAfInxMR0AFOvq"
@@ -1682,7 +1704,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 240176,
       "name": "Patay",
       "url": "https://open.spotify.com/track/4YG4n8EHpRe5mLnDLxrdBM"
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 131985,
       "name": "Pessimist",
       "url": "https://open.spotify.com/track/5sbbdNVTJJQtn2tdprM10H"
@@ -1774,7 +1796,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 151091,
       "name": "Pillow",
       "url": "https://open.spotify.com/track/5sPCkfro9nUpKLM04LX7jp"
@@ -1792,7 +1814,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 228625,
       "name": "Pinapangarap Ko",
       "url": "https://open.spotify.com/track/0ICei6ceMmzZfazpviavbn"
@@ -1828,7 +1850,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 241042,
       "name": "Please Lang",
       "url": "https://open.spotify.com/track/2A5fNbbIB1sUfUcYX5dkG2"
@@ -1846,7 +1868,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 213928,
       "name": "Pramis",
       "url": "https://open.spotify.com/track/7hYIVov3HlUYABCA0Jafms"
@@ -1864,7 +1886,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 241785,
       "name": "prinsesa",
       "url": "https://open.spotify.com/track/6N7A3JFbsVOUcfiT6ltjrq"
@@ -1882,7 +1904,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 248502,
       "name": "Prom",
       "url": "https://open.spotify.com/track/5UNhmGXL2TWaguVTv9RVBZ"
@@ -1900,7 +1922,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 135860,
       "name": "pwede ba kitang ligawan?",
       "url": "https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD"
@@ -1936,7 +1958,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 182590,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3tWNpUIONNXnubu8Zmg74K"
@@ -1954,7 +1976,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 146719,
       "name": "Sa Huli",
       "url": "https://open.spotify.com/track/0UbJwLj4ZlNps0NDocAoEw"
@@ -1972,7 +1994,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 200117,
       "name": "Sa Ilalim Ng Bituin",
       "url": "https://open.spotify.com/track/5ZKvWEMpk6sW68FDsEIkdR"
@@ -2088,7 +2110,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 233311,
       "name": "san juan",
       "url": "https://open.spotify.com/track/1NT1aQIoEz6TDf88T1mq1W"
@@ -2110,7 +2132,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 196666,
       "name": "sana hindi na lang",
       "url": "https://open.spotify.com/track/1ADgl3jQmbAGi6uCC2eLbN"
@@ -2128,7 +2150,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 271036,
       "name": "Sasamahan Ka",
       "url": "https://open.spotify.com/track/6RBjZfZNa80zJbWrWt64f2"
@@ -2146,7 +2168,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 225139,
       "name": "Segurista",
       "url": "https://open.spotify.com/track/4urCXTl1AKVnETT8Lh6t4F"
@@ -2164,7 +2186,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 231993,
       "name": "SIGA",
       "url": "https://open.spotify.com/track/1TeuLilP2MQIup1Xd2Me5B"
@@ -2200,7 +2222,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 285734,
       "name": "Sikreto",
       "url": "https://open.spotify.com/track/4Xsy8uSzUhjRwBAQQ17FXQ"
@@ -2218,7 +2240,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 221349,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/4CahHrjGuxr1WwYHzDSRgR"
@@ -2236,7 +2258,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 236318,
       "name": "SINTA",
       "url": "https://open.spotify.com/track/0xuMFw8nrIsfpD3sMRwObD"
@@ -2272,7 +2294,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 183529,
       "name": "Sinungaling Ka Nanaman",
       "url": "https://open.spotify.com/track/3u1LytEGN0vAS26tczBpf0"
@@ -2344,7 +2366,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 272695,
       "name": "Soup",
       "url": "https://open.spotify.com/track/4VfVkUe7wRRRatavXrLo6R"
@@ -2362,7 +2384,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 234744,
       "name": "Static",
       "url": "https://open.spotify.com/track/3QDLEAkNMnch2FBaoySxMv"
@@ -2424,7 +2446,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 255389,
       "name": "Superhuman",
       "url": "https://open.spotify.com/track/6M99IQOuFJ5cVdROxsBfRW"
@@ -2482,7 +2504,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-22",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Tagsilaw (Pinilit Ko Man)",
       "url": "https://open.spotify.com/track/5qCbzsd69aS34UN3WcxzZU"
@@ -2500,7 +2522,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-29",
+      "date_removed": null,
       "duration_ms": 321320,
       "name": "Tayo (ating istorya)",
       "url": "https://open.spotify.com/track/2gOUaFafMr7UXmPHhlu1wm"
@@ -2518,7 +2540,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 212564,
       "name": "Teka Muna (Sandali)",
       "url": "https://open.spotify.com/track/3x92F7d3W7q0VEkMSNyMZC"
@@ -2540,7 +2562,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 233500,
       "name": "Things will fall to its place",
       "url": "https://open.spotify.com/track/7aoYrQTzLk4tGOwRrFBmdj"
@@ -2580,7 +2602,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 216000,
       "name": "Toki",
       "url": "https://open.spotify.com/track/2C9Eh0yPIUvXDdamtZyrti"
@@ -2616,7 +2638,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 286586,
       "name": "Trip To Jerusalem",
       "url": "https://open.spotify.com/track/2Lpv0Ddl63HHNZoUihmdt5"
@@ -2652,7 +2674,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-19",
+      "date_removed": null,
       "duration_ms": 232500,
       "name": "tula\u2019t awitin",
       "url": "https://open.spotify.com/track/7511599u12WzpKbpyDFg3T"
@@ -2724,7 +2746,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 165176,
       "name": "wagnamuna",
       "url": "https://open.spotify.com/track/6UmMczHfLTjZa81JShbl82"
@@ -2742,7 +2764,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 255000,
       "name": "Walang Label",
       "url": "https://open.spotify.com/track/5mcQZiopXnczEKf6OM4HWC"

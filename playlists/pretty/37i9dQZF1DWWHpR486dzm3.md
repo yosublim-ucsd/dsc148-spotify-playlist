@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Lyyti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,949 likes - 87 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,947 likes - 87 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mee jo](https://open.spotify.com/track/4YkYQAFfd46Xti7X6o5HXj) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Mee jo](https://open.spotify.com/album/4hxJUh15L25r80zETNkFdZ) | 3:22 |
-| 2 | [Niinkö se on](https://open.spotify.com/track/4nd6e9YvUEeuR0mtP5fNJu) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC), [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Niinkö se on](https://open.spotify.com/album/33THwx65YG8Y7ulkpod0Xg) | 3:31 |
-| 3 | [Tuu tuu tuonelahan](https://open.spotify.com/track/2IIRq8e6apN2qYgx0yPDcW) | [Henna Emilia Hietamäki](https://open.spotify.com/artist/3B0DslwcuJg092dWJg9anV) | [Luutarha](https://open.spotify.com/album/460UnRJnBjTYPqUZ8LPsGv) | 1:48 |
-| 4 | [Jokainen maaliviiva](https://open.spotify.com/track/4XGtyJ82UWTp3dxbK3MDZZ) | [Kissa](https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn) | [Jokainen maaliviiva](https://open.spotify.com/album/18w1uTdq9RvWNQTRxT4aY3) | 4:54 |
-| 5 | [pikkusiskolle](https://open.spotify.com/track/3qbMgl51n4Xcw1YI8pOGCI) | [hannaeerika](https://open.spotify.com/artist/3xgPlTTFoGnbXyNRJ2Tbst) | [pikkusiskolle](https://open.spotify.com/album/6tVpysRlOH9fWFEy7XMZmG) | 3:22 |
-| 6 | [Entiset ystävät](https://open.spotify.com/track/689BwIZgfZ2FK1JhLbjfap) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Entiset ystävät](https://open.spotify.com/album/7eBqOAOUrVYhn3BS15p37G) | 3:38 |
-| 7 | [Maastopalot](https://open.spotify.com/track/07zYExWhDhhN2yjrNDDTZq) | [Muovikukat](https://open.spotify.com/artist/6096QEMNGbKLdTxrV9Eo2M) | [Pimeydessä on piilossa kaikki värit](https://open.spotify.com/album/6x369DfcrK9JVzyEyMwC87) | 4:22 |
+| 2 | [Maastopalot](https://open.spotify.com/track/07zYExWhDhhN2yjrNDDTZq) | [Muovikukat](https://open.spotify.com/artist/6096QEMNGbKLdTxrV9Eo2M) | [Pimeydessä on piilossa kaikki värit](https://open.spotify.com/album/6x369DfcrK9JVzyEyMwC87) | 4:22 |
+| 3 | [Niinkö se on](https://open.spotify.com/track/4nd6e9YvUEeuR0mtP5fNJu) | [Uusi Fantasia](https://open.spotify.com/artist/7K1JNuo3rYr7MNgIXAyysC), [Antti Autio](https://open.spotify.com/artist/3KUc1iwMflU36B2qtCnt6n) | [Niinkö se on](https://open.spotify.com/album/33THwx65YG8Y7ulkpod0Xg) | 3:31 |
+| 4 | [Tuu tuu tuonelahan](https://open.spotify.com/track/2IIRq8e6apN2qYgx0yPDcW) | [Henna Emilia Hietamäki](https://open.spotify.com/artist/3B0DslwcuJg092dWJg9anV) | [Luutarha](https://open.spotify.com/album/460UnRJnBjTYPqUZ8LPsGv) | 1:48 |
+| 5 | [Jokainen maaliviiva](https://open.spotify.com/track/4XGtyJ82UWTp3dxbK3MDZZ) | [Kissa](https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn) | [Jokainen maaliviiva](https://open.spotify.com/album/18w1uTdq9RvWNQTRxT4aY3) | 4:54 |
+| 6 | [pikkusiskolle](https://open.spotify.com/track/3qbMgl51n4Xcw1YI8pOGCI) | [hannaeerika](https://open.spotify.com/artist/3xgPlTTFoGnbXyNRJ2Tbst) | [pikkusiskolle](https://open.spotify.com/album/6tVpysRlOH9fWFEy7XMZmG) | 3:22 |
+| 7 | [Entiset ystävät](https://open.spotify.com/track/689BwIZgfZ2FK1JhLbjfap) | [Lyyti](https://open.spotify.com/artist/1thzcI6KSWuEdFD35WJTtE) | [Entiset ystävät](https://open.spotify.com/album/7eBqOAOUrVYhn3BS15p37G) | 3:38 |
 | 8 | [Nostalgiaa](https://open.spotify.com/track/0lwVSjuuMPWdxYXf1Xv6eq) | [Jenni Karjalainen & Kaverit](https://open.spotify.com/artist/5FGlL7n9pvZNYE3hJ04OqM), [Arppa](https://open.spotify.com/artist/7BLe6O1Q3UbUsAUh5x6wuv) | [Nostalgiaa](https://open.spotify.com/album/7BiJx0FVmId9ASIuBSIE0o) | 3:44 |
-| 9 | [Kaaosteoria](https://open.spotify.com/track/3avS6AUsfgdZvYeT4AKNB1) | [20 000 Hz](https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ) | [Kaaosteoria](https://open.spotify.com/album/4gS9WrGRcy7Hwxqvl2umGY) | 4:02 |
-| 10 | [Virheistä tärkein](https://open.spotify.com/track/5MwzH4dI9Rqi1STbvteTqu) | [Elsa Brotherus](https://open.spotify.com/artist/0FnNzf5hFFCBd8aqmIqLOG) | [Virheistä tärkein](https://open.spotify.com/album/2ivGSIkBHP8iy3qlLF0IyJ) | 3:17 |
-| 11 | [Neighbours](https://open.spotify.com/track/0iyxwM8XRMo96el0acBxHm) | [Haydé](https://open.spotify.com/artist/0fIXG1H4UrLacQO7viC5vu) | [Neighbours](https://open.spotify.com/album/4fTgZJ9lQIrvZeKw3T0cfI) | 4:07 |
+| 9 | [Neighbours](https://open.spotify.com/track/0iyxwM8XRMo96el0acBxHm) | [Haydé](https://open.spotify.com/artist/0fIXG1H4UrLacQO7viC5vu) | [Neighbours](https://open.spotify.com/album/4fTgZJ9lQIrvZeKw3T0cfI) | 4:07 |
+| 10 | [Kaaosteoria](https://open.spotify.com/track/3avS6AUsfgdZvYeT4AKNB1) | [20 000 Hz](https://open.spotify.com/artist/3iHSklDYGjosLmV4FqAvRQ) | [Kaaosteoria](https://open.spotify.com/album/4gS9WrGRcy7Hwxqvl2umGY) | 4:02 |
+| 11 | [Virheistä tärkein](https://open.spotify.com/track/5MwzH4dI9Rqi1STbvteTqu) | [Elsa Brotherus](https://open.spotify.com/artist/0FnNzf5hFFCBd8aqmIqLOG) | [Virheistä tärkein](https://open.spotify.com/album/2ivGSIkBHP8iy3qlLF0IyJ) | 3:17 |
 | 12 | [Malmille](https://open.spotify.com/track/1nFp8TvpFvHXyFTRdDD4ke) | [Kalervo Riviera](https://open.spotify.com/artist/35IyDVemlJnHabgKfCdbS8) | [Malmille](https://open.spotify.com/album/6AqQDJLQbDDGZkKr9MiJ8j) | 2:54 |
 | 13 | [Alaovella](https://open.spotify.com/track/2ThD0DBfzhoC1uHrMsvdcG) | [Juhlat](https://open.spotify.com/artist/01D2EFqqME5IHfIUEuU4el) | [Alaovella](https://open.spotify.com/album/0AFWiByybA2LpIGBFzjeUL) | 2:39 |
 | 14 | [Kuuntele mua](https://open.spotify.com/track/7lXzatFw0BPWRaAMcHQVI7) | [Punomo](https://open.spotify.com/artist/3VxY7XM1OkxWvOotoGj7NQ) | [Kuuntele mua](https://open.spotify.com/album/3PiNIdWzCsTp7AZ34VZzA3) | 3:48 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 86 | [Pienen puun alla](https://open.spotify.com/track/37TfZfSkh2z0NU1ruDvDcA) | [elmeri](https://open.spotify.com/artist/35oi9JPD0xfAsyilqBfwtR) | [Pienen puun alla](https://open.spotify.com/album/1fSqwARY8mMCtzJRF9cEs7) | 3:29 |
 | 87 | [Tuun muistamaan tän pahalla](https://open.spotify.com/track/5DnWDmRWnOoYD3Zz4B5Dbc) | [Lydian](https://open.spotify.com/artist/1FDg8DDyMpcdo9jMdBuU97) | [Tuun muistamaan tän pahalla](https://open.spotify.com/album/3CAbwKGmd7bD5oeJmyLaV5) | 3:42 |
 
-Snapshot ID: `Z0joHAAAAACCOUh0ihwd1DBxKiWsO2sl`
+Snapshot ID: `Z1BFUQAAAACwyBEEmmUBiKTFHScPqP15`

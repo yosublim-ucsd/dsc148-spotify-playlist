@@ -1,6 +1,6 @@
 {
   "description": "Hits virales, tendencias y challenges del futuro.",
-  "num_followers": 89702,
+  "num_followers": 89723,
   "original_name": "el hype",
   "owner": {
     "name": "Spotify",
@@ -754,6 +754,10 @@
         {
           "name": "Margarita",
           "url": "https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG"
+        },
+        {
+          "name": "Rey",
+          "url": "https://open.spotify.com/artist/1NpwHTlQGGdu5iqK2xBw0O"
         }
       ],
       "duration_ms": 172751,

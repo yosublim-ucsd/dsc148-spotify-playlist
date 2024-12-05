@@ -4,7 +4,7 @@
 
 > 
 
-1,869 songs - 4 day 3 hr 55 min
+1,870 songs - 4 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -723,6 +723,7 @@
 | [Halloween Is Chaos](https://open.spotify.com/track/1DezXswFktyqHS8fBA6lzs) | [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [北小路ヒスイ](https://open.spotify.com/artist/79hRBKERka4hkPcsH5wE8x) | [HALLOWEEN IS CHAOS](https://open.spotify.com/album/1gJdi0jiZTaEk2idFDymBo) | 3:59 | 2022-08-14 |  |
 | [Hallucin8](https://open.spotify.com/track/3Joto9tBAWwMH7ZJcc12Gk) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n), [Antenora](https://open.spotify.com/artist/72SQfmyjszuSw1SNoNWpvz) | [Hallucin8](https://open.spotify.com/album/0Y86mWehTSHloLiKT0wtIo) | 2:57 | 2024-04-19 |  |
 | [Hallucinate](https://open.spotify.com/track/5byappNwH0EEjPqmh6NMtU) | [Luminite](https://open.spotify.com/artist/56uBktjCLyONyLAgE7VBq1) | [Hallucinate](https://open.spotify.com/album/1AP57nFJb3dlPJSWWb17wN) | 2:20 | 2024-04-26 |  |
+| [HALO](https://open.spotify.com/track/5OnLWxxMNmTmXFaT8uRm3m) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Renaissance Of Rave](https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz) | 3:08 | 2024-12-04 |  |
 | [Happy Melty Party](https://open.spotify.com/track/5bD5G4l5iqYst0IC5lzrk0) | [Happy Around!](https://open.spotify.com/artist/3UnGSUFAzeXjRQgMNWOtcg), [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J) | [Happy Melty Party](https://open.spotify.com/album/2TgMbFHiIxeEWoPRWouVWr) | 2:10 | 2024-11-03 |  |
 | [Hard 2 The Core](https://open.spotify.com/track/0SHuuJh45TfuSIkRl2kHX5) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [Hard 2 The Core](https://open.spotify.com/album/0a7UPxBDJTJk5VZl5BRrvZ) | 2:56 | 2023-05-12 |  |
 | [Hard and Cheerful 2024 Edit](https://open.spotify.com/track/5wWGPhAgVAjfc1aEgSMkoY) | [Maissouille](https://open.spotify.com/artist/1aQbGaag8KEI8kKtY37UQU) | [Hard and Cheerful 2024 Edit](https://open.spotify.com/album/2JvzkLesfJkPv5VC579gsQ) | 4:09 | 2024-05-29 |  |

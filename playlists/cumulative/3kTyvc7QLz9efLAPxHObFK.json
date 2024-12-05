@@ -14667,6 +14667,24 @@
     },
     {
       "album": {
+        "name": "Renaissance Of Rave",
+        "url": "https://open.spotify.com/album/57MtV6axHjkNZxMPHjI2Oz"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188991,
+      "name": "HALO",
+      "url": "https://open.spotify.com/track/5OnLWxxMNmTmXFaT8uRm3m"
+    },
+    {
+      "album": {
         "name": "Happy Melty Party",
         "url": "https://open.spotify.com/album/2TgMbFHiIxeEWoPRWouVWr"
       },

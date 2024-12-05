@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Adrian",
+        "url": "https://open.spotify.com/album/6v2w4UvQ2jEWx4x5XDhqec"
+      },
+      "artists": [
+        {
+          "name": "Adriano Celentano",
+          "url": "https://open.spotify.com/artist/1yq9UuPp5DIb5w6eswGbKV"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231481,
+      "name": "Prisencolinensinainciusol",
+      "url": "https://open.spotify.com/track/5JetV93PpZhcHhX7utmzOr"
+    },
+    {
+      "album": {
         "name": "Put on Your Mask",
         "url": "https://open.spotify.com/album/0v41LFcSjoy4MSBpiBSOrR"
       },

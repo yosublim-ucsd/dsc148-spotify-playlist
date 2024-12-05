@@ -1431,6 +1431,24 @@
     },
     {
       "album": {
+        "name": "day by day",
+        "url": "https://open.spotify.com/album/3s3vBEGWENJESmsyeDpl4s"
+      },
+      "artists": [
+        {
+          "name": "Nature then Nurture",
+          "url": "https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "day by day",
+      "url": "https://open.spotify.com/track/50G6irpZApduau5QFZhicP"
+    },
+    {
+      "album": {
         "name": "Days Gone By",
         "url": "https://open.spotify.com/album/0je0PVxNcqe1d9n6HRoTx5"
       },

@@ -1658,7 +1658,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 274678,
       "name": "Babychan - Paresse Remix",
       "url": "https://open.spotify.com/track/3275TURQ2GdUTSOCw3tt1h"
@@ -5748,7 +5748,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 262500,
       "name": "Endless Rain",
       "url": "https://open.spotify.com/track/5xUMXs2MsIKGg9VwHBgyV0"
@@ -7036,7 +7036,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 315373,
       "name": "Galactic Romance - Kiva Kiva Versio",
       "url": "https://open.spotify.com/track/27BDYTZ3MSkVkxaKShmzoQ"
@@ -7772,7 +7772,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 335474,
       "name": "Graucha Max",
       "url": "https://open.spotify.com/track/4waOZsInxjKYnh6UF1V255"
@@ -7914,6 +7914,24 @@
       "duration_ms": 431280,
       "name": "Halcyon & On - Jon Hopkins Remix",
       "url": "https://open.spotify.com/track/3lvyFNbNIYhCePUQ8BYnE0"
+    },
+    {
+      "album": {
+        "name": "Half Light",
+        "url": "https://open.spotify.com/album/3lFifyK0n3JxfmANjDRifq"
+      },
+      "artists": [
+        {
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112746,
+      "name": "Half Light (Single Version) - Bonus Track",
+      "url": "https://open.spotify.com/track/0KvqBJIe46prMUzDXAwQ7O"
     },
     {
       "album": {
@@ -9500,6 +9518,24 @@
       "duration_ms": 161695,
       "name": "I'm Better",
       "url": "https://open.spotify.com/track/3B6c2J0BSk2dc2EjX52tpG"
+    },
+    {
+      "album": {
+        "name": "Daryl Johns",
+        "url": "https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj"
+      },
+      "artists": [
+        {
+          "name": "Daryl Johns",
+          "url": "https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222217,
+      "name": "I'm So Serious",
+      "url": "https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv"
     },
     {
       "album": {
@@ -11544,7 +11580,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 213049,
       "name": "Lion Rumpus",
       "url": "https://open.spotify.com/track/2les6HNKPpydYUgWfkl7aA"
@@ -13719,6 +13755,28 @@
     },
     {
       "album": {
+        "name": "Nom Nom Nom / Cat Burglar",
+        "url": "https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        },
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Nom Nom Nom",
+      "url": "https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5"
+    },
+    {
+      "album": {
         "name": "NoMoreLuv4u",
         "url": "https://open.spotify.com/album/2uYqyx1hSxvLwD2KvyF4Ao"
       },
@@ -13730,7 +13788,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 196186,
       "name": "NoMoreLuv4u",
       "url": "https://open.spotify.com/track/55Asr8Anq1QuP1URYIaSdH"
@@ -14432,7 +14490,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 175600,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/12JnuOPmKnvhSKaaL13HTm"
@@ -15237,6 +15295,24 @@
     },
     {
       "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/1E0hWSa51d7q4eKb167gF6"
+      },
+      "artists": [
+        {
+          "name": "The Men",
+          "url": "https://open.spotify.com/artist/30XB6UJMhn7v7ZDX2GlIsM"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164594,
+      "name": "Pony",
+      "url": "https://open.spotify.com/track/0KYSOh2TEXrukuS00PfCB3"
+    },
+    {
+      "album": {
         "name": "Post Ryan",
         "url": "https://open.spotify.com/album/5yymZcgXcokucqKrKdMqNW"
       },
@@ -15270,6 +15346,24 @@
       "duration_ms": 412121,
       "name": "Power Melts Away",
       "url": "https://open.spotify.com/track/570fmjtmNPAfPCObDf4RhK"
+    },
+    {
+      "album": {
+        "name": "Pray To Me",
+        "url": "https://open.spotify.com/album/11zYqXZ5SJzgXUh0HADIcg"
+      },
+      "artists": [
+        {
+          "name": "BAMBARA",
+          "url": "https://open.spotify.com/artist/0JHvODQe3KnriRMPuZPNL6"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209807,
+      "name": "Pray To Me",
+      "url": "https://open.spotify.com/track/0cUwbbBAQBIAVOoeViCIeb"
     },
     {
       "album": {
@@ -15426,6 +15520,28 @@
       "duration_ms": 145521,
       "name": "punkt",
       "url": "https://open.spotify.com/track/2jZVRBClSWt3Vc9fPkyRCi"
+    },
+    {
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Damon Albarn",
+          "url": "https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264176,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
     },
     {
       "album": {
@@ -18482,7 +18598,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 93991,
       "name": "terra",
       "url": "https://open.spotify.com/track/2QVhrLjYMoX0jSu03N4wlO"

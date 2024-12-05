@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "COLONY",
+        "url": "https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Akujiki",
+      "url": "https://open.spotify.com/track/565shq9eUdoknV8W0rUViP"
+    },
+    {
+      "album": {
         "name": "Nayutan Sei Kara No Buttai Y",
         "url": "https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P"
       },
@@ -1933,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "essence",
+        "url": "https://open.spotify.com/album/0tzRhapXqfZkuiOk529Ohg"
+      },
+      "artists": [
+        {
+          "name": "Tadano Kaede",
+          "url": "https://open.spotify.com/artist/44GXrTEQl8a3K8pBtys0h8"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "Oh...",
+      "url": "https://open.spotify.com/track/7bUEfP01ZZcKGsHUucSp26"
+    },
+    {
+      "album": {
         "name": "Frederhythm",
         "url": "https://open.spotify.com/album/47CP4H5sU69fTUPyI0SD4S"
       },
@@ -3098,6 +3134,28 @@
       "duration_ms": 279200,
       "name": "\u304a\u52c9\u5f37\u3057\u3068\u3044\u3066\u3088",
       "url": "https://open.spotify.com/track/3sgJTMHqDwxfsBIMqvkXKE"
+    },
+    {
+      "album": {
+        "name": "\u304a\u6d12\u843d\u756a\u9577 (feat. Ado)",
+        "url": "https://open.spotify.com/album/5qBYkswUPw3za9eO2C2Sev"
+      },
+      "artists": [
+        {
+          "name": "Linmu",
+          "url": "https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz"
+        },
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2024-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280065,
+      "name": "\u304a\u6d12\u843d\u756a\u9577 (feat. Ado)",
+      "url": "https://open.spotify.com/track/4wdZoFvA5zpxVglDuESYJ3"
     },
     {
       "album": {

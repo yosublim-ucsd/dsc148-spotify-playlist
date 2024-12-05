@@ -1,8 +1,44 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Celebrate all of the best Spotify Kids' hits in 2023 with your family!",
-  "name": "Best Kids & Family Songs 2023",
+  "description": "Our picks for the best kids songs of 2024. Cover: John Legend",
+  "name": "Kids' editors' picks: Best kids songs of 2024",
   "tracks": [
+    {
+      "album": {
+        "name": "...Baby One More Time (from Kung Fu Panda 4)",
+        "url": "https://open.spotify.com/album/0GsfxGnifHBtyVIgDJaYJo"
+      },
+      "artists": [
+        {
+          "name": "Tenacious D",
+          "url": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "...Baby One More Time (from Kung Fu Panda 4)",
+      "url": "https://open.spotify.com/track/7eFJIjNXaC7LzDwloz9WIP"
+    },
+    {
+      "album": {
+        "name": "7 Days of the Week Dance",
+        "url": "https://open.spotify.com/album/3jpahirgKN4SM1J6zymWN6"
+      },
+      "artists": [
+        {
+          "name": "Uncle Jumbo",
+          "url": "https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132020,
+      "name": "7 Days of the Week Dance",
+      "url": "https://open.spotify.com/track/226dBnuIM30EcZKA9Uiaa5"
+    },
     {
       "album": {
         "name": "Sing 2 (Original Motion Picture Soundtrack)",
@@ -20,6 +56,24 @@
       "duration_ms": 206437,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/2VeLdiYiILcCOEV0izfzEW"
+    },
+    {
+      "album": {
+        "name": "A Tiny Dragon",
+        "url": "https://open.spotify.com/album/594vAeyTF06zlE4rpw0AKy"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176149,
+      "name": "A Tiny Dragon",
+      "url": "https://open.spotify.com/track/5WKX394IoVTS1YRkwFmYUM"
     },
     {
       "album": {
@@ -60,7 +114,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 113506,
       "name": "ABC You A G",
       "url": "https://open.spotify.com/track/0WJRF99Adva94LORA1Cyud"
@@ -78,7 +132,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 192008,
       "name": "About That Time",
       "url": "https://open.spotify.com/track/57dJa4G5Iaz26OMpGeJqmj"
@@ -100,6 +154,24 @@
       "duration_ms": 192312,
       "name": "About That Time",
       "url": "https://open.spotify.com/track/3JKMRspZjPJWhxwbewnvQU"
+    },
+    {
+      "album": {
+        "name": "Affirmation Alphabets",
+        "url": "https://open.spotify.com/album/2fNNnhBbvYqbNTnubH9iiC"
+      },
+      "artists": [
+        {
+          "name": "Phonicsman",
+          "url": "https://open.spotify.com/artist/3uBROWn3YUw9MweORiLbFI"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308036,
+      "name": "Affirmation Alphabets",
+      "url": "https://open.spotify.com/track/23EL7i3uZgzPROoD1NYL4b"
     },
     {
       "album": {
@@ -338,10 +410,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 123058,
       "name": "Bark to the Beat (with blackbear) [From PAW Patrol: The Mighty Movie]",
       "url": "https://open.spotify.com/track/5k0Vd1kLeUFRozn6GiC8m1"
+    },
+    {
+      "album": {
+        "name": "Be Colorful",
+        "url": "https://open.spotify.com/album/0ZKr57xgHCzNXZLmoaFtYW"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84642,
+      "name": "Be Colorful",
+      "url": "https://open.spotify.com/track/0E0OI6WdGo32R59vaPXHNm"
     },
     {
       "album": {
@@ -400,7 +490,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 216666,
       "name": "Better Place (From TROLLS Band Together)",
       "url": "https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"
@@ -422,6 +512,42 @@
       "duration_ms": 176266,
       "name": "Better When I'm Dancin'",
       "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
+    },
+    {
+      "album": {
+        "name": "Big Feelings",
+        "url": "https://open.spotify.com/album/2aW9TbZPlTk74HCP2Zqpwn"
+      },
+      "artists": [
+        {
+          "name": "Uncle Apple",
+          "url": "https://open.spotify.com/artist/07FHLWnXS1tigApNnuDp9M"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181651,
+      "name": "Big Feelings",
+      "url": "https://open.spotify.com/track/3d05iVzuY8F9wjD87ciT0e"
+    },
+    {
+      "album": {
+        "name": "Big Red Ute",
+        "url": "https://open.spotify.com/album/1HqaEKusGhe7DBbqqdJuN4"
+      },
+      "artists": [
+        {
+          "name": "The Wiggles",
+          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162814,
+      "name": "Big Red Ute",
+      "url": "https://open.spotify.com/track/0bkiSDHL1ZuQ8bPZRQ5vFI"
     },
     {
       "album": {
@@ -461,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Blazing Amazing",
+        "url": "https://open.spotify.com/album/28BgT315GLpJVn4tO23WrK"
+      },
+      "artists": [
+        {
+          "name": "Imitator Tots",
+          "url": "https://open.spotify.com/artist/6GV2xsgXl785KIfT2Vov6I"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130489,
+      "name": "Blazing Amazing",
+      "url": "https://open.spotify.com/track/77bp2pz48Fs64n5v1BrATK"
+    },
+    {
+      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
@@ -476,6 +620,24 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "album": {
+        "name": "Blippi Wiggle",
+        "url": "https://open.spotify.com/album/0H3s22w5so8szwANDs1p9s"
+      },
+      "artists": [
+        {
+          "name": "Blippi",
+          "url": "https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133161,
+      "name": "Blippi Wiggle",
+      "url": "https://open.spotify.com/track/15gkovxifchHoS4XvoHYe5"
     },
     {
       "album": {
@@ -497,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Bring It On Home",
+        "url": "https://open.spotify.com/album/1ICtDzEwotcOEsxiqTK0XH"
+      },
+      "artists": [
+        {
+          "name": "Qai Qai",
+          "url": "https://open.spotify.com/artist/5WWFVcF0hvHeO9N8QLKGlv"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114453,
+      "name": "Bring It On Home",
+      "url": "https://open.spotify.com/track/049veW5CjHNNRnKwsGTQZu"
+    },
+    {
+      "album": {
         "name": "Small But Mighty - Hearty Hits For Living Large",
         "url": "https://open.spotify.com/album/1Jyc07zrfXG9kGKQQLJf3a"
       },
@@ -508,7 +688,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 97706,
       "name": "Bubble Bubble (Be Like A Bubble!)",
       "url": "https://open.spotify.com/track/0le8XTVpDL4h2owSnmGHcv"
@@ -526,7 +706,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 100425,
       "name": "Bunnies in the Bath (Counting Song)",
       "url": "https://open.spotify.com/track/67ChEt45DPQz14yabjm1iD"
@@ -588,7 +768,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 243630,
       "name": "Can I Have This Dance",
       "url": "https://open.spotify.com/track/5NILdwF8RA28VxOeqPpEcg"
@@ -632,6 +812,50 @@
       "duration_ms": 134057,
       "name": "Cecilia - From 'Minions: The Rise of Gru' Soundtrack",
       "url": "https://open.spotify.com/track/4I4RiYWFY4z0XenFVcqXag"
+    },
+    {
+      "album": {
+        "name": "Celebrate!",
+        "url": "https://open.spotify.com/album/2fqSsy31vWs78Ga6h5us2j"
+      },
+      "artists": [
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        },
+        {
+          "name": "Divi Roxx Kids",
+          "url": "https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170280,
+      "name": "Celebrate!",
+      "url": "https://open.spotify.com/track/0ud8GbjknpHxDrhGZxwrFl"
+    },
+    {
+      "album": {
+        "name": "Clipperty Clop",
+        "url": "https://open.spotify.com/album/4gO2JdIdYWATxXsy8h04mn"
+      },
+      "artists": [
+        {
+          "name": "Tiny Totz Kidz",
+          "url": "https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst"
+        },
+        {
+          "name": "Marc & Katt",
+          "url": "https://open.spotify.com/artist/2xngCNPOK7JnX9yqEeThoC"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Clipperty Clop",
+      "url": "https://open.spotify.com/track/7fzvLNXrhWiV5ZG7JwVfsA"
     },
     {
       "album": {
@@ -715,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Cookie Jar",
+        "url": "https://open.spotify.com/album/65HIKw74shHz5R6zAQqqIL"
+      },
+      "artists": [
+        {
+          "name": "Jools TV",
+          "url": "https://open.spotify.com/artist/7ssReBmPT2Ls9U8lAHTSJN"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172913,
+      "name": "Cookie Jar",
+      "url": "https://open.spotify.com/track/01rRqiFCeG17apx187OJjo"
+    },
+    {
+      "album": {
         "name": "Sing 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
       },
@@ -730,6 +972,42 @@
       "duration_ms": 148732,
       "name": "Could Have Been Me",
       "url": "https://open.spotify.com/track/16nCYYc1lCxCyvaR1lgo0i"
+    },
+    {
+      "album": {
+        "name": "Could Have Been Me",
+        "url": "https://open.spotify.com/album/0j0j0lmXoLhQx70MeIked3"
+      },
+      "artists": [
+        {
+          "name": "MusicClubKids!",
+          "url": "https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146507,
+      "name": "Could Have Been Me",
+      "url": "https://open.spotify.com/track/2WTG0BiezHyRErNVeXz3ko"
+    },
+    {
+      "album": {
+        "name": "Wake Up From Your Nap and Other Circle Time Songs",
+        "url": "https://open.spotify.com/album/0iLSa8xXBV3iXHZ41oy1Ti"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157194,
+      "name": "Count to 10",
+      "url": "https://open.spotify.com/track/3xjKspoLsRmwaeUvnIcNEW"
     },
     {
       "album": {
@@ -770,7 +1048,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 118893,
       "name": "Dance Mode",
       "url": "https://open.spotify.com/track/34oa5y5p5SyWk7GfjdeNJY"
@@ -806,10 +1084,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 176579,
       "name": "Dance The Night",
       "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 2024",
+        "url": "https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176404,
+      "name": "Dance The Night",
+      "url": "https://open.spotify.com/track/2G5okSaK0ji1CjCC6rU8IY"
     },
     {
       "album": {
@@ -828,10 +1124,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 102234,
       "name": "Dino Dance - Stomp, Stomp, Stomp",
       "url": "https://open.spotify.com/track/6HhWEKierHnVWd1aVnklr5"
+    },
+    {
+      "album": {
+        "name": "Marvel's Spidey and His Amazing Friends - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/28PAtOT7ctTLu3na2oc2E2"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130261,
+      "name": "Do the Spidey",
+      "url": "https://open.spotify.com/track/57bon7PWZgGOCLedjHZxIB"
     },
     {
       "album": {
@@ -943,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6E5t5eRyYWz6aOXXd0u1of"
+      },
+      "artists": [
+        {
+          "name": "The Tambourine Social",
+          "url": "https://open.spotify.com/artist/5nHEzEXgMjDsR58ZMG4aHq"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/7yoJUmhUZS6RQsCHR3YcEF"
+    },
+    {
+      "album": {
         "name": "KIDZ BOP Super POP!",
         "url": "https://open.spotify.com/album/2MwnJW31OVBG7hYWVg3rWK"
       },
@@ -972,10 +1308,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 149151,
       "name": "Every Day is a Dance",
       "url": "https://open.spotify.com/track/0ToVKgF95Q5YB0nsc0FRg7"
+    },
+    {
+      "album": {
+        "name": "Ronnie Boy Land",
+        "url": "https://open.spotify.com/album/14EJX9YJFz1nsGnGrEko48"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Boy Kids",
+          "url": "https://open.spotify.com/artist/1K3KWU6neb0IFYos3nJe38"
+        },
+        {
+          "name": "Jeremy Passion",
+          "url": "https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195529,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/0Eb6GBmMRrBmn3FBBECfTq"
     },
     {
       "album": {
@@ -990,7 +1348,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 183370,
       "name": "Feelin' Good",
       "url": "https://open.spotify.com/track/1Tt5AcD1MSCByopcAcCGIt"
@@ -1124,7 +1482,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 136000,
       "name": "Girl Power",
       "url": "https://open.spotify.com/track/0ZSnI6GdVoAsobvDC906P0"
@@ -1168,6 +1526,24 @@
       "duration_ms": 191094,
       "name": "Glowin' Up - from the Netflix film My Little Pony: A New Generation",
       "url": "https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/1pB5U2qhiGwYHLOpncYJH7"
+      },
+      "artists": [
+        {
+          "name": "The Happy Racers",
+          "url": "https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169525,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/5pdExwm51qWeFrP6WPmCyt"
     },
     {
       "album": {
@@ -1249,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Guacamole",
+        "url": "https://open.spotify.com/album/4O4HVQJE764VLaQvsx9w0e"
+      },
+      "artists": [
+        {
+          "name": "The Quokkas",
+          "url": "https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101813,
+      "name": "Guacamole",
+      "url": "https://open.spotify.com/track/1wiA1kLF5RplYTjoZSzyJC"
+    },
+    {
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
       },
@@ -1324,10 +1718,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 107637,
       "name": "Happy Dance",
       "url": "https://open.spotify.com/track/0k1rBoFbEGVTyZd1GVbEW5"
+    },
+    {
+      "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/6LGNhLhl9W6noLznBi2QA9"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Aura V",
+          "url": "https://open.spotify.com/artist/4euyE4jiBqyKb46P37DDeY"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208234,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3KIQbhimKhUdiychQWegda"
     },
     {
       "album": {
@@ -1437,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "Hey Diddle Diddle",
+        "url": "https://open.spotify.com/album/2cBnlHDLpjSLoEqtn8phOG"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122305,
+      "name": "Hey Diddle Diddle",
+      "url": "https://open.spotify.com/track/5CjQc6AFaaguvmLLwS2gdG"
+    },
+    {
+      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1474,7 +1908,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 79800,
       "name": "Hold On To Hope",
       "url": "https://open.spotify.com/track/1LersStKnGeVNUT22jV93Z"
@@ -1517,6 +1951,24 @@
     },
     {
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/50TXQU2HIBdII7vExsqUpA"
+      },
+      "artists": [
+        {
+          "name": "Dee & Friends",
+          "url": "https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77903,
+      "name": "I Like How You Think",
+      "url": "https://open.spotify.com/track/3YGZI41Qm5cX8o2qQtC7FH"
+    },
+    {
+      "album": {
         "name": "Sing 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd"
       },
@@ -1536,6 +1988,54 @@
       "duration_ms": 181356,
       "name": "I Still Haven\u2019t Found What I\u2019m Looking For (with Bono)",
       "url": "https://open.spotify.com/track/2dsADtLSSLcfsSDn7sCdak"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/2wZSa1zmGKN370JJLwS9hL"
+      },
+      "artists": [
+        {
+          "name": "Doggyland",
+          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "I'm Happy",
+      "url": "https://open.spotify.com/track/70sCGNuBmHvmVSlyq0olu2"
+    },
+    {
+      "album": {
+        "name": "Dot",
+        "url": "https://open.spotify.com/album/4voc4nmHBjqM4Dm5rjMDUs"
+      },
+      "artists": [
+        {
+          "name": "Vulfmon",
+          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+        },
+        {
+          "name": "Antwaun Stanley",
+          "url": "https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN"
+        },
+        {
+          "name": "Jacob Jeffries",
+          "url": "https://open.spotify.com/artist/2s4evfvMB1HbNMGak6pDUB"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178145,
+      "name": "It Feels Good To Write A Song",
+      "url": "https://open.spotify.com/track/4O5BMFPxUulWLZwj39wnOW"
     },
     {
       "album": {
@@ -1600,7 +2100,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 163003,
       "name": "JJ Says",
       "url": "https://open.spotify.com/track/44pkcxAxTC6FQPjANGSdQ1"
@@ -1695,6 +2195,40 @@
     },
     {
       "album": {
+        "name": "My Favorite Dream",
+        "url": "https://open.spotify.com/album/2Na5BI4pks8yFrWNvEK6zW"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Chrissy",
+          "url": "https://open.spotify.com/artist/0UkJmTvoKcOI4YnBc6jeYf"
+        },
+        {
+          "name": "Luna",
+          "url": "https://open.spotify.com/artist/4z48U0ddm5KpIJZyUaFbWw"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152644,
+      "name": "L-O-V-E (feat. Chrissy, Luna & Miles)",
+      "url": "https://open.spotify.com/track/1CoHxW1sHR4BKoBIz3B1Qb"
+    },
+    {
+      "album": {
         "name": "Learning To Fly",
         "url": "https://open.spotify.com/album/3blsbvbusz2BUmqVCqwb06"
       },
@@ -1706,7 +2240,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 176941,
       "name": "Learning To Fly",
       "url": "https://open.spotify.com/track/7K17Bf15jq4EGfqhYc8Zjv"
@@ -1728,6 +2262,24 @@
       "duration_ms": 223840,
       "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "album": {
+        "name": "Nature Sings",
+        "url": "https://open.spotify.com/album/7vXEXhvVDVX3LIcPY9dI9s"
+      },
+      "artists": [
+        {
+          "name": "Emily Arrow",
+          "url": "https://open.spotify.com/artist/0kUpZhl1fznhuvszZ4g0C9"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136796,
+      "name": "Let It Grow",
+      "url": "https://open.spotify.com/track/38yxEQ2uF2hx3ofaBHS7CC"
     },
     {
       "album": {
@@ -1767,6 +2319,32 @@
     },
     {
       "album": {
+        "name": "Lovable and Capable (All Star Remix)",
+        "url": "https://open.spotify.com/album/22wpa7n1zlx9PEvGLNIE2g"
+      },
+      "artists": [
+        {
+          "name": "Mega Ran",
+          "url": "https://open.spotify.com/artist/2mCmDragybleJXqTqsOk5I"
+        },
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220757,
+      "name": "Lovable and Capable - All Star Remix",
+      "url": "https://open.spotify.com/track/7qmhq9HB3avP0XWOMjhiXb"
+    },
+    {
+      "album": {
         "name": "Disenchanted (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5S0XYRNtdDHNas37W1AhNH"
       },
@@ -1803,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Mixing Colors",
+        "url": "https://open.spotify.com/album/0Aym3o8IZ3oESgxFkkVEai"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134546,
+      "name": "Mixing Colors",
+      "url": "https://open.spotify.com/track/3vsJNfedXEL21cFAdIGGkf"
+    },
+    {
+      "album": {
         "name": "Mom the Bounty Hunter (from the Netflix Series \"My Dad the Bounty Hunter\")",
         "url": "https://open.spotify.com/album/3rJ69PV57G5a5odY6QKxRH"
       },
@@ -1818,7 +2414,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 155710,
       "name": "Mom the Bounty Hunter (from the Netflix Series \"My Dad the Bounty Hunter\")`",
       "url": "https://open.spotify.com/track/5HVSXWiAEQEGKZyQOgVCCc"
@@ -1887,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "NO BULLY ZONE",
+        "url": "https://open.spotify.com/album/2kF2YdgplUMr4snQdE6XGU"
+      },
+      "artists": [
+        {
+          "name": "Coach Kody",
+          "url": "https://open.spotify.com/artist/6Vgl5qX4ArZ9lLzegNnzt9"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84705,
+      "name": "NO BULLY ZONE",
+      "url": "https://open.spotify.com/track/7FZKNZn3aTCUYfUeG8YubE"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: SuperKitties Su-Purr Edition",
         "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
       },
@@ -1902,7 +2516,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 63900,
       "name": "No Stoppin' Us Meow",
       "url": "https://open.spotify.com/track/0mbrix0W8DYTHTctadxZsK"
@@ -1947,6 +2561,32 @@
     },
     {
       "album": {
+        "name": "Rug Island",
+        "url": "https://open.spotify.com/album/0OSnOvYEtdwuAYvqLa8hyV"
+      },
+      "artists": [
+        {
+          "name": "Bluey",
+          "url": "https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu"
+        },
+        {
+          "name": "King Stingray",
+          "url": "https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb"
+        },
+        {
+          "name": "Joff Bush",
+          "url": "https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161480,
+      "name": "Octopus (feat. King Stingray)",
+      "url": "https://open.spotify.com/track/06zVPfiQ2HxBHvpBEGO0s3"
+    },
+    {
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/1UemLqG2c35bNSQjQ45GRC"
       },
@@ -1962,6 +2602,28 @@
       "duration_ms": 185173,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/2Gzuc9dFCAXSzdHl3UcCNz"
+    },
+    {
+      "album": {
+        "name": "Buon Appetito",
+        "url": "https://open.spotify.com/album/3ztXeQejXpwfTxKpZFRkrQ"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        },
+        {
+          "name": "Romeo Eats",
+          "url": "https://open.spotify.com/artist/5woC1o9bxzyhV7sXR5t5Nd"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130341,
+      "name": "On Top of Spaghetti",
+      "url": "https://open.spotify.com/track/7FWSICvbHQgJ9ZI3Jsx8uQ"
     },
     {
       "album": {
@@ -2009,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Open Your Emotions",
+        "url": "https://open.spotify.com/album/0ZyeHeAYDAyg6BP9avGnvI"
+      },
+      "artists": [
+        {
+          "name": "The Little Mouse Production",
+          "url": "https://open.spotify.com/artist/6Kb3W2eeJN6YNriqvdLNNE"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Open Your Emotions",
+      "url": "https://open.spotify.com/track/0C4tARGdysyWgiJrwDd0g7"
+    },
+    {
+      "album": {
         "name": "Part of Your World (From \"The Little Mermaid\")",
         "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
       },
@@ -2020,7 +2700,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 214373,
       "name": "Part of Your World - From \"The Little Mermaid\"",
       "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
@@ -2038,10 +2718,50 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
+        "name": "Penny Penguin",
+        "url": "https://open.spotify.com/album/0PHJyanlWPA6SKJwoh0omZ"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        {
+          "name": "Good Lovelies",
+          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163066,
+      "name": "Penny Penguin",
+      "url": "https://open.spotify.com/track/4XzCCE67sPjb0x42QYOSAj"
+    },
+    {
+      "album": {
+        "name": "Peter, Peter Pickle Eater",
+        "url": "https://open.spotify.com/album/2LzJHIuWqawRpxyoALCGRI"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100435,
+      "name": "Peter, Peter Pickle Eater",
+      "url": "https://open.spotify.com/track/4k3DjHmEO59MyihDLvGlcm"
     },
     {
       "album": {
@@ -2056,7 +2776,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 91480,
       "name": "Princess Power Theme Song (from the Netflix Series)",
       "url": "https://open.spotify.com/track/4DN9DvOpgOZqqVrbN7xyHj"
@@ -2100,7 +2820,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 197233,
       "name": "Rainbow Shoppe",
       "url": "https://open.spotify.com/track/13RAj3aWpN54mfkSRwZW3W"
@@ -2172,10 +2892,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 186093,
       "name": "Rock On",
       "url": "https://open.spotify.com/track/6Z2nmTZ1xS2Gujt5apa7HZ"
+    },
+    {
+      "album": {
+        "name": "Roll Call (We Are D.I.N.O.)",
+        "url": "https://open.spotify.com/album/6kQIwlFz5WUG537z34pRcN"
+      },
+      "artists": [
+        {
+          "name": "D.I.N.O.",
+          "url": "https://open.spotify.com/artist/4sZ3HWBA7p8ijTBLIwbJ0j"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83618,
+      "name": "Roll Call (We Are D.I.N.O.)",
+      "url": "https://open.spotify.com/track/6TGJ5nnRbdNV95oAFf9PQJ"
     },
     {
       "album": {
@@ -2190,7 +2928,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 93888,
       "name": "Round Robin",
       "url": "https://open.spotify.com/track/7qcIZzAjD9wtmZpnLUT7nO"
@@ -2372,7 +3110,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 168000,
       "name": "Singalong",
       "url": "https://open.spotify.com/track/4tCXFAcshFVU8tJvlhsKMT"
@@ -2431,6 +3169,54 @@
     },
     {
       "album": {
+        "name": "Space Shuttle",
+        "url": "https://open.spotify.com/album/70LcL2PWtfJyJGT2EbzOGX"
+      },
+      "artists": [
+        {
+          "name": "Tiny Totz Kidz",
+          "url": "https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst"
+        },
+        {
+          "name": "Tobie",
+          "url": "https://open.spotify.com/artist/4v7MbkhfDQZYPXBDBSKkhw"
+        },
+        {
+          "name": "Kate Steinway",
+          "url": "https://open.spotify.com/artist/0K2OWWGyo4fnLJnVY41M6l"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "Space Shuttle",
+      "url": "https://open.spotify.com/track/7lMeJ4p2j2kGucx6Qzen0q"
+    },
+    {
+      "album": {
+        "name": "Starlight Starbright",
+        "url": "https://open.spotify.com/album/5hkyVvd22pzUkET8SME7oe"
+      },
+      "artists": [
+        {
+          "name": "The Mik Maks",
+          "url": "https://open.spotify.com/artist/1cL6b5xIECGYkaelSuRalF"
+        },
+        {
+          "name": "Ava McInnes",
+          "url": "https://open.spotify.com/artist/6NWrE3Wz8ITXVkVg425nBo"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207103,
+      "name": "Starlight Starbright",
+      "url": "https://open.spotify.com/track/3SPfWqSECcugB1J2JSMRrj"
+    },
+    {
+      "album": {
         "name": "Elemental (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7L15PXtti3kXEn7vTXi8ZV"
       },
@@ -2460,10 +3246,32 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 191779,
       "name": "Steal The Show - From \"Elemental\"",
       "url": "https://open.spotify.com/track/6R5fYCySNHrqo4Og6O1ppn"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Recess",
+        "url": "https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Blazer Fresh",
+          "url": "https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129142,
+      "name": "SUBS",
+      "url": "https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd"
     },
     {
       "album": {
@@ -2500,7 +3308,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 147812,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/7dWpEhaV9bcooDdf9i78sz"
@@ -2602,10 +3410,50 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 166873,
       "name": "Take A Deep Breath",
       "url": "https://open.spotify.com/track/58IaCPTc9RebTlyBwjbBxb"
+    },
+    {
+      "album": {
+        "name": "The Compost Bin",
+        "url": "https://open.spotify.com/album/4eu0eiM6NmthZ5n3uqBmeX"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        },
+        {
+          "name": "Debi Derryberry",
+          "url": "https://open.spotify.com/artist/3kXBp3xPaYHF76wNw0ZOG9"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171397,
+      "name": "The Compost Bin",
+      "url": "https://open.spotify.com/track/4FdHeduRzSw9qnwJpG1MIp"
+    },
+    {
+      "album": {
+        "name": "Let`s Play With Johny! - Kids Songs",
+        "url": "https://open.spotify.com/album/721wLvXG2IKgsLw7fsRadt"
+      },
+      "artists": [
+        {
+          "name": "LooLoo Kids",
+          "url": "https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126154,
+      "name": "The Elephant and The Ant",
+      "url": "https://open.spotify.com/track/5wvsXBlqvYCeXJ1an5Z8t7"
     },
     {
       "album": {
@@ -2669,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "The Robot Song",
+        "url": "https://open.spotify.com/album/2vIczC4M4QngEdmbEyI8W1"
+      },
+      "artists": [
+        {
+          "name": "Hopscotch Songs",
+          "url": "https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177896,
+      "name": "The Robot Song",
+      "url": "https://open.spotify.com/track/36kx1FP8HjiGMVxGWqRgGK"
+    },
+    {
+      "album": {
         "name": "High School Musical: The Musical: The Series (Original Soundtrack/Season 2)",
         "url": "https://open.spotify.com/album/5j8ccf2ePPuzngz8j1xcVM"
       },
@@ -2720,7 +3586,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 237574,
       "name": "This Moment (from Ruby Gillman, Teenage Kraken)",
       "url": "https://open.spotify.com/track/1sF8QGZN3Vcnh2jM0ruSyF"
@@ -2742,10 +3608,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 205480,
       "name": "This Wish - From \"Wish\"",
       "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
+    },
+    {
+      "album": {
+        "name": "Now, Let's Play (Sing-a-Long) Toddler Tunes",
+        "url": "https://open.spotify.com/album/5QTxqGDTF9jtOA6yZjQlMP"
+      },
+      "artists": [
+        {
+          "name": "Jessy J",
+          "url": "https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Time to Go (Sing-a-Long)",
+      "url": "https://open.spotify.com/track/3aqtSvRwKSDX6sz5yXocgo"
     },
     {
       "album": {
@@ -2760,7 +3644,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 126039,
       "name": "Train Is Coming",
       "url": "https://open.spotify.com/track/0q55KH1lfm7yIgOLJws9ui"
@@ -2869,6 +3753,24 @@
     },
     {
       "album": {
+        "name": "Gracie's Corner",
+        "url": "https://open.spotify.com/album/18IUTq8Bge2U44rvaBNaaJ"
+      },
+      "artists": [
+        {
+          "name": "Gracie's Corner",
+          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116800,
+      "name": "Veggie Dance",
+      "url": "https://open.spotify.com/track/1yQf9GK1ofpJ5gUNYjiFqB"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -2884,6 +3786,28 @@
       "duration_ms": 161840,
       "name": "Waiting On A Miracle",
       "url": "https://open.spotify.com/track/3oRW9ZGPRbLRMneQ5lwflt"
+    },
+    {
+      "album": {
+        "name": "Tour de Friends",
+        "url": "https://open.spotify.com/album/6pYjHMLJaxKWluOUDVArYG"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Kid in the Room",
+          "url": "https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5"
+        },
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201446,
+      "name": "Wanna Be Your Friend",
+      "url": "https://open.spotify.com/track/6bG0P1Kax9Jtkiu1E6XHVt"
     },
     {
       "album": {
@@ -2944,6 +3868,28 @@
       "duration_ms": 216120,
       "name": "We Don't Talk About Bruno",
       "url": "https://open.spotify.com/track/52xJxFP6TqMuO4Yt0eOkMz"
+    },
+    {
+      "album": {
+        "name": "We're All Different",
+        "url": "https://open.spotify.com/album/62DqtbALZLOUkRVMlMiZLd"
+      },
+      "artists": [
+        {
+          "name": "Tiny Totz Kidz",
+          "url": "https://open.spotify.com/artist/54vwxOSuLxx758lpaUjTst"
+        },
+        {
+          "name": "Marc & Katt",
+          "url": "https://open.spotify.com/artist/2xngCNPOK7JnX9yqEeThoC"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133009,
+      "name": "We're All Different",
+      "url": "https://open.spotify.com/track/1gSmDs8u0bplnwYdgQ57o5"
     },
     {
       "album": {
@@ -3020,10 +3966,72 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 234004,
       "name": "When You Wish Upon a Star - From \"Disney 100\"",
       "url": "https://open.spotify.com/track/2xdvhChCtpYxyNApVJEUG1"
+    },
+    {
+      "album": {
+        "name": "Why Do We Sing? (The Official Soundtrack)",
+        "url": "https://open.spotify.com/album/3W2eSspksMacyMqKOc1lTS"
+      },
+      "artists": [
+        {
+          "name": "Sam Tsui",
+          "url": "https://open.spotify.com/artist/7lPWuLostTtlIShgm4wpf0"
+        },
+        {
+          "name": "Casey Breves",
+          "url": "https://open.spotify.com/artist/5Mbw0q0VWmUbNrqqmQrSN0"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195296,
+      "name": "Why Do We Sing?",
+      "url": "https://open.spotify.com/track/5rLyfu4AnRcGoL4N6BM4hx"
+    },
+    {
+      "album": {
+        "name": "Workin' on a Beautiful Song",
+        "url": "https://open.spotify.com/album/3FvFhbgcNlbP3x4ISEt6b1"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        },
+        {
+          "name": "John Osborne",
+          "url": "https://open.spotify.com/artist/0VW09qbufB4cciWJ3F17SG"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154980,
+      "name": "Workin' on a Beautiful Song",
+      "url": "https://open.spotify.com/track/4qlObRfYoa3H6U9bMiOja1"
+    },
+    {
+      "album": {
+        "name": "Y'all Song",
+        "url": "https://open.spotify.com/album/0XJqvNx8Zc3YySqf8iaOe6"
+      },
+      "artists": [
+        {
+          "name": "Cooltime",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120837,
+      "name": "Y'all Song",
+      "url": "https://open.spotify.com/track/59ATqRIMXfLMjSw1KJuZ4V"
     },
     {
       "album": {
@@ -3038,7 +4046,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 178266,
       "name": "You Are My Sunshine",
       "url": "https://open.spotify.com/track/3XIuHsf6ct8x5trcPEgzho"
@@ -3056,7 +4064,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 121881,
       "name": "you can fly",
       "url": "https://open.spotify.com/track/0zquapxRr9z4nFyC4eQ6CA"

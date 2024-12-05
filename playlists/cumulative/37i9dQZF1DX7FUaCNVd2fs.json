@@ -3283,6 +3283,24 @@
     },
     {
       "album": {
+        "name": "The Sense Of You",
+        "url": "https://open.spotify.com/album/6vq2j7RaH4ipsmtGqVn4nz"
+      },
+      "artists": [
+        {
+          "name": "Mischa",
+          "url": "https://open.spotify.com/artist/2Dz5iH4IlsWr6gIbH23XwU"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134967,
+      "name": "The Sense Of You",
+      "url": "https://open.spotify.com/track/7N3AiekKmxPsqHSTJBuIzr"
+    },
+    {
+      "album": {
         "name": "The Toska",
         "url": "https://open.spotify.com/album/3jyhzzpsA1ijejYGA3N3V2"
       },

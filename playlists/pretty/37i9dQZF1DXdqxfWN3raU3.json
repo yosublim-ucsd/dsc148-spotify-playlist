@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LATIN MAFIA en portada.",
-  "num_followers": 256563,
+  "num_followers": 256561,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "EN EL GHETTO #3 (Par de cosas)",
         "url": "https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 215000,
       "name": "EN EL GHETTO #3 (Par de cosas)",
       "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Amor \u2260 Cristal",
-        "url": "https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL"
-      },
-      "artists": [
-        {
-          "name": "Flavio Rodriguez",
-          "url": "https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53"
-        },
-        {
-          "name": "Cruz Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
-        }
-      ],
-      "duration_ms": 172888,
-      "name": "Amor \u2260 Cristal",
-      "url": "https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "CONTENT EXPLICIT",
         "url": "https://open.spotify.com/album/2gIIBLpo4Ut2kFqRttmm1X"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 155843,
       "name": "CONTENT EXPLICIT",
       "url": "https://open.spotify.com/track/0slrMPh8Cyu2oMU30OZL34"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Amor \u2260 Cristal",
+        "url": "https://open.spotify.com/album/7lajp8RcKFyjmTnXfZAROL"
+      },
+      "artists": [
+        {
+          "name": "Flavio Rodriguez",
+          "url": "https://open.spotify.com/artist/0CqjTpL2gwBuLAxCoubs53"
+        },
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "duration_ms": 172888,
+      "name": "Amor \u2260 Cristal",
+      "url": "https://open.spotify.com/track/4BXJuBVdD6xoX9oD2hrUuU"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232804,
-      "name": "Young Rich & In Love - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 232804,
+      "name": "Young Rich & In Love - KAYTRANADA Remix",
+      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -995,22 +995,18 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "LA PRIMERA VEZ",
-        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
+        "name": "KD",
+        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+          "name": "Melej",
+          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
         }
       ],
-      "duration_ms": 171826,
-      "name": "LA PRIMERA VEZ",
-      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
+      "duration_ms": 159146,
+      "name": "KD",
+      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1031,22 +1027,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "POR TI",
-        "url": "https://open.spotify.com/album/0M47gcDDiE1RX0nMTsaGLH"
+        "name": "LA PRIMERA VEZ",
+        "url": "https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0"
       },
       "artists": [
         {
-          "name": "Vgomez",
-          "url": "https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         },
         {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
         }
       ],
-      "duration_ms": 184242,
-      "name": "POR TI",
-      "url": "https://open.spotify.com/track/5QpfbG5nGJ5qAOQGbEvDmi"
+      "duration_ms": 171826,
+      "name": "LA PRIMERA VEZ",
+      "url": "https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1079,18 +1075,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "KD",
-        "url": "https://open.spotify.com/album/4Af1rMjB7gFkATNj3ylmxS"
+        "name": "POR TI",
+        "url": "https://open.spotify.com/album/0M47gcDDiE1RX0nMTsaGLH"
       },
       "artists": [
         {
-          "name": "Melej",
-          "url": "https://open.spotify.com/artist/29juLxqcdKW32ZcNzBg0py"
+          "name": "Vgomez",
+          "url": "https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
         }
       ],
-      "duration_ms": 159146,
-      "name": "KD",
-      "url": "https://open.spotify.com/track/2Sj2r0AqagHIZ2NKiKZ49b"
+      "duration_ms": 184242,
+      "name": "POR TI",
+      "url": "https://open.spotify.com/track/5QpfbG5nGJ5qAOQGbEvDmi"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "YE YE",
-        "url": "https://open.spotify.com/album/6CoUCIlyLE6YFVCVDadC7B"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        }
-      ],
-      "duration_ms": 161986,
-      "name": "YE YE",
-      "url": "https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "YELIANA",
         "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 188871,
       "name": "Dej\u00e9 de Amarte",
       "url": "https://open.spotify.com/track/4keqsGMfZx9nDqljpXzpvv"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "YE YE",
+        "url": "https://open.spotify.com/album/6CoUCIlyLE6YFVCVDadC7B"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "duration_ms": 161986,
+      "name": "YE YE",
+      "url": "https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Sickreet",
+        "url": "https://open.spotify.com/album/4yFn3X90F4yupPnBUY5PNm"
+      },
+      "artists": [
+        {
+          "name": "Ryannah J",
+          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
+        }
+      ],
+      "duration_ms": 164026,
+      "name": "Sickreet",
+      "url": "https://open.spotify.com/track/1eL045BWaCNIQC0ydHy5Nn"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "real valor",
         "url": "https://open.spotify.com/album/4QTHtqt8GeSHSSGwMwpXU1"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 220000,
       "name": "real valor",
       "url": "https://open.spotify.com/track/7gbYxnKsftWLFaZoDAxxPr"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Sickreet",
-        "url": "https://open.spotify.com/album/4yFn3X90F4yupPnBUY5PNm"
-      },
-      "artists": [
-        {
-          "name": "Ryannah J",
-          "url": "https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD"
-        }
-      ],
-      "duration_ms": 164026,
-      "name": "Sickreet",
-      "url": "https://open.spotify.com/track/1eL045BWaCNIQC0ydHy5Nn"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
-        "name": "Calles De Madrid",
-        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
-      },
-      "artists": [
-        {
-          "name": "Kendall Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
-        }
-      ],
-      "duration_ms": 179986,
-      "name": "Calles De Madrid",
-      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/2cQZ4nIW2huzsxChtie6QV"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 193600,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/2ZpTwWC6cUtz5oHcGQexwp"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
+        "name": "Calles De Madrid",
+        "url": "https://open.spotify.com/album/1iIY9XyDAuEJruF9WQU4W4"
+      },
+      "artists": [
+        {
+          "name": "Kendall Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn"
+        }
+      ],
+      "duration_ms": 179986,
+      "name": "Calles De Madrid",
+      "url": "https://open.spotify.com/track/4xZkI6BhMRAVlEHYAhUC9m"
     },
     {
       "added_at": "2024-11-29 06:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-11-29 06:00:00",
       "album": {
+        "name": "Corazones en Alm\u00edbar",
+        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 228803,
+      "name": "Masaryk",
+      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
+    },
+    {
+      "added_at": "2024-11-29 06:00:00",
+      "album": {
         "name": "Mamma Mia",
         "url": "https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 89791,
       "name": "Mamma Mia",
       "url": "https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk"
-    },
-    {
-      "added_at": "2024-11-29 06:00:00",
-      "album": {
-        "name": "Corazones en Alm\u00edbar",
-        "url": "https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 228803,
-      "name": "Masaryk",
-      "url": "https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE"
     },
     {
       "added_at": "2024-11-29 06:00:00",

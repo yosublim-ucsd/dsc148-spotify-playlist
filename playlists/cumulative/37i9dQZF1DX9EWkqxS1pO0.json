@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "DENED\u0130M",
+        "url": "https://open.spotify.com/album/6i8NNzjPrEXAHcBpeZ0KvB"
+      },
+      "artists": [
+        {
+          "name": "Turgut \u00c7\u0131ng\u0131",
+          "url": "https://open.spotify.com/artist/35YhU76tb48fqmNxu2dZ1W"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "DENED\u0130M",
+      "url": "https://open.spotify.com/track/3tU7TL9iW0U8MfBD3IyuCa"
+    },
+    {
+      "album": {
         "name": "DOLDUR",
         "url": "https://open.spotify.com/album/1ZyrVQgSBTV19FxOlOM1By"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 164930,
       "name": "Geri D\u00f6n",
       "url": "https://open.spotify.com/track/51RNqadonzyl4efQSMKaaG"
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 152699,
       "name": "S\u00f6yle",
       "url": "https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy"
@@ -2760,7 +2778,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 202702,
       "name": "Yoksa",
       "url": "https://open.spotify.com/track/2OxerxQt4Mj2Hx7VRHH695"

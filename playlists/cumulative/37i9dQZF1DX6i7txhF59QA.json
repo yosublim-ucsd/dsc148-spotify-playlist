@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Let's party with cheerful Korean trot medley. Cover: Jang Minho(\uc7a5\ubbfc\ud638) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Let's party with cheerful Korean trot medley. Cover: Jin Hae Sung(\uc9c4\ud574\uc131) (\uc2e0\ub098\ub294 \ud2b8\ub85c\ud2b8 \uba5c\ub85c\ub514\ub97c \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "K-Trot Stars",
   "tracks": [
     {
@@ -4684,7 +4684,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 236144,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/49c9g4DfRP3UODnJgZCkXj"
@@ -5940,7 +5940,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 122000,
       "name": "I love you",
       "url": "https://open.spotify.com/track/1NOpSbLqGYcFYmT254mpM5"
@@ -7745,6 +7745,28 @@
     },
     {
       "album": {
+        "name": "December Love",
+        "url": "https://open.spotify.com/album/2LOUPqAV6pCTGKJsiCIf2V"
+      },
+      "artists": [
+        {
+          "name": "Jin Hae Sung",
+          "url": "https://open.spotify.com/artist/23vS68AzDOyMVMGQMT6bmx"
+        },
+        {
+          "name": "\ud574\uc131\uc0ac\ub791",
+          "url": "https://open.spotify.com/artist/4Y7y0XVNqVVFb5tDyrDe9p"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263075,
+      "name": "Love Christmas(feat.\ud574\uc131\uc0ac\ub791)",
+      "url": "https://open.spotify.com/track/5kXPsXmF5SKQsRqSK0xuvN"
+    },
+    {
+      "album": {
         "name": "Love Cowboy",
         "url": "https://open.spotify.com/album/0YBzjXf261UR4wQ2n1GtXx"
       },
@@ -8866,7 +8888,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 219053,
       "name": "Mr. Popularity",
       "url": "https://open.spotify.com/track/3mPyqnPd8ToVxyTTAwR7wj"

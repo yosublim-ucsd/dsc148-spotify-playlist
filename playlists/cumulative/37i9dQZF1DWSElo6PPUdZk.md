@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Jasmine Sandlas
 
-157 songs - 8 hr 8 min
+158 songs - 8 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2023-03-18 | 2024-01-31 |
 | [jhalle aa](https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [jhalle aa](https://open.spotify.com/album/0tHkeM32CHm0pXBv4ykrvh) | 2:44 | 2023-04-14 | 2023-04-20 |
 | [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 | 2023-03-18 | 2024-09-05 |
+| [Jhoote Laare](https://open.spotify.com/track/2t2D0QjGOscAMxo7arMT6Z) | [Shilpa Joshi](https://open.spotify.com/artist/74NeWcjFVZyQFkAVDCQj3x), [Yash Aggarwal](https://open.spotify.com/artist/1iPgZHluQlCghoVjGq5xou), [Lovish Sheetal](https://open.spotify.com/artist/7Ctl8UNKwlLPv1clATY5Jv) | [Jhoote Laare](https://open.spotify.com/album/4IpA8smR7xCckPNnnnDhYb) | 2:23 | 2024-12-04 |  |
 | [Jind Mahi](https://open.spotify.com/track/2NVJHduFkMaNNqhj3kmxWX) | [Aabha Hanjura](https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P) | [Jind Mahi](https://open.spotify.com/album/4bemzLUnC5A2PDMyBroFY2) | 2:32 | 2024-10-23 |  |
 | [Jinda Kunji](https://open.spotify.com/track/11Wl7NNOclREXEkrv0BKmZ) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [The Producer](https://open.spotify.com/artist/3FCWemxJ4CA7U7eOv47dDQ) | [Jinda Kunji](https://open.spotify.com/album/0KuNtmuFVQtTQ8cqBrhTS0) | 3:14 | 2024-11-05 | 2024-11-27 |
 | [Jinna Jinna](https://open.spotify.com/track/1oSxV16xXarfwCUEOPdIuZ) | [Deedar Kaur](https://open.spotify.com/artist/27XlBHWHNZPLkOU1IdAq6q), [Krsna Solo](https://open.spotify.com/artist/1fn1zda146dVI8wNdqi9l6) | [Jinna Jinna](https://open.spotify.com/album/1HbsoYzl6lIJwfSa9vvxSI) | 3:44 | 2024-10-07 | 2024-10-24 |
@@ -95,7 +96,7 @@
 | [Life](https://open.spotify.com/track/2W1iYW6m4hW9EOApubE9Tf) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Life](https://open.spotify.com/album/6ezeADqN6YlvTaG5w5Cmv5) | 3:18 | 2023-03-18 | 2024-09-04 |
 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-30 | 2024-10-04 |
 | [Limitless Pyar \- Live](https://open.spotify.com/track/1EIRP3SLryo1HoDhdHUsnn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [KAURA \(Live\)](https://open.spotify.com/album/3UkkmmklJZzgDr4tRcMQhP) | 3:42 | 2024-10-21 | 2024-11-07 |
-| [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/track/0MLIDC4d0g3s4u26mgggKB) | [Suchita](https://open.spotify.com/artist/0YpMBPKadGsRHptQU2kh9V), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV), [Sam Narula](https://open.spotify.com/artist/4jXfmkek5ImVxeZAKs74F2) | [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/album/4Gqdj7ldijmnfPXzkzTaUt) | 2:38 | 2024-11-22 |  |
+| [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/track/0MLIDC4d0g3s4u26mgggKB) | [Suchita](https://open.spotify.com/artist/0YpMBPKadGsRHptQU2kh9V), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV), [Sam Narula](https://open.spotify.com/artist/4jXfmkek5ImVxeZAKs74F2) | [Love Bite \(feat\. Sam Narula\)](https://open.spotify.com/album/4Gqdj7ldijmnfPXzkzTaUt) | 2:38 | 2024-11-22 | 2024-12-05 |
 | [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-24 | 2024-05-10 |
 | [Main Tenu](https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Main Tenu](https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko) | 2:31 | 2023-10-03 | 2024-10-09 |
 | [Main Teri Hoyi](https://open.spotify.com/track/3ZUzmgQmdAgdiCbVSotcsO) | [Amaan Bhullar](https://open.spotify.com/artist/3k6eT2Sr5ov9qiwZZ7i9wK) | [Main Teri Hoyi](https://open.spotify.com/album/4t3wYh3M30mRw48ZFYYqPj) | 3:16 | 2024-09-11 | 2024-11-19 |

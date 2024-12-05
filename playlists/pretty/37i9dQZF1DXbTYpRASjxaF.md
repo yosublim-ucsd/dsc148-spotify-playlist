@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 
 > Todos pro alto, cada um com o seu\. Foto: Danzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,802 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,785 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTYpRASjxaF.md) - [plain]
 | 42 | [Remessa Estrangeira \- Remix](https://open.spotify.com/track/7uAJuitwU51BhTzlTIIsKN) | [2HEAVY BEATS](https://open.spotify.com/artist/2of4ilOUWTaYTqy3qgnUQQ), [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1) | [Remessa Estrangeira \(Remix\)](https://open.spotify.com/album/5ZbWv2KbDYbhZTLcLrlBPr) | 1:57 |
 | 43 | [Viajando no Drink](https://open.spotify.com/track/0ngPNTMc61IXHjXfICELOG) | [Denov](https://open.spotify.com/artist/2SlZVZE3TXpp604Gh8t0ZW), [Real Wise](https://open.spotify.com/artist/6i9NlnmpnFGjka6O26ZehL) | [Viajando no Drink](https://open.spotify.com/album/1dfKhQbzAcaY78lVm4eUDq) | 3:36 |
 | 44 | [Ambições E Vícios](https://open.spotify.com/track/4Ku5B9wg2M7bzFJqosvqHv) | [DJ Matt D](https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Medo É Só Ilusão](https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu) | 2:01 |
-| 45 | [Thanos](https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Thanos](https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9) | 2:15 |
-| 46 | [Bala da Coruja](https://open.spotify.com/track/7MjUS0vMe6hQNSJQTAw4Vo) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Velloso](https://open.spotify.com/artist/5iIc1bz0IBPFdN5V5DjKrD), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [Bala da Coruja](https://open.spotify.com/album/16o1NNfY3fbjUM0oaVsyMQ) | 2:46 |
+| 45 | [Bala da Coruja](https://open.spotify.com/track/7MjUS0vMe6hQNSJQTAw4Vo) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Velloso](https://open.spotify.com/artist/5iIc1bz0IBPFdN5V5DjKrD), [Baratapai](https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY) | [Bala da Coruja](https://open.spotify.com/album/16o1NNfY3fbjUM0oaVsyMQ) | 2:46 |
+| 46 | [Thanos](https://open.spotify.com/track/4Eku46SnDjAzqoJNN3a99T) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS) | [Thanos](https://open.spotify.com/album/7Al64HfSoM38DMI3qu0jy9) | 2:15 |
 | 47 | [Hennessy](https://open.spotify.com/track/13plPuxQXo1trpgcoYoYIB) | [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO), [Choji](https://open.spotify.com/artist/2gx1zKYcIAUboisufcHkjB), [YNC Younco](https://open.spotify.com/artist/69MHK2hU8EbU2EXsdwxLrf) | [Hennessy](https://open.spotify.com/album/5ahBvjhShtljjmTzo6DvfB) | 2:07 |
 | 48 | [Amor de folclore](https://open.spotify.com/track/7HKeMdcJNYQMkqkEZ5cbLU) | [Bauê](https://open.spotify.com/artist/5AK8aNLKdYAhdjJni1iecn) | [Amor de folclore](https://open.spotify.com/album/14QrymLdO55Kjne9YnsPcJ) | 2:30 |
 | 49 | [Ela joga no 7](https://open.spotify.com/track/5vyu6cCIflFAmGZwnjyrq7) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Dj Murillo e LT no Beat](https://open.spotify.com/artist/1Zl5Ac1YyOHBkJKInGxbaS), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 3:20 |

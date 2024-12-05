@@ -4,10 +4,11 @@
 
 > feel good jams
 
-26 songs - 1 hr 15 min
+27 songs - 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [98 Degrees](https://open.spotify.com/track/3M0tH6TS6OTbvxtpsDJRRw) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Nonfiction](https://open.spotify.com/album/4JQzywD7AhqzDLDtFHxOpi) | 2:47 | 2024-12-04 |  |
 | [Alright](https://open.spotify.com/track/00Crfvu3dp6IBtAE6CzSVT) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Happy Songs 2010](https://open.spotify.com/album/3rHwqq6ssBUCrqOulc980p) | 3:02 | 2022-02-05 |  |
 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 | 2021-10-11 |  |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2021-10-29 |  |

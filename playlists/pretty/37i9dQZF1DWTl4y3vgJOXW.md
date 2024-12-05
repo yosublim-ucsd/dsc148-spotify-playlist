@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: The Oklahoma City Thunder
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,547,863 likes - 97 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,549,922 likes - 97 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

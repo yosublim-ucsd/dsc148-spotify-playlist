@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "T\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: 52Hz",
-  "name": "EQUAL Vietnam",
+  "description": "Nh\u1eefng ca kh\u00fac EQUAL Vietnam n\u1ed5i b\u1eadt n\u0103m 2024. \u1ea2nh b\u00eca: Orange",
+  "name": "Best of EQUAL Vietnam",
   "tracks": [
     {
       "album": {
@@ -20,6 +20,28 @@
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
+    },
+    {
+      "album": {
+        "name": "24H",
+        "url": "https://open.spotify.com/album/21hmaZuO1aUc7PZCfRJ7cN"
+      },
+      "artists": [
+        {
+          "name": "Lyly",
+          "url": "https://open.spotify.com/artist/4POahBr8YCPNKGErIiofyx"
+        },
+        {
+          "name": "Magazine",
+          "url": "https://open.spotify.com/artist/6sMgWEav2BrXWMRmP56oRS"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256905,
+      "name": "24H",
+      "url": "https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D"
     },
     {
       "album": {
@@ -82,7 +104,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 215217,
       "name": "Ai Lau \u0110\u00f4i Mi Hoen",
       "url": "https://open.spotify.com/track/19bgct6U5djwkDhAttMUlb"
@@ -112,6 +134,24 @@
     {
       "album": {
         "name": "Anh",
+        "url": "https://open.spotify.com/album/0P91wcAcNdrsYUJnWYXggD"
+      },
+      "artists": [
+        {
+          "name": "Uy\u00ean Linh",
+          "url": "https://open.spotify.com/artist/2KUMXzsDcJqXZW0CRh07zP"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182399,
+      "name": "Anh - Uy\u00ean Linh Version",
+      "url": "https://open.spotify.com/track/1EaROPDCbTXXbThq7uMpPC"
+    },
+    {
+      "album": {
+        "name": "Anh",
         "url": "https://open.spotify.com/album/4tHoCOKrPBg3QZwQeDaywT"
       },
       "artists": [
@@ -122,7 +162,7 @@
       ],
       "date_added": "2024-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 182399,
       "name": "Anh - Uy\u00ean Linh Version",
       "url": "https://open.spotify.com/track/2YF6BpVt9vvmrCSdYYLGpq"
@@ -180,7 +220,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 292379,
       "name": "Anh \u01a0i \u1ede L\u1ea1i",
       "url": "https://open.spotify.com/track/0VBv6oyMgeEBOIysaSV9aE"
@@ -216,7 +256,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-03",
+      "date_removed": null,
       "duration_ms": 172000,
       "name": "Bo X\u00ec Bo",
       "url": "https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC"
@@ -256,7 +296,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 233730,
       "name": "Bu\u00f4n Tr\u0103ng",
       "url": "https://open.spotify.com/track/18AOhepmK6YUyfCDC3ui0h"
@@ -286,7 +326,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 209798,
       "name": "Bu\u1ed3n Kh\u00f4ng Th\u1ec3 Bu\u00f4ng",
       "url": "https://open.spotify.com/track/7oOHsNCshX5HmwEGSWxaxd"
@@ -340,7 +380,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 174842,
       "name": "B\u00f3ng H\u1ed3ng L\u1ebb Loi",
       "url": "https://open.spotify.com/track/2EvthuGElCn25rjzMGapNh"
@@ -362,7 +402,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 274620,
       "name": "B\u00f3ng Ph\u00f9 Hoa",
       "url": "https://open.spotify.com/track/3fw9v7CztM2mqu1jCtbg9f"
@@ -676,7 +716,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 186466,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/6JAFqDVdkLfJ9BtGIBZNWd"
@@ -774,7 +814,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 217142,
       "name": "C\u00f3 Anh \u1ede \u0110\u00e2y",
       "url": "https://open.spotify.com/track/0aMweBE0y1IwmxDyXNVJrg"
@@ -1000,7 +1040,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 228750,
       "name": "C\u1ea3m N\u1eafng",
       "url": "https://open.spotify.com/track/4LDhkOharOhue7nZMFYmCu"
@@ -1026,6 +1066,28 @@
       "duration_ms": 228750,
       "name": "C\u1ea3m N\u1eafng (feat. Rtee)",
       "url": "https://open.spotify.com/track/0XhT3B0RgwYF11EiJqKlvN"
+    },
+    {
+      "album": {
+        "name": "C\u1ea3m N\u1eafng",
+        "url": "https://open.spotify.com/album/7hQOfh29P6FdTeSS5N17bG"
+      },
+      "artists": [
+        {
+          "name": "SUNI H\u1ea1 Linh",
+          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
+        },
+        {
+          "name": "Rtee",
+          "url": "https://open.spotify.com/artist/73AUXZbgPiHjPbv66nGVq7"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "C\u1ea3m N\u1eafng (feat. Rtee)",
+      "url": "https://open.spotify.com/track/3G5iLqNB7j5MnyzaEXVK3b"
     },
     {
       "album": {
@@ -1130,7 +1192,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 179541,
       "name": "Duy\u00ean \u00c2m",
       "url": "https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS"
@@ -1264,7 +1326,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-03",
+      "date_removed": null,
       "duration_ms": 228979,
       "name": "Em M\u1edbi L\u00e0 Ng\u01b0\u1eddi Y\u00eau Anh",
       "url": "https://open.spotify.com/track/1gIaX9HEGZsWSd5HDJatSr"
@@ -1452,7 +1514,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 191000,
       "name": "Finding You",
       "url": "https://open.spotify.com/track/0g7d8Y9Y2BP8qFZDzngnSz"
@@ -1602,7 +1664,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em",
       "url": "https://open.spotify.com/track/5C4ajMLziq5yB7I5K6EsLS"
@@ -1624,7 +1686,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 190500,
       "name": "Gi\u1ea5c M\u01a1 C\u1ee7a Em - Suy Version",
       "url": "https://open.spotify.com/track/1kmKeANKIVzsfKtMZ4Ei6Z"
@@ -1740,10 +1802,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 185175,
       "name": "G\u00e1i \u0110\u1ed9c Th\u00e2n",
       "url": "https://open.spotify.com/track/2klsSb2iTfgDh95Ak9uWY2"
+    },
+    {
+      "album": {
+        "name": "CAM'ON",
+        "url": "https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg"
+      },
+      "artists": [
+        {
+          "name": "Orange",
+          "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333459,
+      "name": "G\u1eb7p l\u1ea1i n\u0103m ta 60",
+      "url": "https://open.spotify.com/track/2duOZC2662k9GdBjjFKewq"
     },
     {
       "album": {
@@ -1758,7 +1838,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 333459,
       "name": "G\u1eb7p l\u1ea1i n\u0103m ta 60",
       "url": "https://open.spotify.com/track/3Vo5KWON7ii5Cs6gAivUWH"
@@ -2012,7 +2092,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 295750,
       "name": "H\u01a1n Em Ch\u1ed7 N\u00e0o",
       "url": "https://open.spotify.com/track/2TqjLbM2E5I4ce6iWTdXly"
@@ -2124,7 +2204,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 247553,
       "name": "H\u1eb9n \u01af\u1edbc T\u1eeb H\u01b0 V\u00f4 - Live",
       "url": "https://open.spotify.com/track/2tg8L2ls1k19B2SvRKBnJh"
@@ -2186,7 +2266,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-07",
+      "date_removed": null,
       "duration_ms": 228094,
       "name": "Khi Em L\u1edbn",
       "url": "https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS"
@@ -2208,7 +2288,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 217142,
       "name": "Kh\u00f4ng Ai Kh\u00e1c Ngo\u00e0i Em",
       "url": "https://open.spotify.com/track/1TCoFJkxJifqLEdHMYd3r5"
@@ -2252,7 +2332,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 240500,
       "name": "kh\u00f4ng m\u1ed9t b\u00e0i h\u00e1t n\u00e0o c\u00f3 th\u1ec3 di\u1ec5n t\u1ea3 c\u1ea3m x\u00fac c\u1ee7a em l\u00fac n\u00e0y. (feat. Thanh Bui)",
       "url": "https://open.spotify.com/track/2AA4UcXp2WRvsU9cyHT6Vy"
@@ -2332,7 +2412,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 218007,
       "name": "Ki\u1ec7t T\u00e1c \u0110\u1eb9p Nh\u1ea5t C\u1ee7a Th\u01b0\u1ee3ng \u0110\u1ebf",
       "url": "https://open.spotify.com/track/1eRWYJaM8jeDbliG4erWSx"
@@ -2354,10 +2434,36 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 164266,
       "name": "K\u00eca B\u00f3ng D\u00e1ng Ai",
       "url": "https://open.spotify.com/track/5gBLuVQ6Ba7Ab6nlTROxFY"
+    },
+    {
+      "album": {
+        "name": "Muse It",
+        "url": "https://open.spotify.com/album/18vC8PkMBWBRvs2BL7bLc4"
+      },
+      "artists": [
+        {
+          "name": "Thu Minh",
+          "url": "https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd"
+        },
+        {
+          "name": "Ch\u00e2u \u0110\u0103ng Khoa",
+          "url": "https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239683,
+      "name": "K\u1ebb T\u00e0n Nh\u1eabn Th\u01b0\u1eddng S\u1ed1ng Th\u1ea3nh Th\u01a1i",
+      "url": "https://open.spotify.com/track/5DiwZIcu7hma3CliIhaqTW"
     },
     {
       "album": {
@@ -2592,7 +2698,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 200842,
       "name": "L\u1ec7 L\u01b0u Ly",
       "url": "https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i"
@@ -2898,7 +3004,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 235093,
       "name": "Mu\u1ed9n M\u00e0ng L\u00e0 T\u1eeb L\u00fac",
       "url": "https://open.spotify.com/track/5UeD0rVFJXXl3HGjKiZbrt"
@@ -2934,7 +3040,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 219090,
       "name": "M\u00ea Cung T\u00ecnh Y\u00eau (prod. RIO)",
       "url": "https://open.spotify.com/track/57NB3UNDK1VPTRH0N1pqe7"
@@ -3042,7 +3148,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "M\u1ed9t C\u00fa L\u1eeba",
       "url": "https://open.spotify.com/track/16YX7SfThwFHdSYYWO6VaL"
@@ -3082,7 +3188,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-15",
+      "date_removed": null,
       "duration_ms": 192997,
       "name": "M\u1ed9t Ng\u00e0y Ch\u1eb3ng N\u1eafng",
       "url": "https://open.spotify.com/track/7hkvAaJNRlnetwv8Se2kDA"
@@ -3104,6 +3210,24 @@
       "duration_ms": 257647,
       "name": "M\u1ed9t Ng\u01b0\u1eddi \u0110\u00e1nh M\u1ea5t M\u1ed9t Ng\u01b0\u1eddi",
       "url": "https://open.spotify.com/track/6slHerkX6036uziyYSOtZn"
+    },
+    {
+      "album": {
+        "name": "M\u1ed9t Ng\u01b0\u1eddi \u0110\u00e1nh M\u1ea5t M\u1ed9t Ng\u01b0\u1eddi",
+        "url": "https://open.spotify.com/album/2E6ZljmtzzHy1oxv1Yoaht"
+      },
+      "artists": [
+        {
+          "name": "Olew",
+          "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257647,
+      "name": "M\u1ed9t Ng\u01b0\u1eddi \u0110\u00e1nh M\u1ea5t M\u1ed9t Ng\u01b0\u1eddi",
+      "url": "https://open.spotify.com/track/00be0bf1yiRaJB8PMXG9uj"
     },
     {
       "album": {
@@ -3234,6 +3358,24 @@
       "duration_ms": 235744,
       "name": "Ng\u1ecf L\u1eddi",
       "url": "https://open.spotify.com/track/194xS2oTIYL5u1IK0Q0oj0"
+    },
+    {
+      "album": {
+        "name": "Ng\u1ecf L\u1eddi",
+        "url": "https://open.spotify.com/album/145qqBBHgR6Z8DL0pQZXdo"
+      },
+      "artists": [
+        {
+          "name": "SUNI H\u1ea1 Linh",
+          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235744,
+      "name": "Ng\u1ecf L\u1eddi",
+      "url": "https://open.spotify.com/track/59O63MgRx1zhKVPmxrFdY9"
     },
     {
       "album": {
@@ -3480,7 +3622,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 263752,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/4exlWP8cokkWVCvyP3kg7c"
@@ -3502,7 +3644,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 264000,
       "name": "n\u1ebfu l\u00fac \u0111\u00f3",
       "url": "https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz"
@@ -3756,7 +3898,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 261800,
       "name": "Ra L\u00e0 Em \u0110\u00e2u Qu\u00e1 Mong Manh",
       "url": "https://open.spotify.com/track/0AfV1Fr2nWmXFxC3RkhawH"
@@ -3796,7 +3938,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 243934,
       "name": "Real Love - The Heroes Version",
       "url": "https://open.spotify.com/track/2Gazl1MAVX8vmo8E659Vq8"
@@ -3874,13 +4016,13 @@
       },
       "artists": [
         {
-          "name": "O.lew",
+          "name": "Olew",
           "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
         }
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-08",
+      "date_removed": null,
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"
@@ -3938,7 +4080,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 302640,
       "name": "Sau L\u01b0ng Anh C\u00f3 Ai K\u00eca",
       "url": "https://open.spotify.com/track/3AWGEluq3VIBh4k4aIJN1p"
@@ -4458,10 +4600,28 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 253500,
       "name": "tr\u1eddi gi\u1ea5u tr\u1eddi mang \u0111i",
       "url": "https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn"
+    },
+    {
+      "album": {
+        "name": "dreaAMEE",
+        "url": "https://open.spotify.com/album/3JKB4LRIu5vTuVf9Lmf3FK"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "tr\u1eddi gi\u1ea5u tr\u1eddi mang \u0111i",
+      "url": "https://open.spotify.com/track/2SykQzXuFSeprST1uDjj1m"
     },
     {
       "album": {
@@ -4512,7 +4672,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 271399,
       "name": "T\u00ecnh Y\u00eau \u0110\u1ebfn Sau",
       "url": "https://open.spotify.com/track/1ISenZ6rcvWJHsBlW5kymp"
@@ -4548,7 +4708,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 204495,
       "name": "T\u1ea7n S\u1ed1 Bu\u1ed3n",
       "url": "https://open.spotify.com/track/2kBcNYIYmgQ7kJ81N3qegO"
@@ -4628,7 +4788,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 252500,
       "name": "T\u1eebng L\u00e0",
       "url": "https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE"
@@ -4778,7 +4938,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 227205,
       "name": "V\u00ec Em T\u1ea5t C\u1ea3",
       "url": "https://open.spotify.com/track/7D9tiidrBDQRgCENeIhko0"
@@ -4864,7 +5024,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 220957,
       "name": "V\u0169 Tr\u1ee5 C\u00f3 Anh (feat. Ph\u00e1o)",
       "url": "https://open.spotify.com/track/4bOwnJwm4Zy1vjnndHFLHj"
@@ -5158,10 +5318,28 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 180500,
       "name": "\u0111en \u0111\u00e1 kh\u00f4ng \u0111\u01b0\u1eddng",
       "url": "https://open.spotify.com/track/3clfEGdaeSmWM6pDekmZ2G"
+    },
+    {
+      "album": {
+        "name": "dreaAMEE",
+        "url": "https://open.spotify.com/album/3JKB4LRIu5vTuVf9Lmf3FK"
+      },
+      "artists": [
+        {
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "\u0111en \u0111\u00e1 kh\u00f4ng \u0111\u01b0\u1eddng",
+      "url": "https://open.spotify.com/track/5g5sJF9WZWqTPl3XI7Yj0V"
     },
     {
       "album": {
@@ -5390,7 +5568,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 247368,
       "name": "\u0110\u1ea1i Minh Tinh",
       "url": "https://open.spotify.com/track/48D6GbuJqsGLTkNm6QvYwl"
@@ -5492,7 +5670,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-04",
+      "date_removed": null,
       "duration_ms": 212593,
       "name": "\u0110\u1eebng k\u1ebft th\u00fac h\u00f4m nay",
       "url": "https://open.spotify.com/track/1U4zQAW8s2kAMftN3avXL0"
@@ -5550,7 +5728,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 230599,
       "name": "\u01af\u1edaC ANH TAN N\u00c1T CON TIM",
       "url": "https://open.spotify.com/track/4r12MbGoZQBt6SQpFyFXq8"
@@ -5568,7 +5746,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 197714,
       "name": "\u1edf nh\u00e0 m\u1ed9t m\u00ecnh",
       "url": "https://open.spotify.com/track/5r3mcoFfYljX47zAAlaGSQ"

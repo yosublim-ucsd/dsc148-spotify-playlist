@@ -8310,7 +8310,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 144615,
       "name": "DaSpritzers",
       "url": "https://open.spotify.com/track/53x3IWruUKHjycanyVzzwb"
@@ -18110,6 +18110,24 @@
       "duration_ms": 117750,
       "name": "Keeps Me Wondering Why",
       "url": "https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI"
+    },
+    {
+      "album": {
+        "name": "kernel",
+        "url": "https://open.spotify.com/album/6gsW4jhtndk19PDEOvy9nJ"
+      },
+      "artists": [
+        {
+          "name": "haki donzo",
+          "url": "https://open.spotify.com/artist/7JCLpMzChs65N5MKKyup2b"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "kernel",
+      "url": "https://open.spotify.com/track/5UpkSwbQixikbbJvG5GnOV"
     },
     {
       "album": {
@@ -34834,7 +34852,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 141300,
       "name": "surf & turf",
       "url": "https://open.spotify.com/track/6CxVGgxFnIIqKmZGHxWxDK"
@@ -39016,7 +39034,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 182922,
       "name": "waves",
       "url": "https://open.spotify.com/track/75lbe3dkMnMlOk2NiXhD7b"

@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Bitter Melon Farm",
+        "url": "https://open.spotify.com/album/6TM3RCfmgYVo6WzFfiosYH"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "Black Molly",
+      "url": "https://open.spotify.com/track/6NE7ocbNZgKeMKRt4J5z7H"
+    },
+    {
+      "album": {
         "name": "Neotheater",
         "url": "https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj"
       },
@@ -636,6 +654,24 @@
       "duration_ms": 191100,
       "name": "Not Quite Almost Christmas Time",
       "url": "https://open.spotify.com/track/4mAianxMp7W4tdUzO2n1Zc"
+    },
+    {
+      "album": {
+        "name": "Tallahassee",
+        "url": "https://open.spotify.com/album/2DL7AR6nEM3bhwNy9zHuZa"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248266,
+      "name": "Oceanographer's Choice",
+      "url": "https://open.spotify.com/track/53HgikeNYCtqNCKC0aHsej"
     },
     {
       "album": {

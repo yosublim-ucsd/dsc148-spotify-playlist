@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13028,
+  "num_followers": 13032,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Remake Romantic 2",
         "url": "https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 213707,
       "name": "\uce75\ud14c\uc77c \uc0ac\ub791",
       "url": "https://open.spotify.com/track/6qEGo4kAg8RK7svtm6WWQm"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/7iFMWe0szI11EHVa24MvUg"
-      },
-      "artists": [
-        {
-          "name": "\uc778\ub514\uace0",
-          "url": "https://open.spotify.com/artist/5wlEalFbAjh5M8bp0DCOuK"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Please Summer!",
-      "url": "https://open.spotify.com/track/2fJ6nalbCW2IAuKoEdlzqt"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Papaya 1st",
         "url": "https://open.spotify.com/album/1Glo0W3cv0WvAZbrlnX4Kf"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 214026,
       "name": "\ub0b4 \uc598\uae38 \ub4e4\uc5b4\ubd10",
       "url": "https://open.spotify.com/track/6N4WEHW6yiudpF05o8cb1F"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/7iFMWe0szI11EHVa24MvUg"
+      },
+      "artists": [
+        {
+          "name": "\uc778\ub514\uace0",
+          "url": "https://open.spotify.com/artist/5wlEalFbAjh5M8bp0DCOuK"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Please Summer!",
+      "url": "https://open.spotify.com/track/2fJ6nalbCW2IAuKoEdlzqt"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Let Me Love",
-        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 240653,
-      "name": "\ub2e4\uc9d0",
-      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Passion",
         "url": "https://open.spotify.com/album/5PobQscEtitaB9OVJ9Q1y9"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 237165,
       "name": "Passion",
       "url": "https://open.spotify.com/track/5CisUC4TUiKGo0FETfOxma"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Let Me Love",
+        "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
+      },
+      "artists": [
+        {
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
+        }
+      ],
+      "duration_ms": 240653,
+      "name": "\ub2e4\uc9d0",
+      "url": "https://open.spotify.com/track/1aQwP7MaUmsCW65Pck7CLE"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 225098,
-      "name": "\uc6b4\uba85",
-      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Seotaiji and Boys",
         "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 227666,
       "name": "I Know - Club Mix",
       "url": "https://open.spotify.com/track/5p0EAPiH5jFWsZRntqfsLg"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 225098,
+      "name": "\uc6b4\uba85",
+      "url": "https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Road Fighter",
-        "url": "https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde"
+        "name": "Power Bit Techno Space A",
+        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
       },
       "artists": [
         {
-          "name": "SECHSKIES",
-          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
+          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
+          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
         }
       ],
-      "duration_ms": 200306,
-      "name": "Road Fighter",
-      "url": "https://open.spotify.com/track/2xoCyFfFSJdsXgkKNF0eWF"
+      "duration_ms": 226893,
+      "name": "\uc131\uc219",
+      "url": "https://open.spotify.com/track/1Mr3U7Ku6Y30EShsQtGoiS"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Power Bit Techno Space A",
-        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
+        "name": "Road Fighter",
+        "url": "https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde"
       },
       "artists": [
         {
-          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
-          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
+          "name": "SECHSKIES",
+          "url": "https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27"
         }
       ],
-      "duration_ms": 226893,
-      "name": "\uc131\uc219",
-      "url": "https://open.spotify.com/track/1Mr3U7Ku6Y30EShsQtGoiS"
+      "duration_ms": 200306,
+      "name": "Road Fighter",
+      "url": "https://open.spotify.com/track/2xoCyFfFSJdsXgkKNF0eWF"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
+        "name": "Power Bit Techno Space A",
+        "url": "https://open.spotify.com/album/6z7TaPYMRd2qR50w7VTR7S"
+      },
+      "artists": [
+        {
+          "name": "\uc2a4\ud398\uc774\uc2a4\uc5d0\uc774",
+          "url": "https://open.spotify.com/artist/5rP3DIvtsg7OlTqq0pI66Y"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
+      "url": "https://open.spotify.com/track/0Ss2xN0mwOnIpzWjG7gwf7"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
         "name": "Roo`ra Best Album",
         "url": "https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 243435,
       "name": "\ube44\ubc00\uc740 \uc5c6\uc5b4",
       "url": "https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
-        "name": "\ucca0\uc774\uc640 \ubbf8\uc560",
-        "url": "https://open.spotify.com/album/57FVNi03fmv2COU5hz6dnL"
-      },
-      "artists": [
-        {
-          "name": "Chuli & Miae",
-          "url": "https://open.spotify.com/artist/3UYzCPJok6VAnaufYoNNqN"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "\ub108\ub294 \uc65c",
-      "url": "https://open.spotify.com/track/1gfc6WeaZ8rabkRTIt4Hvm"
     }
   ],
   "unique_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",

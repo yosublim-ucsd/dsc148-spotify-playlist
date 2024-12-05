@@ -2,7 +2,7 @@
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de noviembre 2024\. Cover: Rauw Alejandro
+> Lo mejor de diciembre 2024\. Cover: Rauw Alejandro
 
 1,076 songs - 2 day 9 hr 16 min
 

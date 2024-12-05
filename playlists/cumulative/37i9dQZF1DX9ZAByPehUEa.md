@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-486 songs - 1 day 5 hr 49 min
+487 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Hot Honey](https://open.spotify.com/track/2zq9JzV4REqw574jN2yyEH) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Hot Honey](https://open.spotify.com/album/6jRGHMzuPV5oSphIusq9IL) | 2:17 | 2024-05-31 | 2024-07-01 |
 | [Hotel Adriano](https://open.spotify.com/track/132ri9OsKKZIbjB9ZzCftA) | [Alex Autajon](https://open.spotify.com/artist/5OA57ztYlNqNO02sjgjzTl) | [Prise d'Autaj' EP](https://open.spotify.com/album/523IrR0chnCjZLbTOqyBHi) | 2:50 | 2024-06-21 | 2024-07-13 |
 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-01-12 | 2024-06-22 |
-| [House Music \- Edit](https://open.spotify.com/track/1doxuytmXDBTUdYcIT0gCp) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Yellow Productions : A French Touch by Bob Sinclar & Dj Yellow Vol\. 2](https://open.spotify.com/album/1RkCmF3rQDxfFe8h97OBSR) | 4:37 | 2024-09-06 |  |
+| [House Music \- Edit](https://open.spotify.com/track/1doxuytmXDBTUdYcIT0gCp) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Yellow Productions : A French Touch by Bob Sinclar & Dj Yellow Vol\. 2](https://open.spotify.com/album/1RkCmF3rQDxfFe8h97OBSR) | 4:37 | 2024-09-06 | 2024-12-05 |
 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 |  |
 | [Hustle](https://open.spotify.com/track/0AIVZBiAQJDGmYLfDF2UDe) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Hustle](https://open.spotify.com/album/4tSRDTghTctng45CrZ7bwx) | 2:20 | 2024-09-13 | 2024-11-13 |
 | [Hypnotizin'](https://open.spotify.com/track/0jP7OiUfXGp6MQQ4f3HrVY) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Hypnotizin'](https://open.spotify.com/album/3ABh1hwpRcQgvNsszVYxig) | 3:58 | 2024-08-30 |  |
@@ -273,6 +273,7 @@
 | [Love is Free](https://open.spotify.com/track/1yBSWwDsYAgAQ2nZfucgib) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [Love is Free](https://open.spotify.com/album/5gwvKoVUGQbItVCjPIxfjX) | 5:13 | 2022-01-14 | 2022-07-28 |
 | [Love Is No Game \- Edit](https://open.spotify.com/track/5DnaTchFyfDq1IEBjYFNm4) | [HP Vince](https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW) | [Love Is No Game \(Edit\)](https://open.spotify.com/album/1UIiIaQXOjTxYuwajaLWtJ) | 2:29 | 2024-04-26 | 2024-05-18 |
 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 | 2024-01-12 |  |
+| [Love On Repeat](https://open.spotify.com/track/4FRfbY6QwgjK5ocCeAkx7U) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Love On Repeat](https://open.spotify.com/album/54tygP05azXX7rSkkj8dqQ) | 2:22 | 2024-11-30 |  |
 | [Love Takeover](https://open.spotify.com/track/5dCh4pv5Bmay1CFeRt80YE) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Love Takeover](https://open.spotify.com/album/1ZrVMXLDZVW8elSjuqsHl6) | 2:48 | 2024-06-28 | 2024-09-01 |
 | [Love Trip](https://open.spotify.com/track/36T8YcNQzsrAq7okfOu7t5) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Love Trip / Hi Land Funk](https://open.spotify.com/album/42HAf1ATyAhcR6hwwNIG1p) | 6:53 | 2022-01-14 | 2022-07-03 |
 | [Love You Again \(feat\. Akua\)](https://open.spotify.com/track/6DB1uu3VcQqV6rae4lWze8) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z), [Akua](https://open.spotify.com/artist/3Y4VaqWeDWuLEHqB0s4Vmi) | [Love You Again \(feat\. Akua\)](https://open.spotify.com/album/5F3slII7s40r8LCAplnBm8) | 2:56 | 2022-01-14 | 2022-07-28 |

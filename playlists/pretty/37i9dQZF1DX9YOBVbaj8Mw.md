@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,759 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,760 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 68 | [Coincidence \- Part 1 \- Prologue](https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3) | [Paweł Tomaszewski](https://open.spotify.com/artist/2U5CeMzclm8FsB70aHxcty), [Orkiestra Symfoniczna Filharmonii w Szczecinie](https://open.spotify.com/artist/5IjEkWFtLiekTB9T7BVKnp), [Filharmonia Szczecin](https://open.spotify.com/artist/09vWiQtJO8uV7v6F5FIupy) | [COINCIDENCE](https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy) | 2:07 |
 | 69 | [Nucę, gwiżdżę sobie \(Canto Canto\)](https://open.spotify.com/track/4i4jC0dkDV7lTGjUGuEzQU) | [Dorota Miskiewicz](https://open.spotify.com/artist/28mPXJrs2VyZ6Phm1JBeaF), [Toninho Horta](https://open.spotify.com/artist/1HQIztYT50mMS3PZR0qgFk) | [Bons Amigos](https://open.spotify.com/album/3Jw4AYdB8n1eREIDwQSpwa) | 4:17 |
 | 70 | [Alkohol i miłość](https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5) | [Jan Emil Mlynarski](https://open.spotify.com/artist/798arzkDX7o9m093xCgLqw), [Brass Federacja](https://open.spotify.com/artist/0wXF2aKtDRH1IxDMQUrYq8), [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Narkotyki](https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp) | 3:30 |
-| 71 | [Pieśń baby](https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V) | [Same Suki](https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd) | [Dziadoskie piosenki o miłości](https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU) | 1:39 |
-| 72 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
-| 73 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
+| 71 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
+| 72 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
+| 73 | [Pieśń baby](https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V) | [Same Suki](https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd) | [Dziadoskie piosenki o miłości](https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU) | 1:39 |
 | 74 | [Klucz](https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI) | [Natalia Lesz](https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr) | [Piosenki domowe](https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV) | 2:16 |
 | 75 | [Kruszysz \(Szatt Remix\)](https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [p@Ran0j3](https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu) | 3:30 |
 | 76 | [Summerland](https://open.spotify.com/track/3YhE34lzYqQo0itqTFna1H) | [Matecki](https://open.spotify.com/artist/5EqnXx3mzsCQqk1SN7yi1w) | [Matecki](https://open.spotify.com/album/30MCvL97lhObrR5lwffQGe) | 3:01 |

@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 171176,
       "name": "CALICE",
       "url": "https://open.spotify.com/track/1wkcCVyriNdZZhZRFPBb1j"
@@ -1168,6 +1168,24 @@
       "duration_ms": 222171,
       "name": "FANTASMA",
       "url": "https://open.spotify.com/track/20EFsnCjMkr4Mn40DIo1aG"
+    },
+    {
+      "album": {
+        "name": "Luna in acquario ascendente sagittario",
+        "url": "https://open.spotify.com/album/5ZVfzo9FfOgS0qua2VZalt"
+      },
+      "artists": [
+        {
+          "name": "Prim",
+          "url": "https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy"
+        }
+      ],
+      "date_added": "2024-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169747,
+      "name": "Farci la guerra",
+      "url": "https://open.spotify.com/track/0Zo7I06eVLnK52od78Hr9n"
     },
     {
       "album": {

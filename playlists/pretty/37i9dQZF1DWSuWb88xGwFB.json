@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 37432,
+  "num_followers": 37441,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "(Who?) Keeps Changing Your Mind",
+        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
+      },
+      "artists": [
+        {
+          "name": "South Street Player",
+          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
+        }
+      ],
+      "duration_ms": 460939,
+      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
+      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Blues for You (Remixes)",
         "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 291600,
       "name": "House Of Love - Love Mix",
       "url": "https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "(Who?) Keeps Changing Your Mind",
-        "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
-      },
-      "artists": [
-        {
-          "name": "South Street Player",
-          "url": "https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway"
-        }
-      ],
-      "duration_ms": 460939,
-      "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
-      "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 489320,
+      "name": "The Warning - Inner Mix",
+      "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Break Night",
         "url": "https://open.spotify.com/album/6aMCKm4Nm9iBCc6TspYBva"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 605306,
       "name": "Alright (feat. Earl Bennett) - BOP Journey Remix",
       "url": "https://open.spotify.com/track/7dVPEuz7LSKcjnArcv38uI"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 489320,
-      "name": "The Warning - Inner Mix",
-      "url": "https://open.spotify.com/track/0EThIfEDrSIszyhVATkCoi"
     },
     {
       "added_at": "2022-03-03 13:59:16",

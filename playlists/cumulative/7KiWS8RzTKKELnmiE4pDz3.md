@@ -4,7 +4,7 @@
 
 > 
 
-820 songs - 1 day 15 hr 26 min
+824 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Everyday](https://open.spotify.com/track/6ssFHrOdxTZvbwP1AHkVZi) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN), [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Everyday](https://open.spotify.com/album/24CUaKU2lwY3M9OFOXsFjB) | 2:24 | 2022-11-02 | 2023-04-12 |
 | [Everything Is Everything](https://open.spotify.com/track/54sAHwWnjPSyhThvldKlj7) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Bishouné: Alma del Huila](https://open.spotify.com/album/6VB0QoBXTlER1aYC27Ite8) | 4:15 | 2024-02-16 | 2024-11-06 |
 | [Extortion \(feat\. Method Man\)](https://open.spotify.com/track/04EXj02fD1HNyxnINHrolZ) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 3:31 | 2024-05-23 | 2024-11-06 |
+| [F&N](https://open.spotify.com/track/5YP6yKgGGsXKukqxXypVAf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 3:09 | 2024-12-04 |  |
 | [F.F.](https://open.spotify.com/track/2th6kLQPb9HzsgTI5VxHNp) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [RED & WHITE](https://open.spotify.com/album/4aTdfh8F07U59ClqhljKHp) | 3:10 | 2022-09-10 | 2023-05-09 |
 | [Faceshot](https://open.spotify.com/track/5R2pz8i4k4bvRAqiIFXzKz) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:55 | 2024-11-16 |  |
 | [Fake\_0pps](https://open.spotify.com/track/68QWCdMKUq5JxN1R4Hj9BP) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [WAY2GEEKED](https://open.spotify.com/album/0NVK13Q93Egu6zMj858l8W) | 3:15 | 2022-09-30 | 2023-08-28 |
@@ -410,6 +411,7 @@
 | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/track/19DxfiuqUiuAB2QtDkgTPj) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Like Sosa, Bang, Bang, Baby](https://open.spotify.com/album/2F3ecFWb26F4F67H1ChUJk) | 2:13 | 2023-02-28 | 2023-05-09 |
 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 | 2024-05-03 | 2024-11-06 |
 | [Like This \(feat\. Lil Uzi Vert, Destroy Lonely\)](https://open.spotify.com/track/1DypGkTryeH4cPFBVucxo4) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:12 | 2023-10-27 | 2024-04-24 |
+| [Lil Haiti Baby](https://open.spotify.com/track/3IMZ6j3mlRQYsatEuzt0Y3) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 4:37 | 2024-12-04 |  |
 | [Lil O](https://open.spotify.com/track/4XQYw27IBSTWlqedgSBovL) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/1gbR6hQTGdJ8PH3BXgmcdg) | 2:12 | 2024-02-19 | 2024-03-05 |
 | [Lindsay Lohan](https://open.spotify.com/track/4LPyJrC3Yd40AlkEaPgcA2) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Lindsay Lohan](https://open.spotify.com/album/5ygWbWxDInjLZyAPudyaQP) | 2:46 | 2022-10-24 | 2023-04-12 |
 | [Live & Die Again](https://open.spotify.com/track/0oUMoq7NOyQdkTGwIAb24A) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [BABY WHOA](https://open.spotify.com/album/4LwBYHKVRaFll4wNsVA2TV) | 2:08 | 2023-01-11 | 2023-05-09 |
@@ -581,6 +583,7 @@
 | [Precision](https://open.spotify.com/track/0jYYthUDGsJrYMCrtdHYtJ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Precision](https://open.spotify.com/album/1DNvuu85Qyu95qxWCY8jTO) | 2:47 | 2024-03-23 | 2024-11-06 |
 | [PRICE OF FAME](https://open.spotify.com/track/1RR29QADKP8ygptqTDdHSH) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [PRICE OF FAME](https://open.spotify.com/album/0ZPaMBoUZhJhJnJQgShm8X) | 6:19 | 2022-12-23 | 2023-04-12 |
 | [Problem](https://open.spotify.com/track/1o5jdqnWybW9Mau4GDWPMa) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 4:01 | 2024-07-09 |  |
+| [Program](https://open.spotify.com/track/5lMmp06Yt5opZrKdszyh8Y) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 2:56 | 2024-12-04 |  |
 | [Prophecy](https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:19 | 2023-10-10 | 2024-03-05 |
 | [PRSSURE](https://open.spotify.com/track/48y5VJEYelOWiuOB3WPQBJ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NO STYLIST](https://open.spotify.com/album/4eofl3fkWPQWKpttvulret) | 2:17 | 2023-03-12 | 2023-04-12 |
 | [PSYCHO \(feat\. Future\)](https://open.spotify.com/track/38ekB61IZOFEkK72yoECP6) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 4:38 | 2023-01-20 | 2023-04-24 |
@@ -769,6 +772,7 @@
 | [U could tëll](https://open.spotify.com/track/0k4Xxpf3Ml9e0UFYacCIDO) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs) | 2:28 | 2022-12-16 | 2023-12-14 |
 | [U Should Know](https://open.spotify.com/track/17vVm6v7GE2tP2KRVbCwqv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 3:06 | 2024-02-16 | 2024-04-24 |
 | [U Should Know](https://open.spotify.com/track/5bfKhDxMWi5Yd2B4OBYdHg) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/0cLGXgec8fFV7YPFQ96SUG) | 3:06 | 2024-02-16 | 2024-02-22 |
+| [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 | 2024-12-05 |  |
 | [Un Día](https://open.spotify.com/track/1bhZ2EA50Lt7vJvGiFv2dW) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4), [Las Sombras](https://open.spotify.com/artist/1QDqOOONr11np0HEOPMVTI) | [Tu Imagen](https://open.spotify.com/album/26liQTrnezbMVR7Yjnn2Im) | 2:30 | 2024-02-14 | 2024-11-06 |
 | [Uncle Phil](https://open.spotify.com/track/0Lf4lhGWMan0D4kL66Insu) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Dont Get Took Off 3](https://open.spotify.com/album/3x2ZDCI5fNsZRsLS7H73gq) | 2:37 | 2023-01-03 | 2023-12-14 |
 | [Under Me](https://open.spotify.com/track/6ugMMzjEgL7xqNyrgwCCKh) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:23 | 2022-07-28 | 2024-03-05 |

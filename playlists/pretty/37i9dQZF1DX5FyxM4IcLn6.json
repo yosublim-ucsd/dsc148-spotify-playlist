@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 65th GRAMMY Awards.",
-  "num_followers": 133740,
+  "num_followers": 133729,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 273026,
+      "name": "Right Back to It",
+      "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
         "name": "Telos",
         "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
@@ -1447,26 +1467,6 @@
       "duration_ms": 216586,
       "name": "Song Of The Lake",
       "url": "https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 273026,
-      "name": "Right Back to It",
-      "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "It Takes A Woman",
-        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 246986,
-      "name": "It Takes A Woman",
-      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
         "name": "Holy Forever (Live)",
         "url": "https://open.spotify.com/album/7MwpCdsgZQTHDlDzqmVYuM"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 642837,
       "name": "Holy Forever (Live)",
       "url": "https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
-        "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 251861,
-      "name": "PRAISE YOU ANYWHERE (LIVE)",
-      "url": "https://open.spotify.com/track/5yJRoMJSIz7mdAXFjMt7rx"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
         "name": "Algorithm",
         "url": "https://open.spotify.com/album/4L587s3QXoaroQTIdDWBiW"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 319454,
       "name": "That's You",
       "url": "https://open.spotify.com/track/6AjfwI16He8udocWpsYJxp"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
+        "name": "TEAR OFF THE ROOF (LIVE FROM THE HOLY CITY)",
+        "url": "https://open.spotify.com/album/3RA4ISUwFp9KIhEWYbio1A"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 251861,
+      "name": "PRAISE YOU ANYWHERE (LIVE)",
+      "url": "https://open.spotify.com/track/5yJRoMJSIz7mdAXFjMt7rx"
     },
     {
       "added_at": "2024-11-25 20:25:59",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2024-11-25 20:25:59",
       "album": {
-        "name": "The Other Side",
-        "url": "https://open.spotify.com/album/51nP58lWKAzvLfzs8McnOo"
-      },
-      "artists": [
-        {
-          "name": "T Bone Burnett",
-          "url": "https://open.spotify.com/artist/4zMX9gWf1DKhvsYHUCbBF7"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 178644,
-      "name": "Waiting For You (feat. Lucius)",
-      "url": "https://open.spotify.com/track/06B1Aj15InZZmiwXQ3EitH"
-    },
-    {
-      "added_at": "2024-11-25 20:25:59",
-      "album": {
         "name": "Firm Foundation (He Won't)",
         "url": "https://open.spotify.com/album/2xoamtc1hV7E47G2LfIZuE"
       },
@@ -2119,6 +2099,26 @@
       "duration_ms": 286398,
       "name": "Firm Foundation (He Won't)",
       "url": "https://open.spotify.com/track/1XeVdgCil539quM3POT69i"
+    },
+    {
+      "added_at": "2024-11-25 20:25:59",
+      "album": {
+        "name": "The Other Side",
+        "url": "https://open.spotify.com/album/51nP58lWKAzvLfzs8McnOo"
+      },
+      "artists": [
+        {
+          "name": "T Bone Burnett",
+          "url": "https://open.spotify.com/artist/4zMX9gWf1DKhvsYHUCbBF7"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 178644,
+      "name": "Waiting For You (feat. Lucius)",
+      "url": "https://open.spotify.com/track/06B1Aj15InZZmiwXQ3EitH"
     },
     {
       "added_at": "2024-11-25 20:25:59",

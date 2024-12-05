@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,736 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,737 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [POPPSTIRNI](https://open.spotify.com/track/6BSGXVXtz8EMyyoSMcA1z8) | [Aron Can](https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW) | [ÞEGAR ÉG SEGI MONNÍ](https://open.spotify.com/album/1EYEkxynekHLJ2Kyv1ZEnc) | 2:48 |
 | 2 | [squabble up](https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:37 |
-| 3 | [Svartklæddir](https://open.spotify.com/track/7uimUbWqPGvuwzelOsBSAD) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7) | [Floni 3](https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5) | 3:09 |
+| 3 | [Svartklæddir \(feat\. Gísli Pálmi\)](https://open.spotify.com/track/7uimUbWqPGvuwzelOsBSAD) | [Floni](https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7), [Gísli Pálmi](https://open.spotify.com/artist/4Sdxz1flOuRiXXi77nGzhG) | [Floni 3](https://open.spotify.com/album/6nmYHhJKPNm5KjhBI7bBL5) | 3:09 |
 | 4 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 |
 | 5 | [Aldrei of seint](https://open.spotify.com/track/64G6LcehgioFPs03gzbIv0) | [HubbaBubba](https://open.spotify.com/artist/5h3hKwGlSCOjBjsMhMCWma), [Þórunn Antonía](https://open.spotify.com/artist/6100Rwk1ypJpElhvxSKju4) | [Stórasta plata í heimi](https://open.spotify.com/album/528NSNCGZ4V2rAj4DZRYkq) | 2:15 |
 | 6 | [Draumaprins](https://open.spotify.com/track/0anpZWVGOxY1KTM0z5U8qS) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [1918](https://open.spotify.com/album/5qhnlib6RCSSue1vYWQfwd) | 3:09 |

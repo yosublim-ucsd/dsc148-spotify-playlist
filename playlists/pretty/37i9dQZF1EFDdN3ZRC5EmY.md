@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDdN3ZRC5EmY.md) - [plain]
 | 73 | [Coffin](https://open.spotify.com/track/0NzVVCouT1mFGqosuEYd6I) | [Dean Redmond](https://open.spotify.com/artist/2LLBQBaPNovyPY6OY82CA6) | [Coffin](https://open.spotify.com/album/3JzSNp02G05ULbUEdpwSB5) | 2:55 |
 | 74 | [Brand New](https://open.spotify.com/track/4X8wy3qfk5GHUtR9JyrjR2) | [Young Quicks](https://open.spotify.com/artist/5WtvL5NDnjl0j1V29dpy9p) | [Young, Fly & Latino \(Y.F.L\)](https://open.spotify.com/album/1D6CZYk8M3RIbeVgDipD87) | 3:54 |
 
-Snapshot ID: `AbjLtgAAAABpCTFIYMOsvXKrvaHc3H1S`
+Snapshot ID: `AbjRYAAAAAAT2BR1Rr6xX+ntB9sEYuin`

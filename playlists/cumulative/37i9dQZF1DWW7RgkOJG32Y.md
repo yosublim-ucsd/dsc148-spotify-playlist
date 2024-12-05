@@ -2,7 +2,7 @@
 
 ### [Breakout Country](https://open.spotify.com/playlist/37i9dQZF1DWW7RgkOJG32Y)
 
-> Top trending country tracks from the last few months\. Cover: Hudson Westbrook
+> Top trending country tracks from the last few months\. Cover: Ella Langley
 
 480 songs - 1 day 1 hr 44 min
 

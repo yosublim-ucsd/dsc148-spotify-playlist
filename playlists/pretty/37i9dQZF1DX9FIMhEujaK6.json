@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 490194,
+  "num_followers": 490346,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 252255,
+      "name": "Two Thousand and Seventeen",
+      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
+    },
+    {
+      "added_at": "2024-09-12 17:04:48",
+      "album": {
         "name": "Complicated (with Fridayy)",
         "url": "https://open.spotify.com/album/5Bp70oIMy6xDdm1GRjSxU3"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 270545,
       "name": "Complicated (with Fridayy)",
       "url": "https://open.spotify.com/track/59AY7LaU5NR62aJNqtYSyJ"
-    },
-    {
-      "added_at": "2024-09-12 17:04:48",
-      "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 252255,
-      "name": "Two Thousand and Seventeen",
-      "url": "https://open.spotify.com/track/2ZIaH69kaz55RM4Pjx6KXl"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
-        "name": "Found In The Wild",
-        "url": "https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 205233,
-      "name": "Fire To Fire",
-      "url": "https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6"
-    },
-    {
-      "added_at": "2024-09-12 17:04:48",
-      "album": {
         "name": "Howl (Chill Mix)",
         "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 197619,
       "name": "Howl - Chill Mix",
       "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
+    },
+    {
+      "added_at": "2024-09-12 17:04:48",
+      "album": {
+        "name": "Found In The Wild",
+        "url": "https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 205233,
+      "name": "Fire To Fire",
+      "url": "https://open.spotify.com/track/3hbtSTZLoIeNKImnkWRwQ6"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -861,26 +861,6 @@
       "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
-      "added_at": "2024-09-12 17:04:48",
-      "album": {
-        "name": "Calling / Like A Train",
-        "url": "https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 192191,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz"
-    },
-    {
       "added_at": "2024-09-26 23:00:00",
       "album": {
         "name": "Mind Dimension",
@@ -907,18 +887,22 @@
     {
       "added_at": "2024-09-12 17:04:48",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J"
+        "name": "Calling / Like A Train",
+        "url": "https://open.spotify.com/album/4Bip3E9LKD276Xnf25Sv2p"
       },
       "artists": [
         {
-          "name": "Archie Holmes",
-          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
         }
       ],
-      "duration_ms": 152322,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7"
+      "duration_ms": 192191,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/3tCzIQvUEicktIeVJ8XZyz"
     },
     {
       "added_at": "2024-09-12 17:04:48",
@@ -935,6 +919,22 @@
       "duration_ms": 216793,
       "name": "Be Patient",
       "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+    },
+    {
+      "added_at": "2024-09-12 17:04:48",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/6vYmmB9HVm8dYgHePsit3J"
+      },
+      "artists": [
+        {
+          "name": "Archie Holmes",
+          "url": "https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J"
+        }
+      ],
+      "duration_ms": 152322,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/5cBl0sH659FIDNoAY7BDe7"
     }
   ],
   "unique_name": "Ibiza Sunset",

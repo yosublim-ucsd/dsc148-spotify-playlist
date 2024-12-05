@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: State Champs",
-  "num_followers": 586171,
+  "num_followers": 586209,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Letterman",
         "url": "https://open.spotify.com/album/7xR7WDJETguAr3SMXhKZTo"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 181225,
       "name": "Letterman",
       "url": "https://open.spotify.com/track/0m2vqOw4QJ4VOe9Q7MgJFH"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
+        "name": "Big Blind",
+        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 144986,
+      "name": "Big Blind",
+      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
         "name": "KILL[H]ER",
         "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 149675,
       "name": "Delusional",
       "url": "https://open.spotify.com/track/7d8RNQtTsLsPk0ya4TjnwS"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
-        "name": "Big Blind",
-        "url": "https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 144986,
-      "name": "Big Blind",
-      "url": "https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "love bombs",
-        "url": "https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2"
-      },
-      "artists": [
-        {
-          "name": "BESTIES",
-          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
-        },
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 205357,
-      "name": "love bombs",
-      "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Get Over It",
         "url": "https://open.spotify.com/album/0Fl6rL7v6Vi6W4en2NdhPR"
       },
@@ -995,6 +975,26 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
+        "name": "love bombs",
+        "url": "https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2"
+      },
+      "artists": [
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        },
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 205357,
+      "name": "love bombs",
+      "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
         "name": "Stop Talking",
         "url": "https://open.spotify.com/album/3fPeojjKjUDHH0zTYN49RR"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Enmore",
-        "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
-      },
-      "artists": [
-        {
-          "name": "Trophy Eyes",
-          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
-        }
-      ],
-      "duration_ms": 162182,
-      "name": "Enmore",
-      "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "All This Time",
         "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 168903,
       "name": "All This Time",
       "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Enmore",
+        "url": "https://open.spotify.com/album/5AV08801eMkk3I6AqcpVdw"
+      },
+      "artists": [
+        {
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+        }
+      ],
+      "duration_ms": 162182,
+      "name": "Enmore",
+      "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "She\u2019s The Girl",
-        "url": "https://open.spotify.com/album/5k8kR5lHvG5bbxUYT9cIwW"
-      },
-      "artists": [
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
-        }
-      ],
-      "duration_ms": 174629,
-      "name": "She\u2019s The Girl",
-      "url": "https://open.spotify.com/track/6sB0SBeyfvS3mcZOANwqfT"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Certified Depressant",
         "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 200981,
       "name": "Everything Sucks",
       "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "She\u2019s The Girl",
+        "url": "https://open.spotify.com/album/5k8kR5lHvG5bbxUYT9cIwW"
+      },
+      "artists": [
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 174629,
+      "name": "She\u2019s The Girl",
+      "url": "https://open.spotify.com/track/6sB0SBeyfvS3mcZOANwqfT"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "shut up & kiss me",
-        "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "shut up & kiss me",
-      "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Alameda County Fair",
         "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 147546,
       "name": "Alameda County Fair",
       "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "shut up & kiss me",
+        "url": "https://open.spotify.com/album/535qi3HMdlkibT9bHtoRxD"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "shut up & kiss me",
+      "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Fuck You",
-        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "perfectly broken",
         "url": "https://open.spotify.com/album/0eFD3Iql03O1ddMZyHiNb6"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "falling for robots & wishing i was one",
-        "url": "https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg"
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 177691,
-      "name": "wish i was a robot",
-      "url": "https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn"
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1231,6 +1215,22 @@
       "duration_ms": 179000,
       "name": "I Think I'm in Love",
       "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "falling for robots & wishing i was one",
+        "url": "https://open.spotify.com/album/2Wz2sTkSMVLQpQt4mnhKAg"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 177691,
+      "name": "wish i was a robot",
+      "url": "https://open.spotify.com/track/4tnGc7m25Bnr4OahPYOLGn"
     },
     {
       "added_at": "2024-11-18 17:19:05",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-11-18 17:19:05",
       "album": {
-        "name": "Swing and Sway",
-        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
-      },
-      "artists": [
-        {
-          "name": "Greywind",
-          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Swing and Sway",
-      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
-    },
-    {
-      "added_at": "2024-11-18 17:19:05",
-      "album": {
         "name": "Past // Present // Future",
         "url": "https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 165317,
       "name": "T.M.I",
       "url": "https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt"
+    },
+    {
+      "added_at": "2024-11-18 17:19:05",
+      "album": {
+        "name": "Swing and Sway",
+        "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
+      },
+      "artists": [
+        {
+          "name": "Greywind",
+          "url": "https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Swing and Sway",
+      "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
     },
     {
       "added_at": "2024-11-18 17:19:05",

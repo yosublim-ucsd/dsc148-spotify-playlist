@@ -2367,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Fucina",
+        "url": "https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Fucina",
+      "url": "https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB"
+    },
+    {
+      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/34R04tqrMt0LOU7uwRYqQS"
       },
@@ -4626,6 +4644,24 @@
       "duration_ms": 363986,
       "name": "Painted Eyes - Original Mix",
       "url": "https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw"
+    },
+    {
+      "album": {
+        "name": "Paracadute",
+        "url": "https://open.spotify.com/album/3iaD1M5hCPTmBu9p7XIpvh"
+      },
+      "artists": [
+        {
+          "name": "Francamente",
+          "url": "https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170797,
+      "name": "Paracadute",
+      "url": "https://open.spotify.com/track/2DRJV7DFcM1NeitRuEMD4b"
     },
     {
       "album": {

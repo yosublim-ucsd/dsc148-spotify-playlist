@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 948368,
+  "num_followers": 948438,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Tchau Brigado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
-      },
-      "artists": [
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tchau Brigado - Ao Vivo",
-      "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
         "name": "Tem Moda Pra Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 161597,
       "name": "M\u00e1gica - Live",
       "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
+        "name": "Tchau Brigado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
+      },
+      "artists": [
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 163402,
+      "name": "Tchau Brigado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+        "name": "Identidade, Ep. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 192410,
-      "name": "Exclusividade - Ao Vivo",
-      "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
+      "duration_ms": 165000,
+      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
-        "name": "Identidade, Ep. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF"
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         }
       ],
-      "duration_ms": 165000,
-      "name": "A Culpa \u00c9 Nossa - Ao Vivo",
-      "url": "https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn"
+      "duration_ms": 192410,
+      "name": "Exclusividade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
     },
     {
       "added_at": "2024-10-11 03:03:00",
@@ -739,6 +739,26 @@
     {
       "added_at": "2024-10-11 03:03:00",
       "album": {
+        "name": "N\u00e3o Fala N\u00e3o pra Mim",
+        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
+      },
+      "artists": [
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "N\u00e3o Fala N\u00e3o pra Mim",
+      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
+    },
+    {
+      "added_at": "2024-10-11 03:03:00",
+      "album": {
         "name": "Saudade N\u00edvel Hard",
         "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 170459,
       "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
       "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
-    },
-    {
-      "added_at": "2024-10-11 03:03:00",
-      "album": {
-        "name": "N\u00e3o Fala N\u00e3o pra Mim",
-        "url": "https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG"
-      },
-      "artists": [
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "N\u00e3o Fala N\u00e3o pra Mim",
-      "url": "https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0"
     },
     {
       "added_at": "2024-10-11 03:03:00",

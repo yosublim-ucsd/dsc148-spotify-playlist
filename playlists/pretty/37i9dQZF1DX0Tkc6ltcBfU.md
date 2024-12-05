@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,417 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,528 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 60 | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/track/16yFuOEn0CrjQR7SZotv8B) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U), [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [STILL IN THE PAINT \(with LAZER DIM 700 & Bktherula\)](https://open.spotify.com/album/2xOT5KaLwXnsOVBZbyordn) | 3:53 |
 | 61 | [Cheeto](https://open.spotify.com/track/49fCZX9I7ZPxyMh6oj6zGI) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Cheeto](https://open.spotify.com/album/4HuWGafvPMM8caLcE6s0Ny) | 1:40 |
 | 62 | [Wade in The Water](https://open.spotify.com/track/1XVXMTNmNG6jyM34hmoes3) | [MO3](https://open.spotify.com/artist/44JEJiBvti7NiEhAfzWstv), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg) | [Legend \(Deluxe\)](https://open.spotify.com/album/5xKCH7qY4mEXKXGA3N4xss) | 3:16 |
-| 63 | [SMOKE YOU OUT](https://open.spotify.com/track/5O1sQhL8Y70DCBUUr8O8fF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [SMOKE YOU OUT](https://open.spotify.com/album/2Ck6R1B3YCfmh7OUipcIrH) | 2:02 |
+| 63 | [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/track/1GpDcABDptCpIOALmD2S5f) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/album/62JqX6BIBj6uqUTFVWjTQP) | 2:56 |
 | 64 | [Crazy Bout Me](https://open.spotify.com/track/5ZWOnARwK6B46d2xJQOveR) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Crazy Bout Me](https://open.spotify.com/album/0Y6IpiA84fDCMfhHa2Ky1j) | 2:02 |
 | 65 | [Grow Up](https://open.spotify.com/track/2M8xOm2QbIUjVqdRk1wzXe) | [Quando Rondo](https://open.spotify.com/artist/4IprNlQiJZUUJhDl0fL2SL) | [Here For A Reason](https://open.spotify.com/album/7jN07oT32WQEuAipSXl1X5) | 2:49 |
 | 66 | [Trip Out](https://open.spotify.com/track/6LoUsD9kt5nnNfQc5I2Bbr) | [T99zy](https://open.spotify.com/artist/2iOv2a8p88ODjRF2Xoeuwk) | [Trip Out](https://open.spotify.com/album/3u77E0mB5uBqZvbqmjo72X) | 1:59 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 99 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 |
 | 100 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
 
-Snapshot ID: `Z0opQwAAAAAXBdygGH+sEr5wSJar5cPj`
+Snapshot ID: `Z1CrVAAAAABaqyxHy7G8b2xP/UrKMg3T`

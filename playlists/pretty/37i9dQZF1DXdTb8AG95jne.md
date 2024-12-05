@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Meaningful Stones\(김뜻돌\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,505 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,441 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 20 | [Your Melody](https://open.spotify.com/track/282E4GBXUN4knGGBdrjxVP) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Your Melody](https://open.spotify.com/album/0tDLbqb5qbApAdQt0dTtn4) | 3:34 |
 | 21 | [Stay, there](https://open.spotify.com/track/52r4FaIzEa9VGSi1ftzIzc) | [Woo Yeon So](https://open.spotify.com/artist/7fzVStCoGkOGvno9yR1AnM) | [Stay, there](https://open.spotify.com/album/1vPQqRYXMxU1HPy1VTABWC) | 4:04 |
 | 22 | [편지](https://open.spotify.com/track/4vCFXfI59csHOHeLuy3OC7) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [편지](https://open.spotify.com/album/6d5eWLmLanYAJCFmFb4OQx) | 3:13 |
-| 23 | [14551](https://open.spotify.com/track/7MiGI1BmyQWhd0blrrTTxO) | [dogyu](https://open.spotify.com/artist/2mZ82ywIcug873Z3DCpL5N), [이한울](https://open.spotify.com/artist/3GpsldJn4oynTvoAPnzCWG) | [14551](https://open.spotify.com/album/2q0oMA64W0M58swynXTNWe) | 2:16 |
+| 23 | [14551](https://open.spotify.com/track/7MiGI1BmyQWhd0blrrTTxO) | [dogyu](https://open.spotify.com/artist/2mZ82ywIcug873Z3DCpL5N), [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [14551](https://open.spotify.com/album/2q0oMA64W0M58swynXTNWe) | 2:16 |
 | 24 | [My love, by my side](https://open.spotify.com/track/175tbDIeoknT95ymckiGto) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [My love, by my side](https://open.spotify.com/album/4UpByOE8MfywwVS7S1Yqrl) | 3:05 |
 | 25 | [Aliens](https://open.spotify.com/track/0c2QS7e4N2znQKemIdw35A) | [KIM A REUM](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [RETRO WAVE](https://open.spotify.com/album/3Bx8DeX30SNaGdMahPk0gM) | 4:15 |
 | 26 | [Earth Is Flat](https://open.spotify.com/track/0TJLtj4BvtXs7kc1rThrbq) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Earth Is Flat](https://open.spotify.com/album/5tmAQ7Z2eN2yqkhHMgjzY1) | 2:30 |

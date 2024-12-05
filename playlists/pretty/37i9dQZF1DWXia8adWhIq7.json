@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 101248,
+  "num_followers": 101330,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "ME CUIDA",
-        "url": "https://open.spotify.com/album/16RVz9wwsbFuif2roEH1XX"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 151471,
-      "name": "ME CUIDA",
-      "url": "https://open.spotify.com/track/44ou1P05l7xkl4vxDfGCja"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "A Minha Raz\u00e3o (Reason I Sing)",
         "url": "https://open.spotify.com/album/3fAnNj4UV0xmiJ0lCipY5G"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 273552,
       "name": "A Minha Raz\u00e3o (Reason I Sing)",
       "url": "https://open.spotify.com/track/3G89wGuL0RkRoFqz47ZKCe"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "ME CUIDA",
+        "url": "https://open.spotify.com/album/16RVz9wwsbFuif2roEH1XX"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 151471,
+      "name": "ME CUIDA",
+      "url": "https://open.spotify.com/track/44ou1P05l7xkl4vxDfGCja"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -411,6 +411,26 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
+        "name": "Aqui Vou Eu",
+        "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
+      },
+      "artists": [
+        {
+          "name": "Ipalpha Nova",
+          "url": "https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM"
+        },
+        {
+          "name": "Ipalpha",
+          "url": "https://open.spotify.com/artist/4L2uFeD7eBwcr6HVanlvNg"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Aqui Vou Eu",
+      "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
         "name": "Teu V\u00f4o",
         "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
@@ -507,26 +527,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Aqui Vou Eu",
-        "url": "https://open.spotify.com/album/5mmUBMb6sHKhINhd0Wxlal"
-      },
-      "artists": [
-        {
-          "name": "Ipalpha Nova",
-          "url": "https://open.spotify.com/artist/0ckNfMo73lHTOKQLAtw2oM"
-        },
-        {
-          "name": "Ipalpha",
-          "url": "https://open.spotify.com/artist/4L2uFeD7eBwcr6HVanlvNg"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Aqui Vou Eu",
-      "url": "https://open.spotify.com/track/77CP3eD8aOO4ObrxzvnY68"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/0Q3XvlrJ3lFZhR22nzEFYX"
       },
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Sonhar",
-        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        },
-        {
-          "name": "Filipe Lancaster",
-          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Sonhar",
-      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Levanto um Aleluia",
         "url": "https://open.spotify.com/album/5ICoXgfFN4Xr7viHJg0A4U"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 233261,
       "name": "Levanto um Aleluia",
       "url": "https://open.spotify.com/track/7D9DSnpESw53koPAgzk3kS"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Sonhar",
+        "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        },
+        {
+          "name": "Filipe Lancaster",
+          "url": "https://open.spotify.com/artist/5ue1WcGZ9D5B9FcmBe7Juw"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Sonhar",
+      "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Deixar para Tr\u00e1s",
-        "url": "https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ"
-      },
-      "artists": [
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        },
-        {
-          "name": "Guimar\u00e3es Beats",
-          "url": "https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Deixar para Tr\u00e1s",
-      "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
         "url": "https://open.spotify.com/album/1G1qBHy1it4CLI9uFjoIPc"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 249444,
       "name": "N\u00e3o \u00c9 S\u00f3 um Rol\u00ea",
       "url": "https://open.spotify.com/track/60kFRHVNT35Eh2tMBxtaqo"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Deixar para Tr\u00e1s",
+        "url": "https://open.spotify.com/album/3hr6fsLFfPQprq1u4uibdZ"
+      },
+      "artists": [
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        },
+        {
+          "name": "Guimar\u00e3es Beats",
+          "url": "https://open.spotify.com/artist/30dIfXffH1eGAXDb3cZVlo"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Deixar para Tr\u00e1s",
+      "url": "https://open.spotify.com/track/7ufGcPQPvEPstuBOyxUiWt"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/1hzZ5ugTa68A1Q96rolfAQ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 139000,
       "name": "Testemunho",
       "url": "https://open.spotify.com/track/6HcUgggcWIqOEQASujbMy0"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Mostra-Me Tua Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 230208,
-      "name": "Mostra-Me Tua Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Escrevi (Legado)",
         "url": "https://open.spotify.com/album/3pxFY4lbNOhjMTTsqv4LwL"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 245019,
       "name": "Escrevi (Legado)",
       "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Mostra-Me Tua Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 230208,
+      "name": "Mostra-Me Tua Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ"
     },
     {
       "added_at": "2024-11-29 03:01:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-11-29 03:01:00",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2024-11-29 03:01:00",
-      "album": {
         "name": "Acoustic Sessions, Vol. 6",
         "url": "https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 165954,
       "name": "Plano B",
       "url": "https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x"
+    },
+    {
+      "added_at": "2024-11-29 03:01:00",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2024-11-29 03:01:00",

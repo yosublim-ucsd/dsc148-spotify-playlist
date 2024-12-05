@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-874 songs - 2 day 1 hr 44 min
+875 songs - 2 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Blue](https://open.spotify.com/track/1PkPBwTS8gyQJ5tjvsN1Vh) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Blue](https://open.spotify.com/album/0cww0SjtI5q55VIb4QfUab) | 2:57 | 2022-05-31 | 2022-08-11 |
 | [Bones](https://open.spotify.com/track/1OfVQ5LYzgpTahnGlLoZti) | [Mr\. Bill](https://open.spotify.com/artist/5JJclMMPi2YgEKjJY9AjbB), [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Ellika](https://open.spotify.com/artist/1GStVlUvAf7VkKbQ616ht0) | [Bones](https://open.spotify.com/album/10xKXdt2akO3PWSAaaQ9mb) | 4:26 | 2024-01-22 | 2024-04-11 |
 | [BOUNCE](https://open.spotify.com/track/0x4k0Zc1XDU3bJj5zuxRUi) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [BOUNCE](https://open.spotify.com/album/60HooEaxdydmVDo1QALKX9) | 1:44 | 2024-01-10 | 2024-04-03 |
+| [Brain Busta](https://open.spotify.com/track/4Oi1APaShpeAtvue5f3VAK) | [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [Brain Busta](https://open.spotify.com/album/3wSDZ6NTXZXwnf7PToXHP1) | 2:48 | 2024-12-04 |  |
 | [Brain On Drugs](https://open.spotify.com/track/2VivO71UvJ6hrMEIJqQZ4Y) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Brain On Drugs](https://open.spotify.com/album/6sJSCStldFAJWG0EHtLxYz) | 3:34 | 2024-08-19 | 2024-11-09 |
 | [Break It Down](https://open.spotify.com/track/1KY425EZEJPqgeisOplYGJ) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Break It Down](https://open.spotify.com/album/6kR6ZW6AdWViJksGqmLzEO) | 2:41 | 2023-06-28 | 2023-09-26 |
 | [Breathe Me Back To Life](https://open.spotify.com/track/0EI9hyJzyEOeRqQzQyitQ9) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Breathe Me Back To Life](https://open.spotify.com/album/5qcMz7TUHmkGN8gXQLOAT3) | 2:26 | 2023-01-06 | 2023-03-22 |

@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u70ba\u4f55\u653e\u68c4 \u70ba\u4f55\u61f7\u7591 \u5225\u592a\u5feb \u5c07\u6211\u63a8\u958b\u3002",
-  "num_followers": 185631,
+  "num_followers": 185630,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,18 @@
     {
       "added_at": "2024-08-05 05:45:12",
       "album": {
-        "name": "\u771f\u5be6",
-        "url": "https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw"
+        "name": "Just Sing It",
+        "url": "https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz"
       },
       "artists": [
         {
-          "name": "A-Mei Chang",
-          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
-        },
-        {
-          "name": "Jerry Lin",
-          "url": "https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm"
+          "name": "Penny Tai",
+          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
         }
       ],
-      "duration_ms": 286239,
-      "name": "\u8a18\u5f97",
-      "url": "https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0"
+      "duration_ms": 248573,
+      "name": "\u8857\u89d2\u7684\u795d\u798f",
+      "url": "https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa"
     },
     {
       "added_at": "2024-08-05 05:45:12",
@@ -615,18 +611,22 @@
     {
       "added_at": "2024-08-05 05:45:12",
       "album": {
-        "name": "Just Sing It",
-        "url": "https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz"
+        "name": "\u771f\u5be6",
+        "url": "https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw"
       },
       "artists": [
         {
-          "name": "Penny Tai",
-          "url": "https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud"
+          "name": "A-Mei Chang",
+          "url": "https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp"
+        },
+        {
+          "name": "Jerry Lin",
+          "url": "https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm"
         }
       ],
-      "duration_ms": 248573,
-      "name": "\u8857\u89d2\u7684\u795d\u798f",
-      "url": "https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa"
+      "duration_ms": 286239,
+      "name": "\u8a18\u5f97",
+      "url": "https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0"
     },
     {
       "added_at": "2024-08-05 05:45:12",

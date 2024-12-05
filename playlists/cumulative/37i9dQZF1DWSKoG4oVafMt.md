@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-959 songs - 2 day 3 hr 45 min
+960 songs - 2 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/track/2fURDfplA6g5i7ET3q5DJZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Bura Haal \("Carry On Jatta 3"\)](https://open.spotify.com/album/2iNKppIzwl8uHhWYjFVirK) | 3:40 | 2023-06-21 | 2024-02-08 |
 | [Busy Jatt](https://open.spotify.com/track/4s82Rnb5fSVAdxE9v26JZc) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs) | [High Five](https://open.spotify.com/album/7m5ojAK9XNWYdXTpsxyMm4) | 2:57 | 2022-07-18 | 2022-08-18 |
 | [Call](https://open.spotify.com/track/716L2mMFOYLI11YVso9L1Y) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Call](https://open.spotify.com/album/3mRBypKGWRi4zwDxvRZbVd) | 2:47 | 2022-06-27 | 2023-02-04 |
-| [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 | 2024-11-08 |  |
+| [Callin](https://open.spotify.com/track/1dKZCOJ6qCCBbuNCgXqcUH) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W), [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Callin](https://open.spotify.com/album/6bRjoBTTNgRbEU5vcKT30P) | 2:48 | 2024-11-08 | 2024-12-05 |
 | [Canada Gedi](https://open.spotify.com/track/5s3FYjSnHtDliFAHyxm5OJ) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Canada Gedi](https://open.spotify.com/album/6f3CNQimdTynLCqSTFhD9G) | 3:59 | 2022-06-13 | 2022-08-18 |
 | [Cat Eye](https://open.spotify.com/track/44eox6lZc74rdrxtga6AGA) | [DJ Harpz](https://open.spotify.com/artist/6ClT6x4LnhH5CDLBePdoaA), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Cat Eye](https://open.spotify.com/album/5rIaQLNWN3M991kuvE8Czj) | 2:40 | 2022-07-21 | 2022-08-18 |
 | [Cause Of You](https://open.spotify.com/track/0J4IWvRmKF6Trw9MxSeCWE) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Cause Of You](https://open.spotify.com/album/1SyQUhkArShf1ARqk8d4b6) | 2:52 | 2022-09-09 | 2023-02-04 |
@@ -810,6 +810,7 @@
 | [Sunne Sunne](https://open.spotify.com/track/746fRWJEgWvvRdhB7ympjw) | [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8) | [Sunne Sunne](https://open.spotify.com/album/5B5NSoy499WpmUEWQHtXZw) | 3:04 | 2022-05-26 | 2022-07-06 |
 | [Sunset](https://open.spotify.com/track/708ATCPhF2aagzUo8A9Dgo) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP) | [Sunset](https://open.spotify.com/album/2CHwDNJ5Kbv05I385dVFKG) | 3:08 | 2022-03-31 | 2022-04-06 |
 | [Sunset With You](https://open.spotify.com/track/1BwP2jVdo1DjkH84rxRVhi) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Opi Music](https://open.spotify.com/artist/4z2hcMAL6JpUDOesb2ls5b) | [Archives](https://open.spotify.com/album/6KmQIkfNTKlHizxBbXCxBq) | 2:51 | 2022-12-09 | 2023-05-06 |
+| [Sunshine](https://open.spotify.com/track/2d9WYBbws5n0RdWjAfxeYF) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Sunshine](https://open.spotify.com/album/0V8Sv9wmfvqnSIB3QreqW5) | 3:05 | 2024-12-04 |  |
 | [Supna](https://open.spotify.com/track/3A4wABRH41xD3dCBykZpLI) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59) | [Layers](https://open.spotify.com/album/68Sj9ZsFdcpg4W5paJAlvK) | 3:30 | 2023-02-03 | 2024-04-19 |
 | [Supna](https://open.spotify.com/track/7ox1IleIMKORc2xZ1DcQnQ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Jaymeet](https://open.spotify.com/artist/1DU68vYYJqrO7fXt6X7ZkJ), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Layers](https://open.spotify.com/album/2OetgEbORLw9T6yNAnzs3B) | 3:30 | 2023-02-03 | 2024-10-01 |
 | [Supna](https://open.spotify.com/track/1vjjDb1oFf67W9zOVh8a6d) | [Feroz Khan](https://open.spotify.com/artist/0J3qMXOTkJBJ2dxIXjyTns) | [Supna](https://open.spotify.com/album/5jI9MZUKKKj6WvnfyRn4Xm) | 4:08 | 2022-12-05 | 2023-02-02 |

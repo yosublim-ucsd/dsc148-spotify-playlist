@@ -1,6 +1,6 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 18768,
+  "num_followers": 18942,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Aether",
-        "url": "https://open.spotify.com/album/2FeYIfCmI3kGAJt1SAdTpV"
+        "name": "missing home",
+        "url": "https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N"
       },
       "artists": [
         {
-          "name": "Mayo.",
-          "url": "https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX"
+          "name": "nineishuman",
+          "url": "https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm"
         }
       ],
-      "duration_ms": 77588,
-      "name": "Reduplicate",
-      "url": "https://open.spotify.com/track/64PKCSw5Jg7grMo9MnlFoO"
+      "duration_ms": 124760,
+      "name": "missing home",
+      "url": "https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q"
     }
   ],
   "unique_name": "webcore",

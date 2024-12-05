@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 
 > Focus with nature sounds in the background...
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,419 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,459 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 7 | [The Ocean Laps as Birds Sing](https://open.spotify.com/track/28Z52IKublHepgTw0ahdS0) | [Water Ambience](https://open.spotify.com/artist/77sJCD42YTwKoT43WoJrjk), [Nature Sounds XLE Library](https://open.spotify.com/artist/4R4jXMwUyLk5xkM5qq44cb) | [Soothing Birdsong, Vol\. 4](https://open.spotify.com/album/6xX8xYhLi99hMcMKPPguEF) | 2:00 |
 | 8 | [Wake Up Calm](https://open.spotify.com/track/7uLpXc8yDB19tR8AM5a53J) | [Beach Top Sounders](https://open.spotify.com/artist/2MpXnqfEhxozPnAndJjTWM) | [Ocean Sounds](https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D) | 2:47 |
 | 9 | [Lots Of Birds](https://open.spotify.com/track/5rMSnbkf864tD4lXPmXRAO) | [Mother Earth HD](https://open.spotify.com/artist/2mtvi4kXa2uiaj5Tk5ePYT) | [HD Bird Sounds](https://open.spotify.com/album/0UCVzEgBYRyrVhIdMVQvNi) | 2:38 |
-| 10 | [Overflowing Stream](https://open.spotify.com/track/0bkpm8NP8SJZLlPKol67db) | [Naturae](https://open.spotify.com/artist/4HL4peOCpnvJztd1zYQLuU) | [Streams & Falls](https://open.spotify.com/album/1MgJ6AXomRefwSqSHFijCP) | 4:58 |
+| 10 | [Overflowing Stream \- Instrumental Version](https://open.spotify.com/track/0bkpm8NP8SJZLlPKol67db) | [Naturae](https://open.spotify.com/artist/4HL4peOCpnvJztd1zYQLuU) | [Streams & Falls](https://open.spotify.com/album/1MgJ6AXomRefwSqSHFijCP) | 4:58 |
 | 11 | [Stream Of Rain](https://open.spotify.com/track/1t2qgFuUPlkCDOy8YXQ64e) | [Mirai](https://open.spotify.com/artist/6oEZ7IsYCH7xwmb83A6eQx) | [Stream Of Rain](https://open.spotify.com/album/09vojMSSTFVj9Mi1KmW8J5) | 2:28 |
 | 12 | [Mountain Creek](https://open.spotify.com/track/5SKs7vPBQ7UOaWsBHu7ljM) | [Coast to Coast Recordings](https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC) | [Peaceful Rivers](https://open.spotify.com/album/3AQDF4HBATBzY9uVXEeVqK) | 2:29 |
 | 13 | [Mizzle Birds](https://open.spotify.com/track/0vg35ebFwHzJYZRSr4syp6) | [Wet Feathered Friends](https://open.spotify.com/artist/0Ijxat55Vixh6PJvZJZPkB) | [Birds In The Wet](https://open.spotify.com/album/3Z0mEyfnRL4TCz03KUBSy7) | 3:04 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFCj3KyU0r0.md) - [plain]
 | 24 | [Earthy Rain With Rolling Thunder](https://open.spotify.com/track/0xmwsmYdbXuZDHeixtATZF) | [Ambiworld](https://open.spotify.com/artist/5iZR4UKrhE03RTdCSJo6eG) | [Thunderous Relaxation](https://open.spotify.com/album/57AK2pZaIKBJaWR6SAfGMu) | 4:22 |
 | 25 | [Rain Sensation](https://open.spotify.com/track/2AQyoXB6bKNjNhgg94XGze) | [Au](https://open.spotify.com/artist/7lVHqL3Z1v20q0GLwQkBc5) | [Rainy State](https://open.spotify.com/album/2gtA4fEAhdqMhT6y8KK57W) | 3:28 |
 | 26 | [Birds at the Cemetery](https://open.spotify.com/track/08Rw5UMA1eQlSime6LE4Vt) | [Wonderful Escape](https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T) | [Birds](https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX) | 2:55 |
-| 27 | [Waves on the Jetty](https://open.spotify.com/track/4M2ORdTjBHFT9aeHOKTAqI) | [Streams & Mist](https://open.spotify.com/artist/0xD2iKIYHK3REQyRFdHF3f) | [Bucket Respite](https://open.spotify.com/album/36D7ByB9PMsnAdFSb8o27z) | 6:01 |
+| 27 | [Waves on the Jetty \- Instrumental Version](https://open.spotify.com/track/4M2ORdTjBHFT9aeHOKTAqI) | [Streams & Mist](https://open.spotify.com/artist/0xD2iKIYHK3REQyRFdHF3f) | [Bucket Respite](https://open.spotify.com/album/36D7ByB9PMsnAdFSb8o27z) | 6:01 |
 | 28 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
 | 29 | [Distant Waterfall And Brook](https://open.spotify.com/track/4SLuqAtsNE258Aql5keUsN) | [Water Science](https://open.spotify.com/artist/2Zhk6Eu0cTqw9zKlbMl3yv) | [Binaural Water](https://open.spotify.com/album/0xQArU4l4FMn0WhLpQE2GN) | 3:08 |
 | 30 | [Regen Schlummer](https://open.spotify.com/track/6SvQVOQRFaJ9Zkv33D6znd) | [World Recorders](https://open.spotify.com/artist/1kG5S2MLYLuZUFlQb72rxE) | [Relaxing Rain](https://open.spotify.com/album/4x0IaPM45W2dLIbb4pWPvL) | 2:57 |

@@ -4,7 +4,7 @@
 
 > Musica dalla comunità LGBQTIA+ 🇮🇹 Emma Nolde in cover ✨
 
-367 songs - 21 hr 31 min
+369 songs - 21 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Flores no Mar](https://open.spotify.com/track/7eNSgICl11uh6hzLfDXV6d) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/6QW0AjRzQmHoUxwT570bJX) | 8:13 | 2021-11-19 |  |
 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/4wp5E9w0eJ0gg0QxGWRDFy) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/1kiPEitFPGkgriSY22GUPa) | 8:13 | 2022-09-08 | 2023-05-01 |
 | [Flores No Mar \- Album Edit](https://open.spotify.com/track/6SYH3khYd6Mum1cKf8sRux) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU), [EMMANUELLE](https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5) | [W](https://open.spotify.com/album/4dfA4vqVedjn5tCy1Ce5my) | 8:13 | 2023-04-12 | 2024-04-19 |
+| [Fucina](https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Fucina](https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA) | 2:59 | 2024-12-04 |  |
 | [Fuckboys](https://open.spotify.com/track/0qkHQKoedwwPWsW6SvDfcz) | [GESS](https://open.spotify.com/artist/4rWV3JAgD6JrUiq5mpEJxY) | [Tangerine](https://open.spotify.com/album/34R04tqrMt0LOU7uwRYqQS) | 2:06 | 2022-06-26 | 2022-07-28 |
 | [Fucked Up System](https://open.spotify.com/track/7kUkeMlQGGWIHgLgJpSRfn) | [Lady Maru](https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z) | [Illegal Rave Shuttle](https://open.spotify.com/album/6X6xr79LQx3TorwLuX6Vbx) | 4:59 | 2023-02-28 | 2023-06-09 |
 | [FUORI!!!](https://open.spotify.com/track/6nC61iqw8ikRxUkBU0GLVM) | [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [FUORI!!!](https://open.spotify.com/album/2gK0dJkJrCmorbO8LQ77uS) | 2:24 | 2023-10-27 | 2023-11-11 |
@@ -240,6 +241,7 @@
 | [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-06-06 |  |
 | [Painted Eyes](https://open.spotify.com/track/0YKFG6iCL1Nn5y7aLLy7qA) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/1DBdOP00GcAqZO67GUZDV9) | 6:01 | 2022-06-26 | 2022-07-19 |
 | [Painted Eyes \- Original Mix](https://open.spotify.com/track/7Aaig6TQeCjY6vjy9TlsCw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Aerea Negrot](https://open.spotify.com/artist/4ix8eWGATi2Ot5ZmWITDaJ) | [Blue Songs](https://open.spotify.com/album/07DoR2BYZ3bApdUCpjf38P) | 6:03 | 2022-07-21 | 2023-01-25 |
+| [Paracadute](https://open.spotify.com/track/2DRJV7DFcM1NeitRuEMD4b) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Paracadute](https://open.spotify.com/album/3iaD1M5hCPTmBu9p7XIpvh) | 2:50 | 2024-12-04 |  |
 | [paranormale che](https://open.spotify.com/track/1RdllQCAMgg8MFC7nB6XtR) | [chesma](https://open.spotify.com/artist/14qfpqRSUFUcZOK424qddH) | [paranormale che](https://open.spotify.com/album/4Dv3N0tGiSGPGwx1O3ubPZ) | 2:36 | 2023-11-16 |  |
 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/0uf3THPz59F1SmobBeTgaB) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/4mGJlxDbUm6OelkTrUDSoW) | [Le città](https://open.spotify.com/album/6QWVKKra5NxI0AlS4h4u0t) | 4:24 | 2023-10-27 | 2024-04-19 |
 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 | 2021-11-19 |  |

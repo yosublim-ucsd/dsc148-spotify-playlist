@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Nonfiction",
+        "url": "https://open.spotify.com/album/4JQzywD7AhqzDLDtFHxOpi"
+      },
+      "artists": [
+        {
+          "name": "Arrested Youth",
+          "url": "https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167126,
+      "name": "98 Degrees",
+      "url": "https://open.spotify.com/track/3M0tH6TS6OTbvxtpsDJRRw"
+    },
+    {
+      "album": {
         "name": "Happy Songs 2010",
         "url": "https://open.spotify.com/album/3rHwqq6ssBUCrqOulc980p"
       },

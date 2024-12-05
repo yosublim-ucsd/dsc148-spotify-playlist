@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 
 > The sweet sounds of Lebanon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,805 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,846 likes - 49 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 16 | [Fi Hada](https://open.spotify.com/track/5zVJCIdTu3TTJ7wmPEW7in) | [Adam](https://open.spotify.com/artist/4erzgk1ORABnHn0lhMf9Oo) | [Fi Hada](https://open.spotify.com/album/1pkn5htK7BJJ5Mw7QB3kVp) | 3:39 |
 | 17 | [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 |
 | 18 | [أنا وبس](https://open.spotify.com/track/1mkqWVlcMGpjUw2dEcbwdo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا وبس](https://open.spotify.com/album/2IVwPX6szdHO0UCBsMYGDQ) | 4:08 |
-| 19 | [Metlak Ma Fi](https://open.spotify.com/track/6tSmvuuBYkj4JSYoRU8y0x) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [Metlak Ma Fi](https://open.spotify.com/album/4B1QbOUYzP1GlPEf3Mls7x) | 4:05 |
-| 20 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 |
-| 21 | [Bahebek Ya Lebnan](https://open.spotify.com/track/5zzPDh8xmEtifNqeuv79zR) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 6:02 |
-| 22 | [أنا رجعت](https://open.spotify.com/track/3QncHZbe3Y03DOb30PJMtt) | [Cyrine Abdel Nour](https://open.spotify.com/artist/5cmJD8Jj6XTpaEpcJAXDXj) | [أنا رجعت](https://open.spotify.com/album/77DthSlxlSkUXVxnvFBcLv) | 3:02 |
-| 23 | [Ard El Ghajar \- Nomad's Land](https://open.spotify.com/track/7vP04ACGn0bKJ04oPmaxOj) | [Jahida Wehbé](https://open.spotify.com/artist/2U92f3cPxz8z2UCiJAipVf) | [Ard El Ghajar \(Nomad's Land\)](https://open.spotify.com/album/3f4BryZ3UKeFEPjH968Okg) | 4:49 |
-| 24 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 |
-| 25 | [Show Me How You Dabke](https://open.spotify.com/track/6Bl5QgVb73Tnnu6Zymlh46) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Roy Chalach](https://open.spotify.com/artist/3GiWqQCncrMxAUUUbZ80Ov) | [Show Me How You Dabke](https://open.spotify.com/album/6kbOhJkqe2Hgcdra2IrJk5) | 3:09 |
-| 26 | [Kelon Ye3ni Kelon](https://open.spotify.com/track/5Nm6fLUqjlezBbWdiFzXtR) | [Siba Band](https://open.spotify.com/artist/2Vw08vHBOkjNobnhfvWOp5) | [Kelon Ye3ni Kelon](https://open.spotify.com/album/5TkCFp70S3kdp40H23M0pp) | 3:03 |
-| 27 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 |
-| 28 | [Akher Marra](https://open.spotify.com/track/4c0daCFlOpjg7umacfD90X) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Akher Marra](https://open.spotify.com/album/3IvcuGjnbpBnFITqEnM48t) | 4:09 |
-| 29 | [Mawtini](https://open.spotify.com/track/31mjcdNDbnLa91PiqI0tiq) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [To Beirut with Love](https://open.spotify.com/album/7g9ztH73f7JjYEMnDbiNMP) | 4:36 |
+| 19 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 |
+| 20 | [Metlak Ma Fi](https://open.spotify.com/track/6tSmvuuBYkj4JSYoRU8y0x) | [George Nehme](https://open.spotify.com/artist/3DT7l7a2sCveCEerSrjgQu) | [Metlak Ma Fi](https://open.spotify.com/album/4B1QbOUYzP1GlPEf3Mls7x) | 4:05 |
+| 21 | [Aw'at](https://open.spotify.com/track/2cjs0pwhhX9wZhJQ5llkoY) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aw'at](https://open.spotify.com/album/1aNKF3LKw8wW65AWg9LRAX) | 3:41 |
+| 22 | [Bahebek Ya Lebnan](https://open.spotify.com/track/5zzPDh8xmEtifNqeuv79zR) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Fairouz World, Pt\. 1](https://open.spotify.com/album/6Lk9iL4RNQq11Uogjh9SW1) | 6:02 |
+| 23 | [أنا رجعت](https://open.spotify.com/track/3QncHZbe3Y03DOb30PJMtt) | [Cyrine Abdel Nour](https://open.spotify.com/artist/5cmJD8Jj6XTpaEpcJAXDXj) | [أنا رجعت](https://open.spotify.com/album/77DthSlxlSkUXVxnvFBcLv) | 3:02 |
+| 24 | [Ard El Ghajar \- Nomad's Land](https://open.spotify.com/track/7vP04ACGn0bKJ04oPmaxOj) | [Jahida Wehbé](https://open.spotify.com/artist/2U92f3cPxz8z2UCiJAipVf) | [Ard El Ghajar \(Nomad's Land\)](https://open.spotify.com/album/3f4BryZ3UKeFEPjH968Okg) | 4:49 |
+| 25 | [بتوحشيني](https://open.spotify.com/track/5JAf3OAFDSrQ3MHonCo69E) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [بتوحشيني](https://open.spotify.com/album/55mOWoEYw3i3WAMF23O5rg) | 3:53 |
+| 26 | [Show Me How You Dabke](https://open.spotify.com/track/6Bl5QgVb73Tnnu6Zymlh46) | [Anthony Touma](https://open.spotify.com/artist/7q4O5KTgHKdsT15BWNr0M7), [Roy Chalach](https://open.spotify.com/artist/3GiWqQCncrMxAUUUbZ80Ov) | [Show Me How You Dabke](https://open.spotify.com/album/6kbOhJkqe2Hgcdra2IrJk5) | 3:09 |
+| 27 | [Kelon Ye3ni Kelon](https://open.spotify.com/track/5Nm6fLUqjlezBbWdiFzXtR) | [Siba Band](https://open.spotify.com/artist/2Vw08vHBOkjNobnhfvWOp5) | [Kelon Ye3ni Kelon](https://open.spotify.com/album/5TkCFp70S3kdp40H23M0pp) | 3:03 |
+| 28 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 |
+| 29 | [Akher Marra](https://open.spotify.com/track/4c0daCFlOpjg7umacfD90X) | [Rabih Baroud](https://open.spotify.com/artist/3KNh2bgk3J2OGvzt0LJbrM) | [Akher Marra](https://open.spotify.com/album/3IvcuGjnbpBnFITqEnM48t) | 4:09 |
 | 30 | [Ya Tarek](https://open.spotify.com/track/1jlzJZAMqbHOVYyOtWN8hQ) | [Nader Al Atat](https://open.spotify.com/artist/07nrRL2MtV5V54nMscozei) | [Ya Tarek](https://open.spotify.com/album/2x58mqnuGWYA5Cl4NNIwZy) | 3:26 |
 | 31 | [Hkayti](https://open.spotify.com/track/0s3DYIv29lpbYU3XspNF6y) | [Jean\-Marie Riachi](https://open.spotify.com/artist/3BEhzj32z2DGb1gPINNZwc), [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Hkayti](https://open.spotify.com/album/1bfeUPx2VgAupNyQGT2YGM) | 3:21 |
 | 32 | [ضعف نظر](https://open.spotify.com/track/59QGwPhVDgjOVEj7xFgpku) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [ضعف نظر](https://open.spotify.com/album/5NSzR6e2K7gATs0H7O97nP) | 2:48 |
@@ -53,10 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaywRlmHaP59.md) - [plain]
 | 43 | [Khserna Baad](https://open.spotify.com/track/2yfVl1v7wf54k9bOAY9mjd) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj), [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Khserna Baad](https://open.spotify.com/album/1dPEbDDxEC6GU5u7B9zlqE) | 3:07 |
 | 44 | [El Gharam](https://open.spotify.com/track/0dwZqQiIwv2di8DU4S0DTc) | [Ayman Amin](https://open.spotify.com/artist/111T2kttkTK8Qai0y7atPf), [Natasha](https://open.spotify.com/artist/7MBJMXAEJuzO754trRIuHu) | [El Gharam](https://open.spotify.com/album/4ClOMPFeRbiVFOhBVCTcoX) | 3:59 |
 | 45 | [Mesh Taye'](https://open.spotify.com/track/57MzJQAKcizIPuwcUBgyQ2) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Mesh Taye'](https://open.spotify.com/album/5RNSMpD6G7GGt4maIdDu1F) | 2:54 |
-| 46 | [Albi Ya Albi](https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Albi Ya Albi](https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj) | 3:26 |
-| 47 | [Madi Ehtarak](https://open.spotify.com/track/0TwDh2KWfRCXioQRimWxZA) | [Jad Khalife](https://open.spotify.com/artist/7J5LIUcIfUaLrFHUgCl4tL) | [Madi Ehtarak](https://open.spotify.com/album/6f5EHF9aWtW8ro88V1Q8QX) | 4:05 |
-| 48 | [Tango El Hob](https://open.spotify.com/track/0MiQdhtcbj2LyXLpRGThL6) | [Gabriel Abdel Nour](https://open.spotify.com/artist/4IMFj5lZtKrcR5xEWmB9ZR) | [Tango El Hob](https://open.spotify.com/album/0YqXhIByqAbo6bzbnxIhMW) | 5:19 |
-| 49 | [Ya Mdallaa](https://open.spotify.com/track/3NjPre3o7IrY1OkBG97Opc) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [Ya Mdallaa](https://open.spotify.com/album/5VoAawJAUcU1ExRvABtQJJ) | 2:57 |
-| 50 | [Nater](https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Nater](https://open.spotify.com/album/09UgMkfwxSfc2Ua3t1MhOf) | 3:24 |
+| 46 | [Madi Ehtarak](https://open.spotify.com/track/0TwDh2KWfRCXioQRimWxZA) | [Jad Khalife](https://open.spotify.com/artist/7J5LIUcIfUaLrFHUgCl4tL) | [Madi Ehtarak](https://open.spotify.com/album/6f5EHF9aWtW8ro88V1Q8QX) | 4:05 |
+| 47 | [Tango El Hob](https://open.spotify.com/track/0MiQdhtcbj2LyXLpRGThL6) | [Gabriel Abdel Nour](https://open.spotify.com/artist/4IMFj5lZtKrcR5xEWmB9ZR) | [Tango El Hob](https://open.spotify.com/album/0YqXhIByqAbo6bzbnxIhMW) | 5:19 |
+| 48 | [Ya Mdallaa](https://open.spotify.com/track/3NjPre3o7IrY1OkBG97Opc) | [Salim Assaf](https://open.spotify.com/artist/3D2w7u9CQ0dfJ3xi9Y86Df) | [Ya Mdallaa](https://open.spotify.com/album/5VoAawJAUcU1ExRvABtQJJ) | 2:57 |
+| 49 | [Nater](https://open.spotify.com/track/6rIWg3D84HSj7aUaVDIfKC) | [Adonis](https://open.spotify.com/artist/6LfzZtIFWlA5YdsVrAu8Xv), [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Nater](https://open.spotify.com/album/09UgMkfwxSfc2Ua3t1MhOf) | 3:24 |
 
-Snapshot ID: `Zz+FnQAAAADqc69K7OHAxVzthjEvNgpb`
+Snapshot ID: `Z1CNrQAAAACzTZTe7dFVS91pJhQbrX9G`

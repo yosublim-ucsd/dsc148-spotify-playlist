@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Everydaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,460 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,463 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 9 | [2am Calls](https://open.spotify.com/track/3h0IvDPAvhhKkO7OlvK4No) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh), [Cantika Abigail](https://open.spotify.com/artist/4cqipNDGUMbuHZaS9WNFZ3) | [B](https://open.spotify.com/album/1oa0yAgQb7U76deNPnzN06) | 3:12 |
 | 10 | [All My Friends Are Dead](https://open.spotify.com/track/3ey4XswJNcHqNXWRvJcg0C) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [All My Friends Are Dead](https://open.spotify.com/album/0oUSOHqVIC8Q4f02KwzWwv) | 2:52 |
 | 11 | [Rollin' On](https://open.spotify.com/track/63oSPrP54in4X41vq6cNlL) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [LOVELY SUNDAY](https://open.spotify.com/album/2D4TWvXGzGmL1zbOdoDnWw) | 3:54 |
-| 12 | [Meet in the Middle](https://open.spotify.com/track/0DeGvQ9gBrsR1DrAf9IyLc) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Meet in the Middle](https://open.spotify.com/album/748Lp7MOcqqJhYHtcApkBm) | 4:38 |
+| 12 | [Meet in the Middle](https://open.spotify.com/track/0DeGvQ9gBrsR1DrAf9IyLc) | [BRADD](https://open.spotify.com/artist/1T72OjsUb6ZGUElSwtixNO) | [Meet in the Middle](https://open.spotify.com/album/748Lp7MOcqqJhYHtcApkBm) | 4:34 |
 | 13 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 | 14 | [Dance on the Shoreline](https://open.spotify.com/track/5hcnIghzFIBbEKakcrpWJi) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Dance on the Shoreline](https://open.spotify.com/album/14P5CEk2LqBFRdvjfTZvu5) | 4:20 |
 | 15 | [To My Audience](https://open.spotify.com/track/6qQsWs0vbFbFsr6Mroh20x) | [Kalabebe](https://open.spotify.com/artist/1MUaWt8Y92WoQfhLnjumVZ) | [Be My Guest](https://open.spotify.com/album/6RFsBhZK7IWIZirIU2oS3X) | 3:11 |

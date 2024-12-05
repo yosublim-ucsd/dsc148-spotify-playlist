@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 
 > Hits virales, tendencias y challenges del futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,702 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,723 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpWpnuV2rUQ.md) - [plain]
 | 36 | [Aventura \- En Vivo](https://open.spotify.com/track/3eaI7pm5Epr3Wurhe36sfG) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR) | [Aventura \(En Vivo\)](https://open.spotify.com/album/0yXcCgUKJLkaCGsH9BiXfI) | 3:06 |
 | 37 | [El Traje del PSG](https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT) | [Joaquín Da Rosa](https://open.spotify.com/artist/1aKohXKamlQBtSQz2LwGax) | [El Traje del PSG](https://open.spotify.com/album/7si1GXgwYOKGt9y4F0VK90) | 2:43 |
 | 38 | [FIESTA PUNKY](https://open.spotify.com/track/4uf8Ts4gpz1s9Q4FVdgrMT) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [FIESTA PUNKY](https://open.spotify.com/album/6aBm0V95IJMMUQvWGrM4b8) | 2:24 |
-| 39 | [Princesa](https://open.spotify.com/track/3PtMYYDnXPbJAli2Oo4hYs) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG) | [Margarita, que tu cuento valga la pena \(Soundtrack oficial de la serie\)](https://open.spotify.com/album/6hMariaWwzwxApp7afAca5) | 2:52 |
+| 39 | [Princesa](https://open.spotify.com/track/3PtMYYDnXPbJAli2Oo4hYs) | [Margarita](https://open.spotify.com/artist/0VX5Df1JG4Y84sGvKjkcrG), [Rey](https://open.spotify.com/artist/1NpwHTlQGGdu5iqK2xBw0O) | [Margarita, que tu cuento valga la pena \(Soundtrack oficial de la serie\)](https://open.spotify.com/album/6hMariaWwzwxApp7afAca5) | 2:52 |
 | 40 | [PENDEJO ATREVIDO](https://open.spotify.com/track/0tCRhTNMLX2EYJeVqZiC2n) | [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB), [Stiffy](https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO) | [PENDEJO ATREVIDO](https://open.spotify.com/album/6ew6zWzW26alYZs9k6pdyq) | 2:37 |
 | 41 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 |
 | 42 | [SAN TURRONA](https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [SAN TURRONA](https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd) | 2:04 |

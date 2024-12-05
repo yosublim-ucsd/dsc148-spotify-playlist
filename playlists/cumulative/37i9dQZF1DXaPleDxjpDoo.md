@@ -4,7 +4,7 @@
 
 > Bathe in Ambient and nature sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-171 songs - 9 hr 12 min
+173 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Everwoods](https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:30 | 2022-09-15 |  |
 | [Fields](https://open.spotify.com/track/2acqbMn2Dwz66Np657k7ow) | [Sacred Orb](https://open.spotify.com/artist/3wo048mZLUY53Pp4KNXIQH) | [Fields](https://open.spotify.com/album/2YFxnKqI6KdM9jCCixC5O9) | 3:15 | 2024-03-05 |  |
 | [Fleuriste \- Meditation](https://open.spotify.com/track/69f7nyk91VrWuNXjAOENML) | [LUVT](https://open.spotify.com/artist/7zJp7caLwjVSEOiREg8bRF) | [Fleuriste](https://open.spotify.com/album/5bOxFicaz7OXLdRoXOsIWa) | 4:38 | 2022-09-15 | 2024-03-06 |
+| [Forest at Dusk](https://open.spotify.com/track/1oQLQpGlbI8gIAUsehqcju) | [Aviaries](https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj) | [Forest at Dusk](https://open.spotify.com/album/6EB4bE9wJ3NYhdg5J3nOZr) | 2:28 | 2024-12-04 |  |
 | [Forest Awakens](https://open.spotify.com/track/5byEWvYqXJvyvIthJtIpHn) | [Doug Loodabert](https://open.spotify.com/artist/1soP7EvA2zGxb39peRXviG) | [Forest Awakens](https://open.spotify.com/album/1CLoQedetRmKO3z1N43wPi) | 2:50 | 2022-09-15 | 2024-05-02 |
 | [Forest Birdsong](https://open.spotify.com/track/2oWFLyfz6eFrRSizoGgGof) | [Ennio Campbell](https://open.spotify.com/artist/0TMiGw2GvOM7ck2akGDD8Z) | [Peaceful Birdsong](https://open.spotify.com/album/6ewtzNYqAL5bwBMH1unwq0) | 3:30 | 2024-04-01 |  |
 | [Forest Dream](https://open.spotify.com/track/3dSrZUj12wbg8N4615IQRR) | [Sacred Bansuri](https://open.spotify.com/artist/7gESLNj728yT7IhMVE6nSD) | [Forest Dream](https://open.spotify.com/album/2M8KpQdopdn3r8tgG8FOoN) | 2:36 | 2023-06-02 |  |
@@ -108,7 +109,7 @@
 | [Moving Forward](https://open.spotify.com/track/5wUcZKUVpLr1mA9cn542BI) | [moon echo](https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN) | [Moving Forward](https://open.spotify.com/album/0nginUJK6TyxW1XEZhdelg) | 2:36 | 2024-01-30 |  |
 | [My Pace](https://open.spotify.com/track/0IsnhN1xPrCDCl0m5rSW39) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [Holy](https://open.spotify.com/album/1lfZhvhyyBiKOctE1lKVMY) | 2:45 | 2022-09-15 | 2024-06-04 |
 | [My Pace \- Remix](https://open.spotify.com/track/14q3zVXljoHZ7DqDyF3kQl) | [Rhucle](https://open.spotify.com/artist/0y0cl3t1UlQf0730g7Zjkl) | [My Pace \(Remix\)](https://open.spotify.com/album/3NmlnEt8dF1oGVuEsBUe8j) | 2:22 | 2022-09-15 | 2023-10-05 |
-| [Mystery Grove](https://open.spotify.com/track/2UCGUuWmrDJxhb2yJsRgMg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Mystery Grove](https://open.spotify.com/album/5EUkLs3rWU62wkRGjFJSBK) | 2:45 | 2023-11-10 |  |
+| [Mystery Grove](https://open.spotify.com/track/2UCGUuWmrDJxhb2yJsRgMg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Mystery Grove](https://open.spotify.com/album/5EUkLs3rWU62wkRGjFJSBK) | 2:45 | 2023-11-10 | 2024-12-05 |
 | [Nature Alone](https://open.spotify.com/track/6j0ej8mW9Y96iUky0cerwv) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Nature Alone](https://open.spotify.com/album/6oUrqNBRn37W3mCmH4EBzm) | 3:09 | 2024-07-18 |  |
 | [Nature's Drone 432Hz](https://open.spotify.com/track/0t4H5P4RqjlO7GjmqmoRCm) | [Drömlandskap](https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe) | [Nature's Drone 432Hz](https://open.spotify.com/album/0dxeNYb0H4Mu9Wkdad2LPA) | 2:35 | 2022-09-30 |  |
 | [Nature's Serenade \(432 Hz\)](https://open.spotify.com/track/7iv8k4zVh3KREyGS36c1Ej) | [Reiki Nataraj](https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX) | [Nature's Serenade](https://open.spotify.com/album/4vLm6LVhLLSMJ1o1XjgHby) | 2:39 | 2022-11-11 |  |
@@ -161,6 +162,7 @@
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-21 |  |
 | [Theias \(Nature Sounds\)](https://open.spotify.com/track/1FqPRzwHoEJfRJMYxf9XND) | [Flouriiche](https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr) | [Theias](https://open.spotify.com/album/12tMrozLxtUx7OxkLnIC0X) | 2:19 | 2023-05-22 |  |
 | [Theta Forest Bath 114\-118 Hz](https://open.spotify.com/track/45y0L5NIzj9jot9exjjXvw) | [Sienna Meadows](https://open.spotify.com/artist/2ZDLubEeEfuvABC6vzMMFm) | [Theta Forest Bath 114\-118 Hz](https://open.spotify.com/album/0AdLH1Ufjw4OcGYqn8vnd9) | 2:28 | 2024-07-18 |  |
+| [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2024-12-04 |  |
 | [Tibetan Babax](https://open.spotify.com/track/5vPZ1FYmRWZUwk9fj5x450) | [Sarah Loca](https://open.spotify.com/artist/5jZXtbPYjWhoom78Eh14Wd) | [Tibetan Babax](https://open.spotify.com/album/4ouMZo7TSttQGj7erVpgl0) | 2:18 | 2024-05-01 |  |
 | [Treetop Dreamers](https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Treetop Dreamers](https://open.spotify.com/album/5YQsZOrmwOlqKrc4NlDRlw) | 2:59 | 2024-02-16 |  |
 | [Tributary Balance](https://open.spotify.com/track/6iCoaYHHA82MZZnxi6nt9h) | [Ezmae Forrest](https://open.spotify.com/artist/6ruCfksOefHsnWf3TjGJYn) | [Tributary Balance](https://open.spotify.com/album/0jeMzKkXb7a3vVLn2EbBkX) | 3:07 | 2022-09-15 | 2024-05-02 |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most viral tracks right now - Austria.",
-  "num_followers": 12422,
+  "num_followers": 12423,
   "original_name": "Viral 50 - Austria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LuJ0IAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LuPFoAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "\u0421\u0438\u0433\u043c\u0430 \u0411\u043e\u0439",
         "url": "https://open.spotify.com/album/6jUkntzXG3w4sngQqkt5EH"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/23UBSdCPcsloNVmQZ508Zv"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "Verwandtschaftstreffen",
         "url": "https://open.spotify.com/album/1NHvawkJK7haqaDW8aE33p"
@@ -45,7 +45,39 @@
       "url": "https://open.spotify.com/track/69yw1KhYUuGwUbOImS0jju"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Head n' Shoulders",
+        "url": "https://open.spotify.com/album/7wfHFpdwWR7rvtB4SzYgqD"
+      },
+      "artists": [
+        {
+          "name": "Yc",
+          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
+        }
+      ],
+      "duration_ms": 122826,
+      "name": "Head n' Shoulders",
+      "url": "https://open.spotify.com/track/3zmksQ4fThZuadjqd6yZmm"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "bis einer weint",
+        "url": "https://open.spotify.com/album/5UVmNkmdFD40hgubrjV3xa"
+      },
+      "artists": [
+        {
+          "name": "BIBIZA",
+          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
+        }
+      ],
+      "duration_ms": 162001,
+      "name": "Tanzen",
+      "url": "https://open.spotify.com/track/19LgPZ2stzql56OSeF37Jy"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
@@ -65,39 +97,7 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "bis einer weint",
-        "url": "https://open.spotify.com/album/5UVmNkmdFD40hgubrjV3xa"
-      },
-      "artists": [
-        {
-          "name": "BIBIZA",
-          "url": "https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2"
-        }
-      ],
-      "duration_ms": 162001,
-      "name": "Tanzen",
-      "url": "https://open.spotify.com/track/19LgPZ2stzql56OSeF37Jy"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Head n' Shoulders",
-        "url": "https://open.spotify.com/album/7wfHFpdwWR7rvtB4SzYgqD"
-      },
-      "artists": [
-        {
-          "name": "Yc",
-          "url": "https://open.spotify.com/artist/2F0M1eZ2BZFNFPCq3eKCtA"
-        }
-      ],
-      "duration_ms": 122826,
-      "name": "Head n' Shoulders",
-      "url": "https://open.spotify.com/track/3zmksQ4fThZuadjqd6yZmm"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "home/daheim (demo)",
         "url": "https://open.spotify.com/album/3La5XRtytbfr7N7E6L6nqL"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/7rSwCQ1L0YsnbVilZ8pkSq"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "\u041a\u0430\u043a \u0415\u0441\u0435\u043d\u0438\u043d",
         "url": "https://open.spotify.com/album/1aNxDCQgv3lq1oGAj4j8nQ"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/0mM9pAcHb228EyEgDtdJZb"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
@@ -153,20 +153,12 @@
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+        "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/43WadbDjTaVOZamDGPkRqV"
       },
       "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
         {
           "name": "Raja Kumari",
           "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
@@ -181,14 +173,14 @@
         }
       ],
       "duration_ms": 161400,
-      "name": "Renegade (We Never Run) - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/1g6pDk9hvdVC08Qw2Sm4kX"
+      "name": "Renegade (We Never Run) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/7dqTJ7Ba3VtBtGTXHRK8N8"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
-        "name": "\u9019\u6a23\u5f88\u597d (\u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u7b2c\u4e8c\u5b63\u539f\u8072)",
-        "url": "https://open.spotify.com/album/0ZyyIg7t8XtqxuBg48PbkQ"
+        "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/2ZIqGTUu9YpNm8R6cKfdJV"
       },
       "artists": [
         {
@@ -205,35 +197,11 @@
         }
       ],
       "duration_ms": 264680,
-      "name": "\u9019\u6a23\u5f88\u597d - \u300a\u82f1\u96c4\u806f\u76df:\u96d9\u57ce\u4e4b\u6230\u300b\u52d5\u756b\u7b2c\u4e8c\u5b63\u539f\u8072",
-      "url": "https://open.spotify.com/track/0Cdq7p8QbX9EE4eNCtzGsk"
+      "name": "\u8fd9\u6837\u5f88\u597d (Isha's Song) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/355ygyd1nLXeJAz7Zbapwj"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 224293,
-      "name": "Sucker - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/2aF78CWbNOyppg49sCZ4Cm"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "Gece Film (Soundtrack)",
         "url": "https://open.spotify.com/album/7Kenl6rraE4GJi7RRev7LD"
@@ -249,7 +217,7 @@
       "url": "https://open.spotify.com/track/5kGvQXOy9zumMUtmaYn2A9"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ"
@@ -265,7 +233,51 @@
       "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Sucker (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/7hQaRZQoy3R7ni0PzKajXT"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 224293,
+      "name": "Sucker (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/540k1IRl5UPMhVhpu1LRQ3"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "Cocktail Molotov (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/4wrT09KQQ6TV4fv3gIYqvA"
@@ -289,80 +301,40 @@
       "url": "https://open.spotify.com/track/4zSeX6VgtIZHLgIz2hJT3p"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
-        "name": "If I Should Fall from Grace with God (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+        "name": "Hellfire (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE"
       },
       "artists": [
-        {
-          "name": "The Pogues",
-          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
-        },
-        {
-          "name": "Kirsty MacColl",
-          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Fairytale of New York (feat. Kirsty MacColl)",
-      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
         {
           "name": "FEVER 333",
           "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
       "duration_ms": 164773,
-      "name": "Hellfire - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/6n484S6vV8IUenkz43YzTt"
+      "name": "Hellfire (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+        "name": "To Ashes and Blood (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/3tm2lX4PPpYX1aRAJrgl2R"
       },
       "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
         {
           "name": "Woodkid",
           "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
-        }
-      ],
-      "duration_ms": 245626,
-      "name": "To Ashes and Blood - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/2MAk9ErHJIxgBZRXocHhly"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
-      },
-      "artists": [
+        },
         {
           "name": "Arcane",
           "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
@@ -370,22 +342,14 @@
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Mike Shinoda",
-          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
-        },
-        {
-          "name": "Emily Armstrong",
-          "url": "https://open.spotify.com/artist/2o5bktFpbunEjytnfqryWc"
         }
       ],
-      "duration_ms": 101533,
-      "name": "Heavy Is The Crown - Original Score / from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/2M1DKFIBC7JbtJCPFkqY0a"
+      "duration_ms": 245626,
+      "name": "To Ashes and Blood (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/1clsf1YjKNHVUonDva4fnk"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "Blood Sweat & Tears (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6r8UT9MVb36K5XeGVUCqVA"
@@ -409,7 +373,7 @@
       "url": "https://open.spotify.com/track/0ftoT1YpcxirRkamObuop0"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
@@ -425,7 +389,31 @@
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/2Iu5auPZp12ftZiNv0eZP5"
+      },
+      "artists": [
+        {
+          "name": "Mike Shinoda",
+          "url": "https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD"
+        },
+        {
+          "name": "Emily Armstrong",
+          "url": "https://open.spotify.com/artist/2j5MUrKK6wSLdUxy2ijqHC"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        }
+      ],
+      "duration_ms": 101533,
+      "name": "Heavy Is The Crown (Original Score) (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0i77506epd8NgmHxZwMOwS"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "Paint The Town Blue (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
@@ -449,67 +437,7 @@
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "9K",
-        "url": "https://open.spotify.com/album/1FKjWHUh8XmfrXUf6JBQS4"
-      },
-      "artists": [
-        {
-          "name": "Tom Hengst",
-          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
-        },
-        {
-          "name": "OG Keemo",
-          "url": "https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE"
-        }
-      ],
-      "duration_ms": 168131,
-      "name": "9K",
-      "url": "https://open.spotify.com/track/5a7OJzUyJgvm9SSKQDnXGP"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Romantic Piano",
-        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 94946,
-      "name": "Hinoki Wood",
-      "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Rebel Heart (from the series Arcane League of Legends)",
-        "url": "https://open.spotify.com/album/7o5vPpHkPBYyjmZY57HgVg"
-      },
-      "artists": [
-        {
-          "name": "Djerv",
-          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
-        },
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Rebel Heart (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/3bpkjtiwxCmEFIHkuNf3Oc"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar (Vers\u00e3o BH)",
         "url": "https://open.spotify.com/album/2unD5lf5RJvjXdKvBOxcuE"
@@ -537,7 +465,159 @@
       "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Rebel Heart (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/7o5vPpHkPBYyjmZY57HgVg"
+      },
+      "artists": [
+        {
+          "name": "Djerv",
+          "url": "https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Rebel Heart (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/3bpkjtiwxCmEFIHkuNf3Oc"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "9K",
+        "url": "https://open.spotify.com/album/1FKjWHUh8XmfrXUf6JBQS4"
+      },
+      "artists": [
+        {
+          "name": "Tom Hengst",
+          "url": "https://open.spotify.com/artist/1KGwASmnB2xhGcJGt9epDc"
+        },
+        {
+          "name": "OG Keemo",
+          "url": "https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE"
+        }
+      ],
+      "duration_ms": 168131,
+      "name": "9K",
+      "url": "https://open.spotify.com/track/5a7OJzUyJgvm9SSKQDnXGP"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Romantic Piano",
+        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 94946,
+      "name": "Hinoki Wood",
+      "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Speak for Yourself",
+        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "\u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0413\u043b\u043e\u0431\u0443\u0441",
+        "url": "https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl"
+      },
+      "artists": [
+        {
+          "name": "\u0410\u043d\u0441\u0430\u043c\u0431\u043b\u044c \u0412\u0435\u0441\u0451\u043b\u044b\u0435 \u0440\u0435\u0431\u044f\u0442\u0430",
+          "url": "https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
+      "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "RID/70 Sch\u00fcsse aus ein TukTuk",
+        "url": "https://open.spotify.com/album/0RGSGqk39Be6k1uG5YtH3V"
+      },
+      "artists": [
+        {
+          "name": "GoofyTV",
+          "url": "https://open.spotify.com/artist/0pvNtCtwKq3fFLX4s6SqDZ"
+        },
+        {
+          "name": "Ranjid",
+          "url": "https://open.spotify.com/artist/0VCVjAg4QlJTYmVpjtoVbE"
+        }
+      ],
+      "duration_ms": 105899,
+      "name": "RID/70 Sch\u00fcsse aus ein TukTuk",
+      "url": "https://open.spotify.com/track/2mWVgDTK1fNEUjTiu3xQje"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Remember Me (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6M2myVwkaKEx4gIJuvPere"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 122053,
+      "name": "Remember Me (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/5oi8dkse5YTnTSWm3XgMET"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Eatin' Good",
+        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
+      },
+      "artists": [
+        {
+          "name": "Woodcamp",
+          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "Eatin' Good",
+      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "Come Play (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/6Eb8iWappWpZgkqxDWiIGU"
@@ -569,7 +649,7 @@
       "url": "https://open.spotify.com/track/37ozVDmL5b6NNVWFYgAlkz"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "D\u00fc\u015f\u00fc\u015flerim Fazla",
         "url": "https://open.spotify.com/album/3wvLRWKTy8exkhC81GjyNV"
@@ -585,7 +665,23 @@
       "url": "https://open.spotify.com/track/3AaGQ8lTi31RBk9WMDfPX5"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
+      },
+      "artists": [
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
+      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "NOW IT'S GONE",
         "url": "https://open.spotify.com/album/3OgPt2ujG9tWWoltAU4lbo"
@@ -601,31 +697,55 @@
       "url": "https://open.spotify.com/track/5v5yF1qIhHD1ptZoN8dxv7"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
+        "name": "Heart Skips Beat",
+        "url": "https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n"
       },
       "artists": [
         {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Jona Lewie",
+          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
         }
       ],
-      "duration_ms": 122053,
-      "name": "Remember Me - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/3NqW1FtYalkdAr7gz7Btwh"
+      "duration_ms": 176360,
+      "name": "Stop The Cavalry",
+      "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Mut",
+        "url": "https://open.spotify.com/album/03nloAfECeE0rh6fZ2sfzX"
+      },
+      "artists": [
+        {
+          "name": "Marlo Grosshardt",
+          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
+        }
+      ],
+      "duration_ms": 229790,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/294X2ZEWvP7CPsexJ7x6Wn"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "What Have They Done To Us (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1rcrVwtk2dbrf7rRNwDhhh"
@@ -649,91 +769,23 @@
       "url": "https://open.spotify.com/track/4ZdFMKqprNtEqdqdhu7gU0"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
-        "name": "Eatin' Good",
-        "url": "https://open.spotify.com/album/3lqXzStQ53mRbPtJeKZQIB"
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
       },
       "artists": [
         {
-          "name": "Woodcamp",
-          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
         }
       ],
-      "duration_ms": 221904,
-      "name": "Eatin' Good",
-      "url": "https://open.spotify.com/track/0qh5uqeiEI4S48mm8PrznZ"
+      "duration_ms": 164546,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "RID/70 Sch\u00fcsse aus ein TukTuk",
-        "url": "https://open.spotify.com/album/0RGSGqk39Be6k1uG5YtH3V"
-      },
-      "artists": [
-        {
-          "name": "GoofyTV",
-          "url": "https://open.spotify.com/artist/0pvNtCtwKq3fFLX4s6SqDZ"
-        },
-        {
-          "name": "Ranjid",
-          "url": "https://open.spotify.com/artist/0VCVjAg4QlJTYmVpjtoVbE"
-        }
-      ],
-      "duration_ms": 105899,
-      "name": "RID/70 Sch\u00fcsse aus ein TukTuk",
-      "url": "https://open.spotify.com/track/2mWVgDTK1fNEUjTiu3xQje"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Mut",
-        "url": "https://open.spotify.com/album/03nloAfECeE0rh6fZ2sfzX"
-      },
-      "artists": [
-        {
-          "name": "Marlo Grosshardt",
-          "url": "https://open.spotify.com/artist/0oUy6JfoeDteAPMDi1lNJo"
-        }
-      ],
-      "duration_ms": 229790,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/294X2ZEWvP7CPsexJ7x6Wn"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "\u041c\u0443\u0437\u044b\u043a\u0430\u043b\u044c\u043d\u044b\u0439 \u0413\u043b\u043e\u0431\u0443\u0441",
-        "url": "https://open.spotify.com/album/0ggc96WgrOAIWsvQbRG8zl"
-      },
-      "artists": [
-        {
-          "name": "\u0410\u043d\u0441\u0430\u043c\u0431\u043b\u044c \u0412\u0435\u0441\u0451\u043b\u044b\u0435 \u0440\u0435\u0431\u044f\u0442\u0430",
-          "url": "https://open.spotify.com/artist/7x91sJkli6lEJbMEdHnYf8"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
-      "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Speak for Yourself",
-        "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
-      },
-      "artists": [
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 215481,
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/7vTENp2sLS3sPY5z4npYNr"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "The Beast (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/01Jm3RRsLElEzefWJHtTBa"
@@ -757,7 +809,7 @@
       "url": "https://open.spotify.com/track/5gnV1vGdGf8FMFn5Fjpu1H"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -773,71 +825,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Follow You",
-        "url": "https://open.spotify.com/album/3xAcJuzZ9QQuMbuuViPOfE"
-      },
-      "artists": [
-        {
-          "name": "Noizy",
-          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Follow You",
-      "url": "https://open.spotify.com/track/7cMhicmOIwfJlWURl90AOc"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Heart Skips Beat",
-        "url": "https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n"
-      },
-      "artists": [
-        {
-          "name": "Jona Lewie",
-          "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Stop The Cavalry",
-      "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/4fn4LgJYOLrRsYjRQUGmrs"
-      },
-      "artists": [
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Dirty Cash (Money Talks) - Sold Out 7 Inch Mix",
-      "url": "https://open.spotify.com/track/3lcUQs5nyrjoHpQR9Vo2aA"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 311480,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "M\u00dcNCHNER STR.",
         "url": "https://open.spotify.com/album/5xJckM22Vin7IOtXfQ7yfQ"
@@ -853,23 +841,23 @@
       "url": "https://open.spotify.com/track/3PBJgXZm0rFkycauEIE4ph"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
-        "name": "Those Were The Days",
-        "url": "https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN"
+        "name": "Ma Baby",
+        "url": "https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA"
       },
       "artists": [
         {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 180750,
-      "name": "Those Were The Days",
-      "url": "https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV"
+      "duration_ms": 138000,
+      "name": "Ma Baby",
+      "url": "https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "GLORIOUS",
         "url": "https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0"
@@ -889,7 +877,7 @@
       "url": "https://open.spotify.com/track/5xeSd4HgzrYpNLEf3LfYLK"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "zwischendrin verliebt",
         "url": "https://open.spotify.com/album/6nX8JYjiIt34TspNoUbczf"
@@ -905,7 +893,23 @@
       "url": "https://open.spotify.com/track/4cfEKx32p9CV07CfHWXXdT"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "Those Were The Days",
+        "url": "https://open.spotify.com/album/7drV33tKZrwRplzhehkqbN"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "Those Were The Days",
+      "url": "https://open.spotify.com/track/1dlrW5uLrr1h7PpGA2bduV"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "April Mixtape 3",
         "url": "https://open.spotify.com/album/56hrhzHAOsm5C7kSXzF4kh"
@@ -921,7 +925,31 @@
       "url": "https://open.spotify.com/track/3iRoXGFrF8O0jTul6LAmus"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
+      "album": {
+        "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/6ON4aKmVxx5g2cqnts3AMu"
+      },
+      "artists": [
+        {
+          "name": "Freya Ridings",
+          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "I Can't Hear It Now (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/4pqTJ9xe9iDnxKbmGpGQby"
+    },
+    {
+      "added_at": "2024-12-04 13:50:10",
       "album": {
         "name": "All This Time",
         "url": "https://open.spotify.com/album/5rMLNdoZI2J9Fa6xtBiDRL"
@@ -945,64 +973,20 @@
       "url": "https://open.spotify.com/track/4xq59PbzJOMSqrdGQMxpB8"
     },
     {
-      "added_at": "2024-12-03 14:25:54",
+      "added_at": "2024-12-04 13:50:10",
       "album": {
-        "name": "Ma Baby",
-        "url": "https://open.spotify.com/album/4iflwnxuZ3RUUsnR2q0XzA"
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
       "artists": [
         {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Ma Baby",
-      "url": "https://open.spotify.com/track/4495xO2HkmqoYIxQO2FvAH"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/4P0928maroUjWBexz6OJBJ"
-      },
-      "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Freya Ridings",
-          "url": "https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk"
-        }
-      ],
-      "duration_ms": 161039,
-      "name": "I Can't Hear It Now - from the series Arcane League of Legends",
-      "url": "https://open.spotify.com/track/4l4J1USPK4D1yTdMtOifQ2"
-    },
-    {
-      "added_at": "2024-12-03 14:25:54",
-      "album": {
-        "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 207794,
-      "name": "Somethin\u2019 \u2018Bout A Woman (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc"
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     }
   ],
   "unique_name": "Viral 50 - Austria",

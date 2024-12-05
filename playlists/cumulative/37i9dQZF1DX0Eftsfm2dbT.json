@@ -3303,6 +3303,32 @@
     },
     {
       "album": {
+        "name": "One for the culture, Two for the future",
+        "url": "https://open.spotify.com/album/10qIvrP2NLqxSvB3QdKguU"
+      },
+      "artists": [
+        {
+          "name": "Red Eye",
+          "url": "https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5"
+        },
+        {
+          "name": "D.O",
+          "url": "https://open.spotify.com/artist/0uwSiUPpmfE6SNGryFGZPS"
+        },
+        {
+          "name": "Flower.far",
+          "url": "https://open.spotify.com/artist/4aMPZAY3aJQokQfO5ZEryr"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180693,
+      "name": "Blood Line",
+      "url": "https://open.spotify.com/track/3vKaxnlNG8VVHF7gbxHHZz"
+    },
+    {
+      "album": {
         "name": "Blueprint",
         "url": "https://open.spotify.com/album/4KQKZSlMefTEq4r2XyPUGZ"
       },
@@ -21396,7 +21422,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 200588,
       "name": "Still Young More Rich - feat. Watson",
       "url": "https://open.spotify.com/track/0qzQggYvLeDmGtaJRfjdYT"
@@ -24696,7 +24722,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-12-05",
       "duration_ms": 379291,
       "name": "WOKE UP REMIXX [PROD BY JAKOPS] (FEAT. Jay Park, OZworld, AKLO, Paloalto, VERBAL, Awich, Tak, Dok2)",
       "url": "https://open.spotify.com/track/2x00igEgoS1m2sztmOfBgs"
@@ -27874,6 +27900,28 @@
       "duration_ms": 211250,
       "name": "\u85ac\u5e74",
       "url": "https://open.spotify.com/track/54dwy2bwZH2g9uH8jtjWXj"
+    },
+    {
+      "album": {
+        "name": "One for the culture, Two for the future",
+        "url": "https://open.spotify.com/album/10qIvrP2NLqxSvB3QdKguU"
+      },
+      "artists": [
+        {
+          "name": "SOUL SCREAM",
+          "url": "https://open.spotify.com/artist/2SgU8wi3hgPFDgqf3UY1Cf"
+        },
+        {
+          "name": "Yohji Igarashi",
+          "url": "https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs"
+        }
+      ],
+      "date_added": "2024-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231200,
+      "name": "\u8702\u3068\u8776 - Yohji Igarashi 2024 Remix",
+      "url": "https://open.spotify.com/track/2kLIRS4YA835QU2s9wyqVC"
     },
     {
       "album": {

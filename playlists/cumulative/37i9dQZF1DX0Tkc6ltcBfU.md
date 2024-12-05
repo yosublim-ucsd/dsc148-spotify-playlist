@@ -4,7 +4,7 @@
 
 > The hottest out the south: Rod Wave
 
-1,683 songs - 3 day 7 hr 30 min
+1,684 songs - 3 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,6 +716,7 @@
 | [I Like](https://open.spotify.com/track/24zWMswwt6ZHKYX6jYZgeC) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [I Like](https://open.spotify.com/album/7ltqU3JhqqTebrpUyMI9ty) | 2:07 | 2022-02-25 | 2022-03-12 |
 | [I Love A Freak](https://open.spotify.com/track/1X0bnHH8Hv0pMc8LIHivew) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [I Love A Freak](https://open.spotify.com/album/7hUr6M3p6VW66uVNTM1pch) | 2:56 | 2023-07-14 | 2023-08-08 |
 | [I Love You, But…](https://open.spotify.com/track/3c2DJDAr8OQ3Eutr9bQkqF) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [I Love You, But...](https://open.spotify.com/album/7KBzvoBpBIDZzy6z5FqOcl) | 2:56 | 2022-10-14 | 2022-10-29 |
+| [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/track/1GpDcABDptCpIOALmD2S5f) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [I LUV HER \(wth T\-Pain\)](https://open.spotify.com/album/62JqX6BIBj6uqUTFVWjTQP) | 2:56 | 2024-12-04 |  |
 | [I Luv U](https://open.spotify.com/track/35mfelo1FvkLRLmo0VstNE) | [YTB Fatt](https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT) | [Foxes Only](https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr) | 2:24 | 2024-02-16 | 2024-02-24 |
 | [I Need A Thug](https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [I Need A Thug](https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl) | 1:57 | 2023-06-09 | 2023-07-01 |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-02-17 | 2023-03-11 |
@@ -1339,7 +1340,7 @@
 | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SLUT ME OUT \(feat\. Sexyy Red\)](https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S) | 3:23 | 2023-04-07 | 2023-06-24 |
 | [SLUT ME OUT 2](https://open.spotify.com/track/22yRHdYBLZMi7xnvBioqkP) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT ME OUT 2](https://open.spotify.com/album/5BEgYBYUzfvGoU1uLHvGRA) | 2:15 | 2024-04-12 | 2024-06-08 |
 | [Small Town Hero](https://open.spotify.com/track/1uJlJyphY1YXiFWzsTo8qe) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [Small Town Hero](https://open.spotify.com/album/42No6q5fgA1s4qx8Of7E9J) | 2:57 | 2022-07-15 | 2022-08-13 |
-| [SMOKE YOU OUT](https://open.spotify.com/track/5O1sQhL8Y70DCBUUr8O8fF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [SMOKE YOU OUT](https://open.spotify.com/album/2Ck6R1B3YCfmh7OUipcIrH) | 2:02 | 2024-11-15 |  |
+| [SMOKE YOU OUT](https://open.spotify.com/track/5O1sQhL8Y70DCBUUr8O8fF) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [SMOKE YOU OUT](https://open.spotify.com/album/2Ck6R1B3YCfmh7OUipcIrH) | 2:02 | 2024-11-15 | 2024-12-05 |
 | [Smokey](https://open.spotify.com/track/1Y1HWLs5X8Umezek2FwLMM) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Personification](https://open.spotify.com/album/5KTBzUMO8wPc2DxWI0x9Hj) | 3:13 | 2024-11-15 |  |
 | [SMOKING](https://open.spotify.com/track/4njdlH3THatQwghn7LrNft) | [bruhwhosjack](https://open.spotify.com/artist/2ExyJw39EdZWptcMbbg5yz), [adixu's stuff](https://open.spotify.com/artist/7tmzGbnVYGqTERq7d15oTX), [Keharo](https://open.spotify.com/artist/3ezpkUkrRehuShQ4uBt65u) | [LLF FILES](https://open.spotify.com/album/5fdgVsTUhwYytL8XfVU6EA) | 2:21 | 2024-09-20 | 2024-09-28 |
 | [So What](https://open.spotify.com/track/1vT1EeOWGRyk7EFeZtIDhx) | [FCG Heem](https://open.spotify.com/artist/6GSZ8C4Dyu5VsGz16jAgPC) | [So What](https://open.spotify.com/album/08lnTvGMO8GkRHbg9s2Eb7) | 2:05 | 2024-07-12 | 2024-07-19 |

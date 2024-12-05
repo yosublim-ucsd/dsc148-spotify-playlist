@@ -1,6 +1,6 @@
 {
   "description": "warm and cozy beats to watch the leaves fall, focus, study or chill to.",
-  "num_followers": 8488,
+  "num_followers": 8604,
   "original_name": "lofi autumn beats \ud83c\udf41\ud83c\udf42",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Midnight Stuff",
-        "url": "https://open.spotify.com/album/0Vcjo60rQ38NPW8MLsG6gG"
-      },
-      "artists": [
-        {
-          "name": "Duos On Mars",
-          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
-        }
-      ],
-      "duration_ms": 129677,
-      "name": "Midnight Stuff",
-      "url": "https://open.spotify.com/track/2MGJydjBonGOlIzDQZL3dQ"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 144230,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Midnight Stuff",
+        "url": "https://open.spotify.com/album/0Vcjo60rQ38NPW8MLsG6gG"
+      },
+      "artists": [
+        {
+          "name": "Duos On Mars",
+          "url": "https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az"
+        }
+      ],
+      "duration_ms": 129677,
+      "name": "Midnight Stuff",
+      "url": "https://open.spotify.com/track/2MGJydjBonGOlIzDQZL3dQ"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "chime in",
-        "url": "https://open.spotify.com/album/1fl0OTa13ShDyOcZVlLDca"
-      },
-      "artists": [
-        {
-          "name": "robomoque",
-          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
-        }
-      ],
-      "duration_ms": 134285,
-      "name": "chime in",
-      "url": "https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Dream Drift",
         "url": "https://open.spotify.com/album/3tEO0ArWLOU1t0kNVIoTwi"
       },
@@ -171,18 +155,34 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "thyme moves slow",
-        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
+        "name": "ghee",
+        "url": "https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg"
       },
       "artists": [
         {
-          "name": "new vibe",
-          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
         }
       ],
-      "duration_ms": 147107,
-      "name": "thyme moves slow",
-      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
+      "duration_ms": 180000,
+      "name": "ghee",
+      "url": "https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "chime in",
+        "url": "https://open.spotify.com/album/1fl0OTa13ShDyOcZVlLDca"
+      },
+      "artists": [
+        {
+          "name": "robomoque",
+          "url": "https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v"
+        }
+      ],
+      "duration_ms": 134285,
+      "name": "chime in",
+      "url": "https://open.spotify.com/track/5h5NfrIjeZifGJkZs34WQt"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -203,18 +203,34 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "ghee",
-        "url": "https://open.spotify.com/album/2u7bj6y7s28vB8Vsa0QhCg"
+        "name": "Couch Potato",
+        "url": "https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI"
       },
       "artists": [
         {
-          "name": "lilibu",
-          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
         }
       ],
-      "duration_ms": 180000,
-      "name": "ghee",
-      "url": "https://open.spotify.com/track/2tIuYjDRwnJfJEt4uDEjRl"
+      "duration_ms": 146781,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "thyme moves slow",
+        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "duration_ms": 147107,
+      "name": "thyme moves slow",
+      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -251,18 +267,34 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Couch Potato",
-        "url": "https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI"
+        "name": "Drizzle",
+        "url": "https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh"
       },
       "artists": [
         {
-          "name": "ron quixote",
-          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+          "name": "Philanthrope",
+          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
         }
       ],
-      "duration_ms": 146781,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl"
+      "duration_ms": 124931,
+      "name": "Drizzle",
+      "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "chuli",
+        "url": "https://open.spotify.com/album/4SxVO3YXiuWNgliaiMnwU0"
+      },
+      "artists": [
+        {
+          "name": "rollinsmpls",
+          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
+        }
+      ],
+      "duration_ms": 124715,
+      "name": "chuli",
+      "url": "https://open.spotify.com/track/2ImZV0z7y8R68StmTUR9gH"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -299,38 +331,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Drizzle",
-        "url": "https://open.spotify.com/album/5pCz6ijkmoUi0SW8mN4seh"
-      },
-      "artists": [
-        {
-          "name": "Philanthrope",
-          "url": "https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs"
-        }
-      ],
-      "duration_ms": 124931,
-      "name": "Drizzle",
-      "url": "https://open.spotify.com/track/5upFjPY4295n6g5AAr9LZq"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "chuli",
-        "url": "https://open.spotify.com/album/4SxVO3YXiuWNgliaiMnwU0"
-      },
-      "artists": [
-        {
-          "name": "rollinsmpls",
-          "url": "https://open.spotify.com/artist/2IQUECU4moSgtL1qqJuois"
-        }
-      ],
-      "duration_ms": 124715,
-      "name": "chuli",
-      "url": "https://open.spotify.com/track/2ImZV0z7y8R68StmTUR9gH"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Renaissance",
         "url": "https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x"
       },
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Vanisher",
-        "url": "https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8"
-      },
-      "artists": [
-        {
-          "name": "Justnormal",
-          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
-        }
-      ],
-      "duration_ms": 132692,
-      "name": "Fika",
-      "url": "https://open.spotify.com/track/5jyT2q8NpSWblcifLzsAuY"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/0Veqr59WbWNYQYBrASjr67"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 145781,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/45jbQ3dPOPRXrUfUnRwnCN"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Maze",
-        "url": "https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW"
-      },
-      "artists": [
-        {
-          "name": "Trippy Park",
-          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
-        }
-      ],
-      "duration_ms": 132281,
-      "name": "Maze",
-      "url": "https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -427,6 +395,38 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "Vanisher",
+        "url": "https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8"
+      },
+      "artists": [
+        {
+          "name": "Justnormal",
+          "url": "https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs"
+        }
+      ],
+      "duration_ms": 132692,
+      "name": "Fika",
+      "url": "https://open.spotify.com/track/5jyT2q8NpSWblcifLzsAuY"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Maze",
+        "url": "https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW"
+      },
+      "artists": [
+        {
+          "name": "Trippy Park",
+          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
+        }
+      ],
+      "duration_ms": 132281,
+      "name": "Maze",
+      "url": "https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Ocean Ride",
         "url": "https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 129037,
       "name": "Ocean Ride",
       "url": "https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Beam Me Up",
+        "url": "https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4"
+      },
+      "artists": [
+        {
+          "name": "Adam Space",
+          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "Beam Me Up",
+      "url": "https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -463,22 +479,6 @@
       "duration_ms": 120603,
       "name": "Fragments",
       "url": "https://open.spotify.com/track/2QCuFQMtOre4xzLglVQAOP"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Beam Me Up",
-        "url": "https://open.spotify.com/album/2eAXEuljSiuSlxT9i3tYj4"
-      },
-      "artists": [
-        {
-          "name": "Adam Space",
-          "url": "https://open.spotify.com/artist/3q9oOLVN8jaGI6Ui3qB2LU"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "Beam Me Up",
-      "url": "https://open.spotify.com/track/4iuQ5DwUqpOXfazF3S4pHG"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "still images",
+        "url": "https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "duration_ms": 127146,
+      "name": "still images",
+      "url": "https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Days to Come",
         "url": "https://open.spotify.com/album/37mH8rqJLln47F6qdDssfW"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 138987,
       "name": "Paper Kites",
       "url": "https://open.spotify.com/track/6OVR1eAheHHPaiQVka10Mg"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "still images",
-        "url": "https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg"
-      },
-      "artists": [
-        {
-          "name": "slowburn",
-          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
-        }
-      ],
-      "duration_ms": 127146,
-      "name": "still images",
-      "url": "https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Maple Sunsets",
-        "url": "https://open.spotify.com/album/2iV1rlCaAVV88O8zyUSls2"
-      },
-      "artists": [
-        {
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Maple Sunsets",
-      "url": "https://open.spotify.com/track/42OVQFMwtsVVgND9Pl9RXm"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Deep Blue Dream",
         "url": "https://open.spotify.com/album/3CFaRM1b3dehFSsBaBcseB"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 181874,
       "name": "Deep Blue Dream",
       "url": "https://open.spotify.com/track/4f9InuUz4uZuN2970RymXW"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Maple Sunsets",
+        "url": "https://open.spotify.com/album/2iV1rlCaAVV88O8zyUSls2"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Maple Sunsets",
+      "url": "https://open.spotify.com/track/42OVQFMwtsVVgND9Pl9RXm"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
+        "name": "In The Clouds",
+        "url": "https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "duration_ms": 144644,
+      "name": "In The Clouds",
+      "url": "https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
         "name": "Leaves Fallin'",
         "url": "https://open.spotify.com/album/4F4jx6ZzR1SJ7Hl9BcZg4M"
       },
@@ -891,18 +907,50 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "In The Clouds",
-        "url": "https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e"
+        "name": "flying on the clouds",
+        "url": "https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr"
       },
       "artists": [
         {
-          "name": "ron quixote",
-          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+          "name": "Chapter IX",
+          "url": "https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV"
         }
       ],
-      "duration_ms": 144644,
-      "name": "In The Clouds",
-      "url": "https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp"
+      "duration_ms": 145687,
+      "name": "flying on the clouds",
+      "url": "https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Gravity of Love",
+        "url": "https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8"
+      },
+      "artists": [
+        {
+          "name": "Kadeen B",
+          "url": "https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV"
+        }
+      ],
+      "duration_ms": 171560,
+      "name": "Gravity of Love",
+      "url": "https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "Flower Lane",
+        "url": "https://open.spotify.com/album/2ymfobcYHMgqlJbiny2dXp"
+      },
+      "artists": [
+        {
+          "name": "JAKKARTA",
+          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
+        }
+      ],
+      "duration_ms": 164615,
+      "name": "Flower Lane",
+      "url": "https://open.spotify.com/track/4AOEnxBm3U2oZssIaRVpqZ"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -927,38 +975,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "Flower Lane",
-        "url": "https://open.spotify.com/album/2ymfobcYHMgqlJbiny2dXp"
-      },
-      "artists": [
-        {
-          "name": "JAKKARTA",
-          "url": "https://open.spotify.com/artist/3eLz5UQ0rdd11nJOXYLQhk"
-        }
-      ],
-      "duration_ms": 164615,
-      "name": "Flower Lane",
-      "url": "https://open.spotify.com/track/4AOEnxBm3U2oZssIaRVpqZ"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "flying on the clouds",
-        "url": "https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr"
-      },
-      "artists": [
-        {
-          "name": "Chapter IX",
-          "url": "https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV"
-        }
-      ],
-      "duration_ms": 145687,
-      "name": "flying on the clouds",
-      "url": "https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Now",
         "url": "https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 127624,
       "name": "Now",
       "url": "https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
-        "name": "Gravity of Love",
-        "url": "https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8"
-      },
-      "artists": [
-        {
-          "name": "Kadeen B",
-          "url": "https://open.spotify.com/artist/5lK2qWZmdr8c6wUgCvZ9XV"
-        }
-      ],
-      "duration_ms": 171560,
-      "name": "Gravity of Love",
-      "url": "https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a"
     },
     {
       "added_at": "2024-11-29 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-29 04:00:00",
       "album": {
-        "name": "raphael",
-        "url": "https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA"
-      },
-      "artists": [
-        {
-          "name": "v\u00e4dur",
-          "url": "https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ"
-        }
-      ],
-      "duration_ms": 154596,
-      "name": "raphael",
-      "url": "https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT"
-    },
-    {
-      "added_at": "2024-11-29 04:00:00",
-      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/1sOBZaf8YPRGzWfUiS0470"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 158709,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/12FNaRxFplk9Bs3fjpQzHM"
+    },
+    {
+      "added_at": "2024-11-29 04:00:00",
+      "album": {
+        "name": "raphael",
+        "url": "https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA"
+      },
+      "artists": [
+        {
+          "name": "v\u00e4dur",
+          "url": "https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ"
+        }
+      ],
+      "duration_ms": 154596,
+      "name": "raphael",
+      "url": "https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT"
     }
   ],
   "unique_name": "lofi autumn beats \ud83c\udf41\ud83c\udf42",

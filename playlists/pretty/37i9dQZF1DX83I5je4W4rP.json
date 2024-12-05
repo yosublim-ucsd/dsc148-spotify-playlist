@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1065193,
+  "num_followers": 1065160,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "30 Million",
-        "url": "https://open.spotify.com/album/6OEA1W5LBibGaEUjDUUayP"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        }
-      ],
-      "duration_ms": 218988,
-      "name": "30 Million",
-      "url": "https://open.spotify.com/track/2wQIm4WBXSSERoV1vANaLa"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Life's Been Good",
         "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 193950,
       "name": "Life's Been Good",
       "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "30 Million",
+        "url": "https://open.spotify.com/album/6OEA1W5LBibGaEUjDUUayP"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        }
+      ],
+      "duration_ms": 218988,
+      "name": "30 Million",
+      "url": "https://open.spotify.com/track/2wQIm4WBXSSERoV1vANaLa"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/34hn4C1a8hBHGuNZx5pwlY"
+      },
+      "artists": [
+        {
+          "name": "Rebelution",
+          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
+        }
+      ],
+      "duration_ms": 243173,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/26IEVYmeFletNA10cOkdBb"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "All The Colors",
         "url": "https://open.spotify.com/album/7jlmd4s5qcqzC197INOPgG"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 189094,
       "name": "Free Your Mind (with Surfer Girl)",
       "url": "https://open.spotify.com/track/1kqDm9FgV3DHWVYPxJ2J4c"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/34hn4C1a8hBHGuNZx5pwlY"
-      },
-      "artists": [
-        {
-          "name": "Rebelution",
-          "url": "https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc"
-        }
-      ],
-      "duration_ms": 243173,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/26IEVYmeFletNA10cOkdBb"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1611,6 +1611,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "Batshit Crazy",
+        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
+      },
+      "artists": [
+        {
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "duration_ms": 205142,
+      "name": "Batshit Crazy",
+      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
         "url": "https://open.spotify.com/album/2cOB7dxImpX61OMq5jNrs4"
       },
@@ -1635,26 +1655,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Batshit Crazy",
-        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
-      },
-      "artists": [
-        {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 205142,
-      "name": "Batshit Crazy",
-      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo"
       },
@@ -1667,30 +1667,6 @@
       "duration_ms": 186845,
       "name": "Love Her Anyways",
       "url": "https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Floating (with Iration & The Elovaters)",
-        "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        },
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Floating (with Iration & The Elovaters)",
-      "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1735,6 +1711,30 @@
       "duration_ms": 210184,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0n5AYrpFpBt61EtvMOUGnE"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Floating (with Iration & The Elovaters)",
+        "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
+      },
+      "artists": [
+        {
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        },
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Floating (with Iration & The Elovaters)",
+      "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1987,22 +1987,18 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Setting Out for the Sun",
-        "url": "https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm"
+        "name": "Welcome to Florida",
+        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
       },
       "artists": [
         {
-          "name": "Claire Wright",
-          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
-        },
-        {
-          "name": "Spencer Thomson",
-          "url": "https://open.spotify.com/artist/0b5jdstWHEgwmsYa8uSAFw"
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
         }
       ],
-      "duration_ms": 270228,
-      "name": "Setting Out for the Sun",
-      "url": "https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1"
+      "duration_ms": 170608,
+      "name": "Stayed",
+      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2023,18 +2019,22 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Welcome to Florida",
-        "url": "https://open.spotify.com/album/2KXGcDh6GlO33SPQb1uU7d"
+        "name": "Setting Out for the Sun",
+        "url": "https://open.spotify.com/album/28BjvlMeCTBtGJbkwZNfCm"
       },
       "artists": [
         {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+          "name": "Claire Wright",
+          "url": "https://open.spotify.com/artist/1f0rM0WH91u5j96lXeMdwn"
+        },
+        {
+          "name": "Spencer Thomson",
+          "url": "https://open.spotify.com/artist/0b5jdstWHEgwmsYa8uSAFw"
         }
       ],
-      "duration_ms": 170608,
-      "name": "Stayed",
-      "url": "https://open.spotify.com/track/2nxqGTJFYWsUW4CEDtd2Ww"
+      "duration_ms": 270228,
+      "name": "Setting Out for the Sun",
+      "url": "https://open.spotify.com/track/40LcGCfPY6eYPL3dJ7lll1"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "In The LBC (Warren G Remix)",
-        "url": "https://open.spotify.com/album/1blaIeHQWKD8RGYRbOgfRi"
-      },
-      "artists": [
-        {
-          "name": "4th & Orange",
-          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
-        },
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "In The LBC - Warren G Remix",
-      "url": "https://open.spotify.com/track/6kPq6t7eBrc3vmn4TYu76e"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "MEANT TO BE.",
         "url": "https://open.spotify.com/album/1z1gZm1jnGL881Iyq3ZF3g"
       },
@@ -2379,6 +2359,26 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
+        "name": "In The LBC (Warren G Remix)",
+        "url": "https://open.spotify.com/album/1blaIeHQWKD8RGYRbOgfRi"
+      },
+      "artists": [
+        {
+          "name": "4th & Orange",
+          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
+        },
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "In The LBC - Warren G Remix",
+      "url": "https://open.spotify.com/track/6kPq6t7eBrc3vmn4TYu76e"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
         "name": "Work That We Do",
         "url": "https://open.spotify.com/album/3C1lw128oB4uQjuFcEQlaj"
       },
@@ -2391,6 +2391,22 @@
       "duration_ms": 166880,
       "name": "Work That We Do",
       "url": "https://open.spotify.com/track/16yxo4Dq5hMohINfjX7DGz"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Fire On Your House",
+        "url": "https://open.spotify.com/album/3g7NOaCdpZgXCGlHRIKi2B"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 224710,
+      "name": "Fire On Your House",
+      "url": "https://open.spotify.com/track/7AYvZwW5W3beUA6mLO8MKe"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2415,22 +2431,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Fire On Your House",
-        "url": "https://open.spotify.com/album/3g7NOaCdpZgXCGlHRIKi2B"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 224710,
-      "name": "Fire On Your House",
-      "url": "https://open.spotify.com/track/7AYvZwW5W3beUA6mLO8MKe"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/30kvONotzSeqLplcsaa1SH"
       },
@@ -2451,26 +2451,6 @@
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/2MibDtCJiyd4PrJLouOYdV"
-      },
-      "artists": [
-        {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
-        },
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        }
-      ],
-      "duration_ms": 241870,
-      "name": "Nothing Lasts Forever",
-      "url": "https://open.spotify.com/track/7qinjgTnynlZGAdq8PCf4p"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
         "name": "Raise It (with Mihali)",
         "url": "https://open.spotify.com/album/36vE2H5ZUaBSl6KaihEVDT"
       },
@@ -2487,6 +2467,26 @@
       "duration_ms": 166948,
       "name": "Raise It (with Mihali)",
       "url": "https://open.spotify.com/track/1yUVIEiQH1JVI0iHIh5NKc"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/2MibDtCJiyd4PrJLouOYdV"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "duration_ms": 241870,
+      "name": "Nothing Lasts Forever",
+      "url": "https://open.spotify.com/track/7qinjgTnynlZGAdq8PCf4p"
     },
     {
       "added_at": "2024-07-26 04:00:00",

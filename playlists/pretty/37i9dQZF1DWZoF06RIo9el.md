@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 ### [Lo mejor del mes](https://open.spotify.com/playlist/37i9dQZF1DWZoF06RIo9el)
 
-> Lo mejor de noviembre 2024\. Cover: Rauw Alejandro
+> Lo mejor de diciembre 2024\. Cover: Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503,879 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,503,890 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 49 | [Haribo](https://open.spotify.com/track/1XpVy2vYivdz3asKnx8ZoU) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [EXPERIMENTO 0150](https://open.spotify.com/album/2uOGYjTrpuYDIcGcqAD3RW) | 2:34 |
 | 50 | [Escudo](https://open.spotify.com/track/13z5gkVyAKUUWb0Enb0tDQ) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO), [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Escudo](https://open.spotify.com/album/3rCucNvlPnzPoUThvAbY8j) | 2:51 |
 
-Snapshot ID: `Z030ngAAAABTkkEzFpf5WS7U7yQPIzJX`
+Snapshot ID: `Z1B+xQAAAAAKqwRY4JpDsfIb7ExNA9pE`
